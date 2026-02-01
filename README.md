@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Neuromorphic KV store in Zig](https://dev.to/brharrelldev/neuromorphic-kv-store-in-zig-4hnc)
-- [Understanding Schemas and Data modeling in Power BI](https://dev.to/geraldm/understanding-schemas-and-data-modeling-in-power-bi-1okk)
-- [New Year, New You: A Luxury iOS Dev Portfolio Powered by Antigravity](https://dev.to/aryanarayantiwari/new-year-new-you-a-luxury-ios-dev-portfolio-powered-by-antigravity-3l4m)
-- [No, AI Is Not Stealing All of Our Drinking Water](https://dev.to/mjlynch123/no-ai-is-not-stealing-all-of-our-drinking-water-3k3d)
+- [[Boost]](https://dev.to/cicirello/-29k9)
+- [Schemas &amp; Data Modelling in Power BI](https://dev.to/owera/schemas-data-modelling-in-power-bi-5gln)
+- [Under the Hood of Bitcoin: UTXO Lifecycle, Script Execution, and Practical Debugging](https://dev.to/aaayushhh/under-the-hood-of-bitcoin-utxo-lifecycle-script-execution-and-practical-debugging-5apa)
+- [Building Event-Driven Observability on AWS Serverless &lpar;Part 1&rpar;](https://dev.to/aws-builders/building-event-driven-observability-on-aws-serverless-part-1-2m6j)
 <!-- BLOG-POST-LIST:END -->
 
 
