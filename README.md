@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Budget Strategies for Optimizing Slow Queries in React Apps](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-strategies-for-optimizing-slow-queries-in-react-apps-23l)
-- [Overcoming Geo-Blocking in Enterprise React Applications: A Senior Architect’s Approach to Testing](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocking-in-enterprise-react-applications-a-senior-architects-approach-to-testing-45eg)
-- [5 Mistakes That 99% Developers Make While Writing HTML or JSX 🚫💻](https://dev.to/hamidrazadev/5-mistakes-that-99-developers-make-while-writing-html-or-jsx-2b58)
-- [Solving Geo-Blocked Feature Testing with SQL on a Zero Budget](https://dev.to/mohammad_waseem_c31f3a26f/solving-geo-blocked-feature-testing-with-sql-on-a-zero-budget-4pno)
+- [Auracrab 🦀 daemon](https://dev.to/nathfavour/auracrab-daemon-f36)
+- [KU HACKFEST 2025 Experience](https://dev.to/prajwal_up/ku-hackfest-2025-experience-3n9n)
+- [Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions](https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07)
+- [How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?](https://dev.to/ranikumari889/how-is-this-static-website-doing-p2p-chat-rooms-and-video-calls-22mf)
 <!-- BLOG-POST-LIST:END -->
 
 
