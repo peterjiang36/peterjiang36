@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Profanity Filtering to Your OpenClaw | Moltbot Clawdbot Agent](https://dev.to/thegdsks/how-to-add-profanity-filtering-to-your-openclawmoltbotclawdbot-agent-hbi)
-- [AI Agents Are Becoming Digital Citizens](https://dev.to/sreeni5018/ai-agents-are-becoming-digital-citizens-1dkn)
-- [The Thing You&#39;re Avoiding Is Probably the Thing That Matters Most](https://dev.to/magriux/the-thing-youre-avoiding-is-probably-the-thing-that-matters-most-1k55)
-- [An ablation study on security outcomes: Which parts of an AI skill actually matter?](https://dev.to/shadab_nazar/an-ablation-study-on-security-outcomes-which-parts-of-an-ai-skill-actually-matter-18b0)
+- [Great Refactor Initiative: AI Transforms Critical Code to Rust](https://dev.to/alexmorgantech/great-refactor-initiative-ai-transforms-critical-code-to-rust-4e74)
+- [C# 14 extension blocks](https://dev.to/karenpayneoregon/c-14-extension-blocks-1d6k)
+- [How I Solved Streamlit Session Persistence &lpar;After 3 Failed Attempts&rpar;](https://dev.to/hendrixaidev/how-i-solved-streamlit-session-persistence-after-3-failed-attempts-b4c)
+- [Overcoming Geo-Restrictions: A Linux-Based Approach for Testing Blocked Features](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-restrictions-a-linux-based-approach-for-testing-blocked-features-2pe3)
 <!-- BLOG-POST-LIST:END -->
 
 
