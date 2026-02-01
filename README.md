@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auracrab 🦀 daemon](https://dev.to/nathfavour/auracrab-daemon-f36)
-- [KU HACKFEST 2025 Experience](https://dev.to/prajwal_up/ku-hackfest-2025-experience-3n9n)
-- [Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions](https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07)
-- [How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?](https://dev.to/ranikumari889/how-is-this-static-website-doing-p2p-chat-rooms-and-video-calls-22mf)
+- [From Zero to AI: How I Built an Interactive Portfolio with Google Antigravity &amp; Gemini &lpar;Zero Investment Challenge&rpar;](https://dev.to/keerthana_696356/from-zero-to-ai-how-i-built-an-interactive-portfolio-with-google-antigravity-gemini-zero-1l2)
+- [Scaling Legacy Systems: Strategies for Massive Load Testing on Linux](https://dev.to/mohammad_waseem_c31f3a26f/scaling-legacy-systems-strategies-for-massive-load-testing-on-linux-19m1)
+- [Help Wanted: Kernel Developers Needed to Build AI-Native Boot Infrastructure](https://dev.to/hejhdiss/help-wanted-kernel-developers-needed-to-build-ai-native-boot-infrastructure-297o)
+- [CDK - Using Central Register Pattern for Resource Sharing](https://dev.to/tyckofranklin/cdk-using-central-register-pattern-for-resource-sharing-27k2)
 <!-- BLOG-POST-LIST:END -->
 
 
