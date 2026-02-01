@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
-- [Taming the Chaos: How a DevOps Specialist Cleaned Dirty Data with Web Scraping Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/taming-the-chaos-how-a-devops-specialist-cleaned-dirty-data-with-web-scraping-without-documentation-4h7i)
-- [Securing Test Environments: How SQL Scripts Eliminated PII Leakage Under Pressure](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-sql-scripts-eliminated-pii-leakage-under-pressure-26mk)
-- [Leveraging Linux for Spam Trap Prevention in Microservices Security](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-spam-trap-prevention-in-microservices-security-la4)
+- [🛡️ Ethics Guardian: Proactive AI Governance powered by Algolia Agent Studio](https://dev.to/tahiryamin/ethics-guardian-proactive-ai-governance-powered-by-algolia-agent-studio-5dh4)
+- [Debug a Coding Journey Blog Page](https://dev.to/richardpascoe/debug-a-coding-journey-blog-page-i87)
+- [Mastering java 8 &lpar;Lambda expression &amp; functional interface&rpar; - day 2](https://dev.to/sona_08/mastering-java-8-day-1-27k7)
+- [A beginners guide to Git and Github](https://dev.to/joyting-gif/a-beginners-guide-to-git-and-github-465l)
 <!-- BLOG-POST-LIST:END -->
 
 
