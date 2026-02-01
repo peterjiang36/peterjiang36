@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Master Your Laravel Queues: Introducing Laravel Job Monitor](https://dev.to/jsandaruwan/master-your-laravel-queues-introducing-laravel-job-monitor-505m)
-- [Excel For Data Analytics: Beginner Friendly Overview.](https://dev.to/seme_clive_4242bd50f332cb/excel-for-data-analytics-beginner-friendly-overview-3m8)
-- [How does Tab Order work in the DOM?](https://dev.to/thesnehamk/how-does-tab-order-work-in-the-dom-1k37)
-- [[System Design] Scaling for User Growth](https://dev.to/jonghwayoo3_dev/system-design-scaling-for-user-growth-ljg)
+- [Neuromorphic KV store in Zig](https://dev.to/brharrelldev/neuromorphic-kv-store-in-zig-4hnc)
+- [Understanding Schemas and Data modeling in Power BI](https://dev.to/geraldm/understanding-schemas-and-data-modeling-in-power-bi-1okk)
+- [New Year, New You: A Luxury iOS Dev Portfolio Powered by Antigravity](https://dev.to/aryanarayantiwari/new-year-new-you-a-luxury-ios-dev-portfolio-powered-by-antigravity-3l4m)
+- [No, AI Is Not Stealing All of Our Drinking Water](https://dev.to/mjlynch123/no-ai-is-not-stealing-all-of-our-drinking-water-3k3d)
 <!-- BLOG-POST-LIST:END -->
 
 
