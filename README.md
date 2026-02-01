@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplifying Qt6 CI on GitHub Actions with a Docker-Based CMake Build Environment](https://dev.to/accvcc/simplifying-qt6-ci-on-github-actions-with-a-docker-based-cmake-build-environment-33bp)
-- [The Essence of Google-Style Code Review: A Culture of &#39;Improvement&#39; Over &#39;Perfection&#39;](https://dev.to/kanywst/the-essence-of-google-style-code-review-a-culture-of-improvement-over-perfection-566f)
-- [I Can See My Success in My Mind’s Eye](https://dev.to/art_light/i-can-see-my-success-in-my-minds-eye-3m8f)
-- [The Jungle Protocol: Turning my Professional Journey into an Adaptive Quest](https://dev.to/hrishikesh_dalal_ced8f95e/the-jungle-protocol-turning-my-professional-journey-into-an-adaptive-quest-3p4m)
+- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
+- [Taming the Chaos: How a DevOps Specialist Cleaned Dirty Data with Web Scraping Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/taming-the-chaos-how-a-devops-specialist-cleaned-dirty-data-with-web-scraping-without-documentation-4h7i)
+- [Securing Test Environments: How SQL Scripts Eliminated PII Leakage Under Pressure](https://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-sql-scripts-eliminated-pii-leakage-under-pressure-26mk)
+- [Leveraging Linux for Spam Trap Prevention in Microservices Security](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-spam-trap-prevention-in-microservices-security-la4)
 <!-- BLOG-POST-LIST:END -->
 
 
