@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Custom Agent 설계 여정: Agent 중심에서 Task 중심으로](https://dev.to/wes5510/claude-code-custom-agent-seolgye-yeojeong-agent-jungsimeseo-task-jungsimeuro-4954)
-- [We&#39;re Two Years Away From Mass Unemployment And The Race to Superintelligence Won&#39;t Stop](https://dev.to/roshansharma17/were-two-years-away-from-mass-unemployment-and-the-race-to-superintelligence-wont-stop-4ja8)
-- [How to Get Started and Build with Gemini CLI &lpar;Powered by Gemini 3 Flash&rpar;](https://dev.to/leslysandra/how-to-get-started-and-build-with-gemini-cli-powered-by-gemini-3-flash-2mcc)
-- [New Year, New You: Architecting a High-Performance AI Portfolio using Python and Gemini](https://dev.to/arunshinde/new-year-new-you-architecting-a-high-performance-ai-portfolio-using-python-and-gemini-4amm)
+- [The “Open Do Close” Rule That Changed How I Build Tools](https://dev.to/bhavin-allinonetools/the-open-do-close-rule-that-changed-how-i-build-tools-3p40)
+- [Engineering Management Nugget #6: From Firefighting to Architecting](https://dev.to/lek890/engineering-management-nugget-6-from-firefighting-to-architecting-2pme)
+- [Rapid Detection of Phishing Patterns with React: A Developer’s Quest Under Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-detection-of-phishing-patterns-with-react-a-developers-quest-under-deadlines-32i8)
+- [Fix CORS, SQL Injection &amp; MySQL Pooling in React + Node.js](https://dev.to/vasughanta09/fix-cors-sql-injection-mysql-pooling-in-react-nodejs-49jo)
 <!-- BLOG-POST-LIST:END -->
 
 
