@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WarriorOS: Building a Modern Terminal Portfolio with React, Gemini, and Cloud Run](https://dev.to/ankushsinghgandhi/warrioros-building-a-modern-terminal-portfolio-with-react-gemini-and-cloud-run-ehj)
-- [AI Won&#39;t Replace Developers — But We Are Already Outsourcing Our Thinking](https://dev.to/danieldare/ai-wont-replace-developers-but-we-are-already-outsourcing-our-thinking-3el7)
-- [Mastering TypeScript Utility Types: Part 3 — Building Custom Utilities](https://dev.to/mandy8055/mastering-typescript-utility-types-part-3-building-custom-utilities-1c2c)
-- [Automated Code Quality: Using SonarQube Quality Gates to Enforce Cleaner Codebases](https://dev.to/actocodes/automated-code-quality-using-sonarqube-quality-gates-to-enforce-cleaner-codebases-53c0)
+- [I Texted &#39;Clean My Desktop&#39; From My Phone. 30 Seconds Later, It Was Done.](https://dev.to/jaskirat_singh/i-texted-clean-my-desktop-from-my-phone-30-seconds-later-it-was-done-559j)
+- [Cache Organization: How SQLite Actually Holds Pages in Memory](https://dev.to/lovestaco/cache-organization-how-sqlite-actually-holds-pages-in-memory-1fj6)
+- [Como testar a performance de queries em banco de dados usando K6.](https://dev.to/marlo2222/como-testar-a-performance-de-queries-em-banco-de-dados-usando-k6-29g1)
+- [Introducing etcdfinder - A lightning‑fast🚀, modern UI for etcd](https://dev.to/m4l1c1ou5/introducing-etcdfinder-67b)
 <!-- BLOG-POST-LIST:END -->
 
 
