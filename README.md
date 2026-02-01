@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Great Refactor Initiative: AI Transforms Critical Code to Rust](https://dev.to/alexmorgantech/great-refactor-initiative-ai-transforms-critical-code-to-rust-4e74)
-- [C# 14 extension blocks](https://dev.to/karenpayneoregon/c-14-extension-blocks-1d6k)
-- [How I Solved Streamlit Session Persistence &lpar;After 3 Failed Attempts&rpar;](https://dev.to/hendrixaidev/how-i-solved-streamlit-session-persistence-after-3-failed-attempts-b4c)
-- [Overcoming Geo-Restrictions: A Linux-Based Approach for Testing Blocked Features](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-restrictions-a-linux-based-approach-for-testing-blocked-features-2pe3)
+- [C++ Signatures: It’s Not Just About Performance, It’s About Ownership](https://dev.to/granza/c-signatures-its-not-just-about-performance-its-about-ownership-2hi7)
+- [The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p)
+- [What Really Happens When You Press the Power Button on Your Computer? The Boot Process Explained for Beginners](https://dev.to/amadu9933/what-really-happens-when-you-press-the-power-button-on-your-computer-the-boot-process-explained-57i8)
+- [The Missing Piece in Angular i18n](https://dev.to/atheodosiou/the-missing-piece-in-angular-i18n-57m0)
 <!-- BLOG-POST-LIST:END -->
 
 
