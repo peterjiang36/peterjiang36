@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cicirello/-29k9)
-- [Schemas &amp; Data Modelling in Power BI](https://dev.to/owera/schemas-data-modelling-in-power-bi-5gln)
-- [Under the Hood of Bitcoin: UTXO Lifecycle, Script Execution, and Practical Debugging](https://dev.to/aaayushhh/under-the-hood-of-bitcoin-utxo-lifecycle-script-execution-and-practical-debugging-5apa)
-- [Building Event-Driven Observability on AWS Serverless &lpar;Part 1&rpar;](https://dev.to/aws-builders/building-event-driven-observability-on-aws-serverless-part-1-2m6j)
+- [#Schemas and Data Modelling in Power BI](https://dev.to/victak36lgtm/schemas-and-data-modelling-in-power-bi-1ad9)
+- [Algorithmes combinatoires pour résoudre des problèmes réels : Guide pratique](https://dev.to/asma_saci_86c92f536762808/algorithmes-combinatoires-pour-resoudre-des-problemes-reels-guide-pratique-1gfn)
+- [vLLM — Session 2: The Engine Layer — Request Management](https://dev.to/c2sea/vllm-session-2-the-engine-layer-request-management-4dg2)
+- [Session 1: vLLM Overview and the User API](https://dev.to/c2sea/session-1-vllm-overview-and-the-user-api-2406)
 <!-- BLOG-POST-LIST:END -->
 
 
