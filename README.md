@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Texted &#39;Clean My Desktop&#39; From My Phone. 30 Seconds Later, It Was Done.](https://dev.to/jaskirat_singh/i-texted-clean-my-desktop-from-my-phone-30-seconds-later-it-was-done-559j)
-- [Cache Organization: How SQLite Actually Holds Pages in Memory](https://dev.to/lovestaco/cache-organization-how-sqlite-actually-holds-pages-in-memory-1fj6)
-- [Como testar a performance de queries em banco de dados usando K6.](https://dev.to/marlo2222/como-testar-a-performance-de-queries-em-banco-de-dados-usando-k6-29g1)
-- [Introducing etcdfinder - A lightning‑fast🚀, modern UI for etcd](https://dev.to/m4l1c1ou5/introducing-etcdfinder-67b)
+- [Master Your Laravel Queues: Introducing Laravel Job Monitor](https://dev.to/jsandaruwan/master-your-laravel-queues-introducing-laravel-job-monitor-505m)
+- [Excel For Data Analytics: Beginner Friendly Overview.](https://dev.to/seme_clive_4242bd50f332cb/excel-for-data-analytics-beginner-friendly-overview-3m8)
+- [How does Tab Order work in the DOM?](https://dev.to/thesnehamk/how-does-tab-order-work-in-the-dom-1k37)
+- [[System Design] Scaling for User Growth](https://dev.to/jonghwayoo3_dev/system-design-scaling-for-user-growth-ljg)
 <!-- BLOG-POST-LIST:END -->
 
 
