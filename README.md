@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VAIDAS: Real-Time ADAS Inference on VAI Architecture](https://dev.to/wiowiztech/vaidas-real-time-adas-inference-on-vai-architecture-4d1o)
-- [🛂 Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost II&#39; - Problem 3013 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-ii-problem-3013-2en5)
-- [No Redis Required: Zero-Config Job Queue for Bun](https://dev.to/egeominotti/no-redis-required-zero-config-job-queue-for-bun-1fn8)
-- [My stumbles to my presentation page](https://dev.to/stma/my-stumbles-to-my-presentation-page-31ii)
+- [MY REAL ROOM AS MY 3D PORTFOLIO](https://dev.to/suvo-dev/my-real-room-as-my-3d-portfolio-196e)
+- [GitHub Repository Intelligence Assistant](https://dev.to/simranshaikh20_50/github-repository-intelligence-assistant-1lk6)
+- [📨 Build an Email Validation Tool with Python &amp; Tkinter &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/build-an-email-validation-tool-with-python-tkinter-step-by-step-fi8)
+- [Programming Principles in the Age of AI: DRY](https://dev.to/kirill_tolmachev/programming-principles-in-the-age-of-ai-dry-1klo)
 <!-- BLOG-POST-LIST:END -->
 
 
