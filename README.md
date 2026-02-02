@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Attendance Management System | Full-Stack Project](https://dev.to/karthikav_tkm_4e6cf04b18/attendance-management-system-full-stack-project-3gf)
-- [Built this comprehensive guide in Tamil, but the code speaks English! Get the full picture by using the browser&#39;s translate feature. Appreciate any feedback and engagement from the DEV community! 
-#Web development.](https://dev.to/thiraisuvadu_dev/built-this-comprehensive-guide-in-tamil-but-the-code-speaks-english-get-the-full-picture-by-using-2abj)
-- [Securing Massive Load Tests: A DevOps Approach Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/securing-massive-load-tests-a-devops-approach-without-documentation-4i2e)
-- [Why CI Pipelines Fail](https://dev.to/infraforgelabs/why-ci-pipelines-fail-339l)
+- [Built Reddit like community with AutoBe and AutoView &lpar;gpt-4.1-mini and qwen3-235b-a22b&rpar;](https://dev.to/samchon/built-reddit-like-community-with-autobe-and-autoview-gpt-41-mini-and-qwen3-235b-a22b-1h85)
+- [Succeeded to build full-level backend application with &quot;qwen3-235b-a22b&quot; in AutoBE](https://dev.to/samchon/succeeded-to-build-full-level-backend-application-with-qwen3-235b-a22b-in-autobe-1cfa)
+- [Everyone Knows You&#39;re Using AI: Part 1](https://dev.to/aruntemme/everyone-knows-youre-using-ai-part-1-3k4m)
+- [Schemas And Data Modelling in Power BI](https://dev.to/motanga/schemas-and-data-modelling-in-power-bi-45h9)
 <!-- BLOG-POST-LIST:END -->
 
 
