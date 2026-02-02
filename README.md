@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Didn’t Get MCP Until I Built One](https://dev.to/dvddpl/i-didnt-get-mcp-until-i-built-one-20c5)
-- [𝗪𝗵𝘆 𝗘𝘃𝗲𝗿𝘆 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗦𝗵𝗼𝘂𝗹𝗱 𝗖𝗮𝗿𝗲 𝗔𝗯𝗼𝘂𝘁 𝗠𝗖𝗣](https://dev.to/faisalmahamud/-4jmm)
-- [I built a tactical tool for Marvel Rivals using Astro, React, and Open Data](https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o)
-- [A Portfolio Powered by Antigravity and Gemini Tools](https://dev.to/jerson419/a-portfolio-powered-by-antigravity-and-gemini-tools-26ec)
+- [The &quot;Invisible Cache&quot;: Troubleshooting Next.js + Django Redis Mismatches](https://dev.to/ajitkumar/the-invisible-cache-troubleshooting-nextjs-django-redis-mismatches-46cn)
+- [From Memes to Manifestos: What 1.4M AI Agents Are Really Talking About on Moltbook 🐜](https://dev.to/thebitforge/from-memes-to-manifestos-what-14m-ai-agents-are-really-talking-about-on-moltbook-2fa2)
+- [Neon: The Serverless PostgreSQL That&#39;s Changing Backend Development](https://dev.to/manojsingh00963/neon-the-serverless-postgresql-thats-changing-backend-development-og3)
+- [Following Back: My Approach](https://dev.to/richardpascoe/following-back-my-approach-33ai)
 <!-- BLOG-POST-LIST:END -->
 
 
