@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [roberto bot](https://dev.to/0011diego/roberto-bot-3c2j)
-- [Sharing lessons and trade-offs from building a Windows admin tool in .NET 8.
-Would love feedback from people experienced with WPF, async code, or Windows internals.](https://dev.to/fbnoname/sharing-lessons-and-trade-offs-from-building-a-windows-admin-tool-in-net-8-would-love-feedback-55ik)
-- [Introducing SuperClaw: Red-Team OpenClaw Agents Before They Red-Team You](https://dev.to/shashikant86/introducing-superclaw-red-team-openclaw-agents-before-they-red-team-you-45od)
-- [36.Security Group Variable Setup Using Terraform](https://dev.to/thukhakyawe_cloud/36security-group-variable-setup-using-terraform-1hdg)
+- [VAIDAS: Real-Time ADAS Inference on VAI Architecture](https://dev.to/wiowiztech/vaidas-real-time-adas-inference-on-vai-architecture-4d1o)
+- [🛂 Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost II&#39; - Problem 3013 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-ii-problem-3013-2en5)
+- [No Redis Required: Zero-Config Job Queue for Bun](https://dev.to/egeominotti/no-redis-required-zero-config-job-queue-for-bun-1fn8)
+- [My stumbles to my presentation page](https://dev.to/stma/my-stumbles-to-my-presentation-page-31ii)
 <!-- BLOG-POST-LIST:END -->
 
 
