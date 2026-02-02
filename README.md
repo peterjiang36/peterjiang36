@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Sharity: Your Universal Music Link Converter](https://dev.to/sikelio/music-sharity-your-universal-music-link-converter-1500)
-- [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
-- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
-- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1k8b)
+- [Agent Factory Recap: Antigravity and Nano Banana Pro with Remik](https://dev.to/googleai/agent-factory-recap-antigravity-and-nano-banana-pro-with-remik-55c5)
+- [Choosing What to Learn Is Harder Than Learning](https://dev.to/learning_dev/choosing-what-to-learn-is-harder-than-learning-48n4)
+- [I am so done here. The slop is overwhelming.](https://dev.to/taikedz/i-am-so-done-here-the-slop-is-overwhelming-43gm)
+- [A Practical GitFlow Setup That Works on GitHub](https://dev.to/this-is-learning/a-practical-gitflow-setup-that-works-on-github-46lb)
 <!-- BLOG-POST-LIST:END -->
 
 
