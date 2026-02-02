@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [git commit -m &quot;Initial Commit&quot;](https://dev.to/likhit/git-commit-m-initial-commit-2dgb)
-- [The 10-Line Semantic Firewall That Stopped 60% of Our RAG Hallucinations](https://dev.to/mossforge/the-10-line-semantic-firewall-that-stopped-60-of-our-rag-hallucinations-51k0)
-- [Authentication vs Object Authorization: The API Security Mistake Everyone Makes](https://dev.to/yogsec/authentication-vs-object-authorization-the-api-security-mistake-everyone-makes-4aa4)
-- [Andrew Huang: February livestream!](https://dev.to/music_youtube/andrew-huang-february-livestream-4jbg)
+- [The Thinking Machines: How AI Learned to Reason Step-by-Step](https://dev.to/ruchika_bhat_876f8530fa3b/the-thinking-machines-how-ai-learned-to-reason-step-by-step-7eg)
+- [Learning to Code Is Hard — But We Make It Harder](https://dev.to/msrajput08/learning-to-code-is-hard-but-we-make-it-harder-4800)
+- [Schemas and Data Modelling in Power B.I](https://dev.to/davi__mungai/schemas-and-data-modelling-in-power-bi-36h1)
+- [How I Identify the Right DSA Pattern &lpar;Before Writing Any Code&rpar;](https://dev.to/rasoolk16/how-i-identify-the-right-dsa-pattern-before-writing-any-code-inb)
 <!-- BLOG-POST-LIST:END -->
 
 
