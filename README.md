@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 WebRTC Trends Shaping Real-Time Communication in 2026](https://dev.to/alakkadshaw/7-webrtc-trends-shaping-real-time-communication-in-2026-1o07)
-- [Data modelling for Dummies: Because your data shouldn&#39;t live in a dumpster.](https://dev.to/ngigi_nyawira_a938a3f3847/data-modelling-for-dummies-because-your-data-shouldnt-live-in-a-dumpster-1l3o)
-- [9. Flexbox](https://dev.to/avery_/9-flexbox-5eai)
-- [COLORS: Ariane Bonzini - J’ai besoin de toi | A COLORS SHOW](https://dev.to/music_youtube/colors-ariane-bonzini-jai-besoin-de-toi-a-colors-show-379p)
+- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-5gag)
+- [JDK](https://dev.to/jegadeshwaran_b_b86e7dd1a/jdk-3f5e)
+- [I just spent an hour restarting GitHub Actions over and over before checking GitHub status to see they&#39;re down 😭
+
+I just wasn&#39;t thinking that hard about the situation. As soon as I clicked my brain on I thought to check.](https://dev.to/ben/i-just-spent-an-hour-restarting-github-actions-over-and-over-before-checking-github-status-to-see-2nap)
+- [Switch Claude Code providers in seconds with claude-provider &lpar;Plugin + CLI&rpar;](https://dev.to/rashed_iqbal/switch-claude-code-providers-in-seconds-with-claude-provider-plugin-cli-3719)
 <!-- BLOG-POST-LIST:END -->
 
 
