@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Invisible Cache&quot;: Troubleshooting Next.js + Django Redis Mismatches](https://dev.to/ajitkumar/the-invisible-cache-troubleshooting-nextjs-django-redis-mismatches-46cn)
-- [From Memes to Manifestos: What 1.4M AI Agents Are Really Talking About on Moltbook 🐜](https://dev.to/thebitforge/from-memes-to-manifestos-what-14m-ai-agents-are-really-talking-about-on-moltbook-2fa2)
-- [Neon: The Serverless PostgreSQL That&#39;s Changing Backend Development](https://dev.to/manojsingh00963/neon-the-serverless-postgresql-thats-changing-backend-development-og3)
-- [Following Back: My Approach](https://dev.to/richardpascoe/following-back-my-approach-33ai)
+- [Why Your AI Gateway Needs MCP Integration in 2026](https://dev.to/varshithvhegde/why-your-ai-gateway-needs-mcp-integration-in-2026-3dcf)
+- [Got First 500 Users for your AI product as an Indie-（To be continued&rpar;](https://dev.to/simba_ji/how-we-got-our-first-500-userto-be-continued-7e5)
+- [I Built a Full-Stack E-Commerce App with Admin Dashboard Using Next.js](https://dev.to/rajaabbas2002/i-built-a-full-stack-e-commerce-app-with-admin-dashboard-using-nextjs-1j3l)
+- [How One Complex Problem Becomes Two Simple Ones: An ARP Mental Model](https://dev.to/micheal_angelo_41cea4e81a/how-one-complex-problem-becomes-two-simple-ones-an-arp-mental-model-4365)
 <!-- BLOG-POST-LIST:END -->
 
 
