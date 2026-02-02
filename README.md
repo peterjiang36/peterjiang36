@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevRel When the Ecosystem Is Still Taking Shape](https://dev.to/devsofmidnight/devrel-when-the-ecosystem-is-still-taking-shape-dh8)
-- [From Idea to Prototype in Minutes: Building My AI Portfolio with Antigravity](https://dev.to/ntombizakhona/from-idea-to-prototype-in-minutes-building-my-ai-portfolio-with-antigravity-kmm)
-- [Bridging vs Bonding in Linux Networking – Explained with Real-Life Analogies](https://dev.to/dporwal/bridging-vs-bonding-in-linux-networking-explained-with-real-life-analogies-51ek)
-- [Master and Slave Databases — the unsung heroes behind smooth apps](https://dev.to/faisalmahamud/master-and-slave-databases-the-unsung-heroes-behind-smooth-apps-5bbo)
+- [I Didn’t Get MCP Until I Built One](https://dev.to/dvddpl/i-didnt-get-mcp-until-i-built-one-20c5)
+- [𝗪𝗵𝘆 𝗘𝘃𝗲𝗿𝘆 𝗔𝗜 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗦𝗵𝗼𝘂𝗹𝗱 𝗖𝗮𝗿𝗲 𝗔𝗯𝗼𝘂𝘁 𝗠𝗖𝗣](https://dev.to/faisalmahamud/-4jmm)
+- [I built a tactical tool for Marvel Rivals using Astro, React, and Open Data](https://dev.to/lei_zhang_3cd1b1ddb6debf9/i-built-a-tactical-tool-for-marvel-rivals-using-astro-react-and-open-data-2c4o)
+- [A Portfolio Powered by Antigravity and Gemini Tools](https://dev.to/jerson419/a-portfolio-powered-by-antigravity-and-gemini-tools-26ec)
 <!-- BLOG-POST-LIST:END -->
 
 
