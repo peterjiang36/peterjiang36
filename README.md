@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Thinking Machines: How AI Learned to Reason Step-by-Step](https://dev.to/ruchika_bhat_876f8530fa3b/the-thinking-machines-how-ai-learned-to-reason-step-by-step-7eg)
-- [Learning to Code Is Hard — But We Make It Harder](https://dev.to/msrajput08/learning-to-code-is-hard-but-we-make-it-harder-4800)
-- [Schemas and Data Modelling in Power B.I](https://dev.to/davi__mungai/schemas-and-data-modelling-in-power-bi-36h1)
-- [How I Identify the Right DSA Pattern &lpar;Before Writing Any Code&rpar;](https://dev.to/rasoolk16/how-i-identify-the-right-dsa-pattern-before-writing-any-code-inb)
+- [7 WebRTC Trends Shaping Real-Time Communication in 2026](https://dev.to/alakkadshaw/7-webrtc-trends-shaping-real-time-communication-in-2026-1o07)
+- [Data modelling for Dummies: Because your data shouldn&#39;t live in a dumpster.](https://dev.to/ngigi_nyawira_a938a3f3847/data-modelling-for-dummies-because-your-data-shouldnt-live-in-a-dumpster-1l3o)
+- [9. Flexbox](https://dev.to/avery_/9-flexbox-5eai)
+- [COLORS: Ariane Bonzini - J’ai besoin de toi | A COLORS SHOW](https://dev.to/music_youtube/colors-ariane-bonzini-jai-besoin-de-toi-a-colors-show-379p)
 <!-- BLOG-POST-LIST:END -->
 
 
