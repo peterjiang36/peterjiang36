@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault CLI Part 3: Plugin Management and General CRUD Operations](https://dev.to/admantium/hashicorp-vault-cli-part-3-plugin-management-and-general-crud-operations-1np0)
-- [Deserializing Polymorphic JSON in .NET Without Losing Type Safety](https://dev.to/pbouillon/deserializing-polymorphic-json-in-net-without-losing-type-safety-4o4d)
-- [GitHub as CMS: Modular, Effortless Developer Portfolio](https://dev.to/naveen_gaur/github-as-cms-modular-effortless-developer-portfolio-1dc6)
-- [Operators](https://dev.to/nanthini_ammu_ac02ad32802/operators-5895)
+- [DevRel When the Ecosystem Is Still Taking Shape](https://dev.to/devsofmidnight/devrel-when-the-ecosystem-is-still-taking-shape-dh8)
+- [From Idea to Prototype in Minutes: Building My AI Portfolio with Antigravity](https://dev.to/ntombizakhona/from-idea-to-prototype-in-minutes-building-my-ai-portfolio-with-antigravity-kmm)
+- [Bridging vs Bonding in Linux Networking – Explained with Real-Life Analogies](https://dev.to/dporwal/bridging-vs-bonding-in-linux-networking-explained-with-real-life-analogies-51ek)
+- [Master and Slave Databases — the unsung heroes behind smooth apps](https://dev.to/faisalmahamud/master-and-slave-databases-the-unsung-heroes-behind-smooth-apps-5bbo)
 <!-- BLOG-POST-LIST:END -->
 
 
