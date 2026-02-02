@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Factory Recap: Antigravity and Nano Banana Pro with Remik](https://dev.to/googleai/agent-factory-recap-antigravity-and-nano-banana-pro-with-remik-55c5)
-- [Choosing What to Learn Is Harder Than Learning](https://dev.to/learning_dev/choosing-what-to-learn-is-harder-than-learning-48n4)
-- [I am so done here. The slop is overwhelming.](https://dev.to/taikedz/i-am-so-done-here-the-slop-is-overwhelming-43gm)
-- [A Practical GitFlow Setup That Works on GitHub](https://dev.to/this-is-learning/a-practical-gitflow-setup-that-works-on-github-46lb)
+- [Сrypto needs to feel as brainless as sending a DM...](https://dev.to/crypto_melania/srypto-needs-to-feel-as-brainless-as-sending-a-dm-18k4)
+- [Building a Spring Boot Microservices Project: Architecture, Workflow, and Learnings](https://dev.to/nirmalravidas/building-a-spring-boot-microservices-project-architecture-workflow-and-learnings-14bc)
+- [A Small Lesson I Learned the Hard Way](https://dev.to/linediconsine/a-small-lesson-i-learned-the-hard-way-g4l)
+- [Why I Avoid PHP Traits &lpar;And What I Use Instead&rpar;](https://dev.to/tegos/why-i-avoid-php-traits-and-what-i-use-instead-1288)
 <!-- BLOG-POST-LIST:END -->
 
 
