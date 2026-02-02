@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Built Reddit like community with AutoBe and AutoView &lpar;gpt-4.1-mini and qwen3-235b-a22b&rpar;](https://dev.to/samchon/built-reddit-like-community-with-autobe-and-autoview-gpt-41-mini-and-qwen3-235b-a22b-1h85)
-- [Succeeded to build full-level backend application with &quot;qwen3-235b-a22b&quot; in AutoBE](https://dev.to/samchon/succeeded-to-build-full-level-backend-application-with-qwen3-235b-a22b-in-autobe-1cfa)
-- [Everyone Knows You&#39;re Using AI: Part 1](https://dev.to/aruntemme/everyone-knows-youre-using-ai-part-1-3k4m)
-- [Schemas And Data Modelling in Power BI](https://dev.to/motanga/schemas-and-data-modelling-in-power-bi-45h9)
+- [Hashicorp Vault CLI Part 3: Plugin Management and General CRUD Operations](https://dev.to/admantium/hashicorp-vault-cli-part-3-plugin-management-and-general-crud-operations-1np0)
+- [Deserializing Polymorphic JSON in .NET Without Losing Type Safety](https://dev.to/pbouillon/deserializing-polymorphic-json-in-net-without-losing-type-safety-4o4d)
+- [GitHub as CMS: Modular, Effortless Developer Portfolio](https://dev.to/naveen_gaur/github-as-cms-modular-effortless-developer-portfolio-1dc6)
+- [Operators](https://dev.to/nanthini_ammu_ac02ad32802/operators-5895)
 <!-- BLOG-POST-LIST:END -->
 
 
