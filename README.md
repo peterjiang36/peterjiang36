@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MY REAL ROOM AS MY 3D PORTFOLIO](https://dev.to/suvo-dev/my-real-room-as-my-3d-portfolio-196e)
-- [GitHub Repository Intelligence Assistant](https://dev.to/simranshaikh20_50/github-repository-intelligence-assistant-1lk6)
-- [📨 Build an Email Validation Tool with Python &amp; Tkinter &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/build-an-email-validation-tool-with-python-tkinter-step-by-step-fi8)
-- [Programming Principles in the Age of AI: DRY](https://dev.to/kirill_tolmachev/programming-principles-in-the-age-of-ai-dry-1klo)
+- [🚀 Attendance Management System | Full-Stack Project](https://dev.to/karthikav_tkm_4e6cf04b18/attendance-management-system-full-stack-project-3gf)
+- [Built this comprehensive guide in Tamil, but the code speaks English! Get the full picture by using the browser&#39;s translate feature. Appreciate any feedback and engagement from the DEV community! 
+#Web development.](https://dev.to/thiraisuvadu_dev/built-this-comprehensive-guide-in-tamil-but-the-code-speaks-english-get-the-full-picture-by-using-2abj)
+- [Securing Massive Load Tests: A DevOps Approach Without Documentation](https://dev.to/mohammad_waseem_c31f3a26f/securing-massive-load-tests-a-devops-approach-without-documentation-4i2e)
+- [Why CI Pipelines Fail](https://dev.to/infraforgelabs/why-ci-pipelines-fail-339l)
 <!-- BLOG-POST-LIST:END -->
 
 
