@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual UIs Are Now Possible in MCP Servers](https://dev.to/jason_peterson_607e54abf5/visual-uis-are-now-possible-in-mcp-servers-369a)
-- [AGENTS.md vs. Skills: How We Refactored OpenClaw to Fix AI Hallucinations](https://dev.to/behruamm/the-death-of-black-box-skills-3ggm)
-- [What are your goals for the week? #164](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-164-30g8)
-- [Automation testing is a must in AI world.](https://dev.to/maulik_jani_826053f27b194/automation-testing-is-a-must-in-ai-world-18po)
+- [git commit -m &quot;Initial Commit&quot;](https://dev.to/likhit/git-commit-m-initial-commit-2dgb)
+- [The 10-Line Semantic Firewall That Stopped 60% of Our RAG Hallucinations](https://dev.to/mossforge/the-10-line-semantic-firewall-that-stopped-60-of-our-rag-hallucinations-51k0)
+- [Authentication vs Object Authorization: The API Security Mistake Everyone Makes](https://dev.to/yogsec/authentication-vs-object-authorization-the-api-security-mistake-everyone-makes-4aa4)
+- [Andrew Huang: February livestream!](https://dev.to/music_youtube/andrew-huang-february-livestream-4jbg)
 <!-- BLOG-POST-LIST:END -->
 
 
