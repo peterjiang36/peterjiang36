@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Сrypto needs to feel as brainless as sending a DM...](https://dev.to/crypto_melania/srypto-needs-to-feel-as-brainless-as-sending-a-dm-18k4)
-- [Building a Spring Boot Microservices Project: Architecture, Workflow, and Learnings](https://dev.to/nirmalravidas/building-a-spring-boot-microservices-project-architecture-workflow-and-learnings-14bc)
-- [A Small Lesson I Learned the Hard Way](https://dev.to/linediconsine/a-small-lesson-i-learned-the-hard-way-g4l)
-- [Why I Avoid PHP Traits &lpar;And What I Use Instead&rpar;](https://dev.to/tegos/why-i-avoid-php-traits-and-what-i-use-instead-1288)
+- [The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder](https://dev.to/btarbox/the-compiler-never-used-sarcasm-why-ai-feels-unsafe-to-the-neurodivergent-coder-30i3)
+- [SCHEMAS AND DATA MODELLING IN POWER BI.](https://dev.to/njokijoan003commits/schemas-and-data-modelling-in-power-bi-13il)
+- [LLM Prompt Injection Attacks: The Complete Security Guide for Developers Building AI Applications](https://dev.to/pockit_tools/llm-prompt-injection-attacks-the-complete-security-guide-for-developers-building-ai-applications-bg9)
+- [POWER BI- Schema and Data Modelling.](https://dev.to/tonny-o/power-bi-schema-and-data-modelling-289d)
 <!-- BLOG-POST-LIST:END -->
 
 
