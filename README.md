@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Stored Procedures: From Hard‑Coded Logic to Reusable SQL](https://dev.to/mazinocodes/sql-stored-procedures-from-hard-coded-logic-to-reusable-sql-mn5)
-- [Elysia in 100 Seconds](https://dev.to/fabianfrankwerner/elysia-in-100-seconds-2a8k)
-- [One‑Line Magic: Using Claude Code Through Ollama](https://dev.to/0xkoji/one-line-magic-using-claude-code-through-ollama-1g48)
-- [Argo CD &quot;App of Apps&quot; on EKS](https://dev.to/aws-builders/argo-cd-app-of-apps-on-eks-bcc)
+- [roberto bot](https://dev.to/0011diego/roberto-bot-3c2j)
+- [Sharing lessons and trade-offs from building a Windows admin tool in .NET 8.
+Would love feedback from people experienced with WPF, async code, or Windows internals.](https://dev.to/fbnoname/sharing-lessons-and-trade-offs-from-building-a-windows-admin-tool-in-net-8-would-love-feedback-55ik)
+- [Introducing SuperClaw: Red-Team OpenClaw Agents Before They Red-Team You](https://dev.to/shashikant86/introducing-superclaw-red-team-openclaw-agents-before-they-red-team-you-45od)
+- [36.Security Group Variable Setup Using Terraform](https://dev.to/thukhakyawe_cloud/36security-group-variable-setup-using-terraform-1hdg)
 <!-- BLOG-POST-LIST:END -->
 
 
