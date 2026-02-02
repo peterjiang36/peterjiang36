@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder](https://dev.to/btarbox/the-compiler-never-used-sarcasm-why-ai-feels-unsafe-to-the-neurodivergent-coder-30i3)
-- [SCHEMAS AND DATA MODELLING IN POWER BI.](https://dev.to/njokijoan003commits/schemas-and-data-modelling-in-power-bi-13il)
-- [LLM Prompt Injection Attacks: The Complete Security Guide for Developers Building AI Applications](https://dev.to/pockit_tools/llm-prompt-injection-attacks-the-complete-security-guide-for-developers-building-ai-applications-bg9)
-- [POWER BI- Schema and Data Modelling.](https://dev.to/tonny-o/power-bi-schema-and-data-modelling-289d)
+- [Visual UIs Are Now Possible in MCP Servers](https://dev.to/jason_peterson_607e54abf5/visual-uis-are-now-possible-in-mcp-servers-369a)
+- [AGENTS.md vs. Skills: How We Refactored OpenClaw to Fix AI Hallucinations](https://dev.to/behruamm/the-death-of-black-box-skills-3ggm)
+- [What are your goals for the week? #164](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-164-30g8)
+- [Automation testing is a must in AI world.](https://dev.to/maulik_jani_826053f27b194/automation-testing-is-a-must-in-ai-world-18po)
 <!-- BLOG-POST-LIST:END -->
 
 
