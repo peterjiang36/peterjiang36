@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Gateway Needs MCP Integration in 2026](https://dev.to/varshithvhegde/why-your-ai-gateway-needs-mcp-integration-in-2026-3dcf)
-- [Got First 500 Users for your AI product as an Indie-（To be continued&rpar;](https://dev.to/simba_ji/how-we-got-our-first-500-userto-be-continued-7e5)
-- [I Built a Full-Stack E-Commerce App with Admin Dashboard Using Next.js](https://dev.to/rajaabbas2002/i-built-a-full-stack-e-commerce-app-with-admin-dashboard-using-nextjs-1j3l)
-- [How One Complex Problem Becomes Two Simple Ones: An ARP Mental Model](https://dev.to/micheal_angelo_41cea4e81a/how-one-complex-problem-becomes-two-simple-ones-an-arp-mental-model-4365)
+- [Music Sharity: Your Universal Music Link Converter](https://dev.to/sikelio/music-sharity-your-universal-music-link-converter-1500)
+- [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
+- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
+- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1k8b)
 <!-- BLOG-POST-LIST:END -->
 
 
