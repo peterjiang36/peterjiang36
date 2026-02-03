@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying AI in Engineering](https://dev.to/jtvanwage/demystifying-ai-in-engineering-33h5)
-- [I built a $0/month automation stack using GitHub Actions free tier](https://dev.to/igorganapolsky/i-built-a-0month-automation-stack-using-github-actions-free-tier-3g1c)
-- [You Blocked docker.sock. Your Containers Are Still Not Safe.](https://dev.to/shamsher_khan/you-blocked-dockersock-your-containers-are-still-not-safe-4fii)
-- [Voice Input Gemini Gem: Achieving Uninterrupted Thought Flow with Shossan-style Writing Workflow](https://dev.to/sho7650/voice-input-gemini-gem-achieving-uninterrupted-thought-flow-with-shossan-style-writing-workflow-2h1o)
+- [Digital Twin Technology for Comprehensive Aerospace Vehicle Lifecycle Management](https://dev.to/hightopo/digital-twin-technology-for-comprehensive-aerospace-vehicle-lifecycle-management-59pj)
+- [Help: My expo+nativewind project runs well on the web &lpar;Chrome&rpar;, but encounters errors on Android + expoGo.](https://dev.to/kerryjavalin/help-my-exponativewind-project-runs-well-on-the-web-chrome-but-encounters-errors-on-android--p30)
+- [Behind the Vision](https://dev.to/infraforgelabs/behind-the-vision-4fka)
+- [PHP Basics Every Laravel Beginner Should Know](https://dev.to/rohitdhiman/php-basics-every-laravel-beginner-should-know-49od)
 <!-- BLOG-POST-LIST:END -->
 
 
