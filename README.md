@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unrealdev.nvim Update: Migration to Rust Server and MessagePack-RPC for High-Performance UE Development 2026/02/02](https://dev.to/taku25/unrealdevnvim-update-migration-to-rust-server-and-messagepack-rpc-for-high-performance-ue-2eo6)
-- [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl)
-- [🏔️ Beginner-Friendly Guide &#39;Trionic Array I&#39; - Problem 3637 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-i-problem-3637-c-python-javascript-3mad)
-- [Module 2 Summary - Workflow Orchestration with Kestra Part 3](https://dev.to/abdelrahman_adnan/module-2-summary-workflow-orchestration-with-kestra-part-3-4nn8)
+- [Demystifying AI in Engineering](https://dev.to/jtvanwage/demystifying-ai-in-engineering-33h5)
+- [I built a $0/month automation stack using GitHub Actions free tier](https://dev.to/igorganapolsky/i-built-a-0month-automation-stack-using-github-actions-free-tier-3g1c)
+- [You Blocked docker.sock. Your Containers Are Still Not Safe.](https://dev.to/shamsher_khan/you-blocked-dockersock-your-containers-are-still-not-safe-4fii)
+- [Voice Input Gemini Gem: Achieving Uninterrupted Thought Flow with Shossan-style Writing Workflow](https://dev.to/sho7650/voice-input-gemini-gem-achieving-uninterrupted-thought-flow-with-shossan-style-writing-workflow-2h1o)
 <!-- BLOG-POST-LIST:END -->
 
 
