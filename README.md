@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-5gag)
-- [JDK](https://dev.to/jegadeshwaran_b_b86e7dd1a/jdk-3f5e)
-- [I just spent an hour restarting GitHub Actions over and over before checking GitHub status to see they&#39;re down 😭
-
-I just wasn&#39;t thinking that hard about the situation. As soon as I clicked my brain on I thought to check.](https://dev.to/ben/i-just-spent-an-hour-restarting-github-actions-over-and-over-before-checking-github-status-to-see-2nap)
-- [Switch Claude Code providers in seconds with claude-provider &lpar;Plugin + CLI&rpar;](https://dev.to/rashed_iqbal/switch-claude-code-providers-in-seconds-with-claude-provider-plugin-cli-3719)
+- [Creating a simple environment with Docker, PHP 8.4, Composer, Nginx, and MariaDB.](https://dev.to/wribeiiro/creating-a-simple-environment-with-docker-php-84-composer-nginx-and-mariadb-25ia)
+- [Debugging WordPress PHP Callbacks With Xdebug](https://dev.to/martijn_assie_12a2d3b1833/debugging-wordpress-php-callbacks-with-xdebug-3k8c)
+- [CKAD Daily Study Notes - 2026-02-03](https://dev.to/andrew_collins/ckad-daily-study-notes-2026-02-03-19dn)
+- [AI &amp; Tech News Briefing - 2026-02-03](https://dev.to/andrew_collins/ai-tech-news-briefing-2026-02-03-hf0)
 <!-- BLOG-POST-LIST:END -->
 
 
