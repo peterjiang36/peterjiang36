@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use SerpApi engine schemas in SerpApi MCP to improve tool call quality](https://dev.to/james_collins/how-to-use-serpapi-engine-schemas-in-serpapi-mcp-to-improve-tool-call-quality-5ek6)
-- [The Essence of DDD: A Complete Guide from Philosophy to Mathematics to Engineering Practice—The Theory Part](https://dev.to/canonical/the-essence-of-ddd-a-complete-guide-from-philosophy-to-mathematics-to-engineering-practice-the-4jfa)
-- [CAP Theorem Explained: Beyond the &quot;Pick Two&quot; Myth](https://dev.to/amalik18/cap-theorem-explained-beyond-the-pick-two-myth-k1n)
-- [CP Systems Explained: The Hidden Cost of Strong Consistency](https://dev.to/amalik18/cp-systems-explained-the-hidden-cost-of-strong-consistency-1kgp)
+- [TimeKlipa — The ultimate tool for capturing YouTube timestamps and bookmarking clips from the timeline](https://dev.to/sidartdigital/timeklipa-the-ultimate-tool-for-capturing-youtube-timestamps-and-bookmarking-clips-from-the-53o4)
+- [New Year, New Bio: I Built an AI Career Coach to Upgrade Your Portfolio kk](https://dev.to/nftthat/new-year-new-bio-i-built-an-ai-career-coach-to-upgrade-your-portfolio-kk-5hg2)
+- [The End of Database-Backed Workflow Engines: Building GraphRAG on Object Storage](https://dev.to/tensorlake/the-end-of-database-backed-workflow-engines-building-graphrag-on-object-storage-295b)
+- [Why Computer Science is the Only Weapon for IT Architects in the AI Era](https://dev.to/sho7650/why-computer-science-is-the-only-weapon-for-it-architects-in-the-ai-era-7e5)
 <!-- BLOG-POST-LIST:END -->
 
 
