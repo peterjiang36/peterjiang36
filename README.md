@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
-- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
-- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
-- [How to decode any polymarket trading bot strategy ?](https://dev.to/voren_tai_24467d3051ef996/how-to-decode-any-polymarket-trading-bot-strategy--1k7b)
+- [Show DEV: UtilityForge - 250+ Dev Tools Bundled into One Privacy-Focused App](https://dev.to/day2day_life_90ff21e1b7d2/show-dev-utilityforge-250-dev-tools-bundled-into-one-privacy-focused-app-4o4f)
+- [Building GDPR-Compliant AI Systems with Automatic Redaction](https://dev.to/rom_questaai_599bb894049/building-gdpr-compliant-ai-systems-with-automatic-redaction-194n)
+- [Automatizando FinOps na AWS: Como construímos um módulo de Monitoramento de Custos com Terraform e incident.io](https://dev.to/marcos_vile/automatizando-finops-na-aws-como-construimos-um-modulo-de-monitoramento-de-custos-com-terraform-e-3da3)
+- [Beyond Chat Boxes: How Generative UI Turns AI Reasoning Into Real Product Screens](https://dev.to/aiwithapex/beyond-chat-boxes-how-generative-ui-turns-ai-reasoning-into-real-product-screens-393b)
 <!-- BLOG-POST-LIST:END -->
 
 
