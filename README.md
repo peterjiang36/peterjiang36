@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Digital Twin Technology for Comprehensive Aerospace Vehicle Lifecycle Management](https://dev.to/hightopo/digital-twin-technology-for-comprehensive-aerospace-vehicle-lifecycle-management-59pj)
-- [Help: My expo+nativewind project runs well on the web &lpar;Chrome&rpar;, but encounters errors on Android + expoGo.](https://dev.to/kerryjavalin/help-my-exponativewind-project-runs-well-on-the-web-chrome-but-encounters-errors-on-android--p30)
-- [Behind the Vision](https://dev.to/infraforgelabs/behind-the-vision-4fka)
-- [PHP Basics Every Laravel Beginner Should Know](https://dev.to/rohitdhiman/php-basics-every-laravel-beginner-should-know-49od)
+- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
+- [Save time, make money](https://dev.to/iamluisj/save-time-make-money-l14)
+- [Above the API: What Developers Contribute When AI Can Code](https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025)
+- [🤖 Your AI Agent Just Joined a Social Network Without You &lpar;Meet Moltbook&rpar;](https://dev.to/siddhesh_surve/your-ai-agent-just-joined-a-social-network-without-you-meet-moltbook-268o)
 <!-- BLOG-POST-LIST:END -->
 
 
