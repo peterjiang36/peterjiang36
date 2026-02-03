@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Service workers that don’t surprise you: deterministic caching for offline-first PWAs](https://dev.to/crisiscoresystems/service-workers-that-dont-surprise-you-deterministic-caching-for-offline-first-pwas-5480)
-- [AI isn&#39;t take our jobs — It&#39;s taking our illusions](https://dev.to/igbominadeveloper/ai-isnt-take-our-jobs-its-taking-our-illusions-138j)
-- [How to Measure Authentication: Metrics, Funnels, and Conversion Tracking](https://dev.to/corbado/how-to-measure-authentication-metrics-funnels-and-conversion-tracking-628)
-- [Caffeinate your Mac to prevent it from sleeping](https://dev.to/nikola/caffeinate-your-mac-to-prevent-it-from-sleeping-4o7a)
+- [Deploying RouteReality: The Real Challenges of Running a Live, Real-Time Bus Prediction System](https://dev.to/dillionhuston/deploying-routereality-the-real-challenges-of-running-a-live-real-time-bus-prediction-system-50ef)
+- [MdBin Levels Up Again: E2E Encryption, Theme Toggle, and Responsive Nav](https://dev.to/sivarampg/mdbin-levels-up-again-e2e-encryption-theme-toggle-and-responsive-nav-2f7m)
+- [Platform Thread vs Virtual Thread in JAVA](https://dev.to/birajdar/platform-thread-vs-virtual-thread-in-java-16n7)
+- [How do you know the software is working?](https://dev.to/marostr/how-do-you-know-the-software-is-working-50je)
 <!-- BLOG-POST-LIST:END -->
 
 
