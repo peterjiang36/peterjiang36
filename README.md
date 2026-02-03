@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
-- [Save time, make money](https://dev.to/iamluisj/save-time-make-money-l14)
-- [Above the API: What Developers Contribute When AI Can Code](https://dev.to/dannwaneri/above-the-api-what-developers-contribute-when-ai-can-code-5025)
-- [🤖 Your AI Agent Just Joined a Social Network Without You &lpar;Meet Moltbook&rpar;](https://dev.to/siddhesh_surve/your-ai-agent-just-joined-a-social-network-without-you-meet-moltbook-268o)
+- [Mastering Data Hygiene: Efficient Linux Strategies for Enterprise Data Cleaning](https://dev.to/mohammad_waseem_c31f3a26f/mastering-data-hygiene-efficient-linux-strategies-for-enterprise-data-cleaning-1fof)
+- [De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento](https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g)
+- [Rapid Deployment of Phishing Pattern Detection with Docker Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-pattern-detection-with-docker-under-tight-deadlines-41f5)
+- [MySQL 8.0 vs 9.0: The Upgrade That Almost Broke Production](https://dev.to/igornosatov_15/mysql-80-vs-90-the-upgrade-that-almost-broke-production-50po)
 <!-- BLOG-POST-LIST:END -->
 
 
