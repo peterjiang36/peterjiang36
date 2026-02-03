@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Workflows vs. Prompt Engineering: Which One Saves More Time?](https://dev.to/ravi_kumar3481/agentic-workflows-vs-prompt-engineering-which-one-saves-more-time-1fe5)
-- [Vector: The easiest way to plug Vue in Blade](https://dev.to/brunoabpinto/vector-the-easiest-way-to-plug-vue-in-blade-jl6)
-- [React Server Components without Next.js - what are the real alternatives today?](https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j)
-- [63 Q&amp;As from Watching Karpathy&#39;s LLM Tutorial Twice](https://dev.to/alexdesi/63-qas-from-watching-karpathys-llm-tutorial-twice-1pcl)
+- [Ridge Regression vs Lasso Regression](https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c)
+- [TypeScript or Tears](https://dev.to/nicolas_vbgh/typescript-or-tears-2ea5)
+- [Stop Streaming Plain Text: Unlock Interactive UIs with React Server Components](https://dev.to/programmingcentral/stop-streaming-plain-text-unlock-interactive-uis-with-react-server-components-3ie1)
+- [CRAM-Net: The Network that Thinks by Rewiring](https://dev.to/hejhdiss/cram-net-the-network-that-thinks-by-rewiring-22hb)
 <!-- BLOG-POST-LIST:END -->
 
 
