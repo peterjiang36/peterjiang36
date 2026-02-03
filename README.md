@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Planning vs Fast Mode in Google Antigravity: When and How to Use Each ⚡](https://dev.to/this-is-learning/planning-vs-fast-mode-in-google-antigravity-when-and-how-to-use-each-36n5)
-- [The Best Golang Books in 2026](https://dev.to/goeric/the-best-golang-books-in-2026-507e)
-- [Learning: Creating a Ubuntu Droplet](https://dev.to/dentrodailha96/learning-creating-a-ubuntu-droplet-4o7g)
-- [How to Create a Multi-AI Agent Lead Generation Automation System](https://dev.to/ciphernutz/how-to-create-a-multi-ai-agent-lead-generation-automation-system-2o9f)
+- [NPR Music: Miguel: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-miguel-tiny-desk-concert-4nme)
+- [Sapienza University of Rome Crippled by Network-Wide Ransomware Attack](https://dev.to/beyondmachines/sapienza-university-of-rome-crippled-by-network-wide-ransomware-attack-2b1j)
+- [MCPfying Tools Securely at Scale with Bedrock AgentCore Gateway](https://dev.to/aws-builders/mcpfying-tools-securely-at-scale-with-bedrock-agentcore-gateway-e3d)
+- [Conditional Statement - if-else Statement](https://dev.to/nanthini_ammu_ac02ad32802/conditional-statement-if-else-statement-698)
 <!-- BLOG-POST-LIST:END -->
 
 
