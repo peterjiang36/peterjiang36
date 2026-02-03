@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Hygiene: Efficient Linux Strategies for Enterprise Data Cleaning](https://dev.to/mohammad_waseem_c31f3a26f/mastering-data-hygiene-efficient-linux-strategies-for-enterprise-data-cleaning-1fof)
-- [De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento](https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g)
-- [Rapid Deployment of Phishing Pattern Detection with Docker Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-pattern-detection-with-docker-under-tight-deadlines-41f5)
-- [MySQL 8.0 vs 9.0: The Upgrade That Almost Broke Production](https://dev.to/igornosatov_15/mysql-80-vs-90-the-upgrade-that-almost-broke-production-50po)
+- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis — Part 2: The Data Layer](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis-35kn)
+- [Implementing Secure Authentication in Next.js with External APIs: A BFF Pattern Approach](https://dev.to/favour_okpara_9dc22591b2f/implementing-secure-authentication-in-nextjs-with-external-apis-a-bff-pattern-approach-hmg)
+- [How I Used Algolia to Build a &#39;Mind-Reading&#39; Support Portal](https://dev.to/briian365/how-i-used-algolia-to-build-a-mind-reading-support-portal-25ei)
+- [Was the recent silver crash manipulated?](https://dev.to/koomato_peanut_15614ac490/was-the-recent-silver-crash-manipulated-3pib)
 <!-- BLOG-POST-LIST:END -->
 
 
