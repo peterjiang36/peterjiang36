@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Show DEV: UtilityForge - 250+ Dev Tools Bundled into One Privacy-Focused App](https://dev.to/day2day_life_90ff21e1b7d2/show-dev-utilityforge-250-dev-tools-bundled-into-one-privacy-focused-app-4o4f)
-- [Building GDPR-Compliant AI Systems with Automatic Redaction](https://dev.to/rom_questaai_599bb894049/building-gdpr-compliant-ai-systems-with-automatic-redaction-194n)
-- [Automatizando FinOps na AWS: Como construímos um módulo de Monitoramento de Custos com Terraform e incident.io](https://dev.to/marcos_vile/automatizando-finops-na-aws-como-construimos-um-modulo-de-monitoramento-de-custos-com-terraform-e-3da3)
-- [Beyond Chat Boxes: How Generative UI Turns AI Reasoning Into Real Product Screens](https://dev.to/aiwithapex/beyond-chat-boxes-how-generative-ui-turns-ai-reasoning-into-real-product-screens-393b)
+- [How to use SerpApi engine schemas in SerpApi MCP to improve tool call quality](https://dev.to/james_collins/how-to-use-serpapi-engine-schemas-in-serpapi-mcp-to-improve-tool-call-quality-5ek6)
+- [The Essence of DDD: A Complete Guide from Philosophy to Mathematics to Engineering Practice—The Theory Part](https://dev.to/canonical/the-essence-of-ddd-a-complete-guide-from-philosophy-to-mathematics-to-engineering-practice-the-4jfa)
+- [CAP Theorem Explained: Beyond the &quot;Pick Two&quot; Myth](https://dev.to/amalik18/cap-theorem-explained-beyond-the-pick-two-myth-k1n)
+- [CP Systems Explained: The Hidden Cost of Strong Consistency](https://dev.to/amalik18/cp-systems-explained-the-hidden-cost-of-strong-consistency-1kgp)
 <!-- BLOG-POST-LIST:END -->
 
 
