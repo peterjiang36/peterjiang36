@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
-- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
-- [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
-- [Intent and Spec](https://dev.to/intoinside/intent-and-spec-ljm)
+- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
+- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
+- [Cut LLM API costs with a decentralized inference network](https://dev.to/gonkagate_team/cut-llm-api-costs-with-a-decentralized-inference-network-5e15)
+- [React Compiler: Stop Manually Optimizing Your React Apps](https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4)
 <!-- BLOG-POST-LIST:END -->
 
 
