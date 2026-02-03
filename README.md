@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ridge Regression vs Lasso Regression](https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c)
-- [TypeScript or Tears](https://dev.to/nicolas_vbgh/typescript-or-tears-2ea5)
-- [Stop Streaming Plain Text: Unlock Interactive UIs with React Server Components](https://dev.to/programmingcentral/stop-streaming-plain-text-unlock-interactive-uis-with-react-server-components-3ie1)
-- [CRAM-Net: The Network that Thinks by Rewiring](https://dev.to/hejhdiss/cram-net-the-network-that-thinks-by-rewiring-22hb)
+- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
+- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
+- [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
+- [Intent and Spec](https://dev.to/intoinside/intent-and-spec-ljm)
 <!-- BLOG-POST-LIST:END -->
 
 
