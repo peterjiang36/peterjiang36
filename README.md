@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TimeKlipa — The ultimate tool for capturing YouTube timestamps and bookmarking clips from the timeline](https://dev.to/sidartdigital/timeklipa-the-ultimate-tool-for-capturing-youtube-timestamps-and-bookmarking-clips-from-the-53o4)
-- [New Year, New Bio: I Built an AI Career Coach to Upgrade Your Portfolio kk](https://dev.to/nftthat/new-year-new-bio-i-built-an-ai-career-coach-to-upgrade-your-portfolio-kk-5hg2)
-- [The End of Database-Backed Workflow Engines: Building GraphRAG on Object Storage](https://dev.to/tensorlake/the-end-of-database-backed-workflow-engines-building-graphrag-on-object-storage-295b)
-- [Why Computer Science is the Only Weapon for IT Architects in the AI Era](https://dev.to/sho7650/why-computer-science-is-the-only-weapon-for-it-architects-in-the-ai-era-7e5)
+- [Mitigating IP Bans During Web Scraping: A TypeScript Approach for Legacy Codebases](https://dev.to/mohammad_waseem_c31f3a26f/mitigating-ip-bans-during-web-scraping-a-typescript-approach-for-legacy-codebases-2cnd)
+- [What is “Build In Process”?](https://dev.to/kislay/what-is-build-in-process-23c0)
+- [Your AI Assistant Can See Your Secrets — Here&#39;s How I Fixed It](https://dev.to/yujisuzuki/your-ai-assistant-can-see-your-secrets-heres-how-i-fixed-it-19lj)
+- [Why &quot;Almost Done&quot; Work Breaks Development Flow](https://dev.to/codecraft_diary_3d13677fb/why-almost-done-work-breaks-development-flow-274h)
 <!-- BLOG-POST-LIST:END -->
 
 
