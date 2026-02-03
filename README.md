@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your Next.js App Just... Dies: The Sneaky Stack Overflow Bug That&#39;s Been Crashing Servers](https://dev.to/vasughanta09/when-your-nextjs-app-just-dies-the-sneaky-stack-overflow-bug-thats-been-crashing-servers-2moc)
-- [Determine Appropriate Data Security Controls](https://dev.to/aws-builders/determine-appropriate-data-security-controls-3e45)
-- [Why Your Browser Benchmark is Lying to You About AI Performance](https://dev.to/hoshiwarpsjs/why-your-browser-benchmark-is-lying-to-you-about-ai-performance-5gn2)
-- [Understanding Schemas and Data Modelling in Power BI](https://dev.to/nganga_njongo/understanding-schemas-and-data-modelling-in-power-bi-3odb)
+- [Planning vs Fast Mode in Google Antigravity: When and How to Use Each ⚡](https://dev.to/this-is-learning/planning-vs-fast-mode-in-google-antigravity-when-and-how-to-use-each-36n5)
+- [The Best Golang Books in 2026](https://dev.to/goeric/the-best-golang-books-in-2026-507e)
+- [Learning: Creating a Ubuntu Droplet](https://dev.to/dentrodailha96/learning-creating-a-ubuntu-droplet-4o7g)
+- [How to Create a Multi-AI Agent Lead Generation Automation System](https://dev.to/ciphernutz/how-to-create-a-multi-ai-agent-lead-generation-automation-system-2o9f)
 <!-- BLOG-POST-LIST:END -->
 
 
