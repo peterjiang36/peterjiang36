@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating IP Bans During Web Scraping: A TypeScript Approach for Legacy Codebases](https://dev.to/mohammad_waseem_c31f3a26f/mitigating-ip-bans-during-web-scraping-a-typescript-approach-for-legacy-codebases-2cnd)
-- [What is “Build In Process”?](https://dev.to/kislay/what-is-build-in-process-23c0)
-- [Your AI Assistant Can See Your Secrets — Here&#39;s How I Fixed It](https://dev.to/yujisuzuki/your-ai-assistant-can-see-your-secrets-heres-how-i-fixed-it-19lj)
-- [Why &quot;Almost Done&quot; Work Breaks Development Flow](https://dev.to/codecraft_diary_3d13677fb/why-almost-done-work-breaks-development-flow-274h)
+- [Why We Built an Open-Source Industrial BLE Protocol &lpar;AltessaBeacon](https://dev.to/anton_dobkin_23ed26097ad2/why-we-built-an-open-source-industrial-ble-protocol-altessabeacon-jj4)
+- [Ensuring Reliability in Email Flows: A Lead QA Engineer’s Approach with JavaScript in a Microservices Environment](https://dev.to/mohammad_waseem_c31f3a26f/ensuring-reliability-in-email-flows-a-lead-qa-engineers-approach-with-javascript-in-a-32g2)
+- [Building a Foundry PoC: A Step-by-Step Guide for Bug Bounty Hunters](https://dev.to/ohmygod/building-a-foundry-poc-a-step-by-step-guide-for-bug-bounty-hunters-5ddo)
+- [Overcoming Geo-Blocked Feature Testing with Zero-Budget DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-feature-testing-with-zero-budget-devops-strategies-32kj)
 <!-- BLOG-POST-LIST:END -->
 
 
