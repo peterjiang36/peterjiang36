@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built an Open-Source Industrial BLE Protocol &lpar;AltessaBeacon](https://dev.to/anton_dobkin_23ed26097ad2/why-we-built-an-open-source-industrial-ble-protocol-altessabeacon-jj4)
-- [Ensuring Reliability in Email Flows: A Lead QA Engineer’s Approach with JavaScript in a Microservices Environment](https://dev.to/mohammad_waseem_c31f3a26f/ensuring-reliability-in-email-flows-a-lead-qa-engineers-approach-with-javascript-in-a-32g2)
-- [Building a Foundry PoC: A Step-by-Step Guide for Bug Bounty Hunters](https://dev.to/ohmygod/building-a-foundry-poc-a-step-by-step-guide-for-bug-bounty-hunters-5ddo)
-- [Overcoming Geo-Blocked Feature Testing with Zero-Budget DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocked-feature-testing-with-zero-budget-devops-strategies-32kj)
+- [Service workers that don’t surprise you: deterministic caching for offline-first PWAs](https://dev.to/crisiscoresystems/service-workers-that-dont-surprise-you-deterministic-caching-for-offline-first-pwas-5480)
+- [AI isn&#39;t take our jobs — It&#39;s taking our illusions](https://dev.to/igbominadeveloper/ai-isnt-take-our-jobs-its-taking-our-illusions-138j)
+- [How to Measure Authentication: Metrics, Funnels, and Conversion Tracking](https://dev.to/corbado/how-to-measure-authentication-metrics-funnels-and-conversion-tracking-628)
+- [Caffeinate your Mac to prevent it from sleeping](https://dev.to/nikola/caffeinate-your-mac-to-prevent-it-from-sleeping-4o7a)
 <!-- BLOG-POST-LIST:END -->
 
 
