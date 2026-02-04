@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making List Correctness the Default in React](https://dev.to/luk4x/making-list-correctness-the-default-in-react-3224)
-- [Daily AI Rundown - February 03, 2026](https://dev.to/dailyairundown/daily-ai-rundown-february-03-2026-2gnm)
-- [Introducing Splunk Native Embedder: Secure Dashboard Embedding, Done Right](https://dev.to/ksanjeev284/introducing-splunk-native-embedder-secure-dashboard-embedding-done-right-8o5)
-- [KEXP: Mandrake Handshake - The Change And The Changing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mandrake-handshake-the-change-and-the-changing-live-on-kexp-f70)
+- [Assimp: Experimental Rust bindings](https://dev.to/kimkulling/assimp-experimental-rust-bindings-4k5f)
+- [Kubernetes Gateway API Versions: Complete Compatibility and Upgrade Guide](https://dev.to/alexandrev/kubernetes-gateway-api-versions-complete-compatibility-and-upgrade-guide-36do)
+- [Why Output Metrics Can Be Misleading in Automation](https://dev.to/automationsystemslab/why-output-metrics-can-be-misleading-in-automation-250n)
+- [Google Workspace Studio: Technical Overview](https://dev.to/alifar/google-workspace-studio-technical-overview-a63)
 <!-- BLOG-POST-LIST:END -->
 
 
