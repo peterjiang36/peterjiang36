@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OS for Intelligence: How GitHub Is Fixing the AI Fragmentation](https://dev.to/poornee/os-for-intelligence-how-github-is-fixing-the-ai-fragmentation-52fj)
-- [Schemas in Power BI: Designing Models That Perform](https://dev.to/suzanne_orido_445096444b2/schemas-in-power-bi-designing-models-that-perform-4jhe)
-- [SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?](https://dev.to/simran_sinha/spacex-xai-are-we-moving-toward-a-new-era-of-ai-infrastructure-3h90)
-- [Bitrate vs. Resolution: 4 Key Differences and Their Role in Video Streaming.](https://dev.to/amar_thodupunoori_51b9af6/bitrate-vs-resolution-4-key-differences-and-their-role-in-video-streaming-4k5m)
+- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
+- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
+- [YourGPT Just Open-Sourced a Copilot SDK for Building Context-Aware AI Inside SaaS Products](https://dev.to/ruixiao/yourgpt-just-open-sourced-a-copilot-sdk-for-building-context-aware-ai-inside-saas-products-485l)
+- [Bluetooth SDP: Fuzzing the Beast](https://dev.to/duracellrabbid/bluetooth-sdp-fuzzing-the-beast-50e1)
 <!-- BLOG-POST-LIST:END -->
 
 
