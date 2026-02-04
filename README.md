@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
-- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
-- [YourGPT Just Open-Sourced a Copilot SDK for Building Context-Aware AI Inside SaaS Products](https://dev.to/ruixiao/yourgpt-just-open-sourced-a-copilot-sdk-for-building-context-aware-ai-inside-saas-products-485l)
-- [Bluetooth SDP: Fuzzing the Beast](https://dev.to/duracellrabbid/bluetooth-sdp-fuzzing-the-beast-50e1)
+- [Making List Correctness the Default in React](https://dev.to/luk4x/making-list-correctness-the-default-in-react-3224)
+- [Daily AI Rundown - February 03, 2026](https://dev.to/dailyairundown/daily-ai-rundown-february-03-2026-2gnm)
+- [Introducing Splunk Native Embedder: Secure Dashboard Embedding, Done Right](https://dev.to/ksanjeev284/introducing-splunk-native-embedder-secure-dashboard-embedding-done-right-8o5)
+- [KEXP: Mandrake Handshake - The Change And The Changing &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-mandrake-handshake-the-change-and-the-changing-live-on-kexp-f70)
 <!-- BLOG-POST-LIST:END -->
 
 
