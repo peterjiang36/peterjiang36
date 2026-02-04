@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI tool for pulling historical Binance OHLCV data for backtesting](https://dev.to/ksi/cli-tool-for-pulling-historical-binance-ohlcv-data-for-backtesting-4oi5)
-- [Kubernetes Deep Dive: Kubelet](https://dev.to/kanywst/kubernetes-deep-dive-kubelet-2h8k)
-- [It’s time for the 2025—2026 Annual Apache CouchDB User Survey!](https://dev.to/moremaddy/its-time-for-the-2025-2026-annual-apache-couchdb-user-survey-2l2g)
-- [Java Notes](https://dev.to/david_titilayo_c2329e7441/java-notes-51p)
+- [Stop Wasting Time: How One Chrome Extension Can Change Your Year](https://dev.to/sanketshinde/stop-wasting-time-how-one-chrome-extension-can-change-your-year-1ip5)
+- [Feeling proud of a new milestone in my tech journey today! I just wrapped up the &quot;Installing Docker on Your Machine&quot; hands-on lab, and it really opened my eyes to how powerful containerization can be. Getting Docker up and running on my own system, working](https://dev.to/taseen_mawa_60b4689c07cfd/feeling-proud-of-a-new-milestone-in-my-tech-journey-today-i-just-wrapped-up-the-installing-docker-1l77)
+- [How Developers Can Sync Notes and Tasks Between VS Code and Notion](https://dev.to/anita_ihuman/how-developers-can-sync-notes-and-tasks-between-vs-code-and-notion-1cdp)
+- [Stop Launching Chrome to Fetch a JSON File — Give Your Ducks a Fast Lane](https://dev.to/nesquikm/stop-launching-chrome-to-fetch-a-json-file-give-your-ducks-a-fast-lane-704)
 <!-- BLOG-POST-LIST:END -->
 
 
