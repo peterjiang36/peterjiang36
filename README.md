@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Competitive Intelligence Scrapers Fail: A Deep Dive into Browser Fingerprinting](https://dev.to/withatte/why-your-competitive-intelligence-scrapers-fail-a-deep-dive-into-browser-fingerprinting-45hb)
-- [How AWS Vector Databases Empower Semantic Search and AI Applications](https://dev.to/ursarahim/how-aws-vector-databases-empower-semantic-search-and-ai-applications-bdo)
-- [Using Redis to Optimize Backend Queries](https://dev.to/armanphaugat/using-redis-to-optimize-backend-queries-n11)
-- [Public IPs Are Not LANs: A Routing Mental Model That Actually Works](https://dev.to/rakane/public-ips-are-not-lans-a-routing-mental-model-that-actually-works-2c9l)
+- [Component](https://dev.to/sasirekaarumugam/component-4mm8)
+- [Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production](https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65)
+- [Software Development Services Contracts: How to Protect Your IP Without Scaring Clients](https://dev.to/hypertools/software-development-services-contracts-how-to-protect-your-ip-without-scaring-clients-4n5a)
+- [Serve Markdown to AI Agents &lpar;10x Smaller Payloads&rpar;](https://dev.to/evoleinik/serve-markdown-to-ai-agents-10x-smaller-payloads-44di)
 <!-- BLOG-POST-LIST:END -->
 
 
