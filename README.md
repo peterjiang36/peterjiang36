@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Steps in a Tough World &lpar;SRE/DevOps&rpar;](https://dev.to/iriome2512/my-first-steps-in-a-tough-world-sredevops-5abi)
-- [Building OmniSave: A Lightweight Social Media Utility Hub for 2026 🚀](https://dev.to/anointed_6b54581b93b80677/building-omnisave-a-lightweight-social-media-utility-hub-for-2026-4be2)
-- [Strangler Fig on IBM Kubernetes: Modernizing a Monolith Without Breaking Production](https://dev.to/thej_deep_457/strangler-fig-on-ibm-kubernetes-modernizing-a-monolith-without-breaking-production-2ccg)
-- [SQLite is All You Need: The &quot;One-Person Stack&quot; for 2026](https://dev.to/zilton7/sqlite-is-all-you-need-the-one-person-stack-for-2026-23kg)
+- [Mastering Microservices Communication with Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/mastering-microservices-communication-with-go-a-practical-guide-4dhn)
+- [FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/kphere/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4)
+- [The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o)
+- [From dataset to deployment: An end-to-end QA checklist for data scientists](https://dev.to/qa-leaders/from-dataset-to-deployment-an-end-to-end-qa-checklist-for-data-scientists-a17)
 <!-- BLOG-POST-LIST:END -->
 
 
