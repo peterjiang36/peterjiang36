@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Is Memory With a Rhythm](https://dev.to/sergueyasaelshinder/music-is-memory-with-a-rhythm-4l5p)
-- [CI-Embedded Security](https://dev.to/nicolas_vbgh/ci-embedded-security-439a)
-- [[Boost]](https://dev.to/shriji/-bbb)
-- [Complexity Is Easy. Simplicity Takes Work.](https://dev.to/sergueyasaelshinder/complexity-is-easy-simplicity-takes-work-14o7)
+- [Solving bandit level:24-25 &lpar;Spoiler&rpar;](https://dev.to/z_m_570bc25c2745/solving-bandit-level24-25-spoiler-3gcg)
+- [Day 4 of #100DaysOfCode — Mastering useEffect in React](https://dev.to/m_saad_ahmad/day-4-of-100daysofcode-mastering-useeffect-in-react-4kk1)
+- [A note in blue minor](https://dev.to/novikorisnik/a-note-in-blue-minor-22i0)
+- [Amazon Market Place](https://dev.to/klarson1022/amazon-market-place-bho)
 <!-- BLOG-POST-LIST:END -->
 
 
