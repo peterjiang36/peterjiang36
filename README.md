@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Apps vs. Productivity Apps – Paywall Strategy Differences](https://dev.to/paywallpro/ai-apps-vs-productivity-apps-paywall-strategy-differences-hlc)
-- [Kubernetes e a falsa sensação de maturidade operacional](https://dev.to/maurilosantos/kubernetes-e-a-falsa-sensacao-de-maturidade-operacional-52ml)
-- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis- Part 3](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--cmc)
-- [Hola Mundo! 🚀 Soy Sofía de VisintiniTech](https://dev.to/visintinitech/hola-mundo-soy-sofia-de-visintinitech-12n0)
+- [Raw phone numbers leaking will ruin your whole day](https://dev.to/ekaone/raw-phone-numbers-leaking-will-ruin-your-whole-day-4ib2)
+- [Developers who stay relevant won’t be the ones who reject AI tools. They’ll be the ones who use them with awareness, scepticism, and intent.](https://dev.to/jaideepparashar/developers-who-stay-relevant-wont-be-the-ones-who-reject-ai-tools-theyll-be-the-ones-who-use-ljg)
+- [BioNotes: Making Quality Biology Education Accessible to All Students &lpar;Class 5-12&rpar;](https://dev.to/titasmallick/bionotes-making-quality-biology-education-accessible-to-all-students-class-5-12-5070)
+- [Understanding AI Bias in Everyday Developer Tools](https://dev.to/jaideepparashar/understanding-ai-bias-in-everyday-developer-tools-ncb)
 <!-- BLOG-POST-LIST:END -->
 
 
