@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raw phone numbers leaking will ruin your whole day](https://dev.to/ekaone/raw-phone-numbers-leaking-will-ruin-your-whole-day-4ib2)
-- [Developers who stay relevant won’t be the ones who reject AI tools. They’ll be the ones who use them with awareness, scepticism, and intent.](https://dev.to/jaideepparashar/developers-who-stay-relevant-wont-be-the-ones-who-reject-ai-tools-theyll-be-the-ones-who-use-ljg)
-- [BioNotes: Making Quality Biology Education Accessible to All Students &lpar;Class 5-12&rpar;](https://dev.to/titasmallick/bionotes-making-quality-biology-education-accessible-to-all-students-class-5-12-5070)
-- [Understanding AI Bias in Everyday Developer Tools](https://dev.to/jaideepparashar/understanding-ai-bias-in-everyday-developer-tools-ncb)
+- [I built a portfolio that can actually answers any questions about me!](https://dev.to/adebayoomolumo/i-built-a-portfolio-that-can-actually-answers-any-questions-about-me-50li)
+- [The Container &amp; Presentational Pattern: Separation of Concerns in React](https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc)
+- [Understanding ReAct &lpar;Reasoning + Action&rpar; through a simple game](https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20)
+- [Build a simple Mini Day.js Clone &amp; Logger Middleware by Call Signatures in TypeScript](https://dev.to/kelvynthai/build-a-simple-mini-dayjs-clone-logger-middleware-by-call-signatures-in-typescript-8pj)
 <!-- BLOG-POST-LIST:END -->
 
 
