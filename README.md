@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Assimp: Experimental Rust bindings](https://dev.to/kimkulling/assimp-experimental-rust-bindings-4k5f)
-- [Kubernetes Gateway API Versions: Complete Compatibility and Upgrade Guide](https://dev.to/alexandrev/kubernetes-gateway-api-versions-complete-compatibility-and-upgrade-guide-36do)
-- [Why Output Metrics Can Be Misleading in Automation](https://dev.to/automationsystemslab/why-output-metrics-can-be-misleading-in-automation-250n)
-- [Google Workspace Studio: Technical Overview](https://dev.to/alifar/google-workspace-studio-technical-overview-a63)
+- [From Matrix to Model: When Is It Finally Safe to Train ML?](https://dev.to/yurii_lozinskyi/from-matrix-to-model-when-is-it-finally-safe-to-train-ml-46o3)
+- [Build Your Own ChatGPT App &lpar;Run It Locally&rpar;](https://dev.to/javz/build-your-own-chatgpt-app-run-it-locally-2ehp)
+- [Why Network Reliability Can’t Be Solved with Alerts, Dashboards, or Runbooks](https://dev.to/james_carter_106df70cba25/why-network-reliability-cant-be-solved-with-alerts-dashboards-or-runbooks-ghc)
+- [Next.js ConnectRPC Proxy Pattern](https://dev.to/azadshukor/nextjs-connectrpc-proxy-pattern-2hpn)
 <!-- BLOG-POST-LIST:END -->
 
 
