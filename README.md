@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Forbidden Fruit Has Already Been Bitten](https://dev.to/olegchir/the-forbidden-fruit-has-already-been-bitten-1p9p)
-- [Defer vs Immediate Reactive Flow Creation &lpar;and why your Circuit Breaker can “decide too early”&rpar;](https://dev.to/jairo-dev-jr/defer-vs-immediate-reactive-flow-creation-and-why-your-circuit-breaker-can-decide-too-early-3bll)
-- [Meu Homelab](https://dev.to/ferradas/meu-homelab-11e1)
-- [Rebuilding My Static Blog with Build-Time Data and Instant Search](https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db)
+- [Designing an Authentication System: OAuth and SSO](https://dev.to/matt_frank_usa/designing-an-authentication-system-oauth-and-sso-gf7)
+- [Launch of my devlog](https://dev.to/freeboardtortoise/launch-of-my-devlog-3jmj)
+- [Designing TikTok: Short Video Platform Architecture](https://dev.to/matt_frank_usa/designing-tiktok-short-video-platform-architecture-401m)
+- [Digital Archaeology: Resurrecting GTK 1.3 for MSVC 2022](https://dev.to/jordancpp/digital-archaeology-resurrecting-gtk-13-for-msvc-2022-3o)
 <!-- BLOG-POST-LIST:END -->
 
 
