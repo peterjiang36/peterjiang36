@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Component](https://dev.to/sasirekaarumugam/component-4mm8)
-- [Zero-Downtime Deployments: Blue-Green vs Canary Strategies in Production](https://dev.to/jinpyo181/zero-downtime-deployments-blue-green-vs-canary-strategies-in-production-3e65)
-- [Software Development Services Contracts: How to Protect Your IP Without Scaring Clients](https://dev.to/hypertools/software-development-services-contracts-how-to-protect-your-ip-without-scaring-clients-4n5a)
-- [Serve Markdown to AI Agents &lpar;10x Smaller Payloads&rpar;](https://dev.to/evoleinik/serve-markdown-to-ai-agents-10x-smaller-payloads-44di)
+- [The Game-Changer Breaking Data Lake&#39;s Impossible Triangle](https://dev.to/esproc_spl/the-game-changer-breaking-data-lakes-impossible-triangle-c1c)
+- [Schemas and Data Modelling in Power BI](https://dev.to/igunza_george_37c8fef5b54/schemas-and-data-modelling-in-power-bi-1e55)
+- [What is WCAG for PDF](https://dev.to/katash/what-is-wcag-for-pdf-49hd)
+- [Generate SM2 Key Pair Using Key Parameters for Encryption and Decryption](https://dev.to/harmonyos/generate-sm2-key-pair-using-key-parameters-for-encryption-and-decryption-4519)
 <!-- BLOG-POST-LIST:END -->
 
 
