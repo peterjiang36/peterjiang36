@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Microservices Communication with Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/mastering-microservices-communication-with-go-a-practical-guide-4dhn)
-- [FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/kphere/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4)
-- [The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o)
-- [From dataset to deployment: An end-to-end QA checklist for data scientists](https://dev.to/qa-leaders/from-dataset-to-deployment-an-end-to-end-qa-checklist-for-data-scientists-a17)
+- [AI Apps vs. Productivity Apps – Paywall Strategy Differences](https://dev.to/paywallpro/ai-apps-vs-productivity-apps-paywall-strategy-differences-hlc)
+- [Kubernetes e a falsa sensação de maturidade operacional](https://dev.to/maurilosantos/kubernetes-e-a-falsa-sensacao-de-maturidade-operacional-52ml)
+- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis- Part 3](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--cmc)
+- [Hola Mundo! 🚀 Soy Sofía de VisintiniTech](https://dev.to/visintinitech/hola-mundo-soy-sofia-de-visintinitech-12n0)
 <!-- BLOG-POST-LIST:END -->
 
 
