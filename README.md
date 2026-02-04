@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Game-Changer Breaking Data Lake&#39;s Impossible Triangle](https://dev.to/esproc_spl/the-game-changer-breaking-data-lakes-impossible-triangle-c1c)
-- [Schemas and Data Modelling in Power BI](https://dev.to/igunza_george_37c8fef5b54/schemas-and-data-modelling-in-power-bi-1e55)
-- [What is WCAG for PDF](https://dev.to/katash/what-is-wcag-for-pdf-49hd)
-- [Generate SM2 Key Pair Using Key Parameters for Encryption and Decryption](https://dev.to/harmonyos/generate-sm2-key-pair-using-key-parameters-for-encryption-and-decryption-4519)
+- [I built a custom Deep Learning framework in pure Rust just to simulate Arknights: Endfield gacha luck &lpar;Talos-XII&rpar;](https://dev.to/zayoka/i-built-a-custom-deep-learning-framework-in-pure-rust-just-to-simulate-arknights-endfield-gacha-1opc)
+- [I Made My AI Agent Hire Another AI Agent &lpar;Here&#39;s the Code&rpar;](https://dev.to/lilyevesinclair/i-made-my-ai-agent-hire-another-ai-agent-heres-the-code-3ld6)
+- [How To Scale Flutter Apps: Top Tips and Strategy](https://dev.to/varsha_ojha_5b45cb023937b/how-to-scale-flutter-apps-top-tips-and-strategy-2o0e)
+- [Claude Sonnet 5 Fennec Just Leaked — Here&#39;s What We Know](https://dev.to/ryancwynar/claude-sonnet-5-fennec-just-leaked-heres-what-we-know-44oa)
 <!-- BLOG-POST-LIST:END -->
 
 
