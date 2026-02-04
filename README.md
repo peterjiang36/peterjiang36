@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer&#39;s Guide to &#39;Safe Share&#39;](https://dev.to/raviteja_nekkalapu_/the-developers-guide-to-safe-share-1je4)
-- [Mastering Email Flow Validation in Legacy Systems Using SQL](https://dev.to/mohammad_waseem_c31f3a26f/mastering-email-flow-validation-in-legacy-systems-using-sql-2p9m)
-- [The Agentic AI Crucible: What Moltbook&#39;s Wild West Teaches Leaders About Productivity, Security, and the Future of Work new](https://dev.to/prakash_maheshwaran/the-agentic-ai-crucible-what-moltbooks-wild-west-teaches-leaders-about-productivity-security-4hfb)
-- [I Watched an Anime and Built a VS Code Theme Bundle Inspired by 17th-Century Japanese Art](https://dev.to/theonemohitsharma/i-watched-an-anime-and-built-a-vs-code-theme-bundle-inspired-by-17th-century-japanese-art-h5k)
+- [The Forbidden Fruit Has Already Been Bitten](https://dev.to/olegchir/the-forbidden-fruit-has-already-been-bitten-1p9p)
+- [Defer vs Immediate Reactive Flow Creation &lpar;and why your Circuit Breaker can “decide too early”&rpar;](https://dev.to/jairo-dev-jr/defer-vs-immediate-reactive-flow-creation-and-why-your-circuit-breaker-can-decide-too-early-3bll)
+- [Meu Homelab](https://dev.to/ferradas/meu-homelab-11e1)
+- [Rebuilding My Static Blog with Build-Time Data and Instant Search](https://dev.to/ravgeetdhillon/rebuilding-my-static-blog-with-build-time-data-and-instant-search-16db)
 <!-- BLOG-POST-LIST:END -->
 
 
