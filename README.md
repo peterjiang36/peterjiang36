@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing an Authentication System: OAuth and SSO](https://dev.to/matt_frank_usa/designing-an-authentication-system-oauth-and-sso-gf7)
-- [Launch of my devlog](https://dev.to/freeboardtortoise/launch-of-my-devlog-3jmj)
-- [Designing TikTok: Short Video Platform Architecture](https://dev.to/matt_frank_usa/designing-tiktok-short-video-platform-architecture-401m)
-- [Digital Archaeology: Resurrecting GTK 1.3 for MSVC 2022](https://dev.to/jordancpp/digital-archaeology-resurrecting-gtk-13-for-msvc-2022-3o)
+- [Music Is Memory With a Rhythm](https://dev.to/sergueyasaelshinder/music-is-memory-with-a-rhythm-4l5p)
+- [CI-Embedded Security](https://dev.to/nicolas_vbgh/ci-embedded-security-439a)
+- [[Boost]](https://dev.to/shriji/-bbb)
+- [Complexity Is Easy. Simplicity Takes Work.](https://dev.to/sergueyasaelshinder/complexity-is-easy-simplicity-takes-work-14o7)
 <!-- BLOG-POST-LIST:END -->
 
 
