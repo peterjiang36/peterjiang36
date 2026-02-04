@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a portfolio that can actually answers any questions about me!](https://dev.to/adebayoomolumo/i-built-a-portfolio-that-can-actually-answers-any-questions-about-me-50li)
-- [The Container &amp; Presentational Pattern: Separation of Concerns in React](https://dev.to/masudursourav/the-container-presentational-pattern-separation-of-concerns-in-react-38mc)
-- [Understanding ReAct &lpar;Reasoning + Action&rpar; through a simple game](https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20)
-- [Build a simple Mini Day.js Clone &amp; Logger Middleware by Call Signatures in TypeScript](https://dev.to/kelvynthai/build-a-simple-mini-dayjs-clone-logger-middleware-by-call-signatures-in-typescript-8pj)
+- [Why Your Competitive Intelligence Scrapers Fail: A Deep Dive into Browser Fingerprinting](https://dev.to/withatte/why-your-competitive-intelligence-scrapers-fail-a-deep-dive-into-browser-fingerprinting-45hb)
+- [How AWS Vector Databases Empower Semantic Search and AI Applications](https://dev.to/ursarahim/how-aws-vector-databases-empower-semantic-search-and-ai-applications-bdo)
+- [Using Redis to Optimize Backend Queries](https://dev.to/armanphaugat/using-redis-to-optimize-backend-queries-n11)
+- [Public IPs Are Not LANs: A Routing Mental Model That Actually Works](https://dev.to/rakane/public-ips-are-not-lans-a-routing-mental-model-that-actually-works-2c9l)
 <!-- BLOG-POST-LIST:END -->
 
 
