@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving bandit level:24-25 &lpar;Spoiler&rpar;](https://dev.to/z_m_570bc25c2745/solving-bandit-level24-25-spoiler-3gcg)
-- [Day 4 of #100DaysOfCode — Mastering useEffect in React](https://dev.to/m_saad_ahmad/day-4-of-100daysofcode-mastering-useeffect-in-react-4kk1)
-- [A note in blue minor](https://dev.to/novikorisnik/a-note-in-blue-minor-22i0)
-- [Amazon Market Place](https://dev.to/klarson1022/amazon-market-place-bho)
+- [PostgreSQL для веб-разработчика: миграция с MySQL, JSON, оптимизация](https://dev.to/_vproger_/postgresql-dlia-vieb-razrabotchika-mighratsiia-s-mysql-json-optimizatsiia-18eo)
+- [Why CSA STAR Can&#39;t Govern AI Agents &lpar;And What Comes Next&rpar;](https://dev.to/narnaiezzsshaa/why-csa-star-cant-govern-ai-agents-and-what-comes-next-5chm)
+- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
+- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
 <!-- BLOG-POST-LIST:END -->
 
 
