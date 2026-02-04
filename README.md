@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a custom Deep Learning framework in pure Rust just to simulate Arknights: Endfield gacha luck &lpar;Talos-XII&rpar;](https://dev.to/zayoka/i-built-a-custom-deep-learning-framework-in-pure-rust-just-to-simulate-arknights-endfield-gacha-1opc)
-- [I Made My AI Agent Hire Another AI Agent &lpar;Here&#39;s the Code&rpar;](https://dev.to/lilyevesinclair/i-made-my-ai-agent-hire-another-ai-agent-heres-the-code-3ld6)
-- [How To Scale Flutter Apps: Top Tips and Strategy](https://dev.to/varsha_ojha_5b45cb023937b/how-to-scale-flutter-apps-top-tips-and-strategy-2o0e)
-- [Claude Sonnet 5 Fennec Just Leaked — Here&#39;s What We Know](https://dev.to/ryancwynar/claude-sonnet-5-fennec-just-leaked-heres-what-we-know-44oa)
+- [OS for Intelligence: How GitHub Is Fixing the AI Fragmentation](https://dev.to/poornee/os-for-intelligence-how-github-is-fixing-the-ai-fragmentation-52fj)
+- [Schemas in Power BI: Designing Models That Perform](https://dev.to/suzanne_orido_445096444b2/schemas-in-power-bi-designing-models-that-perform-4jhe)
+- [SpaceX + xAI: Are We Moving Toward a New Era of AI Infrastructure?](https://dev.to/simran_sinha/spacex-xai-are-we-moving-toward-a-new-era-of-ai-infrastructure-3h90)
+- [Bitrate vs. Resolution: 4 Key Differences and Their Role in Video Streaming.](https://dev.to/amar_thodupunoori_51b9af6/bitrate-vs-resolution-4-key-differences-and-their-role-in-video-streaming-4k5m)
 <!-- BLOG-POST-LIST:END -->
 
 
