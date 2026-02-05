@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro in 2026: Why It&#39;s Beating Next.js for Content Sites &lpar;And What Cloudflare&#39;s Acquisition Means&rpar;](https://dev.to/polliog/astro-in-2026-why-its-beating-nextjs-for-content-sites-and-what-cloudflares-acquisition-means-6kl)
-- [The Hard Parts of Software Localization](https://dev.to/nadiakacem/the-hard-parts-of-software-localization-50ad)
-- [Simple Rust Program to Add Two Vectors](https://dev.to/ben-santora/simple-rust-program-to-add-two-vectors-33eb)
-- [NEW HERE!](https://dev.to/prerna_chauhan_2bb51ee84d/new-here-2ogb)
+- [Escaping the Dumbzone, Part 4: Advanced Patterns](https://dev.to/diggidydale/escaping-the-dumbzone-part-4-advanced-patterns-151m)
+- [UUID v4 vs v7: What Changed and Why It Matters](https://dev.to/santacruz/uuid-v4-vs-v7-what-changed-and-why-it-matters-2bj6)
+- [Why Your AI Agent is a Security Nightmare &lpar;And How to Fix It&rpar; 🛡️](https://dev.to/hleliofficiel/why-your-ai-agent-is-a-security-nightmare-and-how-to-fix-it-2lpl)
+- [Object-Oriented Programming &lpar;OOPs&rpar;](https://dev.to/kirubagaran_k_438a86c991/object-oriented-programming-oops-43)
 <!-- BLOG-POST-LIST:END -->
 
 
