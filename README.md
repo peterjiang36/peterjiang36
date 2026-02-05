@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you stuck in the weeds of mechanics or lost in the clouds of &#39;player experience&#39;? Learn how to bridge the gap using my Design Tiers framework.](https://dev.to/gamedesignbites/are-you-stuck-in-the-weeds-of-mechanics-or-lost-in-the-clouds-of-player-experience-learn-how-to-4bbo)
-- [Docker como blindaje: estrategias para contener y desplegar sistemas legacy sin riesgos](https://dev.to/draexx/docker-como-blindaje-estrategias-para-contener-y-desplegar-sistemas-legacy-sin-riesgos-3jpb)
-- [Seamless Dev Environment Isolation During High Traffic Events with React and DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/seamless-dev-environment-isolation-during-high-traffic-events-with-react-and-devops-strategies-7b9)
-- [From 400-Line Import Controllers to 20-Line Configs in Laravel](https://dev.to/zappzerapp/from-400-line-import-controllers-to-20-line-configs-in-laravel-p99)
+- [Coordination Is the Substrate: What NVIDIA&#39;s Groq Acquisition Really Signals About AI Governance](https://dev.to/narnaiezzsshaa/coordination-is-the-substrate-what-nvidias-groq-acquisition-really-signals-about-ai-governance-2d14)
+- [Why WebSockets Are Overkill for Most Real-Time Apps](https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga)
+- [Why We Built 9 Agent Kits in 1 Day](https://dev.to/seakai/why-we-built-9-agent-kits-in-1-day-4408)
+- [The Best Ways to Build a Blog in Rails 8: From Markdown to Action Text](https://dev.to/zilton7/the-best-ways-to-build-a-blog-in-rails-8-from-markdown-to-action-text-4e0b)
 <!-- BLOG-POST-LIST:END -->
 
 
