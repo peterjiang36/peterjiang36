@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two &quot;Medium&quot; Findings That Chain Into Full Infrastructure Compromise](https://dev.to/praetorian_guard/two-medium-findings-that-chain-into-full-infrastructure-compromise-2amg)
-- [Building a Simple REST API with Express.js — The Right Way](https://dev.to/kafeel-ahmad/building-a-simple-rest-api-with-expressjs-the-right-way-5809)
-- [Detecting DOM Injections at Runtime: Why Static Defenses Fail](https://dev.to/juicyscore/detecting-dom-injections-at-runtime-why-static-defenses-fail-3g3m)
-- [🎫Beginner-Friendly Guide &#39;Transformed Array&#39; - Problem 3379 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-transformed-array-problem-3379-c-python-javascript-1na1)
+- [Zod + defensive parsing in a local-first app: make your offline data trustworthy](https://dev.to/crisiscoresystems/zod-defensive-parsing-in-a-local-first-app-make-your-offline-data-trustworthy-1016)
+- [Why I Didn’t Post for 3 Days — And What I Finally Learned 🔍](https://dev.to/usama_dev/why-i-didnt-post-for-3-days-and-what-i-finally-learned-4do1)
+- [I Didn’t Stop Using AI — I Changed Where It Was Allowed](https://dev.to/luketaylor25/i-didnt-stop-using-ai-i-changed-where-it-was-allowed-295d)
+- [How Behaviour-Driven Development Changes the Way You Code](https://dev.to/aneeqakhan/how-behaviour-driven-development-changes-the-way-you-code-fai)
 <!-- BLOG-POST-LIST:END -->
 
 
