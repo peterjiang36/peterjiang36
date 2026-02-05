@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;key Cloud Computing Concepts Every Beginner Should Know&quot;](https://dev.to/nnamdi_nmarah_99864892d19/key-cloud-computing-concepts-every-beginner-should-know-170l)
-- [Designing With Everyone in Mind: Color &amp; Accessibility](https://dev.to/fgoyer/designing-with-everyone-in-mind-color-accessibility-5dpo)
-- [The $18,000 Lesson](https://dev.to/bhoyee/the-18000-lesson-4co8)
-- [The Architect’s Guide to Automated Outreach: Beyond the “Hello”](https://dev.to/onlineproxy_io/the-architects-guide-to-automated-outreach-beyond-the-hello-14hb)
+- [Implementing gRPC.](https://dev.to/gokul_gk/implementing-grpc-4llc)
+- [Binary Search Trees: Why They’re Great in Memory but Terrible on Disk](https://dev.to/quame_jnr1/binary-search-trees-why-theyre-great-in-memory-but-terrible-on-disk-1fjb)
+- [Linux Kernel Deep Dive: Zombie Processes and Modern Process Management](https://dev.to/kanywst/linux-kernel-deep-dive-zombie-processes-and-modern-process-management-1p1g)
+- [Stop Leaking API Keys in your AI Agent Logs: A Go Sidecar Approach](https://dev.to/aragossa/stop-leaking-api-keys-in-your-ai-agent-logs-a-go-sidecar-approach-d3)
 <!-- BLOG-POST-LIST:END -->
 
 
