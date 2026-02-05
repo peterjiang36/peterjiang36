@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Highly Available And / Or Fault-Tolerant Architectures](https://dev.to/aws-builders/design-highly-available-and-or-fault-tolerant-architectures-1eb5)
-- [CodeRabbit&#39;s Evolution: AI Code Review on Your Local Device](https://dev.to/saas_tech/coderabbits-evolution-ai-code-review-in-your-local-device-5b67)
-- [5 Signs You&#39;re Undercharging as a Freelancer &lpar;And What to Do About It&rpar;](https://dev.to/fairpricework/5-signs-youre-undercharging-as-a-freelancer-and-what-to-do-about-it-2gcf)
-- [Why I Started Building My Portfolio Early](https://dev.to/dinesh_04/why-i-started-building-my-portfolio-early-150k)
+- [Rust in Linux: Fixing the Edges, Not the Core](https://dev.to/ben-santora/rust-in-linux-fixing-the-edges-not-the-core-218i)
+- [Showing the Power of RS-X with a “Scary” Credit-Risk Formula](https://dev.to/robert_sanders_04918a4344/showing-the-power-of-rs-x-with-a-scary-credit-risk-formula-nlp)
+- [Monorepo governance: module best practices and code ownership](https://dev.to/kodus/monorepo-governance-module-best-practices-and-code-ownership-4o87)
+- [Am I becoming selectively text blind?](https://dev.to/xwero/am-i-becoming-selectively-text-blind-3g59)
 <!-- BLOG-POST-LIST:END -->
 
 
