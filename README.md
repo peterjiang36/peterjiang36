@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code Explained](https://dev.to/infraforgelabs/infrastructure-as-code-explained-1e3b)
-- [OSI Layer 1—The Forge: Matter, Signal, and the Substrate of Reality](https://dev.to/narnaiezzsshaa/osi-layer-1-the-forge-matter-signal-and-the-substrate-of-reality-74b)
-- [I added 10 sections to my tools homepage… how many are actually needed?](https://dev.to/bhavin-allinonetools/i-added-10-sections-to-my-tools-homepage-how-many-are-actually-needed-56g0)
-- [🐳 Minecraft + Docker: My personal config to stop suffering with Java](https://dev.to/alpha018/minecraft-docker-my-personal-config-to-stop-suffering-with-java-35a7)
+- [Building a Production-Ready Daily Customer Orders Snapshot with Airflow, Python, and Oracle](https://dev.to/peter_ongwae_78d1c9273164/building-a-production-ready-daily-customer-orders-snapshot-with-airflow-python-and-oracle-1ic)
+- [My Java Notes: Understanding String](https://dev.to/kesavarthini/my-java-notes-understanding-string-38oo)
+- [Features of Java](https://dev.to/abishek_44a09d1e1af19b4ca/features-of-java-44p)
+- [Building Trust in AI Agents: Why Identity Verification is the Missing Layer](https://dev.to/samuel_deering_c7e6384a18/building-trust-in-ai-agents-why-identity-verification-is-the-missing-layer-5477)
 <!-- BLOG-POST-LIST:END -->
 
 
