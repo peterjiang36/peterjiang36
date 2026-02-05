@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coordination Is the Substrate: What NVIDIA&#39;s Groq Acquisition Really Signals About AI Governance](https://dev.to/narnaiezzsshaa/coordination-is-the-substrate-what-nvidias-groq-acquisition-really-signals-about-ai-governance-2d14)
-- [Why WebSockets Are Overkill for Most Real-Time Apps](https://dev.to/aitrandingprompt/why-websockets-are-overkill-for-most-real-time-apps-12ga)
-- [Why We Built 9 Agent Kits in 1 Day](https://dev.to/seakai/why-we-built-9-agent-kits-in-1-day-4408)
-- [The Best Ways to Build a Blog in Rails 8: From Markdown to Action Text](https://dev.to/zilton7/the-best-ways-to-build-a-blog-in-rails-8-from-markdown-to-action-text-4e0b)
+- [Day 2: Advanced SQL Preparation Guide](https://dev.to/neeraj1997dev/day-2-advanced-sql-preparation-guide-4p85)
+- [When the Industry Starts Describing the Symptoms of a Collapse You Already Mapped](https://dev.to/narnaiezzsshaa/when-the-industry-starts-describing-the-symptoms-of-a-collapse-you-already-mapped-pf4)
+- [When AI Traffic Breaks Your Billing System](https://dev.to/telecomhub/when-ai-traffic-breaks-your-billing-system-cj8)
+- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
 <!-- BLOG-POST-LIST:END -->
 
 
