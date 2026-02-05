@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Claude Code Skill That Scaffolds Complete Arbitrum dApps](https://dev.to/bengreenberg/how-i-built-a-claude-code-skill-that-scaffolds-complete-arbitrum-dapps-2njl)
-- [SEO Is a Marathon: How AI Agents Can Help You Stay the Course](https://dev.to/stikhonchuk/seo-is-a-marathon-how-ai-agents-can-help-you-stay-the-course-3i2d)
-- [87% Compromised in 4 Hours: The Memory Poisoning Stat That Should Terrify AI Developers](https://dev.to/mkdelta221/87-compromised-in-4-hours-the-memory-poisoning-stat-that-should-terrify-ai-developers-58oc)
-- [KAYAP: Hardening Drone Stability via Neural Differential Manifolds](https://dev.to/hejhdiss/kayap-hardening-drone-stability-via-neural-differential-manifolds-4990)
+- [Currying in JavaScript](https://dev.to/pratik098/currying-in-javascript-jhd)
+- [WordPress’te Ani Performans Düşüşünü Nasıl Çözdüm? &lpar;Kadence + LiteSpeed&rpar;](https://dev.to/yeni_umit_da140e5dde1b710/wordpresste-ani-performans-dususunu-nasil-cozdum-kadence-litespeed-4hk4)
+- [Why Automated Image Cleanup Breaks Resolution &lpar;And the &quot;Clean &amp; Clarify&quot; Workflow&rpar;](https://dev.to/sofiabennett84/why-automated-image-cleanup-breaks-resolution-and-the-clean-clarify-workflow-4d1h)
+- [Reducing LLM API Costs by 43%: A Technical Deep-Dive into Intelligent Prompt Routing](https://dev.to/dwelvin_morgan_38be4ff3ba/reducing-llm-api-costs-by-43-a-technical-deep-dive-into-intelligent-prompt-routing-17o8)
 <!-- BLOG-POST-LIST:END -->
 
 
