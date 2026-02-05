@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping the Dumbzone, Part 4: Advanced Patterns](https://dev.to/diggidydale/escaping-the-dumbzone-part-4-advanced-patterns-151m)
-- [UUID v4 vs v7: What Changed and Why It Matters](https://dev.to/santacruz/uuid-v4-vs-v7-what-changed-and-why-it-matters-2bj6)
-- [Why Your AI Agent is a Security Nightmare &lpar;And How to Fix It&rpar; 🛡️](https://dev.to/hleliofficiel/why-your-ai-agent-is-a-security-nightmare-and-how-to-fix-it-2lpl)
-- [Object-Oriented Programming &lpar;OOPs&rpar;](https://dev.to/kirubagaran_k_438a86c991/object-oriented-programming-oops-43)
+- [When “Clean Architecture” Isn’t So Clean: Rethinking Validation in the Domain](https://dev.to/sympol/when-clean-architecture-isnt-so-clean-rethinking-validation-in-the-domain-49on)
+- [I Built Financial Habits That Were Easy to Abandon](https://dev.to/jamespatterson25/i-built-financial-habits-that-were-easy-to-abandon-2kg)
+- [Video Understanding with Gemini 3.0 Flash for Robotics](https://dev.to/ptruiz/video-understanding-with-gemini-30-flash-for-robotics-5896)
+- [Fighting with json - a war story](https://dev.to/kimkulling/fighting-with-json-a-war-story-41dn)
 <!-- BLOG-POST-LIST:END -->
 
 
