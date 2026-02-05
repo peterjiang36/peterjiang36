@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman Ends Free Team Plans in March 2026. Here Is The Free Alternative I Switched To](https://dev.to/auden/postman-ends-free-team-plans-in-march-2026-here-is-the-free-alternative-i-switched-to-118p)
-- [I Implemented Every Sorting Algorithm in Python — And Python&#39;s Built-in Sort Crushed Them All](https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25)
-- [Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works](https://dev.to/zain_bhhh_a724a3531cee8c5/shipping-a-location-based-app-in-nycsubway-dead-zones-urban-canyonsand-what-actually-works-3ajh)
-- [Beyond the Vibes: Vibe Coding Changed Who Can Build, Not How Software Should Be Built](https://dev.to/guypowell/beyond-the-vibes-vibe-coding-changed-who-can-build-not-how-software-should-be-built-1n0e)
+- [La Meta no es &lpar;solo&rpar; sobre fábricas: Sincronizando tu empresa en la era de la IA](https://dev.to/datalaria/la-meta-no-es-solo-sobre-fabricas-sincronizando-tu-empresa-en-la-era-de-la-ia-28fc)
+- [Introduction to serializers in Django Rest Framework &lpar;DRF&rpar; Part II](https://dev.to/prabodh_tuladhar/introduction-to-serializers-in-django-rest-framework-drf-part-ii-448n)
+- [How I Built Graft: An Overlay Engine for Terraform Modules](https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i)
+- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
 <!-- BLOG-POST-LIST:END -->
 
 
