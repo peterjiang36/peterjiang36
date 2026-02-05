@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Advanced SQL Preparation Guide](https://dev.to/neeraj1997dev/day-2-advanced-sql-preparation-guide-4p85)
-- [When the Industry Starts Describing the Symptoms of a Collapse You Already Mapped](https://dev.to/narnaiezzsshaa/when-the-industry-starts-describing-the-symptoms-of-a-collapse-you-already-mapped-pf4)
-- [When AI Traffic Breaks Your Billing System](https://dev.to/telecomhub/when-ai-traffic-breaks-your-billing-system-cj8)
-- [I Know This Will Upset Some Devs, but Tailwind + Shadcn/ui + Shadow DOM = Pain](https://dev.to/ujja/i-know-this-will-upset-some-devs-but-tailwind-shadcnui-shadow-dom-pain-44l7)
+- [☁️ Unmasking Serverless Secrets: A Deep Dive into](https://dev.to/harsh_a45dbc191edc27e4b96/unmasking-serverless-secrets-a-deep-dive-into-2ima)
+- [Building a Treasury SaaS with React, Node.js, Firebase &amp; MySQL](https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj)
+- [Global Tech Interview Preparation: What Top Companies Look For](https://dev.to/ekene_chris_f9327ebe41680/global-tech-interview-preparation-what-top-companies-look-for-3kea)
+- [The Bug That Made Me Question Reality for a Few Hours](https://dev.to/techstratos/the-bug-that-made-me-question-reality-for-a-few-hours-4k74)
 <!-- BLOG-POST-LIST:END -->
 
 
