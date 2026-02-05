@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace Turbo confirm with native dialog](https://dev.to/railsdesigner/replace-turbo-confirm-with-native-dialog-2emh)
-- [I built a CLI for the process/port commands I could never remember](https://dev.to/yazeedaloyoun/i-built-a-cli-for-the-processport-commands-i-could-never-remember-1mb6)
-- [GoPlan: AI-Powered Task Management](https://dev.to/aman_asmuei/goplan-ai-powered-task-management-5bgo)
-- [&quot;An Overview of Core Cloud Computing Principles&quot;](https://dev.to/pirrezz/an-overview-of-core-cloud-computing-principles-4h04)
+- [DaFuzz?!](https://dev.to/kernelphantom_010/dafuzz-1ok8)
+- [🚀 I Built SkillDebt.ai to Understand My Own Skill Gaps](https://dev.to/pravesh_sudha_3c2b0c2b5e0/i-built-skilldebtai-to-understand-my-own-skill-gaps-3729)
+- [Dunning-Kruger Effect and Imposter Syndrome: Developer&#39;s Hidden Caveat that is Rarely Spoken Off.](https://dev.to/francistrdev/dunning-kruger-effect-and-imposter-syndrome-developers-hidden-caveat-that-is-rarely-spoken-off-41jg)
+- [On-Call Incident Triage Panel](https://dev.to/sreenu_sasubilli_f9289c4e/on-call-incident-triage-panel-id9)
 <!-- BLOG-POST-LIST:END -->
 
 
