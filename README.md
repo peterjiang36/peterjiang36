@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DaFuzz?!](https://dev.to/kernelphantom_010/dafuzz-1ok8)
-- [🚀 I Built SkillDebt.ai to Understand My Own Skill Gaps](https://dev.to/pravesh_sudha_3c2b0c2b5e0/i-built-skilldebtai-to-understand-my-own-skill-gaps-3729)
-- [Dunning-Kruger Effect and Imposter Syndrome: Developer&#39;s Hidden Caveat that is Rarely Spoken Off.](https://dev.to/francistrdev/dunning-kruger-effect-and-imposter-syndrome-developers-hidden-caveat-that-is-rarely-spoken-off-41jg)
-- [On-Call Incident Triage Panel](https://dev.to/sreenu_sasubilli_f9289c4e/on-call-incident-triage-panel-id9)
+- [FlutterJS: I Built a Flutter Compiler That Outputs Real HTML &lpar;Not Canvas&rpar;](https://dev.to/flutterjs/flutterjs-i-built-a-flutter-compiler-that-outputs-real-html-not-canvas-1kc4)
+- [I built an Open-Source CLI that stops your AI terminal from leaking secrets](https://dev.to/dsjacobsen/i-built-an-open-source-cli-that-stops-your-ai-terminal-from-leaking-secrets-4ocb)
+- [TableCraft: From 5 Hours to 5 Minutes for Production-Ready Table APIs](https://dev.to/jacksonkasi/building-tablecraft-from-5-hours-to-5-minutes-for-production-ready-table-apis-am0)
+- [What If Your AI Had Visual Studio&#39;s IntelliSense?](https://dev.to/ladislav_sopko_0ics/what-if-your-ai-had-visual-studios-intellisense-40e7)
 <!-- BLOG-POST-LIST:END -->
 
 
