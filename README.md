@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing gRPC.](https://dev.to/gokul_gk/implementing-grpc-4llc)
-- [Binary Search Trees: Why They’re Great in Memory but Terrible on Disk](https://dev.to/quame_jnr1/binary-search-trees-why-theyre-great-in-memory-but-terrible-on-disk-1fjb)
-- [Linux Kernel Deep Dive: Zombie Processes and Modern Process Management](https://dev.to/kanywst/linux-kernel-deep-dive-zombie-processes-and-modern-process-management-1p1g)
-- [Stop Leaking API Keys in your AI Agent Logs: A Go Sidecar Approach](https://dev.to/aragossa/stop-leaking-api-keys-in-your-ai-agent-logs-a-go-sidecar-approach-d3)
+- [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
+- [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
+- [What really breaks large-scale cloud migrations — Solution!](https://dev.to/claudiodevops/what-really-breaks-large-scale-cloud-migrations-solution-50o2)
+- [Incremental Content Management with Laravel and Eleventy](https://dev.to/joshvickerson/incremental-content-management-with-laravel-and-eleventy-3iph)
 <!-- BLOG-POST-LIST:END -->
 
 
