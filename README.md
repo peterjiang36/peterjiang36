@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust in Linux: Fixing the Edges, Not the Core](https://dev.to/ben-santora/rust-in-linux-fixing-the-edges-not-the-core-218i)
-- [Showing the Power of RS-X with a “Scary” Credit-Risk Formula](https://dev.to/robert_sanders_04918a4344/showing-the-power-of-rs-x-with-a-scary-credit-risk-formula-nlp)
-- [Monorepo governance: module best practices and code ownership](https://dev.to/kodus/monorepo-governance-module-best-practices-and-code-ownership-4o87)
-- [Am I becoming selectively text blind?](https://dev.to/xwero/am-i-becoming-selectively-text-blind-3g59)
+- [How I Built a Claude Code Skill That Scaffolds Complete Arbitrum dApps](https://dev.to/bengreenberg/how-i-built-a-claude-code-skill-that-scaffolds-complete-arbitrum-dapps-2njl)
+- [SEO Is a Marathon: How AI Agents Can Help You Stay the Course](https://dev.to/stikhonchuk/seo-is-a-marathon-how-ai-agents-can-help-you-stay-the-course-3i2d)
+- [87% Compromised in 4 Hours: The Memory Poisoning Stat That Should Terrify AI Developers](https://dev.to/mkdelta221/87-compromised-in-4-hours-the-memory-poisoning-stat-that-should-terrify-ai-developers-58oc)
+- [KAYAP: Hardening Drone Stability via Neural Differential Manifolds](https://dev.to/hejhdiss/kayap-hardening-drone-stability-via-neural-differential-manifolds-4990)
 <!-- BLOG-POST-LIST:END -->
 
 
