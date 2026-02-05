@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When “Clean Architecture” Isn’t So Clean: Rethinking Validation in the Domain](https://dev.to/sympol/when-clean-architecture-isnt-so-clean-rethinking-validation-in-the-domain-49on)
-- [I Built Financial Habits That Were Easy to Abandon](https://dev.to/jamespatterson25/i-built-financial-habits-that-were-easy-to-abandon-2kg)
-- [Video Understanding with Gemini 3.0 Flash for Robotics](https://dev.to/ptruiz/video-understanding-with-gemini-30-flash-for-robotics-5896)
-- [Fighting with json - a war story](https://dev.to/kimkulling/fighting-with-json-a-war-story-41dn)
+- [Two &quot;Medium&quot; Findings That Chain Into Full Infrastructure Compromise](https://dev.to/praetorian_guard/two-medium-findings-that-chain-into-full-infrastructure-compromise-2amg)
+- [Building a Simple REST API with Express.js — The Right Way](https://dev.to/kafeel-ahmad/building-a-simple-rest-api-with-expressjs-the-right-way-5809)
+- [Detecting DOM Injections at Runtime: Why Static Defenses Fail](https://dev.to/juicyscore/detecting-dom-injections-at-runtime-why-static-defenses-fail-3g3m)
+- [🎫Beginner-Friendly Guide &#39;Transformed Array&#39; - Problem 3379 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-transformed-array-problem-3379-c-python-javascript-1na1)
 <!-- BLOG-POST-LIST:END -->
 
 
