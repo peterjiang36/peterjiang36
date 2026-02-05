@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zod + defensive parsing in a local-first app: make your offline data trustworthy](https://dev.to/crisiscoresystems/zod-defensive-parsing-in-a-local-first-app-make-your-offline-data-trustworthy-1016)
-- [Why I Didn’t Post for 3 Days — And What I Finally Learned 🔍](https://dev.to/usama_dev/why-i-didnt-post-for-3-days-and-what-i-finally-learned-4do1)
-- [I Didn’t Stop Using AI — I Changed Where It Was Allowed](https://dev.to/luketaylor25/i-didnt-stop-using-ai-i-changed-where-it-was-allowed-295d)
-- [How Behaviour-Driven Development Changes the Way You Code](https://dev.to/aneeqakhan/how-behaviour-driven-development-changes-the-way-you-code-fai)
+- [Replace Turbo confirm with native dialog](https://dev.to/railsdesigner/replace-turbo-confirm-with-native-dialog-2emh)
+- [I built a CLI for the process/port commands I could never remember](https://dev.to/yazeedaloyoun/i-built-a-cli-for-the-processport-commands-i-could-never-remember-1mb6)
+- [GoPlan: AI-Powered Task Management](https://dev.to/aman_asmuei/goplan-ai-powered-task-management-5bgo)
+- [&quot;An Overview of Core Cloud Computing Principles&quot;](https://dev.to/pirrezz/an-overview-of-core-cloud-computing-principles-4h04)
 <!-- BLOG-POST-LIST:END -->
 
 
