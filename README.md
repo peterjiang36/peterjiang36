@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FlutterJS: I Built a Flutter Compiler That Outputs Real HTML &lpar;Not Canvas&rpar;](https://dev.to/flutterjs/flutterjs-i-built-a-flutter-compiler-that-outputs-real-html-not-canvas-1kc4)
-- [I built an Open-Source CLI that stops your AI terminal from leaking secrets](https://dev.to/dsjacobsen/i-built-an-open-source-cli-that-stops-your-ai-terminal-from-leaking-secrets-4ocb)
-- [TableCraft: From 5 Hours to 5 Minutes for Production-Ready Table APIs](https://dev.to/jacksonkasi/building-tablecraft-from-5-hours-to-5-minutes-for-production-ready-table-apis-am0)
-- [What If Your AI Had Visual Studio&#39;s IntelliSense?](https://dev.to/ladislav_sopko_0ics/what-if-your-ai-had-visual-studios-intellisense-40e7)
+- [&quot;key Cloud Computing Concepts Every Beginner Should Know&quot;](https://dev.to/nnamdi_nmarah_99864892d19/key-cloud-computing-concepts-every-beginner-should-know-170l)
+- [Designing With Everyone in Mind: Color &amp; Accessibility](https://dev.to/fgoyer/designing-with-everyone-in-mind-color-accessibility-5dpo)
+- [The $18,000 Lesson](https://dev.to/bhoyee/the-18000-lesson-4co8)
+- [The Architect’s Guide to Automated Outreach: Beyond the “Hello”](https://dev.to/onlineproxy_io/the-architects-guide-to-automated-outreach-beyond-the-hello-14hb)
 <!-- BLOG-POST-LIST:END -->
 
 
