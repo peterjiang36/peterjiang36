@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Currying in JavaScript](https://dev.to/pratik098/currying-in-javascript-jhd)
-- [WordPress’te Ani Performans Düşüşünü Nasıl Çözdüm? &lpar;Kadence + LiteSpeed&rpar;](https://dev.to/yeni_umit_da140e5dde1b710/wordpresste-ani-performans-dususunu-nasil-cozdum-kadence-litespeed-4hk4)
-- [Why Automated Image Cleanup Breaks Resolution &lpar;And the &quot;Clean &amp; Clarify&quot; Workflow&rpar;](https://dev.to/sofiabennett84/why-automated-image-cleanup-breaks-resolution-and-the-clean-clarify-workflow-4d1h)
-- [Reducing LLM API Costs by 43%: A Technical Deep-Dive into Intelligent Prompt Routing](https://dev.to/dwelvin_morgan_38be4ff3ba/reducing-llm-api-costs-by-43-a-technical-deep-dive-into-intelligent-prompt-routing-17o8)
+- [@sandagent/sdk — Run Claude in a Sandbox with Vercel AI SDK Streams](https://dev.to/shue_zheng_a1d2e9cc33f6fd/sandagentsdk-run-claude-in-a-sandbox-with-vercel-ai-sdk-streams-1ed3)
+- [Why Folder Structure Matters During Development &lpar;With `app/` Directory Example&rpar;](https://dev.to/hamidrazadev/why-folder-structure-matters-during-development-with-app-directory-example-4ldb)
+- [Java em Containers: Estratégias Modernas para Build](https://dev.to/denisarruda/java-em-containers-estrategias-modernas-para-build-1bpa)
+- [Ghibli moment for 3D Printing](https://dev.to/ankk98/ghibli-moment-for-3d-printing-1lh1)
 <!-- BLOG-POST-LIST:END -->
 
 
