@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [☁️ Unmasking Serverless Secrets: A Deep Dive into](https://dev.to/harsh_a45dbc191edc27e4b96/unmasking-serverless-secrets-a-deep-dive-into-2ima)
-- [Building a Treasury SaaS with React, Node.js, Firebase &amp; MySQL](https://dev.to/hernan_ricardo/building-a-treasury-saas-with-react-nodejs-firebase-mysql-4ogj)
-- [Global Tech Interview Preparation: What Top Companies Look For](https://dev.to/ekene_chris_f9327ebe41680/global-tech-interview-preparation-what-top-companies-look-for-3kea)
-- [The Bug That Made Me Question Reality for a Few Hours](https://dev.to/techstratos/the-bug-that-made-me-question-reality-for-a-few-hours-4k74)
+- [Infrastructure as Code Explained](https://dev.to/infraforgelabs/infrastructure-as-code-explained-1e3b)
+- [OSI Layer 1—The Forge: Matter, Signal, and the Substrate of Reality](https://dev.to/narnaiezzsshaa/osi-layer-1-the-forge-matter-signal-and-the-substrate-of-reality-74b)
+- [I added 10 sections to my tools homepage… how many are actually needed?](https://dev.to/bhavin-allinonetools/i-added-10-sections-to-my-tools-homepage-how-many-are-actually-needed-56g0)
+- [🐳 Minecraft + Docker: My personal config to stop suffering with Java](https://dev.to/alpha018/minecraft-docker-my-personal-config-to-stop-suffering-with-java-35a7)
 <!-- BLOG-POST-LIST:END -->
 
 
