@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [La Meta no es &lpar;solo&rpar; sobre fábricas: Sincronizando tu empresa en la era de la IA](https://dev.to/datalaria/la-meta-no-es-solo-sobre-fabricas-sincronizando-tu-empresa-en-la-era-de-la-ia-28fc)
-- [Introduction to serializers in Django Rest Framework &lpar;DRF&rpar; Part II](https://dev.to/prabodh_tuladhar/introduction-to-serializers-in-django-rest-framework-drf-part-ii-448n)
-- [How I Built Graft: An Overlay Engine for Terraform Modules](https://dev.to/mshenglu/how-i-built-graft-an-overlay-engine-for-terraform-modules-5d8i)
-- [Deploy Like Vercel on Your Own VPS: A Complete ServerCompass Guide](https://dev.to/harry_nguyen_79369d8e9cdb/deploy-like-vercel-on-your-own-vps-a-complete-servercompass-guide-i18)
+- [Design Highly Available And / Or Fault-Tolerant Architectures](https://dev.to/aws-builders/design-highly-available-and-or-fault-tolerant-architectures-1eb5)
+- [CodeRabbit&#39;s Evolution: AI Code Review on Your Local Device](https://dev.to/saas_tech/coderabbits-evolution-ai-code-review-in-your-local-device-5b67)
+- [5 Signs You&#39;re Undercharging as a Freelancer &lpar;And What to Do About It&rpar;](https://dev.to/fairpricework/5-signs-youre-undercharging-as-a-freelancer-and-what-to-do-about-it-2gcf)
+- [Why I Started Building My Portfolio Early](https://dev.to/dinesh_04/why-i-started-building-my-portfolio-early-150k)
 <!-- BLOG-POST-LIST:END -->
 
 
