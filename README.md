@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Efficiency: Best Practices for Embracing the DRY Principle](https://dev.to/vjnvisakh/mastering-efficiency-best-practices-for-embracing-the-dry-principle-hh1)
+- [When Enterprises Vibe Code On A Grand Scale and Its a Rare W!](https://dev.to/theonemohitsharma/when-enterprises-vibe-code-on-a-grand-scale-and-its-a-rare-w-4gjo)
+- [What is Potpie.ai and why it matters for developers](https://dev.to/harshal_rembhotkar/what-is-potpieai-and-why-it-matters-for-developers-199j)
 - [Burnout is just &quot;Thermal Throttling&quot;: A Debugging Guide for Engineers](https://dev.to/archietechofficial/burnout-is-just-thermal-throttling-a-debugging-guide-for-engineers-13df)
-- [I used to hate Laravel. Now it’s my 2026 primary stack](https://dev.to/espfra95/i-used-to-hate-laravel-now-its-my-2026-primary-stack-47ff)
-- [This Week In React #267 : Bun, Next-Intl, Grab, Aria | Worklets, Teleport, Voltra, AI SDK, Screens | State of JS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-267-bun-next-intl-grab-aria-worklets-teleport-voltra-ai-sdk-screens-23gb)
-- [I Made My Claude AI Agents Invent Their Own Language. It Cut Token Costs by 63%.](https://dev.to/suede/i-made-my-claude-ai-agents-invent-their-own-language-it-cut-token-costs-by-63-1lag)
 <!-- BLOG-POST-LIST:END -->
 
 
