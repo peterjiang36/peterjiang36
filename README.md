@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Making AI Learn From Us](https://dev.to/rawveg/stop-making-ai-learn-from-us-31c)
-- [Laravel Eloquent Tips &amp; Tricks Every Pro Developer Should Know](https://dev.to/robin-ivi/laravel-eloquent-tips-tricks-every-pro-developer-should-know-4f86)
-- [Open-Source vs Closed-Source AI Models Explained Using a Siblings Analogy](https://dev.to/sharur7/open-source-vs-closed-source-ai-models-explained-using-a-siblings-analogy-2ddc)
-- [Dunning-Kruger Effect 2.0: The &#39;Illusion of Omnipotence&#39; in the AI Era](https://dev.to/kanywst/dunning-kruger-effect-20-the-illusion-of-omnipotence-in-the-ai-era-3aam)
+- [Learning programming is hard. Learning it alone is even harder.](https://dev.to/renato_silva_71eef0fc385f/learning-programming-is-hard-learning-it-alone-is-even-harder-2i78)
+- [Multimodal Visual Understanding in Swift &lpar;aka: &quot;why is this still so hard on-device?&quot;&rpar;](https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j)
+- [🚀 Bullstudio — A Prisma-Studio-Style Dashboard for BullMQ You Can Run in Seconds](https://dev.to/emirce/bullstudio-a-prisma-studio-style-dashboard-for-bullmq-you-can-run-in-seconds-365a)
+- [Building an AI-Powered RAG Application with Puter.js](https://dev.to/reynaldi/building-an-ai-powered-rag-application-with-puterjs-1j9l)
 <!-- BLOG-POST-LIST:END -->
 
 
