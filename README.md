@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
-- [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
-- [What really breaks large-scale cloud migrations — Solution!](https://dev.to/claudiodevops/what-really-breaks-large-scale-cloud-migrations-solution-50o2)
-- [Incremental Content Management with Laravel and Eleventy](https://dev.to/joshvickerson/incremental-content-management-with-laravel-and-eleventy-3iph)
+- [Stop Blaming AWS Defaults for Your Misconfigurations](https://dev.to/narnaiezzsshaa/stop-blaming-aws-defaults-for-your-misconfigurations-5gbo)
+- [Checkout this amazing NPM package](https://dev.to/alex_willis_01499a1f2528a/checkout-this-amazing-npm-package-35g5)
+- [From 200K to 1M: How Claude Opus 4.6 Changed My AI Development Workflow Overnight](https://dev.to/olaproeis/from-200k-to-1m-how-claude-opus-46-changed-my-ai-development-workflow-overnight-36gl)
+- [Change of questioning is important](https://dev.to/hi_mrinal/change-of-questioning-is-important-2nm9)
 <!-- BLOG-POST-LIST:END -->
 
 
