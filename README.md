@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Concentrated Differential Privacy](https://dev.to/paperium/concentrated-differential-privacy-1o88)
-- [Smart Dataset Cleaner](https://dev.to/prashant_tiwari_869960e4f/smart-dataset-cleaner-1bdp)
-- [OSIRIS a vendor-neutral JSON format for infrastructure snapshots &lpar;IT/OT&rpar;](https://dev.to/skhell/osiris-a-vendor-neutral-json-format-for-infrastructure-snapshots-itot-42e9)
-- [The Complete Medical Student Productivity Stack: 5 Tools That Got Me Through Med School and Residency](https://dev.to/mullair_jeudi_e8259c5c82d/the-complete-medical-student-productivity-stack-5-tools-that-got-me-through-med-school-and-1fk)
+- [Burnout is just &quot;Thermal Throttling&quot;: A Debugging Guide for Engineers](https://dev.to/archietechofficial/burnout-is-just-thermal-throttling-a-debugging-guide-for-engineers-13df)
+- [I used to hate Laravel. Now it’s my 2026 primary stack](https://dev.to/espfra95/i-used-to-hate-laravel-now-its-my-2026-primary-stack-47ff)
+- [This Week In React #267 : Bun, Next-Intl, Grab, Aria | Worklets, Teleport, Voltra, AI SDK, Screens | State of JS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-267-bun-next-intl-grab-aria-worklets-teleport-voltra-ai-sdk-screens-23gb)
+- [I Made My Claude AI Agents Invent Their Own Language. It Cut Token Costs by 63%.](https://dev.to/suede/i-made-my-claude-ai-agents-invent-their-own-language-it-cut-token-costs-by-63-1lag)
 <!-- BLOG-POST-LIST:END -->
 
 
