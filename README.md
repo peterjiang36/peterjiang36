@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Login Failures That Hurt Conversion](https://dev.to/corbado/5-login-failures-that-hurt-conversion-1onm)
-- [Refactoring 038 - Reify Collection](https://dev.to/mcsee/refactoring-038-reify-collection-2g2c)
-- [Xcode 26.3 Brings Agentic Coding: Claude and Codex Now Integrated Into Your IDE](https://dev.to/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p)
-- [The Free Online Tools I Actually Use as a Developer &lpar;and Why I Built HNGTools&rpar;](https://dev.to/humayun_nasir_04b087812ce/the-free-online-tools-i-actually-use-as-a-developer-and-why-i-built-hngtools-31hc)
+- [Stop Making AI Learn From Us](https://dev.to/rawveg/stop-making-ai-learn-from-us-31c)
+- [Laravel Eloquent Tips &amp; Tricks Every Pro Developer Should Know](https://dev.to/robin-ivi/laravel-eloquent-tips-tricks-every-pro-developer-should-know-4f86)
+- [Open-Source vs Closed-Source AI Models Explained Using a Siblings Analogy](https://dev.to/sharur7/open-source-vs-closed-source-ai-models-explained-using-a-siblings-analogy-2ddc)
+- [Dunning-Kruger Effect 2.0: The &#39;Illusion of Omnipotence&#39; in the AI Era](https://dev.to/kanywst/dunning-kruger-effect-20-the-illusion-of-omnipotence-in-the-ai-era-3aam)
 <!-- BLOG-POST-LIST:END -->
 
 
