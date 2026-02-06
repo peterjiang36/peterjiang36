@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Connect CopilotKit to a Python Backend Using Direct-to-LLM &lpar;FastAPI Guide&rpar;](https://dev.to/kailasvs_94/how-to-connect-copilotkit-to-a-python-backend-using-direct-to-llm-fastapi-guide-5ben)
-- [Jeff Su: The 5 AI Tools You Need After ChatGPT &lpar;that do real work&rpar;](https://dev.to/future_ai/jeff-su-the-5-ai-tools-you-need-after-chatgpt-that-do-real-work-1l67)
-- [6 Workato Alternatives to Consider in 2026 ✅🚀](https://dev.to/composiodev/6-workato-alternatives-to-consider-in-2026-33bg)
-- [Your DevRel is Your Biggest Bottleneck](https://dev.to/dorahacks/your-devrel-is-your-biggest-bottleneck-12c0)
+- [The Illusion of My Own Efficiency: How Claude Exposed My Arrogance and Lack of Planning at Night](https://dev.to/sho7650/the-illusion-of-my-own-efficiency-how-claude-exposed-my-arrogance-and-lack-of-planning-at-night-43lg)
+- [Stop High-Traffic App Failures: The Essential Guide to Load Management](https://dev.to/sannidhya_sharma/stop-high-traffic-app-failures-the-essential-guide-to-load-management-4cle)
+- [🚀 Designing a Flash Sale System That Never Oversells&lt;/h1&gt; &lt;h3&gt;From 1 User to 1 Million Users &lpar;Without Crashing Redis&rpar;](https://dev.to/umesh_kushwaha_6655ba4c0d/designing-a-flash-sale-system-that-never-oversells-from-1-user-to-1-million-users-3fih)
+- [ReactJS Design Pattern ~Guard Clause Rendering~](https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om)
 <!-- BLOG-POST-LIST:END -->
 
 
