@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💀 Modern Malware’s Anti-Forensics](https://dev.to/harsh_a45dbc191edc27e4b96/-modern-malwares-anti-forensics-n8h)
-- [Steal my code: I built a RAG agent for sales people](https://dev.to/dbho/steal-my-code-i-built-a-rag-agent-for-sales-people-flo)
-- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part -5 : Frontend](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--1mai)
-- [🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero](https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm)
+- [How to Connect CopilotKit to a Python Backend Using Direct-to-LLM &lpar;FastAPI Guide&rpar;](https://dev.to/kailasvs_94/how-to-connect-copilotkit-to-a-python-backend-using-direct-to-llm-fastapi-guide-5ben)
+- [Jeff Su: The 5 AI Tools You Need After ChatGPT &lpar;that do real work&rpar;](https://dev.to/future_ai/jeff-su-the-5-ai-tools-you-need-after-chatgpt-that-do-real-work-1l67)
+- [6 Workato Alternatives to Consider in 2026 ✅🚀](https://dev.to/composiodev/6-workato-alternatives-to-consider-in-2026-33bg)
+- [Your DevRel is Your Biggest Bottleneck](https://dev.to/dorahacks/your-devrel-is-your-biggest-bottleneck-12c0)
 <!-- BLOG-POST-LIST:END -->
 
 
