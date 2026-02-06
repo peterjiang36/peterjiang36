@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Teams: como fazer bom uso para o dia a dia](https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77)
-- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o)
-- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff)
-- [We&#39;ll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322)
+- [Hacking the Narrative: How I Used NotebookLM to Write a Novel Where the AI &quot;Loses Humanity&quot; Chapter by Chapter](https://dev.to/saltmu/hacking-the-narrative-how-i-used-notebooklm-to-write-a-novel-where-the-ai-loses-humanity-chapter-2phm)
+- [Sharding Databases with Spring Boot: Patterns, Pitfalls, and Failure Modes](https://dev.to/adamthedeveloper/sharding-databases-with-spring-boot-patterns-pitfalls-and-failure-modes-4p37)
+- [I Let Claude Write 60 Functions. 65-75% Had Security Vulnerabilities.](https://dev.to/ofri-peretz/i-let-claude-write-60-functions-65-75-had-security-vulnerabilities-414o)
+- [[iOS] CocoaPods cheatsheet](https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b)
 <!-- BLOG-POST-LIST:END -->
 
 
