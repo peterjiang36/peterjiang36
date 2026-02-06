@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Blaming AWS Defaults for Your Misconfigurations](https://dev.to/narnaiezzsshaa/stop-blaming-aws-defaults-for-your-misconfigurations-5gbo)
-- [Checkout this amazing NPM package](https://dev.to/alex_willis_01499a1f2528a/checkout-this-amazing-npm-package-35g5)
-- [From 200K to 1M: How Claude Opus 4.6 Changed My AI Development Workflow Overnight](https://dev.to/olaproeis/from-200k-to-1m-how-claude-opus-46-changed-my-ai-development-workflow-overnight-36gl)
-- [Change of questioning is important](https://dev.to/hi_mrinal/change-of-questioning-is-important-2nm9)
+- [Microsoft Teams: como fazer bom uso para o dia a dia](https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77)
+- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o)
+- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff)
+- [We&#39;ll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322)
 <!-- BLOG-POST-LIST:END -->
 
 
