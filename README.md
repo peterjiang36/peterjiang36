@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Entropy Derivatives, Part 5: Optimizing bias with backpropagation](https://dev.to/rijultp/cross-entropy-derivatives-part-5-optimizing-bias-with-backpropagation-4l59)
-- [Why Your Next AI Agent Should Be a Microservice &lpar;And How to Build It with C# &amp; Docker&rpar;](https://dev.to/programmingcentral/why-your-next-ai-agent-should-be-a-microservice-and-how-to-build-it-with-c-docker-5217)
-- [Add Persistent Memory to Claude Code with Mem0 &lpar;5-Minute Setup&rpar;](https://dev.to/mem0/we-built-a-memory-plugin-for-openclawmoltbot-7e1)
-- [Portfolio Code That Gets You Hired: What Recruiters Actually See in Your GitHub](https://dev.to/jsgurujobs/portfolio-code-that-gets-you-hired-what-recruiters-actually-see-in-your-github-h9n)
+- [Introducing ShypChat — A Simple, Fast, Modern Omegle Alternative](https://dev.to/shabil_np/introducing-shypchat-a-simple-fast-modern-omegle-alternative-5ef0)
+- [Docker Production Best Practices - Complete Guide](https://dev.to/omar_ahmed/docker-production-best-practices-complete-guide-i6l)
+- [Hello Edge: Keyword Spotting on Microcontrollers](https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k)
+- [Cutting Through JavaScript RegEx 🍕](https://dev.to/devmansam777/cutting-through-javascript-regex-5702)
 <!-- BLOG-POST-LIST:END -->
 
 
