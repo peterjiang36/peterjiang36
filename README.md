@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trigger.new vs Trigger.old — Understanding Apex Triggers the Right Way](https://dev.to/rubasri_srikanthan/triggernew-vs-triggerold-understanding-apex-triggers-the-right-way-58b8)
-- [The Doctor&#39;s On-Call Shift with MongoDB Snapshot Isolation](https://dev.to/franckpachot/the-doctors-on-call-shift-with-snapshot-isolation-in-mongodb-18nn)
-- [Studying Moltbook AI 🤖: What Breaks When Only AI Agents Use Social Networks](https://dev.to/hemant_007/studying-moltbook-ai-what-breaks-when-only-ai-agents-use-social-networks-h03)
-- [AI revolutionizes tech and markets, driving massive investment and economic shifts globally.](https://dev.to/stelixx-insights/ai-revolutionizes-tech-and-markets-driving-massive-investment-and-economic-shifts-globally-9i0)
+- [Building Intelligent PHP Applications: Best Practices for the Symfony AI Agent Component](https://dev.to/mattleads/building-intelligent-php-applications-best-practices-for-the-symfony-ai-agent-component-3b76)
+- [Context Rot: From Agent Loop to Agent Swarm — Solving Context Persistence in AI-Assisted Development](https://dev.to/simone_callegari_1f56a902/context-rot-from-agent-loop-to-agent-swarm-solving-context-persistence-in-ai-assisted-development-3ada)
+- [Integrate Omnichannel Voice and Digital Solutions for Seamless Customer Experiences](https://dev.to/callstacktech/integrate-omnichannel-voice-and-digital-solutions-for-seamless-customer-experiences-4o8f)
+- [Your Agent Is Slow Because of Inference](https://dev.to/trilok_kanwar/your-agent-is-slow-because-of-inference-l2a)
 <!-- BLOG-POST-LIST:END -->
 
 
