@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Illusion of My Own Efficiency: How Claude Exposed My Arrogance and Lack of Planning at Night](https://dev.to/sho7650/the-illusion-of-my-own-efficiency-how-claude-exposed-my-arrogance-and-lack-of-planning-at-night-43lg)
-- [Stop High-Traffic App Failures: The Essential Guide to Load Management](https://dev.to/sannidhya_sharma/stop-high-traffic-app-failures-the-essential-guide-to-load-management-4cle)
-- [🚀 Designing a Flash Sale System That Never Oversells&lt;/h1&gt; &lt;h3&gt;From 1 User to 1 Million Users &lpar;Without Crashing Redis&rpar;](https://dev.to/umesh_kushwaha_6655ba4c0d/designing-a-flash-sale-system-that-never-oversells-from-1-user-to-1-million-users-3fih)
-- [ReactJS Design Pattern ~Guard Clause Rendering~](https://dev.to/kkr0423/reactjs-design-pattern-guard-clause-rendering-1om)
+- [Concentrated Differential Privacy](https://dev.to/paperium/concentrated-differential-privacy-1o88)
+- [Smart Dataset Cleaner](https://dev.to/prashant_tiwari_869960e4f/smart-dataset-cleaner-1bdp)
+- [OSIRIS a vendor-neutral JSON format for infrastructure snapshots &lpar;IT/OT&rpar;](https://dev.to/skhell/osiris-a-vendor-neutral-json-format-for-infrastructure-snapshots-itot-42e9)
+- [The Complete Medical Student Productivity Stack: 5 Tools That Got Me Through Med School and Residency](https://dev.to/mullair_jeudi_e8259c5c82d/the-complete-medical-student-productivity-stack-5-tools-that-got-me-through-med-school-and-1fk)
 <!-- BLOG-POST-LIST:END -->
 
 
