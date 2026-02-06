@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning programming is hard. Learning it alone is even harder.](https://dev.to/renato_silva_71eef0fc385f/learning-programming-is-hard-learning-it-alone-is-even-harder-2i78)
-- [Multimodal Visual Understanding in Swift &lpar;aka: &quot;why is this still so hard on-device?&quot;&rpar;](https://dev.to/fosteman/multimodal-visual-understanding-in-swift-aka-why-is-this-still-so-hard-on-device-1n7j)
-- [🚀 Bullstudio — A Prisma-Studio-Style Dashboard for BullMQ You Can Run in Seconds](https://dev.to/emirce/bullstudio-a-prisma-studio-style-dashboard-for-bullmq-you-can-run-in-seconds-365a)
-- [Building an AI-Powered RAG Application with Puter.js](https://dev.to/reynaldi/building-an-ai-powered-rag-application-with-puterjs-1j9l)
+- [Build apps for ChatGPT, Claude, and Gemini using MCP UI components from Flowbite](https://dev.to/themesberg/build-apps-for-chatgpt-claude-and-gemini-using-mcp-ui-components-from-flowbite-316b)
+- [Thank you for your valuable fix! Our repo needed this a lot!](https://dev.to/mattqdev/thank-you-for-your-valuable-fix-our-repo-needed-this-a-lot-4coh)
+- [From Kotlin to BrightScript: How I Ported a Modern Android TV App to Roku](https://dev.to/bugslayer/from-kotlin-to-brightscript-how-i-ported-a-modern-android-tv-app-to-roku-2o50)
+- [Your Resume Got Rejected by a Bot. Here&#39;s What It Actually Saw.](https://dev.to/kirill_tolmachev/your-resume-got-rejected-by-a-bot-heres-what-it-actually-saw-26l6)
 <!-- BLOG-POST-LIST:END -->
 
 
