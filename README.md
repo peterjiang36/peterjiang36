@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ShypChat — A Simple, Fast, Modern Omegle Alternative](https://dev.to/shabil_np/introducing-shypchat-a-simple-fast-modern-omegle-alternative-5ef0)
-- [Docker Production Best Practices - Complete Guide](https://dev.to/omar_ahmed/docker-production-best-practices-complete-guide-i6l)
-- [Hello Edge: Keyword Spotting on Microcontrollers](https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k)
-- [Cutting Through JavaScript RegEx 🍕](https://dev.to/devmansam777/cutting-through-javascript-regex-5702)
+- [Visualizing Program State Instead of Just Stepping Through Code](https://dev.to/manux81/visualizing-program-state-instead-of-just-stepping-through-code-4mib)
+- [laptopXplorer](https://dev.to/ayubsoft254/laptopxplorer-4ehj)
+- [☕ Just launched The Coffee Timer - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-the-coffee-timer-my-personal-productivity-project-43bg)
+- [Prompt Anxiety: Why the Blank Text Box Can Be Paralyzing and How to Overcome It](https://dev.to/velocityai/prompt-anxiety-why-the-blank-text-box-can-be-paralyzing-and-how-to-overcome-it-10ia)
 <!-- BLOG-POST-LIST:END -->
 
 
