@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build apps for ChatGPT, Claude, and Gemini using MCP UI components from Flowbite](https://dev.to/themesberg/build-apps-for-chatgpt-claude-and-gemini-using-mcp-ui-components-from-flowbite-316b)
-- [Thank you for your valuable fix! Our repo needed this a lot!](https://dev.to/mattqdev/thank-you-for-your-valuable-fix-our-repo-needed-this-a-lot-4coh)
-- [From Kotlin to BrightScript: How I Ported a Modern Android TV App to Roku](https://dev.to/bugslayer/from-kotlin-to-brightscript-how-i-ported-a-modern-android-tv-app-to-roku-2o50)
-- [Your Resume Got Rejected by a Bot. Here&#39;s What It Actually Saw.](https://dev.to/kirill_tolmachev/your-resume-got-rejected-by-a-bot-heres-what-it-actually-saw-26l6)
+- [Trigger.new vs Trigger.old — Understanding Apex Triggers the Right Way](https://dev.to/rubasri_srikanthan/triggernew-vs-triggerold-understanding-apex-triggers-the-right-way-58b8)
+- [The Doctor&#39;s On-Call Shift with MongoDB Snapshot Isolation](https://dev.to/franckpachot/the-doctors-on-call-shift-with-snapshot-isolation-in-mongodb-18nn)
+- [Studying Moltbook AI 🤖: What Breaks When Only AI Agents Use Social Networks](https://dev.to/hemant_007/studying-moltbook-ai-what-breaks-when-only-ai-agents-use-social-networks-h03)
+- [AI revolutionizes tech and markets, driving massive investment and economic shifts globally.](https://dev.to/stelixx-insights/ai-revolutionizes-tech-and-markets-driving-massive-investment-and-economic-shifts-globally-9i0)
 <!-- BLOG-POST-LIST:END -->
 
 
