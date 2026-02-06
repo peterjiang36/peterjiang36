@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [💀 Modern Malware’s Anti-Forensics](https://dev.to/harsh_a45dbc191edc27e4b96/-modern-malwares-anti-forensics-n8h)
+- [Steal my code: I built a RAG agent for sales people](https://dev.to/dbho/steal-my-code-i-built-a-rag-agent-for-sales-people-flo)
+- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis - Part -5 : Frontend](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--1mai)
 - [🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero](https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm)
-- [Merge Two Binary Trees: Coding Problem Explained](https://dev.to/stack_overflowed/merge-two-binary-trees-coding-problem-explained-3ohc)
-- [Why I Started Wrapping Everything in React Native?](https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c)
-- [OpenAI Codex - Using it for Code Review](https://dev.to/africandeveloper/openai-codex-using-it-for-code-review-3gie)
 <!-- BLOG-POST-LIST:END -->
 
 
