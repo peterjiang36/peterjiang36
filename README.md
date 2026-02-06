@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Infrastructure for AI Agents: Unified Context](https://dev.to/acontext_4dc5ced58dc515fd/the-missing-infrastructure-for-ai-agents-unified-context-5905)
-- [After the Compiler Writes Itself: The Human Skills That Still Matter](https://dev.to/mashrulhaque/after-the-compiler-writes-itself-the-human-skills-that-still-matter-387o)
-- [Line TV Partner Choco Media Entertainment Reports Data Breach](https://dev.to/beyondmachines/line-tv-partner-choco-media-entertainment-reports-data-breach-5f52)
-- [A key area of debate in AI bias revolves around the concept](https://dev.to/drcarlosruizviquez/a-key-area-of-debate-in-ai-bias-revolves-around-the-concept-1cnl)
+- [Class, Object, Property and Methods in C#](https://dev.to/allcoderthings/class-object-property-and-methods-in-c-l66)
+- [Basic Logic Behind AI – Simple Explanation 🤖](https://dev.to/smitranpariya_29b776/basic-logic-behind-ai-simple-explanation-1abl)
+- [Playwright BrowserContext: What It Is, Why It Matters, and How to Configure It](https://dev.to/johnnyv5g/playwright-browsercontext-what-it-is-why-it-matters-and-how-to-configure-it-3gi8)
+- [Your AI agent just did 5 things. Can you prove it?](https://dev.to/amadc2207/your-ai-agent-just-did-5-things-can-you-prove-it-50bc)
 <!-- BLOG-POST-LIST:END -->
 
 
