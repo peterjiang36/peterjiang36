@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Factory Recap: Cracking Open an Open Model](https://dev.to/googleai/agent-factory-recap-cracking-open-an-open-model-42e6)
-- [Running DBA: Why This Blog Exists](https://dev.to/runningdba/running-dba-why-this-blog-exists-4854)
-- [Von 0 auf 300% lokale Anfragen: Mein Google Business Profile Hack für Entwickler](https://dev.to/ivo_sa/von-0-auf-300-lokale-anfragen-mein-google-business-profile-hack-fur-entwickler-586d)
-- [CharleX Operating System](https://dev.to/amzy31/charlex-operating-system-3hj7)
+- [Cross Entropy Derivatives, Part 5: Optimizing bias with backpropagation](https://dev.to/rijultp/cross-entropy-derivatives-part-5-optimizing-bias-with-backpropagation-4l59)
+- [Why Your Next AI Agent Should Be a Microservice &lpar;And How to Build It with C# &amp; Docker&rpar;](https://dev.to/programmingcentral/why-your-next-ai-agent-should-be-a-microservice-and-how-to-build-it-with-c-docker-5217)
+- [Add Persistent Memory to Claude Code with Mem0 &lpar;5-Minute Setup&rpar;](https://dev.to/mem0/we-built-a-memory-plugin-for-openclawmoltbot-7e1)
+- [Portfolio Code That Gets You Hired: What Recruiters Actually See in Your GitHub](https://dev.to/jsgurujobs/portfolio-code-that-gets-you-hired-what-recruiters-actually-see-in-your-github-h9n)
 <!-- BLOG-POST-LIST:END -->
 
 
