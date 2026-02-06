@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hacking the Narrative: How I Used NotebookLM to Write a Novel Where the AI &quot;Loses Humanity&quot; Chapter by Chapter](https://dev.to/saltmu/hacking-the-narrative-how-i-used-notebooklm-to-write-a-novel-where-the-ai-loses-humanity-chapter-2phm)
-- [Sharding Databases with Spring Boot: Patterns, Pitfalls, and Failure Modes](https://dev.to/adamthedeveloper/sharding-databases-with-spring-boot-patterns-pitfalls-and-failure-modes-4p37)
-- [I Let Claude Write 60 Functions. 65-75% Had Security Vulnerabilities.](https://dev.to/ofri-peretz/i-let-claude-write-60-functions-65-75-had-security-vulnerabilities-414o)
-- [[iOS] CocoaPods cheatsheet](https://dev.to/devpicon/ios-cocoapods-cheatsheet-3j5b)
+- [🔥 PyTorch Tutorial 1.1: Tensor Basics - From Zero to Hero](https://dev.to/franklibao/hands-on-pytorch-tutorial-from-zero-to-hero-chinese-fkm)
+- [Merge Two Binary Trees: Coding Problem Explained](https://dev.to/stack_overflowed/merge-two-binary-trees-coding-problem-explained-3ohc)
+- [Why I Started Wrapping Everything in React Native?](https://dev.to/amareshpati/why-i-started-wrapping-everything-in-react-native-a9c)
+- [OpenAI Codex - Using it for Code Review](https://dev.to/africandeveloper/openai-codex-using-it-for-code-review-3gie)
 <!-- BLOG-POST-LIST:END -->
 
 
