@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Class, Object, Property and Methods in C#](https://dev.to/allcoderthings/class-object-property-and-methods-in-c-l66)
-- [Basic Logic Behind AI – Simple Explanation 🤖](https://dev.to/smitranpariya_29b776/basic-logic-behind-ai-simple-explanation-1abl)
-- [Playwright BrowserContext: What It Is, Why It Matters, and How to Configure It](https://dev.to/johnnyv5g/playwright-browsercontext-what-it-is-why-it-matters-and-how-to-configure-it-3gi8)
-- [Your AI agent just did 5 things. Can you prove it?](https://dev.to/amadc2207/your-ai-agent-just-did-5-things-can-you-prove-it-50bc)
+- [Agent Factory Recap: Cracking Open an Open Model](https://dev.to/googleai/agent-factory-recap-cracking-open-an-open-model-42e6)
+- [Running DBA: Why This Blog Exists](https://dev.to/runningdba/running-dba-why-this-blog-exists-4854)
+- [Von 0 auf 300% lokale Anfragen: Mein Google Business Profile Hack für Entwickler](https://dev.to/ivo_sa/von-0-auf-300-lokale-anfragen-mein-google-business-profile-hack-fur-entwickler-586d)
+- [CharleX Operating System](https://dev.to/amzy31/charlex-operating-system-3hj7)
 <!-- BLOG-POST-LIST:END -->
 
 
