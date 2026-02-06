@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Efficiency: Best Practices for Embracing the DRY Principle](https://dev.to/vjnvisakh/mastering-efficiency-best-practices-for-embracing-the-dry-principle-hh1)
-- [When Enterprises Vibe Code On A Grand Scale and Its a Rare W!](https://dev.to/theonemohitsharma/when-enterprises-vibe-code-on-a-grand-scale-and-its-a-rare-w-4gjo)
-- [What is Potpie.ai and why it matters for developers](https://dev.to/harshal_rembhotkar/what-is-potpieai-and-why-it-matters-for-developers-199j)
-- [Burnout is just &quot;Thermal Throttling&quot;: A Debugging Guide for Engineers](https://dev.to/archietechofficial/burnout-is-just-thermal-throttling-a-debugging-guide-for-engineers-13df)
+- [5 Login Failures That Hurt Conversion](https://dev.to/corbado/5-login-failures-that-hurt-conversion-1onm)
+- [Refactoring 038 - Reify Collection](https://dev.to/mcsee/refactoring-038-reify-collection-2g2c)
+- [Xcode 26.3 Brings Agentic Coding: Claude and Codex Now Integrated Into Your IDE](https://dev.to/arshtechpro/xcode-263-brings-agentic-coding-claude-and-codex-now-integrated-into-your-ide-1l5p)
+- [The Free Online Tools I Actually Use as a Developer &lpar;and Why I Built HNGTools&rpar;](https://dev.to/humayun_nasir_04b087812ce/the-free-online-tools-i-actually-use-as-a-developer-and-why-i-built-hngtools-31hc)
 <!-- BLOG-POST-LIST:END -->
 
 
