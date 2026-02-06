@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Intelligent PHP Applications: Best Practices for the Symfony AI Agent Component](https://dev.to/mattleads/building-intelligent-php-applications-best-practices-for-the-symfony-ai-agent-component-3b76)
-- [Context Rot: From Agent Loop to Agent Swarm — Solving Context Persistence in AI-Assisted Development](https://dev.to/simone_callegari_1f56a902/context-rot-from-agent-loop-to-agent-swarm-solving-context-persistence-in-ai-assisted-development-3ada)
-- [Integrate Omnichannel Voice and Digital Solutions for Seamless Customer Experiences](https://dev.to/callstacktech/integrate-omnichannel-voice-and-digital-solutions-for-seamless-customer-experiences-4o8f)
-- [Your Agent Is Slow Because of Inference](https://dev.to/trilok_kanwar/your-agent-is-slow-because-of-inference-l2a)
+- [The Missing Infrastructure for AI Agents: Unified Context](https://dev.to/acontext_4dc5ced58dc515fd/the-missing-infrastructure-for-ai-agents-unified-context-5905)
+- [After the Compiler Writes Itself: The Human Skills That Still Matter](https://dev.to/mashrulhaque/after-the-compiler-writes-itself-the-human-skills-that-still-matter-387o)
+- [Line TV Partner Choco Media Entertainment Reports Data Breach](https://dev.to/beyondmachines/line-tv-partner-choco-media-entertainment-reports-data-breach-5f52)
+- [A key area of debate in AI bias revolves around the concept](https://dev.to/drcarlosruizviquez/a-key-area-of-debate-in-ai-bias-revolves-around-the-concept-1cnl)
 <!-- BLOG-POST-LIST:END -->
 
 
