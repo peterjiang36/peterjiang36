@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git is Not Magic- Part 2: Where Are You in the Timeline?](https://dev.to/hunt092/git-is-not-magic-part-2-where-are-you-in-the-timeline-4ifn)
-- [Like LEGO? Love Python! 🧱🐍](https://dev.to/the-software-s-journey/like-lego-love-python-2104)
-- [Building DevPulse: A Project Health Checker in 80 Minutes with GitHub Copilot CLI](https://dev.to/srijan-xi/building-devpulse-a-project-health-checker-in-80-minutes-with-github-copilot-cli-2gh6)
-- [[Day 01] - My Journey from Laptop to Lab: Building a Headless Debian Server for DevOps &amp; AI](https://dev.to/zaselalk/day-01-my-journey-from-laptop-to-lab-building-a-headless-debian-server-for-devops-ai-pl5)
+- [Day 1 – 100 Days of Coding Challenge | Commitment Before Code](https://dev.to/aiwithragini/day-1-100-days-of-coding-challenge-commitment-before-code-4ao4)
+- [What is the diff between `Date` vs `new Date&lpar;&rpar;`](https://dev.to/kelvynthai/what-is-the-diff-between-date-vs-new-date-1ep0)
+- [7 Git Commands That Make You Look Like a Wizard](https://dev.to/kirill_tolmachev/7-git-commands-that-make-you-look-like-a-wizard-30h)
+- [Show DEV: I built a calm typing practice app with ambient soundscapes](https://dev.to/mcptoolshop/show-dev-i-built-a-calm-typing-practice-app-with-ambient-soundscapes-523e)
 <!-- BLOG-POST-LIST:END -->
 
 
