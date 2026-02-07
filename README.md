@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Laravel on Shared Hosting &lpar;No SSH Required&rpar;](https://dev.to/houdaifa360/deploying-laravel-on-shared-hosting-no-ssh-required-1kbg)
-- [Pastor Chris Oyakhilome Digital Library Login Authentication With PHP Symfony](https://dev.to/sonexgodswill/pastor-chris-oyakhilome-digital-library-login-authentication-with-php-symfony-1352)
-- [Enter the Market with CAP Theorem](https://dev.to/deckardrick/enter-the-market-with-cap-theorem-8e4)
-- [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
+- [Git is Not Magic- Part 2: Where Are You in the Timeline?](https://dev.to/hunt092/git-is-not-magic-part-2-where-are-you-in-the-timeline-4ifn)
+- [Like LEGO? Love Python! 🧱🐍](https://dev.to/the-software-s-journey/like-lego-love-python-2104)
+- [Building DevPulse: A Project Health Checker in 80 Minutes with GitHub Copilot CLI](https://dev.to/srijan-xi/building-devpulse-a-project-health-checker-in-80-minutes-with-github-copilot-cli-2gh6)
+- [[Day 01] - My Journey from Laptop to Lab: Building a Headless Debian Server for DevOps &amp; AI](https://dev.to/zaselalk/day-01-my-journey-from-laptop-to-lab-building-a-headless-debian-server-for-devops-ai-pl5)
 <!-- BLOG-POST-LIST:END -->
 
 
