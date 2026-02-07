@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Measure Passkey Adoption: Funnels, Activation, and Device Insights](https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9)
-- [I stopped trying to make HTML paginate for printing &lpar;and it finally worked&rpar;](https://dev.to/victoduss/i-stopped-trying-to-make-html-paginate-for-printing-and-it-finally-worked-5flp)
-- [Your AI Coding Agents Are Slow Because Your Tools Talk Too Much](https://dev.to/teppana88/your-ai-coding-agents-are-slow-because-your-tools-talk-too-much-24h6)
-- [I stopped building apps with Claude Code. Now, Claude Code IS the app.](https://dev.to/chadbyte/i-stopped-building-apps-with-claude-code-now-claude-code-is-the-app-h1f)
+- [Deploying Laravel on Shared Hosting &lpar;No SSH Required&rpar;](https://dev.to/houdaifa360/deploying-laravel-on-shared-hosting-no-ssh-required-1kbg)
+- [Pastor Chris Oyakhilome Digital Library Login Authentication With PHP Symfony](https://dev.to/sonexgodswill/pastor-chris-oyakhilome-digital-library-login-authentication-with-php-symfony-1352)
+- [Enter the Market with CAP Theorem](https://dev.to/deckardrick/enter-the-market-with-cap-theorem-8e4)
+- [The Invisible Workforce](https://dev.to/rawveg/the-invisible-workforce-20g4)
 <!-- BLOG-POST-LIST:END -->
 
 
