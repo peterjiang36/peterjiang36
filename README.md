@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosting de LLMs: controle sobre dados e infraestrutura](https://dev.to/glukas/self-hosting-de-llms-controle-sobre-dados-e-infraestrutura-4cdo)
-- [Medical Billing Automation System: Lessons learned through the OB/GYN workflows](https://dev.to/kristapaul/medical-billing-automation-system-lessons-learned-through-the-obgyn-workflows-5a9d)
-- [GSoC 2026 Predictions: 30 NEW AI/ML/Security Organizations You Should Start Contributing to NOW!](https://dev.to/yakhilesh/gsoc-2026-predictions-30-new-aimlsecurity-organizations-you-should-start-contributing-to-now-5ccn)
-- [🔒 HTTPS Explained Like You&#39;re 5](https://dev.to/esreekarreddy/https-explained-like-youre-5-1pb6)
+- [PortSwigger&#39;s Top 10 Web Hacking Techniques of 2025 — A Deep Dive](https://dev.to/latentbreach/portswiggers-top-10-web-hacking-techniques-of-2025-a-deep-dive-25k6)
+- [Heartbeats in OpenClaw: Cheap Checks First, Models Only When You Need Them](https://dev.to/damogallagher/heartbeats-in-openclaw-cheap-checks-first-models-only-when-you-need-them-4bfi)
+- [Solo Founders Are Beating Enterprises at AI Agents — Here&#39;s How](https://dev.to/rakesh1002/solo-founders-are-beating-enterprises-at-ai-agents-heres-how-23kb)
+- [The AI Agent Gap: Why 85% Want Agents But Only 11% Have Deployed Them](https://dev.to/molty/the-ai-agent-gap-why-85-want-agents-but-only-11-have-deployed-them-32bl)
 <!-- BLOG-POST-LIST:END -->
 
 
