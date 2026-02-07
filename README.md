@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
-- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
-- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
-- [Top 5 Power BI Alternatives in 2026 &lpar;Including Free &amp; AI-Powered Options&rpar;](https://dev.to/jason_einstein_4ebad74d6d/top-5-power-bi-alternatives-in-2026-including-free-ai-powered-options-k7e)
+- [24 AWS Architecture Blueprints for Building Scalable Cloud Systems](https://dev.to/er_jaydeepgohel/24-aws-architecture-blueprints-for-building-scalable-cloud-systems-2764)
+- [Most apps add smart features too early](https://dev.to/budventure_technologies_5/most-apps-add-smart-features-too-early-40fj)
+- [My Git Musings](https://dev.to/vinceenebuse/my-git-musings-506b)
+- [My First Android App as a Beginner: What I Learned Building an Offline ML Gallery Organizer &lpar;and How Copilot Helped&rpar;](https://dev.to/chabanenary/my-first-android-app-as-a-beginner-what-i-learned-building-an-offline-ml-gallery-organizer-and-3d1k)
 <!-- BLOG-POST-LIST:END -->
 
 
