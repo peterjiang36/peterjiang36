@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Trust Protocol: How ACHP Prevents Autonomous AI Systems from Breaking Down](https://dev.to/christian_mikolasch/the-trust-protocol-how-achp-prevents-autonomous-ai-systems-from-breaking-down-4f15)
-- [From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy](https://dev.to/homayounmmdy/from-quiet-researcher-to-programming-pioneer-dennis-ritchies-lasting-legacy-pc0)
-- [I Built DevDNA — A Tool That Turns GitHub Profiles Into Developer Personality Reports &lpar;Using Copilot CLI&rpar;](https://dev.to/user64bit/i-built-devdna-a-tool-that-turns-github-profiles-into-developer-personality-reports-using-11ob)
-- [Enhancement on Caching and Service Workers](https://dev.to/jaboarnoldlandry/enhancement-on-caching-and-service-workers-1bfl)
+- [Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.](https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82)
+- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm)
+- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a)
+- [The Devil of Web Design](https://dev.to/gengers/the-devil-of-web-design-4nbd)
 <!-- BLOG-POST-LIST:END -->
 
 
