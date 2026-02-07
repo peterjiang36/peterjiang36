@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw and Moltbook: $3,600/Month, WhatsApp Bans, and 923 Exposed Gateways. An Engineer&#39;s Breakdown.](https://dev.to/thegdsks/openclaw-and-moltbook-3600month-whatsapp-bans-and-923-exposed-gateways-an-engineers-2jfn)
-- [How FHIR Enables Agentic AI in Healthcare](https://dev.to/michaelnikitin/how-fhir-enables-agentic-ai-in-healthcare-5anl)
-- [Devux.js | Node.js Framework | TypeScript | devuxjs.com](https://dev.to/inassir/devuxjs-nodejs-framework-typescript-devuxjscom-l3m)
-- [The Intent-Verification Gap in CI/CD: Why Authentication Fails Under Real Attacks](https://dev.to/ktamarapalli/the-intent-verification-gap-in-cicd-why-authentication-fails-under-real-attacks-4b9m)
+- [Demystifying the Cloud: A Guide to the Core Pillars of Modern Infrastructure](https://dev.to/precious_nwafor/demystifying-the-cloud-a-guide-to-the-core-pillars-of-modern-infrastructure-ec1)
+- [Introduction to ARIA](https://dev.to/richardpascoe/introduction-to-aria-1lih)
+- [The Unseen Threat: Securing Network Time Protocol &lpar;NTP&rpar; and the Rise of Time-Sensitive Networking &lpar;TSN&rpar;](https://dev.to/gagreatprogrammer/the-unseen-threat-securing-network-time-protocol-ntp-and-the-rise-of-time-sensitive-networking-5d3a)
+- [Autopilot - Assistant : Building an AI Copilot with Algolia Agent Studio](https://dev.to/datalaria/autopilot-assistant-building-an-ai-copilot-with-algolia-agent-studio-4gmg)
 <!-- BLOG-POST-LIST:END -->
 
 
