@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeLLM Monitor: Production Observability for LLM Applications](https://dev.to/eshaiju/nodellm-monitor-production-observability-for-llm-applications-52l)
-- [Started Using Kali Today](https://dev.to/vine/started-using-kali-today-4odn)
-- [Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw](https://dev.to/jb_wagoner_9397749548b10c/your-ai-agent-has-no-armor-a-technical-security-analysis-of-openclaw-86l)
-- [Only For Coders.](https://dev.to/adarsh_dubey_cfa0a06a780e/only-for-coders-233g)
+- [Web APIs That Replace Entire Libraries](https://dev.to/web_dev-usman/web-apis-that-replace-entire-libraries-2ia8)
+- [9.Prevent S3 Bucket Deletion via Terraform](https://dev.to/thukhakyawe_cloud/9prevent-s3-bucket-deletion-via-terraform-1gfc)
+- [8.Sync Data to S3 Bucket with Terraform](https://dev.to/thukhakyawe_cloud/8sync-data-to-s3-bucket-with-terraform-2h4)
+- [7.Stream Kinesis Data to CloudWatch Using Terraform](https://dev.to/thukhakyawe_cloud/7stream-kinesis-data-to-cloudwatch-using-terraform-b66)
 <!-- BLOG-POST-LIST:END -->
 
 
