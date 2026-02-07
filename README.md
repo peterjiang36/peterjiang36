@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.](https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82)
-- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm)
-- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a)
-- [The Devil of Web Design](https://dev.to/gengers/the-devil-of-web-design-4nbd)
+- [Statement Subtransactions and Tree Mutation in SQLite](https://dev.to/lovestaco/statement-subtransactions-and-tree-mutation-in-sqlite-2a33)
+- [How GitHub Broke Apart Its Massive Database — Without Anyone Noticing](https://dev.to/creator79/how-github-broke-apart-its-massive-database-without-anyone-noticing-47o1)
+- [Testing Code Inclusion in DEV.to](https://dev.to/jankoweb/testing-code-inclusion-in-devto-16fi)
+- [CVE-2026-25641: The Chameleon Key: Breaking SandboxJS with a Shape-Shifting Object](https://dev.to/cverports/cve-2026-25641-the-chameleon-key-breaking-sandboxjs-with-a-shape-shifting-object-1le9)
 <!-- BLOG-POST-LIST:END -->
 
 
