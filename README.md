@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 – 100 Days of Coding Challenge | Commitment Before Code](https://dev.to/aiwithragini/day-1-100-days-of-coding-challenge-commitment-before-code-4ao4)
-- [What is the diff between `Date` vs `new Date&lpar;&rpar;`](https://dev.to/kelvynthai/what-is-the-diff-between-date-vs-new-date-1ep0)
-- [7 Git Commands That Make You Look Like a Wizard](https://dev.to/kirill_tolmachev/7-git-commands-that-make-you-look-like-a-wizard-30h)
-- [Show DEV: I built a calm typing practice app with ambient soundscapes](https://dev.to/mcptoolshop/show-dev-i-built-a-calm-typing-practice-app-with-ambient-soundscapes-523e)
+- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
+- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
+- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
+- [Top 5 Power BI Alternatives in 2026 &lpar;Including Free &amp; AI-Powered Options&rpar;](https://dev.to/jason_einstein_4ebad74d6d/top-5-power-bi-alternatives-in-2026-including-free-ai-powered-options-k7e)
 <!-- BLOG-POST-LIST:END -->
 
 
