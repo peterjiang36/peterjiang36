@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Configure Azure Entra External ID Authentication for Blazor Web App](https://dev.to/abhiroop43/configure-azure-entra-external-id-authentication-for-blazor-web-app-3mma)
-- [Stop Storing Passwords Like It&#39;s 1999: The Node.js + MySQL Reality Check](https://dev.to/vasughanta09/stop-storing-passwords-like-its-1999-the-nodejs-mysql-reality-check-32n3)
-- [The Second Machine Age: Moravec&#39;s Paradox, Abundance and Inequality](https://dev.to/fundacjadobrepanstwo/the-second-machine-age-moravecs-paradox-abundance-and-inequality-4g1g)
-- [From CLI to GitHub Bot: Building a Code Management AI for Python](https://dev.to/daisukeyoda/from-cli-to-github-bot-building-a-code-management-ai-for-python-7nk)
+- [OpenClaw and Moltbook: $3,600/Month, WhatsApp Bans, and 923 Exposed Gateways. An Engineer&#39;s Breakdown.](https://dev.to/thegdsks/openclaw-and-moltbook-3600month-whatsapp-bans-and-923-exposed-gateways-an-engineers-2jfn)
+- [How FHIR Enables Agentic AI in Healthcare](https://dev.to/michaelnikitin/how-fhir-enables-agentic-ai-in-healthcare-5anl)
+- [Devux.js | Node.js Framework | TypeScript | devuxjs.com](https://dev.to/inassir/devuxjs-nodejs-framework-typescript-devuxjscom-l3m)
+- [The Intent-Verification Gap in CI/CD: Why Authentication Fails Under Real Attacks](https://dev.to/ktamarapalli/the-intent-verification-gap-in-cicd-why-authentication-fails-under-real-attacks-4b9m)
 <!-- BLOG-POST-LIST:END -->
 
 
