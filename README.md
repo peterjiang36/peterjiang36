@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Statement Subtransactions and Tree Mutation in SQLite](https://dev.to/lovestaco/statement-subtransactions-and-tree-mutation-in-sqlite-2a33)
-- [How GitHub Broke Apart Its Massive Database — Without Anyone Noticing](https://dev.to/creator79/how-github-broke-apart-its-massive-database-without-anyone-noticing-47o1)
-- [Testing Code Inclusion in DEV.to](https://dev.to/jankoweb/testing-code-inclusion-in-devto-16fi)
-- [CVE-2026-25641: The Chameleon Key: Breaking SandboxJS with a Shape-Shifting Object](https://dev.to/cverports/cve-2026-25641-the-chameleon-key-breaking-sandboxjs-with-a-shape-shifting-object-1le9)
+- [I had two projects solving the same problem. I merged them and published to npm in a day](https://dev.to/gpolanco/stop-duplicating-rules-manage-agentic-editors-with-one-cli-20j6)
+- [Find Public S3 Buckets Before Attackers Do](https://dev.to/hammad_khan_9cb83f1728ef5/find-public-s3-buckets-before-attackers-do-3clc)
+- [-&gt;&gt; Day-21 AWS Policy and Governance Setup Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-21-aws-policy-and-governance-setup-using-terraform-2aae)
+- [The 128-Hour Gap⏰: Where Your AWS Budget is Leaking](https://dev.to/suhas_mallesh/the-128-hour-gap-where-your-aws-budget-is-leaking-2725)
 <!-- BLOG-POST-LIST:END -->
 
 
