@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Software Discovery for Developers](https://dev.to/apmedev/software-discovery-for-developers-242g)
-- [Introducing Yumma CSS IntelliSense](https://dev.to/rrenildopereiraa/introducing-yumma-css-intellisense-2m5o)
-- [My first website uploaded in 2026](https://dev.to/matiaspallero/my-first-website-uploaded-in-2026-4i39)
-- [The future of development isn’t about typing less. It’s about needing less to be typed.
-
-Great developers don’t need to prove their value by how much code they produce.](https://dev.to/jaideepparashar/the-future-of-development-isnt-about-typing-less-its-about-needing-less-to-be-typed-great-5ajo)
+- [Running Local LLMs as Your AI Coding Assistant on Apple Silicon](https://dev.to/brunocerberus/running-local-llms-on-apple-silicon-2ecm)
+- [MoSPI launches beta MCP Server — AI-ready access to official Indian stats](https://dev.to/rsrini7/mospi-launches-beta-mcp-server-ai-ready-access-to-official-indian-stats-2ek1)
+- [Your Docker Registry Has 500 Unused Images Costing You Every Month 🐳](https://dev.to/suhas_mallesh/your-docker-registry-has-500-unused-images-costing-you-every-month-126m)
+- [마크다운 파일로 7,600개 태스크를 관리하는 시스템](https://dev.to/wes5510/makeudaun-pailro-7600gae-taeseukeureul-gwanrihaneun-siseutem-cja)
 <!-- BLOG-POST-LIST:END -->
 
 
