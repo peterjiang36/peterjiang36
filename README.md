@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [24 AWS Architecture Blueprints for Building Scalable Cloud Systems](https://dev.to/er_jaydeepgohel/24-aws-architecture-blueprints-for-building-scalable-cloud-systems-2764)
-- [Most apps add smart features too early](https://dev.to/budventure_technologies_5/most-apps-add-smart-features-too-early-40fj)
-- [My Git Musings](https://dev.to/vinceenebuse/my-git-musings-506b)
-- [My First Android App as a Beginner: What I Learned Building an Offline ML Gallery Organizer &lpar;and How Copilot Helped&rpar;](https://dev.to/chabanenary/my-first-android-app-as-a-beginner-what-i-learned-building-an-offline-ml-gallery-organizer-and-3d1k)
+- [The Trust Protocol: How ACHP Prevents Autonomous AI Systems from Breaking Down](https://dev.to/christian_mikolasch/the-trust-protocol-how-achp-prevents-autonomous-ai-systems-from-breaking-down-4f15)
+- [From Quiet Researcher to Programming Pioneer: Dennis Ritchie’s Lasting Legacy](https://dev.to/homayounmmdy/from-quiet-researcher-to-programming-pioneer-dennis-ritchies-lasting-legacy-pc0)
+- [I Built DevDNA — A Tool That Turns GitHub Profiles Into Developer Personality Reports &lpar;Using Copilot CLI&rpar;](https://dev.to/user64bit/i-built-devdna-a-tool-that-turns-github-profiles-into-developer-personality-reports-using-11ob)
+- [Enhancement on Caching and Service Workers](https://dev.to/jaboarnoldlandry/enhancement-on-caching-and-service-workers-1bfl)
 <!-- BLOG-POST-LIST:END -->
 
 
