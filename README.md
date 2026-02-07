@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local LLMs as Your AI Coding Assistant on Apple Silicon](https://dev.to/brunocerberus/running-local-llms-on-apple-silicon-2ecm)
-- [MoSPI launches beta MCP Server — AI-ready access to official Indian stats](https://dev.to/rsrini7/mospi-launches-beta-mcp-server-ai-ready-access-to-official-indian-stats-2ek1)
-- [Your Docker Registry Has 500 Unused Images Costing You Every Month 🐳](https://dev.to/suhas_mallesh/your-docker-registry-has-500-unused-images-costing-you-every-month-126m)
-- [마크다운 파일로 7,600개 태스크를 관리하는 시스템](https://dev.to/wes5510/makeudaun-pailro-7600gae-taeseukeureul-gwanrihaneun-siseutem-cja)
+- [NodeLLM Monitor: Production Observability for LLM Applications](https://dev.to/eshaiju/nodellm-monitor-production-observability-for-llm-applications-52l)
+- [Started Using Kali Today](https://dev.to/vine/started-using-kali-today-4odn)
+- [Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw](https://dev.to/jb_wagoner_9397749548b10c/your-ai-agent-has-no-armor-a-technical-security-analysis-of-openclaw-86l)
+- [Only For Coders.](https://dev.to/adarsh_dubey_cfa0a06a780e/only-for-coders-233g)
 <!-- BLOG-POST-LIST:END -->
 
 
