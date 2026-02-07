@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ElastiCache vs MemoryDB: Which One Do You Actually Need?](https://dev.to/anand_rathnas_d5b608cc3de/aws-elasticache-vs-memorydb-which-one-do-you-actually-need-26i9)
-- [StreetPack: A local-first docked launcher for safer CLI workflows](https://dev.to/trishula_software_8337734/streetpack-a-local-first-docked-launcher-for-safer-cli-workflows-4ohe)
-- [Why I Built a 100% Client-Side PDF Toolkit &lpar;And Why Privacy Matters&rpar;](https://dev.to/younes_haddaj/why-i-built-a-100-client-side-pdf-toolkit-and-why-privacy-matters-39o)
-- [Why Gas Monitoring Matters More Than You Think in Ethereum Backends](https://dev.to/alejandro_steiner/why-gas-monitoring-matters-more-than-you-think-in-ethereum-backends-15f0)
+- [🚀 Software Discovery for Developers](https://dev.to/apmedev/software-discovery-for-developers-242g)
+- [Introducing Yumma CSS IntelliSense](https://dev.to/rrenildopereiraa/introducing-yumma-css-intellisense-2m5o)
+- [My first website uploaded in 2026](https://dev.to/matiaspallero/my-first-website-uploaded-in-2026-4i39)
+- [The future of development isn’t about typing less. It’s about needing less to be typed.
+
+Great developers don’t need to prove their value by how much code they produce.](https://dev.to/jaideepparashar/the-future-of-development-isnt-about-typing-less-its-about-needing-less-to-be-typed-great-5ajo)
 <!-- BLOG-POST-LIST:END -->
 
 
