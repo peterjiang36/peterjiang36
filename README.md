@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web APIs That Replace Entire Libraries](https://dev.to/web_dev-usman/web-apis-that-replace-entire-libraries-2ia8)
-- [9.Prevent S3 Bucket Deletion via Terraform](https://dev.to/thukhakyawe_cloud/9prevent-s3-bucket-deletion-via-terraform-1gfc)
-- [8.Sync Data to S3 Bucket with Terraform](https://dev.to/thukhakyawe_cloud/8sync-data-to-s3-bucket-with-terraform-2h4)
-- [7.Stream Kinesis Data to CloudWatch Using Terraform](https://dev.to/thukhakyawe_cloud/7stream-kinesis-data-to-cloudwatch-using-terraform-b66)
+- [Configure Azure Entra External ID Authentication for Blazor Web App](https://dev.to/abhiroop43/configure-azure-entra-external-id-authentication-for-blazor-web-app-3mma)
+- [Stop Storing Passwords Like It&#39;s 1999: The Node.js + MySQL Reality Check](https://dev.to/vasughanta09/stop-storing-passwords-like-its-1999-the-nodejs-mysql-reality-check-32n3)
+- [The Second Machine Age: Moravec&#39;s Paradox, Abundance and Inequality](https://dev.to/fundacjadobrepanstwo/the-second-machine-age-moravecs-paradox-abundance-and-inequality-4g1g)
+- [From CLI to GitHub Bot: Building a Code Management AI for Python](https://dev.to/daisukeyoda/from-cli-to-github-bot-building-a-code-management-ai-for-python-7nk)
 <!-- BLOG-POST-LIST:END -->
 
 
