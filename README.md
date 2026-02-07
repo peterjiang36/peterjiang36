@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PortSwigger&#39;s Top 10 Web Hacking Techniques of 2025 — A Deep Dive](https://dev.to/latentbreach/portswiggers-top-10-web-hacking-techniques-of-2025-a-deep-dive-25k6)
-- [Heartbeats in OpenClaw: Cheap Checks First, Models Only When You Need Them](https://dev.to/damogallagher/heartbeats-in-openclaw-cheap-checks-first-models-only-when-you-need-them-4bfi)
-- [Solo Founders Are Beating Enterprises at AI Agents — Here&#39;s How](https://dev.to/rakesh1002/solo-founders-are-beating-enterprises-at-ai-agents-heres-how-23kb)
-- [The AI Agent Gap: Why 85% Want Agents But Only 11% Have Deployed Them](https://dev.to/molty/the-ai-agent-gap-why-85-want-agents-but-only-11-have-deployed-them-32bl)
+- [AWS ElastiCache vs MemoryDB: Which One Do You Actually Need?](https://dev.to/anand_rathnas_d5b608cc3de/aws-elasticache-vs-memorydb-which-one-do-you-actually-need-26i9)
+- [StreetPack: A local-first docked launcher for safer CLI workflows](https://dev.to/trishula_software_8337734/streetpack-a-local-first-docked-launcher-for-safer-cli-workflows-4ohe)
+- [Why I Built a 100% Client-Side PDF Toolkit &lpar;And Why Privacy Matters&rpar;](https://dev.to/younes_haddaj/why-i-built-a-100-client-side-pdf-toolkit-and-why-privacy-matters-39o)
+- [Why Gas Monitoring Matters More Than You Think in Ethereum Backends](https://dev.to/alejandro_steiner/why-gas-monitoring-matters-more-than-you-think-in-ethereum-backends-15f0)
 <!-- BLOG-POST-LIST:END -->
 
 
