@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Learning Journey – Day 19: Text Processing &amp; Data Manipulation with grep, awk &amp; sed 📝🔍](https://dev.to/avinashwagh/linux-learning-journey-day-19-text-processing-data-manipulation-with-grep-awk-sed-56jk)
-- [The Solo Founder&#39;s Guide to API Monitoring &lpar;Without Enterprise Pricing&rpar;](https://dev.to/shibley/the-solo-founders-guide-to-api-monitoring-without-enterprise-pricing-1edn)
-- [🔥 We Deleted Our Login Code: ALB OIDC for Serverless Frontends](https://dev.to/suraj_khaitan_f893c243958/we-deleted-our-login-code-alb-oidc-for-serverless-frontends-aok)
-- [Getting Started with RBAC in Kubernetes: A Practical Guide](https://dev.to/bkrajendra/getting-started-with-rbac-authorization-in-kubernetes-a-practical-guide-3ln4)
+- [I checked the WordPress sites I built years ago. Here&#39;s what I found.](https://dev.to/y1uda/i-checked-the-wordpress-sites-i-built-years-ago-heres-what-i-found-m9k)
+- [What is Anonymous Budget Matching? &lpar;And Why Freelancers Love It&rpar;](https://dev.to/fairpricework/what-is-anonymous-budget-matching-and-why-freelancers-love-it-h0m)
+- [Building a Simple Fidget Spinner Taught Me More Than I Expected](https://dev.to/dinesh_04/building-a-simple-fidget-spinner-taught-me-more-than-i-expected-1da9)
+- [Design HLD - Recomendation Sytem](https://dev.to/learnwithvikzzy/design-hld-recomendation-sytem-4c9p)
 <!-- BLOG-POST-LIST:END -->
 
 
