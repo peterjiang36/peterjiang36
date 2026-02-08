@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] Parallel execution of tasks using Kiro&#39;s custom subagents [Kiro]](https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77)
-- [x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know](https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf)
-- [I built a cryptographic memory layer for humans in Python tags: python, opensource, security, blockchain](https://dev.to/diaryvault/i-built-a-cryptographic-memory-layer-for-humans-in-python-tags-python-opensource-security-20jo)
-- [&quot;Var vs Let: The Big Confusion Explained!&quot;](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
+- [Throttling as a Coordination Constraint](https://dev.to/thatechmaestro/throttling-as-a-coordination-constraint-1pfe)
+- [From Short Video Feedback to Scalable Content Systems](https://dev.to/tvscnvideo/from-short-video-feedback-to-scalable-content-systems-2f63)
+- [Using Short-Form Video to Validate Content Demand Before Scaling SEO](https://dev.to/tvscnvideo/using-short-form-video-to-validate-content-demand-before-scaling-seo-54g2)
+- [How Short Videos Are Driving Content Growth and SEO Experiments](https://dev.to/tvscnvideo/how-short-videos-are-driving-content-growth-and-seo-experiments-5222)
 <!-- BLOG-POST-LIST:END -->
 
 
