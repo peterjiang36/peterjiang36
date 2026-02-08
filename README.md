@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling AI Inference: Why Your Next .NET Microservice Needs Kubernetes and ONNX](https://dev.to/programmingcentral/scaling-ai-inference-why-your-next-net-microservice-needs-kubernetes-and-onnx-4819)
-- [Stop Building Backends Just to Hide One API Key](https://dev.to/aprsn/stop-building-backends-just-to-hide-one-api-key-32me)
-- [Cross Entropy Derivatives, Part 6: Using gradient descent to reach the final result](https://dev.to/rijultp/cross-entropy-derivatives-part-6-using-gradient-descent-to-reach-the-final-result-509j)
-- [Circuits Meet Joy: Happy Tech Stories in Three Words](https://dev.to/narnaiezzsshaa/circuits-meet-joy-happy-tech-stories-in-three-words-4ip1)
+- [Maravel-Framework 10.61.9 Benchmarks vs Lumen and Laravel](https://dev.to/marius-ciclistu/maravel-framework-10619-benchmarks-vs-lumen-and-laravel-3n41)
+- [I Built BreakFinder: Personalized Surf Forecasts + Full Garmin Ecosystem](https://dev.to/breakfinder/i-built-breakfinder-personalized-surf-forecasts-full-garmin-ecosystem-4ama)
+- [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI &amp; Compose](https://dev.to/salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-4bn3)
+- [🚀 How I Built &amp; Deployed a Real DevOps Project from Scratch &lpar;AWS GitHub Netlify&rpar;](https://dev.to/irfanpasha/how-i-built-deployed-a-real-devops-project-from-scratch-aws-github-netlify-1img)
 <!-- BLOG-POST-LIST:END -->
 
 
