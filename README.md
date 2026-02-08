@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-3-3ilm)
-- [Almost Ready to Write](https://dev.to/imomaliev/almost-ready-to-write-1lfi)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/jason_ndalamia/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-f77)
-- [I built a Streamlit alternative because I hated &quot;Full-Script Reruns&quot; &lpar;Introducing Violit&rpar; 🚀](https://dev.to/dope_flamingo/i-built-a-streamlit-alternative-because-i-hated-full-script-reruns-introducing-violit-1eg0)
+- [I built a “Steam Workshop” for system architecture + product roadmaps + org blueprints &lpar;runs in your browser&rpar;&quot;](https://dev.to/khanmjk/i-built-a-steam-workshop-for-system-architecture-product-roadmaps-org-blueprints-runs-in-5af9)
+- [Claude Code Just Got Faster: Here&#39;s How to Set It Up &lpar;With Examples&rpar;](https://dev.to/rakesh1002/claude-code-just-got-faster-heres-how-to-set-it-up-with-examples-166)
+- [React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns](https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p)
+- [Tweak Build](https://dev.to/lizmat/tweak-build-fhg)
 <!-- BLOG-POST-LIST:END -->
 
 
