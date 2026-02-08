@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sliding Window in Arrays — A Beginner’s Mental Model](https://dev.to/nithya_dharshiniofficial/sliding-window-in-arrays-a-beginners-mental-model-4b37)
-- [Stop Writing Boilerplate: How I Built a Code Generator to Automate NestJS Development](https://dev.to/inno0317/stop-writing-boilerplate-how-i-built-a-code-generator-to-automate-nestjs-development-1jk2)
-- [DevFlow [ A CLI Tool to End Your Repetitive Project Setup ]](https://dev.to/itsmeangeloo/devflow-a-cli-tool-to-end-your-repetitive-project-setup--4543)
-- [AI Agents for Code: Build vs Buy in 2026](https://dev.to/glue_admin_3465093919ac6b/ai-agents-for-code-build-vs-buy-in-2026-21j4)
+- [Building MoniBot: Why We Ditched OpenClaw and Built Our Own Autonomous Agent in 48 Hours](https://dev.to/samuel_chimmy_b5ebdd841e2/building-monibot-why-we-ditched-openclaw-and-built-our-own-autonomous-agent-in-48-hours-1paj)
+- [Build an Accessible Audio Controller](https://dev.to/richardpascoe/build-an-accessible-audio-controller-4me7)
+- [Sector HQ Weekly Digest - February 8, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-8-2026-42k1)
+- [AI Coding - Don&#39;t Ya Forget about dem good&#39;ol Source Control](https://dev.to/africandeveloper/ai-coding-dont-ya-forget-about-dem-goodol-source-control-5g88)
 <!-- BLOG-POST-LIST:END -->
 
 
