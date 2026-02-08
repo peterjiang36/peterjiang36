@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTDICS — HTML Dictionaries](https://dev.to/fsangiuseppe/htdics-html-dictionaries-gke)
-- [The AI Hydra Problem: Fix One AI Bug, Get Two More](https://dev.to/ofri-peretz/the-ai-hydra-problem-fix-one-ai-bug-get-two-more-5g1l)
-- [The SOLID Principles in Dart: Building Robust Flutter Apps](https://dev.to/actocodes/the-solid-principles-in-dart-building-robust-flutter-apps-4mho)
-- [From Prop Drilling to Context API😏](https://dev.to/usama_dev/from-prop-drilling-to-context-api-c2n)
+- [Beyond &quot;Find&quot;: Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0)
+- [I Built a Chrome Extension to hide noisy GitHub Issue timeline events &lpar;with Copilot CLI&rpar;](https://dev.to/leereilly/i-built-a-chrome-extension-to-hide-noisy-github-issue-timeline-events-with-copilot-cli-255m)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/maggy_njuguna/power-bis-superpower-in-cleaning-datadax-and-creating-real-time-dashboards-282e)
+- [I Built a Context7 Local-First Alternative With Claude Code](https://dev.to/moshe_io/i-built-a-context7-local-first-alternative-with-claude-code-a6f)
 <!-- BLOG-POST-LIST:END -->
 
 
