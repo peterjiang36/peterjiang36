@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Flags and gradual rollouts: releasing software safely at scale](https://dev.to/kodus/feature-flags-and-gradual-rollouts-releasing-software-safely-at-scale-5h00)
-- [파이썬 연산과 함수](https://dev.to/koareum/paisseon-yeonsangwa-hamsu-4f20)
-- [파이썬 기초 &lpar;2&rpar;](https://dev.to/koareum/paisseon-gico-2-3j71)
-- [I built codex-monitor so I could ship code while I slept](https://dev.to/jaeko44/i-built-codex-monitor-so-i-could-ship-code-while-i-slept-58in)
+- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
+- [Why AI Can’t Replace Debugging Skills &lpar;And What You Can Do Instead&rpar;](https://dev.to/jaideepparashar/why-ai-cant-replace-debugging-skills-and-what-you-can-do-instead-2762)
+- [기타 자료 구조](https://dev.to/koareum/gita-jaryo-gujo-jgk)
+- [Bringing my old MacBook Pro 8,2 back to life](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-2odn)
 <!-- BLOG-POST-LIST:END -->
 
 
