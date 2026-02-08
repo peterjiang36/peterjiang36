@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maravel-Framework 10.61.9 Benchmarks vs Lumen and Laravel](https://dev.to/marius-ciclistu/maravel-framework-10619-benchmarks-vs-lumen-and-laravel-3n41)
-- [I Built BreakFinder: Personalized Surf Forecasts + Full Garmin Ecosystem](https://dev.to/breakfinder/i-built-breakfinder-personalized-surf-forecasts-full-garmin-ecosystem-4ama)
-- [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI &amp; Compose](https://dev.to/salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-4bn3)
-- [🚀 How I Built &amp; Deployed a Real DevOps Project from Scratch &lpar;AWS GitHub Netlify&rpar;](https://dev.to/irfanpasha/how-i-built-deployed-a-real-devops-project-from-scratch-aws-github-netlify-1img)
+- [Every AI agent framework focuses on making agents smarter. None of them ask what happens when agents screw up.](https://dev.to/yaron_torjeman_5288cbab83/every-ai-agent-framework-focuses-on-making-agents-smarter-none-of-them-ask-what-happens-when-1da1)
+- [[Boost]](https://dev.to/beleke_ian/-3i0o)
+- [How to Use ImportKit: Add CSV/Excel Import to Your React App in 10 Minutes](https://dev.to/gthorr/how-to-use-importkit-add-csvexcel-import-to-your-react-app-in-10-minutes-3l1i)
+- [How I Built an AI Product Photography Pipeline with 30+ Models &lpar;Next.js + Express + Replicate/FAL&rpar;](https://dev.to/tylerilunga/how-i-built-an-ai-product-photography-pipeline-with-30-models-nextjs-express-replicatefal-bp8)
 <!-- BLOG-POST-LIST:END -->
 
 
