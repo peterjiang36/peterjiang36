@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced HTML: Powerful Features Most Developers Underuse](https://dev.to/daniel_trix_smith/advanced-html-powerful-features-most-developers-underuse-6fo)
-- [run.sh Diaries #1: Automating My Ubuntu Dev Environment](https://dev.to/lazydoomslayer/runsh-diaries-1-automating-my-ubuntu-dev-environment-1gpi)
-- [freeCodeCamp: Full Stack Developer Curriculum](https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc)
-- [How I Analyzed $107K Jupiter Lend Before Contest Starts](https://dev.to/ohmygod/how-i-analyzed-107k-jupiter-lend-before-contest-starts-1d55)
+- [HTDICS — HTML Dictionaries](https://dev.to/fsangiuseppe/htdics-html-dictionaries-gke)
+- [The AI Hydra Problem: Fix One AI Bug, Get Two More](https://dev.to/ofri-peretz/the-ai-hydra-problem-fix-one-ai-bug-get-two-more-5g1l)
+- [The SOLID Principles in Dart: Building Robust Flutter Apps](https://dev.to/actocodes/the-solid-principles-in-dart-building-robust-flutter-apps-4mho)
+- [From Prop Drilling to Context API😏](https://dev.to/usama_dev/from-prop-drilling-to-context-api-c2n)
 <!-- BLOG-POST-LIST:END -->
 
 
