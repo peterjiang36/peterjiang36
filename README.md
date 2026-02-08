@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a $29/mo Managed AI Agent Service on Open Source](https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc)
-- [Testing Antrieb: Deploying MongoDB with Authentication for a Flask + React App](https://dev.to/angeldev996/testing-antrieb-deploying-mongodb-with-authentication-for-a-flask-react-app-3c5b)
-- [My take on transforming data](https://dev.to/hyperwindmill/my-take-on-transforming-data-5fnh)
-- [Reconstruction of the conditions of control over superintelligence](https://dev.to/fundacjadobrepanstwo/reconstruction-of-the-conditions-of-control-over-superintelligence-1clh)
+- [Feature Flags and gradual rollouts: releasing software safely at scale](https://dev.to/kodus/feature-flags-and-gradual-rollouts-releasing-software-safely-at-scale-5h00)
+- [파이썬 연산과 함수](https://dev.to/koareum/paisseon-yeonsangwa-hamsu-4f20)
+- [파이썬 기초 &lpar;2&rpar;](https://dev.to/koareum/paisseon-gico-2-3j71)
+- [I built codex-monitor so I could ship code while I slept](https://dev.to/jaeko44/i-built-codex-monitor-so-i-could-ship-code-while-i-slept-58in)
 <!-- BLOG-POST-LIST:END -->
 
 
