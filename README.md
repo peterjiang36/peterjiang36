@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
-- [Why AI Can’t Replace Debugging Skills &lpar;And What You Can Do Instead&rpar;](https://dev.to/jaideepparashar/why-ai-cant-replace-debugging-skills-and-what-you-can-do-instead-2762)
-- [기타 자료 구조](https://dev.to/koareum/gita-jaryo-gujo-jgk)
-- [Bringing my old MacBook Pro 8,2 back to life](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-2odn)
+- [Best AI Writing Tools 2026: Ranked &amp; Compared](https://dev.to/aristoaistack/best-ai-writing-tools-2026-ranked-compared-fpm)
+- [rut: A Python Test Runner That Skips Unaffected Tests](https://dev.to/schettino72/rut-a-python-test-runner-that-skips-unaffected-tests-3lpc)
+- [Google Developer Year-end 2025 Recap: Gemini 2025 New Features and Perfect Integration with LINE Bot](https://dev.to/gde/google-developer-year-end-2025-recap-gemini-2025-new-features-and-perfect-integration-with-line-bot-3n2m)
+- [[Gemini CLI] Google Developer Knowledge API and MCP Server: Equipping Your AI Assistant with an Official Knowledge Base](https://dev.to/gde/gemini-cli-google-developer-knowledge-api-and-mcp-server-equipping-your-ai-assistant-with-an-3gee)
 <!-- BLOG-POST-LIST:END -->
 
 
