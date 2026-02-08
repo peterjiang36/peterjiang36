@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MoniBot: Why We Ditched OpenClaw and Built Our Own Autonomous Agent in 48 Hours](https://dev.to/samuel_chimmy_b5ebdd841e2/building-monibot-why-we-ditched-openclaw-and-built-our-own-autonomous-agent-in-48-hours-1paj)
-- [Build an Accessible Audio Controller](https://dev.to/richardpascoe/build-an-accessible-audio-controller-4me7)
-- [Sector HQ Weekly Digest - February 8, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-8-2026-42k1)
-- [AI Coding - Don&#39;t Ya Forget about dem good&#39;ol Source Control](https://dev.to/africandeveloper/ai-coding-dont-ya-forget-about-dem-goodol-source-control-5g88)
+- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
+- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
+- [A simple load balancer from scratch written in Golang](https://dev.to/realebi/a-simple-load-balancer-from-scratch-written-in-golang-30h6)
+- [I Built an Open-Source AI Assistant with 19 Tools That Actually Controls Your Computer](https://dev.to/jaseph/i-built-an-open-source-ai-assistant-with-19-tools-that-actually-controls-your-computer-38ep)
 <!-- BLOG-POST-LIST:END -->
 
 
