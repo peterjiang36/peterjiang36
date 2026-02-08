@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI APIs Every Solo Builder Should Know &lpar;With Code Examples&rpar;](https://dev.to/rakesh1002/5-ai-apis-every-solo-builder-should-know-with-code-examples-47nh)
-- [Monster Cards](https://dev.to/preetha_vaishnavi_2b82358/monster-cards-2glb)
-- [12 Simple AWS Tips That Actually Help in Real Projects](https://dev.to/imash24/12-simple-aws-tips-that-actually-help-in-real-projects-33i6)
-- [How I Built a Prompt Generator to Create 10K+ AI Image Prompts for My ML Dataset](https://dev.to/nehirakbas/how-i-built-a-prompt-generator-to-create-10k-ai-image-prompts-for-my-ml-dataset-2h57)
+- [Advanced HTML: Powerful Features Most Developers Underuse](https://dev.to/daniel_trix_smith/advanced-html-powerful-features-most-developers-underuse-6fo)
+- [run.sh Diaries #1: Automating My Ubuntu Dev Environment](https://dev.to/lazydoomslayer/runsh-diaries-1-automating-my-ubuntu-dev-environment-1gpi)
+- [freeCodeCamp: Full Stack Developer Curriculum](https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc)
+- [How I Analyzed $107K Jupiter Lend Before Contest Starts](https://dev.to/ohmygod/how-i-analyzed-107k-jupiter-lend-before-contest-starts-1d55)
 <!-- BLOG-POST-LIST:END -->
 
 
