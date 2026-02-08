@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [B+-Tree Structure: How Order Is Maintained at Scale](https://dev.to/lovestaco/b-tree-structure-how-order-is-maintained-at-scale-io)
-- [How Analysts Turn Messy Data, DAX, and Dashboards into Action with Power BI](https://dev.to/kuria_dd8316139db3dea9c85/how-analysts-turn-messy-data-dax-and-dashboards-into-action-with-power-bi-1ggd)
-- [From Raw Data to Real Action: The Analyst&#39;s Journey as a Data Translator in Power BI](https://dev.to/charles_ndungu/from-raw-data-to-real-action-the-analysts-journey-as-a-data-translator-in-power-bi-2gl6)
-- [How I would learn programming in 2026 if I had to start from zero](https://dev.to/renato_silva_71eef0fc385f/how-i-would-learn-programming-in-2026-if-i-had-to-start-from-zero-1kbk)
+- [Scaling AI Inference: Why Your Next .NET Microservice Needs Kubernetes and ONNX](https://dev.to/programmingcentral/scaling-ai-inference-why-your-next-net-microservice-needs-kubernetes-and-onnx-4819)
+- [Stop Building Backends Just to Hide One API Key](https://dev.to/aprsn/stop-building-backends-just-to-hide-one-api-key-32me)
+- [Cross Entropy Derivatives, Part 6: Using gradient descent to reach the final result](https://dev.to/rijultp/cross-entropy-derivatives-part-6-using-gradient-descent-to-reach-the-final-result-509j)
+- [Circuits Meet Joy: Happy Tech Stories in Three Words](https://dev.to/narnaiezzsshaa/circuits-meet-joy-happy-tech-stories-in-three-words-4ip1)
 <!-- BLOG-POST-LIST:END -->
 
 
