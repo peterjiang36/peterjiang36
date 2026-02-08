@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I checked the WordPress sites I built years ago. Here&#39;s what I found.](https://dev.to/y1uda/i-checked-the-wordpress-sites-i-built-years-ago-heres-what-i-found-m9k)
-- [What is Anonymous Budget Matching? &lpar;And Why Freelancers Love It&rpar;](https://dev.to/fairpricework/what-is-anonymous-budget-matching-and-why-freelancers-love-it-h0m)
-- [Building a Simple Fidget Spinner Taught Me More Than I Expected](https://dev.to/dinesh_04/building-a-simple-fidget-spinner-taught-me-more-than-i-expected-1da9)
-- [Design HLD - Recomendation Sytem](https://dev.to/learnwithvikzzy/design-hld-recomendation-sytem-4c9p)
+- [Sliding Window in Arrays — A Beginner’s Mental Model](https://dev.to/nithya_dharshiniofficial/sliding-window-in-arrays-a-beginners-mental-model-4b37)
+- [Stop Writing Boilerplate: How I Built a Code Generator to Automate NestJS Development](https://dev.to/inno0317/stop-writing-boilerplate-how-i-built-a-code-generator-to-automate-nestjs-development-1jk2)
+- [DevFlow [ A CLI Tool to End Your Repetitive Project Setup ]](https://dev.to/itsmeangeloo/devflow-a-cli-tool-to-end-your-repetitive-project-setup--4543)
+- [AI Agents for Code: Build vs Buy in 2026](https://dev.to/glue_admin_3465093919ac6b/ai-agents-for-code-build-vs-buy-in-2026-21j4)
 <!-- BLOG-POST-LIST:END -->
 
 
