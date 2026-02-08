@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Throttling as a Coordination Constraint](https://dev.to/thatechmaestro/throttling-as-a-coordination-constraint-1pfe)
-- [From Short Video Feedback to Scalable Content Systems](https://dev.to/tvscnvideo/from-short-video-feedback-to-scalable-content-systems-2f63)
-- [Using Short-Form Video to Validate Content Demand Before Scaling SEO](https://dev.to/tvscnvideo/using-short-form-video-to-validate-content-demand-before-scaling-seo-54g2)
-- [How Short Videos Are Driving Content Growth and SEO Experiments](https://dev.to/tvscnvideo/how-short-videos-are-driving-content-growth-and-seo-experiments-5222)
+- [How I Built a $29/mo Managed AI Agent Service on Open Source](https://dev.to/zxbers/how-i-built-a-29mo-managed-ai-agent-service-on-open-source-5boc)
+- [Testing Antrieb: Deploying MongoDB with Authentication for a Flask + React App](https://dev.to/angeldev996/testing-antrieb-deploying-mongodb-with-authentication-for-a-flask-react-app-3c5b)
+- [My take on transforming data](https://dev.to/hyperwindmill/my-take-on-transforming-data-5fnh)
+- [Reconstruction of the conditions of control over superintelligence](https://dev.to/fundacjadobrepanstwo/reconstruction-of-the-conditions-of-control-over-superintelligence-1clh)
 <!-- BLOG-POST-LIST:END -->
 
 
