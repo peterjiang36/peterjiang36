@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
-- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
-- [A simple load balancer from scratch written in Golang](https://dev.to/realebi/a-simple-load-balancer-from-scratch-written-in-golang-30h6)
-- [I Built an Open-Source AI Assistant with 19 Tools That Actually Controls Your Computer](https://dev.to/jaseph/i-built-an-open-source-ai-assistant-with-19-tools-that-actually-controls-your-computer-38ep)
+- [AltSchool Of Engineering Tinyuka’24 Month 12 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-12-week-3-3ilm)
+- [Almost Ready to Write](https://dev.to/imomaliev/almost-ready-to-write-1lfi)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/jason_ndalamia/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-f77)
+- [I built a Streamlit alternative because I hated &quot;Full-Script Reruns&quot; &lpar;Introducing Violit&rpar; 🚀](https://dev.to/dope_flamingo/i-built-a-streamlit-alternative-because-i-hated-full-script-reruns-introducing-violit-1eg0)
 <!-- BLOG-POST-LIST:END -->
 
 
