@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a “Steam Workshop” for system architecture + product roadmaps + org blueprints &lpar;runs in your browser&rpar;&quot;](https://dev.to/khanmjk/i-built-a-steam-workshop-for-system-architecture-product-roadmaps-org-blueprints-runs-in-5af9)
-- [Claude Code Just Got Faster: Here&#39;s How to Set It Up &lpar;With Examples&rpar;](https://dev.to/rakesh1002/claude-code-just-got-faster-heres-how-to-set-it-up-with-examples-166)
-- [React Debugger: DevTools extension to spot re‑renders, leaks, and anti‑patterns](https://dev.to/hoainhoblogdev/react-debugger-devtools-extension-to-spot-re-renders-leaks-and-anti-patterns-312p)
-- [Tweak Build](https://dev.to/lizmat/tweak-build-fhg)
+- [The Unwritten Rules of Slack Etiquette for Devs](https://dev.to/kirill_tolmachev/the-unwritten-rules-of-slack-etiquette-for-devs-7dn)
+- [I built a tool that tells freelancers when to say no &lpar;and how to get paid for it&rpar;](https://dev.to/valynx_saas/i-built-a-tool-that-tells-freelancers-when-to-say-no-and-how-to-get-paid-for-it-3j93)
+- [Design Patterns Are Overrated — And That’s Exactly Why You Still Need Them](https://dev.to/soufiane_dakir_dd4431ead1/design-patterns-are-overrated-and-thats-exactly-why-you-still-need-them-51il)
+- [“How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI”](https://dev.to/cynthia_jelimo_3f427f1110/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-17ok)
 <!-- BLOG-POST-LIST:END -->
 
 
