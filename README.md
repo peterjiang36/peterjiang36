@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Conversational AI for Instant Internal Proposal Generation &lpar;Powered by Algolia Agent Studio&rpar;](https://dev.to/techceorahul/a-conversational-ai-for-instant-internal-proposal-generation-powered-by-algolia-agent-studio-h3j)
-- [Why Bing Is Stricter Than Google About URL Consistency — Technical SEO Deep Dive](https://dev.to/hetianhe/why-bing-is-stricter-than-google-about-url-consistency-technical-seo-deep-dive-25l1)
-- [Setup NUT on Proxmox](https://dev.to/seno21/setup-nut-on-proxmox-4b5n)
-- [Extensions - Lists and for-in loops](https://dev.to/lahari_tenneti_4a8a082e9c/extensions-lists-and-for-in-loops-194f)
+- [Designing Conflict-Free Kyverno Policies: Patterns for Ownership, Scope, and Determinism](https://dev.to/jai_sandesh_ls/designing-conflict-free-kyverno-policies-patterns-for-ownership-scope-and-determinism-4dn2)
+- [[Boost]](https://dev.to/leee_rodgers1/-3mdj)
+- [Kyverno Policy Conflicts: Why “Last-Writer-Wins” Is a Production Bug](https://dev.to/jai_sandesh_ls/kyverno-policy-conflicts-why-last-writer-wins-is-a-production-bug-1j7i)
+- [I built an open-source invoicing app with Next.js 16 — here&#39;s the architecture](https://dev.to/maksim_pokhiliy/i-built-an-open-source-invoicing-app-with-nextjs-16-heres-the-architecture-3e3h)
 <!-- BLOG-POST-LIST:END -->
 
 
