@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Your First Game in TypeScript: ASCII Space Invaders with Sound](https://dev.to/shaisrc/create-your-first-game-in-typescript-ascii-space-invaders-with-sound-1el6)
-- [How to Build a Secure OpenClaw LinkedIn Skill &lpar;Avoid Malicious Scripts&rpar;](https://dev.to/behruamm/how-to-build-a-secure-openclaw-linkedin-skill-avoid-malicious-scripts-3ccn)
-- [Dear Vibe Coder: Your App Works. Your Code Is the Problem.](https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc)
-- [List of Top 5 AI Gateways: Features + Comprehensive comparison](https://dev.to/pranay_batta/list-of-top-5-ai-gateways-features-comprehensive-comparison-h0g)
+- [I Built an Adaptive AI Feedback Platform with Gemini 3 in a Weekend](https://dev.to/adamp78/i-built-an-adaptive-ai-feedback-platform-with-gemini-3-in-a-weekend-3nee)
+- [COLORS: HILLARI - I&#39;m Still | A COLORS SHOW](https://dev.to/music_youtube/colors-hillari-im-still-a-colors-show-44ii)
+- [Liberating an MDM-Locked M2 MacBook](https://dev.to/carissab96/liberating-an-mdm-locked-m2-macbook-on8)
+- [Time Series Forecasting: Traditional and ML Approaches](https://dev.to/matt_frank_usa/time-series-forecasting-traditional-and-ml-approaches-201f)
 <!-- BLOG-POST-LIST:END -->
 
 
