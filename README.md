@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Ray Data Pipeline Works at 10K Samples. Here&#39;s Why It Crashes at 1M.](https://dev.to/mketkar/your-ray-data-pipeline-works-at-10k-samples-heres-why-it-crashes-at-1m-2g7k)
-- [Coding Challenge Practice - Question 117](https://dev.to/tomivan/coding-challenge-practice-question-117-27on)
-- [Why DevOps Is No Longer Enough: The Rise of DevSecOps: true](https://dev.to/17j/why-devops-is-no-longer-enough-the-rise-of-devsecops-true-k5n)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/victor_ochieng_e9/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-2d32)
+- [Why Learning Elixir &lpar;and programming&rpar; Still Matters in the AI Era](https://dev.to/techsplot/why-learning-elixir-and-programming-still-matters-in-the-ai-era-15jg)
+- [Stop Manually Assigning Roles in Better Auth: Use Role-Based Invitations Instead](https://dev.to/sandy00/stop-manually-assigning-roles-in-better-auth-use-role-based-invitations-instead-2bd7)
+- [Heimdall 🛡️: The All-Seeing Code Guardian That Actually Fixes Your Problems](https://dev.to/simandebvu/heimdall-the-all-seeing-code-guardian-that-actually-fixes-your-problems-2bi1)
+- [RoomKit, Pipecat, TEN Framework, LiveKit Agents: Choosing the Right Conversational AI Framework](https://dev.to/quintana/roomkit-pipecat-ten-framework-livekit-agents-choosing-the-right-conversational-ai-framework-2h80)
 <!-- BLOG-POST-LIST:END -->
 
 
