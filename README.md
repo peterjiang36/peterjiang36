@@ -74,10 +74,15 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Name Should Mean Something in Tech 👑](https://dev.to/thebitforge/why-your-name-should-mean-something-in-tech-2eai)
-- [Software development is full of invisible choices.](https://dev.to/_eb7ede481eac3d7c3/software-development-is-full-of-invisible-choices-3cjj)
-- [Building a Secure Email Migration Tool: OAuth, Encryption, and Privacy by Design](https://dev.to/jayenashar/building-a-secure-email-migration-tool-oauth-encryption-and-privacy-by-design-3pkf)
-- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj)
+- [AI Automation with GPT + n8n: A Practical Guide for CTOs and Developers](https://dev.to/meisterit_systems_/ai-automation-with-gpt-n8n-a-practical-guide-for-ctos-and-developers-4akk)
+- [Hi everyone 👋
+
+New here &amp; unashamedly starting afresh.
+Just got a monitor, a sit-stand desk &amp; a 2025 copy of Géron’s Hands-On ML with Scikit-Learn &amp; PyTorch.
+
+Would really appreciate guides/mentors as I look to build low resource healthcare triage system.](https://dev.to/stingrai_/hi-everyone-new-here-unashamedly-starting-afresh-just-got-a-monitor-a-sit-stand-desk-a-3p8b)
+- [What I Learned Building a Job Scheduler That Doesn’t Trust Redis](https://dev.to/blueberry_adii/what-i-learned-building-a-job-scheduler-that-doesnt-trust-redis-5fd1)
+- [THIS IS HOW REAL PASSWORD MANAGERS ACTUALLY WORK](https://dev.to/splintersword/this-is-how-real-password-managers-actually-work-46ib)
 <!-- BLOG-POST-LIST:END -->
 
 
