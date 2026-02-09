@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Adaptive AI Feedback Platform with Gemini 3 in a Weekend](https://dev.to/adamp78/i-built-an-adaptive-ai-feedback-platform-with-gemini-3-in-a-weekend-3nee)
-- [COLORS: HILLARI - I&#39;m Still | A COLORS SHOW](https://dev.to/music_youtube/colors-hillari-im-still-a-colors-show-44ii)
-- [Liberating an MDM-Locked M2 MacBook](https://dev.to/carissab96/liberating-an-mdm-locked-m2-macbook-on8)
-- [Time Series Forecasting: Traditional and ML Approaches](https://dev.to/matt_frank_usa/time-series-forecasting-traditional-and-ml-approaches-201f)
+- [Next.js Performance When You Have 200,000 Database Rows](https://dev.to/kiravaughn/nextjs-performance-when-you-have-200000-database-rows-5ee0)
+- [Last part! &lpar;3 out of 3&rpar; to Get started with Gemini CLI](https://dev.to/leslysandra/last-part-3-out-of-3-to-get-started-with-gemini-cli-1hmd)
+- [Use Git Alias To Become Pro](https://dev.to/nra/use-git-alias-to-become-pro-46nm)
+- [Part 3: Mastering Gemini CLI – Content Creation, Learning, and Multimodality](https://dev.to/leslysandra/part-3-mastering-gemini-cli-content-creation-learning-and-multimodality-2jmj)
 <!-- BLOG-POST-LIST:END -->
 
 
