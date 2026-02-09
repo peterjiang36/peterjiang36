@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Velocity Paradox: When AI metrics weaponize technical debt.](https://dev.to/pragmaticdeveloper/the-velocity-paradox-when-ai-met4ics-weaponize-technical-debt-1mn)
-- [Automatically Generate Dataverse ER Diagrams – Introducing Dataverse ERD Generator](https://dev.to/reire_shake/dataverse-generate-er-diagrams-automatically-introducing-dataverse-erd-generator-1ob7)
-- [How Analysts translate messy Data, DAX &amp; Dashboards into Action using POWER BI](https://dev.to/menda_mukomi_/how-analysts-translate-messy-data-dax-dashboards-into-action-using-power-bi-56c2)
-- [# How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/tonny-o/-how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-467e)
+- [Your Ray Data Pipeline Works at 10K Samples. Here&#39;s Why It Crashes at 1M.](https://dev.to/mketkar/your-ray-data-pipeline-works-at-10k-samples-heres-why-it-crashes-at-1m-2g7k)
+- [Coding Challenge Practice - Question 117](https://dev.to/tomivan/coding-challenge-practice-question-117-27on)
+- [Why DevOps Is No Longer Enough: The Rise of DevSecOps: true](https://dev.to/17j/why-devops-is-no-longer-enough-the-rise-of-devsecops-true-k5n)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/victor_ochieng_e9/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-2d32)
 <!-- BLOG-POST-LIST:END -->
 
 
