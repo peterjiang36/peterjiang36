@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 OLSRT v1.2: A Powerful Runtime for All Programming Languages!](https://dev.to/javadinteger/-olsrt-v12-a-powerful-runtime-for-all-programming-languages-3jbh)
-- [IntentRefiner: AI-Powered Issue Refinement for Faster Support Automation](https://dev.to/sideeqbn/intentrefiner-ai-powered-issue-refinement-for-faster-support-automation-5g38)
-- [I Built a Vercel for Landing Pages — With a CLI and an MCP Server](https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a)
-- [Why Windows Crashes and How To Build Stable PCs](https://dev.to/gw-jeni-systems/why-windows-crashes-and-how-to-build-stable-pcs-4fib)
+- [A Proof of P = NP](https://dev.to/frank_vega_987689489099bf/a-proof-of-p-np-4239)
+- [Stop Using CAPTCHA. Start Measuring Entropy.](https://dev.to/franciscuo/stop-using-captcha-start-measuring-entropy-5hj6)
+- [Fire Your DevOps Team: A Solo Dev’s Guide to Kamal 2](https://dev.to/zilton7/fire-your-devops-team-a-solo-devs-guide-to-kamal-2-41fn)
+- [Welcome to IgorIOT &lpar;a.k.a. I Go Riot&rpar;](https://dev.to/igoriot/welcome-to-igoriot-aka-i-go-riot-1kng)
 <!-- BLOG-POST-LIST:END -->
 
 
