@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ancient Lists of Data That Changed the World](https://dev.to/nevpetda/5-ancient-lists-of-data-that-changed-the-world-22ci)
-- [I built a free cron expression translator with visual builder](https://dev.to/vito_saulle_016ec1ce26825/i-built-a-free-cron-expression-translator-with-visual-builder-1c43)
-- [OpenClaw is infrastructure, not intelligence](https://dev.to/pvgomes/openclaw-is-infrastructure-not-intelligence-3d5o)
-- [Masa Depan Programmer, Pendidikan, dan Keberlanjutan Open Source di Era AI](https://dev.to/zahwa_davina/masa-depan-programmer-pendidikan-dan-keberlanjutan-open-source-di-era-ai-2h0g)
+- [Why Your Name Should Mean Something in Tech 👑](https://dev.to/thebitforge/why-your-name-should-mean-something-in-tech-2eai)
+- [Software development is full of invisible choices.](https://dev.to/_eb7ede481eac3d7c3/software-development-is-full-of-invisible-choices-3cjj)
+- [Building a Secure Email Migration Tool: OAuth, Encryption, and Privacy by Design](https://dev.to/jayenashar/building-a-secure-email-migration-tool-oauth-encryption-and-privacy-by-design-3pkf)
+- [I Shipped the Solution to Knowledge Collapse in 21 Days](https://dev.to/the-foundation/i-built-federated-ai-knowledge-commons-heres-how-56oj)
 <!-- BLOG-POST-LIST:END -->
 
 
