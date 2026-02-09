@@ -74,15 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Automation with GPT + n8n: A Practical Guide for CTOs and Developers](https://dev.to/meisterit_systems_/ai-automation-with-gpt-n8n-a-practical-guide-for-ctos-and-developers-4akk)
-- [Hi everyone 👋
-
-New here &amp; unashamedly starting afresh.
-Just got a monitor, a sit-stand desk &amp; a 2025 copy of Géron’s Hands-On ML with Scikit-Learn &amp; PyTorch.
-
-Would really appreciate guides/mentors as I look to build low resource healthcare triage system.](https://dev.to/stingrai_/hi-everyone-new-here-unashamedly-starting-afresh-just-got-a-monitor-a-sit-stand-desk-a-3p8b)
-- [What I Learned Building a Job Scheduler That Doesn’t Trust Redis](https://dev.to/blueberry_adii/what-i-learned-building-a-job-scheduler-that-doesnt-trust-redis-5fd1)
-- [THIS IS HOW REAL PASSWORD MANAGERS ACTUALLY WORK](https://dev.to/splintersword/this-is-how-real-password-managers-actually-work-46ib)
+- [The Velocity Paradox: When AI metrics weaponize technical debt.](https://dev.to/pragmaticdeveloper/the-velocity-paradox-when-ai-met4ics-weaponize-technical-debt-1mn)
+- [Automatically Generate Dataverse ER Diagrams – Introducing Dataverse ERD Generator](https://dev.to/reire_shake/dataverse-generate-er-diagrams-automatically-introducing-dataverse-erd-generator-1ob7)
+- [How Analysts translate messy Data, DAX &amp; Dashboards into Action using POWER BI](https://dev.to/menda_mukomi_/how-analysts-translate-messy-data-dax-dashboards-into-action-using-power-bi-56c2)
+- [# How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/tonny-o/-how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-467e)
 <!-- BLOG-POST-LIST:END -->
 
 
