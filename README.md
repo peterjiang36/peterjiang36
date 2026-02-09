@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Learning Elixir &lpar;and programming&rpar; Still Matters in the AI Era](https://dev.to/techsplot/why-learning-elixir-and-programming-still-matters-in-the-ai-era-15jg)
-- [Stop Manually Assigning Roles in Better Auth: Use Role-Based Invitations Instead](https://dev.to/sandy00/stop-manually-assigning-roles-in-better-auth-use-role-based-invitations-instead-2bd7)
-- [Heimdall 🛡️: The All-Seeing Code Guardian That Actually Fixes Your Problems](https://dev.to/simandebvu/heimdall-the-all-seeing-code-guardian-that-actually-fixes-your-problems-2bi1)
-- [RoomKit, Pipecat, TEN Framework, LiveKit Agents: Choosing the Right Conversational AI Framework](https://dev.to/quintana/roomkit-pipecat-ten-framework-livekit-agents-choosing-the-right-conversational-ai-framework-2h80)
+- [I built a free AI music generator &lpar;no signup, no BS&rpar;](https://dev.to/trinhcuong-ast/i-built-a-free-ai-music-generator-no-signup-no-bs-10ki)
+- [How analysts translate messy data, and Dashboards into actions in Power BI](https://dev.to/valgrace/how-analysts-translate-messy-data-and-dashboards-into-actions-in-power-bi-3i21)
+- [Integrating Nigerian &lpar;NG&rpar; Stock Market Data via iTick API – Real-time Quotes &amp; Historical K-Line](https://dev.to/san_siwu_f08e7c406830469/integrating-nigerian-ng-stock-market-data-via-itick-api-real-time-quotes-historical-k-line-8ji)
+- [Python for Beginners: From Basics to Building Your First Project](https://dev.to/harsh2644/python-for-beginners-from-basics-to-building-your-first-project-12i6)
 <!-- BLOG-POST-LIST:END -->
 
 
