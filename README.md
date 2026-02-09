@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google PaperBanana AI and Thoughts About AI Order World](https://dev.to/gokayburuc/google-paperbanana-ai-and-thoughts-about-ai-order-world-23jo)
-- [Why Percentiles Matter More Than Average Response Time in Performance Testing](https://dev.to/oleh_koren/why-percentiles-matter-more-than-average-response-time-in-performance-testing-37d7)
-- [Struggling with RAG in PHP? Discover Neuron AI components](https://dev.to/inspector/struggling-with-rag-in-php-discover-neuron-ai-components-14oa)
-- [Multi-Line Editing in edittrack: Work with Multiple Routes Simultaneously](https://dev.to/camptocamp-geo/multi-line-editing-in-edittrack-work-with-multiple-routes-simultaneously-5hk2)
+- [5 Ancient Lists of Data That Changed the World](https://dev.to/nevpetda/5-ancient-lists-of-data-that-changed-the-world-22ci)
+- [I built a free cron expression translator with visual builder](https://dev.to/vito_saulle_016ec1ce26825/i-built-a-free-cron-expression-translator-with-visual-builder-1c43)
+- [OpenClaw is infrastructure, not intelligence](https://dev.to/pvgomes/openclaw-is-infrastructure-not-intelligence-3d5o)
+- [Masa Depan Programmer, Pendidikan, dan Keberlanjutan Open Source di Era AI](https://dev.to/zahwa_davina/masa-depan-programmer-pendidikan-dan-keberlanjutan-open-source-di-era-ai-2h0g)
 <!-- BLOG-POST-LIST:END -->
 
 
