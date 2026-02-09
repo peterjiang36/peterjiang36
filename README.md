@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Coding Patterns That Actually Work &lpar;2026 Edition&rpar;](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5)
-- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8)
-- [Stop miscalculating age in JavaScript: leap years, Feb 29, and the Jan 31 trap](https://dev.to/momin_ali_e002a22d102ff40/stop-miscalculating-age-in-javascript-leap-years-feb-29-and-the-jan-31-trap-22aj)
-- [Quantified Self: Building a Blazing Fast Health Dashboard with DuckDB and Streamlit](https://dev.to/wellallytech/quantified-self-building-a-blazing-fast-health-dashboard-with-duckdb-and-streamlit-1d6f)
+- [Bringing my old MacBook Pro 8,2 back to life &lpar;again&rpar;](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-again-4lpi)
+- [From Static Portfolio to Indexed Decisions 📃](https://dev.to/anchildress1/from-static-portfolio-to-indexed-decisions-46bf)
+- [Conversational Retrieval: When Chat Becomes Navigation 💬](https://dev.to/anchildress1/conversational-retrieval-when-chat-becomes-navigation-2gij)
+- [Multibranch Pipeline Lab](https://dev.to/jumptotech/multibranch-pipeline-lab-1kca)
 <!-- BLOG-POST-LIST:END -->
 
 
