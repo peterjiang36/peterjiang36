@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free AI music generator &lpar;no signup, no BS&rpar;](https://dev.to/trinhcuong-ast/i-built-a-free-ai-music-generator-no-signup-no-bs-10ki)
-- [How analysts translate messy data, and Dashboards into actions in Power BI](https://dev.to/valgrace/how-analysts-translate-messy-data-and-dashboards-into-actions-in-power-bi-3i21)
-- [Integrating Nigerian &lpar;NG&rpar; Stock Market Data via iTick API – Real-time Quotes &amp; Historical K-Line](https://dev.to/san_siwu_f08e7c406830469/integrating-nigerian-ng-stock-market-data-via-itick-api-real-time-quotes-historical-k-line-8ji)
-- [Python for Beginners: From Basics to Building Your First Project](https://dev.to/harsh2644/python-for-beginners-from-basics-to-building-your-first-project-12i6)
+- [Create Your First Game in TypeScript: ASCII Space Invaders with Sound](https://dev.to/shaisrc/create-your-first-game-in-typescript-ascii-space-invaders-with-sound-1el6)
+- [How to Build a Secure OpenClaw LinkedIn Skill &lpar;Avoid Malicious Scripts&rpar;](https://dev.to/behruamm/how-to-build-a-secure-openclaw-linkedin-skill-avoid-malicious-scripts-3ccn)
+- [Dear Vibe Coder: Your App Works. Your Code Is the Problem.](https://dev.to/holasoymalva/dear-vibe-coder-your-app-works-your-code-is-the-problem-5fdc)
+- [List of Top 5 AI Gateways: Features + Comprehensive comparison](https://dev.to/pranay_batta/list-of-top-5-ai-gateways-features-comprehensive-comparison-h0g)
 <!-- BLOG-POST-LIST:END -->
 
 
