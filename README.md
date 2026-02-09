@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Conflict-Free Kyverno Policies: Patterns for Ownership, Scope, and Determinism](https://dev.to/jai_sandesh_ls/designing-conflict-free-kyverno-policies-patterns-for-ownership-scope-and-determinism-4dn2)
-- [[Boost]](https://dev.to/leee_rodgers1/-3mdj)
-- [Kyverno Policy Conflicts: Why “Last-Writer-Wins” Is a Production Bug](https://dev.to/jai_sandesh_ls/kyverno-policy-conflicts-why-last-writer-wins-is-a-production-bug-1j7i)
-- [I built an open-source invoicing app with Next.js 16 — here&#39;s the architecture](https://dev.to/maksim_pokhiliy/i-built-an-open-source-invoicing-app-with-nextjs-16-heres-the-architecture-3e3h)
+- [Google PaperBanana AI and Thoughts About AI Order World](https://dev.to/gokayburuc/google-paperbanana-ai-and-thoughts-about-ai-order-world-23jo)
+- [Why Percentiles Matter More Than Average Response Time in Performance Testing](https://dev.to/oleh_koren/why-percentiles-matter-more-than-average-response-time-in-performance-testing-37d7)
+- [Struggling with RAG in PHP? Discover Neuron AI components](https://dev.to/inspector/struggling-with-rag-in-php-discover-neuron-ai-components-14oa)
+- [Multi-Line Editing in edittrack: Work with Multiple Routes Simultaneously](https://dev.to/camptocamp-geo/multi-line-editing-in-edittrack-work-with-multiple-routes-simultaneously-5hk2)
 <!-- BLOG-POST-LIST:END -->
 
 
