@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go: The &#39;defer&#39; Statement](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-the-defer-statement-3j97)
-- [From “It Just Works” to Building a Reverse Tunnel](https://dev.to/mitulshah1/from-it-just-works-to-building-a-reverse-tunnel-final-59fk)
-- [Designing the Engine: How I Built a Laravel-Like PHP Starter Kit](https://dev.to/sunand/designing-the-engine-how-i-built-a-laravel-like-php-starter-kit-35j2)
-- [Engineering-Grade Strategies for Hallucination Prevention in GenAI Systems](https://dev.to/shreekansha97/engineering-grade-strategies-for-hallucination-prevention-in-genai-systems-ea8)
+- [How Analysts Translate Messy data, Dax, and Dashboards into Action using Power Bi.](https://dev.to/brian_nyamwange_2b55b3cb1/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1h5e)
+- [How PCIe, NVLink, and NUMA Topology Affect GPU Scheduling Outcomes](https://dev.to/daya-shankar/how-pcie-nvlink-and-numa-topology-affect-gpu-scheduling-outcomes-l52)
+- [JavaScript Basic Array Methods](https://dev.to/ajayr18/javascript-basic-array-methods-3l90)
+- [Stop Writing Prompts. Start Building Agents &lpar;with Code&rpar;](https://dev.to/rakesh1002/stop-writing-prompts-start-building-agents-with-code-3b8b)
 <!-- BLOG-POST-LIST:END -->
 
 
