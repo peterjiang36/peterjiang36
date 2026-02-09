@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Gateway vs Gateway API](https://dev.to/vijaykodam/api-gateway-vs-gateway-api-36bh)
-- [Java Basics](https://dev.to/graceolubiyi/java-basics-325a)
-- [C++ da int va char Casting](https://dev.to/nooon/c-da-int-va-char-casting-1fj8)
-- [Trinity Protocol Part 2: When Adding Chai-1 and Boltz-2 Exposed Hidden Model Disagreement](https://dev.to/flamehaven01/trinity-protocol-part-2-when-adding-chai-1-and-boltz-2-exposed-hidden-model-disagreement-5014)
+- [drop_down_menu.js Module in WebForms Core](https://dev.to/elanatframework/dropdownmenujs-module-in-webforms-core-3nf1)
+- [Battery-Included WebRTC: Orchestrating LiveKit with the Python Server SDK](https://dev.to/deepak_mishra_35863517037/battery-included-webrtc-orchestrating-livekit-with-the-python-server-sdk-273e)
+- [A deadlock on an uncontended Tokio RwLock &lpar;caused by futures::executor::block_on&rpar;](https://dev.to/cspinetta/a-deadlock-on-an-uncontended-tokio-rwlock-caused-by-futuresexecutorblockon-490i)
+- [Smartfind.ai](https://dev.to/osazuwa_john_1580bf90e07f/smartfindai-5d93)
 <!-- BLOG-POST-LIST:END -->
 
 
