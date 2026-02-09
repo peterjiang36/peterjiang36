@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Atlas: Uganda&#39;s Tech Ecosystem Mapped and Connected](https://dev.to/ronlin1/tech-atlas-ugandas-tech-ecosystem-mapped-and-connected-3okk)
-- [Agentic AI in Full-Stack Development: How We Went from Months to Days](https://dev.to/ahmadwaqarcs/agentic-ai-in-full-stack-development-how-we-went-from-months-to-days-4ed5)
-- [The Software Engineers&#39; Role in the AI Era](https://dev.to/goslek/the-software-engineers-role-in-the-ai-era-eoi)
-- [I built a “deterministic” LLM text rephraser with a validation pipeline - looking for architectural feedback](https://dev.to/aiwriterk/i-built-a-deterministic-llm-text-rephraser-with-a-validation-pipeline-looking-for-architectural-1046)
+- [A Conversational AI for Instant Internal Proposal Generation &lpar;Powered by Algolia Agent Studio&rpar;](https://dev.to/techceorahul/a-conversational-ai-for-instant-internal-proposal-generation-powered-by-algolia-agent-studio-h3j)
+- [Why Bing Is Stricter Than Google About URL Consistency — Technical SEO Deep Dive](https://dev.to/hetianhe/why-bing-is-stricter-than-google-about-url-consistency-technical-seo-deep-dive-25l1)
+- [Setup NUT on Proxmox](https://dev.to/seno21/setup-nut-on-proxmox-4b5n)
+- [Extensions - Lists and for-in loops](https://dev.to/lahari_tenneti_4a8a082e9c/extensions-lists-and-for-in-loops-194f)
 <!-- BLOG-POST-LIST:END -->
 
 
