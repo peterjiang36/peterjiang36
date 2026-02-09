@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-1j0m)
-- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-17em)
-- [Batch Transaction - Testcases](https://dev.to/ripplexdev/batch-transaction-testcases-273j)
-- [11. C# &lpar;Parsing&rpar;](https://dev.to/sabin_sim/11-c-parsing-3hai)
+- [API Gateway vs Gateway API](https://dev.to/vijaykodam/api-gateway-vs-gateway-api-36bh)
+- [Java Basics](https://dev.to/graceolubiyi/java-basics-325a)
+- [C++ da int va char Casting](https://dev.to/nooon/c-da-int-va-char-casting-1fj8)
+- [Trinity Protocol Part 2: When Adding Chai-1 and Boltz-2 Exposed Hidden Model Disagreement](https://dev.to/flamehaven01/trinity-protocol-part-2-when-adding-chai-1-and-boltz-2-exposed-hidden-model-disagreement-5014)
 <!-- BLOG-POST-LIST:END -->
 
 
