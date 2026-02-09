@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Performance When You Have 200,000 Database Rows](https://dev.to/kiravaughn/nextjs-performance-when-you-have-200000-database-rows-5ee0)
-- [Last part! &lpar;3 out of 3&rpar; to Get started with Gemini CLI](https://dev.to/leslysandra/last-part-3-out-of-3-to-get-started-with-gemini-cli-1hmd)
-- [Use Git Alias To Become Pro](https://dev.to/nra/use-git-alias-to-become-pro-46nm)
-- [Part 3: Mastering Gemini CLI – Content Creation, Learning, and Multimodality](https://dev.to/leslysandra/part-3-mastering-gemini-cli-content-creation-learning-and-multimodality-2jmj)
+- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-1j0m)
+- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-17em)
+- [Batch Transaction - Testcases](https://dev.to/ripplexdev/batch-transaction-testcases-273j)
+- [11. C# &lpar;Parsing&rpar;](https://dev.to/sabin_sim/11-c-parsing-3hai)
 <!-- BLOG-POST-LIST:END -->
 
 
