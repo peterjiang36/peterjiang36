@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Proof of P = NP](https://dev.to/frank_vega_987689489099bf/a-proof-of-p-np-4239)
-- [Stop Using CAPTCHA. Start Measuring Entropy.](https://dev.to/franciscuo/stop-using-captcha-start-measuring-entropy-5hj6)
-- [Fire Your DevOps Team: A Solo Dev’s Guide to Kamal 2](https://dev.to/zilton7/fire-your-devops-team-a-solo-devs-guide-to-kamal-2-41fn)
-- [Welcome to IgorIOT &lpar;a.k.a. I Go Riot&rpar;](https://dev.to/igoriot/welcome-to-igoriot-aka-i-go-riot-1kng)
+- [5 AI Coding Patterns That Actually Work &lpar;2026 Edition&rpar;](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5)
+- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8)
+- [Stop miscalculating age in JavaScript: leap years, Feb 29, and the Jan 31 trap](https://dev.to/momin_ali_e002a22d102ff40/stop-miscalculating-age-in-javascript-leap-years-feb-29-and-the-jan-31-trap-22aj)
+- [Quantified Self: Building a Blazing Fast Health Dashboard with DuckDB and Streamlit](https://dev.to/wellallytech/quantified-self-building-a-blazing-fast-health-dashboard-with-duckdb-and-streamlit-1d6f)
 <!-- BLOG-POST-LIST:END -->
 
 
