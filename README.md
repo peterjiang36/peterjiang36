@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Analysts Translate Messy data, Dax, and Dashboards into Action using Power Bi.](https://dev.to/brian_nyamwange_2b55b3cb1/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1h5e)
-- [How PCIe, NVLink, and NUMA Topology Affect GPU Scheduling Outcomes](https://dev.to/daya-shankar/how-pcie-nvlink-and-numa-topology-affect-gpu-scheduling-outcomes-l52)
-- [JavaScript Basic Array Methods](https://dev.to/ajayr18/javascript-basic-array-methods-3l90)
-- [Stop Writing Prompts. Start Building Agents &lpar;with Code&rpar;](https://dev.to/rakesh1002/stop-writing-prompts-start-building-agents-with-code-3b8b)
+- [Tech Atlas: Uganda&#39;s Tech Ecosystem Mapped and Connected](https://dev.to/ronlin1/tech-atlas-ugandas-tech-ecosystem-mapped-and-connected-3okk)
+- [Agentic AI in Full-Stack Development: How We Went from Months to Days](https://dev.to/ahmadwaqarcs/agentic-ai-in-full-stack-development-how-we-went-from-months-to-days-4ed5)
+- [The Software Engineers&#39; Role in the AI Era](https://dev.to/goslek/the-software-engineers-role-in-the-ai-era-eoi)
+- [I built a “deterministic” LLM text rephraser with a validation pipeline - looking for architectural feedback](https://dev.to/aiwriterk/i-built-a-deterministic-llm-text-rephraser-with-a-validation-pipeline-looking-for-architectural-1046)
 <!-- BLOG-POST-LIST:END -->
 
 
