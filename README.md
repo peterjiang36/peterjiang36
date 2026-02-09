@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing my old MacBook Pro 8,2 back to life &lpar;again&rpar;](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-again-4lpi)
-- [From Static Portfolio to Indexed Decisions 📃](https://dev.to/anchildress1/from-static-portfolio-to-indexed-decisions-46bf)
-- [Conversational Retrieval: When Chat Becomes Navigation 💬](https://dev.to/anchildress1/conversational-retrieval-when-chat-becomes-navigation-2gij)
-- [Multibranch Pipeline Lab](https://dev.to/jumptotech/multibranch-pipeline-lab-1kca)
+- [The Secret Life of Go: The &#39;defer&#39; Statement](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-the-defer-statement-3j97)
+- [From “It Just Works” to Building a Reverse Tunnel](https://dev.to/mitulshah1/from-it-just-works-to-building-a-reverse-tunnel-final-59fk)
+- [Designing the Engine: How I Built a Laravel-Like PHP Starter Kit](https://dev.to/sunand/designing-the-engine-how-i-built-a-laravel-like-php-starter-kit-35j2)
+- [Engineering-Grade Strategies for Hallucination Prevention in GenAI Systems](https://dev.to/shreekansha97/engineering-grade-strategies-for-hallucination-prevention-in-genai-systems-ea8)
 <!-- BLOG-POST-LIST:END -->
 
 
