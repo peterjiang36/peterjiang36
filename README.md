@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Diagram to Code with Kiro CLI &amp; Claude Opus 4.6](https://dev.to/welcloud-io/from-diagram-to-code-with-kiro-cli-claude-opus-46-4n0l)
-- [Hibernate vs JPA: Two Names, One Persistent Confusion](https://dev.to/hirushi_nethmini_41168bb8/hibernate-vs-jpa-two-names-one-persistent-confusion-5cd1)
-- [browser security sucks in deployment configuration...](https://dev.to/sourav_mahato_3900/browser-security-sucks-in-deployment-configuration-1229)
-- [How AI is Revolutionizing Mobile App Development](https://dev.to/dhruvjoshi9/how-ai-is-revolutionizing-mobile-app-development-22k0)
+- [From git pull to GitOps: How I Built a Production CI/CD Pipeline on a $12 DigitalOcean Droplet](https://dev.to/lfariaus/from-git-pull-to-gitops-how-i-built-a-production-cicd-pipeline-on-a-12-digitalocean-droplet-34gn)
+- [Building a Food Donation App in 2026: Backend Architecture &amp; Core Features](https://dev.to/jackdavis32/building-a-food-donation-app-in-2026-backend-architecture-core-features-58eh)
+- [How to create a resource in Filament v5 | Laravel Personal Finance Dashboard](https://dev.to/maiobarbero/laravel-personal-finance-dashboard-add-filament-v5-resources-37lh)
+- [[Boost]](https://dev.to/joachimzeelmaekers/-32dd)
 <!-- BLOG-POST-LIST:END -->
 
 
