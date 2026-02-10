@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 MCP Gateways for 2025: Production-Ready Solutions Compared](https://dev.to/pranay_batta/top-5-mcp-gateways-for-2025-production-ready-solutions-compared-4laj)
-- [Mastering Smooth Page Transitions with the View Transitions API in 2026](https://dev.to/krish_kakadiya_5f0eaf6342/mastering-smooth-page-transitions-with-the-view-transitions-api-in-2026-31of)
-- [[SUI] TipKit](https://dev.to/david_goyes_a488f58a17a53/sui-tipkit-1pn6)
-- [How can this site serve me as a cbot developer?](https://dev.to/salileh/how-can-this-site-serve-me-as-a-cbot-developer-fh1)
+- [Why AI Agents Can&#39;t Fix Video Sync Issues &lpar;Yet&rpar; — A Surgeon&#39;s Midnight Debugging Session](https://dev.to/wcamon/why-ai-agents-cant-fix-video-sync-issues-yet-a-surgeons-midnight-debugging-session-4j5k)
+- [My Network Engineering Home Lab setup](https://dev.to/shobanchiddarth/my-network-engineering-home-lab-setup-2j8g)
+- [🚨 BREAKING: AI Is Coming for Your Job &lpar;But First, It Needs to Figure Out Why Your Code Works&rpar; 🚨](https://dev.to/sudo_091/breaking-ai-is-coming-for-your-job-but-first-it-needs-to-figure-out-why-your-code-works-dg7)
+- [SAST vs DAST vs &lpar;IAST/RASP&rpar;: Quick AppSec Checklist](https://dev.to/securitystefan/sast-vs-dast-vs-iastrasp-quick-appsec-checklist-11b3)
 <!-- BLOG-POST-LIST:END -->
 
 
