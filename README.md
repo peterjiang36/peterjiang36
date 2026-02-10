@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Dangerous Thing AI Gives Engineers: False Confidence](https://dev.to/jtvanwage/the-most-dangerous-thing-ai-gives-engineers-false-confidence-2377)
-- [I Let AI Make a Decision Without Checking. It Cost Me $505.](https://dev.to/techlessonslearned/i-let-ai-make-a-decision-without-checking-it-cost-me-505-2h0m)
-- [From Messy JSON to Health Insights: Building a Modern ETL Pipeline with DBT and BigQuery](https://dev.to/beck_moulton/from-messy-json-to-health-insights-building-a-modern-etl-pipeline-with-dbt-and-bigquery-8po)
-- [Implemented a Feature where the Theme on my Portfolio changes based on the Holiday &lpar;Because it&#39;s fun&rpar; 💫](https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo)
+- [Reading Weather Charts Is So 2025](https://dev.to/sealegs/reading-weather-charts-is-so-2025-4nhd)
+- [Why I keep a personal work log even when the team has a task tracker](https://dev.to/iamantonreznik/why-i-keep-a-personal-work-log-even-when-the-team-has-a-task-tracker-5e64)
+- [Day 9 of 100 Days of Code — Understanding the React Context API](https://dev.to/m_saad_ahmad/day-9-of-100-days-of-code-understanding-the-react-context-api-2198)
+- [I built my own local AI assistant with Python &lpar;runs fully offline&rpar;](https://dev.to/novus_nova_f94c032a175180/i-built-my-own-local-ai-assistant-with-python-runs-fully-offline-1pk1)
 <!-- BLOG-POST-LIST:END -->
 
 
