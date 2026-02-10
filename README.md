@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy .NET 8 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/subair09/deploy-net-8-app-to-azure-kubernetes-service-aks-5d99)
-- [Bora falar do padrão Strategy?](https://dev.to/devxbr/bora-falar-do-padrao-strategy-21c5)
-- [How I Would Set Up A Replica Set In MongoDB If I Was A Beginner.](https://dev.to/uka-david/how-i-would-set-up-a-replica-set-in-mongodb-if-i-was-a-beginner-12nc)
-- [Announcing Three New Free JAMstack Blogging Themes: IndiePaper, Newsprint, and brennan.jp.net](https://dev.to/brennan/announcing-three-new-free-jamstack-blogging-themes-indiepaper-newsprint-and-brennanjpnet-2f56)
+- [Deploying an Astro Site to AWS — The Full Pipeline](https://dev.to/florianriquelme/deploying-an-astro-site-to-aws-the-full-pipeline-4k)
+- [Your AI Forgets Everything. Here&#39;s the Open Source Protocol That Fixes It.](https://dev.to/robiw_dev/your-ai-forgets-everything-heres-the-open-source-protocol-that-fixes-it-46p0)
+- [Get my computer out of EFI](https://dev.to/mr_diamond/get-my-computer-out-of-efi-1e0k)
+- [Exploring What Happens When AI Becomes Your Creative Team](https://dev.to/tinhtinhcd/exploring-what-happens-when-ai-becomes-your-creative-team-45d)
 <!-- BLOG-POST-LIST:END -->
 
 
