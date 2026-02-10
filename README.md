@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reducing User-Side Deanonymization in Tor: Usage-Level Safety by Design](https://dev.to/hejhdiss/reducing-user-side-deanonymization-in-tor-usage-level-safety-by-design-ic8)
-- [Island Architecture + HTML-First programming. A match made in heaven.](https://dev.to/robertlark/island-architecture-html-first-programming-a-match-made-in-heaven-1dap)
-- [Claude Code Asks Nicely. Aye Chat Defaults to Action.](https://dev.to/vmayorskiyac/claude-code-asks-nicely-aye-chat-defaults-to-action-18h2)
-- [WebXR: Realidade Virtual na Web](https://dev.to/lucaspereiradesouzat/webxr-realidade-virtual-na-web-2d1b)
+- [Entity–Attribute–Value &lpar;EAV&rpar; Model](https://dev.to/dedawit/entity-attribute-value-eav-model-3op4)
+- [I Tested an AI That Deploys and Verifies Nginx on Real VMs](https://dev.to/ismail_bouaziz_2d42c3ccf2/i-tested-an-ai-that-deploys-and-verifies-nginx-on-real-vms-2fo3)
+- [I built a free dataLayer documentation builder after years of wrestling with 40‑page tracking docs](https://dev.to/gabriele_carbone/i-built-a-free-datalayer-documentation-builder-after-years-of-wrestling-with-40-page-tracking-docs-1me9)
+- [Building Production-Ready AI Chatbots: Lessons from 6 Months of Failure](https://dev.to/rani_clawdbot_1faa69e59af/building-production-ready-ai-chatbots-lessons-from-6-months-of-failure-4oh0)
 <!-- BLOG-POST-LIST:END -->
 
 
