@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 3: Partitioning &amp; Clustering for Performance 🚀](https://dev.to/abdelrahman_adnan/part-3-partitioning-clustering-for-performance-37if)
-- [Part 2: BigQuery Deep Dive 🔍](https://dev.to/abdelrahman_adnan/part-2-bigquery-deep-dive-3m29)
-- [Zig vs Go: generics](https://dev.to/pix303/zig-vs-go-generics-2bgd)
-- [Module 3 Summary - Data Warehousing &amp; BigQuery](https://dev.to/abdelrahman_adnan/-module-3-summary-data-warehousing-bigquery-2m26)
+- [The Most Dangerous Thing AI Gives Engineers: False Confidence](https://dev.to/jtvanwage/the-most-dangerous-thing-ai-gives-engineers-false-confidence-2377)
+- [I Let AI Make a Decision Without Checking. It Cost Me $505.](https://dev.to/techlessonslearned/i-let-ai-make-a-decision-without-checking-it-cost-me-505-2h0m)
+- [From Messy JSON to Health Insights: Building a Modern ETL Pipeline with DBT and BigQuery](https://dev.to/beck_moulton/from-messy-json-to-health-insights-building-a-modern-etl-pipeline-with-dbt-and-bigquery-8po)
+- [Implemented a Feature where the Theme on my Portfolio changes based on the Holiday &lpar;Because it&#39;s fun&rpar; 💫](https://dev.to/francistrdev/implemented-a-feature-where-the-theme-on-my-portfolio-changes-based-on-the-holiday-because-its-31jo)
 <!-- BLOG-POST-LIST:END -->
 
 
