@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Entity–Attribute–Value &lpar;EAV&rpar; Model](https://dev.to/dedawit/entity-attribute-value-eav-model-3op4)
-- [I Tested an AI That Deploys and Verifies Nginx on Real VMs](https://dev.to/ismail_bouaziz_2d42c3ccf2/i-tested-an-ai-that-deploys-and-verifies-nginx-on-real-vms-2fo3)
-- [I built a free dataLayer documentation builder after years of wrestling with 40‑page tracking docs](https://dev.to/gabriele_carbone/i-built-a-free-datalayer-documentation-builder-after-years-of-wrestling-with-40-page-tracking-docs-1me9)
-- [Building Production-Ready AI Chatbots: Lessons from 6 Months of Failure](https://dev.to/rani_clawdbot_1faa69e59af/building-production-ready-ai-chatbots-lessons-from-6-months-of-failure-4oh0)
+- [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda)
+- [Understanding AWS Autoscaling with Grafana](https://dev.to/shireen/understanding-aws-autoscaling-with-grafana-gl8)
+- [**Optimizing Efficient Knowledge Graph Inference with Tempor](https://dev.to/drcarlosruizviquez/optimizing-efficient-knowledge-graph-inference-with-tempor-kpe)
+- [A Defense in Depth Approach to Cloud Security](https://dev.to/yaddah/a-defense-in-depth-approach-to-cloud-security-4078)
 <!-- BLOG-POST-LIST:END -->
 
 
