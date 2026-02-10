@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Value Receivers vs Pointer Receivers in Go &lpar;A Practical Explanation&rpar;](https://dev.to/shivamjha2436/value-receivers-vs-pointer-receivers-in-go-a-practical-explanation-57j3)
-- [Building EarnScreen: Turning Screen Time from Waiting Game into Opportunity](https://dev.to/libar/building-earnscreen-turning-screen-time-from-waiting-game-into-opportunity-1jdh)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar;](https://dev.to/softwarejutsu/amazon-virtual-private-cloud-vpc-3996)
-- [US Stock Market 2026 Outlook: Tech Stocks and AI Investment Strategy](https://dev.to/_33e7fb45f51a475f54ca0/us-stock-market-2026-outlook-tech-stocks-and-ai-investment-strategy-16l2)
+- [From Diagram to Code with Kiro CLI &amp; Claude Opus 4.6](https://dev.to/welcloud-io/from-diagram-to-code-with-kiro-cli-claude-opus-46-4n0l)
+- [Hibernate vs JPA: Two Names, One Persistent Confusion](https://dev.to/hirushi_nethmini_41168bb8/hibernate-vs-jpa-two-names-one-persistent-confusion-5cd1)
+- [browser security sucks in deployment configuration...](https://dev.to/sourav_mahato_3900/browser-security-sucks-in-deployment-configuration-1229)
+- [How AI is Revolutionizing Mobile App Development](https://dev.to/dhruvjoshi9/how-ai-is-revolutionizing-mobile-app-development-22k0)
 <!-- BLOG-POST-LIST:END -->
 
 
