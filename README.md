@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents That Build Agents — Building Autonomous Browsing with Claude Code](https://dev.to/viniciusdallacqua/agents-that-build-agents-building-autonomous-browsing-with-claude-code-pn5)
-- [155. Min Stack | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/155-min-stack-leetcode-top-interview-150-coding-questions-128b)
-- [Porting Claude Code&#39;s Agent Teams to OpenCode](https://dev.to/uenyioha/porting-claude-codes-agent-teams-to-opencode-4hol)
-- [I stopped switching image models mid-project - heres what actually worked](https://dev.to/gabrieal845/i-stopped-switching-image-models-mid-project-heres-what-actually-worked-1h03)
+- [Python Typing vs. TypeScript](https://dev.to/idodav/python-typing-vs-typescript-5bhp)
+- [Build a Google Ads Competitor Intelligence Tool with Node.js](https://dev.to/olams/build-a-google-ads-competitor-intelligence-tool-with-nodejs-ol2)
+- [Build a Smart Email Classifier with Python and Hugging Face in 15 Minutes](https://dev.to/paul_robertson_e844997d2b/build-a-smart-email-classifier-with-python-and-hugging-face-in-15-minutes-35o6)
+- [The Digital Divide: Mastering Staging and Production Environments](https://dev.to/vjnvisakh/the-digital-divide-mastering-staging-and-production-environments-4odm)
 <!-- BLOG-POST-LIST:END -->
 
 
