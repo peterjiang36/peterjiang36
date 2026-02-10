@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From git pull to GitOps: How I Built a Production CI/CD Pipeline on a $12 DigitalOcean Droplet](https://dev.to/lfariaus/from-git-pull-to-gitops-how-i-built-a-production-cicd-pipeline-on-a-12-digitalocean-droplet-34gn)
-- [Building a Food Donation App in 2026: Backend Architecture &amp; Core Features](https://dev.to/jackdavis32/building-a-food-donation-app-in-2026-backend-architecture-core-features-58eh)
-- [How to create a resource in Filament v5 | Laravel Personal Finance Dashboard](https://dev.to/maiobarbero/laravel-personal-finance-dashboard-add-filament-v5-resources-37lh)
-- [[Boost]](https://dev.to/joachimzeelmaekers/-32dd)
+- [Angular Addicts #46: Angular 21.1, Skills, Signal Forms &amp; more](https://dev.to/playfulprogramming/angular-addicts-46-angular-211-skills-signal-forms-more-7bf)
+- [Building a Multi-Year Battery Life IoT Data Logger: A Deep Dive into Ultra-Low-Power Design](https://dev.to/norvi_controllers/building-a-multi-year-battery-life-iot-data-logger-a-deep-dive-into-ultra-low-power-design-47gg)
+- [How to Integrate Slack with ServerAvatar](https://dev.to/serveravatar/how-to-integrate-slack-with-serveravatar-4nhi)
+- [Liferay Commerce Performance: How We Scaled to 100k+ SKU Imports &lpar;Without Crashing the JVM&rpar;](https://dev.to/nirvanalab/liferay-commerce-performance-how-we-scaled-to-100k-sku-imports-without-crashing-the-jvm-4lnj)
 <!-- BLOG-POST-LIST:END -->
 
 
