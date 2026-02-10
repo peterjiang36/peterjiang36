@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Constructor](https://dev.to/nanthini_ammu_ac02ad32802/constructor-4a8o)
-- [Everything You Need to Know About AWS for Your First Developer Job](https://dev.to/aws/everything-you-need-to-know-about-aws-for-your-first-developer-job-52o2)
-- [Vibe Coding Is Dead. Welcome to Agentic Engineering.](https://dev.to/rakesh1002/vibe-coding-is-dead-welcome-to-agentic-engineering-26hp)
-- [How Performance Testing Improves Customer Experience](https://dev.to/henry_cavill_2c5b7adf481a/how-performance-testing-improves-customer-experience-2gb6)
+- [How to build a solana token launchpad &lpar;with metadata&rpar;](https://dev.to/tejaswahinduja/how-to-build-a-solana-token-launchpad-with-metadata-37cp)
+- [🐂 Beginner-Friendly Guide &#39;Longest Balanced Subarray I&#39; - Problem 3719 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-i-problem-3719-c-python-javascript-nd0)
+- [Best Hardware for OpenClaw in 2026 — Mac Mini vs Jetson vs Raspberry Pi](https://dev.to/yankoaleksandrov/best-hardware-for-openclaw-in-2026-mac-mini-vs-jetson-vs-raspberry-pi-2f2a)
+- [Running a Low Power AI Server 24/7 — My Setup Under 15W](https://dev.to/yankoaleksandrov/running-a-low-power-ai-server-247-my-setup-under-15w-kgb)
 <!-- BLOG-POST-LIST:END -->
 
 
