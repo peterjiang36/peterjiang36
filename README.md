@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker, Demystified: Building and Optimizing Containers the Right Way](https://dev.to/ayushman_gupta_7136e36ae6/docker-demystified-building-and-optimizing-containers-the-right-way-1f3b)
-- [A Quiet First Launch: Notes from Wrestling JHelpDesk with macOS Gatekeeper](https://dev.to/ammad155/a-quiet-first-launch-notes-from-wrestling-jhelpdesk-with-macos-gatekeeper-6k6)
-- [Running a Low Power AI Server 24/7 — My Setup Under 15W](https://dev.to/yankoaleksandrov/running-a-low-power-ai-server-247-my-setup-under-15w-47m3)
-- [Constructor in java](https://dev.to/divya_bharathig_6635328d/constructor-in-java-199g)
+- [Reducing User-Side Deanonymization in Tor: Usage-Level Safety by Design](https://dev.to/hejhdiss/reducing-user-side-deanonymization-in-tor-usage-level-safety-by-design-ic8)
+- [Island Architecture + HTML-First programming. A match made in heaven.](https://dev.to/robertlark/island-architecture-html-first-programming-a-match-made-in-heaven-1dap)
+- [Claude Code Asks Nicely. Aye Chat Defaults to Action.](https://dev.to/vmayorskiyac/claude-code-asks-nicely-aye-chat-defaults-to-action-18h2)
+- [WebXR: Realidade Virtual na Web](https://dev.to/lucaspereiradesouzat/webxr-realidade-virtual-na-web-2d1b)
 <!-- BLOG-POST-LIST:END -->
 
 
