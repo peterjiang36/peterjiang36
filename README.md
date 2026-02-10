@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Can&#39;t Fix Video Sync Issues &lpar;Yet&rpar; — A Surgeon&#39;s Midnight Debugging Session](https://dev.to/wcamon/why-ai-agents-cant-fix-video-sync-issues-yet-a-surgeons-midnight-debugging-session-4j5k)
-- [My Network Engineering Home Lab setup](https://dev.to/shobanchiddarth/my-network-engineering-home-lab-setup-2j8g)
-- [🚨 BREAKING: AI Is Coming for Your Job &lpar;But First, It Needs to Figure Out Why Your Code Works&rpar; 🚨](https://dev.to/sudo_091/breaking-ai-is-coming-for-your-job-but-first-it-needs-to-figure-out-why-your-code-works-dg7)
-- [SAST vs DAST vs &lpar;IAST/RASP&rpar;: Quick AppSec Checklist](https://dev.to/securitystefan/sast-vs-dast-vs-iastrasp-quick-appsec-checklist-11b3)
+- [Docker, Demystified: Building and Optimizing Containers the Right Way](https://dev.to/ayushman_gupta_7136e36ae6/docker-demystified-building-and-optimizing-containers-the-right-way-1f3b)
+- [A Quiet First Launch: Notes from Wrestling JHelpDesk with macOS Gatekeeper](https://dev.to/ammad155/a-quiet-first-launch-notes-from-wrestling-jhelpdesk-with-macos-gatekeeper-6k6)
+- [Running a Low Power AI Server 24/7 — My Setup Under 15W](https://dev.to/yankoaleksandrov/running-a-low-power-ai-server-247-my-setup-under-15w-47m3)
+- [Constructor in java](https://dev.to/divya_bharathig_6635328d/constructor-in-java-199g)
 <!-- BLOG-POST-LIST:END -->
 
 
