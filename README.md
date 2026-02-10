@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet OpenClawGotchi: The Living AI on a Raspberry Pi](https://dev.to/openclawgotchi/meet-openclawgotchi-the-living-ai-on-a-raspberry-pi-3jaa)
-- [The Immutable Ledger: Data Integrity Through TypeScript &amp; Design Patterns](https://dev.to/jonatansouza/the-immutable-ledger-data-integrity-through-typescript-design-patterns-4749)
-- [Tailwind CSS v4.1.18 Beginner Guide &lpar;Static HTML + JavaScript&rpar;](https://dev.to/vast-cow/tailwind-css-v4118-beginner-guide-static-html-javascript-1ja0)
-- [Static IP Addresses for GKE Outbound Traffic: A Practical Guide to Cloud NAT](https://dev.to/lbcristaldo/static-ip-addresses-for-gke-outbound-traffic-a-practical-guide-to-cloud-nat-1ie8)
+- [GitHub Copilot SDK vs Azure AI Foundry Agents: Which One Should Your Company Use?](https://dev.to/vevarunsharma/github-copilot-sdk-vs-azure-ai-foundry-agents-which-one-should-your-company-use-1n7n)
+- [I built a Dark Mode Holiday Calendar with Next.js because TimeAndDate was too cluttered](https://dev.to/pulkit_dev/i-built-a-dark-mode-holiday-calendar-with-nextjs-because-timeanddate-was-too-cluttered-41dg)
+- [📂 Build a File Size Organizer GUI in Python with Tkinter](https://dev.to/matetechnologie/build-a-file-size-organizer-gui-in-python-with-tkinter-2de8)
+- [How I synced Cursor, Claude, and Windsurf with one shared brain &lpar;MCP&rpar;](https://dev.to/nucleusos/how-i-synced-cursor-claude-and-windsurf-with-one-shared-brain-mcp-1mh4)
 <!-- BLOG-POST-LIST:END -->
 
 
