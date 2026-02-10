@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪](https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56)
-- [AI in the Future](https://dev.to/just_another_react_dev/ai-in-the-future-35c0)
-- [Stop Running Your Entire Test Suite on Every Commit 🚫🧪](https://dev.to/schirrel/stop-running-your-entire-test-suite-on-every-commit-44hd)
-- [Code is the execution. Thinking is the strategy.](https://dev.to/fscosta1/code-is-the-executionthinking-is-the-strategy-im2)
+- [Contract-First Integration: A Practical Guide for Developers](https://dev.to/wallaceespindola/contract-first-integration-a-practical-guide-for-developers-49nf)
+- [WordPress Theme from Lovable HTML in One Day](https://dev.to/vojtabiberle/wordpress-theme-from-lovable-html-in-one-day-576p)
+- [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b)
+- [Eliminate 80% of Nuxt store boilerplate with a single createStore call](https://dev.to/diphyx/eliminate-80-of-nuxt-store-boilerplate-with-a-single-createstore-call-o42)
 <!-- BLOG-POST-LIST:END -->
 
 
