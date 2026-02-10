@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Redesigned a Failing Data Pipeline to Eliminate Cascading Failures](https://dev.to/itsmarwaahmed_/how-i-redesigned-a-failing-data-pipeline-to-eliminate-cascading-failures-1g6e)
-- [I wrote a step-by-step tutorial, sharing my solution for ZERO-DOWNTIME deployment of a Laravel app in a VPS / EC2 environment with Github Actions
-
-https://dev.to/houdaifa360/deploy-laravel-to-vps-with-github-actions-zero-downtime-cicd-f3](https://dev.to/houdaifadev/i-wrote-a-step-by-step-tutorial-sharing-my-solution-for-zero-downtime-deployment-of-a-laravel-app-5co5)
-- [AI News Roundup: KPI-Pressured Agents, Showboat/Rodney, and Qwen-Image-2.0](https://dev.to/damogallagher/ai-news-roundup-kpi-pressured-agents-showboatrodney-and-qwen-image-20-2ing)
-- [AI News Roundup &lpar;Feb 10, 2026&rpar;: KPI-Pressured Agents, Showboat/Rodney, and Qwen-Image-2.0](https://dev.to/damogallagher/ai-news-roundup-feb-10-2026-kpi-pressured-agents-showboatrodney-and-qwen-image-20-50de)
+- [Deploy .NET 8 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/subair09/deploy-net-8-app-to-azure-kubernetes-service-aks-5d99)
+- [Bora falar do padrão Strategy?](https://dev.to/devxbr/bora-falar-do-padrao-strategy-21c5)
+- [How I Would Set Up A Replica Set In MongoDB If I Was A Beginner.](https://dev.to/uka-david/how-i-would-set-up-a-replica-set-in-mongodb-if-i-was-a-beginner-12nc)
+- [Announcing Three New Free JAMstack Blogging Themes: IndiePaper, Newsprint, and brennan.jp.net](https://dev.to/brennan/announcing-three-new-free-jamstack-blogging-themes-indiepaper-newsprint-and-brennanjpnet-2f56)
 <!-- BLOG-POST-LIST:END -->
 
 
