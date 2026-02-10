@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot SDK vs Azure AI Foundry Agents: Which One Should Your Company Use?](https://dev.to/vevarunsharma/github-copilot-sdk-vs-azure-ai-foundry-agents-which-one-should-your-company-use-1n7n)
-- [I built a Dark Mode Holiday Calendar with Next.js because TimeAndDate was too cluttered](https://dev.to/pulkit_dev/i-built-a-dark-mode-holiday-calendar-with-nextjs-because-timeanddate-was-too-cluttered-41dg)
-- [📂 Build a File Size Organizer GUI in Python with Tkinter](https://dev.to/matetechnologie/build-a-file-size-organizer-gui-in-python-with-tkinter-2de8)
-- [How I synced Cursor, Claude, and Windsurf with one shared brain &lpar;MCP&rpar;](https://dev.to/nucleusos/how-i-synced-cursor-claude-and-windsurf-with-one-shared-brain-mcp-1mh4)
+- [Value Receivers vs Pointer Receivers in Go &lpar;A Practical Explanation&rpar;](https://dev.to/shivamjha2436/value-receivers-vs-pointer-receivers-in-go-a-practical-explanation-57j3)
+- [Building EarnScreen: Turning Screen Time from Waiting Game into Opportunity](https://dev.to/libar/building-earnscreen-turning-screen-time-from-waiting-game-into-opportunity-1jdh)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar;](https://dev.to/softwarejutsu/amazon-virtual-private-cloud-vpc-3996)
+- [US Stock Market 2026 Outlook: Tech Stocks and AI Investment Strategy](https://dev.to/_33e7fb45f51a475f54ca0/us-stock-market-2026-outlook-tech-stocks-and-ai-investment-strategy-16l2)
 <!-- BLOG-POST-LIST:END -->
 
 
