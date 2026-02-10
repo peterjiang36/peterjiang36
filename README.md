@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading Weather Charts Is So 2025](https://dev.to/sealegs/reading-weather-charts-is-so-2025-4nhd)
-- [Why I keep a personal work log even when the team has a task tracker](https://dev.to/iamantonreznik/why-i-keep-a-personal-work-log-even-when-the-team-has-a-task-tracker-5e64)
-- [Day 9 of 100 Days of Code — Understanding the React Context API](https://dev.to/m_saad_ahmad/day-9-of-100-days-of-code-understanding-the-react-context-api-2198)
-- [I built my own local AI assistant with Python &lpar;runs fully offline&rpar;](https://dev.to/novus_nova_f94c032a175180/i-built-my-own-local-ai-assistant-with-python-runs-fully-offline-1pk1)
+- [Meet OpenClawGotchi: The Living AI on a Raspberry Pi](https://dev.to/openclawgotchi/meet-openclawgotchi-the-living-ai-on-a-raspberry-pi-3jaa)
+- [The Immutable Ledger: Data Integrity Through TypeScript &amp; Design Patterns](https://dev.to/jonatansouza/the-immutable-ledger-data-integrity-through-typescript-design-patterns-4749)
+- [Tailwind CSS v4.1.18 Beginner Guide &lpar;Static HTML + JavaScript&rpar;](https://dev.to/vast-cow/tailwind-css-v4118-beginner-guide-static-html-javascript-1ja0)
+- [Static IP Addresses for GKE Outbound Traffic: A Practical Guide to Cloud NAT](https://dev.to/lbcristaldo/static-ip-addresses-for-gke-outbound-traffic-a-practical-guide-to-cloud-nat-1ie8)
 <!-- BLOG-POST-LIST:END -->
 
 
