@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Contract-First Integration: A Practical Guide for Developers](https://dev.to/wallaceespindola/contract-first-integration-a-practical-guide-for-developers-49nf)
-- [WordPress Theme from Lovable HTML in One Day](https://dev.to/vojtabiberle/wordpress-theme-from-lovable-html-in-one-day-576p)
-- [OSDev Bare Bones with Rust - Cross-Compilation and Freestanding](https://dev.to/douglasmakey/osdev-bare-bones-with-rust-cross-compilation-and-freestanding-598b)
-- [Eliminate 80% of Nuxt store boilerplate with a single createStore call](https://dev.to/diphyx/eliminate-80-of-nuxt-store-boilerplate-with-a-single-createstore-call-o42)
+- [How I Redesigned a Failing Data Pipeline to Eliminate Cascading Failures](https://dev.to/itsmarwaahmed_/how-i-redesigned-a-failing-data-pipeline-to-eliminate-cascading-failures-1g6e)
+- [I wrote a step-by-step tutorial, sharing my solution for ZERO-DOWNTIME deployment of a Laravel app in a VPS / EC2 environment with Github Actions
+
+https://dev.to/houdaifa360/deploy-laravel-to-vps-with-github-actions-zero-downtime-cicd-f3](https://dev.to/houdaifadev/i-wrote-a-step-by-step-tutorial-sharing-my-solution-for-zero-downtime-deployment-of-a-laravel-app-5co5)
+- [AI News Roundup: KPI-Pressured Agents, Showboat/Rodney, and Qwen-Image-2.0](https://dev.to/damogallagher/ai-news-roundup-kpi-pressured-agents-showboatrodney-and-qwen-image-20-2ing)
+- [AI News Roundup &lpar;Feb 10, 2026&rpar;: KPI-Pressured Agents, Showboat/Rodney, and Qwen-Image-2.0](https://dev.to/damogallagher/ai-news-roundup-feb-10-2026-kpi-pressured-agents-showboatrodney-and-qwen-image-20-50de)
 <!-- BLOG-POST-LIST:END -->
 
 
