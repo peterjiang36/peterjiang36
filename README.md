@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advancing AI benchmarking with Game Arena](https://dev.to/googleai/advancing-ai-benchmarking-with-game-arena-3nda)
-- [Understanding AWS Autoscaling with Grafana](https://dev.to/shireen/understanding-aws-autoscaling-with-grafana-gl8)
-- [**Optimizing Efficient Knowledge Graph Inference with Tempor](https://dev.to/drcarlosruizviquez/optimizing-efficient-knowledge-graph-inference-with-tempor-kpe)
-- [A Defense in Depth Approach to Cloud Security](https://dev.to/yaddah/a-defense-in-depth-approach-to-cloud-security-4078)
+- [Pare de Executar Toda a Sua Suite de Testes em Cada Commit 🚫🧪](https://dev.to/schirrel/pare-de-executar-toda-a-sua-suite-de-testes-em-cada-commit-1b56)
+- [AI in the Future](https://dev.to/just_another_react_dev/ai-in-the-future-35c0)
+- [Stop Running Your Entire Test Suite on Every Commit 🚫🧪](https://dev.to/schirrel/stop-running-your-entire-test-suite-on-every-commit-44hd)
+- [Code is the execution. Thinking is the strategy.](https://dev.to/fscosta1/code-is-the-executionthinking-is-the-strategy-im2)
 <!-- BLOG-POST-LIST:END -->
 
 
