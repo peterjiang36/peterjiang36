@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps From Scratch: Entry #03](https://dev.to/maame-codes/devops-from-scratch-entry-03-cie)
-- [Mastering Reactive Programming in Modern Mobile Development](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-reactive-programming-in-modern-mobile-development-56bm)
-- [From Side Project to Product: How ClawHosters Became a Real SaaS](https://dev.to/yixn_io/from-side-project-to-product-how-clawhosters-became-a-real-saas-4n5h)
-- [Solved: What in the world would you call this…?](https://dev.to/techresolve/solved-what-in-the-world-would-you-call-this-16f3)
+- [We Ranked 5 AI Models by Security. The Leaderboard Is Wrong.](https://dev.to/ofri-peretz/we-ranked-5-ai-models-by-security-the-leaderboard-is-wrong-5a4o)
+- [I Built a Free PDF Tool for Students in India — Here’s What I Learned 🚀](https://dev.to/aerotoolsxas/i-built-a-free-pdf-tool-for-students-in-india-heres-what-i-learned-3k59)
+- [The Complete Guide to Implementing NativeWind Styling in React Native Expo](https://dev.to/arinvolkov/the-complete-guide-to-implementing-nativewind-styling-in-react-native-expo-47ch)
+- [629+ MCP Servers Exist. There Was No Directory. Until Now.](https://dev.to/seakai/629-mcp-servers-exist-there-was-no-directory-until-now-3hhl)
 <!-- BLOG-POST-LIST:END -->
 
 
