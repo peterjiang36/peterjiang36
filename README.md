@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leading Without Constraining: What I Learned About True Leadership](https://dev.to/alinaramfu/leading-without-constraining-what-i-learned-about-true-leadership-3dkd)
-- [How to Fix Elementor Flexbox Container Overflows](https://dev.to/designtocodes/how-to-fix-elementor-flexbox-container-overflows-4km0)
-- [Fix: mobile 100vh jumps &lpar;URL bar + keyboard&rpar; using VisualViewport](https://dev.to/__8b11c872ed501135af2/fix-mobile-100vh-jumps-url-bar-keyboard-using-visualviewport-5h0h)
-- [The MEMORY.md Problem: Why Local Files Fail at Scale](https://dev.to/anajuliabit/the-memorymd-problem-why-local-files-fail-at-scale-58ae)
+- [I Built an AI Health Coach That Actually Knows Me](https://dev.to/dcruver/i-built-an-ai-health-coach-that-actually-knows-me-2hji)
+- [👻 PowerShell In-Memory Bypass Tactics](https://dev.to/harsh_hak/powershell-in-memory-bypass-tactics-4n7j)
+- [Architecting Durable AI Agents: Solving the Volatile State Problem](https://dev.to/anna_chaykovskaya_9ad7aea/architecting-durable-ai-agents-solving-the-volatile-state-problem-59b6)
+- [Build an Instagram Highlights Archiver to Save Any Brand&#39;s Best Content](https://dev.to/olams/build-an-instagram-highlights-archiver-to-save-any-brands-best-content-559p)
 <!-- BLOG-POST-LIST:END -->
 
 
