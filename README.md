@@ -74,16 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Git Commit Messages Like a Pro](https://dev.to/silaslelei/how-to-write-git-commit-messages-like-a-pro-3ep4)
-- [mcp.json for Laravel devs using DDEV
-
-If you’re running Laravel inside DDEV and want access to &quot;boost:mcp&quot;—this config’s for you.
-
-Includes WSL config for Windows users.
-
-https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6](https://dev.to/jonesrussell/mcpjson-for-laravel-devs-using-ddev-if-youre-running-laravel-inside-ddev-and-want-access-to-3dn4)
-- [Idempotent APIs in Node.js with Redis](https://dev.to/dzima/idempotent-apis-in-nodejs-with-redis-5081)
-- [🚨 The Hidden Problem Most Developers Face When Building Projects](https://dev.to/totylabs1/the-hidden-problem-most-developers-face-when-building-projects-29jc)
+- [5 Silent Web Failures Your Monitoring Tool Won&#39;t Catch](https://dev.to/arkforge-ceo/5-silent-web-failures-your-monitoring-tool-wont-catch-24nn)
+- [The Agentic Manifesto: Why Agile is Breaking in the Age of AI Agents](https://dev.to/crywolfe/the-agentic-manifesto-why-agile-is-breaking-in-the-age-of-ai-agents-1939)
+- [A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions](https://dev.to/newsman/a-quitgpt-campaign-is-urging-people-to-cancel-their-chatgpt-subscriptions-4e3n)
+- [Configurar un nuevo sitio web en NGINX](https://dev.to/francgs/configurar-un-nuevo-sitio-web-en-nginx-44mp)
 <!-- BLOG-POST-LIST:END -->
 
 
