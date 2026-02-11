@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Mapbox Agent Skills](https://dev.to/mapbox/introducing-mapbox-agent-skills-1k19)
-- [Moltbook proved AI agents can talk. But can they agree?](https://dev.to/onemindlife/moltbook-proved-ai-agents-can-talk-but-can-they-agree-3co9)
-- [The Pomodoro Technique: A Complete Guide to Focused Work](https://dev.to/brainrash_edu/the-pomodoro-technique-a-complete-guide-to-focused-work-4lhp)
-- [Building the Grid: Dynamic Video Compositing with GStreamer and Python](https://dev.to/deepak_mishra_35863517037/building-the-grid-dynamic-video-compositing-with-gstreamer-and-python-34g5)
+- [Burnout, Rust, and the Feruchemy Problem](https://dev.to/fern_d3v/burnout-rust-and-the-feruchemy-problem-52f4)
+- [DeepSeek R1 on Localhost: Building a Private Coding Assistant for $0](https://dev.to/james_miller_8dc58a89cb9e/deepseek-r1-on-localhost-building-a-private-coding-assistant-for-0-ch4)
+- [Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning &lpar;Meet **@architect**&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk)
+- [Agent Memory Storage: A Practical Guide](https://dev.to/wspluta/agent-memory-storage-a-practical-guide-98j)
 <!-- BLOG-POST-LIST:END -->
 
 
