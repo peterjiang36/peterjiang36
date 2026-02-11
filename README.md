@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is wrong with LinkedIn in the age of AI](https://dev.to/omiossec/what-is-wrong-with-linkedin-in-the-age-of-ai-1pid)
-- [Build a Multimedia Player](https://dev.to/richardpascoe/build-a-multimedia-player-3g88)
-- [Server-Side Tagging + Shopify Retargeting: A Better Approach](https://dev.to/mehwish_malik_4f29ff7fb04/server-side-tagging-shopify-retargeting-a-better-approach-184e)
-- [How I Write Laravel Code That Future-Me Can still Read.](https://dev.to/button99/how-i-write-laravel-code-that-future-me-can-still-read-2755)
+- [How I Built MemCP: Giving Claude a Real Memory](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co)
+- [Shared Signals Framework: Bringing Standards to Continuous Session Protection](https://dev.to/parlesec/shared-signals-framework-bringing-standards-to-continuous-session-protection-547g)
+- [CI/CD Is Not a Toolchain—It&#39;s a Control Plane](https://dev.to/iyanu_david/cicd-is-not-a-toolchain-its-a-control-plane-39mi)
+- [[SUI] TabView &lpar;Pestañas&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-21ob)
 <!-- BLOG-POST-LIST:END -->
 
 
