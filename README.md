@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Health Coach That Actually Knows Me](https://dev.to/dcruver/i-built-an-ai-health-coach-that-actually-knows-me-2hji)
-- [👻 PowerShell In-Memory Bypass Tactics](https://dev.to/harsh_hak/powershell-in-memory-bypass-tactics-4n7j)
-- [Architecting Durable AI Agents: Solving the Volatile State Problem](https://dev.to/anna_chaykovskaya_9ad7aea/architecting-durable-ai-agents-solving-the-volatile-state-problem-59b6)
-- [Build an Instagram Highlights Archiver to Save Any Brand&#39;s Best Content](https://dev.to/olams/build-an-instagram-highlights-archiver-to-save-any-brands-best-content-559p)
+- [I Built a Self-Hosted Google Trends Alternative with DuckDB](https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57)
+- [What if ML pipelines had a lock file?](https://dev.to/hackmamba/what-if-ml-pipelines-had-a-lock-file-24f)
+- [Visualize Your WiFi Stability in the Linux Terminal with Wavemon](https://dev.to/benji377/visualize-your-wifi-stability-in-the-linux-terminal-with-wavemon-44hi)
+- [Data Analyst Salary in 2026: The Complete Pay Guide &lpar;US &amp; India&rpar;](https://dev.to/tech_croc_f32fbb6ea8ed4/data-analyst-salary-in-2026-the-complete-pay-guide-us-india-1kmh)
 <!-- BLOG-POST-LIST:END -->
 
 
