@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing QwikChek: Security Scanning Built for Developers](https://dev.to/qwikchek/introducing-qwikchek-security-scanning-built-for-developers-2glm)
-- [Prompt deploys can silently spike your OpenAI bill — here’s how to catch it](https://dev.to/opsmeter_io/prompt-deploys-can-silently-spike-your-openai-bill-heres-how-to-catch-it-4jc5)
-- [Why Your C# AI Agents Will Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/programmingcentral/why-your-c-ai-agents-will-fail-in-production-and-how-to-fix-it-c3)
-- [CVE-2019-25317: Time is Money, and XSS: Dissecting CVE-2019-25317 in Kimai 2](https://dev.to/cverports/cve-2019-25317-time-is-money-and-xss-dissecting-cve-2019-25317-in-kimai-2-4789)
+- [¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS](https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n)
+- [Your Coding Agent Doesn&#39;t Need a Bigger Context Window. It Needs Coworkers.](https://dev.to/_a3bbad10ef970ace62034/your-coding-agent-doesnt-need-a-bigger-context-window-it-needs-coworkers-5016)
+- [How to Implement Pause and Resume for Large File Uploads in React Using Filestack](https://dev.to/ideradevtools/how-to-implement-pause-and-resume-for-large-file-uploads-in-react-using-filestack-5dp1)
+- [E2E Tests: The Full Stack Check](https://dev.to/nicolas_vbgh/e2e-tests-the-full-stack-check-40nl)
 <!-- BLOG-POST-LIST:END -->
 
 
