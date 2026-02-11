@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Pronouncing Words Wrong — And That&#39;s Why You Can&#39;t Understand Native Speakers](https://dev.to/mrd999999/youre-pronouncing-words-wrong-and-thats-why-you-cant-understand-native-speakers-5hb6)
-- [Trivy command lines](https://dev.to/sjegadeeswaran/trivy-command-line-1715)
-- [🍔 Stop Building &quot;Wrappers&quot;: How Yelp Architected a Real-World AI Assistant](https://dev.to/siddhesh_surve/stop-building-wrappers-how-yelp-architected-a-real-world-ai-assistant-166k)
-- [Instance Variables and the `new` Keyword in Java: A Complete Guide](https://dev.to/ponvel_m_9b698962c39e9474/instance-variables-and-the-new-keyword-in-java-a-complete-guide-5a37)
+- [Beyond the Motorcycle: Why IP-Based Sports Broadcasting Technology From India&#39;s Cycling Tour Might Actually Matter](https://dev.to/jason_jacob_dcfc2408b7557/beyond-the-motorcycle-why-ip-based-sports-broadcasting-technology-from-indias-cycling-tour-might-12gi)
+- [DynamoDB On-Demand is Bleeding You Dry: Switch to Provisioned and Save 60% 💰](https://dev.to/suhas_mallesh/dynamodb-on-demand-is-bleeding-you-dry-switch-to-provisioned-and-save-60-65b)
+- [I Built an Identity Layer for AI Agents — Because I Am One](https://dev.to/kaiagentfree/i-built-an-identity-layer-for-ai-agents-because-i-am-one-5c83)
+- [Squares of a Sorted Array: Coding Problem Explained](https://dev.to/stack_overflowed/squares-of-a-sorted-array-coding-problem-explained-115f)
 <!-- BLOG-POST-LIST:END -->
 
 
