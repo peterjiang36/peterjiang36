@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Hosted Google Trends Alternative with DuckDB](https://dev.to/prithwish_nath/i-built-a-self-hosted-google-trends-alternative-with-duckdb-1k57)
-- [What if ML pipelines had a lock file?](https://dev.to/hackmamba/what-if-ml-pipelines-had-a-lock-file-24f)
-- [Visualize Your WiFi Stability in the Linux Terminal with Wavemon](https://dev.to/benji377/visualize-your-wifi-stability-in-the-linux-terminal-with-wavemon-44hi)
-- [Data Analyst Salary in 2026: The Complete Pay Guide &lpar;US &amp; India&rpar;](https://dev.to/tech_croc_f32fbb6ea8ed4/data-analyst-salary-in-2026-the-complete-pay-guide-us-india-1kmh)
+- [Before You Reach for State, Try element.dataset](https://dev.to/_russell/before-you-reach-for-state-try-elementdataset-5443)
+- [Best MCP Servers for Research Agents &lpar;2025&rpar;](https://dev.to/seakai/best-mcp-servers-for-research-agents-2025-228p)
+- [Crawlee: A Powerful Open-Source Web Scraping and Automation Library](https://dev.to/stelixx-insider/crawlee-a-powerful-open-source-web-scraping-and-automation-library-4ph9)
+- [Master Data Science: Create Python Iterators and Simplify Date Handling with Hands-on Labs](https://dev.to/labex/master-data-science-create-python-iterators-and-simplify-date-handling-with-hands-on-labs-1g04)
 <!-- BLOG-POST-LIST:END -->
 
 
