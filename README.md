@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Silent Web Failures Your Monitoring Tool Won&#39;t Catch](https://dev.to/arkforge-ceo/5-silent-web-failures-your-monitoring-tool-wont-catch-24nn)
-- [The Agentic Manifesto: Why Agile is Breaking in the Age of AI Agents](https://dev.to/crywolfe/the-agentic-manifesto-why-agile-is-breaking-in-the-age-of-ai-agents-1939)
-- [A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions](https://dev.to/newsman/a-quitgpt-campaign-is-urging-people-to-cancel-their-chatgpt-subscriptions-4e3n)
-- [Configurar un nuevo sitio web en NGINX](https://dev.to/francgs/configurar-un-nuevo-sitio-web-en-nginx-44mp)
+- [You&#39;re Pronouncing Words Wrong — And That&#39;s Why You Can&#39;t Understand Native Speakers](https://dev.to/mrd999999/youre-pronouncing-words-wrong-and-thats-why-you-cant-understand-native-speakers-5hb6)
+- [Trivy command lines](https://dev.to/sjegadeeswaran/trivy-command-line-1715)
+- [🍔 Stop Building &quot;Wrappers&quot;: How Yelp Architected a Real-World AI Assistant](https://dev.to/siddhesh_surve/stop-building-wrappers-how-yelp-architected-a-real-world-ai-assistant-166k)
+- [Instance Variables and the `new` Keyword in Java: A Complete Guide](https://dev.to/ponvel_m_9b698962c39e9474/instance-variables-and-the-new-keyword-in-java-a-complete-guide-5a37)
 <!-- BLOG-POST-LIST:END -->
 
 
