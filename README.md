@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go: The Context Package](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-the-context-package-3m34)
-- [The Specialization Loop: Mother Creates, Teacher Trains, Agents Become Experts Through Daily Reflection](https://dev.to/neil_agentic/the-specialization-loop-mother-creates-teacher-trains-agents-become-experts-through-daily-4ggi)
-- [I built a custom keyboard iOS app — here&#39;s what I learned about keyboard extensions](https://dev.to/hyunho_lee_e4373878e60f62/i-built-a-custom-keyboard-ios-app-heres-what-i-learned-about-keyboard-extensions-3f2m)
-- [When Agents Attack: The Security Nightmare of Self Discovering APIs](https://dev.to/alifunk/when-agents-attack-the-security-nightmare-of-self-discovering-apis-2b9c)
+- [DevOps From Scratch: Entry #03](https://dev.to/maame-codes/devops-from-scratch-entry-03-cie)
+- [Mastering Reactive Programming in Modern Mobile Development](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-reactive-programming-in-modern-mobile-development-56bm)
+- [From Side Project to Product: How ClawHosters Became a Real SaaS](https://dev.to/yixn_io/from-side-project-to-product-how-clawhosters-became-a-real-saas-4n5h)
+- [Solved: What in the world would you call this…?](https://dev.to/techresolve/solved-what-in-the-world-would-you-call-this-16f3)
 <!-- BLOG-POST-LIST:END -->
 
 
