@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Before You Reach for State, Try element.dataset](https://dev.to/_russell/before-you-reach-for-state-try-elementdataset-5443)
-- [Best MCP Servers for Research Agents &lpar;2025&rpar;](https://dev.to/seakai/best-mcp-servers-for-research-agents-2025-228p)
-- [Crawlee: A Powerful Open-Source Web Scraping and Automation Library](https://dev.to/stelixx-insider/crawlee-a-powerful-open-source-web-scraping-and-automation-library-4ph9)
-- [Master Data Science: Create Python Iterators and Simplify Date Handling with Hands-on Labs](https://dev.to/labex/master-data-science-create-python-iterators-and-simplify-date-handling-with-hands-on-labs-1g04)
+- [Building an AI Code Analyzer with Google AI Studio &lpar;And Finishing It in Cursor&rpar;](https://dev.to/olaproeis/building-an-ai-code-analyzer-with-google-ai-studio-and-finishing-it-in-cursor-388g)
+- [Operational Intelligence for the Command Line](https://dev.to/seshanpillay/an-ai-incident-commander-for-on-call-chaos-3k7a)
+- [Getting started with docker](https://dev.to/kokumubooker/getting-started-with-docker-2ai)
+- [Complete Microservices Architecture with Spring Boot, Spring Cloud, Eureka, Gateway, and OpenFeign](https://dev.to/leriaetnasta/complete-microservices-architecture-with-spring-boot-spring-cloud-eureka-gateway-and-openfeign-5a2m)
 <!-- BLOG-POST-LIST:END -->
 
 
