@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Hosting in the GCC Region – What Matters Most to You?](https://dev.to/techresolve/solved-hosting-in-the-gcc-region-what-matters-most-to-you-26m3)
-- [The AceHack 5.0](https://dev.to/publicn/the-acehack-50-4ohp)
-- [Solved: Large Competitor Just Ordered My Products – What To Do?](https://dev.to/techresolve/solved-large-competitor-just-ordered-my-products-what-to-do-4p5j)
-- [Building an Amazon SP Ads Monitoring System: A Technical Guide](https://dev.to/loopsthings/building-an-amazon-sp-ads-monitoring-system-a-technical-guide-3ob0)
+- [What is wrong with LinkedIn in the age of AI](https://dev.to/omiossec/what-is-wrong-with-linkedin-in-the-age-of-ai-1pid)
+- [Build a Multimedia Player](https://dev.to/richardpascoe/build-a-multimedia-player-3g88)
+- [Server-Side Tagging + Shopify Retargeting: A Better Approach](https://dev.to/mehwish_malik_4f29ff7fb04/server-side-tagging-shopify-retargeting-a-better-approach-184e)
+- [How I Write Laravel Code That Future-Me Can still Read.](https://dev.to/button99/how-i-write-laravel-code-that-future-me-can-still-read-2755)
 <!-- BLOG-POST-LIST:END -->
 
 
