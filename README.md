@@ -74,10 +74,16 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [First of its kind: Online checkers multiplayer app](https://dev.to/quodline/first-of-its-kind-online-checkers-multiplayer-app-2pd5)
-- [Introducing SeaLegs AI for Developers!](https://dev.to/sealegs/introducing-sealegs-ai-for-developers-422m)
-- [I got tired of rebuilding client logo sections, so I made a tiny widget instead](https://dev.to/emanoj/i-got-tired-of-rebuilding-client-logo-sections-so-i-made-a-tiny-widget-instead-3kf8)
-- [Como eliminei o Lag no meu Omada ER605: O Guia de Otimização](https://dev.to/ferradas/como-eliminei-o-lag-no-meu-omada-er605-o-guia-de-otimizacao-1844)
+- [How to Write Git Commit Messages Like a Pro](https://dev.to/silaslelei/how-to-write-git-commit-messages-like-a-pro-3ep4)
+- [mcp.json for Laravel devs using DDEV
+
+If you’re running Laravel inside DDEV and want access to &quot;boost:mcp&quot;—this config’s for you.
+
+Includes WSL config for Windows users.
+
+https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6](https://dev.to/jonesrussell/mcpjson-for-laravel-devs-using-ddev-if-youre-running-laravel-inside-ddev-and-want-access-to-3dn4)
+- [Idempotent APIs in Node.js with Redis](https://dev.to/dzima/idempotent-apis-in-nodejs-with-redis-5081)
+- [🚨 The Hidden Problem Most Developers Face When Building Projects](https://dev.to/totylabs1/the-hidden-problem-most-developers-face-when-building-projects-29jc)
 <!-- BLOG-POST-LIST:END -->
 
 
