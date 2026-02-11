@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS](https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n)
-- [Your Coding Agent Doesn&#39;t Need a Bigger Context Window. It Needs Coworkers.](https://dev.to/_a3bbad10ef970ace62034/your-coding-agent-doesnt-need-a-bigger-context-window-it-needs-coworkers-5016)
-- [How to Implement Pause and Resume for Large File Uploads in React Using Filestack](https://dev.to/ideradevtools/how-to-implement-pause-and-resume-for-large-file-uploads-in-react-using-filestack-5dp1)
-- [E2E Tests: The Full Stack Check](https://dev.to/nicolas_vbgh/e2e-tests-the-full-stack-check-40nl)
+- [Introducing Mapbox Agent Skills](https://dev.to/mapbox/introducing-mapbox-agent-skills-1k19)
+- [Moltbook proved AI agents can talk. But can they agree?](https://dev.to/onemindlife/moltbook-proved-ai-agents-can-talk-but-can-they-agree-3co9)
+- [The Pomodoro Technique: A Complete Guide to Focused Work](https://dev.to/brainrash_edu/the-pomodoro-technique-a-complete-guide-to-focused-work-4lhp)
+- [Building the Grid: Dynamic Video Compositing with GStreamer and Python](https://dev.to/deepak_mishra_35863517037/building-the-grid-dynamic-video-compositing-with-gstreamer-and-python-34g5)
 <!-- BLOG-POST-LIST:END -->
 
 
