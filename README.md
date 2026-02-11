@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Code Analyzer with Google AI Studio &lpar;And Finishing It in Cursor&rpar;](https://dev.to/olaproeis/building-an-ai-code-analyzer-with-google-ai-studio-and-finishing-it-in-cursor-388g)
-- [Operational Intelligence for the Command Line](https://dev.to/seshanpillay/an-ai-incident-commander-for-on-call-chaos-3k7a)
-- [Getting started with docker](https://dev.to/kokumubooker/getting-started-with-docker-2ai)
-- [Complete Microservices Architecture with Spring Boot, Spring Cloud, Eureka, Gateway, and OpenFeign](https://dev.to/leriaetnasta/complete-microservices-architecture-with-spring-boot-spring-cloud-eureka-gateway-and-openfeign-5a2m)
+- [150. Evaluate Reverse Polish Notation | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/150-evaluate-reverse-polish-notation-leetcode-top-interview-150-coding-questions-22c9)
+- [FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries](https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n)
+- [AI Weekly Digest: Week of February 5-11, 2026](https://dev.to/alexmercedcoder/ai-weekly-digest-week-of-february-5-11-2026-4aog)
+- [Stop forgetting architectural decisions: make them executable](https://dev.to/dobrenteiistvan/stop-forgetting-architectural-decisions-make-them-executable-4hk6)
 <!-- BLOG-POST-LIST:END -->
 
 
