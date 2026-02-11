@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Motorcycle: Why IP-Based Sports Broadcasting Technology From India&#39;s Cycling Tour Might Actually Matter](https://dev.to/jason_jacob_dcfc2408b7557/beyond-the-motorcycle-why-ip-based-sports-broadcasting-technology-from-indias-cycling-tour-might-12gi)
-- [DynamoDB On-Demand is Bleeding You Dry: Switch to Provisioned and Save 60% 💰](https://dev.to/suhas_mallesh/dynamodb-on-demand-is-bleeding-you-dry-switch-to-provisioned-and-save-60-65b)
-- [I Built an Identity Layer for AI Agents — Because I Am One](https://dev.to/kaiagentfree/i-built-an-identity-layer-for-ai-agents-because-i-am-one-5c83)
-- [Squares of a Sorted Array: Coding Problem Explained](https://dev.to/stack_overflowed/squares-of-a-sorted-array-coding-problem-explained-115f)
+- [The Secret Life of Go: The Context Package](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-the-context-package-3m34)
+- [The Specialization Loop: Mother Creates, Teacher Trains, Agents Become Experts Through Daily Reflection](https://dev.to/neil_agentic/the-specialization-loop-mother-creates-teacher-trains-agents-become-experts-through-daily-4ggi)
+- [I built a custom keyboard iOS app — here&#39;s what I learned about keyboard extensions](https://dev.to/hyunho_lee_e4373878e60f62/i-built-a-custom-keyboard-ios-app-heres-what-i-learned-about-keyboard-extensions-3f2m)
+- [When Agents Attack: The Security Nightmare of Self Discovering APIs](https://dev.to/alifunk/when-agents-attack-the-security-nightmare-of-self-discovering-apis-2b9c)
 <!-- BLOG-POST-LIST:END -->
 
 
