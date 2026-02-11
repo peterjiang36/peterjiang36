@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying an Astro Site to AWS — The Full Pipeline](https://dev.to/florianriquelme/deploying-an-astro-site-to-aws-the-full-pipeline-4k)
-- [Your AI Forgets Everything. Here&#39;s the Open Source Protocol That Fixes It.](https://dev.to/robiw_dev/your-ai-forgets-everything-heres-the-open-source-protocol-that-fixes-it-46p0)
-- [Get my computer out of EFI](https://dev.to/mr_diamond/get-my-computer-out-of-efi-1e0k)
-- [Exploring What Happens When AI Becomes Your Creative Team](https://dev.to/tinhtinhcd/exploring-what-happens-when-ai-becomes-your-creative-team-45d)
+- [First of its kind: Online checkers multiplayer app](https://dev.to/quodline/first-of-its-kind-online-checkers-multiplayer-app-2pd5)
+- [Introducing SeaLegs AI for Developers!](https://dev.to/sealegs/introducing-sealegs-ai-for-developers-422m)
+- [I got tired of rebuilding client logo sections, so I made a tiny widget instead](https://dev.to/emanoj/i-got-tired-of-rebuilding-client-logo-sections-so-i-made-a-tiny-widget-instead-3kf8)
+- [Como eliminei o Lag no meu Omada ER605: O Guia de Otimização](https://dev.to/ferradas/como-eliminei-o-lag-no-meu-omada-er605-o-guia-de-otimizacao-1844)
 <!-- BLOG-POST-LIST:END -->
 
 
