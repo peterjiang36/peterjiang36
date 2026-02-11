@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [150. Evaluate Reverse Polish Notation | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/150-evaluate-reverse-polish-notation-leetcode-top-interview-150-coding-questions-22c9)
-- [FormEngine vs RJSF: An Honest Bundle Size Comparison of Two JSON Schema Form Libraries](https://dev.to/optimajet/formengine-vs-rjsf-an-honest-bundle-size-comparison-of-two-json-schema-form-libraries-133n)
-- [AI Weekly Digest: Week of February 5-11, 2026](https://dev.to/alexmercedcoder/ai-weekly-digest-week-of-february-5-11-2026-4aog)
-- [Stop forgetting architectural decisions: make them executable](https://dev.to/dobrenteiistvan/stop-forgetting-architectural-decisions-make-them-executable-4hk6)
+- [Introducing QwikChek: Security Scanning Built for Developers](https://dev.to/qwikchek/introducing-qwikchek-security-scanning-built-for-developers-2glm)
+- [Prompt deploys can silently spike your OpenAI bill — here’s how to catch it](https://dev.to/opsmeter_io/prompt-deploys-can-silently-spike-your-openai-bill-heres-how-to-catch-it-4jc5)
+- [Why Your C# AI Agents Will Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/programmingcentral/why-your-c-ai-agents-will-fail-in-production-and-how-to-fix-it-c3)
+- [CVE-2019-25317: Time is Money, and XSS: Dissecting CVE-2019-25317 in Kimai 2](https://dev.to/cverports/cve-2019-25317-time-is-money-and-xss-dissecting-cve-2019-25317-in-kimai-2-4789)
 <!-- BLOG-POST-LIST:END -->
 
 
