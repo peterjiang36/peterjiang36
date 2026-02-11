@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bifrost vs Helicone: Choosing Between Two High-Performance LLM Gateways](https://dev.to/debmckinney/bifrost-vs-helicone-choosing-between-two-high-performance-llm-gateways-56l3)
-- [Fine-Tuning Isn’t Enough Anymore | Amazon Nova Forge Changes the Game](https://dev.to/shashankpandey04/fine-tuning-isnt-enough-anymore-amazon-nova-forge-changes-the-game-2kgc)
-- [How to Transform 3 Years of Thinking into Assets: Accelerate Feedback with Claude Cowork](https://dev.to/sho7650/how-to-transform-3-years-of-thinking-into-assets-accelerate-feedback-with-claude-cowork-kl0)
-- [Bifrost vs Cloudflare AI Gateway: Which AI Gateway for Production?](https://dev.to/pranay_batta/bifrost-vs-cloudflare-ai-gateway-which-ai-gateway-for-production-4dj2)
+- [Leading Without Constraining: What I Learned About True Leadership](https://dev.to/alinaramfu/leading-without-constraining-what-i-learned-about-true-leadership-3dkd)
+- [How to Fix Elementor Flexbox Container Overflows](https://dev.to/designtocodes/how-to-fix-elementor-flexbox-container-overflows-4km0)
+- [Fix: mobile 100vh jumps &lpar;URL bar + keyboard&rpar; using VisualViewport](https://dev.to/__8b11c872ed501135af2/fix-mobile-100vh-jumps-url-bar-keyboard-using-visualviewport-5h0h)
+- [The MEMORY.md Problem: Why Local Files Fail at Scale](https://dev.to/anajuliabit/the-memorymd-problem-why-local-files-fail-at-scale-58ae)
 <!-- BLOG-POST-LIST:END -->
 
 
