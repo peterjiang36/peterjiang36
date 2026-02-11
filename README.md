@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Ranked 5 AI Models by Security. The Leaderboard Is Wrong.](https://dev.to/ofri-peretz/we-ranked-5-ai-models-by-security-the-leaderboard-is-wrong-5a4o)
-- [I Built a Free PDF Tool for Students in India — Here’s What I Learned 🚀](https://dev.to/aerotoolsxas/i-built-a-free-pdf-tool-for-students-in-india-heres-what-i-learned-3k59)
-- [The Complete Guide to Implementing NativeWind Styling in React Native Expo](https://dev.to/arinvolkov/the-complete-guide-to-implementing-nativewind-styling-in-react-native-expo-47ch)
-- [629+ MCP Servers Exist. There Was No Directory. Until Now.](https://dev.to/seakai/629-mcp-servers-exist-there-was-no-directory-until-now-3hhl)
+- [GitHub Copilot in Visual Studio 2026 – Working Without Agent Skills](https://dev.to/africandeveloper/github-copilot-in-visual-studio-2026-working-without-agent-skills-47m5)
+- [What is API? Simple Explanation for Beginners &lpar;With Example&rpar;](https://dev.to/vedprakashrana/what-is-api-simple-explanation-for-beginners-with-example-3d)
+- [Static vs Non-Static Variables in Java – Complete Guide &lpar;With Example&rpar;](https://dev.to/jayashree_a84b6eff7bc414e/static-vs-non-static-variables-in-java-complete-guide-with-example-5h6n)
+- [I Built an AI Baby Meme Generator with a Two-Stage Prompt Pipeline — Here&#39;s How It Works](https://dev.to/jy_wang_2c4d36f4d66adea80/i-built-an-ai-baby-meme-generator-with-a-two-stage-prompt-pipeline-heres-how-it-works-lej)
 <!-- BLOG-POST-LIST:END -->
 
 
