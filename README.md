@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built MemCP: Giving Claude a Real Memory](https://dev.to/dalimay28/how-i-built-memcp-giving-claude-a-real-memory-15co)
-- [Shared Signals Framework: Bringing Standards to Continuous Session Protection](https://dev.to/parlesec/shared-signals-framework-bringing-standards-to-continuous-session-protection-547g)
-- [CI/CD Is Not a Toolchain—It&#39;s a Control Plane](https://dev.to/iyanu_david/cicd-is-not-a-toolchain-its-a-control-plane-39mi)
-- [[SUI] TabView &lpar;Pestañas&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-21ob)
+- [Bifrost vs Helicone: Choosing Between Two High-Performance LLM Gateways](https://dev.to/debmckinney/bifrost-vs-helicone-choosing-between-two-high-performance-llm-gateways-56l3)
+- [Fine-Tuning Isn’t Enough Anymore | Amazon Nova Forge Changes the Game](https://dev.to/shashankpandey04/fine-tuning-isnt-enough-anymore-amazon-nova-forge-changes-the-game-2kgc)
+- [How to Transform 3 Years of Thinking into Assets: Accelerate Feedback with Claude Cowork](https://dev.to/sho7650/how-to-transform-3-years-of-thinking-into-assets-accelerate-feedback-with-claude-cowork-kl0)
+- [Bifrost vs Cloudflare AI Gateway: Which AI Gateway for Production?](https://dev.to/pranay_batta/bifrost-vs-cloudflare-ai-gateway-which-ai-gateway-for-production-4dj2)
 <!-- BLOG-POST-LIST:END -->
 
 
