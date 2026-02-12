@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Show DEV: PardusDB – The &quot;SQLite of Vector DBs&quot; written in Rust](https://dev.to/jason_einstein_4ebad74d6d/show-dev-pardusdb-the-sqlite-of-vector-dbs-written-in-rust-3id3)
-- [Beyond AI Engineering: Why We Need &quot;Probabilistic Systems Architects&quot;](https://dev.to/abdulosman/beyond-ai-engineering-why-we-need-probabilistic-systems-architects-j10)
-- [Build a Spotify Music Time Machine with Python and OAuth 2.0](https://dev.to/simonoconnor/build-a-spotify-music-time-machine-with-python-and-oauth-20-kdo)
-- [How to Build a Production-Ready API Rate Limiter with Node.js and Redis](https://dev.to/mooh/how-to-build-a-production-ready-api-rate-limiter-with-nodejs-and-redis-15p7)
+- [I Built an MCP Server for My Translation Tool - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/hellolukasz/i-built-an-mcp-server-for-my-translation-tool-heres-how-and-why-580o)
+- [Fundamental Concepts of Cloud Computing](https://dev.to/nwafor_somadina_efa388085/fundamental-concepts-of-cloud-computing-3bpk)
+- [Can You Self-Host an Efficient AI at Home or for your Company?](https://dev.to/alexmergnat/can-you-self-host-an-efficient-ai-at-home-or-for-your-company-1dkj)
+- [Youtube adblocker that fixes video buffering - IframeTube](https://dev.to/lifeisgoing/youtube-adblocker-that-fixes-video-buffering-iframetube-2ebc)
 <!-- BLOG-POST-LIST:END -->
 
 
