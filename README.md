@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate Email Addresses in Node.js &lpar;2026 Guide&rpar;](https://dev.to/mnotr/how-to-validate-email-addresses-in-nodejs-2026-guide-5b72)
-- [Monitor your Claude usage](https://dev.to/mvaldes/monitor-your-claude-usage-3g9b)
-- [Exports are a security boundary: the moment local-first becomes shareable](https://dev.to/crisiscoresystems/exports-are-a-security-boundary-the-moment-local-first-becomes-shareable-3gj9)
-- [Introducing Icons: Add any icon library to your Ruby app](https://dev.to/railsdesigner/introducing-icons-add-any-icon-library-to-your-ruby-app-62m)
+- [Show DEV: PardusDB – The &quot;SQLite of Vector DBs&quot; written in Rust](https://dev.to/jason_einstein_4ebad74d6d/show-dev-pardusdb-the-sqlite-of-vector-dbs-written-in-rust-3id3)
+- [Beyond AI Engineering: Why We Need &quot;Probabilistic Systems Architects&quot;](https://dev.to/abdulosman/beyond-ai-engineering-why-we-need-probabilistic-systems-architects-j10)
+- [Build a Spotify Music Time Machine with Python and OAuth 2.0](https://dev.to/simonoconnor/build-a-spotify-music-time-machine-with-python-and-oauth-20-kdo)
+- [How to Build a Production-Ready API Rate Limiter with Node.js and Redis](https://dev.to/mooh/how-to-build-a-production-ready-api-rate-limiter-with-nodejs-and-redis-15p7)
 <!-- BLOG-POST-LIST:END -->
 
 
