@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [drift: Real-Time Code Health + AI-Powered Refactoring with GitHub Copilot CLI](https://dev.to/greatnessinabox/drift-real-time-code-health-ai-powered-refactoring-with-github-copilot-cli-5a1e)
-- [Why I Stopped Using PM2 and Built My Own Bun Process Manager](https://dev.to/zakpie/why-i-stopped-using-pm2-and-built-my-own-bun-process-manager-4ehe)
-- [WhatsApp Web Calling Feature – A Web Technology Perspective](https://dev.to/yasirawan4831/whatsapp-web-calling-feature-a-web-technology-perspective-4id1)
-- [Reverse Planning: Preventing All-Nighters Before Deadlines](https://dev.to/_jeongyuhyeon_03de1/reverse-planning-preventing-all-nighters-before-deadlines-2i3f)
+- [🧑‍💻 How to remain relevant in this AI era?](https://dev.to/datadog-frontend-dev/how-to-remain-relevant-in-this-ai-era-1mle)
+- [IndexNow: Struggle with implementation &lpar;C#&rpar;](https://dev.to/driftya/indexnow-struggle-with-implementation-c-5fn4)
+- [From Commits to Meetings: The Struggle of a Developer turned Manager](https://dev.to/hyperwindmill/from-commits-to-meetings-the-struggle-of-a-developer-turned-manager-4ee4)
+- [Why 2026 is the Year of the Specialist](https://dev.to/iamdavidjames/why-2026-is-the-year-of-the-specialist-48jn)
 <!-- BLOG-POST-LIST:END -->
 
 
