@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [J&#39;ai créé mon premier chatbot IA en 3 jours : retour d&#39;expérience](https://dev.to/abenali/jai-cree-mon-premier-chatbot-ia-en-3-jours-retour-dexperience-3jcg)
-- [Built a Hybrid RAG API with FastAPI &amp; Ollama – Sparse + Dense retrieval in action.](https://dev.to/ashwani_garg_8070e0d05964/built-a-hybrid-rag-api-with-fastapi-ollama-sparse-dense-retrieval-in-action-21d2)
-- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
-- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
+- [Future City Simulator](https://dev.to/0xbhoomi_vashishtha/future-city-simulator-2o1d)
+- [I built a CLI that fails your build on broken SEO](https://dev.to/yannbuilds/i-built-a-cli-that-fails-your-build-on-broken-seo-425k)
+- [Show Dev: ARK — The Sovereign Compiler for AI‑Native Code &lpar;Rust VM + Neuro‑Symbolic Runtime&rpar;](https://dev.to/merchantmohdebug/show-dev-ark-the-sovereign-compiler-for-ai-native-code-rust-vm-neuro-symbolic-runtime-2ck0)
+- [GIT AND GITHUB 101](https://dev.to/mordecai_mokua_567625df0b/git-and-github-101-2dpd)
 <!-- BLOG-POST-LIST:END -->
 
 
