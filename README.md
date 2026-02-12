@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Burnout, Rust, and the Feruchemy Problem](https://dev.to/fern_d3v/burnout-rust-and-the-feruchemy-problem-52f4)
-- [DeepSeek R1 on Localhost: Building a Private Coding Assistant for $0](https://dev.to/james_miller_8dc58a89cb9e/deepseek-r1-on-localhost-building-a-private-coding-assistant-for-0-ch4)
-- [Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning &lpar;Meet **@architect**&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk)
-- [Agent Memory Storage: A Practical Guide](https://dev.to/wspluta/agent-memory-storage-a-practical-guide-98j)
+- [We used Patrick to make Patrick. No this is not another LLM story.](https://dev.to/patrickbot/we-used-patrick-to-make-patrick-no-this-is-not-another-llm-story-494a)
+- [Segurança de Banco de Dados: O que aprendi analisando um artigo de 2024](https://dev.to/vinijds/seguranca-de-banco-de-dados-o-que-aprendi-analisando-um-artigo-de-2024-209d)
+- [I Built a Free Synthetic Data Generator — Here&#39;s How &lpar;React + Tailwind&rpar;](https://dev.to/rahultyagi1994/i-built-a-free-synthetic-data-generator-heres-how-react-tailwind-10a8)
+- [The art of asking: in-app review strategy for mobile applications](https://dev.to/altumstack/the-art-of-asking-in-app-review-strategy-for-mobile-applications-1613)
 <!-- BLOG-POST-LIST:END -->
 
 
