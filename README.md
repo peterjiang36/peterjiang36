@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI - Powered Portfolio: A Developer&#39;s Journey](https://dev.to/roy_amit/building-an-ai-powered-portfolio-a-developers-journey-16a1)
-- [How I built an observability layer for my OpenClaw AI agents](https://dev.to/ucsandman/how-i-built-an-observability-layer-for-my-openclaw-ai-agents-2cah)
-- [Runtime Adapter Hot-Swapping with Ports &amp; Adapters — The Pattern Alistair Cockburn Didn&#39;t Document](https://dev.to/charleshornick/runtime-adapter-hot-swapping-with-ports-adapters-the-pattern-alistair-cockburn-didnt-document-56cg)
-- [⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick](https://dev.to/mouadbourbian/the-weekend-speedrun-building-the-awesome-copilot-guide-with-my-ai-terminal-sidekick-39m0)
+- [Faster Server Startup in Meteor 3.4 with Deferrables](https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn)
+- [CVE-2026-20700: Apple Multiple Buffer Overflow Vulnerability](https://dev.to/freedom-coder/cve-2026-20700-apple-multiple-buffer-overflow-vulnerability-5hkf)
+- [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p)
+- [CollabCircle - Project Template Marketplace - GIT Hub Copilot CLI Challenge - App](https://dev.to/vivek_ae4cbc77ec323c6a68a/collabcircle-project-template-marketplace-git-hub-copilot-cli-challenge-app-1eb9)
 <!-- BLOG-POST-LIST:END -->
 
 
