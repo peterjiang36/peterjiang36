@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧑‍💻 How to remain relevant in this AI era?](https://dev.to/datadog-frontend-dev/how-to-remain-relevant-in-this-ai-era-1mle)
-- [IndexNow: Struggle with implementation &lpar;C#&rpar;](https://dev.to/driftya/indexnow-struggle-with-implementation-c-5fn4)
-- [From Commits to Meetings: The Struggle of a Developer turned Manager](https://dev.to/hyperwindmill/from-commits-to-meetings-the-struggle-of-a-developer-turned-manager-4ee4)
-- [Why 2026 is the Year of the Specialist](https://dev.to/iamdavidjames/why-2026-is-the-year-of-the-specialist-48jn)
+- [How to Validate Email Addresses in Node.js &lpar;2026 Guide&rpar;](https://dev.to/mnotr/how-to-validate-email-addresses-in-nodejs-2026-guide-5b72)
+- [Monitor your Claude usage](https://dev.to/mvaldes/monitor-your-claude-usage-3g9b)
+- [Exports are a security boundary: the moment local-first becomes shareable](https://dev.to/crisiscoresystems/exports-are-a-security-boundary-the-moment-local-first-becomes-shareable-3gj9)
+- [Introducing Icons: Add any icon library to your Ruby app](https://dev.to/railsdesigner/introducing-icons-add-any-icon-library-to-your-ruby-app-62m)
 <!-- BLOG-POST-LIST:END -->
 
 
