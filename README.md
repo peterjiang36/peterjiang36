@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WCAG - contrast requirements](https://dev.to/dawid_ryczko/wcag-contrast-requirements-1p4i)
-- [How Oracle APEX Handles Data : Forms, Reports, and Session State Explained](https://dev.to/anushka_singh21/how-oracle-apex-handles-data-forms-reports-and-session-state-explained-2h1k)
-- [I Vibe Coded a Full-Stack React App in 90 Seconds — Here&#39;s Why the Stack Matters](https://dev.to/restdbjones/i-vibe-coded-a-full-stack-react-app-in-90-seconds-heres-why-the-stack-matters-2pfk)
-- [React Interviews: Don&#39;t Get a Red Card on Your Coding Challenge](https://dev.to/bishoy_semsem/50-react-interview-coding-challenges-3mg9)
+- [J&#39;ai créé mon premier chatbot IA en 3 jours : retour d&#39;expérience](https://dev.to/abenali/jai-cree-mon-premier-chatbot-ia-en-3-jours-retour-dexperience-3jcg)
+- [Built a Hybrid RAG API with FastAPI &amp; Ollama – Sparse + Dense retrieval in action.](https://dev.to/ashwani_garg_8070e0d05964/built-a-hybrid-rag-api-with-fastapi-ollama-sparse-dense-retrieval-in-action-21d2)
+- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
+- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
 <!-- BLOG-POST-LIST:END -->
 
 
