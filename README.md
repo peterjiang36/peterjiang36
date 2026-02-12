@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Confusion to Clarity: My Journey Learning Social Media APIs &amp; OAuth](https://dev.to/bharath_kumar_30_vog/from-confusion-to-clarity-my-journey-learning-social-media-apis-oauth-1587)
-- [Why Most GST Reporting Workflows Break &lpar;And How a CFO Dashboard Fixes It&rpar;](https://dev.to/ruhika/why-most-gst-reporting-workflows-break-and-how-a-cfo-dashboard-fixes-it-260b)
-- [Develop Software Faster With AppGen Without Shipping Chaos](https://dev.to/sashido/develop-software-faster-with-appgen-without-shipping-chaos-4cd7)
-- [Mutating vs Validating Webhooks in Kubernetes](https://dev.to/iresh/kubernetes-admission-controllers-explained-355k)
+- [The AI Engineering Pivot: A Strategic Roadmap for Senior Software Engineers](https://dev.to/jubinsoni/the-ai-engineering-pivot-a-strategic-roadmap-for-senior-software-engineers-1bd9)
+- [Art of Computer programming.](https://dev.to/codekuti/art-of-computer-programming-jmm)
+- [Recovery codes… Or just one recovery code?](https://dev.to/antonmb/recovery-codes-or-just-one-recovery-code-50dk)
+- [Signal Forms in Angular 21](https://dev.to/soumayaerradi/signal-forms-in-angular-21-4502)
 <!-- BLOG-POST-LIST:END -->
 
 
