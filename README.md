@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A-Team CLI is LIVE](https://dev.to/ghassangaidi/a-team-cli-is-live-3jh8)
-- [CVE-2026-25949: Traefik&#39;s Eternal Wait: Bypassing TCP Timeouts with Postgres Magic Bytes](https://dev.to/cverports/cve-2026-25949-traefiks-eternal-wait-bypassing-tcp-timeouts-with-postgres-magic-bytes-1cdo)
-- [Iterate on your SDKs locally with the Stainless Language Server](https://dev.to/stainlessapi/iterate-on-your-sdks-locally-with-the-stainless-language-server-10m0)
-- [Luhn Algorithm Explained: Credit Card Validation in JavaScript](https://dev.to/mnotr/luhn-algorithm-explained-credit-card-validation-in-javascript-4ggd)
+- [Building an AI - Powered Portfolio: A Developer&#39;s Journey](https://dev.to/roy_amit/building-an-ai-powered-portfolio-a-developers-journey-16a1)
+- [How I built an observability layer for my OpenClaw AI agents](https://dev.to/ucsandman/how-i-built-an-observability-layer-for-my-openclaw-ai-agents-2cah)
+- [Runtime Adapter Hot-Swapping with Ports &amp; Adapters — The Pattern Alistair Cockburn Didn&#39;t Document](https://dev.to/charleshornick/runtime-adapter-hot-swapping-with-ports-adapters-the-pattern-alistair-cockburn-didnt-document-56cg)
+- [⏱️ The Weekend Speedrun: Building the &quot;Awesome Copilot Guide&quot; with my AI Terminal Sidekick](https://dev.to/mouadbourbian/the-weekend-speedrun-building-the-awesome-copilot-guide-with-my-ai-terminal-sidekick-39m0)
 <!-- BLOG-POST-LIST:END -->
 
 
