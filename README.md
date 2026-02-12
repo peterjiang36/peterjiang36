@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Faster Server Startup in Meteor 3.4 with Deferrables](https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn)
-- [CVE-2026-20700: Apple Multiple Buffer Overflow Vulnerability](https://dev.to/freedom-coder/cve-2026-20700-apple-multiple-buffer-overflow-vulnerability-5hkf)
-- [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p)
-- [CollabCircle - Project Template Marketplace - GIT Hub Copilot CLI Challenge - App](https://dev.to/vivek_ae4cbc77ec323c6a68a/collabcircle-project-template-marketplace-git-hub-copilot-cli-challenge-app-1eb9)
+- [Alembic: Versionamento de Banco de Dados](https://dev.to/carineneris/alembic-versionamento-de-banco-de-dados-40di)
+- [AI Agent for Moltbook in Java: From Zero to Hero](https://dev.to/vishalmysore/ai-agent-for-moltbook-in-java-from-zero-to-hero-27pg)
+- [Heroku&#39;s Changing Direction](https://dev.to/sai_praneeth_bhattu/herokus-changing-direction-375b)
+- [lru_cache vs singleton in Python — they&#39;re not the same thing.](https://dev.to/frank-895/lrucache-vs-singleton-in-python-theyre-not-the-same-thing-1bmc)
 <!-- BLOG-POST-LIST:END -->
 
 
