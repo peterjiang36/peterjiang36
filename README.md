@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Future City Simulator](https://dev.to/0xbhoomi_vashishtha/future-city-simulator-2o1d)
-- [I built a CLI that fails your build on broken SEO](https://dev.to/yannbuilds/i-built-a-cli-that-fails-your-build-on-broken-seo-425k)
-- [Show Dev: ARK — The Sovereign Compiler for AI‑Native Code &lpar;Rust VM + Neuro‑Symbolic Runtime&rpar;](https://dev.to/merchantmohdebug/show-dev-ark-the-sovereign-compiler-for-ai-native-code-rust-vm-neuro-symbolic-runtime-2ck0)
-- [GIT AND GITHUB 101](https://dev.to/mordecai_mokua_567625df0b/git-and-github-101-2dpd)
+- [ConfDroid Puppet Modules - confdroid_resources](https://dev.to/12ww1160/confdroid-puppet-modules-confdroidresources-na6)
+- [Why I stopped trusting my own backup scripts &lpar;and built a SaaS instead&rpar;](https://dev.to/ivan_kovac_1800b4fe01b1b7/why-i-stopped-trusting-my-own-backup-scripts-and-built-a-saas-instead-5gdm)
+- [Duplicate “Follow” Button Text in User Profile Hover Card](https://dev.to/art_light/duplicate-follow-button-text-in-user-profile-hover-card-121)
+- [Use Copilot CLI to increase developer productivity](https://dev.to/sonu0702/use-copilot-cli-to-increase-developer-productivity-5207)
 <!-- BLOG-POST-LIST:END -->
 
 
