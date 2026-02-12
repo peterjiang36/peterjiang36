@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Coherence: The Performance Metric No One Measures](https://dev.to/junothreadborne/code-coherence-the-performance-metric-no-one-measures-48bn)
-- [How We Built 7 Websites for a Small Construction Company Using Modern Web Tech](https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l)
-- [The INFJ Developer&#39;s Guide to AI Agents: How an Introvert Outsourced Social Anxiety](https://dev.to/wcamon/the-infj-developers-guide-to-ai-agents-how-an-introvert-outsourced-social-anxiety-473j)
-- [Why Your “Skill Scanner” Is Just False Security &lpar;and Maybe Malware&rpar;](https://dev.to/snyk/why-your-skill-scanner-is-just-false-security-and-maybe-malware-4jgb)
+- [Best Time to Buy and Sell Stock with Transaction Fee](https://dev.to/stack_overflowed/best-time-to-buy-and-sell-stock-with-transaction-fee-2ch1)
+- [Playwright Codegen](https://dev.to/inacio88/playwright-codegen-1jb3)
+- [In the next decade, the best technical leaders won’t be the ones who know the most tools.
+
+They’ll be the ones who understand how intelligence changes the shape of software, teams, and decisions.](https://dev.to/jaideepparashar/in-the-next-decade-the-best-technical-leaders-wont-be-the-ones-who-know-the-most-tools-cdi)
+- [The Marie Kondo Method for MySQL: A Data Lifecycle Story](https://dev.to/igornosatov_15/the-marie-kondo-method-for-mysql-a-data-lifecycle-story-563)
 <!-- BLOG-POST-LIST:END -->
 
 
