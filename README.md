@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Time to Buy and Sell Stock with Transaction Fee](https://dev.to/stack_overflowed/best-time-to-buy-and-sell-stock-with-transaction-fee-2ch1)
-- [Playwright Codegen](https://dev.to/inacio88/playwright-codegen-1jb3)
-- [In the next decade, the best technical leaders won’t be the ones who know the most tools.
-
-They’ll be the ones who understand how intelligence changes the shape of software, teams, and decisions.](https://dev.to/jaideepparashar/in-the-next-decade-the-best-technical-leaders-wont-be-the-ones-who-know-the-most-tools-cdi)
-- [The Marie Kondo Method for MySQL: A Data Lifecycle Story](https://dev.to/igornosatov_15/the-marie-kondo-method-for-mysql-a-data-lifecycle-story-563)
+- [Apache httpd и PHP-FPM: модули и расширения для продакшена &lpar;с учётом Bitrix&rpar;](https://dev.to/_vproger_/apache-httpd-i-php-fpm-moduli-i-rasshirieniia-dlia-prodakshiena-s-uchiotom-bitrix-1c6)
+- [Why I Built nevr-env — And Why process.env Deserves Better](https://dev.to/yalelet_dessalegn_b87ed18/why-i-built-nevr-env-and-why-processenv-deserves-better-4iod)
+- [How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU &lpar;No Ollama, No Server&rpar;](https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l)
+- [Show HN: Agent framework that generates its own topology and evolves at runtime](https://dev.to/newsman/show-hn-agent-framework-that-generates-its-own-topology-and-evolves-at-runtime-52a2)
 <!-- BLOG-POST-LIST:END -->
 
 
