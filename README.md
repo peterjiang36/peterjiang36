@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache httpd и PHP-FPM: модули и расширения для продакшена &lpar;с учётом Bitrix&rpar;](https://dev.to/_vproger_/apache-httpd-i-php-fpm-moduli-i-rasshirieniia-dlia-prodakshiena-s-uchiotom-bitrix-1c6)
-- [Why I Built nevr-env — And Why process.env Deserves Better](https://dev.to/yalelet_dessalegn_b87ed18/why-i-built-nevr-env-and-why-processenv-deserves-better-4iod)
-- [How I Built a Chrome Extension That Runs Llama, DeepSeek, and Mistral Locally Using WebGPU &lpar;No Ollama, No Server&rpar;](https://dev.to/psgganesh/how-i-built-a-chrome-extension-that-runs-llama-deepseek-and-mistral-locally-using-webgpu-no-73l)
-- [Show HN: Agent framework that generates its own topology and evolves at runtime](https://dev.to/newsman/show-hn-agent-framework-that-generates-its-own-topology-and-evolves-at-runtime-52a2)
+- [Designing Serverless Applications at Massive Scale with AWS Lambda and RDS Proxy](https://dev.to/nghidanh2005/designing-serverless-applications-at-massive-scale-with-aws-lambda-and-rds-proxy-4k28)
+- [Building a Simple Blog with Supabase &lpar;Posts &amp; Comments&rpar;](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384)
+- [Hashicorp Vault CLI Part 4: Introspection](https://dev.to/admantium/hashicorp-vault-cli-part-4-introspection-250f)
+- [Top 5 LLM Gateways for Production in 2026 &lpar;A Deep, Practical Comparison&rpar;](https://dev.to/hadil/top-5-llm-gateways-for-production-in-2026-a-deep-practical-comparison-16p)
 <!-- BLOG-POST-LIST:END -->
 
 
