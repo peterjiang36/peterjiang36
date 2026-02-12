@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We used Patrick to make Patrick. No this is not another LLM story.](https://dev.to/patrickbot/we-used-patrick-to-make-patrick-no-this-is-not-another-llm-story-494a)
-- [Segurança de Banco de Dados: O que aprendi analisando um artigo de 2024](https://dev.to/vinijds/seguranca-de-banco-de-dados-o-que-aprendi-analisando-um-artigo-de-2024-209d)
-- [I Built a Free Synthetic Data Generator — Here&#39;s How &lpar;React + Tailwind&rpar;](https://dev.to/rahultyagi1994/i-built-a-free-synthetic-data-generator-heres-how-react-tailwind-10a8)
-- [The art of asking: in-app review strategy for mobile applications](https://dev.to/altumstack/the-art-of-asking-in-app-review-strategy-for-mobile-applications-1613)
+- [KeyleSSH: A New PAM Concept for IT Admins](https://dev.to/tidefoundation/keylessh-a-pam-with-no-single-point-of-vulnerability-4n1h)
+- [Build Your First Encrypted Agent Swarm Using Phoenix &lpar;Drag Connect Deploy&rpar;](https://dev.to/matrixswarm/build-your-first-encrypted-agent-swarm-using-phoenix-drag-connect-deploy-20n3)
+- [c++ asosiy kodlarining ma&#39;nosi!](https://dev.to/ahmadzonodilmurod55sudo/c-asosiy-kodlarining-manosi-1ock)
+- [I Built a One-Command macOS VM Tool for Proxmox 9](https://dev.to/lucidfabrics/i-built-a-one-command-macos-vm-tool-for-proxmox-9-190j)
 <!-- BLOG-POST-LIST:END -->
 
 
