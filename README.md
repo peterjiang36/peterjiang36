@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Serverless Applications at Massive Scale with AWS Lambda and RDS Proxy](https://dev.to/nghidanh2005/designing-serverless-applications-at-massive-scale-with-aws-lambda-and-rds-proxy-4k28)
-- [Building a Simple Blog with Supabase &lpar;Posts &amp; Comments&rpar;](https://dev.to/bosz/building-a-simple-blog-with-supabase-posts-comments-4384)
-- [Hashicorp Vault CLI Part 4: Introspection](https://dev.to/admantium/hashicorp-vault-cli-part-4-introspection-250f)
-- [Top 5 LLM Gateways for Production in 2026 &lpar;A Deep, Practical Comparison&rpar;](https://dev.to/hadil/top-5-llm-gateways-for-production-in-2026-a-deep-practical-comparison-16p)
+- [From Confusion to Clarity: My Journey Learning Social Media APIs &amp; OAuth](https://dev.to/bharath_kumar_30_vog/from-confusion-to-clarity-my-journey-learning-social-media-apis-oauth-1587)
+- [Why Most GST Reporting Workflows Break &lpar;And How a CFO Dashboard Fixes It&rpar;](https://dev.to/ruhika/why-most-gst-reporting-workflows-break-and-how-a-cfo-dashboard-fixes-it-260b)
+- [Develop Software Faster With AppGen Without Shipping Chaos](https://dev.to/sashido/develop-software-faster-with-appgen-without-shipping-chaos-4cd7)
+- [Mutating vs Validating Webhooks in Kubernetes](https://dev.to/iresh/kubernetes-admission-controllers-explained-355k)
 <!-- BLOG-POST-LIST:END -->
 
 
