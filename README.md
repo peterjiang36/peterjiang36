@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Engineering Pivot: A Strategic Roadmap for Senior Software Engineers](https://dev.to/jubinsoni/the-ai-engineering-pivot-a-strategic-roadmap-for-senior-software-engineers-1bd9)
-- [Art of Computer programming.](https://dev.to/codekuti/art-of-computer-programming-jmm)
-- [Recovery codes… Or just one recovery code?](https://dev.to/antonmb/recovery-codes-or-just-one-recovery-code-50dk)
-- [Signal Forms in Angular 21](https://dev.to/soumayaerradi/signal-forms-in-angular-21-4502)
+- [WCAG - contrast requirements](https://dev.to/dawid_ryczko/wcag-contrast-requirements-1p4i)
+- [How Oracle APEX Handles Data : Forms, Reports, and Session State Explained](https://dev.to/anushka_singh21/how-oracle-apex-handles-data-forms-reports-and-session-state-explained-2h1k)
+- [I Vibe Coded a Full-Stack React App in 90 Seconds — Here&#39;s Why the Stack Matters](https://dev.to/restdbjones/i-vibe-coded-a-full-stack-react-app-in-90-seconds-heres-why-the-stack-matters-2pfk)
+- [React Interviews: Don&#39;t Get a Red Card on Your Coding Challenge](https://dev.to/bishoy_semsem/50-react-interview-coding-challenges-3mg9)
 <!-- BLOG-POST-LIST:END -->
 
 
