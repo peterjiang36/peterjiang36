@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your WordPress Theme Doesn’t Look Like The Pretty Preview &lpar;And How To Easily Get One That Does&rpar;](https://dev.to/edom87/why-your-wordpress-theme-doesnt-look-like-the-pretty-preview-and-how-to-easily-get-one-that-does-9dc)
-- [GitTalks: Turn Any GitHub Repo Into a Podcast.](https://dev.to/theharikrishnanvk/gittalks-turn-any-github-repo-into-a-podcast-1dgn)
-- [LLM Structured Output in 2026: Stop Parsing JSON with Regex and Do It Right](https://dev.to/pockit_tools/llm-structured-output-in-2026-stop-parsing-json-with-regex-and-do-it-right-34pk)
-- [I Built 16+ Date &amp; Time Calculators in Vanilla JavaScript — Here’s What I Learned About Time &lpar;and DST&rpar;](https://dev.to/cornel_gabriel_d4237164ca/i-built-16-date-time-calculators-in-vanilla-javascript-heres-what-i-learned-about-time-and-2pdn)
+- [drift: Real-Time Code Health + AI-Powered Refactoring with GitHub Copilot CLI](https://dev.to/greatnessinabox/drift-real-time-code-health-ai-powered-refactoring-with-github-copilot-cli-5a1e)
+- [Why I Stopped Using PM2 and Built My Own Bun Process Manager](https://dev.to/zakpie/why-i-stopped-using-pm2-and-built-my-own-bun-process-manager-4ehe)
+- [WhatsApp Web Calling Feature – A Web Technology Perspective](https://dev.to/yasirawan4831/whatsapp-web-calling-feature-a-web-technology-perspective-4id1)
+- [Reverse Planning: Preventing All-Nighters Before Deadlines](https://dev.to/_jeongyuhyeon_03de1/reverse-planning-preventing-all-nighters-before-deadlines-2i3f)
 <!-- BLOG-POST-LIST:END -->
 
 
