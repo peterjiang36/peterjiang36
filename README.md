@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Server for My Translation Tool - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/hellolukasz/i-built-an-mcp-server-for-my-translation-tool-heres-how-and-why-580o)
-- [Fundamental Concepts of Cloud Computing](https://dev.to/nwafor_somadina_efa388085/fundamental-concepts-of-cloud-computing-3bpk)
-- [Can You Self-Host an Efficient AI at Home or for your Company?](https://dev.to/alexmergnat/can-you-self-host-an-efficient-ai-at-home-or-for-your-company-1dkj)
-- [Youtube adblocker that fixes video buffering - IframeTube](https://dev.to/lifeisgoing/youtube-adblocker-that-fixes-video-buffering-iframetube-2ebc)
+- [A-Team CLI is LIVE](https://dev.to/ghassangaidi/a-team-cli-is-live-3jh8)
+- [CVE-2026-25949: Traefik&#39;s Eternal Wait: Bypassing TCP Timeouts with Postgres Magic Bytes](https://dev.to/cverports/cve-2026-25949-traefiks-eternal-wait-bypassing-tcp-timeouts-with-postgres-magic-bytes-1cdo)
+- [Iterate on your SDKs locally with the Stainless Language Server](https://dev.to/stainlessapi/iterate-on-your-sdks-locally-with-the-stainless-language-server-10m0)
+- [Luhn Algorithm Explained: Credit Card Validation in JavaScript](https://dev.to/mnotr/luhn-algorithm-explained-credit-card-validation-in-javascript-4ggd)
 <!-- BLOG-POST-LIST:END -->
 
 
