@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KeyleSSH: A New PAM Concept for IT Admins](https://dev.to/tidefoundation/keylessh-a-pam-with-no-single-point-of-vulnerability-4n1h)
-- [Build Your First Encrypted Agent Swarm Using Phoenix &lpar;Drag Connect Deploy&rpar;](https://dev.to/matrixswarm/build-your-first-encrypted-agent-swarm-using-phoenix-drag-connect-deploy-20n3)
-- [c++ asosiy kodlarining ma&#39;nosi!](https://dev.to/ahmadzonodilmurod55sudo/c-asosiy-kodlarining-manosi-1ock)
-- [I Built a One-Command macOS VM Tool for Proxmox 9](https://dev.to/lucidfabrics/i-built-a-one-command-macos-vm-tool-for-proxmox-9-190j)
+- [Code Coherence: The Performance Metric No One Measures](https://dev.to/junothreadborne/code-coherence-the-performance-metric-no-one-measures-48bn)
+- [How We Built 7 Websites for a Small Construction Company Using Modern Web Tech](https://dev.to/inuterr0/how-we-built-7-websites-for-a-small-construction-company-using-modern-web-tech-3n7l)
+- [The INFJ Developer&#39;s Guide to AI Agents: How an Introvert Outsourced Social Anxiety](https://dev.to/wcamon/the-infj-developers-guide-to-ai-agents-how-an-introvert-outsourced-social-anxiety-473j)
+- [Why Your “Skill Scanner” Is Just False Security &lpar;and Maybe Malware&rpar;](https://dev.to/snyk/why-your-skill-scanner-is-just-false-security-and-maybe-malware-4jgb)
 <!-- BLOG-POST-LIST:END -->
 
 
