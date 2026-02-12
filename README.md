@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ConfDroid Puppet Modules - confdroid_resources](https://dev.to/12ww1160/confdroid-puppet-modules-confdroidresources-na6)
-- [Why I stopped trusting my own backup scripts &lpar;and built a SaaS instead&rpar;](https://dev.to/ivan_kovac_1800b4fe01b1b7/why-i-stopped-trusting-my-own-backup-scripts-and-built-a-saas-instead-5gdm)
-- [Duplicate “Follow” Button Text in User Profile Hover Card](https://dev.to/art_light/duplicate-follow-button-text-in-user-profile-hover-card-121)
-- [Use Copilot CLI to increase developer productivity](https://dev.to/sonu0702/use-copilot-cli-to-increase-developer-productivity-5207)
+- [Letting LLMs Jump — and Then Verifying Ruthlessly](https://dev.to/shinpr/letting-llms-jump-and-then-verifying-ruthlessly-1mj0)
+- [I Built an Exporter and Grafana Dashboard for Claude Code](https://dev.to/aireet/i-built-an-exporter-and-grafana-dashboard-for-claude-code-3hpi)
+- [NDM-TCP vs TCP Cubic vs TCP Reno: Urban LTE/4G Network Performance Test](https://dev.to/hejhdiss/ndm-tcp-vs-tcp-cubic-vs-tcp-reno-urban-lte4g-network-performance-test-1p72)
+- [Bifrost vs OpenRouter: Performance vs Simplicity](https://dev.to/debmckinney/bifrost-vs-openrouter-performance-vs-simplicity-dl9)
 <!-- BLOG-POST-LIST:END -->
 
 
