@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web 3](https://dev.to/miracool/web-3-5eek)
-- [CyberTabletop CLI — I turned GitHub Copilot into a tabletop exercise facilitator](https://dev.to/enniob/cybertabletop-cli-i-turned-github-copilot-into-a-tabletop-exercise-facilitator-e9o)
-- [Beyond the Buzzwords: Context, Prompts, and Tools](https://dev.to/zeling_chen_73840b4951f53/beyond-the-buzzwords-context-prompts-and-tools-2fgm)
-- [GHSA-XX7M-69FF-9CRP: SurrealDB&#39;s Poison Pill: Crashing the Database with a Single String](https://dev.to/cverports/ghsa-xx7m-69ff-9crp-surrealdbs-poison-pill-crashing-the-database-with-a-single-string-4imj)
+- [How Do I Close a Specified Pop-up Window When OpenCustomDialog Is Used?](https://dev.to/harmonyos/how-do-i-close-a-specified-pop-up-window-when-opencustomdialog-is-used-5ci8)
+- [For Developers: Choose Side Hustles That Build Leverage &lpar;Not Just More Hours&rpar;](https://dev.to/techstratos/for-developers-choose-side-hustles-that-build-leverage-not-just-more-hours-2e5b)
+- [AI-Assisted Development Workflows with Claude Code and MCP](https://dev.to/tim_derzhavets/ai-assisted-development-workflows-with-claude-code-and-mcp-10og)
+- [Ambassador Pattern: Building Resilient Proxies That Handle the Chaos Your Services Can&#39;t](https://dev.to/tim_derzhavets/ambassador-pattern-building-resilient-proxies-that-handle-the-chaos-your-services-cant-1hdb)
 <!-- BLOG-POST-LIST:END -->
 
 
