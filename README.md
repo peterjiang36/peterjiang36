@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Need to Be an AI Expert BUT You Need to Be AI-Aware](https://dev.to/respect17/you-dont-need-to-be-an-ai-expert-but-you-need-to-be-ai-aware-2402)
-- [Your AI Chatbot Has No Immune System. Here&#39;s How Attackers Exploit That.](https://dev.to/jtil4201/your-ai-chatbot-has-no-immune-system-heres-how-attackers-exploit-that-44o)
-- [I stopped prompt-engineering the same text features and turned them into 9 API endpoints](https://dev.to/kit2026/i-stopped-prompt-engineering-the-same-text-features-and-turned-them-into-9-api-endpoints-571m)
-- [A snake game build by copilot-cli](https://dev.to/2p1c/a-snake-game-build-by-copilot-cli-33g1)
+- [We Replaced Our Bash Scripts and Hydra With a Single Go Binary for Credential Testing](https://dev.to/praetorian_guard/we-replaced-our-bash-scripts-and-hydra-with-a-single-go-binary-for-credential-testing-3p5c)
+- [Building a Terminal-Based AI PR Reviewer with GitHub Copilot CLI](https://dev.to/rhythm_dubey_92c43317b6b3/building-a-terminal-based-ai-pr-reviewer-with-github-copilot-cli-36fe)
+- [AI Infra HPC — CPU](https://dev.to/bokai_gu/ai-infra-hpc-cpu-38h4)
+- [Build a Multi-Platform Ad Intelligence Dashboard That Monitors Every Ad Library](https://dev.to/olams/build-a-multi-platform-ad-intelligence-dashboard-that-monitors-every-ad-library-238i)
 <!-- BLOG-POST-LIST:END -->
 
 
