@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating TLS Certificate Lifecycle with Let&#39;s Encrypt and ACME](https://dev.to/tim_derzhavets/automating-tls-certificate-lifecycle-with-lets-encrypt-and-acme-3ef1)
-- [My first successful CICD deployment](https://dev.to/moka_austine_d630e148fd46/my-first-successful-cicd-deployment-1bj0)
-- [I Thought More Tracking Would Calm Me](https://dev.to/allenbailey25/i-thought-more-tracking-would-calm-me-166)
-- [Application Security - SAST, SCA &amp; DAST](https://dev.to/awais_684/application-security-sast-sca-dast-23kj)
+- [A Beginner’s Guide to ThreeJs](https://dev.to/adetolaesther/a-beginners-guide-to-threejs-ob5)
+- [Best Platforms for AI Governance: Guardrails, Policy Enforcement, and Compliance](https://dev.to/debmckinney/best-platforms-for-ai-governance-guardrails-policy-enforcement-and-compliance-4dpd)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/kithokoi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1392)
+- [AI Coding Tip 006 - Review Every Line Before Commit](https://dev.to/mcsee/ai-coding-tip-006-review-every-line-before-commit-bmm)
 <!-- BLOG-POST-LIST:END -->
 
 
