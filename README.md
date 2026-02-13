@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mokup: A Build-Tool-Friendly Visual Mocking Tool for Vite, Webpack, Node.js, and Workers](https://dev.to/sonofmagic/mokup-a-build-tool-friendly-visual-mocking-tool-for-vite-webpack-nodejs-and-workers-35j9)
-- [Power Interview: All‑in‑One Interview Assistant—Transcription, AI Replies, Code Help, Face Swap](https://dev.to/power-interview/power-interview-all-in-one-interview-assistant-transcription-ai-replies-code-help-face-swap-pci)
-- [Building a Real-Time Air Quality Dashboard Using APIs](https://dev.to/goutam_kumar_25db122cf377/building-a-real-time-air-quality-dashboard-using-apis-5489)
-- [Exploring Uttarakhand: Spiritual Sanctuaries and the Symphony of Nature](https://dev.to/deepak_gaula271/exploring-uttarakhand-spiritual-sanctuaries-and-the-symphony-of-nature-4gpo)
+- [Like Stories? Love Python! 📖🐍 Ep.7](https://dev.to/the-software-s-journey/like-stories-love-python-ep7-545)
+- [THE GREAT UNLOCK: Welcome to the Era of Infinite Play By Adel Abdel-Dayem The Architect of Synthia The 11th Art](https://dev.to/adel_dayem/the-great-unlock-welcome-to-the-era-of-infinite-play-by-adel-abdel-dayem-the-architect-of-synthia-308g)
+- [Like Stories? Love Python! 📖🐍 Ep.8](https://dev.to/the-software-s-journey/like-stories-love-python-ep8-4ebf)
+- [Like Stories? Love Python! 📖🐍 Ep.6](https://dev.to/the-software-s-journey/like-stories-love-python-ep6-1cm7)
 <!-- BLOG-POST-LIST:END -->
 
 
