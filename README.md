@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to ThreeJs](https://dev.to/adetolaesther/a-beginners-guide-to-threejs-ob5)
-- [Best Platforms for AI Governance: Guardrails, Policy Enforcement, and Compliance](https://dev.to/debmckinney/best-platforms-for-ai-governance-guardrails-policy-enforcement-and-compliance-4dpd)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/kithokoi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1392)
-- [AI Coding Tip 006 - Review Every Line Before Commit](https://dev.to/mcsee/ai-coding-tip-006-review-every-line-before-commit-bmm)
+- [Are Multi-Agent LLM Workflows Quietly Amplifying Mistakes?](https://dev.to/ionionascu/are-multi-agent-llm-workflows-quietly-amplifying-mistakes-lhb)
+- [Future trends in online food delivery Technology](https://dev.to/sofia_morgan_e8ecd3f57ee1/future-trends-in-online-food-delivery-technology-2hag)
+- [The 4 Rules of Simple Design: A Practical Guide with TypeScript](https://dev.to/maximeshr/the-4-rules-of-simple-design-a-practical-guide-with-typescript-cn0)
+- [How I Stopped Guessing Payment Failures in ASP.NET Core &lpar;Free Tool&rpar;](https://dev.to/ramapratheeba/how-i-stopped-guessing-payment-failures-in-aspnet-core-free-tool-3paf)
 <!-- BLOG-POST-LIST:END -->
 
 
