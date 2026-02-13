@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Like Stories? Love Python! 📖🐍 Ep.7](https://dev.to/the-software-s-journey/like-stories-love-python-ep7-545)
-- [THE GREAT UNLOCK: Welcome to the Era of Infinite Play By Adel Abdel-Dayem The Architect of Synthia The 11th Art](https://dev.to/adel_dayem/the-great-unlock-welcome-to-the-era-of-infinite-play-by-adel-abdel-dayem-the-architect-of-synthia-308g)
-- [Like Stories? Love Python! 📖🐍 Ep.8](https://dev.to/the-software-s-journey/like-stories-love-python-ep8-4ebf)
-- [Like Stories? Love Python! 📖🐍 Ep.6](https://dev.to/the-software-s-journey/like-stories-love-python-ep6-1cm7)
+- [From Data to Decisions: How Augmented Analytics is Transforming Business](https://dev.to/jasmine_sharma_5d4f082df5/from-data-to-decisions-how-augmented-analytics-is-transforming-business-57j5)
+- [Savior: Low-Level Design](https://dev.to/elshadhu/savior-low-level-design-5ef)
+- [How octorus Renders 300K Lines of Diff at High Speed](https://dev.to/ushironoko/how-octorus-renders-300k-lines-of-diff-at-high-speed-h4p)
+- [octorus: A Rust-built TUI tool where AI autonomously reviews &amp; fixes code while you browse PR diffs](https://dev.to/ushironoko/octorus-a-rust-built-tui-tool-where-ai-autonomously-reviews-fixes-code-while-you-browse-pr-diffs-5gh9)
 <!-- BLOG-POST-LIST:END -->
 
 
