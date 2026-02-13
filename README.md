@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Data to Decisions: How Augmented Analytics is Transforming Business](https://dev.to/jasmine_sharma_5d4f082df5/from-data-to-decisions-how-augmented-analytics-is-transforming-business-57j5)
-- [Savior: Low-Level Design](https://dev.to/elshadhu/savior-low-level-design-5ef)
-- [How octorus Renders 300K Lines of Diff at High Speed](https://dev.to/ushironoko/how-octorus-renders-300k-lines-of-diff-at-high-speed-h4p)
-- [octorus: A Rust-built TUI tool where AI autonomously reviews &amp; fixes code while you browse PR diffs](https://dev.to/ushironoko/octorus-a-rust-built-tui-tool-where-ai-autonomously-reviews-fixes-code-while-you-browse-pr-diffs-5gh9)
+- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
+- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
+- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml)
+- [5 Battle-Tested Strategies to Survive 12-Hour Nursing Shifts &lpar;Without Burning Out&rpar;](https://dev.to/mullair_jeudi_e8259c5c82d/5-battle-tested-strategies-to-survive-12-hour-nursing-shifts-without-burning-out-llk)
 <!-- BLOG-POST-LIST:END -->
 
 
