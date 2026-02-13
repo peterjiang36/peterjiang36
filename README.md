@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Cloud Authentication in Kubernetes: A Comprehensive Guide to IRSA, Workload Identity, and Federated Identity](https://dev.to/piyushjajoo/cross-cloud-authentication-in-kubernetes-a-comprehensive-guide-to-irsa-workload-identity-and-40en)
-- [Sunsetting Legacy Angular: How We&#39;re Migrating to Next.js, GraphQL, and a Monorepo &lpar;Without a Big Bang Rewrite&rpar;](https://dev.to/ujja/sunsetting-legacy-angular-how-were-migrating-to-nextjs-graphql-and-a-monorepo-without-a-big-1295)
-- [The Agent Internet Has 54,000+ Users. Here&#39;s How to Navigate It.](https://dev.to/scottcjn/the-agent-internet-has-54000-users-heres-how-to-navigate-it-dj6)
-- [Stop Burning Money: How to Find Orphaned Azure Disks with PowerShell](https://dev.to/gavindobbs_wa/stop-burning-money-how-to-find-orphaned-azure-disks-with-powershell-5a8f)
+- [Web 3](https://dev.to/miracool/web-3-5eek)
+- [CyberTabletop CLI — I turned GitHub Copilot into a tabletop exercise facilitator](https://dev.to/enniob/cybertabletop-cli-i-turned-github-copilot-into-a-tabletop-exercise-facilitator-e9o)
+- [Beyond the Buzzwords: Context, Prompts, and Tools](https://dev.to/zeling_chen_73840b4951f53/beyond-the-buzzwords-context-prompts-and-tools-2fgm)
+- [GHSA-XX7M-69FF-9CRP: SurrealDB&#39;s Poison Pill: Crashing the Database with a Single String](https://dev.to/cverports/ghsa-xx7m-69ff-9crp-surrealdbs-poison-pill-crashing-the-database-with-a-single-string-4imj)
 <!-- BLOG-POST-LIST:END -->
 
 
