@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are Multi-Agent LLM Workflows Quietly Amplifying Mistakes?](https://dev.to/ionionascu/are-multi-agent-llm-workflows-quietly-amplifying-mistakes-lhb)
-- [Future trends in online food delivery Technology](https://dev.to/sofia_morgan_e8ecd3f57ee1/future-trends-in-online-food-delivery-technology-2hag)
-- [The 4 Rules of Simple Design: A Practical Guide with TypeScript](https://dev.to/maximeshr/the-4-rules-of-simple-design-a-practical-guide-with-typescript-cn0)
-- [How I Stopped Guessing Payment Failures in ASP.NET Core &lpar;Free Tool&rpar;](https://dev.to/ramapratheeba/how-i-stopped-guessing-payment-failures-in-aspnet-core-free-tool-3paf)
+- [Does Moissanite Pass a Diamond Tester? The Truth Behind the Viral Videos](https://dev.to/adamans_jewelry_8b9fce5eb/does-moissanite-pass-a-diamond-tester-the-truth-behind-the-viral-videos-55jm)
+- [Python Generators Part 2: How They Actually Work &lpar;The Magic Revealed&rpar;](https://dev.to/prashant_chouksey_28055f0/python-generators-part-2-how-they-actually-work-the-magic-revealed-15kl)
+- [Elm + Nix: A reproducible RealWorld clone](https://dev.to/dwayne/elm-nix-a-reproducible-realworld-clone-19lm)
+- [Python Generators Deep Dive Part 1: Lazy Evaluation &amp; Memory Optimization🚀](https://dev.to/prashant_chouksey_28055f0/python-generators-deep-dive-part-1-lazy-evaluation-memory-optimization-4bk)
 <!-- BLOG-POST-LIST:END -->
 
 
