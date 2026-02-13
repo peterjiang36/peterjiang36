@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why do we need Databases?](https://dev.to/ganesh_parella/why-do-we-need-databases-519n)
-- [GHSA-27JP-WM6Q-GP25: Death by Parentheses: The sqlparse Recursive DoS](https://dev.to/cverports/ghsa-27jp-wm6q-gp25-death-by-parentheses-the-sqlparse-recursive-dos-1260)
-- [Journaling for Developers: A Simple Tool to Think Better, Not Write More](https://dev.to/adam_rageh_8c49adafd1d10d/journaling-for-developers-a-simple-tool-to-think-better-not-write-more-2lm8)
-- [Using Apex to Parse AI Outputs safely in Salesforce](https://dev.to/rubasri_srikanthan/using-apex-to-parse-ai-outputs-safely-in-salesforce-5cmn)
+- [The .cursorrules I&#39;d Actually Use for a Next.js E-Commerce Project](https://dev.to/nedcodes/the-cursorrules-id-actually-use-for-a-nextjs-e-commerce-project-198i)
+- [MultiLLM interface](https://dev.to/fastestmk/multillm-interface-2c25)
+- [SwiftUI Idempotency &amp; Duplicate Prevention &lpar;Correctness in Distributed Systems&rpar;](https://dev.to/sebastienlato/swiftui-idempotency-duplicate-prevention-correctness-in-distributed-systems-1p95)
+- [AI Voice Agents for Estate Agents in Ireland: Never Miss a Property Enquiry Again](https://dev.to/voicefleet/ai-voice-agents-for-estate-agents-in-ireland-never-miss-a-property-enquiry-again-9id)
 <!-- BLOG-POST-LIST:END -->
 
 
