@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My 2026 Plan as a Junior Dev 🚀](https://dev.to/giacomofolli/my-2026-plan-as-a-junior-dev-2k4o)
-- [I Gave a Smart Home Assistant an Upgraded Brain and Personality](https://dev.to/alanfromrasa/i-gave-a-smart-home-assistant-an-upgraded-brain-and-personality-mhf)
-- [Docker Feature Overview](https://dev.to/stringzwb/docker-feature-overview-4lkn)
-- [🚀 CI/CD Pipelines &amp; YAML Best Practices](https://dev.to/yogitakadam14/cicd-pipelines-yaml-best-practices-1de7)
+- [You Don&#39;t Need to Be an AI Expert BUT You Need to Be AI-Aware](https://dev.to/respect17/you-dont-need-to-be-an-ai-expert-but-you-need-to-be-ai-aware-2402)
+- [Your AI Chatbot Has No Immune System. Here&#39;s How Attackers Exploit That.](https://dev.to/jtil4201/your-ai-chatbot-has-no-immune-system-heres-how-attackers-exploit-that-44o)
+- [I stopped prompt-engineering the same text features and turned them into 9 API endpoints](https://dev.to/kit2026/i-stopped-prompt-engineering-the-same-text-features-and-turned-them-into-9-api-endpoints-571m)
+- [A snake game build by copilot-cli](https://dev.to/2p1c/a-snake-game-build-by-copilot-cli-33g1)
 <!-- BLOG-POST-LIST:END -->
 
 
