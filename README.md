@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Replaced Our Bash Scripts and Hydra With a Single Go Binary for Credential Testing](https://dev.to/praetorian_guard/we-replaced-our-bash-scripts-and-hydra-with-a-single-go-binary-for-credential-testing-3p5c)
-- [Building a Terminal-Based AI PR Reviewer with GitHub Copilot CLI](https://dev.to/rhythm_dubey_92c43317b6b3/building-a-terminal-based-ai-pr-reviewer-with-github-copilot-cli-36fe)
-- [AI Infra HPC — CPU](https://dev.to/bokai_gu/ai-infra-hpc-cpu-38h4)
-- [Build a Multi-Platform Ad Intelligence Dashboard That Monitors Every Ad Library](https://dev.to/olams/build-a-multi-platform-ad-intelligence-dashboard-that-monitors-every-ad-library-238i)
+- [Why do we need Databases?](https://dev.to/ganesh_parella/why-do-we-need-databases-519n)
+- [GHSA-27JP-WM6Q-GP25: Death by Parentheses: The sqlparse Recursive DoS](https://dev.to/cverports/ghsa-27jp-wm6q-gp25-death-by-parentheses-the-sqlparse-recursive-dos-1260)
+- [Journaling for Developers: A Simple Tool to Think Better, Not Write More](https://dev.to/adam_rageh_8c49adafd1d10d/journaling-for-developers-a-simple-tool-to-think-better-not-write-more-2lm8)
+- [Using Apex to Parse AI Outputs safely in Salesforce](https://dev.to/rubasri_srikanthan/using-apex-to-parse-ai-outputs-safely-in-salesforce-5cmn)
 <!-- BLOG-POST-LIST:END -->
 
 
