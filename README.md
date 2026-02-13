@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do I Close a Specified Pop-up Window When OpenCustomDialog Is Used?](https://dev.to/harmonyos/how-do-i-close-a-specified-pop-up-window-when-opencustomdialog-is-used-5ci8)
-- [For Developers: Choose Side Hustles That Build Leverage &lpar;Not Just More Hours&rpar;](https://dev.to/techstratos/for-developers-choose-side-hustles-that-build-leverage-not-just-more-hours-2e5b)
-- [AI-Assisted Development Workflows with Claude Code and MCP](https://dev.to/tim_derzhavets/ai-assisted-development-workflows-with-claude-code-and-mcp-10og)
-- [Ambassador Pattern: Building Resilient Proxies That Handle the Chaos Your Services Can&#39;t](https://dev.to/tim_derzhavets/ambassador-pattern-building-resilient-proxies-that-handle-the-chaos-your-services-cant-1hdb)
+- [.NET Learning Notes: Custom In-Memory Provider&lpar;1&rpar; - Registration and Discovery](https://dev.to/alexleeeeeeeeee/c-learning-notes-custom-in-memory-provider1-registration-and-discovery-12i0)
+- [Practical baseline safeguards for ChatGPT-powered services](https://dev.to/uni928/practical-baseline-safeguards-for-chatgpt-powered-services-efd)
+- [The Secret Life of Go: Channels](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-channels-1gii)
+- [TypeScript 5.x Decorators and Const Type Parameters: A Migration Guide for Production Codebases](https://dev.to/tim_derzhavets/typescript-5x-decorators-and-const-type-parameters-a-migration-guide-for-production-codebases-i3d)
 <!-- BLOG-POST-LIST:END -->
 
 
