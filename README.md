@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a resource group and a storage account](https://dev.to/louis_oodo_a59b230b894609/create-a-resource-group-and-a-storage-account-56c8)
-- [Inside CPython Lists: Contiguous Memory, Fast Indexing, Resizing. A Mental Model for Interviews](https://dev.to/mxm_mrz/inside-cpython-lists-contiguous-memory-fast-indexing-resizing-a-mental-model-for-interviews-5df6)
-- [Redis Is Not a Database &lpar;Until You Treat It Like One&rpar;](https://dev.to/speaklouder/redis-is-not-a-database-until-you-treat-it-like-one-11j8)
-- [Why Your GitHub Actions Secrets Don&#39;t Work in Reusable Workflow Inputs](https://dev.to/cseeman/why-your-github-actions-secrets-dont-work-in-reusable-workflow-inputs-462g)
+- [Command Center for AI Coding Agents &lpar;Claude Code + Codex&rpar;](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g)
+- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
+- [What other map APIs are good for integration into a logistics website](https://dev.to/method_ncarlson_ddf/what-other-map-apis-are-good-for-integration-into-a-logistics-website-2p75)
+- [Native Auditing Architecture: Embedding Traceability Intelligence within the Database Core.](https://dev.to/isabellyarrudaa/native-auditing-architecture-embedding-traceability-intelligence-within-the-database-core-1c2p)
 <!-- BLOG-POST-LIST:END -->
 
 
