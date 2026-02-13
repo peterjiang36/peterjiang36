@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The .cursorrules I&#39;d Actually Use for a Next.js E-Commerce Project](https://dev.to/nedcodes/the-cursorrules-id-actually-use-for-a-nextjs-e-commerce-project-198i)
-- [MultiLLM interface](https://dev.to/fastestmk/multillm-interface-2c25)
-- [SwiftUI Idempotency &amp; Duplicate Prevention &lpar;Correctness in Distributed Systems&rpar;](https://dev.to/sebastienlato/swiftui-idempotency-duplicate-prevention-correctness-in-distributed-systems-1p95)
-- [AI Voice Agents for Estate Agents in Ireland: Never Miss a Property Enquiry Again](https://dev.to/voicefleet/ai-voice-agents-for-estate-agents-in-ireland-never-miss-a-property-enquiry-again-9id)
+- [Create a resource group and a storage account](https://dev.to/louis_oodo_a59b230b894609/create-a-resource-group-and-a-storage-account-56c8)
+- [Inside CPython Lists: Contiguous Memory, Fast Indexing, Resizing. A Mental Model for Interviews](https://dev.to/mxm_mrz/inside-cpython-lists-contiguous-memory-fast-indexing-resizing-a-mental-model-for-interviews-5df6)
+- [Redis Is Not a Database &lpar;Until You Treat It Like One&rpar;](https://dev.to/speaklouder/redis-is-not-a-database-until-you-treat-it-like-one-11j8)
+- [Why Your GitHub Actions Secrets Don&#39;t Work in Reusable Workflow Inputs](https://dev.to/cseeman/why-your-github-actions-secrets-dont-work-in-reusable-workflow-inputs-462g)
 <!-- BLOG-POST-LIST:END -->
 
 
