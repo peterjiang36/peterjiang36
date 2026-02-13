@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
-- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
-- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml)
-- [5 Battle-Tested Strategies to Survive 12-Hour Nursing Shifts &lpar;Without Burning Out&rpar;](https://dev.to/mullair_jeudi_e8259c5c82d/5-battle-tested-strategies-to-survive-12-hour-nursing-shifts-without-burning-out-llk)
+- [Sentiment Analysis in C# - Without Python or External APIs](https://dev.to/olafur_aron/sentiment-analysis-in-c-without-python-or-external-apis-3jpm)
+- [Get Started with CSVParse for Node.js &lpar;csv-parse npm package&rpar;](https://dev.to/juddee/get-started-with-csvparse-for-nodejs-csv-parse-npm-package-50oh)
+- [🔑Beginner-Friendly Guide &#39;Longest Balanced Substring II&#39; - Problem 3714 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-ii-problem-3714-c-python-javascript-591f)
+- [How to Collect Payments Using the Payment Orchestrator Flow in v4](https://dev.to/flutterwaveeng/how-to-collect-payments-using-the-payment-orchestrator-flow-in-v4-458k)
 <!-- BLOG-POST-LIST:END -->
 
 
