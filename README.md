@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does Moissanite Pass a Diamond Tester? The Truth Behind the Viral Videos](https://dev.to/adamans_jewelry_8b9fce5eb/does-moissanite-pass-a-diamond-tester-the-truth-behind-the-viral-videos-55jm)
-- [Python Generators Part 2: How They Actually Work &lpar;The Magic Revealed&rpar;](https://dev.to/prashant_chouksey_28055f0/python-generators-part-2-how-they-actually-work-the-magic-revealed-15kl)
-- [Elm + Nix: A reproducible RealWorld clone](https://dev.to/dwayne/elm-nix-a-reproducible-realworld-clone-19lm)
-- [Python Generators Deep Dive Part 1: Lazy Evaluation &amp; Memory Optimization🚀](https://dev.to/prashant_chouksey_28055f0/python-generators-deep-dive-part-1-lazy-evaluation-memory-optimization-4bk)
+- [My 2026 Plan as a Junior Dev 🚀](https://dev.to/giacomofolli/my-2026-plan-as-a-junior-dev-2k4o)
+- [I Gave a Smart Home Assistant an Upgraded Brain and Personality](https://dev.to/alanfromrasa/i-gave-a-smart-home-assistant-an-upgraded-brain-and-personality-mhf)
+- [Docker Feature Overview](https://dev.to/stringzwb/docker-feature-overview-4lkn)
+- [🚀 CI/CD Pipelines &amp; YAML Best Practices](https://dev.to/yogitakadam14/cicd-pipelines-yaml-best-practices-1de7)
 <!-- BLOG-POST-LIST:END -->
 
 
