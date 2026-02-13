@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a browser-based OS for managing my self-hosted server](https://dev.to/roqueribeiro/i-built-a-browser-based-os-for-managing-my-self-hosted-server-iip)
-- [Using AI to Build a Tool That Stops Me From Blindly Using AI](https://dev.to/javz/using-ai-to-build-a-tool-that-stops-me-from-blindly-using-ai-2dh7)
-- [The 47‑Day SSL/TLS Certificate Era Is Coming](https://dev.to/techthatworks/the-47-day-ssltls-certificate-era-is-coming-370)
-- [Mobile UI Design for Complex Games: Lessons from RuneScape Mobile](https://dev.to/oceanviewgames/mobile-ui-design-for-complex-games-lessons-from-runescape-mobile-2928)
+- [A Practical Guide to Multi-Model AI Workflows](https://dev.to/salvatore_zetina_afcf8b44/a-practical-guide-to-multi-model-ai-workflows-12ln)
+- [Programming in the Age of AI: From Code to Intent](https://dev.to/robertobutti/programming-in-the-age-of-ai-from-code-to-intent-46eo)
+- [AI Agent Architecture Patterns: Engineering for Autonomy, Resilience, and Control](https://dev.to/topuzas/ai-agent-architecture-patterns-engineering-for-autonomy-resilience-and-control-134m)
+- [The Great AI Agent Showdown of 2026: OpenAI, AutoGen, CrewAI, or LangGraph?](https://dev.to/topuzas/the-great-ai-agent-showdown-of-2026-openai-autogen-crewai-or-langgraph-1ea8)
 <!-- BLOG-POST-LIST:END -->
 
 
