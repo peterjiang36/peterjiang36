@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sentiment Analysis in C# - Without Python or External APIs](https://dev.to/olafur_aron/sentiment-analysis-in-c-without-python-or-external-apis-3jpm)
-- [Get Started with CSVParse for Node.js &lpar;csv-parse npm package&rpar;](https://dev.to/juddee/get-started-with-csvparse-for-nodejs-csv-parse-npm-package-50oh)
-- [🔑Beginner-Friendly Guide &#39;Longest Balanced Substring II&#39; - Problem 3714 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-substring-ii-problem-3714-c-python-javascript-591f)
-- [How to Collect Payments Using the Payment Orchestrator Flow in v4](https://dev.to/flutterwaveeng/how-to-collect-payments-using-the-payment-orchestrator-flow-in-v4-458k)
+- [Automating TLS Certificate Lifecycle with Let&#39;s Encrypt and ACME](https://dev.to/tim_derzhavets/automating-tls-certificate-lifecycle-with-lets-encrypt-and-acme-3ef1)
+- [My first successful CICD deployment](https://dev.to/moka_austine_d630e148fd46/my-first-successful-cicd-deployment-1bj0)
+- [I Thought More Tracking Would Calm Me](https://dev.to/allenbailey25/i-thought-more-tracking-would-calm-me-166)
+- [Application Security - SAST, SCA &amp; DAST](https://dev.to/awais_684/application-security-sast-sca-dast-23kj)
 <!-- BLOG-POST-LIST:END -->
 
 
