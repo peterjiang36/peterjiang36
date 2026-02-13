@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alembic: Versionamento de Banco de Dados](https://dev.to/carineneris/alembic-versionamento-de-banco-de-dados-40di)
-- [AI Agent for Moltbook in Java: From Zero to Hero](https://dev.to/vishalmysore/ai-agent-for-moltbook-in-java-from-zero-to-hero-27pg)
-- [Heroku&#39;s Changing Direction](https://dev.to/sai_praneeth_bhattu/herokus-changing-direction-375b)
-- [lru_cache vs singleton in Python — they&#39;re not the same thing.](https://dev.to/frank-895/lrucache-vs-singleton-in-python-theyre-not-the-same-thing-1bmc)
+- [Cross-Cloud Authentication in Kubernetes: A Comprehensive Guide to IRSA, Workload Identity, and Federated Identity](https://dev.to/piyushjajoo/cross-cloud-authentication-in-kubernetes-a-comprehensive-guide-to-irsa-workload-identity-and-40en)
+- [Sunsetting Legacy Angular: How We&#39;re Migrating to Next.js, GraphQL, and a Monorepo &lpar;Without a Big Bang Rewrite&rpar;](https://dev.to/ujja/sunsetting-legacy-angular-how-were-migrating-to-nextjs-graphql-and-a-monorepo-without-a-big-1295)
+- [The Agent Internet Has 54,000+ Users. Here&#39;s How to Navigate It.](https://dev.to/scottcjn/the-agent-internet-has-54000-users-heres-how-to-navigate-it-dj6)
+- [Stop Burning Money: How to Find Orphaned Azure Disks with PowerShell](https://dev.to/gavindobbs_wa/stop-burning-money-how-to-find-orphaned-azure-disks-with-powershell-5a8f)
 <!-- BLOG-POST-LIST:END -->
 
 
