@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
-- [Document Localization Studio](https://dev.to/swati_goyal_ba378c8434eca/document-localization-studio-5gl8)
-- [Rock ✊ Paper ✋ Scissors ✌️](https://dev.to/elanatframework/rock-paper-scissors-3adb)
-- [What happens when SQL Server PAGE gets corrupted ?](https://dev.to/abeamar/what-happens-when-sql-server-page-gets-corrupted--33pe)
+- [Stop Your Coding Agent From Stealing Production Secrets](https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi)
+- [From Frontend to Full-Stack: Building a Real Estate Marketplace and Learning Backend Development](https://dev.to/maxixo/from-frontend-to-full-stack-building-a-real-estate-marketplace-and-learning-backend-development-2258)
+- [Beyond Encryption: Designing a Tamper-Evident State Engine](https://dev.to/laphilosophia/beyond-encryption-designing-a-tamper-evident-state-engine-1c19)
+- [CIberus: A Three-Headed ASCII Guardian for Your CI Pipeline](https://dev.to/simandebvu/ciberus-a-three-headed-ascii-guardian-for-your-ci-pipeline-52m8)
 <!-- BLOG-POST-LIST:END -->
 
 
