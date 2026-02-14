@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [THE NEW WEB](https://dev.to/arber/the-new-web-2kac)
-- [Building an AI Proposal Pipeline: From Call Transcripts to Branded Web Pages with Python and Supabase](https://dev.to/syntora/building-an-ai-proposal-pipeline-from-call-transcripts-to-branded-web-pages-with-python-and-2a08)
-- [ImportKit vs Flatfile: The Best Affordable Alternative for Small Startups in 2026](https://dev.to/importkit/importkit-vs-flatfile-the-best-affordable-alternative-for-small-startups-in-2026-3hda)
-- [🥂 Beginner-Friendly Guide &#39;Champagne Tower&#39; - Problem 799 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-champagne-tower-problem-799-c-python-javascript-34om)
+- [Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works](https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga)
+- [In many startups, ethics is treated like a policy problem. That approach fails in AI. Because in AI products, ethics is not a document. It&#39;s the integral part of the product.](https://dev.to/jaideepparashar/in-many-startups-ethics-is-treated-like-a-policy-problem-that-approach-fails-in-ai-because-in-ai-2m3g)
+- [AI Ethics in Startups: Why Developers Must Lead](https://dev.to/jaideepparashar/ai-ethics-in-startups-why-developers-must-lead-57cg)
+- [AI News Roundup: GPT-5.2 Makes Physics Discovery, Gemini 3 Deep Think Drops, and an AI Agent Published a Hit Piece](https://dev.to/damogallagher/ai-news-roundup-gpt-52-makes-physics-discovery-gemini-3-deep-think-drops-and-an-ai-agent-445n)
 <!-- BLOG-POST-LIST:END -->
 
 
