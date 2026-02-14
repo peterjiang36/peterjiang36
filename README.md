@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Latency: Why 200ms Feels Like Forever](https://dev.to/apiverve/api-latency-why-200ms-feels-like-forever-29i2)
-- [API Documentation: Good, Bad, and Unusable](https://dev.to/apiverve/api-documentation-good-bad-and-unusable-47jh)
-- [Building REST APIs with API Platform, Symfony, and MongoDB](https://dev.to/aasawari_sahasrabuddhe_3c/building-rest-apis-with-api-platform-symfony-and-mongodb-4l44)
-- [Everything Claude Code &lpar;ECC&rpar; Complete Cheatsheet](https://dev.to/shimo4228/everything-claude-code-ecc-complete-cheatsheet-24ok)
+- [Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem](https://dev.to/huydanggdg/thiet-ke-ngfw-throughput-40gbps-va-waf-waf-throughput-80gbps-khi-bat-cac-tinh-nang-nang-cao-4b4d)
+- [I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper](https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6)
+- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l)
+- [Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow](https://dev.to/yasumorishima/kaggle-code-competitions-without-a-local-gpu-github-actions-kaggle-api-cloud-workflow-m3)
 <!-- BLOG-POST-LIST:END -->
 
 
