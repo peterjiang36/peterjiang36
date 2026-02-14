@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-3688)
-- [Solving the Microservices &quot;Communication Hurdle&quot; with gRPC](https://dev.to/devendra_kumar_042/solving-the-microservices-communication-hurdle-with-grpc-2a08)
-- [Your Deployment Pipeline Is a Privileged Identity System](https://dev.to/iyanu_david/your-deployment-pipeline-is-a-privileged-identity-system-m6o)
-- [Your B2B Onboarding is a Buggy Feature, Not a Feature Flag. Here&#39;s the PR to Fix It.](https://dev.to/michaelaiglobal/your-b2b-onboarding-is-a-buggy-feature-not-a-feature-flag-heres-the-pr-to-fix-it-4ga2)
+- [Why Refactoring Can’t Save Bad Architecture](https://dev.to/hilqia_kenda/why-refactoring-cant-save-bad-architecture-17ee)
+- [Dead Simple CI Introduction](https://dev.to/melezhik/dead-simple-ci-introduction-1jh6)
+- [GLPI with Docker + Portainer: Complete Setup Guide &lpar;Self-Hosted IT Asset Management&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/glpi-with-docker-portainer-complete-setup-guide-self-hosted-it-asset-management-234l)
+- [I Slept While My AI Completed 88 Tasks — Here&#39;s What Happened](https://dev.to/yurukusa/i-slept-while-my-ai-completed-88-tasks-heres-what-happened-55ie)
 <!-- BLOG-POST-LIST:END -->
 
 
