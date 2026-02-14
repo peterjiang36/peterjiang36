@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Going Back to My School: Where My Habits, Goals, and Dreams Were Born](https://dev.to/vigneshwaralingam/going-back-to-my-school-where-my-habits-goals-and-dreams-were-born-3e5b)
-- [When having a better display backfires: fixing &#39;blurry&#39; VLC in Hyprland](https://dev.to/ardur/when-having-a-better-display-backfires-fixing-blurry-vlc-in-hyprland-5aie)
-- [PyScript Language: Running Python Directly in the Browser](https://dev.to/badass_tech-ae2025/pyscript-language-running-python-directly-in-the-browser-3odj)
-- [Why I Built a Newsletter + Podcast Platform That Doesn&#39;t Lock You In](https://dev.to/chovy/why-i-built-a-newsletter-podcast-platform-that-doesnt-lock-you-in-hbk)
+- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
+- [Document Localization Studio](https://dev.to/swati_goyal_ba378c8434eca/document-localization-studio-5gl8)
+- [Rock ✊ Paper ✋ Scissors ✌️](https://dev.to/elanatframework/rock-paper-scissors-3adb)
+- [What happens when SQL Server PAGE gets corrupted ?](https://dev.to/abeamar/what-happens-when-sql-server-page-gets-corrupted--33pe)
 <!-- BLOG-POST-LIST:END -->
 
 
