@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI](https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi)
-- [Mastering QueryClient — The Brain Behind React Query &lpar;Complete Guide&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-queryclient-the-brain-behind-react-query-complete-guide-46aa)
-- [Arifmetic Operators | C++](https://dev.to/whysoempty/arifmetic-operators-c-559b)
-- [Stop Switching Repos: The Hidden Efficiency Ceiling in Multi-Repo Debugging — Broken by One Feature](https://dev.to/wingtao/stop-switching-repos-the-hidden-efficiency-ceiling-in-multi-repo-debugging-broken-by-one-feature-74a)
+- [Building a Scalable Navigation System for a 30+ Module Super App](https://dev.to/mrkivan820/building-a-scalable-navigation-system-for-a-30-module-super-app-3deb)
+- [The 80% Automation That Actually Runs](https://dev.to/ryancwynar/the-80-automation-that-actually-runs-4a4)
+- [Unraveling the Power of Database Joins: A Deep Dive into Data Relationships](https://dev.to/vjnvisakh/unraveling-the-power-of-database-joins-a-deep-dive-into-data-relationships-bgb)
+- [The 1% Rule: How Much Should You Risk per Trade?](https://dev.to/skyriss/the-1-rule-how-much-should-you-risk-per-trade-28ok)
 <!-- BLOG-POST-LIST:END -->
 
 
