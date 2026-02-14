@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Beacon: Why AI Agents Need a Social Protocol](https://dev.to/scottcjn/introducing-beacon-why-ai-agents-need-a-social-protocol-1je0)
-- [We’ve leaned on generative AI to make navigating our legacy Angular code less painful. The stats in this blog, like which components are purely legacy versus newly added are analyzed by Claude Code.](https://dev.to/ujja/weve-leaned-on-generative-ai-to-make-navigating-our-legacy-angular-code-less-painful-the-stats-in-54hf)
-- [Powered by Alibaba Cloud, POPUCOM Delivers a Zero-latency Adventure for Players Worldwide](https://dev.to/observabilityguy/powered-by-alibaba-cloud-popucom-delivers-a-zero-latency-adventure-for-players-worldwide-1pe2)
-- [Integrating AI in Web Development: A Practical Approach](https://dev.to/mystrix/integrating-ai-in-web-development-a-practical-approach-4a15)
+- [Quick Start for libjwt3](https://dev.to/chronoyevsky/quick-start-for-libjwt3-2i4)
+- [What is async/await? ❤️ &lpar;Valentine Special for Developers&rpar;](https://dev.to/maibhushan/what-is-asyncawait-valentine-special-for-developers-3j9c)
+- [I Built a Zero-Dependency Memory System for AI Agents in 200 Lines of Bash](https://dev.to/musecl_0bae2b19be982f944b/i-built-a-zero-dependency-memory-system-for-ai-agents-in-200-lines-of-bash-4m67)
+- [Why lich4/ollvm-pass Deserves Attention](https://dev.to/lich0/why-lich4ollvm-pass-deserves-attention-17ho)
 <!-- BLOG-POST-LIST:END -->
 
 
