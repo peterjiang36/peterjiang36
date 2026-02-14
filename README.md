@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OLSRT: The Runtime I Built on Windows 7 When I Couldn&#39;t Run MSVC &lpar;And Why It Might Be the Last Runtime You&#39;ll Ever Need&rpar;](https://dev.to/javadinteger/olsrt-the-runtime-i-built-on-windows-7-when-i-couldnt-run-msvc-and-why-it-might-be-the-last-oe7)
-- [Let Your OpenClaw Work While You Sleep - And Even Earn for You](https://dev.to/zen7/let-your-openclaw-work-while-you-sleep-and-even-earn-for-you-eb1)
-- [A copy-paste React Carousel from my product UI &lpar;styled-components&rpar;. Full source included, no package required](https://dev.to/bartek_/a-copy-paste-react-carousel-from-my-product-ui-styled-components-full-source-included-no-1172)
-- [Building a Privacy-First Finance App with Laravel 12 and React 19](https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d)
+- [HTTP/1.1 Compliance Platform](https://dev.to/mda2av/http11-compliance-platform-1co5)
+- [🚨 Why Most Student Backend Projects Fail in Production](https://dev.to/urkushagra/why-most-student-backend-projects-fail-in-production-15ne)
+- [Stop Getting Different Code Every Time You Ask AI — Use a Spec Pattern](https://dev.to/vict00r99/stop-getting-different-code-every-time-you-ask-ai-use-a-spec-pattern-mk8)
+- [Best MCP Gateways to Connect Tools and MCP Servers to Your AI Agent](https://dev.to/kuldeep_paul/best-mcp-gateways-to-connect-tools-and-mcp-servers-to-your-ai-agent-536m)
 <!-- BLOG-POST-LIST:END -->
 
 
