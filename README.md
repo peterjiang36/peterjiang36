@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of API Rate Limits? Run Mistral 7B Locally with Ollama &lpar;No More Monthly API Bills&rpar;](https://dev.to/micheal_angelo_41cea4e81a/tired-of-api-rate-limits-run-mistral-7b-locally-with-ollama-no-more-monthly-api-bills-3kf2)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-315h)
-- [🚀 Ultimate VS Code Setup for Rust - Perfect for Learning &amp; Fast Prototyping](https://dev.to/dobbythedev/ultimate-vs-code-setup-for-rust-perfect-for-learning-fast-prototyping-4in4)
-- [I enjoy programming](https://dev.to/tamj0rd2/i-enjoy-programming-2jd5)
+- [Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI](https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi)
+- [Mastering QueryClient — The Brain Behind React Query &lpar;Complete Guide&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-queryclient-the-brain-behind-react-query-complete-guide-46aa)
+- [Arifmetic Operators | C++](https://dev.to/whysoempty/arifmetic-operators-c-559b)
+- [Stop Switching Repos: The Hidden Efficiency Ceiling in Multi-Repo Debugging — Broken by One Feature](https://dev.to/wingtao/stop-switching-repos-the-hidden-efficiency-ceiling-in-multi-repo-debugging-broken-by-one-feature-74a)
 <!-- BLOG-POST-LIST:END -->
 
 
