@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-26273: The Over-Helpful Doorman: Full Account Takeover in &#39;Known&#39; CMS](https://dev.to/cverports/cve-2026-26273-the-over-helpful-doorman-full-account-takeover-in-known-cms-4gj8)
-- [Cache-Control: the silent hero in communication between services](https://dev.to/jairo-dev-jr/cache-control-the-silent-hero-in-communication-between-services-7lf)
-- [Build a simple RAG workflow to chat with your docs in n8n](https://dev.to/jennapederson/build-a-simple-rag-workflow-to-chat-with-your-docs-in-n8n-1e5)
-- [Day 12 of #100DaysOfCode — Understanding Zustand](https://dev.to/m_saad_ahmad/day-12-of-100daysofcode-understanding-zustand-4g9f)
+- [THE NEW WEB](https://dev.to/arber/the-new-web-2kac)
+- [Building an AI Proposal Pipeline: From Call Transcripts to Branded Web Pages with Python and Supabase](https://dev.to/syntora/building-an-ai-proposal-pipeline-from-call-transcripts-to-branded-web-pages-with-python-and-2a08)
+- [ImportKit vs Flatfile: The Best Affordable Alternative for Small Startups in 2026](https://dev.to/importkit/importkit-vs-flatfile-the-best-affordable-alternative-for-small-startups-in-2026-3hda)
+- [🥂 Beginner-Friendly Guide &#39;Champagne Tower&#39; - Problem 799 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-champagne-tower-problem-799-c-python-javascript-34om)
 <!-- BLOG-POST-LIST:END -->
 
 
