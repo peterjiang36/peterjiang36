@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Power of Agent assisted coding and learning to achieve goals faster and cheaper](https://dev.to/darjus_dev/power-of-agent-assisted-coding-and-learning-to-achieve-goals-faster-and-cheaper-2oin)
-- [The &quot;Don&#39;t Be an Asshole&quot; Theory of Career Growth: Why Weak Ties Matter More Than Clean Code](https://dev.to/lentonen/the-dont-be-an-asshole-theory-of-career-growth-why-weak-ties-matter-more-than-clean-code-51bn)
-- [Your Bookmarks Are Trapped — Here&#39;s How to Free Them](https://dev.to/chovy/your-bookmarks-are-trapped-heres-how-to-free-them-c2h)
-- [Compose Your Markdown Workflow: mq Subcommands + Unix Pipes](https://dev.to/harehare/compose-your-markdown-workflow-mq-subcommands-unix-pipes-37ph)
+- [Rust Zero-Cost Abstractions Deep Dive](https://dev.to/kanywst/rust-zero-cost-abstractions-deep-dive-5a0m)
+- [Chapter 1 — Thinking About Rollback in Distributed Systems Through Three Worlds &lpar;RML-1/2/3&rpar;](https://dev.to/kanaria007/chapter-1-thinking-about-rollback-in-distributed-systems-through-three-worlds-rml-123-30m)
+- [The Worlds of Distributed Systems — Align Your Team’s Mental Model](https://dev.to/kanaria007/the-worlds-of-distributed-systems-align-your-teams-mental-model-4k1h)
+- [Building My Own Web Product from 0 to 1 &lpar;1&rpar;: Defining Requirements &amp; Feature Analysis](https://dev.to/stringzwb/building-my-own-web-product-from-0-to-1-1-defining-requirements-feature-analysis-51n4)
 <!-- BLOG-POST-LIST:END -->
 
 
