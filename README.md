@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Scalable Navigation System for a 30+ Module Super App](https://dev.to/mrkivan820/building-a-scalable-navigation-system-for-a-30-module-super-app-3deb)
-- [The 80% Automation That Actually Runs](https://dev.to/ryancwynar/the-80-automation-that-actually-runs-4a4)
-- [Unraveling the Power of Database Joins: A Deep Dive into Data Relationships](https://dev.to/vjnvisakh/unraveling-the-power-of-database-joins-a-deep-dive-into-data-relationships-bgb)
-- [The 1% Rule: How Much Should You Risk per Trade?](https://dev.to/skyriss/the-1-rule-how-much-should-you-risk-per-trade-28ok)
+- [Who, What, and Where: A Guide to IAM in Google Cloud &lpar;GCP&rpar;](https://dev.to/realnamehidden1_61/who-what-and-where-a-guide-to-iam-in-google-cloud-gcp-2i40)
+- [Caddy + Cloudflare DNS: Wildcard SSL Without the Pain](https://dev.to/amanshaw4511/caddy-cloudflare-dns-wildcard-ssl-without-the-pain-4fn)
+- [I Built a SaaS App on a Broken Phone with Zero Budget - Here&#39;s What Happened](https://dev.to/microhabit/i-built-a-saas-app-on-a-broken-phone-with-zero-budget-heres-what-happened-14fl)
+- [I Built a Free Privacy-First File Compression Tool with Next.js and WebAssembly](https://dev.to/kinshuk_garg_be1a5e3ac81f/i-built-a-free-privacy-first-file-compression-tool-with-nextjs-and-webassembly-37f8)
 <!-- BLOG-POST-LIST:END -->
 
 
