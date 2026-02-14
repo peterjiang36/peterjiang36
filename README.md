@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Refactoring Can’t Save Bad Architecture](https://dev.to/hilqia_kenda/why-refactoring-cant-save-bad-architecture-17ee)
-- [Dead Simple CI Introduction](https://dev.to/melezhik/dead-simple-ci-introduction-1jh6)
-- [GLPI with Docker + Portainer: Complete Setup Guide &lpar;Self-Hosted IT Asset Management&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/glpi-with-docker-portainer-complete-setup-guide-self-hosted-it-asset-management-234l)
-- [I Slept While My AI Completed 88 Tasks — Here&#39;s What Happened](https://dev.to/yurukusa/i-slept-while-my-ai-completed-88-tasks-heres-what-happened-55ie)
+- [Power of Agent assisted coding and learning to achieve goals faster and cheaper](https://dev.to/darjus_dev/power-of-agent-assisted-coding-and-learning-to-achieve-goals-faster-and-cheaper-2oin)
+- [The &quot;Don&#39;t Be an Asshole&quot; Theory of Career Growth: Why Weak Ties Matter More Than Clean Code](https://dev.to/lentonen/the-dont-be-an-asshole-theory-of-career-growth-why-weak-ties-matter-more-than-clean-code-51bn)
+- [Your Bookmarks Are Trapped — Here&#39;s How to Free Them](https://dev.to/chovy/your-bookmarks-are-trapped-heres-how-to-free-them-c2h)
+- [Compose Your Markdown Workflow: mq Subcommands + Unix Pipes](https://dev.to/harehare/compose-your-markdown-workflow-mq-subcommands-unix-pipes-37ph)
 <!-- BLOG-POST-LIST:END -->
 
 
