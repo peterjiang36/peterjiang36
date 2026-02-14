@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works](https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga)
-- [In many startups, ethics is treated like a policy problem. That approach fails in AI. Because in AI products, ethics is not a document. It&#39;s the integral part of the product.](https://dev.to/jaideepparashar/in-many-startups-ethics-is-treated-like-a-policy-problem-that-approach-fails-in-ai-because-in-ai-2m3g)
-- [AI Ethics in Startups: Why Developers Must Lead](https://dev.to/jaideepparashar/ai-ethics-in-startups-why-developers-must-lead-57cg)
-- [AI News Roundup: GPT-5.2 Makes Physics Discovery, Gemini 3 Deep Think Drops, and an AI Agent Published a Hit Piece](https://dev.to/damogallagher/ai-news-roundup-gpt-52-makes-physics-discovery-gemini-3-deep-think-drops-and-an-ai-agent-445n)
+- [Introducing Beacon: Why AI Agents Need a Social Protocol](https://dev.to/scottcjn/introducing-beacon-why-ai-agents-need-a-social-protocol-1je0)
+- [We’ve leaned on generative AI to make navigating our legacy Angular code less painful. The stats in this blog, like which components are purely legacy versus newly added are analyzed by Claude Code.](https://dev.to/ujja/weve-leaned-on-generative-ai-to-make-navigating-our-legacy-angular-code-less-painful-the-stats-in-54hf)
+- [Powered by Alibaba Cloud, POPUCOM Delivers a Zero-latency Adventure for Players Worldwide](https://dev.to/observabilityguy/powered-by-alibaba-cloud-popucom-delivers-a-zero-latency-adventure-for-players-worldwide-1pe2)
+- [Integrating AI in Web Development: A Practical Approach](https://dev.to/mystrix/integrating-ai-in-web-development-a-practical-approach-4a15)
 <!-- BLOG-POST-LIST:END -->
 
 
