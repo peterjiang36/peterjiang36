@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Zero-Cost Abstractions Deep Dive](https://dev.to/kanywst/rust-zero-cost-abstractions-deep-dive-5a0m)
-- [Chapter 1 — Thinking About Rollback in Distributed Systems Through Three Worlds &lpar;RML-1/2/3&rpar;](https://dev.to/kanaria007/chapter-1-thinking-about-rollback-in-distributed-systems-through-three-worlds-rml-123-30m)
-- [The Worlds of Distributed Systems — Align Your Team’s Mental Model](https://dev.to/kanaria007/the-worlds-of-distributed-systems-align-your-teams-mental-model-4k1h)
-- [Building My Own Web Product from 0 to 1 &lpar;1&rpar;: Defining Requirements &amp; Feature Analysis](https://dev.to/stringzwb/building-my-own-web-product-from-0-to-1-1-defining-requirements-feature-analysis-51n4)
+- [OLSRT: The Runtime I Built on Windows 7 When I Couldn&#39;t Run MSVC &lpar;And Why It Might Be the Last Runtime You&#39;ll Ever Need&rpar;](https://dev.to/javadinteger/olsrt-the-runtime-i-built-on-windows-7-when-i-couldnt-run-msvc-and-why-it-might-be-the-last-oe7)
+- [Let Your OpenClaw Work While You Sleep - And Even Earn for You](https://dev.to/zen7/let-your-openclaw-work-while-you-sleep-and-even-earn-for-you-eb1)
+- [A copy-paste React Carousel from my product UI &lpar;styled-components&rpar;. Full source included, no package required](https://dev.to/bartek_/a-copy-paste-react-carousel-from-my-product-ui-styled-components-full-source-included-no-1172)
+- [Building a Privacy-First Finance App with Laravel 12 and React 19](https://dev.to/victoor/building-a-privacy-first-finance-app-with-laravel-12-and-react-19-2j3d)
 <!-- BLOG-POST-LIST:END -->
 
 
