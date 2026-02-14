@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP/1.1 Compliance Platform](https://dev.to/mda2av/http11-compliance-platform-1co5)
-- [🚨 Why Most Student Backend Projects Fail in Production](https://dev.to/urkushagra/why-most-student-backend-projects-fail-in-production-15ne)
-- [Stop Getting Different Code Every Time You Ask AI — Use a Spec Pattern](https://dev.to/vict00r99/stop-getting-different-code-every-time-you-ask-ai-use-a-spec-pattern-mk8)
-- [Best MCP Gateways to Connect Tools and MCP Servers to Your AI Agent](https://dev.to/kuldeep_paul/best-mcp-gateways-to-connect-tools-and-mcp-servers-to-your-ai-agent-536m)
+- [10 Mistakes You&#39;re making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5)
+- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg)
+- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8)
+- [NDM-TCP: The 100Gbps Ultra-Low Latency Build](https://dev.to/hejhdiss/ndm-tcp-the-100gbps-ultra-low-latency-build-24ie)
 <!-- BLOG-POST-LIST:END -->
 
 
