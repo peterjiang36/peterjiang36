@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Mistakes You&#39;re making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5)
-- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg)
-- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8)
-- [NDM-TCP: The 100Gbps Ultra-Low Latency Build](https://dev.to/hejhdiss/ndm-tcp-the-100gbps-ultra-low-latency-build-24ie)
+- [Going Back to My School: Where My Habits, Goals, and Dreams Were Born](https://dev.to/vigneshwaralingam/going-back-to-my-school-where-my-habits-goals-and-dreams-were-born-3e5b)
+- [When having a better display backfires: fixing &#39;blurry&#39; VLC in Hyprland](https://dev.to/ardur/when-having-a-better-display-backfires-fixing-blurry-vlc-in-hyprland-5aie)
+- [PyScript Language: Running Python Directly in the Browser](https://dev.to/badass_tech-ae2025/pyscript-language-running-python-directly-in-the-browser-3odj)
+- [Why I Built a Newsletter + Podcast Platform That Doesn&#39;t Lock You In](https://dev.to/chovy/why-i-built-a-newsletter-podcast-platform-that-doesnt-lock-you-in-hbk)
 <!-- BLOG-POST-LIST:END -->
 
 
