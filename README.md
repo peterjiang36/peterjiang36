@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem](https://dev.to/huydanggdg/thiet-ke-ngfw-throughput-40gbps-va-waf-waf-throughput-80gbps-khi-bat-cac-tinh-nang-nang-cao-4b4d)
-- [I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper](https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6)
-- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l)
-- [Kaggle Code Competitions Without a Local GPU: GitHub Actions + Kaggle API Cloud Workflow](https://dev.to/yasumorishima/kaggle-code-competitions-without-a-local-gpu-github-actions-kaggle-api-cloud-workflow-m3)
+- [Building a Production CLI Tool to Gamify and Enforce Code Documentation with GitHub Copilot CLI](https://dev.to/mdsaalim/building-a-production-cli-tool-to-gamify-and-enforce-code-documentation-with-github-copilot-cli-1j4m)
+- [🚨 Developer Reality Moment 😅](https://dev.to/flutter_developer/developer-reality-moment-4p1l)
+- [Cara Setup OpenClaw dengan Custom Provider Sumopod](https://dev.to/iqbalbaihaqi/cara-setup-openclaw-dengan-custom-provider-sumopod-2k5h)
+- [I Built a Markdown Editor That Deliberately Does Less](https://dev.to/kyles_light_275be0175609f/i-built-a-markdown-editor-that-deliberately-does-less-1fkh)
 <!-- BLOG-POST-LIST:END -->
 
 
