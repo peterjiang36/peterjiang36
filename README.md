@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase 2.0 Officially Released](https://dev.to/nocobase/nocobase-20-officially-released-24ed)
-- [Build a US Lottery Number Generator with Python and Tkinter](https://dev.to/matetechnologie/build-a-us-lottery-number-generator-with-python-and-tkinter-519m)
-- [The Most Important Tool in Your Dev Stack Is One You&#39;ve Never Heard Of](https://dev.to/theonemohitsharma/the-most-important-tool-in-your-dev-stack-is-one-youve-never-heard-of-47f4)
-- [Launching AgentCost](https://dev.to/kushagra125/launching-agentcost-14lf)
+- [나만의 함수](https://dev.to/koareum/namanyi-hamsu-51fd)
+- [I Built a SaaS to Solve My Own Invoicing Problem — Meet RecurringPress](https://dev.to/orlando_eleydo_1a2de27750/i-built-a-saas-to-solve-my-own-invoicing-problem-meet-recurringpress-13fo)
+- [I don’t hate SQL. I hate metadata friction.](https://dev.to/mattxchir/i-dont-hate-sql-i-hate-metadata-friction-5g01)
+- [Every way to automate a Mac setup, ranked by mass of YAML you&#39;ll write](https://dev.to/fullstackjam/every-way-to-automate-a-mac-setup-ranked-by-mass-of-yaml-youll-write-984)
 <!-- BLOG-POST-LIST:END -->
 
 
