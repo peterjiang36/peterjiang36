@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beijing to Breakfast: Why You Are Reading Yesterday s AI News](https://dev.to/ahgentopps/beijing-to-breakfast-why-you-are-reading-yesterday-s-ai-news-2pm)
-- [It’s easy to believe that authority in AI belongs only to people with elite academic credentials.
-
-That belief is outdated.
-
-In practice, authority in AI is earned through outcomes, clarity, and judgment, not titles.](https://dev.to/jaideepparashar/its-easy-to-believe-that-authority-in-ai-belongs-only-to-people-with-elite-academic-5h14)
-- [From Context to Redux to Zustand: The New Era of React State Management](https://dev.to/asmaa-almadhoun/from-context-to-redux-to-zustand-the-new-era-of-react-state-management-18o9)
-- [How Developers Can Build Authority in AI Without a Fancy Degree](https://dev.to/jaideepparashar/how-developers-can-build-authority-in-ai-without-a-fancy-degree-304)
+- [NocoBase 2.0 Officially Released](https://dev.to/nocobase/nocobase-20-officially-released-24ed)
+- [Build a US Lottery Number Generator with Python and Tkinter](https://dev.to/matetechnologie/build-a-us-lottery-number-generator-with-python-and-tkinter-519m)
+- [The Most Important Tool in Your Dev Stack Is One You&#39;ve Never Heard Of](https://dev.to/theonemohitsharma/the-most-important-tool-in-your-dev-stack-is-one-youve-never-heard-of-47f4)
+- [Launching AgentCost](https://dev.to/kushagra125/launching-agentcost-14lf)
 <!-- BLOG-POST-LIST:END -->
 
 
