@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
-- [Your JSON Schema Is a Prompt - Tips for AWS Bedrock Structured Output](https://dev.to/aws-builders/your-json-schema-is-a-prompt-tips-for-aws-bedrock-structured-output-5aie)
-- [Why I Built GenosDB: The P2P Database That Works Out of the Box](https://dev.to/estebanrfp/why-i-built-genosdb-the-p2p-database-that-works-out-of-the-box-d5i)
-- [Hambugsy: The CLI That Tells You WHO Is Wrong—Your Test or Your Code](https://dev.to/aporkolab/hambugsy-the-cli-that-tells-you-who-is-wrong-your-test-or-your-code-2ncd)
+- [MCP went from &quot;cool spec&quot; to &quot;you probably need this&quot; in about a year](https://dev.to/neubosdevh/mcp-went-from-cool-spec-to-you-probably-need-this-in-about-a-year-9po)
+- [Why AI-Powered IPS Systems Fail and How I Reduced False Positives by 96% Without Blocking Traffic](https://dev.to/mrvenom17/why-ai-powered-ips-systems-fail-and-how-i-reduced-false-positives-by-96-without-blocking-traffic-p0l)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-3d5c)
+- [[Github Discoveries] PeonPing: AI Programming with Warcraft III Voice Prompts, Making Claude Code Less Boring](https://dev.to/white_satomini/github-discoveries-peonping-ai-programming-with-warcraft-iii-voice-prompts-making-claude-code-3g37)
 <!-- BLOG-POST-LIST:END -->
 
 
