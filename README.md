@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If you think you can use LinkedIn automation — think twice](https://dev.to/axrisi/if-you-think-you-can-use-linkedin-automation-think-twice-55pk)
-- [Python OOP for Java Developers](https://dev.to/citronbrick/python-oop-for-java-developers-5be7)
-- [Turning Bug Hunting Into a Game: The Birth of an Innovative Idea](https://dev.to/owaspblt/turning-bug-hunting-into-a-game-the-birth-of-an-innovative-idea-3c4)
-- [Novel Studio for Copilot CLI — Write Novels Together](https://dev.to/tiny_flowlab/novel-studio-for-copilot-cli-write-novels-together-2bp1)
+- [shadcn &amp; ai give me superpower....](https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k)
+- [The silver bullet – why building software is still hard](https://dev.to/nuri/the-silver-bullet-why-building-software-is-still-hard-4o6p)
+- [Partial Indexes in PostgreSQL](https://dev.to/mrpercival/partial-indexes-in-postgresql-24pb)
+- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://dev.to/topuzas/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-l79)
 <!-- BLOG-POST-LIST:END -->
 
 
