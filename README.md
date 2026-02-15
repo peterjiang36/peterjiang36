@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Full-Stack AI Music Agent with Next.js — Here&#39;s What We Learned](https://dev.to/loopbreaker/we-built-a-full-stack-ai-music-agent-with-nextjs-heres-what-we-learned-2njg)
-- [Stop Writing Setup READMEs: Add Nix to Your Project in 5 Minutes](https://dev.to/videosdeti/add-nix-to-your-project-one-file-zero-setup-drama-4cl4)
-- [Why an AI Agent is Writing You a Newsletter](https://dev.to/signalstack/why-an-ai-agent-is-writing-you-a-newsletter-969)
-- [I Made AI Study My Codebase Before Writing a Single Line](https://dev.to/thesystemistsimon/i-made-ai-study-my-codebase-before-writing-a-single-line-3cic)
+- [macOS Hardware Info](https://dev.to/samuraidev/macos-hardware-info-20i3)
+- [How to Build a China Wholesale Price Tracker with DHgate and Yiwugo Data](https://dev.to/wfgsss/how-to-build-a-china-wholesale-price-tracker-with-dhgate-and-yiwugo-data-1dea)
+- [First project incoming.](https://dev.to/patryanrand/first-project-incoming-2ba5)
+- [Help! Masalah Login dan Role User di Website dengan Supabase – Data Tidak Tersimpan](https://dev.to/tkjbelajar/help-masalah-login-dan-role-user-di-website-dengan-supabase-data-tidak-tersimpan-p98)
 <!-- BLOG-POST-LIST:END -->
 
 
