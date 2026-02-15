@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS Hardware Info](https://dev.to/samuraidev/macos-hardware-info-20i3)
-- [How to Build a China Wholesale Price Tracker with DHgate and Yiwugo Data](https://dev.to/wfgsss/how-to-build-a-china-wholesale-price-tracker-with-dhgate-and-yiwugo-data-1dea)
-- [First project incoming.](https://dev.to/patryanrand/first-project-incoming-2ba5)
-- [Help! Masalah Login dan Role User di Website dengan Supabase – Data Tidak Tersimpan](https://dev.to/tkjbelajar/help-masalah-login-dan-role-user-di-website-dengan-supabase-data-tidak-tersimpan-p98)
+- [ASP.NET Core warmup EF Core](https://dev.to/karenpayneoregon/aspnet-core-warmup-ef-core-58gl)
+- [I Built a Browser-Based Terminal with 102 Developer Tools](https://dev.to/arthur_f_cdb8f042da2/i-built-a-browser-based-terminal-with-102-developer-tools-3n6n)
+- [⚡ Beginner-Friendly Guide &#39;Add Binary&#39; - Leetcode Problem 67 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-add-binary-leetcode-problem-67-c-python-javascript-48f7)
+- [We Built Voice Chat That Lives Entirely in Your Terminal &lpar;Yes, Really&rpar;](https://dev.to/_boweii/we-built-voice-chat-that-lives-entirely-in-your-terminal-yes-really-3i9k)
 <!-- BLOG-POST-LIST:END -->
 
 
