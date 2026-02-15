@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are types of SWOT ANALYSIS ?](https://dev.to/e77/what-are-types-of-swot-analysis--43df)
-- [HOSPITAL &amp; PHARMACY DATA ANALYSIS](https://dev.to/dishon_gatambiadd_31a1/hospital-pharmacy-data-analysis-4eoi)
-- [I Built 28 Web Scrapers on Apify — Here&#39;s What I Learned](https://dev.to/vhub_systems_ed5641f65d59/i-built-28-web-scrapers-on-apify-heres-what-i-learned-2ge4)
-- [GitHub Copilot CLI Challenge - estazka.cz](https://dev.to/justondra/github-copilot-cli-challenge-estazkacz-3odn)
+- [When Machines Write](https://dev.to/rawveg/when-machines-write-3pl4)
+- [scry: Security Scanner Built with GitHub Copilot CLI](https://dev.to/johsam_ef/scry-security-scanner-built-with-github-copilot-cli-1dlp)
+- [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o)
+- [The Practical Value of Public Relations Services: Trust, Risk, and Momentum](https://dev.to/sonia_bobrik_1939cdddd79d/the-practical-value-of-public-relations-services-trust-risk-and-momentum-711)
 <!-- BLOG-POST-LIST:END -->
 
 
