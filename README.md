@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot CLI as a Creative Engine: Building My TUI Trilogy](https://dev.to/vukhoi_gvm/copilot-cli-as-a-creative-engine-building-my-tui-trilogy-2l85)
-- [I Spent 3 Months Compressing AI Models So You Don&#39;t Have To – Here&#39;s What I Learned](https://dev.to/darshitp091/i-spent-3-months-compressing-ai-models-so-you-dont-have-to-heres-what-i-learned-d12)
-- [Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern](https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb)
-- [GitGuard: The AI Safety Net for your Repository](https://dev.to/yorky47/gitguard-the-ai-safety-net-for-your-repository-f4c)
+- [If you think you can use LinkedIn automation — think twice](https://dev.to/axrisi/if-you-think-you-can-use-linkedin-automation-think-twice-55pk)
+- [Python OOP for Java Developers](https://dev.to/citronbrick/python-oop-for-java-developers-5be7)
+- [Turning Bug Hunting Into a Game: The Birth of an Innovative Idea](https://dev.to/owaspblt/turning-bug-hunting-into-a-game-the-birth-of-an-innovative-idea-3c4)
+- [Novel Studio for Copilot CLI — Write Novels Together](https://dev.to/tiny_flowlab/novel-studio-for-copilot-cli-write-novels-together-2bp1)
 <!-- BLOG-POST-LIST:END -->
 
 
