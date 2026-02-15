@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [나만의 함수](https://dev.to/koareum/namanyi-hamsu-51fd)
-- [I Built a SaaS to Solve My Own Invoicing Problem — Meet RecurringPress](https://dev.to/orlando_eleydo_1a2de27750/i-built-a-saas-to-solve-my-own-invoicing-problem-meet-recurringpress-13fo)
-- [I don’t hate SQL. I hate metadata friction.](https://dev.to/mattxchir/i-dont-hate-sql-i-hate-metadata-friction-5g01)
-- [Every way to automate a Mac setup, ranked by mass of YAML you&#39;ll write](https://dev.to/fullstackjam/every-way-to-automate-a-mac-setup-ranked-by-mass-of-yaml-youll-write-984)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5205)
+- [MedGuard: Secure Clinical Intelligence](https://dev.to/dhruva_wani_17/medguard-secure-clinical-intelligence-1ei5)
+- [SVG files are everywhere — icons, logos, illustrations, UI graphics...](https://dev.to/mreker/svg-files-are-everywhere-icons-logos-illustrations-ui-graphics-4fg2)
+- [How to Avoid Lowball Offers as a Freelancer &lpar;Without Losing the Client&rpar;](https://dev.to/fairpricework/how-to-avoid-lowball-offers-as-a-freelancer-without-losing-the-client-3kj0)
 <!-- BLOG-POST-LIST:END -->
 
 
