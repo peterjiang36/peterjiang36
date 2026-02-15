@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [shadcn &amp; ai give me superpower....](https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k)
-- [The silver bullet – why building software is still hard](https://dev.to/nuri/the-silver-bullet-why-building-software-is-still-hard-4o6p)
-- [Partial Indexes in PostgreSQL](https://dev.to/mrpercival/partial-indexes-in-postgresql-24pb)
-- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://dev.to/topuzas/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-l79)
+- [Observability II – Server-Side Metrics with Prometheus and Grafana for SFU Health](https://dev.to/deepak_mishra_35863517037/observability-ii-server-side-metrics-with-prometheus-and-grafana-for-sfu-health-44ji)
+- [An Independent backoffice for WordPress?](https://dev.to/giuliopanda/an-independent-backoffice-for-wordpress-24co)
+- [GitHub Copilot CLI Challenge: bt: Modern BLE CLI Tool](https://dev.to/qainsights/github-copilot-cli-challenge-bt-modern-ble-cli-tool-55lk)
+- [Acta Non Verba: Building a GTD Task Manager by Conversation with GitHub Copilot](https://dev.to/alinp25/acta-non-verba-building-a-gtd-task-manager-by-conversation-with-github-copilot-25d8)
 <!-- BLOG-POST-LIST:END -->
 
 
