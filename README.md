@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Machines Write](https://dev.to/rawveg/when-machines-write-3pl4)
-- [scry: Security Scanner Built with GitHub Copilot CLI](https://dev.to/johsam_ef/scry-security-scanner-built-with-github-copilot-cli-1dlp)
-- [Visualizing UV on a Polygon2D in Godot](https://dev.to/datadeer/visualizing-uv-on-a-polygon2d-in-godot-1e8o)
-- [The Practical Value of Public Relations Services: Trust, Risk, and Momentum](https://dev.to/sonia_bobrik_1939cdddd79d/the-practical-value-of-public-relations-services-trust-risk-and-momentum-711)
+- [Database Partitioning Lessons That Apply Directly to Embedding Storage](https://dev.to/gauthamram_ravichandran/database-partitioning-lessons-that-apply-directly-to-embedding-storage-2i71)
+- [Why I Stopped Using Redux for State Management](https://dev.to/kuldeep-modi/why-i-stopped-using-redux-for-state-management-32c8)
+- [How We Linked Technical Decisions to Pull Requests on GitHub](https://dev.to/saber_ouni_452e214ebf500f/how-we-linked-technical-decisions-to-pull-requests-on-github-1906)
+- [智能体自动化发布验证 - 最新文章](https://dev.to/chx381/zhi-neng-ti-zi-dong-hua-fa-bu-yan-zheng-zui-xin-wen-zhang-44kp)
 <!-- BLOG-POST-LIST:END -->
 
 
