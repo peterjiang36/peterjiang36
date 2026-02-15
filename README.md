@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP went from &quot;cool spec&quot; to &quot;you probably need this&quot; in about a year](https://dev.to/neubosdevh/mcp-went-from-cool-spec-to-you-probably-need-this-in-about-a-year-9po)
-- [Why AI-Powered IPS Systems Fail and How I Reduced False Positives by 96% Without Blocking Traffic](https://dev.to/mrvenom17/why-ai-powered-ips-systems-fail-and-how-i-reduced-false-positives-by-96-without-blocking-traffic-p0l)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-3d5c)
-- [[Github Discoveries] PeonPing: AI Programming with Warcraft III Voice Prompts, Making Claude Code Less Boring](https://dev.to/white_satomini/github-discoveries-peonping-ai-programming-with-warcraft-iii-voice-prompts-making-claude-code-3g37)
+- [Copilot CLI as a Creative Engine: Building My TUI Trilogy](https://dev.to/vukhoi_gvm/copilot-cli-as-a-creative-engine-building-my-tui-trilogy-2l85)
+- [I Spent 3 Months Compressing AI Models So You Don&#39;t Have To – Here&#39;s What I Learned](https://dev.to/darshitp091/i-spent-3-months-compressing-ai-models-so-you-dont-have-to-heres-what-i-learned-d12)
+- [Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern](https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb)
+- [GitGuard: The AI Safety Net for your Repository](https://dev.to/yorky47/gitguard-the-ai-safety-net-for-your-repository-f4c)
 <!-- BLOG-POST-LIST:END -->
 
 
