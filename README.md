@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Benchmarked 4 AI API Strategies With Real Money — The Results Changed How We Think About Model Selection](https://dev.to/robinbanner/we-benchmarked-4-ai-api-strategies-with-real-money-the-results-changed-how-we-think-about-model-5coa)
-- [What Happens After the Hero? The Section That Decides If Users Stay](https://dev.to/bhavin-allinonetools/what-happens-after-the-hero-the-section-that-decides-if-users-stay-2hm)
-- [AI Tech Trends 2026: Architectures, Efficiency, and Emerging Practices](https://dev.to/chx381/ai-tech-trends-2026-architectures-efficiency-and-emerging-practices-3o18)
-- [Custom software development: a scoping playbook that ships](https://dev.to/dharan_8759b7f9825/custom-software-development-a-scoping-playbook-that-ships-3h3m)
+- [Building a Terminal User Interface &lpar;TUI&rpar; for Stellar RPC with Rust and Ratatui](https://dev.to/padparadscho/building-a-terminal-user-interface-tui-for-stellar-rpc-with-rust-and-ratatui-1529)
+- [I Built an AST-Based Tool to Migrate CSS to Tailwind for React &lpar;like frameworks&rpar;](https://dev.to/vyeos/i-built-an-ast-based-tool-to-migrate-css-to-tailwind-for-react-like-frameworks-he2)
+- [AI CTO: Why Ecosystem Vision Beats Algorithm Tunnel Vision](https://dev.to/dr_hernani_costa/ai-cto-why-ecosystem-vision-beats-algorithm-tunnel-vision-55ba)
+- [AI Agents: The $500k Team Member You&#39;re Not Using](https://dev.to/dr_hernani_costa/ai-agents-the-500k-team-member-youre-not-using-28i7)
 <!-- BLOG-POST-LIST:END -->
 
 
