@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy-Paste WBS Template Library](https://dev.to/_jeongyuhyeon_03de1/copy-paste-wbs-template-library-3ia6)
-- [FixForward: One Command to Go from Broken Build to Ready-to-Merge PR](https://dev.to/stackmasteraliza/fixforward-one-command-to-go-from-broken-build-to-ready-to-merge-pr-167g)
-- [Configure DependencyTrack with Terraform](https://dev.to/bjarnerentz/configure-dependencytrack-with-terraform-32ga)
-- [Your AI Reviewer Has the Same Blind Spots You Do](https://dev.to/theskillsteam/your-ai-reviewer-has-the-same-blind-spots-you-do-1e44)
+- [GitHub Copilot CLI Challenge | Solving Lunch Indecision | Building a Restaurant Slot Picker with GitHub Copilot CLI](https://dev.to/liam_chiu_20df42e754f8cd6/github-copilot-cli-challenge-solving-lunch-indecision-building-a-restaurant-slot-picker-with-mmf)
+- [My AI Broke Out of Its Container — And I Let It](https://dev.to/yujisuzuki/my-ai-broke-out-of-its-container-and-i-let-it-4dkh)
+- [What If Your A11y Linter Could Actually Fix the Bugs It Found?](https://dev.to/safvantsy/what-if-your-a11y-linter-could-actually-fix-the-bugs-it-found-4coe)
+- [Flaky Tests Are Not a Testing Problem. They&#39;re a Feedback Loop You Broke.](https://dev.to/microseyuyu/flaky-tests-are-not-a-testing-problem-theyre-a-feedback-loop-you-broke-8j5)
 <!-- BLOG-POST-LIST:END -->
 
 
