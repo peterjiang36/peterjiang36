@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Diario de una builder: Feature Engineering](https://dev.to/aws-builders/diario-de-una-builder-feature-engineering-4pg8)
-- [Building a Digital Docent: Master Agentic Vision with Gemini 3](https://dev.to/railsstudent/building-a-digital-docent-master-agentic-vision-with-gemini-3-20i1)
-- [From Zero to Ranked: Building a High-Performance NBA Player Randomizer with Next.js 14 &amp; Cloudflare](https://dev.to/focss/from-zero-to-ranked-building-a-high-performance-nba-player-randomizer-with-nextjs-14-cloudflare-5f1i)
-- [Olio AI: Promptless AI Product Photography – Built with GitHub Copilot CLI](https://dev.to/mashraf_aiman/olio-ai-promptless-ai-product-photography-built-with-github-copilot-cli-hh9)
+- [Beijing to Breakfast: Why You Are Reading Yesterday s AI News](https://dev.to/ahgentopps/beijing-to-breakfast-why-you-are-reading-yesterday-s-ai-news-2pm)
+- [It’s easy to believe that authority in AI belongs only to people with elite academic credentials.
+
+That belief is outdated.
+
+In practice, authority in AI is earned through outcomes, clarity, and judgment, not titles.](https://dev.to/jaideepparashar/its-easy-to-believe-that-authority-in-ai-belongs-only-to-people-with-elite-academic-5h14)
+- [From Context to Redux to Zustand: The New Era of React State Management](https://dev.to/asmaa-almadhoun/from-context-to-redux-to-zustand-the-new-era-of-react-state-management-18o9)
+- [How Developers Can Build Authority in AI Without a Fancy Degree](https://dev.to/jaideepparashar/how-developers-can-build-authority-in-ai-without-a-fancy-degree-304)
 <!-- BLOG-POST-LIST:END -->
 
 
