@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Core warmup EF Core](https://dev.to/karenpayneoregon/aspnet-core-warmup-ef-core-58gl)
-- [I Built a Browser-Based Terminal with 102 Developer Tools](https://dev.to/arthur_f_cdb8f042da2/i-built-a-browser-based-terminal-with-102-developer-tools-3n6n)
-- [⚡ Beginner-Friendly Guide &#39;Add Binary&#39; - Leetcode Problem 67 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-add-binary-leetcode-problem-67-c-python-javascript-48f7)
-- [We Built Voice Chat That Lives Entirely in Your Terminal &lpar;Yes, Really&rpar;](https://dev.to/_boweii/we-built-voice-chat-that-lives-entirely-in-your-terminal-yes-really-3i9k)
+- [Diario de una builder: Feature Engineering](https://dev.to/aws-builders/diario-de-una-builder-feature-engineering-4pg8)
+- [Building a Digital Docent: Master Agentic Vision with Gemini 3](https://dev.to/railsstudent/building-a-digital-docent-master-agentic-vision-with-gemini-3-20i1)
+- [From Zero to Ranked: Building a High-Performance NBA Player Randomizer with Next.js 14 &amp; Cloudflare](https://dev.to/focss/from-zero-to-ranked-building-a-high-performance-nba-player-randomizer-with-nextjs-14-cloudflare-5f1i)
+- [Olio AI: Promptless AI Product Photography – Built with GitHub Copilot CLI](https://dev.to/mashraf_aiman/olio-ai-promptless-ai-product-photography-built-with-github-copilot-cli-hh9)
 <!-- BLOG-POST-LIST:END -->
 
 
