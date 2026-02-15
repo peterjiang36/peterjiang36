@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Terminal User Interface &lpar;TUI&rpar; for Stellar RPC with Rust and Ratatui](https://dev.to/padparadscho/building-a-terminal-user-interface-tui-for-stellar-rpc-with-rust-and-ratatui-1529)
-- [I Built an AST-Based Tool to Migrate CSS to Tailwind for React &lpar;like frameworks&rpar;](https://dev.to/vyeos/i-built-an-ast-based-tool-to-migrate-css-to-tailwind-for-react-like-frameworks-he2)
-- [AI CTO: Why Ecosystem Vision Beats Algorithm Tunnel Vision](https://dev.to/dr_hernani_costa/ai-cto-why-ecosystem-vision-beats-algorithm-tunnel-vision-55ba)
-- [AI Agents: The $500k Team Member You&#39;re Not Using](https://dev.to/dr_hernani_costa/ai-agents-the-500k-team-member-youre-not-using-28i7)
+- [What are types of SWOT ANALYSIS ?](https://dev.to/e77/what-are-types-of-swot-analysis--43df)
+- [HOSPITAL &amp; PHARMACY DATA ANALYSIS](https://dev.to/dishon_gatambiadd_31a1/hospital-pharmacy-data-analysis-4eoi)
+- [I Built 28 Web Scrapers on Apify — Here&#39;s What I Learned](https://dev.to/vhub_systems_ed5641f65d59/i-built-28-web-scrapers-on-apify-heres-what-i-learned-2ge4)
+- [GitHub Copilot CLI Challenge - estazka.cz](https://dev.to/justondra/github-copilot-cli-challenge-estazkacz-3odn)
 <!-- BLOG-POST-LIST:END -->
 
 
