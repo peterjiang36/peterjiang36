@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Drift CLI - Terminal-Native AI Assistant for Safe Command Execution](https://dev.to/a_elhaag/drift-cli-terminal-native-ai-assistant-for-safe-command-execution-4m4n)
-- [O que é Kurbenetes](https://dev.to/ikauedev/o-que-e-kurbenetes-1nge)
-- [DevFlow - Developer Workflow Intelligence Built with GitHub Copilot CLI](https://dev.to/mr-ahtashamulhaq/devflow-developer-workflow-intelligence-built-with-github-copilot-cli-1g4k)
-- [Offline-First Apps Without Firebase: A P2P Approach With GenosDB](https://dev.to/estebanrfp/offline-first-apps-without-firebase-a-p2p-approach-with-genosdb-51ec)
+- [Your Telegram Bot&#39;s Voice Messages Are Missing Speed Control. Here&#39;s the Fix.](https://dev.to/turtleand/your-telegram-bots-voice-messages-are-missing-speed-control-heres-the-fix-13hm)
+- [Developer CI Dev Stage Production](https://dev.to/jumptotech/developer-ci-dev-stage-production-4gi3)
+- [Scraping at Warp Speed: Parallelism vs. Concurrency](https://dev.to/zilton7/scraping-at-warp-speed-parallelism-vs-concurrency-4of2)
+- [I Built a Personality Test for Vibe Coding](https://dev.to/devakone/i-built-a-personality-test-for-vibe-coding-11cf)
 <!-- BLOG-POST-LIST:END -->
 
 
