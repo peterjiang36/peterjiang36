@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript in 2026: 11 Under-the-Radar Browser APIs](https://dev.to/quentin_merle/javascript-in-2026-11-under-the-radar-browser-apis-27gh)
-- [Would You Trust an AI With Production AWS?](https://dev.to/suliman_abdulrazzaq_14907/would-you-trust-an-ai-with-production-aws-n4l)
-- [Angular: HTTP Caching with RxJS shareReplay](https://dev.to/gramli/angular-http-caching-with-rxjs-sharereplay-3mm0)
-- [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih)
+- [How I built an audio-based Social Media App in days using agentic coding and Open Source Cloud](https://dev.to/juiceandthejoe/how-i-built-an-audio-based-social-media-app-in-days-using-agentic-coding-and-open-source-cloud-1n34)
+- [Why Enterprise Automation Fails at Scale &lpar;And It’s Not a Technology Problem&rpar;](https://dev.to/sip_mjb/why-enterprise-automation-fails-at-scale-and-its-not-a-technology-problem-21ip)
+- [Somnia On-Chain Reactivity](https://dev.to/kalidecoder/somnia-on-chain-reactivity-2a2i)
+- [AI Agents Run Unsandboxed Code — How to Fix It &lpar;2026&rpar;](https://dev.to/tan_genie_6a51065da7b63b6/ai-agents-run-unsandboxed-code-how-to-fix-it-2026-1np4)
 <!-- BLOG-POST-LIST:END -->
 
 
