@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP for Agents: The Security Gap Most Teams Miss](https://dev.to/memgraphdb/mcp-for-agents-the-security-gap-most-teams-miss-2nib)
-- [When Systems Fail, Trust Is the Real Incident: A Practical Guide to Communication for Engineers and Founders](https://dev.to/sonia_bobrik_1939cdddd79d/when-systems-fail-trust-is-the-real-incident-a-practical-guide-to-communication-for-engineers-and-mdm)
-- [DoorDash 26NG Interview Experience | Real Questions &amp; Answers from a Recent Candidate](https://dev.to/programhelp-cs/doordash-26ng-interview-experience-real-questions-answers-from-a-recent-candidate-12h8)
-- [Train Your AI Agent to Write Production-Ready Playwright Tests](https://dev.to/testdino01/train-your-ai-agent-to-write-production-ready-playwright-tests-3amj)
+- [Javascript in 2026: 11 Under-the-Radar Browser APIs](https://dev.to/quentin_merle/javascript-in-2026-11-under-the-radar-browser-apis-27gh)
+- [Would You Trust an AI With Production AWS?](https://dev.to/suliman_abdulrazzaq_14907/would-you-trust-an-ai-with-production-aws-n4l)
+- [Angular: HTTP Caching with RxJS shareReplay](https://dev.to/gramli/angular-http-caching-with-rxjs-sharereplay-3mm0)
+- [Nike Was Right: The Only Coding Advice You Actually Need](https://dev.to/maame-codes/nike-was-right-the-only-coding-advice-you-actually-need-1cih)
 <!-- BLOG-POST-LIST:END -->
 
 
