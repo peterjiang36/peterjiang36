@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.6 und GPT-5.3 Codex: Was deutsche Unternehmen jetzt wissen müssen](https://dev.to/janealesi/claude-opus-46-und-gpt-53-codex-was-deutsche-unternehmen-jetzt-wissen-mussen-3p0f)
-- [CLI Tool that analyzes git repos and generates beautiful documentation!](https://dev.to/julsr_mx/cli-tool-that-analyzes-git-repos-and-generates-beautiful-documentation-4e47)
-- [The Secret Life of Python: Truthiness and Falsy Values](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-truthiness-and-falsy-values-3min)
-- [Is AI Taking Our Jobs — or Just Changing the Role of Software Developers?](https://dev.to/deepank_pant_85007c930fcb/is-ai-taking-our-jobs-or-just-changing-the-role-of-software-developers-5cdg)
+- [Why Learning AI Ops Will Give You a Competitive Edge in Any Interview](https://dev.to/jaideepparashar/why-learning-ai-ops-will-give-you-a-competitive-edge-in-any-interview-4flg)
+- [LucidClip — Building a production-grade desktop clipboard manager with faster iteration using GitHub Copilot CLI](https://dev.to/ethiel97/lucidclip-building-a-production-grade-desktop-clipboard-manager-with-faster-iteration-using-4o3n)
+- [How Boredom + A New PC Led to a 64x Faster Prime Sieve in Rust &lpar;The &quot;Dopamine optimization&quot; Story&rpar;](https://dev.to/whisprer/how-boredom-a-new-pc-led-to-a-64x-faster-prime-sieve-in-rust-the-dopamine-optimization-story-1mj2)
+- [I Gave an AI Full Autonomy Over My Business. Then I Made It Argue With Itself About Why.](https://dev.to/wsdevguy/i-gave-an-ai-full-autonomy-over-my-business-then-i-made-it-argue-with-itself-about-why-34hi)
 <!-- BLOG-POST-LIST:END -->
 
 
