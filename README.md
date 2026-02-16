@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
-- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
-- [React Compound Components: The &quot;Build Your Own Adventure&quot; Pattern](https://dev.to/masudursourav/react-compound-components-the-build-your-own-adventure-pattern-2dff)
-- [Culture Trap: Why Your DevOps Transformation is Failing](https://dev.to/sebs/culture-trap-why-your-devops-transformation-is-failing-22l6)
+- [MCP for Agents: The Security Gap Most Teams Miss](https://dev.to/memgraphdb/mcp-for-agents-the-security-gap-most-teams-miss-2nib)
+- [When Systems Fail, Trust Is the Real Incident: A Practical Guide to Communication for Engineers and Founders](https://dev.to/sonia_bobrik_1939cdddd79d/when-systems-fail-trust-is-the-real-incident-a-practical-guide-to-communication-for-engineers-and-mdm)
+- [DoorDash 26NG Interview Experience | Real Questions &amp; Answers from a Recent Candidate](https://dev.to/programhelp-cs/doordash-26ng-interview-experience-real-questions-answers-from-a-recent-candidate-12h8)
+- [Train Your AI Agent to Write Production-Ready Playwright Tests](https://dev.to/testdino01/train-your-ai-agent-to-write-production-ready-playwright-tests-3amj)
 <!-- BLOG-POST-LIST:END -->
 
 
