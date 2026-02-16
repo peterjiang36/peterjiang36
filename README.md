@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built an audio-based Social Media App in days using agentic coding and Open Source Cloud](https://dev.to/juiceandthejoe/how-i-built-an-audio-based-social-media-app-in-days-using-agentic-coding-and-open-source-cloud-1n34)
-- [Why Enterprise Automation Fails at Scale &lpar;And It’s Not a Technology Problem&rpar;](https://dev.to/sip_mjb/why-enterprise-automation-fails-at-scale-and-its-not-a-technology-problem-21ip)
-- [Somnia On-Chain Reactivity](https://dev.to/kalidecoder/somnia-on-chain-reactivity-2a2i)
-- [AI Agents Run Unsandboxed Code — How to Fix It &lpar;2026&rpar;](https://dev.to/tan_genie_6a51065da7b63b6/ai-agents-run-unsandboxed-code-how-to-fix-it-2026-1np4)
+- [How Many Rs Are There Really In Strawberry? AI Is So Stupid](https://dev.to/brunellyai/how-many-rs-are-there-really-in-strawberry-ai-is-so-stupid-2f5k)
+- [I built 19 free developer tools because the existing ones are terrible](https://dev.to/shane_burrell_b278982c77a/i-built-19-free-developer-tools-because-the-existing-ones-are-terrible-2pp1)
+- [Puppet with Foreman - Populating the master with R10k](https://dev.to/12ww1160/puppet-with-foreman-populating-the-master-with-r10k-41g5)
+- [8 Challenges I Faced Building a Complex Visual Editor in React](https://dev.to/x_kernel27795/8-challenges-i-faced-building-a-complex-visual-editor-in-react-3chl)
 <!-- BLOG-POST-LIST:END -->
 
 
