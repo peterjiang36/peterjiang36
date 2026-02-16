@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redefining Event-Driven Architecture on Google Cloud](https://dev.to/gde/redefining-event-driven-architecture-on-google-cloud-5abj)
-- [Agent First, Human Simple](https://dev.to/kasrazunnaiyyer/agent-first-human-simple-a-new-product-design-framework-for-the-autonomous-agent-era-1m30)
-- [Speech-to-Text on any Field in 70 Lines of Stimulus &lpar;Zero Backend!&rpar;](https://dev.to/seryllns_/speech-to-text-on-any-field-in-70-lines-of-stimulus-zero-backend-38ao)
-- [💡 🔄 CRISP-DM en la práctica: cuando comienzas un proyecto de datos](https://dev.to/irasema_trejo/crisp-dm-en-la-practica-cuando-comienzas-un-proyecto-de-datos-1dnb)
+- [Why Your AI Tools Are Failing &lpar;And How Zod Fixes Them&rpar;](https://dev.to/programmingcentral/why-your-ai-tools-are-failing-and-how-zod-fixes-them-4i7a)
+- [How to Use Markdown Files to Orchestrate Multi-File Changes in GitHub Copilot](https://dev.to/supreet_pradhan/how-to-use-markdown-files-to-orchestrate-multi-file-changes-in-github-copilot-5him)
+- [How I Use Obsidian for Everything &lpar;Almost&rpar;](https://dev.to/mvaldes/how-i-use-obsidian-for-everything-almost-2paf)
+- [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k)
 <!-- BLOG-POST-LIST:END -->
 
 
