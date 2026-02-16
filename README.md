@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Telegram Bot&#39;s Voice Messages Are Missing Speed Control. Here&#39;s the Fix.](https://dev.to/turtleand/your-telegram-bots-voice-messages-are-missing-speed-control-heres-the-fix-13hm)
-- [Developer CI Dev Stage Production](https://dev.to/jumptotech/developer-ci-dev-stage-production-4gi3)
-- [Scraping at Warp Speed: Parallelism vs. Concurrency](https://dev.to/zilton7/scraping-at-warp-speed-parallelism-vs-concurrency-4of2)
-- [I Built a Personality Test for Vibe Coding](https://dev.to/devakone/i-built-a-personality-test-for-vibe-coding-11cf)
+- [🔄 Beginner-Friendly Guide &#39;Reverse Bits&#39; - Problem 190 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reverse-bits-problem-190-c-python-javascript-1n3f)
+- [Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍](https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0)
+- [DEALZ: Save and browse local promos and deals.](https://dev.to/hicknughes_87/dealz-save-and-browse-local-promos-and-deals-43ll)
+- [Building Unravel: Learning RAG Through Visualization](https://dev.to/jvorndran/building-unravel-learning-rag-through-visualization-26o)
 <!-- BLOG-POST-LIST:END -->
 
 
