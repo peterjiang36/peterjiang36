@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Tools Are Failing &lpar;And How Zod Fixes Them&rpar;](https://dev.to/programmingcentral/why-your-ai-tools-are-failing-and-how-zod-fixes-them-4i7a)
-- [How to Use Markdown Files to Orchestrate Multi-File Changes in GitHub Copilot](https://dev.to/supreet_pradhan/how-to-use-markdown-files-to-orchestrate-multi-file-changes-in-github-copilot-5him)
-- [How I Use Obsidian for Everything &lpar;Almost&rpar;](https://dev.to/mvaldes/how-i-use-obsidian-for-everything-almost-2paf)
-- [Building a Native-Feeling Theme System in SwiftUI](https://dev.to/rozd/building-a-native-feeling-theme-system-in-swiftui-h1k)
+- [Getting Started with Ollama: From Installation to Testing](https://dev.to/raziq_din_bd0274cc2ac748b/getting-started-with-ollama-from-installation-to-testing-281o)
+- [Fine-Tuning LLMs - The Complete Practical Guide 🎯](https://dev.to/soumia_g_9dc322fc4404cecd/fine-tuning-llms-the-complete-practical-guide-aa7)
+- [TypeScript: Stop Writing JavaScript With Extra Steps](https://dev.to/aishwarya_br/typescript-stop-writing-javascript-with-extra-steps-3eja)
+- [Leadership Through Technical Crisis Management: A Systems-Based Framework for Engineering Leaders](https://dev.to/topuzas/leadership-through-technical-crisis-management-a-systems-based-framework-for-engineering-leaders-5agk)
 <!-- BLOG-POST-LIST:END -->
 
 
