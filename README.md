@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chatbot to Medical AI: How I Used RAG, FAISS &amp; Mistral to Ground AI in Reality](https://dev.to/prateek_mangalgi/from-chatbot-to-medical-ai-how-i-used-rag-faiss-mistral-to-ground-ai-in-reality-5f0d)
-- [I Asked AI to Build Me a Pokémon Game in the Browser. It Delivered a Full AAA RPG.](https://dev.to/bingkahu/i-asked-ai-to-build-me-a-pokemon-game-in-the-browser-it-delivered-a-full-aaa-rpg-1h0k)
-- [Inertia.js Silently Breaks Your App](https://dev.to/danieltofan/inertiajs-silently-breaks-your-app-oi8)
-- [How a Small OSINT Team Turned the Epstein Files Dump Into Actionable Intelligence](https://dev.to/sampseiol1/how-a-small-osint-team-turned-the-epstein-files-dump-into-actionable-intelligence-3c9m)
+- [AV1 vs VP9 vs VP8: Codec Comparison Guide 2025](https://dev.to/red5/av1-vs-vp9-vs-vp8-codec-comparison-guide-2025-497j)
+- [Solving Cross-Origin Cookies](https://dev.to/freddster14/solving-cross-origin-cookies-54j8)
+- [Why Build MCP? 4 Levels of Adoption — From API Access to Company-Wide Semantic Layer](https://dev.to/michael_rakutko/why-build-mcp-4-levels-of-adoption-from-api-access-to-company-wide-semantic-layer-im6)
+- [Stop Fighting Your JSON: Meet BracketView, the AI-Powered Tool Every Developer Needs 🚀](https://dev.to/jameelshaikh/stop-fighting-your-json-meet-bracketview-the-ai-powered-tool-every-developer-needs-95n)
 <!-- BLOG-POST-LIST:END -->
 
 
