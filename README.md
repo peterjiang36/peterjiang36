@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AV1 vs VP9 vs VP8: Codec Comparison Guide 2025](https://dev.to/red5/av1-vs-vp9-vs-vp8-codec-comparison-guide-2025-497j)
-- [Solving Cross-Origin Cookies](https://dev.to/freddster14/solving-cross-origin-cookies-54j8)
-- [Why Build MCP? 4 Levels of Adoption — From API Access to Company-Wide Semantic Layer](https://dev.to/michael_rakutko/why-build-mcp-4-levels-of-adoption-from-api-access-to-company-wide-semantic-layer-im6)
-- [Stop Fighting Your JSON: Meet BracketView, the AI-Powered Tool Every Developer Needs 🚀](https://dev.to/jameelshaikh/stop-fighting-your-json-meet-bracketview-the-ai-powered-tool-every-developer-needs-95n)
+- [Redefining Event-Driven Architecture on Google Cloud](https://dev.to/gde/redefining-event-driven-architecture-on-google-cloud-5abj)
+- [Agent First, Human Simple](https://dev.to/kasrazunnaiyyer/agent-first-human-simple-a-new-product-design-framework-for-the-autonomous-agent-era-1m30)
+- [Speech-to-Text on any Field in 70 Lines of Stimulus &lpar;Zero Backend!&rpar;](https://dev.to/seryllns_/speech-to-text-on-any-field-in-70-lines-of-stimulus-zero-backend-38ao)
+- [💡 🔄 CRISP-DM en la práctica: cuando comienzas un proyecto de datos](https://dev.to/irasema_trejo/crisp-dm-en-la-practica-cuando-comienzas-un-proyecto-de-datos-1dnb)
 <!-- BLOG-POST-LIST:END -->
 
 
