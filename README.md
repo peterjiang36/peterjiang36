@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Generate ER Diagrams from SharePoint ERD Generator](https://dev.to/reire_shake/automatically-generate-er-diagrams-from-sharepoint-erd-generator-439)
-- [JavaScript’s Weirdest Comparison](https://dev.to/twisterrl/javascripts-weirdest-comparison-i29)
-- [Business Advantages of Using Nuxt](https://dev.to/jacobandrewsky/business-advantages-of-using-nuxt-51j2)
-- [XMovieHub: การออกแบบแพลตฟอร์มวิดีโอแบบมีโครงสร้าง เพื่อการค้นหาที่มีประสิทธิภาพ](https://dev.to/xmoviehub/xmoviehub-kaarkaebbaephltfrmwidiioaebbmiiokhrngsraang-ephuuekaarkhnhaathiimiiprasiththiphaaph-46gn)
+- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
+- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
+- [React Compound Components: The &quot;Build Your Own Adventure&quot; Pattern](https://dev.to/masudursourav/react-compound-components-the-build-your-own-adventure-pattern-2dff)
+- [Culture Trap: Why Your DevOps Transformation is Failing](https://dev.to/sebs/culture-trap-why-your-devops-transformation-is-failing-22l6)
 <!-- BLOG-POST-LIST:END -->
 
 
