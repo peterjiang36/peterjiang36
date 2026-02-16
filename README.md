@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Rs Are There Really In Strawberry? AI Is So Stupid](https://dev.to/brunellyai/how-many-rs-are-there-really-in-strawberry-ai-is-so-stupid-2f5k)
-- [I built 19 free developer tools because the existing ones are terrible](https://dev.to/shane_burrell_b278982c77a/i-built-19-free-developer-tools-because-the-existing-ones-are-terrible-2pp1)
-- [Puppet with Foreman - Populating the master with R10k](https://dev.to/12ww1160/puppet-with-foreman-populating-the-master-with-r10k-41g5)
-- [8 Challenges I Faced Building a Complex Visual Editor in React](https://dev.to/x_kernel27795/8-challenges-i-faced-building-a-complex-visual-editor-in-react-3chl)
+- [Your AI Agent Knows Your Passwords — Here&#39;s How I Fixed It](https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd)
+- [Why I Rewrote My Email Editor from Scratch: From Blocks to Atoms Rewrite](https://dev.to/antonreshetov/why-i-rewrote-my-email-editor-from-scratch-from-blocks-to-atoms-rewrite-11n8)
+- [Building Failure Intelligence for AI Agents](https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d)
+- [Deploying Unity Builds to Google Play Store with Buildalon](https://dev.to/virtualmaker/deploying-unity-builds-to-google-play-store-with-buildalon-4d6)
 <!-- BLOG-POST-LIST:END -->
 
 
