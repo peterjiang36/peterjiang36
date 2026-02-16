@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Learning AI Ops Will Give You a Competitive Edge in Any Interview](https://dev.to/jaideepparashar/why-learning-ai-ops-will-give-you-a-competitive-edge-in-any-interview-4flg)
-- [LucidClip — Building a production-grade desktop clipboard manager with faster iteration using GitHub Copilot CLI](https://dev.to/ethiel97/lucidclip-building-a-production-grade-desktop-clipboard-manager-with-faster-iteration-using-4o3n)
-- [How Boredom + A New PC Led to a 64x Faster Prime Sieve in Rust &lpar;The &quot;Dopamine optimization&quot; Story&rpar;](https://dev.to/whisprer/how-boredom-a-new-pc-led-to-a-64x-faster-prime-sieve-in-rust-the-dopamine-optimization-story-1mj2)
-- [I Gave an AI Full Autonomy Over My Business. Then I Made It Argue With Itself About Why.](https://dev.to/wsdevguy/i-gave-an-ai-full-autonomy-over-my-business-then-i-made-it-argue-with-itself-about-why-34hi)
+- [Git_TerraCLI](https://dev.to/aravind_d/gitterracli-46o5)
+- [TraceCLI - The Terminal&#39;s Black Box for Your Digital Life](https://dev.to/haseebarshad/tracecli-the-terminals-black-box-for-your-digital-life-f19)
+- [Looking Back, Looking Forward - my time capsule](https://dev.to/janosvajda/looking-back-looking-forward-my-time-capsule-4poi)
+- [[Boost]](https://dev.to/marabesi/-57bb)
 <!-- BLOG-POST-LIST:END -->
 
 
