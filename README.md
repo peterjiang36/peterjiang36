@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
-- [IPv4: The Foundation of Networking](https://dev.to/araiz/ipv4-the-foundation-of-networking-50in)
-- [AutoFinance: Your AI Financial Command Center, right inside the terminal!](https://dev.to/crypticsaiyan/autofinance-your-ai-financial-command-center-right-inside-the-terminal-5anl)
-- [I Open-Sourced a 67-file GitHub Enterprise Playbook — Why and How I Built It](https://dev.to/hagishun/i-open-sourced-a-67-file-github-enterprise-playbook-why-and-how-i-built-it-2a1b)
+- [ScanVault](https://dev.to/ronakguliani/scanvault-5gn9)
+- [Sliding Window Technique — Complete Guide &lpar;DSA&rpar;](https://dev.to/abhishek-nexgen-dev/sliding-window-technique-complete-guide-dsa-1cla)
+- [Polymarket Trading Bot : Real-Time Arbitrage, Momentum Strategies, and Production Features &lpar;Open Source&rpar;](https://dev.to/benjamin_martin_749c1d57f/polymarket-trading-bot-real-time-arbitrage-momentum-strategies-and-production-features-open-17m1)
+- [Katiba Mobile App: Gamified mobile app for learning Kenya&#39;s Constitution.](https://dev.to/qurlarmah/katiba-mobile-app-gamified-mobile-app-for-learning-kenyas-constitution-ek9)
 <!-- BLOG-POST-LIST:END -->
 
 
