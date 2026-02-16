@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Knows Your Passwords — Here&#39;s How I Fixed It](https://dev.to/demojacob/your-ai-agent-knows-your-passwords-heres-how-i-fixed-it-4kcd)
-- [Why I Rewrote My Email Editor from Scratch: From Blocks to Atoms Rewrite](https://dev.to/antonreshetov/why-i-rewrote-my-email-editor-from-scratch-from-blocks-to-atoms-rewrite-11n8)
-- [Building Failure Intelligence for AI Agents](https://dev.to/prateekdalal/building-failure-intelligence-for-ai-agents-170d)
-- [Deploying Unity Builds to Google Play Store with Buildalon](https://dev.to/virtualmaker/deploying-unity-builds-to-google-play-store-with-buildalon-4d6)
+- [From Chatbot to Medical AI: How I Used RAG, FAISS &amp; Mistral to Ground AI in Reality](https://dev.to/prateek_mangalgi/from-chatbot-to-medical-ai-how-i-used-rag-faiss-mistral-to-ground-ai-in-reality-5f0d)
+- [I Asked AI to Build Me a Pokémon Game in the Browser. It Delivered a Full AAA RPG.](https://dev.to/bingkahu/i-asked-ai-to-build-me-a-pokemon-game-in-the-browser-it-delivered-a-full-aaa-rpg-1h0k)
+- [Inertia.js Silently Breaks Your App](https://dev.to/danieltofan/inertiajs-silently-breaks-your-app-oi8)
+- [How a Small OSINT Team Turned the Epstein Files Dump Into Actionable Intelligence](https://dev.to/sampseiol1/how-a-small-osint-team-turned-the-epstein-files-dump-into-actionable-intelligence-3c9m)
 <!-- BLOG-POST-LIST:END -->
 
 
