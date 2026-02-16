@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ScanVault](https://dev.to/ronakguliani/scanvault-5gn9)
-- [Sliding Window Technique — Complete Guide &lpar;DSA&rpar;](https://dev.to/abhishek-nexgen-dev/sliding-window-technique-complete-guide-dsa-1cla)
-- [Polymarket Trading Bot : Real-Time Arbitrage, Momentum Strategies, and Production Features &lpar;Open Source&rpar;](https://dev.to/benjamin_martin_749c1d57f/polymarket-trading-bot-real-time-arbitrage-momentum-strategies-and-production-features-open-17m1)
-- [Katiba Mobile App: Gamified mobile app for learning Kenya&#39;s Constitution.](https://dev.to/qurlarmah/katiba-mobile-app-gamified-mobile-app-for-learning-kenyas-constitution-ek9)
+- [BDFL: Benevolent Dictator for Lobster - or - How I met Sam Altman](https://dev.to/quotentiroler/bdfl-benevolent-dictator-for-lobster-or-how-i-met-sam-altman-1k4m)
+- [Confidential Smart Contracts with Oasis Sapphire](https://dev.to/rollingindo/confidential-smart-contracts-with-oasis-sapphire-4nk2)
+- [Kubernetes HPA Not Scaling: Debugging Guide](https://dev.to/aicontentlab/kubernetes-hpa-not-scaling-debugging-guide-4ld7)
+- [CloudFront Signed Cookies Authorization: A Powerful Session-Based Pattern for Private Content on AWS](https://dev.to/mate32/cloudfront-signed-cookies-authorization-a-powerful-session-based-pattern-for-private-content-on-aws-1dm7)
 <!-- BLOG-POST-LIST:END -->
 
 
