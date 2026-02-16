@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Beginner-Friendly Guide &#39;Reverse Bits&#39; - Problem 190 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-reverse-bits-problem-190-c-python-javascript-1n3f)
-- [Mastering Monad Testnet: Automate Your Developer Activity with Python 🐍](https://dev.to/purplepilldev/mastering-monad-testnet-automate-your-developer-activity-with-python-5hi0)
-- [DEALZ: Save and browse local promos and deals.](https://dev.to/hicknughes_87/dealz-save-and-browse-local-promos-and-deals-43ll)
-- [Building Unravel: Learning RAG Through Visualization](https://dev.to/jvorndran/building-unravel-learning-rag-through-visualization-26o)
+- [Claude Opus 4.6 und GPT-5.3 Codex: Was deutsche Unternehmen jetzt wissen müssen](https://dev.to/janealesi/claude-opus-46-und-gpt-53-codex-was-deutsche-unternehmen-jetzt-wissen-mussen-3p0f)
+- [CLI Tool that analyzes git repos and generates beautiful documentation!](https://dev.to/julsr_mx/cli-tool-that-analyzes-git-repos-and-generates-beautiful-documentation-4e47)
+- [The Secret Life of Python: Truthiness and Falsy Values](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-truthiness-and-falsy-values-3min)
+- [Is AI Taking Our Jobs — or Just Changing the Role of Software Developers?](https://dev.to/deepank_pant_85007c930fcb/is-ai-taking-our-jobs-or-just-changing-the-role-of-software-developers-5cdg)
 <!-- BLOG-POST-LIST:END -->
 
 
