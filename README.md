@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git_TerraCLI](https://dev.to/aravind_d/gitterracli-46o5)
-- [TraceCLI - The Terminal&#39;s Black Box for Your Digital Life](https://dev.to/haseebarshad/tracecli-the-terminals-black-box-for-your-digital-life-f19)
-- [Looking Back, Looking Forward - my time capsule](https://dev.to/janosvajda/looking-back-looking-forward-my-time-capsule-4poi)
-- [[Boost]](https://dev.to/marabesi/-57bb)
+- [How a DEV Friend and I Brought Two Avatars to Life](https://dev.to/itsugo/how-a-dev-friend-and-i-brought-two-avatars-to-life-chp)
+- [IPv4: The Foundation of Networking](https://dev.to/araiz/ipv4-the-foundation-of-networking-50in)
+- [AutoFinance: Your AI Financial Command Center, right inside the terminal!](https://dev.to/crypticsaiyan/autofinance-your-ai-financial-command-center-right-inside-the-terminal-5anl)
+- [I Open-Sourced a 67-file GitHub Enterprise Playbook — Why and How I Built It](https://dev.to/hagishun/i-open-sourced-a-67-file-github-enterprise-playbook-why-and-how-i-built-it-2a1b)
 <!-- BLOG-POST-LIST:END -->
 
 
