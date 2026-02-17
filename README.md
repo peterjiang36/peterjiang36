@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Perfect &quot;Side Project&quot; for Programmers - Cooking](https://dev.to/manishpodiyal/the-perfect-side-project-for-programmers-cooking-1607)
-- [Enterprise mobile app development: a strategy-to-release playbook](https://dev.to/dharan_8759b7f9825/enterprise-mobile-app-development-a-strategy-to-release-playbook-3cl8)
-- [WTF is Distributed Streaming Platforms?](https://dev.to/dailybugle33/wtf-is-distributed-streaming-platforms-1gjh)
-- [Automatically Download eSignature Documents Using Webhook Callbacks](https://dev.to/boldsign/automatically-download-esignature-documents-using-webhook-callbacks-247f)
+- [Dashboards: A Study into the nexus between KPI&#39;s, Metrics and Data points in Microsoft Excel](https://dev.to/kahindikv/dashboards-a-study-into-the-nexus-between-kpis-metrics-and-data-points-in-microsoft-excel-4nod)
+- [Access Modifiers in Java](https://dev.to/nanthini_ammu_ac02ad32802/access-modifiers-in-java-14kj)
+- [How I Build an AI-Powered Virtual Try-On For Men’s Clothing Brand](https://dev.to/usama_d14e7149bf47b1/how-i-build-an-ai-powered-virtual-try-on-for-mens-clothing-brand-264f)
+- [10 top Claude Code plugins to use in 2026](https://dev.to/composiodev/10-top-claude-code-plugins-to-use-in-2026-4gn6)
 <!-- BLOG-POST-LIST:END -->
 
 
