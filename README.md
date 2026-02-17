@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open-source tool that records screen + voice bug reports producing AI-ready markdown](https://dev.to/eddiesanjuan/i-built-an-open-source-tool-that-records-screen-voice-bug-reports-producing-ai-ready-markdown-3mmo)
-- [When “MySQL” isn’t actually MySQL](https://dev.to/drupaladmin/when-mysql-isnt-actually-mysql-4o4f)
-- [Robust Network Layer in Swift via Clean Architecture Approach](https://dev.to/pavel_andreev_ios/robust-network-layer-in-swift-via-clean-architecture-approach-42h8)
-- [Checklist: O Setup de Elite para Programadores no macOS](https://dev.to/franciscojdsjr/checklist-o-setup-de-elite-para-programadores-no-macos-42e6)
+- [Method Not Found Fallback](https://dev.to/lizmat/method-not-found-fallback-5cn8)
+- [When One API Means Different Mocks for Each Team - Designing a Distributed WireMock Setup](https://dev.to/ykagano/when-one-api-means-different-mocks-for-each-team-designing-a-distributed-wiremock-setup-25jm)
+- [Choosing the Right Model: GPT vs Claude vs Local &lpar;A Practical Decision Tree&rpar;](https://dev.to/novaelvaris/choosing-the-right-model-gpt-vs-claude-vs-local-a-practical-decision-tree-47pj)
+- [Building QM2: A Modern, Dockerized CLI Quiz Engine with 330+ Tests](https://dev.to/ahalvadzija/building-qm2-a-modern-dockerized-cli-quiz-engine-with-330-tests-2dgc)
 <!-- BLOG-POST-LIST:END -->
 
 
