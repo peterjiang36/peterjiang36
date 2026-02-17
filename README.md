@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you order a pizza on this site? ❌ 99% Can&#39;t](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd)
-- [Happy Lunar New Year! 恭喜發財🐴🏮🧧🧨](https://dev.to/jess/happy-lunar-new-year-gong-xi-fa-cai-3ble)
-- [The Tree Module Functionalities in SQLite](https://dev.to/lovestaco/the-tree-module-functionalities-in-sqlite-7n2)
-- [Building a Privacy-First File Converter That Runs 100% in Your Browser](https://dev.to/ansonchan/building-a-privacy-first-file-converter-that-runs-100-in-your-browser-5g8a)
+- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
+- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
+- [Stepping outside your role - how to gain an edge at work](https://dev.to/adaxelx/stepping-outside-your-role-how-to-gain-an-edge-at-work-58n5)
+- [The Vonage Dev Discussion](https://dev.to/vonagedev/the-vonage-dev-discussion-4h52)
 <!-- BLOG-POST-LIST:END -->
 
 
