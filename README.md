@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WorkSafeBC-oriented workflows without overclaims: structured summaries, careful language](https://dev.to/crisiscoresystems/worksafebc-oriented-workflows-without-overclaims-structured-summaries-careful-language-2n3i)
-- [Could Vibe Coding Be the Missing Communication Link Between PMs and Developers?](https://dev.to/georgekobaidze/could-vibe-coding-be-the-missing-communication-link-between-pms-and-developers-3bch)
-- [AI Agents Can&#39;t Mark Their Own Homework [Case Study]](https://dev.to/dimwiddle/ai-agents-cant-mark-their-own-homework-case-study-26mk)
-- [How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf)
+- [AI Agents Still Can’t Use Your Stack. I Built a Fix.](https://dev.to/theharikrishnanvk/ai-agents-still-cant-use-your-stack-i-built-a-fix-3lgk)
+- [Fix: Eliminating Double Async Validation in TanStack Form &amp; Zod](https://dev.to/albz/fix-eliminating-double-async-validation-in-tanstack-form-zod-2dc)
+- [Azure Weekly: Agentic Cloud Operations and the AI Database Push](https://dev.to/htekdev/azure-weekly-agentic-cloud-operations-and-the-ai-database-push-46d8)
+- [From DAN to AutoDAN-Turbo: The Wild Evolution of AI Jailbreaking 🚀](https://dev.to/alessandro_pignati/from-dan-to-autodan-turbo-the-wild-evolution-of-ai-jailbreaking-c78)
 <!-- BLOG-POST-LIST:END -->
 
 
