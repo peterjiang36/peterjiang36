@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Still Can’t Use Your Stack. I Built a Fix.](https://dev.to/theharikrishnanvk/ai-agents-still-cant-use-your-stack-i-built-a-fix-3lgk)
-- [Fix: Eliminating Double Async Validation in TanStack Form &amp; Zod](https://dev.to/albz/fix-eliminating-double-async-validation-in-tanstack-form-zod-2dc)
-- [Azure Weekly: Agentic Cloud Operations and the AI Database Push](https://dev.to/htekdev/azure-weekly-agentic-cloud-operations-and-the-ai-database-push-46d8)
-- [From DAN to AutoDAN-Turbo: The Wild Evolution of AI Jailbreaking 🚀](https://dev.to/alessandro_pignati/from-dan-to-autodan-turbo-the-wild-evolution-of-ai-jailbreaking-c78)
+- [How I Built an &quot;Agentic&quot; AWS Cost Optimizer &lpar;That Doesn&#39;t Break Production&rpar;](https://dev.to/cloudwiseteam/how-i-built-an-agentic-aws-cost-optimizer-that-doesnt-break-production-d77)
+- [Desacoplamento e Reatividade: Implementando o Design Pattern Observer com Spring Events](https://dev.to/wagnernegrao/desacoplamento-e-reatividade-implementando-o-design-pattern-observer-com-spring-events-2fnd)
+- [How I Ended Up Building a “Gemini Bug Hunter” to Find Vulnerabilities in My Code](https://dev.to/holasoymalva/how-i-ended-up-building-a-gemini-bug-hunter-to-find-vulnerabilities-in-my-code-4m8e)
+- [# DirectShell: I Turned the Accessibility Layer Into a Universal App Interface. No Screenshots. No Vision Models.](https://dev.to/tlrag/-directshell-i-turned-the-accessibility-layer-into-a-universal-app-interface-no-screenshots-no-2457)
 <!-- BLOG-POST-LIST:END -->
 
 
