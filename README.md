@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Compared the True Cost of Freelancing on Every Developer Platform in 2026 — With Actual Code to Calculate Your Real Rate](https://dev.to/jobbers_io_8a6f201f0be4fb/i-compared-the-true-cost-of-freelancing-on-every-developer-platform-in-2026-with-actual-code-to-5baj)
-- [GenosDB: A Solution for Trust in Distributed Systems](https://dev.to/estebanrfp/genosdb-a-solution-for-trust-in-distributed-systems-5dl4)
-- [Part 3: Testing, Documentation &amp; Deployment 🚀](https://dev.to/abdelrahman_adnan/part-3-testing-documentation-deployment-1bek)
-- [The Invisible Layer: Mastering HTTP Caching &lpar;Part 2&rpar;](https://dev.to/peterintech/the-invisible-layer-mastering-http-caching-part-2-31gn)
+- [GenosDB Cellular Mesh: Solving P2P Network Scalability](https://dev.to/estebanrfp/genosdb-cellular-mesh-solving-p2p-network-scalability-4jei)
+- [GenosDB&#39;s New Async Engine: Unlocking Unparalleled Performance and Simplicity in a Real-Time Distributed Database](https://dev.to/estebanrfp/genosdbs-new-async-engine-unlocking-unparalleled-performance-and-simplicity-in-a-real-time-a83)
+- [Static Immutability: How Modern P2P Networks Build Trust Without Servers or Blockchain](https://dev.to/estebanrfp/static-immutability-how-modern-p2p-networks-build-trust-without-servers-or-blockchain-2mn2)
+- [The Philosophy of GenosDB: A Commitment to Code Quality and Sustainability](https://dev.to/estebanrfp/the-philosophy-of-genosdb-a-commitment-to-code-quality-and-sustainability-2k9c)
 <!-- BLOG-POST-LIST:END -->
 
 
