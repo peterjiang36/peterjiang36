@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI That Writes vs AI That Acts: Understanding Generative and Agentic Intelligence](https://dev.to/ashwinraiyani/ai-that-writes-vs-ai-that-acts-understanding-generative-and-agentic-intelligence-ajo)
-- [1.4.0: Authentication and local storage](https://dev.to/sam_march/140-authentication-and-local-storage-3pa0)
-- [How to determine whether the route comes from Navigation or router on the target page?](https://dev.to/harmonyos/how-to-determine-whether-the-route-comes-from-navigation-or-router-on-the-target-page-36pc)
-- [7.Deploy ReplicaSet in Kubernetes Cluster](https://dev.to/thukhakyawe_cloud/7deploy-replicaset-in-kubernetes-cluster-13m5)
+- [To Headless or Not to Headless? A Shopify Expert’s Guide to the Pros and Cons](https://dev.to/highcenburg/to-headless-or-not-to-headless-a-shopify-experts-guide-to-the-pros-and-cons-146c)
+- [Selecting local AI models for me and my fellows in network analysis field](https://dev.to/teminian/applying-ai-for-me-and-for-out-tech-support-in-network-analysis-5hhm)
+- [AI Coding Tip 007 - Avoid Malicious Skills](https://dev.to/mcsee/ai-coding-tip-007-avoid-malicious-skills-1jh)
+- [Label Everything or Lose Everything: The #1 GCP Cost Move You&#39;re Probably Skipping 🏷️](https://dev.to/suhas_mallesh/label-everything-or-lose-everything-the-1-gcp-cost-move-youre-probably-skipping-l35)
 <!-- BLOG-POST-LIST:END -->
 
 
