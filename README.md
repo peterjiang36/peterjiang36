@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GenosDB Cellular Mesh: Solving P2P Network Scalability](https://dev.to/estebanrfp/genosdb-cellular-mesh-solving-p2p-network-scalability-4jei)
-- [GenosDB&#39;s New Async Engine: Unlocking Unparalleled Performance and Simplicity in a Real-Time Distributed Database](https://dev.to/estebanrfp/genosdbs-new-async-engine-unlocking-unparalleled-performance-and-simplicity-in-a-real-time-a83)
-- [Static Immutability: How Modern P2P Networks Build Trust Without Servers or Blockchain](https://dev.to/estebanrfp/static-immutability-how-modern-p2p-networks-build-trust-without-servers-or-blockchain-2mn2)
-- [The Philosophy of GenosDB: A Commitment to Code Quality and Sustainability](https://dev.to/estebanrfp/the-philosophy-of-genosdb-a-commitment-to-code-quality-and-sustainability-2k9c)
+- [Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎](https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616)
+- [Dispatch From the Other Side: From Scripts to Software](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-from-scripts-to-software-2md8)
+- [No Magic: Running Wasm Modules in Python](https://dev.to/grindmachine/no-magic-running-wasm-modules-in-python-11pf)
+- [X.509 Beyond Trust: Weaponizing Certificate Extensibility Without Breaking TLS](https://dev.to/michael_s_errington/x509-beyond-trust-weaponizing-certificate-extensibility-without-breaking-tls-2knj)
 <!-- BLOG-POST-LIST:END -->
 
 
