@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎](https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616)
-- [Dispatch From the Other Side: From Scripts to Software](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-from-scripts-to-software-2md8)
-- [No Magic: Running Wasm Modules in Python](https://dev.to/grindmachine/no-magic-running-wasm-modules-in-python-11pf)
-- [X.509 Beyond Trust: Weaponizing Certificate Extensibility Without Breaking TLS](https://dev.to/michael_s_errington/x509-beyond-trust-weaponizing-certificate-extensibility-without-breaking-tls-2knj)
+- [AI That Writes vs AI That Acts: Understanding Generative and Agentic Intelligence](https://dev.to/ashwinraiyani/ai-that-writes-vs-ai-that-acts-understanding-generative-and-agentic-intelligence-ajo)
+- [1.4.0: Authentication and local storage](https://dev.to/sam_march/140-authentication-and-local-storage-3pa0)
+- [How to determine whether the route comes from Navigation or router on the target page?](https://dev.to/harmonyos/how-to-determine-whether-the-route-comes-from-navigation-or-router-on-the-target-page-36pc)
+- [7.Deploy ReplicaSet in Kubernetes Cluster](https://dev.to/thukhakyawe_cloud/7deploy-replicaset-in-kubernetes-cluster-13m5)
 <!-- BLOG-POST-LIST:END -->
 
 
