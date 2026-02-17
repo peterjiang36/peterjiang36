@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [To Headless or Not to Headless? A Shopify Expert’s Guide to the Pros and Cons](https://dev.to/highcenburg/to-headless-or-not-to-headless-a-shopify-experts-guide-to-the-pros-and-cons-146c)
-- [Selecting local AI models for me and my fellows in network analysis field](https://dev.to/teminian/applying-ai-for-me-and-for-out-tech-support-in-network-analysis-5hhm)
-- [AI Coding Tip 007 - Avoid Malicious Skills](https://dev.to/mcsee/ai-coding-tip-007-avoid-malicious-skills-1jh)
-- [Label Everything or Lose Everything: The #1 GCP Cost Move You&#39;re Probably Skipping 🏷️](https://dev.to/suhas_mallesh/label-everything-or-lose-everything-the-1-gcp-cost-move-youre-probably-skipping-l35)
+- [Beginner&#39;s Guide To TypeScript + React Integration](https://dev.to/myogeshchavan97/beginners-guide-to-typescript-react-integration-15nd)
+- [🟢 Part 2: Android HCE Implementation — Build a Complete Type 4 NFC Tag with HostApduService](https://dev.to/sky1309/part-2-android-hce-implementation-build-a-complete-type-4-nfc-tag-with-hostapduservice-1ka7)
+- [From Zero to Monorepo: Angular v21 MFE with Native Federation](https://dev.to/memolition/from-zero-to-monorepo-angular-v21-mfe-with-native-federation-3a2h)
+- [5 Surprising Revelations from the BMAD Method on the Future of Module Development](https://dev.to/ndabene/5-surprising-revelations-from-the-bmad-method-on-the-future-of-module-development-298b)
 <!-- BLOG-POST-LIST:END -->
 
 
