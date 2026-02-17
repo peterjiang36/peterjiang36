@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an &quot;Agentic&quot; AWS Cost Optimizer &lpar;That Doesn&#39;t Break Production&rpar;](https://dev.to/cloudwiseteam/how-i-built-an-agentic-aws-cost-optimizer-that-doesnt-break-production-d77)
-- [Desacoplamento e Reatividade: Implementando o Design Pattern Observer com Spring Events](https://dev.to/wagnernegrao/desacoplamento-e-reatividade-implementando-o-design-pattern-observer-com-spring-events-2fnd)
-- [How I Ended Up Building a “Gemini Bug Hunter” to Find Vulnerabilities in My Code](https://dev.to/holasoymalva/how-i-ended-up-building-a-gemini-bug-hunter-to-find-vulnerabilities-in-my-code-4m8e)
-- [# DirectShell: I Turned the Accessibility Layer Into a Universal App Interface. No Screenshots. No Vision Models.](https://dev.to/tlrag/-directshell-i-turned-the-accessibility-layer-into-a-universal-app-interface-no-screenshots-no-2457)
+- [Can you order a pizza on this site? ❌ 99% Can&#39;t](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd)
+- [Happy Lunar New Year! 恭喜發財🐴🏮🧧🧨](https://dev.to/jess/happy-lunar-new-year-gong-xi-fa-cai-3ble)
+- [The Tree Module Functionalities in SQLite](https://dev.to/lovestaco/the-tree-module-functionalities-in-sqlite-7n2)
+- [Building a Privacy-First File Converter That Runs 100% in Your Browser](https://dev.to/ansonchan/building-a-privacy-first-file-converter-that-runs-100-in-your-browser-5g8a)
 <!-- BLOG-POST-LIST:END -->
 
 
