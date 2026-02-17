@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Different AI Models and Their Functionality: Training Data, Epochs, and How They Learn](https://dev.to/ayan_banerjee/different-ai-models-and-their-functionality-training-data-epochs-and-how-they-learn-2cbb)
-- [cognitive-debt: Measure Code Readability Before It Becomes a Problem](https://dev.to/motiramshinde/cognitive-debt-measure-code-readability-before-it-becomes-a-problem-1nbi)
-- [3-Dimensional Validation Protocol &lpar;DAM&rpar; for Interplanetary Validation — Elara Project](https://dev.to/navigatorbuilds/3-dimensional-validation-protocol-dam-for-interplanetary-validation-elara-project-4ki7)
-- [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1)
+- [Stop Using Heavy MD5 Libraries in 2026: pure-md5 Review](https://dev.to/eustatos/stop-using-heavy-md5-libraries-in-2026-pure-md5-review-5h66)
+- [Why Platform Engineering Is the Next Big Shift &lpar;and How Ops Teams Win&rpar;](https://dev.to/kubeha_18/why-platform-engineering-is-the-next-big-shift-and-how-ops-teams-win-1lkp)
+- [CLAUDE.md Best Practices: Mermaid for Workflows](https://dev.to/cleverhoods/claudemd-best-practices-mermaid-for-workflows-khb)
+- [VPN](https://dev.to/ppvikentiy/vpn-280j)
 <!-- BLOG-POST-LIST:END -->
 
 
