@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Story points vs Horas](https://dev.to/david_goyes_a488f58a17a53/story-points-vs-horas-55n5)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 3 Create Lambda function with LMI compute type](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-3-create-lambda-function-with-lmi-1d9g)
-- [Solved: Notion not working!!!](https://dev.to/techresolve/solved-notion-not-working-4388)
-- [How I stopped my team from breaking CI with missing .env variables](https://dev.to/xserhio/how-to-stop-your-team-from-breaking-ci-with-missing-env-variables-2lbf)
+- [WorkSafeBC-oriented workflows without overclaims: structured summaries, careful language](https://dev.to/crisiscoresystems/worksafebc-oriented-workflows-without-overclaims-structured-summaries-careful-language-2n3i)
+- [Could Vibe Coding Be the Missing Communication Link Between PMs and Developers?](https://dev.to/georgekobaidze/could-vibe-coding-be-the-missing-communication-link-between-pms-and-developers-3bch)
+- [AI Agents Can&#39;t Mark Their Own Homework [Case Study]](https://dev.to/dimwiddle/ai-agents-cant-mark-their-own-homework-case-study-26mk)
+- [How My Team Aligns on Prompting for Production](https://dev.to/googlecloud/how-my-team-aligns-on-prompting-for-production-1lpf)
 <!-- BLOG-POST-LIST:END -->
 
 
