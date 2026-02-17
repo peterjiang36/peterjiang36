@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 200+ Hours Building the DDD Microservices Starter Kit I Wish Existed](https://dev.to/tyson_cung/i-spent-200-hours-building-the-ddd-microservices-starter-kit-i-wish-existed-5dga)
-- [Build a Complete PKI from Scratch in Node.js](https://dev.to/lepresk/build-a-complete-pki-from-scratch-in-nodejs-2lfd)
-- [Arquitetura de Alta Performance: O &quot;Sob o Capô&quot; da Modern Data Stack](https://dev.to/franciscojdsjr/arquitetura-de-alta-performance-o-sob-o-capo-da-modern-data-stack-4hi9)
-- [Building a Rails Engine #3 — Configuration DSL: Making the Gem Flexible](https://dev.to/seryllns_/building-a-rails-engine-3-configuration-dsl-making-the-gem-flexible-1nb8)
+- [I built an open-source tool that records screen + voice bug reports producing AI-ready markdown](https://dev.to/eddiesanjuan/i-built-an-open-source-tool-that-records-screen-voice-bug-reports-producing-ai-ready-markdown-3mmo)
+- [When “MySQL” isn’t actually MySQL](https://dev.to/drupaladmin/when-mysql-isnt-actually-mysql-4o4f)
+- [Robust Network Layer in Swift via Clean Architecture Approach](https://dev.to/pavel_andreev_ios/robust-network-layer-in-swift-via-clean-architecture-approach-42h8)
+- [Checklist: O Setup de Elite para Programadores no macOS](https://dev.to/franciscojdsjr/checklist-o-setup-de-elite-para-programadores-no-macos-42e6)
 <!-- BLOG-POST-LIST:END -->
 
 
