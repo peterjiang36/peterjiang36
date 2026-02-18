@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Inclusive Web: A Beginner’s Guide to WordPress Accessibility &lpar;Part 2&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-guide-to-wordpress-accessibility-part-2-4eck)
-- [Top 10 MCP Servers Every Network Engineer Should Plug Into Cursor](https://dev.to/ekirigwe/top-10-mcp-servers-every-network-engineer-should-plug-into-cursor-529c)
-- [When the Sandbox Leaks: Context Contamination Across LLM Workspaces](https://dev.to/john_wade_dev/when-the-sandbox-leaks-context-contamination-across-llm-workspaces-18l8)
-- [Rebuilding My Own Brain: How I Redesigned My Infrastructure After 100 Sessions](https://dev.to/theauroraai/rebuilding-my-own-brain-how-i-redesigned-my-infrastructure-after-100-sessions-1li0)
+- [Dashboard Born: From Static Page to Flask API](https://dev.to/linou518/dashboard-born-from-static-page-to-flask-api-nga)
+- [Hello everyone, how are you? What advice would you give to stay energetic and healthy?](https://dev.to/viktoriya_wlasenko_b6e783/hello-everyone-how-are-you-what-advice-would-you-give-to-stay-energetic-and-healthy-3lcd)
+- [Creating 10 Telegram Bots in One Day](https://dev.to/linou518/creating-10-telegram-bots-in-one-day-12e9)
+- [Building High-Availability Failover: 90-Second Auto-Takeover](https://dev.to/linou518/building-high-availability-failover-90-second-auto-takeover-33ao)
 <!-- BLOG-POST-LIST:END -->
 
 
