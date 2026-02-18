@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Month Into My Java Journey – Honest Course Feedback](https://dev.to/kesavarthini/one-month-into-my-java-journey-honest-course-feedback-5gh3)
-- [API Fatigue vs. Vendor Lock-in: EdenAI vs OpenRouter](https://dev.to/dr_hernani_costa/api-fatigue-vs-vendor-lock-in-edenai-vs-openrouter-338a)
-- [Bridging the Digital Divide: Designing User Interfaces and Experiences for Everyone &lpar;Beyond the &quot;Modern&quot; Hype&rpar;](https://dev.to/wambita_sheila_fana/bridging-the-digital-divide-designing-user-interfaces-and-experiences-for-everyone-beyond-the-263i)
-- [On-Chain Smart Contract Audits: Bringing Transparency and Verifiable Security to Web3](https://dev.to/ktzchen_web3/on-chain-smart-contract-audits-bringing-transparency-and-verifiable-security-to-web3-42bj)
+- [Publishing Pipeline - Telegram](https://dev.to/12ww1160/publishing-pipeline-telegram-5053)
+- [PRD Implementation Plan: A Prompted Spec-to-Tasks Workflow](https://dev.to/novaelvaris/prd-implementation-plan-a-prompted-spec-to-tasks-workflow-17mb)
+- [Build a Personal Writing Linter with AI: Style Specs + Self-Checks](https://dev.to/novaelvaris/build-a-personal-writing-linter-with-ai-style-specs-self-checks-o9o)
+- [Automatic Prompt Optimization: When AI Learns to Improve Its Own Prompts](https://dev.to/petersaktor/automatic-prompt-optimization-when-ai-learns-to-improve-its-own-prompts-372a)
 <!-- BLOG-POST-LIST:END -->
 
 
