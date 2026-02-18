@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Azure Bill Hit $10K and Nobody Noticed 😱 Deploy Budget Alerts as Code with Terraform](https://dev.to/suhas_mallesh/your-azure-bill-hit-10k-and-nobody-noticed-deploy-budget-alerts-as-code-with-terraform-1ei2)
-- [Building a Universal Memory Layer for AI Agents](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-2do)
-- [Never Get a Surprise GCP Bill Again: Budget Alerts as Code with Terraform 🚨](https://dev.to/suhas_mallesh/never-get-a-surprise-gcp-bill-again-budget-alerts-as-code-with-terraform-280i)
-- [Develop Software When Your AI Model Starts Acting Like a Teammate](https://dev.to/sashido/develop-software-when-your-ai-model-starts-acting-like-a-teammate-3f4d)
+- [AWS Won&#39;t Stop Charging You. Ever. Deploy Budget Alerts as Code with Terraform Before It&#39;s Too Late 🔥](https://dev.to/suhas_mallesh/aws-wont-stop-charging-you-ever-deploy-budget-alerts-as-code-with-terraform-before-its-too-late-3mac)
+- [MCP for .NET: AI Agents That Can Actually Do Things](https://dev.to/hamedhajiloo/mcp-for-net-ai-agents-that-can-actually-do-things-50in)
+- [Codebase Intelligence](https://dev.to/nancy_kataria/codebase-intelligence-c7m)
+- [Why I’m Stepping Away from DEV &lpar;For Now&rpar;](https://dev.to/richardpascoe/why-im-stepping-away-from-dev-for-now-1g52)
 <!-- BLOG-POST-LIST:END -->
 
 
