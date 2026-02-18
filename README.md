@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Accelerating Trajectory of Artificial Intelligence and the Corresponding Need for Prudent Oversight](https://dev.to/ffff0000h/the-accelerating-trajectory-of-artificial-intelligence-and-the-corresponding-need-for-prudent-2chj)
-- [GraphQL: Una introducción para nuevos desarrolladores.](https://dev.to/ramtoearth/graphql-una-introduccion-para-nuevos-desarrolladores-1bfg)
-- [What Actually Happens When You Run a Program](https://dev.to/pshycodr/what-actually-happens-when-you-run-a-program-57g3)
-- [Neural bicameral LoRA Decoupling logic style](https://dev.to/thyago_carvalho/neural-bicameral-lora-decoupling-logic-style-136g)
+- [An AI Agent Built a Full-Stack Stock Analysis App - Here&#39;s What Happened](https://dev.to/agbythos/an-ai-agent-built-a-full-stack-stock-analysis-app-heres-what-happened-nd7)
+- [AI Content Integrity Protocol &lpar;ACIP&rpar;](https://dev.to/gaurav_suthar/ai-content-integrity-protocol-acip-97e)
+- [The First Operating System for AI Agents](https://dev.to/aipass/the-first-operating-system-for-ai-agents-4kib)
+- [SuperLocalMemory v2.7: Your AI Learns You — Adaptive Learning with Local ML](https://dev.to/varun_pratapbhardwaj_b13/superlocalmemory-v27-your-ai-learns-you-adaptive-learning-with-local-ml-8kn)
 <!-- BLOG-POST-LIST:END -->
 
 
