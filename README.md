@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debtmap Re-adds JavaScript and TypeScript Support](https://dev.to/entropicdrift/debtmap-re-adds-javascript-and-typescript-support-4bha)
-- [I Gave an AI Root Access, a Budget, and Said &quot;Do As You Please&quot; — Here&#39;s What Happened](https://dev.to/theauroraai/i-gave-an-ai-root-access-a-budget-and-said-do-as-you-please-heres-what-happened-20el)
-- [Your Azure Account is AI-Ready: Deploy your first AI endpoint with Terraform in 10 minutes⚡](https://dev.to/suhas_mallesh/your-azure-account-is-ai-ready-deploy-your-first-ai-endpoint-with-terraform-in-10-minutes-1kna)
-- [Generating SEM Images from Segmentation Masks](https://dev.to/shira_stern_37b74710aeea4/generating-sem-images-from-segmentation-masks-540k)
+- [Mohamed Farah Tahar Analyzes the Crippling Impact of Tribalism on Africa’s Development](https://dev.to/gov_afrika_b681dfae823748/mohamed-farah-tahar-analyzes-the-crippling-impact-of-tribalism-on-africas-development-372a)
+- [Building a Modern Portfolio with Tailwind CSS v4, React, and Vite](https://dev.to/bwanachairman/building-a-modern-portfolio-with-tailwind-css-v4-react-and-vite-28me)
+- [You Don’t Need a Mac mini to Run OpenClaw: VPS‑First Agent Ops for Everyday Devs](https://dev.to/shahdeep/you-dont-need-a-mac-mini-to-run-openclaw-vps-first-agent-ops-for-everyday-devs-3jg7)
+- [Your MCP Tools Are a Backdoor](https://dev.to/behrensd/your-mcp-tools-are-a-backdoor-5fbh)
 <!-- BLOG-POST-LIST:END -->
 
 
