@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Won&#39;t Stop Charging You. Ever. Deploy Budget Alerts as Code with Terraform Before It&#39;s Too Late 🔥](https://dev.to/suhas_mallesh/aws-wont-stop-charging-you-ever-deploy-budget-alerts-as-code-with-terraform-before-its-too-late-3mac)
-- [MCP for .NET: AI Agents That Can Actually Do Things](https://dev.to/hamedhajiloo/mcp-for-net-ai-agents-that-can-actually-do-things-50in)
-- [Codebase Intelligence](https://dev.to/nancy_kataria/codebase-intelligence-c7m)
-- [Why I’m Stepping Away from DEV &lpar;For Now&rpar;](https://dev.to/richardpascoe/why-im-stepping-away-from-dev-for-now-1g52)
+- [Building a Simple EMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-emi-calculator-with-html-css-and-javascript-4dnf)
+- [Schema-First Prompt Engineering: The Gemini Lesson That Will Save Your Production App](https://dev.to/prasadt1/schema-first-prompt-engineering-the-gemini-lesson-that-will-save-your-production-app-1pea)
+- [What Are the Best Evaluation Metrics for LLM Fine-Tuning in Business?](https://dev.to/joywinter90/what-are-the-best-evaluation-metrics-for-llm-fine-tuning-in-business-1b8l)
+- [Printing Shipping Labels in C#: When Every Carrier Has Their Own Standard](https://dev.to/stackcollider/printing-shipping-labels-in-c-when-every-carrier-has-their-own-standard-1298)
 <!-- BLOG-POST-LIST:END -->
 
 
