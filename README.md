@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Wrote an AI Workflow Engine](https://dev.to/sean_harrison/why-i-wrote-an-ai-workflow-engine-2jo7)
-- [Is Creativity Dying in the Age of AI-Generated Websites?](https://dev.to/ujja/is-creativity-dying-in-the-age-of-ai-generated-websites-5bmi)
-- [Kubernetes sem Cloud Provider &lpar;Parte 1&rpar;: CNI, Storage Dinâmico, Ingress e Arquitetura Terraform](https://dev.to/pramos/kubernetes-sem-cloud-provider-parte-1-cni-storage-dinamico-ingress-e-arquitetura-terraform-eof)
-- [Your API Doesn’t Have a Bug. It Just Hates Capital Letters.](https://dev.to/liudasjan/your-api-doesnt-have-a-bug-it-just-hates-capital-letters-1p7b)
+- [How I Set Up an AI Agent That Runs 24/7 on a Mac Mini &lpar;OpenClaw + Cron Jobs&rpar;](https://dev.to/maxxmini/how-i-set-up-an-ai-agent-that-runs-247-on-a-mac-mini-openclaw-cron-jobs-5g72)
+- [Why Angular is Easier to Learn and Master Than React.js or Vue.js: A Developer&#39;s Take](https://dev.to/shubham_mohite_3034/why-angular-is-easier-to-learn-and-master-than-reactjs-or-vuejs-angular-developers-take-1me6)
+- [I Built a Free VIN Decoder That Uses the NHTSA API - Here is How](https://dev.to/subprime2010/i-built-a-free-vin-decoder-that-uses-the-nhtsa-api-here-is-how-165l)
+- [🚀 The Future of &quot;Pocket DevOps&quot;: Why Manus Agents on Telegram Just Changed the Game](https://dev.to/siddhesh_surve/the-future-of-pocket-devops-why-manus-agents-on-telegram-just-changed-the-game-4869)
 <!-- BLOG-POST-LIST:END -->
 
 
