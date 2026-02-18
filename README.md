@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative UI: Building a Real-Time Weather &amp; Stock Assistant with Streaming RSCs](https://dev.to/programmingcentral/generative-ui-building-a-real-time-weather-stock-assistant-with-streaming-rscs-2m5g)
-- [Provide private storage for internal company documents](https://dev.to/big_namz/provide-private-storage-for-internal-company-documents-53b2)
-- [I Got Tired of Re-Explaining My Codebase to AI Every Single Session](https://dev.to/amariahak/i-got-tired-of-re-explaining-my-codebase-to-ai-every-single-session-10dk)
-- [From Writing Code in a Notebook to Building AI Projects](https://dev.to/sanu_sharma00/from-writing-code-in-a-notebook-to-building-ai-projects-3d9o)
+- [21. C# &lpar;while Loop 2&rpar;](https://dev.to/sabin_sim/21-c-while-loop-2-5fd3)
+- [Everything Automated: No Client Routing, No Manual Mapping, No Frontend State Management, No Build Pipeline, No Separate UI API](https://dev.to/elanatframework/everything-automated-no-client-routing-no-manual-mapping-no-frontend-state-management-no-build-4emk)
+- [Architecture Diagram: Local Development with Amazon Q + WSL &lpar;Ubuntu&rpar; + MCP Server for Application…](https://dev.to/aws-builders/architecture-diagram-local-development-with-amazon-q-wsl-ubuntu-mcp-server-for-application-4i3)
+- [[2 more days] Win All-Access Pass to NVIDIA GTC 2026 🎫](https://dev.to/googleai/2-more-days-win-all-access-pass-to-nvidia-gtc-2026-2inl)
 <!-- BLOG-POST-LIST:END -->
 
 
