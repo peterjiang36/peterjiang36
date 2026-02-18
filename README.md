@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a Virtual Machine](https://dev.to/rahimah_dev/create-a-virtual-machine-4f42)
-- [Automate Your Release Announcements: GitHub Release 4 Social Platforms with n8n](https://dev.to/_350df62777eb55e1/automate-your-release-announcements-github-release-4-social-platforms-with-n8n-1okd)
-- [Conceptual, Logical, and Physical Data Models Explained](https://dev.to/alexmercedcoder/conceptual-logical-and-physical-data-models-explained-h10)
-- [What Is Data Modeling? A Complete Guide](https://dev.to/alexmercedcoder/what-is-data-modeling-a-complete-guide-53lh)
+- [The Accelerating Trajectory of Artificial Intelligence and the Corresponding Need for Prudent Oversight](https://dev.to/ffff0000h/the-accelerating-trajectory-of-artificial-intelligence-and-the-corresponding-need-for-prudent-2chj)
+- [GraphQL: Una introducción para nuevos desarrolladores.](https://dev.to/ramtoearth/graphql-una-introduccion-para-nuevos-desarrolladores-1bfg)
+- [What Actually Happens When You Run a Program](https://dev.to/pshycodr/what-actually-happens-when-you-run-a-program-57g3)
+- [Neural bicameral LoRA Decoupling logic style](https://dev.to/thyago_carvalho/neural-bicameral-lora-decoupling-logic-style-136g)
 <!-- BLOG-POST-LIST:END -->
 
 
