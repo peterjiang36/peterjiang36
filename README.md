@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AWS EC2 Key Pairs](https://dev.to/onyidominic/getting-started-with-aws-ec2-key-pairs-2gm8)
-- [Lessons Learned from Running a Privacy-First Disposable Email Service: Insights from nullmail.cc](https://dev.to/gkoos/lessons-learned-from-running-a-privacy-first-disposable-email-service-insights-from-nullmailcc-375g)
-- [Stop AI Hallucinations in Your Code Editor with Context7 MCP](https://dev.to/stkdom/stop-ai-hallucinations-in-your-code-editor-with-context7-mcp-3h45)
-- [Creating a SharePoint List Is the Easy Part](https://dev.to/ngssolution23/creating-a-sharepoint-list-is-the-easy-part-4l04)
+- [Flutter Sticky Bottom Button: Beyond the FloatingActionButton](https://dev.to/thanasistraitsis/flutter-sticky-bottom-button-beyond-the-floatingactionbutton-2i7o)
+- [Privilege Isn&#39;t About the Tool—It&#39;s About the Transmission](https://dev.to/narnaiezzsshaa/privilege-isnt-about-the-tool-its-about-the-transmission-2e2a)
+- [How We Built an AI Deep Research Engine — And the SEO Strategy Behind It](https://dev.to/hsnrique/how-we-built-an-ai-deep-research-engine-and-the-seo-strategy-behind-it-4bk)
+- [I made an LLM visibility tool](https://dev.to/scorder/i-made-an-llm-visibility-tool-5il)
 <!-- BLOG-POST-LIST:END -->
 
 
