@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Set Up an AI Agent That Runs 24/7 on a Mac Mini &lpar;OpenClaw + Cron Jobs&rpar;](https://dev.to/maxxmini/how-i-set-up-an-ai-agent-that-runs-247-on-a-mac-mini-openclaw-cron-jobs-5g72)
-- [Why Angular is Easier to Learn and Master Than React.js or Vue.js: A Developer&#39;s Take](https://dev.to/shubham_mohite_3034/why-angular-is-easier-to-learn-and-master-than-reactjs-or-vuejs-angular-developers-take-1me6)
-- [I Built a Free VIN Decoder That Uses the NHTSA API - Here is How](https://dev.to/subprime2010/i-built-a-free-vin-decoder-that-uses-the-nhtsa-api-here-is-how-165l)
-- [🚀 The Future of &quot;Pocket DevOps&quot;: Why Manus Agents on Telegram Just Changed the Game](https://dev.to/siddhesh_surve/the-future-of-pocket-devops-why-manus-agents-on-telegram-just-changed-the-game-4869)
+- [Build a Pro Random Color Generator with Python and Tkinter](https://dev.to/matetechnologie/build-a-pro-random-color-generator-with-python-and-tkinter-4n2o)
+- [I Built a Free Tool to Analyze 15+ Site Metadata Files in One Scan](https://dev.to/sivarampg/i-built-a-free-tool-to-analyze-15-site-metadata-files-in-one-scan-466f)
+- [Is a freeCodeCamp Certificate Worth It?](https://dev.to/stack_overflowed/is-a-freecodecamp-certificate-worth-it-3l6b)
+- [OpenClaw Infographic](https://dev.to/buildandcodewithraman/openclaw-infographic-154e)
 <!-- BLOG-POST-LIST:END -->
 
 
