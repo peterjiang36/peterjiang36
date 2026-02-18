@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Bill Audit in 45 Minutes: Token Spend Decomposition &lpar;Retries, Tool Loops, Context Bloat&rpar;](https://dev.to/optyxstack/openai-bill-audit-in-45-minutes-token-spend-decomposition-retries-tool-loops-context-bloat-3kd4)
-- [Apache Data Lakehouse Weekly: February 11–17, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-11-17-2026-342a)
-- [Virtually bootstrapping a virtual OS.](https://dev.to/treytomes/virtually-bootstrapping-a-virtual-os-4158)
-- [Turning One LAN Into Five Networks: VLANs + Wi‑Fi Segmentation at Home](https://dev.to/n20amaral/turning-one-lan-into-five-networks-vlans-wi-fi-segmentation-at-home-h55)
+- [Create a Virtual Machine](https://dev.to/rahimah_dev/create-a-virtual-machine-4f42)
+- [Automate Your Release Announcements: GitHub Release 4 Social Platforms with n8n](https://dev.to/_350df62777eb55e1/automate-your-release-announcements-github-release-4-social-platforms-with-n8n-1okd)
+- [Conceptual, Logical, and Physical Data Models Explained](https://dev.to/alexmercedcoder/conceptual-logical-and-physical-data-models-explained-h10)
+- [What Is Data Modeling? A Complete Guide](https://dev.to/alexmercedcoder/what-is-data-modeling-a-complete-guide-53lh)
 <!-- BLOG-POST-LIST:END -->
 
 
