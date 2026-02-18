@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dashboard Born: From Static Page to Flask API](https://dev.to/linou518/dashboard-born-from-static-page-to-flask-api-nga)
-- [Hello everyone, how are you? What advice would you give to stay energetic and healthy?](https://dev.to/viktoriya_wlasenko_b6e783/hello-everyone-how-are-you-what-advice-would-you-give-to-stay-energetic-and-healthy-3lcd)
-- [Creating 10 Telegram Bots in One Day](https://dev.to/linou518/creating-10-telegram-bots-in-one-day-12e9)
-- [Building High-Availability Failover: 90-Second Auto-Takeover](https://dev.to/linou518/building-high-availability-failover-90-second-auto-takeover-33ao)
+- [Why MVC is Still a Cheat Code for Modernizing Corporate Brands](https://dev.to/kenuolotu/why-mvc-is-still-a-cheat-code-for-modernizing-corporate-brands-225o)
+- [Introduction to abstract syntax trees &lpar;AST&rpar;](https://dev.to/headwindz/introduction-to-abstract-syntax-trees-ast-563l)
+- [One-Pixel Attacks: Why Computer Vision Security Is Broken](https://dev.to/jgracie52/one-pixel-attacks-why-computer-vision-security-is-broken-931)
+- [Why Smart Greenhouses Are Becoming the Future of Modern Farming](https://dev.to/cocokelapa66_2a3a63361161/why-smart-greenhouses-are-becoming-the-future-of-modern-farming-41gg)
 <!-- BLOG-POST-LIST:END -->
 
 
