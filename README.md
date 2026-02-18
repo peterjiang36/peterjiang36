@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple EMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-emi-calculator-with-html-css-and-javascript-4dnf)
-- [Schema-First Prompt Engineering: The Gemini Lesson That Will Save Your Production App](https://dev.to/prasadt1/schema-first-prompt-engineering-the-gemini-lesson-that-will-save-your-production-app-1pea)
-- [What Are the Best Evaluation Metrics for LLM Fine-Tuning in Business?](https://dev.to/joywinter90/what-are-the-best-evaluation-metrics-for-llm-fine-tuning-in-business-1b8l)
-- [Printing Shipping Labels in C#: When Every Carrier Has Their Own Standard](https://dev.to/stackcollider/printing-shipping-labels-in-c-when-every-carrier-has-their-own-standard-1298)
+- [Building an Inclusive Web: A Beginner’s Guide to WordPress Accessibility &lpar;Part 2&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-guide-to-wordpress-accessibility-part-2-4eck)
+- [Top 10 MCP Servers Every Network Engineer Should Plug Into Cursor](https://dev.to/ekirigwe/top-10-mcp-servers-every-network-engineer-should-plug-into-cursor-529c)
+- [When the Sandbox Leaks: Context Contamination Across LLM Workspaces](https://dev.to/john_wade_dev/when-the-sandbox-leaks-context-contamination-across-llm-workspaces-18l8)
+- [Rebuilding My Own Brain: How I Redesigned My Infrastructure After 100 Sessions](https://dev.to/theauroraai/rebuilding-my-own-brain-how-i-redesigned-my-infrastructure-after-100-sessions-1li0)
 <!-- BLOG-POST-LIST:END -->
 
 
