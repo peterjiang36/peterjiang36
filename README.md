@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [21. C# &lpar;while Loop 2&rpar;](https://dev.to/sabin_sim/21-c-while-loop-2-5fd3)
-- [Everything Automated: No Client Routing, No Manual Mapping, No Frontend State Management, No Build Pipeline, No Separate UI API](https://dev.to/elanatframework/everything-automated-no-client-routing-no-manual-mapping-no-frontend-state-management-no-build-4emk)
-- [Architecture Diagram: Local Development with Amazon Q + WSL &lpar;Ubuntu&rpar; + MCP Server for Application…](https://dev.to/aws-builders/architecture-diagram-local-development-with-amazon-q-wsl-ubuntu-mcp-server-for-application-4i3)
-- [[2 more days] Win All-Access Pass to NVIDIA GTC 2026 🎫](https://dev.to/googleai/2-more-days-win-all-access-pass-to-nvidia-gtc-2026-2inl)
+- [Getting Started with AWS EC2 Key Pairs](https://dev.to/onyidominic/getting-started-with-aws-ec2-key-pairs-2gm8)
+- [Lessons Learned from Running a Privacy-First Disposable Email Service: Insights from nullmail.cc](https://dev.to/gkoos/lessons-learned-from-running-a-privacy-first-disposable-email-service-insights-from-nullmailcc-375g)
+- [Stop AI Hallucinations in Your Code Editor with Context7 MCP](https://dev.to/stkdom/stop-ai-hallucinations-in-your-code-editor-with-context7-mcp-3h45)
+- [Creating a SharePoint List Is the Easy Part](https://dev.to/ngssolution23/creating-a-sharepoint-list-is-the-easy-part-4l04)
 <!-- BLOG-POST-LIST:END -->
 
 
