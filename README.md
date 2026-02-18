@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Pro Random Color Generator with Python and Tkinter](https://dev.to/matetechnologie/build-a-pro-random-color-generator-with-python-and-tkinter-4n2o)
-- [I Built a Free Tool to Analyze 15+ Site Metadata Files in One Scan](https://dev.to/sivarampg/i-built-a-free-tool-to-analyze-15-site-metadata-files-in-one-scan-466f)
-- [Is a freeCodeCamp Certificate Worth It?](https://dev.to/stack_overflowed/is-a-freecodecamp-certificate-worth-it-3l6b)
-- [OpenClaw Infographic](https://dev.to/buildandcodewithraman/openclaw-infographic-154e)
+- [Static Serving, H3, and the Last Piece of v0.1](https://dev.to/mdreal32/static-serving-h3-and-the-last-piece-of-v01-3iea)
+- [How Content Pipelines Break When Writers Meet Model Limits &lpar;A Systems Deconstruction&rpar;](https://dev.to/olivia_perell_/how-content-pipelines-break-when-writers-meet-model-limits-a-systems-deconstruction-18f6)
+- [🐠 ANN: appraisal2 v3.0.6 - support frozen appraisal lockfiles](https://dev.to/galtzo/ann-appraisal2-v306-support-frozen-appraisal-lockfiles-20ml)
+- [Bug Resistant Development: Fail Fast – Part 1 &lpar;RequireComponent &amp; OnValidate&rpar;](https://dev.to/rahul_barate_e965377330fe/bug-resistant-development-fail-fast-part-1-requirecomponent-onvalidate-4h6m)
 <!-- BLOG-POST-LIST:END -->
 
 
