@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why MVC is Still a Cheat Code for Modernizing Corporate Brands](https://dev.to/kenuolotu/why-mvc-is-still-a-cheat-code-for-modernizing-corporate-brands-225o)
-- [Introduction to abstract syntax trees &lpar;AST&rpar;](https://dev.to/headwindz/introduction-to-abstract-syntax-trees-ast-563l)
-- [One-Pixel Attacks: Why Computer Vision Security Is Broken](https://dev.to/jgracie52/one-pixel-attacks-why-computer-vision-security-is-broken-931)
-- [Why Smart Greenhouses Are Becoming the Future of Modern Farming](https://dev.to/cocokelapa66_2a3a63361161/why-smart-greenhouses-are-becoming-the-future-of-modern-farming-41gg)
+- [When a Robot Demo Turns Into a PR Crisis: Lessons from an AI Summit](https://dev.to/maibhushan/when-a-robot-demo-turns-into-a-pr-crisis-lessons-from-an-ai-summit-3lgl)
+- [Creating an Animated FAB with Button Flow in React Native](https://dev.to/alexrixten/creating-an-animated-fab-with-button-flow-in-react-native-8gj)
+- [Every AI Agent Framework Trusts the Agent. That&#39;s the Problem.](https://dev.to/saezbaldo/every-ai-agent-framework-trusts-the-agent-thats-the-problem-5gfa)
+- [Docker Explained: A Beginner-Friendly Introduction to Containerization &lpar;2025–2026&rpar;](https://dev.to/mukhil_77/docker-explained-a-beginner-friendly-introduction-to-containerization-2025-2026-lcn)
 <!-- BLOG-POST-LIST:END -->
 
 
