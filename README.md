@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI Agent Built a Full-Stack Stock Analysis App - Here&#39;s What Happened](https://dev.to/agbythos/an-ai-agent-built-a-full-stack-stock-analysis-app-heres-what-happened-nd7)
-- [AI Content Integrity Protocol &lpar;ACIP&rpar;](https://dev.to/gaurav_suthar/ai-content-integrity-protocol-acip-97e)
-- [The First Operating System for AI Agents](https://dev.to/aipass/the-first-operating-system-for-ai-agents-4kib)
-- [SuperLocalMemory v2.7: Your AI Learns You — Adaptive Learning with Local ML](https://dev.to/varun_pratapbhardwaj_b13/superlocalmemory-v27-your-ai-learns-you-adaptive-learning-with-local-ml-8kn)
+- [Generative UI: Building a Real-Time Weather &amp; Stock Assistant with Streaming RSCs](https://dev.to/programmingcentral/generative-ui-building-a-real-time-weather-stock-assistant-with-streaming-rscs-2m5g)
+- [Provide private storage for internal company documents](https://dev.to/big_namz/provide-private-storage-for-internal-company-documents-53b2)
+- [I Got Tired of Re-Explaining My Codebase to AI Every Single Session](https://dev.to/amariahak/i-got-tired-of-re-explaining-my-codebase-to-ai-every-single-session-10dk)
+- [From Writing Code in a Notebook to Building AI Projects](https://dev.to/sanu_sharma00/from-writing-code-in-a-notebook-to-building-ai-projects-3d9o)
 <!-- BLOG-POST-LIST:END -->
 
 
