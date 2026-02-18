@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Pipeline - Telegram](https://dev.to/12ww1160/publishing-pipeline-telegram-5053)
-- [PRD Implementation Plan: A Prompted Spec-to-Tasks Workflow](https://dev.to/novaelvaris/prd-implementation-plan-a-prompted-spec-to-tasks-workflow-17mb)
-- [Build a Personal Writing Linter with AI: Style Specs + Self-Checks](https://dev.to/novaelvaris/build-a-personal-writing-linter-with-ai-style-specs-self-checks-o9o)
-- [Automatic Prompt Optimization: When AI Learns to Improve Its Own Prompts](https://dev.to/petersaktor/automatic-prompt-optimization-when-ai-learns-to-improve-its-own-prompts-372a)
+- [OpenAI Bill Audit in 45 Minutes: Token Spend Decomposition &lpar;Retries, Tool Loops, Context Bloat&rpar;](https://dev.to/optyxstack/openai-bill-audit-in-45-minutes-token-spend-decomposition-retries-tool-loops-context-bloat-3kd4)
+- [Apache Data Lakehouse Weekly: February 11–17, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-11-17-2026-342a)
+- [Virtually bootstrapping a virtual OS.](https://dev.to/treytomes/virtually-bootstrapping-a-virtual-os-4158)
+- [Turning One LAN Into Five Networks: VLANs + Wi‑Fi Segmentation at Home](https://dev.to/n20amaral/turning-one-lan-into-five-networks-vlans-wi-fi-segmentation-at-home-h55)
 <!-- BLOG-POST-LIST:END -->
 
 
