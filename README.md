@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mohamed Farah Tahar Analyzes the Crippling Impact of Tribalism on Africa’s Development](https://dev.to/gov_afrika_b681dfae823748/mohamed-farah-tahar-analyzes-the-crippling-impact-of-tribalism-on-africas-development-372a)
-- [Building a Modern Portfolio with Tailwind CSS v4, React, and Vite](https://dev.to/bwanachairman/building-a-modern-portfolio-with-tailwind-css-v4-react-and-vite-28me)
-- [You Don’t Need a Mac mini to Run OpenClaw: VPS‑First Agent Ops for Everyday Devs](https://dev.to/shahdeep/you-dont-need-a-mac-mini-to-run-openclaw-vps-first-agent-ops-for-everyday-devs-3jg7)
-- [Your MCP Tools Are a Backdoor](https://dev.to/behrensd/your-mcp-tools-are-a-backdoor-5fbh)
+- [6cy: A Content-Addressed Archive Format in Rust](https://dev.to/byte271/6cy-a-content-addressed-archive-format-in-rust-3i7l)
+- [Why Developers Who Understand AI Will Dominate Remote Work Opportunities](https://dev.to/jaideepparashar/why-developers-who-understand-ai-will-dominate-remote-work-opportunities-30j8)
+- [SSL Certificate Management: Why 45-Day Certs Demand Automation](https://dev.to/oscarsixsecurityllc/ssl-certificate-management-why-45-day-certs-demand-automation-323e)
+- [The Complete Guide to SPF, DKIM, and DMARC](https://dev.to/yves_accad_93532d683d2a05/the-complete-guide-to-spf-dkim-and-dmarc-5ea6)
 <!-- BLOG-POST-LIST:END -->
 
 
