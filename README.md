@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build 4 React Apps: Responsive Business Card to Christmas Wish List](https://dev.to/labex/build-4-react-apps-responsive-business-card-to-christmas-wish-list-jnh)
-- [Record video in Rails with Stimulus](https://dev.to/railsdesigner/record-video-in-rails-with-stimulus-367g)
-- [Stop duct-taping your Python scripts: Handle Scheduling and Versioning natively](https://dev.to/taipy/stop-duct-taping-your-python-scripts-handle-scheduling-and-versioning-natively-53cj)
-- [I Replaced My Guitar Tuner With 200 Lines of JavaScript](https://dev.to/niki_indjov_791e4c9df1/i-replaced-my-guitar-tuner-with-200-lines-of-javascript-3fha)
+- [Why Are You Still Using AI to Generate Table Code? 😤](https://dev.to/jacksonkasi/why-are-you-still-using-ai-to-generate-table-code-5dp4)
+- [Java String Immutability &amp; SCP behavior](https://dev.to/anushka_kawale_d5f9004b92/java-string-immutability-scp-behavior-2ph)
+- [I built a free AI resume tool with no database &lpar;because I hate signups&rpar;](https://dev.to/davis856/i-built-a-free-ai-resume-tool-with-no-database-because-i-hate-signups-5faa)
+- [Enforcement vs Micromanagement: Where’s the Line?](https://dev.to/stephen_jeyaseelan_68d744/enforcement-vs-micromanagement-wheres-the-line-1bd)
 <!-- BLOG-POST-LIST:END -->
 
 
