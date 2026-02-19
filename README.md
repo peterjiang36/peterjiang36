@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Link-in-Bio Is Lying — Why Verified Links Are the Next Standard](https://dev.to/mitsuashi/your-link-in-bio-is-lying-why-verified-links-are-the-next-standard-390n)
-- [The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks](https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo)
-- [How I Built a Fast, Browser-Based Sudoku Platform Using JavaScript](https://dev.to/sudokupuzzlehub/how-i-built-a-fast-browser-based-sudoku-platform-using-javascript-2k6p)
-- [Why Stockfish is So Good &lpar;and How You Could Write a Chess Engine&rpar;](https://dev.to/djinn/why-stockfish-is-so-good-and-how-you-could-write-a-chess-engine-2lck)
+- [Your API Returns 400 for Huge Payloads? Congratulations. You Just Built a Polite DoS Gateway](https://dev.to/liudasjan/your-api-returns-400-for-huge-payloads-congratulations-you-just-built-a-polite-dos-gateway-46)
+- [Using Arenas for Easier Object Management](https://dev.to/pauljlucas/using-arenas-for-easier-object-management-145k)
+- [I Built an Open-Source Security Scanner for AI Agents — Here&#39;s What I Found Scanning My Own](https://dev.to/darbogach/i-built-an-open-source-security-scanner-for-ai-agents-heres-what-i-found-scanning-my-own-1md5)
+- [Why SMBs Need AI Governance, Not Just AI Automation](https://dev.to/ale-parreira/why-smbs-need-ai-governance-not-just-ai-automation-59mc)
 <!-- BLOG-POST-LIST:END -->
 
 
