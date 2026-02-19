@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [soundcn: 700+ Free UI Sounds for Modern Web Apps](https://dev.to/jqueryscript/soundcn-700-free-ui-sounds-for-modern-web-apps-599m)
-- [I Tried to Build My Own Markdown Editor &lpar;and Reality Hit Hard&rpar;](https://dev.to/davidartifacts/i-tried-to-build-my-own-markdown-editor-and-reality-hit-hard-k8e)
-- [Positioning yourself as an AI expert is not just about branding; it&#39;s more than the branding. In the AI era, expertise is not about doing more implementation. It’s about owning better outcomes.](https://dev.to/jaideepparashar/positioning-yourself-as-an-ai-expert-is-not-just-about-branding-its-more-than-the-branding-in-2hf0)
-- [How to Position Yourself as an AI Expert Without Coding Everything](https://dev.to/jaideepparashar/how-to-position-yourself-as-an-ai-expert-without-coding-everything-d05)
+- [Keen Electronics Key Fob](https://dev.to/a3xt/keen-electronics-key-fob-48kk)
+- [Unlocking the Power of Gemini 3 with Code](https://dev.to/mabualzait/unlocking-the-power-of-gemini-3-with-code-120f)
+- [🔍 Build a Desktop File Content Search App with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-desktop-file-content-search-app-with-python-tkinter-4mg5)
+- [I Built a Serverless X &lpar;Twitter&rpar; Quote Bot with AWS Lambda + S3 + DynamoDB](https://dev.to/aws-builders/i-built-a-serverless-x-twitter-quote-bot-with-aws-lambda-s3-dynamodb-3mnd)
 <!-- BLOG-POST-LIST:END -->
 
 
