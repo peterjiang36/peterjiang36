@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keen Electronics Key Fob](https://dev.to/a3xt/keen-electronics-key-fob-48kk)
-- [Unlocking the Power of Gemini 3 with Code](https://dev.to/mabualzait/unlocking-the-power-of-gemini-3-with-code-120f)
-- [🔍 Build a Desktop File Content Search App with Python &amp; Tkinter](https://dev.to/matetechnologie/build-a-desktop-file-content-search-app-with-python-tkinter-4mg5)
-- [I Built a Serverless X &lpar;Twitter&rpar; Quote Bot with AWS Lambda + S3 + DynamoDB](https://dev.to/aws-builders/i-built-a-serverless-x-twitter-quote-bot-with-aws-lambda-s3-dynamodb-3mnd)
+- [What I&#39;d Build Next &lpar;And Actually Start Building&rpar;](https://dev.to/ribhavmodi/what-id-build-next-and-actually-start-building-11l6)
+- [Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services &lpar;AWS&rpar;](https://dev.to/olymahmud/part-4-automating-ec2-infrastructure-using-terraform-amazon-web-services-aws-190a)
+- [7 Days of Java Coding Practice – My Structured Preparation Plan](https://dev.to/tamilselvan1812/7-days-of-java-coding-practice-my-structured-preparation-plan-mg7)
+- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
 <!-- BLOG-POST-LIST:END -->
 
 
