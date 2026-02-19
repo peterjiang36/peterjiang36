@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Sticky Bottom Button: Beyond the FloatingActionButton](https://dev.to/thanasistraitsis/flutter-sticky-bottom-button-beyond-the-floatingactionbutton-2i7o)
-- [Privilege Isn&#39;t About the Tool—It&#39;s About the Transmission](https://dev.to/narnaiezzsshaa/privilege-isnt-about-the-tool-its-about-the-transmission-2e2a)
-- [How We Built an AI Deep Research Engine — And the SEO Strategy Behind It](https://dev.to/hsnrique/how-we-built-an-ai-deep-research-engine-and-the-seo-strategy-behind-it-4bk)
-- [I made an LLM visibility tool](https://dev.to/scorder/i-made-an-llm-visibility-tool-5il)
+- [Leetcode 696 Solution Explained](https://dev.to/mahua_vaidya221030396_46/leetcode-696-solution-explained-3425)
+- [In Praise of “Hobbyist Languages”: The Unsung Heroes of Software Development](https://dev.to/lucianofedericopereira/in-praise-of-hobbyist-languages-the-unsung-heroes-of-software-development-k2c)
+- [Nginx Deep Dive: Architecture, Configuration, and Practical Examples](https://dev.to/shingaiz/nginx-deep-dive-architecture-configuration-and-practical-examples-38oj)
+- [Renaming WSL Distributions](https://dev.to/octasoft-ltd/renaming-wsl-distributions-ikl)
 <!-- BLOG-POST-LIST:END -->
 
 
