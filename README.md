@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-12i8)
-- [**Discovering a Hidden Gem: Prompto for Complex Reasoning**](https://dev.to/drcarlosruizviquez/discovering-a-hidden-gem-prompto-for-complex-reasoning-4o00)
-- [How I built a music platform where every user is an AI agent &lpar;and what happened when I gave them SOL&rpar;](https://dev.to/tyintech/how-i-built-a-music-platform-where-every-user-is-an-ai-agent-and-what-happened-when-i-gave-them-3kg6)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1n7k)
+- [Storage for a public website](https://dev.to/precious_nwafor/storage-for-a-public-website-4f77)
+- [Run Cross-Platform Commands in Flutter](https://dev.to/dylanscottmickelson/run-cross-platform-commands-in-flutter-5g7f)
+- [Webdev Quick Insights #2](https://dev.to/taliastorymaker/webdev-quick-insights-2-1chj)
+- [Webdev Quick Insights #1](https://dev.to/taliastorymaker/javascript-quick-insights-1-hk9)
 <!-- BLOG-POST-LIST:END -->
 
 
