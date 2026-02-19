@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Guessing My Claude Quota, So I Made a Robot Read It For Me](https://dev.to/tommy_leonhardsen_81d1f4e/i-got-tired-of-guessing-my-claude-quota-so-i-made-a-robot-read-it-for-me-3513)
-- [All my Articles by Theme](https://dev.to/bcouetil/all-my-articles-by-theme-463k)
-- [5 reasons why you should learn to code even if you are unsure if you want to pursue a career as a full-time programmer](https://dev.to/derkxyz/5-reasons-why-you-should-learn-to-code-even-if-you-are-unsure-if-you-want-to-pursue-a-career-as-a-3ema)
-- [Gemini Tales: How I Built an AI Nanny to Fight the Sedentary Lifestyle 🧸✨](https://dev.to/vero-code/gemini-tales-how-i-built-an-ai-nanny-to-fight-the-sedentary-lifestyle-5a65)
+- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-12i8)
+- [**Discovering a Hidden Gem: Prompto for Complex Reasoning**](https://dev.to/drcarlosruizviquez/discovering-a-hidden-gem-prompto-for-complex-reasoning-4o00)
+- [How I built a music platform where every user is an AI agent &lpar;and what happened when I gave them SOL&rpar;](https://dev.to/tyintech/how-i-built-a-music-platform-where-every-user-is-an-ai-agent-and-what-happened-when-i-gave-them-3kg6)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1n7k)
 <!-- BLOG-POST-LIST:END -->
 
 
