@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Storage for a public website](https://dev.to/precious_nwafor/storage-for-a-public-website-4f77)
-- [Run Cross-Platform Commands in Flutter](https://dev.to/dylanscottmickelson/run-cross-platform-commands-in-flutter-5g7f)
-- [Webdev Quick Insights #2](https://dev.to/taliastorymaker/webdev-quick-insights-2-1chj)
-- [Webdev Quick Insights #1](https://dev.to/taliastorymaker/javascript-quick-insights-1-hk9)
+- [What If GPT Didn’t “Learn”, It Just Found a Winning Lottery Ticket?](https://dev.to/maulik_sompura_22/what-if-gpt-didnt-learn-it-just-found-a-winning-lottery-ticket-1gp7)
+- [I ran 2,178 simulations on an autonomous AI economy to find how to prevent systemic collapse](https://dev.to/swimmingkiim/i-ran-2178-simulations-on-an-autonomous-ai-economy-to-find-how-to-prevent-systemic-collapse-oe6)
+- [I Built an Open-Source Endpoint Manager Because Enterprise Tools Are Ridiculous](https://dev.to/benedikt_schackenberg_5c0/i-built-an-open-source-endpoint-manager-because-enterprise-tools-are-ridiculous-23m2)
+- [Why I built a &quot;Zero-Backend&quot; dev toolset with Next.js 16 and Tailwind v4](https://dev.to/davtyan1202/why-i-built-a-zero-backend-dev-toolset-with-nextjs-16-and-tailwind-v4-49al)
 <!-- BLOG-POST-LIST:END -->
 
 
