@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw and GDPR](https://dev.to/markus_tretzmller_1d02bf/openclaw-and-gdpr-5e40)
-- [When a Model Goes Wide Instead of Deep: Installing Quality Gates That Actually Hold](https://dev.to/john_wade_dev/when-a-model-goes-wide-instead-of-deep-installing-quality-gates-that-actually-hold-5gj9)
-- [Final Round AI Alternatives in 2026: What Engineers Should Actually Pay Attention To](https://dev.to/finalroundai/final-round-ai-alternatives-in-2026-what-engineers-should-actually-pay-attention-to-41oc)
-- [I recently learnt the ASP.NET Core request flow:
-Client Kestrel Middleware Routing Controller Response 
-Kestrel receives it, Middleware processes it, routing finds the endpoint, controller runs logic, then response travels back through Middleware](https://dev.to/prajjwal203/i-recently-learnt-the-aspnet-core-request-flow-client-kestrel-middleware-routing--27ob)
+- [Ethereum’s Role in AI, L2 Interop Highlights, Robinhood L2 Testnet, 2026 Smart Contract Risks](https://dev.to/etherspot/ethereums-role-in-ai-l2-interop-highlights-robinhood-l2-testnet-2026-smart-contract-risks-3f7m)
+- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-b3i)
+- [What To Do When a Client Won&#39;t Tell You Their Budget](https://dev.to/fairpricework/what-to-do-when-a-client-wont-tell-you-their-budget-2kha)
+- [Mastering Serverless Architecture: Event-Driven Design with Azure Functions and Cosmos DB](https://dev.to/jubinsoni/mastering-serverless-architecture-event-driven-design-with-azure-functions-and-cosmos-db-2ef5)
 <!-- BLOG-POST-LIST:END -->
 
 
