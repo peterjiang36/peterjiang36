@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source vs Proprietary LLMs: The Real Cost Breakdown](https://dev.to/kaeltiwari/open-source-vs-proprietary-llms-the-real-cost-breakdown-15d0)
-- [LLM Pricing in February 2026: What Every Model Actually Costs](https://dev.to/kaeltiwari/llm-pricing-in-february-2026-what-every-model-actually-costs-3jdd)
-- [Kafka KRaft Internals: Life After ZooKeeper](https://dev.to/shyam_btm_cd923edadc18440/kafka-kraft-internals-life-after-zookeeper-3cig)
-- [The Vault in the Cloud: Securing Azure Files and Blob Storage](https://dev.to/pirrezz/the-vault-in-the-cloud-securing-azure-files-and-blob-storage-3n0i)
+- [I Built a Multi-Agent System. Here&#39;s What Broke &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/i-built-a-multi-agent-system-heres-what-broke-and-what-id-do-differently-k8c)
+- [JSON That Thinks: How We Built a Turing-Complete Language Inside JSON](https://dev.to/osama_alghanmi_3a45d72c33/json-that-thinks-how-we-built-a-turing-complete-language-inside-json-4n76)
+- [I Reverse-Engineered ChatGPT&#39;s UI Into an OpenAI-Compatible API and Here&#39;s Why You Shouldn&#39;t](https://dev.to/gautamvhavle/i-reverse-engineered-chatgpts-ui-into-an-openai-compatible-api-and-heres-why-you-shouldnt-ch)
+- [I Benchmarked 10 AI Models on Reading Human Emotions](https://dev.to/openmarkai/i-benchmarked-10-ai-models-on-reading-human-emotions-3m0b)
 <!-- BLOG-POST-LIST:END -->
 
 
