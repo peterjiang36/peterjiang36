@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What If GPT Didn’t “Learn”, It Just Found a Winning Lottery Ticket?](https://dev.to/maulik_sompura_22/what-if-gpt-didnt-learn-it-just-found-a-winning-lottery-ticket-1gp7)
-- [I ran 2,178 simulations on an autonomous AI economy to find how to prevent systemic collapse](https://dev.to/swimmingkiim/i-ran-2178-simulations-on-an-autonomous-ai-economy-to-find-how-to-prevent-systemic-collapse-oe6)
-- [I Built an Open-Source Endpoint Manager Because Enterprise Tools Are Ridiculous](https://dev.to/benedikt_schackenberg_5c0/i-built-an-open-source-endpoint-manager-because-enterprise-tools-are-ridiculous-23m2)
-- [Why I built a &quot;Zero-Backend&quot; dev toolset with Next.js 16 and Tailwind v4](https://dev.to/davtyan1202/why-i-built-a-zero-backend-dev-toolset-with-nextjs-16-and-tailwind-v4-49al)
+- [I Built a Free Safety Scanner for Claude Code Setups — Here&#39;s Why I Had To](https://dev.to/yurukusa/i-built-a-free-safety-scanner-for-claude-code-setups-heres-why-i-had-to-2883)
+- [Managing Multiple Kubernetes Clusters Without Losing Your Mind](https://dev.to/be0x74a/managing-multiple-kubernetes-clusters-without-losing-your-mind-12ba)
+- [Fundamentals of ADK Learning Path](https://dev.to/asrar_khan/fundamentals-of-adk-learning-path-499h)
+- [Choosing the Right Vector Embedding Model and Dimension: A School Analogy That Makes Everything Clear](https://dev.to/sreeni5018/choosing-the-right-vector-embedding-model-and-dimension-a-school-analogy-that-makes-everything-1e1d)
 <!-- BLOG-POST-LIST:END -->
 
 
