@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I&#39;d Build Next &lpar;And Actually Start Building&rpar;](https://dev.to/ribhavmodi/what-id-build-next-and-actually-start-building-11l6)
-- [Part-4: Automating EC2 Infrastructure using Terraform | Amazon Web Services &lpar;AWS&rpar;](https://dev.to/olymahmud/part-4-automating-ec2-infrastructure-using-terraform-amazon-web-services-aws-190a)
-- [7 Days of Java Coding Practice – My Structured Preparation Plan](https://dev.to/tamilselvan1812/7-days-of-java-coding-practice-my-structured-preparation-plan-mg7)
-- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
+- [OpenClaw and GDPR](https://dev.to/markus_tretzmller_1d02bf/openclaw-and-gdpr-5e40)
+- [When a Model Goes Wide Instead of Deep: Installing Quality Gates That Actually Hold](https://dev.to/john_wade_dev/when-a-model-goes-wide-instead-of-deep-installing-quality-gates-that-actually-hold-5gj9)
+- [Final Round AI Alternatives in 2026: What Engineers Should Actually Pay Attention To](https://dev.to/finalroundai/final-round-ai-alternatives-in-2026-what-engineers-should-actually-pay-attention-to-41oc)
+- [I recently learnt the ASP.NET Core request flow:
+Client Kestrel Middleware Routing Controller Response 
+Kestrel receives it, Middleware processes it, routing finds the endpoint, controller runs logic, then response travels back through Middleware](https://dev.to/prajjwal203/i-recently-learnt-the-aspnet-core-request-flow-client-kestrel-middleware-routing--27ob)
 <!-- BLOG-POST-LIST:END -->
 
 
