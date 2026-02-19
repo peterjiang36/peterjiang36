@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum’s Role in AI, L2 Interop Highlights, Robinhood L2 Testnet, 2026 Smart Contract Risks](https://dev.to/etherspot/ethereums-role-in-ai-l2-interop-highlights-robinhood-l2-testnet-2026-smart-contract-risks-3f7m)
-- [Tailwind CSS vs MUI vs Ant Design — Which One Should You Choose in 2026?](https://dev.to/wafa_bergaoui/tailwind-css-vs-mui-vs-ant-design-which-one-should-you-choose-in-2026-b3i)
-- [What To Do When a Client Won&#39;t Tell You Their Budget](https://dev.to/fairpricework/what-to-do-when-a-client-wont-tell-you-their-budget-2kha)
-- [Mastering Serverless Architecture: Event-Driven Design with Azure Functions and Cosmos DB](https://dev.to/jubinsoni/mastering-serverless-architecture-event-driven-design-with-azure-functions-and-cosmos-db-2ef5)
+- [Migrating from Jekyll to Hugo... or not](https://dev.to/nfrankel/migrating-from-jekyll-to-hugo-or-not-57k4)
+- [Propagating User Identity in Axon 5 Query Handlers](https://dev.to/petrmacek/propagating-user-identity-in-axon-5-query-handlers-4jd8)
+- [Best Angular Signals Data Sharing Patterns &lpar;Zoneless&rpar;](https://dev.to/karol_modelski/best-angular-signals-data-sharing-patterns-zoneless-23n2)
+- [A Deep Dive into an AWS CDK Infrastructure Snippet for Modern Web Apps](https://dev.to/rpi1337/a-deep-dive-into-an-aws-cdk-infrastructure-snippet-for-modern-web-apps-349k)
 <!-- BLOG-POST-LIST:END -->
 
 
