@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Jekyll to Hugo... or not](https://dev.to/nfrankel/migrating-from-jekyll-to-hugo-or-not-57k4)
-- [Propagating User Identity in Axon 5 Query Handlers](https://dev.to/petrmacek/propagating-user-identity-in-axon-5-query-handlers-4jd8)
-- [Best Angular Signals Data Sharing Patterns &lpar;Zoneless&rpar;](https://dev.to/karol_modelski/best-angular-signals-data-sharing-patterns-zoneless-23n2)
-- [A Deep Dive into an AWS CDK Infrastructure Snippet for Modern Web Apps](https://dev.to/rpi1337/a-deep-dive-into-an-aws-cdk-infrastructure-snippet-for-modern-web-apps-349k)
+- [Showdev: An AI-assisted skill to batch messy changes into Conventional Commits](https://dev.to/cnkang/showdev-an-ai-assisted-skill-to-batch-messy-changes-into-conventional-commits-4965)
+- [I Built a Programmatic Video Pipeline with Remotion &lpar;And You Should Too&rpar;](https://dev.to/ryancwynar/i-built-a-programmatic-video-pipeline-with-remotion-and-you-should-too-jaa)
+- [CVE-2021-22175: GitLab Server-Side Request Forgery &lpar;SSRF&rpar; Vulnerability](https://dev.to/freedom-coder/cve-2021-22175-gitlab-server-side-request-forgery-ssrf-vulnerability-44cp)
+- [Shadcn Libraries Every Developer Should Know](https://dev.to/isanjayjoshi/shadcn-libraries-every-developer-should-know-3onc)
 <!-- BLOG-POST-LIST:END -->
 
 
