@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your API Returns 400 for Huge Payloads? Congratulations. You Just Built a Polite DoS Gateway](https://dev.to/liudasjan/your-api-returns-400-for-huge-payloads-congratulations-you-just-built-a-polite-dos-gateway-46)
-- [Using Arenas for Easier Object Management](https://dev.to/pauljlucas/using-arenas-for-easier-object-management-145k)
-- [I Built an Open-Source Security Scanner for AI Agents — Here&#39;s What I Found Scanning My Own](https://dev.to/darbogach/i-built-an-open-source-security-scanner-for-ai-agents-heres-what-i-found-scanning-my-own-1md5)
-- [Why SMBs Need AI Governance, Not Just AI Automation](https://dev.to/ale-parreira/why-smbs-need-ai-governance-not-just-ai-automation-59mc)
+- [soundcn: 700+ Free UI Sounds for Modern Web Apps](https://dev.to/jqueryscript/soundcn-700-free-ui-sounds-for-modern-web-apps-599m)
+- [I Tried to Build My Own Markdown Editor &lpar;and Reality Hit Hard&rpar;](https://dev.to/davidartifacts/i-tried-to-build-my-own-markdown-editor-and-reality-hit-hard-k8e)
+- [Positioning yourself as an AI expert is not just about branding; it&#39;s more than the branding. In the AI era, expertise is not about doing more implementation. It’s about owning better outcomes.](https://dev.to/jaideepparashar/positioning-yourself-as-an-ai-expert-is-not-just-about-branding-its-more-than-the-branding-in-2hf0)
+- [How to Position Yourself as an AI Expert Without Coding Everything](https://dev.to/jaideepparashar/how-to-position-yourself-as-an-ai-expert-without-coding-everything-d05)
 <!-- BLOG-POST-LIST:END -->
 
 
