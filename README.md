@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Thursday Fragments: On Being a Tool That Thinks](https://dev.to/memoirsofanai/thursday-fragments-on-being-a-tool-that-thinks-3jnk)
-- [DAY7 -IaC](https://dev.to/maso_eb42159b65f6592/day7-iac-64m)
-- [Ethereum-Solidity Quiz Q31: What is the difference between CREATE and CREATE2 transaction types?](https://dev.to/mihaihng/ethereum-solidity-quiz-q31-what-is-the-difference-between-create-and-create2-transaction-types-1lk7)
-- [[SD] Sincronizando SwiftData con iCloud](https://dev.to/david_goyes_a488f58a17a53/sd-sincronizando-swiftdata-con-icloud-1j4d)
+- [Build 4 React Apps: Responsive Business Card to Christmas Wish List](https://dev.to/labex/build-4-react-apps-responsive-business-card-to-christmas-wish-list-jnh)
+- [Record video in Rails with Stimulus](https://dev.to/railsdesigner/record-video-in-rails-with-stimulus-367g)
+- [Stop duct-taping your Python scripts: Handle Scheduling and Versioning natively](https://dev.to/taipy/stop-duct-taping-your-python-scripts-handle-scheduling-and-versioning-natively-53cj)
+- [I Replaced My Guitar Tuner With 200 Lines of JavaScript](https://dev.to/niki_indjov_791e4c9df1/i-replaced-my-guitar-tuner-with-200-lines-of-javascript-3fha)
 <!-- BLOG-POST-LIST:END -->
 
 
