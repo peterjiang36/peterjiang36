@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building in Public: Adsloty, a Newsletter Ad Marketplace](https://dev.to/miraclejudeiv/building-in-public-adsloty-a-newsletter-ad-marketplace-2nh8)
-- [How I Achieved 100/100 on Lighthouse Score For My Portfolio Site](https://dev.to/myogeshchavan97/how-i-achieved-100100-on-lighthouse-score-for-my-portfolio-site-lge)
-- [Lessons from OpenClaw&#39;s Architecture for Agent Builders](https://dev.to/ialijr/lessons-from-openclaws-architecture-for-agent-builders-1j93)
-- [CVE-2026-22769: Rooting Recovery: The Dell RP4VMs Hardcoded Horror Show](https://dev.to/cverports/cve-2026-22769-rooting-recovery-the-dell-rp4vms-hardcoded-horror-show-oml)
+- [OpenROAD MCP: Let AI Close Your Timing](https://dev.to/luarss/openroad-mcp-let-ai-close-your-timing-47h6)
+- [How I built a Zero-Latency AI Firewall in Spring Boot &lpar;Without Redis&rpar;](https://dev.to/ashutosh_stark/how-i-built-a-zero-latency-ai-firewall-in-spring-boot-without-redis-5ck6)
+- [What happens when you tell an autonomous agent it&#39;s wrong](https://dev.to/rsdouglas/what-happens-when-you-tell-an-autonomous-agent-its-wrong-1k5g)
+- [Exploring OpenAPI Generator via static analysis](https://dev.to/pvsdev/exploring-openapi-generator-via-static-analysis-29ci)
 <!-- BLOG-POST-LIST:END -->
 
 
