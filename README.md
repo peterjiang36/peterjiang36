@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode 696 Solution Explained](https://dev.to/mahua_vaidya221030396_46/leetcode-696-solution-explained-3425)
-- [In Praise of “Hobbyist Languages”: The Unsung Heroes of Software Development](https://dev.to/lucianofedericopereira/in-praise-of-hobbyist-languages-the-unsung-heroes-of-software-development-k2c)
-- [Nginx Deep Dive: Architecture, Configuration, and Practical Examples](https://dev.to/shingaiz/nginx-deep-dive-architecture-configuration-and-practical-examples-38oj)
-- [Renaming WSL Distributions](https://dev.to/octasoft-ltd/renaming-wsl-distributions-ikl)
+- [Your Link-in-Bio Is Lying — Why Verified Links Are the Next Standard](https://dev.to/mitsuashi/your-link-in-bio-is-lying-why-verified-links-are-the-next-standard-390n)
+- [The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks](https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo)
+- [How I Built a Fast, Browser-Based Sudoku Platform Using JavaScript](https://dev.to/sudokupuzzlehub/how-i-built-a-fast-browser-based-sudoku-platform-using-javascript-2k6p)
+- [Why Stockfish is So Good &lpar;and How You Could Write a Chess Engine&rpar;](https://dev.to/djinn/why-stockfish-is-so-good-and-how-you-could-write-a-chess-engine-2lck)
 <!-- BLOG-POST-LIST:END -->
 
 
