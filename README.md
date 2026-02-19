@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Are You Still Using AI to Generate Table Code? 😤](https://dev.to/jacksonkasi/why-are-you-still-using-ai-to-generate-table-code-5dp4)
-- [Java String Immutability &amp; SCP behavior](https://dev.to/anushka_kawale_d5f9004b92/java-string-immutability-scp-behavior-2ph)
-- [I built a free AI resume tool with no database &lpar;because I hate signups&rpar;](https://dev.to/davis856/i-built-a-free-ai-resume-tool-with-no-database-because-i-hate-signups-5faa)
-- [Enforcement vs Micromanagement: Where’s the Line?](https://dev.to/stephen_jeyaseelan_68d744/enforcement-vs-micromanagement-wheres-the-line-1bd)
+- [I Got Tired of Guessing My Claude Quota, So I Made a Robot Read It For Me](https://dev.to/tommy_leonhardsen_81d1f4e/i-got-tired-of-guessing-my-claude-quota-so-i-made-a-robot-read-it-for-me-3513)
+- [All my Articles by Theme](https://dev.to/bcouetil/all-my-articles-by-theme-463k)
+- [5 reasons why you should learn to code even if you are unsure if you want to pursue a career as a full-time programmer](https://dev.to/derkxyz/5-reasons-why-you-should-learn-to-code-even-if-you-are-unsure-if-you-want-to-pursue-a-career-as-a-3ema)
+- [Gemini Tales: How I Built an AI Nanny to Fight the Sedentary Lifestyle 🧸✨](https://dev.to/vero-code/gemini-tales-how-i-built-an-ai-nanny-to-fight-the-sedentary-lifestyle-5a65)
 <!-- BLOG-POST-LIST:END -->
 
 
