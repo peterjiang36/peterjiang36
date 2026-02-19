@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Multi-Agent System. Here&#39;s What Broke &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/i-built-a-multi-agent-system-heres-what-broke-and-what-id-do-differently-k8c)
-- [JSON That Thinks: How We Built a Turing-Complete Language Inside JSON](https://dev.to/osama_alghanmi_3a45d72c33/json-that-thinks-how-we-built-a-turing-complete-language-inside-json-4n76)
-- [I Reverse-Engineered ChatGPT&#39;s UI Into an OpenAI-Compatible API and Here&#39;s Why You Shouldn&#39;t](https://dev.to/gautamvhavle/i-reverse-engineered-chatgpts-ui-into-an-openai-compatible-api-and-heres-why-you-shouldnt-ch)
-- [I Benchmarked 10 AI Models on Reading Human Emotions](https://dev.to/openmarkai/i-benchmarked-10-ai-models-on-reading-human-emotions-3m0b)
+- [How EC2 + EBS Actually Bills: A Breakdown for Engineers](https://dev.to/cloudwiseteam/how-ec2-ebs-actually-bills-a-breakdown-for-engineers-2al2)
+- [Designing Error Flows: Exceptions, Success Flags, or Discriminated Unions?](https://dev.to/__c75487cfa/designing-error-flows-exceptions-success-flags-or-discriminated-unions-45ac)
+- [Building a Real-Time Data Pipeline: Streaming TCP Socket Data to PostgreSQL with Node.js](https://dev.to/rpi1337/building-a-real-time-data-pipeline-streaming-tcp-socket-data-to-postgresql-with-nodejs-h3a)
+- [Max Out Your OpenClaw with AWS Credits via Kiro and Nova Models](https://dev.to/gabrielkoo/max-out-your-openclaw-with-aws-credits-via-kiro-and-nova-models-mdp)
 <!-- BLOG-POST-LIST:END -->
 
 
