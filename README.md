@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No one man should have all that POWER](https://dev.to/bibimbop123/no-one-man-should-have-all-that-power-3c67)
-- [1 Detik 3 Detik = +32% Bounce: Checklist Core Web Vitals &lpar;LCP/INP/CLS&rpar; untuk Website &amp; Company Profile yang SEO-Friendly](https://dev.to/mightyblue/1-detik-3-detik-32-bounce-checklist-core-web-vitals-lcpinpcls-untuk-website-company-3j47)
-- [10.Set Up Time Check Pod in Kubernetes](https://dev.to/thukhakyawe_cloud/10set-up-time-check-pod-in-kubernetes-2g4p)
-- [About me](https://dev.to/anne_gaong/about-me-29l6)
+- [🚀 Can I Run It? Stop the &quot;Out of Memory&quot; Guessing Game for Local LLMs](https://dev.to/wick229/can-i-run-it-stop-the-out-of-memory-guessing-game-for-local-llms-17ci)
+- [Bytecode: SQLite’s Internal Programming Language](https://dev.to/lovestaco/bytecode-sqlites-internal-programming-language-3kan)
+- [回声（第8章）：37起异常（第一部分）](https://dev.to/chx381/hui-sheng-di-8zhang-37qi-yi-chang-di-bu-fen--49fo)
+- [回声（第7章）：10%的思考空间（第一部分）](https://dev.to/chx381/hui-sheng-di-7zhang-10de-si-kao-kong-jian-di-bu-fen--5d9)
 <!-- BLOG-POST-LIST:END -->
 
 
