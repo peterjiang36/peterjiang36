@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiple header, footer, and h1 Elements: What Is Actually Accessible?](https://dev.to/miasalazar/multiple-header-footer-and-h1-elements-what-is-actually-accessible-5c2e)
-- [Launching an AWS EC2 Instance](https://dev.to/rahimah_dev/launching-an-aws-ec2-instance-d08)
-- [I Spent Weeks Building a Clock for Global Stock Market Hours](https://dev.to/hnevkop/i-spent-weeks-building-a-clock-for-global-stock-market-hours-2b8g)
-- [You&#39;re not falling behind - «Tend and Befriend» Theory](https://dev.to/manuartero/youre-not-falling-behind-theory-3mnc)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-3i69)
+- [Microsoft Authentication &lpar;MSAL&rpar; in Capacitor Angular Apps: A Complete Guide](https://dev.to/vaclav_svara_50ba53bc0010/microsoft-authentication-msal-in-capacitor-angular-apps-a-complete-guide-30jh)
+- [Azure AI Foundry Content Safety with Terraform: RAI Policies + Content Filters as Code 🛡️](https://dev.to/suhas_mallesh/azure-ai-foundry-content-safety-with-terraform-rai-policies-content-filters-as-code-206a)
+- [Replacing org.n52 JtsModule for Jackson 3: Introducing io.github.aytronnfr.jackson.jts.JtsModule](https://dev.to/aytronn/replacing-orgn52-jtsmodule-for-jackson-3-introducing-iogithubaytronnfrjacksonjtsjtsmodule-1gjp)
 <!-- BLOG-POST-LIST:END -->
 
 
