@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Glue Code Tax: A Line-by-Line Audit of Zod + react-hook-form](https://dev.to/sakobume/the-glue-code-tax-a-line-by-line-audit-of-zod-react-hook-form-4lg)
-- [I Stopped Context-Switching Between Validation, Forms, and Pipelines](https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o)
-- [Why Japanese Character Counting is a Nightmare for Developers &lpar;and How to Solve It&rpar;](https://dev.to/yuxuan_jiang_50486eabe8be/why-japanese-character-counting-is-a-nightmare-for-developers-and-how-to-solve-it-3348)
-- [AI-Driven Development fails to deliver a fundamental increase in software productivity](https://dev.to/neopotato/ai-driven-development-fails-to-deliver-a-fundamental-increase-in-software-productivity-49mg)
+- [No one man should have all that POWER](https://dev.to/bibimbop123/no-one-man-should-have-all-that-power-3c67)
+- [1 Detik 3 Detik = +32% Bounce: Checklist Core Web Vitals &lpar;LCP/INP/CLS&rpar; untuk Website &amp; Company Profile yang SEO-Friendly](https://dev.to/mightyblue/1-detik-3-detik-32-bounce-checklist-core-web-vitals-lcpinpcls-untuk-website-company-3j47)
+- [10.Set Up Time Check Pod in Kubernetes](https://dev.to/thukhakyawe_cloud/10set-up-time-check-pod-in-kubernetes-2g4p)
+- [About me](https://dev.to/anne_gaong/about-me-29l6)
 <!-- BLOG-POST-LIST:END -->
 
 
