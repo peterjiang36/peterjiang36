@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Safety Scanner for Claude Code Setups — Here&#39;s Why I Had To](https://dev.to/yurukusa/i-built-a-free-safety-scanner-for-claude-code-setups-heres-why-i-had-to-2883)
-- [Managing Multiple Kubernetes Clusters Without Losing Your Mind](https://dev.to/be0x74a/managing-multiple-kubernetes-clusters-without-losing-your-mind-12ba)
-- [Fundamentals of ADK Learning Path](https://dev.to/asrar_khan/fundamentals-of-adk-learning-path-499h)
-- [Choosing the Right Vector Embedding Model and Dimension: A School Analogy That Makes Everything Clear](https://dev.to/sreeni5018/choosing-the-right-vector-embedding-model-and-dimension-a-school-analogy-that-makes-everything-1e1d)
+- [Stop Building Apps The Hard Way](https://dev.to/dev_resources/stop-building-apps-the-hard-way-32ga)
+- [Securing Corporate Data: Azure Storage Private Access &amp; Lifecycle Management](https://dev.to/louis_oodo_a59b230b894609/securing-corporate-data-azure-storage-private-access-lifecycle-management-4dpg)
+- [The Day the AI Took My Requirements Literally](https://dev.to/srsandrade/the-day-the-ai-took-my-requirements-literally-24a1)
+- [The hosting setup nobody talks about anymore](https://dev.to/aws/the-hosting-setup-nobody-talks-about-anymore-2528)
 <!-- BLOG-POST-LIST:END -->
 
 
