@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
-- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
-- [Offset vs Digital Printing: Hitung Titik Crossover Biaya, Makeready, dan Waste &lpar;Run-Length Calculator&rpar;](https://dev.to/mightyblue/offset-vs-digital-printing-hitung-titik-crossover-biaya-makeready-dan-waste-run-length-2i7j)
-- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
+- [AI Coding Tools: Why Developers Disagree](https://dev.to/val_kamenski_4ce4fbb62b62/ai-coding-tools-why-developers-disagree-3jh6)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4he6)
+- [Building AgentSecrets: Secrets Manager for the AI Era](https://dev.to/the_seventeen/building-agentsecrets-secrets-manager-for-the-ai-era-4hc0)
+- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4)
 <!-- BLOG-POST-LIST:END -->
 
 
