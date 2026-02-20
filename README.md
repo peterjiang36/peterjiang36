@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Workflows: When Autonomy Pays Off and When It Backfires](https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0)
-- [Debugging postgres: List all connections](https://dev.to/stefanukena/debugging-postgres-list-all-connections-3o55)
-- [Generate PDF Reports from HTML with Screenshots — A Developer&#39;s Toolkit](https://dev.to/mackmoneymaker/generate-pdf-reports-from-html-with-screenshots-a-developers-toolkit-3nk1)
-- [Why rigid task trackers fail my neurodivergent brain &lpar;and the local AI tool I built instead&rpar;](https://dev.to/chadders13/why-rigid-task-trackers-fail-my-neurodivergent-brain-and-the-local-ai-tool-i-built-instead-29c1)
+- [I Built a Drum Tuner That Vibrates When You’re Out of Tune](https://dev.to/niki_indjov_791e4c9df1/i-built-a-drum-tuner-that-vibrates-when-youre-out-of-tune-2hic)
+- [司马懿篡汉提前了：高平陵之变早发的历史](https://dev.to/chx381/si-ma-yi-cuan-yi-ti-qian-liao-gao-ping-ling-zhi-bian-zao-fa-de-li-shi-4dj)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-37fg)
+- [I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong &lpar;And Why It’s Not Their Fault&rpar;](https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn)
 <!-- BLOG-POST-LIST:END -->
 
 
