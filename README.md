@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Throwing Exceptions. Use Option and Result Instead.](https://dev.to/vitalicset/stop-throwing-exceptions-use-option-and-result-instead-3egm)
-- [Fail2ban Cheat Sheet for Sysadmins](https://dev.to/geeksta/fail2ban-cheat-sheet-for-sysadmins-jkk)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4d91)
-- [MLOps Challenges: 7 Production Problems and How to Fix Them](https://dev.to/apprecode/mlops-challenges-7-production-problems-and-how-to-fix-them-5goc)
+- [mjm.local.docs: Open Source Local Knowledge Base with MCP](https://dev.to/markjackmilian/mjmlocaldocs-open-source-local-knowledge-base-with-mcp-3711)
+- [Implementing a JSON Schema Validator from Scratch - Week 5](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-5-2f59)
+- [4-Platform Blog Auto-Publishing: A Fully Automated Pipeline from Writing to Live](https://dev.to/linou518/4-platform-blog-auto-publishing-a-fully-automated-pipeline-from-writing-to-live-abi)
+- [Persism 2.3 released - A zero ceremony ORM for Java](https://dev.to/dan_howard_70b0412cb900e1/persism-23-released-a-zero-ceremony-orm-for-java-5apm)
 <!-- BLOG-POST-LIST:END -->
 
 
