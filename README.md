@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Tools: Why Developers Disagree](https://dev.to/val_kamenski_4ce4fbb62b62/ai-coding-tools-why-developers-disagree-3jh6)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4he6)
-- [Building AgentSecrets: Secrets Manager for the AI Era](https://dev.to/the_seventeen/building-agentsecrets-secrets-manager-for-the-ai-era-4hc0)
-- [The Meter Was Always Running](https://dev.to/dannwaneri/the-meter-was-always-running-44c4)
+- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
+- [I Built a pip-installable RAG Chatbot — Chat With Any Document in 3 Lines of Python](https://dev.to/lakshmisravyavedantham/i-built-a-pip-installable-rag-chatbot-chat-with-any-document-in-3-lines-of-python-3695)
+- [5 things I learned from building and releasing Hounty](https://dev.to/valeriavg/5-things-i-learned-from-building-and-releasing-hounty-2pg0)
+- [I Trained OpenClaw to Run My Blog: Voice DNA, Agentic SEO, and the End of Manual Publishing](https://dev.to/chudi_nnorukam/i-trained-openclaw-to-run-my-blog-voice-dna-agentic-seo-and-the-end-of-manual-publishing-1la8)
 <!-- BLOG-POST-LIST:END -->
 
 
