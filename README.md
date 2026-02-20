@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Drum Tuner That Vibrates When You’re Out of Tune](https://dev.to/niki_indjov_791e4c9df1/i-built-a-drum-tuner-that-vibrates-when-youre-out-of-tune-2hic)
-- [司马懿篡汉提前了：高平陵之变早发的历史](https://dev.to/chx381/si-ma-yi-cuan-yi-ti-qian-liao-gao-ping-ling-zhi-bian-zao-fa-de-li-shi-4dj)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-37fg)
-- [I’ve Mentored 37 Junior Developers. Here’s What They All Get Wrong &lpar;And Why It’s Not Their Fault&rpar;](https://dev.to/art_light/ive-mentored-37-junior-developers-heres-what-they-all-get-wrong-and-why-its-not-their-fault-hdn)
+- [Agentic AI vs Chatbots vs Automation: What’s Actually Different in Practice](https://dev.to/shaheryaryousaf/agentic-ai-vs-chatbots-vs-automation-whats-actually-different-in-practice-4k85)
+- [How to Generate Fake Phone Numbers for Testing &lpar;Without Using Real Data&rpar;](https://dev.to/vikash_sharma_d2214e36947/how-to-generate-fake-phone-numbers-for-testing-without-using-real-data-2b33)
+- [I Hated Writing Tickets &lpar;Until I Used AI&rpar;](https://dev.to/drueda00/i-hated-writing-tickets-until-i-used-ai-3a8o)
+- [Eating Healthy as a Tech Worker: A Practical Framework](https://dev.to/albert_nahas_cdc8469a6ae8/eating-healthy-as-a-tech-worker-a-practical-framework-3306)
 <!-- BLOG-POST-LIST:END -->
 
 
