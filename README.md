@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
-- [I Built a pip-installable RAG Chatbot — Chat With Any Document in 3 Lines of Python](https://dev.to/lakshmisravyavedantham/i-built-a-pip-installable-rag-chatbot-chat-with-any-document-in-3-lines-of-python-3695)
-- [5 things I learned from building and releasing Hounty](https://dev.to/valeriavg/5-things-i-learned-from-building-and-releasing-hounty-2pg0)
-- [I Trained OpenClaw to Run My Blog: Voice DNA, Agentic SEO, and the End of Manual Publishing](https://dev.to/chudi_nnorukam/i-trained-openclaw-to-run-my-blog-voice-dna-agentic-seo-and-the-end-of-manual-publishing-1la8)
+- [Is C# the new TypeScript? How Minimal APIs felt like home for a React Dev](https://dev.to/aroarko/is-c-the-new-typescript-how-minimal-apis-felt-like-home-for-a-react-dev-1nan)
+- [Face Avatar Generator — DEV x Google AI Studio Submission](https://dev.to/lukeponga-dev/face-avatar-generator-dev-x-google-ai-studio-submission-7pp)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4n28)
+- [I added CI/CD support to my natural language API testing CLI](https://dev.to/mbadyl/i-added-cicd-support-to-my-natural-language-api-testing-cli-4imn)
 <!-- BLOG-POST-LIST:END -->
 
 
