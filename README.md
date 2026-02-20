@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
-- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
-- [Prompting in Dead Languages: Latin, Ancient Greek, and Proto-Indo-European as Creative Constraints](https://dev.to/velocityai/prompting-in-dead-languages-latin-ancient-greek-and-proto-indo-european-as-creative-constraints-5efn)
-- [App Monetization for iOS Devs: Stop Guessing, Start Earning](https://dev.to/tobby_scraper/app-monetization-for-ios-devs-stop-guessing-start-earning-3i10)
+- [Stop Throwing Exceptions. Use Option and Result Instead.](https://dev.to/vitalicset/stop-throwing-exceptions-use-option-and-result-instead-3egm)
+- [Fail2ban Cheat Sheet for Sysadmins](https://dev.to/geeksta/fail2ban-cheat-sheet-for-sysadmins-jkk)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4d91)
+- [MLOps Challenges: 7 Production Problems and How to Fix Them](https://dev.to/apprecode/mlops-challenges-7-production-problems-and-how-to-fix-them-5goc)
 <!-- BLOG-POST-LIST:END -->
 
 
