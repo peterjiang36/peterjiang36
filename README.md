@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-3i69)
-- [Microsoft Authentication &lpar;MSAL&rpar; in Capacitor Angular Apps: A Complete Guide](https://dev.to/vaclav_svara_50ba53bc0010/microsoft-authentication-msal-in-capacitor-angular-apps-a-complete-guide-30jh)
-- [Azure AI Foundry Content Safety with Terraform: RAI Policies + Content Filters as Code 🛡️](https://dev.to/suhas_mallesh/azure-ai-foundry-content-safety-with-terraform-rai-policies-content-filters-as-code-206a)
-- [Replacing org.n52 JtsModule for Jackson 3: Introducing io.github.aytronnfr.jackson.jts.JtsModule](https://dev.to/aytronn/replacing-orgn52-jtsmodule-for-jackson-3-introducing-iogithubaytronnfrjacksonjtsjtsmodule-1gjp)
+- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
+- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
+- [Offset vs Digital Printing: Hitung Titik Crossover Biaya, Makeready, dan Waste &lpar;Run-Length Calculator&rpar;](https://dev.to/mightyblue/offset-vs-digital-printing-hitung-titik-crossover-biaya-makeready-dan-waste-run-length-2i7j)
+- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
 <!-- BLOG-POST-LIST:END -->
 
 
