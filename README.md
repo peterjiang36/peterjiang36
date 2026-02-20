@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 15 of 100](https://dev.to/hirave_palak/day-15-of-100-523e)
-- [🏗️ AWS JumpStart desde la mirada de un Cloud Architect](https://dev.to/eesa14/aws-jumpstart-desde-la-mirada-de-un-cloud-architect-185b)
-- [Why Most Astrology Apps Lie About Their Astronomical Data](https://dev.to/sammiihk/why-most-astrology-apps-lie-about-their-astronomical-data-1g2l)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2k4f)
+- [Multiple header, footer, and h1 Elements: What Is Actually Accessible?](https://dev.to/miasalazar/multiple-header-footer-and-h1-elements-what-is-actually-accessible-5c2e)
+- [Launching an AWS EC2 Instance](https://dev.to/rahimah_dev/launching-an-aws-ec2-instance-d08)
+- [I Spent Weeks Building a Clock for Global Stock Market Hours](https://dev.to/hnevkop/i-spent-weeks-building-a-clock-for-global-stock-market-hours-2b8g)
+- [You&#39;re not falling behind - «Tend and Befriend» Theory](https://dev.to/manuartero/youre-not-falling-behind-theory-3mnc)
 <!-- BLOG-POST-LIST:END -->
 
 
