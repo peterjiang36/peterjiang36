@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Maintenance: Do I Need to Update My License Year?](https://dev.to/rlespinasse/open-source-maintenance-do-i-need-to-update-my-license-year-4o8e)
-- [The Simplest Way to Make Just Interactive: Use --choose](https://dev.to/rlespinasse/the-simplest-way-to-make-just-interactive-use-choose-402a)
-- [I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp)
-- [How to Add a Photo to an Existing Page in a PDF Using macOS Preview](https://dev.to/rlespinasse/how-to-add-a-photo-to-an-existing-page-in-a-pdf-using-macos-preview-ho9)
+- [Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET](https://dev.to/hypertextcoffeepot/activity-in-wonderland-distributed-tracing-with-opentelemetry-and-net-2ehe)
+- [Security news weekly round-up - 20th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-20th-february-2026-2kmg)
+- [SkyLink API’s Commitment to Sustainable Infrastructure — SkyLink API](https://dev.to/skylink_api/skylink-apis-commitment-to-sustainable-infrastructure-skylink-api-1pfc)
+- [AnnotateAI Medical AI Insights](https://dev.to/annotateai/annotateai-medical-ai-insights-33k8)
 <!-- BLOG-POST-LIST:END -->
 
 
