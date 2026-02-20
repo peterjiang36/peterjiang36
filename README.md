@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Claude Taught Me About Using Claude](https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn)
-- [Why Your OpenClaw Agent Sucks &lpar;And How SOUL.md Fixes It&rpar;](https://dev.to/techfind777/why-your-openclaw-agent-sucks-and-how-soulmd-fixes-it-3h0d)
-- [You Don’t Need a Bigger Model — You Need a Stable One](https://dev.to/cloyouai/you-dont-need-a-bigger-model-you-need-a-stable-one-5dff)
-- [Creating a Windows Virtual Machine &lpar;VM&rpar; in Azure](https://dev.to/nwafor_somadina_efa388085/creating-a-windows-virtual-machine-vm-in-azure-5fd0)
+- [Agentic Workflows: When Autonomy Pays Off and When It Backfires](https://dev.to/sashido/agentic-workflows-when-autonomy-pays-off-and-when-it-backfires-27b0)
+- [Debugging postgres: List all connections](https://dev.to/stefanukena/debugging-postgres-list-all-connections-3o55)
+- [Generate PDF Reports from HTML with Screenshots — A Developer&#39;s Toolkit](https://dev.to/mackmoneymaker/generate-pdf-reports-from-html-with-screenshots-a-developers-toolkit-3nk1)
+- [Why rigid task trackers fail my neurodivergent brain &lpar;and the local AI tool I built instead&rpar;](https://dev.to/chadders13/why-rigid-task-trackers-fail-my-neurodivergent-brain-and-the-local-ai-tool-i-built-instead-29c1)
 <!-- BLOG-POST-LIST:END -->
 
 
