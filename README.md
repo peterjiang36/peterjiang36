@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Can I Run It? Stop the &quot;Out of Memory&quot; Guessing Game for Local LLMs](https://dev.to/wick229/can-i-run-it-stop-the-out-of-memory-guessing-game-for-local-llms-17ci)
-- [Bytecode: SQLite’s Internal Programming Language](https://dev.to/lovestaco/bytecode-sqlites-internal-programming-language-3kan)
-- [回声（第8章）：37起异常（第一部分）](https://dev.to/chx381/hui-sheng-di-8zhang-37qi-yi-chang-di-bu-fen--49fo)
-- [回声（第7章）：10%的思考空间（第一部分）](https://dev.to/chx381/hui-sheng-di-7zhang-10de-si-kao-kong-jian-di-bu-fen--5d9)
+- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
+- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
+- [What users secretly judge right after your hero section](https://dev.to/bhavin-allinonetools/what-users-secretly-judge-right-after-your-hero-section-5b6k)
+- [I Built a Free BMI, BMR, Calorie &amp; Ideal Weight Calculator Using React and Tailwind CSS](https://dev.to/swetasingh8844/i-built-a-free-bmi-bmr-calorie-ideal-weight-calculator-using-react-and-tailwind-css-3915)
 <!-- BLOG-POST-LIST:END -->
 
 
