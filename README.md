@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made Two AIs Review My robots.txt — Here’s What They Taught Me About SEO and Over-Optimization](https://dev.to/maibhushan/i-made-two-ais-review-my-robotstxt-heres-what-they-taught-me-about-seo-and-over-optimization-4fh7)
-- [Building a Full-Featured Code Editor on Android: A Mobile Developer&#39;s Journey](https://dev.to/codingrot17php/building-a-full-featured-code-editor-on-android-a-mobile-developers-journey-1e7c)
-- [Blocking Bing at Home with Pi-Hole &lpar;Without Breaking Edge&rpar;](https://dev.to/lancer1977/blocking-bing-at-home-with-pi-hole-without-breaking-edge-21fl)
-- [Find Pivot Index &lpar;Prefix Sum Made Simple&rpar;](https://dev.to/nithya_dharshiniofficial/find-pivot-index-prefix-sum-made-simple-2h68)
+- [Using Google Trends for Smarter Keyword Research in Your Projects](https://dev.to/markclarke/using-google-trends-for-smarter-keyword-research-in-your-projects-269k)
+- [# 🔍 Building Polyglot Escape: When Translation Becomes The Game](https://dev.to/bhagyesh_patil/-building-polyglot-escape-when-translation-becomes-the-game-49bc)
+- [Mastering Cache Hits in Claude Code](https://dev.to/kitaekatt/mastering-cache-hits-in-claude-code-5648)
+- [Title: AI-Powered Water Conservation in California: A Succes](https://dev.to/drcarlosruizviquez/title-ai-powered-water-conservation-in-california-a-succes-4n7c)
 <!-- BLOG-POST-LIST:END -->
 
 
