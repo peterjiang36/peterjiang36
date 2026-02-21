@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Generator](https://dev.to/saurav_0302/python-generator-5340)
-- [From Prompt to Post: Secure Auto‑Publishing to DEV.to &lpar;and Medium&rpar; with Clawship](https://dev.to/jefferyhus/from-prompt-to-post-secure-auto-publishing-to-devto-and-medium-with-clawship-2a7j)
-- [🌿 React Diaries with Thaatha – Day 2: GitLab &amp; Oru Main ID](https://dev.to/premdev/react-diaries-with-thaatha-day-2-gitlab-oru-main-id-3m1d)
-- [How to Handle Vertical Japanese Text in Android OCR](https://dev.to/joe_wang_6a4a3e51566e8b52/how-to-handle-vertical-japanese-text-in-android-ocr-1mj9)
+- [🏰Beginner-Friendly Guide &#39;Prime Number of Set Bits in Binary Representation&#39; - Problem 762 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-prime-number-of-set-bits-in-binary-representation-problem-762-c-3i33)
+- [Build Your Own MCP Server for Cursor/Claude in 4 Steps](https://dev.to/veeresh-machani/build-your-own-mcp-server-for-cursorclaude-in-4-steps-h79)
+- [PostgreSQL vs MySQL: A 2026 Production Decision Framework](https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8)
+- [Not every AI tool is suitable for every system. The real cost of an AI tool shows up months after the demo, not during it.](https://dev.to/jaideepparashar/not-every-ai-tool-is-suitable-for-every-system-the-real-cost-of-an-ai-tool-shows-up-months-after-5fa2)
 <!-- BLOG-POST-LIST:END -->
 
 
