@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Google Trends for Smarter Keyword Research in Your Projects](https://dev.to/markclarke/using-google-trends-for-smarter-keyword-research-in-your-projects-269k)
-- [# 🔍 Building Polyglot Escape: When Translation Becomes The Game](https://dev.to/bhagyesh_patil/-building-polyglot-escape-when-translation-becomes-the-game-49bc)
-- [Mastering Cache Hits in Claude Code](https://dev.to/kitaekatt/mastering-cache-hits-in-claude-code-5648)
-- [Title: AI-Powered Water Conservation in California: A Succes](https://dev.to/drcarlosruizviquez/title-ai-powered-water-conservation-in-california-a-succes-4n7c)
+- [Build for Worth, Not Valuation &lpar;Part 1 of a Practical Builder Series&rpar;](https://dev.to/stinklewinks/build-for-worth-not-valuation-part-1-of-a-practical-builder-series-20ho)
+- [Unlocking Visual AI: How to Analyze Images with GPT-4o and React Server Components](https://dev.to/programmingcentral/unlocking-visual-ai-how-to-analyze-images-with-gpt-4o-and-react-server-components-p79)
+- [The Claude Code Information Hierarchy](https://dev.to/kitaekatt/the-claude-code-information-hierarchy-n7m)
+- [Do you think there&#39;s value in automated git summaries for standups and sprint reviews?](https://dev.to/reposweeper/do-you-think-theres-value-in-automated-git-summaries-for-standups-and-sprint-reviews-4gdm)
 <!-- BLOG-POST-LIST:END -->
 
 
