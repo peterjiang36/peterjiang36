@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting Your GitHub Projects: Automate Your Dev Resume](https://dev.to/resumemind/stop-copy-pasting-your-github-projects-automate-your-dev-resume-4el)
-- [helloTali Overview Plan](https://dev.to/harrykhlo/hellotali-overview-plan-1pa7)
-- [Are markdown files becoming the new dot files?](https://dev.to/xwero/are-markdown-files-becoming-the-new-dot-files-19f3)
-- [I Built a Hosting Comparison Platform with Astro, Svelte 5 &amp; Hono](https://dev.to/hostingsift/i-built-a-hosting-comparison-platform-with-astro-svelte-5-hono-3kde)
+- [AI Gave Us Lemons. We Picked Limoncello](https://dev.to/olgabraginskaya/ai-gave-us-lemons-we-picked-limoncello-5en4)
+- [Firebase Push Notifications in Capacitor Angular Apps: The Complete Implementation Guide](https://dev.to/vaclav_svara_50ba53bc0010/firebase-push-notifications-in-capacitor-angular-apps-the-complete-implementation-guide-1c67)
+- [Python CGI Programming Tutorial: Learn Server-Side Python Step by Step](https://dev.to/jt_pt_fae02e46ad80f3cb75d/python-cgi-programming-tutorial-learn-server-side-python-step-by-step-4gng)
+- [OpenClaw on Mac Mini: Secure 24/7 Setup Guide for Production Use](https://dev.to/zafarr/openclaw-on-mac-mini-secure-247-setup-guide-for-production-use-5a29)
 <!-- BLOG-POST-LIST:END -->
 
 
