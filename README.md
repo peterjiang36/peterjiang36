@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Dev Environment Runs at Full Capacity 24/7 But Your Team Works 8 Hours: Scale It Down and Save 65% ⏰](https://dev.to/suhas_mallesh/your-dev-environment-runs-at-full-capacity-247-but-your-team-works-8-hours-scale-it-down-and-save-lp)
-- [SSH and SCP in 2026: Configuration, Security Hardening, and Advanced Tips](https://dev.to/matheus_releaserun/ssh-and-scp-in-2026-configuration-security-hardening-and-advanced-tips-8nm)
-- [#4 - Eino: ByteDance&#39;s LangGraph for Go — Building a 6-Node Agentic Workflow](https://dev.to/itodona/4-eino-bytedances-langgraph-for-go-building-a-6-node-agentic-workflow-4nj2)
-- [Deep Dive into OOP, Prototypes, and the &#39;new&#39; Keyword in JavaScript](https://dev.to/asim-momin-7864/deep-dive-into-oop-prototypes-and-the-new-keyword-in-javascript-46lf)
+- [I Made Two AIs Review My robots.txt — Here’s What They Taught Me About SEO and Over-Optimization](https://dev.to/maibhushan/i-made-two-ais-review-my-robotstxt-heres-what-they-taught-me-about-seo-and-over-optimization-4fh7)
+- [Building a Full-Featured Code Editor on Android: A Mobile Developer&#39;s Journey](https://dev.to/codingrot17php/building-a-full-featured-code-editor-on-android-a-mobile-developers-journey-1e7c)
+- [Blocking Bing at Home with Pi-Hole &lpar;Without Breaking Edge&rpar;](https://dev.to/lancer1977/blocking-bing-at-home-with-pi-hole-without-breaking-edge-21fl)
+- [Find Pivot Index &lpar;Prefix Sum Made Simple&rpar;](https://dev.to/nithya_dharshiniofficial/find-pivot-index-prefix-sum-made-simple-2h68)
 <!-- BLOG-POST-LIST:END -->
 
 
