@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When 64KB Was Enough: The Masters of Assembly](https://dev.to/caminhodaspedras/when-64kb-was-enough-the-masters-of-assembly-h6o)
-- [98 Bytes That Prove Your Document Existed](https://dev.to/dzatona/98-bytes-that-prove-your-document-existed-c5i)
-- [Drupal Canvas Full HTML rollout guide](https://dev.to/victorstackai/drupal-canvas-full-html-rollout-guide-1b5m)
-- [Devlog: 2026-02-04](https://dev.to/victorstackai/devlog-2026-02-04-1h93)
+- [Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards](https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id)
+- [From Scrape to Feed: Generating Google Shopping XML from Costco Product Data](https://dev.to/anderecit/from-scrape-to-feed-generating-google-shopping-xml-from-costco-product-data-10ib)
+- [IaaS](https://dev.to/khadijah/iaas-1h2)
+- [Create Account for Gitlap](https://dev.to/premdev/create-account-for-gitlap-515l)
 <!-- BLOG-POST-LIST:END -->
 
 
