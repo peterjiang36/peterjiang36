@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🏰Beginner-Friendly Guide &#39;Prime Number of Set Bits in Binary Representation&#39; - Problem 762 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-prime-number-of-set-bits-in-binary-representation-problem-762-c-3i33)
-- [Build Your Own MCP Server for Cursor/Claude in 4 Steps](https://dev.to/veeresh-machani/build-your-own-mcp-server-for-cursorclaude-in-4-steps-h79)
-- [PostgreSQL vs MySQL: A 2026 Production Decision Framework](https://dev.to/matheus_releaserun/postgresql-vs-mysql-a-2026-production-decision-framework-1hc8)
-- [Not every AI tool is suitable for every system. The real cost of an AI tool shows up months after the demo, not during it.](https://dev.to/jaideepparashar/not-every-ai-tool-is-suitable-for-every-system-the-real-cost-of-an-ai-tool-shows-up-months-after-5fa2)
+- [When 64KB Was Enough: The Masters of Assembly](https://dev.to/caminhodaspedras/when-64kb-was-enough-the-masters-of-assembly-h6o)
+- [98 Bytes That Prove Your Document Existed](https://dev.to/dzatona/98-bytes-that-prove-your-document-existed-c5i)
+- [Drupal Canvas Full HTML rollout guide](https://dev.to/victorstackai/drupal-canvas-full-html-rollout-guide-1b5m)
+- [Devlog: 2026-02-04](https://dev.to/victorstackai/devlog-2026-02-04-1h93)
 <!-- BLOG-POST-LIST:END -->
 
 
