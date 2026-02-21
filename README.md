@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-27206: The Zumba Class Dance: RCE via PHP Object Injection in json-serializer](https://dev.to/cverports/cve-2026-27206-the-zumba-class-dance-rce-via-php-object-injection-in-json-serializer-2930)
-- [CUDA Graphs in LLM Inference: Deep Dive](https://dev.to/sfahad/cuda-graphs-in-llm-inference-deep-dive-36pb)
-- [When One Model Reviews Its Own Work: The Case for Adversarial Cross-Model Review](https://dev.to/john_wade_dev/when-one-model-reviews-its-own-work-the-case-for-adversarial-cross-model-review-37k1)
-- [Deploying Prefect Workflows on Cloud Run with Cloud SQL &lpar;Production-Ready GCP Setup&rpar;](https://dev.to/devopspilot/deploying-prefect-workflows-on-cloud-run-with-cloud-sql-production-ready-gcp-setup-57a2)
+- [Understanding Strings in Rust: `String` vs String Literals &lpar;`&amp;str`&rpar;](https://dev.to/dobbythedev/understanding-strings-in-rust-string-vs-string-literals-str-5fn6)
+- [Supabase: Why Modern AI Applications Are Choosing Postgres Again](https://dev.to/riturathin/supabase-why-modern-ai-applications-are-choosing-postgres-again-3fco)
+- [Lights Out! 🌙 Your Dev VMs Run Full Power 24/7 But Your Devs Work 8 Hours. Scale Down and Stop Overpaying.](https://dev.to/suhas_mallesh/lights-out-your-dev-vms-run-full-power-247-but-your-devs-work-8-hours-scale-down-and-stop-3jig)
+- [The Secret Life of JavaScript: The Clone](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-clone-no9)
 <!-- BLOG-POST-LIST:END -->
 
 
