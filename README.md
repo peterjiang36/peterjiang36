@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Freecropper.com and Got 200+ Users in 7 Days](https://dev.to/holland_chirs_81f037a70a9/how-i-built-freecropper-and-got-200-users-in-7-days-18g8)
-- [Centralizing Requirements to Implementation: Using Rizm with Cursor via MCP](https://dev.to/kent_testperspectiv/centralizing-requirements-to-implementation-using-rizm-with-cursor-via-mcp-1849)
-- [Tappi Is the Most Token-Efficient Browser Tool for AI Agents. Nothing Else Comes Close.](https://dev.to/azeruddin_sheikh_f75230b5/tappi-is-the-most-token-efficient-browser-tool-for-ai-agents-nothing-else-comes-close-33gk)
-- [Title: I built a AI Network Monitor to track where my data is actually going 🚀](https://dev.to/joshua_be_0c7de3c72439873/title-i-built-a-ai-network-monitor-to-track-where-my-data-is-actually-going-1b87)
+- [Python Generator](https://dev.to/saurav_0302/python-generator-5340)
+- [From Prompt to Post: Secure Auto‑Publishing to DEV.to &lpar;and Medium&rpar; with Clawship](https://dev.to/jefferyhus/from-prompt-to-post-secure-auto-publishing-to-devto-and-medium-with-clawship-2a7j)
+- [🌿 React Diaries with Thaatha – Day 2: GitLab &amp; Oru Main ID](https://dev.to/premdev/react-diaries-with-thaatha-day-2-gitlab-oru-main-id-3m1d)
+- [How to Handle Vertical Japanese Text in Android OCR](https://dev.to/joe_wang_6a4a3e51566e8b52/how-to-handle-vertical-japanese-text-in-android-ocr-1mj9)
 <!-- BLOG-POST-LIST:END -->
 
 
