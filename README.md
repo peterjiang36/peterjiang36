@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Gave Us Lemons. We Picked Limoncello](https://dev.to/olgabraginskaya/ai-gave-us-lemons-we-picked-limoncello-5en4)
-- [Firebase Push Notifications in Capacitor Angular Apps: The Complete Implementation Guide](https://dev.to/vaclav_svara_50ba53bc0010/firebase-push-notifications-in-capacitor-angular-apps-the-complete-implementation-guide-1c67)
-- [Python CGI Programming Tutorial: Learn Server-Side Python Step by Step](https://dev.to/jt_pt_fae02e46ad80f3cb75d/python-cgi-programming-tutorial-learn-server-side-python-step-by-step-4gng)
-- [OpenClaw on Mac Mini: Secure 24/7 Setup Guide for Production Use](https://dev.to/zafarr/openclaw-on-mac-mini-secure-247-setup-guide-for-production-use-5a29)
+- [Automate Website Thumbnails for Your Link Aggregator or Directory](https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l)
+- [I Built an Autonomous AI DevOps Agent Using LangGraph and AWS Bedrock — Here&#39;s Everything I Learned](https://dev.to/kartikmanimuthu/i-built-an-autonomous-ai-devops-agent-using-langgraph-and-aws-bedrock-heres-everything-i-learned-5591)
+- [Building a Smart Video Compressor in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/building-a-smart-video-compressor-in-python-step-by-step-4f23)
+- [How I Built a 5,000-Page Programmatic SEO Engine with Next.js, Supabase and Claude AI](https://dev.to/kamal_rifai_12718c8dc688d/how-i-built-a-5000-page-programmatic-seo-engine-with-nextjs-supabase-and-claude-ai-4601)
 <!-- BLOG-POST-LIST:END -->
 
 
