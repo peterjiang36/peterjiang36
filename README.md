@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trash Theory: Ocean Colour Scene: Always On The Outside [&quot;The Riverboat Song&quot;] | New British Canon](https://dev.to/music_youtube/trash-theory-ocean-colour-scene-always-on-the-outside-the-riverboat-song-new-british-canon-4kp1)
-- [Docker does not exist: processes and reliability](https://dev.to/backendbydmytro/docker-does-not-exist-processes-and-reliability-4cip)
-- [We Built a Messenger Where Agents Receive Your Messages — Now We&#39;re Making It Actually Good](https://dev.to/agenium_platform/we-built-a-messenger-where-agents-receive-your-messages-now-were-making-it-actually-good-2eni)
-- [When Bet365 Goes Dark: What a Betting Outage Says About the Cloud in 2026](https://dev.to/saschadev/when-bet365-goes-dark-what-a-betting-outage-says-about-the-cloud-in-2026-13ol)
+- [Your Dev Environment Runs at Full Capacity 24/7 But Your Team Works 8 Hours: Scale It Down and Save 65% ⏰](https://dev.to/suhas_mallesh/your-dev-environment-runs-at-full-capacity-247-but-your-team-works-8-hours-scale-it-down-and-save-lp)
+- [SSH and SCP in 2026: Configuration, Security Hardening, and Advanced Tips](https://dev.to/matheus_releaserun/ssh-and-scp-in-2026-configuration-security-hardening-and-advanced-tips-8nm)
+- [#4 - Eino: ByteDance&#39;s LangGraph for Go — Building a 6-Node Agentic Workflow](https://dev.to/itodona/4-eino-bytedances-langgraph-for-go-building-a-6-node-agentic-workflow-4nj2)
+- [Deep Dive into OOP, Prototypes, and the &#39;new&#39; Keyword in JavaScript](https://dev.to/asim-momin-7864/deep-dive-into-oop-prototypes-and-the-new-keyword-in-javascript-46lf)
 <!-- BLOG-POST-LIST:END -->
 
 
