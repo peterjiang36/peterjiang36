@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards](https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id)
-- [From Scrape to Feed: Generating Google Shopping XML from Costco Product Data](https://dev.to/anderecit/from-scrape-to-feed-generating-google-shopping-xml-from-costco-product-data-10ib)
-- [IaaS](https://dev.to/khadijah/iaas-1h2)
-- [Create Account for Gitlap](https://dev.to/premdev/create-account-for-gitlap-515l)
+- [CVE-2026-27206: The Zumba Class Dance: RCE via PHP Object Injection in json-serializer](https://dev.to/cverports/cve-2026-27206-the-zumba-class-dance-rce-via-php-object-injection-in-json-serializer-2930)
+- [CUDA Graphs in LLM Inference: Deep Dive](https://dev.to/sfahad/cuda-graphs-in-llm-inference-deep-dive-36pb)
+- [When One Model Reviews Its Own Work: The Case for Adversarial Cross-Model Review](https://dev.to/john_wade_dev/when-one-model-reviews-its-own-work-the-case-for-adversarial-cross-model-review-37k1)
+- [Deploying Prefect Workflows on Cloud Run with Cloud SQL &lpar;Production-Ready GCP Setup&rpar;](https://dev.to/devopspilot/deploying-prefect-workflows-on-cloud-run-with-cloud-sql-production-ready-gcp-setup-57a2)
 <!-- BLOG-POST-LIST:END -->
 
 
