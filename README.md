@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Coercion Rules](https://dev.to/mike-vincent/quarks-outlines-python-coercion-rules-4fe7)
-- [LovedIn: A Case Study](https://dev.to/biola/lovedin-a-case-study-4hc7)
-- [Building Skill Align – Part 3: Users, Apps, Profiles &amp; Permission Sets](https://dev.to/rubasri_srikanthan/building-skill-align-part-3-users-apps-profiles-permission-sets-1pc2)
-- [From Local to Live: A Complete Strapi v5 Deployment Roadmap &lpar;Part 0&rpar;](https://dev.to/tmkamal/from-local-to-live-a-complete-strapi-v5-deployment-roadmap-part-0-42kn)
+- [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
+- [How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)
+- [When espanso breaks on long replacement strings &lpar;and how to fix it&rpar;](https://dev.to/nikola/when-espanso-breaks-on-long-replacement-strings-and-how-to-fix-it-8cm)
+- [Serve AI-Ready Markdown from Your Symfony App 🔥](https://dev.to/mohammad_oveisi_9625d74d1/serve-ai-ready-markdown-from-your-symfony-app-162m)
 <!-- BLOG-POST-LIST:END -->
 
 
