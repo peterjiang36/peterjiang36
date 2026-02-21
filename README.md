@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Benchmark Web Frameworks in a Fair, Isolated Way | Mahdi Shamlou](https://dev.to/mahdi0shamlou/how-to-benchmark-web-frameworks-in-a-fair-isolated-way-mahdi-shamlou-1mol)
-- [Automate Me If You Can: The Accomplish Hackathon by WeMakeDevs](https://dev.to/onirestart/automate-me-if-you-can-the-accomplish-hackathon-by-wemakedevs-2cei)
-- [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4)
-- [Building AI Chat Interfaces is Exhausting. So I Open-Sourced a Solution.](https://dev.to/beyza_arisoy/building-ai-chat-interfaces-is-exhausting-so-i-open-sourced-a-solution-3oc5)
+- [Stay Consistent With Salah at Work Using This Slack App](https://dev.to/ikhaledabdelfattah/stay-consistent-with-salah-at-work-using-this-slack-app-465o)
+- [Creating a Low-code Agent with the ADK Visual Builder](https://dev.to/gde/creating-a-low-code-agent-with-the-adk-visual-builder-4504)
+- [I Built a Stateless Image Processing API — Here&#39;s How It Works](https://dev.to/theglitchapp/i-built-a-stateless-image-processing-api-heres-how-it-works-7ho)
+- [God Is Real,’ Can We Convince AI? A Fail-Closed Thought Experiment for Builders](https://dev.to/phuc_truong_4dd92c18684c9/god-is-real-can-we-convince-ai-a-fail-closed-thought-experiment-for-builders-1jbl)
 <!-- BLOG-POST-LIST:END -->
 
 
