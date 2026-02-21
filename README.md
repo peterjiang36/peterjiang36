@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFormation Template does count whitespaces in Template Size...](https://dev.to/prithvijj/cloudformation-template-does-count-whitespaces-in-template-size-5hlg)
-- [From Binary to AI Agents: Developers Have Never Been More Powerful](https://dev.to/abdeltoto/from-binary-to-ai-agents-developers-have-never-been-more-powerful-5hck)
-- [Your Architecture Diagram Is a Lie and Everyone in the Meeting Knows It](https://dev.to/kirill_tolmachev/your-architecture-diagram-is-a-lie-and-everyone-in-the-meeting-knows-it-15l9)
-- [Deep dive into the IAM concepts and understand it with practicle hands-on.](https://dev.to/nandan_007/deep-dive-into-the-iam-concepts-and-understand-it-with-practicle-hands-on-2ogp)
+- [How I Made My Portfolio Infinitely Extendable with 4 Lines of JSON](https://dev.to/sammiihk/how-i-made-my-portfolio-infinitely-extendable-with-4-lines-of-json-2536)
+- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-4l23)
+- [Vision-Based Object Tracking with Dual PID Control](https://dev.to/kayampady/vision-based-object-tracking-with-dual-pid-control-4m3l)
+- [How to Choose Your First Programming Language in 2026: A Complete Beginner&#39;s Guide](https://dev.to/4ds-dev/how-to-choose-your-first-programming-language-in-2026-a-complete-beginners-guide-2gmk)
 <!-- BLOG-POST-LIST:END -->
 
 
