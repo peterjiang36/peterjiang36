@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made My Portfolio Infinitely Extendable with 4 Lines of JSON](https://dev.to/sammiihk/how-i-made-my-portfolio-infinitely-extendable-with-4-lines-of-json-2536)
-- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-4l23)
-- [Vision-Based Object Tracking with Dual PID Control](https://dev.to/kayampady/vision-based-object-tracking-with-dual-pid-control-4m3l)
-- [How to Choose Your First Programming Language in 2026: A Complete Beginner&#39;s Guide](https://dev.to/4ds-dev/how-to-choose-your-first-programming-language-in-2026-a-complete-beginners-guide-2gmk)
+- [Trash Theory: Ocean Colour Scene: Always On The Outside [&quot;The Riverboat Song&quot;] | New British Canon](https://dev.to/music_youtube/trash-theory-ocean-colour-scene-always-on-the-outside-the-riverboat-song-new-british-canon-4kp1)
+- [Docker does not exist: processes and reliability](https://dev.to/backendbydmytro/docker-does-not-exist-processes-and-reliability-4cip)
+- [We Built a Messenger Where Agents Receive Your Messages — Now We&#39;re Making It Actually Good](https://dev.to/agenium_platform/we-built-a-messenger-where-agents-receive-your-messages-now-were-making-it-actually-good-2eni)
+- [When Bet365 Goes Dark: What a Betting Outage Says About the Cloud in 2026](https://dev.to/saschadev/when-bet365-goes-dark-what-a-betting-outage-says-about-the-cloud-in-2026-13ol)
 <!-- BLOG-POST-LIST:END -->
 
 
