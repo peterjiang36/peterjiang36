@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Activity in Wonderland - Distributed Tracing with OpenTelemetry and .NET](https://dev.to/hypertextcoffeepot/activity-in-wonderland-distributed-tracing-with-opentelemetry-and-net-2ehe)
-- [Security news weekly round-up - 20th February 2026](https://dev.to/ziizium/security-news-weekly-round-up-20th-february-2026-2kmg)
-- [SkyLink API’s Commitment to Sustainable Infrastructure — SkyLink API](https://dev.to/skylink_api/skylink-apis-commitment-to-sustainable-infrastructure-skylink-api-1pfc)
-- [AnnotateAI Medical AI Insights](https://dev.to/annotateai/annotateai-medical-ai-insights-33k8)
+- [How to Fall Back Gracefully When Apple Intelligence Isn&#39;t Available](https://dev.to/arshtechpro/how-to-fall-back-gracefully-when-apple-intelligence-isnt-available-48j)
+- [The Database Backup Strategy Every Startup Should Have &lpar;Before It’s Too Late&rpar;](https://dev.to/baqir_naqvi_41192fad7c962/the-database-backup-strategy-every-startup-should-have-before-its-too-late-348c)
+- [Why I Ditched Manjaro for CachyOS &lpar;And I’m Never Going Back&rpar;](https://dev.to/zilton7/why-i-ditched-manjaro-for-cachyos-and-im-never-going-back-3fo3)
+- [Why AI Needs UX Developers](https://dev.to/pixelflips/why-ai-needs-ux-developers-lho)
 <!-- BLOG-POST-LIST:END -->
 
 
