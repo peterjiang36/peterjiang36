@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Pipeline for Books, Here&#39;s the Architecture](https://dev.to/nikitachernenko/i-built-an-ai-pipeline-for-books-heres-the-architecture-52b6)
-- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-2cik)
-- [I&#39;m Open-Sourcing My Claude Code Toolkit - Separate Your Execution Layer from Your Intelligence Layer](https://dev.to/austinkidwell/im-open-sourcing-my-claude-code-toolkit-separate-your-execution-layer-from-your-intelligence-3kda)
-- [Apex D. OpenClaw, Mejorar la Busqueda.](https://dev.to/victoraguilarc/apex-d-openclaw-mejorar-la-busqueda-4m5l)
+- [I added a first-party MCP server to my API. Here is what AI coding assistants can now do.](https://dev.to/custodiaadmin/i-added-a-first-party-mcp-server-to-my-api-here-is-what-ai-coding-assistants-can-now-do-2flh)
+- [Anatomy of a Schema Drift Incident: 5 Real Patterns That Break Production](https://dev.to/qa-leaders/anatomy-of-a-schema-drift-incident-5-real-patterns-that-break-production-274l)
+- [Redis in NestJS: The RedisX Solution You Didn&#39;t Know You Needed](https://dev.to/sur-ser/redis-in-nestjs-the-redisx-solution-you-didnt-know-you-needed-1c7f)
+- [Everything I&#39;ve learned so far about .cursorrules after mass testing them](https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km)
 <!-- BLOG-POST-LIST:END -->
 
 
