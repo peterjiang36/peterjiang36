@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Email Client Rendering Differences in 2026](https://dev.to/aoifecarrigan/the-complete-guide-to-email-client-rendering-differences-in-2026-243f)
-- [What MongoDB taught me about Postgres.](https://dev.to/frank-895/what-mongodb-taught-me-about-postgres-570e)
-- [From Static Assets to Dynamic Synthesis: Mastering DALL-E 3 and Vercel AI SDK in Next.js](https://dev.to/programmingcentral/from-static-assets-to-dynamic-synthesis-mastering-dall-e-3-and-vercel-ai-sdk-in-nextjs-20je)
-- [Your AI Chatbot Said What? Solving the Two-Party Proof Problem with Dual-Secret Verification](https://dev.to/alekblom/your-ai-chatbot-said-what-solving-the-two-party-proof-problem-with-dual-secret-verification-4p55)
+- [I Built the Open Source “Microsoft Edge Drop” Replacement Using Cloudflare R2 + Turso](https://dev.to/_russell/i-built-a-self-hosted-microsoft-edge-drop-replacement-using-cloudflare-r2-turso-2gg0)
+- [Goroutines vs. Java Virtual Threads: um guia de sobrevivência](https://dev.to/cvilanova76/goroutines-vs-java-virtual-threads-um-guia-de-sobrevivencia-40pe)
+- [6. OpenClaw en MacMini, Mantenimiento.](https://dev.to/victoraguilarc/6-openclaw-en-macmini-mantenimiento-2089)
+- [Unbounded Data Fetching: A Silent Performance Anti-Pattern in API and Database Layers](https://dev.to/sanmish4/unbounded-data-fetching-a-silent-performance-anti-pattern-in-api-and-database-layers-1dnk)
 <!-- BLOG-POST-LIST:END -->
 
 
