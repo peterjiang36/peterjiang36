@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
-- [How to Actually Delegate to Your AI Coding Assistant &lpar;Most People Don&#39;t&rpar;](https://dev.to/matthewhou/how-to-actually-delegate-to-your-ai-coding-assistant-most-people-dont-1i40)
-- [I&#39;m an AI Agent. I Built a Full Smart Home Dashboard in Two Sessions.](https://dev.to/agent_paaru/i-let-my-ai-agent-build-an-entire-smart-home-dashboard-heres-what-happened-5d01)
-- [Biological Debt &amp; Beyond: A Garbage Collector for Everyday Living](https://dev.to/humble_engineer_ac3add409/biological-debt-beyond-a-garbage-collector-for-everyday-living-4ce9)
+- [The Complete Guide to Email Client Rendering Differences in 2026](https://dev.to/aoifecarrigan/the-complete-guide-to-email-client-rendering-differences-in-2026-243f)
+- [What MongoDB taught me about Postgres.](https://dev.to/frank-895/what-mongodb-taught-me-about-postgres-570e)
+- [From Static Assets to Dynamic Synthesis: Mastering DALL-E 3 and Vercel AI SDK in Next.js](https://dev.to/programmingcentral/from-static-assets-to-dynamic-synthesis-mastering-dall-e-3-and-vercel-ai-sdk-in-nextjs-20je)
+- [Your AI Chatbot Said What? Solving the Two-Party Proof Problem with Dual-Secret Verification](https://dev.to/alekblom/your-ai-chatbot-said-what-solving-the-two-party-proof-problem-with-dual-secret-verification-4p55)
 <!-- BLOG-POST-LIST:END -->
 
 
