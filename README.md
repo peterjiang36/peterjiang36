@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarks Are Breaking: Why Many ‘Top Scores’ Don’t Mean Production-Ready.](https://dev.to/lamhot/benchmarks-are-breaking-why-many-top-scores-dont-mean-production-ready-3cc9)
-- [Your Lighthouse Score Is Only Half the Story](https://dev.to/ahojmetrics/your-lighthouse-score-is-only-half-the-story-1d80)
-- [DoraHacks Hackathon Newsletter 2026 February](https://dev.to/dorahacks/dorahacks-hackathon-newsletter-2026-february-53i0)
-- [JWT vs PASETO v2 vs TECTO: Choosing the Right Token Protocol in 2026](https://dev.to/zastinian/jwt-vs-paseto-v2-vs-tecto-choosing-the-right-token-protocol-in-2026-573j)
+- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
+- [Data Engineering Basics: From What is Data to Modern Lakehouse Architecture](https://dev.to/salma_aga/-data-engineering-basics-from-what-is-data-to-modern-lakehouse-architecture-1l10)
+- [I built a system-wide tech dictionary because AI made me feel dumb](https://dev.to/cengiz_selcuk/i-built-a-system-wide-tech-dictionary-because-ai-made-me-feel-dumb-e31)
+- [I built a lightweight CLI log analyzer in Python while learning — here’s what I learned](https://dev.to/sonic001h/i-built-a-lightweight-cli-log-analyzer-in-python-while-learning-heres-what-i-learned-p7e)
 <!-- BLOG-POST-LIST:END -->
 
 
