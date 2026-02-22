@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡](https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73)
-- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
-- [Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)
-- [🌌 Beginner-Friendly Guide &#39;Binary Gap&#39; - Problem 868 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
+- [Build a Web Scraper and Sell the Data: A Step-by-Step Guide](https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-5d2g)
+- [FrogJumpCounter](https://dev.to/megzlawther1/frogjumpcounter-48ma)
+- [Reverse Engineering: A New Way to Learn UI](https://dev.to/wabisabi/reverse-engineering-a-new-way-to-learn-ui-44fk)
+- [DFT: The Crucial Gap in Open-Source Chip Design](https://dev.to/wiowiztech/dft-the-crucial-gap-in-open-source-chip-design-35f4)
 <!-- BLOG-POST-LIST:END -->
 
 
