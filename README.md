@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise SaaS Architecture Mistakes CTOs Still Make in 2026](https://dev.to/pedro_becker_13b67d91f36d/enterprise-saas-architecture-mistakes-ctos-still-make-in-2026-2mdc)
-- [I Built an Authentication System With Express.js, MongoDB, &lpar;Access/Refresh Tokens, Sessions, Rate Limiting &amp; More&rpar;](https://dev.to/hkarimi/i-built-an-authentication-system-with-expressjs-mongodb-accessrefresh-tokens-sessions-rate-hh0)
-- [Browser Automation in Go: Selenium, chromedp, Playwright, ZenRows](https://dev.to/rosgluk/browser-automation-in-go-selenium-chromedp-playwright-zenrows-15dm)
-- [How to Configure Desktop Launchers on Ubuntu 24 with Standard Icons](https://dev.to/rosgluk/how-to-configure-desktop-launchers-on-ubuntu-24-with-standard-icons-40i9)
+- [I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡](https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73)
+- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
+- [Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)
+- [🌌 Beginner-Friendly Guide &#39;Binary Gap&#39; - Problem 868 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
 <!-- BLOG-POST-LIST:END -->
 
 
