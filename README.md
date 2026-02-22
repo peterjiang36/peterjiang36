@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Autonomous AI Agent That Browses the Web](https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb)
-- [🚨 AI Will Not Replace Developers – Lazy Developers Will Be Replaced](https://dev.to/darshanraval/ai-will-not-replace-developers-lazy-developers-will-be-replaced-224j)
-- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong. 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-4jfe)
-- [Zero-Knowledge Encryption: What “We Can’t See Your Data” Actually Means](https://dev.to/inkrypt/zero-knowledge-encryption-what-we-cant-see-your-data-actually-means-1mbl)
+- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l)
+- [My GSoC &#39;25 Experience](https://dev.to/damikaanupama/my-gsoc-25-experience-20n0)
+- [Built a Blazing-Fast OSINT Scanner in Go](https://dev.to/dhanushnehru/built-a-blazing-fast-osint-scanner-in-go-54gg)
+- [The Developer’s Roadmap to Revenue: 4 Software Business Models Explained &lpar;With Real Numbers&rpar;](https://dev.to/chimwemwe_liwonde_9429d0f/the-developers-roadmap-to-revenue-4-software-business-models-explained-with-real-numbers-1031)
 <!-- BLOG-POST-LIST:END -->
 
 
