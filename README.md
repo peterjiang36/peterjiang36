@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RGB vs CMYK untuk Developer &amp; Designer: Cara Bikin File Web Jadi Print-Ready Tanpa Kejutan Warna &lpar;Pakai ICC Profile&rpar;](https://dev.to/mightyblue/rgb-vs-cmyk-untuk-developer-designer-cara-bikin-file-web-jadi-print-ready-tanpa-kejutan-warna-4246)
-- [Observability di Proyek Konstruksi: Monitoring Alat Berat &amp; K3 Berbasis IoT dengan Dashboard Real-Time](https://dev.to/mightyblue/observability-di-proyek-konstruksi-monitoring-alat-berat-k3-berbasis-iot-dengan-dashboard-2ann)
-- [Building a Lightning-Fast Data Platform: How We Tackled Core Web Vitals on a Heavy Content Site](https://dev.to/ladlablogger/building-a-lightning-fast-data-platform-how-we-tackled-core-web-vitals-on-a-heavy-content-site-3fgg)
-- [I Built a Neural Network from Scratch &lpar;No Frameworks&rpar; - Here&#39;s What I Discovered](https://dev.to/ashisane/i-built-a-neural-network-from-scratch-no-frameworks-heres-what-i-discovered-5ee)
+- [Cognitive Load Theory: Learning Within Your Brain&#39;s Limits](https://dev.to/brainrash_edu/cognitive-load-theory-learning-within-your-brains-limits-5hb8)
+- [Instalar OpenClaw en MacMini, Parte 2.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-2-5f1d)
+- [As AI systems become increasingly intertwined with our daily](https://dev.to/drcarlosruizviquez/as-ai-systems-become-increasingly-intertwined-with-our-daily-3j2d)
+- [JSON to Java Class Converter: Generate POJOs from JSON Data](https://dev.to/arenasbob2024cell/json-to-java-class-converter-generate-pojos-from-json-data-3n1b)
 <!-- BLOG-POST-LIST:END -->
 
 
