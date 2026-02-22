@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
-- [Managing Services in Linux](https://dev.to/khadijah/managing-services-in-linux-4467)
-- [Building a Transparent AI Window: My Journey with Gemini API](https://dev.to/pratik_patil_544704659670/building-a-transparent-ai-window-my-journey-with-gemini-api-3aab)
-- [Dancing Pixels: Building an Immersive Audio-Reactive 3D Web Experience with React Three Fiber](https://dev.to/up_min_sparcs/dancing-pixels-building-an-immersive-audio-reactive-3d-web-experience-with-react-three-fiber-2ln6)
+- [Building a Global AI Design Studio: RAG, Vector Search, and the Physics of Localization](https://dev.to/thirupathi_pyati/building-a-global-ai-design-studio-rag-vector-search-and-the-physics-of-localization-2b79)
+- [FullStack Diaries](https://dev.to/ft_mj_5b31d5ca700bb51d61f/fullstack-diaries-kb9)
+- [Software Development 101: A Crash Course to Version Control with Git and Github](https://dev.to/up_min_sparcs/software-development-101-an-introduction-to-version-control-with-git-and-github-o3o)
+- [React Router: Loaders, Actions &amp; Form](https://dev.to/edriso/react-router-loaders-actions-form-2bbe)
 <!-- BLOG-POST-LIST:END -->
 
 
