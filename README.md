@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Web Scraper and Sell the Data: A Step-by-Step Guide](https://dev.to/caper_dev/build-a-web-scraper-and-sell-the-data-a-step-by-step-guide-5d2g)
-- [FrogJumpCounter](https://dev.to/megzlawther1/frogjumpcounter-48ma)
-- [Reverse Engineering: A New Way to Learn UI](https://dev.to/wabisabi/reverse-engineering-a-new-way-to-learn-ui-44fk)
-- [DFT: The Crucial Gap in Open-Source Chip Design](https://dev.to/wiowiztech/dft-the-crucial-gap-in-open-source-chip-design-35f4)
+- [Benchmarks Are Breaking: Why Many ‘Top Scores’ Don’t Mean Production-Ready.](https://dev.to/lamhot/benchmarks-are-breaking-why-many-top-scores-dont-mean-production-ready-3cc9)
+- [Your Lighthouse Score Is Only Half the Story](https://dev.to/ahojmetrics/your-lighthouse-score-is-only-half-the-story-1d80)
+- [DoraHacks Hackathon Newsletter 2026 February](https://dev.to/dorahacks/dorahacks-hackathon-newsletter-2026-february-53i0)
+- [JWT vs PASETO v2 vs TECTO: Choosing the Right Token Protocol in 2026](https://dev.to/zastinian/jwt-vs-paseto-v2-vs-tecto-choosing-the-right-token-protocol-in-2026-573j)
 <!-- BLOG-POST-LIST:END -->
 
 
