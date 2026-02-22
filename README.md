@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built AI tools that roast your startup ideas so your investors don&#39;t](https://dev.to/luuuc/i-built-ai-tools-that-roast-your-startup-ideas-so-your-investors-dont-54di)
-- [Agents Need Permissionless Infrastructure — So We Built It](https://dev.to/alfredz0x/agents-need-permissionless-infrastructure-so-we-built-it-357c)
-- [Could AI in the Terminal Make Us Worse Engineers?](https://dev.to/kostia_3807e016df1085b9bd/could-ai-in-the-terminal-make-us-worse-engineers-3b5a)
-- [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
+- [How I Built an Autonomous AI Agent That Browses the Web](https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb)
+- [🚨 AI Will Not Replace Developers – Lazy Developers Will Be Replaced](https://dev.to/darshanraval/ai-will-not-replace-developers-lazy-developers-will-be-replaced-224j)
+- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong. 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-4jfe)
+- [Zero-Knowledge Encryption: What “We Can’t See Your Data” Actually Means](https://dev.to/inkrypt/zero-knowledge-encryption-what-we-cant-see-your-data-actually-means-1mbl)
 <!-- BLOG-POST-LIST:END -->
 
 
