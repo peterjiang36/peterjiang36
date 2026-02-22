@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging a Vector Database for Semantic Search with ChromaDB: A Beginner’s Guide](https://dev.to/up_min_sparcs/leveraging-a-vector-database-for-semantic-search-with-chromadb-a-beginners-guide-2mfd)
-- [Prompting, Vague and Precise](https://dev.to/david_shimon/prompting-vague-and-precise-1ngc)
-- [How I Show Car Photos Without Storing a Single Image](https://dev.to/rrosset91/how-i-show-car-photos-without-storing-a-single-image-4f96)
-- [Who Said What to Whom](https://dev.to/dannwaneri/who-said-what-to-whom-5914)
+- [Enhance your tanstack/query keys with Proxy](https://dev.to/adaxelx/enhance-your-tanstackquery-keys-with-proxy-3hb1)
+- [Build a Free AI Code Review Bot in Python with Ollama and Git Hooks](https://dev.to/satstack/build-a-free-ai-code-review-bot-in-python-with-ollama-and-git-hooks-4k7b)
+- [Anonymity Technology: The 5 Layers of Defense](https://dev.to/kanywst/anonymity-technology-the-5-layers-of-defense-1ad9)
+- [Caching Is the Root of All Evil in Modern Backend Systems](https://dev.to/kirill_tolmachev/caching-is-the-root-of-all-evil-in-modern-backend-systems-1ea7)
 <!-- BLOG-POST-LIST:END -->
 
 
