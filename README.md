@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhance your tanstack/query keys with Proxy](https://dev.to/adaxelx/enhance-your-tanstackquery-keys-with-proxy-3hb1)
-- [Build a Free AI Code Review Bot in Python with Ollama and Git Hooks](https://dev.to/satstack/build-a-free-ai-code-review-bot-in-python-with-ollama-and-git-hooks-4k7b)
-- [Anonymity Technology: The 5 Layers of Defense](https://dev.to/kanywst/anonymity-technology-the-5-layers-of-defense-1ad9)
-- [Caching Is the Root of All Evil in Modern Backend Systems](https://dev.to/kirill_tolmachev/caching-is-the-root-of-all-evil-in-modern-backend-systems-1ea7)
+- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
+- [Managing Services in Linux](https://dev.to/khadijah/managing-services-in-linux-4467)
+- [Building a Transparent AI Window: My Journey with Gemini API](https://dev.to/pratik_patil_544704659670/building-a-transparent-ai-window-my-journey-with-gemini-api-3aab)
+- [Dancing Pixels: Building an Immersive Audio-Reactive 3D Web Experience with React Three Fiber](https://dev.to/up_min_sparcs/dancing-pixels-building-an-immersive-audio-reactive-3d-web-experience-with-react-three-fiber-2ln6)
 <!-- BLOG-POST-LIST:END -->
 
 
