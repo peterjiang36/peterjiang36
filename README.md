@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
-- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
-- [I&#39;m Finance Ops, not a developer. I built a KoSIT-valid XRechnung generator in the browser anyway](https://dev.to/mihai82adrian/im-finance-ops-not-a-developer-i-built-a-kosit-valid-xrechnung-generator-in-the-browser-anyway-4bn2)
-- [Microservices Most Asked Interview Questions](https://dev.to/bhu_kalki/microservices-most-asked-interview-questions-46mm)
+- [Enterprise SaaS Architecture Mistakes CTOs Still Make in 2026](https://dev.to/pedro_becker_13b67d91f36d/enterprise-saas-architecture-mistakes-ctos-still-make-in-2026-2mdc)
+- [I Built an Authentication System With Express.js, MongoDB, &lpar;Access/Refresh Tokens, Sessions, Rate Limiting &amp; More&rpar;](https://dev.to/hkarimi/i-built-an-authentication-system-with-expressjs-mongodb-accessrefresh-tokens-sessions-rate-hh0)
+- [Browser Automation in Go: Selenium, chromedp, Playwright, ZenRows](https://dev.to/rosgluk/browser-automation-in-go-selenium-chromedp-playwright-zenrows-15dm)
+- [How to Configure Desktop Launchers on Ubuntu 24 with Standard Icons](https://dev.to/rosgluk/how-to-configure-desktop-launchers-on-ubuntu-24-with-standard-icons-40i9)
 <!-- BLOG-POST-LIST:END -->
 
 
