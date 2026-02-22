@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
-- [Data Engineering Basics: From What is Data to Modern Lakehouse Architecture](https://dev.to/salma_aga/-data-engineering-basics-from-what-is-data-to-modern-lakehouse-architecture-1l10)
-- [I built a system-wide tech dictionary because AI made me feel dumb](https://dev.to/cengiz_selcuk/i-built-a-system-wide-tech-dictionary-because-ai-made-me-feel-dumb-e31)
-- [I built a lightweight CLI log analyzer in Python while learning — here’s what I learned](https://dev.to/sonic001h/i-built-a-lightweight-cli-log-analyzer-in-python-while-learning-heres-what-i-learned-p7e)
+- [ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.](https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb)
+- [Why MQTT Last Will Testament Isn&#39;t Enough for Production IoT &lpar;And What We Built Instead&rpar;](https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj)
+- [I replaced the `man` command with a Python TUI — and it&#39;s actually useful](https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h)
+- [Unit testing ESP-IDF components with GoogleTest &lpar;host-based&rpar;](https://dev.to/aluiziotomazelli/unit-testing-esp-idf-components-with-googletest-host-based-1c16)
 <!-- BLOG-POST-LIST:END -->
 
 
