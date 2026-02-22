@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From AI Chat to Claude Code in 3 Seconds](https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3)
-- [I Built a Free OG Image Generator — Here&#39;s How &lpar;and Why&rpar;](https://dev.to/mackmoneymaker/i-built-a-free-og-image-generator-heres-how-and-why-3khj)
-- [Improving Accessibility - Tooltip](https://dev.to/hritickjaiswal/improving-accessibility-tooltip-3ogc)
-- [Designing Agentic AI Systems: How Real Applications Combine Patterns, Not Hype](https://dev.to/sreeni5018/designing-agentic-ai-systems-how-real-applications-combine-patterns-not-hype-1ob4)
+- [Building an AI Image Generation SaaS with Z-Image From Idea to a Scalable AI Visual Creation Platform](https://dev.to/nikiki/building-an-ai-image-generation-saas-with-z-image-from-idea-to-a-scalable-ai-visual-creation-5dpf)
+- [The Silent Killer of AI Inference: Unmasking the GC Tax in High-Performance Systems](https://dev.to/syrius_contact_24f6f1d273/the-silent-killer-of-ai-inference-unmasking-the-gc-tax-in-high-performance-systems-2k3p)
+- [The Hidden Cost of Guessing Your Client&#39;s Budget](https://dev.to/fairpricework/the-hidden-cost-of-guessing-your-clients-budget-4277)
+- [Building an AI Image Generation SaaS with Z-Image From Idea to a Scalable AI Visual Creation Platform](https://dev.to/nikiki/building-an-ai-image-generation-saas-with-z-image-from-idea-to-a-scalable-ai-visual-creation-1jag)
 <!-- BLOG-POST-LIST:END -->
 
 
