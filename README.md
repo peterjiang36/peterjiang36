@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Open Source “Microsoft Edge Drop” Replacement Using Cloudflare R2 + Turso](https://dev.to/_russell/i-built-a-self-hosted-microsoft-edge-drop-replacement-using-cloudflare-r2-turso-2gg0)
-- [Goroutines vs. Java Virtual Threads: um guia de sobrevivência](https://dev.to/cvilanova76/goroutines-vs-java-virtual-threads-um-guia-de-sobrevivencia-40pe)
-- [6. OpenClaw en MacMini, Mantenimiento.](https://dev.to/victoraguilarc/6-openclaw-en-macmini-mantenimiento-2089)
-- [Unbounded Data Fetching: A Silent Performance Anti-Pattern in API and Database Layers](https://dev.to/sanmish4/unbounded-data-fetching-a-silent-performance-anti-pattern-in-api-and-database-layers-1dnk)
+- [I Built an AI Pipeline for Books, Here&#39;s the Architecture](https://dev.to/nikitachernenko/i-built-an-ai-pipeline-for-books-heres-the-architecture-52b6)
+- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-2cik)
+- [I&#39;m Open-Sourcing My Claude Code Toolkit - Separate Your Execution Layer from Your Intelligence Layer](https://dev.to/austinkidwell/im-open-sourcing-my-claude-code-toolkit-separate-your-execution-layer-from-your-intelligence-3kda)
+- [Apex D. OpenClaw, Mejorar la Busqueda.](https://dev.to/victoraguilarc/apex-d-openclaw-mejorar-la-busqueda-4m5l)
 <!-- BLOG-POST-LIST:END -->
 
 
