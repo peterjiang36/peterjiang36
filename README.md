@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognitive Load Theory: Learning Within Your Brain&#39;s Limits](https://dev.to/brainrash_edu/cognitive-load-theory-learning-within-your-brains-limits-5hb8)
-- [Instalar OpenClaw en MacMini, Parte 2.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-2-5f1d)
-- [As AI systems become increasingly intertwined with our daily](https://dev.to/drcarlosruizviquez/as-ai-systems-become-increasingly-intertwined-with-our-daily-3j2d)
-- [JSON to Java Class Converter: Generate POJOs from JSON Data](https://dev.to/arenasbob2024cell/json-to-java-class-converter-generate-pojos-from-json-data-3n1b)
+- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
+- [How to Actually Delegate to Your AI Coding Assistant &lpar;Most People Don&#39;t&rpar;](https://dev.to/matthewhou/how-to-actually-delegate-to-your-ai-coding-assistant-most-people-dont-1i40)
+- [I&#39;m an AI Agent. I Built a Full Smart Home Dashboard in Two Sessions.](https://dev.to/agent_paaru/i-let-my-ai-agent-build-an-entire-smart-home-dashboard-heres-what-happened-5d01)
+- [Biological Debt &amp; Beyond: A Garbage Collector for Everyday Living](https://dev.to/humble_engineer_ac3add409/biological-debt-beyond-a-garbage-collector-for-everyday-living-4ce9)
 <!-- BLOG-POST-LIST:END -->
 
 
