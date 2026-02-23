@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Do Clicks “Stack Up” When JavaScript Blocks the UI?](https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k)
-- [I Built a 15-Feature AI App in 48 Hours as a Solo Founder. Here&#39;s the Exact Method.](https://dev.to/mattcretzman/i-built-a-15-feature-ai-app-in-48-hours-as-a-solo-founder-heres-the-exact-method-4hdi)
-- [How to Collect Route Waypoints with Address Autocomplete and Map Clicks](https://dev.to/geoapify-maps-api/how-to-collect-route-waypoints-with-address-autocomplete-and-map-clicks-2i74)
-- [Deploying Single Page Application &lpar;SPA&rpar; or Static Site Generation &lpar;SSG&rpar; with Nginx](https://dev.to/yassentials/deploying-single-page-application-spa-or-static-site-generation-ssg-with-nginx-3m0b)
+- [Cosa sono gli embeddings?](https://dev.to/lminuti/cosa-sono-gli-embeddings-38f0)
+- [[BOJ/C++] 단계별로 풀어보기 - 집합과 맵](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jibhabgwa-maeb-4fc9)
+- [Static Docs are Dead: How I Built a Global Documentation Engine with Gemini AI and Lingo.dev](https://dev.to/bhupendra_lute/static-docs-are-dead-how-i-built-a-global-documentation-engine-with-gemini-ai-and-lingodev-5302)
+- [Agentic Vector Search: Building a Production-Grade AI Assistant with Elasticsearch](https://dev.to/shreyash_pore/agentic-vector-search-building-a-production-grade-ai-assistant-with-elasticsearch-3hpf)
 <!-- BLOG-POST-LIST:END -->
 
 
