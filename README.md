@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built yet another Agile Retrospective tool &lpar;and made it entirely free&rpar;](https://dev.to/clear_retro/why-i-built-yet-another-agile-retrospective-tool-and-made-it-entirely-free-163k)
-- [Power Automate - Why You Should Love Coalesce](https://dev.to/wyattdave/power-automate-why-you-should-love-coalesce-3bl2)
-- [From Tick to Bar: Engineering a Scalable Price Aggregation Pipeline](https://dev.to/zharkomi/from-tick-to-bar-engineering-a-scalable-price-aggregation-pipeline-1eak)
-- [Why Most Website Data Leaks Happen Even When Login Is Working](https://dev.to/yogsec/why-most-website-data-leaks-happen-even-when-login-is-working-2gn9)
+- [Why image generation pipelines still fail to match intent - and how to stop losing control](https://dev.to/azimkhan72/why-image-generation-pipelines-still-fail-to-match-intent-and-how-to-stop-losing-control-26dk)
+- [Do We Even Need Modals?](https://dev.to/egregor2011/do-we-even-need-modals-3jaa)
+- [Embedding Bold BI Dashboards in an Angular Application](https://dev.to/boldbi/embedding-bold-bi-dashboards-in-an-angular-application-k8g)
+- [TOP 10 Zero-UI Anti-patterns](https://dev.to/fullagenticstack/top-10-zero-ui-anti-patterns-pm5)
 <!-- BLOG-POST-LIST:END -->
 
 
