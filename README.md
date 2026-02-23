@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Native: Fully Customizable Image Crop Picker &lpar;Android + iOS&rpar;](https://dev.to/amitkumar13/react-native-fully-customizable-image-crop-picker-android-ios-12h6)
-- [The GSOC Trojectory: From first line of code to the final commit](https://dev.to/owaspblt/the-gsoc-trojectory-from-first-line-of-code-to-the-final-commit-1gh9)
-- [Structured Output for AI Coding Agents: Why I Built Pare](https://dev.to/dave_london_d0728737f5d67/structured-output-for-ai-coding-agents-why-i-built-pare-2k5f)
-- [Bento.me and Linktree alternative!
-Check it out!](https://dev.to/techtech/bentome-and-linktree-alternativecheck-it-out-4ni4)
+- [Shift as far left as you can... but you trust the shifter?](https://dev.to/cupofpython/shift-as-far-left-as-you-can-but-you-trust-the-shifter-2j47)
+- [Using a Headless CMS with Angular and Analog Content Loaders](https://dev.to/brandontroberts/using-a-headless-cms-with-angular-and-analog-content-loaders-21e7)
+- [The “New Core” — Skills Every Network Engineer Needs When AI Handles the Typing](https://dev.to/ekirigwe/the-new-core-skills-every-network-engineer-needs-when-ai-handles-the-typing-1h0g)
+- [The Rogue Server Problem: What MCPHammer Reveals About MCP Trust](https://dev.to/kai_security_ai/when-hackers-get-mcp-tools-what-mcphammer-means-for-exposed-servers-2jaa)
 <!-- BLOG-POST-LIST:END -->
 
 
