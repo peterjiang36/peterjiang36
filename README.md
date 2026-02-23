@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cosa sono gli embeddings?](https://dev.to/lminuti/cosa-sono-gli-embeddings-38f0)
-- [[BOJ/C++] 단계별로 풀어보기 - 집합과 맵](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jibhabgwa-maeb-4fc9)
-- [Static Docs are Dead: How I Built a Global Documentation Engine with Gemini AI and Lingo.dev](https://dev.to/bhupendra_lute/static-docs-are-dead-how-i-built-a-global-documentation-engine-with-gemini-ai-and-lingodev-5302)
-- [Agentic Vector Search: Building a Production-Grade AI Assistant with Elasticsearch](https://dev.to/shreyash_pore/agentic-vector-search-building-a-production-grade-ai-assistant-with-elasticsearch-3hpf)
+- [Why I built yet another Agile Retrospective tool &lpar;and made it entirely free&rpar;](https://dev.to/clear_retro/why-i-built-yet-another-agile-retrospective-tool-and-made-it-entirely-free-163k)
+- [Power Automate - Why You Should Love Coalesce](https://dev.to/wyattdave/power-automate-why-you-should-love-coalesce-3bl2)
+- [From Tick to Bar: Engineering a Scalable Price Aggregation Pipeline](https://dev.to/zharkomi/from-tick-to-bar-engineering-a-scalable-price-aggregation-pipeline-1eak)
+- [Why Most Website Data Leaks Happen Even When Login Is Working](https://dev.to/yogsec/why-most-website-data-leaks-happen-even-when-login-is-working-2gn9)
 <!-- BLOG-POST-LIST:END -->
 
 
