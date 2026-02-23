@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Error Dashboard Is Lying to You — Here&#39;s What It&#39;s Not Showing](https://dev.to/hoainhoblogdev/your-error-dashboard-is-lying-to-you-heres-what-its-not-showing-1m74)
-- [Implementing OpenTelemetry with Serilog in a .NET Application [Practical Guide]](https://dev.to/ankit01oss/implementing-opentelemetry-with-serilog-in-a-net-application-practical-guide-22go)
-- [Entity, DTO, Repository, Service… afinal, quem faz o quê?](https://dev.to/svitorz/entity-dto-repository-service-afinal-quem-faz-o-que-34fn)
-- [Cross-boundary communication between desktop and web](https://dev.to/eelcolos/cross-boundary-communication-between-desktop-and-web-575n)
+- [My Tailwind style guide](https://dev.to/tom_franssen_b0b5a05dedeb/my-tailwind-style-guide-ldf)
+- [[SU] Shapes](https://dev.to/david_goyes_a488f58a17a53/su-shapes-2j6n)
+- [I Built a Tool to Convert Invoice PDFs into Excel - Here’s What Surprised Me](https://dev.to/chris_wakefieldchris_4/i-built-a-tool-to-convert-invoice-pdfs-into-excel-heres-what-surprised-me-134d)
+- [How I Built a Chrome Extension That Injects AI Into Exchange Websites](https://dev.to/guerra2fernando/how-i-built-a-chrome-extension-that-injects-ai-into-exchange-websites-52og)
 <!-- BLOG-POST-LIST:END -->
 
 
