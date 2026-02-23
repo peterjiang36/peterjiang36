@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed the Hashnode GraphQL API Stale Cache Bug &lpar;Stellate CDN&rpar;](https://dev.to/highcenburg/how-i-fixed-the-hashnode-graphql-api-stale-cache-bug-stellate-cdn-koh)
-- [Perl 🐪 Weekly #761 - Perl on WhatsApp](https://dev.to/szabgab/perl-weekly-761-perl-on-whatsapp-4h3m)
-- [Designing GenAI Systems with Cost–Latency–Quality Trade-offs](https://dev.to/shreekansha97/designing-genai-systems-with-cost-latency-quality-trade-offs-54gd)
-- [Why Blip Chose Solana: Building Real-Time Payments on Speed, Cost &amp; Transparency](https://dev.to/blipmoney/why-blip-chose-solana-building-real-time-payments-on-speed-cost-transparency-4jka)
+- [Why Do Clicks “Stack Up” When JavaScript Blocks the UI?](https://dev.to/codewithnuh/why-do-clicks-stack-up-when-javascript-blocks-the-ui-4n3k)
+- [I Built a 15-Feature AI App in 48 Hours as a Solo Founder. Here&#39;s the Exact Method.](https://dev.to/mattcretzman/i-built-a-15-feature-ai-app-in-48-hours-as-a-solo-founder-heres-the-exact-method-4hdi)
+- [How to Collect Route Waypoints with Address Autocomplete and Map Clicks](https://dev.to/geoapify-maps-api/how-to-collect-route-waypoints-with-address-autocomplete-and-map-clicks-2i74)
+- [Deploying Single Page Application &lpar;SPA&rpar; or Static Site Generation &lpar;SSG&rpar; with Nginx](https://dev.to/yassentials/deploying-single-page-application-spa-or-static-site-generation-ssg-with-nginx-3m0b)
 <!-- BLOG-POST-LIST:END -->
 
 
