@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Tooling for Agentic Coding Loops](https://dev.to/cameron-accesslint/accessibility-tooling-for-agentic-coding-loops-5b1h)
-- [AI Agents in production: Why guardrails fail and what actually works](https://dev.to/patrick_joubert_428bd9bc3/ai-agents-in-production-why-guardrails-fail-and-what-actually-works-144p)
-- [I built a free football prediction platform for World Cup 2026 — here&#39;s the stack](https://dev.to/rastipunk/i-built-a-free-football-prediction-platform-for-world-cup-2026-heres-the-stack-nhk)
-- [Why AI Agents Keep Forgetting Your Project &lpar;And How I Fixed It&rpar;](https://dev.to/spranab/why-ai-agents-keep-forgetting-your-project-and-how-i-fixed-it-2j4d)
+- [Choosing and Configuring Azure Storage for Your Company Application](https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf)
+- [Share Your Web App State via URL — No Backend Required](https://dev.to/maxxmini/share-your-web-app-state-via-url-no-backend-required-1806)
+- [The Doppelgänger Dilemma: Why Your Mobile Apps Look Alike but Act Like Strangers](https://dev.to/deterministicdev/the-doppelganger-dilemma-why-your-mobile-apps-look-alike-but-act-like-strangers-1jkk)
+- [Coding Agents for Software Engineers](https://dev.to/arsenikavalchuk/coding-agents-for-software-engineers-73p)
 <!-- BLOG-POST-LIST:END -->
 
 
