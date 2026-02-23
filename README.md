@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Illusion of Digital Sovereignty: Why Vendor Swapping is Not a Compliance Strategy](https://dev.to/alifunk/the-illusion-of-digital-sovereignty-why-vendor-swapping-is-not-a-compliance-strategy-43jf)
-- [Observability as the Control Plane for AI: Operations, Security, Governance](https://dev.to/erythix_6d20050c4f1039b32/observability-as-the-control-plane-for-ai-operations-security-governance-1bk7)
-- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-55ke)
-- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-56ik)
+- [Can You Take Me Into Your Brain?](https://dev.to/soumia_g_9dc322fc4404cecd/can-you-take-me-into-your-brain-1n44)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2e0k)
+- [Your Own AI Assistant: Welcome to the New World of Work](https://dev.to/subprime2010/your-own-ai-assistant-welcome-to-the-new-world-of-work-3pbo)
+- [Introducing EnvGuard: Catch .env Mistakes Before They Break Your App](https://dev.to/deyemie/introducing-envguard-catch-env-mistakes-before-they-break-your-app-32mg)
 <!-- BLOG-POST-LIST:END -->
 
 
