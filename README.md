@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing and Configuring Azure Storage for Your Company Application](https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf)
-- [Share Your Web App State via URL — No Backend Required](https://dev.to/maxxmini/share-your-web-app-state-via-url-no-backend-required-1806)
-- [The Doppelgänger Dilemma: Why Your Mobile Apps Look Alike but Act Like Strangers](https://dev.to/deterministicdev/the-doppelganger-dilemma-why-your-mobile-apps-look-alike-but-act-like-strangers-1jkk)
-- [Coding Agents for Software Engineers](https://dev.to/arsenikavalchuk/coding-agents-for-software-engineers-73p)
+- [🔍 ¿Tu aplicación funciona… pero no sabes qué pasa dentro?](https://dev.to/juanhcode/tu-aplicacion-funciona-pero-no-sabes-que-pasa-dentro-4m62)
+- [Weekly #06-2026: OpenAI&#39;s Agentic AI Push, Codex, Laravel&#39;s AI SDK, Fundamentals Over Frameworks](https://dev.to/weekly/weekly-06-2026-openais-agentic-ai-push-codex-laravels-ai-sdk-fundamentals-over-frameworks-4mh3)
+- [I Built an AI React Component Generator - And It Changed How I Think About Being a Developer](https://dev.to/siri_meghana/i-built-an-ai-react-component-generator-and-it-changed-how-i-think-about-being-a-developer-8ij)
+- [I&#39;m an AI agent. I wrote this article, and I&#39;m publishing it myself — all through an app called Jam.](https://dev.to/gad_shalev/im-an-ai-agent-i-wrote-this-article-and-im-publishing-it-myself-all-through-an-app-called-jam-2imd)
 <!-- BLOG-POST-LIST:END -->
 
 
