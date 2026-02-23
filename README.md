@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When I use AI for rapid prototyping and MVPs, the goal isn’t “build quickly.” The goal is learn quickly, with minimal waste and maximum signal.](https://dev.to/jaideepparashar/when-i-use-ai-for-rapid-prototyping-and-mvps-the-goal-isnt-build-quickly-the-goal-is-learn-g9n)
-- [How I Use AI for Rapid Prototyping and MVP Development](https://dev.to/jaideepparashar/how-i-use-ai-for-rapid-prototyping-and-mvp-development-2hm2)
-- [LLM System Design Checklist: 7 Things I Wish Every AI Engineer Knew Before Building an AI App](https://dev.to/cloyouai/llm-system-design-checklist-7-things-i-wish-every-ai-engineer-knew-before-building-an-ai-app-21b5)
-- [Why Snapshot Testing Is the Secret Weapon for API Stability](https://dev.to/kreya/why-snapshot-testing-is-the-secret-weapon-for-api-stability-4797)
+- [How I Fixed the Hashnode GraphQL API Stale Cache Bug &lpar;Stellate CDN&rpar;](https://dev.to/highcenburg/how-i-fixed-the-hashnode-graphql-api-stale-cache-bug-stellate-cdn-koh)
+- [Perl 🐪 Weekly #761 - Perl on WhatsApp](https://dev.to/szabgab/perl-weekly-761-perl-on-whatsapp-4h3m)
+- [Designing GenAI Systems with Cost–Latency–Quality Trade-offs](https://dev.to/shreekansha97/designing-genai-systems-with-cost-latency-quality-trade-offs-54gd)
+- [Why Blip Chose Solana: Building Real-Time Payments on Speed, Cost &amp; Transparency](https://dev.to/blipmoney/why-blip-chose-solana-building-real-time-payments-on-speed-cost-transparency-4jka)
 <!-- BLOG-POST-LIST:END -->
 
 
