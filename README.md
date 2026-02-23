@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-e1h)
-- [Building a NinjaTrader 8 Indicator: What Actually Went Wrong](https://dev.to/alexandrustefan_90/building-a-ninjatrader-8-indicator-what-actually-went-wrong-1lh1)
-- [Customer Lifetime Value &lpar;CLV&rpar; Prediction with Machine Learning](https://dev.to/maureenmuthonihue/customer-lifetime-value-clv-prediction-with-machine-learning-4545)
-- [Voice AI Integration: From Silent Pixels to Conversational UI with Whisper](https://dev.to/programmingcentral/voice-ai-integration-from-silent-pixels-to-conversational-ui-with-whisper-3ii8)
+- [The Illusion of Digital Sovereignty: Why Vendor Swapping is Not a Compliance Strategy](https://dev.to/alifunk/the-illusion-of-digital-sovereignty-why-vendor-swapping-is-not-a-compliance-strategy-43jf)
+- [Observability as the Control Plane for AI: Operations, Security, Governance](https://dev.to/erythix_6d20050c4f1039b32/observability-as-the-control-plane-for-ai-operations-security-governance-1bk7)
+- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-55ke)
+- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-56ik)
 <!-- BLOG-POST-LIST:END -->
 
 
