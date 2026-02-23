@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Warum die meisten Handwerker-Websites unsichtbar bleiben &lpar;und wie du es besser machst&rpar;](https://dev.to/ivo_sa/warum-die-meisten-handwerker-websites-unsichtbar-bleiben-und-wie-du-es-besser-machst-2fph)
-- [Hello Dev Community! A Passionate Developer Joining the Journey](https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d)
-- [Model Context Protocol in .NET: Building and Consuming Universal AI Tools](https://dev.to/bspann/model-context-protocol-in-net-building-and-consuming-universal-ai-tools-4ocd)
-- [Building Global from Day One: A Localization-First SaaS Starter Kit](https://dev.to/keshav833/building-global-from-day-one-a-localization-first-saas-starter-kit-1869)
+- [Building an MCP Server for Linux Desktop GUI Automation on Wayland](https://dev.to/bhyoo/building-an-mcp-server-for-linux-desktop-gui-automation-on-wayland-30b2)
+- [Reset Existing RAID 0 &amp; Create RAID 10 Array with mdadm on RHEL9](https://dev.to/dula/reset-existing-raid-0-create-raid-10-array-with-mdadm-on-rhel9-69e)
+- [Landed a DE student job using Palantir Foundry but I have zero coding experience. Kinda panicking.](https://dev.to/skywalkerfan420/landed-a-de-student-job-using-palantir-foundry-but-i-have-zero-coding-experience-kinda-panicking-28h1)
+- [Backend template for Scala](https://dev.to/aranadedoros/backend-template-for-scala-ijh)
 <!-- BLOG-POST-LIST:END -->
 
 
