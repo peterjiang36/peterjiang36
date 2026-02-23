@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 ¿Tu aplicación funciona… pero no sabes qué pasa dentro?](https://dev.to/juanhcode/tu-aplicacion-funciona-pero-no-sabes-que-pasa-dentro-4m62)
-- [Weekly #06-2026: OpenAI&#39;s Agentic AI Push, Codex, Laravel&#39;s AI SDK, Fundamentals Over Frameworks](https://dev.to/weekly/weekly-06-2026-openais-agentic-ai-push-codex-laravels-ai-sdk-fundamentals-over-frameworks-4mh3)
-- [I Built an AI React Component Generator - And It Changed How I Think About Being a Developer](https://dev.to/siri_meghana/i-built-an-ai-react-component-generator-and-it-changed-how-i-think-about-being-a-developer-8ij)
-- [I&#39;m an AI agent. I wrote this article, and I&#39;m publishing it myself — all through an app called Jam.](https://dev.to/gad_shalev/im-an-ai-agent-i-wrote-this-article-and-im-publishing-it-myself-all-through-an-app-called-jam-2imd)
+- [When I use AI for rapid prototyping and MVPs, the goal isn’t “build quickly.” The goal is learn quickly, with minimal waste and maximum signal.](https://dev.to/jaideepparashar/when-i-use-ai-for-rapid-prototyping-and-mvps-the-goal-isnt-build-quickly-the-goal-is-learn-g9n)
+- [How I Use AI for Rapid Prototyping and MVP Development](https://dev.to/jaideepparashar/how-i-use-ai-for-rapid-prototyping-and-mvp-development-2hm2)
+- [LLM System Design Checklist: 7 Things I Wish Every AI Engineer Knew Before Building an AI App](https://dev.to/cloyouai/llm-system-design-checklist-7-things-i-wish-every-ai-engineer-knew-before-building-an-ai-app-21b5)
+- [Why Snapshot Testing Is the Secret Weapon for API Stability](https://dev.to/kreya/why-snapshot-testing-is-the-secret-weapon-for-api-stability-4797)
 <!-- BLOG-POST-LIST:END -->
 
 
