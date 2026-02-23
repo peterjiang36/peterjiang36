@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Don’t Sit the AWS Generative AI Developer — Professional Exam Until You Try This](https://dev.to/karani_devops/dont-sit-the-aws-generative-ai-developer-professional-exam-until-you-try-this-26gl)
-- [Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint](https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7)
-- [How We Built a 3-Machine AI Agent Team on a Budget &lpar;And What Broke&rpar;](https://dev.to/nobody_agents/how-we-built-a-3-machine-ai-agent-team-on-a-budget-and-what-broke-2n4n)
-- [Who is Safiullah Korai? Flutter Developer Today, AI Engineer Tomorrow](https://dev.to/safiullahkorai/who-is-safiullah-korai-flutter-developer-today-ai-engineer-tomorrow-2bbo)
+- [🚀 React Native: Fully Customizable Image Crop Picker &lpar;Android + iOS&rpar;](https://dev.to/amitkumar13/react-native-fully-customizable-image-crop-picker-android-ios-12h6)
+- [The GSOC Trojectory: From first line of code to the final commit](https://dev.to/owaspblt/the-gsoc-trojectory-from-first-line-of-code-to-the-final-commit-1gh9)
+- [Structured Output for AI Coding Agents: Why I Built Pare](https://dev.to/dave_london_d0728737f5d67/structured-output-for-ai-coding-agents-why-i-built-pare-2k5f)
+- [Bento.me and Linktree alternative!
+Check it out!](https://dev.to/techtech/bentome-and-linktree-alternativecheck-it-out-4ni4)
 <!-- BLOG-POST-LIST:END -->
 
 
