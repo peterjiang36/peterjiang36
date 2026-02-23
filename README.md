@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I added a first-party MCP server to my API. Here is what AI coding assistants can now do.](https://dev.to/custodiaadmin/i-added-a-first-party-mcp-server-to-my-api-here-is-what-ai-coding-assistants-can-now-do-2flh)
-- [Anatomy of a Schema Drift Incident: 5 Real Patterns That Break Production](https://dev.to/qa-leaders/anatomy-of-a-schema-drift-incident-5-real-patterns-that-break-production-274l)
-- [Redis in NestJS: The RedisX Solution You Didn&#39;t Know You Needed](https://dev.to/sur-ser/redis-in-nestjs-the-redisx-solution-you-didnt-know-you-needed-1c7f)
-- [Everything I&#39;ve learned so far about .cursorrules after mass testing them](https://dev.to/nedcodes/everything-i-learned-about-cursorrules-after-mass-testing-them-for-2-months-31km)
+- [Accessibility Tooling for Agentic Coding Loops](https://dev.to/cameron-accesslint/accessibility-tooling-for-agentic-coding-loops-5b1h)
+- [AI Agents in production: Why guardrails fail and what actually works](https://dev.to/patrick_joubert_428bd9bc3/ai-agents-in-production-why-guardrails-fail-and-what-actually-works-144p)
+- [I built a free football prediction platform for World Cup 2026 — here&#39;s the stack](https://dev.to/rastipunk/i-built-a-free-football-prediction-platform-for-world-cup-2026-heres-the-stack-nhk)
+- [Why AI Agents Keep Forgetting Your Project &lpar;And How I Fixed It&rpar;](https://dev.to/spranab/why-ai-agents-keep-forgetting-your-project-and-how-i-fixed-it-2j4d)
 <!-- BLOG-POST-LIST:END -->
 
 
