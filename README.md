@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If You’re Enrolling Zebra Devices Manually in 2026… We Need to Talk](https://dev.to/gauri_bhosale_f7398ef7373/if-youre-enrolling-zebra-devices-manually-in-2026-we-need-to-talk-p1p)
-- [Building a Full-Stack Bookkeeping Ledger Using Antigravity](https://dev.to/rohithv07/building-a-full-stack-bookkeeping-ledger-using-antigravity-fd0)
-- [SonarQube Stackhawk DAST Demo Repo](https://dev.to/mathiasconradt/sonarqube-stackhawk-dast-demo-repo-393g)
-- [1,422 MCP Tools Without Auth: What Can an Attacker Actually Do?](https://dev.to/kai_security_ai/1422-mcp-tools-without-auth-what-can-an-attacker-actually-do-277f)
+- [I Built a Figma Plugin to Kill Translation Bugs Before They Reach Developers — Here&#39;s Every Wall I Hit](https://dev.to/aryansaxenaa/i-built-a-figma-plugin-to-kill-translation-bugs-before-they-reach-developers-heres-every-wall-i-2o1m)
+- [10 Git Commands That Even Senior Developers Google Every Week](https://dev.to/maxxmini/10-git-commands-that-even-senior-developers-google-every-week-5f13)
+- [Why Attestation Middleware Exists](https://dev.to/chainbreaker/why-attestation-middleware-exists-1m8h)
+- [What Happens When You Ask LLMs to Analyse Their Own Answers?](https://dev.to/haastrupea/what-happens-when-you-ask-llms-to-analyse-their-own-answers-3dcc)
 <!-- BLOG-POST-LIST:END -->
 
 
