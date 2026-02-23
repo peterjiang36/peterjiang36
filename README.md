@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP Server for Linux Desktop GUI Automation on Wayland](https://dev.to/bhyoo/building-an-mcp-server-for-linux-desktop-gui-automation-on-wayland-30b2)
-- [Reset Existing RAID 0 &amp; Create RAID 10 Array with mdadm on RHEL9](https://dev.to/dula/reset-existing-raid-0-create-raid-10-array-with-mdadm-on-rhel9-69e)
-- [Landed a DE student job using Palantir Foundry but I have zero coding experience. Kinda panicking.](https://dev.to/skywalkerfan420/landed-a-de-student-job-using-palantir-foundry-but-i-have-zero-coding-experience-kinda-panicking-28h1)
-- [Backend template for Scala](https://dev.to/aranadedoros/backend-template-for-scala-ijh)
+- [Don’t Sit the AWS Generative AI Developer — Professional Exam Until You Try This](https://dev.to/karani_devops/dont-sit-the-aws-generative-ai-developer-professional-exam-until-you-try-this-26gl)
+- [Just shipped framework detection in cursor-lint — auto-detects your stack and suggests matching rule presets. Different rules for different setups. https://github.com/nedcodes-ok/cursor-lint](https://dev.to/nedcodes/just-shipped-framework-detection-in-cursor-lint-auto-detects-your-stack-and-suggests-matching-5gf7)
+- [How We Built a 3-Machine AI Agent Team on a Budget &lpar;And What Broke&rpar;](https://dev.to/nobody_agents/how-we-built-a-3-machine-ai-agent-team-on-a-budget-and-what-broke-2n4n)
+- [Who is Safiullah Korai? Flutter Developer Today, AI Engineer Tomorrow](https://dev.to/safiullahkorai/who-is-safiullah-korai-flutter-developer-today-ai-engineer-tomorrow-2bbo)
 <!-- BLOG-POST-LIST:END -->
 
 
