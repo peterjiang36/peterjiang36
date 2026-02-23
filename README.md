@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Frontend Interview Questions That Senior Devs Still Get Wrong](https://dev.to/maxxmini/12-frontend-interview-questions-that-senior-devs-still-get-wrong-3k55)
-- [The Side-Project Graveyard is Emptying: How AI is Resurrecting Our Abandoned Code](https://dev.to/chadders13/the-side-project-graveyard-is-emptying-how-ai-is-resurrecting-our-abandoned-code-40ol)
-- [aigent: toolchain for AI agent skills](https://dev.to/wkusnierczyk/aigent-toolchain-for-ai-agent-skills-3hib)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1ie9)
+- [Your Error Dashboard Is Lying to You — Here&#39;s What It&#39;s Not Showing](https://dev.to/hoainhoblogdev/your-error-dashboard-is-lying-to-you-heres-what-its-not-showing-1m74)
+- [Implementing OpenTelemetry with Serilog in a .NET Application [Practical Guide]](https://dev.to/ankit01oss/implementing-opentelemetry-with-serilog-in-a-net-application-practical-guide-22go)
+- [Entity, DTO, Repository, Service… afinal, quem faz o quê?](https://dev.to/svitorz/entity-dto-repository-service-afinal-quem-faz-o-que-34fn)
+- [Cross-boundary communication between desktop and web](https://dev.to/eelcolos/cross-boundary-communication-between-desktop-and-web-575n)
 <!-- BLOG-POST-LIST:END -->
 
 
