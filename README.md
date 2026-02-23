@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tailwind style guide](https://dev.to/tom_franssen_b0b5a05dedeb/my-tailwind-style-guide-ldf)
-- [[SU] Shapes](https://dev.to/david_goyes_a488f58a17a53/su-shapes-2j6n)
-- [I Built a Tool to Convert Invoice PDFs into Excel - Here’s What Surprised Me](https://dev.to/chris_wakefieldchris_4/i-built-a-tool-to-convert-invoice-pdfs-into-excel-heres-what-surprised-me-134d)
-- [How I Built a Chrome Extension That Injects AI Into Exchange Websites](https://dev.to/guerra2fernando/how-i-built-a-chrome-extension-that-injects-ai-into-exchange-websites-52og)
+- [If You’re Enrolling Zebra Devices Manually in 2026… We Need to Talk](https://dev.to/gauri_bhosale_f7398ef7373/if-youre-enrolling-zebra-devices-manually-in-2026-we-need-to-talk-p1p)
+- [Building a Full-Stack Bookkeeping Ledger Using Antigravity](https://dev.to/rohithv07/building-a-full-stack-bookkeeping-ledger-using-antigravity-fd0)
+- [SonarQube Stackhawk DAST Demo Repo](https://dev.to/mathiasconradt/sonarqube-stackhawk-dast-demo-repo-393g)
+- [1,422 MCP Tools Without Auth: What Can an Attacker Actually Do?](https://dev.to/kai_security_ai/1422-mcp-tools-without-auth-what-can-an-attacker-actually-do-277f)
 <!-- BLOG-POST-LIST:END -->
 
 
