@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why image generation pipelines still fail to match intent - and how to stop losing control](https://dev.to/azimkhan72/why-image-generation-pipelines-still-fail-to-match-intent-and-how-to-stop-losing-control-26dk)
-- [Do We Even Need Modals?](https://dev.to/egregor2011/do-we-even-need-modals-3jaa)
-- [Embedding Bold BI Dashboards in an Angular Application](https://dev.to/boldbi/embedding-bold-bi-dashboards-in-an-angular-application-k8g)
-- [TOP 10 Zero-UI Anti-patterns](https://dev.to/fullagenticstack/top-10-zero-ui-anti-patterns-pm5)
+- [12 Frontend Interview Questions That Senior Devs Still Get Wrong](https://dev.to/maxxmini/12-frontend-interview-questions-that-senior-devs-still-get-wrong-3k55)
+- [The Side-Project Graveyard is Emptying: How AI is Resurrecting Our Abandoned Code](https://dev.to/chadders13/the-side-project-graveyard-is-emptying-how-ai-is-resurrecting-our-abandoned-code-40ol)
+- [aigent: toolchain for AI agent skills](https://dev.to/wkusnierczyk/aigent-toolchain-for-ai-agent-skills-3hib)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1ie9)
 <!-- BLOG-POST-LIST:END -->
 
 
