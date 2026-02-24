@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I spent 7 months building a Production-Ready Node.js &amp; React LMS &lpar;and skipped Redux&rpar;](https://dev.to/aniruddh_dixit/why-i-spent-7-months-building-a-production-ready-nodejs-react-lms-and-skipped-redux-4eo3)
-- [Simplifying timestamp toggles in Rails](https://dev.to/railsdesigner/simplifying-timestamp-toggles-in-rails-3c71)
-- [CVE-2026-27469: Isso... You Have Chosen Death: Analyzing CVE-2026-27469](https://dev.to/cverports/cve-2026-27469-isso-you-have-chosen-death-analyzing-cve-2026-27469-3fj5)
-- [Quality gates that earn trust: checks you can run, not promises you can’t](https://dev.to/crisiscoresystems/quality-gates-that-earn-trust-checks-you-can-run-not-promises-you-cant-58a3)
+- [I Spent Two Minutes Testing Amazon’s API. It Was Enough.](https://dev.to/liudasjan/i-spent-two-minutes-testing-amazons-api-it-was-enough-2m1b)
+- [From Multilingual Syntax to Multilingual Runtimes: Taking a Human-Language-First Language to the Web](https://dev.to/jsamwrites/from-multilingual-syntax-to-multilingual-runtimes-taking-a-human-language-first-language-to-the-web-11kk)
+- [Stop Building &quot;Lazy&quot; Backends: Why the Future is Agentic FaaS and MDL.](https://dev.to/sifatmusfique/stop-building-lazy-backends-why-the-future-is-agentic-faas-and-mdl-2b2o)
+- [BookStack vs Outline: Which to Self-Host?](https://dev.to/selfhostingsh/bookstack-vs-outline-which-to-self-host-3m9o)
 <!-- BLOG-POST-LIST:END -->
 
 
