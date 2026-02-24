@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool-like Playground for Testing MCP Servers - No Setup Needed](https://dev.to/rupa_tiwari_dd308948d710f/i-built-a-free-tool-like-playground-for-testing-mcp-servers-no-setup-needed-4e91)
-- [Accessing Ports Inside Docker AI Sandboxes &lpar;Workaround&rpar;](https://dev.to/miyamiyaz/accessing-ports-inside-docker-ai-sandboxes-workaround-3jc0)
-- [10 Common Misconceptions About Agile](https://dev.to/siva_velu_b39044a1dd3b732/10-common-misconceptions-about-agile-4k6a)
-- [Experimentation is where progress comes from. It’s also where most accidental outages, broken workflows, and corrupted data come from, especially with AI in the loop. A personal AI sandbox can solve this problem.](https://dev.to/jaideepparashar/experimentation-is-where-progress-comes-from-its-also-where-most-accidental-outages-broken-4f45)
+- [How to sort an array of objects in JavaScript?](https://dev.to/theme_selection/how-to-sort-an-array-of-objects-in-javascript-49d3)
+- [I Built My Own Self-Hosted File Sharing Server Instead of Alts; Here’s Why](https://dev.to/iconical/i-built-my-own-self-hosted-file-sharing-server-instead-of-alts-heres-why-g93)
+- [Cronark: Lightweight Cron-Based Job Scheduling for PHP](https://dev.to/nabeghe/cronark-lightweight-cron-based-job-scheduling-for-php-1i9j)
+- [I built an open ZK identity protocol for AI agents — prove you&#39;re human without revealing who you are](https://dev.to/manuel_felipeariaspined/soulprint-zk-identity-protocol-for-ai-agents-open-source-7-npm-packages-7-countries-51k7)
 <!-- BLOG-POST-LIST:END -->
 
 
