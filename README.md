@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent Two Minutes Testing Amazon’s API. It Was Enough.](https://dev.to/liudasjan/i-spent-two-minutes-testing-amazons-api-it-was-enough-2m1b)
-- [From Multilingual Syntax to Multilingual Runtimes: Taking a Human-Language-First Language to the Web](https://dev.to/jsamwrites/from-multilingual-syntax-to-multilingual-runtimes-taking-a-human-language-first-language-to-the-web-11kk)
-- [Stop Building &quot;Lazy&quot; Backends: Why the Future is Agentic FaaS and MDL.](https://dev.to/sifatmusfique/stop-building-lazy-backends-why-the-future-is-agentic-faas-and-mdl-2b2o)
-- [BookStack vs Outline: Which to Self-Host?](https://dev.to/selfhostingsh/bookstack-vs-outline-which-to-self-host-3m9o)
+- [AI-Powered Database Design with MCP Server](https://dev.to/matheusagnes/ai-powered-database-design-with-mcp-server-59p4)
+- [Data Vault Modeling: Hubs, Links, and Satellites](https://dev.to/alexmercedcoder/data-vault-modeling-hubs-links-and-satellites-1e1h)
+- [Denormalization: When and Why to Flatten Your Data](https://dev.to/alexmercedcoder/denormalization-when-and-why-to-flatten-your-data-g0g)
+- [CVE-2026-26066: Infinite Loop, Infinite Pain: Analyzing CVE-2026-26066 in ImageMagick](https://dev.to/cverports/cve-2026-26066-infinite-loop-infinite-pain-analyzing-cve-2026-26066-in-imagemagick-3m34)
 <!-- BLOG-POST-LIST:END -->
 
 
