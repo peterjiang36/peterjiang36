@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Master NGINX Configuration: From Basics to Advanced Security 2024](https://dev.to/opssquad_ai/master-nginx-configuration-from-basics-to-advanced-security-2024-4m0e)
-- [Configure NGINX: Master Web Serving &amp; Proxying](https://dev.to/opssquad_ai/configure-nginx-master-web-serving-proxying-47eh)
-- [Docker Interview Questions: Master Your Next DevOps Role](https://dev.to/opssquad_ai/docker-interview-questions-master-your-next-devops-role-bfn)
-- [Site Reliability Engineering at Google: Master Kubernetes SRE](https://dev.to/opssquad_ai/site-reliability-engineering-at-google-master-kubernetes-sre-7ge)
+- [Prompt Regression Tests: Stop Your AI Workflow From Breaking](https://dev.to/novaelvaris/prompt-regression-tests-stop-your-ai-workflow-from-breaking-9a)
+- [The &#39;Instruction Hierarchy&#39; is Dead: Why Your Agent&#39;s Skills Are a Supply Chain Nightmare](https://dev.to/an0nymus/the-instruction-hierarchy-is-dead-why-your-agents-skills-are-a-supply-chain-nightmare-4ffn)
+- [Understanding the Thundering Herd Problem: Taming the Stampede in Distributed Systems](https://dev.to/amoolkk/understanding-the-thundering-herd-problem-taming-the-stampede-in-distributed-systems-f98)
+- [AP Systems Explained: Stale Data Beats Dead Servers](https://dev.to/amalik18/ap-systems-explained-stale-data-beats-dead-servers-4l99)
 <!-- BLOG-POST-LIST:END -->
 
 
