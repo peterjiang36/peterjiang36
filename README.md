@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognitive Load and Decision Quality](https://dev.to/_b8d89ece3338719863cb03/cognitive-load-and-decision-quality-2i60)
-- [Concurrent Requests များကို ဘယ်လို ကိုင်တွယ်ဖြေရှင်းမလဲ?](https://dev.to/mytc/concurrent-requests-maakiu-bhyliu-kiungttypherngmlai-44f3)
-- [Stop Writing NestJS CRUD Boilerplate - Generate It from Zod Schemas Instead](https://dev.to/tyson_cung/stop-writing-nestjs-crud-boilerplate-generate-it-from-zod-schemas-instead-4mjo)
-- [WASM Microservices: From Single Binaries to Composable Components](https://dev.to/rafacalderon/wasm-microservices-from-single-binaries-to-composable-components-2kan)
+- [MongoDB: Zero to Advanced &lpar;The Real Guide Nobody Else Will Write&rpar;](https://dev.to/adhikareeprayush/mongodb-zero-to-advanced-the-real-guide-nobody-else-will-write-em5)
+- [From Blank Page to Published Post in Minutes: Your Beginner&#39;s Guide to AI Blogging](https://dev.to/sia_negi21/from-blank-page-to-published-post-in-minutes-your-beginners-guide-to-ai-blogging-2blg)
+- [Azure AI Foundry Diagnostic Logging with Terraform: Every AI Call Tracked for Compliance 📋](https://dev.to/suhas_mallesh/azure-ai-foundry-diagnostic-logging-with-terraform-every-ai-call-tracked-for-compliance-1b2d)
+- [Vertex AI RAG Engine with Terraform: Your First RAG Pipeline on GCP 🔍](https://dev.to/suhas_mallesh/vertex-ai-rag-engine-with-terraform-your-first-rag-pipeline-on-gcp-1gfi)
 <!-- BLOG-POST-LIST:END -->
 
 
