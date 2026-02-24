@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modelos abertos e fechados em testes de performance com k6.](https://dev.to/marlo2222/modelos-abertos-e-fechados-em-testes-de-performance-com-k6-2ej7)
-- [🗓️ Monthly Dev Report: February 2026](https://dev.to/francistrdev/monthly-dev-report-february-2026-4i1p)
-- [PipeGuard — an open‑source, fast CLI tool](https://dev.to/yassine_hakkache_5a647ac7/pipeguard-an-open-source-fast-cli-tool-11ie)
-- [AGILE IN SPRING BOOT PROJECT COMPANY](https://dev.to/bhu_kalki/agile-in-spring-boot-project-company-4168)
+- [Profiling GPU &lpar;CUDA&rpar; — Introducing GPU Flight](https://dev.to/codinginavan/profiling-gpu-cuda-introducing-gpu-flight-4p67)
+- [Detcting Burnout Before It Hits: Building an HRV Anomaly Detector with Isolation Forest 🚀](https://dev.to/wellallytech/detcting-burnout-before-it-hits-building-an-hrv-anomaly-detector-with-isolation-forest-4dek)
+- [THE MACHINERY OF MASS INCARCERATION](https://dev.to/triple7/the-machinery-of-mass-incarceration-2oo9)
+- [The Most Used Java Frameworks Nowadays &lpar;2026&rpar;](https://dev.to/polymorphicguy/the-most-used-java-frameworks-nowadays-2026-1g44)
 <!-- BLOG-POST-LIST:END -->
 
 
