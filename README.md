@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Javascript Question of the Day #21 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-21-talkoverflow-bc4)
-- [Markdown pages, are they a good solution?](https://dev.to/xwero/markdown-pages-are-they-a-good-solution-154a)
-- [Mastering Kubernetes Security: Essential Practices for DevSecOps](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-kubernetes-security-essential-practices-for-devsecops-4a3k)
-- [How to Deploy ONNX Models in Existing .NET Workflows](https://dev.to/arnasoftechdev/how-to-deploy-onnx-models-in-existing-net-workflows-443o)
+- [Building Reusable Game Frameworks: How We Ship Games 50% Faster](https://dev.to/oceanviewgames/building-reusable-game-frameworks-how-we-ship-games-50-faster-2ieb)
+- [Procedural Generation on Mobile: Balancing Complexity and Performance](https://dev.to/oceanviewgames/procedural-generation-on-mobile-balancing-complexity-and-performance-11d8)
+- [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd)
+- [Tiny Diffusion](https://dev.to/unica_2804/tiny-diffusion-5g8k)
 <!-- BLOG-POST-LIST:END -->
 
 
