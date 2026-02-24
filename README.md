@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Reusable Game Frameworks: How We Ship Games 50% Faster](https://dev.to/oceanviewgames/building-reusable-game-frameworks-how-we-ship-games-50-faster-2ieb)
-- [Procedural Generation on Mobile: Balancing Complexity and Performance](https://dev.to/oceanviewgames/procedural-generation-on-mobile-balancing-complexity-and-performance-11d8)
-- [The Increasing Need for Human Connection in the Age of AI](https://dev.to/javz/the-increasing-need-for-human-connection-in-the-age-of-ai-43cd)
-- [Tiny Diffusion](https://dev.to/unica_2804/tiny-diffusion-5g8k)
+- [Performance Testing Readiness Is a Discipline Problem &lpar;Not a Tooling Problem&rpar;](https://dev.to/akhileshsarfare/performance-testing-readiness-is-a-discipline-problem-not-a-tooling-problem-1bgh)
+- [Definitely How What Where, Who?](https://dev.to/lizmat/definitely-how-what-where-who-5c5n)
+- [The Lost Art of Manual Code](https://dev.to/aalakkad/the-lost-art-of-manual-code-1pg9)
+- [Contributing to OCaml-Tiff So Far - Writing TIFF Files](https://dev.to/giftcup/contributing-to-ocaml-tiff-so-far-writing-tiff-files-45an)
 <!-- BLOG-POST-LIST:END -->
 
 
