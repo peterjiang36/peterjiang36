@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: TOP 10 GREATEST GUITAR SONGS ON PIANO](https://dev.to/music_youtube/rick-beato-top-10-greatest-guitar-songs-on-piano-4519)
-- [ELF Executable Analysis in Detail](https://dev.to/cangulmez/elf-executable-analysis-in-detail-3p5i)
-- [How to Build a Real-Time Talking Assistant with Next.js, Vercel AI SDK, and Web Speech API](https://dev.to/programmingcentral/how-to-build-a-real-time-talking-assistant-with-nextjs-vercel-ai-sdk-and-web-speech-api-3hbg)
-- [I Promised an iOS App. Kiro CLI and Xcode MCP Built It in Hours.](https://dev.to/aws-heroes/i-promised-an-ios-app-kiro-cli-and-xcode-mcp-built-it-in-hours-519l)
+- [Resisting the Eye of the Machine: A Reflection on AI and Data Ownership](https://dev.to/calganaygun/resisting-the-eye-of-the-machine-a-reflection-on-ai-and-data-ownership-510m)
+- [Building a Load Balancer from Scratch on a $20 VPS](https://dev.to/abustamam/building-a-load-balancer-from-scratch-on-a-20-vps-4fjb)
+- [Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser](https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7)
+- [How We Made Our E2E Tests 12x Faster](https://dev.to/alexneamtu/how-we-made-our-e2e-tests-12x-faster-51pm)
 <!-- BLOG-POST-LIST:END -->
 
 
