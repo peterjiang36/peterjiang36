@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Testing Readiness Is a Discipline Problem &lpar;Not a Tooling Problem&rpar;](https://dev.to/akhileshsarfare/performance-testing-readiness-is-a-discipline-problem-not-a-tooling-problem-1bgh)
-- [Definitely How What Where, Who?](https://dev.to/lizmat/definitely-how-what-where-who-5c5n)
-- [The Lost Art of Manual Code](https://dev.to/aalakkad/the-lost-art-of-manual-code-1pg9)
-- [Contributing to OCaml-Tiff So Far - Writing TIFF Files](https://dev.to/giftcup/contributing-to-ocaml-tiff-so-far-writing-tiff-files-45an)
+- [Master NGINX Configuration: From Basics to Advanced Security 2024](https://dev.to/opssquad_ai/master-nginx-configuration-from-basics-to-advanced-security-2024-4m0e)
+- [Configure NGINX: Master Web Serving &amp; Proxying](https://dev.to/opssquad_ai/configure-nginx-master-web-serving-proxying-47eh)
+- [Docker Interview Questions: Master Your Next DevOps Role](https://dev.to/opssquad_ai/docker-interview-questions-master-your-next-devops-role-bfn)
+- [Site Reliability Engineering at Google: Master Kubernetes SRE](https://dev.to/opssquad_ai/site-reliability-engineering-at-google-master-kubernetes-sre-7ge)
 <!-- BLOG-POST-LIST:END -->
 
 
