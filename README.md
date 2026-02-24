@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I make a simple desktop app with Python](https://dev.to/victorchendraa/heres-how-i-make-a-simple-desktop-app-with-python-tkinter-customtkinter-4431)
-- [Stop writing API test scripts. Use plain English instead.](https://dev.to/mbadyl/stop-writing-api-test-scripts-use-plain-english-instead-532d)
-- [Detect User Inactivity System-Wide on Android with AccessibilityService](https://dev.to/lepresk/detect-user-inactivity-system-wide-on-android-with-accessibilityservice-3aed)
-- [store3](https://dev.to/query_filter_591122b53770/store3-n6a)
+- [Why I spent 7 months building a Production-Ready Node.js &amp; React LMS &lpar;and skipped Redux&rpar;](https://dev.to/aniruddh_dixit/why-i-spent-7-months-building-a-production-ready-nodejs-react-lms-and-skipped-redux-4eo3)
+- [Simplifying timestamp toggles in Rails](https://dev.to/railsdesigner/simplifying-timestamp-toggles-in-rails-3c71)
+- [CVE-2026-27469: Isso... You Have Chosen Death: Analyzing CVE-2026-27469](https://dev.to/cverports/cve-2026-27469-isso-you-have-chosen-death-analyzing-cve-2026-27469-3fj5)
+- [Quality gates that earn trust: checks you can run, not promises you can’t](https://dev.to/crisiscoresystems/quality-gates-that-earn-trust-checks-you-can-run-not-promises-you-cant-58a3)
 <!-- BLOG-POST-LIST:END -->
 
 
