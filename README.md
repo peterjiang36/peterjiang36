@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Database Design with MCP Server](https://dev.to/matheusagnes/ai-powered-database-design-with-mcp-server-59p4)
-- [Data Vault Modeling: Hubs, Links, and Satellites](https://dev.to/alexmercedcoder/data-vault-modeling-hubs-links-and-satellites-1e1h)
-- [Denormalization: When and Why to Flatten Your Data](https://dev.to/alexmercedcoder/denormalization-when-and-why-to-flatten-your-data-g0g)
-- [CVE-2026-26066: Infinite Loop, Infinite Pain: Analyzing CVE-2026-26066 in ImageMagick](https://dev.to/cverports/cve-2026-26066-infinite-loop-infinite-pain-analyzing-cve-2026-26066-in-imagemagick-3m34)
+- [Rick Beato: TOP 10 GREATEST GUITAR SONGS ON PIANO](https://dev.to/music_youtube/rick-beato-top-10-greatest-guitar-songs-on-piano-4519)
+- [ELF Executable Analysis in Detail](https://dev.to/cangulmez/elf-executable-analysis-in-detail-3p5i)
+- [How to Build a Real-Time Talking Assistant with Next.js, Vercel AI SDK, and Web Speech API](https://dev.to/programmingcentral/how-to-build-a-real-time-talking-assistant-with-nextjs-vercel-ai-sdk-and-web-speech-api-3hbg)
+- [I Promised an iOS App. Kiro CLI and Xcode MCP Built It in Hours.](https://dev.to/aws-heroes/i-promised-an-ios-app-kiro-cli-and-xcode-mcp-built-it-in-hours-519l)
 <!-- BLOG-POST-LIST:END -->
 
 
