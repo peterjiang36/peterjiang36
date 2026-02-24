@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resisting the Eye of the Machine: A Reflection on AI and Data Ownership](https://dev.to/calganaygun/resisting-the-eye-of-the-machine-a-reflection-on-ai-and-data-ownership-510m)
-- [Building a Load Balancer from Scratch on a $20 VPS](https://dev.to/abustamam/building-a-load-balancer-from-scratch-on-a-20-vps-4fjb)
-- [Bringing Microsoft SAM Back to Life: How SAPI4 TTS Works in the Browser](https://dev.to/kaomojiya/bringing-microsoft-sam-back-to-life-how-sapi4-tts-works-in-the-browser-3ej7)
-- [How We Made Our E2E Tests 12x Faster](https://dev.to/alexneamtu/how-we-made-our-e2e-tests-12x-faster-51pm)
+- [How I Structure Backend Projects So They Don’t Become a Mess](https://dev.to/imtaslim/how-i-structure-backend-projects-so-they-dont-become-a-mess-4n2a)
+- [Why Your AI Initiatives Fail Without a Semantic Layer](https://dev.to/alexmercedcoder/why-your-ai-initiatives-fail-without-a-semantic-layer-1m6o)
+- [Semantic Layer vs. Data Catalog: Complementary, Not Competing](https://dev.to/alexmercedcoder/semantic-layer-vs-data-catalog-complementary-not-competing-2lf1)
+- [T-Ruby: Adding Static Typing to Ruby Without Runtime Overhead](https://dev.to/aeremin/t-ruby-adding-static-typing-to-ruby-without-runtime-overhead-3ddf)
 <!-- BLOG-POST-LIST:END -->
 
 
