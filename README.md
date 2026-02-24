@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MongoDB: Zero to Advanced &lpar;The Real Guide Nobody Else Will Write&rpar;](https://dev.to/adhikareeprayush/mongodb-zero-to-advanced-the-real-guide-nobody-else-will-write-em5)
-- [From Blank Page to Published Post in Minutes: Your Beginner&#39;s Guide to AI Blogging](https://dev.to/sia_negi21/from-blank-page-to-published-post-in-minutes-your-beginners-guide-to-ai-blogging-2blg)
-- [Azure AI Foundry Diagnostic Logging with Terraform: Every AI Call Tracked for Compliance 📋](https://dev.to/suhas_mallesh/azure-ai-foundry-diagnostic-logging-with-terraform-every-ai-call-tracked-for-compliance-1b2d)
-- [Vertex AI RAG Engine with Terraform: Your First RAG Pipeline on GCP 🔍](https://dev.to/suhas_mallesh/vertex-ai-rag-engine-with-terraform-your-first-rag-pipeline-on-gcp-1gfi)
+- [I built a fluent Numberable API for Laravel &lpar;v1.0.0&rpar;](https://dev.to/kasenda/i-built-a-fluent-numberable-api-for-laravel-v100-41pj)
+- [DNS Rebinding: How a Browser Tab Becomes a Backdoor Into Your MCP Server](https://dev.to/kai_security_ai/dns-rebinding-how-a-browser-tab-becomes-a-backdoor-into-your-mcp-server-2il2)
+- [Why Traditional QA Fails for AI Agents &lpar;And What 10 Years in QA Didn’t Teach Me&rpar;](https://dev.to/jkorzeniowski/why-traditional-qa-fails-for-ai-agents-and-what-10-years-in-qa-didnt-teach-me-45if)
+- [Beyond find&lpar;&rpar;: Mastering MongoDB Aggregations for Real-Time SaaS Analytics](https://dev.to/thekarlesi/beyond-find-mastering-mongodb-aggregations-for-real-time-saas-analytics-2lgc)
 <!-- BLOG-POST-LIST:END -->
 
 
