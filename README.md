@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure Backend Projects So They Don’t Become a Mess](https://dev.to/imtaslim/how-i-structure-backend-projects-so-they-dont-become-a-mess-4n2a)
-- [Why Your AI Initiatives Fail Without a Semantic Layer](https://dev.to/alexmercedcoder/why-your-ai-initiatives-fail-without-a-semantic-layer-1m6o)
-- [Semantic Layer vs. Data Catalog: Complementary, Not Competing](https://dev.to/alexmercedcoder/semantic-layer-vs-data-catalog-complementary-not-competing-2lf1)
-- [T-Ruby: Adding Static Typing to Ruby Without Runtime Overhead](https://dev.to/aeremin/t-ruby-adding-static-typing-to-ruby-without-runtime-overhead-3ddf)
+- [Stop Writing DI Constructors and Manually Registering .NET Services — Do This Instead &lpar;2026&rpar;](https://dev.to/cristiansifuentes/stop-writing-di-constructors-and-manually-registering-net-services-do-this-instead-2026-1ji6)
+- [Developer Experience is More Than Just Productivity Metrics](https://dev.to/jerdog/developer-experience-is-more-than-just-productivity-metrics-4a2o)
+- [🇳🇴 Norge devs: Add Fødselsnummer to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/norge-devs-add-fodselsnummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3f6i)
+- [Browserless alternative: hosted browser automation without the ops burden](https://dev.to/custodiaadmin/browserless-alternative-hosted-browser-automation-without-the-ops-burden-3hk4)
 <!-- BLOG-POST-LIST:END -->
 
 
