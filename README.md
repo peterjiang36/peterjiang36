@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 things every senior developer must ask before modernizing legacy software](https://dev.to/marcotcdev/5-things-every-senior-developer-must-ask-before-modernizing-legacy-software-2nll)
-- [Google&#39;s MCP Servers Are Open — And That&#39;s Intentional &lpar;But Here&#39;s the Risk&rpar;](https://dev.to/kai_security_ai/googles-mcp-servers-are-open-and-thats-intentional-but-heres-the-risk-37b5)
-- [#2-Known is a drop! JAVA - Datatypes](https://dev.to/deepikandas/2-known-is-a-drop-java-datatypes-33a4)
-- [How a &quot;Simple&quot; QR Code Generator Ate All My RAM: A Tale of 50,000 QR Codes](https://dev.to/budiwidhiyanto/how-a-simple-qr-code-generator-ate-all-my-ram-a-tale-of-50000-qr-codes-1nkg)
+- [I built a free tool-like Playground for Testing MCP Servers - No Setup Needed](https://dev.to/rupa_tiwari_dd308948d710f/i-built-a-free-tool-like-playground-for-testing-mcp-servers-no-setup-needed-4e91)
+- [Accessing Ports Inside Docker AI Sandboxes &lpar;Workaround&rpar;](https://dev.to/miyamiyaz/accessing-ports-inside-docker-ai-sandboxes-workaround-3jc0)
+- [10 Common Misconceptions About Agile](https://dev.to/siva_velu_b39044a1dd3b732/10-common-misconceptions-about-agile-4k6a)
+- [Experimentation is where progress comes from. It’s also where most accidental outages, broken workflows, and corrupted data come from, especially with AI in the loop. A personal AI sandbox can solve this problem.](https://dev.to/jaideepparashar/experimentation-is-where-progress-comes-from-its-also-where-most-accidental-outages-broken-4f45)
 <!-- BLOG-POST-LIST:END -->
 
 
