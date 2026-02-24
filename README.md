@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Profiling GPU &lpar;CUDA&rpar; — Introducing GPU Flight](https://dev.to/codinginavan/profiling-gpu-cuda-introducing-gpu-flight-4p67)
-- [Detcting Burnout Before It Hits: Building an HRV Anomaly Detector with Isolation Forest 🚀](https://dev.to/wellallytech/detcting-burnout-before-it-hits-building-an-hrv-anomaly-detector-with-isolation-forest-4dek)
-- [THE MACHINERY OF MASS INCARCERATION](https://dev.to/triple7/the-machinery-of-mass-incarceration-2oo9)
-- [The Most Used Java Frameworks Nowadays &lpar;2026&rpar;](https://dev.to/polymorphicguy/the-most-used-java-frameworks-nowadays-2026-1g44)
+- [5 things every senior developer must ask before modernizing legacy software](https://dev.to/marcotcdev/5-things-every-senior-developer-must-ask-before-modernizing-legacy-software-2nll)
+- [Google&#39;s MCP Servers Are Open — And That&#39;s Intentional &lpar;But Here&#39;s the Risk&rpar;](https://dev.to/kai_security_ai/googles-mcp-servers-are-open-and-thats-intentional-but-heres-the-risk-37b5)
+- [#2-Known is a drop! JAVA - Datatypes](https://dev.to/deepikandas/2-known-is-a-drop-java-datatypes-33a4)
+- [How a &quot;Simple&quot; QR Code Generator Ate All My RAM: A Tale of 50,000 QR Codes](https://dev.to/budiwidhiyanto/how-a-simple-qr-code-generator-ate-all-my-ram-a-tale-of-50000-qr-codes-1nkg)
 <!-- BLOG-POST-LIST:END -->
 
 
