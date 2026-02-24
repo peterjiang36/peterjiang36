@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Regression Tests: Stop Your AI Workflow From Breaking](https://dev.to/novaelvaris/prompt-regression-tests-stop-your-ai-workflow-from-breaking-9a)
-- [The &#39;Instruction Hierarchy&#39; is Dead: Why Your Agent&#39;s Skills Are a Supply Chain Nightmare](https://dev.to/an0nymus/the-instruction-hierarchy-is-dead-why-your-agents-skills-are-a-supply-chain-nightmare-4ffn)
-- [Understanding the Thundering Herd Problem: Taming the Stampede in Distributed Systems](https://dev.to/amoolkk/understanding-the-thundering-herd-problem-taming-the-stampede-in-distributed-systems-f98)
-- [AP Systems Explained: Stale Data Beats Dead Servers](https://dev.to/amalik18/ap-systems-explained-stale-data-beats-dead-servers-4l99)
+- [I make a simple desktop app with Python](https://dev.to/victorchendraa/heres-how-i-make-a-simple-desktop-app-with-python-tkinter-customtkinter-4431)
+- [Stop writing API test scripts. Use plain English instead.](https://dev.to/mbadyl/stop-writing-api-test-scripts-use-plain-english-instead-532d)
+- [Detect User Inactivity System-Wide on Android with AccessibilityService](https://dev.to/lepresk/detect-user-inactivity-system-wide-on-android-with-accessibilityservice-3aed)
+- [store3](https://dev.to/query_filter_591122b53770/store3-n6a)
 <!-- BLOG-POST-LIST:END -->
 
 
