@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here&#39;s What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
-- [Simple random search provides a competitive approach to reinforcement learning](https://dev.to/paperium/simple-random-search-provides-a-competitive-approach-to-reinforcement-learning-26ff)
-- [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3)
-- [How We Documented 95 API Endpoints with OpenAPI and Scalar](https://dev.to/alexneamtu/how-we-documented-95-api-endpoints-with-openapi-and-scalar-474i)
+- [Modelos abertos e fechados em testes de performance com k6.](https://dev.to/marlo2222/modelos-abertos-e-fechados-em-testes-de-performance-com-k6-2ej7)
+- [🗓️ Monthly Dev Report: February 2026](https://dev.to/francistrdev/monthly-dev-report-february-2026-4i1p)
+- [PipeGuard — an open‑source, fast CLI tool](https://dev.to/yassine_hakkache_5a647ac7/pipeguard-an-open-source-fast-cli-tool-11ie)
+- [AGILE IN SPRING BOOT PROJECT COMPANY](https://dev.to/bhu_kalki/agile-in-spring-boot-project-company-4168)
 <!-- BLOG-POST-LIST:END -->
 
 
