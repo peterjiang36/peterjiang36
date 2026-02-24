@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software 3.1 - AI Functions](https://dev.to/aws/software-31-ai-functions-5acn)
-- [What Is OpenClaw AI in 2026? A Practical Guide for Developers](https://dev.to/laracopilot/what-is-openclaw-ai-in-2026-a-practical-guide-for-developers-25hj)
-- [Digital Freedom and the Architecture of Social Media](https://dev.to/canabady/digital-freedom-and-the-architecture-of-social-media-2pdj)
-- [Step-by-Step Guide: How to Install a Theme on WordPress &lpar;For Beginners&rpar;](https://dev.to/themexriver_official/step-by-step-guide-how-to-install-a-theme-on-wordpress-for-beginners-4b27)
+- [Cognitive Load and Decision Quality](https://dev.to/_b8d89ece3338719863cb03/cognitive-load-and-decision-quality-2i60)
+- [Concurrent Requests များကို ဘယ်လို ကိုင်တွယ်ဖြေရှင်းမလဲ?](https://dev.to/mytc/concurrent-requests-maakiu-bhyliu-kiungttypherngmlai-44f3)
+- [Stop Writing NestJS CRUD Boilerplate - Generate It from Zod Schemas Instead](https://dev.to/tyson_cung/stop-writing-nestjs-crud-boilerplate-generate-it-from-zod-schemas-instead-4mjo)
+- [WASM Microservices: From Single Binaries to Composable Components](https://dev.to/rafacalderon/wasm-microservices-from-single-binaries-to-composable-components-2kan)
 <!-- BLOG-POST-LIST:END -->
 
 
