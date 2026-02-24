@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to sort an array of objects in JavaScript?](https://dev.to/theme_selection/how-to-sort-an-array-of-objects-in-javascript-49d3)
-- [I Built My Own Self-Hosted File Sharing Server Instead of Alts; Here’s Why](https://dev.to/iconical/i-built-my-own-self-hosted-file-sharing-server-instead-of-alts-heres-why-g93)
-- [Cronark: Lightweight Cron-Based Job Scheduling for PHP](https://dev.to/nabeghe/cronark-lightweight-cron-based-job-scheduling-for-php-1i9j)
-- [I built an open ZK identity protocol for AI agents — prove you&#39;re human without revealing who you are](https://dev.to/manuel_felipeariaspined/soulprint-zk-identity-protocol-for-ai-agents-open-source-7-npm-packages-7-countries-51k7)
+- [Software 3.1 - AI Functions](https://dev.to/aws/software-31-ai-functions-5acn)
+- [What Is OpenClaw AI in 2026? A Practical Guide for Developers](https://dev.to/laracopilot/what-is-openclaw-ai-in-2026-a-practical-guide-for-developers-25hj)
+- [Digital Freedom and the Architecture of Social Media](https://dev.to/canabady/digital-freedom-and-the-architecture-of-social-media-2pdj)
+- [Step-by-Step Guide: How to Install a Theme on WordPress &lpar;For Beginners&rpar;](https://dev.to/themexriver_official/step-by-step-guide-how-to-install-a-theme-on-wordpress-for-beginners-4b27)
 <!-- BLOG-POST-LIST:END -->
 
 
