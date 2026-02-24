@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a fluent Numberable API for Laravel &lpar;v1.0.0&rpar;](https://dev.to/kasenda/i-built-a-fluent-numberable-api-for-laravel-v100-41pj)
-- [DNS Rebinding: How a Browser Tab Becomes a Backdoor Into Your MCP Server](https://dev.to/kai_security_ai/dns-rebinding-how-a-browser-tab-becomes-a-backdoor-into-your-mcp-server-2il2)
-- [Why Traditional QA Fails for AI Agents &lpar;And What 10 Years in QA Didn’t Teach Me&rpar;](https://dev.to/jkorzeniowski/why-traditional-qa-fails-for-ai-agents-and-what-10-years-in-qa-didnt-teach-me-45if)
-- [Beyond find&lpar;&rpar;: Mastering MongoDB Aggregations for Real-Time SaaS Analytics](https://dev.to/thekarlesi/beyond-find-mastering-mongodb-aggregations-for-real-time-saas-analytics-2lgc)
+- [Deep Dive into Array.reduce&lpar;&rpar;: From Interview Questions to Design Thinking](https://dev.to/yuki-uix/deep-dive-into-arrayreduce-from-interview-questions-to-design-thinking-15ih)
+- [🚀 Building a Cloud-Native Microservices Voting System on AWS using Kubernetes &lpar;Kind&rpar; &amp; Argo CD](https://dev.to/yash_sonawane25/building-a-cloud-native-microservices-voting-system-on-aws-using-kubernetes-kind-argo-cd-5hdh)
+- [Quarkus vs Spring: Performance, Developer Experience, and Production Trade-offs : Part 1](https://dev.to/prabhjeet6/quarkus-vs-spring-performance-developer-experience-and-production-trade-offs-part-1-41c9)
+- [What Skills Will You Learn in a QA Software Tester Course in 2026?](https://dev.to/alexa143/what-skills-will-you-learn-in-a-qa-software-tester-course-in-2026-106h)
 <!-- BLOG-POST-LIST:END -->
 
 
