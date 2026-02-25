@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-4381)
-- [I Built a &quot;One Click Social Media Automation Platform&quot; with Python &amp; FastAPI](https://dev.to/bharath_kumar_30_vog/i-built-a-one-click-social-media-automation-platform-with-python-fastapi-4f0l)
-- [Cosmos Cloud vs Portainer: Which Platform?](https://dev.to/selfhostingsh/cosmos-cloud-vs-portainer-which-platform-56no)
-- [Python for Beginners 2026: A Structured Learning Path &lpar;By Faisal Zamir&rpar;](https://dev.to/faisal_zamir/python-for-beginners-2026-a-structured-learning-path-by-faisal-zamir-4p99)
+- [User Personas That Developers Actually Care About ⛄️](https://dev.to/kelly_lewandowski_845215e/user-personas-that-developers-actually-care-about-a2n)
+- [What If the GPU Was Never Hardware? Rethinking AI Acceleration with Pure Software](https://dev.to/wazih_shourov/what-if-the-gpu-was-never-hardware-rethinking-ai-acceleration-with-pure-software-5j4)
+- [I Built a Mini Games Platform With Pure JavaScript &lpar;No Framework&rpar; And Firebase](https://dev.to/matteo_marinazzo_f95488a1/i-built-a-mini-games-platform-with-pure-javascript-no-framework-and-firebase-1pid)
+- [I Built a JavaScript Interview Prep Platform with Interactive Code Visualizations](https://dev.to/sunny_wilson_3ca4d52ce095/i-built-a-javascript-interview-prep-platform-with-interactive-code-visualizations-438b)
 <!-- BLOG-POST-LIST:END -->
 
 
