@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an AI-Powered Product Validation Engine That Predicts E-commerce Winners](https://dev.to/lexiapp/how-we-built-an-ai-powered-product-validation-engine-that-predicts-e-commerce-winners-o5f)
-- [Prompt Snippets and Auto-DRY Analysis for Voice Agent Graphs](https://dev.to/pld/prompt-snippets-and-auto-dry-analysis-for-voice-agent-graphs-1972)
-- [Building Persistent AI Agent Memory: A 4-Layer File-Based Architecture for Cross-Session Recall](https://dev.to/oblivionlabz/building-persistent-ai-agent-memory-a-4-layer-file-based-architecture-for-cross-session-recall-ffd)
-- [I Built a Reasonably Secure OpenClaw Box with Spare PC Parts, NixOS, and microVMs](https://dev.to/ryoooo/i-built-a-reasonably-secure-openclaw-box-with-spare-pc-parts-nixos-and-microvms-2177)
+- [I Built 14 Free Web Tools — Here&#39;s What I Learned](https://dev.to/fivebot2006/i-built-14-free-web-tools-heres-what-i-learned-55kl)
+- [🛡️ Cloud Networking Level 3: The Data Sovereignty Plan](https://dev.to/pilgrim2go/cloud-networking-level-3-the-data-sovereignty-plan-4ad0)
+- [🇨🇿 Česko devs: Add Rodné číslo to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/cesko-devs-add-rodne-cislo-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-9i)
+- [Engineering Resilient Flutter Apps That Survive Backend Changes](https://dev.to/pravin_kunnure_f4663a859a/engineering-resilient-flutter-apps-that-survive-backend-changes-1p99)
 <!-- BLOG-POST-LIST:END -->
 
 
