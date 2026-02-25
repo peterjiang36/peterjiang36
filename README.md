@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Construindo seu Próprio BI com Python: O Fim do Vendor Lock-in &lpar;DuckDB, Marimo e Polars&rpar;](https://dev.to/franciscojdsjr/construindo-seu-proprio-bi-com-python-o-fim-do-vendor-lock-in-duckdb-marimo-e-polars-1hkj)
-- [Redis vs Vector Databases 🗃️ in the AI 🤖 Era](https://dev.to/hemant_007/redis-vs-vector-databases-in-the-ai-era-4jaj)
-- [How to Analyze Sensitive Data Without Uploading It Anywhere](https://dev.to/davidrodriguez/how-to-analyze-sensitive-data-without-uploading-it-anywhere-18l2)
-- [Why Gmail Breaks Your Email CSS &lpar;and How to Catch It Before Your Users Do&rpar;](https://dev.to/aoifecarrigan/why-gmail-breaks-your-email-css-and-how-to-catch-it-before-your-users-do-3mlk)
+- [from chats to memories , building something more personal](https://dev.to/rj1412/from-chats-to-memories-building-something-more-personal-3ebd)
+- [5 APIs I’d Use to Build Data-Driven Apps in 2026](https://dev.to/eleftheriabatsou/5-apis-id-use-to-build-data-driven-apps-in-2026-1kfd)
+- [🚀 Starting My Tech Journey – Why I’m Sharing It Publicly](https://dev.to/x0lg0n/starting-my-tech-journey-why-im-sharing-it-publicly-2o8f)
+- [🇵🇭 Philippines devs: Add PhilSys ID &lpar;PSN&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/philippines-devs-add-philsys-id-psn-to-the-ai-identity-standard-soulprint-open-source-30-l6m)
 <!-- BLOG-POST-LIST:END -->
 
 
