@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [from chats to memories , building something more personal](https://dev.to/rj1412/from-chats-to-memories-building-something-more-personal-3ebd)
-- [5 APIs I’d Use to Build Data-Driven Apps in 2026](https://dev.to/eleftheriabatsou/5-apis-id-use-to-build-data-driven-apps-in-2026-1kfd)
-- [🚀 Starting My Tech Journey – Why I’m Sharing It Publicly](https://dev.to/x0lg0n/starting-my-tech-journey-why-im-sharing-it-publicly-2o8f)
-- [🇵🇭 Philippines devs: Add PhilSys ID &lpar;PSN&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/philippines-devs-add-philsys-id-psn-to-the-ai-identity-standard-soulprint-open-source-30-l6m)
+- [Pourquoi les filtres anti-insultes ne suffisent pas pour protéger une communauté](https://dev.to/cytraxis_c77c39212cc/pourquoi-les-filtres-anti-insultes-ne-suffisent-pas-pour-proteger-une-communaute-1mb4)
+- [AI에게 사주를 맡기면 안 되는 이유 — 그리고 올바르게 맡기는 법](https://dev.to/ji_ai/aiege-sajureul-matgimyeon-an-doeneun-iyu-geurigo-olbareuge-matgineun-beob-1ike)
+- [Why You Shouldn&#39;t Let AI Do Your Fortune Telling — And How to Do It Right](https://dev.to/ji_ai/why-you-shouldnt-let-ai-do-your-fortune-telling-and-how-to-do-it-right-1hi5)
+- [Laravel Blaze: What It Actually Does, When to Use It, and When It&#39;ll Break Your App](https://dev.to/hafiz619/laravel-blaze-what-it-actually-does-when-to-use-it-and-when-itll-break-your-app-1gma)
 <!-- BLOG-POST-LIST:END -->
 
 
