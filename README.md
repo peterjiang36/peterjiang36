@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 14 Free Web Tools — Here&#39;s What I Learned](https://dev.to/fivebot2006/i-built-14-free-web-tools-heres-what-i-learned-55kl)
-- [🛡️ Cloud Networking Level 3: The Data Sovereignty Plan](https://dev.to/pilgrim2go/cloud-networking-level-3-the-data-sovereignty-plan-4ad0)
-- [🇨🇿 Česko devs: Add Rodné číslo to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/cesko-devs-add-rodne-cislo-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-9i)
-- [Engineering Resilient Flutter Apps That Survive Backend Changes](https://dev.to/pravin_kunnure_f4663a859a/engineering-resilient-flutter-apps-that-survive-backend-changes-1p99)
+- [Caddy vs Envoy: Which Proxy to Self-Host?](https://dev.to/selfhostingsh/caddy-vs-envoy-which-proxy-to-self-host-1p5)
+- [IDS Fundamentals - cyber security 101,walkthrough](https://dev.to/irfan_096f3d21181ffb88399/ids-fundamentals-cyber-security-101walkthrough-5aoe)
+- [You Don&#39;t Need to Pay X $100/Month. Use Grok.](https://dev.to/randomchaos7800hub/you-dont-need-to-pay-x-100month-use-grok-25e2)
+- [Why Research Projects Freeze When Questions Get Deep-and How to Unfreeze Them](https://dev.to/jamesdev4123/why-research-projects-freeze-when-questions-get-deep-and-how-to-unfreeze-them-ema)
 <!-- BLOG-POST-LIST:END -->
 
 
