@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I made our AI understand Sling’s data](https://dev.to/turinglovesdeathmetal/how-i-made-our-ai-understand-slings-data-3oaj)
-- [How to Boost Your OpenClaw Bot 10x 🦞](https://dev.to/anthonymax/how-to-boost-your-openclaw-bot-10x-35o7)
-- [J&#39;ai construit un conseiller gaming IA qui connaît vraiment votre collection](https://dev.to/e5k1m0/jai-construit-un-conseiller-gaming-ia-qui-connait-vraiment-votre-collection-5ho)
-- [I built an audit plugin to audit Claude Code plugins](https://dev.to/nestedcat/i-built-an-audit-plugin-to-audit-claude-code-plugins-2hlg)
+- [Construindo seu Próprio BI com Python: O Fim do Vendor Lock-in &lpar;DuckDB, Marimo e Polars&rpar;](https://dev.to/franciscojdsjr/construindo-seu-proprio-bi-com-python-o-fim-do-vendor-lock-in-duckdb-marimo-e-polars-1hkj)
+- [Redis vs Vector Databases 🗃️ in the AI 🤖 Era](https://dev.to/hemant_007/redis-vs-vector-databases-in-the-ai-era-4jaj)
+- [How to Analyze Sensitive Data Without Uploading It Anywhere](https://dev.to/davidrodriguez/how-to-analyze-sensitive-data-without-uploading-it-anywhere-18l2)
+- [Why Gmail Breaks Your Email CSS &lpar;and How to Catch It Before Your Users Do&rpar;](https://dev.to/aoifecarrigan/why-gmail-breaks-your-email-css-and-how-to-catch-it-before-your-users-do-3mlk)
 <!-- BLOG-POST-LIST:END -->
 
 
