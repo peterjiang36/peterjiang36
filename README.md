@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FRANKENREITER‑Entertainment &amp; Founder Story](https://dev.to/frankenreiterentertainme/frankenreiter-entertainment-founder-story-k51)
-- [Why I replaced regex with plain English](https://dev.to/hollowsolve/why-i-replaced-regex-with-plain-english-2986)
-- [Finovara - Limits activity logs.](https://dev.to/m4rc1nek/finovara-limits-activity-logs-329c)
-- [Kinetic SQL: Why I Ditched Heavy ORMs and Built a Real-Time SQL Engine for Node.js](https://dev.to/iamkapilkumar/kinetic-sql-why-i-ditched-heavy-orms-and-built-a-real-time-sql-engine-for-nodejs-pm)
+- [Verifying Ledger Live Source Code](https://dev.to/subreddit_thoughts_e9b83e/verifying-ledger-live-source-code-4pc)
+- [Provide shared file storage for the company offices](https://dev.to/precious_nwafor/provide-shared-file-storage-for-the-company-offices-1mlc)
+- [Building a YouTube Channel in Public](https://dev.to/rndthts/building-a-youtube-channel-in-public-4kn1)
+- [I built an MCP server that forces AI to spec before it codes](https://dev.to/hendryavila/i-built-an-mcp-server-that-forces-ai-to-spec-before-it-codes-236f)
 <!-- BLOG-POST-LIST:END -->
 
 
