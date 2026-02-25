@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Tools Every Indie Developer Should Know in 2026](https://dev.to/curiouspilot/5-ai-tools-every-indie-developer-should-know-in-2026-59fa)
-- [SEO Is Not Dead — It’s Being Replaced by Agent Operability](https://dev.to/bridgeai/seo-is-not-dead-its-being-replaced-by-agent-operability-1mn8)
-- [Stop Treating Clawdbot &lpar;OpenClaw&rpar; Like a Plug-and-Play Solution](https://dev.to/yunsoft/stop-treating-clawdbot-openclaw-like-a-plug-and-play-solution-fo0)
-- [I Asked Gemini How Its Own Deep Research Works — Half of It Was Inaccurate](https://dev.to/shimo4228/i-asked-gemini-how-its-own-deep-research-works-half-of-it-was-inaccurate-1ki1)
+- [Built a lightweight Prometheus tool to rightsize CPU/RAM](https://dev.to/grachamba/built-a-lightweight-prometheus-tool-to-rightsize-cpuram-52di)
+- [I Built a Visual Desktop App for Claude Code — Here&#39;s What I Learned](https://dev.to/pilosdotnet/i-built-a-visual-desktop-app-for-claude-code-heres-what-i-learned-47be)
+- [How Modern Developers Are Adapting to AI-Driven Web Development](https://dev.to/prince_d62be3d6251d200476/how-modern-developers-are-adapting-to-ai-driven-web-development-5ffo)
+- [How Moving to MVC Changed the Way I Write Express Apps](https://dev.to/alireza_naseri_481e266dae/how-moving-to-mvc-changed-the-way-i-write-express-apps-3bdj)
 <!-- BLOG-POST-LIST:END -->
 
 
