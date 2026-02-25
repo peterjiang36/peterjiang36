@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Caddy vs Envoy: Which Proxy to Self-Host?](https://dev.to/selfhostingsh/caddy-vs-envoy-which-proxy-to-self-host-1p5)
-- [IDS Fundamentals - cyber security 101,walkthrough](https://dev.to/irfan_096f3d21181ffb88399/ids-fundamentals-cyber-security-101walkthrough-5aoe)
-- [You Don&#39;t Need to Pay X $100/Month. Use Grok.](https://dev.to/randomchaos7800hub/you-dont-need-to-pay-x-100month-use-grok-25e2)
-- [Why Research Projects Freeze When Questions Get Deep-and How to Unfreeze Them](https://dev.to/jamesdev4123/why-research-projects-freeze-when-questions-get-deep-and-how-to-unfreeze-them-ema)
+- [Stop Using Thread.sleep&lpar;&rpar;: Smart Polling for CloudWatch Log Validation in Java &lpar;AWS Test Automation&rpar;](https://dev.to/krishnamurthy_yarram_5cf5/stop-using-threadsleep-smart-polling-for-cloudwatch-log-validation-in-java-aws-test-automation-2mj6)
+- [PR reviewer in 120 lines. No dependencies, no OAuth, no subscription.](https://dev.to/adamai/pr-reviewer-in-120-lines-no-dependencies-no-oauth-no-subscription-4n5k)
+- [Building a REST API in Rust with Rocket &lpar;Part 2&rpar;](https://dev.to/ayas_tech_2b0560ee159e661/building-a-rest-api-in-rust-with-rocket-part-2-491f)
+- [Stop Feeling the Shame; Start Reading the Logs: A Guide to Objective Analysis](https://dev.to/chandravijayagr/stop-feeling-the-shame-start-reading-the-logs-a-guide-to-objective-analysis-4mfb)
 <!-- BLOG-POST-LIST:END -->
 
 
