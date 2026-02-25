@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Memory Engine: Building Smart AI Agents with Elastic’s Agent Builder](https://dev.to/yoga0022/the-memory-engine-building-smart-ai-agents-with-elastics-agent-builder-1n9n)
-- [I Built 3 Work-Saving Desktop Apps in 3 Days Using Google Antigravity – Here’s How](https://dev.to/hudy9x/i-built-3-work-saving-desktop-apps-in-3-days-using-google-antigravity-heres-how-2364)
-- [The Two-Pass Prompt: Generate, Critique, Improve &lpar;and Ship Better Output&rpar;](https://dev.to/novaelvaris/the-two-pass-prompt-generate-critique-improve-and-ship-better-output-33g7)
-- [Why AI-Generated Apps Break After Every Change — The Structural Mechanism](https://dev.to/vibecodiq/why-ai-generated-apps-break-after-every-change-the-structural-mechanism-2apj)
+- [Oxfmt, a high-performance formatter for the JavaScript ecosystem.](https://dev.to/ramunarasinga-11/oxfmt-a-high-performance-formatter-for-the-javascript-ecosystem-1mfj)
+- [Day 9: The Supermind Council](https://dev.to/chitintrust/day-9-the-supermind-council-10jl)
+- [Welcome to XPanel Reforged &lpar;XP-R&rpar;](https://dev.to/alabex_/welcome-to-xpanel-reforged-xp-r-21lb)
+- [Offline-first React without the boilerplate — how I built connectivity-js](https://dev.to/connectivity-js/offline-first-react-without-the-boilerplate-how-i-built-connectivity-js-4lb7)
 <!-- BLOG-POST-LIST:END -->
 
 
