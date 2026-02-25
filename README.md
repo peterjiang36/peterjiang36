@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [User Personas That Developers Actually Care About ⛄️](https://dev.to/kelly_lewandowski_845215e/user-personas-that-developers-actually-care-about-a2n)
-- [What If the GPU Was Never Hardware? Rethinking AI Acceleration with Pure Software](https://dev.to/wazih_shourov/what-if-the-gpu-was-never-hardware-rethinking-ai-acceleration-with-pure-software-5j4)
-- [I Built a Mini Games Platform With Pure JavaScript &lpar;No Framework&rpar; And Firebase](https://dev.to/matteo_marinazzo_f95488a1/i-built-a-mini-games-platform-with-pure-javascript-no-framework-and-firebase-1pid)
-- [I Built a JavaScript Interview Prep Platform with Interactive Code Visualizations](https://dev.to/sunny_wilson_3ca4d52ce095/i-built-a-javascript-interview-prep-platform-with-interactive-code-visualizations-438b)
+- [Transformers: Revolutionizing Natural Language Processing!](https://dev.to/mgobea/transformers-revolutionizing-natural-language-processing-4fi9)
+- [Setting Up Error Monitoring in Laravel Without the Overhead](https://dev.to/oopsydev/setting-up-error-monitoring-in-laravel-without-the-overhead-48fk)
+- [Apache Data Lakehouse Weekly: February 18–25, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-18-25-2026-5h61)
+- [Your Website Is Quietly Turning Customers Away](https://dev.to/bohdandanylov/your-website-is-quietly-turning-customers-away-4l2)
 <!-- BLOG-POST-LIST:END -->
 
 
