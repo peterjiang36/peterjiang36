@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-4pip)
-- [News Roundup: From AI crypto to 100% renewable energy](https://dev.to/shrinithi_v/news-roundup-from-ai-crypto-to-100-renewable-energy-59n9)
-- [เส้นทางกว่าจะมาเป็น Developer ครั้งแรกที่ได้สัมผัสกับคอมพิวเตอร์](https://dev.to/pskclub/esnthaangkwaacchamaaepn-developer-khrangaerkthiiaidsamphaskabkhmphiwetr-1k00)
-- [Deeper Trace Analytics - Analyze Root &amp; Entry Spans with Ease](https://dev.to/ankit01oss/deeper-trace-analytics-analyze-root-entry-spans-with-ease-53pp)
+- [Building AI Agent Memory Architecture: A Deep Dive into LLM State Management for Power Users](https://dev.to/oblivionlabz/building-ai-agent-memory-architecture-a-deep-dive-into-llm-state-management-for-power-users-h8m)
+- [The Host Problem: Why Prompt Scanning Isn&#39;t Enough for AI Agent Security](https://dev.to/darbogach/the-host-problem-why-prompt-scanning-isnt-enough-for-ai-agent-security-2l60)
+- [ClawMoat vs LlamaFirewall vs NeMo Guardrails: Which Open-Source AI Agent Security Tool Should You Use?](https://dev.to/darbogach/clawmoat-vs-llamafirewall-vs-nemo-guardrails-which-open-source-ai-agent-security-tool-should-you-128h)
+- [the websocket cascade from hell](https://dev.to/combba/the-websocket-cascade-from-hell-3o1a)
 <!-- BLOG-POST-LIST:END -->
 
 
