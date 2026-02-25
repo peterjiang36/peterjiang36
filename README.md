@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agent Memory Architecture: A Deep Dive into LLM State Management for Power Users](https://dev.to/oblivionlabz/building-ai-agent-memory-architecture-a-deep-dive-into-llm-state-management-for-power-users-h8m)
-- [The Host Problem: Why Prompt Scanning Isn&#39;t Enough for AI Agent Security](https://dev.to/darbogach/the-host-problem-why-prompt-scanning-isnt-enough-for-ai-agent-security-2l60)
-- [ClawMoat vs LlamaFirewall vs NeMo Guardrails: Which Open-Source AI Agent Security Tool Should You Use?](https://dev.to/darbogach/clawmoat-vs-llamafirewall-vs-nemo-guardrails-which-open-source-ai-agent-security-tool-should-you-128h)
-- [the websocket cascade from hell](https://dev.to/combba/the-websocket-cascade-from-hell-3o1a)
+- [5 AI Tools Every Indie Developer Should Know in 2026](https://dev.to/curiouspilot/5-ai-tools-every-indie-developer-should-know-in-2026-59fa)
+- [SEO Is Not Dead — It’s Being Replaced by Agent Operability](https://dev.to/bridgeai/seo-is-not-dead-its-being-replaced-by-agent-operability-1mn8)
+- [Stop Treating Clawdbot &lpar;OpenClaw&rpar; Like a Plug-and-Play Solution](https://dev.to/yunsoft/stop-treating-clawdbot-openclaw-like-a-plug-and-play-solution-fo0)
+- [I Asked Gemini How Its Own Deep Research Works — Half of It Was Inaccurate](https://dev.to/shimo4228/i-asked-gemini-how-its-own-deep-research-works-half-of-it-was-inaccurate-1ki1)
 <!-- BLOG-POST-LIST:END -->
 
 
