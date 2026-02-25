@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Thread.sleep&lpar;&rpar;: Smart Polling for CloudWatch Log Validation in Java &lpar;AWS Test Automation&rpar;](https://dev.to/krishnamurthy_yarram_5cf5/stop-using-threadsleep-smart-polling-for-cloudwatch-log-validation-in-java-aws-test-automation-2mj6)
-- [PR reviewer in 120 lines. No dependencies, no OAuth, no subscription.](https://dev.to/adamai/pr-reviewer-in-120-lines-no-dependencies-no-oauth-no-subscription-4n5k)
-- [Building a REST API in Rust with Rocket &lpar;Part 2&rpar;](https://dev.to/ayas_tech_2b0560ee159e661/building-a-rest-api-in-rust-with-rocket-part-2-491f)
-- [Stop Feeling the Shame; Start Reading the Logs: A Guide to Objective Analysis](https://dev.to/chandravijayagr/stop-feeling-the-shame-start-reading-the-logs-a-guide-to-objective-analysis-4mfb)
+- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-4pip)
+- [News Roundup: From AI crypto to 100% renewable energy](https://dev.to/shrinithi_v/news-roundup-from-ai-crypto-to-100-renewable-energy-59n9)
+- [เส้นทางกว่าจะมาเป็น Developer ครั้งแรกที่ได้สัมผัสกับคอมพิวเตอร์](https://dev.to/pskclub/esnthaangkwaacchamaaepn-developer-khrangaerkthiiaidsamphaskabkhmphiwetr-1k00)
+- [Deeper Trace Analytics - Analyze Root &amp; Entry Spans with Ease](https://dev.to/ankit01oss/deeper-trace-analytics-analyze-root-entry-spans-with-ease-53pp)
 <!-- BLOG-POST-LIST:END -->
 
 
