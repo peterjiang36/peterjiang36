@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pourquoi les filtres anti-insultes ne suffisent pas pour protéger une communauté](https://dev.to/cytraxis_c77c39212cc/pourquoi-les-filtres-anti-insultes-ne-suffisent-pas-pour-proteger-une-communaute-1mb4)
-- [AI에게 사주를 맡기면 안 되는 이유 — 그리고 올바르게 맡기는 법](https://dev.to/ji_ai/aiege-sajureul-matgimyeon-an-doeneun-iyu-geurigo-olbareuge-matgineun-beob-1ike)
-- [Why You Shouldn&#39;t Let AI Do Your Fortune Telling — And How to Do It Right](https://dev.to/ji_ai/why-you-shouldnt-let-ai-do-your-fortune-telling-and-how-to-do-it-right-1hi5)
-- [Laravel Blaze: What It Actually Does, When to Use It, and When It&#39;ll Break Your App](https://dev.to/hafiz619/laravel-blaze-what-it-actually-does-when-to-use-it-and-when-itll-break-your-app-1gma)
+- [The Memory Engine: Building Smart AI Agents with Elastic’s Agent Builder](https://dev.to/yoga0022/the-memory-engine-building-smart-ai-agents-with-elastics-agent-builder-1n9n)
+- [I Built 3 Work-Saving Desktop Apps in 3 Days Using Google Antigravity – Here’s How](https://dev.to/hudy9x/i-built-3-work-saving-desktop-apps-in-3-days-using-google-antigravity-heres-how-2364)
+- [The Two-Pass Prompt: Generate, Critique, Improve &lpar;and Ship Better Output&rpar;](https://dev.to/novaelvaris/the-two-pass-prompt-generate-critique-improve-and-ship-better-output-33g7)
+- [Why AI-Generated Apps Break After Every Change — The Structural Mechanism](https://dev.to/vibecodiq/why-ai-generated-apps-break-after-every-change-the-structural-mechanism-2apj)
 <!-- BLOG-POST-LIST:END -->
 
 
