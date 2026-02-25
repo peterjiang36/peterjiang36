@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering AI Agent Memory Architecture: A Deep Dive into Stateful Workflows](https://dev.to/oblivionlabz/mastering-ai-agent-memory-architecture-a-deep-dive-into-stateful-workflows-5032)
-- [How We Built an AI Support Assistant That Actually Works in Discord](https://dev.to/ticketcord/how-we-built-an-ai-support-assistant-that-actually-works-in-discord-1ddl)
-- [Design Patterns: Introduction](https://dev.to/techlabma/design-patterns-introduction-377g)
-- [Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks](https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8)
+- [How We Built an AI-Powered Product Validation Engine That Predicts E-commerce Winners](https://dev.to/lexiapp/how-we-built-an-ai-powered-product-validation-engine-that-predicts-e-commerce-winners-o5f)
+- [Prompt Snippets and Auto-DRY Analysis for Voice Agent Graphs](https://dev.to/pld/prompt-snippets-and-auto-dry-analysis-for-voice-agent-graphs-1972)
+- [Building Persistent AI Agent Memory: A 4-Layer File-Based Architecture for Cross-Session Recall](https://dev.to/oblivionlabz/building-persistent-ai-agent-memory-a-4-layer-file-based-architecture-for-cross-session-recall-ffd)
+- [I Built a Reasonably Secure OpenClaw Box with Spare PC Parts, NixOS, and microVMs](https://dev.to/ryoooo/i-built-a-reasonably-secure-openclaw-box-with-spare-pc-parts-nixos-and-microvms-2177)
 <!-- BLOG-POST-LIST:END -->
 
 
