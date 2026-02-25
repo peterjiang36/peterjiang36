@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Oxfmt, a high-performance formatter for the JavaScript ecosystem.](https://dev.to/ramunarasinga-11/oxfmt-a-high-performance-formatter-for-the-javascript-ecosystem-1mfj)
-- [Day 9: The Supermind Council](https://dev.to/chitintrust/day-9-the-supermind-council-10jl)
-- [Welcome to XPanel Reforged &lpar;XP-R&rpar;](https://dev.to/alabex_/welcome-to-xpanel-reforged-xp-r-21lb)
-- [Offline-first React without the boilerplate — how I built connectivity-js](https://dev.to/connectivity-js/offline-first-react-without-the-boilerplate-how-i-built-connectivity-js-4lb7)
+- [Building Persistent Memory for AI Agents: A 4-Layer File-Based Architecture](https://dev.to/oblivionlabz/building-persistent-memory-for-ai-agents-a-4-layer-file-based-architecture-4381)
+- [I Built a &quot;One Click Social Media Automation Platform&quot; with Python &amp; FastAPI](https://dev.to/bharath_kumar_30_vog/i-built-a-one-click-social-media-automation-platform-with-python-fastapi-4f0l)
+- [Cosmos Cloud vs Portainer: Which Platform?](https://dev.to/selfhostingsh/cosmos-cloud-vs-portainer-which-platform-56no)
+- [Python for Beginners 2026: A Structured Learning Path &lpar;By Faisal Zamir&rpar;](https://dev.to/faisal_zamir/python-for-beginners-2026-a-structured-learning-path-by-faisal-zamir-4p99)
 <!-- BLOG-POST-LIST:END -->
 
 
