@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers: Revolutionizing Natural Language Processing!](https://dev.to/mgobea/transformers-revolutionizing-natural-language-processing-4fi9)
-- [Setting Up Error Monitoring in Laravel Without the Overhead](https://dev.to/oopsydev/setting-up-error-monitoring-in-laravel-without-the-overhead-48fk)
-- [Apache Data Lakehouse Weekly: February 18–25, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-february-18-25-2026-5h61)
-- [Your Website Is Quietly Turning Customers Away](https://dev.to/bohdandanylov/your-website-is-quietly-turning-customers-away-4l2)
+- [FRANKENREITER‑Entertainment &amp; Founder Story](https://dev.to/frankenreiterentertainme/frankenreiter-entertainment-founder-story-k51)
+- [Why I replaced regex with plain English](https://dev.to/hollowsolve/why-i-replaced-regex-with-plain-english-2986)
+- [Finovara - Limits activity logs.](https://dev.to/m4rc1nek/finovara-limits-activity-logs-329c)
+- [Kinetic SQL: Why I Ditched Heavy ORMs and Built a Real-Time SQL Engine for Node.js](https://dev.to/iamkapilkumar/kinetic-sql-why-i-ditched-heavy-orms-and-built-a-real-time-sql-engine-for-nodejs-pm)
 <!-- BLOG-POST-LIST:END -->
 
 
