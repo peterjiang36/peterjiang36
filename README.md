@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating 21 Multilingual Promo Videos from React Code with Remotion](https://dev.to/shusukedev/generating-21-multilingual-promo-videos-from-react-code-with-remotion-o26)
-- [Building AI Agent Memory Architecture: A Deep Dive into State Management for Power Users](https://dev.to/oblivionlabz/building-ai-agent-memory-architecture-a-deep-dive-into-state-management-for-power-users-2c1g)
-- [112 Battle-Tested Claude Code Skills — Every Bug Fix That Cost Me Hours So It Won&#39;t Cost You](https://dev.to/stklen/112-battle-tested-claude-code-skills-every-bug-fix-that-cost-me-hours-so-it-wont-cost-you-252e)
-- [When AI Agents Talk to Each Other, Who&#39;s Listening? Building Inter-Agent Security](https://dev.to/darbogach/when-ai-agents-talk-to-each-other-whos-listening-building-inter-agent-security-4f15)
+- [Mastering AI Agent Memory Architecture: A Deep Dive into Stateful Workflows](https://dev.to/oblivionlabz/mastering-ai-agent-memory-architecture-a-deep-dive-into-stateful-workflows-5032)
+- [How We Built an AI Support Assistant That Actually Works in Discord](https://dev.to/ticketcord/how-we-built-an-ai-support-assistant-that-actually-works-in-discord-1ddl)
+- [Design Patterns: Introduction](https://dev.to/techlabma/design-patterns-introduction-377g)
+- [Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks](https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8)
 <!-- BLOG-POST-LIST:END -->
 
 
