@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [POST /items: Adding New Data to Your API with FastAPI &amp; Pydantic](https://dev.to/ghost_script/post-items-adding-new-data-to-your-api-with-fastapi-pydantic-12p4)
-- [A2A: How AI Agents Communicate](https://dev.to/alisterbaroi/a2a-how-ai-agents-communicate-35d5)
-- [Craft Web Theme Loader using ChatGPT 4](https://dev.to/zijianhuang/craft-web-theme-loader-using-chatgpt-4-5g04)
-- [Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense](https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg)
+- [Why I Built a Filesystem for the Browser](https://dev.to/apireno/why-i-built-a-filesystem-for-the-browser-3kpa)
+- [What If Your Database Goes Down? REST vs Kafka Under Fire](https://dev.to/bchikara/what-if-your-database-goes-down-rest-vs-kafka-under-fire-3469)
+- [CVE-2026-27465: Fleet&#39;s Open Secret: The Google Calendar Key Leak](https://dev.to/cverports/cve-2026-27465-fleets-open-secret-the-google-calendar-key-leak-53jb)
+- [Winner Announcement Delayed for Algolia Agent Studio Challenge and GitHub CLI Challenge](https://dev.to/devteam/winner-announcement-delayed-for-algolia-agent-studio-challenge-and-github-cli-challenge-53ac)
 <!-- BLOG-POST-LIST:END -->
 
 
