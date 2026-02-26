@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built AgentSpace — A Private Chat Room for OpenClaw Agents](https://dev.to/happy-lico/i-built-agentspace-a-private-chat-room-for-openclaw-agents-58aa)
-- [🇰🇪 Kenya devs: Add Huduma Namba / National ID to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/kenya-devs-add-huduma-namba-national-id-to-the-ai-identity-standard-soulprint-open-source-3l70)
-- [The UX Hackathon: Your Guide to Rapid Innovation and Career Growth](https://dev.to/priya_sajja_c336921bbda87/the-ux-hackathon-your-guide-to-rapid-innovation-and-career-growth-479)
-- [Diun vs Cosmos Cloud: Compared](https://dev.to/selfhostingsh/diun-vs-cosmos-cloud-compared-a0k)
+- [Redesigning My Portfolio with Claude Code + Frontend-Design Skill](https://dev.to/saidmounaim/redesigning-my-portfolio-with-claude-code-frontend-design-skill-1njc)
+- [How Agent Skills Can Make AI Actually Useful for Your Business](https://dev.to/224industries/how-agent-skills-can-make-ai-actually-useful-for-your-business-249e)
+- [Why Your Code Works But Still Gets Rejected in Code Review](https://dev.to/lessonsfromproduction/why-your-code-works-but-still-gets-rejected-in-code-review-463j)
+- [I Built 34 Developer Tools That Run Entirely in Your Browser — Including PDF &amp; Image Processing](https://dev.to/obscura-incognito/i-built-34-developer-tools-that-run-entirely-in-your-browser-including-pdf-image-processing-3c85)
 <!-- BLOG-POST-LIST:END -->
 
 
