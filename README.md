@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Journal of a Half-Committed Vibe Coder](https://dev.to/linkbenjamin/journal-of-a-half-committed-vibe-coder-l3p)
-- [How to Use React Query with React Router Loaders &lpar;Pre-fetch &amp; Cache Data&rpar;](https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag)
-- [Appends for AI apps: Stream into a single message with Ably AI Transport](https://dev.to/ablyblog/appends-for-ai-apps-stream-into-a-single-message-with-ably-ai-transport-398a)
-- [Node.js Application with CI/CD GitLab Pipeline on AWS EC2](https://dev.to/addwebsolutionpvtltd/nodejs-application-with-cicd-gitlab-pipeline-on-aws-ec2-2kk9)
+- [I built a native macOS companion app for Claude Code in a weekend](https://dev.to/leocardz/i-built-a-native-macos-companion-app-for-claude-code-in-a-weekend-2hcg)
+- [How I Fixed Claude&#39;s Context Window Problem in a 462 File Folder](https://dev.to/hughtopiangif/how-i-fixed-claudes-context-window-problem-in-a-462-file-folder-6n4)
+- [Question of the Day #23 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-23-talkoverflow-1i8d)
+- [I made a css named twigwind -- looking for feedback](https://dev.to/adhavan_yuvaraj_ee8efd1da/i-made-a-css-named-twigwind-looking-for-feedback-nn8)
 <!-- BLOG-POST-LIST:END -->
 
 
