@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Had an AI Agent Build Me a Full App. 46K Lines of Code, 3 Platforms, Zero Dart Knowledge](https://dev.to/hcan_359/i-had-an-ai-agent-build-me-a-full-app-46k-lines-of-code-3-platforms-zero-dart-knowledge-23p0)
-- [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg)
-- [I Ran My Own AI-Score Tool on 6 Months of My Code. I Had to Sit With the Results.](https://dev.to/lakshmisravyavedantham/i-ran-my-own-ai-score-tool-on-6-months-of-my-code-i-had-to-sit-with-the-results-15ea)
-- [Advanced Azure Storage Security: Managed Identities, Key Vaults, and Immutability](https://dev.to/louis_oodo_a59b230b894609/advanced-azure-storage-security-managed-identities-key-vaults-and-immutability-37fe)
+- [POST /items: Adding New Data to Your API with FastAPI &amp; Pydantic](https://dev.to/ghost_script/post-items-adding-new-data-to-your-api-with-fastapi-pydantic-12p4)
+- [A2A: How AI Agents Communicate](https://dev.to/alisterbaroi/a2a-how-ai-agents-communicate-35d5)
+- [Craft Web Theme Loader using ChatGPT 4](https://dev.to/zijianhuang/craft-web-theme-loader-using-chatgpt-4-5g04)
+- [Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense](https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg)
 <!-- BLOG-POST-LIST:END -->
 
 
