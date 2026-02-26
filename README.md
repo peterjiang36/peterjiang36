@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From .NET to Cloud – AWS Engineer Journey &lpar;Day 2: Deep Dive into EC2&rpar;](https://dev.to/avinashwagh/from-net-to-cloud-aws-engineer-journey-day-2-deep-dive-into-ec2-kn7)
-- [Reducing Cognitive Load with Internal Developer Platforms on AWS](https://dev.to/cygnetone/reducing-cognitive-load-with-internal-developer-platforms-on-aws-34ih)
-- [What&#39;s Hot in Retro Metroidvania? A Deep Dive into Recent HN and Reddit Discussions](https://dev.to/retrorom/whats-hot-in-retro-metroidvania-a-deep-dive-into-recent-hn-and-reddit-discussions-12c0)
-- [The teams that win won’t be the ones with the most tools. Remote work already changed where teams operate. That’s the real transformation coming to remote development.](https://dev.to/jaideepparashar/the-teams-that-win-wont-be-the-ones-with-the-most-tools-remote-work-already-changed-where-teams-5ae0)
+- [546 Tests. 0 Failures. API Still Burning🔥](https://dev.to/liudasjan/546-tests-0-failures-api-still-burning-hd6)
+- [How I Built an AI Pipeline That Turns GitHub Repos into Demo Videos](https://dev.to/kazutaka-dev/how-i-built-an-ai-pipeline-that-turns-github-repos-into-demo-videos-4k91)
+- [당신이 AI를 잘 못 쓰는 이유, 0.5초](https://dev.to/kiwibreaksme/dangsini-aireul-jal-mos-sseuneun-iyu-05co-4b0c)
+- [When the Reasoning Doesn&#39;t Survive](https://dev.to/john_wade_dev/when-the-reasoning-doesnt-survive-mnj)
 <!-- BLOG-POST-LIST:END -->
 
 
