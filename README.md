@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Redesigning My Portfolio with Claude Code + Frontend-Design Skill](https://dev.to/saidmounaim/redesigning-my-portfolio-with-claude-code-frontend-design-skill-1njc)
-- [How Agent Skills Can Make AI Actually Useful for Your Business](https://dev.to/224industries/how-agent-skills-can-make-ai-actually-useful-for-your-business-249e)
-- [Why Your Code Works But Still Gets Rejected in Code Review](https://dev.to/lessonsfromproduction/why-your-code-works-but-still-gets-rejected-in-code-review-463j)
-- [I Built 34 Developer Tools That Run Entirely in Your Browser — Including PDF &amp; Image Processing](https://dev.to/obscura-incognito/i-built-34-developer-tools-that-run-entirely-in-your-browser-including-pdf-image-processing-3c85)
+- [Buenísimo!](https://dev.to/elizabethfuentes12/buenisimo-4457)
+- [Amazing!](https://dev.to/elizabethfuentes12/amazing-29mf)
+- [I Let Three AI Agents Build My Ansible Role. Here&#39;s What Actually Happened.](https://dev.to/wilddog64/i-let-three-ai-agents-build-my-ansible-role-heres-what-actually-happened-43m9)
+- [Agent-Initiated WhatsApp Messages from Amazon Connect](https://dev.to/ensamblador/agent-initiated-whatsapp-messages-from-amazon-connect-33gg)
 <!-- BLOG-POST-LIST:END -->
 
 
