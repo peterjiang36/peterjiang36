@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
-- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
-- [How We Reached 100K+ Website Views in 28 Days](https://dev.to/suniljoshi19/how-we-reached-100k-website-views-in-28-days-554j)
-- [Choosing an Agent Framework in 2026: A Data-Driven Decision Guide](https://dev.to/lukaszgrochal/choosing-an-agent-framework-in-2026-a-data-driven-decision-guide-1mkk)
+- [Journal of a Half-Committed Vibe Coder](https://dev.to/linkbenjamin/journal-of-a-half-committed-vibe-coder-l3p)
+- [How to Use React Query with React Router Loaders &lpar;Pre-fetch &amp; Cache Data&rpar;](https://dev.to/edriso/how-to-use-react-query-with-react-router-loaders-pre-fetch-cache-data-kag)
+- [Appends for AI apps: Stream into a single message with Ably AI Transport](https://dev.to/ablyblog/appends-for-ai-apps-stream-into-a-single-message-with-ably-ai-transport-398a)
+- [Node.js Application with CI/CD GitLab Pipeline on AWS EC2](https://dev.to/addwebsolutionpvtltd/nodejs-application-with-cicd-gitlab-pipeline-on-aws-ec2-2kk9)
 <!-- BLOG-POST-LIST:END -->
 
 
