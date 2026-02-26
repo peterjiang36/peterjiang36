@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Buenísimo!](https://dev.to/elizabethfuentes12/buenisimo-4457)
-- [Amazing!](https://dev.to/elizabethfuentes12/amazing-29mf)
-- [I Let Three AI Agents Build My Ansible Role. Here&#39;s What Actually Happened.](https://dev.to/wilddog64/i-let-three-ai-agents-build-my-ansible-role-heres-what-actually-happened-43m9)
-- [Agent-Initiated WhatsApp Messages from Amazon Connect](https://dev.to/ensamblador/agent-initiated-whatsapp-messages-from-amazon-connect-33gg)
+- [From .NET to Cloud – AWS Engineer Journey &lpar;Day 2: Deep Dive into EC2&rpar;](https://dev.to/avinashwagh/from-net-to-cloud-aws-engineer-journey-day-2-deep-dive-into-ec2-kn7)
+- [Reducing Cognitive Load with Internal Developer Platforms on AWS](https://dev.to/cygnetone/reducing-cognitive-load-with-internal-developer-platforms-on-aws-34ih)
+- [What&#39;s Hot in Retro Metroidvania? A Deep Dive into Recent HN and Reddit Discussions](https://dev.to/retrorom/whats-hot-in-retro-metroidvania-a-deep-dive-into-recent-hn-and-reddit-discussions-12c0)
+- [The teams that win won’t be the ones with the most tools. Remote work already changed where teams operate. That’s the real transformation coming to remote development.](https://dev.to/jaideepparashar/the-teams-that-win-wont-be-the-ones-with-the-most-tools-remote-work-already-changed-where-teams-5ae0)
 <!-- BLOG-POST-LIST:END -->
 
 
