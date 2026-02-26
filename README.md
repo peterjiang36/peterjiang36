@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Chose Go Over Python to Build an AI Gateway: A Performance Deep-Dive](https://dev.to/pranay_batta/why-we-chose-go-over-python-to-build-an-ai-gateway-a-performance-deep-dive-1lni)
-- [FullAgenticStack WhatsApp-first: RFC-WF-0009](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0009-3cbf)
-- [GitHub Copilot Instructions vs Prompts vs Custom Agents vs Skills vs X vs WHY?](https://dev.to/pwd9000/github-copilot-instructions-vs-prompts-vs-custom-agents-vs-skills-vs-x-vs-why-339l)
-- [The killer’s signature wasn’t on the weapon, it was in the code.](https://dev.to/daniel_possiblekwabi_b57/the-killers-signature-wasnt-on-the-weapon-it-was-in-the-code-5ge7)
+- [Building Skill Align - Part 6 - Project Staffing Assistant&lpar;Backend&rpar;](https://dev.to/rubasri_srikanthan/building-skill-align-part-6-project-staffing-assistantbackend-1bnn)
+- [Deploying Secure Azure File Shares: Premium Performance and Network Security](https://dev.to/louis_oodo_a59b230b894609/deploying-secure-azure-file-shares-premium-performance-and-network-security-4od4)
+- [When Regex Meets the DOM &lpar;And Suddenly It’s Not Simple Anymore&rpar;](https://dev.to/webweaversworld/when-regex-meets-the-dom-and-suddenly-its-not-simple-anymore-1lpa)
+- [Six Enterprise AI Adoption Challenges and How Docker&#39;s Latest Tools Address Them](https://dev.to/aldenweaver/six-enterprise-ai-adoption-challenges-and-how-dockers-latest-tools-address-them-iib)
 <!-- BLOG-POST-LIST:END -->
 
 
