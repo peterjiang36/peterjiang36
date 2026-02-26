@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Skill Align - Part 6 - Project Staffing Assistant&lpar;Backend&rpar;](https://dev.to/rubasri_srikanthan/building-skill-align-part-6-project-staffing-assistantbackend-1bnn)
-- [Deploying Secure Azure File Shares: Premium Performance and Network Security](https://dev.to/louis_oodo_a59b230b894609/deploying-secure-azure-file-shares-premium-performance-and-network-security-4od4)
-- [When Regex Meets the DOM &lpar;And Suddenly It’s Not Simple Anymore&rpar;](https://dev.to/webweaversworld/when-regex-meets-the-dom-and-suddenly-its-not-simple-anymore-1lpa)
-- [Six Enterprise AI Adoption Challenges and How Docker&#39;s Latest Tools Address Them](https://dev.to/aldenweaver/six-enterprise-ai-adoption-challenges-and-how-dockers-latest-tools-address-them-iib)
+- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
+- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
+- [How We Reached 100K+ Website Views in 28 Days](https://dev.to/suniljoshi19/how-we-reached-100k-website-views-in-28-days-554j)
+- [Choosing an Agent Framework in 2026: A Data-Driven Decision Guide](https://dev.to/lukaszgrochal/choosing-an-agent-framework-in-2026-a-data-driven-decision-guide-1mkk)
 <!-- BLOG-POST-LIST:END -->
 
 
