@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Fuck You NVIDIA&quot; &lpar;and What I Learned Staring at a Blank Screen&rpar;](https://dev.to/workspacedex/fuck-you-nvidia-and-what-i-learned-staring-at-a-blank-screen-3g1g)
-- [I Ship Faster Than Ever. I&#39;ve Never Felt More Lost](https://dev.to/nicoeft/i-ship-faster-than-ever-ive-never-felt-more-lost-2mdn)
-- [Trash Theory: Ocean Colour Scene: The Original Dadrock Band [&quot;The Riverboat Song&quot;] | New British Canon](https://dev.to/music_youtube/trash-theory-ocean-colour-scene-the-original-dadrock-band-the-riverboat-song-new-british-27p2)
-- [Understanding Next.js Rewrites](https://dev.to/cole_ruche/understanding-nextjs-rewrites-234j)
+- [Antivirus for File Uploads: Add Virus and Malware Scan to Any App](https://dev.to/andreaswittig/antivirus-for-file-uploads-add-virus-and-malware-scan-to-any-app-5cnm)
+- [Sovereign Communities for Web3 Leaders A Strategic Pivot](https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5)
+- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
+- [my first post](https://dev.to/leo606/my-first-post-5fke)
 <!-- BLOG-POST-LIST:END -->
 
 
