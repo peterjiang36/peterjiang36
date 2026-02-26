@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Engineering After AI](https://dev.to/robert_sanders_04918a4344/software-engineering-after-ai-3544)
-- [How I Built an AI Agent to Run Sprint Planning So I Can Actually Build](https://dev.to/champcbg/how-i-built-an-ai-agent-to-run-sprint-planning-so-i-can-actually-build-95h)
-- [The AI Perimeter: Where Automation Should End and Judgment Should Begin](https://dev.to/avanrossum/the-ai-perimeter-where-automation-should-end-and-judgment-should-begin-2767)
-- [&#39;Starkiller&#39; Phishing Service: A Sophisticated Threat to Online Security](https://dev.to/mohamedshabanai/starkiller-phishing-service-a-sophisticated-threat-to-online-security-254e)
+- [Everything You Need to Know About Arrays in JavaScript](https://dev.to/vinayagam_6a170db9281d526/everything-you-need-to-know-about-arrays-in-javascript-1b2f)
+- [pop&lpar;&rpar; vs del in Python: Same Result, Completely Different Intent](https://dev.to/felipecezar01/pop-vs-del-in-python-same-result-completely-different-intent-21eb)
+- [My Developer Portfolio — Umer Azmi](https://dev.to/umerazmi/my-developer-portfolio-umer-azmi-4k2b)
+- [Give Your AG2 Agents a UI with AG‑UI and CopilotKit](https://dev.to/copilotkit/give-your-ag2-agents-a-ui-with-ag-ui-and-copilotkit-3kl5)
 <!-- BLOG-POST-LIST:END -->
 
 
