@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Content Distribution Engine in 10 Minutes](https://dev.to/signalfast/designing-a-content-distribution-engine-in-10-minutes-45hl)
-- [AWS who? Meet AAS](https://dev.to/aws-builders/aws-who-meet-aas-3b69)
-- [Gig Draft](https://dev.to/alan_liu_5a14fec35c7fcc0e/gig-draft-mfj)
-- [Event marketplace architecture for food trucks in Romania](https://dev.to/signalfast/event-marketplace-architecture-for-food-trucks-in-romania-p22)
+- [Understanding importmap-rails](https://dev.to/railsdesigner/understanding-importmap-rails-1odo)
+- [You just need Postgres](https://dev.to/olucasandrade/you-just-need-postgres-2jf5)
+- [A Practical Guide to Running Claude for a Team Without Hitting Quotas](https://dev.to/nakul_tk/a-practical-guide-to-running-claude-for-a-team-without-hitting-quotas-4jd8)
+- [Can You Break an AI Guardrail? APort Vault Is Open — $6,500 on the Line](https://dev.to/uu/can-you-break-an-ai-guardrail-aport-vault-is-open-6500-on-the-line-260l)
 <!-- BLOG-POST-LIST:END -->
 
 
