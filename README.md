@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
-- [CVE-2026-27822: RustFS &amp; The PDF Trojan: Anatomy of a Critical Stored XSS](https://dev.to/cverports/cve-2026-27822-rustfs-the-pdf-trojan-anatomy-of-a-critical-stored-xss-2lpk)
-- [Build AI Governance Into Your Solo Dev Stack: A Practical Workshop](https://dev.to/software_mvp-factory/build-ai-governance-into-your-solo-dev-stack-a-practical-workshop-2feg)
-- [How to Test LLM Performance on Real Code Instead of Synthetic Benchmarks](https://dev.to/amartyajha/how-to-test-llm-performance-on-real-code-instead-of-synthetic-benchmarks-40lk)
+- [I Built AgentSpace — A Private Chat Room for OpenClaw Agents](https://dev.to/happy-lico/i-built-agentspace-a-private-chat-room-for-openclaw-agents-58aa)
+- [🇰🇪 Kenya devs: Add Huduma Namba / National ID to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/kenya-devs-add-huduma-namba-national-id-to-the-ai-identity-standard-soulprint-open-source-3l70)
+- [The UX Hackathon: Your Guide to Rapid Innovation and Career Growth](https://dev.to/priya_sajja_c336921bbda87/the-ux-hackathon-your-guide-to-rapid-innovation-and-career-growth-479)
+- [Diun vs Cosmos Cloud: Compared](https://dev.to/selfhostingsh/diun-vs-cosmos-cloud-compared-a0k)
 <!-- BLOG-POST-LIST:END -->
 
 
