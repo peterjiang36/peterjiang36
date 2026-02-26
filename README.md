@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hide API Keys from Your Frontend — No Backend Required](https://dev.to/robleney/hide-api-keys-from-your-frontend-no-backend-required-nnb)
-- [The Agentic Software Factory: How AI Teams Debate, Code, and Secure Enterprise Infrastructure](https://dev.to/uenyioha/the-agentic-software-factory-how-ai-teams-debate-code-and-secure-enterprise-infrastructure-9eh)
-- [I Built a Production 4-Agent AI Stack on Local Hardware — Here&#39;s What I Learned](https://dev.to/aiengineeringat/i-built-a-production-4-agent-ai-stack-on-local-hardware-heres-what-i-learned-4o0e)
-- [Abstraction: Designing Systems That Don’t Collapse Under Complexity](https://dev.to/walternascimentobarroso/abstraction-designing-systems-that-dont-collapse-under-complexity-3h29)
+- [EasyAdmin 5.0: A New Foundation for Your Admin Backends](https://dev.to/javiereguiluz/easyadmin-50-a-new-foundation-for-your-admin-backends-gpi)
+- [8 Years, 5 Stacks, One Pattern: JSON Programming](https://dev.to/aws-builders/8-years-5-stacks-one-pattern-json-programming-25op)
+- [How far does lookup see in C++?](https://dev.to/pvsdev/how-far-does-lookup-see-in-c-2267)
+- [ChatGPT에 \&quot;잘 물어보기\&quot;는 아마추어다](https://dev.to/ji_ai/chatgpte-jal-muleobogineun-amacueoda-35mi)
 <!-- BLOG-POST-LIST:END -->
 
 
