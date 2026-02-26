@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyAdmin 5.0: A New Foundation for Your Admin Backends](https://dev.to/javiereguiluz/easyadmin-50-a-new-foundation-for-your-admin-backends-gpi)
-- [8 Years, 5 Stacks, One Pattern: JSON Programming](https://dev.to/aws-builders/8-years-5-stacks-one-pattern-json-programming-25op)
-- [How far does lookup see in C++?](https://dev.to/pvsdev/how-far-does-lookup-see-in-c-2267)
-- [ChatGPT에 \&quot;잘 물어보기\&quot;는 아마추어다](https://dev.to/ji_ai/chatgpte-jal-muleobogineun-amacueoda-35mi)
+- [Perfect Claude Code Notifications Setup with Tailscale and ntfy](https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1)
+- [Useful command when moving source code to a new folder or repository](https://dev.to/loclv/useful-command-when-moving-source-code-to-a-new-folder-or-repository-k4g)
+- [How to Build a Stablecoin in 2026: Architecture, Smart Contracts, Compliance, and Peg Stability Guide](https://dev.to/codebyankita/how-to-build-a-stablecoin-in-2026-architecture-smart-contracts-compliance-and-peg-stability-4d43)
+- [AI-Augmented Solo Operators: The $1.7T Threat to Your Team Structure](https://dev.to/dr_hernani_costa/ai-augmented-solo-operators-the-17t-threat-to-your-team-structure-l5k)
 <!-- BLOG-POST-LIST:END -->
 
 
