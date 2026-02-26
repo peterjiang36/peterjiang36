@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Antivirus for File Uploads: Add Virus and Malware Scan to Any App](https://dev.to/andreaswittig/antivirus-for-file-uploads-add-virus-and-malware-scan-to-any-app-5cnm)
-- [Sovereign Communities for Web3 Leaders A Strategic Pivot](https://dev.to/wevolv3_c2aea5159adf3b85f/sovereign-communities-for-web3-leaders-a-strategic-pivot-3jh5)
-- [AI Is Absolutely Production‑Ready — Just Not the Way We Keep Trying to Use It](https://dev.to/devengers/ai-is-absolutely-production-ready-just-not-the-way-we-keep-trying-to-use-it-283p)
-- [my first post](https://dev.to/leo606/my-first-post-5fke)
+- [I Had an AI Agent Build Me a Full App. 46K Lines of Code, 3 Platforms, Zero Dart Knowledge](https://dev.to/hcan_359/i-had-an-ai-agent-build-me-a-full-app-46k-lines-of-code-3-platforms-zero-dart-knowledge-23p0)
+- [Want your agent to write better code with fewer tokens? Ask the Google AI Team about Agent Skills!](https://dev.to/devteam/want-your-agent-to-write-better-code-with-fewer-tokens-ask-the-google-ai-team-about-agent-skills-44pg)
+- [I Ran My Own AI-Score Tool on 6 Months of My Code. I Had to Sit With the Results.](https://dev.to/lakshmisravyavedantham/i-ran-my-own-ai-score-tool-on-6-months-of-my-code-i-had-to-sit-with-the-results-15ea)
+- [Advanced Azure Storage Security: Managed Identities, Key Vaults, and Immutability](https://dev.to/louis_oodo_a59b230b894609/advanced-azure-storage-security-managed-identities-key-vaults-and-immutability-37fe)
 <!-- BLOG-POST-LIST:END -->
 
 
