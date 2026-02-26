@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a native macOS companion app for Claude Code in a weekend](https://dev.to/leocardz/i-built-a-native-macos-companion-app-for-claude-code-in-a-weekend-2hcg)
-- [How I Fixed Claude&#39;s Context Window Problem in a 462 File Folder](https://dev.to/hughtopiangif/how-i-fixed-claudes-context-window-problem-in-a-462-file-folder-6n4)
-- [Question of the Day #23 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-23-talkoverflow-1i8d)
-- [I made a css named twigwind -- looking for feedback](https://dev.to/adhavan_yuvaraj_ee8efd1da/i-made-a-css-named-twigwind-looking-for-feedback-nn8)
+- [Software Engineering After AI](https://dev.to/robert_sanders_04918a4344/software-engineering-after-ai-3544)
+- [How I Built an AI Agent to Run Sprint Planning So I Can Actually Build](https://dev.to/champcbg/how-i-built-an-ai-agent-to-run-sprint-planning-so-i-can-actually-build-95h)
+- [The AI Perimeter: Where Automation Should End and Judgment Should Begin](https://dev.to/avanrossum/the-ai-perimeter-where-automation-should-end-and-judgment-should-begin-2767)
+- [&#39;Starkiller&#39; Phishing Service: A Sophisticated Threat to Online Security](https://dev.to/mohamedshabanai/starkiller-phishing-service-a-sophisticated-threat-to-online-security-254e)
 <!-- BLOG-POST-LIST:END -->
 
 
