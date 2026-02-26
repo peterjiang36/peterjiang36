@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything You Need to Know About Arrays in JavaScript](https://dev.to/vinayagam_6a170db9281d526/everything-you-need-to-know-about-arrays-in-javascript-1b2f)
-- [pop&lpar;&rpar; vs del in Python: Same Result, Completely Different Intent](https://dev.to/felipecezar01/pop-vs-del-in-python-same-result-completely-different-intent-21eb)
-- [My Developer Portfolio — Umer Azmi](https://dev.to/umerazmi/my-developer-portfolio-umer-azmi-4k2b)
-- [Give Your AG2 Agents a UI with AG‑UI and CopilotKit](https://dev.to/copilotkit/give-your-ag2-agents-a-ui-with-ag-ui-and-copilotkit-3kl5)
+- [Designing a Content Distribution Engine in 10 Minutes](https://dev.to/signalfast/designing-a-content-distribution-engine-in-10-minutes-45hl)
+- [AWS who? Meet AAS](https://dev.to/aws-builders/aws-who-meet-aas-3b69)
+- [Gig Draft](https://dev.to/alan_liu_5a14fec35c7fcc0e/gig-draft-mfj)
+- [Event marketplace architecture for food trucks in Romania](https://dev.to/signalfast/event-marketplace-architecture-for-food-trucks-in-romania-p22)
 <!-- BLOG-POST-LIST:END -->
 
 
