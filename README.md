@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [546 Tests. 0 Failures. API Still Burning🔥](https://dev.to/liudasjan/546-tests-0-failures-api-still-burning-hd6)
-- [How I Built an AI Pipeline That Turns GitHub Repos into Demo Videos](https://dev.to/kazutaka-dev/how-i-built-an-ai-pipeline-that-turns-github-repos-into-demo-videos-4k91)
-- [당신이 AI를 잘 못 쓰는 이유, 0.5초](https://dev.to/kiwibreaksme/dangsini-aireul-jal-mos-sseuneun-iyu-05co-4b0c)
-- [When the Reasoning Doesn&#39;t Survive](https://dev.to/john_wade_dev/when-the-reasoning-doesnt-survive-mnj)
+- [Hide API Keys from Your Frontend — No Backend Required](https://dev.to/robleney/hide-api-keys-from-your-frontend-no-backend-required-nnb)
+- [The Agentic Software Factory: How AI Teams Debate, Code, and Secure Enterprise Infrastructure](https://dev.to/uenyioha/the-agentic-software-factory-how-ai-teams-debate-code-and-secure-enterprise-infrastructure-9eh)
+- [I Built a Production 4-Agent AI Stack on Local Hardware — Here&#39;s What I Learned](https://dev.to/aiengineeringat/i-built-a-production-4-agent-ai-stack-on-local-hardware-heres-what-i-learned-4o0e)
+- [Abstraction: Designing Systems That Don’t Collapse Under Complexity](https://dev.to/walternascimentobarroso/abstraction-designing-systems-that-dont-collapse-under-complexity-3h29)
 <!-- BLOG-POST-LIST:END -->
 
 
