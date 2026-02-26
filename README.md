@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Perfect Claude Code Notifications Setup with Tailscale and ntfy](https://dev.to/felipeelias/perfect-claude-code-notifications-setup-with-tailscale-and-ntfy-1ii1)
-- [Useful command when moving source code to a new folder or repository](https://dev.to/loclv/useful-command-when-moving-source-code-to-a-new-folder-or-repository-k4g)
-- [How to Build a Stablecoin in 2026: Architecture, Smart Contracts, Compliance, and Peg Stability Guide](https://dev.to/codebyankita/how-to-build-a-stablecoin-in-2026-architecture-smart-contracts-compliance-and-peg-stability-4d43)
-- [AI-Augmented Solo Operators: The $1.7T Threat to Your Team Structure](https://dev.to/dr_hernani_costa/ai-augmented-solo-operators-the-17t-threat-to-your-team-structure-l5k)
+- [Why We Chose Go Over Python to Build an AI Gateway: A Performance Deep-Dive](https://dev.to/pranay_batta/why-we-chose-go-over-python-to-build-an-ai-gateway-a-performance-deep-dive-1lni)
+- [FullAgenticStack WhatsApp-first: RFC-WF-0009](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0009-3cbf)
+- [GitHub Copilot Instructions vs Prompts vs Custom Agents vs Skills vs X vs WHY?](https://dev.to/pwd9000/github-copilot-instructions-vs-prompts-vs-custom-agents-vs-skills-vs-x-vs-why-339l)
+- [The killer’s signature wasn’t on the weapon, it was in the code.](https://dev.to/daniel_possiblekwabi_b57/the-killers-signature-wasnt-on-the-weapon-it-was-in-the-code-5ge7)
 <!-- BLOG-POST-LIST:END -->
 
 
