@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Games With AI: Creative Partner or Creative Risk? - &lpar;Feb 2026&rpar;](https://dev.to/spookuspookus/designing-games-with-ai-creative-partner-or-creative-risk-3cci)
-- [I Tried to Deploy My MCP Server to Vercel. Here&#39;s What Actually Happened.](https://dev.to/renato_marinho/i-tried-to-deploy-my-mcp-server-to-vercel-heres-what-actually-happened-31k5)
-- [Concurrency and Data Consistency: Managing Multiple Users Without Losing Control](https://dev.to/dewjibill_cotbeakyin_3c37/concurrency-and-data-consistency-managing-multiple-users-without-losing-control-4lc1)
-- [Object Calisthenics: &lpar;Event-Driven / Agentic&rpar; Architecture](https://dev.to/fullagenticstack/object-calisthenics-event-driven-agentic-architecture-b56)
+- [We Built a Detector for the Oasis WebSocket Hijack in 4 Hours &lpar;ClawMoat v0.7.1&rpar;](https://dev.to/darbogach/we-built-a-detector-for-the-oasis-websocket-hijack-in-4-hours-clawmoat-v071-27f8)
+- [Mercury 2 and the End of Autoregressive Monopoly: What Diffusion LLMs Mean for Production Agent Stacks](https://dev.to/vainkop/mercury-2-and-the-end-of-autoregressive-monopoly-what-diffusion-llms-mean-for-production-agent-334p)
+- [JSON Web Tools - 18 free JSON utilities in one place](https://dev.to/jsonwebtools/json-web-tools-18-free-json-utilities-in-one-place-pci)
+- [I Built reportcard.fun So Citizens Can Grade Public Infrastructure Like Students Get Graded](https://dev.to/chandravijayagr/i-built-reportcardfun-so-citizens-can-grade-public-infrastructure-like-students-get-graded-pia)
 <!-- BLOG-POST-LIST:END -->
 
 
