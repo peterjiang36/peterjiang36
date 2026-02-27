@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NIST&#39;s Flow Cytometry Standards Consortium Has 60 Members and a $25K Entry Fee. Here&#39;s Why It Might Be Worth It for AI Startups.](https://dev.to/wcamon/nists-flow-cytometry-standards-consortium-has-60-members-and-a-25k-entry-fee-heres-why-it-might-em2)
-- [5 Signs Your AI-Assisted Content Is Quietly Killing Your Personal Brand](https://dev.to/adrianvegaresearch/5-signs-your-ai-assisted-content-is-quietly-killing-your-personal-brand-1e6c)
-- [Protocol Launcher Series: Gracefully Launch VS Code from Web Pages and CLI](https://dev.to/zhensherlock/protocol-launcher-series-gracefully-launch-vs-code-from-web-pages-and-cli-4h51)
-- [Elixir Toolbox - Major Update](https://dev.to/felipeelias/elixir-toolbox-major-update-193m)
+- [How to Build an Agent Skill: A Practical Guide](https://dev.to/smakosh/how-to-build-an-agent-skill-a-practical-guide-l61)
+- [What is LLM Orchestration? A Complete Guide](https://dev.to/pranay_batta/what-is-llm-orchestration-a-complete-guide-fc4)
+- [Ladybird Browser Rust Migration: AI-Assisted Porting Risks](https://dev.to/maverickjkp/ladybird-browser-rust-migration-ai-assisted-porting-risks-k83)
+- [Age Verification&#39;s Surveillance Trap: What the IEEE Analysis Found](https://dev.to/maverickjkp/age-verifications-surveillance-trap-what-the-ieee-analysis-found-1l2f)
 <!-- BLOG-POST-LIST:END -->
 
 
