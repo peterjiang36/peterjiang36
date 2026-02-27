@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 Beginner-Friendly Guide &#39;Minimum Operations to Equalize Binary String&#39; - Problem 3666 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871)
-- [[Boost]](https://dev.to/manumac86/-4dcn)
-- [JSON to TypeScript Interface: Complete Guide with Zod and Type Guards](https://dev.to/arenasbob2024cell/json-to-typescript-interface-complete-guide-with-zod-and-type-guards-n0j)
-- [JSON to Rust Struct: Complete Guide with serde_json and serde Derive](https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg)
+- [Story Points are Utter Nonsense](https://dev.to/stuartdotnet/story-points-are-utter-nonsense-43m6)
+- [I Deleted All My MCP Servers and Everything Got Faster](https://dev.to/prefrontalsys/i-deleted-all-my-mcp-servers-and-everything-got-faster-3k8l)
+- [Bright Field vs Dark Field vs DIC: Choosing the Right Contrast in Metallography](https://dev.to/fengdie_li_ff5f7699a062c2/bright-field-vs-dark-field-vs-dic-choosing-the-right-contrast-in-metallography-bea)
+- [How Instagram Reels Are Becoming a Goldmine for AI Image Prompts](https://dev.to/chisha_d5ceeffee4e27/how-instagram-reels-are-becoming-a-goldmine-for-ai-image-prompts-5g30)
 <!-- BLOG-POST-LIST:END -->
 
 
