@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-27896: Case-Insensitive Chaos: Bypassing Security Controls in MCP Go SDK](https://dev.to/cverports/cve-2026-27896-case-insensitive-chaos-bypassing-security-controls-in-mcp-go-sdk-jag)
-- [How to Make Webhook Processing Idempotent in .NET](https://dev.to/ramapratheeba/how-to-make-webhook-processing-idempotent-in-net-510o)
-- [Your Code Is Lying to You: Domain-Driven Design Is the Truth Serum](https://dev.to/invincible/your-code-is-lying-to-you-domain-driven-design-is-the-truth-serum-4l4b)
-- [Replacing Nested Maps with Tuple Keys in Java and Kotlin](https://dev.to/robin_a_p/replacing-nested-maps-with-tuple-keys-in-java-and-kotlin-5hb9)
+- [Designing Games With AI: Creative Partner or Creative Risk? - &lpar;Feb 2026&rpar;](https://dev.to/spookuspookus/designing-games-with-ai-creative-partner-or-creative-risk-3cci)
+- [I Tried to Deploy My MCP Server to Vercel. Here&#39;s What Actually Happened.](https://dev.to/renato_marinho/i-tried-to-deploy-my-mcp-server-to-vercel-heres-what-actually-happened-31k5)
+- [Concurrency and Data Consistency: Managing Multiple Users Without Losing Control](https://dev.to/dewjibill_cotbeakyin_3c37/concurrency-and-data-consistency-managing-multiple-users-without-losing-control-4lc1)
+- [Object Calisthenics: &lpar;Event-Driven / Agentic&rpar; Architecture](https://dev.to/fullagenticstack/object-calisthenics-event-driven-agentic-architecture-b56)
 <!-- BLOG-POST-LIST:END -->
 
 
