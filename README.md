@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [js13kGames 2025 t-shirts shipped](https://dev.to/js13kgames/js13kgames-2025-t-shirts-shipped-29bi)
-- [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://dev.to/googleai/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed-4fm1)
-- [I built a real-time audio pipeline from the browser to my server. Here&#39;s what actually works.](https://dev.to/flo152121063061/i-built-a-real-time-audio-pipeline-from-the-browser-to-my-server-heres-what-actually-works-5465)
-- [Check out what Harper is up to](https://dev.to/margo_hdb/-4mne)
+- [CSS to Tailwind: The Complete Migration Guide for 2026](https://dev.to/arenasbob2024cell/css-to-tailwind-the-complete-migration-guide-for-2026-1cgn)
+- [AI and Nuclear Fusion Vol.7: Geopolitics — Who Builds the Sun, and Why](https://dev.to/dosanko_tousan/ai-and-nuclear-fusion-vol7-geopolitics-who-builds-the-sun-and-why-5c0a)
+- [How I built a Quake Live config editor using JavaScript and AI.](https://dev.to/ryan_bassett_a3084c0d5bee/how-i-built-a-quake-live-config-editor-using-javascript-and-ai-4hig)
+- [Web Scraping vs Web Crawling: What&#39;s the Difference and When to Use Each](https://dev.to/yasser_sami/web-scraping-vs-web-crawling-whats-the-difference-and-when-to-use-each-4a1c)
 <!-- BLOG-POST-LIST:END -->
 
 
