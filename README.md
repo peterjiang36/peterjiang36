@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Website Security Audits with Technology Detection in Python](https://dev.to/dapdev/automate-website-security-audits-with-technology-detection-in-python-2nbm)
-- [Python Script to Monitor When Billionaires Change Their Stock Portfolios](https://dev.to/dapdev/python-script-to-monitor-when-billionaires-change-their-stock-portfolios-4gne)
-- [Reverse Engineer Any SaaS Company&#39;s Tech Stack in 10 Seconds](https://dev.to/dapdev/reverse-engineer-any-saas-companys-tech-stack-in-10-seconds-3d0h)
-- [RAG vs Fine-Tuning for LLMs &lpar;2026&rpar;: What Actually Works in Production](https://dev.to/umesh_malik/rag-vs-fine-tuning-for-llms-2026-what-actually-works-in-production-10if)
+- [rule-porter: Convert Cursor rules to CLAUDE.md, AGENTS.md, and Copilot](https://dev.to/nedcodes/rule-porter-convert-cursor-rules-to-claudemd-agentsmd-and-copilot-4hjc)
+- [MongoDB didn&#39;t start because of File permission issue](https://dev.to/ralvaracode/mongodb-didnt-start-because-of-file-permission-issue-19i5)
+- [Showcase Your Credly Certifications in Your GitHub README](https://dev.to/ebenezer-isaac/showcase-your-credly-certifications-in-your-github-readme-32f3)
+- [7 MongoDB indexing strategies to speed up your queries](https://dev.to/finny_collins/7-mongodb-indexing-strategies-to-speed-up-your-queries-528b)
 <!-- BLOG-POST-LIST:END -->
 
 
