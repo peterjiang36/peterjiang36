@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Agent Skill: A Practical Guide](https://dev.to/smakosh/how-to-build-an-agent-skill-a-practical-guide-l61)
-- [What is LLM Orchestration? A Complete Guide](https://dev.to/pranay_batta/what-is-llm-orchestration-a-complete-guide-fc4)
-- [Ladybird Browser Rust Migration: AI-Assisted Porting Risks](https://dev.to/maverickjkp/ladybird-browser-rust-migration-ai-assisted-porting-risks-k83)
-- [Age Verification&#39;s Surveillance Trap: What the IEEE Analysis Found](https://dev.to/maverickjkp/age-verifications-surveillance-trap-what-the-ieee-analysis-found-1l2f)
+- [Off-Grid Solar for Beginners — What Size System Do You Actually Need?](https://dev.to/thehoodhomestead_69afbb55/off-grid-solar-for-beginners-what-size-system-do-you-actually-need-57n0)
+- [I Reverse-Engineered Cursor&#39;s AI Agent - Here&#39;s Everything It Does Behind the Scenes](https://dev.to/vikram_ray/i-reverse-engineered-cursors-ai-agent-heres-everything-it-does-behind-the-scenes-3d0a)
+- [NPR Music: Buddy Guy: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-buddy-guy-tiny-desk-concert-12p8)
+- [Hokkaido EV Special Zone Vol.6 &lpar;Final&rpar;: Five Arrows — Policy Design, Cost &amp; Roadmap](https://dev.to/dosanko_tousan/hokkaido-ev-special-zone-vol6-final-five-arrows-policy-design-cost-roadmap-44p4)
 <!-- BLOG-POST-LIST:END -->
 
 
