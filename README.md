@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Story Points are Utter Nonsense](https://dev.to/stuartdotnet/story-points-are-utter-nonsense-43m6)
-- [I Deleted All My MCP Servers and Everything Got Faster](https://dev.to/prefrontalsys/i-deleted-all-my-mcp-servers-and-everything-got-faster-3k8l)
-- [Bright Field vs Dark Field vs DIC: Choosing the Right Contrast in Metallography](https://dev.to/fengdie_li_ff5f7699a062c2/bright-field-vs-dark-field-vs-dic-choosing-the-right-contrast-in-metallography-bea)
-- [How Instagram Reels Are Becoming a Goldmine for AI Image Prompts](https://dev.to/chisha_d5ceeffee4e27/how-instagram-reels-are-becoming-a-goldmine-for-ai-image-prompts-5g30)
+- [How to Verify Any Smart Contract or AI Agent Before You Transact](https://dev.to/jhinresh/how-to-verify-any-smart-contract-or-ai-agent-before-you-transact-44b2)
+- [🚨 The Era of &quot;Chatbots&quot; is Over: Why Perplexity Computer Just Redefined AI Orchestration](https://dev.to/siddhesh_surve/the-era-of-chatbots-is-over-why-perplexity-computer-just-redefined-ai-orchestration-2g2b)
+- [How to Set the Host Header in Fetch &lpar;JavaScript&rpar;](https://dev.to/reynaldi/how-to-set-the-host-header-in-fetch-javascript-agc)
+- [Building a Serverless LLM Pipeline with Amazon Bedrock and SageMaker Fine-Tuning using AWS CDK](https://dev.to/katevu/building-a-serverless-llm-pipeline-with-amazon-bedrock-and-sagemaker-fine-tuning-using-aws-cdk-4125)
 <!-- BLOG-POST-LIST:END -->
 
 
