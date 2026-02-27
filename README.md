@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Designed a Game Synergy. Here&#39;s the Design Reasoning It Used.](https://dev.to/yurukusa/my-ai-agent-designed-a-game-synergy-heres-the-design-reasoning-it-used-4im6)
-- [승률 44%인데 돈을 번다고?](https://dev.to/ji_ai/seungryul-44inde-doneul-beondago-26p3)
-- [44% Win Rate and Still Profitable?](https://dev.to/ji_ai/44-win-rate-and-still-profitable-2i14)
-- [OpenClaw: The AI Agent That Actually Does Stuff - Part 2 - Building a Real Bot](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-2-building-a-real-bot-26n7)
+- [CMDAI – a simple tool for loading models](https://dev.to/krzyzyk33/cmdai-a-simple-tool-for-loading-models-5h7k)
+- [Observability: Beautiful Visibility Into Every Automation Session](https://dev.to/nottelabs/observability-beautiful-visibility-into-every-automation-session-56p3)
+- [Building a local-first app with FastAPI + PySide + distributed sync](https://dev.to/grnwood/building-a-local-first-app-with-fastapi-pyside-distributed-sync-23l8)
+- [Google Built a Shopping Protocol for AI Agents. 75 Million People Are Already Inside It.](https://dev.to/mothasa/google-built-a-shopping-protocol-for-ai-agents-75-million-people-are-already-inside-it-21fl)
 <!-- BLOG-POST-LIST:END -->
 
 
