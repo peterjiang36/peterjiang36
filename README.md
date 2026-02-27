@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging No-Code and DevOps: Open-Source CI/CD for WeWeb + Cloudflare Pages](https://dev.to/mel000000/bridging-no-code-and-devops-open-source-cicd-for-weweb-cloudflare-pages-1nfi)
-- [Deterministic vs. LLM Evaluators: A 2026 Technical Trade-off Study](https://dev.to/anshd_12/deterministic-vs-llm-evaluators-a-2026-technical-trade-off-study-11h)
-- [🚀 OrzattyCDN: El &quot;Sistema Nervioso&quot; que unifica NPM, GitHub y WordPress en el Edge](https://dev.to/orzattyholdings/orzattycdn-el-sistema-nervioso-que-unifica-npm-github-y-wordpress-en-el-edge-4k3m)
-- [I Built a Free Directory of 450+ Open-Source SaaS Alternatives &lpar;with Docker Configs&rpar;](https://dev.to/thealtstack/i-built-a-free-directory-of-450-open-source-saas-alternatives-with-docker-configs-2324)
+- [My AI Agent Designed a Game Synergy. Here&#39;s the Design Reasoning It Used.](https://dev.to/yurukusa/my-ai-agent-designed-a-game-synergy-heres-the-design-reasoning-it-used-4im6)
+- [승률 44%인데 돈을 번다고?](https://dev.to/ji_ai/seungryul-44inde-doneul-beondago-26p3)
+- [44% Win Rate and Still Profitable?](https://dev.to/ji_ai/44-win-rate-and-still-profitable-2i14)
+- [OpenClaw: The AI Agent That Actually Does Stuff - Part 2 - Building a Real Bot](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-2-building-a-real-bot-26n7)
 <!-- BLOG-POST-LIST:END -->
 
 
