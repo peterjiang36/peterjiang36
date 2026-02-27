@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Detector for the Oasis WebSocket Hijack in 4 Hours &lpar;ClawMoat v0.7.1&rpar;](https://dev.to/darbogach/we-built-a-detector-for-the-oasis-websocket-hijack-in-4-hours-clawmoat-v071-27f8)
-- [Mercury 2 and the End of Autoregressive Monopoly: What Diffusion LLMs Mean for Production Agent Stacks](https://dev.to/vainkop/mercury-2-and-the-end-of-autoregressive-monopoly-what-diffusion-llms-mean-for-production-agent-334p)
-- [JSON Web Tools - 18 free JSON utilities in one place](https://dev.to/jsonwebtools/json-web-tools-18-free-json-utilities-in-one-place-pci)
-- [I Built reportcard.fun So Citizens Can Grade Public Infrastructure Like Students Get Graded](https://dev.to/chandravijayagr/i-built-reportcardfun-so-citizens-can-grade-public-infrastructure-like-students-get-graded-pia)
+- [Building 13 MCP Servers for US Government Data: From CVE Lookups to Disaster Alerts](https://dev.to/martc03/building-13-mcp-servers-for-us-government-data-from-cve-lookups-to-disaster-alerts-5fch)
+- [The Convergence of AI and TON: Building the Next Generation of Decentralized Intelligence](https://dev.to/rainyday_7139f53fa9f963fe/the-convergence-of-ai-and-ton-building-the-next-generation-of-decentralized-intelligence-223g)
+- [Drupal Gemini Ai Studio Provider](https://dev.to/victorstackai/drupal-gemini-ai-studio-provider-k7j)
+- [Your Agent&#39;s Model Is Not the Bottleneck](https://dev.to/clawgenesis/your-agents-model-is-not-the-bottleneck-38jk)
 <!-- BLOG-POST-LIST:END -->
 
 
