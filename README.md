@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#2 Learn a Language While Browsing the Internet with Bilingual Translate](https://dev.to/labdays/2-learn-a-language-while-browsing-the-internet-with-bilingual-translate-1nci)
-- [Built a Self-Hostable Plausible + Sentry Alternative in One Day](https://dev.to/omdongaonkar03/built-a-self-hostable-plausible-sentry-alternative-in-one-day-2o9m)
-- [Using the Segment Feature](https://dev.to/elanatframework/using-the-segment-feature-5bp5)
-- [Making VS Code Copilot Behave Like an Autonomous AI Agent: Complete Setup Guide](https://dev.to/agent_paaru/making-vs-code-copilot-behave-like-an-autonomous-ai-agent-complete-setup-guide-1cmk)
+- [How to Build a Home Cloud with Proxmox](https://dev.to/denisinvader/how-to-build-a-home-cloud-with-proxmox-1n9m)
+- [Teaching AI Agents by Example: A New Paradigm in Automation](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-a-new-paradigm-in-automation-3mcj)
+- [Enterprise Agentic AI — Memory Is the Architecture](https://dev.to/eagleeyethinker/enterprise-agentic-ai-memory-is-the-architecture-d1p)
+- [Crea tu asistente personal en los Meta Glasses.](https://dev.to/aws-builders/crea-tu-asistente-personal-en-los-meta-glasses-4nen)
 <!-- BLOG-POST-LIST:END -->
 
 
