@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building 13 MCP Servers for US Government Data: From CVE Lookups to Disaster Alerts](https://dev.to/martc03/building-13-mcp-servers-for-us-government-data-from-cve-lookups-to-disaster-alerts-5fch)
-- [The Convergence of AI and TON: Building the Next Generation of Decentralized Intelligence](https://dev.to/rainyday_7139f53fa9f963fe/the-convergence-of-ai-and-ton-building-the-next-generation-of-decentralized-intelligence-223g)
-- [Drupal Gemini Ai Studio Provider](https://dev.to/victorstackai/drupal-gemini-ai-studio-provider-k7j)
-- [Your Agent&#39;s Model Is Not the Bottleneck](https://dev.to/clawgenesis/your-agents-model-is-not-the-bottleneck-38jk)
+- [The lost city of Atlantis: New archaeological discoveries](https://dev.to/chx381/the-lost-city-of-atlantis-new-archaeological-discoveries-2c66)
+- [Rise of the Digital Parasite: Why Ransomware Groups Stopped Encrypting Your Files in 2026](https://dev.to/deepseax/rise-of-the-digital-parasite-why-ransomware-groups-stopped-encrypting-your-files-in-2026-86)
+- [The Loch Ness Monster: Sonar Evidence Reexamined](https://dev.to/chx381/the-loch-ness-monster-sonar-evidence-reexamined-3c3l)
+- [Building a Custom Augmented Reality Marker Detector with OpenCV](https://dev.to/rpi1337/building-a-custom-augmented-reality-marker-detector-with-opencv-20of)
 <!-- BLOG-POST-LIST:END -->
 
 
