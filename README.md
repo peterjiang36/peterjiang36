@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Rate Limiting — Five Problems That Break Your Counters](https://dev.to/saumya_karnwal/distributed-rate-limiting-five-problems-that-break-your-counters-454)
-- [Your AI Agents Are Ungovernable &lpar;And You Don&#39;t Even Know It&rpar;](https://dev.to/jabbath3hutt/your-ai-agents-are-ungovernable-and-you-dont-even-know-it-28l8)
-- [I replaced a Puppeteer service with 39 lines of code](https://dev.to/dan_molitor_fe06366137ec8/i-replaced-a-puppeteer-service-with-39-lines-of-code-346k)
-- [UI shouldn&#39;t think about validation](https://dev.to/y9vad9/ui-shouldnt-think-about-validation-269c)
+- [Bridging No-Code and DevOps: Open-Source CI/CD for WeWeb + Cloudflare Pages](https://dev.to/mel000000/bridging-no-code-and-devops-open-source-cicd-for-weweb-cloudflare-pages-1nfi)
+- [Deterministic vs. LLM Evaluators: A 2026 Technical Trade-off Study](https://dev.to/anshd_12/deterministic-vs-llm-evaluators-a-2026-technical-trade-off-study-11h)
+- [🚀 OrzattyCDN: El &quot;Sistema Nervioso&quot; que unifica NPM, GitHub y WordPress en el Edge](https://dev.to/orzattyholdings/orzattycdn-el-sistema-nervioso-que-unifica-npm-github-y-wordpress-en-el-edge-4k3m)
+- [I Built a Free Directory of 450+ Open-Source SaaS Alternatives &lpar;with Docker Configs&rpar;](https://dev.to/thealtstack/i-built-a-free-directory-of-450-open-source-saas-alternatives-with-docker-configs-2324)
 <!-- BLOG-POST-LIST:END -->
 
 
