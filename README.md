@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The lost city of Atlantis: New archaeological discoveries](https://dev.to/chx381/the-lost-city-of-atlantis-new-archaeological-discoveries-2c66)
-- [Rise of the Digital Parasite: Why Ransomware Groups Stopped Encrypting Your Files in 2026](https://dev.to/deepseax/rise-of-the-digital-parasite-why-ransomware-groups-stopped-encrypting-your-files-in-2026-86)
-- [The Loch Ness Monster: Sonar Evidence Reexamined](https://dev.to/chx381/the-loch-ness-monster-sonar-evidence-reexamined-3c3l)
-- [Building a Custom Augmented Reality Marker Detector with OpenCV](https://dev.to/rpi1337/building-a-custom-augmented-reality-marker-detector-with-opencv-20of)
+- [NIST&#39;s Flow Cytometry Standards Consortium Has 60 Members and a $25K Entry Fee. Here&#39;s Why It Might Be Worth It for AI Startups.](https://dev.to/wcamon/nists-flow-cytometry-standards-consortium-has-60-members-and-a-25k-entry-fee-heres-why-it-might-em2)
+- [5 Signs Your AI-Assisted Content Is Quietly Killing Your Personal Brand](https://dev.to/adrianvegaresearch/5-signs-your-ai-assisted-content-is-quietly-killing-your-personal-brand-1e6c)
+- [Protocol Launcher Series: Gracefully Launch VS Code from Web Pages and CLI](https://dev.to/zhensherlock/protocol-launcher-series-gracefully-launch-vs-code-from-web-pages-and-cli-4h51)
+- [Elixir Toolbox - Major Update](https://dev.to/felipeelias/elixir-toolbox-major-update-193m)
 <!-- BLOG-POST-LIST:END -->
 
 
