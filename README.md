@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Verify Any Smart Contract or AI Agent Before You Transact](https://dev.to/jhinresh/how-to-verify-any-smart-contract-or-ai-agent-before-you-transact-44b2)
-- [🚨 The Era of &quot;Chatbots&quot; is Over: Why Perplexity Computer Just Redefined AI Orchestration](https://dev.to/siddhesh_surve/the-era-of-chatbots-is-over-why-perplexity-computer-just-redefined-ai-orchestration-2g2b)
-- [How to Set the Host Header in Fetch &lpar;JavaScript&rpar;](https://dev.to/reynaldi/how-to-set-the-host-header-in-fetch-javascript-agc)
-- [Building a Serverless LLM Pipeline with Amazon Bedrock and SageMaker Fine-Tuning using AWS CDK](https://dev.to/katevu/building-a-serverless-llm-pipeline-with-amazon-bedrock-and-sagemaker-fine-tuning-using-aws-cdk-4125)
+- [CVE-2026-27896: Case-Insensitive Chaos: Bypassing Security Controls in MCP Go SDK](https://dev.to/cverports/cve-2026-27896-case-insensitive-chaos-bypassing-security-controls-in-mcp-go-sdk-jag)
+- [How to Make Webhook Processing Idempotent in .NET](https://dev.to/ramapratheeba/how-to-make-webhook-processing-idempotent-in-net-510o)
+- [Your Code Is Lying to You: Domain-Driven Design Is the Truth Serum](https://dev.to/invincible/your-code-is-lying-to-you-domain-driven-design-is-the-truth-serum-4l4b)
+- [Replacing Nested Maps with Tuple Keys in Java and Kotlin](https://dev.to/robin_a_p/replacing-nested-maps-with-tuple-keys-in-java-and-kotlin-5hb9)
 <!-- BLOG-POST-LIST:END -->
 
 
