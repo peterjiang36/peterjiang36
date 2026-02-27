@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m Building for the Real MVPs of Our Economy, SMEs](https://dev.to/josephnwanna/im-building-for-the-real-mvps-of-our-economy-smes-1fd9)
-- [Semantic Kernel Memory: Vector Stores, Embeddings, and Semantic Search](https://dev.to/bspann/semantic-kernel-memory-vector-stores-embeddings-and-semantic-search-13e5)
-- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9)
-- [Your RSS Feeds Are Broken and This Rust Tool Fixes Them](https://dev.to/ticktockbent/your-rss-feeds-are-broken-and-this-rust-tool-fixes-them-3do5)
+- [Automate Website Security Audits with Technology Detection in Python](https://dev.to/dapdev/automate-website-security-audits-with-technology-detection-in-python-2nbm)
+- [Python Script to Monitor When Billionaires Change Their Stock Portfolios](https://dev.to/dapdev/python-script-to-monitor-when-billionaires-change-their-stock-portfolios-4gne)
+- [Reverse Engineer Any SaaS Company&#39;s Tech Stack in 10 Seconds](https://dev.to/dapdev/reverse-engineer-any-saas-companys-tech-stack-in-10-seconds-3d0h)
+- [RAG vs Fine-Tuning for LLMs &lpar;2026&rpar;: What Actually Works in Production](https://dev.to/umesh_malik/rag-vs-fine-tuning-for-llms-2026-what-actually-works-in-production-10if)
 <!-- BLOG-POST-LIST:END -->
 
 
