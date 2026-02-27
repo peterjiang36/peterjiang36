@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS to Tailwind: The Complete Migration Guide for 2026](https://dev.to/arenasbob2024cell/css-to-tailwind-the-complete-migration-guide-for-2026-1cgn)
-- [AI and Nuclear Fusion Vol.7: Geopolitics — Who Builds the Sun, and Why](https://dev.to/dosanko_tousan/ai-and-nuclear-fusion-vol7-geopolitics-who-builds-the-sun-and-why-5c0a)
-- [How I built a Quake Live config editor using JavaScript and AI.](https://dev.to/ryan_bassett_a3084c0d5bee/how-i-built-a-quake-live-config-editor-using-javascript-and-ai-4hig)
-- [Web Scraping vs Web Crawling: What&#39;s the Difference and When to Use Each](https://dev.to/yasser_sami/web-scraping-vs-web-crawling-whats-the-difference-and-when-to-use-each-4a1c)
+- [💡 Beginner-Friendly Guide &#39;Minimum Operations to Equalize Binary String&#39; - Problem 3666 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871)
+- [[Boost]](https://dev.to/manumac86/-4dcn)
+- [JSON to TypeScript Interface: Complete Guide with Zod and Type Guards](https://dev.to/arenasbob2024cell/json-to-typescript-interface-complete-guide-with-zod-and-type-guards-n0j)
+- [JSON to Rust Struct: Complete Guide with serde_json and serde Derive](https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg)
 <!-- BLOG-POST-LIST:END -->
 
 
