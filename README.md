@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CMDAI – a simple tool for loading models](https://dev.to/krzyzyk33/cmdai-a-simple-tool-for-loading-models-5h7k)
-- [Observability: Beautiful Visibility Into Every Automation Session](https://dev.to/nottelabs/observability-beautiful-visibility-into-every-automation-session-56p3)
-- [Building a local-first app with FastAPI + PySide + distributed sync](https://dev.to/grnwood/building-a-local-first-app-with-fastapi-pyside-distributed-sync-23l8)
-- [Google Built a Shopping Protocol for AI Agents. 75 Million People Are Already Inside It.](https://dev.to/mothasa/google-built-a-shopping-protocol-for-ai-agents-75-million-people-are-already-inside-it-21fl)
+- [Why We Stopped Using UUIDv4 in Elixir &lpar;And What We Built Instead&rpar;](https://dev.to/juulsme/why-we-stopped-using-uuidv4-in-elixir-and-what-we-built-instead-59i3)
+- [Surprise Traps, Cup with Handle, Mental Jailbreak](https://dev.to/victorjia/surprise-traps-cup-with-handle-mental-jailbreak-1cbo)
+- [Your Image Compressor Has Seen Every Photo You&#39;ve Ever &quot;Compressed for Free&quot;](https://dev.to/azayshrestha/your-image-compressor-has-seen-every-photo-youve-ever-compressed-for-free-14m6)
+- [Stop writing the same regex for #[Route]](https://dev.to/stivenllupa/stop-writing-the-same-regex-for-route-o2c)
 <!-- BLOG-POST-LIST:END -->
 
 
