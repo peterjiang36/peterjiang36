@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Stopped Using UUIDv4 in Elixir &lpar;And What We Built Instead&rpar;](https://dev.to/juulsme/why-we-stopped-using-uuidv4-in-elixir-and-what-we-built-instead-59i3)
-- [Surprise Traps, Cup with Handle, Mental Jailbreak](https://dev.to/victorjia/surprise-traps-cup-with-handle-mental-jailbreak-1cbo)
-- [Your Image Compressor Has Seen Every Photo You&#39;ve Ever &quot;Compressed for Free&quot;](https://dev.to/azayshrestha/your-image-compressor-has-seen-every-photo-youve-ever-compressed-for-free-14m6)
-- [Stop writing the same regex for #[Route]](https://dev.to/stivenllupa/stop-writing-the-same-regex-for-route-o2c)
+- [I’m Building for the Real MVPs of Our Economy, SMEs](https://dev.to/josephnwanna/im-building-for-the-real-mvps-of-our-economy-smes-1fd9)
+- [Semantic Kernel Memory: Vector Stores, Embeddings, and Semantic Search](https://dev.to/bspann/semantic-kernel-memory-vector-stores-embeddings-and-semantic-search-13e5)
+- [Using tox to Test a Django App Across Multiple Django Versions](https://dev.to/djangotricks/using-tox-to-test-a-django-app-across-multiple-django-versions-28g9)
+- [Your RSS Feeds Are Broken and This Rust Tool Fixes Them](https://dev.to/ticktockbent/your-rss-feeds-are-broken-and-this-rust-tool-fixes-them-3do5)
 <!-- BLOG-POST-LIST:END -->
 
 
