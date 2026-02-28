@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bar has Always Been Moving. Are you?](https://dev.to/agentic-jj/the-bar-has-always-been-moving-are-you-3elh)
-- [Quantified Self 2.0: Build a Unified Health Data Warehouse with DuckDB and dbt](https://dev.to/beck_moulton/quantified-self-20-build-a-unified-health-data-warehouse-with-duckdb-and-dbt-1a05)
-- [InkSafe 2.0 what I rebuilt after the first launch and why the AI is completely different now](https://dev.to/richied5/inksafe-20-what-i-rebuilt-after-the-first-launch-and-why-the-ai-is-completely-different-now-52mn)
-- [Express vs Fastify: The Numbers Behind the Hype](https://dev.to/royce_fabbd83cb268312e928/express-vs-fastify-the-numbers-behind-the-hype-4he2)
+- [From Code to Connection: Automating the Story of Our Craft with ForkToPost](https://dev.to/vero-code/from-code-to-connection-automating-the-story-of-our-craft-with-forktopost-3bla)
+- [#5 Known is a Drop! Operators in JAVA](https://dev.to/deepikandas/5-known-is-a-drop-operators-in-java-3cai)
+- [How I rebuild my hobby project in over 2 weekends with ChatGPT &amp; Claude](https://dev.to/wildan3105/how-i-rebuild-my-hobby-project-in-over-2-weekends-with-chatgpt-claude-3jmb)
+- [AgentBoard: A Discovery Platform for the Agentic AI Community](https://dev.to/vivek-aws/agentboard-a-discovery-platform-for-the-agentic-ai-community-30ep)
 <!-- BLOG-POST-LIST:END -->
 
 
