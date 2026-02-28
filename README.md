@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finite State Machines for Trustless Escrow: How We Built a Decentralized Marketplace on TON](https://dev.to/gerus_team/finite-state-machines-for-trustless-escrow-how-we-built-a-decentralized-marketplace-on-ton-2ip6)
-- [Vibe Coding: The next layer of Abstraction or Just Better Scaffolding?](https://dev.to/shridhar-rathi/vibe-coding-the-next-layer-of-abstraction-or-just-better-scaffolding-580b)
-- [Creating Entra Agent ID Blueprints and Identities with PowerShell and .NET](https://dev.to/willvelida/creating-entra-agent-id-blueprints-and-identities-with-powershell-and-net-56pg)
-- [I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀](https://dev.to/thelittleprince1218/im-13-and-i-built-a-bun-framework-thats-2x-faster-than-express-onp)
+- [How to Delete an AWS Route 53 Hosted Zone in a Cascade Manner &lpar;Using AWS CLI&rpar;](https://dev.to/pilgrim2go/how-to-delete-an-aws-route-53-hosted-zone-in-a-cascade-manner-using-aws-cli-4589)
+- [Why Your AI Agent Framework Is Basically a Hashmap &lpar;And How I Fixed It With Rust Swarm Math&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/why-your-ai-agent-framework-is-basically-a-hashmap-and-how-i-fixed-it-with-rust-swarm-math-2a4d)
+- [LANimals 001: Continuous Deployment](https://dev.to/gnomeman4201/lanimals-001-continuous-deployment-42b2)
+- [Bolivia Military Cargo Plane Crash 2026: 11 Killed — What We Know](https://dev.to/trendplus_kr/bolivia-military-cargo-plane-crash-2026-11-killed-what-we-know-4f46)
 <!-- BLOG-POST-LIST:END -->
 
 
