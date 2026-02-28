@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 3](https://dev.to/timothy_imanuel_35225c051/week-3-3e1a)
-- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-15n9)
-- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-4m5o)
-- [Scalable Enterprise Web Routing: Azure App Gateway + VMSS with Azure CLI](https://dev.to/pilgrim2go/scalable-enterprise-web-routing-azure-app-gateway-vmss-with-azure-cli-1p0n)
+- [Finite State Machines for Trustless Escrow: How We Built a Decentralized Marketplace on TON](https://dev.to/gerus_team/finite-state-machines-for-trustless-escrow-how-we-built-a-decentralized-marketplace-on-ton-2ip6)
+- [Vibe Coding: The next layer of Abstraction or Just Better Scaffolding?](https://dev.to/shridhar-rathi/vibe-coding-the-next-layer-of-abstraction-or-just-better-scaffolding-580b)
+- [Creating Entra Agent ID Blueprints and Identities with PowerShell and .NET](https://dev.to/willvelida/creating-entra-agent-id-blueprints-and-identities-with-powershell-and-net-56pg)
+- [I’m 13 and I built a Bun framework that’s 2x faster than Express 🚀](https://dev.to/thelittleprince1218/im-13-and-i-built-a-bun-framework-thats-2x-faster-than-express-onp)
 <!-- BLOG-POST-LIST:END -->
 
 
