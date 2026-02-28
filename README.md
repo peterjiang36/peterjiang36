@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Connection: Automating the Story of Our Craft with ForkToPost](https://dev.to/vero-code/from-code-to-connection-automating-the-story-of-our-craft-with-forktopost-3bla)
-- [#5 Known is a Drop! Operators in JAVA](https://dev.to/deepikandas/5-known-is-a-drop-operators-in-java-3cai)
-- [How I rebuild my hobby project in over 2 weekends with ChatGPT &amp; Claude](https://dev.to/wildan3105/how-i-rebuild-my-hobby-project-in-over-2-weekends-with-chatgpt-claude-3jmb)
-- [AgentBoard: A Discovery Platform for the Agentic AI Community](https://dev.to/vivek-aws/agentboard-a-discovery-platform-for-the-agentic-ai-community-30ep)
+- [Gemini 3.1 Pro &amp; &quot;Nano Banana 2&quot;: A Technical Review and Real-World Tests for Devs](https://dev.to/gde/gemini-31-pro-nano-banana-2-a-technical-review-and-real-world-tests-for-devs-2jog)
+- [Feed Rescue: Converting Raw Ulta Scrapes into Google Merchant Center XML](https://dev.to/sommic/feed-rescue-converting-raw-ulta-scrapes-into-google-merchant-center-xml-35k3)
+- [CVE-2026-28280: Stored Cross-Site Scripting &lpar;XSS&rpar; in osctrl-admin On-Demand Query List](https://dev.to/cverports/cve-2026-28280-stored-cross-site-scripting-xss-in-osctrl-admin-on-demand-query-list-2i95)
+- [When System Boundaries Meet State Pressure: Lessons from the Anthropic–US Government Standoff](https://dev.to/narnaiezzsshaa/when-system-boundaries-meet-state-pressure-lessons-from-the-anthropic-us-government-standoff-5e64)
 <!-- BLOG-POST-LIST:END -->
 
 
