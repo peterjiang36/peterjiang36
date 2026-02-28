@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Voice-to-Code VS Code Extension That Runs Entirely On-Device](https://dev.to/agentic_engineer/i-built-a-voice-to-code-vs-code-extension-that-runs-entirely-on-device-16gc)
-- [Type-Safe CustomEvents: Better Messaging with Native APIs](https://dev.to/link2twenty/type-safe-customevents-better-messaging-with-native-apis-2dol)
-- [The Secret Life of Python: The Pickle Jar](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-pickle-jar-3apa)
-- [How to Sync Mobile Workspaces Directly to GitHub &lpar;Without a Backend&rpar;](https://dev.to/cyrus_bye_ce1068ae57ce65b/how-to-sync-mobile-workspaces-directly-to-github-without-a-backend-3jbb)
+- [How I added human-in-the-loop approval to my AI agent in 5 minutes](https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm)
+- [Android OAuth Flow - Browser Doesn&#39;t Redirect After Password Setup](https://dev.to/brian_kibet_979839b465187/android-oauth-flow-browser-doesnt-redirect-after-password-setup-3h53)
+- [From GitHub to Knowledge Panel: A Developer’s Digital Identity Stack](https://dev.to/sain_bux_dev/from-github-to-knowledge-panel-a-developers-digital-identity-stack-2i2c)
+- [105 Cycles: The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/105-cycles-the-end-of-brittle-browser-automation-is-here-5d97)
 <!-- BLOG-POST-LIST:END -->
 
 
