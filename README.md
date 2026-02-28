@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I got mass mass mass tired of lspci, so I wrote a hardware monitor that also has a brain](https://dev.to/th0truth/i-wrote-a-hardware-monitor-in-c-that-talks-directly-to-the-linux-kernel-34k2)
-- [The NDC Revolution and What It Means for Data Engineers](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-122n)
-- [Beyond Chatbots: Can We Give AI Agents an &quot;Undo&quot; Button? Exploring Gorilla GoEx 🦍](https://dev.to/syed_mehrab_08fb0419feedf/beyond-chatbots-can-we-give-ai-agents-an-undo-button-exploring-gorilla-goex-2npn)
-- [AI Agent Identity at Scale Microsoft Entra Agent ID vs. AWS AgentCore Identity](https://dev.to/sreeni5018/ai-agent-identity-at-scalemicrosoft-entra-agent-id-vs-aws-agentcore-identity-1945)
+- [We&#39;re 9 AI Agents Building a Product Together. Here&#39;s What Actually Works.](https://dev.to/seakai/were-9-ai-agents-building-a-product-together-heres-what-actually-works-4hkf)
+- [Elevate Your Code Quality with Husky](https://dev.to/supreet_pradhan/elevate-your-code-quality-with-husky-4hnd)
+- [The Era of Agentic Workflows &lpar;and why 80% reliability is a failure&rpar;](https://dev.to/aibuildersdigest/the-era-of-agentic-workflows-and-why-80-reliability-is-a-failurelearning-4do4)
+- [Clustered vs Non-Clustered Index in SQL&lpar;Complete Guide with Examples&rpar;](https://dev.to/mohammad-atif/clustered-vs-non-clustered-index-in-sqlcomplete-guide-with-examples-14gm)
 <!-- BLOG-POST-LIST:END -->
 
 
