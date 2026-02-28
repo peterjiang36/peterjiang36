@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Customizing Attribute Access](https://dev.to/mike-vincent/quarks-outlines-python-customizing-attribute-access-l)
-- [CognitoFlow vs. AutomatePrime: An Unflinching, API-First Comparison](https://dev.to/michaelaiglobal/cognitoflow-vs-automateprime-an-unflinching-api-first-comparison-238f)
-- [The Surveillance Crisis](https://dev.to/rawveg/the-surveillance-crisis-noa)
-- [The Availability Cascade: How Beliefs Become Self-Reinforcing and What to Do About It](https://dev.to/_b8d89ece3338719863cb03/the-availability-cascade-how-beliefs-become-self-reinforcing-and-what-to-do-about-it-36ik)
+- [Your Identity System Is Your Biggest Single Point of Failure](https://dev.to/ntctech/your-identity-system-is-your-biggest-single-point-of-failure-59ja)
+- [Decision Minimalism: The Case for Making Fewer Choices](https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54)
+- [Async/Await in C# — A Deep Dive Into How Asynchronous Programming Really Works](https://dev.to/libintombaby/asyncawait-in-c-a-deep-dive-into-how-asynchronous-programming-really-works-3f01)
+- [Track My Cash: Building a Secure, Decoupled Ledger with Spring Boot, Vanilla JS, and Gemini](https://dev.to/rohithv07/track-my-cash-building-a-secure-decoupled-ledger-with-spring-boot-vanilla-js-and-gemini-2d79)
 <!-- BLOG-POST-LIST:END -->
 
 
