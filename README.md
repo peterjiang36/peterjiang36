@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Delete an AWS Route 53 Hosted Zone in a Cascade Manner &lpar;Using AWS CLI&rpar;](https://dev.to/pilgrim2go/how-to-delete-an-aws-route-53-hosted-zone-in-a-cascade-manner-using-aws-cli-4589)
-- [Why Your AI Agent Framework Is Basically a Hashmap &lpar;And How I Fixed It With Rust Swarm Math&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/why-your-ai-agent-framework-is-basically-a-hashmap-and-how-i-fixed-it-with-rust-swarm-math-2a4d)
-- [LANimals 001: Continuous Deployment](https://dev.to/gnomeman4201/lanimals-001-continuous-deployment-42b2)
-- [Bolivia Military Cargo Plane Crash 2026: 11 Killed — What We Know](https://dev.to/trendplus_kr/bolivia-military-cargo-plane-crash-2026-11-killed-what-we-know-4f46)
+- [The Company Is Strong. So Why Are 4,000 People Gone?](https://dev.to/random_ti/the-company-is-strong-so-why-are-4000-people-gone-3hfj)
+- [Retrieval Strategy Design: Vector, Keyword, and Hybrid Search](https://dev.to/yaruyng/retrieval-strategy-design-vector-keyword-and-hybrid-search-53j3)
+- [We Built the First AI-Native Quantum Software Framework: Say Hello to Agentic TensorCircuit-NG](https://dev.to/refractionray/we-built-the-first-ai-native-quantum-software-framework-say-hello-to-agentic-tensorcircuit-ng-3cek)
+- [How I Built a Mobile Approval System for Claude Code So I Can Finally Leave My Desk](https://dev.to/coa00/how-i-built-a-mobile-approval-system-for-claude-code-so-i-can-finally-leave-my-desk-1ida)
 <!-- BLOG-POST-LIST:END -->
 
 
