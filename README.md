@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
-- [Lead Frontend Interview Experience: Designing a Global Modal Architecture](https://dev.to/shrinivasshah/lead-frontend-interview-experience-designing-a-global-modal-architecture-1b15)
-- [🗓️ Monthly Dev Report: February 2026](https://dev.to/theonemohitsharma/monthly-dev-report-february-2026-185i)
-- [Scratch – A Beginner&#39;s Guide to Fun Coding](https://dev.to/harini_magesh_fa40041cf8d/scratch-a-complete-introduction-for-beginners-ok4)
+- [How to Add a Contact Form to Any Static Website &lpar;Without a Backend&rpar;](https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in)
+- [How I Built Videly Ei8, Video Hosting Platform on a Shoestring Budget](https://dev.to/rezapurnama/how-i-built-videly-ei8-video-hosting-platform-on-a-shoestring-budget-5eng)
+- [Wiring Up SMART on FHIR OAuth2 Between OpenEMR and a Python Microservice Locally](https://dev.to/jack0lantern/wiring-up-smart-on-fhir-oauth2-between-openemr-and-a-python-microservice-locally-h27)
+- [Introducing codespaces.el: The Best Way to Use GitHub Codespaces](https://dev.to/f4ban/introducing-codespacesel-the-best-way-to-use-github-codespaces-1cd)
 <!-- BLOG-POST-LIST:END -->
 
 
