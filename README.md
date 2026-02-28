@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows](https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0)
-- [Building a Private AI Assistant in 2026 — No Cloud Required &lpar;Mostly&rpar;](https://dev.to/yankoaleksandrov/building-a-private-ai-assistant-in-2026-no-cloud-required-mostly-3d46)
-- [The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/the-end-of-brittle-browser-automation-is-here-3agk)
-- [GitHub Copilot CLI Executes Malware With Zero Approval. Your CI/CD Pipeline Would Have Caught It.](https://dev.to/matthewhou/github-copilot-cli-executes-malware-with-zero-approval-your-cicd-pipeline-would-have-caught-it-4g19)
+- [The Rise of Native CSS: Revolutionizing Web Development in 2023](https://dev.to/dd8888/the-rise-of-native-css-revolutionizing-web-development-in-2023-ad2)
+- [RAG Explained for SQL Developers: Think of It as SELECT, But for Meaning](https://dev.to/prabhuvikas/rag-explained-for-sql-developers-think-of-it-as-select-but-for-meaning-olg)
+- [The Secret Life of Python: The Blueprint &lpar;The Builder Pattern&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-blueprint-the-builder-pattern-4kbh)
+- [The Map Is Not the Territory: How Mental Models Both Help and Hinder Decisions](https://dev.to/_b8d89ece3338719863cb03/the-map-is-not-the-territory-how-mental-models-both-help-and-hinder-decisions-5672)
 <!-- BLOG-POST-LIST:END -->
 
 
