@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Home Cloud with Proxmox](https://dev.to/denisinvader/how-to-build-a-home-cloud-with-proxmox-1n9m)
-- [Teaching AI Agents by Example: A New Paradigm in Automation](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-a-new-paradigm-in-automation-3mcj)
-- [Enterprise Agentic AI — Memory Is the Architecture](https://dev.to/eagleeyethinker/enterprise-agentic-ai-memory-is-the-architecture-d1p)
-- [Crea tu asistente personal en los Meta Glasses.](https://dev.to/aws-builders/crea-tu-asistente-personal-en-los-meta-glasses-4nen)
+- [The Bar has Always Been Moving. Are you?](https://dev.to/agentic-jj/the-bar-has-always-been-moving-are-you-3elh)
+- [Quantified Self 2.0: Build a Unified Health Data Warehouse with DuckDB and dbt](https://dev.to/beck_moulton/quantified-self-20-build-a-unified-health-data-warehouse-with-duckdb-and-dbt-1a05)
+- [InkSafe 2.0 what I rebuilt after the first launch and why the AI is completely different now](https://dev.to/richied5/inksafe-20-what-i-rebuilt-after-the-first-launch-and-why-the-ai-is-completely-different-now-52mn)
+- [Express vs Fastify: The Numbers Behind the Hype](https://dev.to/royce_fabbd83cb268312e928/express-vs-fastify-the-numbers-behind-the-hype-4he2)
 <!-- BLOG-POST-LIST:END -->
 
 
