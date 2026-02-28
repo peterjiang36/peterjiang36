@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Native CSS: Revolutionizing Web Development in 2023](https://dev.to/dd8888/the-rise-of-native-css-revolutionizing-web-development-in-2023-ad2)
-- [RAG Explained for SQL Developers: Think of It as SELECT, But for Meaning](https://dev.to/prabhuvikas/rag-explained-for-sql-developers-think-of-it-as-select-but-for-meaning-olg)
-- [The Secret Life of Python: The Blueprint &lpar;The Builder Pattern&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-blueprint-the-builder-pattern-4kbh)
-- [The Map Is Not the Territory: How Mental Models Both Help and Hinder Decisions](https://dev.to/_b8d89ece3338719863cb03/the-map-is-not-the-territory-how-mental-models-both-help-and-hinder-decisions-5672)
+- [Quark&#39;s Outlines: Python Customizing Attribute Access](https://dev.to/mike-vincent/quarks-outlines-python-customizing-attribute-access-l)
+- [CognitoFlow vs. AutomatePrime: An Unflinching, API-First Comparison](https://dev.to/michaelaiglobal/cognitoflow-vs-automateprime-an-unflinching-api-first-comparison-238f)
+- [The Surveillance Crisis](https://dev.to/rawveg/the-surveillance-crisis-noa)
+- [The Availability Cascade: How Beliefs Become Self-Reinforcing and What to Do About It](https://dev.to/_b8d89ece3338719863cb03/the-availability-cascade-how-beliefs-become-self-reinforcing-and-what-to-do-about-it-36ik)
 <!-- BLOG-POST-LIST:END -->
 
 
