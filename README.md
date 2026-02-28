@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter in 2026: What It Is, Why It Matters, and Why App Development Is a Skill Worth Learning?](https://dev.to/safiullahkorai/flutter-in-2026-what-it-is-why-it-matters-and-why-app-development-is-a-skill-worth-learning-1h20)
-- [You&#39;re Flying Blind With Your AI Agents. Here&#39;s How to Fix It.](https://dev.to/dor_amir_dbb52baafff7ca5b/youre-flying-blind-with-your-ai-agents-heres-how-to-fix-it-3hdh)
-- [Database Indexing Made Easy: SQL vs MongoDB](https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp)
-- [I built a CLI that rolls movie-style credits for your git repo](https://dev.to/higangssh/i-built-a-cli-that-rolls-movie-style-credits-for-your-git-repo-6de)
+- [I got mass mass mass tired of lspci, so I wrote a hardware monitor that also has a brain](https://dev.to/th0truth/i-wrote-a-hardware-monitor-in-c-that-talks-directly-to-the-linux-kernel-34k2)
+- [The NDC Revolution and What It Means for Data Engineers](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-122n)
+- [Beyond Chatbots: Can We Give AI Agents an &quot;Undo&quot; Button? Exploring Gorilla GoEx 🦍](https://dev.to/syed_mehrab_08fb0419feedf/beyond-chatbots-can-we-give-ai-agents-an-undo-button-exploring-gorilla-goex-2npn)
+- [AI Agent Identity at Scale Microsoft Entra Agent ID vs. AWS AgentCore Identity](https://dev.to/sreeni5018/ai-agent-identity-at-scalemicrosoft-entra-agent-id-vs-aws-agentcore-identity-1945)
 <!-- BLOG-POST-LIST:END -->
 
 
