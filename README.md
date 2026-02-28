@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add a Contact Form to Any Static Website &lpar;Without a Backend&rpar;](https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in)
-- [How I Built Videly Ei8, Video Hosting Platform on a Shoestring Budget](https://dev.to/rezapurnama/how-i-built-videly-ei8-video-hosting-platform-on-a-shoestring-budget-5eng)
-- [Wiring Up SMART on FHIR OAuth2 Between OpenEMR and a Python Microservice Locally](https://dev.to/jack0lantern/wiring-up-smart-on-fhir-oauth2-between-openemr-and-a-python-microservice-locally-h27)
-- [Introducing codespaces.el: The Best Way to Use GitHub Codespaces](https://dev.to/f4ban/introducing-codespacesel-the-best-way-to-use-github-codespaces-1cd)
+- [Flutter in 2026: What It Is, Why It Matters, and Why App Development Is a Skill Worth Learning?](https://dev.to/safiullahkorai/flutter-in-2026-what-it-is-why-it-matters-and-why-app-development-is-a-skill-worth-learning-1h20)
+- [You&#39;re Flying Blind With Your AI Agents. Here&#39;s How to Fix It.](https://dev.to/dor_amir_dbb52baafff7ca5b/youre-flying-blind-with-your-ai-agents-heres-how-to-fix-it-3hdh)
+- [Database Indexing Made Easy: SQL vs MongoDB](https://dev.to/satishjaiswal/database-indexing-made-easy-sql-vs-mongodb-2cgp)
+- [I built a CLI that rolls movie-style credits for your git repo](https://dev.to/higangssh/i-built-a-cli-that-rolls-movie-style-credits-for-your-git-repo-6de)
 <!-- BLOG-POST-LIST:END -->
 
 
