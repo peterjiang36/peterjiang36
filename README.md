@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Identity System Is Your Biggest Single Point of Failure](https://dev.to/ntctech/your-identity-system-is-your-biggest-single-point-of-failure-59ja)
-- [Decision Minimalism: The Case for Making Fewer Choices](https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54)
-- [Async/Await in C# — A Deep Dive Into How Asynchronous Programming Really Works](https://dev.to/libintombaby/asyncawait-in-c-a-deep-dive-into-how-asynchronous-programming-really-works-3f01)
-- [Track My Cash: Building a Secure, Decoupled Ledger with Spring Boot, Vanilla JS, and Gemini](https://dev.to/rohithv07/track-my-cash-building-a-secure-decoupled-ledger-with-spring-boot-vanilla-js-and-gemini-2d79)
+- [I built an open-source BIM automation platform &lpar;and learned a lot the hard way&rpar;](https://dev.to/nnamdionyia/i-built-an-open-source-bim-automation-platform-and-learned-a-lot-the-hard-way-j4n)
+- [I Fed My Entire Codebase to Gemini. It Wrote Better Cursor Rules Than I Did.](https://dev.to/nedcodes/i-fed-my-entire-codebase-to-gemini-it-wrote-better-cursor-rules-than-i-did-57d2)
+- [AI in SDLC: A 2025 Retrospective](https://dev.to/chetangangappa/ai-in-sdlc-a-2025-retrospective-4c4b)
+- [Deep Dive into `mithril-aggregator`: Core Responsibilities, HTTP Boundaries, and Certificate/Artifact Production](https://dev.to/_56d7718cea8fe00ec1610/deep-dive-into-mithril-aggregator-core-responsibilities-http-boundaries-and-3ip5)
 <!-- BLOG-POST-LIST:END -->
 
 
