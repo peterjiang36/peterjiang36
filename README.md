@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Company Is Strong. So Why Are 4,000 People Gone?](https://dev.to/random_ti/the-company-is-strong-so-why-are-4000-people-gone-3hfj)
-- [Retrieval Strategy Design: Vector, Keyword, and Hybrid Search](https://dev.to/yaruyng/retrieval-strategy-design-vector-keyword-and-hybrid-search-53j3)
-- [We Built the First AI-Native Quantum Software Framework: Say Hello to Agentic TensorCircuit-NG](https://dev.to/refractionray/we-built-the-first-ai-native-quantum-software-framework-say-hello-to-agentic-tensorcircuit-ng-3cek)
-- [How I Built a Mobile Approval System for Claude Code So I Can Finally Leave My Desk](https://dev.to/coa00/how-i-built-a-mobile-approval-system-for-claude-code-so-i-can-finally-leave-my-desk-1ida)
+- [Can any one help....?](https://dev.to/sudish_deuja_fdbff506d0c8/can-any-one-help-ei)
+- [Anthropic&#39;s dispute with the DOD raises critical questions for US military partners like Nvidia, Google, Amazon, and...](https://dev.to/chx381/anthropics-dispute-with-the-dod-raises-critical-questions-for-us-military-partners-like-nvidia-3l5o)
+- [How We Built a Browser-Based Image Converter with WebAssembly Encoders](https://dev.to/_85dbad023e63293c4c6db/how-we-built-a-browser-based-image-converter-with-webassembly-encoders-3i39)
+- [Local LLM Agent Benchmark: Comparing 6 Models in Real-World Scenarios](https://dev.to/kim_namhyun_e7535f3dc4c69/local-llm-agent-benchmark-comparing-6-models-in-real-world-scenarios-3ffb)
 <!-- BLOG-POST-LIST:END -->
 
 
