@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open-source BIM automation platform &lpar;and learned a lot the hard way&rpar;](https://dev.to/nnamdionyia/i-built-an-open-source-bim-automation-platform-and-learned-a-lot-the-hard-way-j4n)
-- [I Fed My Entire Codebase to Gemini. It Wrote Better Cursor Rules Than I Did.](https://dev.to/nedcodes/i-fed-my-entire-codebase-to-gemini-it-wrote-better-cursor-rules-than-i-did-57d2)
-- [AI in SDLC: A 2025 Retrospective](https://dev.to/chetangangappa/ai-in-sdlc-a-2025-retrospective-4c4b)
-- [Deep Dive into `mithril-aggregator`: Core Responsibilities, HTTP Boundaries, and Certificate/Artifact Production](https://dev.to/_56d7718cea8fe00ec1610/deep-dive-into-mithril-aggregator-core-responsibilities-http-boundaries-and-3ip5)
+- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
+- [Lead Frontend Interview Experience: Designing a Global Modal Architecture](https://dev.to/shrinivasshah/lead-frontend-interview-experience-designing-a-global-modal-architecture-1b15)
+- [🗓️ Monthly Dev Report: February 2026](https://dev.to/theonemohitsharma/monthly-dev-report-february-2026-185i)
+- [Scratch – A Beginner&#39;s Guide to Fun Coding](https://dev.to/harini_magesh_fa40041cf8d/scratch-a-complete-introduction-for-beginners-ok4)
 <!-- BLOG-POST-LIST:END -->
 
 
