@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RippleMessenger: A blockchain-based client &lpar;part 1/2&rpar;](https://dev.to/ripplemessenger/ripplemessenger-a-blockchain-based-client-part-12-1nj9)
-- [Building an Automated Competitive Intelligence Pipeline &lpar;Without Enterprise Pricing&rpar;](https://dev.to/warren_allen/building-an-automated-competitive-intelligence-pipeline-without-enterprise-pricing-1l5e)
-- [Stop sending API keys in Slack &lpar;and how to actually fix your team&#39;s .env mess&rpar;](https://dev.to/envdock_c5757125a5c7261dc/stop-sending-api-keys-in-slack-and-how-to-actually-fix-your-teams-env-mess-203)
-- [Front-Running User Intent: Why Your Data Pages Are Answering the Wrong Question](https://dev.to/aaronzara/front-running-user-intent-why-your-data-pages-are-answering-the-wrong-question-2b8g)
+- [Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics &amp; Incident Response](https://dev.to/hafiz_shamnad/day-14-i-built-procwatch-a-linux-process-security-scanner-for-forensics-incident-response-2bm5)
+- [JIT Compiler: BrainFuck](https://dev.to/pseudoclone/jit-compiler-brainfuck-261j)
+- [CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem &lpar;hex_core, rebar3&rpar;](https://dev.to/cverports/cve-2026-21619-unsafe-deserialization-in-erlang-hex-ecosystem-hexcore-rebar3-4ifd)
+- [Reverse array in groups](https://dev.to/tanzimsafin_42/reverse-array-in-groups-3dj5)
 <!-- BLOG-POST-LIST:END -->
 
 
