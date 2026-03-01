@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying OpenClaw on Google Cloud VM: Avoiding Sudo and NVM Pitfalls](https://dev.to/gde/deploying-openclaw-on-google-cloud-vm-avoiding-sudo-and-nvm-pitfalls-92k)
-- [Write Once. Publish Everywhere. Without Surrendering Control.](https://dev.to/theonemohitsharma/write-once-publish-everywhere-without-surrendering-control-3mdp)
-- [How I Set Up i18n in My React/Next.js App Without Losing My Mind](https://dev.to/erayg/how-i-set-up-i18n-in-my-reactnextjs-app-without-losing-my-mind-2k3o)
-- [Problem-Solving](https://dev.to/olayemi_elsie/problem-solving-3nim)
+- [Project Management Through Neuroscience: Dopamine, Cortisol, and Deadlines](https://dev.to/_jeongyuhyeon_03de1/project-management-through-neuroscience-dopamine-cortisol-and-deadlines-4ncd)
+- [Acessibilidade Web: Guia de boas práticas para interfaces inclusivas ♿️](https://dev.to/psrodrigs/acessibilidade-web-guia-de-boas-praticas-para-interfaces-inclusivas-4jjf)
+- [Distillation Attacks : Risks and Controversies](https://dev.to/roshanacharya/distillation-attacks-risks-and-controversies-1iaf)
+- [I Asked Gemini One Question! It Became an Accessibility App](https://dev.to/devcodehub99/i-asked-gemini-one-question-it-became-an-accessibility-app-41a7)
 <!-- BLOG-POST-LIST:END -->
 
 
