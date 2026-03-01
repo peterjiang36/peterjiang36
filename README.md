@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Evolução do Modelo Relacional para Objeto-Relacional](https://dev.to/diego_ferreira_874246de77/a-evolucao-do-modelo-relacional-para-objeto-relacional-3jod)
-- [Agent Skills: Automatically Scaffold a .NET Solution Structure](https://dev.to/incomplete_developer/agent-skills-automatically-scaffold-a-net-solution-structure-1570)
-- [🏘️ CommuneXR – Turning Neighbors Into a Connected Community &lpar;Built in 48h&rpar;](https://dev.to/joupify/communexr-turning-neighbors-into-a-connected-community-built-in-48h-1mmk)
-- [Build an Auto-Posting Instagram Bot in 20 Lines of Python](https://dev.to/mokyio/build-an-auto-posting-instagram-bot-in-20-lines-of-python-42ia)
+- [Deploying OpenClaw on Google Cloud VM: Avoiding Sudo and NVM Pitfalls](https://dev.to/gde/deploying-openclaw-on-google-cloud-vm-avoiding-sudo-and-nvm-pitfalls-92k)
+- [Write Once. Publish Everywhere. Without Surrendering Control.](https://dev.to/theonemohitsharma/write-once-publish-everywhere-without-surrendering-control-3mdp)
+- [How I Set Up i18n in My React/Next.js App Without Losing My Mind](https://dev.to/erayg/how-i-set-up-i18n-in-my-reactnextjs-app-without-losing-my-mind-2k3o)
+- [Problem-Solving](https://dev.to/olayemi_elsie/problem-solving-3nim)
 <!-- BLOG-POST-LIST:END -->
 
 
