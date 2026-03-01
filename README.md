@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Adventure in Code](https://dev.to/julianaalbertyn/a-new-adventure-in-code-156m)
-- [Triphop &lpar;2015&rpar;: An Exploration of a Real-Time TODO Application](https://dev.to/rpi1337/triphop-2015-an-exploration-of-a-real-time-todo-application-47e1)
-- [GlowInspo: When AI Dresses My Monday Anxiety](https://dev.to/geets_a1be902588b38e52740/glowinspo-when-ai-dresses-my-monday-anxiety-47np)
-- [Vertex AI RAG Engine Advanced RAG with Terraform: Chunking, Hybrid Search, and Reranking 🧠](https://dev.to/suhas_mallesh/vertex-ai-rag-engine-advanced-rag-with-terraform-chunking-hybrid-search-and-reranking-37fb)
+- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
+- [WordPress Security in 2026: What&#39;s Changed](https://dev.to/davidshusterman/wordpress-security-in-2026-whats-changed-4n1e)
+- [Supabase is Blocked in India. Here&#39;s the Free Fix Using a Cloudflare Worker](https://dev.to/ritvikdayal/supabase-is-blocked-in-india-heres-the-exact-fix-using-a-cloudflare-worker-2ejf)
+- [Every service I build will die](https://dev.to/olliechurch/every-service-i-build-will-die-3i8g)
 <!-- BLOG-POST-LIST:END -->
 
 
