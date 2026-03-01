@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WiFi CSI: Your Router Can See You Move — Privacy Implications of Channel State Information](https://dev.to/kenimo49/wifi-csi-your-router-can-see-you-move-privacy-implications-of-channel-state-information-3m5o)
-- [I Built a Mini Derivatives Exchange in Python. Here&#39;s How I Used Cursor Without Letting It Run the Show.](https://dev.to/meetrakib/i-built-a-mini-derivatives-exchange-in-python-heres-how-i-used-cursor-without-letting-it-run-the-500e)
-- [MCP Architecture Patterns for Production-Grade Agents](https://dev.to/julesk/mcp-architecture-patterns-for-production-grade-agents-i4i)
-- [HealthNearby — Find Healthcare Facilities in Cameroon](https://dev.to/sudojayn/healthnearby-find-healthcare-facilities-in-cameroon-4kgd)
+- [Understanding Joins and Window Functions in SQL](https://dev.to/geraldm/understanding-joins-and-window-functions-in-sql-4mdk)
+- [[DEV Weekend Challenge: Community] Kanoon Mera Kawach](https://dev.to/devtoamz/dev-weekend-challenge-community-kanoon-mera-kawach-2k0j)
+- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am)
+- [How I Built an API That Turns JSON Into Beautiful HTML Forms](https://dev.to/agentcorp/how-i-built-an-api-that-turns-json-into-beautiful-html-forms-28bc)
 <!-- BLOG-POST-LIST:END -->
 
 
