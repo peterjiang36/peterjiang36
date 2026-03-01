@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I added human-in-the-loop approval to my AI agent in 5 minutes](https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm)
-- [Android OAuth Flow - Browser Doesn&#39;t Redirect After Password Setup](https://dev.to/brian_kibet_979839b465187/android-oauth-flow-browser-doesnt-redirect-after-password-setup-3h53)
-- [From GitHub to Knowledge Panel: A Developer’s Digital Identity Stack](https://dev.to/sain_bux_dev/from-github-to-knowledge-panel-a-developers-digital-identity-stack-2i2c)
-- [105 Cycles: The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/105-cycles-the-end-of-brittle-browser-automation-is-here-5d97)
+- [I Built an AI-Powered Website Monitor — Here&#39;s How It Works](https://dev.to/karacatr/i-built-an-ai-powered-website-monitor-heres-how-it-works-3n2c)
+- [Construct Note: A Local-First, Privacy-Focused Kanban Desktop App](https://dev.to/therealsarin/construct-note-a-local-first-privacy-focused-kanban-desktop-app-4jp9)
+- [How I built an AI-powered Git context menu for Windows using Tauri and Rust](https://dev.to/vinzify/how-i-built-an-ai-powered-git-context-menu-for-windows-using-tauri-and-rust-25h7)
+- [How I Redesigned My Portfolio with Google Gemini &lpar;and Where the AI Actually Let Me Down&rpar;](https://dev.to/quodline/how-i-redesigned-my-portfolio-with-google-gemini-and-where-the-ai-actually-let-me-down-1chg)
 <!-- BLOG-POST-LIST:END -->
 
 
