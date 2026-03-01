@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I deleted my entire AI microservice and just used Postgres &lpar;here is why&rpar; 🐘⚡](https://dev.to/amals367/i-deleted-my-entire-ai-microservice-and-just-used-postgres-here-is-why-541m)
-- [We Need an Emission Test for AI](https://dev.to/almadar/we-need-an-emission-test-for-ai-1pla)
-- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
-- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
+- [Stop Writing Spaghetti API Routes — Structure Your Express.js App Like a Pro](https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-structure-your-expressjs-app-like-a-pro-1d02)
+- [Drop Your Animation Library: 5 Lines to Make Your SPA Feel Like a Native App](https://dev.to/linou518/drop-your-animation-library-5-lines-to-make-your-spa-feel-like-a-native-app-3noe)
+- [Google Gemini API Key Security Breach Risk: The Rules Changed](https://dev.to/maverickjkp/google-gemini-api-key-security-breach-risk-the-rules-changed-15g3)
+- [Fake Job Interview Backdoor Malware Targeting Developer Machines](https://dev.to/maverickjkp/fake-job-interview-backdoor-malware-targeting-developer-machines-33g)
 <!-- BLOG-POST-LIST:END -->
 
 
