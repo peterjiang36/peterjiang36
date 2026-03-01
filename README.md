@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 14 — I Built ProcWatch : A Linux Process Security Scanner for Forensics &amp; Incident Response](https://dev.to/hafiz_shamnad/day-14-i-built-procwatch-a-linux-process-security-scanner-for-forensics-incident-response-2bm5)
-- [JIT Compiler: BrainFuck](https://dev.to/pseudoclone/jit-compiler-brainfuck-261j)
-- [CVE-2026-21619: Unsafe Deserialization in Erlang Hex Ecosystem &lpar;hex_core, rebar3&rpar;](https://dev.to/cverports/cve-2026-21619-unsafe-deserialization-in-erlang-hex-ecosystem-hexcore-rebar3-4ifd)
-- [Reverse array in groups](https://dev.to/tanzimsafin_42/reverse-array-in-groups-3dj5)
+- [GHSA-XFX2-PRG5-JQ3G: Gin-Gonic Middleware Bypass: Authorization Failure in INSATutorat](https://dev.to/cverports/ghsa-xfx2-prg5-jq3g-gin-gonic-middleware-bypass-authorization-failure-in-insatutorat-3io3)
+- [Improving UI Blur Effects with Multi-Panel Frames](https://dev.to/geanruca/improving-ui-blur-effects-with-multi-panel-frames-kee)
+- [Use PageBolt with GitHub Copilot CLI: Automated screenshots and video demos via MCP](https://dev.to/custodiaadmin/use-pagebolt-with-github-copilot-cli-automated-screenshots-and-video-demos-via-mcp-3lnd)
+- [How to use PageBolt&#39;s MCP server in Claude Desktop, Cursor, and Windsurf](https://dev.to/custodiaadmin/how-to-use-pagebolts-mcp-server-in-claude-desktop-cursor-and-windsurf-hfc)
 <!-- BLOG-POST-LIST:END -->
 
 
