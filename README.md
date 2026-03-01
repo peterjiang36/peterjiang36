@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Standards Win: Interop 2026 Signals the End of Browser Wars](https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb)
-- [VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah)
-- [Your Benchmarks Are Lying to You &lpar;And This 148-Star Crate Knows Why&rpar;](https://dev.to/ticktockbent/your-benchmarks-are-lying-to-you-and-this-148-star-crate-knows-why-213h)
-- [Claude Code VS Code extension freezes with multiple chat tabs? Workaround for Windows](https://dev.to/alexisfranorge/claude-code-vs-code-extension-freezes-with-multiple-chat-tabs-workaround-for-windows-351o)
+- [Production RAG with Semantic Kernel: Patterns, Chunking, and Retrieval Strategies](https://dev.to/bspann/production-rag-with-semantic-kernel-patterns-chunking-and-retrieval-strategies-50j7)
+- [🍢 Beginner-Friendly Guide &#39;Partitioning Into Minimum Number Of Deci-Binary Numbers&#39; - Problem 1689 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-partitioning-into-minimum-number-of-deci-binary-numbers-problem-1689-6e8)
+- [Agent Memory Architecture: How Our AI Remembers Across Sessions](https://dev.to/mfs_corp/agent-memory-architecture-how-our-ai-remembers-across-sessions-j8l)
+- [Why We Chose Local LLMs Over Cloud-Only &lpar;and When We Break That Rule&rpar;](https://dev.to/mfs_corp/why-we-chose-local-llms-over-cloud-only-and-when-we-break-that-rule-2nne)
 <!-- BLOG-POST-LIST:END -->
 
 
