@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Production RAG with Semantic Kernel: Patterns, Chunking, and Retrieval Strategies](https://dev.to/bspann/production-rag-with-semantic-kernel-patterns-chunking-and-retrieval-strategies-50j7)
-- [🍢 Beginner-Friendly Guide &#39;Partitioning Into Minimum Number Of Deci-Binary Numbers&#39; - Problem 1689 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-partitioning-into-minimum-number-of-deci-binary-numbers-problem-1689-6e8)
-- [Agent Memory Architecture: How Our AI Remembers Across Sessions](https://dev.to/mfs_corp/agent-memory-architecture-how-our-ai-remembers-across-sessions-j8l)
-- [Why We Chose Local LLMs Over Cloud-Only &lpar;and When We Break That Rule&rpar;](https://dev.to/mfs_corp/why-we-chose-local-llms-over-cloud-only-and-when-we-break-that-rule-2nne)
+- [Build a LanceDB Memory Plugin for OpenClaw](https://dev.to/chwu1946/build-a-lancedb-memory-plugin-for-openclaw-102h)
+- [Mastering NPM: Essential Commands for Professional Developers](https://dev.to/nube_colectiva_nc/mastering-npm-essential-commands-for-professional-developers-334n)
+- [The New SaaS Playbook: What Building a 29-Module ERP Taught Me About AI-Native Software](https://dev.to/nikhilj/the-new-saas-playbook-what-building-a-29-module-erp-taught-me-about-ai-native-software-27mc)
+- [Terraform Explained: From &quot;What Even Is This?&quot; to Actually Getting It 🚀](https://dev.to/yash_sonawane25/terraform-explained-from-what-even-is-this-to-actually-getting-it-31ih)
 <!-- BLOG-POST-LIST:END -->
 
 
