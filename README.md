@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI-Powered Website Monitor — Here&#39;s How It Works](https://dev.to/karacatr/i-built-an-ai-powered-website-monitor-heres-how-it-works-3n2c)
-- [Construct Note: A Local-First, Privacy-Focused Kanban Desktop App](https://dev.to/therealsarin/construct-note-a-local-first-privacy-focused-kanban-desktop-app-4jp9)
-- [How I built an AI-powered Git context menu for Windows using Tauri and Rust](https://dev.to/vinzify/how-i-built-an-ai-powered-git-context-menu-for-windows-using-tauri-and-rust-25h7)
-- [How I Redesigned My Portfolio with Google Gemini &lpar;and Where the AI Actually Let Me Down&rpar;](https://dev.to/quodline/how-i-redesigned-my-portfolio-with-google-gemini-and-where-the-ai-actually-let-me-down-1chg)
+- [Web Standards Win: Interop 2026 Signals the End of Browser Wars](https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb)
+- [VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah)
+- [Your Benchmarks Are Lying to You &lpar;And This 148-Star Crate Knows Why&rpar;](https://dev.to/ticktockbent/your-benchmarks-are-lying-to-you-and-this-148-star-crate-knows-why-213h)
+- [Claude Code VS Code extension freezes with multiple chat tabs? Workaround for Windows](https://dev.to/alexisfranorge/claude-code-vs-code-extension-freezes-with-multiple-chat-tabs-workaround-for-windows-351o)
 <!-- BLOG-POST-LIST:END -->
 
 
