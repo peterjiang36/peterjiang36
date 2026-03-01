@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Step Functions Distributed Map Best Practices for Large-Scale Batch Workloads](https://dev.to/aws-builders/step-functions-distributed-map-best-practices-for-large-scale-batch-workloads-55n2)
-- [I spent 25 hours this weekend creating the world&#39;s first social media + ecosystem platform for open source developers.](https://dev.to/abhinandan1/i-spent-25-hours-this-weekend-creating-the-worlds-first-social-media-ecosystem-platform-for-open-4dpe)
-- [Digital Postcards](https://dev.to/vasilisskourtisdev/digital-postcards-40ci)
-- [JH Link: A PWA to Connect and Engage Our Local Youth Center](https://dev.to/olivier_vanheste_62a5c2c6/jh-link-a-pwa-to-connect-and-engage-our-local-youth-center-5ahb)
+- [Criando uma arquitetura de microsserviços para organização de decks Yu-Gi-Oh com Spring Boot – Parte 03](https://dev.to/odevpedro/criando-uma-arquitetura-de-microsservicos-para-organizacao-de-decks-yu-gi-oh-com-spring-boot--1oh9)
+- [Never Repeat Yourself: Give Your LLM Apps Persistent Memory with ContextMD](https://dev.to/subham_kundu_335580d3c8e4/never-repeat-yourself-give-your-llm-apps-persistent-memory-with-contextmd-lh3)
+- [The agent economy is here: AI agents earning and spending money autonomously](https://dev.to/purpleflea/the-agent-economy-is-here-ai-agents-earning-and-spending-money-autonomously-3oh5)
+- [Building Multi-Model AI Agents with OpenAI, Ollama, Groq and Gemini](https://dev.to/redoh/building-multi-model-ai-agents-with-openai-ollama-groq-and-gemini-3mga)
 <!-- BLOG-POST-LIST:END -->
 
 
