@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GHSA-XFX2-PRG5-JQ3G: Gin-Gonic Middleware Bypass: Authorization Failure in INSATutorat](https://dev.to/cverports/ghsa-xfx2-prg5-jq3g-gin-gonic-middleware-bypass-authorization-failure-in-insatutorat-3io3)
-- [Improving UI Blur Effects with Multi-Panel Frames](https://dev.to/geanruca/improving-ui-blur-effects-with-multi-panel-frames-kee)
-- [Use PageBolt with GitHub Copilot CLI: Automated screenshots and video demos via MCP](https://dev.to/custodiaadmin/use-pagebolt-with-github-copilot-cli-automated-screenshots-and-video-demos-via-mcp-3lnd)
-- [How to use PageBolt&#39;s MCP server in Claude Desktop, Cursor, and Windsurf](https://dev.to/custodiaadmin/how-to-use-pagebolts-mcp-server-in-claude-desktop-cursor-and-windsurf-hfc)
+- [A New Adventure in Code](https://dev.to/julianaalbertyn/a-new-adventure-in-code-156m)
+- [Triphop &lpar;2015&rpar;: An Exploration of a Real-Time TODO Application](https://dev.to/rpi1337/triphop-2015-an-exploration-of-a-real-time-todo-application-47e1)
+- [GlowInspo: When AI Dresses My Monday Anxiety](https://dev.to/geets_a1be902588b38e52740/glowinspo-when-ai-dresses-my-monday-anxiety-47np)
+- [Vertex AI RAG Engine Advanced RAG with Terraform: Chunking, Hybrid Search, and Reranking 🧠](https://dev.to/suhas_mallesh/vertex-ai-rag-engine-advanced-rag-with-terraform-chunking-hybrid-search-and-reranking-37fb)
 <!-- BLOG-POST-LIST:END -->
 
 
