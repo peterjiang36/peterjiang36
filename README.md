@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Career Comeback Coach: Turning the &quot;Gap&quot; into a Launchpad](https://dev.to/raseena_anwar_27fb632c74f/career-comeback-coach-turning-the-gap-into-a-launchpad-47f)
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/hiral/arrow-functions-in-javascript-a-simpler-way-to-write-functions-5g6g)
-- [Understanding TimescaleDB Background Workers and Jobs](https://dev.to/philip_mcclarence_2ef9475/understanding-timescaledb-background-workers-and-jobs-3mlc)
-- [AI Guardrails: Anthropic vs DoW vs OpenAI — কে আসল বিজয়ী?](https://dev.to/ursarahim/ai-guardrails-anthropic-vs-dow-vs-openai-ke-aasl-bijyyii-5699)
+- [I deleted my entire AI microservice and just used Postgres &lpar;here is why&rpar; 🐘⚡](https://dev.to/amals367/i-deleted-my-entire-ai-microservice-and-just-used-postgres-here-is-why-541m)
+- [We Need an Emission Test for AI](https://dev.to/almadar/we-need-an-emission-test-for-ai-1pla)
+- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
+- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
 <!-- BLOG-POST-LIST:END -->
 
 
