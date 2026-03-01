@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Spaghetti API Routes — Structure Your Express.js App Like a Pro](https://dev.to/teguh_coding/stop-writing-spaghetti-api-routes-structure-your-expressjs-app-like-a-pro-1d02)
-- [Drop Your Animation Library: 5 Lines to Make Your SPA Feel Like a Native App](https://dev.to/linou518/drop-your-animation-library-5-lines-to-make-your-spa-feel-like-a-native-app-3noe)
-- [Google Gemini API Key Security Breach Risk: The Rules Changed](https://dev.to/maverickjkp/google-gemini-api-key-security-breach-risk-the-rules-changed-15g3)
-- [Fake Job Interview Backdoor Malware Targeting Developer Machines](https://dev.to/maverickjkp/fake-job-interview-backdoor-malware-targeting-developer-machines-33g)
+- [A Evolução do Modelo Relacional para Objeto-Relacional](https://dev.to/diego_ferreira_874246de77/a-evolucao-do-modelo-relacional-para-objeto-relacional-3jod)
+- [Agent Skills: Automatically Scaffold a .NET Solution Structure](https://dev.to/incomplete_developer/agent-skills-automatically-scaffold-a-net-solution-structure-1570)
+- [🏘️ CommuneXR – Turning Neighbors Into a Connected Community &lpar;Built in 48h&rpar;](https://dev.to/joupify/communexr-turning-neighbors-into-a-connected-community-built-in-48h-1mmk)
+- [Build an Auto-Posting Instagram Bot in 20 Lines of Python](https://dev.to/mokyio/build-an-auto-posting-instagram-bot-in-20-lines-of-python-42ia)
 <!-- BLOG-POST-LIST:END -->
 
 
