@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
-- [WordPress Security in 2026: What&#39;s Changed](https://dev.to/davidshusterman/wordpress-security-in-2026-whats-changed-4n1e)
-- [Supabase is Blocked in India. Here&#39;s the Free Fix Using a Cloudflare Worker](https://dev.to/ritvikdayal/supabase-is-blocked-in-india-heres-the-exact-fix-using-a-cloudflare-worker-2ejf)
-- [Every service I build will die](https://dev.to/olliechurch/every-service-i-build-will-die-3i8g)
+- [Career Comeback Coach: Turning the &quot;Gap&quot; into a Launchpad](https://dev.to/raseena_anwar_27fb632c74f/career-comeback-coach-turning-the-gap-into-a-launchpad-47f)
+- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/hiral/arrow-functions-in-javascript-a-simpler-way-to-write-functions-5g6g)
+- [Understanding TimescaleDB Background Workers and Jobs](https://dev.to/philip_mcclarence_2ef9475/understanding-timescaledb-background-workers-and-jobs-3mlc)
+- [AI Guardrails: Anthropic vs DoW vs OpenAI — কে আসল বিজয়ী?](https://dev.to/ursarahim/ai-guardrails-anthropic-vs-dow-vs-openai-ke-aasl-bijyyii-5699)
 <!-- BLOG-POST-LIST:END -->
 
 
