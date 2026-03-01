@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Video Transcription with OpenAI Whisper](https://dev.to/vitalii_petrenko_dev/building-ai-video-transcription-with-openai-whisper-3aof)
-- [Why Your AI Agent Should Never Depend on One Provider](https://dev.to/turtleand/why-your-ai-agent-should-never-depend-on-one-provider-3926)
-- [feat: add DevPulse AI to the list of advanced AI agents in README.](https://dev.to/jgnoncelogic/feat-add-devpulse-ai-to-the-list-of-advanced-ai-agents-in-readme-4cch)
-- [C.H. Robinson CEO says AI will drive freight brokerage consolidation - Yahoo Finance](https://dev.to/jgnoncelogic/ch-robinson-ceo-says-ai-will-drive-freight-brokerage-consolidation-yahoo-finance-117h)
+- [WiFi CSI: Your Router Can See You Move — Privacy Implications of Channel State Information](https://dev.to/kenimo49/wifi-csi-your-router-can-see-you-move-privacy-implications-of-channel-state-information-3m5o)
+- [I Built a Mini Derivatives Exchange in Python. Here&#39;s How I Used Cursor Without Letting It Run the Show.](https://dev.to/meetrakib/i-built-a-mini-derivatives-exchange-in-python-heres-how-i-used-cursor-without-letting-it-run-the-500e)
+- [MCP Architecture Patterns for Production-Grade Agents](https://dev.to/julesk/mcp-architecture-patterns-for-production-grade-agents-i4i)
+- [HealthNearby — Find Healthcare Facilities in Cameroon](https://dev.to/sudojayn/healthnearby-find-healthcare-facilities-in-cameroon-4kgd)
 <!-- BLOG-POST-LIST:END -->
 
 
