@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Management Through Neuroscience: Dopamine, Cortisol, and Deadlines](https://dev.to/_jeongyuhyeon_03de1/project-management-through-neuroscience-dopamine-cortisol-and-deadlines-4ncd)
-- [Acessibilidade Web: Guia de boas práticas para interfaces inclusivas ♿️](https://dev.to/psrodrigs/acessibilidade-web-guia-de-boas-praticas-para-interfaces-inclusivas-4jjf)
-- [Distillation Attacks : Risks and Controversies](https://dev.to/roshanacharya/distillation-attacks-risks-and-controversies-1iaf)
-- [I Asked Gemini One Question! It Became an Accessibility App](https://dev.to/devcodehub99/i-asked-gemini-one-question-it-became-an-accessibility-app-41a7)
+- [Stop Writing Slow SQL: 7 Query Optimization Tricks Every Developer Should Know](https://dev.to/teguh_coding/stop-writing-slow-sql-7-query-optimization-tricks-every-developer-should-know-3plj)
+- [Building a Production-Grade Table Editor with React and XState — Adding Rows &amp; Columns](https://dev.to/keyurparalkar/building-a-production-grade-table-editor-with-react-and-xstate-adding-rows-columns-efb)
+- [Data Engineering: Beginner’s Guide to Data Engineering Architecture](https://dev.to/babuvino13/data-engineering-beginners-guide-to-data-engineering-architecture-5dfk)
+- [AI Agents in Semantic Kernel: ChatCompletionAgent, AgentGroupChat, and Orchestration](https://dev.to/bspann/ai-agents-in-semantic-kernel-chatcompletionagent-agentgroupchat-and-orchestration-50am)
 <!-- BLOG-POST-LIST:END -->
 
 
