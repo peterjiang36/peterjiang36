@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a LanceDB Memory Plugin for OpenClaw](https://dev.to/chwu1946/build-a-lancedb-memory-plugin-for-openclaw-102h)
-- [Mastering NPM: Essential Commands for Professional Developers](https://dev.to/nube_colectiva_nc/mastering-npm-essential-commands-for-professional-developers-334n)
-- [The New SaaS Playbook: What Building a 29-Module ERP Taught Me About AI-Native Software](https://dev.to/nikhilj/the-new-saas-playbook-what-building-a-29-module-erp-taught-me-about-ai-native-software-27mc)
-- [Terraform Explained: From &quot;What Even Is This?&quot; to Actually Getting It 🚀](https://dev.to/yash_sonawane25/terraform-explained-from-what-even-is-this-to-actually-getting-it-31ih)
+- [RippleMessenger: A blockchain-based client &lpar;part 1/2&rpar;](https://dev.to/ripplemessenger/ripplemessenger-a-blockchain-based-client-part-12-1nj9)
+- [Building an Automated Competitive Intelligence Pipeline &lpar;Without Enterprise Pricing&rpar;](https://dev.to/warren_allen/building-an-automated-competitive-intelligence-pipeline-without-enterprise-pricing-1l5e)
+- [Stop sending API keys in Slack &lpar;and how to actually fix your team&#39;s .env mess&rpar;](https://dev.to/envdock_c5757125a5c7261dc/stop-sending-api-keys-in-slack-and-how-to-actually-fix-your-teams-env-mess-203)
+- [Front-Running User Intent: Why Your Data Pages Are Answering the Wrong Question](https://dev.to/aaronzara/front-running-user-intent-why-your-data-pages-are-answering-the-wrong-question-2b8g)
 <!-- BLOG-POST-LIST:END -->
 
 
