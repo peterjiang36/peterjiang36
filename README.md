@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I taught Claude to see inside Unreal Engine](https://dev.to/colton_willey_ef3d8727ae9/how-i-taught-claude-to-see-inside-unreal-engine-23a9)
-- [Good and Bad Navigation Patterns for Long HTML Pages](https://dev.to/alexiskypridemos/good-and-bad-navigation-patterns-for-long-html-pages-55d3)
-- [Gemini said Why Security is Always Late: Economics, Zero-Days, and Attacker Math](https://dev.to/zerocool_2012/gemini-saidwhy-security-is-always-late-economics-zero-days-and-attacker-math-gd2)
-- [I built a free JSON toolkit with 68+ tools &lpar;security scanner, 19 language converters, offline PWA&rpar;](https://dev.to/jsonwebtools/i-built-a-free-json-toolkit-with-68-tools-security-scanner-19-language-converters-offline-5c9g)
+- [How Two Markdown Files Completely Changed My Visual Studio + Copilot Workflow](https://dev.to/mbrennan376/how-two-markdown-files-completely-changed-my-visual-studio-copilot-workflow-22ip)
+- [Mastering SQL: A Guide to Joins and Window Functions](https://dev.to/davi__mungai/mastering-sql-a-guide-to-joins-and-window-functions-48bn)
+- [5 Underused C# Features That Make Defensive Code Obsolete](https://dev.to/cristiansifuentes/5-underused-c-features-that-make-defensive-code-obsolete-1lkj)
+- [Week 21 – React Performance Optimization &amp; Code Splitting &lpar;WorldWise Completed ✅&rpar;](https://dev.to/usama_dev/week-21-react-performance-optimization-code-splitting-worldwise-completed--1f1g)
 <!-- BLOG-POST-LIST:END -->
 
 
