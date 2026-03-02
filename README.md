@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Missing My Coworker Jason Today](https://dev.to/art_light/missing-my-coworker-jason-today-23h3)
-- [Control Gemini with Just a URL. The Chrome Extension &quot;Send to Gemini&quot; Is Incredibly Useful](https://dev.to/takoyaki1/control-gemini-with-just-a-url-the-chrome-extension-send-to-gemini-is-incredibly-useful-b8d)
-- [Solved: Trying to expand my business from abroad into the States. Any pointers?](https://dev.to/techresolve/solved-trying-to-expand-my-business-from-abroad-into-the-states-any-pointers-4d69)
-- [3 Vite Tricks I Wish I Knew When I Started](https://dev.to/bishoy_bishai/3-vite-tricks-i-wish-i-knew-when-i-started-m64)
+- [Data Pipeline Architecture: From Messy CSVs to Clean Database](https://dev.to/n3x1s/data-pipeline-architecture-from-messy-csvs-to-clean-database-285a)
+- [Designing Efficient Queries with SQL Joins and Window Functions](https://dev.to/edmund_eryuba/designing-efficient-queries-with-sql-joins-and-window-functions-447k)
+- [Built Testream - A Better Alternative for Jira Test Management](https://dev.to/hturan/built-testream-a-better-alternative-for-jira-test-management-ah5)
+- [WinClaw: Auto-Deploy to AWS, Azure &amp; Alibaba Cloud with AI-Powered Conversations](https://dev.to/winclawdev/winclaw-auto-deploy-to-aws-azure-alibaba-cloud-with-ai-powered-conversations-4pjo)
 <!-- BLOG-POST-LIST:END -->
 
 
