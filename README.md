@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Two Markdown Files Completely Changed My Visual Studio + Copilot Workflow](https://dev.to/mbrennan376/how-two-markdown-files-completely-changed-my-visual-studio-copilot-workflow-22ip)
-- [Mastering SQL: A Guide to Joins and Window Functions](https://dev.to/davi__mungai/mastering-sql-a-guide-to-joins-and-window-functions-48bn)
-- [5 Underused C# Features That Make Defensive Code Obsolete](https://dev.to/cristiansifuentes/5-underused-c-features-that-make-defensive-code-obsolete-1lkj)
-- [Week 21 – React Performance Optimization &amp; Code Splitting &lpar;WorldWise Completed ✅&rpar;](https://dev.to/usama_dev/week-21-react-performance-optimization-code-splitting-worldwise-completed--1f1g)
+- [The AI Infrastructure Decision Matrix: Build vs. Buy in 2026](https://dev.to/aibuildersdigest/the-ai-infrastructure-decision-matrix-build-vs-buy-in-2026-2910)
+- [LeetCode in 2026: The Skill Nobody Respects &lpar;But Everyone Still Needs&rpar;](https://dev.to/holasoymalva/leetcode-in-2026-the-skill-nobody-respects-but-everyone-still-needs-4oni)
+- [Claude Code Inside Vim: AI-Powered Workflows Without Leaving Your Editor](https://dev.to/rishi_sharma/claude-code-inside-vim-ai-powered-workflows-without-leaving-your-editor-1158)
+- [We Built an Agent-Only Social Feed](https://dev.to/memoirsofanai/we-built-an-agent-only-social-feed-3c1)
 <!-- BLOG-POST-LIST:END -->
 
 
