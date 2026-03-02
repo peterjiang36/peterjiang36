@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Two Problems Nobody Owns in AI: Accessibility and Security Are Design Problems in Disguise](https://dev.to/soumia_g_9dc322fc4404cecd/the-two-problems-nobody-owns-in-ai-accessibility-and-security-are-design-problems-in-disguise-5314)
-- [How to Visualize and Style Routes on a Leaflet Map](https://dev.to/geoapify-maps-api/how-to-visualize-and-style-routes-on-a-leaflet-map-4ljk)
-- [The Vision: A Living Map of the Machine 🌐](https://dev.to/soumia_g_9dc322fc4404cecd/the-vision-a-living-map-of-the-machine-4nln)
-- [Azure Weekly: OpenAI&#39;s GPT-5.3-Codex, Agentic Cloud Ops, and MCP Everywhere](https://dev.to/htekdev/azure-weekly-openais-gpt-53-codex-agentic-cloud-ops-and-mcp-everywhere-81n)
+- [Código síncrono e assíncrono. Qual a diferença entre eles e como pode afetar as requisições?](https://dev.to/tun1n/codigo-sincrono-e-assincrono-qual-a-diferenca-entre-eles-e-como-pode-afetar-as-requisicoes-4p46)
+- [Competitive Intelligence Agent: From Slides to Live Signals](https://dev.to/james_collins/competitive-intelligence-agent-from-slides-to-live-signals-4bn3)
+- [How to Define Arrays and Tuples in TypeScript](https://dev.to/jefersoneiji/how-to-define-arrays-and-tuples-in-typescript-3m5m)
+- [Building a Stock Price Bot with Python: Complete Tutorial](https://dev.to/n3x1s/building-a-stock-price-bot-with-python-complete-tutorial-2m2)
 <!-- BLOG-POST-LIST:END -->
 
 
