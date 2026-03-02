@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG System with Azure OpenAI and Cognitive Search: Complete Guide](https://dev.to/karleeov/building-a-rag-system-with-azure-openai-and-cognitive-search-complete-guide-e7k)
-- [Neighbour help app](https://dev.to/tjan/neighbour-help-app-f9n)
-- [Clean Architecture in the Age of AI: Preventing Architectural Liquefaction](https://dev.to/uxter/clean-architecture-in-the-age-of-ai-preventing-architectural-liquefaction-5d8d)
-- [State Management in Jetpack Compose: remember, mutableStateOf, and Beyond](https://dev.to/myougatheaxo/state-management-in-jetpack-compose-remember-mutablestateof-and-beyond-4845)
+- [Compose Accessibility Guide — Building a11y-Ready UI](https://dev.to/myougatheaxo/compose-accessibility-guide-building-a11y-ready-ui-5b24)
+- [nabla — Pure Rust GPU math engine: PyTorch-familiar API, zero C++ deps, 4 backends](https://dev.to/guy_d/nabla-pure-rust-gpu-math-engine-pytorch-familiar-api-zero-c-deps-4-backends-apd)
+- [PwnedLabs - Exploit SSRF with Gopher for GCP Initial Access &lpar;Cloud Pentesting&rpar;](https://dev.to/davidonlinearchive/pwnedlabs-exploit-ssrf-with-gopher-for-gcp-initial-access-cloud-pentesting-1h6a)
+- [From Zero to Production: How I Deployed My App on a VPS Without Losing My Mind](https://dev.to/developerbarak/from-zero-to-production-how-i-deployed-my-app-on-a-vps-without-losing-my-mind-58bi)
 <!-- BLOG-POST-LIST:END -->
 
 
