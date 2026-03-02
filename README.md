@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Agent Teams Outperform Solo Agents: 72.2% on SWE-bench Verified](https://dev.to/nikita_benkovich_eb86e54d/coding-agent-teams-outperform-solo-agents-722-on-swe-bench-verified-4of5)
-- [Building a Price Tracker with Python and BeautifulSoup](https://dev.to/n3x1s/building-a-price-tracker-with-python-and-beautifulsoup-mko)
-- [Why Your Backup Strategy Might Be a $100 Million Gamble](https://dev.to/doogal/why-your-backup-strategy-might-be-a-100-million-gamble-552g)
-- [Personalisation Kills Choice](https://dev.to/rawveg/personalisation-kills-choice-3fbd)
+- [The Two Problems Nobody Owns in AI: Accessibility and Security Are Design Problems in Disguise](https://dev.to/soumia_g_9dc322fc4404cecd/the-two-problems-nobody-owns-in-ai-accessibility-and-security-are-design-problems-in-disguise-5314)
+- [How to Visualize and Style Routes on a Leaflet Map](https://dev.to/geoapify-maps-api/how-to-visualize-and-style-routes-on-a-leaflet-map-4ljk)
+- [The Vision: A Living Map of the Machine 🌐](https://dev.to/soumia_g_9dc322fc4404cecd/the-vision-a-living-map-of-the-machine-4nln)
+- [Azure Weekly: OpenAI&#39;s GPT-5.3-Codex, Agentic Cloud Ops, and MCP Everywhere](https://dev.to/htekdev/azure-weekly-openais-gpt-53-codex-agentic-cloud-ops-and-mcp-everywhere-81n)
 <!-- BLOG-POST-LIST:END -->
 
 
