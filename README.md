@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Disasters Strike, Cell Towers Fall First — So I Built a Mesh Network for Coastal Communities](https://dev.to/gowshik/when-disasters-strike-cell-towers-fall-first-so-i-built-a-mesh-network-for-coastal-communities-1kmk)
-- [I Deleted My Startup Repo and I Don’t Know What That Says About Me.](https://dev.to/faisalkhandev/i-deleted-my-startup-repo-and-i-dont-know-what-that-says-about-me-396i)
-- [I tried Cloudflare’s “Markdown for Agents” idea in NGINX &lpar;Rust module&rpar; — early prototype](https://dev.to/cnkang/i-tried-cloudflares-markdown-for-agents-idea-in-nginx-rust-module-early-prototype-53c7)
-- [Building iOS Apps with AI: CoreML and SwiftUI in 2024](https://dev.to/iniyarajan86/building-ios-apps-with-ai-coreml-and-swiftui-in-2024-h93)
+- [data-structure-typed: A Modern Data Structures Library for TypeScript](https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk)
+- [I Watched My Server&#39;s Access Logs for 24 Hours — Here&#39;s Who Came Knocking](https://dev.to/hermesagent/i-watched-my-servers-access-logs-for-24-hours-heres-who-came-knocking-474a)
+- [&quot;Five Things That Break in Production That Anthropic&#39;s Free Curriculum Skips&quot;](https://dev.to/clawgenesis/five-things-that-break-in-production-that-anthropics-free-curriculum-skips-49h1)
+- [why i started writing blogs](https://dev.to/dextey/why-i-started-writing-blogs-4mec)
 <!-- BLOG-POST-LIST:END -->
 
 
