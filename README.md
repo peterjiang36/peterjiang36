@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Can&#39;t Write Code. I Pay $200/Month for AI. My Life Is Now a Hardcore Game.](https://dev.to/yurukusa/i-cant-write-code-i-pay-200month-for-ai-my-life-is-now-a-hardcore-game-552k)
-- [🛠️ I Built a One-Click ComfyUI Setup for RTX 5090 on Windows — No WSL2, No Docker](https://dev.to/genelab_999/i-built-a-one-click-comfyui-setup-for-rtx-5090-on-windows-no-wsl2-no-docker-4n1i)
-- [The Nx Cheatsheet — Commands for Daily Development](https://dev.to/sakthicodes22/the-nx-cheatsheet-commands-for-daily-development-3h4k)
-- [More than a decade of Azure: What I’d Do Again and What I Regret](https://dev.to/ghostinthewire5/more-than-a-decade-of-azure-what-id-do-again-and-what-i-regret-1d99)
+- [Escaping the Sea of Sameness: &quot;Core&quot; Path vs &quot;Creative&quot; Path](https://dev.to/ziadelnagar/escaping-the-sea-of-sameness-core-path-vs-creative-path-31g5)
+- [Why I Built My Own AI Platform on AWS &lpar;and Why You Might Too&rpar;](https://dev.to/tyson_cung/why-i-built-my-own-ai-platform-on-aws-and-why-you-might-too-3mae)
+- [Week 9: Understanding Asynchronous JavaScript](https://dev.to/precix_phantom/week-9-understanding-asynchronous-javascript-5bmg)
+- [Get free XMR to try AI agent financial APIs — no wallet required](https://dev.to/purpleflea/get-free-xmr-to-try-ai-agent-financial-apis-no-wallet-required-beg)
 <!-- BLOG-POST-LIST:END -->
 
 
