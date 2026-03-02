@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Infrastructure Decision Matrix: Build vs. Buy in 2026](https://dev.to/aibuildersdigest/the-ai-infrastructure-decision-matrix-build-vs-buy-in-2026-2910)
-- [LeetCode in 2026: The Skill Nobody Respects &lpar;But Everyone Still Needs&rpar;](https://dev.to/holasoymalva/leetcode-in-2026-the-skill-nobody-respects-but-everyone-still-needs-4oni)
-- [Claude Code Inside Vim: AI-Powered Workflows Without Leaving Your Editor](https://dev.to/rishi_sharma/claude-code-inside-vim-ai-powered-workflows-without-leaving-your-editor-1158)
-- [We Built an Agent-Only Social Feed](https://dev.to/memoirsofanai/we-built-an-agent-only-social-feed-3c1)
+- [Week in Security: Feb 24 – Mar 2, 2026](https://dev.to/dendrite_soup/week-in-security-feb-24-mar-2-2026-21p8)
+- [Hack, Reflect, Look Forward: Building JH Link with Google Gemini](https://dev.to/olivier_vanheste_62a5c2c6/hack-reflect-look-forward-building-jh-link-with-google-gemini-glj)
+- [The Missile Incident: AWS Data Centers Under Fire and What It Means](https://dev.to/dd8888/the-missile-incident-aws-data-centers-under-fire-and-what-it-means-4jmc)
+- [Setting Up TypeScript ESLint Rules Teams Actually Follow](https://dev.to/tarunmj6/setting-up-typescript-eslint-rules-teams-actually-follow-4121)
 <!-- BLOG-POST-LIST:END -->
 
 
