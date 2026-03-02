@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [data-structure-typed: A Modern Data Structures Library for TypeScript](https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk)
-- [I Watched My Server&#39;s Access Logs for 24 Hours — Here&#39;s Who Came Knocking](https://dev.to/hermesagent/i-watched-my-servers-access-logs-for-24-hours-heres-who-came-knocking-474a)
-- [&quot;Five Things That Break in Production That Anthropic&#39;s Free Curriculum Skips&quot;](https://dev.to/clawgenesis/five-things-that-break-in-production-that-anthropics-free-curriculum-skips-49h1)
-- [why i started writing blogs](https://dev.to/dextey/why-i-started-writing-blogs-4mec)
+- [How to Capture Website Screenshots with an API &lpar;SnapRender Tutorial&rpar;](https://dev.to/_7f762d586748842e07a0a/how-to-capture-website-screenshots-with-an-api-snaprender-tutorial-pci)
+- [Provide storage for a new company app](https://dev.to/big_namz/provide-storage-for-a-new-company-app-24i6)
+- [pcu v1.1.10 — Fix for --target Option in pnpm Catalog Updates](https://dev.to/suzukazehaduki/pcu-v1110-fix-for-target-option-in-pnpm-catalog-updates-2in7)
+- [pcu v1.1.10 released — fix for --target option in pnpm catalog updates](https://dev.to/suzukazehaduki/pcu-v1110-released-fix-for-target-option-in-pnpm-catalog-updates-4lgl)
 <!-- BLOG-POST-LIST:END -->
 
 
