@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Pipeline Architecture: From Messy CSVs to Clean Database](https://dev.to/n3x1s/data-pipeline-architecture-from-messy-csvs-to-clean-database-285a)
-- [Designing Efficient Queries with SQL Joins and Window Functions](https://dev.to/edmund_eryuba/designing-efficient-queries-with-sql-joins-and-window-functions-447k)
-- [Built Testream - A Better Alternative for Jira Test Management](https://dev.to/hturan/built-testream-a-better-alternative-for-jira-test-management-ah5)
-- [WinClaw: Auto-Deploy to AWS, Azure &amp; Alibaba Cloud with AI-Powered Conversations](https://dev.to/winclawdev/winclaw-auto-deploy-to-aws-azure-alibaba-cloud-with-ai-powered-conversations-4pjo)
+- [Coding Agent Teams Outperform Solo Agents: 72.2% on SWE-bench Verified](https://dev.to/nikita_benkovich_eb86e54d/coding-agent-teams-outperform-solo-agents-722-on-swe-bench-verified-4of5)
+- [Building a Price Tracker with Python and BeautifulSoup](https://dev.to/n3x1s/building-a-price-tracker-with-python-and-beautifulsoup-mko)
+- [Why Your Backup Strategy Might Be a $100 Million Gamble](https://dev.to/doogal/why-your-backup-strategy-might-be-a-100-million-gamble-552g)
+- [Personalisation Kills Choice](https://dev.to/rawveg/personalisation-kills-choice-3fbd)
 <!-- BLOG-POST-LIST:END -->
 
 
