@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Código síncrono e assíncrono. Qual a diferença entre eles e como pode afetar as requisições?](https://dev.to/tun1n/codigo-sincrono-e-assincrono-qual-a-diferenca-entre-eles-e-como-pode-afetar-as-requisicoes-4p46)
-- [Competitive Intelligence Agent: From Slides to Live Signals](https://dev.to/james_collins/competitive-intelligence-agent-from-slides-to-live-signals-4bn3)
-- [How to Define Arrays and Tuples in TypeScript](https://dev.to/jefersoneiji/how-to-define-arrays-and-tuples-in-typescript-3m5m)
-- [Building a Stock Price Bot with Python: Complete Tutorial](https://dev.to/n3x1s/building-a-stock-price-bot-with-python-complete-tutorial-2m2)
+- [I Can&#39;t Write Code. I Pay $200/Month for AI. My Life Is Now a Hardcore Game.](https://dev.to/yurukusa/i-cant-write-code-i-pay-200month-for-ai-my-life-is-now-a-hardcore-game-552k)
+- [🛠️ I Built a One-Click ComfyUI Setup for RTX 5090 on Windows — No WSL2, No Docker](https://dev.to/genelab_999/i-built-a-one-click-comfyui-setup-for-rtx-5090-on-windows-no-wsl2-no-docker-4n1i)
+- [The Nx Cheatsheet — Commands for Daily Development](https://dev.to/sakthicodes22/the-nx-cheatsheet-commands-for-daily-development-3h4k)
+- [More than a decade of Azure: What I’d Do Again and What I Regret](https://dev.to/ghostinthewire5/more-than-a-decade-of-azure-what-id-do-again-and-what-i-regret-1d99)
 <!-- BLOG-POST-LIST:END -->
 
 
