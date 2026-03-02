@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Capture Website Screenshots with an API &lpar;SnapRender Tutorial&rpar;](https://dev.to/_7f762d586748842e07a0a/how-to-capture-website-screenshots-with-an-api-snaprender-tutorial-pci)
-- [Provide storage for a new company app](https://dev.to/big_namz/provide-storage-for-a-new-company-app-24i6)
-- [pcu v1.1.10 — Fix for --target Option in pnpm Catalog Updates](https://dev.to/suzukazehaduki/pcu-v1110-fix-for-target-option-in-pnpm-catalog-updates-2in7)
-- [pcu v1.1.10 released — fix for --target option in pnpm catalog updates](https://dev.to/suzukazehaduki/pcu-v1110-released-fix-for-target-option-in-pnpm-catalog-updates-4lgl)
+- [Missing My Coworker Jason Today](https://dev.to/art_light/missing-my-coworker-jason-today-23h3)
+- [Control Gemini with Just a URL. The Chrome Extension &quot;Send to Gemini&quot; Is Incredibly Useful](https://dev.to/takoyaki1/control-gemini-with-just-a-url-the-chrome-extension-send-to-gemini-is-incredibly-useful-b8d)
+- [Solved: Trying to expand my business from abroad into the States. Any pointers?](https://dev.to/techresolve/solved-trying-to-expand-my-business-from-abroad-into-the-states-any-pointers-4d69)
+- [3 Vite Tricks I Wish I Knew When I Started](https://dev.to/bishoy_bishai/3-vite-tricks-i-wish-i-knew-when-i-started-m64)
 <!-- BLOG-POST-LIST:END -->
 
 
