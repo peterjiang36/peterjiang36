@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando uma arquitetura de microsserviços para organização de decks Yu-Gi-Oh com Spring Boot – Parte 03](https://dev.to/odevpedro/criando-uma-arquitetura-de-microsservicos-para-organizacao-de-decks-yu-gi-oh-com-spring-boot--1oh9)
-- [Never Repeat Yourself: Give Your LLM Apps Persistent Memory with ContextMD](https://dev.to/subham_kundu_335580d3c8e4/never-repeat-yourself-give-your-llm-apps-persistent-memory-with-contextmd-lh3)
-- [The agent economy is here: AI agents earning and spending money autonomously](https://dev.to/purpleflea/the-agent-economy-is-here-ai-agents-earning-and-spending-money-autonomously-3oh5)
-- [Building Multi-Model AI Agents with OpenAI, Ollama, Groq and Gemini](https://dev.to/redoh/building-multi-model-ai-agents-with-openai-ollama-groq-and-gemini-3mga)
+- [Building a RAG System with Azure OpenAI and Cognitive Search: Complete Guide](https://dev.to/karleeov/building-a-rag-system-with-azure-openai-and-cognitive-search-complete-guide-e7k)
+- [Neighbour help app](https://dev.to/tjan/neighbour-help-app-f9n)
+- [Clean Architecture in the Age of AI: Preventing Architectural Liquefaction](https://dev.to/uxter/clean-architecture-in-the-age-of-ai-preventing-architectural-liquefaction-5d8d)
+- [State Management in Jetpack Compose: remember, mutableStateOf, and Beyond](https://dev.to/myougatheaxo/state-management-in-jetpack-compose-remember-mutablestateof-and-beyond-4845)
 <!-- BLOG-POST-LIST:END -->
 
 
