@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI Roadmap &lpar;By Deeplearning.ai&rpar;](https://dev.to/jenil_sheth_3eb6f86dc4900/genai-roadmap-by-deeplearningai-2gl6)
-- [I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT](https://dev.to/john_yesh38/i-built-a-subscription-pricing-api-because-every-ai-agent-gives-you-wrong-prices-for-netflix-517j)
-- [The Introduction - Journey to Data Analyst](https://dev.to/essym_19/the-introduction-107d)
-- [What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer &lpar;Production Case Study&rpar;](https://dev.to/azimkhan72/what-changed-in-our-document-ai-pipeline-after-adding-a-deep-search-layer-production-case-study-32b1)
+- [When Disasters Strike, Cell Towers Fall First — So I Built a Mesh Network for Coastal Communities](https://dev.to/gowshik/when-disasters-strike-cell-towers-fall-first-so-i-built-a-mesh-network-for-coastal-communities-1kmk)
+- [I Deleted My Startup Repo and I Don’t Know What That Says About Me.](https://dev.to/faisalkhandev/i-deleted-my-startup-repo-and-i-dont-know-what-that-says-about-me-396i)
+- [I tried Cloudflare’s “Markdown for Agents” idea in NGINX &lpar;Rust module&rpar; — early prototype](https://dev.to/cnkang/i-tried-cloudflares-markdown-for-agents-idea-in-nginx-rust-module-early-prototype-53c7)
+- [Building iOS Apps with AI: CoreML and SwiftUI in 2024](https://dev.to/iniyarajan86/building-ios-apps-with-ai-coreml-and-swiftui-in-2024-h93)
 <!-- BLOG-POST-LIST:END -->
 
 
