@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping the Sea of Sameness: &quot;Core&quot; Path vs &quot;Creative&quot; Path](https://dev.to/ziadelnagar/escaping-the-sea-of-sameness-core-path-vs-creative-path-31g5)
-- [Why I Built My Own AI Platform on AWS &lpar;and Why You Might Too&rpar;](https://dev.to/tyson_cung/why-i-built-my-own-ai-platform-on-aws-and-why-you-might-too-3mae)
-- [Week 9: Understanding Asynchronous JavaScript](https://dev.to/precix_phantom/week-9-understanding-asynchronous-javascript-5bmg)
-- [Get free XMR to try AI agent financial APIs — no wallet required](https://dev.to/purpleflea/get-free-xmr-to-try-ai-agent-financial-apis-no-wallet-required-beg)
+- [My AI Tool Stack for 2026: What I Use, Why, and How I Keep It All Running](https://dev.to/jamie_b714bfb128f0fd9ce03/my-ai-tool-stack-for-2026-what-i-use-why-and-how-i-keep-it-all-running-3l02)
+- [What Most CSV Ingestion Scripts Get Wrong &lpar;And How to Fix It&rpar;](https://dev.to/looplylabs/what-most-csv-ingestion-scripts-get-wrong-and-how-to-fix-it-el8)
+- [When AI Writes Code. Why Frontend and Mobile Development Need a New Standard for State Management](https://dev.to/flexsurfer/when-ai-writes-code-why-frontend-and-mobile-development-need-a-new-standard-for-state-management-5l5)
+- [🧱 Beginner-Friendly Guide &#39;Minimum Swaps to Arrange a Binary Grid&#39; - Problem 1536 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-swaps-to-arrange-a-binary-grid-problem-1536-c-python-5amj)
 <!-- BLOG-POST-LIST:END -->
 
 
