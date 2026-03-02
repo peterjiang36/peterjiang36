@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Tool Stack for 2026: What I Use, Why, and How I Keep It All Running](https://dev.to/jamie_b714bfb128f0fd9ce03/my-ai-tool-stack-for-2026-what-i-use-why-and-how-i-keep-it-all-running-3l02)
-- [What Most CSV Ingestion Scripts Get Wrong &lpar;And How to Fix It&rpar;](https://dev.to/looplylabs/what-most-csv-ingestion-scripts-get-wrong-and-how-to-fix-it-el8)
-- [When AI Writes Code. Why Frontend and Mobile Development Need a New Standard for State Management](https://dev.to/flexsurfer/when-ai-writes-code-why-frontend-and-mobile-development-need-a-new-standard-for-state-management-5l5)
-- [🧱 Beginner-Friendly Guide &#39;Minimum Swaps to Arrange a Binary Grid&#39; - Problem 1536 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-swaps-to-arrange-a-binary-grid-problem-1536-c-python-5amj)
+- [How I taught Claude to see inside Unreal Engine](https://dev.to/colton_willey_ef3d8727ae9/how-i-taught-claude-to-see-inside-unreal-engine-23a9)
+- [Good and Bad Navigation Patterns for Long HTML Pages](https://dev.to/alexiskypridemos/good-and-bad-navigation-patterns-for-long-html-pages-55d3)
+- [Gemini said Why Security is Always Late: Economics, Zero-Days, and Attacker Math](https://dev.to/zerocool_2012/gemini-saidwhy-security-is-always-late-economics-zero-days-and-attacker-math-gd2)
+- [I built a free JSON toolkit with 68+ tools &lpar;security scanner, 19 language converters, offline PWA&rpar;](https://dev.to/jsonwebtools/i-built-a-free-json-toolkit-with-68-tools-security-scanner-19-language-converters-offline-5c9g)
 <!-- BLOG-POST-LIST:END -->
 
 
