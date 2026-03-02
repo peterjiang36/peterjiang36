@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Real Reason Your RAG Dies in Production — Your Vector DB Is Full of Garbage](https://dev.to/dosanko_tousan/the-real-reason-your-rag-dies-in-production-your-vector-db-is-full-of-garbage-55ie)
-- [STREET FIX: Community Resource Sharing App for Informal Settlements](https://dev.to/johsam_ef/street-fix-community-resource-sharing-app-for-informal-settlements-2fpe)
-- [Bridgy: Helping Overwhelmed Communities Choose the Right Tool, Not Another Tool](https://dev.to/agastya_khati_f72c89077c8/bridgy-helping-overwhelmed-communities-choose-the-right-tool-not-another-tool-1p5p)
-- [Control Claude Code and Other AI Coding Agents from Your Phone](https://dev.to/lightningdev123/control-claude-code-and-other-ai-coding-agents-from-your-phone-156p)
+- [Generate a CSR on Tableau Server](https://dev.to/edenallen/generate-a-csr-on-tableau-server-akm)
+- [Small weekend hack Daily JavaScript quotes via GitHub Actions. No backend required.](https://dev.to/sushantrahate/small-weekend-hack-daily-javascript-quotes-via-github-actions-no-backend-required-49b8)
+- [PawRover:A Community-Driven Solution for Pet Care](https://dev.to/sujankoirala021/pawrovera-community-driven-solution-for-pet-care-3le1)
+- [How to Supercharge Your OpenClaw Agent with Clamper](https://dev.to/clamper_ai/how-to-supercharge-your-openclaw-agent-with-clamper-5bkl)
 <!-- BLOG-POST-LIST:END -->
 
 
