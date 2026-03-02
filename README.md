@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate a CSR on Tableau Server](https://dev.to/edenallen/generate-a-csr-on-tableau-server-akm)
-- [Small weekend hack Daily JavaScript quotes via GitHub Actions. No backend required.](https://dev.to/sushantrahate/small-weekend-hack-daily-javascript-quotes-via-github-actions-no-backend-required-49b8)
-- [PawRover:A Community-Driven Solution for Pet Care](https://dev.to/sujankoirala021/pawrovera-community-driven-solution-for-pet-care-3le1)
-- [How to Supercharge Your OpenClaw Agent with Clamper](https://dev.to/clamper_ai/how-to-supercharge-your-openclaw-agent-with-clamper-5bkl)
+- [GenAI Roadmap &lpar;By Deeplearning.ai&rpar;](https://dev.to/jenil_sheth_3eb6f86dc4900/genai-roadmap-by-deeplearningai-2gl6)
+- [I Built a Subscription Pricing API — Because Every AI Agent Gives You Wrong Prices for Netflix, Spotify, and ChatGPT](https://dev.to/john_yesh38/i-built-a-subscription-pricing-api-because-every-ai-agent-gives-you-wrong-prices-for-netflix-517j)
+- [The Introduction - Journey to Data Analyst](https://dev.to/essym_19/the-introduction-107d)
+- [What Changed in Our Document-AI Pipeline After Adding a Deep-Search Layer &lpar;Production Case Study&rpar;](https://dev.to/azimkhan72/what-changed-in-our-document-ai-pipeline-after-adding-a-deep-search-layer-production-case-study-32b1)
 <!-- BLOG-POST-LIST:END -->
 
 
