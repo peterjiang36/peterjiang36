@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup NestJS with Prisma and PostgreSQL &lpar;2026 Complete Guide&rpar;](https://dev.to/manendrav/how-to-set-up-nestjs-with-prisma-and-postgresql-2026-complete-guide-2da7)
-- [Docker Compose para Agentes de IA: O que realmente mudou &lpar;e o que você precisa saber agora&rpar;](https://dev.to/rflpazini/docker-compose-para-agentes-de-ia-o-que-realmente-mudou-e-o-que-voce-precisa-saber-agora-411p)
-- [Scroll-Based Text Reveal Effect Using Pure CSS &lpar;No JS, No Motion Library&rpar;](https://dev.to/pawar-shivam7/scroll-based-text-reveal-effect-using-pure-css-no-js-no-motion-library-34oa)
-- [The Importance of Whistleblower Protections in Promoting Transparency and Accountability](https://dev.to/mystrix/the-importance-of-whistleblower-protections-in-promoting-transparency-and-accountability-2833)
+- [The &quot;bus factor&quot; risk in MongoDB, MariaDB, Redis, MySQL, PostgreSQL, and SQLite](https://dev.to/alejandro_du/the-bus-factor-risk-in-mongodb-mariadb-redis-mysql-postgresql-and-sqlite-24dh)
+- [The Myth of the “Average User” in Product Design](https://dev.to/ariana_1cd1f38541bf6cd69f/the-myth-of-the-average-user-in-product-design-1d9f)
+- [Deepening My DevOps &amp; Cloud Journey with AWS 🚀](https://dev.to/itzgamboa/deepening-my-devops-cloud-journey-with-aws-1c2j)
+- [Only 25% of developers regularly use AI agents, according to Sonar&#39;s survey.
+
+90% of respondents use AI for assisting development. But only 55% of them rate AI as “extremely or very effective.”](https://dev.to/canro91/only-25-of-developers-regularly-use-ai-agents-according-to-sonars-survey-90-of-1hna)
 <!-- BLOG-POST-LIST:END -->
 
 
