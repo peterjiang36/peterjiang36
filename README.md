@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
-- [Why Linear AI Chains Are Dead: The Rise of Cyclical Agentic Loops](https://dev.to/programmingcentral/why-linear-ai-chains-are-dead-the-rise-of-cyclical-agentic-loops-5fib)
-- [Building a Production-Grade RAG System &lpar;Not Just a Demo&rpar;](https://dev.to/ritwikareddykancharla/building-a-production-grade-rag-system-not-just-a-demo-2l0p)
-- [Index Key Format in SQLite](https://dev.to/lovestaco/index-key-format-in-sqlite-40pn)
+- [Is There a Middle Ground Between Vibe Coding and Spec Driven Development?](https://dev.to/incomplete_developer/is-there-a-middle-ground-between-vibe-coding-and-spec-driven-development-31ek)
+- [MycelK — Phase 1 : NodeId, XOR distance et Kbuckets](https://dev.to/matthamoros/mycelk-phase-1-nodeid-xor-distance-et-routing-table-en-rust-35jo)
+- [A/B Testing LLM Systems](https://dev.to/ritwikareddykancharla/ab-testing-llm-systems-2mb6)
+- [How to Use ChatGPT Effectively without Losing your Developer Skills](https://dev.to/pbbdesign/how-to-use-chatgpt-effectively-without-losing-your-developer-skills-7i4)
 <!-- BLOG-POST-LIST:END -->
 
 
