@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pilot Program is open. Access-first authentication in production.](https://dev.to/antonmb/pilot-program-is-open-access-first-authentication-in-production-6no)
-- [Why Every MCP Setup Guide Is Teaching You to Store API Keys Wrong](https://dev.to/the_seventeen/why-every-mcp-setup-guide-is-teaching-you-to-store-api-keys-wrong-4ghf)
-- [I built a local-first AI prompt manager — here is why offline-first was worth the extra complexity](https://dev.to/wilxai/i-built-a-local-first-ai-prompt-manager-here-is-why-offline-first-was-worth-the-extra-complexity-4ao7)
-- [The 5 Silent Killers of macOS Development Environments](https://dev.to/mazharul/the-5-silent-killers-of-macos-development-environments-95n)
+- [Add MySQL Functions to SQLite in Laravel Tests](https://dev.to/recca0120/add-mysql-functions-to-sqlite-in-laravel-tests-3b6i)
+- [Fix Laravel Eloquent Memory Leak with Large Datasets](https://dev.to/recca0120/fix-laravel-eloquent-memory-leak-with-large-datasets-4ocn)
+- [3 Ways to Eliminate Duplicate HTML Blocks in Blade Templates](https://dev.to/recca0120/3-ways-to-eliminate-duplicate-html-blocks-in-blade-templates-kji)
+- [Mock IteratorAggregate with Mockery to Fix foreach in Tests](https://dev.to/recca0120/mock-iteratoraggregate-with-mockery-to-fix-foreach-in-tests-1kpo)
 <!-- BLOG-POST-LIST:END -->
 
 
