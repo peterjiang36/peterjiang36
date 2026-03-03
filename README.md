@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Monitor MySQL Metrics with OpenTelemetry](https://dev.to/ankit01oss/how-to-monitor-mysql-metrics-with-opentelemetry-5ga1)
-- [Memcached Metrics Monitoring with OpenTelemetry](https://dev.to/ankit01oss/memcached-metrics-monitoring-with-opentelemetry-ma8)
-- [Nginx Metrics and Logs Monitoring with OpenTelemetry](https://dev.to/ankit01oss/nginx-metrics-and-logs-monitoring-with-opentelemetry-55og)
-- [Kubernetes Cluster Monitoring with OpenTelemetry | Complete Tutorial](https://dev.to/ankit01oss/kubernetes-cluster-monitoring-with-opentelemetry-complete-tutorial-45m5)
+- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8)
+- [Build a voice agent in JavaScript with Vercel AI SDK](https://dev.to/mkp_bijit/build-a-voice-agent-in-javascript-with-vercel-ai-sdk-1dc3)
+- [Slapping Secondary Indexes on Random Fields is Silently Killing Your Database.](https://dev.to/opeyemi_oluwagbemiga_a213/slapping-secondary-indexes-on-random-fields-is-silently-killing-your-database-15p3)
+- [How I Overcame the Optimization Wall by Implementing the Augmented Lagrangian Method &lpar;ALM&rpar; with AI](https://dev.to/yassan8/how-i-overcame-the-optimization-wall-by-implementing-the-augmented-lagrangian-method-alm-with-ai-4moa)
 <!-- BLOG-POST-LIST:END -->
 
 
