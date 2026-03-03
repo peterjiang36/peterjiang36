@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two small systems that taught me real-world engineering better than any job ticket](https://dev.to/srijansingh/two-small-systems-that-taught-me-real-world-engineering-better-than-any-job-ticket-4b89)
-- [How I Replaced LLM-Based Code Analysis with Static Analysis &lpar;And Got Better Results&rpar;](https://dev.to/ayame0328/how-i-replaced-llm-based-code-analysis-with-static-analysis-and-got-better-results-43nl)
-- [Building a Cost-Efficient Serverless Resume on Azure](https://dev.to/kloudwiz/building-a-cost-efficient-serverless-resume-on-azure-4bjb)
-- [Running a Free Domain Infrastructure Serving 400,000 Users](https://dev.to/edwardhsing/running-a-free-domain-infrastructure-serving-400000-users-2ok3)
+- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
+- [I ran cursor-doctor on 50 real projects. Here&#39;s what broke.](https://dev.to/nedcodes/i-ran-cursor-doctor-on-50-real-projects-heres-what-broke-14ba)
+- [Stop Writing .subscribe&lpar;&rpar; in Angular Components — Use toSignal Instead](https://dev.to/paszekdev/stop-writing-subscribe-in-angular-components-use-tosignal-instead-bom)
+- [Mocking HTTP Services in PHP with Phiremock](https://dev.to/brunohsouza/mocking-http-services-in-php-with-phiremock-aa7)
 <!-- BLOG-POST-LIST:END -->
 
 
