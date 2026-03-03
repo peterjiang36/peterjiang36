@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add MySQL Functions to SQLite in Laravel Tests](https://dev.to/recca0120/add-mysql-functions-to-sqlite-in-laravel-tests-3b6i)
-- [Fix Laravel Eloquent Memory Leak with Large Datasets](https://dev.to/recca0120/fix-laravel-eloquent-memory-leak-with-large-datasets-4ocn)
-- [3 Ways to Eliminate Duplicate HTML Blocks in Blade Templates](https://dev.to/recca0120/3-ways-to-eliminate-duplicate-html-blocks-in-blade-templates-kji)
-- [Mock IteratorAggregate with Mockery to Fix foreach in Tests](https://dev.to/recca0120/mock-iteratoraggregate-with-mockery-to-fix-foreach-in-tests-1kpo)
+- [Claude Code, 깔아놓고 채팅만 하고 있다면 — CLAUDE.md, Hooks, MCP 설정법](https://dev.to/ji_ai/claude-code-ggalanohgo-caetingman-hago-issdamyeon-claudemd-hooks-mcp-seoljeongbeob-3o18)
+- [If You Installed Claude Code and Only Chat With It — You’re Missing the Point](https://dev.to/ji_ai/if-you-installed-claude-code-and-only-chat-with-it-youre-missing-the-point-4elg)
+- [Claude API로 앱 만들기 — Tool Use, RAG, Agent 패턴 전부 정리](https://dev.to/ji_ai/claude-apiro-aeb-mandeulgi-tool-use-rag-agent-paeteon-jeonbu-jeongri-g57)
+- [Building Real Apps With the Claude API — Tool Use, RAG, and Agent Patterns Explained](https://dev.to/ji_ai/building-real-apps-with-the-claude-api-tool-use-rag-and-agent-patterns-explained-kcb)
 <!-- BLOG-POST-LIST:END -->
 
 
