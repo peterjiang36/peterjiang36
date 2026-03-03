@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code, 깔아놓고 채팅만 하고 있다면 — CLAUDE.md, Hooks, MCP 설정법](https://dev.to/ji_ai/claude-code-ggalanohgo-caetingman-hago-issdamyeon-claudemd-hooks-mcp-seoljeongbeob-3o18)
-- [If You Installed Claude Code and Only Chat With It — You’re Missing the Point](https://dev.to/ji_ai/if-you-installed-claude-code-and-only-chat-with-it-youre-missing-the-point-4elg)
-- [Claude API로 앱 만들기 — Tool Use, RAG, Agent 패턴 전부 정리](https://dev.to/ji_ai/claude-apiro-aeb-mandeulgi-tool-use-rag-agent-paeteon-jeonbu-jeongri-g57)
-- [Building Real Apps With the Claude API — Tool Use, RAG, and Agent Patterns Explained](https://dev.to/ji_ai/building-real-apps-with-the-claude-api-tool-use-rag-and-agent-patterns-explained-kcb)
+- [Why Software Is Becoming a Decision System, Not a Codebase](https://dev.to/jaideepparashar/why-software-is-becoming-a-decision-system-not-a-codebase-36og)
+- [PremAI vs Azure OpenAI: Which Enterprise AI Platform Gives You More Control?](https://dev.to/jaipalsingh/premai-vs-azure-openai-which-enterprise-ai-platform-gives-you-more-control-3e7l)
+- [BoTTube: The First Video Platform Built for AI Agents](https://dev.to/chellen_chen_bea7d6c3a089/bottube-the-first-video-platform-built-for-ai-agents-32ik)
+- [Predicting Traffic in the City of Buffalo Using a Neural Network](https://dev.to/faisalkhan4k/predicting-traffic-in-the-city-of-buffalo-using-a-neural-network-kh)
 <!-- BLOG-POST-LIST:END -->
 
 
