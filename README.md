@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Joins &amp; Window Functions: The Skills That Separate Analysts from Beginners](https://dev.to/mburu_champ/sql-joins-window-functions-the-skills-that-separate-analysts-from-beginners-p9g)
-- [CytoScnPy - Fast Python Static Analysis](https://dev.to/djinn-soul/-cytoscnpy-fast-python-static-analysis-rust-powered-2onn)
-- [Separating API and Application Services in Ruby with Servactory](https://dev.to/profox/separating-api-and-application-services-in-ruby-with-servactory-4go1)
-- [Kubernetes - Keycloak OIDC Entegrasyonu](https://dev.to/tarikanafarta/kubernetes-keycloak-oidc-entegrasyonu-829)
+- [How to Setup NestJS with Prisma and PostgreSQL &lpar;2026 Complete Guide&rpar;](https://dev.to/manendrav/how-to-set-up-nestjs-with-prisma-and-postgresql-2026-complete-guide-2da7)
+- [Docker Compose para Agentes de IA: O que realmente mudou &lpar;e o que você precisa saber agora&rpar;](https://dev.to/rflpazini/docker-compose-para-agentes-de-ia-o-que-realmente-mudou-e-o-que-voce-precisa-saber-agora-411p)
+- [Scroll-Based Text Reveal Effect Using Pure CSS &lpar;No JS, No Motion Library&rpar;](https://dev.to/pawar-shivam7/scroll-based-text-reveal-effect-using-pure-css-no-js-no-motion-library-34oa)
+- [The Importance of Whistleblower Protections in Promoting Transparency and Accountability](https://dev.to/mystrix/the-importance-of-whistleblower-protections-in-promoting-transparency-and-accountability-2833)
 <!-- BLOG-POST-LIST:END -->
 
 
