@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Our Next.js 15 App Lost 80% of Its Traffic Overnight &lpar;And How We Fixed It&rpar; 📉](https://dev.to/shue_zheng_a1d2e9cc33f6fd/why-our-nextjs-15-app-lost-80-of-its-traffic-overnight-and-how-we-fixed-it-4ke4)
-- [How I Built an AI RAG App MVP with Lovable &lpar;Step-by-Step&rpar;](https://dev.to/ebereplenty/how-i-built-an-ai-rag-app-mvp-with-lovable-step-by-step-1708)
-- [Learn n8n Automation in 1 Hour – Complete Beginner Guide](https://dev.to/ebereplenty/learn-n8n-automation-in-1-hour-complete-beginner-guide-1i8c)
-- [Mobile App Onboarding Explained: The Key to Activation and Retention](https://dev.to/digia_studio/mobile-app-onboarding-explained-the-key-to-activation-and-retention-8i8)
+- [Retro-imprimiendo &lpar;y II&rpar;](https://dev.to/baltasarq/retro-imprimiendo-y-ii-l9)
+- [The Easiest Way to Sync Stripe Data to Neon Postgres](https://dev.to/ilshadyx/the-easiest-way-to-sync-stripe-data-to-neon-postgres-4ji9)
+- [How to Store API Keys for AI Agents Securely](https://dev.to/the_seventeen/how-to-store-api-keys-for-ai-agents-securely-11kg)
+- [Replacing a Rule Engine with AI: A Solo Developer Decision](https://dev.to/jairo-dev-jr/replacing-a-rule-engine-with-ai-a-solo-developer-decision-37jf)
 <!-- BLOG-POST-LIST:END -->
 
 
