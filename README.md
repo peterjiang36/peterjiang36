@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Pointed Claude Code at My Hackathon API. It Built the Public Website](https://dev.to/restdbjones/i-pointed-claude-code-at-my-hackathon-api-it-built-the-public-website-4j7p)
-- [Postman&#39;s Free Plan Is Now Limited to 1 User &lpar;Here’s the Alternative&rpar;](https://dev.to/auden/postmans-free-plan-is-now-limited-to-1-user-heres-the-alternative-250c)
-- [Building a Universal Memory Layer for AI Agents: Architecture Patterns and Implementation](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-architecture-patterns-and-implementation-4b5h)
-- [Adding Traffic Prioritization to Node.js: The Story Behind setTypeOfService](https://dev.to/amyssnippet/adding-traffic-prioritization-to-nodejs-the-story-behind-settypeofservice-21al)
+- [Depmender vNext: Introducing the New Config Folder &lpar;Full Custom Control for Your Project&rpar;](https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa)
+- [DocumentDB on Kubernetes: Resilient, Highly Available Databases with Automatic Failover](https://dev.to/abhirockzz/documentdb-on-kubernetes-resilient-highly-available-databases-with-automatic-failover-ak7)
+- [Part-3 Functional Interface &lpar;Consumer&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-3-functional-interface-consumer-1fia)
+- [The Golang](https://dev.to/lbvf50mobile/the-golang-d20)
 <!-- BLOG-POST-LIST:END -->
 
 
