@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Software Is Becoming a Decision System, Not a Codebase](https://dev.to/jaideepparashar/why-software-is-becoming-a-decision-system-not-a-codebase-36og)
-- [PremAI vs Azure OpenAI: Which Enterprise AI Platform Gives You More Control?](https://dev.to/jaipalsingh/premai-vs-azure-openai-which-enterprise-ai-platform-gives-you-more-control-3e7l)
-- [BoTTube: The First Video Platform Built for AI Agents](https://dev.to/chellen_chen_bea7d6c3a089/bottube-the-first-video-platform-built-for-ai-agents-32ik)
-- [Predicting Traffic in the City of Buffalo Using a Neural Network](https://dev.to/faisalkhan4k/predicting-traffic-in-the-city-of-buffalo-using-a-neural-network-kh)
+- [How to Monitor MySQL Metrics with OpenTelemetry](https://dev.to/ankit01oss/how-to-monitor-mysql-metrics-with-opentelemetry-5ga1)
+- [Memcached Metrics Monitoring with OpenTelemetry](https://dev.to/ankit01oss/memcached-metrics-monitoring-with-opentelemetry-ma8)
+- [Nginx Metrics and Logs Monitoring with OpenTelemetry](https://dev.to/ankit01oss/nginx-metrics-and-logs-monitoring-with-opentelemetry-55og)
+- [Kubernetes Cluster Monitoring with OpenTelemetry | Complete Tutorial](https://dev.to/ankit01oss/kubernetes-cluster-monitoring-with-opentelemetry-complete-tutorial-45m5)
 <!-- BLOG-POST-LIST:END -->
 
 
