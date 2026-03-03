@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EXPLORING SQL JOINS AND WINDOWS](https://dev.to/beverline_otiende_6d3045c/exploring-sql-joins-and-windows-41g7)
-- [I built a 6-pass security scanner for OpenClaw skills after 824 malicious ones were found on ClawHub](https://dev.to/bazzz/i-built-a-6-pass-security-scanner-for-openclaw-skills-after-824-malicious-ones-were-found-on-clawhub-2n05)
-- [Part-4 Functional Interface&lpar;Function&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-4-functional-interfacefunction-3555)
-- [I Built My Studio Website &lpar;Zyklabs&rpar; — Roast It, Review It, Improve It](https://dev.to/devcodehub99/i-built-my-studio-website-zyklabs-roast-it-review-it-improve-it-50id)
+- [[Boost]](https://dev.to/anthonymax/-21bk)
+- [# 🐛 How a Missing `finally` Block Was Eating 300MB of RAM Per Failed Scrape](https://dev.to/antoniosthanasisgit/-how-a-missing-finally-block-was-eating-300mb-of-ram-per-failed-scrape-5179)
+- [I Was Flying Blind in Production. Then I Found DeepTracer.](https://dev.to/deeptracer_gautam/i-was-flying-blind-in-production-then-i-found-deeptracer-11nj)
+- [Optimizing Vector Search](https://dev.to/devbymansi/optimizing-vector-search-1i0c)
 <!-- BLOG-POST-LIST:END -->
 
 
