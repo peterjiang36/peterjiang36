@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Browser-Based Pixel Art Tool with Gemini](https://dev.to/rohan_mirjankar/building-a-browser-based-pixel-art-tool-with-gemini-4866)
-- [Detecting Hidden Table Relationships with Inclusion-Based Field Analysis](https://dev.to/hello_arisyn_0dc948aa82b3/detecting-hidden-table-relationships-with-inclusion-based-field-analysis-nkp)
-- [How Zero-Knowledge File Sharing Works: AES-256-GCM in the Browser](https://dev.to/fileshot_9818357dbe6cc693/how-zero-knowledge-file-sharing-works-aes-256-gcm-in-the-browser-49mo)
-- [GRC Sounds Scary — Until You Realize You’re Already Doing It!!](https://dev.to/rieesteves/grc-sounds-scary-until-you-realize-youre-already-doing-it-3af3)
+- [Two small systems that taught me real-world engineering better than any job ticket](https://dev.to/srijansingh/two-small-systems-that-taught-me-real-world-engineering-better-than-any-job-ticket-4b89)
+- [How I Replaced LLM-Based Code Analysis with Static Analysis &lpar;And Got Better Results&rpar;](https://dev.to/ayame0328/how-i-replaced-llm-based-code-analysis-with-static-analysis-and-got-better-results-43nl)
+- [Building a Cost-Efficient Serverless Resume on Azure](https://dev.to/kloudwiz/building-a-cost-efficient-serverless-resume-on-azure-4bjb)
+- [Running a Free Domain Infrastructure Serving 400,000 Users](https://dev.to/edwardhsing/running-a-free-domain-infrastructure-serving-400000-users-2ok3)
 <!-- BLOG-POST-LIST:END -->
 
 
