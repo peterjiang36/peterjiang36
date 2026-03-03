@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Retro-imprimiendo &lpar;y II&rpar;](https://dev.to/baltasarq/retro-imprimiendo-y-ii-l9)
-- [The Easiest Way to Sync Stripe Data to Neon Postgres](https://dev.to/ilshadyx/the-easiest-way-to-sync-stripe-data-to-neon-postgres-4ji9)
-- [How to Store API Keys for AI Agents Securely](https://dev.to/the_seventeen/how-to-store-api-keys-for-ai-agents-securely-11kg)
-- [Replacing a Rule Engine with AI: A Solo Developer Decision](https://dev.to/jairo-dev-jr/replacing-a-rule-engine-with-ai-a-solo-developer-decision-37jf)
+- [SQL Joins &amp; Window Functions: The Skills That Separate Analysts from Beginners](https://dev.to/mburu_champ/sql-joins-window-functions-the-skills-that-separate-analysts-from-beginners-p9g)
+- [CytoScnPy - Fast Python Static Analysis](https://dev.to/djinn-soul/-cytoscnpy-fast-python-static-analysis-rust-powered-2onn)
+- [Separating API and Application Services in Ruby with Servactory](https://dev.to/profox/separating-api-and-application-services-in-ruby-with-servactory-4go1)
+- [Kubernetes - Keycloak OIDC Entegrasyonu](https://dev.to/tarikanafarta/kubernetes-keycloak-oidc-entegrasyonu-829)
 <!-- BLOG-POST-LIST:END -->
 
 
