@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-21bk)
-- [# 🐛 How a Missing `finally` Block Was Eating 300MB of RAM Per Failed Scrape](https://dev.to/antoniosthanasisgit/-how-a-missing-finally-block-was-eating-300mb-of-ram-per-failed-scrape-5179)
-- [I Was Flying Blind in Production. Then I Found DeepTracer.](https://dev.to/deeptracer_gautam/i-was-flying-blind-in-production-then-i-found-deeptracer-11nj)
-- [Optimizing Vector Search](https://dev.to/devbymansi/optimizing-vector-search-1i0c)
+- [Why Our Next.js 15 App Lost 80% of Its Traffic Overnight &lpar;And How We Fixed It&rpar; 📉](https://dev.to/shue_zheng_a1d2e9cc33f6fd/why-our-nextjs-15-app-lost-80-of-its-traffic-overnight-and-how-we-fixed-it-4ke4)
+- [How I Built an AI RAG App MVP with Lovable &lpar;Step-by-Step&rpar;](https://dev.to/ebereplenty/how-i-built-an-ai-rag-app-mvp-with-lovable-step-by-step-1708)
+- [Learn n8n Automation in 1 Hour – Complete Beginner Guide](https://dev.to/ebereplenty/learn-n8n-automation-in-1-hour-complete-beginner-guide-1i8c)
+- [Mobile App Onboarding Explained: The Key to Activation and Retention](https://dev.to/digia_studio/mobile-app-onboarding-explained-the-key-to-activation-and-retention-8i8)
 <!-- BLOG-POST-LIST:END -->
 
 
