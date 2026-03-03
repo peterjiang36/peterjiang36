@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Fast Models to OT CVEs: Shipping Faster Without Shipping Blind](https://dev.to/victorstackai/from-fast-models-to-ot-cves-shipping-faster-without-shipping-blind-1o24)
-- [גם כשאני בגלות של זהב, קלוד קוד ממשיך לעבוד בשבילי. אני הולך לישון סומך עליו ...](https://dev.to/__4766e6d50a94a/gm-kshny-bglvt-shl-zhb-qlvd-qvd-mmshyk-lbvd-bshbyly-ny-hvlk-lyshvn-svmk-lyv--54k4)
-- [[Boost]](https://dev.to/marvin_p/-5498)
-- [With Gemini CLI, I&#39;m able to keep my pet projects alive and kicking](https://dev.to/phalkmin/with-gemini-cli-im-able-to-keep-my-pet-projects-alive-and-kicking-2fll)
+- [Git Cheatsheet](https://dev.to/krutidugade/git-cheatsheet-19p2)
+- [I Built an AI Tool That Creates App Store Screenshots in Seconds. Here&#39;s How Google Gemini Made It Possible](https://dev.to/lilymercy/i-built-an-ai-tool-that-creates-app-store-screenshots-in-seconds-heres-how-google-gemini-made-it-3n0a)
+- [How to Deploy Your Web App Fast &amp; Secure on a VPS &lpar;Step-by-Step Guide&rpar;](https://dev.to/akamaanullah/how-to-deploy-your-web-app-fast-secure-on-a-vps-step-by-step-guide-4cmc)
+- [Python Sample HTTP CRUD with FastAPI and Flask](https://dev.to/omkarscode/python-sample-http-crud-with-fastapi-and-flask-3b6b)
 <!-- BLOG-POST-LIST:END -->
 
 
