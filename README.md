@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Depmender vNext: Introducing the New Config Folder &lpar;Full Custom Control for Your Project&rpar;](https://dev.to/raj_k_270898/depmender-vnext-introducing-the-new-config-folder-full-custom-control-for-your-project-6fa)
-- [DocumentDB on Kubernetes: Resilient, Highly Available Databases with Automatic Failover](https://dev.to/abhirockzz/documentdb-on-kubernetes-resilient-highly-available-databases-with-automatic-failover-ak7)
-- [Part-3 Functional Interface &lpar;Consumer&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-3-functional-interface-consumer-1fia)
-- [The Golang](https://dev.to/lbvf50mobile/the-golang-d20)
+- [EXPLORING SQL JOINS AND WINDOWS](https://dev.to/beverline_otiende_6d3045c/exploring-sql-joins-and-windows-41g7)
+- [I built a 6-pass security scanner for OpenClaw skills after 824 malicious ones were found on ClawHub](https://dev.to/bazzz/i-built-a-6-pass-security-scanner-for-openclaw-skills-after-824-malicious-ones-were-found-on-clawhub-2n05)
+- [Part-4 Functional Interface&lpar;Function&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/part-4-functional-interfacefunction-3555)
+- [I Built My Studio Website &lpar;Zyklabs&rpar; — Roast It, Review It, Improve It](https://dev.to/devcodehub99/i-built-my-studio-website-zyklabs-roast-it-review-it-improve-it-50id)
 <!-- BLOG-POST-LIST:END -->
 
 
