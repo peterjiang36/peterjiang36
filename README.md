@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;bus factor&quot; risk in MongoDB, MariaDB, Redis, MySQL, PostgreSQL, and SQLite](https://dev.to/alejandro_du/the-bus-factor-risk-in-mongodb-mariadb-redis-mysql-postgresql-and-sqlite-24dh)
-- [The Myth of the “Average User” in Product Design](https://dev.to/ariana_1cd1f38541bf6cd69f/the-myth-of-the-average-user-in-product-design-1d9f)
-- [Deepening My DevOps &amp; Cloud Journey with AWS 🚀](https://dev.to/itzgamboa/deepening-my-devops-cloud-journey-with-aws-1c2j)
-- [Only 25% of developers regularly use AI agents, according to Sonar&#39;s survey.
-
-90% of respondents use AI for assisting development. But only 55% of them rate AI as “extremely or very effective.”](https://dev.to/canro91/only-25-of-developers-regularly-use-ai-agents-according-to-sonars-survey-90-of-1hna)
+- [Evaluating Agent Output Quality: Lightweight Evals Without a Framework](https://dev.to/gunnargrosch/evaluating-agent-output-quality-lightweight-evals-without-a-framework-38gk)
+- [Alfred — Your AI-Powered Knowledge Butler, Built with Google Gemini](https://dev.to/nowaysid/alfred-your-ai-powered-knowledge-butler-built-with-google-gemini-24f2)
+- [Most &quot;Multi-Agent&quot; Frameworks Are Just Multiple Prompts Wearing a Trenchcoat](https://dev.to/diego_falciola_02ab709202/most-multi-agent-frameworks-are-just-multiple-prompts-wearing-a-trenchcoat-21lb)
+- [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk)
 <!-- BLOG-POST-LIST:END -->
 
 
