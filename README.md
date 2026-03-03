@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is There a Middle Ground Between Vibe Coding and Spec Driven Development?](https://dev.to/incomplete_developer/is-there-a-middle-ground-between-vibe-coding-and-spec-driven-development-31ek)
-- [MycelK — Phase 1 : NodeId, XOR distance et Kbuckets](https://dev.to/matthamoros/mycelk-phase-1-nodeid-xor-distance-et-routing-table-en-rust-35jo)
-- [A/B Testing LLM Systems](https://dev.to/ritwikareddykancharla/ab-testing-llm-systems-2mb6)
-- [How to Use ChatGPT Effectively without Losing your Developer Skills](https://dev.to/pbbdesign/how-to-use-chatgpt-effectively-without-losing-your-developer-skills-7i4)
+- [From Fast Models to OT CVEs: Shipping Faster Without Shipping Blind](https://dev.to/victorstackai/from-fast-models-to-ot-cves-shipping-faster-without-shipping-blind-1o24)
+- [גם כשאני בגלות של זהב, קלוד קוד ממשיך לעבוד בשבילי. אני הולך לישון סומך עליו ...](https://dev.to/__4766e6d50a94a/gm-kshny-bglvt-shl-zhb-qlvd-qvd-mmshyk-lbvd-bshbyly-ny-hvlk-lyshvn-svmk-lyv--54k4)
+- [[Boost]](https://dev.to/marvin_p/-5498)
+- [With Gemini CLI, I&#39;m able to keep my pet projects alive and kicking](https://dev.to/phalkmin/with-gemini-cli-im-able-to-keep-my-pet-projects-alive-and-kicking-2fll)
 <!-- BLOG-POST-LIST:END -->
 
 
