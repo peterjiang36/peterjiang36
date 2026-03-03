@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
-- [I ran cursor-doctor on 50 real projects. Here&#39;s what broke.](https://dev.to/nedcodes/i-ran-cursor-doctor-on-50-real-projects-heres-what-broke-14ba)
-- [Stop Writing .subscribe&lpar;&rpar; in Angular Components — Use toSignal Instead](https://dev.to/paszekdev/stop-writing-subscribe-in-angular-components-use-tosignal-instead-bom)
-- [Mocking HTTP Services in PHP with Phiremock](https://dev.to/brunohsouza/mocking-http-services-in-php-with-phiremock-aa7)
+- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
+- [Why Linear AI Chains Are Dead: The Rise of Cyclical Agentic Loops](https://dev.to/programmingcentral/why-linear-ai-chains-are-dead-the-rise-of-cyclical-agentic-loops-5fib)
+- [Building a Production-Grade RAG System &lpar;Not Just a Demo&rpar;](https://dev.to/ritwikareddykancharla/building-a-production-grade-rag-system-not-just-a-demo-2l0p)
+- [Index Key Format in SQLite](https://dev.to/lovestaco/index-key-format-in-sqlite-40pn)
 <!-- BLOG-POST-LIST:END -->
 
 
