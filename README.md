@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Automated Influencer Outreach Pipeline in Node.js](https://dev.to/olams/building-an-automated-influencer-outreach-pipeline-in-nodejs-28mp)
-- [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
-- [The Hardest Part of Being a Developer Isn&#39;t Coding—It&#39;s Staying Visible to Yourself](https://dev.to/narnaiezzsshaa/the-hardest-part-of-being-a-developer-isnt-coding-its-staying-visible-to-yourself-33fa)
-- [Agentic Drift: It&#39;s Hard to Be Multiple Developers at Once](https://dev.to/helgesverre/agentic-drift-its-hard-to-be-multiple-developers-at-once-4872)
+- [Pilot Program is open. Access-first authentication in production.](https://dev.to/antonmb/pilot-program-is-open-access-first-authentication-in-production-6no)
+- [Why Every MCP Setup Guide Is Teaching You to Store API Keys Wrong](https://dev.to/the_seventeen/why-every-mcp-setup-guide-is-teaching-you-to-store-api-keys-wrong-4ghf)
+- [I built a local-first AI prompt manager — here is why offline-first was worth the extra complexity](https://dev.to/wilxai/i-built-a-local-first-ai-prompt-manager-here-is-why-offline-first-was-worth-the-extra-complexity-4ao7)
+- [The 5 Silent Killers of macOS Development Environments](https://dev.to/mazharul/the-5-silent-killers-of-macos-development-environments-95n)
 <!-- BLOG-POST-LIST:END -->
 
 
