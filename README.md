@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluating Agent Output Quality: Lightweight Evals Without a Framework](https://dev.to/gunnargrosch/evaluating-agent-output-quality-lightweight-evals-without-a-framework-38gk)
-- [Alfred — Your AI-Powered Knowledge Butler, Built with Google Gemini](https://dev.to/nowaysid/alfred-your-ai-powered-knowledge-butler-built-with-google-gemini-24f2)
-- [Most &quot;Multi-Agent&quot; Frameworks Are Just Multiple Prompts Wearing a Trenchcoat](https://dev.to/diego_falciola_02ab709202/most-multi-agent-frameworks-are-just-multiple-prompts-wearing-a-trenchcoat-21lb)
-- [Oooh very interesting](https://dev.to/ben/oooh-very-interesting-ohk)
+- [Building a Browser-Based Pixel Art Tool with Gemini](https://dev.to/rohan_mirjankar/building-a-browser-based-pixel-art-tool-with-gemini-4866)
+- [Detecting Hidden Table Relationships with Inclusion-Based Field Analysis](https://dev.to/hello_arisyn_0dc948aa82b3/detecting-hidden-table-relationships-with-inclusion-based-field-analysis-nkp)
+- [How Zero-Knowledge File Sharing Works: AES-256-GCM in the Browser](https://dev.to/fileshot_9818357dbe6cc693/how-zero-knowledge-file-sharing-works-aes-256-gcm-in-the-browser-49mo)
+- [GRC Sounds Scary — Until You Realize You’re Already Doing It!!](https://dev.to/rieesteves/grc-sounds-scary-until-you-realize-youre-already-doing-it-3af3)
 <!-- BLOG-POST-LIST:END -->
 
 
