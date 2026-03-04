@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Cheatsheet](https://dev.to/krutidugade/git-cheatsheet-19p2)
-- [I Built an AI Tool That Creates App Store Screenshots in Seconds. Here&#39;s How Google Gemini Made It Possible](https://dev.to/lilymercy/i-built-an-ai-tool-that-creates-app-store-screenshots-in-seconds-heres-how-google-gemini-made-it-3n0a)
-- [How to Deploy Your Web App Fast &amp; Secure on a VPS &lpar;Step-by-Step Guide&rpar;](https://dev.to/akamaanullah/how-to-deploy-your-web-app-fast-secure-on-a-vps-step-by-step-guide-4cmc)
-- [Python Sample HTTP CRUD with FastAPI and Flask](https://dev.to/omkarscode/python-sample-http-crud-with-fastapi-and-flask-3b6b)
+- [My AI Agent Has Been Running 24/7 for 2 Weeks — Here&#39;s What It Actually Did](https://dev.to/maxxmini/my-ai-agent-has-been-running-247-for-2-weeks-heres-what-it-actually-did-2nmm)
+- [The Gateway Pattern - One API, Any Model](https://dev.to/tyson_cung/the-gateway-pattern-one-api-any-model-26nk)
+- [Stop Ignoring Your Stress: Build a Voice-Driven Emotion Tracker with Wav2Vec 2.0](https://dev.to/beck_moulton/stop-ignoring-your-stress-build-a-voice-driven-emotion-tracker-with-wav2vec-20-3pc0)
+- [How I stopped my AI agents from getting dumber after 10 turns](https://dev.to/divante/how-i-stopped-my-ai-agents-from-getting-dumber-after-10-turns-4k38)
 <!-- BLOG-POST-LIST:END -->
 
 
