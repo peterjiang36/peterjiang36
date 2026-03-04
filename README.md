@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bun: The JavaScript Runtime That&#39;s Making Node.js Sweat](https://dev.to/izmroen/bun-the-javascript-runtime-thats-making-nodejs-sweat-30mc)
-- [Building an AI Code Reviewer for GitLab CI with Google Gemini](https://dev.to/denyherianto/building-an-ai-code-reviewer-for-gitlab-ci-with-google-gemini-1696)
-- [Proto Wrapper Plugin: How I Stopped Fighting Protobuf Versioning](https://dev.to/alnovis/proto-wrapper-plugin-how-i-stopped-fighting-protobuf-versioning-4jd3)
-- [Fixing the Agent Wake Notification Bug: Unifying to Slack Across All Agents](https://dev.to/linou518/fixing-the-agent-wake-notification-bug-unifying-to-slack-across-all-agents-3f69)
+- [What features do people actually want in a QR code generator?](https://dev.to/naddy721/what-features-do-people-actually-want-in-a-qr-code-generator-16a6)
+- [I Gave an AI My Study Materials and It Planned My Entire Learning Schedule — HyperKnow Is Not Just Another Chatbot](https://dev.to/aniruddhaadak/i-gave-an-ai-my-study-materials-and-it-planned-my-entire-learning-schedule-hyperknow-is-not-just-53g)
+- [I Built a Free Website With 60+ Online Tools &lpar;Calculators, QR Generator, Dev Tools&rpar;](https://dev.to/naddy721/i-built-a-free-website-with-60-online-tools-calculators-qr-generator-dev-tools-4gdl)
+- [I built an MCP server that lets Claude watermark images - here&#39;s how](https://dev.to/whitemarmot/i-built-an-mcp-server-that-lets-claude-watermark-images-heres-how-46mk)
 <!-- BLOG-POST-LIST:END -->
 
 
