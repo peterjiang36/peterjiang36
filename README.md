@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
-- [He Asked AI For Q3. It Fired Him.](https://dev.to/tim_rattigan_503adc6c5f94/he-asked-ai-for-q3-it-fired-him-543c)
-- [I Run a Screen Printing Shop. A Few Weeks Ago I Built an iOS App. It Flopped. Here&#39;s Everything.](https://dev.to/neritamo_/i-run-a-screen-printing-shop-a-few-weeks-ago-i-built-an-ios-app-it-flopped-heres-everything-5ej6)
-- [When You Need to Delete a Comment… But Your Button Refuses to Cooperate](https://dev.to/tahsin_zidane/when-you-need-to-delete-a-comment-but-your-button-refuses-to-cooperate-4maa)
+- [[PROOF TEST 1772651898] Delete Me](https://dev.to/mrlinuncut/proof-test-1772651898-delete-me-571j)
+- [LLM-Powered Predictive Alerts: Transforming Ops with AI Observability](https://dev.to/myroslavmokhammadabd/llm-powered-predictive-alerts-transforming-ops-with-ai-observability-3859)
+- [I scanned popular open source projects for quantum-vulnerable crypto. Here&#39;s what I found.](https://dev.to/postquant/i-scanned-popular-open-source-projects-for-quantum-vulnerable-crypto-heres-what-i-found-4p87)
+- [AI Has Entered the AI Development Loop](https://dev.to/bekahhw/ai-has-entered-the-ai-development-loop-2f5b)
 <!-- BLOG-POST-LIST:END -->
 
 
