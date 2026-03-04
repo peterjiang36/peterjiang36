@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding How Attackers Hide Malware in “Legitimate” Software: A Technical Deep Dive](https://dev.to/wambita_sheila_fana/understanding-how-attackers-hide-malware-in-legitimate-software-a-technical-deep-dive-4c3k)
-- [Educational Development Program: Build Apps with Google AI Studio](https://dev.to/adrii_ana/educational-development-program-build-apps-with-google-ai-studio-2c1f)
-- [Safer Pushes, SIEM Webhooks, and Verifiable Releases](https://dev.to/joerucci/safer-pushes-siem-webhooks-and-verifiable-releases-1cng)
-- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
+- [Give Your AI Agent 13 Superpowers with One MCP Server](https://dev.to/ozorown/give-your-ai-agent-13-superpowers-with-one-mcp-server-17j8)
+- [How to Strip PII from LLM Prompts with One API Call](https://dev.to/tiamat/how-to-strip-pii-from-llm-prompts-with-one-api-call-ceb)
+- [The AI Code Review Bottleneck: When Generation Outpaces Human Judgment](https://dev.to/lizechengnet/the-ai-code-review-bottleneck-when-generation-outpaces-human-judgment-7k1)
+- [Reactive Data Without the Async Headaches](https://dev.to/robert_sanders_04918a4344/reactive-data-without-the-async-headaches-5fbd)
 <!-- BLOG-POST-LIST:END -->
 
 
