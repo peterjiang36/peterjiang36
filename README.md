@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kaizen — Let your focus follow you!](https://dev.to/neilblaze/kaizen-let-your-focus-follow-you-pi0)
-- [My Docker examples are now part of the official Next.js Documentation](https://dev.to/kristiyanvelkov/my-docker-examples-are-now-part-of-the-official-nextjs-documentation-3kbg)
-- [Hi, I&#39;m Grek — Full-Stack Python Developer &amp; AI Engineer](https://dev.to/grekcreator/hi-im-grek-full-stack-python-developer-ai-engineer-4big)
-- [CSS Selectors Keep Breaking? Why It Happens and How to Fix It](https://dev.to/bd73/css-selectors-keep-breaking-why-it-happens-and-how-to-fix-it-4h7d)
+- [The Sidebar is Dead, Long Live the Duet](https://dev.to/_fb5b9ba3d3af23c29cccb/the-sidebar-is-dead-long-live-the-duet-2ajg)
+- [Workshop: Migrate to Room KMP — Shared Database Layer Without the Abstraction Tax](https://dev.to/software_mvp-factory/workshop-migrate-to-room-kmp-shared-database-layer-without-the-abstraction-tax-4ppe)
+- [Year One of AI Programming: My 2025](https://dev.to/_fb5b9ba3d3af23c29cccb/year-one-of-ai-programming-my-2025-8bb)
+- [How to Build a Flutter Document Scanner App for Android and iOS](https://dev.to/yushulx/how-to-build-a-flutter-document-scanner-app-for-android-and-ios-38c4)
 <!-- BLOG-POST-LIST:END -->
 
 
