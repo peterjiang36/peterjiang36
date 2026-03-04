@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking AI Assistants: A Privacy-First Approach with Google Gemini](https://dev.to/ujja/rethinking-ai-assistants-a-privacy-first-approach-with-google-gemini-4cm7)
-- [Tracking Copilot Usage Without an API &lpar;Raycast + Month Progress&rpar;](https://dev.to/brady_stroud_402d6c121a83/tracking-copilot-usage-without-an-api-raycast-month-progress-199a)
-- [CommonGround: Designing Digital Spaces for Safety, Healing, and Connection](https://dev.to/ujja/commonground-designing-digital-spaces-for-safety-healing-and-connection-5gim)
-- [What It Really Takes to Migrate 20+ Domains and 100+ SQL Tables from .NET to GraphQL](https://dev.to/ujja/what-it-really-takes-to-migrate-20-domains-and-100-sql-tables-from-net-to-graphql-3deb)
+- [Bun: The JavaScript Runtime That&#39;s Making Node.js Sweat](https://dev.to/izmroen/bun-the-javascript-runtime-thats-making-nodejs-sweat-30mc)
+- [Building an AI Code Reviewer for GitLab CI with Google Gemini](https://dev.to/denyherianto/building-an-ai-code-reviewer-for-gitlab-ci-with-google-gemini-1696)
+- [Proto Wrapper Plugin: How I Stopped Fighting Protobuf Versioning](https://dev.to/alnovis/proto-wrapper-plugin-how-i-stopped-fighting-protobuf-versioning-4jd3)
+- [Fixing the Agent Wake Notification Bug: Unifying to Slack Across All Agents](https://dev.to/linou518/fixing-the-agent-wake-notification-bug-unifying-to-slack-across-all-agents-3f69)
 <!-- BLOG-POST-LIST:END -->
 
 
