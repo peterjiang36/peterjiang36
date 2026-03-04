@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your Python request gets 403 Forbidden](https://dev.to/extractdata/why-your-python-request-gets-403-forbidden-4h3p)
-- [Why your AGENTS.md files are being ignored &lpar;and how to fix it&rpar;](https://dev.to/agardnerit/why-your-agentsmd-files-are-being-ignored-and-how-to-fix-it-5672)
-- [&quot;I built a free RBT exam prep tool because most of what exists is already outdated&quot;](https://dev.to/clawgenesis/i-built-a-free-rbt-exam-prep-tool-because-most-of-what-exists-is-already-outdated-1fb)
-- [6 Turborepo vs Nx Patterns That Cut Monorepo CI Time by 70%](https://dev.to/jsgurujobs/6-turborepo-vs-nx-patterns-that-cut-monorepo-ci-time-by-70-15fd)
+- [The Agentic Substrate: Why the Production Lifecycle Matters for Autonomous Systems.](https://dev.to/fleeks/the-agentic-substrate-why-the-production-lifecycle-matters-for-autonomous-systems-49gl)
+- [How to design a Real-Time Chat Application](https://dev.to/ganesh_parella/how-to-design-a-real-time-chat-application-5go6)
+- [Building a Non-Custodial DCA Protocol on TON: How We Used the MasterChef Pattern to Achieve O&lpar;1&rpar; Smart Contract Complexity](https://dev.to/gerus_team/building-a-non-custodial-dca-protocol-on-ton-how-we-used-the-masterchef-pattern-to-achieve-o1-3h67)
+- [Screenshot API Comparison 2026: SnapRender vs ScreenshotOne vs Urlbox vs ScrapingBee vs CaptureKit](https://dev.to/dennis-ddev/screenshot-api-comparison-2026-snaprender-vs-screenshotone-vs-urlbox-vs-scrapingbee-vs-capturekit-3egh)
 <!-- BLOG-POST-LIST:END -->
 
 
