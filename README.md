@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-tuning vs RAG: Cuándo Usar Cada Enfoque para LLMs en Producción](https://dev.to/synsun/fine-tuning-vs-rag-cuando-usar-cada-enfoque-para-llms-en-produccion-5kl)
-- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-121c)
-- [Getting Started with Gemini Agents: Build a Data-Connected RAG Agent using Vertex AI Agent Builder](https://dev.to/jubinsoni/getting-started-with-gemini-agents-build-a-data-connected-rag-agent-using-vertex-ai-agent-builder-50ml)
-- [Gradual JavaScript to TypeScript Migration: Strategies for Large Codebases Over Extended Periods](https://dev.to/pavkode/gradual-javascript-to-typescript-migration-strategies-for-large-codebases-over-extended-periods-2lkj)
+- [My Abstraction Crisis: Staying Oriented While AI Keeps Moving the Goalposts](https://dev.to/trolzie/my-abstraction-crisis-staying-oriented-while-ai-keeps-moving-the-goalposts-4lif)
+- [Day 17 — I Built a Vulnerable API to Demonstrate a Mass Assignment Attack](https://dev.to/hafiz_shamnad/day-17-i-built-a-vulnerable-api-to-demonstrate-a-mass-assignment-attack-20hc)
+- [missless failed at real-time video — so we pivoted to vibeCat](https://dev.to/combba/missless-failed-at-real-time-video-so-we-pivoted-to-vibecat-1bdn)
+- [Polymarket Binary Hedging Arbitrage: From Concept to Live Execution](https://dev.to/quant001/polymarket-binary-hedging-arbitrage-from-concept-to-live-execution-2do6)
 <!-- BLOG-POST-LIST:END -->
 
 
