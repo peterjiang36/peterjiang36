@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[PROOF TEST 1772651898] Delete Me](https://dev.to/mrlinuncut/proof-test-1772651898-delete-me-571j)
-- [LLM-Powered Predictive Alerts: Transforming Ops with AI Observability](https://dev.to/myroslavmokhammadabd/llm-powered-predictive-alerts-transforming-ops-with-ai-observability-3859)
-- [I scanned popular open source projects for quantum-vulnerable crypto. Here&#39;s what I found.](https://dev.to/postquant/i-scanned-popular-open-source-projects-for-quantum-vulnerable-crypto-heres-what-i-found-4p87)
-- [AI Has Entered the AI Development Loop](https://dev.to/bekahhw/ai-has-entered-the-ai-development-loop-2f5b)
+- [Is Engineering Turning Into Personal Branding?](https://dev.to/isurin/is-engineering-turning-into-personal-branding-1bdb)
+- [That inflight memory leak warning in your npm install? Here&#39;s the fix](https://dev.to/firekid846/that-inflight-memory-leak-warning-in-your-npm-install-heres-the-fix-4b00)
+- [Understanding Linux Boot Memory Management](https://dev.to/ripan030/understanding-linux-boot-memory-management-1dcn)
+- [I built the AWS platform that every DevOps engineer would want to have](https://dev.to/hsniama/i-built-the-aws-platform-that-every-devops-engineer-would-want-to-have-11fl)
 <!-- BLOG-POST-LIST:END -->
 
 
