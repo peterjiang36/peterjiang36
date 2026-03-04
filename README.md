@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Importance of TDD](https://dev.to/patmandee/the-importance-of-tdd-g46)
-- [What I Learned Adding Memory to AI Agents](https://dev.to/ksankar/what-i-learned-adding-memory-to-ai-agents-1eh2)
-- [Why JSON.parse Fails on Valid JSON &lpar;Hidden Unicode Characters&rpar;](https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph)
-- [Stop Explaining Bugs to AI - Show It the Bug](https://dev.to/brady_stroud_402d6c121a83/stop-explaining-bugs-to-ai-show-it-the-bug-a45)
+- [Kaizen — Let your focus follow you!](https://dev.to/neilblaze/kaizen-let-your-focus-follow-you-pi0)
+- [My Docker examples are now part of the official Next.js Documentation](https://dev.to/kristiyanvelkov/my-docker-examples-are-now-part-of-the-official-nextjs-documentation-3kbg)
+- [Hi, I&#39;m Grek — Full-Stack Python Developer &amp; AI Engineer](https://dev.to/grekcreator/hi-im-grek-full-stack-python-developer-ai-engineer-4big)
+- [CSS Selectors Keep Breaking? Why It Happens and How to Fix It](https://dev.to/bd73/css-selectors-keep-breaking-why-it-happens-and-how-to-fix-it-4h7d)
 <!-- BLOG-POST-LIST:END -->
 
 
