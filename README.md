@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sidebar is Dead, Long Live the Duet](https://dev.to/_fb5b9ba3d3af23c29cccb/the-sidebar-is-dead-long-live-the-duet-2ajg)
-- [Workshop: Migrate to Room KMP — Shared Database Layer Without the Abstraction Tax](https://dev.to/software_mvp-factory/workshop-migrate-to-room-kmp-shared-database-layer-without-the-abstraction-tax-4ppe)
-- [Year One of AI Programming: My 2025](https://dev.to/_fb5b9ba3d3af23c29cccb/year-one-of-ai-programming-my-2025-8bb)
-- [How to Build a Flutter Document Scanner App for Android and iOS](https://dev.to/yushulx/how-to-build-a-flutter-document-scanner-app-for-android-and-ios-38c4)
+- [Why your Python request gets 403 Forbidden](https://dev.to/extractdata/why-your-python-request-gets-403-forbidden-4h3p)
+- [Why your AGENTS.md files are being ignored &lpar;and how to fix it&rpar;](https://dev.to/agardnerit/why-your-agentsmd-files-are-being-ignored-and-how-to-fix-it-5672)
+- [&quot;I built a free RBT exam prep tool because most of what exists is already outdated&quot;](https://dev.to/clawgenesis/i-built-a-free-rbt-exam-prep-tool-because-most-of-what-exists-is-already-outdated-1fb)
+- [6 Turborepo vs Nx Patterns That Cut Monorepo CI Time by 70%](https://dev.to/jsgurujobs/6-turborepo-vs-nx-patterns-that-cut-monorepo-ci-time-by-70-15fd)
 <!-- BLOG-POST-LIST:END -->
 
 
