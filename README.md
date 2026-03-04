@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Engineering Turning Into Personal Branding?](https://dev.to/isurin/is-engineering-turning-into-personal-branding-1bdb)
-- [That inflight memory leak warning in your npm install? Here&#39;s the fix](https://dev.to/firekid846/that-inflight-memory-leak-warning-in-your-npm-install-heres-the-fix-4b00)
-- [Understanding Linux Boot Memory Management](https://dev.to/ripan030/understanding-linux-boot-memory-management-1dcn)
-- [I built the AWS platform that every DevOps engineer would want to have](https://dev.to/hsniama/i-built-the-aws-platform-that-every-devops-engineer-would-want-to-have-11fl)
+- [How I Built a Tool That Warns Me 60 Seconds Before My Site Goes Down](https://dev.to/furozq/how-i-built-a-tool-that-warns-me-60-seconds-before-my-site-goes-down-56pd)
+- [Datatype Management in SQLite](https://dev.to/lovestaco/datatype-management-in-sqlite-441f)
+- [In the AI Era, Code Is Cheap. Reputation Isn’t.](https://dev.to/kaleman15/in-the-ai-era-code-is-cheap-reputation-isnt-3482)
+- [This is My First and Last &quot;Vibe Coded&quot; Product](https://dev.to/aazan_noor_khuwaja/this-is-my-first-and-last-vibe-coded-product-4ig4)
 <!-- BLOG-POST-LIST:END -->
 
 
