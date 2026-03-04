@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Change Budget Prompt: Stop Scope Creep in AI-Assisted Coding](https://dev.to/novaelvaris/the-change-budget-prompt-stop-scope-creep-in-ai-assisted-coding-4jbd)
-- [Student Dropout Analysis](https://dev.to/ambareign/student-dropout-analysis-11n4)
-- [How to Track Bipolar Patterns &lpar;And What Most People Get Wrong&rpar;](https://dev.to/mishravi2270/how-to-track-bipolar-patterns-and-what-most-people-get-wrong-51od)
-- [I built an AI-powered PNG to SVG converter here&#39;s what I learned](https://dev.to/go_to_rob/i-built-an-ai-powered-png-to-svg-converter-heres-what-i-learned-4eie)
+- [Local LLM Inference on Windows 11 and AMD GPU using WSL and llama.cpp](https://dev.to/nicholaswiseman/local-llm-inference-on-windows-11-and-amd-gpu-using-wsl-and-llamacpp-36e7)
+- [Built with Google Gemini: The Story Behind MentorAI](https://dev.to/codeexplorerray/built-with-google-gemini-the-story-behind-mentorai-233e)
+- [Cold vs Hot Observables in RxJS Explained](https://dev.to/dimitar_gaydardzhiev/cold-vs-hot-observables-in-rxjs-explained-1ea8)
+- [A practical guide to creating software applications regardless of programming language](https://dev.to/hectorw_tt/a-practical-guide-to-creating-software-applications-regardless-of-programming-language-54n3)
 <!-- BLOG-POST-LIST:END -->
 
 
