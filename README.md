@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p)
-- [Agentic CI: How I Test AI Workers Like Services &lpar;Securely&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed)
-- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here&#39;s What Broke &lpar;And What Surprised Me&rpar;](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90)
-- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here&#39;s How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e)
+- [Build an Amazon Competitor Price Tracker with AI-Powered Alerts in Under 2 Hours](https://dev.to/loopsthings/build-an-amazon-competitor-price-tracker-with-ai-powered-alerts-in-under-2-hours-3l97)
+- [Coding in the Tropics: Why HackTropica’26 is the Ultimate Tech Escape](https://dev.to/subha777/coding-in-the-tropics-why-hacktropica26-is-the-ultimate-tech-escape-36n5)
+- [Inside OpenClaw: How the World&#39;s Fastest-Growing AI Agent Actually Works Under the Hood](https://dev.to/jiade/inside-openclaw-how-the-worlds-fastest-growing-ai-agent-actually-works-under-the-hood-4p5n)
+- [Disciplines and Instincts](https://dev.to/chrismo/disciplines-and-instincts-5h6l)
 <!-- BLOG-POST-LIST:END -->
 
 
