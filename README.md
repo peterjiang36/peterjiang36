@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Has Been Running 24/7 for 2 Weeks — Here&#39;s What It Actually Did](https://dev.to/maxxmini/my-ai-agent-has-been-running-247-for-2-weeks-heres-what-it-actually-did-2nmm)
-- [The Gateway Pattern - One API, Any Model](https://dev.to/tyson_cung/the-gateway-pattern-one-api-any-model-26nk)
-- [Stop Ignoring Your Stress: Build a Voice-Driven Emotion Tracker with Wav2Vec 2.0](https://dev.to/beck_moulton/stop-ignoring-your-stress-build-a-voice-driven-emotion-tracker-with-wav2vec-20-3pc0)
-- [How I stopped my AI agents from getting dumber after 10 turns](https://dev.to/divante/how-i-stopped-my-ai-agents-from-getting-dumber-after-10-turns-4k38)
+- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p)
+- [Agentic CI: How I Test AI Workers Like Services &lpar;Securely&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed)
+- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here&#39;s What Broke &lpar;And What Surprised Me&rpar;](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90)
+- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here&#39;s How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e)
 <!-- BLOG-POST-LIST:END -->
 
 
