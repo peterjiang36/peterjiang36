@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Abstraction Crisis: Staying Oriented While AI Keeps Moving the Goalposts](https://dev.to/trolzie/my-abstraction-crisis-staying-oriented-while-ai-keeps-moving-the-goalposts-4lif)
-- [Day 17 — I Built a Vulnerable API to Demonstrate a Mass Assignment Attack](https://dev.to/hafiz_shamnad/day-17-i-built-a-vulnerable-api-to-demonstrate-a-mass-assignment-attack-20hc)
-- [missless failed at real-time video — so we pivoted to vibeCat](https://dev.to/combba/missless-failed-at-real-time-video-so-we-pivoted-to-vibecat-1bdn)
-- [Polymarket Binary Hedging Arbitrage: From Concept to Live Execution](https://dev.to/quant001/polymarket-binary-hedging-arbitrage-from-concept-to-live-execution-2do6)
+- [The Importance of TDD](https://dev.to/patmandee/the-importance-of-tdd-g46)
+- [What I Learned Adding Memory to AI Agents](https://dev.to/ksankar/what-i-learned-adding-memory-to-ai-agents-1eh2)
+- [Why JSON.parse Fails on Valid JSON &lpar;Hidden Unicode Characters&rpar;](https://dev.to/unicode-dev/why-jsonparse-fails-on-valid-json-hidden-unicode-characters-dph)
+- [Stop Explaining Bugs to AI - Show It the Bug](https://dev.to/brady_stroud_402d6c121a83/stop-explaining-bugs-to-ai-show-it-the-bug-a45)
 <!-- BLOG-POST-LIST:END -->
 
 
