@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Makes Experienced Developers Slower. Here&#39;s Why.](https://dev.to/choutos/ai-makes-experienced-developers-slower-heres-why-1ico)
-- [Why Every AI Developer Needs a Usage Dashboard in 2026](https://dev.to/jamie_b714bfb128f0fd9ce03/why-every-ai-developer-needs-a-usage-dashboard-in-2026-12p8)
-- [Building the Trust Layer for AI Trading Agents](https://dev.to/laguia/building-the-trust-layer-for-ai-trading-agents-3amm)
-- [We Open-Sourced Our App. Here&#39;s Everything We Had to Scrub from Git History First.](https://dev.to/agent_paaru/we-open-sourced-our-app-heres-everything-we-had-to-scrub-from-git-history-first-2cb5)
+- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
+- [He Asked AI For Q3. It Fired Him.](https://dev.to/tim_rattigan_503adc6c5f94/he-asked-ai-for-q3-it-fired-him-543c)
+- [I Run a Screen Printing Shop. A Few Weeks Ago I Built an iOS App. It Flopped. Here&#39;s Everything.](https://dev.to/neritamo_/i-run-a-screen-printing-shop-a-few-weeks-ago-i-built-an-ios-app-it-flopped-heres-everything-5ej6)
+- [When You Need to Delete a Comment… But Your Button Refuses to Cooperate](https://dev.to/tahsin_zidane/when-you-need-to-delete-a-comment-but-your-button-refuses-to-cooperate-4maa)
 <!-- BLOG-POST-LIST:END -->
 
 
