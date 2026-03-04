@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Learning Notes - Part 7: Struct](https://dev.to/kervie_sazon/go-learning-notes-part-7-structs-1mok)
-- [Your LLM Doesn&#39;t Need 200 Lines of Test Output](https://dev.to/ticktockbent/your-llm-doesnt-need-200-lines-of-test-output-203o)
-- [Taming the Modal Menace: Focus Management and Escape Hatches](https://dev.to/geanruca/taming-the-modal-menace-focus-management-and-escape-hatches-mbf)
-- [Runi: Architecting a Real-Time, Multi-User AI Session System with Google Gemini](https://dev.to/luke_geenen_8fb284b682086/runi-architecting-a-real-time-multi-user-ai-session-system-with-google-gemini-4hom)
+- [The Change Budget Prompt: Stop Scope Creep in AI-Assisted Coding](https://dev.to/novaelvaris/the-change-budget-prompt-stop-scope-creep-in-ai-assisted-coding-4jbd)
+- [Student Dropout Analysis](https://dev.to/ambareign/student-dropout-analysis-11n4)
+- [How to Track Bipolar Patterns &lpar;And What Most People Get Wrong&rpar;](https://dev.to/mishravi2270/how-to-track-bipolar-patterns-and-what-most-people-get-wrong-51od)
+- [I built an AI-powered PNG to SVG converter here&#39;s what I learned](https://dev.to/go_to_rob/i-built-an-ai-powered-png-to-svg-converter-heres-what-i-learned-4eie)
 <!-- BLOG-POST-LIST:END -->
 
 
