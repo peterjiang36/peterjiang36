@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What features do people actually want in a QR code generator?](https://dev.to/naddy721/what-features-do-people-actually-want-in-a-qr-code-generator-16a6)
-- [I Gave an AI My Study Materials and It Planned My Entire Learning Schedule — HyperKnow Is Not Just Another Chatbot](https://dev.to/aniruddhaadak/i-gave-an-ai-my-study-materials-and-it-planned-my-entire-learning-schedule-hyperknow-is-not-just-53g)
-- [I Built a Free Website With 60+ Online Tools &lpar;Calculators, QR Generator, Dev Tools&rpar;](https://dev.to/naddy721/i-built-a-free-website-with-60-online-tools-calculators-qr-generator-dev-tools-4gdl)
-- [I built an MCP server that lets Claude watermark images - here&#39;s how](https://dev.to/whitemarmot/i-built-an-mcp-server-that-lets-claude-watermark-images-heres-how-46mk)
+- [Go Learning Notes - Part 7: Struct](https://dev.to/kervie_sazon/go-learning-notes-part-7-structs-1mok)
+- [Your LLM Doesn&#39;t Need 200 Lines of Test Output](https://dev.to/ticktockbent/your-llm-doesnt-need-200-lines-of-test-output-203o)
+- [Taming the Modal Menace: Focus Management and Escape Hatches](https://dev.to/geanruca/taming-the-modal-menace-focus-management-and-escape-hatches-mbf)
+- [Runi: Architecting a Real-Time, Multi-User AI Session System with Google Gemini](https://dev.to/luke_geenen_8fb284b682086/runi-architecting-a-real-time-multi-user-ai-session-system-with-google-gemini-4hom)
 <!-- BLOG-POST-LIST:END -->
 
 
