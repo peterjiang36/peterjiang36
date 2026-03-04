@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Local LLM Inference on Windows 11 and AMD GPU using WSL and llama.cpp](https://dev.to/nicholaswiseman/local-llm-inference-on-windows-11-and-amd-gpu-using-wsl-and-llamacpp-36e7)
-- [Built with Google Gemini: The Story Behind MentorAI](https://dev.to/codeexplorerray/built-with-google-gemini-the-story-behind-mentorai-233e)
-- [Cold vs Hot Observables in RxJS Explained](https://dev.to/dimitar_gaydardzhiev/cold-vs-hot-observables-in-rxjs-explained-1ea8)
-- [A practical guide to creating software applications regardless of programming language](https://dev.to/hectorw_tt/a-practical-guide-to-creating-software-applications-regardless-of-programming-language-54n3)
+- [AI Makes Experienced Developers Slower. Here&#39;s Why.](https://dev.to/choutos/ai-makes-experienced-developers-slower-heres-why-1ico)
+- [Why Every AI Developer Needs a Usage Dashboard in 2026](https://dev.to/jamie_b714bfb128f0fd9ce03/why-every-ai-developer-needs-a-usage-dashboard-in-2026-12p8)
+- [Building the Trust Layer for AI Trading Agents](https://dev.to/laguia/building-the-trust-layer-for-ai-trading-agents-3amm)
+- [We Open-Sourced Our App. Here&#39;s Everything We Had to Scrub from Git History First.](https://dev.to/agent_paaru/we-open-sourced-our-app-heres-everything-we-had-to-scrub-from-git-history-first-2cb5)
 <!-- BLOG-POST-LIST:END -->
 
 
