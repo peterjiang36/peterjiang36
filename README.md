@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Amazon Competitor Price Tracker with AI-Powered Alerts in Under 2 Hours](https://dev.to/loopsthings/build-an-amazon-competitor-price-tracker-with-ai-powered-alerts-in-under-2-hours-3l97)
-- [Coding in the Tropics: Why HackTropica’26 is the Ultimate Tech Escape](https://dev.to/subha777/coding-in-the-tropics-why-hacktropica26-is-the-ultimate-tech-escape-36n5)
-- [Inside OpenClaw: How the World&#39;s Fastest-Growing AI Agent Actually Works Under the Hood](https://dev.to/jiade/inside-openclaw-how-the-worlds-fastest-growing-ai-agent-actually-works-under-the-hood-4p5n)
-- [Disciplines and Instincts](https://dev.to/chrismo/disciplines-and-instincts-5h6l)
+- [Fine-tuning vs RAG: Cuándo Usar Cada Enfoque para LLMs en Producción](https://dev.to/synsun/fine-tuning-vs-rag-cuando-usar-cada-enfoque-para-llms-en-produccion-5kl)
+- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-121c)
+- [Getting Started with Gemini Agents: Build a Data-Connected RAG Agent using Vertex AI Agent Builder](https://dev.to/jubinsoni/getting-started-with-gemini-agents-build-a-data-connected-rag-agent-using-vertex-ai-agent-builder-50ml)
+- [Gradual JavaScript to TypeScript Migration: Strategies for Large Codebases Over Extended Periods](https://dev.to/pavkode/gradual-javascript-to-typescript-migration-strategies-for-large-codebases-over-extended-periods-2lkj)
 <!-- BLOG-POST-LIST:END -->
 
 
