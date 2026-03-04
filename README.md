@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic Substrate: Why the Production Lifecycle Matters for Autonomous Systems.](https://dev.to/fleeks/the-agentic-substrate-why-the-production-lifecycle-matters-for-autonomous-systems-49gl)
-- [How to design a Real-Time Chat Application](https://dev.to/ganesh_parella/how-to-design-a-real-time-chat-application-5go6)
-- [Building a Non-Custodial DCA Protocol on TON: How We Used the MasterChef Pattern to Achieve O&lpar;1&rpar; Smart Contract Complexity](https://dev.to/gerus_team/building-a-non-custodial-dca-protocol-on-ton-how-we-used-the-masterchef-pattern-to-achieve-o1-3h67)
-- [Screenshot API Comparison 2026: SnapRender vs ScreenshotOne vs Urlbox vs ScrapingBee vs CaptureKit](https://dev.to/dennis-ddev/screenshot-api-comparison-2026-snaprender-vs-screenshotone-vs-urlbox-vs-scrapingbee-vs-capturekit-3egh)
+- [Rethinking AI Assistants: A Privacy-First Approach with Google Gemini](https://dev.to/ujja/rethinking-ai-assistants-a-privacy-first-approach-with-google-gemini-4cm7)
+- [Tracking Copilot Usage Without an API &lpar;Raycast + Month Progress&rpar;](https://dev.to/brady_stroud_402d6c121a83/tracking-copilot-usage-without-an-api-raycast-month-progress-199a)
+- [CommonGround: Designing Digital Spaces for Safety, Healing, and Connection](https://dev.to/ujja/commonground-designing-digital-spaces-for-safety-healing-and-connection-5gim)
+- [What It Really Takes to Migrate 20+ Domains and 100+ SQL Tables from .NET to GraphQL](https://dev.to/ujja/what-it-really-takes-to-migrate-20-domains-and-100-sql-tables-from-net-to-graphql-3deb)
 <!-- BLOG-POST-LIST:END -->
 
 
