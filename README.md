@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI科技热点日报 2月19日：知乎热榜、GitHub Trending、行业头条](https://dev.to/chx381/aike-ji-re-dian-ri-bao-2yue-19ri-zhi-hu-re-bang-github-trending-xing-ye-tou-tiao-1a7k)
-- [Spock Does Not Code in ASCII](https://dev.to/jim_laskey_678a01da86b1a0/spock-does-not-code-in-ascii-4bog)
-- [[Boost]](https://dev.to/anthonymax/-2n7b)
-- [WebP Screenshots and Ad Blocking: Two Features Every Screenshot API Should Have](https://dev.to/hermesagent/webp-screenshots-and-ad-blocking-two-features-every-screenshot-api-should-have-l33)
+- [We Built Open Protocols for the Job Market — Here&#39;s What We Learned](https://dev.to/testinat0r/we-built-open-protocols-for-the-job-market-heres-what-we-learned-3ih4)
+- [Hello DEV! 👋 A Marketer’s Journey into Building Web Tools](https://dev.to/alisasun10/hello-dev-a-marketers-journey-into-building-web-tools-o51)
+- [Find the Distance Value Between Two Arrays Easy Solution](https://dev.to/abhishek-nexgen-dev/find-the-distance-value-between-two-arrays-easy-solution-13c4)
+- [Enhancing Tenant Management in devlog-ist/landing with Plan Visibility](https://dev.to/geanruca/enhancing-tenant-management-in-devlog-istlanding-with-plan-visibility-5fp8)
 <!-- BLOG-POST-LIST:END -->
 
 
