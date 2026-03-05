@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Exploitation Concerns Prompt Shift Towards Valuing Software Over User Data in Digital Platforms](https://dev.to/maxgeris/data-exploitation-concerns-prompt-shift-towards-valuing-software-over-user-data-in-digital-platforms-4j5p)
-- [How to Investigate Any IP Address Using Free APIs &lpar;With Code&rpar;](https://dev.to/robocular/how-to-investigate-any-ip-address-using-free-apis-with-code-1kcd)
-- [El &quot;Stack&quot; Estándar Local &lpar;Ollama + LangChain + ChromaDB&rpar;](https://dev.to/msanch41/el-stack-estandar-local-ollama-langchain-chromadb-29j)
-- [Security as a Profit Center: Why Your Economic Firewall Pays for Itself](https://dev.to/mattdeangit/security-as-a-profit-center-why-your-economic-firewall-pays-for-itself-3h3i)
+- [This Month in Solid: The Road to 2.0 is here, SolidStart 1.3.0 release 😎](https://dev.to/danieljcafonso/this-month-in-solid-the-road-to-20-is-here-solidstart-130-release-18c9)
+- [Why Most Data Projects Fail Before the First Model Is Built](https://dev.to/fadydesokysaeedabdelaziz/why-most-data-projects-fail-before-the-first-model-is-built-3339)
+- [SQLite’s Flexible Typing: Storage Types and Column Affinity](https://dev.to/lovestaco/sqlites-flexible-typing-storage-types-and-column-affinity-4ggg)
+- [How to Deploy n8n on Google Cloud for Free &lpar;Forever&rpar;](https://dev.to/desirichdev/how-to-deploy-n8n-on-google-cloud-for-free-forever-ddk)
 <!-- BLOG-POST-LIST:END -->
 
 
