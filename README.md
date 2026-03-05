@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Servers Have No Security Standard — Here&#39;s Why That&#39;s a Problem](https://dev.to/manja316/mcp-servers-have-no-security-standard-heres-why-thats-a-problem-fm3)
-- [Best Open-Source LLMs for RAG in 2026: 10 Models Ranked by Retrieval Accuracy](https://dev.to/jaipalsingh/best-open-source-llms-for-rag-in-2026-10-models-ranked-by-retrieval-accuracy-5hcf)
-- [Code Is Dead. AI Ate It.](https://dev.to/vasughanta09/code-is-dead-ai-ate-it-2k7o)
-- [AI Will Not Replace Engineers — But It Will Expose Shallow Thinkers.](https://dev.to/ashok_kanjarla_ai/ai-will-not-replace-engineers-but-it-will-expose-shallow-thinkers-1hbe)
+- [Harden Linux Services with `systemd-analyze security`: From Score to Enforceable Policy](https://dev.to/lyraalishaikh/harden-linux-services-with-systemd-analyze-security-from-score-to-enforceable-policy-3045)
+- [From Prototype to Production: Building a Reliable RAG API with FastAPI + ChromaDB](https://dev.to/sowndappan_s/from-prototype-to-production-building-a-reliable-rag-api-with-fastapi-chromadb-2d88)
+- [From Applications to Agents: The New Software Paradigm](https://dev.to/jaideepparashar/from-applications-to-agents-the-new-software-paradigm-29da)
+- [Top Fintech APIs for Startups](https://dev.to/apideck/top-fintech-apis-for-startups-5df5)
 <!-- BLOG-POST-LIST:END -->
 
 
