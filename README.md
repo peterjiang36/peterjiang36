@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This Month in Solid: The Road to 2.0 is here, SolidStart 1.3.0 release 😎](https://dev.to/danieljcafonso/this-month-in-solid-the-road-to-20-is-here-solidstart-130-release-18c9)
-- [Why Most Data Projects Fail Before the First Model Is Built](https://dev.to/fadydesokysaeedabdelaziz/why-most-data-projects-fail-before-the-first-model-is-built-3339)
-- [SQLite’s Flexible Typing: Storage Types and Column Affinity](https://dev.to/lovestaco/sqlites-flexible-typing-storage-types-and-column-affinity-4ggg)
-- [How to Deploy n8n on Google Cloud for Free &lpar;Forever&rpar;](https://dev.to/desirichdev/how-to-deploy-n8n-on-google-cloud-for-free-forever-ddk)
+- [Test](https://dev.to/mikeydorje/test-4eh9)
+- [I&#39;m done building things nobody wants — here&#39;s my new approach](https://dev.to/thefern/im-done-building-things-nobody-wants-heres-my-new-approach-1dj6)
+- [How to Build a Flight Status Dashboard with SkyLink API and React](https://dev.to/skylink_api/how-to-build-a-flight-status-dashboard-with-skylink-api-and-react-3167)
+- [Is JAVA 100% Object Oriented Programming Language?](https://dev.to/deepika_k_6841b1a02fb03bd/is-java-100-object-oriented-programming-language-4pfa)
 <!-- BLOG-POST-LIST:END -->
 
 
