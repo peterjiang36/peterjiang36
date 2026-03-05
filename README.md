@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Taught You the Function Philosophy. Let Me Fix That.](https://dev.to/thomijasir/nobody-taught-you-the-function-philosophy-let-me-fix-that-293i)
-- [AI writes code fast, but it&#39;s missing structure. So I built a methodology layer.](https://dev.to/ilom/ai-writes-code-fast-but-its-missing-structure-so-i-built-a-methodology-layer-2mli)
-- [How I Structure Every Laravel REST API Project](https://dev.to/polash/how-i-structure-every-laravel-rest-api-project-33n1)
-- [Protocol Launcher Series: One-Click CodeBuddy Development Experience](https://dev.to/zhensherlock/protocol-launcher-series-one-click-codebuddy-development-experience-1jn)
+- [You Built a Kotlin AI Agent. Should You Migrate to Koog?](https://dev.to/zrcic/you-built-a-kotlin-ai-agent-should-you-migrate-to-koog-3bdi)
+- [Catching agent repo drift before evals](https://dev.to/amandamartindev/catching-agent-repo-drift-before-evals-4889)
+- [Your MCP server&#39;s tool descriptions are an attack surface](https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj)
+- [Browser Automation Built for Agents](https://dev.to/steeldotdev/browser-automation-built-for-agents-5gp2)
 <!-- BLOG-POST-LIST:END -->
 
 
