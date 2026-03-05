@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Android App Without Writing a Single Line of Code &lpar;Using AI Agents&rpar;](https://dev.to/gokhanaytekinn/i-built-an-android-app-without-writing-a-single-line-of-code-using-ai-agents-lbn)
-- [I audited a codebase written by Devin 3.0. It was a nightmare.](https://dev.to/saqibshahdev/i-audited-a-codebase-written-by-devin-30-it-was-a-nightmare-ppb)
-- [How to Never Quit Your Coding Journey](https://dev.to/daniel_possiblekwabi_b57/how-to-never-quit-your-coding-journey-35fg)
-- [Pockr | Part 6 — Test Results and What&#39;s Next](https://dev.to/ai2th/pockr-part-6-test-results-and-whats-next-8m5)
+- [I Let an AI Agent Use My Browser Tool Unsupervised. It Found 3 Bugs in 20 Minutes.](https://dev.to/ticktockbent/i-let-an-ai-agent-use-my-browser-tool-unsupervised-it-found-3-bugs-in-20-minutes-2c70)
+- [Your AI Design Reviewer Has a Script. Here It Is.](https://dev.to/tanya-donska/your-ai-design-reviewer-has-a-script-here-it-is-3j1j)
+- [The Story Behind StudyClock — From Helping My Sister to Building a Global Study Platform](https://dev.to/maulik008/the-story-behind-studyclock-from-helping-my-sister-to-building-a-global-study-platform-20cl)
+- [I built a fast, driver-less TUI for browsing PostgreSQL, with ER diagrams](https://dev.to/riii111_8782a7e607d04c8e8/i-built-a-fast-driver-less-tui-for-browsing-postgresql-with-er-diagrams-50k9)
 <!-- BLOG-POST-LIST:END -->
 
 
