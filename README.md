@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WHOIS is dead, I built an API for what replaces it](https://dev.to/boutetnico/whois-is-dead-i-built-an-api-for-what-replaces-it-3gje)
-- [Learnings from Pursuing High Data Quality: A Reflective Piece](https://dev.to/aws-builders/learnings-from-pursuing-high-data-quality-a-reflective-piece-57af)
-- [Building a Secure GPT Gateway &lpar;Part 1&rpar;](https://dev.to/davelhw/building-a-secure-gpt-gateway-part-1-4593)
-- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-2h0i)
+- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
+- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
+- [Runs vs. Threads: When to Use Which](https://dev.to/vhalasi/runs-vs-threads-when-to-use-which-3e58)
+- [Multiple Deployments, One Config File](https://dev.to/vhalasi/multiple-deployments-one-config-file-2757)
 <!-- BLOG-POST-LIST:END -->
 
 
