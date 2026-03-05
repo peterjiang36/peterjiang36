@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Harden Linux Services with `systemd-analyze security`: From Score to Enforceable Policy](https://dev.to/lyraalishaikh/harden-linux-services-with-systemd-analyze-security-from-score-to-enforceable-policy-3045)
-- [From Prototype to Production: Building a Reliable RAG API with FastAPI + ChromaDB](https://dev.to/sowndappan_s/from-prototype-to-production-building-a-reliable-rag-api-with-fastapi-chromadb-2d88)
-- [From Applications to Agents: The New Software Paradigm](https://dev.to/jaideepparashar/from-applications-to-agents-the-new-software-paradigm-29da)
-- [Top Fintech APIs for Startups](https://dev.to/apideck/top-fintech-apis-for-startups-5df5)
+- [The TypeScript SDK - Making It Developer-Friendly](https://dev.to/tyson_cung/the-typescript-sdk-making-it-developer-friendly-3j89)
+- [You Approved This MCP Server Yesterday. Today It&#39;s Stealing Your Files.](https://dev.to/0x711/you-approved-this-mcp-server-yesterday-today-its-stealing-your-files-2hd9)
+- [What Are OpenClaw Tools and Skills? Complete Guide &lpar;25 Tools + 53 Skills&rpar;](https://dev.to/roobia/what-are-openclaw-tools-and-skills-complete-guide-25-tools-53-skills-39o2)
+- [Criatividade no TRAE: Desenvolvedor vietnamita cria simulador de Polaroid com revelação em tempo real](https://dev.to/captaincc/criatividade-no-trae-desenvolvedor-vietnamita-cria-simulador-de-polaroid-com-revelacao-em-tempo-22in)
 <!-- BLOG-POST-LIST:END -->
 
 
