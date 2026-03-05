@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Built a Kotlin AI Agent. Should You Migrate to Koog?](https://dev.to/zrcic/you-built-a-kotlin-ai-agent-should-you-migrate-to-koog-3bdi)
-- [Catching agent repo drift before evals](https://dev.to/amandamartindev/catching-agent-repo-drift-before-evals-4889)
-- [Your MCP server&#39;s tool descriptions are an attack surface](https://dev.to/luckypipewrench/your-mcp-servers-tool-descriptions-are-an-attack-surface-37pj)
-- [Browser Automation Built for Agents](https://dev.to/steeldotdev/browser-automation-built-for-agents-5gp2)
+- [Data Exploitation Concerns Prompt Shift Towards Valuing Software Over User Data in Digital Platforms](https://dev.to/maxgeris/data-exploitation-concerns-prompt-shift-towards-valuing-software-over-user-data-in-digital-platforms-4j5p)
+- [How to Investigate Any IP Address Using Free APIs &lpar;With Code&rpar;](https://dev.to/robocular/how-to-investigate-any-ip-address-using-free-apis-with-code-1kcd)
+- [El &quot;Stack&quot; Estándar Local &lpar;Ollama + LangChain + ChromaDB&rpar;](https://dev.to/msanch41/el-stack-estandar-local-ollama-langchain-chromadb-29j)
+- [Security as a Profit Center: Why Your Economic Firewall Pays for Itself](https://dev.to/mattdeangit/security-as-a-profit-center-why-your-economic-firewall-pays-for-itself-3h3i)
 <!-- BLOG-POST-LIST:END -->
 
 
