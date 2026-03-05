@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What You Actually Get from Google AI Pro &lpar;Beyond the Marketing&rpar;](https://dev.to/amals367/what-you-actually-get-from-google-ai-pro-beyond-the-marketing-17c2)
-- [NPR Music: Maybe Happy Ending: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-maybe-happy-ending-tiny-desk-concert-25nc)
-- [Autonomous AI in Legal Limbo](https://dev.to/rawveg/autonomous-ai-in-legal-limbo-c5j)
-- [Connecting Nodemailer to your NextJs Project.](https://dev.to/ndegwa_vivian_3593fac3daa/connecting-nodemailer-to-your-nextjs-project-39e2)
+- [I Built an Android App Without Writing a Single Line of Code &lpar;Using AI Agents&rpar;](https://dev.to/gokhanaytekinn/i-built-an-android-app-without-writing-a-single-line-of-code-using-ai-agents-lbn)
+- [I audited a codebase written by Devin 3.0. It was a nightmare.](https://dev.to/saqibshahdev/i-audited-a-codebase-written-by-devin-30-it-was-a-nightmare-ppb)
+- [How to Never Quit Your Coding Journey](https://dev.to/daniel_possiblekwabi_b57/how-to-never-quit-your-coding-journey-35fg)
+- [Pockr | Part 6 — Test Results and What&#39;s Next](https://dev.to/ai2th/pockr-part-6-test-results-and-whats-next-8m5)
 <!-- BLOG-POST-LIST:END -->
 
 
