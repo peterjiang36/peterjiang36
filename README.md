@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
-- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
-- [Runs vs. Threads: When to Use Which](https://dev.to/vhalasi/runs-vs-threads-when-to-use-which-3e58)
-- [Multiple Deployments, One Config File](https://dev.to/vhalasi/multiple-deployments-one-config-file-2757)
+- [What You Actually Get from Google AI Pro &lpar;Beyond the Marketing&rpar;](https://dev.to/amals367/what-you-actually-get-from-google-ai-pro-beyond-the-marketing-17c2)
+- [NPR Music: Maybe Happy Ending: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-maybe-happy-ending-tiny-desk-concert-25nc)
+- [Autonomous AI in Legal Limbo](https://dev.to/rawveg/autonomous-ai-in-legal-limbo-c5j)
+- [Connecting Nodemailer to your NextJs Project.](https://dev.to/ndegwa_vivian_3593fac3daa/connecting-nodemailer-to-your-nextjs-project-39e2)
 <!-- BLOG-POST-LIST:END -->
 
 
