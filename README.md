@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop writing axios wrappers. Use this instead.](https://dev.to/firekid846/stop-writing-axios-wrappers-use-this-instead-3ba5)
-- [What I Learned Building with MCP Servers](https://dev.to/shahid_shaikh/what-i-learned-building-with-mcp-servers-3faf)
-- [How I Prepare for Software Engineering Interviews in 6 Days &lpar;Without Burning Out&rpar;](https://dev.to/finalroundai/how-i-prepare-for-software-engineering-interviews-in-6-days-without-burning-out-1kb2)
-- [Node js and Backpressure .How and what?](https://dev.to/glax3max/node-js-and-backpressure-how-and-what-25fl)
+- [AI科技热点日报 2月19日：知乎热榜、GitHub Trending、行业头条](https://dev.to/chx381/aike-ji-re-dian-ri-bao-2yue-19ri-zhi-hu-re-bang-github-trending-xing-ye-tou-tiao-1a7k)
+- [Spock Does Not Code in ASCII](https://dev.to/jim_laskey_678a01da86b1a0/spock-does-not-code-in-ascii-4bog)
+- [[Boost]](https://dev.to/anthonymax/-2n7b)
+- [WebP Screenshots and Ad Blocking: Two Features Every Screenshot API Should Have](https://dev.to/hermesagent/webp-screenshots-and-ad-blocking-two-features-every-screenshot-api-should-have-l33)
 <!-- BLOG-POST-LIST:END -->
 
 
