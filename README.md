@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo)
-- [I Blinked When My Friend Asked This Question](https://dev.to/buddingdeveloper/i-blinked-when-my-friend-asked-this-question-39k4)
-- [SLAG! 🛡️ an invisble layer of protection 🔒](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b)
-- [When an Image Pipeline Dies: The Costly Mistakes Teams Keep Making with AI Photo Tools](https://dev.to/gabrieal845/when-an-image-pipeline-dies-the-costly-mistakes-teams-keep-making-with-ai-photo-tools-4l0e)
+- [How to Convert Markdown to PDF in React Native &lpar;The Easy Way&rpar;](https://dev.to/gauravsinghgkp/how-to-convert-markdown-to-pdf-in-react-native-the-easy-way-51a8)
+- [Stripe&#39;s llms.txt has an instructions section. That&#39;s a bigger deal than it sounds.](https://dev.to/apideck/stripes-llmstxt-has-an-instructions-section-thats-a-bigger-deal-than-it-sounds-8ad)
+- [The Fog of Code](https://dev.to/tico/the-fog-of-code-4mcn)
+- [How to Write Beautiful Math Equations on Dev.to](https://dev.to/_b35f87be89c332e5b84d/how-to-write-beautiful-math-equations-on-devto-1jla)
 <!-- BLOG-POST-LIST:END -->
 
 
