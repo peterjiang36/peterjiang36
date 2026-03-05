@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI Agent that builds n8n workflows](https://dev.to/gama_2502e6f3ad39591b1c35/i-built-an-ai-agent-that-builds-n8n-workflows-111h)
-- [Building Production-Ready MCP Servers with TypeScript: A Complete Guide](https://dev.to/quantbit/building-production-ready-mcp-servers-with-typescript-a-complete-guide-1ejc)
-- [logfx v1.0.0: One Logger for Development and Production](https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-1gdl)
-- [logfx v1.0.0: One Logger for Development and Production](https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-1l3)
+- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo)
+- [I Blinked When My Friend Asked This Question](https://dev.to/buddingdeveloper/i-blinked-when-my-friend-asked-this-question-39k4)
+- [SLAG! 🛡️ an invisble layer of protection 🔒](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b)
+- [When an Image Pipeline Dies: The Costly Mistakes Teams Keep Making with AI Photo Tools](https://dev.to/gabrieal845/when-an-image-pipeline-dies-the-costly-mistakes-teams-keep-making-with-ai-photo-tools-4l0e)
 <!-- BLOG-POST-LIST:END -->
 
 
