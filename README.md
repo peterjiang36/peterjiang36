@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multimodal Rerankers: The Fix for Object Storage RAG](https://dev.to/hatmanstack/multimodal-rerankers-the-fix-for-object-storage-rag-2662)
-- [[Boost]](https://dev.to/stefan_donosa/-3g20)
-- [I Gave Claude Code a &quot;Phone a Friend&quot; Lifeline — It Calls GPT, Gemini, and DeepSeek](https://dev.to/spranab/i-gave-claude-code-a-phone-a-friend-lifeline-it-calls-gpt-gemini-and-deepseek-3gjo)
-- [GitHub Copilot CLI Challenge Winner Announcement - Further Delayed](https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg)
+- [CLI Builder: Build Complex FFmpeg, curl, git, Docker &amp; ImageMagick Commands Visually](https://dev.to/riviergrullon/cli-builder-build-complex-ffmpeg-curl-git-docker-imagemagick-commands-visually-mjb)
+- [JSON Diff: Semantic JSON Comparison — 100% Private, 100% In-Browser](https://dev.to/riviergrullon/json-diff-semantic-json-comparison-100-private-100-in-browser-40ne)
+- [Python Web Scraping: The Production Guide &lpar;What the Tutorials Don&#39;t Tell You&rpar;](https://dev.to/ottobrennan/python-web-scraping-the-production-guide-what-the-tutorials-dont-tell-you-49j9)
+- [I built an AI agent with 57 tools that actually does stuff on your iPhone](https://dev.to/denisbabkevich/i-built-an-ai-agent-with-57-tools-that-actually-does-stuff-on-your-iphone-3345)
 <!-- BLOG-POST-LIST:END -->
 
 
