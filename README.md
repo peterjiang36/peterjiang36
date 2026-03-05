@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The TypeScript SDK - Making It Developer-Friendly](https://dev.to/tyson_cung/the-typescript-sdk-making-it-developer-friendly-3j89)
-- [You Approved This MCP Server Yesterday. Today It&#39;s Stealing Your Files.](https://dev.to/0x711/you-approved-this-mcp-server-yesterday-today-its-stealing-your-files-2hd9)
-- [What Are OpenClaw Tools and Skills? Complete Guide &lpar;25 Tools + 53 Skills&rpar;](https://dev.to/roobia/what-are-openclaw-tools-and-skills-complete-guide-25-tools-53-skills-39o2)
-- [Criatividade no TRAE: Desenvolvedor vietnamita cria simulador de Polaroid com revelação em tempo real](https://dev.to/captaincc/criatividade-no-trae-desenvolvedor-vietnamita-cria-simulador-de-polaroid-com-revelacao-em-tempo-22in)
+- [Stop writing axios wrappers. Use this instead.](https://dev.to/firekid846/stop-writing-axios-wrappers-use-this-instead-3ba5)
+- [What I Learned Building with MCP Servers](https://dev.to/shahid_shaikh/what-i-learned-building-with-mcp-servers-3faf)
+- [How I Prepare for Software Engineering Interviews in 6 Days &lpar;Without Burning Out&rpar;](https://dev.to/finalroundai/how-i-prepare-for-software-engineering-interviews-in-6-days-without-burning-out-1kb2)
+- [Node js and Backpressure .How and what?](https://dev.to/glax3max/node-js-and-backpressure-how-and-what-25fl)
 <!-- BLOG-POST-LIST:END -->
 
 
