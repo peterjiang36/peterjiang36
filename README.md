@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Give Your AI Agent 13 Superpowers with One MCP Server](https://dev.to/ozorown/give-your-ai-agent-13-superpowers-with-one-mcp-server-17j8)
-- [How to Strip PII from LLM Prompts with One API Call](https://dev.to/tiamat/how-to-strip-pii-from-llm-prompts-with-one-api-call-ceb)
-- [The AI Code Review Bottleneck: When Generation Outpaces Human Judgment](https://dev.to/lizechengnet/the-ai-code-review-bottleneck-when-generation-outpaces-human-judgment-7k1)
-- [Reactive Data Without the Async Headaches](https://dev.to/robert_sanders_04918a4344/reactive-data-without-the-async-headaches-5fbd)
+- [I built an AI Agent that builds n8n workflows](https://dev.to/gama_2502e6f3ad39591b1c35/i-built-an-ai-agent-that-builds-n8n-workflows-111h)
+- [Building Production-Ready MCP Servers with TypeScript: A Complete Guide](https://dev.to/quantbit/building-production-ready-mcp-servers-with-typescript-a-complete-guide-1ejc)
+- [logfx v1.0.0: One Logger for Development and Production](https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-1gdl)
+- [logfx v1.0.0: One Logger for Development and Production](https://dev.to/chintanshah35/logfx-v100-one-logger-for-development-and-production-1l3)
 <!-- BLOG-POST-LIST:END -->
 
 
