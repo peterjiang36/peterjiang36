@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Markdown to PDF in React Native &lpar;The Easy Way&rpar;](https://dev.to/gauravsinghgkp/how-to-convert-markdown-to-pdf-in-react-native-the-easy-way-51a8)
-- [Stripe&#39;s llms.txt has an instructions section. That&#39;s a bigger deal than it sounds.](https://dev.to/apideck/stripes-llmstxt-has-an-instructions-section-thats-a-bigger-deal-than-it-sounds-8ad)
-- [The Fog of Code](https://dev.to/tico/the-fog-of-code-4mcn)
-- [How to Write Beautiful Math Equations on Dev.to](https://dev.to/_b35f87be89c332e5b84d/how-to-write-beautiful-math-equations-on-devto-1jla)
+- [MCP Servers Have No Security Standard — Here&#39;s Why That&#39;s a Problem](https://dev.to/manja316/mcp-servers-have-no-security-standard-heres-why-thats-a-problem-fm3)
+- [Best Open-Source LLMs for RAG in 2026: 10 Models Ranked by Retrieval Accuracy](https://dev.to/jaipalsingh/best-open-source-llms-for-rag-in-2026-10-models-ranked-by-retrieval-accuracy-5hcf)
+- [Code Is Dead. AI Ate It.](https://dev.to/vasughanta09/code-is-dead-ai-ate-it-2k7o)
+- [AI Will Not Replace Engineers — But It Will Expose Shallow Thinkers.](https://dev.to/ashok_kanjarla_ai/ai-will-not-replace-engineers-but-it-will-expose-shallow-thinkers-1hbe)
 <!-- BLOG-POST-LIST:END -->
 
 
