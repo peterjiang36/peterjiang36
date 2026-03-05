@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI Builder: Build Complex FFmpeg, curl, git, Docker &amp; ImageMagick Commands Visually](https://dev.to/riviergrullon/cli-builder-build-complex-ffmpeg-curl-git-docker-imagemagick-commands-visually-mjb)
-- [JSON Diff: Semantic JSON Comparison — 100% Private, 100% In-Browser](https://dev.to/riviergrullon/json-diff-semantic-json-comparison-100-private-100-in-browser-40ne)
-- [Python Web Scraping: The Production Guide &lpar;What the Tutorials Don&#39;t Tell You&rpar;](https://dev.to/ottobrennan/python-web-scraping-the-production-guide-what-the-tutorials-dont-tell-you-49j9)
-- [I built an AI agent with 57 tools that actually does stuff on your iPhone](https://dev.to/denisbabkevich/i-built-an-ai-agent-with-57-tools-that-actually-does-stuff-on-your-iphone-3345)
+- [I built a DocSend competitor in weeks using Claude Code](https://dev.to/robertatkinson3570/i-built-a-docsend-competitor-in-weeks-using-claude-code-i69)
+- [The End of Browsing: How AI Recommendation Engines Rule 2026 Fashion](https://dev.to/alvin_tang_9ac56ff002224a/the-end-of-browsing-how-ai-recommendation-engines-rule-2026-fashion-4dd6)
+- [How to vet Cursor rules before using them](https://dev.to/nedcodes/how-to-vet-cursor-rules-before-using-them-a7c)
+- [ReactJS Anti Pattern　~Passing Setters Down the Components Tree~](https://dev.to/kkr0423/reactjs-anti-pattern-passing-setters-down-the-components-tree-2d0m)
 <!-- BLOG-POST-LIST:END -->
 
 
