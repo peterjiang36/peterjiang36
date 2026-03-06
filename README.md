@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
-- [How I Built a Visioryx Forensic Engine with FastAPI and BLIP 🛡️](https://dev.to/yousafk279/how-i-built-a-visioryx-forensic-engine-with-fastapi-and-blip-3kbh)
-- [March 19 - Women in AI Meetup](https://dev.to/voxel51/march-19-women-in-ai-meetup-1bd7)
-- [Data Relationship Analysis at Scale with Arisyn](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationship-analysis-at-scale-with-arisyn-3f2k)
+- [How SQLite Converts Data: Affinity Rules in Action](https://dev.to/lovestaco/how-sqlite-converts-data-affinity-rules-in-action-44ib)
+- [I reverse-engineered manhwa power systems into a real habit RPG — the game design archaeology of SYD](https://dev.to/eko137/i-reverse-engineered-manhwa-power-systems-into-a-real-habit-rpg-the-game-design-archaeology-of-syd-2cn2)
+- [Yarn classic vs Yarn berry installation guide](https://dev.to/arshak_grigoryan/yarn-classic-vs-yarn-berry-installation-guide-3oob)
+- [The Anatomy of a 500ns Parser: Porting libphonenumber to Rust](https://dev.to/vloldik/the-anatomy-of-a-500ns-parser-porting-libphonenumber-to-rust-3daa)
 <!-- BLOG-POST-LIST:END -->
 
 
