@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top IT Staff Augmentation Companies &lpar;A Practical Look From Someone Who Had to Hire Developers&rpar;](https://dev.to/art_light/top-it-staff-augmentation-companies-a-practical-look-from-someone-who-had-to-hire-developers-1jm3)
-- [Render LaTeX, Math &amp; Chemistry in React, React Native, Flutter — One Package](https://dev.to/sandipandassd/render-latex-math-chemistry-in-react-react-native-flutter-one-package-5cgp)
-- [I Replaced 6 WordPress Plugins With One — Here&#39;s What Happened](https://dev.to/wpmultitool/i-replaced-6-wordpress-plugins-with-one-heres-what-happened-1na9)
-- [Spring Boot Project Structure: Best Practices Used in Production🚀](https://dev.to/kamlesh_patil/spring-boot-project-structure-best-practices-used-in-production-4h85)
+- [scrollbar-gutter to the rescue](https://dev.to/hrgdavor/scrollbar-gutter-to-the-rescue-30hm)
+- [Developer in the Age of AI](https://dev.to/xiaoguang_/developer-in-the-age-of-ai-53dl)
+- [Stop Letting Your AI Agent Read the entire Repo: Introducing trail-docs](https://dev.to/silicon_zee/stop-letting-your-ai-agent-read-the-entire-repo-introducing-trail-docs-321k)
+- [What Installing a New OS Taught Me About Disk Partitions](https://dev.to/access2vivek/what-installing-a-new-os-taught-me-about-disk-partitions-18ag)
 <!-- BLOG-POST-LIST:END -->
 
 
