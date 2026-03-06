@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a JSON Formatter: Zero-Click Auto-Format and the Clipboard API Trap](https://dev.to/tommy_worklab/building-a-json-formatter-zero-click-auto-format-and-the-clipboard-api-trap-n9i)
-- [I Searched for a Skitch Alternative, Then Built One in a Day — A PWA Image Annotation Tool](https://dev.to/tommy_worklab/i-searched-for-a-skitch-alternative-then-built-one-in-a-day-a-pwa-image-annotation-tool-hbj)
-- [Claude Code + Obsidian: Turn AI Conversations into a Persistent Knowledge Base](https://dev.to/tommy_worklab/claude-code-obsidian-turn-ai-conversations-into-a-persistent-knowledge-base-4l29)
-- [Palantir&#39;s Secret Weapon Isn&#39;t AI — It&#39;s Ontology. Here&#39;s Why Engineers Should Care.](https://dev.to/s3atoshi_leading_ai/palantirs-secret-weapon-isnt-ai-its-ontology-heres-why-engineers-should-care-kk8)
+- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
+- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
+- [NervForge: Generate Beautiful 3D Trees in Your Browser &lpar;Free Tool&rpar;](https://dev.to/the_lone_engineer/nervforge-generate-beautiful-3d-trees-in-your-browser-free-tool-8n2)
+- [How to give Claude real-time access to your business finances with MCP](https://dev.to/eliaskress/how-to-give-claude-real-time-access-to-your-business-finances-with-mcp-2bmb)
 <!-- BLOG-POST-LIST:END -->
 
 
