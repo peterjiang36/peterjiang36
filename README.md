@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a DocSend competitor in weeks using Claude Code](https://dev.to/robertatkinson3570/i-built-a-docsend-competitor-in-weeks-using-claude-code-i69)
-- [The End of Browsing: How AI Recommendation Engines Rule 2026 Fashion](https://dev.to/alvin_tang_9ac56ff002224a/the-end-of-browsing-how-ai-recommendation-engines-rule-2026-fashion-4dd6)
-- [How to vet Cursor rules before using them](https://dev.to/nedcodes/how-to-vet-cursor-rules-before-using-them-a7c)
-- [ReactJS Anti Pattern　~Passing Setters Down the Components Tree~](https://dev.to/kkr0423/reactjs-anti-pattern-passing-setters-down-the-components-tree-2d0m)
+- [I built a free browser-based image toolkit with JavaScript](https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l)
+- [From Black Box to Traceable Swarm: OpenTelemetry Patterns for AI Agents](https://dev.to/kowshik_jallipalli_a7e0a5/from-black-box-to-traceable-swarm-opentelemetry-patterns-for-ai-agents-26e1)
+- [Cost Tracking, Auth &amp; Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
+- [Boosting Lightweight ETL on AWS Lambda &amp; Glue Python Shell with DuckDB and Apache Arrow Dataset](https://dev.to/aws-builders/boosting-lightweight-etl-on-aws-lambda-glue-python-shell-with-duckdb-and-apache-arrow-dataset-3n09)
 <!-- BLOG-POST-LIST:END -->
 
 
