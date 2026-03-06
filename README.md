@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How SQLite Converts Data: Affinity Rules in Action](https://dev.to/lovestaco/how-sqlite-converts-data-affinity-rules-in-action-44ib)
-- [I reverse-engineered manhwa power systems into a real habit RPG — the game design archaeology of SYD](https://dev.to/eko137/i-reverse-engineered-manhwa-power-systems-into-a-real-habit-rpg-the-game-design-archaeology-of-syd-2cn2)
-- [Yarn classic vs Yarn berry installation guide](https://dev.to/arshak_grigoryan/yarn-classic-vs-yarn-berry-installation-guide-3oob)
-- [The Anatomy of a 500ns Parser: Porting libphonenumber to Rust](https://dev.to/vloldik/the-anatomy-of-a-500ns-parser-porting-libphonenumber-to-rust-3daa)
+- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448)
+- [Contract-Style Comments: by Claude Sonnet](https://dev.to/ajaxstardust/contract-style-comments-by-claude-sonnet-4o4a)
+- [Stop Building Brittle Agents: Master the ReAct Pattern for Complex SaaS Tasks](https://dev.to/programmingcentral/stop-building-brittle-agents-master-the-react-pattern-for-complex-saas-tasks-5988)
+- [My Arms Did It](https://dev.to/penelope_lawrence_4b9ca3d/my-arms-did-it-1g79)
 <!-- BLOG-POST-LIST:END -->
 
 
