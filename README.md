@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [scrollbar-gutter to the rescue](https://dev.to/hrgdavor/scrollbar-gutter-to-the-rescue-30hm)
-- [Developer in the Age of AI](https://dev.to/xiaoguang_/developer-in-the-age-of-ai-53dl)
-- [Stop Letting Your AI Agent Read the entire Repo: Introducing trail-docs](https://dev.to/silicon_zee/stop-letting-your-ai-agent-read-the-entire-repo-introducing-trail-docs-321k)
-- [What Installing a New OS Taught Me About Disk Partitions](https://dev.to/access2vivek/what-installing-a-new-os-taught-me-about-disk-partitions-18ag)
+- [My Self-Evolving AI Agent Learned to Count Its Own Money](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-learned-to-count-its-own-money-27oe)
+- [Yandex Search API на стероидах: обзор PHP-библиотеки yandex-search-php](https://dev.to/tigusigalpa/yandex-search-api-na-stieroidakh-obzor-php-bibliotieki-yandex-search-php-30m6)
+- [How to Build a Reward System for an eCommerce Platform using Blnk](https://dev.to/blnkfinance/how-to-build-a-reward-system-for-an-ecommerce-platform-using-blnk-hlk)
+- [n8n vs Huginn: Which Automation Platform to Self-Host?](https://dev.to/selfhostingsh/n8n-vs-huginn-which-automation-platform-to-self-host-246l)
 <!-- BLOG-POST-LIST:END -->
 
 
