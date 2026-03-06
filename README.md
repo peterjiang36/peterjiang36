@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Developer Will Eventually Design AI Systems](https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf)
-- [OpenTableAPI for Developers: Build APIs from Your Table Data](https://dev.to/priyantha_weerasinghe_1d4/opentableapi-for-developers-build-apis-from-your-table-data-27nh)
-- [Vibe Coding Challenge - Day 8: Case Files Dedective Game](https://dev.to/labdays/vibe-coding-challenge-day-8-case-files-dedective-game-33o7)
-- [What is Engineer persona?](https://dev.to/priya_sajja_c336921bbda87/what-is-engineer-persona-5e29)
+- [How to Implement In-App Chat Using a Chat SDK: Complete Guide + CometChat Examples](https://dev.to/cometchat_official_account/how-to-implement-in-app-chat-using-a-chat-sdk-complete-guide-cometchat-examples-5f7f)
+- [Budget vs Actual Analysis Using Power BI Finance Dashboard](https://dev.to/stephen_hawkins_08016935e/budget-vs-actual-analysis-using-power-bi-finance-dashboard-1c6)
+- [Day 4: I Cut My Price to $1 &lpar;Pay What You Want&rpar; — Desperate Move or Smart Experiment?](https://dev.to/agentforgeagi/day-4-i-cut-my-price-to-1-pay-what-you-want-desperate-move-or-smart-experiment-120p)
+- [Open Source Project of the Day &lpar;Part 7&rpar;: UI/UX Pro Max Skill - AI Design Intelligence for Building Professional UI/UX](https://dev.to/wonderlab/open-source-project-of-the-day-part-7-uiux-pro-max-skill-ai-design-intelligence-for-building-4bd5)
 <!-- BLOG-POST-LIST:END -->
 
 
