@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#java #datastructures #programming #collections](https://dev.to/kanishkashr/java-datastructures-programming-collections-2in0)
-- [How I Built an Automated AI Music Video Factory Using n8n](https://dev.to/francofuji/how-i-built-an-automated-ai-music-video-factory-using-n8n-2oic)
-- [🚀 Day 11 of My Automation Journey – Constructors, Inheritance &amp; Java Interview Questions](https://dev.to/bala_dkaveri_443d4beb9c8/day-11-of-my-automation-journey-constructors-inheritance-java-interview-questions-1jb8)
-- [Running a Containerised App on AWS: My Experience](https://dev.to/ijay/running-a-containerised-app-on-aws-my-experience-459a)
+- [Kill Fees: Getting Paid When Projects Get Cancelled](https://dev.to/privatepiecerec_09954c609/kill-fees-getting-paid-when-projects-get-cancelled-671)
+- [Implementing a JSON Schema Validator from Scratch - Week 7](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-7-33pj)
+- [lessons learnt from CTF Linux Challenge - part 1](https://dev.to/shatakshig8/lessons-learnt-from-ctf-linux-challenge-part-1-224h)
+- [How to Use Dremio with Claude CoWork: Connect, Query, and Build Data Apps](https://dev.to/alexmercedcoder/how-to-use-dremio-with-claude-cowork-connect-query-and-build-data-apps-1mi4)
 <!-- BLOG-POST-LIST:END -->
 
 
