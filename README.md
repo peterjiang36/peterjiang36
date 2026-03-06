@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448)
-- [Contract-Style Comments: by Claude Sonnet](https://dev.to/ajaxstardust/contract-style-comments-by-claude-sonnet-4o4a)
-- [Stop Building Brittle Agents: Master the ReAct Pattern for Complex SaaS Tasks](https://dev.to/programmingcentral/stop-building-brittle-agents-master-the-react-pattern-for-complex-saas-tasks-5988)
-- [My Arms Did It](https://dev.to/penelope_lawrence_4b9ca3d/my-arms-did-it-1g79)
+- [Security news weekly round-up - 6th March 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-march-2026-1jeg)
+- [16-bit AI Quality at 11-bit Size? How DFloat11 achieves Lossless LLM Compression](https://dev.to/syed_mehrab_08fb0419feedf/16-bit-ai-quality-at-11-bit-size-how-dfloat11-achieves-lossless-llm-compression-3ahj)
+- [7 AI Tools Developers Actually Use in 2026 &lpar;Beyond Copilot&rpar;](https://dev.to/nebulagg/7-ai-tools-developers-actually-use-in-2026-beyond-copilot-2kl7)
+- [Website Development](https://dev.to/dev_94e556c85f5333302eb79/website-development-37ep)
 <!-- BLOG-POST-LIST:END -->
 
 
