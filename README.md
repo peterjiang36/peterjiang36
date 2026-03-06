@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Notification Infrastructure at Scale Is a Trap: Why Your Team Will Regret Rolling Their Own](https://dev.to/andreashatlem/building-notification-infrastructure-at-scale-is-a-trap-why-your-team-will-regret-rolling-their-own-4deg)
-- [Implementing a &quot;Conjure-to-Climb&quot; Mechanic in Unity &amp; C#](https://dev.to/shanmukhasrinivasa/implementing-a-conjure-to-climb-mechanic-in-unity-c-251i)
-- [I Built a Free, Multilingual AI Education Platform — Here&#39;s How 🌍🤖](https://dev.to/rameshreddy-adutla/i-built-a-free-multilingual-ai-education-platform-heres-how-443j)
-- [my little notion-powered sidekick](https://dev.to/aniruddhaadak/my-little-notion-powered-sidekick-imj)
+- [GPT-5.4 Is Here? No. But Here&#39;s What Developers Actually Need to Know About GPT-5](https://dev.to/kunal_d6a8fea2309e1571ee7/gpt-54-is-here-no-but-heres-what-developers-actually-need-to-know-about-gpt-5-4lbp)
+- [How I Built WhatsApp Bots That Handle 1000+ Conversations for Small Businesses](https://dev.to/achiya-automation/how-i-built-whatsapp-bots-that-handle-1000-conversations-for-small-businesses-5b6a)
+- [Partie 4 — La première instance Supabase](https://dev.to/voieducode/partie-4-la-premiere-instance-supabase-3205)
+- [Why Vercel&#39;s agent-browser Is Winning the Token Efficiency War for AI Browser Automation](https://dev.to/chen_zhang_bac430bc7f6b95/why-vercels-agent-browser-is-winning-the-token-efficiency-war-for-ai-browser-automation-4p87)
 <!-- BLOG-POST-LIST:END -->
 
 
