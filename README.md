@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust for AI Agents? Google Workspace CLI&#39;s Design Philosophy](https://dev.to/akari_iku/zero-trust-for-ai-agents-google-workspace-clis-design-philosophy-46k1)
-- [I Built a Chrome Extension That Finally Makes Bookmarks Searchable — Here&#39;s How](https://dev.to/jagadeeshjayachandran/i-built-a-chrome-extension-that-finally-makes-bookmarks-searchable-heres-how-4a4d)
-- [Why We Don&#39;t Use Socket Connections for Everything](https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g)
-- [Why is moving money from card to bank account so difficult? Building VZr0 to explore a simpler flow](https://dev.to/vzr0/why-is-moving-money-from-card-to-bank-account-so-difficult-building-vzr0-to-explore-a-simpler-flow-33m8)
+- [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
+- [How I Built a Visioryx Forensic Engine with FastAPI and BLIP 🛡️](https://dev.to/yousafk279/how-i-built-a-visioryx-forensic-engine-with-fastapi-and-blip-3kbh)
+- [March 19 - Women in AI Meetup](https://dev.to/voxel51/march-19-women-in-ai-meetup-1bd7)
+- [Data Relationship Analysis at Scale with Arisyn](https://dev.to/hello_arisyn_0dc948aa82b3/data-relationship-analysis-at-scale-with-arisyn-3f2k)
 <!-- BLOG-POST-LIST:END -->
 
 
