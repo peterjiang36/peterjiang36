@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing &#39;Publish to Dev.to Organization&#39; Action: How to Safely Test Your Workflow](https://dev.to/tinyalg/introducing-publish-to-devto-organization-action-how-to-safely-test-your-workflow-12gb)
-- [Beyond Static Resources: Delta Compression for Dynamic HTML](https://dev.to/carlosmateom/beyond-static-resources-delta-compression-for-dynamic-html-3hn4)
-- [Why Passing Eloquent Models to Queued Jobs Can Be Problematic](https://dev.to/andreluizlunelli/why-passing-eloquent-models-to-queued-jobs-can-be-problematic-26m7)
-- [Arquitetura em Camadas: Um guia para Organização de APIs](https://dev.to/leo606/arquitetura-em-camadas-um-guia-para-organizacao-de-apis-1pm6)
+- [Which Framework to use for Making eLearning Apps](https://dev.to/zimlearn/which-framework-to-use-for-making-elearning-apps-51p)
+- [Happy Pi Day](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-20n0)
+- [The Shim Proxy Pattern: A Zero-Disruption Path from React Native Legacy to Expo CNG](https://dev.to/thenoroboto/the-shim-proxy-pattern-a-zero-disruption-path-from-react-native-legacy-to-expo-cng-ai1)
+- [GPT-5.4 Complete Guide: What&#39;s New, API Access, and How to Use It](https://dev.to/ashinno/gpt-54-complete-guide-whats-new-api-access-and-how-to-use-it-55gk)
 <!-- BLOG-POST-LIST:END -->
 
 
