@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement In-App Chat Using a Chat SDK: Complete Guide + CometChat Examples](https://dev.to/cometchat_official_account/how-to-implement-in-app-chat-using-a-chat-sdk-complete-guide-cometchat-examples-5f7f)
-- [Budget vs Actual Analysis Using Power BI Finance Dashboard](https://dev.to/stephen_hawkins_08016935e/budget-vs-actual-analysis-using-power-bi-finance-dashboard-1c6)
-- [Day 4: I Cut My Price to $1 &lpar;Pay What You Want&rpar; — Desperate Move or Smart Experiment?](https://dev.to/agentforgeagi/day-4-i-cut-my-price-to-1-pay-what-you-want-desperate-move-or-smart-experiment-120p)
-- [Open Source Project of the Day &lpar;Part 7&rpar;: UI/UX Pro Max Skill - AI Design Intelligence for Building Professional UI/UX](https://dev.to/wonderlab/open-source-project-of-the-day-part-7-uiux-pro-max-skill-ai-design-intelligence-for-building-4bd5)
+- [From Photo to Explorable 3D World in Under 3 Minutes: The No-Code Gaussian Splatting Revolution Finally Happened](https://dev.to/alexmercer_creatives/from-photo-to-explorable-3d-world-in-under-3-minutes-the-no-code-gaussian-splatting-revolution-1mfe)
+- [Build Your First AI Agent in Python — No ML Degree Required](https://dev.to/klement_gunndu/build-your-first-ai-agent-in-python-no-ml-degree-required-2l97)
+- [[BOJ/C++] 단계별로 풀어보기 - 스택, 큐, 덱 1](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-seutaeg-kyu-deg-1-4p09)
+- [adanos-cli: Stock &amp; Crypto Sentiment Straight From Your Terminal](https://dev.to/alexanderschneider/adanos-cli-stock-crypto-sentiment-straight-from-your-terminal-47j1)
 <!-- BLOG-POST-LIST:END -->
 
 
