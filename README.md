@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Self-Evolving AI Agent Learned to Count Its Own Money](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-learned-to-count-its-own-money-27oe)
-- [Yandex Search API на стероидах: обзор PHP-библиотеки yandex-search-php](https://dev.to/tigusigalpa/yandex-search-api-na-stieroidakh-obzor-php-bibliotieki-yandex-search-php-30m6)
-- [How to Build a Reward System for an eCommerce Platform using Blnk](https://dev.to/blnkfinance/how-to-build-a-reward-system-for-an-ecommerce-platform-using-blnk-hlk)
-- [n8n vs Huginn: Which Automation Platform to Self-Host?](https://dev.to/selfhostingsh/n8n-vs-huginn-which-automation-platform-to-self-host-246l)
+- [#java #datastructures #programming #collections](https://dev.to/kanishkashr/java-datastructures-programming-collections-2in0)
+- [How I Built an Automated AI Music Video Factory Using n8n](https://dev.to/francofuji/how-i-built-an-automated-ai-music-video-factory-using-n8n-2oic)
+- [🚀 Day 11 of My Automation Journey – Constructors, Inheritance &amp; Java Interview Questions](https://dev.to/bala_dkaveri_443d4beb9c8/day-11-of-my-automation-journey-constructors-inheritance-java-interview-questions-1jb8)
+- [Running a Containerised App on AWS: My Experience](https://dev.to/ijay/running-a-containerised-app-on-aws-my-experience-459a)
 <!-- BLOG-POST-LIST:END -->
 
 
