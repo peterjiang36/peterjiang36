@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Framework to use for Making eLearning Apps](https://dev.to/zimlearn/which-framework-to-use-for-making-elearning-apps-51p)
-- [Happy Pi Day](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-20n0)
-- [The Shim Proxy Pattern: A Zero-Disruption Path from React Native Legacy to Expo CNG](https://dev.to/thenoroboto/the-shim-proxy-pattern-a-zero-disruption-path-from-react-native-legacy-to-expo-cng-ai1)
-- [GPT-5.4 Complete Guide: What&#39;s New, API Access, and How to Use It](https://dev.to/ashinno/gpt-54-complete-guide-whats-new-api-access-and-how-to-use-it-55gk)
+- [From EC2 Servers to Serverless Hosting: Learning Amazon S3, IAM &amp; AWS CLI &lpar;Day 4&rpar;](https://dev.to/avinashwagh/from-ec2-servers-to-serverless-hosting-learning-amazon-s3-iam-aws-cli-day-4-iak)
+- [A Journey Inside the Asynchronous Nature of JavaScript](https://dev.to/ebraheemsaid/a-journey-inside-the-asynchronous-nature-of-javascript-49j8)
+- [What Is Confidential AI? The Security Gap Your Encryption Doesn’t Cover](https://dev.to/jaipalsingh/what-is-confidential-ai-the-security-gap-your-encryption-doesnt-cover-4k51)
+- [Building XORPHER: A Multi-Algorithm XOR Encryption Tool for Red Teaming](https://dev.to/excalibra/building-xorpher-a-multi-algorithm-xor-encryption-tool-for-red-teaming-1en7)
 <!-- BLOG-POST-LIST:END -->
 
 
