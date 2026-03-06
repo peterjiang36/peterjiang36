@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.4 Is Here? No. But Here&#39;s What Developers Actually Need to Know About GPT-5](https://dev.to/kunal_d6a8fea2309e1571ee7/gpt-54-is-here-no-but-heres-what-developers-actually-need-to-know-about-gpt-5-4lbp)
-- [How I Built WhatsApp Bots That Handle 1000+ Conversations for Small Businesses](https://dev.to/achiya-automation/how-i-built-whatsapp-bots-that-handle-1000-conversations-for-small-businesses-5b6a)
-- [Partie 4 — La première instance Supabase](https://dev.to/voieducode/partie-4-la-premiere-instance-supabase-3205)
-- [Why Vercel&#39;s agent-browser Is Winning the Token Efficiency War for AI Browser Automation](https://dev.to/chen_zhang_bac430bc7f6b95/why-vercels-agent-browser-is-winning-the-token-efficiency-war-for-ai-browser-automation-4p87)
+- [I Found an Open-Source AI Agent That Runs on Your Laptop and Talks Through Telegram, Discord, and WhatsApp](https://dev.to/dsharma08k/i-found-an-open-source-ai-agent-that-runs-on-your-laptop-and-talks-through-telegram-discord-and-17kl)
+- [test](https://dev.to/mikeydorje/test-14g4)
+- [Join the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing &amp; Frontend Art 🎨!](https://dev.to/devteam/join-the-2026-wecoded-challenge-and-celebrate-underrepresented-voices-in-tech-through-writing--4828)
+- [I built a free Planning Poker tool with Next.js and Socket.io](https://dev.to/kodakro/i-built-a-free-planning-poker-tool-with-nextjs-and-socketio-20dd)
 <!-- BLOG-POST-LIST:END -->
 
 
