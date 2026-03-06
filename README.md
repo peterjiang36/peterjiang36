@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 6th March 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-march-2026-1jeg)
-- [16-bit AI Quality at 11-bit Size? How DFloat11 achieves Lossless LLM Compression](https://dev.to/syed_mehrab_08fb0419feedf/16-bit-ai-quality-at-11-bit-size-how-dfloat11-achieves-lossless-llm-compression-3ahj)
-- [7 AI Tools Developers Actually Use in 2026 &lpar;Beyond Copilot&rpar;](https://dev.to/nebulagg/7-ai-tools-developers-actually-use-in-2026-beyond-copilot-2kl7)
-- [Website Development](https://dev.to/dev_94e556c85f5333302eb79/website-development-37ep)
+- [Building a JSON Formatter: Zero-Click Auto-Format and the Clipboard API Trap](https://dev.to/tommy_worklab/building-a-json-formatter-zero-click-auto-format-and-the-clipboard-api-trap-n9i)
+- [I Searched for a Skitch Alternative, Then Built One in a Day — A PWA Image Annotation Tool](https://dev.to/tommy_worklab/i-searched-for-a-skitch-alternative-then-built-one-in-a-day-a-pwa-image-annotation-tool-hbj)
+- [Claude Code + Obsidian: Turn AI Conversations into a Persistent Knowledge Base](https://dev.to/tommy_worklab/claude-code-obsidian-turn-ai-conversations-into-a-persistent-knowledge-base-4l29)
+- [Palantir&#39;s Secret Weapon Isn&#39;t AI — It&#39;s Ontology. Here&#39;s Why Engineers Should Care.](https://dev.to/s3atoshi_leading_ai/palantirs-secret-weapon-isnt-ai-its-ontology-heres-why-engineers-should-care-kk8)
 <!-- BLOG-POST-LIST:END -->
 
 
