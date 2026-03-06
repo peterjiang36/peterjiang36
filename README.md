@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kill Fees: Getting Paid When Projects Get Cancelled](https://dev.to/privatepiecerec_09954c609/kill-fees-getting-paid-when-projects-get-cancelled-671)
-- [Implementing a JSON Schema Validator from Scratch - Week 7](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-7-33pj)
-- [lessons learnt from CTF Linux Challenge - part 1](https://dev.to/shatakshig8/lessons-learnt-from-ctf-linux-challenge-part-1-224h)
-- [How to Use Dremio with Claude CoWork: Connect, Query, and Build Data Apps](https://dev.to/alexmercedcoder/how-to-use-dremio-with-claude-cowork-connect-query-and-build-data-apps-1mi4)
+- [Building Notification Infrastructure at Scale Is a Trap: Why Your Team Will Regret Rolling Their Own](https://dev.to/andreashatlem/building-notification-infrastructure-at-scale-is-a-trap-why-your-team-will-regret-rolling-their-own-4deg)
+- [Implementing a &quot;Conjure-to-Climb&quot; Mechanic in Unity &amp; C#](https://dev.to/shanmukhasrinivasa/implementing-a-conjure-to-climb-mechanic-in-unity-c-251i)
+- [I Built a Free, Multilingual AI Education Platform — Here&#39;s How 🌍🤖](https://dev.to/rameshreddy-adutla/i-built-a-free-multilingual-ai-education-platform-heres-how-443j)
+- [my little notion-powered sidekick](https://dev.to/aniruddhaadak/my-little-notion-powered-sidekick-imj)
 <!-- BLOG-POST-LIST:END -->
 
 
