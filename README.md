@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free browser-based image toolkit with JavaScript](https://dev.to/koalla_lab/i-built-a-free-browser-based-image-toolkit-with-javascript-183l)
-- [From Black Box to Traceable Swarm: OpenTelemetry Patterns for AI Agents](https://dev.to/kowshik_jallipalli_a7e0a5/from-black-box-to-traceable-swarm-opentelemetry-patterns-for-ai-agents-26e1)
-- [Cost Tracking, Auth &amp; Production Hardening](https://dev.to/tyson_cung/cost-tracking-auth-production-hardening-65j)
-- [Boosting Lightweight ETL on AWS Lambda &amp; Glue Python Shell with DuckDB and Apache Arrow Dataset](https://dev.to/aws-builders/boosting-lightweight-etl-on-aws-lambda-glue-python-shell-with-duckdb-and-apache-arrow-dataset-3n09)
+- [Introducing &#39;Publish to Dev.to Organization&#39; Action: How to Safely Test Your Workflow](https://dev.to/tinyalg/introducing-publish-to-devto-organization-action-how-to-safely-test-your-workflow-12gb)
+- [Beyond Static Resources: Delta Compression for Dynamic HTML](https://dev.to/carlosmateom/beyond-static-resources-delta-compression-for-dynamic-html-3hn4)
+- [Why Passing Eloquent Models to Queued Jobs Can Be Problematic](https://dev.to/andreluizlunelli/why-passing-eloquent-models-to-queued-jobs-can-be-problematic-26m7)
+- [Arquitetura em Camadas: Um guia para Organização de APIs](https://dev.to/leo606/arquitetura-em-camadas-um-guia-para-organizacao-de-apis-1pm6)
 <!-- BLOG-POST-LIST:END -->
 
 
