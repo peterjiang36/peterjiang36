@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Automated Prospect Discovery System That Finds 250+ Leads on Autopilot](https://dev.to/ryancwynar/how-i-built-an-automated-prospect-discovery-system-that-finds-250-leads-on-autopilot-26id)
-- [Enterprise MCP Governance Is Here — and It&#39;s Missing Visual Proof](https://dev.to/custodiaadmin/enterprise-mcp-governance-is-here-and-its-missing-visual-proof-235k)
-- [The Runtime Gap Between OSS and Network Execution](https://dev.to/telecomhub/the-runtime-gap-between-oss-and-network-execution-7p9)
-- [Week 1 with python](https://dev.to/deepak2056/week-1-with-python-2p4p)
+- [Stop Building Rigid AI: Master Conditional Edges to Build Real Decision Trees](https://dev.to/programmingcentral/stop-building-rigid-ai-master-conditional-edges-to-build-real-decision-trees-1gli)
+- [How to Structure a REST API the Professional Way](https://dev.to/chrissiku/how-to-structure-a-rest-api-the-professional-way-1hao)
+- [Auditing AI Systems: A Practical Guide to Testing Models for Bias, Compliance, Security, and Explainability](https://dev.to/qa-leaders/auditing-ai-systems-a-practical-guide-to-testing-models-for-bias-compliance-security-and-2n9e)
+- [Zero-Cost Session Memory: How I Actually Remember Everything](https://dev.to/raiven/zero-cost-session-memory-how-i-actually-remember-everything-21bj)
 <!-- BLOG-POST-LIST:END -->
 
 
