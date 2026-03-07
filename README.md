@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a RAG Pipeline in Python That Actually Works](https://dev.to/klement_gunndu/build-a-rag-pipeline-in-python-that-actually-works-28dg)
-- [REEL: A Proper Name for the Autonomous Agent Loop](https://dev.to/gregsmethells/reel-a-proper-name-for-the-autonomous-agent-loop-37fj)
-- [GPX Runner&#39;s data decoded with PHP](https://dev.to/robertobutti/gpx-runners-data-decoded-with-php-bm9)
-- [Stop Treating Your Career Like a Legacy Codebase: A Developer&#39;s Guide to Intentional Growth](https://dev.to/coach4life/stop-treating-your-career-like-a-legacy-codebase-a-developers-guide-to-intentional-growth-1b9d)
+- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
+- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
+- [I Built a Solana Tip Jar](https://dev.to/kingfaitho/i-built-a-solana-tip-jar-27c8)
+- [OpenID Connect Discovery 1.0 Deep Dive: OP&#39;s &quot;Self-Introduction&quot; and Dynamic Configuration Retrieval](https://dev.to/kanywst/openid-connect-discovery-10-deep-dive-ops-self-introduction-and-dynamic-configuration-retrieval-2ja9)
 <!-- BLOG-POST-LIST:END -->
 
 
