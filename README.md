@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
-- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
-- [I Built a Solana Tip Jar](https://dev.to/kingfaitho/i-built-a-solana-tip-jar-27c8)
-- [OpenID Connect Discovery 1.0 Deep Dive: OP&#39;s &quot;Self-Introduction&quot; and Dynamic Configuration Retrieval](https://dev.to/kanywst/openid-connect-discovery-10-deep-dive-ops-self-introduction-and-dynamic-configuration-retrieval-2ja9)
+- [Scaling pgvector: Memory, Quantization, and Index Build Strategies](https://dev.to/philip_mcclarence_2ef9475/scaling-pgvector-memory-quantization-and-index-build-strategies-8m2)
+- [A 2018 Access Key. Still Active in Production. Here&#39;s the Python Script That Found It Across an Entire AWS Organization.](https://dev.to/aws-heroes/a-2018-access-key-still-active-in-production-heres-the-python-script-that-found-it-across-an-3pd3)
+- [Making .NET GC Behavior Observable: What I Learned Building GCExperiment](https://dev.to/mehedi_shuvo/making-net-gc-behavior-observable-what-i-learned-building-gcexperiment-h02)
+- [Building UDP-Like Telemetry with Auto-Remediation Over WebSockets](https://dev.to/rpi1337/building-udp-like-telemetry-with-auto-remediation-over-websockets-57h1)
 <!-- BLOG-POST-LIST:END -->
 
 
