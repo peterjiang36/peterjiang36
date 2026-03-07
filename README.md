@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Emulating Callable Objects](https://dev.to/mike-vincent/quarks-outlines-python-emulating-callable-objects-188d)
-- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-4mc8)
-- [Event-Driven Volatility](https://dev.to/rawveg/event-driven-volatility-13df)
-- [Event-Driven Architecture on a Budget: Kotlin Coroutines + Redis Streams](https://dev.to/software_mvp-factory/event-driven-architecture-on-a-budget-kotlin-coroutines-redis-streams-4f5i)
+- [What Happens Behind the Scenes When You Publish a Website](https://dev.to/micheal_angelo_41cea4e81a/what-happens-behind-the-scenes-when-you-publish-a-website-33n2)
+- [The Fastest Way to Learn Claude Code &lpar;No Setup, No Config, Just Practice&rpar;](https://dev.to/sanjeev23oct/the-fastest-way-to-learn-claude-code-no-setup-no-config-just-practice-368p)
+- [Dream/Nightmare: What Kind of Malware is That? 🥶](https://dev.to/annavi11arrea1/dreamnightmare-what-kind-of-malware-is-that-201j)
+- [I built an AI employee platform with 30+ autonomous agents that actually do work — not just chat](https://dev.to/buffaloherde/i-built-an-ai-employee-platform-with-30-autonomous-agents-that-actually-do-work-not-just-chat-1i48)
 <!-- BLOG-POST-LIST:END -->
 
 
