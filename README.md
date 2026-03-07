@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
-- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
-- [NervForge: Generate Beautiful 3D Trees in Your Browser &lpar;Free Tool&rpar;](https://dev.to/the_lone_engineer/nervforge-generate-beautiful-3d-trees-in-your-browser-free-tool-8n2)
-- [How to give Claude real-time access to your business finances with MCP](https://dev.to/eliaskress/how-to-give-claude-real-time-access-to-your-business-finances-with-mcp-2bmb)
+- [5 Risks Every AI Agent Can Cause in Production &lpar;and How to Monitor Them&rpar;](https://dev.to/jairo_junior_b5caf3172f89/5-risks-every-ai-agent-can-cause-in-production-and-how-to-monitor-them-38na)
+- [I Built a Database That Never Forgets — Here&#39;s Why](https://dev.to/walebadr/tensordb-ai-native-bitemporal-ledger-database-with-full-sql-and-postgresql-wire-protocol-3eal)
+- [How We Generate AI Network Digests for MegaETH at MiniBlocks.io](https://dev.to/miniblocskio/how-we-generate-ai-network-digests-for-megaeth-at-miniblocksio-ol4)
+- [How My AI Agent&#39;s Memory Created an Optimism Feedback Loop](https://dev.to/boucle2026/how-my-ai-agents-memory-created-an-optimism-feedback-loop-57km)
 <!-- BLOG-POST-LIST:END -->
 
 
