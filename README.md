@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Valkyrie: AI-Powered Crisis Logistics &amp; Response Hub](https://dev.to/kanyingidickson-dev/project-valkyrie-ai-powered-crisis-logistics-response-hub-5gff)
-- [Lombok @Getter/@Setter Not Working in Eclipse or STS? Fix in 3 Steps by Keval Chheda](https://dev.to/kevalchheda/lombok-gettersetter-not-working-in-eclipse-or-sts-fix-in-3-steps-3j3i)
-- [I built an open-source firewall for AI agents — it blocks dangerous tool calls before they execute](https://dev.to/justin0504/i-built-an-open-source-firewall-for-ai-agents-it-blocks-dangerous-tool-calls-before-they-4p5f)
-- [Building Accessible Websites: A 2026 Checklist with Free Testing Tools](https://dev.to/julien786534/building-accessible-websites-a-2026-checklist-with-free-testing-tools-1k6n)
+- [PlantUML Editor](https://dev.to/aristorinjuang/plantuml-editor-36ad)
+- [Docker Networking Explained: From Zero to Hero with Real Examples](https://dev.to/teguh_coding/docker-networking-explained-from-zero-to-hero-with-real-examples-1799)
+- [The secret isn&#39;t the model. It&#39;s the harness.](https://dev.to/n_asuy/the-secret-isnt-the-model-its-the-harness-587a)
+- [Everyone&#39;s Optimizing Prompts. I Optimized What the Prompt Already Knows.](https://dev.to/rayne_robinson_e479bf0f26/everyones-optimizing-prompts-i-optimized-what-the-prompt-already-knows-1d33)
 <!-- BLOG-POST-LIST:END -->
 
 
