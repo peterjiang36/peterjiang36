@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Risks Every AI Agent Can Cause in Production &lpar;and How to Monitor Them&rpar;](https://dev.to/jairo_junior_b5caf3172f89/5-risks-every-ai-agent-can-cause-in-production-and-how-to-monitor-them-38na)
-- [I Built a Database That Never Forgets — Here&#39;s Why](https://dev.to/walebadr/tensordb-ai-native-bitemporal-ledger-database-with-full-sql-and-postgresql-wire-protocol-3eal)
-- [How We Generate AI Network Digests for MegaETH at MiniBlocks.io](https://dev.to/miniblocskio/how-we-generate-ai-network-digests-for-megaeth-at-miniblocksio-ol4)
-- [How My AI Agent&#39;s Memory Created an Optimism Feedback Loop](https://dev.to/boucle2026/how-my-ai-agents-memory-created-an-optimism-feedback-loop-57km)
+- [Title: Digital Footprints: How Much Do We Really Leave Behind?](https://dev.to/daemonroot/title-digital-footprints-how-much-do-we-really-leave-behind-11od)
+- [Building LLM Apps Using LangChain AI Orchestration](https://dev.to/eagleeyethinker/building-llm-apps-using-langchain-ai-orchestration-2f34)
+- [Web2API — Turning Websites into REST APIs &lpar;and MCP Tools&rpar;](https://dev.to/endogen/web2api-turning-websites-into-rest-apis-and-mcp-tools-be4)
+- [My coworker wanted mood-based music. I built it before the beer got warm.](https://dev.to/th3chris/my-coworker-wanted-mood-based-music-i-built-it-before-the-beer-got-warm-3h10)
 <!-- BLOG-POST-LIST:END -->
 
 
