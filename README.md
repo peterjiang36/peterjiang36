@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Directly in Java — I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #10](https://dev.to/sugaiketadao/sql-directly-in-java-i-built-a-lightweight-java-framework-for-japans-si-projects-third-2k54)
-- [I built Anubis-inspired PoW bot protection for static sites — no server needed](https://dev.to/51511/i-built-anubis-inspired-pow-bot-protection-for-static-sites-no-server-needed-3hi0)
-- [How To Use Claude Code With Any AI Model Using an LLM Gateway &lpar;Bifrost&rpar;](https://dev.to/the_greatbonnie/how-to-use-claude-code-with-any-ai-model-using-an-llm-gateway-bifrost-50of)
-- [Modern CSS Pattern Backgrounds &amp; Effects](https://dev.to/naimesh_rao_aa5688c26bee6/modern-css-pattern-backgrounds-ui-effects-2e3a)
+- [Project Valkyrie: AI-Powered Crisis Logistics &amp; Response Hub](https://dev.to/kanyingidickson-dev/project-valkyrie-ai-powered-crisis-logistics-response-hub-5gff)
+- [Lombok @Getter/@Setter Not Working in Eclipse or STS? Fix in 3 Steps by Keval Chheda](https://dev.to/kevalchheda/lombok-gettersetter-not-working-in-eclipse-or-sts-fix-in-3-steps-3j3i)
+- [I built an open-source firewall for AI agents — it blocks dangerous tool calls before they execute](https://dev.to/justin0504/i-built-an-open-source-firewall-for-ai-agents-it-blocks-dangerous-tool-calls-before-they-4p5f)
+- [Building Accessible Websites: A 2026 Checklist with Free Testing Tools](https://dev.to/julien786534/building-accessible-websites-a-2026-checklist-with-free-testing-tools-1k6n)
 <!-- BLOG-POST-LIST:END -->
 
 
