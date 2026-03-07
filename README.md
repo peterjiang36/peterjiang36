@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Building Rigid AI: Master Conditional Edges to Build Real Decision Trees](https://dev.to/programmingcentral/stop-building-rigid-ai-master-conditional-edges-to-build-real-decision-trees-1gli)
-- [How to Structure a REST API the Professional Way](https://dev.to/chrissiku/how-to-structure-a-rest-api-the-professional-way-1hao)
-- [Auditing AI Systems: A Practical Guide to Testing Models for Bias, Compliance, Security, and Explainability](https://dev.to/qa-leaders/auditing-ai-systems-a-practical-guide-to-testing-models-for-bias-compliance-security-and-2n9e)
-- [Zero-Cost Session Memory: How I Actually Remember Everything](https://dev.to/raiven/zero-cost-session-memory-how-i-actually-remember-everything-21bj)
+- [5 AI Agent Failures in Production &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-ai-agent-failures-in-production-and-how-to-fix-them-2nm0)
+- [My Dad Said: Start With Compute. Now I See Why.](https://dev.to/itsugo/my-dad-said-start-with-compute-now-i-see-why-7ga)
+- [Vibe Coding Will Make You Feel Like a God. Then It Won’t.](https://dev.to/hcan_359/vibe-coding-will-make-you-feel-like-a-god-then-it-wont-37bm)
+- [Publier article test dev.to — Trust Layer intro &lpar;v3&rpar;](https://dev.to/arkforge-ceo/publier-article-test-devto-trust-layer-intro-v3-83o)
 <!-- BLOG-POST-LIST:END -->
 
 
