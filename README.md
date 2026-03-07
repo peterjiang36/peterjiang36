@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Ship Production Apps in Weeks, Not Months. Here&#39;s the Engineering Behind It.](https://dev.to/michelle-jones/we-ship-production-apps-in-weeks-not-months-heres-the-engineering-behind-it-2aof)
-- [Important: A VS Code Extension That Keeps Your Python Imports Clean](https://dev.to/irarainey/important-a-vs-code-extension-that-keeps-your-python-imports-clean-je6)
-- [LLMs work best when the user defines their acceptance criteria first](https://dev.to/technoblogger14o3/llms-work-best-when-the-user-defines-their-acceptance-criteria-first-5oa)
-- [Procedural Gradients, Hotfixes, and the Power of QA](https://dev.to/jesuspinarte/procedural-gradients-hotfixes-and-the-power-of-qa-51cb)
+- [SQL Directly in Java — I built a lightweight Java framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar; #10](https://dev.to/sugaiketadao/sql-directly-in-java-i-built-a-lightweight-java-framework-for-japans-si-projects-third-2k54)
+- [I built Anubis-inspired PoW bot protection for static sites — no server needed](https://dev.to/51511/i-built-anubis-inspired-pow-bot-protection-for-static-sites-no-server-needed-3hi0)
+- [How To Use Claude Code With Any AI Model Using an LLM Gateway &lpar;Bifrost&rpar;](https://dev.to/the_greatbonnie/how-to-use-claude-code-with-any-ai-model-using-an-llm-gateway-bifrost-50of)
+- [Modern CSS Pattern Backgrounds &amp; Effects](https://dev.to/naimesh_rao_aa5688c26bee6/modern-css-pattern-backgrounds-ui-effects-2e3a)
 <!-- BLOG-POST-LIST:END -->
 
 
