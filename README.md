@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How GenAI Genesis Began](https://dev.to/alankritverma/how-genai-genesis-began-523b)
-- [I Built a Free Hemingway Editor Alternative That Runs in Your Browser](https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4)
-- [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
-- [Building MIRROR: A Luxury AI Fashion Try-On App with Perfect Corp APIs](https://dev.to/stevenwallace/building-mirror-a-luxury-ai-fashion-try-on-app-with-perfect-corp-apis-4o1n)
+- [How I built a 39 compression pipeline with AES-256-GCM in Python &lpar;and why the dictionary is everything&rpar;](https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc)
+- [How I Use AST Diffing and LLMs to Keep Docs in Sync with Code](https://dev.to/elshadhu/how-i-use-ast-diffing-and-llms-to-keep-docs-in-sync-with-code-2a97)
+- [Build Production-Safe API: Crucial Things Most Junior Devs and Beginners Neglect](https://dev.to/juddee/build-production-safe-api-crucial-things-most-junior-devs-and-beginners-neglect-4ofh)
+- [AWS IAM Security Best Practices in 2026: A Complete Guide](https://dev.to/karaniph/aws-iam-security-best-practices-in-2026-a-complete-guide-o14)
 <!-- BLOG-POST-LIST:END -->
 
 
