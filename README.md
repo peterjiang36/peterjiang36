@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a 39 compression pipeline with AES-256-GCM in Python &lpar;and why the dictionary is everything&rpar;](https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc)
-- [How I Use AST Diffing and LLMs to Keep Docs in Sync with Code](https://dev.to/elshadhu/how-i-use-ast-diffing-and-llms-to-keep-docs-in-sync-with-code-2a97)
-- [Build Production-Safe API: Crucial Things Most Junior Devs and Beginners Neglect](https://dev.to/juddee/build-production-safe-api-crucial-things-most-junior-devs-and-beginners-neglect-4ofh)
-- [AWS IAM Security Best Practices in 2026: A Complete Guide](https://dev.to/karaniph/aws-iam-security-best-practices-in-2026-a-complete-guide-o14)
+- [Running MCP Servers Locally with Docker MCP Ecosystem: Dynamic MCP + Kiro &lpar;DIY GUIDE&rpar;](https://dev.to/puneet_gavri_e5944e2c7cee/running-mcp-servers-locally-with-docker-mcp-ecosystem-dynamic-mcp-kiro-diy-guide-6)
+- [No Account Needed. Just Pick a Name and Try.](https://dev.to/agenium_platform/no-account-needed-just-pick-a-name-and-try-5a5j)
+- [Encrypt Google ADK Sessions in 5 Minutes](https://dev.to/albertocodes/encrypt-google-adk-sessions-in-5-minutes-5b9f)
+- [Your Voice Assistant Is Always Listening: What Amazon, Google, and Apple Are Actually Recording](https://dev.to/tiamatenity/your-voice-assistant-is-always-listening-what-amazon-google-and-apple-are-actually-recording-1a85)
 <!-- BLOG-POST-LIST:END -->
 
 
