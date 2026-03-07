@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PrivateGPT vs Prem AI: Which Private AI Platform Is Enterprise-Ready? &lpar;2026&rpar;](https://dev.to/jaipalsingh/privategpt-vs-prem-ai-which-private-ai-platform-is-enterprise-ready-2026-2jhl)
-- [Deploying a 2048 Game on Kubernetes using Amazon EKS — End-to-End DevOps Project](https://dev.to/abhishekjaiswal_4896/deploying-a-2048-game-on-kubernetes-using-amazon-eks-end-to-end-devops-project-41cd)
-- [I Built 35 Free CLI Tools for Claude Code -- Here&#39;s What Each One Does](https://dev.to/yurukusa/i-built-35-free-cli-tools-for-claude-code-heres-what-each-one-does-387m)
-- [Understanding the Transformer Architecture : A Student&#39;s Journey from Classroom to Exam Hall](https://dev.to/sreeni5018/understanding-the-transformer-architecture-a-studentsjourney-from-classroom-to-exam-hall-11ol)
+- [How GenAI Genesis Began](https://dev.to/alankritverma/how-genai-genesis-began-523b)
+- [I Built a Free Hemingway Editor Alternative That Runs in Your Browser](https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4)
+- [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
+- [Building MIRROR: A Luxury AI Fashion Try-On App with Perfect Corp APIs](https://dev.to/stevenwallace/building-mirror-a-luxury-ai-fashion-try-on-app-with-perfect-corp-apis-4o1n)
 <!-- BLOG-POST-LIST:END -->
 
 
