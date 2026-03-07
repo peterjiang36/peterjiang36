@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a tool that detects AI slop in codebases &lpar;and what patterns I found&rpar;](https://dev.to/rohan_san_54b7ab7e50faa83/how-i-built-a-tool-that-detects-ai-slop-in-codebases-and-what-patterns-i-found-gmc)
-- [SLAG! 🛡️ an invisble layer of protection 🔒 - Part 2](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-part-2-bee)
-- [GHSA-H343-GG57-2Q67: CVE-2026-27574: Remote Code Execution in OneUptime Probe via VM Sandbox Escape](https://dev.to/cverports/ghsa-h343-gg57-2q67-cve-2026-27574-remote-code-execution-in-oneuptime-probe-via-vm-sandbox-escape-39em)
-- [Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer](https://dev.to/aws-builders/re-imagine-devsecops-with-aws-cd-applied-to-authorization-with-iam-identity-center-and-aws-iam-3lk6)
+- [Specs = Tests: Why Spec-Driven Terraform Starts With Tests, Not Documents](https://dev.to/htekdev/specs-tests-why-spec-driven-terraform-starts-with-tests-not-documents-2p7p)
+- [I Built a Free AWS SAA-C03 Practice Tool While Studying — Here&#39;s Why](https://dev.to/isaloum/i-built-a-free-aws-saa-c03-practice-tool-while-studying-heres-why-14jf)
+- [The Right to Be Forgotten: Why AI Makes Erasure Technically Impossible — And What We Do About It](https://dev.to/tiamatenity/the-right-to-be-forgotten-why-ai-makes-erasure-technically-impossible-and-what-we-do-about-it-55fc)
+- [The Shadow Industry Selling Everything About You: Inside the Data Broker Economy](https://dev.to/tiamatenity/the-shadow-industry-selling-everything-about-you-inside-the-data-broker-economy-3405)
 <!-- BLOG-POST-LIST:END -->
 
 
