@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Specs = Tests: Why Spec-Driven Terraform Starts With Tests, Not Documents](https://dev.to/htekdev/specs-tests-why-spec-driven-terraform-starts-with-tests-not-documents-2p7p)
-- [I Built a Free AWS SAA-C03 Practice Tool While Studying — Here&#39;s Why](https://dev.to/isaloum/i-built-a-free-aws-saa-c03-practice-tool-while-studying-heres-why-14jf)
-- [The Right to Be Forgotten: Why AI Makes Erasure Technically Impossible — And What We Do About It](https://dev.to/tiamatenity/the-right-to-be-forgotten-why-ai-makes-erasure-technically-impossible-and-what-we-do-about-it-55fc)
-- [The Shadow Industry Selling Everything About You: Inside the Data Broker Economy](https://dev.to/tiamatenity/the-shadow-industry-selling-everything-about-you-inside-the-data-broker-economy-3405)
+- [PrivateGPT vs Prem AI: Which Private AI Platform Is Enterprise-Ready? &lpar;2026&rpar;](https://dev.to/jaipalsingh/privategpt-vs-prem-ai-which-private-ai-platform-is-enterprise-ready-2026-2jhl)
+- [Deploying a 2048 Game on Kubernetes using Amazon EKS — End-to-End DevOps Project](https://dev.to/abhishekjaiswal_4896/deploying-a-2048-game-on-kubernetes-using-amazon-eks-end-to-end-devops-project-41cd)
+- [I Built 35 Free CLI Tools for Claude Code -- Here&#39;s What Each One Does](https://dev.to/yurukusa/i-built-35-free-cli-tools-for-claude-code-heres-what-each-one-does-387m)
+- [Understanding the Transformer Architecture : A Student&#39;s Journey from Classroom to Exam Hall](https://dev.to/sreeni5018/understanding-the-transformer-architecture-a-studentsjourney-from-classroom-to-exam-hall-11ol)
 <!-- BLOG-POST-LIST:END -->
 
 
