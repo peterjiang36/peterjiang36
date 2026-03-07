@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens Behind the Scenes When You Publish a Website](https://dev.to/micheal_angelo_41cea4e81a/what-happens-behind-the-scenes-when-you-publish-a-website-33n2)
-- [The Fastest Way to Learn Claude Code &lpar;No Setup, No Config, Just Practice&rpar;](https://dev.to/sanjeev23oct/the-fastest-way-to-learn-claude-code-no-setup-no-config-just-practice-368p)
-- [Dream/Nightmare: What Kind of Malware is That? 🥶](https://dev.to/annavi11arrea1/dreamnightmare-what-kind-of-malware-is-that-201j)
-- [I built an AI employee platform with 30+ autonomous agents that actually do work — not just chat](https://dev.to/buffaloherde/i-built-an-ai-employee-platform-with-30-autonomous-agents-that-actually-do-work-not-just-chat-1i48)
+- [Migrating a monorepo from Yarn to PNPM](https://dev.to/mbarzeev/migrating-a-monorepo-from-yarn-to-pnpm-45cn)
+- [Why Dynamic Arrays Aren&#39;t Actually Dynamic](https://dev.to/doogal/why-dynamic-arrays-arent-actually-dynamic-2inc)
+- [I built a 3D room moodboard that works with screenshots from any store](https://dev.to/kamilbakierzynski/i-built-a-3d-room-moodboard-that-works-with-screenshots-from-any-store-35a4)
+- [Kubernetes Service Mesh vs eBPF Networking: Cilium vs Calico Explained](https://dev.to/ntctech/kubernetes-service-mesh-vs-ebpf-networking-cilium-vs-calico-explained-139m)
 <!-- BLOG-POST-LIST:END -->
 
 
