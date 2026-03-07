@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling pgvector: Memory, Quantization, and Index Build Strategies](https://dev.to/philip_mcclarence_2ef9475/scaling-pgvector-memory-quantization-and-index-build-strategies-8m2)
-- [A 2018 Access Key. Still Active in Production. Here&#39;s the Python Script That Found It Across an Entire AWS Organization.](https://dev.to/aws-heroes/a-2018-access-key-still-active-in-production-heres-the-python-script-that-found-it-across-an-3pd3)
-- [Making .NET GC Behavior Observable: What I Learned Building GCExperiment](https://dev.to/mehedi_shuvo/making-net-gc-behavior-observable-what-i-learned-building-gcexperiment-h02)
-- [Building UDP-Like Telemetry with Auto-Remediation Over WebSockets](https://dev.to/rpi1337/building-udp-like-telemetry-with-auto-remediation-over-websockets-57h1)
+- [Reviewing code as human](https://dev.to/ms_74/reviewing-code-as-human-2jg1)
+- [Learning Docker: Dockerfiles, .dockerignore, and Port Mapping 🐳](https://dev.to/dharam_in/learning-docker-dockerfiles-dockerignore-and-port-mapping-1g2n)
+- [Figma + Claude Code](https://dev.to/buildandcodewithraman/figma-claude-code-6f)
+- [3 words worth a billion dollars: Drift to Determinism &lpar;DriDe&rpar;](https://dev.to/grahamthedev/3-words-worth-a-billion-dollars-drift-to-determinism-dride-dej)
 <!-- BLOG-POST-LIST:END -->
 
 
