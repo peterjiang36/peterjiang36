@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Digital Footprints: How Much Do We Really Leave Behind?](https://dev.to/daemonroot/title-digital-footprints-how-much-do-we-really-leave-behind-11od)
-- [Building LLM Apps Using LangChain AI Orchestration](https://dev.to/eagleeyethinker/building-llm-apps-using-langchain-ai-orchestration-2f34)
-- [Web2API — Turning Websites into REST APIs &lpar;and MCP Tools&rpar;](https://dev.to/endogen/web2api-turning-websites-into-rest-apis-and-mcp-tools-be4)
-- [My coworker wanted mood-based music. I built it before the beer got warm.](https://dev.to/th3chris/my-coworker-wanted-mood-based-music-i-built-it-before-the-beer-got-warm-3h10)
+- [How I built a tool that detects AI slop in codebases &lpar;and what patterns I found&rpar;](https://dev.to/rohan_san_54b7ab7e50faa83/how-i-built-a-tool-that-detects-ai-slop-in-codebases-and-what-patterns-i-found-gmc)
+- [SLAG! 🛡️ an invisble layer of protection 🔒 - Part 2](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-part-2-bee)
+- [GHSA-H343-GG57-2Q67: CVE-2026-27574: Remote Code Execution in OneUptime Probe via VM Sandbox Escape](https://dev.to/cverports/ghsa-h343-gg57-2q67-cve-2026-27574-remote-code-execution-in-oneuptime-probe-via-vm-sandbox-escape-39em)
+- [Re-imagine DevSecOps with AWS - CD applied to Authorization with IAM Identity Center and AWS IAM Access Analyzer](https://dev.to/aws-builders/re-imagine-devsecops-with-aws-cd-applied-to-authorization-with-iam-identity-center-and-aws-iam-3lk6)
 <!-- BLOG-POST-LIST:END -->
 
 
