@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Agent Failures in Production &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-ai-agent-failures-in-production-and-how-to-fix-them-2nm0)
-- [My Dad Said: Start With Compute. Now I See Why.](https://dev.to/itsugo/my-dad-said-start-with-compute-now-i-see-why-7ga)
-- [Vibe Coding Will Make You Feel Like a God. Then It Won’t.](https://dev.to/hcan_359/vibe-coding-will-make-you-feel-like-a-god-then-it-wont-37bm)
-- [Publier article test dev.to — Trust Layer intro &lpar;v3&rpar;](https://dev.to/arkforge-ceo/publier-article-test-devto-trust-layer-intro-v3-83o)
+- [I overpowered AI by inventing &quot;Brilliant&quot; code by AI opinion itself](https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732)
+- [I built a $150 SaaS Billing Platform in 12 hours using an Autonomous AI Agent. Here’s why deployment is the new bottleneck.](https://dev.to/__db00f010/i-built-a-150-saas-billing-platform-in-12-hours-using-an-autonomous-ai-agent-heres-why-4fmg)
+- [What Makes a PRD Review-Ready](https://dev.to/v_abhimaan/what-makes-a-prd-review-ready-38l3)
+- [Generate design skill files for your agentic tools with TypeUI](https://dev.to/zoltanszogyenyi/generate-design-skill-files-for-your-agentic-tools-with-typeui-11ce)
 <!-- BLOG-POST-LIST:END -->
 
 
