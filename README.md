@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Escalation Rule Pattern Every AI Agent Needs &lpar;and Most Skip&rpar;](https://dev.to/askpatrick/the-escalation-rule-pattern-every-ai-agent-needs-and-most-skip-ph9)
-- [Week in AI &lpar;Mar 8&rpar;: Local-First AI Is Winning](https://dev.to/cumulus/week-in-ai-mar-8-local-first-ai-is-winning-4baj)
-- [&quot;How to Tell If Your AI Agent Is Stuck &lpar;With Real Data From 220 Loops&rpar;&quot;](https://dev.to/boucle2026/how-to-tell-if-your-ai-agent-is-stuck-with-real-data-from-220-loops-4d4h)
-- [New Angular Dashboard Template: Overview](https://dev.to/ngmaterialdev/new-angular-dashboard-template-overview-4e60)
+- [Top 10 OpenClaw Development Patterns and Architecture Best Practices](https://dev.to/chx381/top-10-openclaw-development-patterns-and-architecture-best-practices-3omf)
+- [How I Invented &quot;Lodu Code&quot; - The Most Aggressive Desi Programming Language](https://dev.to/prince_pandit_15ea3192c6d/how-i-invented-lodu-code-the-most-aggressive-desi-programming-language-2i87)
+- [[Python/Fin]打造股票質押計算器&lpar;2&rpar;：利用數學公式驗證槓桿策略](https://dev.to/arne_li_369/pythonfinda-zao-gu-piao-zhi-ya-ji-suan-qi-2li-yong-shu-xue-gong-shi-yan-zheng-gang-gan-ce-lue-52m8)
+- [How to Fix Inconsistent Chaos or Niagara Simulations in Unreal Engine](https://dev.to/dinesh_04/how-to-fix-inconsistent-chaos-or-niagara-simulations-in-unreal-engine-2nhm)
 <!-- BLOG-POST-LIST:END -->
 
 
