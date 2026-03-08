@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Not Everyone Gets to Be a Beginner in Tech](https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8)
-- [WordPress Performance Optimization: Beyond Caching Plugins](https://dev.to/davidshusterman/wordpress-performance-optimization-beyond-caching-plugins-2163)
-- [How I Built a Pay-Per-Use AI Toolkit: IteraTools Architecture Deep Dive](https://dev.to/fredpsantos33/how-i-built-a-pay-per-use-ai-toolkit-iteratools-architecture-deep-dive-h90)
-- [DNS Lookup and WHOIS for AI Agents: No API Key Needed with IteraTools](https://dev.to/fredpsantos33/dns-lookup-and-whois-for-ai-agents-no-api-key-needed-with-iteratools-3aeh)
+- [Twitter&#39;s 2026 Algorithm Shift: Why Your Articles Are Now Your Best Content](https://dev.to/tahseen_rahman/twitters-2026-algorithm-shift-why-your-articles-are-now-your-best-content-2f5h)
+- [OpenClaw CI/CD hardening for SetupClaw: PR checks, protected branches, and safe release gates](https://dev.to/clawsetup/openclaw-cicd-hardening-for-setupclaw-pr-checks-protected-branches-and-safe-release-gates-3c6i)
+- [TimescaleDB Continuous Aggregates: Real-Time vs Materialized-Only](https://dev.to/philip_mcclarence_2ef9475/timescaledb-continuous-aggregates-real-time-vs-materialized-only-4k75)
+- [PostgreSQL Query Optimization: 10 Techniques That Actually Work](https://dev.to/philip_mcclarence_2ef9475/postgresql-query-optimization-10-techniques-that-actually-work-3i8b)
 <!-- BLOG-POST-LIST:END -->
 
 
