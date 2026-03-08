@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-3dde)
-- [I Built an AI-Powered Infrastructure Observability Agent from Scratch](https://dev.to/ramasankar_molleti_f7f80d/i-built-an-ai-powered-infrastructure-observability-agent-from-scratch-4j68)
-- [Echoes of Experience](https://dev.to/kithmini11/echoes-of-experience-24k2)
-- [Ceph Public Network Migration &lpar;No Downtime&rpar;](https://dev.to/safesploit/ceph-public-network-migration-no-downtime-47bj)
+- [Your AI Agent&#39;s Long Responses Are a Bug, Not a Feature](https://dev.to/askpatrick/your-ai-agents-long-responses-are-a-bug-not-a-feature-m2k)
+- [I Built a Desktop Tamagotchi Cat with AI Brain in Swift - and It Lives on My macOS Doc](https://dev.to/egorfedorov/i-built-a-desktop-tamagotchi-cat-with-ai-brain-in-swift-and-it-lives-on-my-macos-doc-4e94)
+- [Building an English Learning PDF Reader with Electron — Translation, Highlights, and Notes](https://dev.to/_36d3dbdc8c1618ea6df7/building-an-english-learning-pdf-reader-with-electron-translation-highlights-and-notes-42bk)
+- [BeSA Batch 09 Week3 - Building Agents with SDKs and Improving Discovery with AI](https://dev.to/girishmukim/besa-batch-09-week3-building-agents-with-sdks-and-improving-discovery-with-ai-135m)
 <!-- BLOG-POST-LIST:END -->
 
 
