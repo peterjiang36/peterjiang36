@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding My Rhythm: A Developer&#39;s Journey to Productive Coding](https://dev.to/sellsuite/finding-my-rhythm-a-developers-journey-to-productive-coding-3aij)
-- [I Let AI Write My Blog Posts, Then Scored Them for Quality — The Results Were Brutal](https://dev.to/ckmtools/i-let-ai-write-my-blog-posts-then-scored-them-for-quality-the-results-were-brutal-4dlh)
-- [Zero-Log Enforcement in Production: How to Build APIs That Forget Everything](https://dev.to/tiamatenity/zero-log-enforcement-in-production-how-to-build-apis-that-forget-everything-2m25)
-- [Codex OSS Credits, Drupal Patch Deadlines, and the Testing Questions That Expose Fragile Systems](https://dev.to/victorstackai/codex-oss-credits-drupal-patch-deadlines-and-the-testing-questions-that-expose-fragile-systems-1nf5)
+- [Implementing Descriptor-Driven Navigation Architecture &lpar;DDNA&rpar; in Modular iOS Applications](https://dev.to/madhuri_lathagondi/implementing-descriptor-driven-navigation-architecture-ddna-in-modular-ios-applications-4n2h)
+- [How to Add Face Search to Your App](https://dev.to/kencho/how-to-add-face-search-to-your-app-2mfe)
+- [Understanding SQL Joins with Practical Examples &lpar;Beginner Friendly Guide&rpar;](https://dev.to/itsmunyalo/understanding-sql-joins-with-practical-examples-beginner-friendly-guide-1iee)
+- [How I built a 140-page, 0ms latency web-app in Next.js 15 &lpar;Without a single database query&rpar;](https://dev.to/mihokoto/how-i-built-a-140-page-0ms-latency-web-app-in-nextjs-15-without-a-single-database-query-4b57)
 <!-- BLOG-POST-LIST:END -->
 
 
