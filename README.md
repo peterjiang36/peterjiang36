@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS ECS and Fargate: Container Orchestration Guide](https://dev.to/matt_frank_usa/aws-ecs-and-fargate-container-orchestration-guide-1al3)
-- [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://dev.to/jgnoncelogic/cli-rssatom-feed-reader-inspired-by-taskwarrior-synced-using-git-446d)
-- [How to Build Bidirectional Infinite Scroll in React](https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290)
-- [The Silent Shift: From Interrogators to Perfect AI Subjects](https://dev.to/eduardoferron/the-silent-shift-from-interrogators-to-perfect-ai-subjects-43ga)
+- [The 24GB AI Lab: A Survival Guide to Full-Stack Local AI on Consumer Hardware](https://dev.to/chris_kesler_8a60b6e38dd8/the-24gb-ai-lab-a-survival-guide-to-full-stack-local-ai-on-consumer-hardware-931)
+- [Homelab AI stack 2026 — what to run and in what order](https://dev.to/signal-weekly/homelab-ai-stack-2026-what-to-run-and-in-what-order-4cn)
+- [HackTropica’26: A 36-Hour Journey of Innovation, Collaboration, and Creativity 🚀](https://dev.to/shuvam_dutta_dev/hacktropica26-a-36-hour-journey-of-innovation-collaboration-and-creativity-1l11)
+- [How I Built a Mock API Platform Solo and Shipped It to Production](https://dev.to/jawad_khan1992/how-i-built-a-mock-api-platform-solo-and-shipped-it-to-production-3h6l)
 <!-- BLOG-POST-LIST:END -->
 
 
