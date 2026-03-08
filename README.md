@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Swift Sucks as a Functional Language](https://dev.to/jgongo/why-swift-sucks-as-a-functional-language-2ked)
-- [Pricing](https://dev.to/kaeso/pricing-4k7a)
-- [Why I Am Building Kaeso](https://dev.to/kaeso/why-i-am-building-kaeso-549d)
-- [Privacy in Technology: Why It Matters More Than Ever](https://dev.to/odomichael/privacy-in-technology-why-it-matters-more-than-ever-4jf6)
+- [AWS ECS and Fargate: Container Orchestration Guide](https://dev.to/matt_frank_usa/aws-ecs-and-fargate-container-orchestration-guide-1al3)
+- [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using Git](https://dev.to/jgnoncelogic/cli-rssatom-feed-reader-inspired-by-taskwarrior-synced-using-git-446d)
+- [How to Build Bidirectional Infinite Scroll in React](https://dev.to/leonid_frontend/how-to-build-bidirectional-infinite-scroll-in-react-5290)
+- [The Silent Shift: From Interrogators to Perfect AI Subjects](https://dev.to/eduardoferron/the-silent-shift-from-interrogators-to-perfect-ai-subjects-43ga)
 <!-- BLOG-POST-LIST:END -->
 
 
