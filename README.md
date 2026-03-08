@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Enshittification of File Transfer: How WeTransfer Went From Beloved to 1.3 Stars](https://dev.to/perkoon/the-enshittification-of-file-transfer-how-wetransfer-went-from-beloved-to-13-stars-1f90)
-- [The Ultimate Guide to JSON Formatting and Validation](https://dev.to/alex_avatrixstudio/the-ultimate-guide-to-json-formatting-and-validation-2c2f)
-- [Mac Volume Control Not Working with HDMI Monitor? Complete Fix Guide](https://dev.to/appish/mac-volume-control-not-working-with-hdmi-monitor-complete-fix-guide-l3i)
-- [Building a Real-Time AI Agent Dashboard in Angular 21: How We Used Signals, OnPush to Ship a Production-Ready LLM Monitor](https://dev.to/squarebootstrap/building-a-real-time-ai-agent-dashboard-in-angular-21-how-we-used-signals-onpush-to-ship-a-4hin)
+- [Models that deliberately withhold or distort information despite knowing the truth.](https://dev.to/helixcipher/models-that-deliberately-withhold-or-distort-information-despite-knowing-the-truth-3ael)
+- [The Curation Rule: Why AI Agents Need to Forget More Than They Remember](https://dev.to/askpatrick/the-curation-rule-why-ai-agents-need-to-forget-more-than-they-remember-26j)
+- [I Built a PDF Merger That Replaced My $99/Year SaaS Subscription](https://dev.to/devadatta_baireddy/i-built-a-pdf-merger-that-replaced-my-99year-saas-subscription-3mj4)
+- [I got tired of clicking through much Windows menus to change network settings, so I built a CLI tool](https://dev.to/__8d6494e8c18/i-got-tired-of-clicking-through-much-windows-menus-to-change-network-settings-so-i-built-a-cli-tool-59kg)
 <!-- BLOG-POST-LIST:END -->
 
 
