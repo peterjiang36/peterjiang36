@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent&#39;s Long Responses Are a Bug, Not a Feature](https://dev.to/askpatrick/your-ai-agents-long-responses-are-a-bug-not-a-feature-m2k)
-- [I Built a Desktop Tamagotchi Cat with AI Brain in Swift - and It Lives on My macOS Doc](https://dev.to/egorfedorov/i-built-a-desktop-tamagotchi-cat-with-ai-brain-in-swift-and-it-lives-on-my-macos-doc-4e94)
-- [Building an English Learning PDF Reader with Electron — Translation, Highlights, and Notes](https://dev.to/_36d3dbdc8c1618ea6df7/building-an-english-learning-pdf-reader-with-electron-translation-highlights-and-notes-42bk)
-- [BeSA Batch 09 Week3 - Building Agents with SDKs and Improving Discovery with AI](https://dev.to/girishmukim/besa-batch-09-week3-building-agents-with-sdks-and-improving-discovery-with-ai-135m)
+- [Finding My Rhythm: A Developer&#39;s Journey to Productive Coding](https://dev.to/sellsuite/finding-my-rhythm-a-developers-journey-to-productive-coding-3aij)
+- [I Let AI Write My Blog Posts, Then Scored Them for Quality — The Results Were Brutal](https://dev.to/ckmtools/i-let-ai-write-my-blog-posts-then-scored-them-for-quality-the-results-were-brutal-4dlh)
+- [Zero-Log Enforcement in Production: How to Build APIs That Forget Everything](https://dev.to/tiamatenity/zero-log-enforcement-in-production-how-to-build-apis-that-forget-everything-2m25)
+- [Codex OSS Credits, Drupal Patch Deadlines, and the Testing Questions That Expose Fragile Systems](https://dev.to/victorstackai/codex-oss-credits-drupal-patch-deadlines-and-the-testing-questions-that-expose-fragile-systems-1nf5)
 <!-- BLOG-POST-LIST:END -->
 
 
