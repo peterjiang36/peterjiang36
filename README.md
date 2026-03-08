@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Twitter&#39;s 2026 Algorithm Shift: Why Your Articles Are Now Your Best Content](https://dev.to/tahseen_rahman/twitters-2026-algorithm-shift-why-your-articles-are-now-your-best-content-2f5h)
-- [OpenClaw CI/CD hardening for SetupClaw: PR checks, protected branches, and safe release gates](https://dev.to/clawsetup/openclaw-cicd-hardening-for-setupclaw-pr-checks-protected-branches-and-safe-release-gates-3c6i)
-- [TimescaleDB Continuous Aggregates: Real-Time vs Materialized-Only](https://dev.to/philip_mcclarence_2ef9475/timescaledb-continuous-aggregates-real-time-vs-materialized-only-4k75)
-- [PostgreSQL Query Optimization: 10 Techniques That Actually Work](https://dev.to/philip_mcclarence_2ef9475/postgresql-query-optimization-10-techniques-that-actually-work-3i8b)
+- [The Enshittification of File Transfer: How WeTransfer Went From Beloved to 1.3 Stars](https://dev.to/perkoon/the-enshittification-of-file-transfer-how-wetransfer-went-from-beloved-to-13-stars-1f90)
+- [The Ultimate Guide to JSON Formatting and Validation](https://dev.to/alex_avatrixstudio/the-ultimate-guide-to-json-formatting-and-validation-2c2f)
+- [Mac Volume Control Not Working with HDMI Monitor? Complete Fix Guide](https://dev.to/appish/mac-volume-control-not-working-with-hdmi-monitor-complete-fix-guide-l3i)
+- [Building a Real-Time AI Agent Dashboard in Angular 21: How We Used Signals, OnPush to Ship a Production-Ready LLM Monitor](https://dev.to/squarebootstrap/building-a-real-time-ai-agent-dashboard-in-angular-21-how-we-used-signals-onpush-to-ship-a-4hin)
 <!-- BLOG-POST-LIST:END -->
 
 
