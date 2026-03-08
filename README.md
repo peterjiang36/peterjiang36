@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Pipeline Patterns That Actually Work in Production](https://dev.to/sanjaysundarmurthy/cicd-pipeline-patterns-that-actually-work-in-production-1nk8)
-- [Deluxers Search Intelligence](https://dev.to/melody_kelly_n/deluxers-search-intelligence-m1a)
-- [I Ditched Electron for Tauri v2: Building a 6MB Native-Feeling Clipboard Manager in React &amp; Rust](https://dev.to/max_nardit/i-ditched-electron-for-tauri-v2-building-a-6mb-native-feeling-clipboard-manager-in-react-rust-jco)
-- [YouTube AI Tools 2026: The Complete Creator&#39;s Guide to the New Arsenal](https://dev.to/linou518/youtube-ai-tools-2026-the-complete-creators-guide-to-the-new-arsenal-1ekd)
+- [Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants](https://dev.to/helixcipher/solid-channel-ultrasound-injection-attack-and-defense-to-voice-assistants-2b8n)
+- [How I built Meetsy — a full-featured private messaging app with Laravel 11](https://dev.to/kyami/how-i-built-meetsy-a-full-featured-private-messaging-app-with-laravel-11-4m43)
+- [When browser extensions become live surveillance](https://dev.to/helixcipher/when-browser-extensions-become-live-surveillance-1e9k)
+- [The Wrong Layer: Why AI Agent Guardrails Are a Band-Aid &lpar;And What to Do Instead&rpar;](https://dev.to/askpatrick/the-wrong-layer-why-ai-agent-guardrails-are-a-band-aid-and-what-to-do-instead-l0n)
 <!-- BLOG-POST-LIST:END -->
 
 
