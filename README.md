@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Made Me Hate My Job… Then I Found New Joy](https://dev.to/anoian/ai-made-me-hate-my-job-then-i-found-new-joy-5gon)
-- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-1fil)
-- [Attention Is All You Need — Full Paper Breakdown](https://dev.to/seahjs/attention-is-all-you-need-full-paper-breakdown-2kf3)
-- [Evaluating Large Language Models: A Comprehensive Survey](https://dev.to/paperium/evaluating-large-language-models-a-comprehensive-survey-44kf)
+- [PHP Scriptlerinde Barkod Okuma API Entegrasyonu](https://dev.to/turkcoode/php-scriptlerinde-barkod-okuma-api-entegrasyonu-4e3e)
+- [🚀 Building My First Backend Project: Expense Tracker API](https://dev.to/charleychinedu/building-my-first-backend-project-expense-tracker-api-4j36)
+- [Prompt management, RAG, and agents with HazelJS](https://dev.to/arslan_mecom/prompt-management-rag-and-agents-with-hazeljs-29p2)
+- [Using Ollama with VS Code for Local AI-Assisted Development](https://dev.to/stebaker92/using-ollama-with-vs-code-for-local-ai-assisted-development-5hmi)
 <!-- BLOG-POST-LIST:END -->
 
 
