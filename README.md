@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP Scriptlerinde Barkod Okuma API Entegrasyonu](https://dev.to/turkcoode/php-scriptlerinde-barkod-okuma-api-entegrasyonu-4e3e)
-- [🚀 Building My First Backend Project: Expense Tracker API](https://dev.to/charleychinedu/building-my-first-backend-project-expense-tracker-api-4j36)
-- [Prompt management, RAG, and agents with HazelJS](https://dev.to/arslan_mecom/prompt-management-rag-and-agents-with-hazeljs-29p2)
-- [Using Ollama with VS Code for Local AI-Assisted Development](https://dev.to/stebaker92/using-ollama-with-vs-code-for-local-ai-assisted-development-5hmi)
+- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-3dde)
+- [I Built an AI-Powered Infrastructure Observability Agent from Scratch](https://dev.to/ramasankar_molleti_f7f80d/i-built-an-ai-powered-infrastructure-observability-agent-from-scratch-4j68)
+- [Echoes of Experience](https://dev.to/kithmini11/echoes-of-experience-24k2)
+- [Ceph Public Network Migration &lpar;No Downtime&rpar;](https://dev.to/safesploit/ceph-public-network-migration-no-downtime-47bj)
 <!-- BLOG-POST-LIST:END -->
 
 
