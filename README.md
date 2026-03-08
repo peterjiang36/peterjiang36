@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants](https://dev.to/helixcipher/solid-channel-ultrasound-injection-attack-and-defense-to-voice-assistants-2b8n)
-- [How I built Meetsy — a full-featured private messaging app with Laravel 11](https://dev.to/kyami/how-i-built-meetsy-a-full-featured-private-messaging-app-with-laravel-11-4m43)
-- [When browser extensions become live surveillance](https://dev.to/helixcipher/when-browser-extensions-become-live-surveillance-1e9k)
-- [The Wrong Layer: Why AI Agent Guardrails Are a Band-Aid &lpar;And What to Do Instead&rpar;](https://dev.to/askpatrick/the-wrong-layer-why-ai-agent-guardrails-are-a-band-aid-and-what-to-do-instead-l0n)
+- [AI-Native Open Source — Open Source Built with AI](https://dev.to/nextaininc/ai-native-open-source-open-source-built-with-ai-k0a)
+- [I Got Tired of Mocking APIs in pytest. So I Built a Cleaner Way.](https://dev.to/vision2030/i-got-tired-of-mocking-apis-in-pytest-so-i-built-a-cleaner-way-3nen)
+- [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
+- [Track any npm package&#39;s downloads, trends, and health score for free](https://dev.to/chemmangat/track-any-npm-packages-downloads-trends-and-health-score-for-free-4672)
 <!-- BLOG-POST-LIST:END -->
 
 
