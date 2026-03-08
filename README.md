@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Descriptor-Driven Navigation Architecture &lpar;DDNA&rpar; in Modular iOS Applications](https://dev.to/madhuri_lathagondi/implementing-descriptor-driven-navigation-architecture-ddna-in-modular-ios-applications-4n2h)
-- [How to Add Face Search to Your App](https://dev.to/kencho/how-to-add-face-search-to-your-app-2mfe)
-- [Understanding SQL Joins with Practical Examples &lpar;Beginner Friendly Guide&rpar;](https://dev.to/itsmunyalo/understanding-sql-joins-with-practical-examples-beginner-friendly-guide-1iee)
-- [How I built a 140-page, 0ms latency web-app in Next.js 15 &lpar;Without a single database query&rpar;](https://dev.to/mihokoto/how-i-built-a-140-page-0ms-latency-web-app-in-nextjs-15-without-a-single-database-query-4b57)
+- [I got tired of AI Reviewers hallucinating, so I built an Autonomous Agent for GitLab instead.](https://dev.to/tranlongan/i-got-tired-of-ai-reviewers-hallucinating-so-i-built-an-autonomous-agent-for-gitlab-instead-jeh)
+- [I Built a Real Estate Marketplace with Admin Functionality — Here&#39;s How It Works](https://dev.to/myogeshchavan97/i-built-a-real-estate-marketplace-with-admin-functionality-heres-how-it-works-m4n)
+- [Best AI-Powered Project Management and Team Analytics Platforms for Software Teams in 2026](https://dev.to/dkurbanov/best-ai-powered-project-management-and-team-analytics-platforms-for-software-teams-in-2026-kfn)
+- [I needed to download a website, Ctrl+S sucked, so I built this](https://dev.to/everm4iva/i-needed-to-download-a-website-ctrls-sucked-so-i-built-this-4fhm)
 <!-- BLOG-POST-LIST:END -->
 
 
