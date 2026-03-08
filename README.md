@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving Verificación de Identidad KYC with @etld SDK](https://dev.to/pablo_nieto_374e47816943c/solving-verificacion-de-identidad-kyc-with-etld-sdk-52kh)
-- [Building a Scalable File Storage System Using S3](https://dev.to/igordevfullstack/building-a-scalable-file-storage-system-using-s3-35mk)
-- [11 Things experienced developers do when Claude Code hits the limit.](https://dev.to/paweljanda/11-things-experienced-developers-do-when-claude-code-hits-the-limit-27nk)
-- [The Permission Creep Problem: Why AI Agents Accumulate Access They Were Never Meant to Have](https://dev.to/askpatrick/the-permission-creep-problem-why-ai-agents-accumulate-access-they-were-never-meant-to-have-48c)
+- [Building with API Gateway, Lambda and DynamoDB Single-Table Design for Multi-Tenant SaaS](https://dev.to/aws-builders/building-with-api-gateway-lambda-and-dynamodb-single-table-design-for-multi-tenant-saas-3cm3)
+- [I Built an Open-Source CLI to Compare LLM API Costs in Your Terminal &lpar;npx, Zero Install&rpar;](https://dev.to/followtayeeb/i-built-an-open-source-cli-to-compare-llm-api-costs-in-your-terminal-npx-zero-install-47mk)
+- [How to Add RevenueCat to a React Native App](https://dev.to/jayf_nnadi_47ea457bb6e32/how-to-add-revenuecat-to-a-react-native-app-5g61)
+- [Every Readability Formula Explained &lpar;with JavaScript Examples&rpar;](https://dev.to/ckmtools/every-readability-formula-explained-with-javascript-examples-21ml)
 <!-- BLOG-POST-LIST:END -->
 
 
