@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent&#39;s Skill List Is Getting Out of Hand](https://dev.to/itlackey/your-ai-agents-skill-list-is-getting-out-of-hand-32ck)
-- [Calyx vs cmux: Choosing the Right Ghostty-Based Terminal for macOS 26](https://dev.to/yuu1ch13/calyx-vs-cmux-choosing-the-right-ghostty-based-terminal-for-macos-26-28e7)
-- [SOP Review Checklist: What Makes a Procedure Actually Usable](https://dev.to/v_abhimaan/sop-review-checklist-what-makes-a-procedure-actually-usable-1ei9)
-- [Benchmark Scores vs. Real-World Results: The Facial Recognition Gap](https://dev.to/caracomp/benchmark-scores-vs-real-world-results-the-facial-recognition-gap-4app)
+- [Why Swift Sucks as a Functional Language](https://dev.to/jgongo/why-swift-sucks-as-a-functional-language-2ked)
+- [Pricing](https://dev.to/kaeso/pricing-4k7a)
+- [Why I Am Building Kaeso](https://dev.to/kaeso/why-i-am-building-kaeso-549d)
+- [Privacy in Technology: Why It Matters More Than Ever](https://dev.to/odomichael/privacy-in-technology-why-it-matters-more-than-ever-4jf6)
 <!-- BLOG-POST-LIST:END -->
 
 
