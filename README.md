@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 OpenClaw Development Patterns and Architecture Best Practices](https://dev.to/chx381/top-10-openclaw-development-patterns-and-architecture-best-practices-3omf)
-- [How I Invented &quot;Lodu Code&quot; - The Most Aggressive Desi Programming Language](https://dev.to/prince_pandit_15ea3192c6d/how-i-invented-lodu-code-the-most-aggressive-desi-programming-language-2i87)
-- [[Python/Fin]打造股票質押計算器&lpar;2&rpar;：利用數學公式驗證槓桿策略](https://dev.to/arne_li_369/pythonfinda-zao-gu-piao-zhi-ya-ji-suan-qi-2li-yong-shu-xue-gong-shi-yan-zheng-gang-gan-ce-lue-52m8)
-- [How to Fix Inconsistent Chaos or Niagara Simulations in Unreal Engine](https://dev.to/dinesh_04/how-to-fix-inconsistent-chaos-or-niagara-simulations-in-unreal-engine-2nhm)
+- [Not Everyone Gets to Be a Beginner in Tech](https://dev.to/the_nortern_dev/not-everyone-gets-to-be-a-beginner-in-tech-9a8)
+- [WordPress Performance Optimization: Beyond Caching Plugins](https://dev.to/davidshusterman/wordpress-performance-optimization-beyond-caching-plugins-2163)
+- [How I Built a Pay-Per-Use AI Toolkit: IteraTools Architecture Deep Dive](https://dev.to/fredpsantos33/how-i-built-a-pay-per-use-ai-toolkit-iteratools-architecture-deep-dive-h90)
+- [DNS Lookup and WHOIS for AI Agents: No API Key Needed with IteraTools](https://dev.to/fredpsantos33/dns-lookup-and-whois-for-ai-agents-no-api-key-needed-with-iteratools-3aeh)
 <!-- BLOG-POST-LIST:END -->
 
 
