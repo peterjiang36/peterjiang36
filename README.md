@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building with API Gateway, Lambda and DynamoDB Single-Table Design for Multi-Tenant SaaS](https://dev.to/aws-builders/building-with-api-gateway-lambda-and-dynamodb-single-table-design-for-multi-tenant-saas-3cm3)
-- [I Built an Open-Source CLI to Compare LLM API Costs in Your Terminal &lpar;npx, Zero Install&rpar;](https://dev.to/followtayeeb/i-built-an-open-source-cli-to-compare-llm-api-costs-in-your-terminal-npx-zero-install-47mk)
-- [How to Add RevenueCat to a React Native App](https://dev.to/jayf_nnadi_47ea457bb6e32/how-to-add-revenuecat-to-a-react-native-app-5g61)
-- [Every Readability Formula Explained &lpar;with JavaScript Examples&rpar;](https://dev.to/ckmtools/every-readability-formula-explained-with-javascript-examples-21ml)
+- [Zero-Trust Architecture in Practice: Why Perimeter Security Failed and What Actually Works](https://dev.to/tiamatenity/zero-trust-architecture-in-practice-why-perimeter-security-failed-and-what-actually-works-2oc7)
+- [How to Extract Keywords and Score Content Quality in Node.js](https://dev.to/ckmtools/how-to-extract-keywords-and-score-content-quality-in-nodejs-2d67)
+- [AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network](https://dev.to/slavik_gokhman_db2f0f6a58/ai-iot-and-the-human-factor-rebuilding-an-undocumented-enterprise-network-293f)
+- [I Was Tired of Setting Up Express.js From Scratch Every Time — So I Built a CLI](https://dev.to/nomanawan/i-was-tired-of-setting-up-expressjs-from-scratch-every-time-so-i-built-a-cli-di1)
 <!-- BLOG-POST-LIST:END -->
 
 
