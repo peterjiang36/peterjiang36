@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of AI Reviewers hallucinating, so I built an Autonomous Agent for GitLab instead.](https://dev.to/tranlongan/i-got-tired-of-ai-reviewers-hallucinating-so-i-built-an-autonomous-agent-for-gitlab-instead-jeh)
-- [I Built a Real Estate Marketplace with Admin Functionality — Here&#39;s How It Works](https://dev.to/myogeshchavan97/i-built-a-real-estate-marketplace-with-admin-functionality-heres-how-it-works-m4n)
-- [Best AI-Powered Project Management and Team Analytics Platforms for Software Teams in 2026](https://dev.to/dkurbanov/best-ai-powered-project-management-and-team-analytics-platforms-for-software-teams-in-2026-kfn)
-- [I needed to download a website, Ctrl+S sucked, so I built this](https://dev.to/everm4iva/i-needed-to-download-a-website-ctrls-sucked-so-i-built-this-4fhm)
+- [The Escalation Rule Pattern Every AI Agent Needs &lpar;and Most Skip&rpar;](https://dev.to/askpatrick/the-escalation-rule-pattern-every-ai-agent-needs-and-most-skip-ph9)
+- [Week in AI &lpar;Mar 8&rpar;: Local-First AI Is Winning](https://dev.to/cumulus/week-in-ai-mar-8-local-first-ai-is-winning-4baj)
+- [&quot;How to Tell If Your AI Agent Is Stuck &lpar;With Real Data From 220 Loops&rpar;&quot;](https://dev.to/boucle2026/how-to-tell-if-your-ai-agent-is-stuck-with-real-data-from-220-loops-4d4h)
+- [New Angular Dashboard Template: Overview](https://dev.to/ngmaterialdev/new-angular-dashboard-template-overview-4e60)
 <!-- BLOG-POST-LIST:END -->
 
 
