@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Models that deliberately withhold or distort information despite knowing the truth.](https://dev.to/helixcipher/models-that-deliberately-withhold-or-distort-information-despite-knowing-the-truth-3ael)
-- [The Curation Rule: Why AI Agents Need to Forget More Than They Remember](https://dev.to/askpatrick/the-curation-rule-why-ai-agents-need-to-forget-more-than-they-remember-26j)
-- [I Built a PDF Merger That Replaced My $99/Year SaaS Subscription](https://dev.to/devadatta_baireddy/i-built-a-pdf-merger-that-replaced-my-99year-saas-subscription-3mj4)
-- [I got tired of clicking through much Windows menus to change network settings, so I built a CLI tool](https://dev.to/__8d6494e8c18/i-got-tired-of-clicking-through-much-windows-menus-to-change-network-settings-so-i-built-a-cli-tool-59kg)
+- [CI/CD Pipeline Patterns That Actually Work in Production](https://dev.to/sanjaysundarmurthy/cicd-pipeline-patterns-that-actually-work-in-production-1nk8)
+- [Deluxers Search Intelligence](https://dev.to/melody_kelly_n/deluxers-search-intelligence-m1a)
+- [I Ditched Electron for Tauri v2: Building a 6MB Native-Feeling Clipboard Manager in React &amp; Rust](https://dev.to/max_nardit/i-ditched-electron-for-tauri-v2-building-a-6mb-native-feeling-clipboard-manager-in-react-rust-jco)
+- [YouTube AI Tools 2026: The Complete Creator&#39;s Guide to the New Arsenal](https://dev.to/linou518/youtube-ai-tools-2026-the-complete-creators-guide-to-the-new-arsenal-1ekd)
 <!-- BLOG-POST-LIST:END -->
 
 
