@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 24GB AI Lab: A Survival Guide to Full-Stack Local AI on Consumer Hardware](https://dev.to/chris_kesler_8a60b6e38dd8/the-24gb-ai-lab-a-survival-guide-to-full-stack-local-ai-on-consumer-hardware-931)
-- [Homelab AI stack 2026 — what to run and in what order](https://dev.to/signal-weekly/homelab-ai-stack-2026-what-to-run-and-in-what-order-4cn)
-- [HackTropica’26: A 36-Hour Journey of Innovation, Collaboration, and Creativity 🚀](https://dev.to/shuvam_dutta_dev/hacktropica26-a-36-hour-journey-of-innovation-collaboration-and-creativity-1l11)
-- [How I Built a Mock API Platform Solo and Shipped It to Production](https://dev.to/jawad_khan1992/how-i-built-a-mock-api-platform-solo-and-shipped-it-to-production-3h6l)
+- [Consultorio Virtual Psicológico](https://dev.to/abigail_lpezurias_07eb4/consultorio-virtual-psicologico-1lmf)
+- [Mastering LangGraph&#39;s ToolNode: The Ultimate Bridge Between AI and the Real World](https://dev.to/programmingcentral/mastering-langgraphs-toolnode-the-ultimate-bridge-between-ai-and-the-real-world-4e2h)
+- [🔥 Something new for developers just dropped!](https://dev.to/bishwajit_paul_0ec4b2de9a/something-new-for-developers-just-dropped-360p)
+- [Can you spot the vulnerability?](https://dev.to/pinkdraconian/can-you-spot-the-vulnerability-2aon)
 <!-- BLOG-POST-LIST:END -->
 
 
