@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Consultorio Virtual Psicológico](https://dev.to/abigail_lpezurias_07eb4/consultorio-virtual-psicologico-1lmf)
-- [Mastering LangGraph&#39;s ToolNode: The Ultimate Bridge Between AI and the Real World](https://dev.to/programmingcentral/mastering-langgraphs-toolnode-the-ultimate-bridge-between-ai-and-the-real-world-4e2h)
-- [🔥 Something new for developers just dropped!](https://dev.to/bishwajit_paul_0ec4b2de9a/something-new-for-developers-just-dropped-360p)
-- [Can you spot the vulnerability?](https://dev.to/pinkdraconian/can-you-spot-the-vulnerability-2aon)
+- [Solving Verificación de Identidad KYC with @etld SDK](https://dev.to/pablo_nieto_374e47816943c/solving-verificacion-de-identidad-kyc-with-etld-sdk-52kh)
+- [Building a Scalable File Storage System Using S3](https://dev.to/igordevfullstack/building-a-scalable-file-storage-system-using-s3-35mk)
+- [11 Things experienced developers do when Claude Code hits the limit.](https://dev.to/paweljanda/11-things-experienced-developers-do-when-claude-code-hits-the-limit-27nk)
+- [The Permission Creep Problem: Why AI Agents Accumulate Access They Were Never Meant to Have](https://dev.to/askpatrick/the-permission-creep-problem-why-ai-agents-accumulate-access-they-were-never-meant-to-have-48c)
 <!-- BLOG-POST-LIST:END -->
 
 
