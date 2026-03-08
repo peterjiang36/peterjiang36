@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Native Open Source — Open Source Built with AI](https://dev.to/nextaininc/ai-native-open-source-open-source-built-with-ai-k0a)
-- [I Got Tired of Mocking APIs in pytest. So I Built a Cleaner Way.](https://dev.to/vision2030/i-got-tired-of-mocking-apis-in-pytest-so-i-built-a-cleaner-way-3nen)
-- [AI Chat UI Best Practices: Designing Better LLM Interfaces](https://dev.to/greedy_reader/ai-chat-ui-best-practices-designing-better-llm-interfaces-18jj)
-- [Track any npm package&#39;s downloads, trends, and health score for free](https://dev.to/chemmangat/track-any-npm-packages-downloads-trends-and-health-score-for-free-4672)
+- [Your AI Agent&#39;s Skill List Is Getting Out of Hand](https://dev.to/itlackey/your-ai-agents-skill-list-is-getting-out-of-hand-32ck)
+- [Calyx vs cmux: Choosing the Right Ghostty-Based Terminal for macOS 26](https://dev.to/yuu1ch13/calyx-vs-cmux-choosing-the-right-ghostty-based-terminal-for-macos-26-28e7)
+- [SOP Review Checklist: What Makes a Procedure Actually Usable](https://dev.to/v_abhimaan/sop-review-checklist-what-makes-a-procedure-actually-usable-1ei9)
+- [Benchmark Scores vs. Real-World Results: The Facial Recognition Gap](https://dev.to/caracomp/benchmark-scores-vs-real-world-results-the-facial-recognition-gap-4app)
 <!-- BLOG-POST-LIST:END -->
 
 
