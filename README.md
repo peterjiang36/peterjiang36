@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Has Amnesia: Fix It With These 4 Memory Patterns](https://dev.to/nebulagg/your-ai-agent-has-amnesia-fix-it-with-these-4-memory-patterns-114d)
-- [🚨 Spot the Vulnerability 🕵️‍♀️](https://dev.to/pinkdraconian/spot-the-vulnerability-45h8)
-- [Ready-Made Templates vs Custom Builds — Which Should You Choose for Your Website or App?](https://dev.to/riteshrajpurohit/ready-made-templates-vs-custom-builds-which-should-you-choose-for-your-website-or-app-41c)
-- [Unlocking AI Resilience: Mastering State Persistence with LangGraph and PostgreSQL](https://dev.to/programmingcentral/unlocking-ai-resilience-mastering-state-persistence-with-langgraph-and-postgresql-50h0)
+- [Enforcing voice and tone with Claude Code hooks](https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db)
+- [How to Build a Custom MCP Tool in Under 10 Min](https://dev.to/nebulagg/how-to-build-a-custom-mcp-tool-in-under-10-min-4p2d)
+- [How to Build a REST API in Zig &lpar;Using Spider Web Framework&rpar;](https://dev.to/11110110011/how-to-build-a-rest-api-in-zig-using-spider-web-framework-4a8l)
+- [I Built an Open-Source CLI That Diagnoses Production Incidents in 30 Seconds — Looking for Contributors](https://dev.to/zeel_patel/i-built-an-open-source-cli-that-diagnoses-production-incidents-in-30-seconds-looking-for-4p63)
 <!-- BLOG-POST-LIST:END -->
 
 
