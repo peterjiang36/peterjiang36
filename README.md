@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Going deeper: Intercepting subcommands in Make, Just, and Git Hooks](https://dev.to/mpecan/going-deeper-intercepting-subcommands-in-make-just-and-git-hooks-44kk)
-- [Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP!](https://dev.to/mgobea/show-hn-mcp2cli-one-cli-for-every-api-96-99-fewer-tokens-than-native-mcp-5c49)
-- [5 Prompt Engineering Patterns That Actually Work in Production](https://dev.to/klement_gunndu/5-prompt-engineering-patterns-that-actually-work-in-production-4mcj)
-- [Beyond the AI Hype: How I Gained &quot;100% Clean&quot; Trust for My Rust-Powered Search App](https://dev.to/kazutaka-dev/beyond-the-ai-hype-how-i-gained-100-clean-trust-for-my-rust-powered-search-app-55i1)
+- [Weekly Challenge #2 : Make ME a Challenge](https://dev.to/bingkahu/weekly-challenge-2-make-me-a-challenge-3dbp)
+- [I Built a Free Toolkit Website for Students, Researchers, and Developers](https://dev.to/smoin7/i-built-a-free-toolkit-website-for-students-researchers-and-developers-4ko4)
+- [From Writing Code to Growing Ecosystems: How We Arrived at Ambient Engineering](https://dev.to/laksamanakeris/from-writing-code-to-growing-ecosystems-how-we-arrived-at-ambient-engineering-1ab7)
+- [Claude Code kept getting stuck while I was AFK — here&#39;s how I fixed it with hooks](https://dev.to/mdpp/claude-code-kept-getting-stuck-while-i-was-afk-heres-how-i-fixed-it-with-hooks-k9l)
 <!-- BLOG-POST-LIST:END -->
 
 
