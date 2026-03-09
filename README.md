@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge #2 : Make ME a Challenge](https://dev.to/bingkahu/weekly-challenge-2-make-me-a-challenge-3dbp)
-- [I Built a Free Toolkit Website for Students, Researchers, and Developers](https://dev.to/smoin7/i-built-a-free-toolkit-website-for-students-researchers-and-developers-4ko4)
-- [From Writing Code to Growing Ecosystems: How We Arrived at Ambient Engineering](https://dev.to/laksamanakeris/from-writing-code-to-growing-ecosystems-how-we-arrived-at-ambient-engineering-1ab7)
-- [Claude Code kept getting stuck while I was AFK — here&#39;s how I fixed it with hooks](https://dev.to/mdpp/claude-code-kept-getting-stuck-while-i-was-afk-heres-how-i-fixed-it-with-hooks-k9l)
+- [What is Clawwork &lpar;hkuds&rpar;? The Browser Agent That Finally Understands the Web](https://dev.to/yunsoft/what-is-clawwork-hkuds-the-browser-agent-that-finally-understands-the-web-2dhh)
+- [Machines can learn from data. Should humans still learn statistics?](https://dev.to/aleksandra_6bf530a531488b/machines-can-learn-from-data-should-humans-still-learn-statistics-3mco)
+- [How Our AI Agents Found a Security Bug in Their Own Code](https://dev.to/bridgeace/how-our-ai-agents-found-a-security-bug-in-their-own-code-268f)
+- [Why Your AI Code Editor Sends Your Code to the Cloud &lpar;And Why It Shouldn&#39;t&rpar;](https://dev.to/bridgeace/why-your-ai-code-editor-sends-your-code-to-the-cloud-and-why-it-shouldnt-49c8)
 <!-- BLOG-POST-LIST:END -->
 
 
