@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool to feed your entire codebase to ChatGPT in one click](https://dev.to/eliver_tiapa_a76b603e96ff/i-built-a-free-tool-to-feed-your-entire-codebase-to-chatgpt-in-one-click-47ii)
-- [Anchor Error Codes: Complete Reference Guide &lpar;100–4200&rpar;](https://dev.to/tobiasbond/anchor-error-codes-complete-reference-guide-100-4200-1887)
-- [Why Solid.js is winning the framework game](https://dev.to/tomaslistiak/why-solidjs-is-winning-the-framework-game-4i5o)
-- [The AI Agent Identity Problem: Why Trust Is the Missing Layer in Agentic Commerce](https://dev.to/askpatrick/the-ai-agent-identity-problem-why-trust-is-the-missing-layer-in-agentic-commerce-3eb5)
+- [My girlfriend banned my laptop for 6 weeks. I came back with a governance framework for AI agents.](https://dev.to/fr-e-d/my-girlfriend-banned-my-laptop-for-6-weeks-i-came-back-with-a-governance-framework-for-ai-agents-15lk)
+- [How to Fix pyright-lsp on Claude Code for Windows &lpar;The Complete Guide&rpar;](https://dev.to/magnuscole/how-to-fix-pyright-lsp-on-claude-code-for-windows-the-complete-guide-3013)
+- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh)
+- [Building a Quantum Airline Fleet Optimizer](https://dev.to/exploredataaiml/building-a-quantum-airline-fleet-optimizer-2d4b)
 <!-- BLOG-POST-LIST:END -->
 
 
