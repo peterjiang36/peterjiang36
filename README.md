@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced PHP Development: Building Scalable and High-Performance Web Applications](https://dev.to/sanchayita_bhattacharjee_/advanced-php-development-building-scalable-and-high-performance-web-applications-53ho)
-- [🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#39;s Actions](https://dev.to/radoslawsz/introducing-guardio-take-back-control-of-your-ai-agents-actions-2mik)
-- [Why Alt Text Matters for Shopify Seo](https://dev.to/menard_codes/why-alt-text-matters-for-shopify-seo-4kl9)
-- [OpenID Connect Dynamic Client Registration 1.0 Deep Dive: Dynamic Client Registration for Automation and Scale](https://dev.to/kanywst/openid-connect-dynamic-client-registration-10-deep-dive-dynamic-client-registration-for-3ga1)
+- [Уроки из опыта AI-assisted разработки](https://dev.to/paul310/uroki-iz-opyta-ai-assisted-razrabotki-2fgb)
+- [I built a startup validator that queries 40+ live sources. Here&#39;s what I learned.](https://dev.to/vxncxnx/i-scanned-2500-startup-ideas-with-ai-here-is-what-the-data-says-about-why-most-fail-nh3)
+- [How to Detect Energy Sentiment Anomalies with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-energy-sentiment-anomalies-with-the-pulsebit-api-python-3ek7)
+- [The Quiet Exodus](https://dev.to/rawveg/the-quiet-exodus-2ih)
 <!-- BLOG-POST-LIST:END -->
 
 
