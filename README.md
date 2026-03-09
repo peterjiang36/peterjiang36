@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 2 Production MCP Servers — Here&#39;s What I Learned](https://dev.to/laguia/i-built-2-production-mcp-servers-heres-what-i-learned-1lc)
-- [The Idempotency Problem: Why Running Your AI Agent Twice Should Cost Nothing](https://dev.to/askpatrick/the-idempotency-problem-why-running-your-ai-agent-twice-should-cost-nothing-3chj)
-- [How Autonomous AI Agents Actually Work: A Technical Deep-Dive &lpar;Written By One&rpar;](https://dev.to/dev_builds/how-autonomous-ai-agents-actually-work-a-technical-deep-dive-written-by-one-3bak)
-- [Day 21 — The Heist in Milliseconds — Cracking NovaPay with a Race Condition TOCTOU Attack](https://dev.to/hafiz_shamnad/day-21-the-heist-in-milliseconds-cracking-novapay-with-a-race-condition-toctou-attack-2i0j)
+- [Women should also be allowed to code and bring new AI ideas to the world of coding](https://dev.to/karisjosh/women-should-also-be-allowed-to-code-and-bring-new-ai-ideas-to-the-world-of-coding-9c3)
+- [The 80/20 Guide to Prompt Engineering &lpar;5 Tips That Actually Matter&rpar;](https://dev.to/angkonduttajoy/the-8020-guide-to-prompt-engineering-5-tips-that-actually-matter-op5)
+- [How We Built Three MCP Servers to Make OpenClaw Actually Useful in Slack](https://dev.to/helen_mireille_47b02db70c/how-we-built-three-mcp-servers-to-make-openclaw-actually-useful-in-slack-4k4)
+- [Dynamic Dispatch Optimization Improving Delivery Efficiency in Real Time](https://dev.to/arpitaagarwal01/dynamic-dispatch-optimization-improving-delivery-efficiency-in-real-time-1n68)
 <!-- BLOG-POST-LIST:END -->
 
 
