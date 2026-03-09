@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Summarize Text with AI: A Practical Guide](https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a)
-- [How to Detect VPN and Proxy Users](https://dev.to/apiverve/how-to-detect-vpn-and-proxy-users-ech)
-- [The Pre-Execution Check: The One Habit That Makes AI Agents Safe to Run Unsupervised](https://dev.to/askpatrick/the-pre-execution-check-the-one-habit-that-makes-ai-agents-safe-to-run-unsupervised-2o2e)
-- [Satoru Iwata: A businessman, a programmer, and just a gamer. [1 of 4]](https://dev.to/daniel3456/satoru-iwata-a-businessman-a-programmer-and-just-a-gamer-1-of-4-30di)
+- [Your AI Agent Has Amnesia: Fix It With These 4 Memory Patterns](https://dev.to/nebulagg/your-ai-agent-has-amnesia-fix-it-with-these-4-memory-patterns-114d)
+- [🚨 Spot the Vulnerability 🕵️‍♀️](https://dev.to/pinkdraconian/spot-the-vulnerability-45h8)
+- [Ready-Made Templates vs Custom Builds — Which Should You Choose for Your Website or App?](https://dev.to/riteshrajpurohit/ready-made-templates-vs-custom-builds-which-should-you-choose-for-your-website-or-app-41c)
+- [Unlocking AI Resilience: Mastering State Persistence with LangGraph and PostgreSQL](https://dev.to/programmingcentral/unlocking-ai-resilience-mastering-state-persistence-with-langgraph-and-postgresql-50h0)
 <!-- BLOG-POST-LIST:END -->
 
 
