@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Trust Architecture in Practice: Why Perimeter Security Failed and What Actually Works](https://dev.to/tiamatenity/zero-trust-architecture-in-practice-why-perimeter-security-failed-and-what-actually-works-2oc7)
-- [How to Extract Keywords and Score Content Quality in Node.js](https://dev.to/ckmtools/how-to-extract-keywords-and-score-content-quality-in-nodejs-2d67)
-- [AI, IoT and the Human Factor: Rebuilding an Undocumented Enterprise Network](https://dev.to/slavik_gokhman_db2f0f6a58/ai-iot-and-the-human-factor-rebuilding-an-undocumented-enterprise-network-293f)
-- [I Was Tired of Setting Up Express.js From Scratch Every Time — So I Built a CLI](https://dev.to/nomanawan/i-was-tired-of-setting-up-expressjs-from-scratch-every-time-so-i-built-a-cli-di1)
+- [I built a free tool to feed your entire codebase to ChatGPT in one click](https://dev.to/eliver_tiapa_a76b603e96ff/i-built-a-free-tool-to-feed-your-entire-codebase-to-chatgpt-in-one-click-47ii)
+- [Anchor Error Codes: Complete Reference Guide &lpar;100–4200&rpar;](https://dev.to/tobiasbond/anchor-error-codes-complete-reference-guide-100-4200-1887)
+- [Why Solid.js is winning the framework game](https://dev.to/tomaslistiak/why-solidjs-is-winning-the-framework-game-4i5o)
+- [The AI Agent Identity Problem: Why Trust Is the Missing Layer in Agentic Commerce](https://dev.to/askpatrick/the-ai-agent-identity-problem-why-trust-is-the-missing-layer-in-agentic-commerce-3eb5)
 <!-- BLOG-POST-LIST:END -->
 
 
