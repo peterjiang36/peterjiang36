@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Your Azure AI Agents: Function Calling, Code Interpreter, and File Search](https://dev.to/bspann/power-your-azure-ai-agents-function-calling-code-interpreter-and-file-search-95f)
-- [I Started a 100 Projects Challenge &lpar;Not Exactly in 100 Days&rpar; — And Here’s Why You Should Too](https://dev.to/abdulaziz_hamzah_884bb727/i-started-a-100-projects-challenge-not-exactly-in-100-days-and-heres-why-you-should-too-54a8)
-- [You can&#39;t optimize everything &lpar;And that&#39;s okay&rpar;](https://dev.to/yeisoncruz16/you-cant-optimize-everything-and-thats-okay-5ck9)
-- [Building AI Agents with Strands Agents: My Hands-On Experience from the AWS BeSA Workshop](https://dev.to/thakurjyoti05/building-ai-agents-with-strands-agents-my-hands-on-experience-from-the-aws-besa-workshop-9bk)
+- [After 3,874 Memories, My AI Coding Assistant Couldn&#39;t Find Anything Useful](https://dev.to/living0tribunal/after-3874-memories-my-ai-coding-assistant-couldnt-find-anything-useful-1cc)
+- [5 Chinese AI Open-Source Tools the West Doesn&#39;t Know About &lpar;2026&rpar;](https://dev.to/victorjia/5-chinese-ai-open-source-tools-the-west-doesnt-know-about-2026-18b0)
+- [I Made an LLM Build the Same App Twice — Classic Spring Boot vs Clean Architecture](https://dev.to/wakita181009/i-made-an-llm-build-the-same-app-twice-classic-spring-boot-vs-clean-architecture-9hl)
+- [Linxr | Part 4 — Test Results](https://dev.to/ai2th/linxr-part-4-test-results-2fdj)
 <!-- BLOG-POST-LIST:END -->
 
 
