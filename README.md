@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enforcing voice and tone with Claude Code hooks](https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db)
-- [How to Build a Custom MCP Tool in Under 10 Min](https://dev.to/nebulagg/how-to-build-a-custom-mcp-tool-in-under-10-min-4p2d)
-- [How to Build a REST API in Zig &lpar;Using Spider Web Framework&rpar;](https://dev.to/11110110011/how-to-build-a-rest-api-in-zig-using-spider-web-framework-4a8l)
-- [I Built an Open-Source CLI That Diagnoses Production Incidents in 30 Seconds — Looking for Contributors](https://dev.to/zeel_patel/i-built-an-open-source-cli-that-diagnoses-production-incidents-in-30-seconds-looking-for-4p63)
+- [Your Undo Button is Just a Stack of Pancakes](https://dev.to/doogal/your-undo-button-is-just-a-stack-of-pancakes-5297)
+- [Import Your AI Memory into ContextForge: Claude Code, ChatGPT, and Knowledge Graph](https://dev.to/alfredoizjr/import-your-ai-memory-into-contextforge-claude-code-chatgpt-and-knowledge-graph-5615)
+- [Giving AI agents Ethereum wallets and the ability to sign transactions](https://dev.to/wwpk/giving-ai-agents-ethereum-wallets-and-the-ability-to-sign-transactions-2cj0)
+- [Building an Open Source, Agent Friendly Mobile Engagement Tool](https://dev.to/jace_yoo_01318/building-an-open-source-agent-friendly-mobile-engagement-tool-45mo)
 <!-- BLOG-POST-LIST:END -->
 
 
