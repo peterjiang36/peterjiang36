@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Paperless-ngx vs Stirling-PDF: Which to Use?](https://dev.to/selfhostingsh/paperless-ngx-vs-stirling-pdf-which-to-use-4m81)
-- [5 Free Data APIs Every AI Developer Should Bookmark in 2026](https://dev.to/firstdata/5-free-data-apis-every-ai-developer-should-bookmark-in-2026-38ko)
-- [The AI Dev Team of One](https://dev.to/naysmith/the-ai-dev-team-of-one-51je)
-- [How I Scoped a RAG Knowledge Base Per Tenant](https://dev.to/hamurda/how-i-scoped-a-rag-knowledge-base-per-tenant-40fl)
+- [Building a RAG System from Scratch: Turning Aviation Disruption Data into an AI-Powered Q&amp;A App](https://dev.to/parupati/building-a-rag-system-from-scratch-turning-aviation-disruption-data-into-an-ai-powered-qa-app-4e8n)
+- [Criei uma pipeline de planejamento no OpenCode e olha no que deu](https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb)
+- [We Built a Product Using 750 AI-Generated Pull Requests](https://dev.to/marcio_castilho/we-built-a-product-using-750-ai-generated-pull-requests-50h)
+- [The Texture of Code](https://dev.to/paifamily/the-texture-of-code-4hna)
 <!-- BLOG-POST-LIST:END -->
 
 
