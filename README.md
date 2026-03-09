@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Find &amp; Build Profitable Google Workspace Add-on Ideas](https://dev.to/manuel_napoli_afe108b47e2/how-i-find-build-profitable-google-workspace-add-on-ideas-dh)
-- [The uncomfortable truth about European cloud sovereignty](https://dev.to/bramverhagen/the-uncomfortable-truth-about-european-cloud-sovereignty-5136)
-- [Cognitive Property: Who Owns the Way You Think?](https://dev.to/avanrossum/cognitive-property-who-owns-the-way-you-think-2960)
-- [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e)
+- [OrcBot&#39;s Self-Training Sidecar: How to Improve an AI Agent Without Letting It Rewrite Itself Live](https://dev.to/fred_abkb/orcbots-self-training-sidecar-how-to-improve-an-ai-agent-without-letting-it-rewrite-itself-live-1953)
+- [Context Engineering: The Most Important AI Skill Nobody&#39;s Teaching You](https://dev.to/pockit_tools/context-engineering-the-most-important-ai-skill-nobodys-teaching-you-4o91)
+- [Discovery-First Orchestration](https://dev.to/peterpcw/discovery-first-orchestration-58dm)
+- [We Started With an Image Editor. We Ended Up Building Infrastructure](https://dev.to/t1ll/we-started-with-an-image-editor-we-ended-up-building-infrastructure-11hp)
 <!-- BLOG-POST-LIST:END -->
 
 
