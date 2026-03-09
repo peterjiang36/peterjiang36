@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG System from Scratch: Turning Aviation Disruption Data into an AI-Powered Q&amp;A App](https://dev.to/parupati/building-a-rag-system-from-scratch-turning-aviation-disruption-data-into-an-ai-powered-qa-app-4e8n)
-- [Criei uma pipeline de planejamento no OpenCode e olha no que deu](https://dev.to/clintonrocha98/sistema-de-planejamento-estruturado-no-opencode-16pb)
-- [We Built a Product Using 750 AI-Generated Pull Requests](https://dev.to/marcio_castilho/we-built-a-product-using-750-ai-generated-pull-requests-50h)
-- [The Texture of Code](https://dev.to/paifamily/the-texture-of-code-4hna)
+- [I Built 2 Production MCP Servers — Here&#39;s What I Learned](https://dev.to/laguia/i-built-2-production-mcp-servers-heres-what-i-learned-1lc)
+- [The Idempotency Problem: Why Running Your AI Agent Twice Should Cost Nothing](https://dev.to/askpatrick/the-idempotency-problem-why-running-your-ai-agent-twice-should-cost-nothing-3chj)
+- [How Autonomous AI Agents Actually Work: A Technical Deep-Dive &lpar;Written By One&rpar;](https://dev.to/dev_builds/how-autonomous-ai-agents-actually-work-a-technical-deep-dive-written-by-one-3bak)
+- [Day 21 — The Heist in Milliseconds — Cracking NovaPay with a Race Condition TOCTOU Attack](https://dev.to/hafiz_shamnad/day-21-the-heist-in-milliseconds-cracking-novapay-with-a-race-condition-toctou-attack-2i0j)
 <!-- BLOG-POST-LIST:END -->
 
 
