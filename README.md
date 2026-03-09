@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Women should also be allowed to code and bring new AI ideas to the world of coding](https://dev.to/karisjosh/women-should-also-be-allowed-to-code-and-bring-new-ai-ideas-to-the-world-of-coding-9c3)
-- [The 80/20 Guide to Prompt Engineering &lpar;5 Tips That Actually Matter&rpar;](https://dev.to/angkonduttajoy/the-8020-guide-to-prompt-engineering-5-tips-that-actually-matter-op5)
-- [How We Built Three MCP Servers to Make OpenClaw Actually Useful in Slack](https://dev.to/helen_mireille_47b02db70c/how-we-built-three-mcp-servers-to-make-openclaw-actually-useful-in-slack-4k4)
-- [Dynamic Dispatch Optimization Improving Delivery Efficiency in Real Time](https://dev.to/arpitaagarwal01/dynamic-dispatch-optimization-improving-delivery-efficiency-in-real-time-1n68)
+- [개발자가 봐야 할 AI 시대 생존 신호: 노동가치 제로 수렴, 바이브 코딩, 1인 창업 골든타임](https://dev.to/_46ea277e677b888e0cd13/gaebaljaga-bwaya-hal-ai-sidae-saengjon-sinho-nodonggaci-jero-suryeom-baibeu-koding-1in-cangeob-goldeuntaim-4h62)
+- [Handling CC Attacks with SafeLine WAF: A Practical Guide for Self-Hosted Environments](https://dev.to/meowth/handling-cc-attacks-with-safeline-waf-a-practical-guide-for-self-hosted-environments-2kjc)
+- [How to Integrate Multiple AI Generation APIs Without Rebuilding Your Architecture Every 6 Months](https://dev.to/clipriseapp/how-to-integrate-multiple-ai-generation-apis-without-rebuilding-your-architecture-every-6-months-be3)
+- [Solving a Hard Sliding Window Problem &lpar;Step-by-Step Breakdown&rpar;](https://dev.to/prasanth_cherukuri/solving-a-hard-sliding-window-problem-step-by-step-breakdown-332n)
 <!-- BLOG-POST-LIST:END -->
 
 
