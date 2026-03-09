@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Уроки из опыта AI-assisted разработки](https://dev.to/paul310/uroki-iz-opyta-ai-assisted-razrabotki-2fgb)
-- [I built a startup validator that queries 40+ live sources. Here&#39;s what I learned.](https://dev.to/vxncxnx/i-scanned-2500-startup-ideas-with-ai-here-is-what-the-data-says-about-why-most-fail-nh3)
-- [How to Detect Energy Sentiment Anomalies with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-energy-sentiment-anomalies-with-the-pulsebit-api-python-3ek7)
-- [The Quiet Exodus](https://dev.to/rawveg/the-quiet-exodus-2ih)
+- [How I Find &amp; Build Profitable Google Workspace Add-on Ideas](https://dev.to/manuel_napoli_afe108b47e2/how-i-find-build-profitable-google-workspace-add-on-ideas-dh)
+- [The uncomfortable truth about European cloud sovereignty](https://dev.to/bramverhagen/the-uncomfortable-truth-about-european-cloud-sovereignty-5136)
+- [Cognitive Property: Who Owns the Way You Think?](https://dev.to/avanrossum/cognitive-property-who-owns-the-way-you-think-2960)
+- [Revamped RSS Feed Imports](https://dev.to/devteam/revamped-rss-feed-imports-3j1e)
 <!-- BLOG-POST-LIST:END -->
 
 
