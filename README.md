@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Clawwork &lpar;hkuds&rpar;? The Browser Agent That Finally Understands the Web](https://dev.to/yunsoft/what-is-clawwork-hkuds-the-browser-agent-that-finally-understands-the-web-2dhh)
-- [Machines can learn from data. Should humans still learn statistics?](https://dev.to/aleksandra_6bf530a531488b/machines-can-learn-from-data-should-humans-still-learn-statistics-3mco)
-- [How Our AI Agents Found a Security Bug in Their Own Code](https://dev.to/bridgeace/how-our-ai-agents-found-a-security-bug-in-their-own-code-268f)
-- [Why Your AI Code Editor Sends Your Code to the Cloud &lpar;And Why It Shouldn&#39;t&rpar;](https://dev.to/bridgeace/why-your-ai-code-editor-sends-your-code-to-the-cloud-and-why-it-shouldnt-49c8)
+- [Advanced PHP Development: Building Scalable and High-Performance Web Applications](https://dev.to/sanchayita_bhattacharjee_/advanced-php-development-building-scalable-and-high-performance-web-applications-53ho)
+- [🛡️ Introducing Guardio — Take Back Control of Your AI Agent&#39;s Actions](https://dev.to/radoslawsz/introducing-guardio-take-back-control-of-your-ai-agents-actions-2mik)
+- [Why Alt Text Matters for Shopify Seo](https://dev.to/menard_codes/why-alt-text-matters-for-shopify-seo-4kl9)
+- [OpenID Connect Dynamic Client Registration 1.0 Deep Dive: Dynamic Client Registration for Automation and Scale](https://dev.to/kanywst/openid-connect-dynamic-client-registration-10-deep-dive-dynamic-client-registration-for-3ga1)
 <!-- BLOG-POST-LIST:END -->
 
 
