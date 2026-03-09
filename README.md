@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [After 3,874 Memories, My AI Coding Assistant Couldn&#39;t Find Anything Useful](https://dev.to/living0tribunal/after-3874-memories-my-ai-coding-assistant-couldnt-find-anything-useful-1cc)
-- [5 Chinese AI Open-Source Tools the West Doesn&#39;t Know About &lpar;2026&rpar;](https://dev.to/victorjia/5-chinese-ai-open-source-tools-the-west-doesnt-know-about-2026-18b0)
-- [I Made an LLM Build the Same App Twice — Classic Spring Boot vs Clean Architecture](https://dev.to/wakita181009/i-made-an-llm-build-the-same-app-twice-classic-spring-boot-vs-clean-architecture-9hl)
-- [Linxr | Part 4 — Test Results](https://dev.to/ai2th/linxr-part-4-test-results-2fdj)
+- [Your Next Customer Might Be an Agent](https://dev.to/meimakes/your-next-customer-might-be-an-agent-1lme)
+- [Docker Compose vs Kubernetes: What I Actually Learned Running Both in Production](https://dev.to/synsun/docker-compose-vs-kubernetes-what-i-actually-learned-running-both-in-production-18me)
+- [Deno 2.0 in Production: Six Months of Migration From Node.js and What Actually Changed](https://dev.to/synsun/deno-20-in-production-six-months-of-migration-from-nodejs-and-what-actually-changed-18gj)
+- [Turning Claude Code Sessions into HTML Replays](https://dev.to/es617/turning-claude-code-sessions-into-html-replays-4amo)
 <!-- BLOG-POST-LIST:END -->
 
 
