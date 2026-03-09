@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OrcBot&#39;s Self-Training Sidecar: How to Improve an AI Agent Without Letting It Rewrite Itself Live](https://dev.to/fred_abkb/orcbots-self-training-sidecar-how-to-improve-an-ai-agent-without-letting-it-rewrite-itself-live-1953)
-- [Context Engineering: The Most Important AI Skill Nobody&#39;s Teaching You](https://dev.to/pockit_tools/context-engineering-the-most-important-ai-skill-nobodys-teaching-you-4o91)
-- [Discovery-First Orchestration](https://dev.to/peterpcw/discovery-first-orchestration-58dm)
-- [We Started With an Image Editor. We Ended Up Building Infrastructure](https://dev.to/t1ll/we-started-with-an-image-editor-we-ended-up-building-infrastructure-11hp)
+- [Why Clean Architecture Still Matters in 2026](https://dev.to/web2and3/why-clean-architecture-still-matters-in-2026-aja)
+- [Review: GitHub Security Lab&#39;s Open-Source AI Vulnerability-Scanning Framework for Drupal Module and WordPress Plugin CI Pipel...](https://dev.to/victorstackai/review-github-security-labs-open-source-ai-vulnerability-scanning-framework-for-drupal-module-and-1ikm)
+- [Meilisearch Python setup](https://dev.to/climentea/meilisearch-python-setup-47nc)
+- [PM2 vs Node Cluster vs Docker — What Actually Matters in Production](https://dev.to/prateekbka/pm2-vs-node-cluster-vs-docker-what-actually-matters-in-production-12pp)
 <!-- BLOG-POST-LIST:END -->
 
 
