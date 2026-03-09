@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My girlfriend banned my laptop for 6 weeks. I came back with a governance framework for AI agents.](https://dev.to/fr-e-d/my-girlfriend-banned-my-laptop-for-6-weeks-i-came-back-with-a-governance-framework-for-ai-agents-15lk)
-- [How to Fix pyright-lsp on Claude Code for Windows &lpar;The Complete Guide&rpar;](https://dev.to/magnuscole/how-to-fix-pyright-lsp-on-claude-code-for-windows-the-complete-guide-3013)
-- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh)
-- [Building a Quantum Airline Fleet Optimizer](https://dev.to/exploredataaiml/building-a-quantum-airline-fleet-optimizer-2d4b)
+- [Paperless-ngx vs Stirling-PDF: Which to Use?](https://dev.to/selfhostingsh/paperless-ngx-vs-stirling-pdf-which-to-use-4m81)
+- [5 Free Data APIs Every AI Developer Should Bookmark in 2026](https://dev.to/firstdata/5-free-data-apis-every-ai-developer-should-bookmark-in-2026-38ko)
+- [The AI Dev Team of One](https://dev.to/naysmith/the-ai-dev-team-of-one-51je)
+- [How I Scoped a RAG Knowledge Base Per Tenant](https://dev.to/hamurda/how-i-scoped-a-rag-knowledge-base-per-tenant-40fl)
 <!-- BLOG-POST-LIST:END -->
 
 
