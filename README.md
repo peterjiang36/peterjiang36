@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [개발자가 봐야 할 AI 시대 생존 신호: 노동가치 제로 수렴, 바이브 코딩, 1인 창업 골든타임](https://dev.to/_46ea277e677b888e0cd13/gaebaljaga-bwaya-hal-ai-sidae-saengjon-sinho-nodonggaci-jero-suryeom-baibeu-koding-1in-cangeob-goldeuntaim-4h62)
-- [Handling CC Attacks with SafeLine WAF: A Practical Guide for Self-Hosted Environments](https://dev.to/meowth/handling-cc-attacks-with-safeline-waf-a-practical-guide-for-self-hosted-environments-2kjc)
-- [How to Integrate Multiple AI Generation APIs Without Rebuilding Your Architecture Every 6 Months](https://dev.to/clipriseapp/how-to-integrate-multiple-ai-generation-apis-without-rebuilding-your-architecture-every-6-months-be3)
-- [Solving a Hard Sliding Window Problem &lpar;Step-by-Step Breakdown&rpar;](https://dev.to/prasanth_cherukuri/solving-a-hard-sliding-window-problem-step-by-step-breakdown-332n)
+- [Going deeper: Intercepting subcommands in Make, Just, and Git Hooks](https://dev.to/mpecan/going-deeper-intercepting-subcommands-in-make-just-and-git-hooks-44kk)
+- [Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP!](https://dev.to/mgobea/show-hn-mcp2cli-one-cli-for-every-api-96-99-fewer-tokens-than-native-mcp-5c49)
+- [5 Prompt Engineering Patterns That Actually Work in Production](https://dev.to/klement_gunndu/5-prompt-engineering-patterns-that-actually-work-in-production-4mcj)
+- [Beyond the AI Hype: How I Gained &quot;100% Clean&quot; Trust for My Rust-Powered Search App](https://dev.to/kazutaka-dev/beyond-the-ai-hype-how-i-gained-100-clean-trust-for-my-rust-powered-search-app-55i1)
 <!-- BLOG-POST-LIST:END -->
 
 
