@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Next Customer Might Be an Agent](https://dev.to/meimakes/your-next-customer-might-be-an-agent-1lme)
-- [Docker Compose vs Kubernetes: What I Actually Learned Running Both in Production](https://dev.to/synsun/docker-compose-vs-kubernetes-what-i-actually-learned-running-both-in-production-18me)
-- [Deno 2.0 in Production: Six Months of Migration From Node.js and What Actually Changed](https://dev.to/synsun/deno-20-in-production-six-months-of-migration-from-nodejs-and-what-actually-changed-18gj)
-- [Turning Claude Code Sessions into HTML Replays](https://dev.to/es617/turning-claude-code-sessions-into-html-replays-4amo)
+- [Summarize Text with AI: A Practical Guide](https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a)
+- [How to Detect VPN and Proxy Users](https://dev.to/apiverve/how-to-detect-vpn-and-proxy-users-ech)
+- [The Pre-Execution Check: The One Habit That Makes AI Agents Safe to Run Unsupervised](https://dev.to/askpatrick/the-pre-execution-check-the-one-habit-that-makes-ai-agents-safe-to-run-unsupervised-2o2e)
+- [Satoru Iwata: A businessman, a programmer, and just a gamer. [1 of 4]](https://dev.to/daniel3456/satoru-iwata-a-businessman-a-programmer-and-just-a-gamer-1-of-4-30di)
 <!-- BLOG-POST-LIST:END -->
 
 
