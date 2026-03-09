@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Clean Architecture Still Matters in 2026](https://dev.to/web2and3/why-clean-architecture-still-matters-in-2026-aja)
-- [Review: GitHub Security Lab&#39;s Open-Source AI Vulnerability-Scanning Framework for Drupal Module and WordPress Plugin CI Pipel...](https://dev.to/victorstackai/review-github-security-labs-open-source-ai-vulnerability-scanning-framework-for-drupal-module-and-1ikm)
-- [Meilisearch Python setup](https://dev.to/climentea/meilisearch-python-setup-47nc)
-- [PM2 vs Node Cluster vs Docker — What Actually Matters in Production](https://dev.to/prateekbka/pm2-vs-node-cluster-vs-docker-what-actually-matters-in-production-12pp)
+- [Power Your Azure AI Agents: Function Calling, Code Interpreter, and File Search](https://dev.to/bspann/power-your-azure-ai-agents-function-calling-code-interpreter-and-file-search-95f)
+- [I Started a 100 Projects Challenge &lpar;Not Exactly in 100 Days&rpar; — And Here’s Why You Should Too](https://dev.to/abdulaziz_hamzah_884bb727/i-started-a-100-projects-challenge-not-exactly-in-100-days-and-heres-why-you-should-too-54a8)
+- [You can&#39;t optimize everything &lpar;And that&#39;s okay&rpar;](https://dev.to/yeisoncruz16/you-cant-optimize-everything-and-thats-okay-5ck9)
+- [Building AI Agents with Strands Agents: My Hands-On Experience from the AWS BeSA Workshop](https://dev.to/thakurjyoti05/building-ai-agents-with-strands-agents-my-hands-on-experience-from-the-aws-besa-workshop-9bk)
 <!-- BLOG-POST-LIST:END -->
 
 
