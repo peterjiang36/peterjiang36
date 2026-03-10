@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time Everything](https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm)
-- [How to Prepare Images and Videos for Social Media Faster in the Browser](https://dev.to/charles_snow_fastly/how-to-prepare-images-and-videos-for-social-media-faster-in-the-browser-3e20)
-- [Claude Code Hooks: 5 Automations That Replaced My Manual Workflow](https://dev.to/klement_gunndu/claude-code-hooks-5-automations-that-replaced-my-manual-workflow-47f4)
-- [Solidity Storage vs Memory vs Calldata: A Developer&#39;s Guide](https://dev.to/metadevdigital/solidity-storage-vs-memory-vs-calldata-a-developers-guide-5cem)
+- [Nerq AI Agent Ecosystem Weekly Report - Week Ending 2026-03-10](https://dev.to/zarq-ai/nerq-ai-agent-ecosystem-weekly-report-week-ending-2026-03-10-518e)
+- [Shopify AI Automation for Developers: Practical Workflows for Smarter Stores](https://dev.to/alifar/shopify-ai-automation-for-developers-practical-workflows-for-smarter-stores-362d)
+- [I Learned Frontend Web Development...But Now What?](https://dev.to/dofferman/i-learned-frontend-web-developmentbut-now-what-lo0)
+- [One Principle, One Proof: Why IVP-Compliant Modules Minimize Change Impact](https://dev.to/yannick555/one-principle-one-proof-why-ivp-compliant-modules-minimize-change-impact-5f0a)
 <!-- BLOG-POST-LIST:END -->
 
 
