@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How CORE Used Its Own Pipeline to Eliminate 36 Constitutional Violations — Including Its Own](https://dev.to/dariusz_newecki_e35b0924c/how-core-used-its-own-pipeline-to-eliminate-36-constitutional-violations-including-its-own-206c)
-- [Top CSS3 Features You Need to Know in 2026](https://dev.to/balassenthilrrd/top-css3-features-you-need-to-know-in-2026-2h6l)
-- [The Most Valuable Developer in the AI Era Might Not Be the Best Coder](https://dev.to/yashwanth_reddyk_ad8c405/the-most-valuable-developer-in-the-ai-era-might-not-be-the-best-coder-2p8)
-- [You Shipped It, You Keep It! On personal accountability in the age of coding agents](https://dev.to/antunesleo/you-shipped-it-you-keep-it-on-personal-accountability-in-the-age-of-coding-agents-40eo)
+- [NestJS MSA Lite 실전 아키텍처 &lpar;3/3&rpar; — 운영, 배포, 그리고 진화](https://dev.to/artistrator/nestjs-msa-lite-siljeon-akitegceo-33-unyeong-baepo-geurigo-jinhwa-1d1l)
+- [NestJS MSA Lite 실전 아키텍처 &lpar;2/3&rpar; — 데이터 레이어와 비동기 처리](https://dev.to/artistrator/nestjs-msa-lite-siljeon-akitegceo-23-deiteo-reieowa-bidonggi-ceori-3aij)
+- [An Agent Swarm That Builds Agent Swarms: Automating Claude Code Infrastructure](https://dev.to/gary_dotzlaw/an-agent-swarm-that-builds-agent-swarms-automating-claude-code-infrastructure-1ih1)
+- [Understanding Malloc&lpar;&rpar; Internals: What I&#39;ve Learnt So Far](https://dev.to/moonlitpath1/understanding-malloc-internals-what-ive-learnt-so-far-gfe)
 <!-- BLOG-POST-LIST:END -->
 
 
