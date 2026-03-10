@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing Wallet Top-Up Fees Across Global Fintech Platforms](https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4)
-- [I’m in! 🥳🤙🏼 contratz to all!](https://dev.to/dnszlsk/im-in-contratz-to-all-1757)
-- [The New AI Stack Every Developer Should Understand](https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl)
-- [Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter](https://dev.to/evillord666/beyond-fmt-building-a-flexible-text-builder-in-go-with-wissancestringformatter-2ec3)
+- [Terraform remote state for multi-account AWS: complete setup](https://dev.to/yash_step2dev/terraform-remote-state-for-multi-account-aws-complete-setup-1da)
+- [2 YOE Full‑Stack dev: how to choose between AI and Blockchain?](https://dev.to/rishuishind/2-yoe-full-stack-dev-how-to-choose-between-ai-and-blockchain-12n8)
+- [Your app validates emails in production but not in dev. What else are you skipping?](https://dev.to/bicibg/your-app-validates-emails-in-production-but-not-in-dev-what-else-are-you-skipping-kg1)
+- [GPT-5.4 Just Dropped - Here&#39;s Everything Developers Need to Know](https://dev.to/tyson_cung/gpt-54-just-dropped-heres-everything-developers-need-to-know-1eni)
 <!-- BLOG-POST-LIST:END -->
 
 
