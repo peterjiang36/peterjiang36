@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform remote state for multi-account AWS: complete setup](https://dev.to/yash_step2dev/terraform-remote-state-for-multi-account-aws-complete-setup-1da)
-- [2 YOE Full‑Stack dev: how to choose between AI and Blockchain?](https://dev.to/rishuishind/2-yoe-full-stack-dev-how-to-choose-between-ai-and-blockchain-12n8)
-- [Your app validates emails in production but not in dev. What else are you skipping?](https://dev.to/bicibg/your-app-validates-emails-in-production-but-not-in-dev-what-else-are-you-skipping-kg1)
-- [GPT-5.4 Just Dropped - Here&#39;s Everything Developers Need to Know](https://dev.to/tyson_cung/gpt-54-just-dropped-heres-everything-developers-need-to-know-1eni)
+- [Building a Live AI Market Research Terminal: How Bright Data and Convex Replace Polling With Real-Time Everything](https://dev.to/sholajegede/building-a-live-ai-market-research-terminal-how-bright-data-and-convex-replace-polling-with-mm)
+- [How to Prepare Images and Videos for Social Media Faster in the Browser](https://dev.to/charles_snow_fastly/how-to-prepare-images-and-videos-for-social-media-faster-in-the-browser-3e20)
+- [Claude Code Hooks: 5 Automations That Replaced My Manual Workflow](https://dev.to/klement_gunndu/claude-code-hooks-5-automations-that-replaced-my-manual-workflow-47f4)
+- [Solidity Storage vs Memory vs Calldata: A Developer&#39;s Guide](https://dev.to/metadevdigital/solidity-storage-vs-memory-vs-calldata-a-developers-guide-5cem)
 <!-- BLOG-POST-LIST:END -->
 
 
