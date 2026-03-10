@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your openclaw superstack under a minute](https://dev.to/mouhamadou_tidianeelbac/build-your-openclaw-superstack-under-a-minute-26kp)
-- [Building a Health Data Chat Agent with Claude and the Microsoft Agent Framework](https://dev.to/willvelida/building-a-health-data-chat-agent-with-claude-and-the-microsoft-agent-framework-2pj2)
-- [Lumina: Free Offline Knowledge for Everyone, Everywhere, Forever](https://dev.to/luminaarchive/lumina-free-offline-knowledge-for-everyone-everywhere-forever-m06)
-- [Your Agent Is a Small, Low-Stakes HAL](https://dev.to/romanonthego/your-agent-is-a-small-low-stakes-hal-59j8)
+- [Comparing Wallet Top-Up Fees Across Global Fintech Platforms](https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4)
+- [I’m in! 🥳🤙🏼 contratz to all!](https://dev.to/dnszlsk/im-in-contratz-to-all-1757)
+- [The New AI Stack Every Developer Should Understand](https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl)
+- [Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter](https://dev.to/evillord666/beyond-fmt-building-a-flexible-text-builder-in-go-with-wissancestringformatter-2ec3)
 <!-- BLOG-POST-LIST:END -->
 
 
