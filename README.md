@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Team Got Copilot. Now Leadership Thinks They Have Infinite Capacity.](https://dev.to/askpatrick/your-team-got-copilot-now-leadership-thinks-they-have-infinite-capacity-29bg)
-- [Mastering the Chaos: A Strategic Guide to Microservices Governance and Performance Excellence](https://dev.to/_4e853add3ce149eb8267a0/mastering-the-chaos-a-strategic-guide-to-microservices-governance-and-performance-excellence-21)
-- [Voiden is now extensible via community plugins](https://dev.to/nikolas_dimitroulakis_d23/voiden-is-now-extensible-via-community-plugins-24e6)
-- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-1o53)
+- [When JS Libraries Fail at 1M Rows: Generating XLSX via DuckDB SQL](https://dev.to/yuki0510/when-js-libraries-fail-at-1m-rows-generating-xlsx-via-duckdb-sql-2gkk)
+- [Top 5 AI Agent Frameworks for 2026 &lpar;Honest Guide&rpar;](https://dev.to/nebulagg/top-5-ai-agent-frameworks-for-2026-honest-guide-13jn)
+- [From “I Learned Frontend” to “I Solve Problems for Businesses”](https://dev.to/dofferman/from-i-learned-frontend-to-i-solve-problems-for-businesses-415k)
+- [Day 37 of #100DaysOfCode — Authentication Part I: Hashing Passwords](https://dev.to/m_saad_ahmad/day-37-of-100daysofcode-authentication-part-i-hashing-passwords-2fcg)
 <!-- BLOG-POST-LIST:END -->
 
 
