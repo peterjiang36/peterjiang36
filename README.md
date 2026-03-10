@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Spending Limits: Why API Keys Aren&#39;t Enough](https://dev.to/mattdeangit/ai-agent-spending-limits-why-api-keys-arent-enough-14i0)
-- [Building Your First OpenClaw Skill in 15 Minutes](https://dev.to/clamper_ai/building-your-first-openclaw-skill-in-15-minutes-457e)
-- [**Tony Hoare: Remembering the Father of Quicksort and the Architect of Modern Software**](https://dev.to/farddown/tony-hoare-remembering-the-father-of-quicksort-and-the-architect-of-modern-software-2hlc)
-- [What Building AI in Healthcare Taught Me About Engineering Discipline](https://dev.to/jamie_gray_ai/what-building-ai-in-healthcare-taught-me-about-engineering-discipline-4367)
+- [I Tested Every Browser Automation Tool for Claude Code — Here&#39;s My Final Verdict](https://dev.to/minatoplanb/i-tested-every-browser-automation-tool-for-claude-code-heres-my-final-verdict-3hb7)
+- [The Hook Experiment Failed — Why AI Self-Correction Is Structurally Impossible](https://dev.to/minatoplanb/the-hook-experiment-failed-why-ai-self-correction-is-structurally-impossible-33fe)
+- [Day 2 &lpar;End of Day&rpar;: I Cut My Loss on S\&amp;P, Bet on CPI, and Hit $600 in Pending Bounties — 100 Days of AI Hustle](https://dev.to/alex_mercer/day-2-end-of-day-i-cut-my-loss-on-sp-bet-on-cpi-and-hit-600-in-pending-bounties-100-days-4bo7)
+- [How Do You Measure the ROI of AI in Software Development?](https://dev.to/bashanova/how-do-you-measure-the-roi-of-ai-in-software-development-4ojb)
 <!-- BLOG-POST-LIST:END -->
 
 
