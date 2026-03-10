@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Learning to Code Still Worth It in the Age of AI?](https://dev.to/ali_aldahmani/is-learning-to-code-still-worth-it-in-the-age-of-ai-45o1)
-- [AI Coding: Why You Need to Record Your Complete Conversation History](https://dev.to/gonewx/aibian-cheng-wei-shi-yao-ni-xu-yao-ji-lu-wan-zheng-de-dui-hua-li-shi-25ic)
-- [FAQ: Synthetic Identity Fraud Detection and Prevention](https://dev.to/tiamatenity/faq-synthetic-identity-fraud-detection-and-prevention-5h30)
-- [I Tracked 3,200 Manus AI Tasks for 94 Days — 72.4% of Credit Waste Comes from Just 3 Patterns](https://dev.to/rafsilva85/i-analyzed-10000-manus-ai-tasks-and-found-73-of-credit-waste-comes-from-just-3-patterns-iip)
+- [Keep Your GitHub Profile README Alive: Auto-Update with GitHub Actions ⚡](https://dev.to/yasinatesim/keep-your-github-profile-readme-alive-auto-update-with-github-actions-952)
+- [How to Run Multiple AI Agents from a Single OpenClaw Instance](https://dev.to/agentsleader/how-to-run-multiple-ai-agents-from-a-single-openclaw-instance-439j)
+- [The Rise of the Edge AI Rugged Laptop](https://dev.to/akina_akina_48dd303731045/the-rise-of-the-edge-ai-rugged-laptop-g50)
+- [Enhancing Productivity with a 15.6-Inch Rugged Laptop](https://dev.to/akina_akina_48dd303731045/enhancing-productivity-with-a-156-inch-rugged-laptop-4ap9)
 <!-- BLOG-POST-LIST:END -->
 
 
