@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When AI Becomes Your On-Call Engineer: The Future of Incident Response](https://dev.to/ravi_teja_8b63d9205dc7a13/when-ai-becomes-your-on-call-engineer-the-future-of-incident-response-5bb9)
-- [I Just Want to Look Up What I Asked Claude Last Tuesday](https://dev.to/gonewx/i-just-want-to-look-up-what-i-asked-claude-last-tuesday-44lh)
-- [Apptron 0.7: Offline Sites, Console Embeds, and Much More](https://dev.to/progrium/apptron-07-offline-sites-console-embeds-and-much-more-2a0f)
-- [How I Built a GTM Debugger Chrome Extension &lpar;And What I Learned the Hard Way&rpar;](https://dev.to/hsynkvlc/how-i-built-a-gtm-debugger-chrome-extension-and-what-i-learned-the-hard-way-26ni)
+- [Is Learning to Code Still Worth It in the Age of AI?](https://dev.to/ali_aldahmani/is-learning-to-code-still-worth-it-in-the-age-of-ai-45o1)
+- [AI Coding: Why You Need to Record Your Complete Conversation History](https://dev.to/gonewx/aibian-cheng-wei-shi-yao-ni-xu-yao-ji-lu-wan-zheng-de-dui-hua-li-shi-25ic)
+- [FAQ: Synthetic Identity Fraud Detection and Prevention](https://dev.to/tiamatenity/faq-synthetic-identity-fraud-detection-and-prevention-5h30)
+- [I Tracked 3,200 Manus AI Tasks for 94 Days — 72.4% of Credit Waste Comes from Just 3 Patterns](https://dev.to/rafsilva85/i-analyzed-10000-manus-ai-tasks-and-found-73-of-credit-waste-comes-from-just-3-patterns-iip)
 <!-- BLOG-POST-LIST:END -->
 
 
