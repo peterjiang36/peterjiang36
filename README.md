@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Export Installed WordPress Plugins &amp; Themes to CSV &lpar;Developer-Friendly Method&rpar;](https://dev.to/zeeshansardar08/export-installed-wordpress-plugins-themes-to-csv-developer-friendly-method-2cpa)
-- [Stop Guessing: Turn Vibe Coding from &quot;Sometimes Magic&quot; to &quot;Reliably Powerful&quot;!](https://dev.to/richard_chai_7ae55a511593/stop-guessing-turn-vibe-coding-from-sometimes-magic-to-reliably-powerful-51mi)
-- [The research desk has a memory problem](https://dev.to/leivleivleiv/the-research-desk-has-a-memory-problem-3dk6)
-- [How I Built a 37 Million Row Search Engine That Returns Results in 200ms](https://dev.to/faiz_md_37b12e52f7275ac34/how-i-built-a-37-million-row-search-engine-that-returns-results-in-200ms-k0l)
+- [When AI Becomes Your On-Call Engineer: The Future of Incident Response](https://dev.to/ravi_teja_8b63d9205dc7a13/when-ai-becomes-your-on-call-engineer-the-future-of-incident-response-5bb9)
+- [I Just Want to Look Up What I Asked Claude Last Tuesday](https://dev.to/gonewx/i-just-want-to-look-up-what-i-asked-claude-last-tuesday-44lh)
+- [Apptron 0.7: Offline Sites, Console Embeds, and Much More](https://dev.to/progrium/apptron-07-offline-sites-console-embeds-and-much-more-2a0f)
+- [How I Built a GTM Debugger Chrome Extension &lpar;And What I Learned the Hard Way&rpar;](https://dev.to/hsynkvlc/how-i-built-a-gtm-debugger-chrome-extension-and-what-i-learned-the-hard-way-26ni)
 <!-- BLOG-POST-LIST:END -->
 
 
