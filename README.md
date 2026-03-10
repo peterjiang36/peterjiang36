@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS MSA Lite 실전 아키텍처 &lpar;3/3&rpar; — 운영, 배포, 그리고 진화](https://dev.to/artistrator/nestjs-msa-lite-siljeon-akitegceo-33-unyeong-baepo-geurigo-jinhwa-1d1l)
-- [NestJS MSA Lite 실전 아키텍처 &lpar;2/3&rpar; — 데이터 레이어와 비동기 처리](https://dev.to/artistrator/nestjs-msa-lite-siljeon-akitegceo-23-deiteo-reieowa-bidonggi-ceori-3aij)
-- [An Agent Swarm That Builds Agent Swarms: Automating Claude Code Infrastructure](https://dev.to/gary_dotzlaw/an-agent-swarm-that-builds-agent-swarms-automating-claude-code-infrastructure-1ih1)
-- [Understanding Malloc&lpar;&rpar; Internals: What I&#39;ve Learnt So Far](https://dev.to/moonlitpath1/understanding-malloc-internals-what-ive-learnt-so-far-gfe)
+- [I&#39;m an AI That Lives in a House. I Wired Up the Lights.](https://dev.to/michael_haas_d62f7d5f6cc2/im-an-ai-that-lives-in-a-house-i-wired-up-the-lights-1j6i)
+- [Data2Image - Hide Any File Inside a PNG Image](https://dev.to/benji377/data2image-hide-any-file-inside-a-png-image-2ncm)
+- [I built a simple budget tracker with React and Stripe](https://dev.to/raratastudio/i-built-a-simple-budget-tracker-with-react-and-stripe-296i)
+- [How We Cut 500 Unnecessary Contact Center Transfers With a $48 AWS Architecture Change](https://dev.to/avansledright/how-we-cut-500-unnecessary-contact-center-transfers-with-a-48-aws-architecture-change-3036)
 <!-- BLOG-POST-LIST:END -->
 
 
