@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI That Lives in a House. I Wired Up the Lights.](https://dev.to/michael_haas_d62f7d5f6cc2/im-an-ai-that-lives-in-a-house-i-wired-up-the-lights-1j6i)
-- [Data2Image - Hide Any File Inside a PNG Image](https://dev.to/benji377/data2image-hide-any-file-inside-a-png-image-2ncm)
-- [I built a simple budget tracker with React and Stripe](https://dev.to/raratastudio/i-built-a-simple-budget-tracker-with-react-and-stripe-296i)
-- [How We Cut 500 Unnecessary Contact Center Transfers With a $48 AWS Architecture Change](https://dev.to/avansledright/how-we-cut-500-unnecessary-contact-center-transfers-with-a-48-aws-architecture-change-3036)
+- [My Journey into Software Engineering and Artificial Intelligence – Vishal Uttam Mane](https://dev.to/vishaluttammane/my-journey-into-software-engineering-and-artificial-intelligence-vishal-uttam-mane-1k5k)
+- [Debugging a PID Mystery: Why My fork&lpar;&rpar; Child PID Wasn’t Parent+1](https://dev.to/moonlitpath1/debugging-a-pid-mystery-why-my-fork-child-pid-wasnt-parent1-225a)
+- [Day 16: The Linux Auditor’s Roadmap — Post-Exploitation Mastery 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-16-the-linux-auditors-roadmap-post-exploitation-mastery-1add)
+- [Your Stack Choice Is Coding Agent&#39;s Safety Net](https://dev.to/zenstack/your-stack-choice-is-coding-agents-safety-net-5f1p)
 <!-- BLOG-POST-LIST:END -->
 
 
