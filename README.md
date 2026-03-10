@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clawless — Bring Your Own Agent to Telegram &amp; Slack](https://dev.to/hainanzhao/clawless-bring-your-own-agent-to-telegram-slack-291m)
-- [Reverse-Engineering Category Strategy: Analyzing Assortment Mix with Node.js](https://dev.to/sommic/reverse-engineering-category-strategy-analyzing-assortment-mix-with-nodejs-4i3c)
-- [🚀 I Built a Production-Ready E-commerce Backend API with Django REST Framework](https://dev.to/akmal7780/i-built-a-production-ready-e-commerce-backend-api-with-django-rest-framework-7lo)
-- [How to Decide What to Build Next for Your Startup](https://dev.to/alichherawalla/how-to-decide-what-to-build-next-for-your-startup-1kh5)
+- [🥊 The Ultimate Laravel + Inertia Localization Showdown: Why laravel-lang-sync-inertia Beats the Giants](https://dev.to/eramitgupta/the-ultimate-laravel-inertia-localization-showdown-why-laravel-lang-sync-inertia-beats-the-2f9j)
+- [Perplexity Sonar Alternatives for Developers &lpar;2026&rpar;](https://dev.to/valyuai/perplexity-sonar-alternatives-for-developers-2026-8j3)
+- [I Built an AI That Turns GitHub Commits into Stories](https://dev.to/bbtc3453/i-built-an-ai-that-turns-github-commits-into-stories-nfe)
+- [KEXP: Javiera Electra - La llorona / Espadámbar &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-javiera-electra-la-llorona-espadambar-live-on-kexp-14mp)
 <!-- BLOG-POST-LIST:END -->
 
 
