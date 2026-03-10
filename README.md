@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Your GitHub Profile README Alive: Auto-Update with GitHub Actions ⚡](https://dev.to/yasinatesim/keep-your-github-profile-readme-alive-auto-update-with-github-actions-952)
-- [How to Run Multiple AI Agents from a Single OpenClaw Instance](https://dev.to/agentsleader/how-to-run-multiple-ai-agents-from-a-single-openclaw-instance-439j)
-- [The Rise of the Edge AI Rugged Laptop](https://dev.to/akina_akina_48dd303731045/the-rise-of-the-edge-ai-rugged-laptop-g50)
-- [Enhancing Productivity with a 15.6-Inch Rugged Laptop](https://dev.to/akina_akina_48dd303731045/enhancing-productivity-with-a-156-inch-rugged-laptop-4ap9)
+- [The 60-Year-Old Developer Who Broke Hacker News: This Is What Vibe Coding Actually Looks Like](https://dev.to/matthewhou/the-60-year-old-developer-who-broke-hacker-news-this-is-what-vibe-coding-actually-looks-like-11l7)
+- [Sift: Local Hybrid Search Without the Infrastructure Tax](https://dev.to/rupurt/sift-local-hybrid-search-without-the-infrastructure-tax-487n)
+- [Securing AI Agents: A Deep Dive into MCP Authorization](https://dev.to/thamindudev/securing-ai-agents-a-deep-dive-into-mcp-authorization-23m0)
+- [15 Best AI Agent Frameworks for Enterprise: Open-Source to Managed &lpar;2026&rpar;](https://dev.to/jaipalsingh/15-best-ai-agent-frameworks-for-enterprise-open-source-to-managed-2026-27c8)
 <!-- BLOG-POST-LIST:END -->
 
 
