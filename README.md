@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🥊 The Ultimate Laravel + Inertia Localization Showdown: Why laravel-lang-sync-inertia Beats the Giants](https://dev.to/eramitgupta/the-ultimate-laravel-inertia-localization-showdown-why-laravel-lang-sync-inertia-beats-the-2f9j)
-- [Perplexity Sonar Alternatives for Developers &lpar;2026&rpar;](https://dev.to/valyuai/perplexity-sonar-alternatives-for-developers-2026-8j3)
-- [I Built an AI That Turns GitHub Commits into Stories](https://dev.to/bbtc3453/i-built-an-ai-that-turns-github-commits-into-stories-nfe)
-- [KEXP: Javiera Electra - La llorona / Espadámbar &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-javiera-electra-la-llorona-espadambar-live-on-kexp-14mp)
+- [SRT vs MOQT: Low-Latency Video Transport Comparison](https://dev.to/red5/srt-vs-moqt-low-latency-video-transport-comparison-9fp)
+- [Build Log — March 10, 2026](https://dev.to/paul_desai_ff9e1e7b5605ef/build-log-march-10-2026-46og)
+- [You Might Not Need TanStack Query](https://dev.to/iceonfire/you-might-not-need-tanstack-query-2f3l)
+- [Understanding the Event Loop, Synchronous vs Asynchronous Code &lpar;Explained for Beginners&rpar;](https://dev.to/buddingdeveloper/-understanding-the-event-loop-synchronous-vs-asynchronous-code-explained-for-beginners-2392)
 <!-- BLOG-POST-LIST:END -->
 
 
