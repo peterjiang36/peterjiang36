@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SRT vs MOQT: Low-Latency Video Transport Comparison](https://dev.to/red5/srt-vs-moqt-low-latency-video-transport-comparison-9fp)
-- [Build Log — March 10, 2026](https://dev.to/paul_desai_ff9e1e7b5605ef/build-log-march-10-2026-46og)
-- [You Might Not Need TanStack Query](https://dev.to/iceonfire/you-might-not-need-tanstack-query-2f3l)
-- [Understanding the Event Loop, Synchronous vs Asynchronous Code &lpar;Explained for Beginners&rpar;](https://dev.to/buddingdeveloper/-understanding-the-event-loop-synchronous-vs-asynchronous-code-explained-for-beginners-2392)
+- [How CORE Used Its Own Pipeline to Eliminate 36 Constitutional Violations — Including Its Own](https://dev.to/dariusz_newecki_e35b0924c/how-core-used-its-own-pipeline-to-eliminate-36-constitutional-violations-including-its-own-206c)
+- [Top CSS3 Features You Need to Know in 2026](https://dev.to/balassenthilrrd/top-css3-features-you-need-to-know-in-2026-2h6l)
+- [The Most Valuable Developer in the AI Era Might Not Be the Best Coder](https://dev.to/yashwanth_reddyk_ad8c405/the-most-valuable-developer-in-the-ai-era-might-not-be-the-best-coder-2p8)
+- [You Shipped It, You Keep It! On personal accountability in the age of coding agents](https://dev.to/antunesleo/you-shipped-it-you-keep-it-on-personal-accountability-in-the-age-of-coding-agents-40eo)
 <!-- BLOG-POST-LIST:END -->
 
 
