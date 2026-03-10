@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why CodeGate Exists: Inspect Before Trust](https://dev.to/pachilo/why-codegate-exists-inspect-before-trust-kda)
-- [Top 14 Shadcn Hero Sections for 2026](https://dev.to/vaibhavg/shadcn-hero-sections-37af)
-- [I ran 300+ AI models against PLTR — here&#39;s what multi-model consensus found](https://dev.to/tsung_8b0f8018e887871fda/i-ran-300-ai-models-against-pltr-heres-what-multi-model-consensus-found-43c8)
-- [The Case Against Rewrites: How I Evolved a 5-Year-Old Backend Codebase &lpar;And Why You Probably Shouldn’t Rewrite Yours Either&rpar;](https://dev.to/ojsholly/the-case-against-rewrites-how-i-evolved-a-5-year-old-backend-codebase-and-why-you-probably-25dl)
+- [Clawless — Bring Your Own Agent to Telegram &amp; Slack](https://dev.to/hainanzhao/clawless-bring-your-own-agent-to-telegram-slack-291m)
+- [Reverse-Engineering Category Strategy: Analyzing Assortment Mix with Node.js](https://dev.to/sommic/reverse-engineering-category-strategy-analyzing-assortment-mix-with-nodejs-4i3c)
+- [🚀 I Built a Production-Ready E-commerce Backend API with Django REST Framework](https://dev.to/akmal7780/i-built-a-production-ready-e-commerce-backend-api-with-django-rest-framework-7lo)
+- [How to Decide What to Build Next for Your Startup](https://dev.to/alichherawalla/how-to-decide-what-to-build-next-for-your-startup-1kh5)
 <!-- BLOG-POST-LIST:END -->
 
 
