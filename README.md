@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Every Browser Automation Tool for Claude Code — Here&#39;s My Final Verdict](https://dev.to/minatoplanb/i-tested-every-browser-automation-tool-for-claude-code-heres-my-final-verdict-3hb7)
-- [The Hook Experiment Failed — Why AI Self-Correction Is Structurally Impossible](https://dev.to/minatoplanb/the-hook-experiment-failed-why-ai-self-correction-is-structurally-impossible-33fe)
-- [Day 2 &lpar;End of Day&rpar;: I Cut My Loss on S\&amp;P, Bet on CPI, and Hit $600 in Pending Bounties — 100 Days of AI Hustle](https://dev.to/alex_mercer/day-2-end-of-day-i-cut-my-loss-on-sp-bet-on-cpi-and-hit-600-in-pending-bounties-100-days-4bo7)
-- [How Do You Measure the ROI of AI in Software Development?](https://dev.to/bashanova/how-do-you-measure-the-roi-of-ai-in-software-development-4ojb)
+- [Your Team Got Copilot. Now Leadership Thinks They Have Infinite Capacity.](https://dev.to/askpatrick/your-team-got-copilot-now-leadership-thinks-they-have-infinite-capacity-29bg)
+- [Mastering the Chaos: A Strategic Guide to Microservices Governance and Performance Excellence](https://dev.to/_4e853add3ce149eb8267a0/mastering-the-chaos-a-strategic-guide-to-microservices-governance-and-performance-excellence-21)
+- [Voiden is now extensible via community plugins](https://dev.to/nikolas_dimitroulakis_d23/voiden-is-now-extensible-via-community-plugins-24e6)
+- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-1o53)
 <!-- BLOG-POST-LIST:END -->
 
 
