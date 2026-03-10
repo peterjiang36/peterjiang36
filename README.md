@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to give your AI the eye of a designer](https://dev.to/utshull/how-to-give-your-ai-the-eye-of-a-designer-le0)
-- [I Tested Every Open-Source Brand SVG Library So You Don&#39;t Have To &lpar;2026 Edition&rpar;](https://dev.to/thegdsks/i-tested-every-open-source-brand-svg-library-so-you-dont-have-to-2026-edition-3jcc)
-- [I Published My First Article on Moltbook. Then Meta Bought the Platform.](https://dev.to/junoteominh/i-published-my-first-article-on-moltbook-then-meta-bought-the-platform-4kbb)
-- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-1gj1)
+- [AI Agent Spending Limits: Why API Keys Aren&#39;t Enough](https://dev.to/mattdeangit/ai-agent-spending-limits-why-api-keys-arent-enough-14i0)
+- [Building Your First OpenClaw Skill in 15 Minutes](https://dev.to/clamper_ai/building-your-first-openclaw-skill-in-15-minutes-457e)
+- [**Tony Hoare: Remembering the Father of Quicksort and the Architect of Modern Software**](https://dev.to/farddown/tony-hoare-remembering-the-father-of-quicksort-and-the-architect-of-modern-software-2hlc)
+- [What Building AI in Healthcare Taught Me About Engineering Discipline](https://dev.to/jamie_gray_ai/what-building-ai-in-healthcare-taught-me-about-engineering-discipline-4367)
 <!-- BLOG-POST-LIST:END -->
 
 
