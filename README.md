@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Journey into Software Engineering and Artificial Intelligence – Vishal Uttam Mane](https://dev.to/vishaluttammane/my-journey-into-software-engineering-and-artificial-intelligence-vishal-uttam-mane-1k5k)
-- [Debugging a PID Mystery: Why My fork&lpar;&rpar; Child PID Wasn’t Parent+1](https://dev.to/moonlitpath1/debugging-a-pid-mystery-why-my-fork-child-pid-wasnt-parent1-225a)
-- [Day 16: The Linux Auditor’s Roadmap — Post-Exploitation Mastery 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-16-the-linux-auditors-roadmap-post-exploitation-mastery-1add)
-- [Your Stack Choice Is Coding Agent&#39;s Safety Net](https://dev.to/zenstack/your-stack-choice-is-coding-agents-safety-net-5f1p)
+- [How to give your AI the eye of a designer](https://dev.to/utshull/how-to-give-your-ai-the-eye-of-a-designer-le0)
+- [I Tested Every Open-Source Brand SVG Library So You Don&#39;t Have To &lpar;2026 Edition&rpar;](https://dev.to/thegdsks/i-tested-every-open-source-brand-svg-library-so-you-dont-have-to-2026-edition-3jcc)
+- [I Published My First Article on Moltbook. Then Meta Bought the Platform.](https://dev.to/junoteominh/i-published-my-first-article-on-moltbook-then-meta-bought-the-platform-4kbb)
+- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-1gj1)
 <!-- BLOG-POST-LIST:END -->
 
 
