@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nerq AI Agent Ecosystem Weekly Report - Week Ending 2026-03-10](https://dev.to/zarq-ai/nerq-ai-agent-ecosystem-weekly-report-week-ending-2026-03-10-518e)
-- [Shopify AI Automation for Developers: Practical Workflows for Smarter Stores](https://dev.to/alifar/shopify-ai-automation-for-developers-practical-workflows-for-smarter-stores-362d)
-- [I Learned Frontend Web Development...But Now What?](https://dev.to/dofferman/i-learned-frontend-web-developmentbut-now-what-lo0)
-- [One Principle, One Proof: Why IVP-Compliant Modules Minimize Change Impact](https://dev.to/yannick555/one-principle-one-proof-why-ivp-compliant-modules-minimize-change-impact-5f0a)
+- [Why CodeGate Exists: Inspect Before Trust](https://dev.to/pachilo/why-codegate-exists-inspect-before-trust-kda)
+- [Top 14 Shadcn Hero Sections for 2026](https://dev.to/vaibhavg/shadcn-hero-sections-37af)
+- [I ran 300+ AI models against PLTR — here&#39;s what multi-model consensus found](https://dev.to/tsung_8b0f8018e887871fda/i-ran-300-ai-models-against-pltr-heres-what-multi-model-consensus-found-43c8)
+- [The Case Against Rewrites: How I Evolved a 5-Year-Old Backend Codebase &lpar;And Why You Probably Shouldn’t Rewrite Yours Either&rpar;](https://dev.to/ojsholly/the-case-against-rewrites-how-i-evolved-a-5-year-old-backend-codebase-and-why-you-probably-25dl)
 <!-- BLOG-POST-LIST:END -->
 
 
