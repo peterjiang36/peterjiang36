@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Word2Vec – Part 6: Two Ways Word2Vec Learns Context](https://dev.to/rijultp/understanding-word2vec-part-6-two-ways-word2vec-learns-context-3ppl)
-- [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a)
-- [I built a linter that enforces Clean Architecture rules in TypeScript](https://dev.to/cvalingam/i-built-a-linter-that-enforces-clean-architecture-rules-in-typescript-483g)
-- [Hyper Specialization: Stockfish, Adam Smith and Saving Our Jobs in the AI Era](https://dev.to/bd_perez/hyper-specialization-stockfish-adam-smith-and-saving-our-jobs-in-the-ai-era-1jle)
+- [How to Screen Record on Mac with Audio &lpar;3 Methods&rpar;](https://dev.to/nemofoo/how-to-screen-record-on-mac-with-audio-3-methods-3gmc)
+- [AI Is Quietly Erasing the Line Between Frontend and Backend Developers](https://dev.to/danielrusnok/ai-is-quietly-erasing-the-line-between-frontend-and-backend-developers-26kp)
+- [How to Add Retry Logic to LLM Calls in 5 Min](https://dev.to/nebulagg/how-to-add-retry-logic-to-llm-calls-in-5-min-23nh)
+- [I Built a Polish ID Number Generator — Here&#39;s the Math](https://dev.to/mattrybin/i-built-a-polish-id-number-generator-heres-the-math-2jhl)
 <!-- BLOG-POST-LIST:END -->
 
 
