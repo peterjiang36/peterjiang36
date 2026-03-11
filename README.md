@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Screen Record on Mac with Audio &lpar;3 Methods&rpar;](https://dev.to/nemofoo/how-to-screen-record-on-mac-with-audio-3-methods-3gmc)
-- [AI Is Quietly Erasing the Line Between Frontend and Backend Developers](https://dev.to/danielrusnok/ai-is-quietly-erasing-the-line-between-frontend-and-backend-developers-26kp)
-- [How to Add Retry Logic to LLM Calls in 5 Min](https://dev.to/nebulagg/how-to-add-retry-logic-to-llm-calls-in-5-min-23nh)
-- [I Built a Polish ID Number Generator — Here&#39;s the Math](https://dev.to/mattrybin/i-built-a-polish-id-number-generator-heres-the-math-2jhl)
+- [🚀 How I Built My Developer Portfolio with Next.js, GitHub API, DEV.to API + Trilingual Support and AI Chat in future](https://dev.to/heronfelipe/how-i-built-my-developer-portfolio-with-nextjs-github-api-devto-api-trilingual-support-and-42j2)
+- [ArangoDB on AWS: Automate Install, S3 Backup &amp; Restore with Systemd](https://dev.to/pooyagolchian/arangodb-on-aws-automate-install-s3-backup-restore-with-systemd-1kn3)
+- [AI and Jobs: What Anthropic&#39;s Labor Market Data Actually Shows About Your Career](https://dev.to/pooyagolchian/ai-and-jobs-what-anthropics-labor-market-data-actually-shows-about-your-career-2ce2)
+- [Welcome to Container Harbour! 🚢 Ep.2](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep2-2ga6)
 <!-- BLOG-POST-LIST:END -->
 
 
