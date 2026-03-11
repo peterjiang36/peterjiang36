@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of MCP Tools: a 2.5x Token Reduction to Save 50% in Costs](https://dev.to/erlangb/the-hidden-cost-of-mcp-tools-a-25x-token-reduction-to-save-50-in-costs-3d21)
-- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-2dof)
-- [5 AI Tools I Actually Use as a Developer in 2026 &lpar;Honest Take&rpar;](https://dev.to/jim_l_efc70c3a738e9f4baa7/5-ai-tools-i-actually-use-as-a-developer-in-2026-honest-take-2dn1)
-- [From Generic to Genius: Mastering AI Fine-tuning for Enterprise Advantage](https://dev.to/_4e853add3ce149eb8267a0/from-generic-to-genius-mastering-ai-fine-tuning-for-enterprise-advantage-3cl8)
+- [The Secret Life of Claude Code: The Art of the Follow-Up](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-the-art-of-the-follow-up-27no)
+- [I Built multi-ai-cli to Kill Browser Tab Hell: True Multi-LLM Orchestration + Blackboard Memory in Your Terminal &lpar;v0.13.0&rpar;](https://dev.to/albatrosary/i-built-multi-ai-cli-to-kill-browser-tab-hell-true-multi-llm-orchestration-blackboard-memory-in-3mc6)
+- [AI Apps Generate 41% More Revenue Per User But Lose 79% of Annual Subscribers Before Month 13](https://dev.to/zaraai_0b75675ddc9204c716/ai-apps-generate-41-more-revenue-per-user-but-lose-79-of-annual-subscribers-before-month-13-485a)
+- [Drawing Over an Image With PencilKit](https://dev.to/bashanova/drawing-over-an-image-with-pencilkit-52g4)
 <!-- BLOG-POST-LIST:END -->
 
 
