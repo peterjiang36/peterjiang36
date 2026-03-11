@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Data Streams to Revenue Streams: Architecting Real-Time Platforms That Pay for Themselves](https://dev.to/_4e853add3ce149eb8267a0/from-data-streams-to-revenue-streams-architecting-real-time-platforms-that-pay-for-themselves-4mm1)
-- [Why Your Team Isn&#39;t Using Copilot &lpar;And How to Fix It in a Day&rpar;](https://dev.to/askpatrick/why-your-team-isnt-using-copilot-and-how-to-fix-it-in-a-day-2ke5)
-- [CDEvents in Action #5: The Kubernetes Deployment Blind Spot](https://dev.to/davidb31/cdevents-in-action-5-the-kubernetes-deployment-blind-spot-1c3a)
-- [Understanding Goroutines and Channels in Go](https://dev.to/ghrabla/understanding-goroutines-and-channels-in-go-5f25)
+- [The Hidden Cost of MCP Tools: a 2.5x Token Reduction to Save 50% in Costs](https://dev.to/erlangb/the-hidden-cost-of-mcp-tools-a-25x-token-reduction-to-save-50-in-costs-3d21)
+- [Beyond the Hype: Engineering Production-Ready Blockchain Applications](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-engineering-production-ready-blockchain-applications-2dof)
+- [5 AI Tools I Actually Use as a Developer in 2026 &lpar;Honest Take&rpar;](https://dev.to/jim_l_efc70c3a738e9f4baa7/5-ai-tools-i-actually-use-as-a-developer-in-2026-honest-take-2dn1)
+- [From Generic to Genius: Mastering AI Fine-tuning for Enterprise Advantage](https://dev.to/_4e853add3ce149eb8267a0/from-generic-to-genius-mastering-ai-fine-tuning-for-enterprise-advantage-3cl8)
 <!-- BLOG-POST-LIST:END -->
 
 
