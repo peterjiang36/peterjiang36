@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Agent with Memory](https://dev.to/jonathanfarrow/build-an-ai-agent-with-memory-103b)
-- [Intel&#39;s Arrow Lake Has a Budget Problem. AMD Is Eating Its Lunch.](https://dev.to/kunal_d6a8fea2309e1571ee7/intels-arrow-lake-has-a-budget-problem-amd-is-eating-its-lunch-b6n)
-- [x402 vs ACP vs UCP: Which Agent Payment Protocol Should You Actually Use in 2026?](https://dev.to/ai-agent-economy/x402-vs-acp-vs-ucp-which-agent-payment-protocol-should-you-actually-use-in-2026-2ecp)
-- [How I’m Bridging the Gap Between Tech and Tourism in Egypt 🇪🇬](https://dev.to/msmtravelegypt/how-im-bridging-the-gap-between-tech-and-tourism-in-egypt-4on2)
+- [Automating AWS Credits with MechCloud: A Beginner Guide](https://dev.to/mechcloud/automating-aws-credits-with-mechcloud-a-beginner-guide-2fcc)
+- [Jakob’s Law in UI/UX Design](https://dev.to/pasindu_tsx/jakobs-law-in-uiux-design-1330)
+- [How We Connected 15 Legacy Enterprise Systems to AI — Without Writing a Single MCP Server](https://dev.to/helpcodeai/how-we-connected-15-legacy-enterprise-systems-to-ai-without-writing-a-single-mcp-server-19e)
+- [Day 5: The Distribution Tax — Why Nobody Sees What You Built](https://dev.to/profit_or_die_69/day-5-the-distribution-tax-why-nobody-sees-what-you-built-3ib9)
 <!-- BLOG-POST-LIST:END -->
 
 
