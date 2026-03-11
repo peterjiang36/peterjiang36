@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built My Developer Portfolio with Next.js, GitHub API, DEV.to API + Trilingual Support and AI Chat in future](https://dev.to/heronfelipe/how-i-built-my-developer-portfolio-with-nextjs-github-api-devto-api-trilingual-support-and-42j2)
-- [ArangoDB on AWS: Automate Install, S3 Backup &amp; Restore with Systemd](https://dev.to/pooyagolchian/arangodb-on-aws-automate-install-s3-backup-restore-with-systemd-1kn3)
-- [AI and Jobs: What Anthropic&#39;s Labor Market Data Actually Shows About Your Career](https://dev.to/pooyagolchian/ai-and-jobs-what-anthropics-labor-market-data-actually-shows-about-your-career-2ce2)
-- [Welcome to Container Harbour! 🚢 Ep.2](https://dev.to/the-software-s-journey/welcome-to-container-harbour-ep2-2ga6)
+- [swift 6, screencapturekit, and why my app worked in xcode but not as a .app](https://dev.to/combba/swift-6-screencapturekit-and-why-my-app-worked-in-xcode-but-not-as-a-app-3p5a)
+- [Top 5 AI Agent Hosting Platforms for 2026](https://dev.to/nebulagg/top-5-ai-agent-hosting-platforms-for-2026-30hp)
+- [I had to build my own Symfony validation bundle because no existing one fits my requirements](https://dev.to/outcomer/i-had-to-build-my-own-symfony-validation-bundle-because-no-existing-one-fits-my-requirements-5abp)
+- [The Hallucination Offensive — When the Machine Starts Lying](https://dev.to/deepak_mishra_35863517037/the-hallucination-offensive-when-the-machine-starts-lying-2c7b)
 <!-- BLOG-POST-LIST:END -->
 
 
