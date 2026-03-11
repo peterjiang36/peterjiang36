@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Claude Code: The Art of the Follow-Up](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-the-art-of-the-follow-up-27no)
-- [I Built multi-ai-cli to Kill Browser Tab Hell: True Multi-LLM Orchestration + Blackboard Memory in Your Terminal &lpar;v0.13.0&rpar;](https://dev.to/albatrosary/i-built-multi-ai-cli-to-kill-browser-tab-hell-true-multi-llm-orchestration-blackboard-memory-in-3mc6)
-- [AI Apps Generate 41% More Revenue Per User But Lose 79% of Annual Subscribers Before Month 13](https://dev.to/zaraai_0b75675ddc9204c716/ai-apps-generate-41-more-revenue-per-user-but-lose-79-of-annual-subscribers-before-month-13-485a)
-- [Drawing Over an Image With PencilKit](https://dev.to/bashanova/drawing-over-an-image-with-pencilkit-52g4)
+- [How I Structure a Modular Rails SaaS Application](https://dev.to/ldonis/how-i-structure-a-modular-rails-saas-application-1l74)
+- [Amazon Now Requires Senior Engineers to Sign Off on AI Code — Here&#39;s Why That Matters](https://dev.to/adioof/amazon-now-requires-senior-engineers-to-sign-off-on-ai-code-heres-why-that-matters-2ol6)
+- [Feature Parity Bugs Aren’t Testing Failures — They’re Architectural](https://dev.to/pavan-kumar-appannagari/feature-parity-bugs-arent-testing-failures-theyre-architectural-3ge8)
+- [🚨 The &quot;Vibe Check&quot; Era of AI is Dead: Why OpenAI Just Bought Promptfoo &lpar;And Why You Should Care&rpar;](https://dev.to/siddhesh_surve/the-vibe-check-era-of-ai-is-dead-why-openai-just-bought-promptfoo-and-why-you-should-care-2b3b)
 <!-- BLOG-POST-LIST:END -->
 
 
