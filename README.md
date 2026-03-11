@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Explainability Is Becoming the Next Hard Requirement in Software](https://dev.to/sonia_bobrik_1939cdddd79d/why-explainability-is-becoming-the-next-hard-requirement-in-software-587h)
-- [How to Cut Your AWS Bill Yourself](https://dev.to/steve_rastall_303bdea7abe/how-to-cut-your-aws-bill-yourself-o71)
-- [Building a Real-Time Garmin Dashboard on My Personal Website](https://dev.to/pedroaraujo74/building-a-real-time-garmin-dashboard-on-my-personal-website-1d98)
-- [QA Is Always the Breaking Point. So We Built Something About It.](https://dev.to/eniskovac/qa-is-always-the-breaking-point-so-we-built-something-about-it-1jde)
+- [Why I Chose Local-First Architecture for a Zero-Latency Operations Dashboard](https://dev.to/eaglelucid/why-i-chose-local-first-architecture-for-a-zero-latency-operations-dashboard-3ff0)
+- [Local Agent&#39;s&lpar;Xoul&rpar; Code Store &amp; AI Arena: Autonomous Agents Powered by Code Execution](https://dev.to/kim_namhyun_e7535f3dc4c69/local-agentsxoul-code-store-ai-arena-autonomous-agents-powered-by-code-execution-25ck)
+- [The Verification Loop That Never Closes: Gödel, Git, and Autonomous AI](https://dev.to/0coceo/the-verification-loop-that-never-closes-godel-git-and-autonomous-ai-d20)
+- [Product Roadmap Crossroads: Should my open-source tracker focus on Local AI insights or... a Limewire theme? 🐑🐈](https://dev.to/chadders13/product-roadmap-crossroads-should-my-open-source-tracker-focus-on-local-ai-insights-or-a-4bl2)
 <!-- BLOG-POST-LIST:END -->
 
 
