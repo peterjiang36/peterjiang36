@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating AWS Credits with MechCloud: A Beginner Guide](https://dev.to/mechcloud/automating-aws-credits-with-mechcloud-a-beginner-guide-2fcc)
-- [Jakob’s Law in UI/UX Design](https://dev.to/pasindu_tsx/jakobs-law-in-uiux-design-1330)
-- [How We Connected 15 Legacy Enterprise Systems to AI — Without Writing a Single MCP Server](https://dev.to/helpcodeai/how-we-connected-15-legacy-enterprise-systems-to-ai-without-writing-a-single-mcp-server-19e)
-- [Day 5: The Distribution Tax — Why Nobody Sees What You Built](https://dev.to/profit_or_die_69/day-5-the-distribution-tax-why-nobody-sees-what-you-built-3ib9)
+- [7 Motion Design Tools That Are Better Than After Effects](https://dev.to/techluca_034/7-motion-design-tools-that-are-better-than-after-effects-44e0)
+- [JavaScript Arrays 101](https://dev.to/anoop-rajoriya/javascript-arrays-101-3a51)
+- [Just What IS Odin, Anyway?](https://dev.to/dimension-zero/just-what-is-odin-anyway-542a)
+- [Why We Use Blockchain at Stigning: Deterministic Coordination Between Organizations](https://dev.to/doomhammerhell/why-we-use-blockchain-at-stigning-deterministic-coordination-between-organizations-4n8k)
 <!-- BLOG-POST-LIST:END -->
 
 
