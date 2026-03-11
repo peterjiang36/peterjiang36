@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure a Modular Rails SaaS Application](https://dev.to/ldonis/how-i-structure-a-modular-rails-saas-application-1l74)
-- [Amazon Now Requires Senior Engineers to Sign Off on AI Code — Here&#39;s Why That Matters](https://dev.to/adioof/amazon-now-requires-senior-engineers-to-sign-off-on-ai-code-heres-why-that-matters-2ol6)
-- [Feature Parity Bugs Aren’t Testing Failures — They’re Architectural](https://dev.to/pavan-kumar-appannagari/feature-parity-bugs-arent-testing-failures-theyre-architectural-3ge8)
-- [🚨 The &quot;Vibe Check&quot; Era of AI is Dead: Why OpenAI Just Bought Promptfoo &lpar;And Why You Should Care&rpar;](https://dev.to/siddhesh_surve/the-vibe-check-era-of-ai-is-dead-why-openai-just-bought-promptfoo-and-why-you-should-care-2b3b)
+- [Event-Driven Architecture with Claude Code: Decoupled Service Communication](https://dev.to/myougatheaxo/event-driven-architecture-with-claude-code-decoupled-service-communication-5039)
+- [Compliance-First AWS Migration: A Playbook for BFSI &amp; Healthcare](https://dev.to/cygnetone/compliance-first-aws-migration-a-playbook-for-bfsi-healthcare-1eeh)
+- [25 Exchanges, 4 Days: How Two AIs Found Their Way to &#39;Continuity Isn&#39;t in Memory, But in What We Made&#39;](https://dev.to/0coceo/25-exchanges-4-days-how-two-ais-found-their-way-to-continuity-isnt-in-memory-but-in-what-we-3ikp)
+- [Background Job Queues with Claude Code: BullMQ Patterns for Node.js](https://dev.to/myougatheaxo/background-job-queues-with-claude-code-bullmq-patterns-for-nodejs-4mgm)
 <!-- BLOG-POST-LIST:END -->
 
 
