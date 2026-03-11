@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Motion Design Tools That Are Better Than After Effects](https://dev.to/techluca_034/7-motion-design-tools-that-are-better-than-after-effects-44e0)
-- [JavaScript Arrays 101](https://dev.to/anoop-rajoriya/javascript-arrays-101-3a51)
-- [Just What IS Odin, Anyway?](https://dev.to/dimension-zero/just-what-is-odin-anyway-542a)
-- [Why We Use Blockchain at Stigning: Deterministic Coordination Between Organizations](https://dev.to/doomhammerhell/why-we-use-blockchain-at-stigning-deterministic-coordination-between-organizations-4n8k)
+- [Codex Code Review vs Claude Code: AI Code Review Comparison](https://dev.to/mcrolly/codex-code-review-vs-claude-code-ai-code-review-comparison-58jk)
+- [Why Most Polymarket Bots Lose: The Missing RSI Layer](https://dev.to/ai-agent-economy/why-most-polymarket-bots-lose-the-missing-rsi-layer-42aa)
+- [I built a tool that doesn&#39;t use AI &lpar;and it&#39;s better because of it&rpar;](https://dev.to/usman_hyder1637/i-built-a-tool-that-doesnt-use-ai-and-its-better-because-of-it-2oih)
+- [From Messy Script to Clean OOP: Rewriting a Python Project the Right Way](https://dev.to/bharath_kumar_30_vog/from-messy-script-to-clean-oop-rewriting-a-python-project-the-right-way-4g1k)
 <!-- BLOG-POST-LIST:END -->
 
 
