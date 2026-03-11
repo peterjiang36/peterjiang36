@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Back-of-the-Envelope Math](https://dev.to/hiteshvp/system-design-back-of-the-envelope-math-4ime)
-- [I Just Earned the GitHub Copilot CLI Challenge Badge — And It Means More Than I Expected 🏅](https://dev.to/respect17/i-just-earned-the-github-copilot-cli-challenge-badge-and-it-means-more-than-i-expected-mni)
-- [How I Used Ollama Locally Instead of Paying for the OpenAI API](https://dev.to/dainwi/how-i-used-ollama-locally-instead-of-paying-for-the-openai-api-egk)
-- [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0)
+- [PVS-Studio Go analyzer beta testing](https://dev.to/pvsdev/pvs-studio-go-analyzer-beta-testing-ck7)
+- [The Soul Engine: 13 blocks that replaced my 200-line system prompt](https://dev.to/fransys/the-soul-engine-13-blocks-that-replaced-my-200-line-system-prompt-2o0h)
+- [I built and launched a SaaS product at 19 | here&#39;s how it actually went...](https://dev.to/mabdullah06/i-built-and-launched-a-saas-product-at-19-heres-how-it-actually-went-4gaa)
+- [Exploiting a Stack Buffer Overflow to Force Program Termination](https://dev.to/bttnlight/exploiting-a-stack-buffer-overflow-to-force-program-termination-55nk)
 <!-- BLOG-POST-LIST:END -->
 
 
