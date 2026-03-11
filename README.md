@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PVS-Studio Go analyzer beta testing](https://dev.to/pvsdev/pvs-studio-go-analyzer-beta-testing-ck7)
-- [The Soul Engine: 13 blocks that replaced my 200-line system prompt](https://dev.to/fransys/the-soul-engine-13-blocks-that-replaced-my-200-line-system-prompt-2o0h)
-- [I built and launched a SaaS product at 19 | here&#39;s how it actually went...](https://dev.to/mabdullah06/i-built-and-launched-a-saas-product-at-19-heres-how-it-actually-went-4gaa)
-- [Exploiting a Stack Buffer Overflow to Force Program Termination](https://dev.to/bttnlight/exploiting-a-stack-buffer-overflow-to-force-program-termination-55nk)
+- [Why Explainability Is Becoming the Next Hard Requirement in Software](https://dev.to/sonia_bobrik_1939cdddd79d/why-explainability-is-becoming-the-next-hard-requirement-in-software-587h)
+- [How to Cut Your AWS Bill Yourself](https://dev.to/steve_rastall_303bdea7abe/how-to-cut-your-aws-bill-yourself-o71)
+- [Building a Real-Time Garmin Dashboard on My Personal Website](https://dev.to/pedroaraujo74/building-a-real-time-garmin-dashboard-on-my-personal-website-1d98)
+- [QA Is Always the Breaking Point. So We Built Something About It.](https://dev.to/eniskovac/qa-is-always-the-breaking-point-so-we-built-something-about-it-1jde)
 <!-- BLOG-POST-LIST:END -->
 
 
