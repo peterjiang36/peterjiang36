@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Codex Code Review vs Claude Code: AI Code Review Comparison](https://dev.to/mcrolly/codex-code-review-vs-claude-code-ai-code-review-comparison-58jk)
-- [Why Most Polymarket Bots Lose: The Missing RSI Layer](https://dev.to/ai-agent-economy/why-most-polymarket-bots-lose-the-missing-rsi-layer-42aa)
-- [I built a tool that doesn&#39;t use AI &lpar;and it&#39;s better because of it&rpar;](https://dev.to/usman_hyder1637/i-built-a-tool-that-doesnt-use-ai-and-its-better-because-of-it-2oih)
-- [From Messy Script to Clean OOP: Rewriting a Python Project the Right Way](https://dev.to/bharath_kumar_30_vog/from-messy-script-to-clean-oop-rewriting-a-python-project-the-right-way-4g1k)
+- [Understanding Word2Vec – Part 6: Two Ways Word2Vec Learns Context](https://dev.to/rijultp/understanding-word2vec-part-6-two-ways-word2vec-learns-context-3ppl)
+- [I Built a Secure Planning Agent with MCP and Keycard](https://dev.to/kimmaida/i-built-a-secure-planning-agent-with-mcp-and-keycard-324a)
+- [I built a linter that enforces Clean Architecture rules in TypeScript](https://dev.to/cvalingam/i-built-a-linter-that-enforces-clean-architecture-rules-in-typescript-483g)
+- [Hyper Specialization: Stockfish, Adam Smith and Saving Our Jobs in the AI Era](https://dev.to/bd_perez/hyper-specialization-stockfish-adam-smith-and-saving-our-jobs-in-the-ai-era-1jle)
 <!-- BLOG-POST-LIST:END -->
 
 
