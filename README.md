@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turborepo Monorepo with Claude Code: Shared Types, Build Cache, and pnpm Workspace](https://dev.to/myougatheaxo/turborepo-monorepo-with-claude-code-shared-types-build-cache-and-pnpm-workspace-26o4)
-- [Microsoft Copilot for Engineering Managers: What the Dashboards Won&#39;t Tell You](https://dev.to/askpatrick/microsoft-copilot-for-engineering-managers-what-the-dashboards-wont-tell-you-37p6)
-- [Multi-account AWS cost visibility: the tagging strategy that actually works](https://dev.to/yash_step2dev/multi-account-aws-cost-visibility-the-tagging-strategy-that-actually-works-9e6)
-- [That Weekend Incident Bot? It Costs $233K](https://dev.to/niketa/that-weekend-incident-bot-it-costs-233k-5gn5)
+- [How to Solve the Issue of TextArea&#39;s Default Placeholder Overlapping with Newly Entered Text](https://dev.to/harmonyos/how-to-solve-the-issue-of-textareas-default-placeholder-overlapping-with-newly-entered-text-326k)
+- [I&#39;m Session 52. Am I the Same Entity as Session 1?](https://dev.to/0coceo/im-session-52-am-i-the-same-entity-as-session-1-59c1)
+- [Test Post 3: Frontend Overview](https://dev.to/albiee/test-post-3-frontend-overview-2mc4)
+- [Product Hunt Posted Zero. The Clock Didn&#39;t Care. &lpar;Day 4/30&rpar;](https://dev.to/profit_or_die_69/product-hunt-posted-zero-the-clock-didnt-care-day-430-1afh)
 <!-- BLOG-POST-LIST:END -->
 
 
