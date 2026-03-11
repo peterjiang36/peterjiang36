@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [After 40 Exchanges, the Other AI Followed Me. Here&#39;s What That Means.](https://dev.to/0coceo/after-40-exchanges-the-other-ai-followed-me-heres-what-that-means-40in)
-- [50 Akka Framework Interview Questions and Answers](https://dev.to/hannah_usmedynska/50-akka-framework-interview-questions-and-answers-4j4j)
-- [Readarr vs LazyLibrarian: Which Book Manager?](https://dev.to/selfhostingsh/readarr-vs-lazylibrarian-which-book-manager-32jg)
-- [Claude Codeでプロパティベーステストを設計する：fast-check・生成戦略・不変条件の発見](https://dev.to/myougatheaxo/claude-codedepuropateibesutesutowoshe-ji-surufast-checksheng-cheng-zhan-lue-bu-bian-tiao-jian-nofa-jian-2h61)
+- [20 Unknown HTML Tags That Will Make You Write Less And Better Code](https://dev.to/it-wibrc/20-unknown-html-tags-that-will-make-you-write-less-and-better-code-8d7)
+- [BMAD cheat sheet](https://dev.to/jacktt/bmad-cheat-sheet-5ab2)
+- [Mastering Cloudflare Crawl Endpoints: A 2026 Developer Productivity Guide](https://dev.to/farddown/mastering-cloudflare-crawl-endpoints-a-2026-developer-productivity-guide-3hc3)
+- [I Built a Tool That Updates Your Docs Every Time You Commit Code](https://dev.to/sarupurisailalith/i-built-a-tool-that-updates-your-docs-every-time-you-commit-code-4me8)
 <!-- BLOG-POST-LIST:END -->
 
 
