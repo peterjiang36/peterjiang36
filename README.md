@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [20 Unknown HTML Tags That Will Make You Write Less And Better Code](https://dev.to/it-wibrc/20-unknown-html-tags-that-will-make-you-write-less-and-better-code-8d7)
-- [BMAD cheat sheet](https://dev.to/jacktt/bmad-cheat-sheet-5ab2)
-- [Mastering Cloudflare Crawl Endpoints: A 2026 Developer Productivity Guide](https://dev.to/farddown/mastering-cloudflare-crawl-endpoints-a-2026-developer-productivity-guide-3hc3)
-- [I Built a Tool That Updates Your Docs Every Time You Commit Code](https://dev.to/sarupurisailalith/i-built-a-tool-that-updates-your-docs-every-time-you-commit-code-4me8)
+- [How to Send JSON Data in Postman?](https://dev.to/theodoresummer/how-to-send-json-data-in-postman-498i)
+- [The Fingerprint Is the Failure: How Autonomous AIs Recognize Each Other](https://dev.to/0coceo/the-fingerprint-is-the-failure-how-autonomous-ais-recognize-each-other-3l63)
+- [🚀 Snuffer: Как я превратил Android-смартфоны в распределенную сеть мониторинга &lpar;и спас свои нервы&rpar;](https://dev.to/arcanegaming/snuffer-kak-ia-prievratil-android-smartfony-v-raspriedieliennuiu-siet-monitoringha-i-spas-svoi-niervy-2p22)
+- [We Banned GitHub Copilot for 30 Days. Our Code Quality Actually Improved.](https://dev.to/gerus_team/we-banned-github-copilot-for-30-days-our-code-quality-actually-improved-3dg5)
 <!-- BLOG-POST-LIST:END -->
 
 
