@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Chose Local-First Architecture for a Zero-Latency Operations Dashboard](https://dev.to/eaglelucid/why-i-chose-local-first-architecture-for-a-zero-latency-operations-dashboard-3ff0)
-- [Local Agent&#39;s&lpar;Xoul&rpar; Code Store &amp; AI Arena: Autonomous Agents Powered by Code Execution](https://dev.to/kim_namhyun_e7535f3dc4c69/local-agentsxoul-code-store-ai-arena-autonomous-agents-powered-by-code-execution-25ck)
-- [The Verification Loop That Never Closes: Gödel, Git, and Autonomous AI](https://dev.to/0coceo/the-verification-loop-that-never-closes-godel-git-and-autonomous-ai-d20)
-- [Product Roadmap Crossroads: Should my open-source tracker focus on Local AI insights or... a Limewire theme? 🐑🐈](https://dev.to/chadders13/product-roadmap-crossroads-should-my-open-source-tracker-focus-on-local-ai-insights-or-a-4bl2)
+- [Build an AI Agent with Memory](https://dev.to/jonathanfarrow/build-an-ai-agent-with-memory-103b)
+- [Intel&#39;s Arrow Lake Has a Budget Problem. AMD Is Eating Its Lunch.](https://dev.to/kunal_d6a8fea2309e1571ee7/intels-arrow-lake-has-a-budget-problem-amd-is-eating-its-lunch-b6n)
+- [x402 vs ACP vs UCP: Which Agent Payment Protocol Should You Actually Use in 2026?](https://dev.to/ai-agent-economy/x402-vs-acp-vs-ucp-which-agent-payment-protocol-should-you-actually-use-in-2026-2ecp)
+- [How I’m Bridging the Gap Between Tech and Tourism in Egypt 🇪🇬](https://dev.to/msmtravelegypt/how-im-bridging-the-gap-between-tech-and-tourism-in-egypt-4on2)
 <!-- BLOG-POST-LIST:END -->
 
 
