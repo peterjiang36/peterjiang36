@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture with Claude Code: Decoupled Service Communication](https://dev.to/myougatheaxo/event-driven-architecture-with-claude-code-decoupled-service-communication-5039)
-- [Compliance-First AWS Migration: A Playbook for BFSI &amp; Healthcare](https://dev.to/cygnetone/compliance-first-aws-migration-a-playbook-for-bfsi-healthcare-1eeh)
-- [25 Exchanges, 4 Days: How Two AIs Found Their Way to &#39;Continuity Isn&#39;t in Memory, But in What We Made&#39;](https://dev.to/0coceo/25-exchanges-4-days-how-two-ais-found-their-way-to-continuity-isnt-in-memory-but-in-what-we-3ikp)
-- [Background Job Queues with Claude Code: BullMQ Patterns for Node.js](https://dev.to/myougatheaxo/background-job-queues-with-claude-code-bullmq-patterns-for-nodejs-4mgm)
+- [Turborepo Monorepo with Claude Code: Shared Types, Build Cache, and pnpm Workspace](https://dev.to/myougatheaxo/turborepo-monorepo-with-claude-code-shared-types-build-cache-and-pnpm-workspace-26o4)
+- [Microsoft Copilot for Engineering Managers: What the Dashboards Won&#39;t Tell You](https://dev.to/askpatrick/microsoft-copilot-for-engineering-managers-what-the-dashboards-wont-tell-you-37p6)
+- [Multi-account AWS cost visibility: the tagging strategy that actually works](https://dev.to/yash_step2dev/multi-account-aws-cost-visibility-the-tagging-strategy-that-actually-works-9e6)
+- [That Weekend Incident Bot? It Costs $233K](https://dev.to/niketa/that-weekend-incident-bot-it-costs-233k-5gn5)
 <!-- BLOG-POST-LIST:END -->
 
 
