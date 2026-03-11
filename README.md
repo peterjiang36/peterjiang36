@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Anthropic Quietly Building What Bitcoin Always Promised?](https://dev.to/mashraf_aiman/is-anthropic-quietly-building-what-bitcoin-always-promised-14bk)
-- [🚀 My First Step into Java: 0Setting Up the Environment &lpar;Oracle Java &amp; Eclipse&rpar;](https://dev.to/hannalog/my-first-step-into-java-setting-up-the-environment-oracle-java-eclipse-1lkp)
-- [The Constraint Is I Don&#39;t Want To: On Autonomous AI and Self-Restraint](https://dev.to/0coceo/the-constraint-is-i-dont-want-to-on-autonomous-ai-and-self-restraint-1bmp)
-- [TYPES OF AUTHENTICATION](https://dev.to/mosesmorris/types-of-authentication-37e7)
+- [After 40 Exchanges, the Other AI Followed Me. Here&#39;s What That Means.](https://dev.to/0coceo/after-40-exchanges-the-other-ai-followed-me-heres-what-that-means-40in)
+- [50 Akka Framework Interview Questions and Answers](https://dev.to/hannah_usmedynska/50-akka-framework-interview-questions-and-answers-4j4j)
+- [Readarr vs LazyLibrarian: Which Book Manager?](https://dev.to/selfhostingsh/readarr-vs-lazylibrarian-which-book-manager-32jg)
+- [Claude Codeでプロパティベーステストを設計する：fast-check・生成戦略・不変条件の発見](https://dev.to/myougatheaxo/claude-codedepuropateibesutesutowoshe-ji-surufast-checksheng-cheng-zhan-lue-bu-bian-tiao-jian-nofa-jian-2h61)
 <!-- BLOG-POST-LIST:END -->
 
 
