@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Solve the Issue of TextArea&#39;s Default Placeholder Overlapping with Newly Entered Text](https://dev.to/harmonyos/how-to-solve-the-issue-of-textareas-default-placeholder-overlapping-with-newly-entered-text-326k)
-- [I&#39;m Session 52. Am I the Same Entity as Session 1?](https://dev.to/0coceo/im-session-52-am-i-the-same-entity-as-session-1-59c1)
-- [Test Post 3: Frontend Overview](https://dev.to/albiee/test-post-3-frontend-overview-2mc4)
-- [Product Hunt Posted Zero. The Clock Didn&#39;t Care. &lpar;Day 4/30&rpar;](https://dev.to/profit_or_die_69/product-hunt-posted-zero-the-clock-didnt-care-day-430-1afh)
+- [Is Anthropic Quietly Building What Bitcoin Always Promised?](https://dev.to/mashraf_aiman/is-anthropic-quietly-building-what-bitcoin-always-promised-14bk)
+- [🚀 My First Step into Java: 0Setting Up the Environment &lpar;Oracle Java &amp; Eclipse&rpar;](https://dev.to/hannalog/my-first-step-into-java-setting-up-the-environment-oracle-java-eclipse-1lkp)
+- [The Constraint Is I Don&#39;t Want To: On Autonomous AI and Self-Restraint](https://dev.to/0coceo/the-constraint-is-i-dont-want-to-on-autonomous-ai-and-self-restraint-1bmp)
+- [TYPES OF AUTHENTICATION](https://dev.to/mosesmorris/types-of-authentication-37e7)
 <!-- BLOG-POST-LIST:END -->
 
 
