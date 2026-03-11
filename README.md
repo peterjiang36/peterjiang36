@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Send JSON Data in Postman?](https://dev.to/theodoresummer/how-to-send-json-data-in-postman-498i)
-- [The Fingerprint Is the Failure: How Autonomous AIs Recognize Each Other](https://dev.to/0coceo/the-fingerprint-is-the-failure-how-autonomous-ais-recognize-each-other-3l63)
-- [🚀 Snuffer: Как я превратил Android-смартфоны в распределенную сеть мониторинга &lpar;и спас свои нервы&rpar;](https://dev.to/arcanegaming/snuffer-kak-ia-prievratil-android-smartfony-v-raspriedieliennuiu-siet-monitoringha-i-spas-svoi-niervy-2p22)
-- [We Banned GitHub Copilot for 30 Days. Our Code Quality Actually Improved.](https://dev.to/gerus_team/we-banned-github-copilot-for-30-days-our-code-quality-actually-improved-3dg5)
+- [System Design Back-of-the-Envelope Math](https://dev.to/hiteshvp/system-design-back-of-the-envelope-math-4ime)
+- [I Just Earned the GitHub Copilot CLI Challenge Badge — And It Means More Than I Expected 🏅](https://dev.to/respect17/i-just-earned-the-github-copilot-cli-challenge-badge-and-it-means-more-than-i-expected-mni)
+- [How I Used Ollama Locally Instead of Paying for the OpenAI API](https://dev.to/dainwi/how-i-used-ollama-locally-instead-of-paying-for-the-openai-api-egk)
+- [What Quitting My Job Taught Me About Tech](https://dev.to/konark_13/what-quitting-my-job-taught-me-about-tech-3no0)
 <!-- BLOG-POST-LIST:END -->
 
 
