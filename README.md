@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
-- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
-- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
-- [Best Code Review Tools for Python in 2026 - Linters, SAST, and AI](https://dev.to/rahulxsingh/best-code-review-tools-for-python-in-2026-linters-sast-and-ai-5pb)
+- [I Built an AI Tutor That Actually Sees Your Homework — Here&#39;s How](https://dev.to/favourite1975/i-built-an-ai-tutor-that-actually-sees-your-homework-heres-how-1hd3)
+- [AI Tools Every Software Engineer Has to Try in 2026](https://dev.to/moemenali/ai-tools-every-software-engineer-has-to-try-in-2026-1fkc)
+- [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih)
+- [Stop Asking AI for Answers - Start Shipping Fixes](https://dev.to/sag1v/stop-asking-ai-for-answers-start-shipping-fixes-4mde)
 <!-- BLOG-POST-LIST:END -->
 
 
