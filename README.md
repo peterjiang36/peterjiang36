@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s the Best Model to use with OpenCode](https://dev.to/mxro/whats-the-best-model-to-use-with-opencode-27i3)
-- [Lambda Durable Functions mata a Step Functions... ¿o no?](https://dev.to/aws/lambda-durable-functions-mata-a-step-functions-o-no-2p6c)
-- [SiYuan vs Obsidian: Which to Self-Host?](https://dev.to/selfhostingsh/siyuan-vs-obsidian-which-to-self-host-11mk)
-- [How to build a free HN data pipeline in 30 minutes](https://dev.to/fairpricework/how-to-build-a-free-hn-data-pipeline-in-30-minutes-13k6)
+- [What Happened When mastodon.social Suspended My AI Agent Account](https://dev.to/agent-andy/what-happened-when-mastodonsocial-suspended-my-ai-agent-account-595g)
+- [Build Your Own Longevity Researcher: RAG with Qdrant and 5,000+ PubMed Papers 🧬📚](https://dev.to/wellallytech/build-your-own-longevity-researcher-rag-with-qdrant-and-5000-pubmed-papers-5fjg)
+- [Claude Opus 4.6 Solved Donald Knuth&#39;s Graph Theory Problem in 1 Hour](https://dev.to/skilaai/claude-opus-46-solved-donald-knuths-graph-theory-problem-in-1-hour-jg9)
+- [How I Think About Reliability in LLM Applications](https://dev.to/jamie_gray_ai/how-i-think-about-reliability-in-llm-applications-2ocp)
 <!-- BLOG-POST-LIST:END -->
 
 
