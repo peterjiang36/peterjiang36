@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Updated 1,000+ CTAs on My Blog Without Writing a Single Line of Code](https://dev.to/cristiantalasanchez/how-i-updated-1000-ctas-on-my-blog-without-writing-a-single-line-of-code-jka)
-- [Solving the &quot;Blind Continuation&quot; Typing Problem: Building a Zero-Latency Vector Search for the Edge](https://dev.to/karloti/solving-the-blind-continuation-typing-problem-building-a-zero-latency-vector-search-for-the-edge-259g)
-- [wezterm-cmdpicker: A Command Palette for Your WezTerm Terminal](https://dev.to/abidibo/wezterm-cmdpicker-a-command-palette-for-your-wezterm-terminal-4d5h)
-- [Setting up Snowflake–Power BI Connectivity with Azure AD SSO and Auto-Provisioning](https://dev.to/swaroop_krishna_e2f4b83b2/setting-up-snowflake-power-bi-connectivity-with-azure-ad-sso-and-auto-provisioning-1gda)
+- [Designing OCP: a deterministic runtime/language built around observe match commit](https://dev.to/duchaiten/designing-ocp-a-deterministic-runtimelanguage-built-around-observe-match-commit-3k2p)
+- [Launched my project a few weeks ago, traffic was okay but my retention was a disaster](https://dev.to/zenovay/launched-my-project-a-few-weeks-ago-traffic-was-okay-but-my-retention-was-a-disaster-425i)
+- [I built an AI operating system because every project I touched was lying to me](https://dev.to/khaeldur/i-built-an-ai-operating-system-because-every-project-i-touched-was-lying-to-me-3e14)
+- [Advanced Terraform Lab &lpar;Production Style&rpar;](https://dev.to/jumptotech/advanced-terraform-lab-production-style-52ce)
 <!-- BLOG-POST-LIST:END -->
 
 
