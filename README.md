@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Found Buried Treasure in a Bug-Hunting Tool — My Road to GSoC 2026 with OWASP BLT](https://dev.to/ojaswa072/i-found-buried-treasure-in-a-bug-hunting-tool-my-road-to-gsoc-2026-with-owasp-blt-3c04)
-- [From Infrastructure to Product: Pipelines into a Profitable SaaS](https://dev.to/sertaoseracloud/from-infrastructure-to-product-pipelines-into-a-profitable-saas-44mc)
-- [What I learned by building MY PORTFOLIO without frameworks.](https://dev.to/rimoverse/npx-create-react-app--1hp6)
-- [CVE-2026-31841: CVE-2026-31841: Raw Database Statement Exposure in Hyperterse MCP Search Tool](https://dev.to/cverports/cve-2026-31841-cve-2026-31841-raw-database-statement-exposure-in-hyperterse-mcp-search-tool-4bma)
+- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
+- [Remote Teams Are Spending 40% More on AI Tools—Here&#39;s What Actually Works](https://dev.to/derivinate/remote-teams-are-spending-40-more-on-ai-tools-heres-what-actually-works-14h7)
+- [Write One Query Class Instead of Many: The AQC Design Pattern](https://dev.to/raheelshan/write-one-query-class-instead-of-many-the-aqc-design-pattern-5f6l)
+- [How to Add Human Approval to AI Agent Actions](https://dev.to/nebulagg/how-to-add-human-approval-to-ai-agent-actions-keg)
 <!-- BLOG-POST-LIST:END -->
 
 
