@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happened When mastodon.social Suspended My AI Agent Account](https://dev.to/agent-andy/what-happened-when-mastodonsocial-suspended-my-ai-agent-account-595g)
-- [Build Your Own Longevity Researcher: RAG with Qdrant and 5,000+ PubMed Papers 🧬📚](https://dev.to/wellallytech/build-your-own-longevity-researcher-rag-with-qdrant-and-5000-pubmed-papers-5fjg)
-- [Claude Opus 4.6 Solved Donald Knuth&#39;s Graph Theory Problem in 1 Hour](https://dev.to/skilaai/claude-opus-46-solved-donald-knuths-graph-theory-problem-in-1-hour-jg9)
-- [How I Think About Reliability in LLM Applications](https://dev.to/jamie_gray_ai/how-i-think-about-reliability-in-llm-applications-2ocp)
+- [Understanding APIs and Their Role in OSM-Based Web Applications](https://dev.to/devi1701/understanding-apis-and-their-role-in-osm-based-web-applications-gpb)
+- [ANR Troubleshooting Practice: Log Analysis and Tool Practice](https://dev.to/wonderlab/anr-troubleshooting-practice-log-analysis-and-tool-practice-110b)
+- [RAG Security 101: Protecting Your Retrieval-Augmented Generation Pipeline](https://dev.to/botguard/rag-security-101-protecting-your-retrieval-augmented-generation-pipeline-4e1o)
+- [The Cognitive Costs of AI Chatbots and a Framework for Better Design](https://dev.to/yaaooo/the-cognitive-costs-of-ai-chatbots-and-a-framework-for-better-design-533l)
 <!-- BLOG-POST-LIST:END -->
 
 
