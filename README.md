@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building DailyMood: How We Used AI-Assisted Development to Ship a Full-Stack Mood Tracker in Two Sprints](https://dev.to/kelson_qu/building-dailymood-how-we-used-ai-assisted-development-to-ship-a-full-stack-mood-tracker-in-two-411a)
-- [Djangonaut Diaries: Week 1 — Getting Django to run locally](https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h)
-- [Things I Wish I Knew Before Building My Own IT Infrastructure](https://dev.to/jonaszjozwicki/things-i-wish-i-knew-before-building-my-own-it-infrastructure-2ib2)
-- [Send vs WeTransfer: Self-Hosted File Sharing](https://dev.to/selfhostingsh/send-vs-wetransfer-self-hosted-file-sharing-8h5)
+- [What&#39;s the Best Model to use with OpenCode](https://dev.to/mxro/whats-the-best-model-to-use-with-opencode-27i3)
+- [Lambda Durable Functions mata a Step Functions... ¿o no?](https://dev.to/aws/lambda-durable-functions-mata-a-step-functions-o-no-2p6c)
+- [SiYuan vs Obsidian: Which to Self-Host?](https://dev.to/selfhostingsh/siyuan-vs-obsidian-which-to-self-host-11mk)
+- [How to build a free HN data pipeline in 30 minutes](https://dev.to/fairpricework/how-to-build-a-free-hn-data-pipeline-in-30-minutes-13k6)
 <!-- BLOG-POST-LIST:END -->
 
 
