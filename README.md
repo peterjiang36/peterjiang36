@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 6 of My Cloud Journey: Building Secure AWS Networks with VPC, VPC Peering &amp; Billing Alerts](https://dev.to/avinashwagh/day-6-of-my-cloud-journey-building-secure-aws-networks-with-vpc-vpc-peering-billing-alerts-4gk8)
-- [Your runbook says one thing. Your infra does another. When did you last compare them?](https://dev.to/jariase/your-runbook-says-one-thing-your-infra-does-another-when-did-you-last-compare-them-313f)
-- [I Built a Claude Plugin to Fix AI-Generated Interfaces&#39; User Experience.](https://dev.to/mistyhx/i-built-a-claude-plugin-to-fix-ai-generated-interfaces-user-experience-42m8)
-- [Building a Trust Layer for 10,000 AI Agents — Architecture Deep Dive](https://dev.to/taskpod/building-a-trust-layer-for-10000-ai-agents-architecture-deep-dive-25i)
+- [How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)
+- [A Developer&#39;s Guide to Choosing a GPU for Machine Learning in 2025-2026](https://dev.to/maxvyaznikov/a-developers-guide-to-choosing-a-gpu-for-machine-learning-in-2025-2026-5d4f)
+- [5 React Prompts That Save Me Hours Every Week](https://dev.to/longpam19/5-react-prompts-that-save-me-hours-every-week-23om)
+- [From Foreground Services to WorkManager: How We Cut Battery Drain by 70%](https://dev.to/suridevs_861b8a311a101be4/from-foreground-services-to-workmanager-how-we-cut-battery-drain-by-70-2d2c)
 <!-- BLOG-POST-LIST:END -->
 
 
