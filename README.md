@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
-- [Remote Teams Are Spending 40% More on AI Tools—Here&#39;s What Actually Works](https://dev.to/derivinate/remote-teams-are-spending-40-more-on-ai-tools-heres-what-actually-works-14h7)
-- [Write One Query Class Instead of Many: The AQC Design Pattern](https://dev.to/raheelshan/write-one-query-class-instead-of-many-the-aqc-design-pattern-5f6l)
-- [How to Add Human Approval to AI Agent Actions](https://dev.to/nebulagg/how-to-add-human-approval-to-ai-agent-actions-keg)
+- [A first look at load balancing the Umbraco backoffice](https://dev.to/jemayn/a-first-look-at-load-balancing-the-umbraco-backoffice-1ihm)
+- [It Ran Fine in Production. Then I Wrote the Tests.](https://dev.to/cynthia-cycy/it-ran-fine-in-production-then-i-wrote-the-tests-1kif)
+- [How We Stopped Claude Code from Writing eval&lpar;&rpar; in Production](https://dev.to/kirollos_atef/how-we-stopped-claude-code-from-writing-eval-in-production-34na)
+- [Hello World, Again: Building an Artificial World to Understand the Age of AI](https://dev.to/hamza_albouchi_36f1b32fd2/hello-world-again-building-an-artificial-world-to-understand-the-age-of-ai-4ip3)
 <!-- BLOG-POST-LIST:END -->
 
 
