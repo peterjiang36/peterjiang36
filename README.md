@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 AWS Cost Optimization Mistakes I See in Real Accounts](https://dev.to/devops_descent/10-aws-cost-optimization-mistakes-i-see-in-real-accounts-p2e)
-- [Visual Customization with Natural Language Prompts in Trae.ai](https://dev.to/richard_chai_7ae55a511593/visual-customization-with-natural-language-prompts-in-traeai-2n39)
-- [I Built a Knowledge Evaluator That Uses Notion to Judge What&#39;s Worth Remembering](https://dev.to/dannwaneri/i-built-a-knowledge-evaluator-that-uses-notion-to-judge-whats-worth-remembering-2mlf)
-- [Hello Dev.to — My First Post](https://dev.to/valentinoachira/hello-devto-my-first-post-2l0j)
+- [I Got Lost in Canary Wharf for 30 Minutes, But I Found the Future of SRE](https://dev.to/maame-codes/i-got-lost-in-canary-wharf-for-30-minutes-but-i-found-the-future-of-sre-202k)
+- [Video Preview on Hover with Stimulus](https://dev.to/railsdesigner/video-preview-on-hover-with-stimulus-5ccb)
+- [SML brings Graphics Design an AI to the next level](https://dev.to/artanidos/sml-brings-graphics-design-an-ai-on-the-next-level-4e0)
+- [The First Evolution of Vibe Coding: Engineering Leadership Report](https://dev.to/yong_cao_c38d8c5787fc4a45/the-first-evolution-of-vibe-coding-engineering-leadership-report-469d)
 <!-- BLOG-POST-LIST:END -->
 
 
