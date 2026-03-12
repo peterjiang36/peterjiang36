@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture &amp; Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3)
-- [Post-Quantum Cryptography: A Practical Guide for IT Leaders](https://dev.to/danieljglover/post-quantum-cryptography-a-practical-guide-for-it-leaders-2kg9)
-- [Social Engineering Attacks on IT Helpdesks: A Defence Guide](https://dev.to/danieljglover/social-engineering-attacks-on-it-helpdesks-a-defence-guide-1ih3)
-- [Vibe Coding Challenge — Day 14: Landing Page Generator](https://dev.to/labdays/vibe-coding-challenge-day-14-landing-page-generator-11k7)
+- [I Found Buried Treasure in a Bug-Hunting Tool — My Road to GSoC 2026 with OWASP BLT](https://dev.to/ojaswa072/i-found-buried-treasure-in-a-bug-hunting-tool-my-road-to-gsoc-2026-with-owasp-blt-3c04)
+- [From Infrastructure to Product: Pipelines into a Profitable SaaS](https://dev.to/sertaoseracloud/from-infrastructure-to-product-pipelines-into-a-profitable-saas-44mc)
+- [What I learned by building MY PORTFOLIO without frameworks.](https://dev.to/rimoverse/npx-create-react-app--1hp6)
+- [CVE-2026-31841: CVE-2026-31841: Raw Database Statement Exposure in Hyperterse MCP Search Tool](https://dev.to/cverports/cve-2026-31841-cve-2026-31841-raw-database-statement-exposure-in-hyperterse-mcp-search-tool-4bma)
 <!-- BLOG-POST-LIST:END -->
 
 
