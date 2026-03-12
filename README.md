@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A first look at load balancing the Umbraco backoffice](https://dev.to/jemayn/a-first-look-at-load-balancing-the-umbraco-backoffice-1ihm)
-- [It Ran Fine in Production. Then I Wrote the Tests.](https://dev.to/cynthia-cycy/it-ran-fine-in-production-then-i-wrote-the-tests-1kif)
-- [How We Stopped Claude Code from Writing eval&lpar;&rpar; in Production](https://dev.to/kirollos_atef/how-we-stopped-claude-code-from-writing-eval-in-production-34na)
-- [Hello World, Again: Building an Artificial World to Understand the Age of AI](https://dev.to/hamza_albouchi_36f1b32fd2/hello-world-again-building-an-artificial-world-to-understand-the-age-of-ai-4ip3)
+- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
+- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
+- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
+- [Best Code Review Tools for Python in 2026 - Linters, SAST, and AI](https://dev.to/rahulxsingh/best-code-review-tools-for-python-in-2026-linters-sast-and-ai-5pb)
 <!-- BLOG-POST-LIST:END -->
 
 
