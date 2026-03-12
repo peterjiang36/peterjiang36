@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Teatree: Parallel Multi-Repo Development with AI Agents](https://dev.to/souliane/introducing-teatree-parallel-multi-repo-development-with-ai-agents-cjp)
-- [The Silent $33/Month Charge: Understanding AWS NAT Gateway Costs](https://dev.to/cloudwiseteam/the-silent-33month-charge-understanding-aws-nat-gateway-costs-19c3)
-- [How to Setup Tailwind CSS v4 &amp; shadcn/ui in AdonisJS v7 &lpar;React + Inertia&rpar;](https://dev.to/ahsanabrar/how-to-setup-tailwind-css-v4-shadcnui-in-adonisjs-v7-react-inertia-40h3)
-- [MT Salesguard Developer Guide: Verify Product Provenance in One API Call](https://dev.to/moltycel/mt-salesguard-developer-guide-verify-product-provenance-in-one-api-call-3kja)
+- [How I Updated 1,000+ CTAs on My Blog Without Writing a Single Line of Code](https://dev.to/cristiantalasanchez/how-i-updated-1000-ctas-on-my-blog-without-writing-a-single-line-of-code-jka)
+- [Solving the &quot;Blind Continuation&quot; Typing Problem: Building a Zero-Latency Vector Search for the Edge](https://dev.to/karloti/solving-the-blind-continuation-typing-problem-building-a-zero-latency-vector-search-for-the-edge-259g)
+- [wezterm-cmdpicker: A Command Palette for Your WezTerm Terminal](https://dev.to/abidibo/wezterm-cmdpicker-a-command-palette-for-your-wezterm-terminal-4d5h)
+- [Setting up Snowflake–Power BI Connectivity with Azure AD SSO and Auto-Provisioning](https://dev.to/swaroop_krishna_e2f4b83b2/setting-up-snowflake-power-bi-connectivity-with-azure-ad-sso-and-auto-provisioning-1gda)
 <!-- BLOG-POST-LIST:END -->
 
 
