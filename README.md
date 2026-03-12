@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing OCP: a deterministic runtime/language built around observe match commit](https://dev.to/duchaiten/designing-ocp-a-deterministic-runtimelanguage-built-around-observe-match-commit-3k2p)
-- [Launched my project a few weeks ago, traffic was okay but my retention was a disaster](https://dev.to/zenovay/launched-my-project-a-few-weeks-ago-traffic-was-okay-but-my-retention-was-a-disaster-425i)
-- [I built an AI operating system because every project I touched was lying to me](https://dev.to/khaeldur/i-built-an-ai-operating-system-because-every-project-i-touched-was-lying-to-me-3e14)
-- [Advanced Terraform Lab &lpar;Production Style&rpar;](https://dev.to/jumptotech/advanced-terraform-lab-production-style-52ce)
+- [10 AWS Cost Optimization Mistakes I See in Real Accounts](https://dev.to/devops_descent/10-aws-cost-optimization-mistakes-i-see-in-real-accounts-p2e)
+- [Visual Customization with Natural Language Prompts in Trae.ai](https://dev.to/richard_chai_7ae55a511593/visual-customization-with-natural-language-prompts-in-traeai-2n39)
+- [I Built a Knowledge Evaluator That Uses Notion to Judge What&#39;s Worth Remembering](https://dev.to/dannwaneri/i-built-a-knowledge-evaluator-that-uses-notion-to-judge-whats-worth-remembering-2mlf)
+- [Hello Dev.to — My First Post](https://dev.to/valentinoachira/hello-devto-my-first-post-2l0j)
 <!-- BLOG-POST-LIST:END -->
 
 
