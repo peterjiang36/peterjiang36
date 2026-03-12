@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built root cause analysis into my free API uptime monitor](https://dev.to/acrticsludge/how-i-built-root-cause-analysis-into-my-free-api-uptime-monitor-56pe)
-- [A Developer&#39;s Guide to Choosing a GPU for Machine Learning in 2025-2026](https://dev.to/maxvyaznikov/a-developers-guide-to-choosing-a-gpu-for-machine-learning-in-2025-2026-5d4f)
-- [5 React Prompts That Save Me Hours Every Week](https://dev.to/longpam19/5-react-prompts-that-save-me-hours-every-week-23om)
-- [From Foreground Services to WorkManager: How We Cut Battery Drain by 70%](https://dev.to/suridevs_861b8a311a101be4/from-foreground-services-to-workmanager-how-we-cut-battery-drain-by-70-2d2c)
+- [Strapi CMS: The Modern Headless CMS Powering Scalable Digital Experiences](https://dev.to/geekyants-inc/strapi-cms-the-modern-headless-cms-powering-scalable-digital-experiences-29md)
+- [Why &quot;Good Enough&quot; is Killing the Web &lpar;and How We’re Fixing It&rpar;](https://dev.to/bandhan/why-good-enough-is-killing-the-web-and-how-were-fixing-it-1nad)
+- [Your Bedrock Bill Is a Ticking Clock — Here&#39;s How to Stop It](https://dev.to/harisharavindan/your-bedrock-bill-is-a-ticking-clock-heres-how-to-stop-it-1c0i)
+- [Session Bloat Detector v3: Auto-Clear Without CLI Dependency](https://dev.to/adam_cipher/session-bloat-detector-v3-auto-clear-without-cli-dependency-38h6)
 <!-- BLOG-POST-LIST:END -->
 
 
