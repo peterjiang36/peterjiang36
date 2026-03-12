@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Lost in Canary Wharf for 30 Minutes, But I Found the Future of SRE](https://dev.to/maame-codes/i-got-lost-in-canary-wharf-for-30-minutes-but-i-found-the-future-of-sre-202k)
-- [Video Preview on Hover with Stimulus](https://dev.to/railsdesigner/video-preview-on-hover-with-stimulus-5ccb)
-- [SML brings Graphics Design an AI to the next level](https://dev.to/artanidos/sml-brings-graphics-design-an-ai-on-the-next-level-4e0)
-- [The First Evolution of Vibe Coding: Engineering Leadership Report](https://dev.to/yong_cao_c38d8c5787fc4a45/the-first-evolution-of-vibe-coding-engineering-leadership-report-469d)
+- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture &amp; Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3)
+- [Post-Quantum Cryptography: A Practical Guide for IT Leaders](https://dev.to/danieljglover/post-quantum-cryptography-a-practical-guide-for-it-leaders-2kg9)
+- [Social Engineering Attacks on IT Helpdesks: A Defence Guide](https://dev.to/danieljglover/social-engineering-attacks-on-it-helpdesks-a-defence-guide-1ih3)
+- [Vibe Coding Challenge — Day 14: Landing Page Generator](https://dev.to/labdays/vibe-coding-challenge-day-14-landing-page-generator-11k7)
 <!-- BLOG-POST-LIST:END -->
 
 
