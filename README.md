@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made Claude Actually Understand My Codebase](https://dev.to/southwestmogrown/how-i-made-claude-actually-understand-my-codebase-436c)
-- [Build Your First MCP Server in Python — 3 Patterns You Need](https://dev.to/klement_gunndu/build-your-first-mcp-server-in-python-3-patterns-you-need-1i53)
-- [Open Source Software Can Bring Up to 5x Return on Investment](https://dev.to/kurtulusoz/open-source-software-can-bring-up-to-5x-return-on-investment-1ion)
-- [Show HN: Autoresearch@home!](https://dev.to/mgobea/show-hn-autoresearchhome-3mc8)
+- [A prompt is a request. A language is the law: Aver and AI-written code](https://dev.to/jasisz/a-prompt-is-a-request-a-language-is-the-law-aver-and-ai-written-code-532b)
+- [from localhost to cloud run: deploying a live pm plus action worker](https://dev.to/combba/from-localhost-to-cloud-run-deploying-a-live-pm-plus-action-worker-30km)
+- [Stop Creating Throwaway Maven Projects Just to Try a Java Library](https://dev.to/kawasima/stop-creating-throwaway-maven-projects-just-to-try-a-java-library-1dc8)
+- [Why RAG Fails at Microservices Code Review at Scale](https://dev.to/amartyajha/why-rag-fails-at-microservices-code-review-at-scale-b3n)
 <!-- BLOG-POST-LIST:END -->
 
 
