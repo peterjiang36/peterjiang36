@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tool that automatically tracks every free AI API daily — here&#39;s how](https://dev.to/dipcodes_/i-built-a-tool-that-automatically-tracks-every-free-ai-api-daily-heres-how-5586)
-- [When Your npm Install Becomes an AI Agent Attack: The MCP Supply Chain Threat](https://dev.to/mkdelta221/when-your-npm-install-becomes-an-ai-agent-attack-the-mcp-supply-chain-threat-2hi)
-- [React Native Fabric Rendering Explained](https://dev.to/thatsmanmeet/react-native-fabric-rendering-explained-4e9a)
-- [A Hands-On AI Agents Tutorial Using Agno, OpenAI, and Phoenix](https://dev.to/maria-dac/a-hands-on-ai-agents-tutorial-using-agno-openai-and-phoenix-4j74)
+- [Introducing Teatree: Parallel Multi-Repo Development with AI Agents](https://dev.to/souliane/introducing-teatree-parallel-multi-repo-development-with-ai-agents-cjp)
+- [The Silent $33/Month Charge: Understanding AWS NAT Gateway Costs](https://dev.to/cloudwiseteam/the-silent-33month-charge-understanding-aws-nat-gateway-costs-19c3)
+- [How to Setup Tailwind CSS v4 &amp; shadcn/ui in AdonisJS v7 &lpar;React + Inertia&rpar;](https://dev.to/ahsanabrar/how-to-setup-tailwind-css-v4-shadcnui-in-adonisjs-v7-react-inertia-40h3)
+- [MT Salesguard Developer Guide: Verify Product Provenance in One API Call](https://dev.to/moltycel/mt-salesguard-developer-guide-verify-product-provenance-in-one-api-call-3kja)
 <!-- BLOG-POST-LIST:END -->
 
 
