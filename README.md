@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
-- [Bypassing Azure Service Bus Session Limits: A Sync-over-Async Pattern for Spring Boot](https://dev.to/shivamsaluja/bypassing-azure-service-bus-session-limits-a-sync-over-async-pattern-for-spring-boot-293k)
-- [2026年第11週 AI 深度週報：政府、電力、安全的三重考驗](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-11zhou-ai-shen-du-zhou-bao-zheng-fu-dian-li-an-quan-de-san-zhong-kao-yan-3e2i)
-- [Google paid me $15,000 for this Prompt Injection bug.](https://dev.to/behi_sec/google-paid-me-15000-for-this-prompt-injection-bug-5fn6)
+- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
+- [How I Scrape 250,000 Shopify Stores Without Getting Blocked](https://dev.to/anders_myrmel_2bc87f4df06/how-i-scrape-250000-shopify-stores-without-getting-blocked-29f9)
+- [Building Zero-Config LAN Discovery in Node.js &lpar;mDNS + UDP Broadcast&rpar;](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)
+- [I Built a 1-Click OAuth Flow for VS Code to Stop Copying API Keys](https://dev.to/freerave/i-built-a-1-click-oauth-flow-for-vs-code-to-stop-copying-api-keys-257i)
 <!-- BLOG-POST-LIST:END -->
 
 
