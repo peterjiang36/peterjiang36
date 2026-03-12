@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Public Project on Python](https://dev.to/pydev69/my-first-public-project-on-python-29ob)
-- [How I Scrape 250,000 Shopify Stores Without Getting Blocked](https://dev.to/anders_myrmel_2bc87f4df06/how-i-scrape-250000-shopify-stores-without-getting-blocked-29f9)
-- [Building Zero-Config LAN Discovery in Node.js &lpar;mDNS + UDP Broadcast&rpar;](https://dev.to/silverstream/building-zero-config-lan-discovery-in-nodejs-mdns-udp-broadcast-44go)
-- [I Built a 1-Click OAuth Flow for VS Code to Stop Copying API Keys](https://dev.to/freerave/i-built-a-1-click-oauth-flow-for-vs-code-to-stop-copying-api-keys-257i)
+- [I built a tool that automatically tracks every free AI API daily — here&#39;s how](https://dev.to/dipcodes_/i-built-a-tool-that-automatically-tracks-every-free-ai-api-daily-heres-how-5586)
+- [When Your npm Install Becomes an AI Agent Attack: The MCP Supply Chain Threat](https://dev.to/mkdelta221/when-your-npm-install-becomes-an-ai-agent-attack-the-mcp-supply-chain-threat-2hi)
+- [React Native Fabric Rendering Explained](https://dev.to/thatsmanmeet/react-native-fabric-rendering-explained-4e9a)
+- [A Hands-On AI Agents Tutorial Using Agno, OpenAI, and Phoenix](https://dev.to/maria-dac/a-hands-on-ai-agents-tutorial-using-agno-openai-and-phoenix-4j74)
 <!-- BLOG-POST-LIST:END -->
 
 
