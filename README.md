@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A prompt is a request. A language is the law: Aver and AI-written code](https://dev.to/jasisz/a-prompt-is-a-request-a-language-is-the-law-aver-and-ai-written-code-532b)
-- [from localhost to cloud run: deploying a live pm plus action worker](https://dev.to/combba/from-localhost-to-cloud-run-deploying-a-live-pm-plus-action-worker-30km)
-- [Stop Creating Throwaway Maven Projects Just to Try a Java Library](https://dev.to/kawasima/stop-creating-throwaway-maven-projects-just-to-try-a-java-library-1dc8)
-- [Why RAG Fails at Microservices Code Review at Scale](https://dev.to/amartyajha/why-rag-fails-at-microservices-code-review-at-scale-b3n)
+- [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
+- [Bypassing Azure Service Bus Session Limits: A Sync-over-Async Pattern for Spring Boot](https://dev.to/shivamsaluja/bypassing-azure-service-bus-session-limits-a-sync-over-async-pattern-for-spring-boot-293k)
+- [2026年第11週 AI 深度週報：政府、電力、安全的三重考驗](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-11zhou-ai-shen-du-zhou-bao-zheng-fu-dian-li-an-quan-de-san-zhong-kao-yan-3e2i)
+- [Google paid me $15,000 for this Prompt Injection bug.](https://dev.to/behi_sec/google-paid-me-15000-for-this-prompt-injection-bug-5fn6)
 <!-- BLOG-POST-LIST:END -->
 
 
