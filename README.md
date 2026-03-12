@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent builds the app. But who tests it?](https://dev.to/flinchify/your-agent-builds-the-app-but-who-tests-it-37jl)
-- [Zenovay vs Plausible: both privacy-first, but different depth](https://dev.to/zenovay/zenovay-vs-plausible-both-privacy-first-but-different-depth-35b3)
-- [What is Actually Happening in AI Right Now — March 2026 Edition](https://dev.to/aibughunter/ai-trends-developers-cant-ignore-right-now-2d5h)
-- [Introducing the `Temporal` Object: A Game-Changer for JavaScript Date Handling](https://dev.to/pritampatil/introducing-the-temporal-object-a-game-changer-for-javascript-date-handling-3n1b)
+- [How I Made Claude Actually Understand My Codebase](https://dev.to/southwestmogrown/how-i-made-claude-actually-understand-my-codebase-436c)
+- [Build Your First MCP Server in Python — 3 Patterns You Need](https://dev.to/klement_gunndu/build-your-first-mcp-server-in-python-3-patterns-you-need-1i53)
+- [Open Source Software Can Bring Up to 5x Return on Investment](https://dev.to/kurtulusoz/open-source-software-can-bring-up-to-5x-return-on-investment-1ion)
+- [Show HN: Autoresearch@home!](https://dev.to/mgobea/show-hn-autoresearchhome-3mc8)
 <!-- BLOG-POST-LIST:END -->
 
 
