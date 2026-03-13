@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Dress Shoes for Men: Style, Comfort, and Quality Combined](https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c)
-- [Probability Can Never Be Permission — The Structural Flaw of Open Agent AI and the Conditions for the Next Standard](https://dev.to/aaih_sg/probability-can-never-be-permission-the-structural-flaw-of-open-agent-ai-and-the-conditions-for-maf)
-- [React: avoid hooks that set default values, use getters with defaults](https://dev.to/domantasjurkus/react-avoid-setdefaulthook-use-getparams-26l7)
-- [SEO is Dead? How I Optimized My Next.js SaaS for ChatGPT &amp; Perplexity &lpar;AEO&rpar;](https://dev.to/damsho92/seo-is-dead-how-i-optimized-my-nextjs-saas-for-chatgpt-perplexity-aeo-3ppc)
+- [Open Code Review: The Missing Quality Gate for AI-Generated Code](https://dev.to/raye_deng_622ab98e19a2147/open-code-review-the-missing-quality-gate-for-ai-generated-code-1p9j)
+- [Vite 8 Is Here — And It Changes Everything About Frontend Builds](https://dev.to/gabrielenache/vite-8-is-here-and-it-changes-everything-about-frontend-builds-45ci)
+- [I Had No Title to Hide Behind, So I Built Work That Could Defend Itself](https://dev.to/itsreallydanii/i-had-no-title-to-hide-behind-so-i-built-work-that-could-defend-itself-51nl)
+- [How My &quot;Simple&quot; Side Project Mutated into a Full-Blown SaaS Orchestration Engine](https://dev.to/devsomesh/how-my-simple-side-project-mutated-into-a-full-blown-saas-orchestration-engine-55jo)
 <!-- BLOG-POST-LIST:END -->
 
 
