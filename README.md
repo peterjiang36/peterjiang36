@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Balgs Store](https://dev.to/grayxcode/building-balgs-store-2ndg)
-- [I Built a Small Agentic Trading App. It Cost Me a Few Hours and About $0.20 Per Run.](https://dev.to/ionionascu/i-built-a-small-agentic-trading-app-it-cost-me-a-few-hours-and-about-020-per-run-3ikj)
-- [5 Text Tools Every AI Agent Needs: Stats, Embeddings, Markdown, and More with IteraTools](https://dev.to/fredpsantos33/5-text-tools-every-ai-agent-needs-stats-embeddings-markdown-and-more-with-iteratools-58am)
-- [I Built a Test Data Generator for 38 Countries — Here&#39;s What I Learned](https://dev.to/kaustubh_memane/i-built-a-test-data-generator-for-38-countries-heres-what-i-learned-7c)
+- [Rick Beato: Kevin Shirley: Stranded, Broke, and Deported... Until RUSH Saved My Career](https://dev.to/music_youtube/rick-beato-kevin-shirley-stranded-broke-and-deported-until-rush-saved-my-career-1f10)
+- [Evaluating Claude&#39;s dbt Skills: Building an Eval from Scratch](https://dev.to/rmoff/evaluating-claudes-dbt-skills-building-an-eval-from-scratch-30a4)
+- [Why Building AI Chat Apps Is Still Hard in 2026](https://dev.to/kyeremehs/why-building-ai-chat-apps-is-still-hard-in-2026-2918)
+- [AWS IAM + S3 Demystified: Map Every S3 CLI Command to Its Required Permission](https://dev.to/brunohsouza/aws-iam-s3-demystified-map-every-s3-cli-command-to-its-required-permission-5bmd)
 <!-- BLOG-POST-LIST:END -->
 
 
