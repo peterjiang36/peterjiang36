@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rick Beato: Kevin Shirley: Stranded, Broke, and Deported... Until RUSH Saved My Career](https://dev.to/music_youtube/rick-beato-kevin-shirley-stranded-broke-and-deported-until-rush-saved-my-career-1f10)
-- [Evaluating Claude&#39;s dbt Skills: Building an Eval from Scratch](https://dev.to/rmoff/evaluating-claudes-dbt-skills-building-an-eval-from-scratch-30a4)
-- [Why Building AI Chat Apps Is Still Hard in 2026](https://dev.to/kyeremehs/why-building-ai-chat-apps-is-still-hard-in-2026-2918)
-- [AWS IAM + S3 Demystified: Map Every S3 CLI Command to Its Required Permission](https://dev.to/brunohsouza/aws-iam-s3-demystified-map-every-s3-cli-command-to-its-required-permission-5bmd)
+- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
+- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
+- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
+- [Building the Search: My Week 2 Progress on Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-the-search-my-week-2-progress-on-bloom-after-4cja)
 <!-- BLOG-POST-LIST:END -->
 
 
