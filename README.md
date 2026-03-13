@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tsonnet #33 - The arithmetic tutorial must go on](https://dev.to/bitmaybewise/tsonnet-33-the-arithmetic-tutorial-must-go-on-1694)
-- [I Built Docusign for AI Agents — Here&#39;s How](https://dev.to/michael_beckett/i-built-docusign-for-ai-agents-heres-how-dnh)
-- [The Day I Realized What Is Possible With Forge 4D](https://dev.to/artanidos/the-day-i-realized-what-is-possible-with-forge-4d-2fm0)
-- [A Roadmap to Becoming a Web Developer](https://dev.to/xiaoguang_/a-roadmap-to-becoming-a-web-developer-41ka)
+- [Best Dress Shoes for Men: Style, Comfort, and Quality Combined](https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c)
+- [Probability Can Never Be Permission — The Structural Flaw of Open Agent AI and the Conditions for the Next Standard](https://dev.to/aaih_sg/probability-can-never-be-permission-the-structural-flaw-of-open-agent-ai-and-the-conditions-for-maf)
+- [React: avoid hooks that set default values, use getters with defaults](https://dev.to/domantasjurkus/react-avoid-setdefaulthook-use-getparams-26l7)
+- [SEO is Dead? How I Optimized My Next.js SaaS for ChatGPT &amp; Perplexity &lpar;AEO&rpar;](https://dev.to/damsho92/seo-is-dead-how-i-optimized-my-nextjs-saas-for-chatgpt-perplexity-aeo-3ppc)
 <!-- BLOG-POST-LIST:END -->
 
 
