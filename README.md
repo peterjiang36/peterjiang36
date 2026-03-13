@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantifying synergistic mutual information](https://dev.to/paperium/quantifying-synergistic-mutual-information-4n3j)
-- [Stop blindly replacing `enum` with `as const`](https://dev.to/kelvynthai/stop-blindly-replacing-enum-with-as-const-56o8)
-- [S&amp;OP Engineering III: The End of Excel &lpar;Linear Programming for Supply Planning&rpar;](https://dev.to/datalaria/sop-engineering-iii-the-end-of-excel-linear-programming-for-supply-planning-20do)
-- [Claude Code Bingo: 50 Things That Happen to Everyone Who Uses AI Seriously](https://dev.to/yurukusa/claude-code-bingo-50-things-that-happen-to-everyone-who-uses-ai-seriously-55jj)
+- [Build an AI Agent Loop in 50 Lines of Python](https://dev.to/klement_gunndu/build-an-ai-agent-loop-in-50-lines-of-python-59jk)
+- [Apache DolphinScheduler 3.4.1 Released with Task Dispatch Timeout Detection](https://dev.to/seatunnel/apache-dolphinscheduler-341-released-with-task-dispatch-timeout-detection-3i5c)
+- [Prompt Area designed for AI Chat UIs](https://dev.to/kachar/prompt-area-designed-for-ai-chat-uis-42ag)
+- [Snyk vs Dependabot: Developer Security Platform vs Free Dependency Updates &lpar;2026&rpar;](https://dev.to/rahulxsingh/snyk-vs-dependabot-developer-security-platform-vs-free-dependency-updates-2026-54c6)
 <!-- BLOG-POST-LIST:END -->
 
 
