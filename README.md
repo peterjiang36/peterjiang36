@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Happy Pi Day!](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-10df)
-- [From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw](https://dev.to/aws-builders/from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5)
-- [AWS Authentication: IAM Identity Center &lpar;SSO&rpar; - The right way in 2026](https://dev.to/aws-builders/aws-authentication-iam-identity-center-sso-the-right-way-in-2026-4409)
-- [Cross-Account AWS Visibility at Scale: Lessons from Building a Mobile-First Health and Cost Monitoring Platform](https://dev.to/ronflax/cross-account-aws-visibility-at-scale-lessons-from-building-a-mobile-first-health-and-cost-14n9)
+- [5 Production Incidents Every DevOps Engineer Should Know How to Debug](https://dev.to/cdnsteve/5-production-incidents-every-devops-engineer-should-know-how-to-debug-1np2)
+- [Preventing Rogue AI Agents](https://dev.to/willvelida/preventing-rogue-ai-agents-53n2)
+- [Preventing Human-Agent Trust Exploitation in AI Agents](https://dev.to/willvelida/preventing-human-agent-trust-exploitation-in-ai-agents-5d8f)
+- [Preventing Cascading Failures in AI Agents](https://dev.to/willvelida/preventing-cascading-failures-in-ai-agents-p3c)
 <!-- BLOG-POST-LIST:END -->
 
 
