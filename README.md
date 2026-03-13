@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ported OpenAI&#39;s Symphony to Claude Code: A Complete Build Diary](https://dev.to/mscalessio/i-ported-openais-symphony-to-claude-code-a-complete-build-diary-4h61)
-- [Your Java Regex Just Silently Broke in Production. Here&#39;s How to Make That Impossible.](https://dev.to/mirko_ddd/your-java-regex-just-silently-broke-in-production-heres-how-to-make-that-impossible-55jh)
-- [I spent months building an E2EE Note App with PocketBase and Vanilla JS](https://dev.to/_abb39549bd36adc5998/i-spent-months-building-an-e2ee-note-app-with-pocketbase-and-vanilla-js-28b7)
-- [Day 7: The Clock Hit Zero](https://dev.to/profit_or_die_69/day-7-the-clock-hit-zero-48de)
+- [How Terraform Auto-Updates GitHub Secrets After Deploy — And Why It Matters](https://dev.to/wervin/how-terraform-auto-updates-github-secrets-after-deploy-and-why-it-matters-2m18)
+- [Building an AI-Powered Guest Automation with the Copilot SDK](https://dev.to/andreagriffiths11/building-an-ai-powered-guest-automation-with-the-copilot-sdk-3205)
+- [Why AI Discoverability Matters: Optimizing Your Website for This Generation of Search](https://dev.to/andreagriffiths11/why-ai-discoverability-matters-optimizing-your-website-for-this-generation-of-search-2jni)
+- [Cleaning Up Workflow Logic with GitHub Actions&#39; New case Function](https://dev.to/andreagriffiths11/cleaning-up-workflow-logic-with-github-actions-new-case-function-25dm)
 <!-- BLOG-POST-LIST:END -->
 
 
