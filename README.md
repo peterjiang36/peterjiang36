@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: I&#39;m trying a new way to release music](https://dev.to/music_youtube/andrew-huang-im-trying-a-new-way-to-release-music-4en0)
-- [Understanding Seq2Seq Neural Networks – Part 1: The Seq2Seq Translation Problem](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-1-the-seq2seq-translation-problem-52o0)
-- [How to Test AI Agent Tool Calls with Pytest](https://dev.to/nebulagg/how-to-test-ai-agent-tool-calls-with-pytest-ol8)
-- [1,149 Humans Tried to Social-Engineer Our AI Banker. Here&#39;s What OWASP&#39;s Agentic Framework Missed.](https://dev.to/uu/1149-humans-tried-to-social-engineer-our-ai-banker-heres-what-owasps-agentic-framework-missed-36ja)
+- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
+- [Hawkeye - open source flight recorder &amp; guardrails for AI agents before things go wrong](https://dev.to/darkninja/hawkeye-open-source-flight-recorder-guardrails-for-ai-agents-before-things-go-wrong-4k31)
+- [Python Baseball Sim Update: Adding Pitcher Logic and JSON Data Support](https://dev.to/lee12/python-baseball-sim-update-adding-pitcher-logic-and-json-data-support-2ja9)
+- [Implementing Visual Audit Trails for LLM Agents in Production — A Step-by-Step Guide](https://dev.to/custodiaadmin/implementing-visual-audit-trails-for-llm-agents-in-production-a-step-by-step-guide-3p83)
 <!-- BLOG-POST-LIST:END -->
 
 
