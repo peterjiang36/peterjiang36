@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From GreyBox to Styled Video](https://dev.to/artanidos/from-greybox-to-styled-video-41e1)
-- [Open-Source Tools Every Travel Technologist Should Know in 2024](https://dev.to/airtruffle/open-source-tools-every-travel-technologist-should-know-in-2024-4n10)
-- [What Are Payment Rails? A Guide for Developers](https://dev.to/flutterwaveeng/what-are-payment-rails-a-guide-for-developers-4ef)
-- [Defuddle Turns Any Web Page Into Clean Markdown From the Terminal](https://dev.to/daesorin/defuddle-turns-any-web-page-into-clean-markdown-from-the-terminal-4ahg)
+- [Tsonnet #33 - The arithmetic tutorial must go on](https://dev.to/bitmaybewise/tsonnet-33-the-arithmetic-tutorial-must-go-on-1694)
+- [I Built Docusign for AI Agents — Here&#39;s How](https://dev.to/michael_beckett/i-built-docusign-for-ai-agents-heres-how-dnh)
+- [The Day I Realized What Is Possible With Forge 4D](https://dev.to/artanidos/the-day-i-realized-what-is-possible-with-forge-4d-2fm0)
+- [A Roadmap to Becoming a Web Developer](https://dev.to/xiaoguang_/a-roadmap-to-becoming-a-web-developer-41ka)
 <!-- BLOG-POST-LIST:END -->
 
 
