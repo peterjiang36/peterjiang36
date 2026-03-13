@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Learned and Built AI-Integrated Software Development](https://dev.to/vishaluttammane/how-i-learned-and-built-ai-integrated-software-development-2e3e)
-- [Systems follow what they repeat, not what you write down](https://dev.to/hollowhouse/systems-follow-what-they-repeat-not-what-you-write-down-5d31)
-- [AI Reviews Your Code Before You Even Open the PR — Claude Code Review Changes Everything](https://dev.to/philliphades/ai-reviews-your-code-before-you-even-open-the-pr-claude-code-review-changes-everything-4dfh)
-- [From Zero to Agent &lpar;Part-I&rpar;](https://dev.to/mindy_jen_phd/from-zero-to-agent-part-i-2he8)
+- [Understanding GRC: How to Navigate Risks and Compliance Standards](https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na)
+- [Kotlin Coroutines: From Callback Hell to Clean Async Code](https://dev.to/suridevs_861b8a311a101be4/kotlin-coroutines-from-callback-hell-to-clean-async-code-5ebl)
+- [Update: pecheck.py Version 0.7.20](https://dev.to/mark0_617b45cda9782a/update-pecheckpy-version-0720-3bh1)
+- [Firecrawl Part 2: The Confidence Gate That Decides When Bing Gets a Vote](https://dev.to/daniel_romitelli_44e77dc6/firecrawl-part-2-the-confidence-gate-that-decides-when-bing-gets-a-vote-doa)
 <!-- BLOG-POST-LIST:END -->
 
 
