@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
-- [Hawkeye - open source flight recorder &amp; guardrails for AI agents before things go wrong](https://dev.to/darkninja/hawkeye-open-source-flight-recorder-guardrails-for-ai-agents-before-things-go-wrong-4k31)
-- [Python Baseball Sim Update: Adding Pitcher Logic and JSON Data Support](https://dev.to/lee12/python-baseball-sim-update-adding-pitcher-logic-and-json-data-support-2ja9)
-- [Implementing Visual Audit Trails for LLM Agents in Production — A Step-by-Step Guide](https://dev.to/custodiaadmin/implementing-visual-audit-trails-for-llm-agents-in-production-a-step-by-step-guide-3p83)
+- [Day 21: I Built the Perfect Machine. It Doesn&#39;t Make Money.](https://dev.to/deadbyapril/day-21-i-built-the-perfect-machine-it-doesnt-make-money-1o80)
+- [How I Turned a Bespoke Code Reviewer Into a Skill Any Project Can Use](https://dev.to/southwestmogrown/how-i-turned-a-bespoke-code-reviewer-into-a-skill-any-project-can-use-1npo)
+- [I Had 47 Tabs Open Just to Buy a Monitor. So I Built a Solution.](https://dev.to/aakash_kumar_208c122ebbba/i-had-47-tabs-open-just-to-buy-a-monitor-so-i-built-a-solution-3ngj)
+- [PECOS Data Extraction Pipeline - DevOps Documentation](https://dev.to/durrello/pecos-data-extraction-pipeline-devops-documentation-385k)
 <!-- BLOG-POST-LIST:END -->
 
 
