@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Architect’s Dilemma: Migrating Authentication from Clerk to Auth0](https://dev.to/onwodis/the-architects-dilemma-migrating-authentication-from-clerk-to-auth0-4elf)
-- [[pt-BR] A nova era do Linux](https://dev.to/julianolaurentino/pt-br-a-nova-era-do-linux-47ca)
-- [Building a Community Contribution System for VIN Decoding Patterns](https://dev.to/sam_sullivan_411184fbc70e/building-a-community-contribution-system-for-vin-decoding-patterns-417i)
-- [Most Production Bugs Don’t Live in Your Code. They Live Between Systems](https://dev.to/xcodedadx0/most-production-bugs-dont-live-in-your-code-they-live-between-systems-2ei2)
+- [Happy Pi Day!](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-10df)
+- [From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw](https://dev.to/aws-builders/from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5)
+- [AWS Authentication: IAM Identity Center &lpar;SSO&rpar; - The right way in 2026](https://dev.to/aws-builders/aws-authentication-iam-identity-center-sso-the-right-way-in-2026-4409)
+- [Cross-Account AWS Visibility at Scale: Lessons from Building a Mobile-First Health and Cost Monitoring Platform](https://dev.to/ronflax/cross-account-aws-visibility-at-scale-lessons-from-building-a-mobile-first-health-and-cost-14n9)
 <!-- BLOG-POST-LIST:END -->
 
 
