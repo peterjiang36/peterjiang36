@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding GRC: How to Navigate Risks and Compliance Standards](https://dev.to/mark0_617b45cda9782a/understanding-grc-how-to-navigate-risks-and-compliance-standards-26na)
-- [Kotlin Coroutines: From Callback Hell to Clean Async Code](https://dev.to/suridevs_861b8a311a101be4/kotlin-coroutines-from-callback-hell-to-clean-async-code-5ebl)
-- [Update: pecheck.py Version 0.7.20](https://dev.to/mark0_617b45cda9782a/update-pecheckpy-version-0720-3bh1)
-- [Firecrawl Part 2: The Confidence Gate That Decides When Bing Gets a Vote](https://dev.to/daniel_romitelli_44e77dc6/firecrawl-part-2-the-confidence-gate-that-decides-when-bing-gets-a-vote-doa)
+- [Linux Troubleshooting for DevOps: 20 Commands I Use Every Single Week](https://dev.to/sanjaysundarmurthy/linux-troubleshooting-for-devops-20-commands-i-use-every-single-week-49ji)
+- [Why Recruiters Waste 70% of Their Time Screening the Wrong Candidates](https://dev.to/taurusai/why-recruiters-waste-70-of-their-time-screening-the-wrong-candidates-b1o)
+- [Building a probabilistic market scenario engine instead of predicting prices](https://dev.to/gangmandotori/building-a-probabilistic-market-scenario-engine-instead-of-predicting-prices-4369)
+- [The Compliance Audit Your Property Management Software Isn&#39;t Ready For.](https://dev.to/contextfirstai/the-compliance-audit-your-property-management-software-isnt-ready-for-21ha)
 <!-- BLOG-POST-LIST:END -->
 
 
