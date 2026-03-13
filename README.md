@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Agent Research Systems using Vercel AI SDK](https://dev.to/valyuai/building-multi-agent-research-systems-using-vercel-ai-sdk-2lae)
-- [MLOps Explained: The Backbone of Production Machine Learning.](https://dev.to/kavidu_dev/mlops-explained-the-backbone-of-production-machine-learning-16dn)
-- [Pare de usar isEmpty&lpar;&rpar; e isBlank&lpar;&rpar; em seus Controllers Spring Boot](https://dev.to/isac_canedo/pare-de-usar-isempty-e-isblank-em-seus-controllers-spring-boot-2ack)
-- [Your AI Agents Deserve the Same Ops Treatment as Your Microservices](https://dev.to/rdmnl/your-ai-agents-deserve-the-same-ops-treatment-as-your-microservices-3oa2)
+- [10 Free Blender Addons I Built to Speed Up My Workflow](https://dev.to/vesper_finch/10-free-blender-addons-i-built-to-speed-up-my-workflow-55n9)
+- [Text Diff Checker, Length Converter &amp; Temperature Converter — Plus a Brand New Category on EveryTool](https://dev.to/mpsoftwarestudio/text-diff-checker-length-converter-temperature-converter-plus-a-brand-new-category-on-everytool-jn5)
+- [This Week In React #272 : Astro, Compiler, Next.js, shadcn | Navigation, Expo Agent, Widgets, Activity | Node.js, Source Maps](https://dev.to/sebastienlorber/this-week-in-react-272-astro-compiler-nextjs-shadcn-navigation-expo-agent-widgets-k38)
+- [The Power of Routine: Why Structure Matters for Homeschooling Kids with Autism](https://dev.to/tiffany_young/the-power-of-routine-why-structure-matters-for-homeschooling-kids-with-autism-k7e)
 <!-- BLOG-POST-LIST:END -->
 
 
