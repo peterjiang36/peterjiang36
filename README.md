@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
-- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
-- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
-- [Building the Search: My Week 2 Progress on Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-the-search-my-week-2-progress-on-bloom-after-4cja)
+- [Andrew Huang: I&#39;m trying a new way to release music](https://dev.to/music_youtube/andrew-huang-im-trying-a-new-way-to-release-music-4en0)
+- [Understanding Seq2Seq Neural Networks – Part 1: The Seq2Seq Translation Problem](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-1-the-seq2seq-translation-problem-52o0)
+- [How to Test AI Agent Tool Calls with Pytest](https://dev.to/nebulagg/how-to-test-ai-agent-tool-calls-with-pytest-ol8)
+- [1,149 Humans Tried to Social-Engineer Our AI Banker. Here&#39;s What OWASP&#39;s Agentic Framework Missed.](https://dev.to/uu/1149-humans-tried-to-social-engineer-our-ai-banker-heres-what-owasps-agentic-framework-missed-36ja)
 <!-- BLOG-POST-LIST:END -->
 
 
