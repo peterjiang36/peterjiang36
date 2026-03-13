@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Code Review: The Missing Quality Gate for AI-Generated Code](https://dev.to/raye_deng_622ab98e19a2147/open-code-review-the-missing-quality-gate-for-ai-generated-code-1p9j)
-- [Vite 8 Is Here — And It Changes Everything About Frontend Builds](https://dev.to/gabrielenache/vite-8-is-here-and-it-changes-everything-about-frontend-builds-45ci)
-- [I Had No Title to Hide Behind, So I Built Work That Could Defend Itself](https://dev.to/itsreallydanii/i-had-no-title-to-hide-behind-so-i-built-work-that-could-defend-itself-51nl)
-- [How My &quot;Simple&quot; Side Project Mutated into a Full-Blown SaaS Orchestration Engine](https://dev.to/devsomesh/how-my-simple-side-project-mutated-into-a-full-blown-saas-orchestration-engine-55jo)
+- [Building Multi-Agent Research Systems using Vercel AI SDK](https://dev.to/valyuai/building-multi-agent-research-systems-using-vercel-ai-sdk-2lae)
+- [MLOps Explained: The Backbone of Production Machine Learning.](https://dev.to/kavidu_dev/mlops-explained-the-backbone-of-production-machine-learning-16dn)
+- [Pare de usar isEmpty&lpar;&rpar; e isBlank&lpar;&rpar; em seus Controllers Spring Boot](https://dev.to/isac_canedo/pare-de-usar-isempty-e-isblank-em-seus-controllers-spring-boot-2ack)
+- [Your AI Agents Deserve the Same Ops Treatment as Your Microservices](https://dev.to/rdmnl/your-ai-agents-deserve-the-same-ops-treatment-as-your-microservices-3oa2)
 <!-- BLOG-POST-LIST:END -->
 
 
