@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Troubleshooting for DevOps: 20 Commands I Use Every Single Week](https://dev.to/sanjaysundarmurthy/linux-troubleshooting-for-devops-20-commands-i-use-every-single-week-49ji)
-- [Why Recruiters Waste 70% of Their Time Screening the Wrong Candidates](https://dev.to/taurusai/why-recruiters-waste-70-of-their-time-screening-the-wrong-candidates-b1o)
-- [Building a probabilistic market scenario engine instead of predicting prices](https://dev.to/gangmandotori/building-a-probabilistic-market-scenario-engine-instead-of-predicting-prices-4369)
-- [The Compliance Audit Your Property Management Software Isn&#39;t Ready For.](https://dev.to/contextfirstai/the-compliance-audit-your-property-management-software-isnt-ready-for-21ha)
+- [Quantifying synergistic mutual information](https://dev.to/paperium/quantifying-synergistic-mutual-information-4n3j)
+- [Stop blindly replacing `enum` with `as const`](https://dev.to/kelvynthai/stop-blindly-replacing-enum-with-as-const-56o8)
+- [S&amp;OP Engineering III: The End of Excel &lpar;Linear Programming for Supply Planning&rpar;](https://dev.to/datalaria/sop-engineering-iii-the-end-of-excel-linear-programming-for-supply-planning-20do)
+- [Claude Code Bingo: 50 Things That Happen to Everyone Who Uses AI Seriously](https://dev.to/yurukusa/claude-code-bingo-50-things-that-happen-to-everyone-who-uses-ai-seriously-55jj)
 <!-- BLOG-POST-LIST:END -->
 
 
