@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an AI Agent Loop in 50 Lines of Python](https://dev.to/klement_gunndu/build-an-ai-agent-loop-in-50-lines-of-python-59jk)
-- [Apache DolphinScheduler 3.4.1 Released with Task Dispatch Timeout Detection](https://dev.to/seatunnel/apache-dolphinscheduler-341-released-with-task-dispatch-timeout-detection-3i5c)
-- [Prompt Area designed for AI Chat UIs](https://dev.to/kachar/prompt-area-designed-for-ai-chat-uis-42ag)
-- [Snyk vs Dependabot: Developer Security Platform vs Free Dependency Updates &lpar;2026&rpar;](https://dev.to/rahulxsingh/snyk-vs-dependabot-developer-security-platform-vs-free-dependency-updates-2026-54c6)
+- [From GreyBox to Styled Video](https://dev.to/artanidos/from-greybox-to-styled-video-41e1)
+- [Open-Source Tools Every Travel Technologist Should Know in 2024](https://dev.to/airtruffle/open-source-tools-every-travel-technologist-should-know-in-2024-4n10)
+- [What Are Payment Rails? A Guide for Developers](https://dev.to/flutterwaveeng/what-are-payment-rails-a-guide-for-developers-4ef)
+- [Defuddle Turns Any Web Page Into Clean Markdown From the Terminal](https://dev.to/daesorin/defuddle-turns-any-web-page-into-clean-markdown-from-the-terminal-4ahg)
 <!-- BLOG-POST-LIST:END -->
 
 
