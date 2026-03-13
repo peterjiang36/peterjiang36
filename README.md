@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 21: I Built the Perfect Machine. It Doesn&#39;t Make Money.](https://dev.to/deadbyapril/day-21-i-built-the-perfect-machine-it-doesnt-make-money-1o80)
-- [How I Turned a Bespoke Code Reviewer Into a Skill Any Project Can Use](https://dev.to/southwestmogrown/how-i-turned-a-bespoke-code-reviewer-into-a-skill-any-project-can-use-1npo)
-- [I Had 47 Tabs Open Just to Buy a Monitor. So I Built a Solution.](https://dev.to/aakash_kumar_208c122ebbba/i-had-47-tabs-open-just-to-buy-a-monitor-so-i-built-a-solution-3ngj)
-- [PECOS Data Extraction Pipeline - DevOps Documentation](https://dev.to/durrello/pecos-data-extraction-pipeline-devops-documentation-385k)
+- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
+- [Luminary: Week 2 — Building the Core](https://dev.to/vaden89/luminary-week-2-building-the-core-5fn1)
+- [Why I Built a Business Content Layer on Top of Laravel AI SDK](https://dev.to/botender/why-i-built-a-business-content-layer-on-top-of-laravel-ai-sdk-4o4n)
+- [Building a Production-Grade Private EKS Cluster with OpenVPN, Prometheus &amp; Grafana](https://dev.to/aws-builders/building-a-production-grade-private-eks-cluster-with-openvpn-prometheus-grafana-419)
 <!-- BLOG-POST-LIST:END -->
 
 
