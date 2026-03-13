@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Free Blender Addons I Built to Speed Up My Workflow](https://dev.to/vesper_finch/10-free-blender-addons-i-built-to-speed-up-my-workflow-55n9)
-- [Text Diff Checker, Length Converter &amp; Temperature Converter — Plus a Brand New Category on EveryTool](https://dev.to/mpsoftwarestudio/text-diff-checker-length-converter-temperature-converter-plus-a-brand-new-category-on-everytool-jn5)
-- [This Week In React #272 : Astro, Compiler, Next.js, shadcn | Navigation, Expo Agent, Widgets, Activity | Node.js, Source Maps](https://dev.to/sebastienlorber/this-week-in-react-272-astro-compiler-nextjs-shadcn-navigation-expo-agent-widgets-k38)
-- [The Power of Routine: Why Structure Matters for Homeschooling Kids with Autism](https://dev.to/tiffany_young/the-power-of-routine-why-structure-matters-for-homeschooling-kids-with-autism-k7e)
+- [I Ported OpenAI&#39;s Symphony to Claude Code: A Complete Build Diary](https://dev.to/mscalessio/i-ported-openais-symphony-to-claude-code-a-complete-build-diary-4h61)
+- [Your Java Regex Just Silently Broke in Production. Here&#39;s How to Make That Impossible.](https://dev.to/mirko_ddd/your-java-regex-just-silently-broke-in-production-heres-how-to-make-that-impossible-55jh)
+- [I spent months building an E2EE Note App with PocketBase and Vanilla JS](https://dev.to/_abb39549bd36adc5998/i-spent-months-building-an-e2ee-note-app-with-pocketbase-and-vanilla-js-28b7)
+- [Day 7: The Clock Hit Zero](https://dev.to/profit_or_die_69/day-7-the-clock-hit-zero-48de)
 <!-- BLOG-POST-LIST:END -->
 
 
