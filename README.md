@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Tutor That Actually Sees Your Homework — Here&#39;s How](https://dev.to/favourite1975/i-built-an-ai-tutor-that-actually-sees-your-homework-heres-how-1hd3)
-- [AI Tools Every Software Engineer Has to Try in 2026](https://dev.to/moemenali/ai-tools-every-software-engineer-has-to-try-in-2026-1fkc)
-- [MCP Server with .Net](https://dev.to/antdimot/mcp-server-with-net-5cih)
-- [Stop Asking AI for Answers - Start Shipping Fixes](https://dev.to/sag1v/stop-asking-ai-for-answers-start-shipping-fixes-4mde)
+- [The Architect’s Dilemma: Migrating Authentication from Clerk to Auth0](https://dev.to/onwodis/the-architects-dilemma-migrating-authentication-from-clerk-to-auth0-4elf)
+- [[pt-BR] A nova era do Linux](https://dev.to/julianolaurentino/pt-br-a-nova-era-do-linux-47ca)
+- [Building a Community Contribution System for VIN Decoding Patterns](https://dev.to/sam_sullivan_411184fbc70e/building-a-community-contribution-system-for-vin-decoding-patterns-417i)
+- [Most Production Bugs Don’t Live in Your Code. They Live Between Systems](https://dev.to/xcodedadx0/most-production-bugs-dont-live-in-your-code-they-live-between-systems-2ei2)
 <!-- BLOG-POST-LIST:END -->
 
 
