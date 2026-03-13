@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Production Incidents Every DevOps Engineer Should Know How to Debug](https://dev.to/cdnsteve/5-production-incidents-every-devops-engineer-should-know-how-to-debug-1np2)
-- [Preventing Rogue AI Agents](https://dev.to/willvelida/preventing-rogue-ai-agents-53n2)
-- [Preventing Human-Agent Trust Exploitation in AI Agents](https://dev.to/willvelida/preventing-human-agent-trust-exploitation-in-ai-agents-5d8f)
-- [Preventing Cascading Failures in AI Agents](https://dev.to/willvelida/preventing-cascading-failures-in-ai-agents-p3c)
+- [How I Learned and Built AI-Integrated Software Development](https://dev.to/vishaluttammane/how-i-learned-and-built-ai-integrated-software-development-2e3e)
+- [Systems follow what they repeat, not what you write down](https://dev.to/hollowhouse/systems-follow-what-they-repeat-not-what-you-write-down-5d31)
+- [AI Reviews Your Code Before You Even Open the PR — Claude Code Review Changes Everything](https://dev.to/philliphades/ai-reviews-your-code-before-you-even-open-the-pr-claude-code-review-changes-everything-4dfh)
+- [From Zero to Agent &lpar;Part-I&rpar;](https://dev.to/mindy_jen_phd/from-zero-to-agent-part-i-2he8)
 <!-- BLOG-POST-LIST:END -->
 
 
