@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Terraform Auto-Updates GitHub Secrets After Deploy — And Why It Matters](https://dev.to/wervin/how-terraform-auto-updates-github-secrets-after-deploy-and-why-it-matters-2m18)
-- [Building an AI-Powered Guest Automation with the Copilot SDK](https://dev.to/andreagriffiths11/building-an-ai-powered-guest-automation-with-the-copilot-sdk-3205)
-- [Why AI Discoverability Matters: Optimizing Your Website for This Generation of Search](https://dev.to/andreagriffiths11/why-ai-discoverability-matters-optimizing-your-website-for-this-generation-of-search-2jni)
-- [Cleaning Up Workflow Logic with GitHub Actions&#39; New case Function](https://dev.to/andreagriffiths11/cleaning-up-workflow-logic-with-github-actions-new-case-function-25dm)
+- [Building Balgs Store](https://dev.to/grayxcode/building-balgs-store-2ndg)
+- [I Built a Small Agentic Trading App. It Cost Me a Few Hours and About $0.20 Per Run.](https://dev.to/ionionascu/i-built-a-small-agentic-trading-app-it-cost-me-a-few-hours-and-about-020-per-run-3ikj)
+- [5 Text Tools Every AI Agent Needs: Stats, Embeddings, Markdown, and More with IteraTools](https://dev.to/fredpsantos33/5-text-tools-every-ai-agent-needs-stats-embeddings-markdown-and-more-with-iteratools-58am)
+- [I Built a Test Data Generator for 38 Countries — Here&#39;s What I Learned](https://dev.to/kaustubh_memane/i-built-a-test-data-generator-for-38-countries-heres-what-i-learned-7c)
 <!-- BLOG-POST-LIST:END -->
 
 
