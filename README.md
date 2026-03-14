@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered SRE Incident Response Workflow With AWS Strands Agents](https://dev.to/ajha8/building-an-ai-powered-sre-incident-response-workflow-with-aws-strands-agents-2fh0)
-- [How I Built My Developer Portfolio with Next.js, GSAP, and a 100 SEO Score](https://dev.to/suyog_bhise_ec4aa1daa62ed/how-i-built-my-developer-portfolio-with-nextjs-gsap-and-a-100-seo-score-2c64)
-- [The Rise of Agentic AI: A Review of Definitions, Frameworks, and Challenges](https://dev.to/abdul_rafeh/the-rise-of-agentic-ai-a-review-of-definitions-frameworks-and-challenges-1lfc)
-- [Recent Research on Artificial Intelligence: Lessons from Search Algorithms to Autonomous Agents](https://dev.to/abdal_khan_3180a3c87d7f12/recent-research-on-artificial-intelligence-lessons-from-search-algorithms-to-autonomous-agents-2ab7)
+- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
+- [Earnflo: A Salary Dashboard That Shows Your Earnings in Real Time](https://dev.to/jzr-supove/earnflo-a-salary-dashboard-that-shows-your-earnings-in-real-time-50m8)
+- [Big Companies steal your data, so I made a secure chat for you.](https://dev.to/kijmoshi/big-companies-steal-your-data-so-i-made-a-secure-chat-for-you-3of8)
+- [Get Your Hands Dirty - AgentCore - Set Up](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-set-up-4c4i)
 <!-- BLOG-POST-LIST:END -->
 
 
