@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Upgradeable Contract Kill Chain: How Uninitialized Proxies Became DeFi&#39;s $200M+ Recurring Nightmare](https://dev.to/ohmygod/the-upgradeable-contract-kill-chain-how-uninitialized-proxies-became-defis-200m-recurring-357e)
-- [How I stopped blindly trusting AI agents in 3 minutes.](https://dev.to/leonidasesquire/how-i-stopped-blindly-trusting-ai-agents-in-3-minutes-50ca)
-- [Farewell to Spaghetti Code: PSL 5.0 Shatters PHP&#39;s Performance and Security Ceiling](https://dev.to/james_miller_8dc58a89cb9e/farewell-to-spaghetti-code-psl-50-shatters-phps-performance-and-security-ceiling-221o)
-- [The Missing Role in Crypto: AI Agent Operators](https://dev.to/nathanhamlett/the-missing-role-in-crypto-ai-agent-operators-1gfm)
+- [I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API](https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3)
+- [Using Python to Load Google Docs into AI — Drive API Minimal Permission Setup](https://dev.to/soytuber/using-python-to-load-google-docs-into-ai-drive-api-minimal-permission-setup-525c)
+- [Hardware Selection for Local LLMs: Overcoming the VRAM Wall with Practical GPU, CPU, and Memory Configurations](https://dev.to/soytuber/hardware-selection-for-local-llms-overcoming-the-vram-wall-with-practical-gpu-cpu-and-memory-2ldf)
+- [What I Gained from Interacting with Shogi AI: The Path to 1st Place in Floodgate and My Approach to Distilled Models](https://dev.to/soytuber/what-i-gained-from-interacting-with-shogi-ai-the-path-to-1st-place-in-floodgate-and-my-approach-to-4k63)
 <!-- BLOG-POST-LIST:END -->
 
 
