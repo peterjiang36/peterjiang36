@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Browser API Hooks Every React Developer Needs](https://dev.to/childrentime/10-browser-api-hooks-every-react-developer-needs-3j4h)
-- [Stop Writing Boilerplate DTO Mappings in Java — Use MapStruct Instead](https://dev.to/manojsatna31/stop-writing-boilerplate-dto-mappings-in-java-use-mapstruct-instead-4356)
-- [The YieldBlox $10M Oracle Heist: How a Single Trade on Stellar&#39;s DEX Drained an Entire Lending Pool](https://dev.to/ohmygod/the-yieldblox-10m-oracle-heist-how-a-single-trade-on-stellars-dex-drained-an-entire-lending-pool-1al4)
-- [When Your Team Becomes the Unofficial Support Group for Every Unqualified Tech Lead](https://dev.to/ghostinit0x/when-your-team-becomes-the-unofficial-support-group-for-every-unqualified-tech-lead-1fo0)
+- [I Gave My Local AI a Public Brain: Echo + Notion MCP](https://dev.to/crow/i-gave-my-local-ai-a-public-brain-echo-notion-mcp-ci1)
+- [The “Jurassic World” Rule is simple: Don’t try to outrun the raptor. Train it.](https://dev.to/itsmeramc/the-jurassic-world-rule-is-simple-dont-try-to-outrun-the-raptor-train-it-2be3)
+- [Try XtermChat | Self Hosted Terminal Chat App](https://dev.to/ketutdana/try-xtermchat-self-hosted-terminal-chat-app-2njh)
+- [Giving Specs Their Own Home: Why We Built mdspec](https://dev.to/zameermfm/giving-specs-their-own-home-why-we-built-mdspec-5g8e)
 <!-- BLOG-POST-LIST:END -->
 
 
