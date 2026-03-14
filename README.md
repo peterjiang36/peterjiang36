@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API](https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3)
-- [Using Python to Load Google Docs into AI — Drive API Minimal Permission Setup](https://dev.to/soytuber/using-python-to-load-google-docs-into-ai-drive-api-minimal-permission-setup-525c)
-- [Hardware Selection for Local LLMs: Overcoming the VRAM Wall with Practical GPU, CPU, and Memory Configurations](https://dev.to/soytuber/hardware-selection-for-local-llms-overcoming-the-vram-wall-with-practical-gpu-cpu-and-memory-2ldf)
-- [What I Gained from Interacting with Shogi AI: The Path to 1st Place in Floodgate and My Approach to Distilled Models](https://dev.to/soytuber/what-i-gained-from-interacting-with-shogi-ai-the-path-to-1st-place-in-floodgate-and-my-approach-to-4k63)
+- [I Built a Tool to Stop Losing My Claude Code Conversation History](https://dev.to/kuroko1t/i-built-a-tool-to-stop-losing-my-claude-code-conversation-history-5500)
+- [Day 40 of #100DayOfCode — Building a Mini Auth System](https://dev.to/m_saad_ahmad/day-40-of-100dayofcode-building-a-mini-auth-system-3i51)
+- [How Funding Rate Creates Arbitrage Opportunities in Crypto Derivatives](https://dev.to/lynalan/how-funding-rate-creates-arbitrage-opportunities-in-crypto-derivatives-4nb6)
+- [Avoid Writting Messy JavaScript: Learn Object Destructuring Today](https://dev.to/kathirvel-s/avoid-writting-messy-javascript-learn-object-destructuring-today-3k3j)
 <!-- BLOG-POST-LIST:END -->
 
 
