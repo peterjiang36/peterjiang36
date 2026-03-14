@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Shipped — A Practical Workflow for Solo Developers](https://dev.to/southwestmogrown/from-chaos-to-shipped-a-practical-workflow-for-solo-developers-1h9n)
-- [I am increasingly hating AI; AI does not improve a programmer’s coding speed or quality, but rather reduces them, even interrupting your thinking and making you lazy.](https://dev.to/carrey_cullen_zxy/i-am-increasingly-hating-ai-ai-does-not-improve-a-programmers-coding-speed-or-quality-but-rather-4f12)
-- [MCP Server Security: The Risks Most Developers Are Ignoring](https://dev.to/rupa_tiwari_dd308948d710f/mcp-server-security-the-risks-most-developers-are-ignoring-18ol)
-- [Cyber Kill Chain Explained Simply](https://dev.to/harsh_hak/cyber-kill-chain-explained-simply-1g22)
+- [I built &quot;git log&quot; for any website — track changes with diffs and AI summaries](https://dev.to/georouv/i-built-git-log-for-any-website-track-changes-with-diffs-and-ai-summaries-445g)
+- [When Software Development Common Sense Flips: The Law of Decreasing Generation Costs](https://dev.to/aws-builders/when-software-development-common-sense-flips-the-law-of-decreasing-generation-costs-506j)
+- [Master HikariCP in Spring Boot 3.x: Complete Guide to High-Performance Database Connection Pooling](https://dev.to/manojsatna31/master-hikaricp-in-spring-boot-3x-complete-guide-to-high-performance-database-connection-pooling-3i5n)
+- [A Simple, Fragmentation-Proof PMM Design](https://dev.to/debug_codefurry_7be8b1b2f/a-simple-fragmentation-proof-pmm-design-54hf)
 <!-- BLOG-POST-LIST:END -->
 
 
