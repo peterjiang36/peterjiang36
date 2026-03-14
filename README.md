@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 4.6 Memory is Here: Why I&#39;m Finally Migrating My AI Workflow](https://dev.to/evan-dong/claude-46-memory-is-here-why-im-finally-migrating-my-ai-workflow-133j)
-- [Git Archaeology #5 — Timeline: Scores Don&#39;t Lie, and They Capture Hesitation Too](https://dev.to/machuz/git-archaeology-5-timeline-scores-dont-lie-and-they-capture-hesitation-too-1gi5)
-- [How I Built Browser-Based PDF Merging tool](https://dev.to/_ab56e9bbfaff3a478352a/how-i-built-browser-based-pdf-merging-tool-45ef)
-- [I built a tool to stop wasting 20 minutes prepping context files for Claude and ChatGPT](https://dev.to/rajiv_naskar_105bb1e60350/i-built-a-tool-to-stop-wasting-20-minutes-prepping-context-files-for-claude-and-chatgpt-pme)
+- [The Completionist&#39;s Brain: When OCD Meets Game Design and Becomes Productive Obsession](https://dev.to/krizekster/the-completionists-brain-when-ocd-meets-game-design-and-becomes-productive-obsession-2o4o)
+- [We Scanned the 100 Most Popular AI Tools for Vulnerabilities](https://dev.to/zarq-ai/we-scanned-the-100-most-popular-ai-tools-for-vulnerabilities-2e3b)
+- [81% of Top AI Repos Have No Security CI — We Checked 500](https://dev.to/zarq-ai/81-of-top-ai-repos-have-no-security-ci-we-checked-500-1ca)
+- [AI로 뉴스 콘텐츠 자동 생성하는 완전한 워크플로우 — 스크립트부터 배포까지](https://dev.to/ji_ai/airo-nyuseu-kontenceu-jadong-saengseonghaneun-wanjeonhan-weokeupeulrou-seukeuribteubuteo-baepoggaji-3po2)
 <!-- BLOG-POST-LIST:END -->
 
 
