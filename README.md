@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I tracked every hour I worked for 6 months. The maths was depressing.](https://dev.to/landolio/i-tracked-every-hour-i-worked-for-6-months-the-maths-was-depressing-3o27)
-- [Top 5 Code Sandboxes for AI Agents in 2026](https://dev.to/nebulagg/top-5-code-sandboxes-for-ai-agents-in-2026-58id)
-- [3º. Entity extraction with a 2B model: benchmarks from a personal knowledge graph](https://dev.to/micelclaw/entity-extraction-with-a-2b-model-benchmarks-from-a-personal-knowledge-graph-2f27)
-- [GitOps for ML in 2026: Treat Your AI Models Like Microservices &lpar;Or Watch Them Drift Into Production Chaos&rpar;](https://dev.to/mateenali66/gitops-for-ml-in-2026-treat-your-ai-models-like-microservices-or-watch-them-drift-into-production-40m2)
+- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
+- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
+- [The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems](https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af)
+- [WebMCP and WebAI: Exploring native AI tools in Chrome](https://dev.to/kevin-uehara/webmcp-and-webai-exploring-native-ai-tools-in-chrome-4ocf)
 <!-- BLOG-POST-LIST:END -->
 
 
