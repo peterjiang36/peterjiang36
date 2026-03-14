@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Completionist&#39;s Brain: When OCD Meets Game Design and Becomes Productive Obsession](https://dev.to/krizekster/the-completionists-brain-when-ocd-meets-game-design-and-becomes-productive-obsession-2o4o)
-- [We Scanned the 100 Most Popular AI Tools for Vulnerabilities](https://dev.to/zarq-ai/we-scanned-the-100-most-popular-ai-tools-for-vulnerabilities-2e3b)
-- [81% of Top AI Repos Have No Security CI — We Checked 500](https://dev.to/zarq-ai/81-of-top-ai-repos-have-no-security-ci-we-checked-500-1ca)
-- [AI로 뉴스 콘텐츠 자동 생성하는 완전한 워크플로우 — 스크립트부터 배포까지](https://dev.to/ji_ai/airo-nyuseu-kontenceu-jadong-saengseonghaneun-wanjeonhan-weokeupeulrou-seukeuribteubuteo-baepoggaji-3po2)
+- [The Rise of Agentic AI and Smarter Search Algorithms](https://dev.to/muneebdev/the-rise-of-agentic-ai-and-smarter-search-algorithms-3of)
+- [DubTranslate: Claude 활용 더빙 프로그램](https://dev.to/csong2023/dubtranslate-ai-generated-dubbing-program-17oi)
+- [I Built an AI README Generator Inside VS Code &lpar;BYOK&rpar;](https://dev.to/freerave/i-built-an-ai-readme-generator-inside-vs-code-byok-2ci0)
+- [I Built an AI That Tells You If Your Idea Already Exists — And Syncs Results to Notion](https://dev.to/mnemox/i-built-an-ai-that-tells-you-if-your-idea-already-exists-and-syncs-results-to-notion-3pba)
 <!-- BLOG-POST-LIST:END -->
 
 
