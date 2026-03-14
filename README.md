@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stop AI Agent Cost Spirals Before They Start](https://dev.to/nebulagg/how-to-stop-ai-agent-cost-spirals-before-they-start-4ce7)
-- [I Analyzed Dozens of AI Agent Rules Files. Most Are Making Your Agent Worse.](https://dev.to/alexefimenko/i-analyzed-a-lot-of-ai-agent-rules-files-most-are-making-your-agent-worse-2fl)
-- [The Supervisor Pattern: Stop Writing Monolithic Agents and Start Orchestrating Teams](https://dev.to/programmingcentral/the-supervisor-pattern-stop-writing-monolithic-agents-and-start-orchestrating-teams-2olk)
-- [Dissecting PostgreSQL — Why Being Read-Optimized Comes at the Cost of Write Speed](https://dev.to/shadowsaurus/dissecting-postgresql-why-being-read-optimized-comes-at-the-cost-of-write-speed-5016)
+- [How to Add Memory to a Python AI Agent](https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5)
+- [Nobody Reviews Their Agent&#39;s Code](https://dev.to/ticktockbent/nobody-reviews-their-agents-code-17hi)
+- [I Built an MCP Server That Lets Designers Change CSS From a Notion Table](https://dev.to/vmvenkatesh78/i-built-an-mcp-server-that-lets-designers-change-css-from-a-notion-table-2hj9)
+- [Market Data Integrator: Consuming Real-Time Data with Python, MongoDB, and Kafka](https://dev.to/rvneto/market-data-integrator-consuming-real-time-data-with-python-mongodb-and-kafka-8k1)
 <!-- BLOG-POST-LIST:END -->
 
 
