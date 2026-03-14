@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [vLLM vs TensorRT-LLM vs Ollama vs llama.cpp — Choosing the Right Inference Engine on RTX 5090](https://dev.to/soytuber/vllm-vs-tensorrt-llm-vs-ollama-vs-llamacpp-choosing-the-right-inference-engine-on-rtx-5090-2aap)
-- [Why .NET Deserves Serious Consideration for Your Next Backend Project](https://dev.to/recurpixel/why-net-deserves-serious-consideration-for-your-next-backend-project-ma9)
-- [How I Built a Production-Ready Dashboard Template with Tailwind CSS 4.0](https://dev.to/mikezan2024/how-i-built-a-production-ready-dashboard-template-with-tailwind-css-40-187n)
-- [Quark&#39;s Outlines: Python Emulating Numeric Types](https://dev.to/mike-vincent/quarks-outlines-python-emulating-numeric-types-5dem)
+- [Goal-Focused BPMN Modelling: Turn Diagrams into Results](https://dev.to/crismoteam/goal-focused-bpmn-modelling-turn-diagrams-into-results-24bd)
+- [Where BPMN Meets Customer Journeys for Better Experiences](https://dev.to/crismoteam/where-bpmn-meets-customer-journeys-for-better-experiences-5c0b)
+- [2º. The 4-slot hook pipeline: how every CRUD operation feeds four systems at once](https://dev.to/micelclaw/2o-the-4-slot-hook-pipeline-how-every-crud-operation-feeds-four-systems-at-once-31n8)
+- [How to Automate Instagram Posts in 2026 &lpar;Without Getting Banned&rpar;](https://dev.to/fermainpariz/how-to-automate-instagram-posts-in-2026-without-getting-banned-3nc0)
 <!-- BLOG-POST-LIST:END -->
 
 
