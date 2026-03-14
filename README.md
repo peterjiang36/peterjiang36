@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Speedtest Lies About Your Connection — And What to Use Instead](https://dev.to/naveenksv/why-speedtest-lies-about-your-connection-and-what-to-use-instead-nin)
-- [Add Cryptographic Identity to Your LangChain Agent in 5 Minutes](https://dev.to/thenexusguard/add-cryptographic-identity-to-your-langchain-agent-in-5-minutes-o09)
-- [How to Connect Power BI to a PostgreSQL Database &lpar;Localhost and Aiven Cloud&rpar;](https://dev.to/sirsona/how-to-connect-power-bi-to-a-postgresql-database-localhost-and-aiven-cloud-22j3)
-- [Tunneling at the Edge: 2026 Performance Benchmarks and Architectural Blueprints](https://dev.to/instatunnel/tunneling-at-the-edge-2026-performance-benchmarks-and-architectural-blueprints-571i)
+- [#2 Docker - Cotainers](https://dev.to/stv4ns/2-docker-cotainers-4dae)
+- [Shopify vs WooCommerce vs Custom: Why Self-Hosting is Financial Suicide](https://dev.to/allclearstack/shopify-vs-woocommerce-vs-custom-why-self-hosting-is-financial-suicide-2gog)
+- [I built Wool, a lightweight distributed Python runtime](https://dev.to/conradbzura/i-built-wool-a-lightweight-distributed-python-runtime-3958)
+- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
 <!-- BLOG-POST-LIST:END -->
 
 
