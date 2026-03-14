@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#2 Docker - Cotainers](https://dev.to/stv4ns/2-docker-cotainers-4dae)
-- [Shopify vs WooCommerce vs Custom: Why Self-Hosting is Financial Suicide](https://dev.to/allclearstack/shopify-vs-woocommerce-vs-custom-why-self-hosting-is-financial-suicide-2gog)
-- [I built Wool, a lightweight distributed Python runtime](https://dev.to/conradbzura/i-built-wool-a-lightweight-distributed-python-runtime-3958)
-- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
+- [Building an AI-Powered SRE Incident Response Workflow With AWS Strands Agents](https://dev.to/ajha8/building-an-ai-powered-sre-incident-response-workflow-with-aws-strands-agents-2fh0)
+- [How I Built My Developer Portfolio with Next.js, GSAP, and a 100 SEO Score](https://dev.to/suyog_bhise_ec4aa1daa62ed/how-i-built-my-developer-portfolio-with-nextjs-gsap-and-a-100-seo-score-2c64)
+- [The Rise of Agentic AI: A Review of Definitions, Frameworks, and Challenges](https://dev.to/abdul_rafeh/the-rise-of-agentic-ai-a-review-of-definitions-frameworks-and-challenges-1lfc)
+- [Recent Research on Artificial Intelligence: Lessons from Search Algorithms to Autonomous Agents](https://dev.to/abdal_khan_3180a3c87d7f12/recent-research-on-artificial-intelligence-lessons-from-search-algorithms-to-autonomous-agents-2ab7)
 <!-- BLOG-POST-LIST:END -->
 
 
