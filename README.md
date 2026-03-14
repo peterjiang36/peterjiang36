@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My Local AI a Public Brain: Echo + Notion MCP](https://dev.to/crow/i-gave-my-local-ai-a-public-brain-echo-notion-mcp-ci1)
-- [The “Jurassic World” Rule is simple: Don’t try to outrun the raptor. Train it.](https://dev.to/itsmeramc/the-jurassic-world-rule-is-simple-dont-try-to-outrun-the-raptor-train-it-2be3)
-- [Try XtermChat | Self Hosted Terminal Chat App](https://dev.to/ketutdana/try-xtermchat-self-hosted-terminal-chat-app-2njh)
-- [Giving Specs Their Own Home: Why We Built mdspec](https://dev.to/zameermfm/giving-specs-their-own-home-why-we-built-mdspec-5g8e)
+- [From Chaos to Shipped — A Practical Workflow for Solo Developers](https://dev.to/southwestmogrown/from-chaos-to-shipped-a-practical-workflow-for-solo-developers-1h9n)
+- [I am increasingly hating AI; AI does not improve a programmer’s coding speed or quality, but rather reduces them, even interrupting your thinking and making you lazy.](https://dev.to/carrey_cullen_zxy/i-am-increasingly-hating-ai-ai-does-not-improve-a-programmers-coding-speed-or-quality-but-rather-4f12)
+- [MCP Server Security: The Risks Most Developers Are Ignoring](https://dev.to/rupa_tiwari_dd308948d710f/mcp-server-security-the-risks-most-developers-are-ignoring-18ol)
+- [Cyber Kill Chain Explained Simply](https://dev.to/harsh_hak/cyber-kill-chain-explained-simply-1g22)
 <!-- BLOG-POST-LIST:END -->
 
 
