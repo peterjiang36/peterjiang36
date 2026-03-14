@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built &quot;git log&quot; for any website — track changes with diffs and AI summaries](https://dev.to/georouv/i-built-git-log-for-any-website-track-changes-with-diffs-and-ai-summaries-445g)
-- [When Software Development Common Sense Flips: The Law of Decreasing Generation Costs](https://dev.to/aws-builders/when-software-development-common-sense-flips-the-law-of-decreasing-generation-costs-506j)
-- [Master HikariCP in Spring Boot 3.x: Complete Guide to High-Performance Database Connection Pooling](https://dev.to/manojsatna31/master-hikaricp-in-spring-boot-3x-complete-guide-to-high-performance-database-connection-pooling-3i5n)
-- [A Simple, Fragmentation-Proof PMM Design](https://dev.to/debug_codefurry_7be8b1b2f/a-simple-fragmentation-proof-pmm-design-54hf)
+- [System Design Interview — An Insider’s Guide by Alex Xu or Designing Data-Intensive Applications? Which is better?](https://dev.to/somadevtoo/system-design-interview-an-insiders-guide-by-alex-xu-or-designing-data-intensive-applications-1461)
+- [Server/VM/Instance: Connecting to Azure from your local environment](https://dev.to/precious_nwafor/servervminstance-connecting-to-azure-from-your-local-environment-244)
+- [Protecting Your Screen During Meetings with a Single Click](https://dev.to/yusufseleim/protecting-your-screen-during-meetings-with-a-single-click-5h2i)
+- [How I Built a Simple Educational Information Website &lpar;From Idea to Launch&rpar;](https://dev.to/taleemclan/how-i-built-a-simple-educational-information-website-from-idea-to-launch-5eek)
 <!-- BLOG-POST-LIST:END -->
 
 
