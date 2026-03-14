@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Interview — An Insider’s Guide by Alex Xu or Designing Data-Intensive Applications? Which is better?](https://dev.to/somadevtoo/system-design-interview-an-insiders-guide-by-alex-xu-or-designing-data-intensive-applications-1461)
-- [Server/VM/Instance: Connecting to Azure from your local environment](https://dev.to/precious_nwafor/servervminstance-connecting-to-azure-from-your-local-environment-244)
-- [Protecting Your Screen During Meetings with a Single Click](https://dev.to/yusufseleim/protecting-your-screen-during-meetings-with-a-single-click-5h2i)
-- [How I Built a Simple Educational Information Website &lpar;From Idea to Launch&rpar;](https://dev.to/taleemclan/how-i-built-a-simple-educational-information-website-from-idea-to-launch-5eek)
+- [Claude 4.6 Memory is Here: Why I&#39;m Finally Migrating My AI Workflow](https://dev.to/evan-dong/claude-46-memory-is-here-why-im-finally-migrating-my-ai-workflow-133j)
+- [Git Archaeology #5 — Timeline: Scores Don&#39;t Lie, and They Capture Hesitation Too](https://dev.to/machuz/git-archaeology-5-timeline-scores-dont-lie-and-they-capture-hesitation-too-1gi5)
+- [How I Built Browser-Based PDF Merging tool](https://dev.to/_ab56e9bbfaff3a478352a/how-i-built-browser-based-pdf-merging-tool-45ef)
+- [I built a tool to stop wasting 20 minutes prepping context files for Claude and ChatGPT](https://dev.to/rajiv_naskar_105bb1e60350/i-built-a-tool-to-stop-wasting-20-minutes-prepping-context-files-for-claude-and-chatgpt-pme)
 <!-- BLOG-POST-LIST:END -->
 
 
