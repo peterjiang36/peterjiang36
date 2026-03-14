@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tool to Stop Losing My Claude Code Conversation History](https://dev.to/kuroko1t/i-built-a-tool-to-stop-losing-my-claude-code-conversation-history-5500)
-- [Day 40 of #100DayOfCode — Building a Mini Auth System](https://dev.to/m_saad_ahmad/day-40-of-100dayofcode-building-a-mini-auth-system-3i51)
-- [How Funding Rate Creates Arbitrage Opportunities in Crypto Derivatives](https://dev.to/lynalan/how-funding-rate-creates-arbitrage-opportunities-in-crypto-derivatives-4nb6)
-- [Avoid Writting Messy JavaScript: Learn Object Destructuring Today](https://dev.to/kathirvel-s/avoid-writting-messy-javascript-learn-object-destructuring-today-3k3j)
+- [10 Browser API Hooks Every React Developer Needs](https://dev.to/childrentime/10-browser-api-hooks-every-react-developer-needs-3j4h)
+- [Stop Writing Boilerplate DTO Mappings in Java — Use MapStruct Instead](https://dev.to/manojsatna31/stop-writing-boilerplate-dto-mappings-in-java-use-mapstruct-instead-4356)
+- [The YieldBlox $10M Oracle Heist: How a Single Trade on Stellar&#39;s DEX Drained an Entire Lending Pool](https://dev.to/ohmygod/the-yieldblox-10m-oracle-heist-how-a-single-trade-on-stellars-dex-drained-an-entire-lending-pool-1al4)
+- [When Your Team Becomes the Unofficial Support Group for Every Unqualified Tech Lead](https://dev.to/ghostinit0x/when-your-team-becomes-the-unofficial-support-group-for-every-unqualified-tech-lead-1fo0)
 <!-- BLOG-POST-LIST:END -->
 
 
