@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
-- [Luminary: Week 2 — Building the Core](https://dev.to/vaden89/luminary-week-2-building-the-core-5fn1)
-- [Why I Built a Business Content Layer on Top of Laravel AI SDK](https://dev.to/botender/why-i-built-a-business-content-layer-on-top-of-laravel-ai-sdk-4o4n)
-- [Building a Production-Grade Private EKS Cluster with OpenVPN, Prometheus &amp; Grafana](https://dev.to/aws-builders/building-a-production-grade-private-eks-cluster-with-openvpn-prometheus-grafana-419)
+- [The Upgradeable Contract Kill Chain: How Uninitialized Proxies Became DeFi&#39;s $200M+ Recurring Nightmare](https://dev.to/ohmygod/the-upgradeable-contract-kill-chain-how-uninitialized-proxies-became-defis-200m-recurring-357e)
+- [How I stopped blindly trusting AI agents in 3 minutes.](https://dev.to/leonidasesquire/how-i-stopped-blindly-trusting-ai-agents-in-3-minutes-50ca)
+- [Farewell to Spaghetti Code: PSL 5.0 Shatters PHP&#39;s Performance and Security Ceiling](https://dev.to/james_miller_8dc58a89cb9e/farewell-to-spaghetti-code-psl-50-shatters-phps-performance-and-security-ceiling-221o)
+- [The Missing Role in Crypto: AI Agent Operators](https://dev.to/nathanhamlett/the-missing-role-in-crypto-ai-agent-operators-1gfm)
 <!-- BLOG-POST-LIST:END -->
 
 
