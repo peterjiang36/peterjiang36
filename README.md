@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Schepta is and what problem it solves](https://dev.to/jreeeedd/what-schepta-is-and-what-problem-it-solves-42l9)
-- [How to connect Power BI to a SQL database](https://dev.to/avedi/how-to-connect-power-bi-to-a-sql-database-knm)
-- [Publishing a NPM Package Automatically with GitHub Actions](https://dev.to/sarahcssiqueira/publishing-a-npm-package-automatically-with-github-actions-322f)
-- [From Intelligent Agents to Smarter Search: Insights from Modern AI Research](https://dev.to/iqan/from-intelligent-agents-to-smarter-search-insights-from-modern-ai-research-hja)
+- [Why Speedtest Lies About Your Connection — And What to Use Instead](https://dev.to/naveenksv/why-speedtest-lies-about-your-connection-and-what-to-use-instead-nin)
+- [Add Cryptographic Identity to Your LangChain Agent in 5 Minutes](https://dev.to/thenexusguard/add-cryptographic-identity-to-your-langchain-agent-in-5-minutes-o09)
+- [How to Connect Power BI to a PostgreSQL Database &lpar;Localhost and Aiven Cloud&rpar;](https://dev.to/sirsona/how-to-connect-power-bi-to-a-postgresql-database-localhost-and-aiven-cloud-22j3)
+- [Tunneling at the Edge: 2026 Performance Benchmarks and Architectural Blueprints](https://dev.to/instatunnel/tunneling-at-the-edge-2026-performance-benchmarks-and-architectural-blueprints-571i)
 <!-- BLOG-POST-LIST:END -->
 
 
