@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of Agentic AI and Smarter Search Algorithms](https://dev.to/muneebdev/the-rise-of-agentic-ai-and-smarter-search-algorithms-3of)
-- [DubTranslate: Claude 활용 더빙 프로그램](https://dev.to/csong2023/dubtranslate-ai-generated-dubbing-program-17oi)
-- [I Built an AI README Generator Inside VS Code &lpar;BYOK&rpar;](https://dev.to/freerave/i-built-an-ai-readme-generator-inside-vs-code-byok-2ci0)
-- [I Built an AI That Tells You If Your Idea Already Exists — And Syncs Results to Notion](https://dev.to/mnemox/i-built-an-ai-that-tells-you-if-your-idea-already-exists-and-syncs-results-to-notion-3pba)
+- [vLLM vs TensorRT-LLM vs Ollama vs llama.cpp — Choosing the Right Inference Engine on RTX 5090](https://dev.to/soytuber/vllm-vs-tensorrt-llm-vs-ollama-vs-llamacpp-choosing-the-right-inference-engine-on-rtx-5090-2aap)
+- [Why .NET Deserves Serious Consideration for Your Next Backend Project](https://dev.to/recurpixel/why-net-deserves-serious-consideration-for-your-next-backend-project-ma9)
+- [How I Built a Production-Ready Dashboard Template with Tailwind CSS 4.0](https://dev.to/mikezan2024/how-i-built-a-production-ready-dashboard-template-with-tailwind-css-40-187n)
+- [Quark&#39;s Outlines: Python Emulating Numeric Types](https://dev.to/mike-vincent/quarks-outlines-python-emulating-numeric-types-5dem)
 <!-- BLOG-POST-LIST:END -->
 
 
