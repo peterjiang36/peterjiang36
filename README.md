@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Agentic AI System on AWS &lpar;LangGraph, CrewAI, Bedrock, SageMaker, and EKS&rpar;](https://dev.to/aws-builders/building-a-production-ready-agentic-ai-system-on-aws-langgraph-crewai-bedrock-sagemaker-and-5149)
-- [Claude Code Configuration Blueprint: The Complete Guide for Production Teams](https://dev.to/mir_mursalin_ankur/claude-code-configuration-blueprint-the-complete-guide-for-production-teams-557p)
-- [5 SQL Formatting Rules That Make Your Queries Actually Readable](https://dev.to/zevinchen/5-sql-formatting-rules-that-make-your-queries-actually-readable-2jj6)
-- [GPT-4o vs Claude vs Gemini: I ran the same 50 prompts through all three so you don&#39;t have to](https://dev.to/oneaiworld/gpt-4o-vs-claude-vs-gemini-i-ran-the-same-50-prompts-through-all-three-so-you-dont-have-to-2872)
+- [Architectural Foundations of MLOps, AIOps, and LLMOps](https://dev.to/anusha_kuppili/architectural-foundations-of-mlops-aiops-and-llmops-1471)
+- [Common Array Methods in JavaScript](https://dev.to/harman_panwar_46de8d9454b/common-array-methods-in-javascript-2jl9)
+- [SurrealDB: The &quot;One-Size-Fits-All&quot; Database for Lazy Developers &lpar;Part 1&rpar;](https://dev.to/jakubb_ing/surrealdb-the-one-size-fits-all-database-for-lazy-developers-part-1-1foe)
+- [I built an open-source \&quot;limbic system\&quot; for AI agents — emotion, bias, and memory as MCP servers](https://dev.to/kagioneko/i-built-an-open-source-limbic-system-for-ai-agents-emotion-bias-and-memory-as-mcp-servers-2ln1)
 <!-- BLOG-POST-LIST:END -->
 
 
