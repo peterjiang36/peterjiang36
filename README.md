@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Funeral for the Coder](https://dev.to/hashemi_soroush/a-funeral-for-the-coder-320k)
-- [NotionClip AI — A Chrome Extension That Saves Webpages to Notion with AI Summaries](https://dev.to/rehmanstackdev/notionclip-ai-a-chrome-extension-that-saves-webpages-to-notion-with-ai-summaries-4ed2)
-- [I Run a Dev Team of 3 AIs. Here&#39;s What Almost Broke It.](https://dev.to/artanidos/i-run-a-dev-team-of-3-ais-heres-what-almost-broke-it-1dab)
-- [Modern Data Engineering Architecture Across AWS, GCP, and Azure](https://dev.to/salma_aga/modern-data-engineering-architecture-across-aws-gcp-and-azure-14o3)
+- [A 12 Weeks to IAM : A Boredom Challenge That Will Either Push or Drive Me Insane](https://dev.to/grimkillingbeck/a-12-weeks-to-iam-a-boredom-challenge-that-will-either-push-or-drive-me-insane-bg1)
+- [I got tired of building the same link preview function, so I made it an API](https://dev.to/bengreenberg/i-got-tired-of-building-the-same-link-preview-function-so-i-made-it-an-api-47bg)
+- [How I Built a Game Bot That Uses LLM Vision for $0.01/Hour &lpar;Not $1/Hour&rpar;](https://dev.to/sonpiaz_40/how-i-built-a-game-bot-that-uses-llm-vision-for-001hour-not-1hour-3j6p)
+- [How to Add a Custom Form to Your Squarespace Site](https://dev.to/allenarduino/how-to-add-a-custom-form-to-your-squarespace-site-ldp)
 <!-- BLOG-POST-LIST:END -->
 
 
