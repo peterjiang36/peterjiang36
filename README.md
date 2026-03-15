@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Commit Split: Shell Command Quick Reference](https://dev.to/bmf_san/git-commit-split-shell-command-quick-reference-2981)
-- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
-- [Common Mistakes in Software Architecture: Developing and Evaluating Non-Functional Requirements](https://dev.to/bmf_san/common-mistakes-in-software-architecture-developing-and-evaluating-non-functional-requirements-432b)
-- [Why AI agents need a standard profile format](https://dev.to/boubacardiallo/why-ai-agents-need-a-standard-profile-format-3akj)
+- [Dica de Ferramentas: Como Visualizar seus Dados no MongoDB e Kafka](https://dev.to/rvneto/dica-de-ferramentas-como-visualizar-seus-dados-no-mongodb-e-kafka-3hc)
+- [I&#39;ve Been Misusing Reasoning Models for Months. Most Teams Are Too.](https://dev.to/taskconcierge/ive-been-misusing-reasoning-models-for-months-most-teams-are-too-1p36)
+- [Stop Rewriting the Same Node Utilities — I Built nodecore-kit Instead](https://dev.to/rockhillz/stop-rewriting-the-same-node-utilities-i-built-nodecore-kit-instead-3eoc)
+- [7 Best CodeRabbit Alternatives for AI Code Review in 2026](https://dev.to/rahulxsingh/7-best-coderabbit-alternatives-for-ai-code-review-in-2026-ko5)
 <!-- BLOG-POST-LIST:END -->
 
 
