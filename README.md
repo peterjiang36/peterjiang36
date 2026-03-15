@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks](https://dev.to/kesimo/building-scalable-document-pipelines-mastering-autype-api-for-bulk-rendering-and-webhooks-4b6a)
-- [Notican: I Built an AI That Writes Your Engineering Docs From GitHub Automatically](https://dev.to/flightlesstux/notican-i-built-an-ai-that-writes-your-engineering-docs-from-github-automatically-19cc)
-- [Python program to communicate to an API](https://dev.to/devi1701/program-to-communicate-to-an-api-5fa7)
-- [Why AI Lies &lpar;And How RAG Fixes It&rpar;](https://dev.to/lovestaco/why-ai-lies-and-how-rag-fixes-it-m68)
+- [Context Engineering for AI Agents: A Practical Guide](https://dev.to/nebulagg/context-engineering-for-ai-agents-a-practical-guide-5989)
+- [So, you know what? I just wasted 3 months of my life](https://dev.to/ddebajyati/so-you-know-what-i-just-wasted-3-months-of-my-life-16e1)
+- [Beyond Single Agents: How to Build Collaborative AI Workflows with LangGraph](https://dev.to/programmingcentral/beyond-single-agents-how-to-build-collaborative-ai-workflows-with-langgraph-cpf)
+- [Stop Waiting for Claude Code — Get Notified When Your Prompt Finishes](https://dev.to/younann/stop-waiting-for-claude-code-get-notified-when-your-prompt-finishes-4b4a)
 <!-- BLOG-POST-LIST:END -->
 
 
