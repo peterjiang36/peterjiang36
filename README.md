@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Azure Storage: Containers, File Shares, and Security Tokens](https://dev.to/louis_oodo_a59b230b894609/managing-azure-storage-containers-file-shares-and-security-tokens-23dn)
-- [Function Declaration vs Function Expression](https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k)
-- [GPT-5 Codex Shorts Pipeline, How I Bootstrapped 5,800 Lines in 4 Commits](https://dev.to/ji_ai/gpt-5-codex-shorts-pipeline-how-i-bootstrapped-5800-lines-in-4-commits-11hl)
-- [5,800 Lines in One Day: Bootstrapping a Full Pipeline With gpt-5-codex](https://dev.to/ji_ai/5800-lines-in-one-day-bootstrapping-a-full-pipeline-with-gpt-5-codex-42bh)
+- [LLM-as-a-Judge: Evaluate Your Models Without Human Reviewers](https://dev.to/klement_gunndu/llm-as-a-judge-evaluate-your-models-without-human-reviewers-2c4b)
+- [Building an AI-Powered Storybook with Gemini&#39;s Interleaved Output](https://dev.to/ajitonelson/building-an-ai-powered-storybook-with-geminis-interleaved-output-2cdm)
+- [10 Best Code Climate Alternatives for Code Quality in 2026](https://dev.to/rahulxsingh/10-best-code-climate-alternatives-for-code-quality-in-2026-259d)
+- [SonarQube vs SonarCloud: Self-Hosted vs Cloud Code Quality &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-sonarcloud-self-hosted-vs-cloud-code-quality-2026-dkj)
 <!-- BLOG-POST-LIST:END -->
 
 
