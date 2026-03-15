@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Design pattern visualization: Structural Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-structural-design-patterns-1863)
-- [Self-Host n8n for $5/month: Complete Setup Guide &lpar;Docker + Caddy + HTTPS&rpar;](https://dev.to/automatewithai/self-host-n8n-for-5month-complete-setup-guide-docker-caddy-https-4pcl)
-- [Building Parallax: The Vision-Powered UI Navigator Agent](https://dev.to/vanichitkara/building-parallax-the-vision-powered-ui-navigator-agent-1id2)
-- [Building a Multi-Agent LLM Orchestrator with Claude Code: 86 Sessions of Hard-Won Lessons](https://dev.to/ji_ai/building-a-multi-agent-llm-orchestrator-with-claude-code-86-sessions-of-hard-won-lessons-13n6)
+- [A Funeral for the Coder](https://dev.to/hashemi_soroush/a-funeral-for-the-coder-320k)
+- [NotionClip AI — A Chrome Extension That Saves Webpages to Notion with AI Summaries](https://dev.to/rehmanstackdev/notionclip-ai-a-chrome-extension-that-saves-webpages-to-notion-with-ai-summaries-4ed2)
+- [I Run a Dev Team of 3 AIs. Here&#39;s What Almost Broke It.](https://dev.to/artanidos/i-run-a-dev-team-of-3-ais-heres-what-almost-broke-it-1dab)
+- [Modern Data Engineering Architecture Across AWS, GCP, and Azure](https://dev.to/salma_aga/modern-data-engineering-architecture-across-aws-gcp-and-azure-14o3)
 <!-- BLOG-POST-LIST:END -->
 
 
