@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Internal Tools vs SaaS: When to Build Custom Software](https://dev.to/jmsdevlab/internal-tools-vs-saas-when-to-build-custom-software-13f8)
-- [OpenClaw Skill: macOS Node Snapshot for Reliable Screen Capture](https://dev.to/aloycwl/openclaw-skill-macos-node-snapshot-for-reliable-screen-capture-1p69)
-- [Before You Deploy a Generative AI Workflow](https://dev.to/natan_vidra_71cda7df82ec7/before-you-deploy-a-generative-ai-workflow-6m3)
-- [The Canvas Revolution: When Pixels Took Over the Web](https://dev.to/mwc/the-canvas-revolution-when-pixels-took-over-the-web-51bl)
+- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
+- [Tool Every Developer Should Know: Netcat](https://dev.to/vkimutai/tool-every-developer-should-know-netcat-1a9k)
+- [Git Archaeology #16 — The Engineers Who Shape Gravity](https://dev.to/machuz/git-archaeology-16-the-engineers-who-shape-gravity-3fmi)
+- [Why We Built HttpArena — A Better Way to Benchmark HTTP Frameworks](https://dev.to/fbio_reis_355b87b508598e/why-we-built-httparena-a-better-way-to-benchmark-http-frameworks-j94)
 <!-- BLOG-POST-LIST:END -->
 
 
