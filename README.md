@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Tell Claude Code to Test &lpar;and What to Skip&rpar;](https://dev.to/ramon_galego/what-to-tell-claude-code-to-test-and-what-to-skip-3foo)
-- [How to Add Tools to a PydanticAI Agent in 10 Min](https://dev.to/nebulagg/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41)
-- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
-- [I Built a Control Plane for My AI Agent — Because It Kept Making the Same Mistakes](https://dev.to/krisying/i-built-a-control-plane-for-my-ai-agent-because-it-kept-making-the-same-mistakes-5hf2)
+- [Simple coding example for Inheritance](https://dev.to/deepikandas/simple-coding-example-for-inheritance-2p29)
+- [Top 5 AI Agent Eval Tools After Promptfoo&#39;s Exit](https://dev.to/nebulagg/top-5-ai-agent-eval-tools-after-promptfoos-exit-576i)
+- [I Built a Voice-First AI Photo &amp; Document Editor with the Gemini Live API— Here&#39;s How](https://dev.to/bizzi_cole87_26ec228487d6/i-built-a-voice-first-ai-photo-document-editor-with-gemini-live-heres-how-dab)
+- [Publishing OAS-Based API Doc on GitHub Pages](https://dev.to/kengo_hakomori_1116/publishing-oas-based-api-doc-on-github-pages-2gb6)
 <!-- BLOG-POST-LIST:END -->
 
 
