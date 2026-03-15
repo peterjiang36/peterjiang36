@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
-- [Vibe Coding Gets You 70% There. Here&#39;s What Happens to the Other 30%.](https://dev.to/totalvaluegroup/vibe-coding-gets-you-70-thereai-programming-webdev-productivity-heres-what-happens-to-the-1lco)
-- [Optimising Docker Builds for Go](https://dev.to/n0npax/optimising-docker-builds-for-go-4i9g)
-- [Why AI agents forget everything &lpar;and how we fixed it&rpar;](https://dev.to/ampnup/why-ai-agents-forget-everything-and-how-we-fixed-it-3jj0)
+- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
+- [Get Your Hands Dirty - AgentCore - Memory](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-memory-8bf)
+- [MCP Design in the Real World](https://dev.to/lihsuanlung/mcp-design-in-the-real-world-3446)
+- [Running LLMs Locally: A Rigorous Benchmark of Phi-3, Mistral, and Llama 3.2 on Ollama](https://dev.to/gurjeet333/running-llms-locally-a-rigorous-benchmark-of-phi-3-mistral-and-llama-32-on-ollama-2289)
 <!-- BLOG-POST-LIST:END -->
 
 
