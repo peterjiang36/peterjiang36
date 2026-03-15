@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker commands](https://dev.to/methew_smith/docker-commands-1kh)
-- [Get Your Hands Dirty - AgentCore - Memory](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-memory-8bf)
-- [MCP Design in the Real World](https://dev.to/lihsuanlung/mcp-design-in-the-real-world-3446)
-- [Running LLMs Locally: A Rigorous Benchmark of Phi-3, Mistral, and Llama 3.2 on Ollama](https://dev.to/gurjeet333/running-llms-locally-a-rigorous-benchmark-of-phi-3-mistral-and-llama-32-on-ollama-2289)
+- [How to Make Money with Python Automation in 2025](https://dev.to/caper_dev/how-to-make-money-with-python-automation-in-2025-1b86)
+- [I built a cloud download manager in 30 days as a student - here&#39;s what I learned](https://dev.to/hasi98/i-built-a-cloud-download-manager-in-30-days-as-a-student-heres-what-i-learned-10ec)
+- [How AI is rewriting the rules of music creation and production](https://dev.to/singaraja33/how-ai-is-rewriting-the-rules-of-music-creation-and-production-51p7)
+- [Terminal Tip 🤩 fcopy, fcut, fpaste](https://dev.to/fredysandoval/terminal-tip-fcopy-fcut-fpaste-4nfg)
 <!-- BLOG-POST-LIST:END -->
 
 
