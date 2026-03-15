@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Database ID Design: UUID vs Auto Increment vs ULID — Which to Choose?](https://dev.to/bmf_san/database-id-design-uuid-vs-auto-increment-vs-ulid-which-to-choose-3c29)
-- [HTTP and SSL/TLS](https://dev.to/bmf_san/http-and-ssltls-38nm)
-- [Creating a Cross-platform Data Sandbox that makes Working with Data Easier and Faster](https://dev.to/muraddevs/creating-a-cross-platform-data-sandbox-that-makes-working-with-data-easier-and-faster-4mi5)
-- [I gave an LLM 248 tools and accuracy dropped to 12%. Here&#39;s what fixed it.](https://dev.to/sonaiengine/i-gave-an-llm-248-tools-and-accuracy-dropped-to-12-heres-what-fixed-it-91h)
+- [Git Commit Split: Shell Command Quick Reference](https://dev.to/bmf_san/git-commit-split-shell-command-quick-reference-2981)
+- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
+- [Common Mistakes in Software Architecture: Developing and Evaluating Non-Functional Requirements](https://dev.to/bmf_san/common-mistakes-in-software-architecture-developing-and-evaluating-non-functional-requirements-432b)
+- [Why AI agents need a standard profile format](https://dev.to/boubacardiallo/why-ai-agents-need-a-standard-profile-format-3akj)
 <!-- BLOG-POST-LIST:END -->
 
 
