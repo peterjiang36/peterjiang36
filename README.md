@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dica de Ferramentas: Como Visualizar seus Dados no MongoDB e Kafka](https://dev.to/rvneto/dica-de-ferramentas-como-visualizar-seus-dados-no-mongodb-e-kafka-3hc)
-- [I&#39;ve Been Misusing Reasoning Models for Months. Most Teams Are Too.](https://dev.to/taskconcierge/ive-been-misusing-reasoning-models-for-months-most-teams-are-too-1p36)
-- [Stop Rewriting the Same Node Utilities — I Built nodecore-kit Instead](https://dev.to/rockhillz/stop-rewriting-the-same-node-utilities-i-built-nodecore-kit-instead-3eoc)
-- [7 Best CodeRabbit Alternatives for AI Code Review in 2026](https://dev.to/rahulxsingh/7-best-coderabbit-alternatives-for-ai-code-review-in-2026-ko5)
+- [Internal Tools vs SaaS: When to Build Custom Software](https://dev.to/jmsdevlab/internal-tools-vs-saas-when-to-build-custom-software-13f8)
+- [OpenClaw Skill: macOS Node Snapshot for Reliable Screen Capture](https://dev.to/aloycwl/openclaw-skill-macos-node-snapshot-for-reliable-screen-capture-1p69)
+- [Before You Deploy a Generative AI Workflow](https://dev.to/natan_vidra_71cda7df82ec7/before-you-deploy-a-generative-ai-workflow-6m3)
+- [The Canvas Revolution: When Pixels Took Over the Web](https://dev.to/mwc/the-canvas-revolution-when-pixels-took-over-the-web-51bl)
 <!-- BLOG-POST-LIST:END -->
 
 
