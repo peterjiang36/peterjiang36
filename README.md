@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Loading 30 MCP Tools Into One Agent — 3 Design Patterns That Actually Work](https://dev.to/akshay_kumar_bm/stop-loading-30-mcp-tools-into-one-agent-3-design-patterns-that-actually-work-49l1)
-- [Algorithms and Data Structures - Quick Sort](https://dev.to/bmf_san/algorithms-and-data-structures-quick-sort-3812)
-- [HazelJS vs. the Ecosystem: A Comprehensive Comparison of Frameworks and AI Runtime Platforms](https://dev.to/arslan_mecom/hazeljs-vs-the-ecosystem-a-comprehensive-comparison-of-frameworks-and-ai-runtime-platforms-4bc6)
-- [🦓 The Tale of the Humbled Process Engineer —  Episode III: The Illusion of Progress 🔥](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-iii-the-illusion-of-progress-4hep)
+- [Database ID Design: UUID vs Auto Increment vs ULID — Which to Choose?](https://dev.to/bmf_san/database-id-design-uuid-vs-auto-increment-vs-ulid-which-to-choose-3c29)
+- [HTTP and SSL/TLS](https://dev.to/bmf_san/http-and-ssltls-38nm)
+- [Creating a Cross-platform Data Sandbox that makes Working with Data Easier and Faster](https://dev.to/muraddevs/creating-a-cross-platform-data-sandbox-that-makes-working-with-data-easier-and-faster-4mi5)
+- [I gave an LLM 248 tools and accuracy dropped to 12%. Here&#39;s what fixed it.](https://dev.to/sonaiengine/i-gave-an-llm-248-tools-and-accuracy-dropped-to-12-heres-what-fixed-it-91h)
 <!-- BLOG-POST-LIST:END -->
 
 
