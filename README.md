@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM-as-a-Judge: Evaluate Your Models Without Human Reviewers](https://dev.to/klement_gunndu/llm-as-a-judge-evaluate-your-models-without-human-reviewers-2c4b)
-- [Building an AI-Powered Storybook with Gemini&#39;s Interleaved Output](https://dev.to/ajitonelson/building-an-ai-powered-storybook-with-geminis-interleaved-output-2cdm)
-- [10 Best Code Climate Alternatives for Code Quality in 2026](https://dev.to/rahulxsingh/10-best-code-climate-alternatives-for-code-quality-in-2026-259d)
-- [SonarQube vs SonarCloud: Self-Hosted vs Cloud Code Quality &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-sonarcloud-self-hosted-vs-cloud-code-quality-2026-dkj)
+- [Stop Loading 30 MCP Tools Into One Agent — 3 Design Patterns That Actually Work](https://dev.to/akshay_kumar_bm/stop-loading-30-mcp-tools-into-one-agent-3-design-patterns-that-actually-work-49l1)
+- [Algorithms and Data Structures - Quick Sort](https://dev.to/bmf_san/algorithms-and-data-structures-quick-sort-3812)
+- [HazelJS vs. the Ecosystem: A Comprehensive Comparison of Frameworks and AI Runtime Platforms](https://dev.to/arslan_mecom/hazeljs-vs-the-ecosystem-a-comprehensive-comparison-of-frameworks-and-ai-runtime-platforms-4bc6)
+- [🦓 The Tale of the Humbled Process Engineer —  Episode III: The Illusion of Progress 🔥](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-iii-the-illusion-of-progress-4hep)
 <!-- BLOG-POST-LIST:END -->
 
 
