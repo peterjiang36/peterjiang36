@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple coding example for Inheritance](https://dev.to/deepikandas/simple-coding-example-for-inheritance-2p29)
-- [Top 5 AI Agent Eval Tools After Promptfoo&#39;s Exit](https://dev.to/nebulagg/top-5-ai-agent-eval-tools-after-promptfoos-exit-576i)
-- [I Built a Voice-First AI Photo &amp; Document Editor with the Gemini Live API— Here&#39;s How](https://dev.to/bizzi_cole87_26ec228487d6/i-built-a-voice-first-ai-photo-document-editor-with-gemini-live-heres-how-dab)
-- [Publishing OAS-Based API Doc on GitHub Pages](https://dev.to/kengo_hakomori_1116/publishing-oas-based-api-doc-on-github-pages-2gb6)
+- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
+- [We audit our code regularly, why don&#39;t we audit our monitoring?](https://dev.to/paulg7516/we-audit-our-code-regularly-why-dont-we-audit-our-monitoring-lfh)
+- [Inside Aura: Building a Live AI Fashion Agent with Gemini Live, Vertex AI, and Google Cloud](https://dev.to/l_25792d02ec25e107aeb/inside-aura-building-a-live-ai-fashion-agent-with-gemini-live-vertex-ai-and-google-cloud-h8n)
+- [Your Vibecoded Prototype Took 30 Minutes. Shipping It Will Take 100 Hours.](https://dev.to/adioof/your-vibecoded-prototype-took-30-minutes-shipping-it-will-take-100-hours-4bkf)
 <!-- BLOG-POST-LIST:END -->
 
 
