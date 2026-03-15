@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Money with Python Automation in 2025](https://dev.to/caper_dev/how-to-make-money-with-python-automation-in-2025-1b86)
-- [I built a cloud download manager in 30 days as a student - here&#39;s what I learned](https://dev.to/hasi98/i-built-a-cloud-download-manager-in-30-days-as-a-student-heres-what-i-learned-10ec)
-- [How AI is rewriting the rules of music creation and production](https://dev.to/singaraja33/how-ai-is-rewriting-the-rules-of-music-creation-and-production-51p7)
-- [Terminal Tip 🤩 fcopy, fcut, fpaste](https://dev.to/fredysandoval/terminal-tip-fcopy-fcut-fpaste-4nfg)
+- [5 SQL Formatting Rules That Make Your Queries Actually Readable](https://dev.to/zevinchen/5-sql-formatting-rules-that-make-your-queries-actually-readable-2jj6)
+- [GPT-4o vs Claude vs Gemini: I ran the same 50 prompts through all three so you don&#39;t have to](https://dev.to/oneaiworld/gpt-4o-vs-claude-vs-gemini-i-ran-the-same-50-prompts-through-all-three-so-you-dont-have-to-2872)
+- [Stop Learning AI — Start Upgrading YOUR Role: A Guide for Every Software Discipline](https://dev.to/neerazz/stop-learning-ai-start-upgrading-your-role-a-guide-for-every-software-discipline-4pkm)
+- [Do “Popular Tools” sections actually help SEO?](https://dev.to/bhavin-allinonetools/do-popular-tools-sections-actually-help-seo-11gj)
 <!-- BLOG-POST-LIST:END -->
 
 
