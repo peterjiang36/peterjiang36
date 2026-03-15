@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Foundations of MLOps, AIOps, and LLMOps](https://dev.to/anusha_kuppili/architectural-foundations-of-mlops-aiops-and-llmops-1471)
-- [Common Array Methods in JavaScript](https://dev.to/harman_panwar_46de8d9454b/common-array-methods-in-javascript-2jl9)
-- [SurrealDB: The &quot;One-Size-Fits-All&quot; Database for Lazy Developers &lpar;Part 1&rpar;](https://dev.to/jakubb_ing/surrealdb-the-one-size-fits-all-database-for-lazy-developers-part-1-1foe)
-- [I built an open-source \&quot;limbic system\&quot; for AI agents — emotion, bias, and memory as MCP servers](https://dev.to/kagioneko/i-built-an-open-source-limbic-system-for-ai-agents-emotion-bias-and-memory-as-mcp-servers-2ln1)
+- [Managing Azure Storage: Containers, File Shares, and Security Tokens](https://dev.to/louis_oodo_a59b230b894609/managing-azure-storage-containers-file-shares-and-security-tokens-23dn)
+- [Function Declaration vs Function Expression](https://dev.to/satyasootar/function-declaration-vs-function-expression-4b3k)
+- [GPT-5 Codex Shorts Pipeline, How I Bootstrapped 5,800 Lines in 4 Commits](https://dev.to/ji_ai/gpt-5-codex-shorts-pipeline-how-i-bootstrapped-5800-lines-in-4-commits-11hl)
+- [5,800 Lines in One Day: Bootstrapping a Full Pipeline With gpt-5-codex](https://dev.to/ji_ai/5800-lines-in-one-day-bootstrapping-a-full-pipeline-with-gpt-5-codex-42bh)
 <!-- BLOG-POST-LIST:END -->
 
 
