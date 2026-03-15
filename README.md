@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
-- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
-- [The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems](https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af)
-- [WebMCP and WebAI: Exploring native AI tools in Chrome](https://dev.to/kevin-uehara/webmcp-and-webai-exploring-native-ai-tools-in-chrome-4ocf)
+- [Tokis: A Performance-First, Token-Native UI Library for Building Modern Design Systems](https://dev.to/prerak/tokis-a-performance-first-token-native-ui-library-for-building-modern-design-systems-2cad)
+- [Vibe Coding Gets You 70% There. Here&#39;s What Happens to the Other 30%.](https://dev.to/totalvaluegroup/vibe-coding-gets-you-70-thereai-programming-webdev-productivity-heres-what-happens-to-the-1lco)
+- [Optimising Docker Builds for Go](https://dev.to/n0npax/optimising-docker-builds-for-go-4i9g)
+- [Why AI agents forget everything &lpar;and how we fixed it&rpar;](https://dev.to/ampnup/why-ai-agents-forget-everything-and-how-we-fixed-it-3jj0)
 <!-- BLOG-POST-LIST:END -->
 
 
