@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with GitHub Copilot part 2, streamable responses](https://dev.to/softchris/getting-started-with-github-copilot-part-2-streamable-responses-49a8)
-- [JAVA AWT AND HOW IT&#39;S USED](https://dev.to/shelomith-anyango/java-awt-and-how-its-used-2fa3)
-- [COLORS: Inspired By Anitta | A COLORS INTERVIEW](https://dev.to/music_youtube/colors-inspired-by-anitta-a-colors-interview-3bo6)
-- [Workflow Automation vs AI Agents: A Developer&#39;s Guide](https://dev.to/nebulagg/workflow-automation-vs-ai-agents-a-developers-guide-3i4c)
+- [We Built a Free AI SEO Audit Tool — Here&#39;s What We Learned Scanning 500+ Sites](https://dev.to/joshua_gutierrez/we-built-a-free-ai-seo-audit-tool-heres-what-we-learned-scanning-500-sites-58ag)
+- [Building NousyBooks: How I Used 6 Gemini Models to Create Personalized Children&#39;s Storybooks](https://dev.to/vinay_guda/building-nousybooks-how-i-used-6-gemini-models-to-create-personalized-childrens-storybooks-5fn2)
+- [Building a Deep Fantasy Manager in Rust: Want to join?](https://dev.to/marcoallegretti/building-a-deep-fantasy-manager-in-rust-want-to-join-4c3f)
+- [Documentation search: When your Rails app needs which approach](https://dev.to/grymoire/documentation-search-when-your-rails-app-needs-which-approach-2f54)
 <!-- BLOG-POST-LIST:END -->
 
 
