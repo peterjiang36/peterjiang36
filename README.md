@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Forms Deep Dive: Part 1 — Foundations &amp; Core Patterns](https://dev.to/eustatos/react-forms-deep-dive-part-1-foundations-core-patterns-2lb5)
-- [Your MCP Server Is Eating Your Context Window. There&#39;s a Simpler Way](https://dev.to/amzani/your-mcp-server-is-eating-your-context-window-theres-a-simpler-way-3ja2)
-- [The Parent Developer&#39;s Guide to Building Games With AI](https://dev.to/meimakes/the-parent-developers-guide-to-building-games-with-ai-4nb9)
-- [5 RAG Architecture Mistakes That Kill Production Accuracy &lpar;And How to Fix Them&rpar;](https://dev.to/nicuk/how-malaysian-businesses-can-implement-ai-without-burning-through-their-budget-4705)
+- [Take Your App Multilingual &lpar;No Rewrite&rpar;](https://dev.to/apiverve/take-your-app-multilingual-no-rewrite-3fh3)
+- [Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect](https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i)
+- [Agent Tools](https://dev.to/neuml/agent-tools-428a)
+- [Open‑source Job Board REST API in Go + MongoDB](https://dev.to/t5810m/open-source-job-board-rest-api-in-go-mongodb-5c75)
 <!-- BLOG-POST-LIST:END -->
 
 
