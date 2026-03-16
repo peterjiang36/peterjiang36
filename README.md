@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS in March 2026: The Biggest Updates Developers Can&#39;t Ignore](https://dev.to/devops_descent/aws-in-march-2026-the-biggest-updates-developers-cant-ignore-plf)
-- [Starting a Next.js Project? These are the best Templates](https://dev.to/rakesh_nakrani/starting-a-nextjs-project-these-are-the-best-templates-developers-recommend-550f)
-- [How to Make Your Business Documents Legally ADA Compliant](https://dev.to/brianna_collins/how-to-make-your-business-documents-legally-ada-compliant-3obk)
-- [Real-World Kubernetes/EKS Deployment Architectures &lpar;End-to-End Guide&rpar;](https://dev.to/sourav3366/real-world-kuberneteseks-deployment-architectures-end-to-end-guide-b4k)
+- [Certified FinOps for AI: A Complete Guide to Managing AI Costs in the Cloud](https://dev.to/datta_kharad_3fd1383b5036/certified-finops-for-ai-a-complete-guide-to-managing-ai-costs-in-the-cloud-5de8)
+- [Terraform vs OpenTofu in 2026: I&#39;m still on Terraform at work — and here&#39;s the honest math](https://dev.to/xancloud/terraform-vs-opentofu-in-2026-im-still-on-terraform-at-work-and-heres-the-honest-math-1bae)
+- [I Rebuilt My Portfolio 4 Times-The Unexpected Journey From “At Least It Works” to a Full Identity Transformation](https://dev.to/jerophin_be9c10e686b76186/i-rebuilt-my-portfolio-4-times-the-unexpected-journey-from-at-least-it-works-to-a-full-identity-g4g)
+- [Why PWAs Are the Future of Mobile Web Experience in 2026](https://dev.to/dhruvjoshi9/why-pwas-are-the-future-of-mobile-web-experience-in-2026-1j7a)
 <!-- BLOG-POST-LIST:END -->
 
 
