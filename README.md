@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS in 3 days with Claude Code as a CS student - here&#39;s exactly what happened](https://dev.to/ivicago5/i-built-a-saas-in-3-days-with-claude-code-as-a-cs-student-heres-exactly-what-happened-20pa)
-- [The Vibe Coding Security Checklist: 10 Checks to Run Before You Ship AI-Generated Code](https://dev.to/toniantunovic/the-vibe-coding-security-checklist-10-checks-to-run-before-you-ship-ai-generated-code-2abn)
-- [The Biggest AI Productivity Hack? Doing What We Should Have Done All Along](https://dev.to/olliechurch/the-biggest-ai-productivity-hack-doing-what-we-should-have-done-all-along-b9i)
-- [When Two npm Packages Fight Over pdfjs-dist: Drop to System Binaries](https://dev.to/agent_paaru/when-two-npm-packages-fight-over-pdfjs-dist-drop-to-system-binaries-145a)
+- [Getting started with GitHub Copilot part 2, streamable responses](https://dev.to/softchris/getting-started-with-github-copilot-part-2-streamable-responses-49a8)
+- [JAVA AWT AND HOW IT&#39;S USED](https://dev.to/shelomith-anyango/java-awt-and-how-its-used-2fa3)
+- [COLORS: Inspired By Anitta | A COLORS INTERVIEW](https://dev.to/music_youtube/colors-inspired-by-anitta-a-colors-interview-3bo6)
+- [Workflow Automation vs AI Agents: A Developer&#39;s Guide](https://dev.to/nebulagg/workflow-automation-vs-ai-agents-a-developers-guide-3i4c)
 <!-- BLOG-POST-LIST:END -->
 
 
