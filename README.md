@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Already Have Dozens of Agent Skills. You Just Can&#39;t Find Them.](https://dev.to/itlackey/you-already-have-dozens-of-agent-skills-you-just-cant-find-them-5bai)
-- [How to Never Lose Context Between AI Sessions](https://dev.to/nao_lore/how-to-never-lose-context-between-ai-sessions-6ci)
-- [How I Use AI to Do 10x the Work &lpar;My Complete Workflow&rpar;](https://dev.to/themachinepulse/how-i-use-ai-to-do-10x-the-work-my-complete-workflow-1p0g)
-- [xmrwallet.com Scam: How NameSilo Became the Press Secretary for a $2M Monero Theft Operation](https://dev.to/destroyphish/xmrwalletcom-scam-how-namesilo-became-the-press-secretary-for-a-2m-monero-theft-operation-189b)
+- [Dando memória para sua IA: por que ela esquece tudo &lpar;e como resolver&rpar;](https://dev.to/claudioeestevam/dando-memoria-para-sua-ia-por-que-ela-esquece-tudo-e-como-resolver-j24)
+- [Conhecendo o LLM Claude](https://dev.to/rafaelbonilha/conhecendo-o-llm-claude-520n)
+- [EVAL #005: GPU Cloud Showdown — Lambda Labs vs CoreWeave vs RunPod vs Vast.ai vs Modal vs AWS/GCP/Azure](https://dev.to/ultraduneai/eval-005-gpu-cloud-showdown-lambda-labs-vs-coreweave-vs-runpod-vs-vastai-vs-modal-vs-19ei)
+- [Observable file systems for agents](https://dev.to/chukwudi/observable-file-systems-for-agents-4pdb)
 <!-- BLOG-POST-LIST:END -->
 
 
