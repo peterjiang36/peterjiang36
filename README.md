@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Free AI SEO Audit Tool — Here&#39;s What We Learned Scanning 500+ Sites](https://dev.to/joshua_gutierrez/we-built-a-free-ai-seo-audit-tool-heres-what-we-learned-scanning-500-sites-58ag)
-- [Building NousyBooks: How I Used 6 Gemini Models to Create Personalized Children&#39;s Storybooks](https://dev.to/vinay_guda/building-nousybooks-how-i-used-6-gemini-models-to-create-personalized-childrens-storybooks-5fn2)
-- [Building a Deep Fantasy Manager in Rust: Want to join?](https://dev.to/marcoallegretti/building-a-deep-fantasy-manager-in-rust-want-to-join-4c3f)
-- [Documentation search: When your Rails app needs which approach](https://dev.to/grymoire/documentation-search-when-your-rails-app-needs-which-approach-2f54)
+- [Your LLM Can Generate Files Now](https://dev.to/imaginex/your-llm-can-write-files-now-4c6e)
+- [Your Multi-Agent System Has a Memory Problem](https://dev.to/slythefox/your-multi-agent-system-has-a-memory-problem-5hbg)
+- [From OBO APIs to Agent Identities: Entra Conditional Access Still Works the Same](https://dev.to/astaykov/from-obo-apis-to-agent-identities-entra-conditional-access-still-works-the-same-140c)
+- [Top 5 Structured Output Libraries for LLMs in 2026](https://dev.to/nebulagg/top-5-structured-output-libraries-for-llms-in-2026-48g0)
 <!-- BLOG-POST-LIST:END -->
 
 
