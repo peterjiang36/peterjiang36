@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
-- [We audit our code regularly, why don&#39;t we audit our monitoring?](https://dev.to/paulg7516/we-audit-our-code-regularly-why-dont-we-audit-our-monitoring-lfh)
-- [Inside Aura: Building a Live AI Fashion Agent with Gemini Live, Vertex AI, and Google Cloud](https://dev.to/l_25792d02ec25e107aeb/inside-aura-building-a-live-ai-fashion-agent-with-gemini-live-vertex-ai-and-google-cloud-h8n)
-- [Your Vibecoded Prototype Took 30 Minutes. Shipping It Will Take 100 Hours.](https://dev.to/adioof/your-vibecoded-prototype-took-30-minutes-shipping-it-will-take-100-hours-4bkf)
+- [How to Detect Education Sentiment Anomalies with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-education-sentiment-anomalies-with-the-pulsebit-api-python-20a9)
+- [Designing a Cloud Architecture from Scratch: My CCF501 Assessment 1](https://dev.to/lfariaus/designing-a-cloud-architecture-from-scratch-my-ccf501-assessment-1-4c25)
+- [I Built a CLI That Tells You Which Free Perks Your Open-Source Project Qualifies For](https://dev.to/aniket508/i-built-a-cli-that-tells-you-which-free-perks-your-open-source-project-qualifies-for-5dke)
+- [Master Project Scaffolding with the OpenClaw Project Setup Wizard](https://dev.to/aloycwl/master-project-scaffolding-with-the-openclaw-project-setup-wizard-2jn5)
 <!-- BLOG-POST-LIST:END -->
 
 
