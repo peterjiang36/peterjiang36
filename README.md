@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Certified FinOps for AI: A Complete Guide to Managing AI Costs in the Cloud](https://dev.to/datta_kharad_3fd1383b5036/certified-finops-for-ai-a-complete-guide-to-managing-ai-costs-in-the-cloud-5de8)
-- [Terraform vs OpenTofu in 2026: I&#39;m still on Terraform at work — and here&#39;s the honest math](https://dev.to/xancloud/terraform-vs-opentofu-in-2026-im-still-on-terraform-at-work-and-heres-the-honest-math-1bae)
-- [I Rebuilt My Portfolio 4 Times-The Unexpected Journey From “At Least It Works” to a Full Identity Transformation](https://dev.to/jerophin_be9c10e686b76186/i-rebuilt-my-portfolio-4-times-the-unexpected-journey-from-at-least-it-works-to-a-full-identity-g4g)
-- [Why PWAs Are the Future of Mobile Web Experience in 2026](https://dev.to/dhruvjoshi9/why-pwas-are-the-future-of-mobile-web-experience-in-2026-1j7a)
+- [How I Built Niobe: An AI Waitress with Gemini Live and Google Cloud](https://dev.to/provydon/how-i-built-niobe-an-ai-waitress-with-gemini-live-and-google-cloud-2o28)
+- [Meme Monday](https://dev.to/ben/meme-monday-cc9)
+- [Stop Overpaying for VectorDBs: Architecting Serverless RAG on AWS](https://dev.to/dhananjay_lakkawar/stop-overpaying-for-vectordbs-architecting-serverless-rag-on-aws-1pjf)
+- [Modernización sin fricción: AWS Transform en acción &lpar;VMware EC2 nativo&rpar;. Parte 2: Hands-on](https://dev.to/oscar_gaviria_2b862594738/modernizacion-sin-friccion-aws-transform-en-accion-vmware-ec2-nativo-parte-2-hands-on-3plh)
 <!-- BLOG-POST-LIST:END -->
 
 
