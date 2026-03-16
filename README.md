@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Reliable File Processing Pipeline on AWS for Real-World Applications](https://dev.to/sudoconsultants/designing-a-reliable-file-processing-pipeline-on-aws-for-real-world-applications-fe8)
-- [The Vending Machine for AI Agents: How x402 + IteraTools Enables Autonomous Micropayments](https://dev.to/fredpsantos33/the-vending-machine-for-ai-agents-how-x402-iteratools-enables-autonomous-micropayments-1924)
-- [Drupal 11 Change-Record Impact Map for 10.4.x Teams](https://dev.to/victorstackai/drupal-11-change-record-impact-map-for-104x-teams-53n6)
-- [🏗️ Building my home server P5: Network-wide ad blocking with Pi-hole](https://dev.to/denesbeck/building-my-home-server-p5-network-wide-ad-blocking-with-pi-hole-2j3f)
+- [How to Make Your WooCommerce Store AI-Ready with UCP &lpar;2026 Guide&rpar;](https://dev.to/ucptools/how-to-make-your-woocommerce-store-ai-ready-with-ucp-2026-guide-3h91)
+- [Notion Skills Registry: A Package Manager for AI Agent Skills with MCP](https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581)
+- [How to Visualize and Style Routes on a MapLibre GL Map](https://dev.to/geoapify-maps-api/how-to-visualize-and-style-routes-on-a-maplibre-gl-map-416g)
+- [Progress Indicator](https://dev.to/softheartengineer/progress-indicator-3k24)
 <!-- BLOG-POST-LIST:END -->
 
 
