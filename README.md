@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Fundamentals: A Comprehensive Guide to Python Basics for Backend Development](https://dev.to/aakansha_4404d76d8d78e3b6/mastering-the-fundamentals-a-comprehensive-guide-to-python-basics-for-backend-development-3464)
-- [Modern Android File Manager Implementation Using MediaStore and PackageManager](https://dev.to/devika_android/modern-android-file-manager-implementation-using-mediastore-and-packagemanager-3afl)
-- [Real-Time SQL Analysis in VS Code: Catch Dangerous Queries Before You Save the File](https://dev.to/makroumi/real-time-sql-analysis-in-vs-code-catch-dangerous-queries-before-you-save-the-file-2ami)
-- [How Agentic AI Resurrected My &quot;Old&quot; Side Project](https://dev.to/gde/how-agentic-ai-resurrected-my-old-side-project-31hf)
+- [AWS in March 2026: The Biggest Updates Developers Can&#39;t Ignore](https://dev.to/devops_descent/aws-in-march-2026-the-biggest-updates-developers-cant-ignore-plf)
+- [Starting a Next.js Project? These are the best Templates](https://dev.to/rakesh_nakrani/starting-a-nextjs-project-these-are-the-best-templates-developers-recommend-550f)
+- [How to Make Your Business Documents Legally ADA Compliant](https://dev.to/brianna_collins/how-to-make-your-business-documents-legally-ada-compliant-3obk)
+- [Real-World Kubernetes/EKS Deployment Architectures &lpar;End-to-End Guide&rpar;](https://dev.to/sourav3366/real-world-kuberneteseks-deployment-architectures-end-to-end-guide-b4k)
 <!-- BLOG-POST-LIST:END -->
 
 
