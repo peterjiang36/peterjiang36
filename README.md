@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 WeCoded Challenge &lpar;Glass Ceiling&rpar;](https://dev.to/dan52242644dan/2026-wecoded-challenge-glass-ceiling-2nn4)
-- [Build an MCP Server That Finds Your RAG Chatbot&#39;s Blind Spots](https://dev.to/hamurda/build-an-mcp-server-that-finds-your-rag-chatbots-blind-spots-3hb1)
-- [Action Buttons in Dataframes with Record-Level Routing in Shiny for Python](https://dev.to/india_owens/action-buttons-in-dataframes-with-record-level-routing-in-shiny-for-python-1k7o)
-- [Per-Tab Immersive Status Bar and Programmatic TabBar Hiding with ArkUI Tabs](https://dev.to/harmonyos/per-tab-immersive-status-bar-and-programmatic-tabbar-hiding-with-arkui-tabs-5c4g)
+- [Making Tax Digital goes live in 21 days. Here&#39;s what actually changes.](https://dev.to/landolio/making-tax-digital-goes-live-in-21-days-heres-what-actually-changes-1137)
+- [Why Alembic is Basically Git for Your Database &lpar;And Why You Need It&rpar; 🗄️](https://dev.to/wymdev/why-alembic-is-basically-git-for-your-database-and-why-you-need-it-bbn)
+- [This Keyword in JS](https://dev.to/kush_bhandari_1/this-keyword-in-js-5hdj)
+- [Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial](https://dev.to/caper_dev/build-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial-e8c)
 <!-- BLOG-POST-LIST:END -->
 
 
