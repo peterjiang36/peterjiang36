@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Can Generate Files Now](https://dev.to/imaginex/your-llm-can-write-files-now-4c6e)
-- [Your Multi-Agent System Has a Memory Problem](https://dev.to/slythefox/your-multi-agent-system-has-a-memory-problem-5hbg)
-- [From OBO APIs to Agent Identities: Entra Conditional Access Still Works the Same](https://dev.to/astaykov/from-obo-apis-to-agent-identities-entra-conditional-access-still-works-the-same-140c)
-- [Top 5 Structured Output Libraries for LLMs in 2026](https://dev.to/nebulagg/top-5-structured-output-libraries-for-llms-in-2026-48g0)
+- [Building Argus: A Voice-Driven SOC Copilot with Gemini Live](https://dev.to/pratima-sapkota/building-argus-a-voice-driven-soc-copilot-with-gemini-live-2np6)
+- [Build a Node.js HTTP Server From Scratch &lpar;No Frameworks Needed and Less Then 30 Lines!&rpar;](https://dev.to/deividas-strole/build-a-nodejs-http-server-from-scratch-no-frameworks-needed-and-less-then-30-lines-2gc6)
+- [Building Production-Ready AI Features: A Senior Developer&#39;s Playbook](https://dev.to/cidersoft/building-production-ready-ai-features-a-senior-developers-playbook-4mb7)
+- [I Built an AI Agent That Sits in Your Incident War Room and Writes DORA Compliance Reports in Real Time](https://dev.to/manoj_mallick_71d0dd7eaa6/i-built-an-ai-agent-that-sits-in-your-incident-war-room-and-writes-dora-compliance-reports-in-real-23m5)
 <!-- BLOG-POST-LIST:END -->
 
 
