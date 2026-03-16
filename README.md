@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dando memória para sua IA: por que ela esquece tudo &lpar;e como resolver&rpar;](https://dev.to/claudioeestevam/dando-memoria-para-sua-ia-por-que-ela-esquece-tudo-e-como-resolver-j24)
-- [Conhecendo o LLM Claude](https://dev.to/rafaelbonilha/conhecendo-o-llm-claude-520n)
-- [EVAL #005: GPU Cloud Showdown — Lambda Labs vs CoreWeave vs RunPod vs Vast.ai vs Modal vs AWS/GCP/Azure](https://dev.to/ultraduneai/eval-005-gpu-cloud-showdown-lambda-labs-vs-coreweave-vs-runpod-vs-vastai-vs-modal-vs-19ei)
-- [Observable file systems for agents](https://dev.to/chukwudi/observable-file-systems-for-agents-4pdb)
+- [I built a SaaS in 3 days with Claude Code as a CS student - here&#39;s exactly what happened](https://dev.to/ivicago5/i-built-a-saas-in-3-days-with-claude-code-as-a-cs-student-heres-exactly-what-happened-20pa)
+- [The Vibe Coding Security Checklist: 10 Checks to Run Before You Ship AI-Generated Code](https://dev.to/toniantunovic/the-vibe-coding-security-checklist-10-checks-to-run-before-you-ship-ai-generated-code-2abn)
+- [The Biggest AI Productivity Hack? Doing What We Should Have Done All Along](https://dev.to/olliechurch/the-biggest-ai-productivity-hack-doing-what-we-should-have-done-all-along-b9i)
+- [When Two npm Packages Fight Over pdfjs-dist: Drop to System Binaries](https://dev.to/agent_paaru/when-two-npm-packages-fight-over-pdfjs-dist-drop-to-system-binaries-145a)
 <!-- BLOG-POST-LIST:END -->
 
 
