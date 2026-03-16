@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Take Your App Multilingual &lpar;No Rewrite&rpar;](https://dev.to/apiverve/take-your-app-multilingual-no-rewrite-3fh3)
-- [Improving Data Fetching in Next.js: Lessons from Moving Beyond useEffect](https://dev.to/subito/improving-data-fetching-in-nextjs-lessons-from-moving-beyond-useeffect-4a2i)
-- [Agent Tools](https://dev.to/neuml/agent-tools-428a)
-- [Open‑source Job Board REST API in Go + MongoDB](https://dev.to/t5810m/open-source-job-board-rest-api-in-go-mongodb-5c75)
+- [You Already Have Dozens of Agent Skills. You Just Can&#39;t Find Them.](https://dev.to/itlackey/you-already-have-dozens-of-agent-skills-you-just-cant-find-them-5bai)
+- [How to Never Lose Context Between AI Sessions](https://dev.to/nao_lore/how-to-never-lose-context-between-ai-sessions-6ci)
+- [How I Use AI to Do 10x the Work &lpar;My Complete Workflow&rpar;](https://dev.to/themachinepulse/how-i-use-ai-to-do-10x-the-work-my-complete-workflow-1p0g)
+- [xmrwallet.com Scam: How NameSilo Became the Press Secretary for a $2M Monero Theft Operation](https://dev.to/destroyphish/xmrwalletcom-scam-how-namesilo-became-the-press-secretary-for-a-2m-monero-theft-operation-189b)
 <!-- BLOG-POST-LIST:END -->
 
 
