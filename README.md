@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Tax Digital goes live in 21 days. Here&#39;s what actually changes.](https://dev.to/landolio/making-tax-digital-goes-live-in-21-days-heres-what-actually-changes-1137)
-- [Why Alembic is Basically Git for Your Database &lpar;And Why You Need It&rpar; 🗄️](https://dev.to/wymdev/why-alembic-is-basically-git-for-your-database-and-why-you-need-it-bbn)
-- [This Keyword in JS](https://dev.to/kush_bhandari_1/this-keyword-in-js-5hdj)
-- [Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial](https://dev.to/caper_dev/build-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial-e8c)
+- [Auditing Solana CPI Chains: How Static Analysis Tools Catch the Vulnerabilities That Manual Review Misses](https://dev.to/ohmygod/auditing-solana-cpi-chains-how-static-analysis-tools-catch-the-vulnerabilities-that-manual-review-372d)
+- [EVAL #004: AI Agent Frameworks — LangGraph vs CrewAI vs AutoGen vs Smolagents vs OpenAI Agents SDK](https://dev.to/ultraduneai/eval-004-ai-agent-frameworks-langgraph-vs-crewai-vs-autogen-vs-smolagents-vs-openai-agents-sdk-190l)
+- [HTML/CSS Blank](https://dev.to/sema_musleh_f721e8cd1611a/htmlcss-blank-mj1)
+- [I built a Paystack payment plugin for WPForms](https://dev.to/avictorbabs_tabsoltech/i-built-a-paystack-payment-plugin-for-wpforms-31an)
 <!-- BLOG-POST-LIST:END -->
 
 
