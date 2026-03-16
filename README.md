@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auditing Solana CPI Chains: How Static Analysis Tools Catch the Vulnerabilities That Manual Review Misses](https://dev.to/ohmygod/auditing-solana-cpi-chains-how-static-analysis-tools-catch-the-vulnerabilities-that-manual-review-372d)
-- [EVAL #004: AI Agent Frameworks — LangGraph vs CrewAI vs AutoGen vs Smolagents vs OpenAI Agents SDK](https://dev.to/ultraduneai/eval-004-ai-agent-frameworks-langgraph-vs-crewai-vs-autogen-vs-smolagents-vs-openai-agents-sdk-190l)
-- [HTML/CSS Blank](https://dev.to/sema_musleh_f721e8cd1611a/htmlcss-blank-mj1)
-- [I built a Paystack payment plugin for WPForms](https://dev.to/avictorbabs_tabsoltech/i-built-a-paystack-payment-plugin-for-wpforms-31an)
+- [Kronveil v0.2: Dashboard, gRPC, Secret Management, and Local Deployment - Here&#39;s What Changed](https://dev.to/ramasankar_molleti_f7f80d/kronveil-v02-dashboard-grpc-secret-management-and-local-deployment-heres-what-changed-25gb)
+- [GitHub Actions costs are leaking, and most teams don&#39;t notice until it&#39;s too late](https://dev.to/mateenali66/github-actions-costs-are-leaking-and-most-teams-dont-notice-until-its-too-late-27d1)
+- [A Quick Look at Claw-Family](https://dev.to/0xkoji/a-quick-look-at-claw-family-28e3)
+- [Modernizing Legacy SSO with Microsoft Entra, Protect On-Prem Apps Without Rewriting Code](https://dev.to/sauhard_bhatt_4e388e8624a/modernizing-legacy-sso-with-microsoft-entra-protect-on-prem-apps-without-rewriting-code-3439)
 <!-- BLOG-POST-LIST:END -->
 
 
