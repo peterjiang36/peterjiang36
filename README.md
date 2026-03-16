@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your WooCommerce Store AI-Ready with UCP &lpar;2026 Guide&rpar;](https://dev.to/ucptools/how-to-make-your-woocommerce-store-ai-ready-with-ucp-2026-guide-3h91)
-- [Notion Skills Registry: A Package Manager for AI Agent Skills with MCP](https://dev.to/axrisi/notion-skills-registry-a-package-manager-for-ai-agent-skills-with-mcp-2581)
-- [How to Visualize and Style Routes on a MapLibre GL Map](https://dev.to/geoapify-maps-api/how-to-visualize-and-style-routes-on-a-maplibre-gl-map-416g)
-- [Progress Indicator](https://dev.to/softheartengineer/progress-indicator-3k24)
+- [Mastering the Fundamentals: A Comprehensive Guide to Python Basics for Backend Development](https://dev.to/aakansha_4404d76d8d78e3b6/mastering-the-fundamentals-a-comprehensive-guide-to-python-basics-for-backend-development-3464)
+- [Modern Android File Manager Implementation Using MediaStore and PackageManager](https://dev.to/devika_android/modern-android-file-manager-implementation-using-mediastore-and-packagemanager-3afl)
+- [Real-Time SQL Analysis in VS Code: Catch Dangerous Queries Before You Save the File](https://dev.to/makroumi/real-time-sql-analysis-in-vs-code-catch-dangerous-queries-before-you-save-the-file-2ami)
+- [How Agentic AI Resurrected My &quot;Old&quot; Side Project](https://dev.to/gde/how-agentic-ai-resurrected-my-old-side-project-31hf)
 <!-- BLOG-POST-LIST:END -->
 
 
