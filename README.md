@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Front Door of Cloud Applications: Simplifying Authentication with Amazon Cognito](https://dev.to/pooja-singh/the-front-door-of-cloud-applications-simplifying-authentication-with-amazon-cognito-1fbf)
-- [MailChannels SDK for Node.js &lpar;Resend Alternative&rpar;](https://dev.to/yizack/mailchannels-sdk-for-nodejs-resend-alternative-4lgk)
-- [Create a Resource Group in Azure using Visual Studio Code](https://dev.to/big_namz/create-a-resource-group-in-azure-using-visual-studio-code-h9p)
-- [Building ExpertLens: Real-time AI Coaching for Software You Control Directly](https://dev.to/yuya_mukai_0b1913157ca31d/building-expertlens-real-time-ai-coaching-for-software-you-control-directly-5gok)
+- [Designing a Reliable File Processing Pipeline on AWS for Real-World Applications](https://dev.to/sudoconsultants/designing-a-reliable-file-processing-pipeline-on-aws-for-real-world-applications-fe8)
+- [The Vending Machine for AI Agents: How x402 + IteraTools Enables Autonomous Micropayments](https://dev.to/fredpsantos33/the-vending-machine-for-ai-agents-how-x402-iteratools-enables-autonomous-micropayments-1924)
+- [Drupal 11 Change-Record Impact Map for 10.4.x Teams](https://dev.to/victorstackai/drupal-11-change-record-impact-map-for-104x-teams-53n6)
+- [🏗️ Building my home server P5: Network-wide ad blocking with Pi-hole](https://dev.to/denesbeck/building-my-home-server-p5-network-wide-ad-blocking-with-pi-hole-2j3f)
 <!-- BLOG-POST-LIST:END -->
 
 
