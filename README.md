@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What if LLMs needed a spine, not a bigger brain?](https://dev.to/commonlayer/what-if-llms-needed-a-spine-not-a-bigger-brain-4812)
-- [I Pitched a Privacy-First Wearable AI at 4YFN as CTO — Here&#39;s What I Learned](https://dev.to/nazarf/i-pitched-a-privacy-first-wearable-ai-at-4yfn-as-cto-heres-what-i-learned-3f86)
-- [Why static trading strategies fail in non-stationary markets](https://dev.to/darwintiq/why-static-trading-strategies-fail-in-non-stationary-markets-4j24)
-- [Kiro for Test-Driven Development &lpar;TDD&rpar;](https://dev.to/dhelper/kiro-for-test-driven-development-tdd-11me)
+- [React Forms Deep Dive: Part 1 — Foundations &amp; Core Patterns](https://dev.to/eustatos/react-forms-deep-dive-part-1-foundations-core-patterns-2lb5)
+- [Your MCP Server Is Eating Your Context Window. There&#39;s a Simpler Way](https://dev.to/amzani/your-mcp-server-is-eating-your-context-window-theres-a-simpler-way-3ja2)
+- [The Parent Developer&#39;s Guide to Building Games With AI](https://dev.to/meimakes/the-parent-developers-guide-to-building-games-with-ai-4nb9)
+- [5 RAG Architecture Mistakes That Kill Production Accuracy &lpar;And How to Fix Them&rpar;](https://dev.to/nicuk/how-malaysian-businesses-can-implement-ai-without-burning-through-their-budget-4705)
 <!-- BLOG-POST-LIST:END -->
 
 
