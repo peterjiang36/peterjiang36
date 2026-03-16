@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect Education Sentiment Anomalies with the Pulsebit API &lpar;Python&rpar;](https://dev.to/pulsebitapi/how-to-detect-education-sentiment-anomalies-with-the-pulsebit-api-python-20a9)
-- [Designing a Cloud Architecture from Scratch: My CCF501 Assessment 1](https://dev.to/lfariaus/designing-a-cloud-architecture-from-scratch-my-ccf501-assessment-1-4c25)
-- [I Built a CLI That Tells You Which Free Perks Your Open-Source Project Qualifies For](https://dev.to/aniket508/i-built-a-cli-that-tells-you-which-free-perks-your-open-source-project-qualifies-for-5dke)
-- [Master Project Scaffolding with the OpenClaw Project Setup Wizard](https://dev.to/aloycwl/master-project-scaffolding-with-the-openclaw-project-setup-wizard-2jn5)
+- [2026 WeCoded Challenge &lpar;Glass Ceiling&rpar;](https://dev.to/dan52242644dan/2026-wecoded-challenge-glass-ceiling-2nn4)
+- [Build an MCP Server That Finds Your RAG Chatbot&#39;s Blind Spots](https://dev.to/hamurda/build-an-mcp-server-that-finds-your-rag-chatbots-blind-spots-3hb1)
+- [Action Buttons in Dataframes with Record-Level Routing in Shiny for Python](https://dev.to/india_owens/action-buttons-in-dataframes-with-record-level-routing-in-shiny-for-python-1k7o)
+- [Per-Tab Immersive Status Bar and Programmatic TabBar Hiding with ArkUI Tabs](https://dev.to/harmonyos/per-tab-immersive-status-bar-and-programmatic-tabbar-hiding-with-arkui-tabs-5c4g)
 <!-- BLOG-POST-LIST:END -->
 
 
