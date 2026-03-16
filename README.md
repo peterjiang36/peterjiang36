@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kronveil v0.2: Dashboard, gRPC, Secret Management, and Local Deployment - Here&#39;s What Changed](https://dev.to/ramasankar_molleti_f7f80d/kronveil-v02-dashboard-grpc-secret-management-and-local-deployment-heres-what-changed-25gb)
-- [GitHub Actions costs are leaking, and most teams don&#39;t notice until it&#39;s too late](https://dev.to/mateenali66/github-actions-costs-are-leaking-and-most-teams-dont-notice-until-its-too-late-27d1)
-- [A Quick Look at Claw-Family](https://dev.to/0xkoji/a-quick-look-at-claw-family-28e3)
-- [Modernizing Legacy SSO with Microsoft Entra, Protect On-Prem Apps Without Rewriting Code](https://dev.to/sauhard_bhatt_4e388e8624a/modernizing-legacy-sso-with-microsoft-entra-protect-on-prem-apps-without-rewriting-code-3439)
+- [I Built a Command Manager for the Terminal &lpar;And You Might Need It Too&rpar;](https://dev.to/playlistduong/i-built-a-command-manager-for-the-terminal-and-you-might-need-it-too-2mj4)
+- [I Think a Lot of Developers Are Quietly Grieving the Old Internet](https://dev.to/the_nortern_dev/i-think-a-lot-of-developers-are-quietly-grieving-the-old-internet-3d8)
+- [I built an open-source &quot;focus group simulator&quot; that spawns 1,000 AI customers to roast your startup idea](https://dev.to/nghiahsgs/i-built-an-open-source-focus-group-simulator-that-spawns-1000-ai-customers-to-roast-your-startup-1c5o)
+- [Longest Arithmetic Sequence After Changing At Most One Element - LeetCode-3872 Solution](https://dev.to/bigo_lab/longest-arithmetic-sequence-after-changing-at-most-one-element-leetcode-solution-3gb9)
 <!-- BLOG-POST-LIST:END -->
 
 
