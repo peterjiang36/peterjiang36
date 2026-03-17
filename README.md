@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering a LangGraph UI Pipeline](https://dev.to/vivek_gaindhar_e79f747c46/engineering-a-langgraph-ui-pipeline-1k0n)
-- [Writing code for the sake of code](https://dev.to/codefatale/writing-code-for-the-sake-of-code-4g2p)
-- [Understanding DHCP: How I Configured and Captured It in a GNS3 Lab](https://dev.to/manoj_kumarvemula_31e045/understanding-dhcp-how-i-configured-and-captured-it-in-a-gns3-lab-35ek)
-- [The Systems Behind AI: Understanding LLMs and Their Place in Engineering](https://dev.to/benedict258/the-systems-behind-ai-understanding-llms-and-their-place-in-engineering-2p2f)
+- [ArduBIOS: Opcode Interpreter and ISA for Arduino](https://dev.to/leonardopinezi/ardubios-opcode-interpreter-and-isa-for-arduino-1oh2)
+- [pyGAEB: The Python Library That Unlocks GAEB Construction Data](https://dev.to/kalyanakannan_p/pygaeb-the-python-library-that-unlocks-gaeb-construction-data-2fap)
+- [Designing Deterministic Outputs From Unstructured Messages](https://dev.to/seryllns_/designing-deterministic-outputs-from-unstructured-messages-2hlc)
+- [Claude Codeで競合コンシューマーを設計する：水平スケール・排他処理・ワーカープール管理](https://dev.to/myougatheaxo/claude-codedejing-he-konsiyumawoshe-ji-surushui-ping-sukerupai-ta-chu-li-wakapuruguan-li-50op)
 <!-- BLOG-POST-LIST:END -->
 
 
