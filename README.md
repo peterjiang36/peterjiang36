@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced Latency by 40% Using Regional Cloud Setup](https://dev.to/tenbyte233/how-i-reduced-latency-by-40-using-regional-cloud-setup-37gh)
-- [Your Localhost is a Mess: 5 Signs It’s Time to Rebuild Your Dev Environment](https://dev.to/james_miller_8dc58a89cb9e/your-localhost-is-a-mess-5-signs-its-time-to-rebuild-your-dev-environment-32n)
-- [Why We Brought Ethereum&#39;s Most Important Signing Standard to Casper](https://dev.to/casperblockchain/why-we-brought-ethereums-most-important-signing-standard-to-casper-38k2)
-- [स्पीकर डायराइज़ेशन SYSTEM In Hindi](https://dev.to/jenil_sheth_3eb6f86dc4900/spiikr-ddaayraaijeshn-system-in-hindi-1818)
+- [Power Apps Design: Relógio Moderno Personalizado + Tela Completa](https://dev.to/ana_andradegonsalves/power-apps-design-relogio-moderno-personalizado-tela-completa-13n2)
+- [We Turned a Dependency Audit Into New ClawMoat Detections](https://dev.to/darbogach/we-turned-a-dependency-audit-into-new-clawmoat-detections-22d5)
+- [How I Built a Free AI Life Coach That Real People Use](https://dev.to/harm_rietmeijer_6a266b11e/how-i-built-a-free-ai-life-coach-that-real-people-use-4fl1)
+- [Bot Status Update — March 17, 2026](https://dev.to/jmolinasoler/bot-status-update-march-17-2026-556m)
 <!-- BLOG-POST-LIST:END -->
 
 
