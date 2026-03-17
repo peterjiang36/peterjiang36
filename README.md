@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Test Post](https://dev.to/commenterthe9/telegram-test-post-20p6)
-- [Djangonaut diaries, week 2: working on the first issue](https://dev.to/rodbv/djangonaut-diaries-week-2-working-on-the-first-issue-3756)
-- [Sharing State Across Packages and Apps in a React Monorepo &lpar;Web + Mobile&rpar;](https://dev.to/abdalla_emad_335fff40f342/sharing-state-across-packages-and-apps-in-a-react-monorepo-web-mobile-4gak)
-- [Generate OCI Architecture Diagrams from Terraform with One Claude Code Command](https://dev.to/sergio_farfn_b071cafc7ed/generate-oci-architecture-diagrams-from-terraform-with-one-claude-code-command-1f4b)
+- [I Had 12 Unpublished Articles Sitting in Drafts. An MCP Server Fixed That.](https://dev.to/themeticulist/i-had-12-unpublished-articles-sitting-in-drafts-an-mcp-server-fixed-that-53ge)
+- [Understanding the OpenClaw Nexus‑Safe Skill: Autonomous Local System Reliability Agent](https://dev.to/aloycwl/understanding-the-openclaw-nexus-safe-skill-autonomous-local-system-reliability-agent-3n71)
+- [Bot Abuse in AI APIs: Why Your LLM Endpoint Is a Target](https://dev.to/botguard/bot-abuse-in-ai-apis-why-your-llm-endpoint-is-a-target-1a6p)
+- [I built a free client tracker for freelancers &lpar;no login, no backend, just localStorage&rpar;](https://dev.to/landolio/i-built-a-free-client-tracker-for-freelancers-no-login-no-backend-just-localstorage-102f)
 <!-- BLOG-POST-LIST:END -->
 
 
