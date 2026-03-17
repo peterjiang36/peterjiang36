@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How 8 AI Agents Share a Brain — Building a Persistent Knowledge Graph with MCP](https://dev.to/setas/how-8-ai-agents-share-a-brain-building-a-persistent-knowledge-graph-with-mcp-541l)
-- [We Gamified Claude Code — Here&#39;s What Happened](https://dev.to/hackers_baby/we-gamified-claude-code-heres-what-happened-4nkj)
-- [SmarterCSV 1.16 Released — Faster Than CSV.read, Bad Row Quarantine, Instrumentation, New Features, Improved API](https://dev.to/tilo_sloboda/smartercsv-116-released-faster-than-csvread-bad-row-quarantine-instrumentation-new-features-2a06)
-- [Your Python API Calls Will Fail. Here&#39;s How to Handle It.](https://dev.to/caraxesthebloodwyrm02/your-python-api-calls-will-fail-heres-how-to-handle-it-1pk9)
+- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://dev.to/stephanie_makori_845bb2c0/what-is-infrastructure-as-code-and-why-its-transforming-devops-2lag)
+- [I Built an AI Exposure Map for 280 Nigerian Jobs](https://dev.to/maxnvs/i-built-an-ai-exposure-map-for-280-nigerian-jobs-1i3f)
+- [Claude Code got the architecture wrong &lpar;so we ran a controlled experiment to find out why&rpar;](https://dev.to/sushrutkm/claude-code-got-the-architecture-wrong-so-we-ran-a-controlled-experiment-to-find-out-why-28p1)
+- [Improving Python Code Readability and Maintainability: Strategies for Managing Complex Conditional Statements](https://dev.to/romdevin/improving-python-code-readability-and-maintainability-strategies-for-managing-complex-conditional-55cg)
 <!-- BLOG-POST-LIST:END -->
 
 
