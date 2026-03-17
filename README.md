@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Tars: The Local-First, Autonomous AI Sidekick for Your Terminal](https://dev.to/agustinsacco/meet-tars-the-local-first-autonomous-ai-sidekick-for-your-terminal-1lf)
-- [The Agentic OS Era: How NVIDIA NemoClaw is Taming the Wild West of OpenClaw](https://dev.to/varun_joshi_e61874c7cb053/the-agentic-os-era-how-nvidia-nemoclaw-is-taming-the-wild-west-of-openclaw-2m91)
-- [De Estagiário de TI a ...](https://dev.to/melanolachef/de-estagiario-de-ti-a--17cf)
-- [Mailchimp](https://dev.to/selfhostingsh/mailchimp-10n3)
+- [How to Customize Your Form Submission Email Notifications &lpar;And Why It Matters&rpar;](https://dev.to/allenarduino/how-to-customize-your-form-submission-email-notifications-and-why-it-matters-21d2)
+- [I&#39;ve Used AI to Build Production Software Since 2022. Here&#39;s What Actually Works.](https://dev.to/moebiusansa/ive-used-ai-to-build-production-software-since-2022-heres-what-actually-works-501j)
+- [We Built a Shopping Agent That Searches Thousands of Retailers in Real Time](https://dev.to/shopsavvy/we-built-a-shopping-agent-that-searches-thousands-of-retailers-in-real-time-4gmb)
+- [I built a free P2P device sync tool — no account needed, just scan a QR code](https://dev.to/inzidetech/i-built-a-free-p2p-device-sync-tool-no-account-needed-just-scan-a-qr-code-10af)
 <!-- BLOG-POST-LIST:END -->
 
 
