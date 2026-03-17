@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Notification: Building Real-Time Shopify Admin Updates via WhatsApp Webhooks](https://dev.to/azam_sajid_23d219a841a620/beyond-the-notification-building-real-time-shopify-admin-updates-via-whatsapp-webhooks-3k97)
-- [Using Claude Code on a codebase you just joined](https://dev.to/builtbyzac/using-claude-code-on-a-codebase-you-just-joined-40mi)
-- [Drogon: The C++ Framework That Tops HTTP/2 Benchmarks &lpar;And Where It Struggles&rpar;](https://dev.to/fbio_reis_355b87b508598e/drogon-the-c-framework-that-tops-http2-benchmarks-and-where-it-struggles-3d20)
-- [Text Reveal on Scroll](https://dev.to/softheartengineer/text-reveal-on-scroll-44)
+- [How 8 AI Agents Share a Brain — Building a Persistent Knowledge Graph with MCP](https://dev.to/setas/how-8-ai-agents-share-a-brain-building-a-persistent-knowledge-graph-with-mcp-541l)
+- [We Gamified Claude Code — Here&#39;s What Happened](https://dev.to/hackers_baby/we-gamified-claude-code-heres-what-happened-4nkj)
+- [SmarterCSV 1.16 Released — Faster Than CSV.read, Bad Row Quarantine, Instrumentation, New Features, Improved API](https://dev.to/tilo_sloboda/smartercsv-116-released-faster-than-csvread-bad-row-quarantine-instrumentation-new-features-2a06)
+- [Your Python API Calls Will Fail. Here&#39;s How to Handle It.](https://dev.to/caraxesthebloodwyrm02/your-python-api-calls-will-fail-heres-how-to-handle-it-1pk9)
 <!-- BLOG-POST-LIST:END -->
 
 
