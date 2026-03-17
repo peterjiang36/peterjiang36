@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ArduBIOS: Opcode Interpreter and ISA for Arduino](https://dev.to/leonardopinezi/ardubios-opcode-interpreter-and-isa-for-arduino-1oh2)
-- [pyGAEB: The Python Library That Unlocks GAEB Construction Data](https://dev.to/kalyanakannan_p/pygaeb-the-python-library-that-unlocks-gaeb-construction-data-2fap)
-- [Designing Deterministic Outputs From Unstructured Messages](https://dev.to/seryllns_/designing-deterministic-outputs-from-unstructured-messages-2hlc)
-- [Claude Codeで競合コンシューマーを設計する：水平スケール・排他処理・ワーカープール管理](https://dev.to/myougatheaxo/claude-codedejing-he-konsiyumawoshe-ji-surushui-ping-sukerupai-ta-chu-li-wakapuruguan-li-50op)
+- [How I Reduced Latency by 40% Using Regional Cloud Setup](https://dev.to/tenbyte233/how-i-reduced-latency-by-40-using-regional-cloud-setup-37gh)
+- [Your Localhost is a Mess: 5 Signs It’s Time to Rebuild Your Dev Environment](https://dev.to/james_miller_8dc58a89cb9e/your-localhost-is-a-mess-5-signs-its-time-to-rebuild-your-dev-environment-32n)
+- [Why We Brought Ethereum&#39;s Most Important Signing Standard to Casper](https://dev.to/casperblockchain/why-we-brought-ethereums-most-important-signing-standard-to-casper-38k2)
+- [स्पीकर डायराइज़ेशन SYSTEM In Hindi](https://dev.to/jenil_sheth_3eb6f86dc4900/spiikr-ddaayraaijeshn-system-in-hindi-1818)
 <!-- BLOG-POST-LIST:END -->
 
 
