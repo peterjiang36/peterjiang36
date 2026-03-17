@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://dev.to/stephanie_makori_845bb2c0/what-is-infrastructure-as-code-and-why-its-transforming-devops-2lag)
-- [I Built an AI Exposure Map for 280 Nigerian Jobs](https://dev.to/maxnvs/i-built-an-ai-exposure-map-for-280-nigerian-jobs-1i3f)
-- [Claude Code got the architecture wrong &lpar;so we ran a controlled experiment to find out why&rpar;](https://dev.to/sushrutkm/claude-code-got-the-architecture-wrong-so-we-ran-a-controlled-experiment-to-find-out-why-28p1)
-- [Improving Python Code Readability and Maintainability: Strategies for Managing Complex Conditional Statements](https://dev.to/romdevin/improving-python-code-readability-and-maintainability-strategies-for-managing-complex-conditional-55cg)
+- [Engineering a LangGraph UI Pipeline](https://dev.to/vivek_gaindhar_e79f747c46/engineering-a-langgraph-ui-pipeline-1k0n)
+- [Writing code for the sake of code](https://dev.to/codefatale/writing-code-for-the-sake-of-code-4g2p)
+- [Understanding DHCP: How I Configured and Captured It in a GNS3 Lab](https://dev.to/manoj_kumarvemula_31e045/understanding-dhcp-how-i-configured-and-captured-it-in-a-gns3-lab-35ek)
+- [The Systems Behind AI: Understanding LLMs and Their Place in Engineering](https://dev.to/benedict258/the-systems-behind-ai-understanding-llms-and-their-place-in-engineering-2p2f)
 <!-- BLOG-POST-LIST:END -->
 
 
