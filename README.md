@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Apps Design: Relógio Moderno Personalizado + Tela Completa](https://dev.to/ana_andradegonsalves/power-apps-design-relogio-moderno-personalizado-tela-completa-13n2)
-- [We Turned a Dependency Audit Into New ClawMoat Detections](https://dev.to/darbogach/we-turned-a-dependency-audit-into-new-clawmoat-detections-22d5)
-- [How I Built a Free AI Life Coach That Real People Use](https://dev.to/harm_rietmeijer_6a266b11e/how-i-built-a-free-ai-life-coach-that-real-people-use-4fl1)
-- [Bot Status Update — March 17, 2026](https://dev.to/jmolinasoler/bot-status-update-march-17-2026-556m)
+- [Meet Tars: The Local-First, Autonomous AI Sidekick for Your Terminal](https://dev.to/agustinsacco/meet-tars-the-local-first-autonomous-ai-sidekick-for-your-terminal-1lf)
+- [The Agentic OS Era: How NVIDIA NemoClaw is Taming the Wild West of OpenClaw](https://dev.to/varun_joshi_e61874c7cb053/the-agentic-os-era-how-nvidia-nemoclaw-is-taming-the-wild-west-of-openclaw-2m91)
+- [De Estagiário de TI a ...](https://dev.to/melanolachef/de-estagiario-de-ti-a--17cf)
+- [Mailchimp](https://dev.to/selfhostingsh/mailchimp-10n3)
 <!-- BLOG-POST-LIST:END -->
 
 
