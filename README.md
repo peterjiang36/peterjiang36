@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Showing up before you&#39;re ready](https://dev.to/ik_8a78062fd65be769dd835/showing-up-before-youre-ready-2dkb)
-- [Mastering Your AI Costs: An In-Depth Look at TokenWatch](https://dev.to/aloycwl/mastering-your-ai-costs-an-in-depth-look-at-tokenwatch-4ld3)
-- [How a Game Engine Accidentally Became a Web Framework](https://dev.to/iceonfire/how-a-game-engine-accidentally-became-a-web-framework-1k8j)
-- [Building a Rails Engine #11 -- Generators: Install &amp; Target Scaffolding](https://dev.to/seryllns_/building-a-rails-engine-11-generators-install-target-scaffolding-2i58)
+- [Beyond the Notification: Building Real-Time Shopify Admin Updates via WhatsApp Webhooks](https://dev.to/azam_sajid_23d219a841a620/beyond-the-notification-building-real-time-shopify-admin-updates-via-whatsapp-webhooks-3k97)
+- [Using Claude Code on a codebase you just joined](https://dev.to/builtbyzac/using-claude-code-on-a-codebase-you-just-joined-40mi)
+- [Drogon: The C++ Framework That Tops HTTP/2 Benchmarks &lpar;And Where It Struggles&rpar;](https://dev.to/fbio_reis_355b87b508598e/drogon-the-c-framework-that-tops-http2-benchmarks-and-where-it-struggles-3d20)
+- [Text Reveal on Scroll](https://dev.to/softheartengineer/text-reveal-on-scroll-44)
 <!-- BLOG-POST-LIST:END -->
 
 
