@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an encyclopedia of 376 psychoactive substances with Next.js and PostgreSQL](https://dev.to/yagcioglutoprak/i-built-an-encyclopedia-of-376-psychoactive-substances-with-nextjs-and-postgresql-1cj7)
-- [Why I Switched from MCP to CLI](https://dev.to/allentcm/why-i-switched-from-mcp-to-cli-3ifb)
-- [I wanted the best GitHub notifications in Slack, so I built it](https://dev.to/francoislp/i-wanted-the-best-github-notifications-in-slack-so-i-built-it-n2d)
-- [Building a Production-Ready .NET 8 Banking API: Clean Architecture, PostgreSQL &amp; CI/CD on Render](https://dev.to/oluwatobiloba9/building-a-production-ready-net-8-banking-api-clean-architecture-postgresql-cicd-on-mhb)
+- [Telegram Test Post](https://dev.to/commenterthe9/telegram-test-post-20p6)
+- [Djangonaut diaries, week 2: working on the first issue](https://dev.to/rodbv/djangonaut-diaries-week-2-working-on-the-first-issue-3756)
+- [Sharing State Across Packages and Apps in a React Monorepo &lpar;Web + Mobile&rpar;](https://dev.to/abdalla_emad_335fff40f342/sharing-state-across-packages-and-apps-in-a-react-monorepo-web-mobile-4gak)
+- [Generate OCI Architecture Diagrams from Terraform with One Claude Code Command](https://dev.to/sergio_farfn_b071cafc7ed/generate-oci-architecture-diagrams-from-terraform-with-one-claude-code-command-1f4b)
 <!-- BLOG-POST-LIST:END -->
 
 
