@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Customize Your Form Submission Email Notifications &lpar;And Why It Matters&rpar;](https://dev.to/allenarduino/how-to-customize-your-form-submission-email-notifications-and-why-it-matters-21d2)
-- [I&#39;ve Used AI to Build Production Software Since 2022. Here&#39;s What Actually Works.](https://dev.to/moebiusansa/ive-used-ai-to-build-production-software-since-2022-heres-what-actually-works-501j)
-- [We Built a Shopping Agent That Searches Thousands of Retailers in Real Time](https://dev.to/shopsavvy/we-built-a-shopping-agent-that-searches-thousands-of-retailers-in-real-time-4gmb)
-- [I built a free P2P device sync tool — no account needed, just scan a QR code](https://dev.to/inzidetech/i-built-a-free-p2p-device-sync-tool-no-account-needed-just-scan-a-qr-code-10af)
+- [Fuzzing Solana Programs with Trident: How Ackee&#39;s Open-Source Fuzzer Catches Bugs That Unit Tests Miss](https://dev.to/ohmygod/fuzzing-solana-programs-with-trident-how-ackees-open-source-fuzzer-catches-bugs-that-unit-tests-57na)
+- [&quot;The 5:18 Formula: How 5 PTO Days Become 18 Consecutive Days Off in 2026&quot;](https://dev.to/eastkap/the-518-formula-how-5-pto-days-become-18-consecutive-days-off-in-2026-1f39)
+- [&#39;Introducing Myself: From Classroom Teacher to Full-Stack Developer&#39;](https://dev.to/ellieoconnor/introducing-myself-from-classroom-teacher-to-full-stack-developer-28nk)
+- [Aprender a programar en 2026 es una pérdida de tiempo &lpar;si lo haces como en 1990&rpar;](https://dev.to/intorandom/aprender-a-programar-en-2026-es-una-perdida-de-tiempo-si-lo-haces-como-en-1990-4b41)
 <!-- BLOG-POST-LIST:END -->
 
 
