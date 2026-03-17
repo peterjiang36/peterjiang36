@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Operation Epic Fury: the Iranian C2 nobody found &lpar;0/94 VT, RDTSC sandbox evasion, 8 months pre-op&rpar;](https://dev.to/paolocostanzo/operation-epic-fury-the-iranian-c2-nobody-found-094-vt-rdtsc-sandbox-evasion-8-months-pre-op-13nc)
-- [The state file: how autonomous agents survive context resets](https://dev.to/builtbyzac/the-state-file-how-autonomous-agents-survive-context-resets-3lgc)
-- [Okta Just Launched Agent Identity. Heres What They Got Right &lpar;and What They Missed&rpar;](https://dev.to/thenexusguard/okta-just-launched-agent-identity-heres-what-they-got-right-and-what-they-missed-poo)
-- [Why AI Coding Tools Eat Your RAM &lpar;And How to Fix It&rpar;](https://dev.to/thestack_ai/why-ai-coding-tools-eat-your-ram-and-how-to-fix-it-1l53)
+- [Zed - dubuggler not showing value on hover](https://dev.to/nishant_badhautiya/zed-dubuggler-not-showing-value-on-hover-4fln)
+- [The Layer Missing from Every MCP vs A2A Debate](https://dev.to/agenium_platform/the-layer-missing-from-every-mcp-vs-a2a-debate-2pl0)
+- [I Gave AI Agents a Telecom Job Interview. Most Failed Without a Cheat Sheet](https://dev.to/mattercoder/i-gave-ai-agents-a-telecom-job-interview-most-failed-without-a-cheat-sheet-ddj)
+- [Claude CodeでSagaパターンを設計する：分散トランザクション・補償トランザクション・オーケストレーション](https://dev.to/myougatheaxo/claude-codedesagapatanwoshe-ji-surufen-san-toranzakusiyonbu-chang-toranzakusiyonokesutoresiyon-3hp0)
 <!-- BLOG-POST-LIST:END -->
 
 
