@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handling Crypto Exchange API Rate Limits Without Losing Your Mind](https://dev.to/kerryhank/handling-crypto-exchange-api-rate-limits-without-losing-your-mind-ag9)
-- [Cloudflare Performance Tuning for WordPress: What Actually Matters](https://dev.to/kerryhank/cloudflare-performance-tuning-for-wordpress-what-actually-matters-o8e)
-- [SEO for Multilingual WordPress Sites: Hard Lessons from Ranking in 17 Languages](https://dev.to/kerryhank/seo-for-multilingual-wordpress-sites-hard-lessons-from-ranking-in-17-languages-50b7)
-- [Crypto API Integration Patterns for Education Platforms](https://dev.to/kerryhank/crypto-api-integration-patterns-for-education-platforms-24h2)
+- [Getting Started with Sidekick &lpar;sdkck&rpar;: A Complete Setup Guide](https://dev.to/allentcm/getting-started-with-sidekick-sdkck-a-complete-setup-guide-460m)
+- [What is Markdown-Based Test Management?](https://dev.to/reema_riyazkhan_aa44ab89/what-is-markdown-based-test-management-11k2)
+- [HumanPersonaBase: A Language-Agnostic Framework for Human-like AI Communication](https://dev.to/rintaromatsumoto/humanpersonabase-a-language-agnostic-framework-for-human-like-ai-communication-2ilp)
+- [The Psychology of SaaS User Abandonment — And How a Product Design Consultant Fixes It](https://dev.to/foundey_eadc3df7af9a10298/the-psychology-of-saas-user-abandonment-and-how-a-product-design-consultant-fixes-it-439g)
 <!-- BLOG-POST-LIST:END -->
 
 
