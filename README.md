@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Celery/Redis to Temporal: A Journey Toward Idempotency and Reliable Workflows](https://dev.to/wintrover/from-celeryredis-to-temporal-a-journey-toward-idempotency-and-reliable-workflows-k1i)
-- [Testing in the Age of AI Agents: How I Kept QA from Collapsing](https://dev.to/wintrover/testing-in-the-age-of-ai-agents-how-i-kept-qa-from-collapsing-2ld9)
-- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-75)
-- [Do I Really Need Svelte in My Django Project? — A Practical Checklist I Wrote After Comparing Vanilla JS vs. Frameworks](https://dev.to/wintrover/do-i-really-need-svelte-in-my-django-project-a-practical-checklist-i-wrote-after-comparing-10ma)
+- [I Removed Redis From My Stack and Used PostgreSQL for Job Queues Instead](https://dev.to/aws-builders/i-removed-redis-from-my-stack-and-used-postgresql-for-job-queues-instead-2lp5)
+- [Anyone knows about aws cloud support role? what skills needed?](https://dev.to/shisya/anyone-knows-about-aws-cloud-support-role-what-skills-needed-4ig0)
+- [How is Leyden improving Java Performance? Part 2 of 3](https://dev.to/delawen/how-is-leyden-improving-java-performance-part-2-of-3-n5n)
+- [A Practical Pattern for Comparing AI-Generated Code Before It Reaches Production](https://dev.to/leena_malhotra/a-practical-pattern-for-comparing-ai-generated-code-before-it-reaches-production-31lp)
 <!-- BLOG-POST-LIST:END -->
 
 
