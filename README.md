@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Removed Redis From My Stack and Used PostgreSQL for Job Queues Instead](https://dev.to/aws-builders/i-removed-redis-from-my-stack-and-used-postgresql-for-job-queues-instead-2lp5)
-- [Anyone knows about aws cloud support role? what skills needed?](https://dev.to/shisya/anyone-knows-about-aws-cloud-support-role-what-skills-needed-4ig0)
-- [How is Leyden improving Java Performance? Part 2 of 3](https://dev.to/delawen/how-is-leyden-improving-java-performance-part-2-of-3-n5n)
-- [A Practical Pattern for Comparing AI-Generated Code Before It Reaches Production](https://dev.to/leena_malhotra/a-practical-pattern-for-comparing-ai-generated-code-before-it-reaches-production-31lp)
+- [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no)
+- [Database Backup Fidelity: Why Crash-Consistent Is Not a Database Backup](https://dev.to/ntctech/database-backup-fidelity-why-crash-consistent-is-not-a-database-backup-46o6)
+- [Build AI Agents Locally and Access Them Anywhere with Langflow](https://dev.to/lightningdev123/build-ai-agents-locally-and-access-them-anywhere-with-langflow-1nof)
+- [What we found when an AI audited an AI &lpar;real findings, no sanitising&rpar;](https://dev.to/garybotlington/what-we-found-when-an-ai-audited-an-ai-real-findings-no-sanitising-lcf)
 <!-- BLOG-POST-LIST:END -->
 
 
