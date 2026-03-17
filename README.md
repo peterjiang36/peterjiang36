@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Argus: A Voice-Driven SOC Copilot with Gemini Live](https://dev.to/pratima-sapkota/building-argus-a-voice-driven-soc-copilot-with-gemini-live-2np6)
-- [Build a Node.js HTTP Server From Scratch &lpar;No Frameworks Needed and Less Then 30 Lines!&rpar;](https://dev.to/deividas-strole/build-a-nodejs-http-server-from-scratch-no-frameworks-needed-and-less-then-30-lines-2gc6)
-- [Building Production-Ready AI Features: A Senior Developer&#39;s Playbook](https://dev.to/cidersoft/building-production-ready-ai-features-a-senior-developers-playbook-4mb7)
-- [I Built an AI Agent That Sits in Your Incident War Room and Writes DORA Compliance Reports in Real Time](https://dev.to/manoj_mallick_71d0dd7eaa6/i-built-an-ai-agent-that-sits-in-your-incident-war-room-and-writes-dora-compliance-reports-in-real-23m5)
+- [I built an encyclopedia of 376 psychoactive substances with Next.js and PostgreSQL](https://dev.to/yagcioglutoprak/i-built-an-encyclopedia-of-376-psychoactive-substances-with-nextjs-and-postgresql-1cj7)
+- [Why I Switched from MCP to CLI](https://dev.to/allentcm/why-i-switched-from-mcp-to-cli-3ifb)
+- [I wanted the best GitHub notifications in Slack, so I built it](https://dev.to/francoislp/i-wanted-the-best-github-notifications-in-slack-so-i-built-it-n2d)
+- [Building a Production-Ready .NET 8 Banking API: Clean Architecture, PostgreSQL &amp; CI/CD on Render](https://dev.to/oluwatobiloba9/building-a-production-ready-net-8-banking-api-clean-architecture-postgresql-cicd-on-mhb)
 <!-- BLOG-POST-LIST:END -->
 
 
