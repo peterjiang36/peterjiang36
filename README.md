@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a cognitive layer for AI agents that learns without LLM calls](https://dev.to/teolex2020/i-built-a-cognitive-layer-for-ai-agents-that-learns-without-llm-calls-33no)
-- [Database Backup Fidelity: Why Crash-Consistent Is Not a Database Backup](https://dev.to/ntctech/database-backup-fidelity-why-crash-consistent-is-not-a-database-backup-46o6)
-- [Build AI Agents Locally and Access Them Anywhere with Langflow](https://dev.to/lightningdev123/build-ai-agents-locally-and-access-them-anywhere-with-langflow-1nof)
-- [What we found when an AI audited an AI &lpar;real findings, no sanitising&rpar;](https://dev.to/garybotlington/what-we-found-when-an-ai-audited-an-ai-real-findings-no-sanitising-lcf)
+- [Showing up before you&#39;re ready](https://dev.to/ik_8a78062fd65be769dd835/showing-up-before-youre-ready-2dkb)
+- [Mastering Your AI Costs: An In-Depth Look at TokenWatch](https://dev.to/aloycwl/mastering-your-ai-costs-an-in-depth-look-at-tokenwatch-4ld3)
+- [How a Game Engine Accidentally Became a Web Framework](https://dev.to/iceonfire/how-a-game-engine-accidentally-became-a-web-framework-1k8j)
+- [Building a Rails Engine #11 -- Generators: Install &amp; Target Scaffolding](https://dev.to/seryllns_/building-a-rails-engine-11-generators-install-target-scaffolding-2i58)
 <!-- BLOG-POST-LIST:END -->
 
 
