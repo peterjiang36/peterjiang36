@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Struggling to Learn Docker? I Built a Hands-On Learning Environment &lpar;DockerQuest&rpar;](https://dev.to/praveenkanaparthy/struggling-to-learn-docker-i-built-a-hands-on-learning-environment-dockerquest-1422)
-- [Learning Automation the Smart Way: Scripts, Bots, and AI Workflows Every Developer Should Master](https://dev.to/eva_clari_289d85ecc68da48/learning-automation-the-smart-way-scripts-bots-and-ai-workflows-every-developer-should-master-1k2k)
-- [How I Automated Backlink Submission for My Side Projects &lpar;and Why You Should Care About SEO&rpar;](https://dev.to/mr-zhang-bo/how-i-automated-backlink-submission-for-my-side-projects-and-why-you-should-care-about-seo-1phi)
-- [🚀 I Built a QR Code Menu &amp; Ordering System for Restaurants &lpar;Restra Menu&rpar;](https://dev.to/restra_menu_8fae63d4ffc03/i-built-a-qr-code-menu-ordering-system-for-restaurants-restra-menu-4imo)
+- [March 2026 AWS highlights](https://dev.to/devops_descent/march-2026-aws-highlights-4jmb)
+- [Introduction to the Loki Stack: Lightweight Logging for Kubernetes](https://dev.to/gokul_skumar_b11a3f36e2b9/introduction-to-the-loki-stack-lightweight-logging-for-kubernetes-5h2o)
+- [uv on Windows with OneDrive: Centralized Virtual Environments](https://dev.to/william_andrsrojas_0881/uv-on-windows-with-onedrive-centralized-virtual-environments-331b)
+- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-1kca)
 <!-- BLOG-POST-LIST:END -->
 
 
