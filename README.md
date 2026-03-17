@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [March 2026 AWS highlights](https://dev.to/devops_descent/march-2026-aws-highlights-4jmb)
-- [Introduction to the Loki Stack: Lightweight Logging for Kubernetes](https://dev.to/gokul_skumar_b11a3f36e2b9/introduction-to-the-loki-stack-lightweight-logging-for-kubernetes-5h2o)
-- [uv on Windows with OneDrive: Centralized Virtual Environments](https://dev.to/william_andrsrojas_0881/uv-on-windows-with-onedrive-centralized-virtual-environments-331b)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-1kca)
+- [Handling Crypto Exchange API Rate Limits Without Losing Your Mind](https://dev.to/kerryhank/handling-crypto-exchange-api-rate-limits-without-losing-your-mind-ag9)
+- [Cloudflare Performance Tuning for WordPress: What Actually Matters](https://dev.to/kerryhank/cloudflare-performance-tuning-for-wordpress-what-actually-matters-o8e)
+- [SEO for Multilingual WordPress Sites: Hard Lessons from Ranking in 17 Languages](https://dev.to/kerryhank/seo-for-multilingual-wordpress-sites-hard-lessons-from-ranking-in-17-languages-50b7)
+- [Crypto API Integration Patterns for Education Platforms](https://dev.to/kerryhank/crypto-api-integration-patterns-for-education-platforms-24h2)
 <!-- BLOG-POST-LIST:END -->
 
 
