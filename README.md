@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Had 12 Unpublished Articles Sitting in Drafts. An MCP Server Fixed That.](https://dev.to/themeticulist/i-had-12-unpublished-articles-sitting-in-drafts-an-mcp-server-fixed-that-53ge)
-- [Understanding the OpenClaw Nexus‑Safe Skill: Autonomous Local System Reliability Agent](https://dev.to/aloycwl/understanding-the-openclaw-nexus-safe-skill-autonomous-local-system-reliability-agent-3n71)
-- [Bot Abuse in AI APIs: Why Your LLM Endpoint Is a Target](https://dev.to/botguard/bot-abuse-in-ai-apis-why-your-llm-endpoint-is-a-target-1a6p)
-- [I built a free client tracker for freelancers &lpar;no login, no backend, just localStorage&rpar;](https://dev.to/landolio/i-built-a-free-client-tracker-for-freelancers-no-login-no-backend-just-localstorage-102f)
+- [Struggling to Learn Docker? I Built a Hands-On Learning Environment &lpar;DockerQuest&rpar;](https://dev.to/praveenkanaparthy/struggling-to-learn-docker-i-built-a-hands-on-learning-environment-dockerquest-1422)
+- [Learning Automation the Smart Way: Scripts, Bots, and AI Workflows Every Developer Should Master](https://dev.to/eva_clari_289d85ecc68da48/learning-automation-the-smart-way-scripts-bots-and-ai-workflows-every-developer-should-master-1k2k)
+- [How I Automated Backlink Submission for My Side Projects &lpar;and Why You Should Care About SEO&rpar;](https://dev.to/mr-zhang-bo/how-i-automated-backlink-submission-for-my-side-projects-and-why-you-should-care-about-seo-1phi)
+- [🚀 I Built a QR Code Menu &amp; Ordering System for Restaurants &lpar;Restra Menu&rpar;](https://dev.to/restra_menu_8fae63d4ffc03/i-built-a-qr-code-menu-ordering-system-for-restaurants-restra-menu-4imo)
 <!-- BLOG-POST-LIST:END -->
 
 
