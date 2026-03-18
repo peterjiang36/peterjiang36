@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of AI Coding Agents &lpar;And How to Track It in Real Time&rpar;](https://dev.to/godnick/the-hidden-cost-of-ai-coding-agents-and-how-to-track-it-in-real-time-3fgf)
-- [AI-Driven Quality Engineering for Regulated Enterprise Systems](https://dev.to/suresh_babunarra_c24d754/ai-driven-quality-engineering-for-regulated-enterprise-systems-344m)
-- [Why I Built on Top of OpenRouter Instead of Building a Model Gateway from Scratch](https://dev.to/robinbanner/why-i-built-on-top-of-openrouter-instead-of-building-a-model-gateway-from-scratch-36p)
-- [Heuristic vs Semantic Eval: When &lt;1ms Matters More Than LLM-as-Judge](https://dev.to/irparent/heuristic-vs-semantic-eval-when-1ms-matters-more-than-llm-as-judge-1mpl)
+- [Building a Fully Reproducible Kubernetes Platform Using Scaleway, Terraform, and ArgoCD - Part 1](https://dev.to/mayorstacks/building-a-fully-reproducible-kubernetes-platform-using-scaleway-terraform-and-argocd-part-1-jm6)
+- [🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro](https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f)
+- [Teaching Beginners in Web Development: Where We’re Getting It Wrong](https://dev.to/abdulmanan-js-dev/teaching-beginners-in-web-development-where-were-getting-it-wrong-1676)
+- [From Retrieval to Internalization](https://dev.to/hollowhouse/from-retrieval-to-internalization-3h2o)
 <!-- BLOG-POST-LIST:END -->
 
 
