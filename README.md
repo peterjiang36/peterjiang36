@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Workflow Engines. Treating Them Like Features Is Why They Break.](https://dev.to/yatin_verma/ai-agents-are-workflow-engines-treating-them-like-features-is-why-they-break-52lm)
-- [Stop Fighting SSL in Coolify Behind Cloudflare](https://dev.to/takielias/stop-fighting-ssl-in-coolify-behind-cloudflare-2pip)
-- [What My Failed Apps Taught Me About Building Products](https://dev.to/devsnake/what-my-failed-apps-taught-me-about-building-products-5fm9)
-- [I built a PHP framework with Spring Boot style - zero dependencies, dynamic ORM, attribute-based routing &lpar;works on shared host&rpar;.](https://dev.to/cn8001/i-built-a-php-framework-with-spring-boot-style-zero-dependencies-dynamic-orm-attribute-based-5c10)
+- [Axios VS Ky: When to use which?](https://dev.to/shukria-sultani/axios-vs-ky-when-to-use-which-11b8)
+- [Why Building Voice AI Agents Is Still So Hard &lpar;and Why We Started Dograh&rpar;](https://dev.to/dograh/why-building-voice-ai-agents-is-still-so-hard-and-why-we-started-dograh-2gcc)
+- [Stop letting your AI agent guess how your code works](https://dev.to/thuongh2/stop-letting-your-ai-agent-guess-how-your-code-works-53b6)
+- [Agent Payment Layers Are Fragmenting — What Developers Need to Know Now](https://dev.to/nathanielc85523/agent-payment-layers-are-fragmenting-what-developers-need-to-know-now-gae)
 <!-- BLOG-POST-LIST:END -->
 
 
