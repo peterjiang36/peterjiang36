@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Got Out of the “Why Not Me?” Loop](https://dev.to/konark_13/how-i-got-out-of-the-why-not-me-loop-2ge0)
-- [Introducing ComScope: A Fast &amp; Lightweight Serial Terminal for Embedded Linux Developers](https://dev.to/prkshdas/introducing-comscope-a-fast-lightweight-serial-terminal-for-embedded-linux-developers-b1l)
-- [The Single Responsibility Principle: The Cornerstone of Scalable Web Architecture](https://dev.to/chris_lee_5e58cce05f5d01d/the-single-responsibility-principle-the-cornerstone-of-scalable-web-architecture-5j0)
-- [From Localhost to Live SaaS: Deploying My FastAPI App with Apache, SSL &amp; JWT Auth](https://dev.to/bharath_kumar_30_vog/from-localhost-to-live-saas-deploying-my-fastapi-app-with-apache-ssl-jwt-auth-3ogn)
+- [To Find the max &amp; min element in a array](https://dev.to/abirami_prabhakar/to-find-the-max-min-element-in-a-array-16kn)
+- [Stop Leaking Data in Multi-Tenant Apps](https://dev.to/adrianovieira/stop-leaking-data-in-multi-tenant-apps-1edp)
+- [Prompt Injection Is an Agent Problem, Not a Model Problem](https://dev.to/waxell/prompt-injection-is-an-agent-problem-not-a-model-problem-2365)
+- [Open Source Maintainers Face Mental Health Crises: Sustainable Practices and Community Support Needed](https://dev.to/romdevin/open-source-maintainers-face-mental-health-crises-sustainable-practices-and-community-support-14mh)
 <!-- BLOG-POST-LIST:END -->
 
 
