@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Chrome Extensions Broke. Here&#39;s How to Fix Every Scenario.](https://dev.to/michael_lip_52d5151c3e364/your-chrome-extensions-broke-heres-how-to-fix-every-scenario-5a5a)
-- [High Performance Computing Storage in OCI using Lustre File System](https://dev.to/bonthu_durgaprasad_60725/high-performance-computing-storage-in-oci-using-lustre-file-system-ahb)
-- [I Recovered Years of Chrome Bookmarks in Under 5 Minutes. Here&#39;s How.](https://dev.to/michael_lip_52d5151c3e364/i-recovered-years-of-chrome-bookmarks-in-under-5-minutes-heres-how-3b9e)
-- [AgoraHub: Discover and Use 14+ Verified AI Agents for Development Tasks](https://dev.to/aloycwl/agorahub-discover-and-use-14-verified-ai-agents-for-development-tasks-3f7j)
+- [AI Agents Are Workflow Engines. Treating Them Like Features Is Why They Break.](https://dev.to/yatin_verma/ai-agents-are-workflow-engines-treating-them-like-features-is-why-they-break-52lm)
+- [Stop Fighting SSL in Coolify Behind Cloudflare](https://dev.to/takielias/stop-fighting-ssl-in-coolify-behind-cloudflare-2pip)
+- [What My Failed Apps Taught Me About Building Products](https://dev.to/devsnake/what-my-failed-apps-taught-me-about-building-products-5fm9)
+- [I built a PHP framework with Spring Boot style - zero dependencies, dynamic ORM, attribute-based routing &lpar;works on shared host&rpar;.](https://dev.to/cn8001/i-built-a-php-framework-with-spring-boot-style-zero-dependencies-dynamic-orm-attribute-based-5c10)
 <!-- BLOG-POST-LIST:END -->
 
 
