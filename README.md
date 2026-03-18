@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Fully Reproducible Kubernetes Platform Using Scaleway, Terraform, and ArgoCD - Part 1](https://dev.to/mayorstacks/building-a-fully-reproducible-kubernetes-platform-using-scaleway-terraform-and-argocd-part-1-jm6)
-- [🚀 Stop Burning Money on AI Tools - Use Cursor Like a Pro](https://dev.to/dineshrajanandan/stop-burning-money-on-ai-tools-use-cursor-like-a-pro-3l0f)
-- [Teaching Beginners in Web Development: Where We’re Getting It Wrong](https://dev.to/abdulmanan-js-dev/teaching-beginners-in-web-development-where-were-getting-it-wrong-1676)
-- [From Retrieval to Internalization](https://dev.to/hollowhouse/from-retrieval-to-internalization-3h2o)
+- [React Performance Optimisation: 10 Patterns Senior Devs Use](https://dev.to/waqarhabib/react-performance-optimisation-10-patterns-senior-devs-use-1m00)
+- [The Complete Guide to Flutter BLoC State Management](https://dev.to/kumarharsh/the-complete-guide-to-flutter-bloc-state-management-3lp9)
+- [Why AWS Graviton5 Makes Multi-Arch Docker Builds Mandatory in 2026](https://dev.to/nico_balmaceda/why-aws-graviton5-makes-multi-arch-docker-builds-mandatory-in-2026-4n52)
+- [TypeScript Best Practices for Large-Scale Web Applications](https://dev.to/waqarhabib/typescript-best-practices-for-large-scale-web-applications-234c)
 <!-- BLOG-POST-LIST:END -->
 
 
