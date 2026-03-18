@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why MCP Servers Matter for Healthcare Integration Engineers](https://dev.to/easysolutions906/why-mcp-servers-matter-for-healthcare-integration-engineers-1e9o)
-- [I built a dev tool that &quot;evolves&quot; code with AI — REAP](https://dev.to/casamia918/i-built-a-dev-tool-that-evolves-code-with-ai-reap-k17)
-- [Alibaba Cloud Observability and Datadog Release OpenTelemetry Go Automatic Instrumentation Tool](https://dev.to/observabilityguy/alibaba-cloud-observability-and-datadog-release-opentelemetry-go-automatic-instrumentation-tool-4gbc)
-- [From Box Shadows to Dashed Borders: How I Hit 63 Characters on CSSBattle&#39;s Daily Target 🎯](https://dev.to/jitheshpoojari/from-box-shadows-to-dashed-borders-how-i-hit-63-characters-on-cssbattles-daily-target-3kbm)
+- [Where Can You Find Reliable Definitions of OOD?](https://dev.to/stack_overflowed/where-can-you-find-reliable-definitions-of-ood-4me0)
+- [Your Laravel Webhooks Are Insecure &lpar;How to Fix Them in 10 Minutes&rpar;](https://dev.to/iprajapatiparesh/your-laravel-webhooks-are-insecure-how-to-fix-them-in-10-minutes-8bp)
+- [Why Eloquent is Silently Killing Your Laravel App&#39;s Performance](https://dev.to/iprajapatiparesh/why-eloquent-is-silently-killing-your-laravel-apps-performance-1jcn)
+- [Why Your AI Agents Need Observability](https://dev.to/irparent/why-your-ai-agents-need-observability-3lb6)
 <!-- BLOG-POST-LIST:END -->
 
 
