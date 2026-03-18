@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Financial Risk Analysis in Excel: How I Used COUNTIFS, AVERAGEIF &amp; Pivot Tables to Uncover Loan Default Patterns](https://dev.to/maurine/financial-risk-analysis-in-excel-how-i-used-countifs-averageif-pivot-tables-to-uncover-loan-1nfn)
-- [The Coinbase Breach Explained: Insider Social Engineering Attack](https://dev.to/kuboidsecurelayer/the-coinbase-breach-explained-insider-social-engineering-attack-l6a)
-- [How I Built an AI Video Editor as an OpenClaw Skill](https://dev.to/weizhang_dev/how-i-built-an-ai-video-editor-as-an-openclaw-skill-103j)
-- [Building a Smart, AI-Powered Book Search App — The Easy Way](https://dev.to/seekdb/building-a-smart-ai-powered-book-search-app-the-easy-way-p01)
+- [I built a black box recorder for AI systems – CEL v0.2 Pro](https://dev.to/ghurtsky/i-built-a-black-box-recorder-for-ai-systems-cel-v02-pro-3875)
+- [Can AI Take a Brokerage Engineering Team from Monthly Releases to Weekly?](https://dev.to/alichherawalla/can-ai-take-a-brokerage-engineering-team-from-monthly-releases-to-weekly-3anl)
+- [🤖 Building an AI Chat Widget with MCP](https://dev.to/denesbeck/building-an-ai-chat-widget-with-mcp-35an)
+- [@ClawMe: Making self-hosted AI agents discoverable; why I&#39;m building @handles for A2A](https://dev.to/prajwalkhairnar/clawme-making-self-hosted-ai-agents-discoverable-why-im-building-handles-for-a2a-3bb5)
 <!-- BLOG-POST-LIST:END -->
 
 
