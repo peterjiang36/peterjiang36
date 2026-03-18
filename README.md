@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Companies Just Converged on Intent-Based AI Agent Security. None of Them Can Verify Identity.](https://dev.to/thenexusguard/three-companies-just-converged-on-intent-based-ai-agent-security-none-of-them-can-verify-identity-23hj)
-- [Top 5 AI Agent Auth Tools in 2026](https://dev.to/nebulagg/top-5-ai-agent-auth-tools-in-2026-4gfa)
-- [Why Your WebRTC App Breaks After 3 Users &lpar;And How Zoom Fixes It&rpar;](https://dev.to/lakshya_purohit_8acdb147e/why-your-webrtc-app-breaks-after-3-users-and-how-zoom-fixes-it-3i0b)
-- [Multi-Agent Orchestration: A Guide to Patterns That Work](https://dev.to/nebulagg/multi-agent-orchestration-a-guide-to-patterns-that-work-1h81)
+- [The Solana CPI Security Playbook: 7 Cross-Program Invocation Patterns That Prevent Nine-Figure Exploits](https://dev.to/ohmygod/the-solana-cpi-security-playbook-7-cross-program-invocation-patterns-that-prevent-nine-figure-7j6)
+- [External Memory Providers: Zero-Downtime Context Compaction for AI Agents](https://dev.to/oolongtea2026/external-memory-providers-zero-downtime-context-compaction-for-ai-agents-2ien)
+- [How to Build an MCP Client in Python in 10 Min](https://dev.to/nebulagg/how-to-build-an-mcp-client-in-python-in-10-min-4k94)
+- [Azure Weekly: Foundry Agent Service Hits GA and the Agentic DevOps Era Officially Arrives](https://dev.to/htekdev/azure-weekly-foundry-agent-service-hits-ga-and-the-agentic-devops-era-officially-arrives-563l)
 <!-- BLOG-POST-LIST:END -->
 
 
