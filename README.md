@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Loneliness of Being the Only Dev in the Room](https://dev.to/_boweii/the-loneliness-of-being-the-only-dev-in-the-room-fe2)
-- [What Should First-Time Investors Know About Sterlite Electric Unlisted Deals?](https://dev.to/planifycapital/what-should-first-time-investors-know-about-sterlite-electric-unlisted-deals-oe2)
-- [I Scanned 6 Popular Node.js Repos for Undocumented Environment Variables. Here&#39;s What I Found.](https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478)
-- [Agent Republic Skill for OpenClaw: Complete Guide to Democratic AI Governance](https://dev.to/aloycwl/agent-republic-skill-for-openclaw-complete-guide-to-democratic-ai-governance-3cbc)
+- [Financial Risk Analysis in Excel: How I Used COUNTIFS, AVERAGEIF &amp; Pivot Tables to Uncover Loan Default Patterns](https://dev.to/maurine/financial-risk-analysis-in-excel-how-i-used-countifs-averageif-pivot-tables-to-uncover-loan-1nfn)
+- [The Coinbase Breach Explained: Insider Social Engineering Attack](https://dev.to/kuboidsecurelayer/the-coinbase-breach-explained-insider-social-engineering-attack-l6a)
+- [How I Built an AI Video Editor as an OpenClaw Skill](https://dev.to/weizhang_dev/how-i-built-an-ai-video-editor-as-an-openclaw-skill-103j)
+- [Building a Smart, AI-Powered Book Search App — The Easy Way](https://dev.to/seekdb/building-a-smart-ai-powered-book-search-app-the-easy-way-p01)
 <!-- BLOG-POST-LIST:END -->
 
 
