@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React Performance Optimisation: 10 Patterns Senior Devs Use](https://dev.to/waqarhabib/react-performance-optimisation-10-patterns-senior-devs-use-1m00)
-- [The Complete Guide to Flutter BLoC State Management](https://dev.to/kumarharsh/the-complete-guide-to-flutter-bloc-state-management-3lp9)
-- [Why AWS Graviton5 Makes Multi-Arch Docker Builds Mandatory in 2026](https://dev.to/nico_balmaceda/why-aws-graviton5-makes-multi-arch-docker-builds-mandatory-in-2026-4n52)
-- [TypeScript Best Practices for Large-Scale Web Applications](https://dev.to/waqarhabib/typescript-best-practices-for-large-scale-web-applications-234c)
+- [How I Got Out of the “Why Not Me?” Loop](https://dev.to/konark_13/how-i-got-out-of-the-why-not-me-loop-2ge0)
+- [Introducing ComScope: A Fast &amp; Lightweight Serial Terminal for Embedded Linux Developers](https://dev.to/prkshdas/introducing-comscope-a-fast-lightweight-serial-terminal-for-embedded-linux-developers-b1l)
+- [The Single Responsibility Principle: The Cornerstone of Scalable Web Architecture](https://dev.to/chris_lee_5e58cce05f5d01d/the-single-responsibility-principle-the-cornerstone-of-scalable-web-architecture-5j0)
+- [From Localhost to Live SaaS: Deploying My FastAPI App with Apache, SSL &amp; JWT Auth](https://dev.to/bharath_kumar_30_vog/from-localhost-to-live-saas-deploying-my-fastapi-app-with-apache-ssl-jwt-auth-3ogn)
 <!-- BLOG-POST-LIST:END -->
 
 
