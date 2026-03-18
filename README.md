@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PC_Workman: Building a System Monitor for Microsoft Store](https://dev.to/huckler/pcworkman-building-a-system-monitor-for-microsoft-store-337g)
-- [Bridge ACE: Run AI Agent Teams on Your Machine](https://dev.to/bridgeace/bridge-ace-run-ai-agent-teams-on-your-machine-17dn)
-- [The WebSocket Architecture That Makes Multi-Agent AI Actually Work](https://dev.to/bridgeace/the-websocket-architecture-that-makes-multi-agent-ai-actually-work-2fgd)
-- [Setting Up a CI/CD Pipeline to Kubernetes with GitHub Actions](https://dev.to/iamdevbox/setting-up-a-cicd-pipeline-to-kubernetes-with-github-actions-43mg)
+- [Co-Packaged Optics &lpar;CPO&rpar;: Redefining Optical Interconnects for AI Data Centers](https://dev.to/aicplight/co-packaged-optics-cpo-redefining-optical-interconnects-for-ai-data-centers-1p7b)
+- [MCP for AI Services: How to Give Claude Desktop Access to 30 GPU-Powered Tools](https://dev.to/gpubridge/mcp-for-ai-services-how-to-give-claude-desktop-access-to-30-gpu-powered-tools-1pn7)
+- [Signals in React &lpar;II&rpar;: Tear-Free Subscriptions](https://dev.to/luciano0322/signals-in-react-ii-tear-free-subscriptions-3mpf)
+- [From Research Paper to Prototype: Using Generative AI to Automatically Generate Test Cases](https://dev.to/pavan-kumar-appannagari/from-research-paper-to-prototype-using-generative-ai-to-automatically-generate-test-cases-418m)
 <!-- BLOG-POST-LIST:END -->
 
 
