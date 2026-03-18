@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices Doesn&#39;t Mean Lambda Everything](https://dev.to/jlinco/microservices-doesnt-mean-lambda-everything-4339)
-- [Konsep Dasar Digital &lpar;Komputer&rpar;](https://dev.to/rachmad_andriatmoko_ca7e/konsep-dasar-digital-komputer-30hl)
-- [Building “The Better Store”  — Part 4: Implementing a Microservices Architecture with Cloud Native Patterns and AWS Services](https://dev.to/aws-builders/building-the-better-store-part-4-implementing-a-microservices-architecture-with-cloud-native-585a)
-- [Institutional Treasury 2026: Stablecoin Risk Mitigation](https://dev.to/vinu_digital/institutional-treasury-2026-stablecoin-risk-mitigation-32g9)
+- [The Six Pillars of a Good Web App — And How to Enforce All of Them in a Single Lovable Prompt](https://dev.to/soumia_g_9dc322fc4404cecd/the-six-pillars-of-a-good-web-app-and-how-to-enforce-all-of-them-in-a-single-lovable-prompt-1m3a)
+- [[Exam Report] Datadog Fundamentals — A Modern Learning Approach Leveraging AI &lpar;NotebookLM &amp; Antigravity&rpar;](https://dev.to/rintarowako/exam-report-datadog-fundamentals-a-modern-learning-approach-leveraging-ai-notebooklm--14ea)
+- [Stealth Browser: How AI Agents Bypass Bot Detection](https://dev.to/bridgeace/stealth-browser-how-ai-agents-bypass-bot-detection-3eh6)
+- [Go Web Frameworks in Production: Gin vs Echo vs Fiber Performance Comparison](https://dev.to/matthiasbruns/go-web-frameworks-in-production-gin-vs-echo-vs-fiber-performance-comparison-1gkp)
 <!-- BLOG-POST-LIST:END -->
 
 
