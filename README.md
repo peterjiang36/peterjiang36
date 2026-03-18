@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Six Pillars of a Good Web App — And How to Enforce All of Them in a Single Lovable Prompt](https://dev.to/soumia_g_9dc322fc4404cecd/the-six-pillars-of-a-good-web-app-and-how-to-enforce-all-of-them-in-a-single-lovable-prompt-1m3a)
-- [[Exam Report] Datadog Fundamentals — A Modern Learning Approach Leveraging AI &lpar;NotebookLM &amp; Antigravity&rpar;](https://dev.to/rintarowako/exam-report-datadog-fundamentals-a-modern-learning-approach-leveraging-ai-notebooklm--14ea)
-- [Stealth Browser: How AI Agents Bypass Bot Detection](https://dev.to/bridgeace/stealth-browser-how-ai-agents-bypass-bot-detection-3eh6)
-- [Go Web Frameworks in Production: Gin vs Echo vs Fiber Performance Comparison](https://dev.to/matthiasbruns/go-web-frameworks-in-production-gin-vs-echo-vs-fiber-performance-comparison-1gkp)
+- [Your Chrome Extensions Broke. Here&#39;s How to Fix Every Scenario.](https://dev.to/michael_lip_52d5151c3e364/your-chrome-extensions-broke-heres-how-to-fix-every-scenario-5a5a)
+- [High Performance Computing Storage in OCI using Lustre File System](https://dev.to/bonthu_durgaprasad_60725/high-performance-computing-storage-in-oci-using-lustre-file-system-ahb)
+- [I Recovered Years of Chrome Bookmarks in Under 5 Minutes. Here&#39;s How.](https://dev.to/michael_lip_52d5151c3e364/i-recovered-years-of-chrome-bookmarks-in-under-5-minutes-heres-how-3b9e)
+- [AgoraHub: Discover and Use 14+ Verified AI Agents for Development Tasks](https://dev.to/aloycwl/agorahub-discover-and-use-14-verified-ai-agents-for-development-tasks-3f7j)
 <!-- BLOG-POST-LIST:END -->
 
 
