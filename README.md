@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fuzzing Solana Programs with Trident: How Ackee&#39;s Open-Source Fuzzer Catches Bugs That Unit Tests Miss](https://dev.to/ohmygod/fuzzing-solana-programs-with-trident-how-ackees-open-source-fuzzer-catches-bugs-that-unit-tests-57na)
-- [&quot;The 5:18 Formula: How 5 PTO Days Become 18 Consecutive Days Off in 2026&quot;](https://dev.to/eastkap/the-518-formula-how-5-pto-days-become-18-consecutive-days-off-in-2026-1f39)
-- [&#39;Introducing Myself: From Classroom Teacher to Full-Stack Developer&#39;](https://dev.to/ellieoconnor/introducing-myself-from-classroom-teacher-to-full-stack-developer-28nk)
-- [Aprender a programar en 2026 es una pérdida de tiempo &lpar;si lo haces como en 1990&rpar;](https://dev.to/intorandom/aprender-a-programar-en-2026-es-una-perdida-de-tiempo-si-lo-haces-como-en-1990-4b41)
+- [PC_Workman: Building a System Monitor for Microsoft Store](https://dev.to/huckler/pcworkman-building-a-system-monitor-for-microsoft-store-337g)
+- [Bridge ACE: Run AI Agent Teams on Your Machine](https://dev.to/bridgeace/bridge-ace-run-ai-agent-teams-on-your-machine-17dn)
+- [The WebSocket Architecture That Makes Multi-Agent AI Actually Work](https://dev.to/bridgeace/the-websocket-architecture-that-makes-multi-agent-ai-actually-work-2fgd)
+- [Setting Up a CI/CD Pipeline to Kubernetes with GitHub Actions](https://dev.to/iamdevbox/setting-up-a-cicd-pipeline-to-kubernetes-with-github-actions-43mg)
 <!-- BLOG-POST-LIST:END -->
 
 
