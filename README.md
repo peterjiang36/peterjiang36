@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [To Find the max &amp; min element in a array](https://dev.to/abirami_prabhakar/to-find-the-max-min-element-in-a-array-16kn)
-- [Stop Leaking Data in Multi-Tenant Apps](https://dev.to/adrianovieira/stop-leaking-data-in-multi-tenant-apps-1edp)
-- [Prompt Injection Is an Agent Problem, Not a Model Problem](https://dev.to/waxell/prompt-injection-is-an-agent-problem-not-a-model-problem-2365)
-- [Open Source Maintainers Face Mental Health Crises: Sustainable Practices and Community Support Needed](https://dev.to/romdevin/open-source-maintainers-face-mental-health-crises-sustainable-practices-and-community-support-14mh)
+- [Three Companies Just Converged on Intent-Based AI Agent Security. None of Them Can Verify Identity.](https://dev.to/thenexusguard/three-companies-just-converged-on-intent-based-ai-agent-security-none-of-them-can-verify-identity-23hj)
+- [Top 5 AI Agent Auth Tools in 2026](https://dev.to/nebulagg/top-5-ai-agent-auth-tools-in-2026-4gfa)
+- [Why Your WebRTC App Breaks After 3 Users &lpar;And How Zoom Fixes It&rpar;](https://dev.to/lakshya_purohit_8acdb147e/why-your-webrtc-app-breaks-after-3-users-and-how-zoom-fixes-it-3i0b)
+- [Multi-Agent Orchestration: A Guide to Patterns That Work](https://dev.to/nebulagg/multi-agent-orchestration-a-guide-to-patterns-that-work-1h81)
 <!-- BLOG-POST-LIST:END -->
 
 
