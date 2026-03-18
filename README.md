@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Axios VS Ky: When to use which?](https://dev.to/shukria-sultani/axios-vs-ky-when-to-use-which-11b8)
-- [Why Building Voice AI Agents Is Still So Hard &lpar;and Why We Started Dograh&rpar;](https://dev.to/dograh/why-building-voice-ai-agents-is-still-so-hard-and-why-we-started-dograh-2gcc)
-- [Stop letting your AI agent guess how your code works](https://dev.to/thuongh2/stop-letting-your-ai-agent-guess-how-your-code-works-53b6)
-- [Agent Payment Layers Are Fragmenting — What Developers Need to Know Now](https://dev.to/nathanielc85523/agent-payment-layers-are-fragmenting-what-developers-need-to-know-now-gae)
+- [Chrome Zero-Day Exploits: 4 Vulnerabilities Exposed in May 2024&#39;s Most Aggressive Attack Wave](https://dev.to/kunal_d6a8fea2309e1571ee7/chrome-zero-day-exploits-4-vulnerabilities-exposed-in-may-2024s-most-aggressive-attack-wave-2hhb)
+- [Patch Tuesday Zero-Day Lessons: What February 2024&#39;s Two Exploited Flaws Still Teach Us [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/patch-tuesday-zero-day-lessons-what-february-2024s-two-exploited-flaws-still-teach-us-2026-4cjk)
+- [Harnessing AI in DevOps Pipelines &amp; Platform Engineering](https://dev.to/ranjan_devto/harnessing-ai-in-devops-pipelines-platform-engineering-1b4)
+- [Tools Required for Data Analysis](https://dev.to/gabriel_njoroge_5be6652c3/tools-required-for-data-analysis-1b0n)
 <!-- BLOG-POST-LIST:END -->
 
 
