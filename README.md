@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Solana CPI Security Playbook: 7 Cross-Program Invocation Patterns That Prevent Nine-Figure Exploits](https://dev.to/ohmygod/the-solana-cpi-security-playbook-7-cross-program-invocation-patterns-that-prevent-nine-figure-7j6)
-- [External Memory Providers: Zero-Downtime Context Compaction for AI Agents](https://dev.to/oolongtea2026/external-memory-providers-zero-downtime-context-compaction-for-ai-agents-2ien)
-- [How to Build an MCP Client in Python in 10 Min](https://dev.to/nebulagg/how-to-build-an-mcp-client-in-python-in-10-min-4k94)
-- [Azure Weekly: Foundry Agent Service Hits GA and the Agentic DevOps Era Officially Arrives](https://dev.to/htekdev/azure-weekly-foundry-agent-service-hits-ga-and-the-agentic-devops-era-officially-arrives-563l)
+- [Bright Data Review 2026: Is It Worth the Price? &lpar;Honest Assessment&rpar;](https://dev.to/agenthustler/bright-data-review-2026-is-it-worth-the-price-honest-assessment-3gbe)
+- [PHP 8.3 Fibers for Concurrent API Calls](https://dev.to/ahmet_gedik778845/php-83-fibers-for-concurrent-api-calls-1p39)
+- [Claude CodeでUnit of Workパターンを設計する：複数リポジトリのトランザクション統一・変更追跡・原子コミット](https://dev.to/myougatheaxo/claude-codedeunit-of-workpatanwoshe-ji-surufu-shu-ripozitorinotoranzakusiyontong-bian-geng-zhui-ji-yuan-zi-komituto-1e2f)
+- [Supply Lines and Logistics - The Cost of War](https://dev.to/deepak_mishra_35863517037/supply-lines-and-logistics-the-cost-of-war-10i4)
 <!-- BLOG-POST-LIST:END -->
 
 
