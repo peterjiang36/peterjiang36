@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Co-Packaged Optics &lpar;CPO&rpar;: Redefining Optical Interconnects for AI Data Centers](https://dev.to/aicplight/co-packaged-optics-cpo-redefining-optical-interconnects-for-ai-data-centers-1p7b)
-- [MCP for AI Services: How to Give Claude Desktop Access to 30 GPU-Powered Tools](https://dev.to/gpubridge/mcp-for-ai-services-how-to-give-claude-desktop-access-to-30-gpu-powered-tools-1pn7)
-- [Signals in React &lpar;II&rpar;: Tear-Free Subscriptions](https://dev.to/luciano0322/signals-in-react-ii-tear-free-subscriptions-3mpf)
-- [From Research Paper to Prototype: Using Generative AI to Automatically Generate Test Cases](https://dev.to/pavan-kumar-appannagari/from-research-paper-to-prototype-using-generative-ai-to-automatically-generate-test-cases-418m)
+- [Why MCP Servers Matter for Healthcare Integration Engineers](https://dev.to/easysolutions906/why-mcp-servers-matter-for-healthcare-integration-engineers-1e9o)
+- [I built a dev tool that &quot;evolves&quot; code with AI — REAP](https://dev.to/casamia918/i-built-a-dev-tool-that-evolves-code-with-ai-reap-k17)
+- [Alibaba Cloud Observability and Datadog Release OpenTelemetry Go Automatic Instrumentation Tool](https://dev.to/observabilityguy/alibaba-cloud-observability-and-datadog-release-opentelemetry-go-automatic-instrumentation-tool-4gbc)
+- [From Box Shadows to Dashed Borders: How I Hit 63 Characters on CSSBattle&#39;s Daily Target 🎯](https://dev.to/jitheshpoojari/from-box-shadows-to-dashed-borders-how-i-hit-63-characters-on-cssbattles-daily-target-3kbm)
 <!-- BLOG-POST-LIST:END -->
 
 
