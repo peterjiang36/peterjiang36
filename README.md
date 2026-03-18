@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Can You Find Reliable Definitions of OOD?](https://dev.to/stack_overflowed/where-can-you-find-reliable-definitions-of-ood-4me0)
-- [Your Laravel Webhooks Are Insecure &lpar;How to Fix Them in 10 Minutes&rpar;](https://dev.to/iprajapatiparesh/your-laravel-webhooks-are-insecure-how-to-fix-them-in-10-minutes-8bp)
-- [Why Eloquent is Silently Killing Your Laravel App&#39;s Performance](https://dev.to/iprajapatiparesh/why-eloquent-is-silently-killing-your-laravel-apps-performance-1jcn)
-- [Why Your AI Agents Need Observability](https://dev.to/irparent/why-your-ai-agents-need-observability-3lb6)
+- [The Loneliness of Being the Only Dev in the Room](https://dev.to/_boweii/the-loneliness-of-being-the-only-dev-in-the-room-fe2)
+- [What Should First-Time Investors Know About Sterlite Electric Unlisted Deals?](https://dev.to/planifycapital/what-should-first-time-investors-know-about-sterlite-electric-unlisted-deals-oe2)
+- [I Scanned 6 Popular Node.js Repos for Undocumented Environment Variables. Here&#39;s What I Found.](https://dev.to/ckmtools/i-scanned-6-popular-nodejs-repos-for-undocumented-environment-variables-heres-what-i-found-5478)
+- [Agent Republic Skill for OpenClaw: Complete Guide to Democratic AI Governance](https://dev.to/aloycwl/agent-republic-skill-for-openclaw-complete-guide-to-democratic-ai-governance-3cbc)
 <!-- BLOG-POST-LIST:END -->
 
 
