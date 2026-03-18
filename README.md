@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comprehensive Evaluation and Integration Guide for US Stock Historical K-line Data API Interfaces](https://dev.to/san_siwu_f08e7c406830469/comprehensive-evaluation-and-integration-guide-for-us-stock-historical-k-line-data-api-interfaces-5ajh)
-- [How Do PostgreSQL Indices Work, Anyways?](https://dev.to/tigerdata/how-do-postgresql-indices-work-anyways-3jnn)
-- [Lifecycle of a process](https://dev.to/ernesto905/lifecycle-of-a-process-1amm)
-- [How I Cut My Claude API Bill by 60% Without Switching Models](https://dev.to/dor_amir_dbb52baafff7ca5b/how-i-cut-my-claude-api-bill-by-60-without-switching-models-21f2)
+- [The Hidden Cost of AI Coding Agents &lpar;And How to Track It in Real Time&rpar;](https://dev.to/godnick/the-hidden-cost-of-ai-coding-agents-and-how-to-track-it-in-real-time-3fgf)
+- [AI-Driven Quality Engineering for Regulated Enterprise Systems](https://dev.to/suresh_babunarra_c24d754/ai-driven-quality-engineering-for-regulated-enterprise-systems-344m)
+- [Why I Built on Top of OpenRouter Instead of Building a Model Gateway from Scratch](https://dev.to/robinbanner/why-i-built-on-top-of-openrouter-instead-of-building-a-model-gateway-from-scratch-36p)
+- [Heuristic vs Semantic Eval: When &lt;1ms Matters More Than LLM-as-Judge](https://dev.to/irparent/heuristic-vs-semantic-eval-when-1ms-matters-more-than-llm-as-judge-1mpl)
 <!-- BLOG-POST-LIST:END -->
 
 
