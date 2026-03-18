@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a black box recorder for AI systems – CEL v0.2 Pro](https://dev.to/ghurtsky/i-built-a-black-box-recorder-for-ai-systems-cel-v02-pro-3875)
-- [Can AI Take a Brokerage Engineering Team from Monthly Releases to Weekly?](https://dev.to/alichherawalla/can-ai-take-a-brokerage-engineering-team-from-monthly-releases-to-weekly-3anl)
-- [🤖 Building an AI Chat Widget with MCP](https://dev.to/denesbeck/building-an-ai-chat-widget-with-mcp-35an)
-- [@ClawMe: Making self-hosted AI agents discoverable; why I&#39;m building @handles for A2A](https://dev.to/prajwalkhairnar/clawme-making-self-hosted-ai-agents-discoverable-why-im-building-handles-for-a2a-3bb5)
+- [Microservices Doesn&#39;t Mean Lambda Everything](https://dev.to/jlinco/microservices-doesnt-mean-lambda-everything-4339)
+- [Konsep Dasar Digital &lpar;Komputer&rpar;](https://dev.to/rachmad_andriatmoko_ca7e/konsep-dasar-digital-komputer-30hl)
+- [Building “The Better Store”  — Part 4: Implementing a Microservices Architecture with Cloud Native Patterns and AWS Services](https://dev.to/aws-builders/building-the-better-store-part-4-implementing-a-microservices-architecture-with-cloud-native-585a)
+- [Institutional Treasury 2026: Stablecoin Risk Mitigation](https://dev.to/vinu_digital/institutional-treasury-2026-stablecoin-risk-mitigation-32g9)
 <!-- BLOG-POST-LIST:END -->
 
 
