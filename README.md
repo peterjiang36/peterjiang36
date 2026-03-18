@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Zero-Day Exploits: 4 Vulnerabilities Exposed in May 2024&#39;s Most Aggressive Attack Wave](https://dev.to/kunal_d6a8fea2309e1571ee7/chrome-zero-day-exploits-4-vulnerabilities-exposed-in-may-2024s-most-aggressive-attack-wave-2hhb)
-- [Patch Tuesday Zero-Day Lessons: What February 2024&#39;s Two Exploited Flaws Still Teach Us [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/patch-tuesday-zero-day-lessons-what-february-2024s-two-exploited-flaws-still-teach-us-2026-4cjk)
-- [Harnessing AI in DevOps Pipelines &amp; Platform Engineering](https://dev.to/ranjan_devto/harnessing-ai-in-devops-pipelines-platform-engineering-1b4)
-- [Tools Required for Data Analysis](https://dev.to/gabriel_njoroge_5be6652c3/tools-required-for-data-analysis-1b0n)
+- [Comprehensive Evaluation and Integration Guide for US Stock Historical K-line Data API Interfaces](https://dev.to/san_siwu_f08e7c406830469/comprehensive-evaluation-and-integration-guide-for-us-stock-historical-k-line-data-api-interfaces-5ajh)
+- [How Do PostgreSQL Indices Work, Anyways?](https://dev.to/tigerdata/how-do-postgresql-indices-work-anyways-3jnn)
+- [Lifecycle of a process](https://dev.to/ernesto905/lifecycle-of-a-process-1amm)
+- [How I Cut My Claude API Bill by 60% Without Switching Models](https://dev.to/dor_amir_dbb52baafff7ca5b/how-i-cut-my-claude-api-bill-by-60-without-switching-models-21f2)
 <!-- BLOG-POST-LIST:END -->
 
 
