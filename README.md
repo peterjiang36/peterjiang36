@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bright Data Review 2026: Is It Worth the Price? &lpar;Honest Assessment&rpar;](https://dev.to/agenthustler/bright-data-review-2026-is-it-worth-the-price-honest-assessment-3gbe)
-- [PHP 8.3 Fibers for Concurrent API Calls](https://dev.to/ahmet_gedik778845/php-83-fibers-for-concurrent-api-calls-1p39)
-- [Claude CodeでUnit of Workパターンを設計する：複数リポジトリのトランザクション統一・変更追跡・原子コミット](https://dev.to/myougatheaxo/claude-codedeunit-of-workpatanwoshe-ji-surufu-shu-ripozitorinotoranzakusiyontong-bian-geng-zhui-ji-yuan-zi-komituto-1e2f)
-- [Supply Lines and Logistics - The Cost of War](https://dev.to/deepak_mishra_35863517037/supply-lines-and-logistics-the-cost-of-war-10i4)
+- [Planetary gravity](https://dev.to/no_arms_studio/planetary-gravity-3ino)
+- [Agentic Memory and What It Means for Web Apps](https://dev.to/blove/agentic-memory-and-what-it-means-for-web-apps-2hea)
+- [Google A2UI: Fixed Schemas, Dynamic Schemas, and a Safe Fallback Strategy](https://dev.to/blove/google-a2ui-fixed-schemas-dynamic-schemas-and-a-safe-fallback-strategy-284f)
+- [Ports &amp; Adapters: Beyond the Theory — Organizing the Application with Package-by-Component](https://dev.to/charleshornick/ports-adapters-beyond-the-theory-organizing-the-application-with-package-by-component-49m3)
 <!-- BLOG-POST-LIST:END -->
 
 
