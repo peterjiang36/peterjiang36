@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between AI Features and AI-Native Products](https://dev.to/jaideepparashar/the-difference-between-ai-features-and-ai-native-products-238n)
-- [I Run 5 Claude Code Agents at Once. I Had No Idea What They Were Doing.](https://dev.to/thestack_ai/i-run-5-claude-code-agents-at-once-i-had-no-idea-what-they-were-doing-273p)
-- [Hi! My first post on Dev](https://dev.to/ritaspolding/hi-my-first-post-on-dev-3l41)
-- [[Meta-RL] We told an AI agent &#39;you can fail 3 times.&#39; Accuracy went up 19%.](https://dev.to/n_asuy/meta-rl-we-told-an-ai-agent-you-can-fail-3-times-accuracy-went-up-19-2dpj)
+- [Billing and Cost Manager &lpar;Administración de facturación y costos&rpar;](https://dev.to/luisferdeleon/billing-and-cost-manager-administracion-de-facturacion-y-costos-5ap)
+- [Beyond Injection: The Rise of &quot;Promptware&quot; and Self-Replicating AI Worms](https://dev.to/ndabene/beyond-injection-the-rise-of-promptware-and-self-replicating-ai-worms-p01)
+- [The Secret Life of Go: Error Handling](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-error-handling-g5f)
+- [How to Run Gemini 3 on Agent Engine with ADK](https://dev.to/koichi73/how-to-run-gemini-3-on-agent-engine-with-adk-4caj)
 <!-- BLOG-POST-LIST:END -->
 
 
