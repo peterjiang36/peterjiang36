@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From five minutes to production: wiring MemoClaw into your OpenClaw agent without cutting corners](https://dev.to/anajuliabit/from-five-minutes-to-production-wiring-memoclaw-into-your-openclaw-agent-without-cutting-corners-48dm)
-- [Write Once, Read Many: How WORM Storage Makes Your Data Secure](https://dev.to/gitprotect/write-once-read-many-how-worm-storage-makes-your-data-secure-1gdj)
-- [AI + Foundry&#39;s cast: how I investigate smart contracts now](https://dev.to/carson2222/ai-foundrys-cast-how-i-investigate-smart-contracts-now-277m)
-- [Mastering the Senior Java/Spring Boot Engineer Interview](https://dev.to/iamcymentho/mastering-the-senior-javaspring-boot-engineer-interview-3c1g)
+- [Avoiding malloc for Small Strings in C With Variable Length Arrays &lpar;VLAs&rpar;](https://dev.to/yairlenga/avoiding-malloc-for-small-strings-in-c-with-variable-length-arrays-vlas-2ig7)
+- [How I Built Aegis — A Credential Isolation Proxy for AI Agents](https://dev.to/sjwarren91/how-i-built-aegis-a-credential-isolation-proxy-for-ai-agents-3bgb)
+- [Building a Rails Engine #12 -- Beyond CSV: JSON and API Sources](https://dev.to/seryllns_/building-a-rails-engine-12-beyond-csv-json-and-api-sources-1ljb)
+- [Web Pentesting Beginner Roadmap &lpar;2026&rpar;: From Recon to Server-Side Attacks](https://dev.to/itsmegsg/web-pentesting-beginner-roadmap-2026-from-recon-to-server-side-attacks-57gp)
 <!-- BLOG-POST-LIST:END -->
 
 
