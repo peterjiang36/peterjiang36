@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Durable Message Queue on SQLite for AI Agent Orchestration](https://dev.to/minnzen/building-a-durable-message-queue-on-sqlite-for-ai-agent-orchestration-335m)
-- [Now anyone can host a global AI challenge on Kaggle](https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6)
-- [Most Digital Transformations Fail Before They Scale](https://dev.to/radodimitrov/most-digital-transformations-fail-before-they-scale-47dm)
-- [I gave Claude real-time stock analysis. Here&#39;s how it works.](https://dev.to/marras0914/i-gave-claude-real-time-stock-analysis-heres-how-it-works-56d0)
+- [Understanding How AI Agents Work](https://dev.to/erasto/understanding-how-ai-agents-work-2bb4)
+- [Stop Rewriting This React Form UX Logic](https://dev.to/sayan_paul/stop-rewriting-this-react-form-ux-logic-225p)
+- [Your Browser Has a Remote Control — And Nobody Told You](https://dev.to/timtech4u/your-browser-has-a-remote-control-and-nobody-told-you-5e97)
+- [Cómo solicitar aumentos de cuota para Amazon Bedrock &lpar;y que te los aprueben&rpar;](https://dev.to/dcastillogi/como-solicitar-aumentos-de-cuota-para-amazon-bedrock-y-que-te-los-aprueben-295o)
 <!-- BLOG-POST-LIST:END -->
 
 
