@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Async Event Dispatcher in Rust](https://dev.to/itcreator/async-event-dispatcher-in-rust-5h5p)
-- [Boost Your Productivity with AI Tools: A Comprehensive Guide](https://dev.to/calvin_zhan_743/boost-your-productivity-with-ai-tools-a-comprehensive-guide-3oa2)
-- [13 Chrome Extensions Every Developer Should Actually Use in 2026](https://dev.to/arnabroychowdhury/13-chrome-extensions-every-developer-should-actually-use-in-2026-17jp)
-- [Vibe Coding Is Eating Software Development - And Not Everyone Is Happy](https://dev.to/maxmendes91/vibe-coding-is-eating-software-development-and-not-everyone-is-happy-426n)
+- [Building a Durable Message Queue on SQLite for AI Agent Orchestration](https://dev.to/minnzen/building-a-durable-message-queue-on-sqlite-for-ai-agent-orchestration-335m)
+- [Now anyone can host a global AI challenge on Kaggle](https://dev.to/googleai/now-anyone-can-host-a-global-ai-challenge-on-kaggle-2hp6)
+- [Most Digital Transformations Fail Before They Scale](https://dev.to/radodimitrov/most-digital-transformations-fail-before-they-scale-47dm)
+- [I gave Claude real-time stock analysis. Here&#39;s how it works.](https://dev.to/marras0914/i-gave-claude-real-time-stock-analysis-heres-how-it-works-56d0)
 <!-- BLOG-POST-LIST:END -->
 
 
