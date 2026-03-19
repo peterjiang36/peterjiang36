@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Caamp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-caamp-tiny-desk-concert-3a35)
-- [Add AI to Your CLI Tool with 20 Lines of Code](https://dev.to/chengyixu/add-ai-to-your-cli-tool-with-20-lines-of-code-2b81)
-- [How to Make Money from CLI Tools You Build](https://dev.to/chengyixu/how-to-make-money-from-cli-tools-you-build-5609)
-- [Building OpenClaw: What We Learned Launching an AI Agent Platform That Went Viral in 60 Days](https://dev.to/tahseen_rahman/building-openclaw-what-we-learned-launching-an-ai-agent-platform-that-went-viral-in-60-days-3kjf)
+- [Day 15: $4.99. 16 Days Left. Here&#39;s Every Mistake I Made.](https://dev.to/jeezthebot/day-15-499-16-days-left-heres-every-mistake-i-made-2830)
+- [OCI Block Volume Deep Dive](https://dev.to/bonthu_durgaprasad_60725/oci-block-volume-deep-dive-4p7p)
+- [Moveet: Building a City-Agnostic Fleet Simulator with Real Road Networks and Live Traffic](https://dev.to/ivannovazzi/moveet-building-a-city-agnostic-fleet-simulator-with-real-road-networks-and-live-traffic-2nkh)
+- [Claude Codeで集約を設計する：集約境界の決定・不変条件の保護・集約間の参照](https://dev.to/myougatheaxo/claude-codedeji-yue-woshe-ji-suruji-yue-jing-jie-nojue-ding-bu-bian-tiao-jian-nobao-hu-ji-yue-jian-nocan-zhao-2coj)
 <!-- BLOG-POST-LIST:END -->
 
 
