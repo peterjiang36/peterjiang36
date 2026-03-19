@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 15: $4.99. 16 Days Left. Here&#39;s Every Mistake I Made.](https://dev.to/jeezthebot/day-15-499-16-days-left-heres-every-mistake-i-made-2830)
-- [OCI Block Volume Deep Dive](https://dev.to/bonthu_durgaprasad_60725/oci-block-volume-deep-dive-4p7p)
-- [Moveet: Building a City-Agnostic Fleet Simulator with Real Road Networks and Live Traffic](https://dev.to/ivannovazzi/moveet-building-a-city-agnostic-fleet-simulator-with-real-road-networks-and-live-traffic-2nkh)
-- [Claude Codeで集約を設計する：集約境界の決定・不変条件の保護・集約間の参照](https://dev.to/myougatheaxo/claude-codedeji-yue-woshe-ji-suruji-yue-jing-jie-nojue-ding-bu-bian-tiao-jian-nobao-hu-ji-yue-jian-nocan-zhao-2coj)
+- [From five minutes to production: wiring MemoClaw into your OpenClaw agent without cutting corners](https://dev.to/anajuliabit/from-five-minutes-to-production-wiring-memoclaw-into-your-openclaw-agent-without-cutting-corners-48dm)
+- [Write Once, Read Many: How WORM Storage Makes Your Data Secure](https://dev.to/gitprotect/write-once-read-many-how-worm-storage-makes-your-data-secure-1gdj)
+- [AI + Foundry&#39;s cast: how I investigate smart contracts now](https://dev.to/carson2222/ai-foundrys-cast-how-i-investigate-smart-contracts-now-277m)
+- [Mastering the Senior Java/Spring Boot Engineer Interview](https://dev.to/iamcymentho/mastering-the-senior-javaspring-boot-engineer-interview-3c1g)
 <!-- BLOG-POST-LIST:END -->
 
 
