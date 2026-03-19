@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Walls, Not Rules](https://dev.to/thesythesis/walls-not-rules-ojn)
-- [Discuss: Is &quot;Environment Setup&quot; the #1 killer of side projects?](https://dev.to/zuidaima/discuss-is-environment-setup-the-1-killer-of-side-projects-75f)
-- [Address Poisoning After Fusaka: How Ethereum&#39;s Fee Cut Handed Scammers a 612% Boost — And What You Can Do About It](https://dev.to/ohmygod/address-poisoning-after-fusaka-how-ethereums-fee-cut-handed-scammers-a-612-boost-and-what-you-4flb)
-- [Beyond AGENTS.md: Harness Engineering, Loop-Based Delivery, and Context-Aware Prompting](https://dev.to/codesoda/beyond-agentsmd-harness-engineering-loop-based-delivery-and-context-aware-prompting-ec9)
+- [The Difference Between AI Features and AI-Native Products](https://dev.to/jaideepparashar/the-difference-between-ai-features-and-ai-native-products-238n)
+- [I Run 5 Claude Code Agents at Once. I Had No Idea What They Were Doing.](https://dev.to/thestack_ai/i-run-5-claude-code-agents-at-once-i-had-no-idea-what-they-were-doing-273p)
+- [Hi! My first post on Dev](https://dev.to/ritaspolding/hi-my-first-post-on-dev-3l41)
+- [[Meta-RL] We told an AI agent &#39;you can fail 3 times.&#39; Accuracy went up 19%.](https://dev.to/n_asuy/meta-rl-we-told-an-ai-agent-you-can-fail-3-times-accuracy-went-up-19-2dpj)
 <!-- BLOG-POST-LIST:END -->
 
 
