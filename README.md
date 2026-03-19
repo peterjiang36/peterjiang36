@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving &quot;Use Machine Learning APIs on Google Cloud: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-use-machine-learning-apis-on-google-cloud-challenge-lab-a-complete-guide-4no6)
-- [🔒 Privacy-First AI: Local Medical Record Anonymization with WebLLM and WebGPU](https://dev.to/wellallytech/privacy-first-ai-local-medical-record-anonymization-with-webllm-and-webgpu-2p35)
-- [The Premium](https://dev.to/thesythesis/the-premium-15eh)
-- [Building a Filterable Resume Page with PDF Export and CI/CD for Astro](https://dev.to/bdigital00/building-a-filterable-resume-page-with-pdf-export-and-cicd-for-astro-4mkn)
+- [Walls, Not Rules](https://dev.to/thesythesis/walls-not-rules-ojn)
+- [Discuss: Is &quot;Environment Setup&quot; the #1 killer of side projects?](https://dev.to/zuidaima/discuss-is-environment-setup-the-1-killer-of-side-projects-75f)
+- [Address Poisoning After Fusaka: How Ethereum&#39;s Fee Cut Handed Scammers a 612% Boost — And What You Can Do About It](https://dev.to/ohmygod/address-poisoning-after-fusaka-how-ethereums-fee-cut-handed-scammers-a-612-boost-and-what-you-4flb)
+- [Beyond AGENTS.md: Harness Engineering, Loop-Based Delivery, and Context-Aware Prompting](https://dev.to/codesoda/beyond-agentsmd-harness-engineering-loop-based-delivery-and-context-aware-prompting-ec9)
 <!-- BLOG-POST-LIST:END -->
 
 
