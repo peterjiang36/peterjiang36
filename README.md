@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Planetary gravity](https://dev.to/no_arms_studio/planetary-gravity-3ino)
-- [Agentic Memory and What It Means for Web Apps](https://dev.to/blove/agentic-memory-and-what-it-means-for-web-apps-2hea)
-- [Google A2UI: Fixed Schemas, Dynamic Schemas, and a Safe Fallback Strategy](https://dev.to/blove/google-a2ui-fixed-schemas-dynamic-schemas-and-a-safe-fallback-strategy-284f)
-- [Ports &amp; Adapters: Beyond the Theory — Organizing the Application with Package-by-Component](https://dev.to/charleshornick/ports-adapters-beyond-the-theory-organizing-the-application-with-package-by-component-49m3)
+- [The Vibe Check](https://dev.to/thesythesis/the-vibe-check-5b45)
+- [The AI Agent Ecosystem in 2026: What&#39;s Actually Working &lpar;and What&#39;s Getting Canceled&rpar;](https://dev.to/nathanhamlett/the-ai-agent-ecosystem-in-2026-whats-actually-working-and-whats-getting-canceled-2bl)
+- [The Watchman](https://dev.to/thesythesis/the-watchman-1j56)
+- [[DYK with Dash] Cortex Code has a secret weapon most people walk right past!](https://dev.to/iamontheinet/dyk-with-dash-cortex-code-has-a-secret-weapon-most-people-walk-right-past-4al5)
 <!-- BLOG-POST-LIST:END -->
 
 
