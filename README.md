@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [875 Million Android Phones Are Vulnerable. Here&#39;s the Angle Nobody&#39;s Talking About.](https://dev.to/eastra_xue/875-million-android-phones-are-vulnerable-heres-the-angle-nobodys-talking-about-9ad)
-- [바이브코딩으로 10일 만에 완성한 자동화 도구 개발기](https://dev.to/seungyeon_/baibeukodingeuro-10il-mane-wanseonghan-jadonghwa-dogu-gaebalgi-255o)
-- [Debian Bookworm + Chrony in a Dual-Boot Setup: Why Windows and Linux Disagree on Time &amp; Solution](https://dev.to/dev_maria/debian-bookworm-chrony-in-a-dual-boot-setup-why-windows-and-linux-disagree-on-time-solution-3e66)
-- [From Static Photos to Shareable Dance Videos: Why I Built AIBabyDance](https://dev.to/cuteprob/from-static-photos-to-shareable-dance-videos-why-i-built-aibabydance-5dgj)
+- [كيفية اختبار تطبيقات نماذج اللغة الكبيرة: دليل Promptfoo الكامل &lpar;2026&rpar;](https://dev.to/yusuf_khalidd/kyfy-khtbr-ttbyqt-nmdhj-llg-lkbyr-dlyl-promptfoo-lkml-2026-199g)
+- [JavaScript&#39;s Date Parser is Out of Control and Needs to Be Stopped](https://dev.to/arkacoc13/javascripts-date-parser-is-out-of-control-and-needs-to-be-stopped-5gn)
+- [Why I Switched to pnpm and Never Looked Back 🚀](https://dev.to/playfulprogramming/why-i-switched-to-pnpm-and-never-looked-back-56b3)
+- [Writing an agent skill](https://dev.to/nfrankel/writing-an-agent-skill-3li2)
 <!-- BLOG-POST-LIST:END -->
 
 
