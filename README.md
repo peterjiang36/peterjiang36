@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Routing, Geocoding and Real-Time Maps With Zero API Keys](https://dev.to/capeku/how-to-get-routing-geocoding-and-real-time-maps-with-zero-api-keys-5gbc)
-- [ADAPTIVE AI VOICE LAYER for Real-Time Communication](https://dev.to/peacebinflow/adaptive-ai-voice-layerfor-real-time-communication-32gf)
-- [Why we want to integrate MCP servers into Kaeso.](https://dev.to/devinoldenburg/why-we-want-to-integrate-mcp-servers-into-kaeso-1j5m)
-- [Kadanes-algorithm](https://dev.to/abirami_prabhakar/kadanes-algorithm-6m1)
+- [DevLog 20260319: Towards OOP - Document-Level Main Module and Module Level Members and Behaviors](https://dev.to/methodox/devlog-20260319-towards-oop-document-level-main-module-and-module-level-members-and-behaviors-133b)
+- [Cost-Effective Self-Hosting with Plex: Balancing Performance and Ease of Use](https://dev.to/elenbit/cost-effective-self-hosting-with-plex-balancing-performance-and-ease-of-use-5en8)
+- [Two Sums](https://dev.to/abirami_prabhakar/two-sums-58je)
+- [/insights, or Why the Analytics Developer Had No Analytics](https://dev.to/dorothyjb/insights-or-why-the-analytics-developer-had-no-analytics-35nc)
 <!-- BLOG-POST-LIST:END -->
 
 
