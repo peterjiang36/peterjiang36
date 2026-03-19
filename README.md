@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [كيفية اختبار تطبيقات نماذج اللغة الكبيرة: دليل Promptfoo الكامل &lpar;2026&rpar;](https://dev.to/yusuf_khalidd/kyfy-khtbr-ttbyqt-nmdhj-llg-lkbyr-dlyl-promptfoo-lkml-2026-199g)
-- [JavaScript&#39;s Date Parser is Out of Control and Needs to Be Stopped](https://dev.to/arkacoc13/javascripts-date-parser-is-out-of-control-and-needs-to-be-stopped-5gn)
-- [Why I Switched to pnpm and Never Looked Back 🚀](https://dev.to/playfulprogramming/why-i-switched-to-pnpm-and-never-looked-back-56b3)
-- [Writing an agent skill](https://dev.to/nfrankel/writing-an-agent-skill-3li2)
+- [NPR Music: Caamp: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-caamp-tiny-desk-concert-3a35)
+- [Add AI to Your CLI Tool with 20 Lines of Code](https://dev.to/chengyixu/add-ai-to-your-cli-tool-with-20-lines-of-code-2b81)
+- [How to Make Money from CLI Tools You Build](https://dev.to/chengyixu/how-to-make-money-from-cli-tools-you-build-5609)
+- [Building OpenClaw: What We Learned Launching an AI Agent Platform That Went Viral in 60 Days](https://dev.to/tahseen_rahman/building-openclaw-what-we-learned-launching-an-ai-agent-platform-that-went-viral-in-60-days-3kjf)
 <!-- BLOG-POST-LIST:END -->
 
 
