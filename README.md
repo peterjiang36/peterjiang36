@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Billing and Cost Manager &lpar;Administración de facturación y costos&rpar;](https://dev.to/luisferdeleon/billing-and-cost-manager-administracion-de-facturacion-y-costos-5ap)
-- [Beyond Injection: The Rise of &quot;Promptware&quot; and Self-Replicating AI Worms](https://dev.to/ndabene/beyond-injection-the-rise-of-promptware-and-self-replicating-ai-worms-p01)
-- [The Secret Life of Go: Error Handling](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-error-handling-g5f)
-- [How to Run Gemini 3 on Agent Engine with ADK](https://dev.to/koichi73/how-to-run-gemini-3-on-agent-engine-with-adk-4caj)
+- [I Bought the Cheapest Redis and Dared It to Fail: The Circuit Breaker That Made Cache Optional &lpar;Series Part 11&rpar;](https://dev.to/daniel_romitelli_44e77dc6/i-bought-the-cheapest-redis-and-dared-it-to-fail-the-circuit-breaker-that-made-cache-optional-o7k)
+- [I Lost Three Hours to a Blank Slate—So I Made “Forgetting” Structurally Impossible &lpar;Series Part 12&rpar;](https://dev.to/daniel_romitelli_44e77dc6/i-lost-three-hours-to-a-blank-slate-so-i-made-forgetting-structurally-impossible-series-part-12-2bm8)
+- [EdTech Platform Architecture, Lessons from Real Builds](https://dev.to/waqarhabib/edtech-platform-architecture-lessons-from-real-builds-3hkm)
+- [Frigate Vs Motion](https://dev.to/selfhostingsh/frigate-vs-motion-39oo)
 <!-- BLOG-POST-LIST:END -->
 
 
