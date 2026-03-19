@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Docker ?](https://dev.to/vcaunegre/what-is-docker--cef)
-- [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](https://dev.to/haider_hussainkagalwala_/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-3fma)
-- [OpenOctopus: How AI Agents Can Truly Understand Your Life](https://dev.to/kevinten10/openoctopus-how-ai-agents-can-truly-understand-your-life-3c04)
-- [IP Blacklist Check: What It Is, Why It Matters, and How to Do It Right](https://dev.to/wetalktech/ip-blacklist-check-what-it-is-why-it-matters-and-how-to-do-it-right-4j81)
+- [How to Get Routing, Geocoding and Real-Time Maps With Zero API Keys](https://dev.to/capeku/how-to-get-routing-geocoding-and-real-time-maps-with-zero-api-keys-5gbc)
+- [ADAPTIVE AI VOICE LAYER for Real-Time Communication](https://dev.to/peacebinflow/adaptive-ai-voice-layerfor-real-time-communication-32gf)
+- [Why we want to integrate MCP servers into Kaeso.](https://dev.to/devinoldenburg/why-we-want-to-integrate-mcp-servers-into-kaeso-1j5m)
+- [Kadanes-algorithm](https://dev.to/abirami_prabhakar/kadanes-algorithm-6m1)
 <!-- BLOG-POST-LIST:END -->
 
 
