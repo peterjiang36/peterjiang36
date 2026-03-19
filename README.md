@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the LUKSO Agent Comms Skill for OpenClaw](https://dev.to/aloycwl/understanding-the-lukso-agent-comms-skill-for-openclaw-1ilb)
-- [I Built a Free Tool to Remove Duplicate Lines Instantly &lpar;No Signup Needed&rpar;](https://dev.to/garry_vee/i-built-a-free-tool-to-remove-duplicate-lines-instantly-no-signup-needed-i2d)
-- [The Authorization Abuse Epidemic: Why Permit2 Signature Phishing Is Now Crypto&#39;s Deadliest Attack Vector](https://dev.to/ohmygod/the-authorization-abuse-epidemic-why-permit2-signature-phishing-is-now-cryptos-deadliest-attack-3md5)
-- [Never Write a .gitignore by Hand Again — Build an Auto-Detecting Generator CLI](https://dev.to/chengyixu/never-write-a-gitignore-by-hand-again-build-an-auto-detecting-generator-cli-1497)
+- [875 Million Android Phones Are Vulnerable. Here&#39;s the Angle Nobody&#39;s Talking About.](https://dev.to/eastra_xue/875-million-android-phones-are-vulnerable-heres-the-angle-nobodys-talking-about-9ad)
+- [바이브코딩으로 10일 만에 완성한 자동화 도구 개발기](https://dev.to/seungyeon_/baibeukodingeuro-10il-mane-wanseonghan-jadonghwa-dogu-gaebalgi-255o)
+- [Debian Bookworm + Chrony in a Dual-Boot Setup: Why Windows and Linux Disagree on Time &amp; Solution](https://dev.to/dev_maria/debian-bookworm-chrony-in-a-dual-boot-setup-why-windows-and-linux-disagree-on-time-solution-3e66)
+- [From Static Photos to Shareable Dance Videos: Why I Built AIBabyDance](https://dev.to/cuteprob/from-static-photos-to-shareable-dance-videos-why-i-built-aibabydance-5dgj)
 <!-- BLOG-POST-LIST:END -->
 
 
