@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Bought the Cheapest Redis and Dared It to Fail: The Circuit Breaker That Made Cache Optional &lpar;Series Part 11&rpar;](https://dev.to/daniel_romitelli_44e77dc6/i-bought-the-cheapest-redis-and-dared-it-to-fail-the-circuit-breaker-that-made-cache-optional-o7k)
-- [I Lost Three Hours to a Blank Slate—So I Made “Forgetting” Structurally Impossible &lpar;Series Part 12&rpar;](https://dev.to/daniel_romitelli_44e77dc6/i-lost-three-hours-to-a-blank-slate-so-i-made-forgetting-structurally-impossible-series-part-12-2bm8)
-- [EdTech Platform Architecture, Lessons from Real Builds](https://dev.to/waqarhabib/edtech-platform-architecture-lessons-from-real-builds-3hkm)
-- [Frigate Vs Motion](https://dev.to/selfhostingsh/frigate-vs-motion-39oo)
+- [Understanding the LUKSO Agent Comms Skill for OpenClaw](https://dev.to/aloycwl/understanding-the-lukso-agent-comms-skill-for-openclaw-1ilb)
+- [I Built a Free Tool to Remove Duplicate Lines Instantly &lpar;No Signup Needed&rpar;](https://dev.to/garry_vee/i-built-a-free-tool-to-remove-duplicate-lines-instantly-no-signup-needed-i2d)
+- [The Authorization Abuse Epidemic: Why Permit2 Signature Phishing Is Now Crypto&#39;s Deadliest Attack Vector](https://dev.to/ohmygod/the-authorization-abuse-epidemic-why-permit2-signature-phishing-is-now-cryptos-deadliest-attack-3md5)
+- [Never Write a .gitignore by Hand Again — Build an Auto-Detecting Generator CLI](https://dev.to/chengyixu/never-write-a-gitignore-by-hand-again-build-an-auto-detecting-generator-cli-1497)
 <!-- BLOG-POST-LIST:END -->
 
 
