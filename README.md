@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevLog 20260319: Towards OOP - Document-Level Main Module and Module Level Members and Behaviors](https://dev.to/methodox/devlog-20260319-towards-oop-document-level-main-module-and-module-level-members-and-behaviors-133b)
-- [Cost-Effective Self-Hosting with Plex: Balancing Performance and Ease of Use](https://dev.to/elenbit/cost-effective-self-hosting-with-plex-balancing-performance-and-ease-of-use-5en8)
-- [Two Sums](https://dev.to/abirami_prabhakar/two-sums-58je)
-- [/insights, or Why the Analytics Developer Had No Analytics](https://dev.to/dorothyjb/insights-or-why-the-analytics-developer-had-no-analytics-35nc)
+- [WCAG - Links and accessible text](https://dev.to/dawid_ryczko/wcag-links-and-accessible-text-5bmn)
+- [Definiendo la necesidad &lpar;día 1&rpar;](https://dev.to/denelesan/definiendo-la-necesidad-dia-1-1aoc)
+- [How to Add LLM Model Fallbacks in Python in 5 Min](https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200)
+- [CI/CD na Magalu Cloud com GitHub Actions](https://dev.to/magalucloud/cicd-na-magalu-cloud-com-github-actions-382p)
 <!-- BLOG-POST-LIST:END -->
 
 
