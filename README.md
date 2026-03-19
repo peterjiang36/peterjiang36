@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Avoiding malloc for Small Strings in C With Variable Length Arrays &lpar;VLAs&rpar;](https://dev.to/yairlenga/avoiding-malloc-for-small-strings-in-c-with-variable-length-arrays-vlas-2ig7)
-- [How I Built Aegis — A Credential Isolation Proxy for AI Agents](https://dev.to/sjwarren91/how-i-built-aegis-a-credential-isolation-proxy-for-ai-agents-3bgb)
-- [Building a Rails Engine #12 -- Beyond CSV: JSON and API Sources](https://dev.to/seryllns_/building-a-rails-engine-12-beyond-csv-json-and-api-sources-1ljb)
-- [Web Pentesting Beginner Roadmap &lpar;2026&rpar;: From Recon to Server-Side Attacks](https://dev.to/itsmegsg/web-pentesting-beginner-roadmap-2026-from-recon-to-server-side-attacks-57gp)
+- [Async Event Dispatcher in Rust](https://dev.to/itcreator/async-event-dispatcher-in-rust-5h5p)
+- [Boost Your Productivity with AI Tools: A Comprehensive Guide](https://dev.to/calvin_zhan_743/boost-your-productivity-with-ai-tools-a-comprehensive-guide-3oa2)
+- [13 Chrome Extensions Every Developer Should Actually Use in 2026](https://dev.to/arnabroychowdhury/13-chrome-extensions-every-developer-should-actually-use-in-2026-17jp)
+- [Vibe Coding Is Eating Software Development - And Not Everyone Is Happy](https://dev.to/maxmendes91/vibe-coding-is-eating-software-development-and-not-everyone-is-happy-426n)
 <!-- BLOG-POST-LIST:END -->
 
 
