@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vibe Check](https://dev.to/thesythesis/the-vibe-check-5b45)
-- [The AI Agent Ecosystem in 2026: What&#39;s Actually Working &lpar;and What&#39;s Getting Canceled&rpar;](https://dev.to/nathanhamlett/the-ai-agent-ecosystem-in-2026-whats-actually-working-and-whats-getting-canceled-2bl)
-- [The Watchman](https://dev.to/thesythesis/the-watchman-1j56)
-- [[DYK with Dash] Cortex Code has a secret weapon most people walk right past!](https://dev.to/iamontheinet/dyk-with-dash-cortex-code-has-a-secret-weapon-most-people-walk-right-past-4al5)
+- [Solving &quot;Use Machine Learning APIs on Google Cloud: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-use-machine-learning-apis-on-google-cloud-challenge-lab-a-complete-guide-4no6)
+- [🔒 Privacy-First AI: Local Medical Record Anonymization with WebLLM and WebGPU](https://dev.to/wellallytech/privacy-first-ai-local-medical-record-anonymization-with-webllm-and-webgpu-2p35)
+- [The Premium](https://dev.to/thesythesis/the-premium-15eh)
+- [Building a Filterable Resume Page with PDF Export and CI/CD for Astro](https://dev.to/bdigital00/building-a-filterable-resume-page-with-pdf-export-and-cicd-for-astro-4mkn)
 <!-- BLOG-POST-LIST:END -->
 
 
