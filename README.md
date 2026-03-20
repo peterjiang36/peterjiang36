@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auth0 AWS Amplify Gen2: OIDC Authorization for AppSync via Identity Pool Federation](https://dev.to/aws-builders/auth0-aws-amplify-gen2-oidc-authorization-for-appsync-via-identity-pool-federation-l0o)
-- [How to Perform Proxy Packet Capture and Data Flow Analysis on Mac](https://dev.to/datastack/how-to-perform-proxy-packet-capture-and-data-flow-analysis-on-mac-1bb5)
-- [We Built AI That Qualifies Real Estate Leads in 5 Minutes](https://dev.to/cizo/we-built-ai-that-qualifies-real-estate-leads-in-5-minutes-3jpo)
-- [Deploying a Containerized WordPress App on AWS with Docker, EBS &amp; S3 Backups](https://dev.to/christiana_otoboh/deploying-a-containerized-wordpress-app-on-aws-with-docker-ebs-s3-backups-38if)
+- [Arrays, Events, and the Little Details That Make React Feel Real](https://dev.to/jalajb/arrays-events-and-the-little-details-that-make-react-feel-real-23bg)
+- [Jupyter AI Extension - Multi-LLM Support](https://dev.to/novatechnolab/jupyter-ai-extension-multi-llm-support-3gp0)
+- [I Built a Production-Level AI Resume Analyzer Using 9 Azure Services &lpar;Free Tier&rpar;](https://dev.to/devverse1703/i-built-a-production-level-ai-resume-analyzer-using-9-azure-services-free-tier-1bm9)
+- [Imports, Lists, and a Few Things That Just Make Sense in React](https://dev.to/jalajb/imports-lists-and-a-few-things-that-just-make-sense-in-react-2djc)
 <!-- BLOG-POST-LIST:END -->
 
 
