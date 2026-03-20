@@ -74,10 +74,17 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Incremental Backup with PostgreSQL 17](https://dev.to/camptocamp-geo/incremental-backup-with-postgresql-17-47e8)
-- [Why We Still Don&#39;t Trust AI-Generated Code: The Archright Trinity](https://dev.to/wintrover/why-we-still-dont-trust-ai-generated-code-the-archright-trinity-105h)
-- [I Keep Forgetting CLIs So Does My AI Agent - Simplifying CLI Usage for Human and AI Agents with Hints and Completion](https://dev.to/aihubadmin/i-keep-forgetting-clis-so-does-my-ai-agent-simplifying-cli-usage-for-human-and-ai-agents-with-57c5)
-- [Clean Architecture: iOS Projektstruktur und Ebenen](https://dev.to/nguyenvhung9420/clean-architecture-ios-projektstruktur-und-ebenen-25io)
+- [Tích hợp Hot Update vào dự án để tối ưu thời gian cho internal testing](https://dev.to/trng_trnhc_cd88085f/tich-hop-hot-update-vao-du-an-de-toi-uu-thoi-gian-cho-internal-testing-iag)
+- [PostgreSql&lpar;Filtering &amp; Sorting&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresqlfiltering-sorting-41ka)
+- [Hi everyone! Current plans for Font Flow:
+
+Potential update to 5+ styles via JSON engine
+
+Researching gaming symbols &lpar;swords, wings&rpar; for video games
+
+Possible Live Preview &amp; UI optimization
+Stay tuned to see what&#39;s coming next! 🚀](https://dev.to/twix_extratop/hi-everyone-current-plans-for-font-flow-potential-update-to-5-styles-via-json-engine-4bm0)
+- [Common FAPI Misconceptions](https://dev.to/auth0/common-fapi-misconceptions-121k)
 <!-- BLOG-POST-LIST:END -->
 
 
