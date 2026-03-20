@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Heatmap Bot v1.2.0 - Automating Ko-fi Payments with Webhooks](https://dev.to/semtione_aad5031f15784da5/heatmap-bot-v120-automating-ko-fi-payments-with-webhooks-ibh)
-- [Rotifer v0.3: TypeScript WASM — Zero-Barrier Gene Authoring](https://dev.to/rotiferdev/rotifer-v03-typescript-wasm-zero-barrier-gene-authoring-1olo)
-- [Free Trial vs. No Trial Model: A Paradigm Shift in Subscription Conversions](https://dev.to/paywallpro/free-trial-vs-no-trial-model-a-paradigm-shift-in-subscription-conversions-p2)
-- [Dash It All! Is AI Em Dash Addiction Real?](https://dev.to/aws/dash-it-all-is-ai-em-dash-addiction-real-40bh)
+- [Building Python Packages with C++ Extensions: A Complete Guide](https://dev.to/isaac-fei/building-python-packages-with-c-extensions-a-complete-guide-3e0i)
+- [Understanding OAuth 2.0 Flow: Complete Diagram and Implementation Guide](https://dev.to/_d7eb1c1703182e3ce1782/understanding-oauth-20-flow-complete-diagram-and-implementation-guide-486m)
+- [TypeScript vs JavaScript: Should You Switch? &lpar;Complete 2026 Guide&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/typescript-vs-javascript-should-you-switch-complete-2026-guide-klj)
+- [7 Private OpenRouter Alternatives for Teams That Need Data Control &lpar;2026&rpar;](https://dev.to/jaipalsingh/7-private-openrouter-alternatives-for-teams-that-need-data-control-2026-3l54)
 <!-- BLOG-POST-LIST:END -->
 
 
