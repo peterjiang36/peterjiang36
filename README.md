@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Method Overloading Tasks](https://dev.to/kesavarthini/method-overloading-tasks-f19)
-- [Accessibility Snapshot Testing in iOS](https://dev.to/steady5063/accessibility-snapshot-testing-in-ios-408e)
-- [Why Signature-Based Security Is No Longer Enough To Detect Cyber Attacks And How UEBA Hunts vicious threats.](https://dev.to/fawole_joshua_c92c794ea50/why-signature-based-security-is-no-longer-enough-to-detect-cyber-attacks-and-how-ueba-hunts-vicious-3np8)
-- [What Your IP Address Actually Reveals &lpar;A Developer&#39;s Perspective&rpar;](https://dev.to/michael_lip_52d5151c3e364/what-your-ip-address-actually-reveals-a-developers-perspective-59l6)
+- [Why most cURL converters fail on real-world requests — so I built my own](https://dev.to/zooniix/why-most-curl-converters-fail-on-real-world-requests-so-i-built-my-own-3656)
+- [Go interfaces: accept interfaces, return structs — and when not to](https://dev.to/ohugonnot/go-interfaces-accept-interfaces-return-structs-and-when-not-to-3ch0)
+- [Built a small free iOS app to reduce LLM answer uncertainty with multiple models](https://dev.to/william_cai_959a0b3caf4ef/built-a-small-free-ios-app-to-reduce-llm-answer-uncertainty-with-multiple-models-28l3)
+- [Attempt at a new beginning](https://dev.to/muso_hailu/attempt-at-a-new-beginning-5dp5)
 <!-- BLOG-POST-LIST:END -->
 
 
