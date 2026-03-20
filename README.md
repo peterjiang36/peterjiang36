@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why most cURL converters fail on real-world requests — so I built my own](https://dev.to/zooniix/why-most-curl-converters-fail-on-real-world-requests-so-i-built-my-own-3656)
-- [Go interfaces: accept interfaces, return structs — and when not to](https://dev.to/ohugonnot/go-interfaces-accept-interfaces-return-structs-and-when-not-to-3ch0)
-- [Built a small free iOS app to reduce LLM answer uncertainty with multiple models](https://dev.to/william_cai_959a0b3caf4ef/built-a-small-free-ios-app-to-reduce-llm-answer-uncertainty-with-multiple-models-28l3)
-- [Attempt at a new beginning](https://dev.to/muso_hailu/attempt-at-a-new-beginning-5dp5)
+- [Windsurf’s New Pricing Explained: Simpler AI Coding or Hidden Trade-Offs?](https://dev.to/icornea/windsurfs-new-pricing-explained-simpler-ai-coding-or-hidden-trade-offs-f3g)
+- [Building Production RAG Systems with PostgreSQL: Complete Implementation Guide](https://dev.to/elpic/building-production-rag-systems-with-postgresql-complete-implementation-guide-50gh)
+- [Archexa: A CLI That Turns Codebases Into Architecture Docs, Impact Analysis, and Reviews](https://dev.to/eresh_g_721f1d5ca1de0a5b9/archexa-a-cli-that-turns-codebases-into-architecture-docs-impact-analysis-and-reviews-9bo)
+- [How to Provision S3 Buckets in Kubernetes with COSI and VersityGW](https://dev.to/bhyoo/how-to-provision-s3-buckets-in-kubernetes-with-cosi-and-versitygw-577i)
 <!-- BLOG-POST-LIST:END -->
 
 
