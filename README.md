@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove Duplicates in Sorted Linked List](https://dev.to/jeyaprasadr/remove-duplicates-in-sorted-linked-list-5341)
-- [Architecting Autonomous Agents: A Deep Dive into Azure AI Foundry Agent Service](https://dev.to/jubinsoni/architecting-autonomous-agents-a-deep-dive-into-azure-ai-foundry-agent-service-4jnk)
-- [Testing Azure Functions: Unit, Integration, and Local](https://dev.to/martin_oehlert/testing-azure-functions-unit-integration-and-local-1cml)
-- [10 Font Pairings So Good They Feel Like a Secret](https://dev.to/web_dev-usman/10-font-pairings-so-good-they-feel-like-a-secret-8c3)
+- [Incremental Backup with PostgreSQL 17](https://dev.to/camptocamp-geo/incremental-backup-with-postgresql-17-47e8)
+- [Why We Still Don&#39;t Trust AI-Generated Code: The Archright Trinity](https://dev.to/wintrover/why-we-still-dont-trust-ai-generated-code-the-archright-trinity-105h)
+- [I Keep Forgetting CLIs So Does My AI Agent - Simplifying CLI Usage for Human and AI Agents with Hints and Completion](https://dev.to/aihubadmin/i-keep-forgetting-clis-so-does-my-ai-agent-simplifying-cli-usage-for-human-and-ai-agents-with-57c5)
+- [Clean Architecture: iOS Projektstruktur und Ebenen](https://dev.to/nguyenvhung9420/clean-architecture-ios-projektstruktur-und-ebenen-25io)
 <!-- BLOG-POST-LIST:END -->
 
 
