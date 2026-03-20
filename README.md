@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Arrays, Events, and the Little Details That Make React Feel Real](https://dev.to/jalajb/arrays-events-and-the-little-details-that-make-react-feel-real-23bg)
-- [Jupyter AI Extension - Multi-LLM Support](https://dev.to/novatechnolab/jupyter-ai-extension-multi-llm-support-3gp0)
-- [I Built a Production-Level AI Resume Analyzer Using 9 Azure Services &lpar;Free Tier&rpar;](https://dev.to/devverse1703/i-built-a-production-level-ai-resume-analyzer-using-9-azure-services-free-tier-1bm9)
-- [Imports, Lists, and a Few Things That Just Make Sense in React](https://dev.to/jalajb/imports-lists-and-a-few-things-that-just-make-sense-in-react-2djc)
+- [SYNCAI](https://dev.to/vivek_jagtap_333/syncai-gg3)
+- [AI Agents Are Already Breaking Things — And We&#39;ve Barely Started](https://dev.to/taskconcierge/ai-agents-are-already-breaking-things-and-weve-barely-started-1con)
+- [My AI Mentor Warned Me About a Bug Before I Even Ran the Code](https://dev.to/1shrikantscspc/my-ai-mentor-warned-me-about-a-bug-before-i-even-ran-the-code-45dh)
+- [Why Staff+/Principal Engineers Are the Key &lpar;Not VCs or Hype Cycles&rpar;](https://dev.to/psavelis/why-staffprincipal-engineers-are-the-key-not-vcs-or-hype-cycles-4n62)
 <!-- BLOG-POST-LIST:END -->
 
 
