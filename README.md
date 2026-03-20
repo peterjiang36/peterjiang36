@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 File Sharing Mistakes Remote Teams Make &lpar;And How to Fix Them&rpar;](https://dev.to/simpledrop/top-5-file-sharing-mistakes-remote-teams-make-and-how-to-fix-them-2j34)
-- [Building an AI-Powered Signal Bot with OpenClaw: A Complete Guide](https://dev.to/eclaw/building-an-ai-powered-signal-bot-with-openclaw-a-complete-guide-i17)
-- [Day 13 – Single-agent Vs Multi-agent Systems](https://dev.to/swatigoyal911/day-13-single-agent-vs-multi-agent-systems-54gp)
-- [The $39 Trap: I Tracked 200+ Manus AI Tasks and Found 73% of Credits Were Wasted](https://dev.to/rafsilva85/the-39-trap-i-tracked-200-manus-ai-tasks-and-found-73-of-credits-were-wasted-4106)
+- [2026年第12週 AI 深度週報：算力軍備、醫療攻城、版權戰線全面升級](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-12zhou-ai-shen-du-zhou-bao-suan-li-jun-bei-yi-liao-gong-cheng-ban-quan-zhan-xian-quan-mian-sheng-ji-2o0h)
+- [The Developer&#39;s Guide to In-Flight Internet: Tracking Starlink Aviation Deployment Across Airlines](https://dev.to/theawesomeblog/the-developers-guide-to-in-flight-internet-tracking-starlink-aviation-deployment-across-airlines-3g52)
+- [I burned $250 in tokens on day one with OpenClaw. Here&#39;s why.](https://dev.to/apostolos_dedeloudis/i-burned-250-in-tokens-on-day-one-with-openclaw-heres-why-mmb)
+- [I built a native GUI for direct server-to-server transfers &lpar;FTP/SFTP&rpar; because rclone CLI wasn&#39;t visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)
 <!-- BLOG-POST-LIST:END -->
 
 
