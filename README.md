@@ -74,17 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tích hợp Hot Update vào dự án để tối ưu thời gian cho internal testing](https://dev.to/trng_trnhc_cd88085f/tich-hop-hot-update-vao-du-an-de-toi-uu-thoi-gian-cho-internal-testing-iag)
-- [PostgreSql&lpar;Filtering &amp; Sorting&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresqlfiltering-sorting-41ka)
-- [Hi everyone! Current plans for Font Flow:
-
-Potential update to 5+ styles via JSON engine
-
-Researching gaming symbols &lpar;swords, wings&rpar; for video games
-
-Possible Live Preview &amp; UI optimization
-Stay tuned to see what&#39;s coming next! 🚀](https://dev.to/twix_extratop/hi-everyone-current-plans-for-font-flow-potential-update-to-5-styles-via-json-engine-4bm0)
-- [Common FAPI Misconceptions](https://dev.to/auth0/common-fapi-misconceptions-121k)
+- [Auth0 AWS Amplify Gen2: OIDC Authorization for AppSync via Identity Pool Federation](https://dev.to/aws-builders/auth0-aws-amplify-gen2-oidc-authorization-for-appsync-via-identity-pool-federation-l0o)
+- [How to Perform Proxy Packet Capture and Data Flow Analysis on Mac](https://dev.to/datastack/how-to-perform-proxy-packet-capture-and-data-flow-analysis-on-mac-1bb5)
+- [We Built AI That Qualifies Real Estate Leads in 5 Minutes](https://dev.to/cizo/we-built-ai-that-qualifies-real-estate-leads-in-5-minutes-3jpo)
+- [Deploying a Containerized WordPress App on AWS with Docker, EBS &amp; S3 Backups](https://dev.to/christiana_otoboh/deploying-a-containerized-wordpress-app-on-aws-with-docker-ebs-s3-backups-38if)
 <!-- BLOG-POST-LIST:END -->
 
 
