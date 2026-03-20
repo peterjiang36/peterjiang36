@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Windsurf’s New Pricing Explained: Simpler AI Coding or Hidden Trade-Offs?](https://dev.to/icornea/windsurfs-new-pricing-explained-simpler-ai-coding-or-hidden-trade-offs-f3g)
-- [Building Production RAG Systems with PostgreSQL: Complete Implementation Guide](https://dev.to/elpic/building-production-rag-systems-with-postgresql-complete-implementation-guide-50gh)
-- [Archexa: A CLI That Turns Codebases Into Architecture Docs, Impact Analysis, and Reviews](https://dev.to/eresh_g_721f1d5ca1de0a5b9/archexa-a-cli-that-turns-codebases-into-architecture-docs-impact-analysis-and-reviews-9bo)
-- [How to Provision S3 Buckets in Kubernetes with COSI and VersityGW](https://dev.to/bhyoo/how-to-provision-s3-buckets-in-kubernetes-with-cosi-and-versitygw-577i)
+- [Debugging Smarter and Feature Iteration with Trae AI](https://dev.to/richard_chai_7ae55a511593/debugging-smarter-and-feature-iteration-with-trae-ai-1ff)
+- [Forbes Says AI Agent Security Is Repeating a 30-Year-Old Mistake. Token Security Thinks Intent Is the Fix.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-182f)
+- [Minimalist Vaultwarden + Auto-TLS stack &lpar;43s deployment, 11.95 MiB footprint&rpar;](https://dev.to/matt_han_7032dc6ae/minimalist-vaultwarden-auto-tls-stack-43s-deployment-1195-mib-footprint-2c00)
+- [Method Overloading Tricky Questions :](https://dev.to/kavitha_krish/method-overloading-tricky-questions--159h)
 <!-- BLOG-POST-LIST:END -->
 
 
