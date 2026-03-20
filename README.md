@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Python Packages with C++ Extensions: A Complete Guide](https://dev.to/isaac-fei/building-python-packages-with-c-extensions-a-complete-guide-3e0i)
-- [Understanding OAuth 2.0 Flow: Complete Diagram and Implementation Guide](https://dev.to/_d7eb1c1703182e3ce1782/understanding-oauth-20-flow-complete-diagram-and-implementation-guide-486m)
-- [TypeScript vs JavaScript: Should You Switch? &lpar;Complete 2026 Guide&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/typescript-vs-javascript-should-you-switch-complete-2026-guide-klj)
-- [7 Private OpenRouter Alternatives for Teams That Need Data Control &lpar;2026&rpar;](https://dev.to/jaipalsingh/7-private-openrouter-alternatives-for-teams-that-need-data-control-2026-3l54)
+- [Understanding App Architecture - Why It Matters](https://dev.to/babiyashini_varadaraj_b17/understanding-app-architecture-why-it-matters-3kam)
+- [#tag:-A Simple Recon Workflow for Beginner Bug Hunters](https://dev.to/kato_junior_fbd2f9f8d8dee/tag-a-simple-recon-workflow-for-beginner-bug-hunters-254o)
+- [All things Kafka](https://dev.to/alamfatima1999/all-things-kafka-3cdb)
+- [Designing a File Tampering Detection Tool for a Legacy PHP Application](https://dev.to/catatsuy/designing-a-file-tampering-detection-tool-for-a-legacy-php-application-21p6)
 <!-- BLOG-POST-LIST:END -->
 
 
