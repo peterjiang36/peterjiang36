@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Smarter and Feature Iteration with Trae AI](https://dev.to/richard_chai_7ae55a511593/debugging-smarter-and-feature-iteration-with-trae-ai-1ff)
-- [Forbes Says AI Agent Security Is Repeating a 30-Year-Old Mistake. Token Security Thinks Intent Is the Fix.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-182f)
-- [Minimalist Vaultwarden + Auto-TLS stack &lpar;43s deployment, 11.95 MiB footprint&rpar;](https://dev.to/matt_han_7032dc6ae/minimalist-vaultwarden-auto-tls-stack-43s-deployment-1195-mib-footprint-2c00)
-- [Method Overloading Tricky Questions :](https://dev.to/kavitha_krish/method-overloading-tricky-questions--159h)
+- [My Coding Agent Remembered My Mistakes I Never Told It To](https://dev.to/krishnahasare/my-coding-agent-remembered-my-mistakes-i-never-told-it-to-28fi)
+- [I built a beautiful Markdown Viewer for Chrome, VS Code, and Desktop — here&#39;s what I learned](https://dev.to/chieund/i-built-a-beautiful-markdown-viewer-for-chrome-vs-code-and-desktop-heres-what-i-learned-27cd)
+- [Promises, Data Flow, and the memo + useCallback Combo That Actually Makes React Fast](https://dev.to/jalajb/promises-data-flow-and-the-memo-usecallback-combo-that-actually-makes-react-fast-13j4)
+- [I Built an MCP Server That Gives AI Agents Human Judgment](https://dev.to/erik_anderson_c41dbafd423/i-built-an-mcp-server-that-gives-ai-agents-human-judgment-4k4n)
 <!-- BLOG-POST-LIST:END -->
 
 
