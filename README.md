@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Content Performance Benchmarker: Are Your Numbers Good or Bad?](https://dev.to/olams/build-a-content-performance-benchmarker-are-your-numbers-good-or-bad-3n9c)
-- [I Built a CLI Tool That Writes My Commit Messages](https://dev.to/lucasnevespereira/i-built-a-cli-tool-that-writes-my-commit-messages-3bpf)
-- [Hermes Agent: Honest Review](https://dev.to/george_larson_3cc4a57b08b/hermes-agent-honest-review-1557)
-- [Authon vs Clerk vs Auth0: Which Auth Provider Should You Choose in 2026?](https://dev.to/alanwest/authon-vs-clerk-vs-auth0-which-auth-provider-should-you-choose-in-2026-24m2)
+- [Why 90% of AI Agent Projects Fail &lpar;and the Patterns That Fix It&rpar;](https://dev.to/nebulagg/why-90-of-ai-agent-projects-fail-and-the-patterns-that-fix-it-1dma)
+- [Deploying LangGraph: From Local Prototype to Production-Ready Microservice](https://dev.to/programmingcentral/deploying-langgraph-from-local-prototype-to-production-ready-microservice-4p3m)
+- [[Boost]](https://dev.to/anthonymax/-4kg6)
+- [How I Cut My AI Coding Agent&#39;s Token Usage by 120x With a Code Knowledge Graph](https://dev.to/deusdata/how-i-cut-my-ai-coding-agents-token-usage-by-120x-with-a-code-knowledge-graph-4a3d)
 <!-- BLOG-POST-LIST:END -->
 
 
