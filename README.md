@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding App Architecture - Why It Matters](https://dev.to/babiyashini_varadaraj_b17/understanding-app-architecture-why-it-matters-3kam)
-- [#tag:-A Simple Recon Workflow for Beginner Bug Hunters](https://dev.to/kato_junior_fbd2f9f8d8dee/tag-a-simple-recon-workflow-for-beginner-bug-hunters-254o)
-- [All things Kafka](https://dev.to/alamfatima1999/all-things-kafka-3cdb)
-- [Designing a File Tampering Detection Tool for a Legacy PHP Application](https://dev.to/catatsuy/designing-a-file-tampering-detection-tool-for-a-legacy-php-application-21p6)
+- [Building an OpenClaw Security Vault for AI Agents](https://dev.to/a_fb10f3fd81898e4c83a6d/building-an-openclaw-security-vault-for-ai-agents-212o)
+- [n8n Error Handling Best Practices: Stop Letting Silent Failures Break Your Business](https://dev.to/ciphernutz/n8n-error-handling-best-practices-stop-letting-silent-failures-break-your-business-1j8h)
+- [I Spent $228/Year on Postman. Here&#39;s Why I Switched to DevKits Pro for $9](https://dev.to/hezeclark/i-spent-228year-on-postman-heres-why-i-switched-to-devkits-pro-for-9-3gi2)
+- [React Hooks Performance: How to Avoid Unnecessary Re-renders](https://dev.to/childrentime/react-hooks-performance-how-to-avoid-unnecessary-re-renders-2483)
 <!-- BLOG-POST-LIST:END -->
 
 
