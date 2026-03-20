@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Coding Agent Remembered My Mistakes I Never Told It To](https://dev.to/krishnahasare/my-coding-agent-remembered-my-mistakes-i-never-told-it-to-28fi)
-- [I built a beautiful Markdown Viewer for Chrome, VS Code, and Desktop — here&#39;s what I learned](https://dev.to/chieund/i-built-a-beautiful-markdown-viewer-for-chrome-vs-code-and-desktop-heres-what-i-learned-27cd)
-- [Promises, Data Flow, and the memo + useCallback Combo That Actually Makes React Fast](https://dev.to/jalajb/promises-data-flow-and-the-memo-usecallback-combo-that-actually-makes-react-fast-13j4)
-- [I Built an MCP Server That Gives AI Agents Human Judgment](https://dev.to/erik_anderson_c41dbafd423/i-built-an-mcp-server-that-gives-ai-agents-human-judgment-4k4n)
+- [Light and Shadow Settings - Unreal Engine](https://dev.to/adbhut/light-and-shadow-settings-unreal-engine-298p)
+- [Reverse a Linked List – CA22](https://dev.to/mohith_001/reverse-a-linked-list-ca22-4d0p)
+- [Majority Element – CA21](https://dev.to/mohith_001/majority-element-ca21-2dcd)
+- [PrinceJS vs Hono vs Express vs Elysia: Benchmarking the Fastest Bun Frameworks in 2025](https://dev.to/thelittleprince1218/princejs-vs-hono-vs-express-vs-elysia-benchmarking-the-fastest-bun-frameworks-in-2025-c73)
 <!-- BLOG-POST-LIST:END -->
 
 
