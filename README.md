@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your OpenClaw Agent Gets Slower and More Expensive Over Time](https://dev.to/astrodevil/why-your-openclaw-agent-gets-slower-and-more-expensive-over-time-5c5e)
-- [When Did Every AWS Service Launch?](https://dev.to/aws/when-did-every-aws-service-launch-3kc7)
-- [I Thought My System Was Secure… Until I Found This One Mistake](https://dev.to/arthur_kirby_f66568779ac5/i-thought-my-system-was-secure-until-i-found-this-one-mistake-2p5n)
-- [What Diction Does When Transcription Fails](https://dev.to/omachala/what-happens-to-your-audio-when-the-app-gets-killed-mid-transcription-482p)
+- [Why the Next Billion-Dollar SaaS Won&#39;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs](https://dev.to/deepak_mishra_35863517037/why-the-next-billion-dollar-saas-wont-be-built-in-silicon-valley-the-rise-of-guerrilla-tech-hubs-2mhn)
+- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-35ak)
+- [OpenGitClaw – The autonomous GitHub agent that maintains your repos while you sleep](https://dev.to/omegacorelabs/opengitclaw-the-autonomous-github-agent-that-maintains-your-repos-while-you-sleep-2o0k)
+- [FDA Upgrades J&amp;J MedTech CEREPAK Recall to Class I After Fatal Incident](https://dev.to/aloycwl/fda-upgrades-jj-medtech-cerepak-recall-to-class-i-after-fatal-incident-57ej)
 <!-- BLOG-POST-LIST:END -->
 
 
