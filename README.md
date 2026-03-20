@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2026年第12週 AI 深度週報：算力軍備、醫療攻城、版權戰線全面升級](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-12zhou-ai-shen-du-zhou-bao-suan-li-jun-bei-yi-liao-gong-cheng-ban-quan-zhan-xian-quan-mian-sheng-ji-2o0h)
-- [The Developer&#39;s Guide to In-Flight Internet: Tracking Starlink Aviation Deployment Across Airlines](https://dev.to/theawesomeblog/the-developers-guide-to-in-flight-internet-tracking-starlink-aviation-deployment-across-airlines-3g52)
-- [I burned $250 in tokens on day one with OpenClaw. Here&#39;s why.](https://dev.to/apostolos_dedeloudis/i-burned-250-in-tokens-on-day-one-with-openclaw-heres-why-mmb)
-- [I built a native GUI for direct server-to-server transfers &lpar;FTP/SFTP&rpar; because rclone CLI wasn&#39;t visual enough for me.](https://dev.to/andrii_bondar_fc866063a87/i-built-a-native-gui-for-direct-server-to-server-transfers-ftpsftp-because-rclone-cli-wasnt-dd0)
+- [Heatmap Bot v1.2.0 - Automating Ko-fi Payments with Webhooks](https://dev.to/semtione_aad5031f15784da5/heatmap-bot-v120-automating-ko-fi-payments-with-webhooks-ibh)
+- [Rotifer v0.3: TypeScript WASM — Zero-Barrier Gene Authoring](https://dev.to/rotiferdev/rotifer-v03-typescript-wasm-zero-barrier-gene-authoring-1olo)
+- [Free Trial vs. No Trial Model: A Paradigm Shift in Subscription Conversions](https://dev.to/paywallpro/free-trial-vs-no-trial-model-a-paradigm-shift-in-subscription-conversions-p2)
+- [Dash It All! Is AI Em Dash Addiction Real?](https://dev.to/aws/dash-it-all-is-ai-em-dash-addiction-real-40bh)
 <!-- BLOG-POST-LIST:END -->
 
 
