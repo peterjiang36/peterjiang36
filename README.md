@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SYNCAI](https://dev.to/vivek_jagtap_333/syncai-gg3)
-- [AI Agents Are Already Breaking Things — And We&#39;ve Barely Started](https://dev.to/taskconcierge/ai-agents-are-already-breaking-things-and-weve-barely-started-1con)
-- [My AI Mentor Warned Me About a Bug Before I Even Ran the Code](https://dev.to/1shrikantscspc/my-ai-mentor-warned-me-about-a-bug-before-i-even-ran-the-code-45dh)
-- [Why Staff+/Principal Engineers Are the Key &lpar;Not VCs or Hype Cycles&rpar;](https://dev.to/psavelis/why-staffprincipal-engineers-are-the-key-not-vcs-or-hype-cycles-4n62)
+- [Method Overloading Tasks](https://dev.to/kesavarthini/method-overloading-tasks-f19)
+- [Accessibility Snapshot Testing in iOS](https://dev.to/steady5063/accessibility-snapshot-testing-in-ios-408e)
+- [Why Signature-Based Security Is No Longer Enough To Detect Cyber Attacks And How UEBA Hunts vicious threats.](https://dev.to/fawole_joshua_c92c794ea50/why-signature-based-security-is-no-longer-enough-to-detect-cyber-attacks-and-how-ueba-hunts-vicious-3np8)
+- [What Your IP Address Actually Reveals &lpar;A Developer&#39;s Perspective&rpar;](https://dev.to/michael_lip_52d5151c3e364/what-your-ip-address-actually-reveals-a-developers-perspective-59l6)
 <!-- BLOG-POST-LIST:END -->
 
 
