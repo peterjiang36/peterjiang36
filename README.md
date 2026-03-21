@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I-Career-Advisor-That-Remembers-You](https://dev.to/nirmaladevipatel2005/i-career-advisor-that-remembers-you-41e6)
-- [uignore — a .gitignore for AI coding tools](https://dev.to/geekfarmer/uignore-a-gitignore-for-ai-coding-tools-3h7)
-- [MSV Protocol Launches Proof-of-Asset Integrity to Strengthen Real-World Asset Tokenisation as RWA Adoption Accelerates](https://dev.to/aloycwl/msv-protocol-launches-proof-of-asset-integrity-to-strengthen-real-world-asset-tokenisation-as-rwa-28h6)
-- [Find Minimum and maximum in an array](https://dev.to/jaya_srij_c37a6ea796335c/find-minimum-and-maximum-in-an-array-4i7l)
+- [AI Citation Registries and Timestamp Signal Failure in AI Interpretation](https://dev.to/aigistry/ai-citation-registries-and-timestamp-signal-failure-in-ai-interpretation-fc1)
+- [Getting Started with Seal Report: Building Your First Data Table from SQL Server](https://dev.to/vladg_dev/getting-started-with-seal-report-building-your-first-data-table-from-sql-server-140g)
+- [How to Check if a Brand Name is Available &lpar;The Complete Guide&rpar;](https://dev.to/indiebuilderlabs/how-to-check-if-a-brand-name-is-available-the-complete-guide-3blf)
+- [Inside SQLite’s Frontend: How Bytecode Is Generated and Names Are Resolved](https://dev.to/lovestaco/inside-sqlites-frontend-how-bytecode-is-generated-and-names-are-resolved-256g)
 <!-- BLOG-POST-LIST:END -->
 
 
