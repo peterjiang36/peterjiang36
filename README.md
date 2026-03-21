@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
-- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
-- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
-- [Unlocking Precision: Why Sigmetrix CETOL 6σ v11.5 is a Game-Changer for 3D Tolerance Analysis](https://dev.to/aloycwl/unlocking-precision-why-sigmetrix-cetol-6s-v115-is-a-game-changer-for-3d-tolerance-analysis-2d30)
+- [Quark&#39;s Outlines: Python Exceptions](https://dev.to/mike-vincent/quarks-outlines-python-exceptions-260m)
+- [THE PIXEL OFFICE .AI &lpar;GRIND&rpar;](https://dev.to/tijmen_de_jong/the-pixel-office-grind-1dp0)
+- [When to Migrate Your Unity Project &lpar;And When to Stay Put&rpar;](https://dev.to/oceanviewgames/when-to-migrate-your-unity-project-and-when-to-stay-put-3pg2)
+- [Stop Watching Web3 — Build Something &lpar;Kadena Challenge&rpar;](https://dev.to/louiz009/stop-watching-web3-build-something-kadena-challenge-b57)
 <!-- BLOG-POST-LIST:END -->
 
 
