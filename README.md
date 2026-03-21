@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Djangonaut diaries, week 3 - Working on an ORM issue](https://dev.to/rodbv/djangonaut-diaries-week-3-working-on-an-orm-issue-26b0)
-- [NIS2 : Les amendements de janvier 2026 et ce qu&#39;ils changent pour votre conformité](https://dev.to/conformscan/nis2-les-amendements-de-janvier-2026-et-ce-quils-changent-pour-votre-conformite-3f6l)
-- [BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?](https://dev.to/om_prakash_3311f8a4576605/birefnet-vs-rembg-vs-u2net-which-background-removal-model-actually-works-in-production-4830)
-- [My AI bot burned through my API budget overnight. So I built an open-source tool to make sure it never happens again.](https://dev.to/vola-trebla/my-ai-bot-burned-through-my-api-budget-overnight-so-i-built-an-open-source-tool-to-make-sure-it-2372)
+- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI &amp; Prepare Your DevOps Environment &lpar;Part 2&rpar;](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5)
+- [How a Corruption-Sanctioned Company Got a $480M Contract to Build Chile&#39;s National ID System — And Broke It](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4)
+- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513)
+- [Why Separating QA Code from Dev Code in Your Monorepo is a Game-Changer for E2E Testing](https://dev.to/arkreddysfo/why-separating-qa-code-from-dev-code-in-your-monorepo-is-a-game-changer-for-e2e-testing-2ilg)
 <!-- BLOG-POST-LIST:END -->
 
 
