@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Containerize Your AI Agent Stack With Docker Compose: 4 Patterns That Work](https://dev.to/klement_gunndu/containerize-your-ai-agent-stack-with-docker-compose-4-patterns-that-work-4ln9)
-- [My system design prep was just copy-pasting between two AI chats. So I fixed that.](https://dev.to/victorx64/my-system-design-prep-was-just-copy-pasting-between-two-ai-chats-so-i-fixed-that-1cj7)
-- [AI coding philosophy](https://dev.to/bumbulik0/ai-coding-philosophy-2eoj)
-- [Claude Dispatch: The Constraints, the Security Model, and What Comes Next](https://dev.to/ji_ai/claude-dispatch-the-constraints-the-security-model-and-what-comes-next-hji)
+- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4)
+- [Angular - Power Of Renderer2](https://dev.to/krivanek06/angular-power-of-renderer2-3ap8)
+- [Introducing helping-js v2: A Zero-Dependency Utility Library to Level Up Your App](https://dev.to/parsajiravand/introducing-helping-js-v2-a-zero-dependency-utility-library-to-level-up-your-app-5cip)
+- [I built my first website in 2004. Here&#39;s what I wish someone had told me.](https://dev.to/fedya_serafiev/i-built-my-first-website-in-2004-heres-what-i-wish-someone-had-told-me-3jg1)
 <!-- BLOG-POST-LIST:END -->
 
 
