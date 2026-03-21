@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ Terraform Setup Guide: Install Terraform, AWS CLI &amp; Prepare Your DevOps Environment &lpar;Part 2&rpar;](https://dev.to/ahkarswe/terraform-setup-guide-install-terraform-aws-cli-prepare-your-devops-environment-part-2-el5)
-- [How a Corruption-Sanctioned Company Got a $480M Contract to Build Chile&#39;s National ID System — And Broke It](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4)
-- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513)
-- [Why Separating QA Code from Dev Code in Your Monorepo is a Game-Changer for E2E Testing](https://dev.to/arkreddysfo/why-separating-qa-code-from-dev-code-in-your-monorepo-is-a-game-changer-for-e2e-testing-2ilg)
+- [Spec-Driven Development and Prompt Engineering: New Terms, Same Foundations?](https://dev.to/sep83/spec-driven-development-and-prompt-engineering-new-terms-same-foundations-55j)
+- [A Small Experiment: A Memory Management System for AI to Abstract from Experience &lpar;Part 1&rpar;](https://dev.to/nolanyu0719/a-small-experiment-a-memory-management-system-for-ai-to-abstract-from-experience-part-1-pn8)
+- [20 Minutes of Battery Operation in 0.30 Seconds](https://dev.to/oleksandrs/20-minutes-of-battery-operation-in-030-seconds-27d5)
+- [MiniMax M2.7 Is Live on BlockRun — The First Self-Evolving Reasoning Model](https://dev.to/1bcmax/minimax-m27-is-live-on-blockrun-the-first-self-evolving-reasoning-model-k34)
 <!-- BLOG-POST-LIST:END -->
 
 
