@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Exceptions](https://dev.to/mike-vincent/quarks-outlines-python-exceptions-260m)
-- [THE PIXEL OFFICE .AI &lpar;GRIND&rpar;](https://dev.to/tijmen_de_jong/the-pixel-office-grind-1dp0)
-- [When to Migrate Your Unity Project &lpar;And When to Stay Put&rpar;](https://dev.to/oceanviewgames/when-to-migrate-your-unity-project-and-when-to-stay-put-3pg2)
-- [Stop Watching Web3 — Build Something &lpar;Kadena Challenge&rpar;](https://dev.to/louiz009/stop-watching-web3-build-something-kadena-challenge-b57)
+- [How I Reduced Our AWS Bill by 40% &lpar;Without Changing the Architecture&rpar;](https://dev.to/qctran1991/how-i-reduced-our-aws-bill-by-40-without-changing-the-architecture-26a7)
+- [How to Install Basic Web Development Tools for Newbie or Beginner Web Developer](https://dev.to/tkdevconsole/how-to-install-basic-web-development-tools-for-newbie-or-beginner-web-developer-2kb2)
+- [We Built OAuth Identity Linking Into Our AI Agent Commerce Playground — Here&#39;s How the Protocol Actually Works](https://dev.to/benjifisher/we-built-oauth-identity-linking-into-our-ai-agent-commerce-playground-heres-how-the-protocol-10k7)
+- [.NET 10 Performance: The O&lpar;n^2&rpar; String Trap and the Zero-Allocation Quest](https://dev.to/aleh_karachun/net-10-performance-the-on2-string-trap-and-the-zero-allocation-quest-3cjh)
 <!-- BLOG-POST-LIST:END -->
 
 
