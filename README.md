@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A French Sailor Went for a Jog. Journalists Found the Aircraft Carrier.](https://dev.to/adioof/a-french-sailor-went-for-a-jog-journalists-found-the-aircraft-carrier-4k9a)
-- [Automating Container Image Updates with FluxCD &lpar;Hands-On Tutorial&rpar;](https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k)
-- [FluxCD Image Automation Error Troubleshooting](https://dev.to/pilgrim2go/fluxcd-image-automation-error-troubleshooting-1el2)
-- [AI Agents Are Replacing Developers? My Honest Experience Using Them](https://dev.to/vishaluttammane/ai-agents-are-replacing-developers-my-honest-experience-using-them-3mig)
+- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
+- [The Agent Memory Problem &lpar;And How I Solved It Without a Database&rpar;](https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad)
+- [Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story](https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o)
+- [Your AI Agents Are Running Wild — Here&#39;s How to Take Back Control](https://dev.to/gokhan_ozer/your-ai-agents-are-running-wild-heres-how-to-take-back-control-1fc8)
 <!-- BLOG-POST-LIST:END -->
 
 
