@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Dev Toolbox That Runs 100% in Your Browser](https://dev.to/rishu_777/i-built-a-free-dev-toolbox-that-runs-100-in-your-browser-388)
-- [Go Slices: Why Your Function Isn&#39;t Changing What You Think It Is](https://dev.to/rahultomer/go-slices-why-your-function-isnt-changing-what-you-think-it-is-3n9d)
-- [Graceful Shutdown in Node.js: Stop Dropping Requests During Deploys &lpar;2026 Guide&rpar;](https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p)
-- [Typography System Guide](https://dev.to/alansdead/typography-system-guide-42b8)
+- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
+- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
+- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
+- [Unlocking Precision: Why Sigmetrix CETOL 6σ v11.5 is a Game-Changer for 3D Tolerance Analysis](https://dev.to/aloycwl/unlocking-precision-why-sigmetrix-cetol-6s-v115-is-a-game-changer-for-3d-tolerance-analysis-2d30)
 <!-- BLOG-POST-LIST:END -->
 
 
