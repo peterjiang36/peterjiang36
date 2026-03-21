@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Text-to-SQL Agent with Python in 10 Minutes](https://dev.to/nebulagg/how-to-build-a-text-to-sql-agent-with-python-in-10-minutes-35oj)
-- [Building Multi-Language SEO for Video Aggregation Sites](https://dev.to/ahmet_gedik778845/building-multi-language-seo-for-video-aggregation-sites-mjj)
-- [Flash-KMeans Dropped and It Makes sklearn Look Slow](https://dev.to/alanwest/flash-kmeans-dropped-and-it-makes-sklearn-look-slow-4i40)
-- [How to Find Your First AI Automation Client in 2026 &lpar;Without a Portfolio&rpar;](https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld)
+- [We Tracked 20 Tech Trends Across Real Data Sources. Here&#39;s What&#39;s Actually Hot Right Now.](https://dev.to/edperlman/we-tracked-20-tech-trends-across-real-data-sources-heres-whats-actually-hot-right-now-52ji)
+- [5 Dangerous Lies Behind Viral AI Coding Demos That Break in Production](https://dev.to/deepak_mishra_35863517037/5-dangerous-lies-behind-viral-ai-coding-demos-that-break-in-production-160m)
+- [I Built a Collaborative Book Platform Where the Community Decides What Gets Published - No Admins, No Gatekeepers](https://dev.to/artanidos/i-built-a-collaborative-book-platform-where-the-community-decides-what-gets-published-no-admins-4h6b)
+- [OpenTelemetry just standardized LLM tracing. Here&#39;s what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
 <!-- BLOG-POST-LIST:END -->
 
 
