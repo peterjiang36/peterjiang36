@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced Our AWS Bill by 40% &lpar;Without Changing the Architecture&rpar;](https://dev.to/qctran1991/how-i-reduced-our-aws-bill-by-40-without-changing-the-architecture-26a7)
-- [How to Install Basic Web Development Tools for Newbie or Beginner Web Developer](https://dev.to/tkdevconsole/how-to-install-basic-web-development-tools-for-newbie-or-beginner-web-developer-2kb2)
-- [We Built OAuth Identity Linking Into Our AI Agent Commerce Playground — Here&#39;s How the Protocol Actually Works](https://dev.to/benjifisher/we-built-oauth-identity-linking-into-our-ai-agent-commerce-playground-heres-how-the-protocol-10k7)
-- [.NET 10 Performance: The O&lpar;n^2&rpar; String Trap and the Zero-Allocation Quest](https://dev.to/aleh_karachun/net-10-performance-the-on2-string-trap-and-the-zero-allocation-quest-3cjh)
+- [Everything you need to know about OpenAI GPT-5.4 ✌️](https://dev.to/tensorlake/everything-you-need-to-know-about-openai-gpt-54-3lgm)
+- [I built a book generator that runs entirely in your browser — no server, no account, no backend](https://dev.to/mxprs/i-built-a-book-generator-that-runs-entirely-in-your-browser-no-server-no-account-no-backend-3llc)
+- [I Built 1Note - A Secure Ephemeral Note Sharing Tool &lpar;and What It Taught Me&rpar;](https://dev.to/siddhesh_shirdhankar_902f/i-built-1note-a-secure-ephemeral-note-sharing-tool-and-what-it-taught-me-3ola)
+- [Top 5 React essential techniques every beginner should know!](https://dev.to/khalid_edaoudi_f60d2bbc68/top-5-react-essential-techniques-every-beginner-should-know-3ep6)
 <!-- BLOG-POST-LIST:END -->
 
 
