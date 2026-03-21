@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Invited talk about: Adversarial Attacks and Defenses in Deep Learning Systems: Threats, Mechanisms, and Countermeasures](https://dev.to/thanidasangkasanya/invited-talk-about-adversarial-attacks-and-defenses-in-deep-learning-systems-threats-mechanisms-fig)
-- [What MCP Actually Is &lpar;And Why It Exists&rpar;](https://dev.to/catheryn/what-mcp-actually-is-and-why-it-exists-3e1j)
-- [Let&#39;s build a Production-Grade Bloom Filter in Python](https://dev.to/shogun_the_grt/lets-build-a-production-grade-bloom-filter-in-python-j34)
-- [Terraform State: The One File You Can&#39;t Afford to Lose](https://dev.to/aws-builders/terraform-state-the-one-file-you-cant-afford-to-lose-33l4)
+- [Stop Waiting: How to Build &quot;Instant&quot; AI Agents with Optimistic UI](https://dev.to/programmingcentral/stop-waiting-how-to-build-instant-ai-agents-with-optimistic-ui-3agp)
+- [New workflow control method for harness engineering — Signature-Based Locking](https://dev.to/casamia918/new-workflow-control-method-for-harness-engineering-signature-based-locking-3bmj)
+- [Move All Negative Elements to End](https://dev.to/anjana_rk_fbdea7abbdf13/move-all-negative-elements-to-end-3p27)
+- [From Idea to Deployed App in Six Weeks: InterviewFlow](https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo)
 <!-- BLOG-POST-LIST:END -->
 
 
