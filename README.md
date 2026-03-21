@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Distributed Tracing with OpenTelemetry: A Practical Guide for Go Services](https://dev.to/young_gao/distributed-tracing-with-opentelemetry-a-practical-guide-for-go-services-pep)
-- [How I Built a Serverless IoT Pipeline on AWS](https://dev.to/foldedodin/how-i-built-a-serverless-iot-pipeline-on-aws-49c)
-- [Flutter Interview Questions Part 3: State Management Deep Dive](https://dev.to/anurag_dev/flutter-interview-questions-part-3-state-management-deep-dive-1d6i)
-- [Your AI Agent Says All Tests Pass. Your App Is Still Broken](https://dev.to/kensave/your-ai-agent-says-all-tests-pass-your-app-is-still-broken-4jbe)
+- [Containerize Your AI Agent Stack With Docker Compose: 4 Patterns That Work](https://dev.to/klement_gunndu/containerize-your-ai-agent-stack-with-docker-compose-4-patterns-that-work-4ln9)
+- [My system design prep was just copy-pasting between two AI chats. So I fixed that.](https://dev.to/victorx64/my-system-design-prep-was-just-copy-pasting-between-two-ai-chats-so-i-fixed-that-1cj7)
+- [AI coding philosophy](https://dev.to/bumbulik0/ai-coding-philosophy-2eoj)
+- [Claude Dispatch: The Constraints, the Security Model, and What Comes Next](https://dev.to/ji_ai/claude-dispatch-the-constraints-the-security-model-and-what-comes-next-hji)
 <!-- BLOG-POST-LIST:END -->
 
 
