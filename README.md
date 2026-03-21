@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything you need to know about OpenAI GPT-5.4 ✌️](https://dev.to/tensorlake/everything-you-need-to-know-about-openai-gpt-54-3lgm)
-- [I built a book generator that runs entirely in your browser — no server, no account, no backend](https://dev.to/mxprs/i-built-a-book-generator-that-runs-entirely-in-your-browser-no-server-no-account-no-backend-3llc)
-- [I Built 1Note - A Secure Ephemeral Note Sharing Tool &lpar;and What It Taught Me&rpar;](https://dev.to/siddhesh_shirdhankar_902f/i-built-1note-a-secure-ephemeral-note-sharing-tool-and-what-it-taught-me-3ola)
-- [Top 5 React essential techniques every beginner should know!](https://dev.to/khalid_edaoudi_f60d2bbc68/top-5-react-essential-techniques-every-beginner-should-know-3ep6)
+- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
+- [Production Challenges with SSE](https://dev.to/saras_growth_space/production-challenges-with-sse-3k7g)
+- [[Boost]](https://dev.to/elizabethfuentes12/-33p8)
+- [Build SSE in Python &lpar;FastAPI&rpar;](https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c)
 <!-- BLOG-POST-LIST:END -->
 
 
