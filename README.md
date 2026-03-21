@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use SQL vs NoSQL Databases: A Comprehensive 2026 Guide](https://dev.to/akshaykurve/when-to-use-sql-vs-nosql-databases-a-comprehensive-2026-guide-547f)
-- [Golang vs JavaScript](https://dev.to/charles_otugeh_fc71c7b02d/golang-vs-javascript-25aa)
-- [Deorbiting the ISS: The $843 Million Engineering Challenge to Safely Crash a 420-Ton Space Station [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/deorbiting-the-iss-the-843-million-engineering-challenge-to-safely-crash-a-420-ton-space-station-579d)
-- [I Added a Meeting to Feel Like a Leader](https://dev.to/jonoherrington/i-added-a-meeting-to-feel-like-a-leader-39ek)
+- [I-Career-Advisor-That-Remembers-You](https://dev.to/nirmaladevipatel2005/i-career-advisor-that-remembers-you-41e6)
+- [uignore — a .gitignore for AI coding tools](https://dev.to/geekfarmer/uignore-a-gitignore-for-ai-coding-tools-3h7)
+- [MSV Protocol Launches Proof-of-Asset Integrity to Strengthen Real-World Asset Tokenisation as RWA Adoption Accelerates](https://dev.to/aloycwl/msv-protocol-launches-proof-of-asset-integrity-to-strengthen-real-world-asset-tokenisation-as-rwa-28h6)
+- [Find Minimum and maximum in an array](https://dev.to/jaya_srij_c37a6ea796335c/find-minimum-and-maximum-in-an-array-4i7l)
 <!-- BLOG-POST-LIST:END -->
 
 
