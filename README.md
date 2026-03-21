@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
-- [Production Challenges with SSE](https://dev.to/saras_growth_space/production-challenges-with-sse-3k7g)
-- [[Boost]](https://dev.to/elizabethfuentes12/-33p8)
-- [Build SSE in Python &lpar;FastAPI&rpar;](https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c)
+- [When to Use SQL vs NoSQL Databases: A Comprehensive 2026 Guide](https://dev.to/akshaykurve/when-to-use-sql-vs-nosql-databases-a-comprehensive-2026-guide-547f)
+- [Golang vs JavaScript](https://dev.to/charles_otugeh_fc71c7b02d/golang-vs-javascript-25aa)
+- [Deorbiting the ISS: The $843 Million Engineering Challenge to Safely Crash a 420-Ton Space Station [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/deorbiting-the-iss-the-843-million-engineering-challenge-to-safely-crash-a-420-ton-space-station-579d)
+- [I Added a Meeting to Feel Like a Leader](https://dev.to/jonoherrington/i-added-a-meeting-to-feel-like-a-leader-39ek)
 <!-- BLOG-POST-LIST:END -->
 
 
