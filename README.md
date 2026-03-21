@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Full HTTP Client Extension for VS Code — Here&#39;s Everything I Learned](https://dev.to/freerave/i-built-a-full-http-client-extension-for-vs-code-heres-everything-i-learned-3me4)
-- [Angular - Power Of Renderer2](https://dev.to/krivanek06/angular-power-of-renderer2-3ap8)
-- [Introducing helping-js v2: A Zero-Dependency Utility Library to Level Up Your App](https://dev.to/parsajiravand/introducing-helping-js-v2-a-zero-dependency-utility-library-to-level-up-your-app-5cip)
-- [I built my first website in 2004. Here&#39;s what I wish someone had told me.](https://dev.to/fedya_serafiev/i-built-my-first-website-in-2004-heres-what-i-wish-someone-had-told-me-3jg1)
+- [I Built a Free Dev Toolbox That Runs 100% in Your Browser](https://dev.to/rishu_777/i-built-a-free-dev-toolbox-that-runs-100-in-your-browser-388)
+- [Go Slices: Why Your Function Isn&#39;t Changing What You Think It Is](https://dev.to/rahultomer/go-slices-why-your-function-isnt-changing-what-you-think-it-is-3n9d)
+- [Graceful Shutdown in Node.js: Stop Dropping Requests During Deploys &lpar;2026 Guide&rpar;](https://dev.to/young_gao/graceful-shutdown-in-nodejs-stop-dropping-requests-228p)
+- [Typography System Guide](https://dev.to/alansdead/typography-system-guide-42b8)
 <!-- BLOG-POST-LIST:END -->
 
 
