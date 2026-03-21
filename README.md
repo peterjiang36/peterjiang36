@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Train a Small Language Model: The Complete Guide for 2026](https://dev.to/jaipalsingh/how-to-train-a-small-language-model-the-complete-guide-for-2026-4p6h)
-- [How to Run Ollama on Mac Mini: A Complete Local AI Setup Guide](https://dev.to/paarthurnax_3f967358857ce/how-to-run-ollama-on-mac-mini-a-complete-local-ai-setup-guide-4g5i)
-- [CodeRef - Smart Java Analyzer with ML Engine](https://dev.to/piwe/coderef-smart-java-analyzer-with-ml-engine-41c3)
-- [Designing Content Systems that Understand and Act](https://dev.to/storyblok/designing-content-systems-that-understand-and-act-5fal)
+- [A French Sailor Went for a Jog. Journalists Found the Aircraft Carrier.](https://dev.to/adioof/a-french-sailor-went-for-a-jog-journalists-found-the-aircraft-carrier-4k9a)
+- [Automating Container Image Updates with FluxCD &lpar;Hands-On Tutorial&rpar;](https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k)
+- [FluxCD Image Automation Error Troubleshooting](https://dev.to/pilgrim2go/fluxcd-image-automation-error-troubleshooting-1el2)
+- [AI Agents Are Replacing Developers? My Honest Experience Using Them](https://dev.to/vishaluttammane/ai-agents-are-replacing-developers-my-honest-experience-using-them-3mig)
 <!-- BLOG-POST-LIST:END -->
 
 
