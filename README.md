@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Waiting: How to Build &quot;Instant&quot; AI Agents with Optimistic UI](https://dev.to/programmingcentral/stop-waiting-how-to-build-instant-ai-agents-with-optimistic-ui-3agp)
-- [New workflow control method for harness engineering — Signature-Based Locking](https://dev.to/casamia918/new-workflow-control-method-for-harness-engineering-signature-based-locking-3bmj)
-- [Move All Negative Elements to End](https://dev.to/anjana_rk_fbdea7abbdf13/move-all-negative-elements-to-end-3p27)
-- [From Idea to Deployed App in Six Weeks: InterviewFlow](https://dev.to/lawlawson/what-i-built-during-chingu-voyage-59-4oo)
+- [How to Build a Text-to-SQL Agent with Python in 10 Minutes](https://dev.to/nebulagg/how-to-build-a-text-to-sql-agent-with-python-in-10-minutes-35oj)
+- [Building Multi-Language SEO for Video Aggregation Sites](https://dev.to/ahmet_gedik778845/building-multi-language-seo-for-video-aggregation-sites-mjj)
+- [Flash-KMeans Dropped and It Makes sklearn Look Slow](https://dev.to/alanwest/flash-kmeans-dropped-and-it-makes-sklearn-look-slow-4i40)
+- [How to Find Your First AI Automation Client in 2026 &lpar;Without a Portfolio&rpar;](https://dev.to/ottoaria/how-to-find-your-first-ai-automation-client-in-2026-without-a-portfolio-54ld)
 <!-- BLOG-POST-LIST:END -->
 
 
