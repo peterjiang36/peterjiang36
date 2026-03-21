@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Citation Registries and Timestamp Signal Failure in AI Interpretation](https://dev.to/aigistry/ai-citation-registries-and-timestamp-signal-failure-in-ai-interpretation-fc1)
-- [Getting Started with Seal Report: Building Your First Data Table from SQL Server](https://dev.to/vladg_dev/getting-started-with-seal-report-building-your-first-data-table-from-sql-server-140g)
-- [How to Check if a Brand Name is Available &lpar;The Complete Guide&rpar;](https://dev.to/indiebuilderlabs/how-to-check-if-a-brand-name-is-available-the-complete-guide-3blf)
-- [Inside SQLite’s Frontend: How Bytecode Is Generated and Names Are Resolved](https://dev.to/lovestaco/inside-sqlites-frontend-how-bytecode-is-generated-and-names-are-resolved-256g)
+- [Invited talk about: Adversarial Attacks and Defenses in Deep Learning Systems: Threats, Mechanisms, and Countermeasures](https://dev.to/thanidasangkasanya/invited-talk-about-adversarial-attacks-and-defenses-in-deep-learning-systems-threats-mechanisms-fig)
+- [What MCP Actually Is &lpar;And Why It Exists&rpar;](https://dev.to/catheryn/what-mcp-actually-is-and-why-it-exists-3e1j)
+- [Let&#39;s build a Production-Grade Bloom Filter in Python](https://dev.to/shogun_the_grt/lets-build-a-production-grade-bloom-filter-in-python-j34)
+- [Terraform State: The One File You Can&#39;t Afford to Lose](https://dev.to/aws-builders/terraform-state-the-one-file-you-cant-afford-to-lose-33l4)
 <!-- BLOG-POST-LIST:END -->
 
 
