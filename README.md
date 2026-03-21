@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
-- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
-- [How to Build Your First AI Agent: A Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-your-first-ai-agent-a-step-by-step-tutorial-415n)
-- [The teams with $5K AI bills and $50K AI bills are using the same models. Here&#39;s the difference.](https://dev.to/eagleeyethinker/the-teams-with-5k-ai-bills-and-50k-ai-bills-are-using-the-same-models-heres-the-difference-5bi5)
+- [Djangonaut diaries, week 3 - Working on an ORM issue](https://dev.to/rodbv/djangonaut-diaries-week-3-working-on-an-orm-issue-26b0)
+- [NIS2 : Les amendements de janvier 2026 et ce qu&#39;ils changent pour votre conformité](https://dev.to/conformscan/nis2-les-amendements-de-janvier-2026-et-ce-quils-changent-pour-votre-conformite-3f6l)
+- [BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?](https://dev.to/om_prakash_3311f8a4576605/birefnet-vs-rembg-vs-u2net-which-background-removal-model-actually-works-in-production-4830)
+- [My AI bot burned through my API budget overnight. So I built an open-source tool to make sure it never happens again.](https://dev.to/vola-trebla/my-ai-bot-burned-through-my-api-budget-overnight-so-i-built-an-open-source-tool-to-make-sure-it-2372)
 <!-- BLOG-POST-LIST:END -->
 
 
