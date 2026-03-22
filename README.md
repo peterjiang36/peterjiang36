@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Autonomous Coding Assistant: A LangGraph.js Capstone Guide](https://dev.to/programmingcentral/building-an-autonomous-coding-assistant-a-langgraphjs-capstone-guide-1c47)
-- [The Silent Job Loss: Why Your Node.js SaaS Needs a Persistent Task Queue](https://dev.to/siddhant_jain_18/the-silent-job-loss-why-your-nodejs-saas-needs-a-persistent-task-queue-5cih)
-- [Using Async SQLAlchemy Inside Sync Celery Tasks](https://dev.to/kevinnadar22/using-async-sqlalchemy-inside-sync-celery-tasks-3eg4)
-- [I Built MacDevTools: A One-Command Toolkit for Cleaning Caches, Diagnosing Networks, and Maintaining macOS Dev Environments](https://dev.to/jiangjingzhe/i-built-macdevtools-a-one-command-toolkit-for-cleaning-caches-diagnosing-networks-and-2685)
+- [The FHIR Sandbox Problem: Why Open Epic Won&#39;t Get You to Your First Customer](https://dev.to/mockhealth/the-fhir-sandbox-problem-why-open-epic-wont-get-you-to-your-first-customer-4nea)
+- [Stop prioritizing CVEs by CVSS score. Here&#39;s a better way.](https://dev.to/riskscoredev/stop-prioritizing-cves-by-cvss-score-heres-a-better-way-26id)
+- [How to Get Structured Output from Any LLM in 5 Min](https://dev.to/nebulagg/how-to-get-structured-output-from-any-llm-in-5-min-3nh9)
+- [[Learning notes] reading &quot;Attention is all you need&quot; paper](https://dev.to/userless/learning-notes-reading-attention-is-all-you-need-paper-3119)
 <!-- BLOG-POST-LIST:END -->
 
 
