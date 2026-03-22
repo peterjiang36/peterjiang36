@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I’m using Bedrock Agents](https://dev.to/xmabry/how-im-using-bedrock-agents-82e)
-- [Our AI PM Remembered Task Owners Without Being Told Twice](https://dev.to/sinchana_nagaraj/our-ai-pm-remembered-task-owners-without-being-told-twice-1dcn)
-- [Snyk vs SonarQube: Security vs Code Quality &lpar;2026&rpar;](https://dev.to/rahulxsingh/snyk-vs-sonarqube-security-vs-code-quality-2026-4o1k)
-- [The AI Update Trap](https://dev.to/rawveg/the-ai-update-trap-1ijd)
+- [Sybil Attacks in Crypto &amp; DeFi: Risks, Examples, and How to Prevent Them](https://dev.to/yos/sybil-attacks-in-crypto-defi-risks-examples-and-how-to-prevent-them-458f)
+- [Task – Move All Negative Elements to the End &lpar;Maintain Order&rpar;](https://dev.to/santhoshi_mary_88917c3fd9/task-move-all-negative-elements-to-the-end-maintain-order-399l)
+- [Technical Architecture of a Dental Bookkeeping SaaS Platform with QuickBooks Integration](https://dev.to/rahul_kumar_1988/technical-architecture-of-a-dental-bookkeeping-saas-platform-with-quickbooks-integration-57bc)
+- [Observing Malloc - Phase 0 Mini Malloc](https://dev.to/moonlitpath1/observing-malloc-phase-0-mini-malloc-2bc4)
 <!-- BLOG-POST-LIST:END -->
 
 
