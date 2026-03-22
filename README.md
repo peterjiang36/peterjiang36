@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Min and Max Elements.](https://dev.to/md_mubashir/min-and-max-elements-2d30)
-- [알쓸신네&lpar;알아두면 쓸데없는 신비한 네트워크 사전&rpar;](https://dev.to/algoorgoal/alsseulsinnealadumyeon-sseuldeeobsneun-sinbihan-neteuweokeu-sajeon-4ai5)
-- [Kth Smallest Element in an Array](https://dev.to/padma_priya_815d0cd613d0c/kth-smallest-element-in-an-array-18ok)
-- [AI Industry Layoffs: Strategic Unionization Opportunity Amid Potential Bubble Burst](https://dev.to/svetlix/ai-industry-layoffs-strategic-unionization-opportunity-amid-potential-bubble-burst-3ebg)
+- [Raspberry Pi Pico RTC Digital Clock](https://dev.to/david_thomas/raspberry-pi-pico-rtc-digital-clock-5ci6)
+- [Your AI Agent Doesn&#39;t Think. It Guesses. Here&#39;s What Thinking Actually Looks Like.](https://dev.to/tfatykhov/your-ai-agent-doesnt-think-it-guesses-heres-what-thinking-actually-looks-like-1k80)
+- [Sort a Linked List Using Merge Sort](https://dev.to/dharani_boominathan_b1e6b/sort-a-linked-list-using-merge-sort-30h0)
+- [NoSleep: A Lightweight macOS Menu Bar App with SwiftUI](https://dev.to/sergio_farfn_b071cafc7ed/nosleep-a-lightweight-macos-menu-bar-app-with-swiftui-5fap)
 <!-- BLOG-POST-LIST:END -->
 
 
