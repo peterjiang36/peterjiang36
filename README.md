@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raw Developer Stories: The Side Nobody Shows](https://dev.to/pjdeveloper896/raw-developer-stories-the-side-nobody-shows-2941)
-- [Building MEV-Resistant DeFi: A Practitioner&#39;s Guide to Protecting Protocols and Users From Value Extraction](https://dev.to/ohmygod/building-mev-resistant-defi-a-practitioners-guide-to-protecting-protocols-and-users-from-value-13al)
-- [Why Connecting AI to Real Systems Is Still Hard](https://dev.to/gursharansingh/why-connecting-ai-to-real-systems-is-still-hard-425o)
-- [A Revolução da Confiança: Blockchain e o Futuro do Dinheiro](https://dev.to/valterlobo/a-revolucao-da-confianca-blockchain-e-o-futuro-do-dinheiro-3pih)
+- [I benchmarked every Go SQL parser in 2026 and built my own](https://dev.to/ajit_pratapsingh_02ab85b/i-benchmarked-every-go-sql-parser-in-2026-and-built-my-own-2j9n)
+- [I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory](https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3)
+- [Multi-Agent Orchestration on AWS: Supervisor Pattern with Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-orchestration-on-aws-supervisor-pattern-with-terraform-1e9j)
+- [Multi-Agent Systems on GCP: Workflow Patterns with ADK and Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-systems-on-gcp-workflow-patterns-with-adk-and-terraform-6dk)
 <!-- BLOG-POST-LIST:END -->
 
 
