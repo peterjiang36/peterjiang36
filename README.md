@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pi Pico RTC Digital Clock](https://dev.to/david_thomas/raspberry-pi-pico-rtc-digital-clock-5ci6)
-- [Your AI Agent Doesn&#39;t Think. It Guesses. Here&#39;s What Thinking Actually Looks Like.](https://dev.to/tfatykhov/your-ai-agent-doesnt-think-it-guesses-heres-what-thinking-actually-looks-like-1k80)
-- [Sort a Linked List Using Merge Sort](https://dev.to/dharani_boominathan_b1e6b/sort-a-linked-list-using-merge-sort-30h0)
-- [NoSleep: A Lightweight macOS Menu Bar App with SwiftUI](https://dev.to/sergio_farfn_b071cafc7ed/nosleep-a-lightweight-macos-menu-bar-app-with-swiftui-5fap)
+- [Raw Developer Stories: The Side Nobody Shows](https://dev.to/pjdeveloper896/raw-developer-stories-the-side-nobody-shows-2941)
+- [Building MEV-Resistant DeFi: A Practitioner&#39;s Guide to Protecting Protocols and Users From Value Extraction](https://dev.to/ohmygod/building-mev-resistant-defi-a-practitioners-guide-to-protecting-protocols-and-users-from-value-13al)
+- [Why Connecting AI to Real Systems Is Still Hard](https://dev.to/gursharansingh/why-connecting-ai-to-real-systems-is-still-hard-425o)
+- [A Revolução da Confiança: Blockchain e o Futuro do Dinheiro](https://dev.to/valterlobo/a-revolucao-da-confianca-blockchain-e-o-futuro-do-dinheiro-3pih)
 <!-- BLOG-POST-LIST:END -->
 
 
