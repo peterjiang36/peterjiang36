@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sybil Attacks in Crypto &amp; DeFi: Risks, Examples, and How to Prevent Them](https://dev.to/yos/sybil-attacks-in-crypto-defi-risks-examples-and-how-to-prevent-them-458f)
-- [Task – Move All Negative Elements to the End &lpar;Maintain Order&rpar;](https://dev.to/santhoshi_mary_88917c3fd9/task-move-all-negative-elements-to-the-end-maintain-order-399l)
-- [Technical Architecture of a Dental Bookkeeping SaaS Platform with QuickBooks Integration](https://dev.to/rahul_kumar_1988/technical-architecture-of-a-dental-bookkeeping-saas-platform-with-quickbooks-integration-57bc)
-- [Observing Malloc - Phase 0 Mini Malloc](https://dev.to/moonlitpath1/observing-malloc-phase-0-mini-malloc-2bc4)
+- [How to Create Custom Audiences from Wallet Data](https://dev.to/yos/how-to-create-custom-audiences-from-wallet-data-1ihe)
+- [How Web3 User Segmentation Transforms Blockchain Analytics](https://dev.to/yos/how-web3-user-segmentation-transforms-blockchain-analytics-5dl9)
+- [Understanding Web3 User Profiles: A Comprehensive Guide](https://dev.to/yos/understanding-web3-user-profiles-a-comprehensive-guide-337k)
+- [Feature Adoption Analytics: The Complete Guide for Onchain Product and Marketing Teams](https://dev.to/yos/feature-adoption-analytics-the-complete-guide-for-onchain-product-and-marketing-teams-54pl)
 <!-- BLOG-POST-LIST:END -->
 
 
