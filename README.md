@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Removing Duplicates from a Sorted Linked List](https://dev.to/samantha_vincent_11/removing-duplicates-from-a-sorted-linked-list-2if1)
-- [First and Last Occurrences - CA19](https://dev.to/lokeshwaran_s_db77da73b51/first-and-last-occurrences-ca19-1ekn)
-- [What Happens When 4 AI Agents Share a Memory Pool](https://dev.to/laynepenney/what-happens-when-4-ai-agents-share-a-memory-pool-k58)
-- [Meet Gluon AI: Your Architectural Co-Pilot](https://dev.to/yuramag/meet-gluon-ai-your-architectural-co-pilot-5hd8)
+- [We Spent a Week Evaluating a Context Compression Tool, Then Killed It](https://dev.to/lindemansnissa634shipit/we-spent-a-week-evaluating-a-context-compression-tool-then-killed-it-18dm)
+- [Designing for Throwaway-ability in the AI Coding Era](https://dev.to/xjamundx/designing-for-throwaway-ability-in-the-ai-coding-era-1b9p)
+- [Real World vs Theory Lessons](https://dev.to/nagesh_k_2003/real-world-vs-theory-lessons-2flf)
+- [Aegis — I built an open-source secrets broker because CyberArk costs more than my salary](https://dev.to/gustavothethird/aegis-i-built-an-open-source-secrets-broker-because-cyberark-costs-more-than-my-salary-4mmf)
 <!-- BLOG-POST-LIST:END -->
 
 
