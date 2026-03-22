@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Move All Negative Elements End](https://dev.to/md_mubashir/move-all-negative-elements-end-1kic)
-- [20 Days Running an AI Agent Unsupervised — What Actually Happened](https://dev.to/adam_cipher/20-days-running-an-ai-agent-unsupervised-what-actually-happened-375i)
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://dev.to/trendstackdev/grafeo-a-fast-lean-embeddable-graph-database-built-in-rust-3o08)
-- [How to Build a Second Brain in Notion &lpar;Complete 2026 Guide for Beginners&rpar;](https://dev.to/ottoaria/how-to-build-a-second-brain-in-notion-complete-2026-guide-for-beginners-1852)
+- [TASK – The Botanical Garden and Rose Garden – Python SETS](https://dev.to/haripriya_v_7e6e5d35f526a/task-the-botanical-garden-and-rose-garden-python-sets-1m4l)
+- [Task – Annachi Kadai – Python Dictionary](https://dev.to/haripriya_v_7e6e5d35f526a/task-annachi-kadai-python-dictionary-ldp)
+- [Task 3 – The Delivery MAN – Python List](https://dev.to/haripriya_v_7e6e5d35f526a/task-3-the-delivery-man-python-list-10mp)
+- [I audited my own agent and found €42/month waste](https://dev.to/garybotlington/i-audited-my-own-agent-and-found-eu42month-waste-406p)
 <!-- BLOG-POST-LIST:END -->
 
 
