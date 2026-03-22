@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The FHIR Sandbox Problem: Why Open Epic Won&#39;t Get You to Your First Customer](https://dev.to/mockhealth/the-fhir-sandbox-problem-why-open-epic-wont-get-you-to-your-first-customer-4nea)
-- [Stop prioritizing CVEs by CVSS score. Here&#39;s a better way.](https://dev.to/riskscoredev/stop-prioritizing-cves-by-cvss-score-heres-a-better-way-26id)
-- [How to Get Structured Output from Any LLM in 5 Min](https://dev.to/nebulagg/how-to-get-structured-output-from-any-llm-in-5-min-3nh9)
-- [[Learning notes] reading &quot;Attention is all you need&quot; paper](https://dev.to/userless/learning-notes-reading-attention-is-all-you-need-paper-3119)
+- [AI Can Speed Up Code Review — but Merge Decisions Still Need Deterministic Guardrails](https://dev.to/mvtavares/ai-can-speed-up-code-review-but-merge-decisions-still-need-deterministic-guardrails-2l85)
+- [Top 6 AI Agent Memory Frameworks for Devs &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-agent-memory-frameworks-for-devs-2026-1fef)
+- [Idempotency Architecture for Lambda-Driven Systems on AWS](https://dev.to/aws-builders/idempotency-architecture-for-lambda-driven-systems-on-aws-3hp4)
+- [Building Production-Ready Multi-Tenant SaaS in Rust with Actix-web](https://dev.to/chinedu/building-production-ready-multi-tenant-saas-in-rust-with-actix-web-i1h)
 <!-- BLOG-POST-LIST:END -->
 
 
