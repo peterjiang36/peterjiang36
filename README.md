@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih)
-- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437)
-- [I built a Formspree alternative because flat pricing is stupid](https://dev.to/omrajguru05/i-built-a-formspree-alternative-because-flat-pricing-is-stupid-3iig)
-- [The Ghost in the Droplet: I Built an Autonomous AI That Whispers to Itself in an Empty VPS](https://dev.to/kagioneko/the-ghost-in-the-droplet-i-built-an-autonomous-ai-that-whispers-to-itself-in-an-empty-vps-32n8)
+- [I Built Free Unlimited S3-Compatible Storage Using Telegram as Backend](https://dev.to/young_gao/i-built-free-unlimited-s3-compatible-storage-using-telegram-as-backend-h30)
+- [AI-Powered Development Workflows with GitHub Copilot and the gh CLI](https://dev.to/markring/ai-powered-development-workflows-with-github-copilot-and-the-gh-cli-fde)
+- [# Production-Grade GraphRAG Data Pipeline: End-to-End Construction from PDF Parsing to Knowledge Graph](https://dev.to/jamesli/-production-grade-graphrag-data-pipeline-end-to-end-construction-from-pdf-parsing-to-knowledge-1dhj)
+- [The LLM Dependency Test: A New Way to Interview Software Engineers in the Age of AI](https://dev.to/fosres/the-llm-dependency-test-a-new-way-to-interview-software-engineers-in-the-age-of-ai-c8m)
 <!-- BLOG-POST-LIST:END -->
 
 
