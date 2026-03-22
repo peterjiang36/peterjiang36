@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I benchmarked every Go SQL parser in 2026 and built my own](https://dev.to/ajit_pratapsingh_02ab85b/i-benchmarked-every-go-sql-parser-in-2026-and-built-my-own-2j9n)
-- [I Benchmarked Graphiti vs Mem0: The Hidden Cost of Context Blindness in AI Memory](https://dev.to/juandastic/i-benchmarked-graphiti-vs-mem0-the-hidden-cost-of-context-blindness-in-ai-memory-4le3)
-- [Multi-Agent Orchestration on AWS: Supervisor Pattern with Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-orchestration-on-aws-supervisor-pattern-with-terraform-1e9j)
-- [Multi-Agent Systems on GCP: Workflow Patterns with ADK and Terraform 🧠](https://dev.to/suhas_mallesh/multi-agent-systems-on-gcp-workflow-patterns-with-adk-and-terraform-6dk)
+- [I Built a Graph-Based Tool Search Engine for LLM Agents — Here&#39;s What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
+- [First and Last Occurrences](https://dev.to/padma_priya_815d0cd613d0c/first-and-last-occurrences-2pna)
+- [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
+- [I decided to try gamedev in C++. My experience was toxic!](https://dev.to/embernoglow/i-decided-to-try-gamedev-in-c-my-experience-was-toxic-2n7o)
 <!-- BLOG-POST-LIST:END -->
 
 
