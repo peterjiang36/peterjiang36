@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Pull Requests Are Being Ignored. Fix It with This Simple Bot](https://dev.to/eldemcan/your-pull-requests-are-being-ignored-fix-it-with-this-simple-bot-124f)
-- [AI Agent Monitoring SaaS: How to Scale Reliable OpenClaw Agents with Confidence](https://dev.to/chiefwebofficer/ai-agent-monitoring-saas-how-to-scale-reliable-openclaw-agents-with-confidence-4nne)
-- [I Just Published My First App on the App Store](https://dev.to/saratnazari/i-just-published-my-first-app-on-the-app-store-327)
-- [Beyond the Chatbot: Engineering a Hybrid AI Math Tutor for the Future](https://dev.to/devadhithiya/beyond-the-chatbot-engineering-a-hybrid-ai-math-tutor-for-the-future-86g)
+- [Building an Autonomous Coding Assistant: A LangGraph.js Capstone Guide](https://dev.to/programmingcentral/building-an-autonomous-coding-assistant-a-langgraphjs-capstone-guide-1c47)
+- [The Silent Job Loss: Why Your Node.js SaaS Needs a Persistent Task Queue](https://dev.to/siddhant_jain_18/the-silent-job-loss-why-your-nodejs-saas-needs-a-persistent-task-queue-5cih)
+- [Using Async SQLAlchemy Inside Sync Celery Tasks](https://dev.to/kevinnadar22/using-async-sqlalchemy-inside-sync-celery-tasks-3eg4)
+- [I Built MacDevTools: A One-Command Toolkit for Cleaning Caches, Diagnosing Networks, and Maintaining macOS Dev Environments](https://dev.to/jiangjingzhe/i-built-macdevtools-a-one-command-toolkit-for-cleaning-caches-diagnosing-networks-and-2685)
 <!-- BLOG-POST-LIST:END -->
 
 
