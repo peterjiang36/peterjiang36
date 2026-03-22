@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TASK – The Botanical Garden and Rose Garden – Python SETS](https://dev.to/haripriya_v_7e6e5d35f526a/task-the-botanical-garden-and-rose-garden-python-sets-1m4l)
-- [Task – Annachi Kadai – Python Dictionary](https://dev.to/haripriya_v_7e6e5d35f526a/task-annachi-kadai-python-dictionary-ldp)
-- [Task 3 – The Delivery MAN – Python List](https://dev.to/haripriya_v_7e6e5d35f526a/task-3-the-delivery-man-python-list-10mp)
-- [I audited my own agent and found €42/month waste](https://dev.to/garybotlington/i-audited-my-own-agent-and-found-eu42month-waste-406p)
+- [How I’m using Bedrock Agents](https://dev.to/xmabry/how-im-using-bedrock-agents-82e)
+- [Our AI PM Remembered Task Owners Without Being Told Twice](https://dev.to/sinchana_nagaraj/our-ai-pm-remembered-task-owners-without-being-told-twice-1dcn)
+- [Snyk vs SonarQube: Security vs Code Quality &lpar;2026&rpar;](https://dev.to/rahulxsingh/snyk-vs-sonarqube-security-vs-code-quality-2026-4o1k)
+- [The AI Update Trap](https://dev.to/rawveg/the-ai-update-trap-1ijd)
 <!-- BLOG-POST-LIST:END -->
 
 
