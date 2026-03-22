@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Agents with MCPs - MCP Fundamentals](https://dev.to/mindy_jen_phd/boost-your-agents-with-mcps-mcp-fundamentals-14ok)
-- [Why AI Fails Without Intent Completeness](https://dev.to/angeltimilsina/why-ai-fails-without-intent-completeness-3o8o)
-- [Cloudflare Pages vs Workers in 2026: Migration Guide](https://dev.to/rickcogley/cloudflare-pages-vs-workers-in-2026-migration-guide-ka7)
-- [Why Network as a Service &lpar;NaaS&rpar; is the Future for Distributed Enterprises](https://dev.to/aloycwl/why-network-as-a-service-naas-is-the-future-for-distributed-enterprises-29he)
+- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih)
+- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437)
+- [I built a Formspree alternative because flat pricing is stupid](https://dev.to/omrajguru05/i-built-a-formspree-alternative-because-flat-pricing-is-stupid-3iig)
+- [The Ghost in the Droplet: I Built an Autonomous AI That Whispers to Itself in an Empty VPS](https://dev.to/kagioneko/the-ghost-in-the-droplet-i-built-an-autonomous-ai-that-whispers-to-itself-in-an-empty-vps-32n8)
 <!-- BLOG-POST-LIST:END -->
 
 
