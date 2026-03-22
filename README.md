@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Free Unlimited S3-Compatible Storage Using Telegram as Backend](https://dev.to/young_gao/i-built-free-unlimited-s3-compatible-storage-using-telegram-as-backend-h30)
-- [AI-Powered Development Workflows with GitHub Copilot and the gh CLI](https://dev.to/markring/ai-powered-development-workflows-with-github-copilot-and-the-gh-cli-fde)
-- [# Production-Grade GraphRAG Data Pipeline: End-to-End Construction from PDF Parsing to Knowledge Graph](https://dev.to/jamesli/-production-grade-graphrag-data-pipeline-end-to-end-construction-from-pdf-parsing-to-knowledge-1dhj)
-- [The LLM Dependency Test: A New Way to Interview Software Engineers in the Age of AI](https://dev.to/fosres/the-llm-dependency-test-a-new-way-to-interview-software-engineers-in-the-age-of-ai-c8m)
+- [Min and Max Elements.](https://dev.to/md_mubashir/min-and-max-elements-2d30)
+- [알쓸신네&lpar;알아두면 쓸데없는 신비한 네트워크 사전&rpar;](https://dev.to/algoorgoal/alsseulsinnealadumyeon-sseuldeeobsneun-sinbihan-neteuweokeu-sajeon-4ai5)
+- [Kth Smallest Element in an Array](https://dev.to/padma_priya_815d0cd613d0c/kth-smallest-element-in-an-array-18ok)
+- [AI Industry Layoffs: Strategic Unionization Opportunity Amid Potential Bubble Burst](https://dev.to/svetlix/ai-industry-layoffs-strategic-unionization-opportunity-amid-potential-bubble-burst-3ebg)
 <!-- BLOG-POST-LIST:END -->
 
 
