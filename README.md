@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Graph-Based Tool Search Engine for LLM Agents — Here&#39;s What I Learned After 1068 Tools](https://dev.to/sonaiengine/i-built-a-graph-based-tool-search-engine-for-llm-agents-heres-what-i-learned-after-1068-tools-4fj4)
-- [First and Last Occurrences](https://dev.to/padma_priya_815d0cd613d0c/first-and-last-occurrences-2pna)
-- [Snyk vs Semgrep: SCA Platform vs Custom SAST Rules in 2026](https://dev.to/rahulxsingh/snyk-vs-semgrep-sca-platform-vs-custom-sast-rules-in-2026-3047)
-- [I decided to try gamedev in C++. My experience was toxic!](https://dev.to/embernoglow/i-decided-to-try-gamedev-in-c-my-experience-was-toxic-2n7o)
+- [The 15 Linux Find Commands That Will Save You Hours](https://dev.to/benriemer/the-15-linux-find-commands-that-will-save-you-hours-2bho)
+- [Why Digital Governance Fails Before Data Even Exists](https://dev.to/shikharjha/why-digital-governance-fails-before-data-even-exists-cin)
+- [Bedrock for AI Coding Tools: Mantle vs Gateway vs LiteLLM — A Decision Guide for AWS Credit Burners](https://dev.to/aws-builders/bedrock-for-ai-coding-tools-mantle-vs-gateway-vs-litellm-a-decision-guide-for-aws-credit-burners-1h01)
+- [CA 07 - Kth Smallest](https://dev.to/jonah_blessy_66f109370d96/ca-07-kth-smallest-2clh)
 <!-- BLOG-POST-LIST:END -->
 
 
