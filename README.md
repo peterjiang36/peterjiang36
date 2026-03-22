@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Custom Audiences from Wallet Data](https://dev.to/yos/how-to-create-custom-audiences-from-wallet-data-1ihe)
-- [How Web3 User Segmentation Transforms Blockchain Analytics](https://dev.to/yos/how-web3-user-segmentation-transforms-blockchain-analytics-5dl9)
-- [Understanding Web3 User Profiles: A Comprehensive Guide](https://dev.to/yos/understanding-web3-user-profiles-a-comprehensive-guide-337k)
-- [Feature Adoption Analytics: The Complete Guide for Onchain Product and Marketing Teams](https://dev.to/yos/feature-adoption-analytics-the-complete-guide-for-onchain-product-and-marketing-teams-54pl)
+- [Removing Duplicates from a Sorted Linked List](https://dev.to/samantha_vincent_11/removing-duplicates-from-a-sorted-linked-list-2if1)
+- [First and Last Occurrences - CA19](https://dev.to/lokeshwaran_s_db77da73b51/first-and-last-occurrences-ca19-1ekn)
+- [What Happens When 4 AI Agents Share a Memory Pool](https://dev.to/laynepenney/what-happens-when-4-ai-agents-share-a-memory-pool-k58)
+- [Meet Gluon AI: Your Architectural Co-Pilot](https://dev.to/yuramag/meet-gluon-ai-your-architectural-co-pilot-5hd8)
 <!-- BLOG-POST-LIST:END -->
 
 
