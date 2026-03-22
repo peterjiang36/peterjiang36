@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
-- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
-- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
-- [U.S. Solar Installations Dropped in 2025 After Trump’s Clean Energy Critique – What It Means for the Future](https://dev.to/aloycwl/us-solar-installations-dropped-in-2025-after-trumps-clean-energy-critique-what-it-means-for-2e5i)
+- [Boost Your Agents with MCPs - MCP Fundamentals](https://dev.to/mindy_jen_phd/boost-your-agents-with-mcps-mcp-fundamentals-14ok)
+- [Why AI Fails Without Intent Completeness](https://dev.to/angeltimilsina/why-ai-fails-without-intent-completeness-3o8o)
+- [Cloudflare Pages vs Workers in 2026: Migration Guide](https://dev.to/rickcogley/cloudflare-pages-vs-workers-in-2026-migration-guide-ka7)
+- [Why Network as a Service &lpar;NaaS&rpar; is the Future for Distributed Enterprises](https://dev.to/aloycwl/why-network-as-a-service-naas-is-the-future-for-distributed-enterprises-29he)
 <!-- BLOG-POST-LIST:END -->
 
 
