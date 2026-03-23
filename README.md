@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Zero-Hallucination AI Content Army for Fashion E-Commerce](https://dev.to/sahib_alizada/how-we-built-a-zero-hallucination-ai-content-army-for-fashion-e-commerce-opo)
-- [The CrimeEnjoyor Epidemic: How EIP-7702 Delegation Phishing Drained 450K+ Wallets — And How to Detect It On-Chain](https://dev.to/ohmygod/the-crimeenjoyor-epidemic-how-eip-7702-delegation-phishing-drained-450k-wallets-and-how-to-e2g)
-- [How I Built a Patient Check-In Kiosk for a Specialty Medical Practice](https://dev.to/daniel_romitelli_44e77dc6/how-i-built-a-patient-check-in-kiosk-for-a-specialty-medical-practice-408i)
-- [Teaching Machines to See &lpar;Part 1&rpar;: Why Vision Is Hard](https://dev.to/sam_king_2c65e4cd10f8b9d6/teaching-machines-to-see-part-1-why-vision-is-hard-4nhb)
+- [I Built an Instant SEO Audit API — Here&#39;s What I Learned About Technical SEO](https://dev.to/deganiagency/i-built-an-instant-seo-audit-api-heres-what-i-learned-about-technical-seo-2d3o)
+- [SJF4J: A Structured JSON Facade for Java](https://dev.to/hannyu/sjf4j-a-structured-json-facade-for-java-2n0f)
+- [AI Avatar v2 with Pose Editor &lpar;VS Code Extension&rpar;🕺](https://dev.to/webdeveloperhyper/ai-avatar-v2-with-pose-editor-vs-code-extension-38n2)
+- [Going to Production: Spot Instances, Karpenter, and the Graviton Advantage](https://dev.to/muskan_bandta_8abedcc7e12/going-to-production-spot-instances-karpenter-and-the-graviton-advantage-4oi5)
 <!-- BLOG-POST-LIST:END -->
 
 
