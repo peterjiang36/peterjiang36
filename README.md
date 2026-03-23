@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Hindsight Made Us Rethink Our Global Study Context](https://dev.to/bindukeshav_de5dd33486afe/why-hindsight-made-us-rethink-our-global-study-context-37me)
-- [SAP ABAP Exception Handling: Temiz, Güvenilir ve Sürdürülebilir Hata Yönetimi](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-exception-handling-temiz-guvenilir-ve-surdurulebilir-hata-yonetimi-4f7p)
-- [FFT vs Welch vs STFT: 10Hz Bearing Speed Benchmark](https://dev.to/tildalice/fft-vs-welch-vs-stft-10hz-bearing-speed-benchmark-1kfb)
-- [The Message That Got Blue Ticks But Never Arrived](https://dev.to/oolongtea2026/the-message-that-got-blue-ticks-but-never-arrived-3eo5)
+- [Top 6 AI API Testing Tools for Developers &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-api-testing-tools-for-developers-2026-3bep)
+- [AI Training Data Pipeline](https://dev.to/tutorialq/ai-training-data-pipeline-35n8)
+- [Why File systems are hard to debug](https://dev.to/anant_tyagi_3ad473c2eeebb/why-file-systems-are-hard-to-debug-2o0j)
+- [5 VibeOps Guardrails Every AI-Generated Codebase Needs Before It Reaches Production](https://dev.to/deepak_mishra_35863517037/5-vibeops-guardrails-every-ai-generated-codebase-needs-before-it-reaches-production-253o)
 <!-- BLOG-POST-LIST:END -->
 
 
