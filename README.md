@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Infinite+ Free Developer Tools – No Signup, No Tracking](https://dev.to/shahmeerfarhan/90-free-developer-tools-no-signup-no-tracking-hbi)
-- [Cognitive Prosthesis: How to Turn AI from a Tool into a Co-Author of Complex Systems](https://dev.to/basil_kubarev_0fc48181446/cognitive-prosthesis-how-to-turn-ai-from-a-tool-into-a-co-author-of-complex-systems-458b)
-- [ASSIGNMENT 20](https://dev.to/tanishka_v_b7e4add4c1c1a4/assignment-20-59do)
-- [10 AI Code Review Tools That Actually Caught Bugs My Team Missed](https://dev.to/dextralabs/10-ai-code-review-tools-that-actually-caught-bugs-my-team-missed-n8g)
+- [🖥️Deploy Your First EC2 with Terraform &lpar;Step-by-Step Guide&rpar; — Part 3](https://dev.to/ahkarswe/deploy-your-first-ec2-with-terraform-step-by-step-guide-part-3-2np4)
+- [Package Managers Explained: From apt to Homebrew to winget &lpar;and Everything In Between&rpar;](https://dev.to/adrianjiga/package-managers-explained-from-apt-to-homebrew-to-winget-and-everything-in-between-2eco)
+- [The Silent Shift: Developers Are Becoming AI Supervisors, Not Builders](https://dev.to/jaideepparashar/the-silent-shift-developers-are-becoming-ai-supervisors-not-builders-4m85)
+- [The Day I Chased a “Ghost” Bug in Real-Time Notifications](https://dev.to/mindmagic/the-day-i-chased-a-ghost-bug-in-real-time-notifications-32e6)
 <!-- BLOG-POST-LIST:END -->
 
 
