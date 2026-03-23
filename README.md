@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-agn)
-- [How I accidentally built a production tool with Amazon Q and stubbornness](https://dev.to/bramverhagen/how-i-accidentally-built-a-production-tool-with-amazon-q-and-stubbornness-4m9g)
-- [Spec-Driven Development vs Vibe Coding: My Honest First Impressions After Trying It](https://dev.to/incomplete_developer/spec-driven-development-vs-vibe-coding-my-honest-first-impressions-after-trying-it-4o5e)
-- [Using Google Antigravity Without Launching Yourself Into Orbit](https://dev.to/harshith_halejolad/using-google-antigravity-without-launching-yourself-into-orbit-3348)
+- [RubyKaigi Teaser: Ruby on the Edge](https://dev.to/udzura/rubykaigi-teaser-ruby-on-the-edge-o7a)
+- [I Analyzed 300 LLM Drift Checks: Here&#39;s What I Found](https://dev.to/clawgenesis/i-analyzed-300-llm-drift-checks-heres-what-i-found-46dl)
+- [Building a Protocol Translation Layer for Multi-Agent Systems](https://dev.to/kwstas_gal08_4d89c9c8c2a9/building-a-protocol-translation-layer-for-multi-agent-systems-3ph4)
+- [I am building an anime tracker inspired by MyAnimeList](https://dev.to/dsoeiro/i-am-building-an-anime-tracker-inspired-by-myanimelist-181f)
 <!-- BLOG-POST-LIST:END -->
 
 
