@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 6 AI API Testing Tools for Developers &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-api-testing-tools-for-developers-2026-3bep)
-- [AI Training Data Pipeline](https://dev.to/tutorialq/ai-training-data-pipeline-35n8)
-- [Why File systems are hard to debug](https://dev.to/anant_tyagi_3ad473c2eeebb/why-file-systems-are-hard-to-debug-2o0j)
-- [5 VibeOps Guardrails Every AI-Generated Codebase Needs Before It Reaches Production](https://dev.to/deepak_mishra_35863517037/5-vibeops-guardrails-every-ai-generated-codebase-needs-before-it-reaches-production-253o)
+- [Cursor Is a Tool. Operum Is a Team. — Introducing Pluggable AI Engines for Multi-Agent Orchestration](https://dev.to/alprimak/cursor-is-a-tool-operum-is-a-team-introducing-pluggable-ai-engines-for-multi-agent-orchestration-bo0)
+- [I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here&#39;s What Actually Happened.](https://dev.to/pjhoberman/i-ran-60-autoresearch-experiments-on-a-production-search-algorithm-heres-what-actually-happened-46bk)
+- [The Claude Code CVE That Should Change How You Review AI-Generated Code](https://dev.to/toniantunovic/the-claude-code-cve-that-should-change-how-you-review-ai-generated-code-4gd4)
+- [Stop Wrestling with D3.js: 8 Free Tools That Do It Better](https://dev.to/elysiatools/stop-wrestling-with-d3js-8-free-tools-that-do-it-better-2ff1)
 <!-- BLOG-POST-LIST:END -->
 
 
