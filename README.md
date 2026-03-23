@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Instant SEO Audit API — Here&#39;s What I Learned About Technical SEO](https://dev.to/deganiagency/i-built-an-instant-seo-audit-api-heres-what-i-learned-about-technical-seo-2d3o)
-- [SJF4J: A Structured JSON Facade for Java](https://dev.to/hannyu/sjf4j-a-structured-json-facade-for-java-2n0f)
-- [AI Avatar v2 with Pose Editor &lpar;VS Code Extension&rpar;🕺](https://dev.to/webdeveloperhyper/ai-avatar-v2-with-pose-editor-vs-code-extension-38n2)
-- [Going to Production: Spot Instances, Karpenter, and the Graviton Advantage](https://dev.to/muskan_bandta_8abedcc7e12/going-to-production-spot-instances-karpenter-and-the-graviton-advantage-4oi5)
+- [The Hybrid Analytics Architecture](https://dev.to/anjab/the-hybrid-analytics-architecture-4chc)
+- [Clinical documentation as blocks, not forms.](https://dev.to/4akera/clinical-documentation-as-blocks-not-forms-5fj2)
+- [ForceMemo: How Stolen Credentials Turned Hundreds of GitHub Python Repos Into Blockchain-Powered Malware Distributors](https://dev.to/ohmygod/forcememo-how-stolen-credentials-turned-hundreds-of-github-python-repos-into-blockchain-powered-2kbe)
+- [Project N.O.M.A.D.: The Open-Source Offline Survival Computer That Runs Without the Internet](https://dev.to/arshkharbanda2010/project-nomad-the-open-source-offline-survival-computer-that-runs-without-the-internet-20c7)
 <!-- BLOG-POST-LIST:END -->
 
 
