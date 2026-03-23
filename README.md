@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Remote Work: Dream, Freedom, or Something Else?](https://dev.to/anna-freedom-in-tech/remote-work-dream-freedom-or-something-else-2af5)
-- [El recurso gratuito para certificaciones cloud que los hispanohablantes necesitamos](https://dev.to/_2137e95cec9f23d5ed113/el-recurso-gratuito-para-certificaciones-cloud-que-los-hispanohablantes-necesitamos-22oc)
-- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-4ee2)
-- [Managing Media Files in Flask &lpar;Images, Videos, and Audio&rpar;](https://dev.to/cloudinary/managing-media-files-in-flask-images-videos-and-audio-kdk)
+- [I built 3 useful Windows tools in 14 DAYS using AI &lpar;Before going offline for 2 months&rpar;](https://dev.to/servalc4t/i-built-3-useful-windows-tools-in-14-days-using-ai-before-going-offline-for-2-months-4813)
+- [AI Agent Error Handling: 4 Resilience Patterns in Python](https://dev.to/nebulagg/ai-agent-error-handling-4-resilience-patterns-in-python-12of)
+- [Rescued Pups, New Apps, and One Very Big Federal Crackdown](https://dev.to/krlz/rescued-pups-new-apps-and-one-very-big-federal-crackdown-1i0d)
+- [CONNECTING POWER BI TO SQL DATABASE](https://dev.to/jedidah_ondiso_887753d76e/connecting-power-bi-to-sql-database-5083)
 <!-- BLOG-POST-LIST:END -->
 
 
