@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Energy Supply Risk Monitoring — How I Combined 4 Government Data Sources Into One API](https://dev.to/dave_sng_ec0ec8421d812d35/real-time-energy-supply-risk-monitoring-how-i-combined-4-government-data-sources-into-one-api-17c1)
-- [Rules vs Skills in Claude Code](https://dev.to/jeffreese/rules-vs-skills-in-claude-code-5cfi)
-- [The Model Already Read the README. MICA v0.1.8 Made It a Protocol](https://dev.to/flamehaven01/the-model-already-read-the-readme-mica-v018-made-it-a-protocol-37j9)
-- [Kafka 4.2.0 on Kubernetes - Complete Setup Guide - Exposed to Internet](https://dev.to/giveitatry/kafka-on-kubernetes-complete-setup-guide-exposed-to-internet-2l83)
+- [We Replaced Our Standup Notes With an AI That Actually Remembers Them](https://dev.to/rakshitha_hk_d78f69db4f1/we-replaced-our-standup-notes-with-an-ai-that-actually-remembers-them-dci)
+- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 5](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-5-3hai)
+- [Loreguard.com - Built a NPC AI Engine that runs on player&#39;s machine &lpar;no pay-per-token&rpar;](https://dev.to/beyond-logic-labs/loreguardcom-built-a-npc-ai-engine-that-runs-on-players-machine-no-pay-per-token-m6g)
+- [I Built an Open-Source Wallet for AI Agents. Here&#39;s Why.](https://dev.to/walletguy/i-built-an-open-source-wallet-for-ai-agents-heres-why-2hjk)
 <!-- BLOG-POST-LIST:END -->
 
 
