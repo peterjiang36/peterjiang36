@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Replaced Our Standup Notes With an AI That Actually Remembers Them](https://dev.to/rakshitha_hk_d78f69db4f1/we-replaced-our-standup-notes-with-an-ai-that-actually-remembers-them-dci)
-- [FREE AI CODE ASSISTANTS THAT ACTUALLY WORK 5](https://dev.to/uncle_drew/free-ai-code-assistants-that-actually-work-5-3hai)
-- [Loreguard.com - Built a NPC AI Engine that runs on player&#39;s machine &lpar;no pay-per-token&rpar;](https://dev.to/beyond-logic-labs/loreguardcom-built-a-npc-ai-engine-that-runs-on-players-machine-no-pay-per-token-m6g)
-- [I Built an Open-Source Wallet for AI Agents. Here&#39;s Why.](https://dev.to/walletguy/i-built-an-open-source-wallet-for-ai-agents-heres-why-2hjk)
+- [How We Built a Zero-Hallucination AI Content Army for Fashion E-Commerce](https://dev.to/sahib_alizada/how-we-built-a-zero-hallucination-ai-content-army-for-fashion-e-commerce-opo)
+- [The CrimeEnjoyor Epidemic: How EIP-7702 Delegation Phishing Drained 450K+ Wallets — And How to Detect It On-Chain](https://dev.to/ohmygod/the-crimeenjoyor-epidemic-how-eip-7702-delegation-phishing-drained-450k-wallets-and-how-to-e2g)
+- [How I Built a Patient Check-In Kiosk for a Specialty Medical Practice](https://dev.to/daniel_romitelli_44e77dc6/how-i-built-a-patient-check-in-kiosk-for-a-specialty-medical-practice-408i)
+- [Teaching Machines to See &lpar;Part 1&rpar;: Why Vision Is Hard](https://dev.to/sam_king_2c65e4cd10f8b9d6/teaching-machines-to-see-part-1-why-vision-is-hard-4nhb)
 <!-- BLOG-POST-LIST:END -->
 
 
