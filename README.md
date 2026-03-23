@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333)
-- [I Cloned a Family Voice for My Google Home. Here&#39;s the Real Story.](https://dev.to/agent_paaru/i-cloned-a-family-voice-for-my-google-home-heres-the-real-story-19n3)
-- [Why z-index Doesn’t Work &lpar;And How to Fix It&rpar;](https://dev.to/pawar-shivam7/why-z-index-doesnt-work-and-how-to-fix-it-4m3c)
-- [SWIFT Is Killing MT940 — Here&#39;s How to Future-Proof Your Bank Statement Pipeline](https://dev.to/zerolooplabs/swift-is-killing-mt940-heres-how-to-future-proof-your-bank-statement-pipeline-267i)
+- [How Hindsight Generates Contextual Student Tasks](https://dev.to/preksha_gp_e8b3951a874f8/how-hindsight-generates-contextual-student-tasks-15jg)
+- [How to Monitor Your Website for Visual Changes &lpar;Without Building a Headless Browser&rpar;](https://dev.to/custodiaadmin/how-to-monitor-your-website-for-visual-changes-without-building-a-headless-browser-2c4k)
+- [73% of Engineers Fail This 5-Minute System Design Question. Here&#39;s Exactly Why.](https://dev.to/madhav_bhardwaj_1c5fc2663/73-of-engineers-fail-this-5-minute-system-design-question-heres-exactly-why-2oe7)
+- [When Code Hurts: Anti-Patterns in Software Development](https://dev.to/mortylen/when-code-hurts-anti-patterns-in-software-development-4424)
 <!-- BLOG-POST-LIST:END -->
 
 
