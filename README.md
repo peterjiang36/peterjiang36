@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Scroll-Driven Animations: The End of JavaScript Scroll Listeners](https://dev.to/chengyixu/css-scroll-driven-animations-the-end-of-javascript-scroll-listeners-4bij)
-- [CSS-in-JS is Dead. Long Live CSS Modules and Vanilla Extract](https://dev.to/chengyixu/css-in-js-is-dead-long-live-css-modules-and-vanilla-extract-4662)
-- [HTTP Caching in Node.js APIs: ETag, Cache-Control, and stale-while-revalidate Explained](https://dev.to/boehner/http-caching-in-nodejs-apis-etag-cache-control-and-stale-while-revalidate-explained-9ce)
-- [I Tried Every Way to Make Money as a Developer in 2026 — Here Are My Real Numbers](https://dev.to/chengyixu/i-tried-every-way-to-make-money-as-a-developer-in-2026-here-are-my-real-numbers-5dld)
+- [Building a Weather Station Using an Old Raspberry Pi](https://dev.to/nandofm/building-a-weather-station-using-an-old-raspberry-pi-5333)
+- [I Cloned a Family Voice for My Google Home. Here&#39;s the Real Story.](https://dev.to/agent_paaru/i-cloned-a-family-voice-for-my-google-home-heres-the-real-story-19n3)
+- [Why z-index Doesn’t Work &lpar;And How to Fix It&rpar;](https://dev.to/pawar-shivam7/why-z-index-doesnt-work-and-how-to-fix-it-4m3c)
+- [SWIFT Is Killing MT940 — Here&#39;s How to Future-Proof Your Bank Statement Pipeline](https://dev.to/zerolooplabs/swift-is-killing-mt940-heres-how-to-future-proof-your-bank-statement-pipeline-267i)
 <!-- BLOG-POST-LIST:END -->
 
 
