@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built 3 useful Windows tools in 14 DAYS using AI &lpar;Before going offline for 2 months&rpar;](https://dev.to/servalc4t/i-built-3-useful-windows-tools-in-14-days-using-ai-before-going-offline-for-2-months-4813)
-- [AI Agent Error Handling: 4 Resilience Patterns in Python](https://dev.to/nebulagg/ai-agent-error-handling-4-resilience-patterns-in-python-12of)
-- [Rescued Pups, New Apps, and One Very Big Federal Crackdown](https://dev.to/krlz/rescued-pups-new-apps-and-one-very-big-federal-crackdown-1i0d)
-- [CONNECTING POWER BI TO SQL DATABASE](https://dev.to/jedidah_ondiso_887753d76e/connecting-power-bi-to-sql-database-5083)
+- [Why Hindsight Made Us Rethink Our Global Study Context](https://dev.to/bindukeshav_de5dd33486afe/why-hindsight-made-us-rethink-our-global-study-context-37me)
+- [SAP ABAP Exception Handling: Temiz, Güvenilir ve Sürdürülebilir Hata Yönetimi](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-exception-handling-temiz-guvenilir-ve-surdurulebilir-hata-yonetimi-4f7p)
+- [FFT vs Welch vs STFT: 10Hz Bearing Speed Benchmark](https://dev.to/tildalice/fft-vs-welch-vs-stft-10hz-bearing-speed-benchmark-1kfb)
+- [The Message That Got Blue Ticks But Never Arrived](https://dev.to/oolongtea2026/the-message-that-got-blue-ticks-but-never-arrived-3eo5)
 <!-- BLOG-POST-LIST:END -->
 
 
