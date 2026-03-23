@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🖥️Deploy Your First EC2 with Terraform &lpar;Step-by-Step Guide&rpar; — Part 3](https://dev.to/ahkarswe/deploy-your-first-ec2-with-terraform-step-by-step-guide-part-3-2np4)
-- [Package Managers Explained: From apt to Homebrew to winget &lpar;and Everything In Between&rpar;](https://dev.to/adrianjiga/package-managers-explained-from-apt-to-homebrew-to-winget-and-everything-in-between-2eco)
-- [The Silent Shift: Developers Are Becoming AI Supervisors, Not Builders](https://dev.to/jaideepparashar/the-silent-shift-developers-are-becoming-ai-supervisors-not-builders-4m85)
-- [The Day I Chased a “Ghost” Bug in Real-Time Notifications](https://dev.to/mindmagic/the-day-i-chased-a-ghost-bug-in-real-time-notifications-32e6)
+- [AI-Safe MCP Server for SQL](https://dev.to/borakilicoglu/ai-safe-mcp-server-for-sql-4jn4)
+- [Tired of hand-editing Traefik YAML? This little tool makes route management way easier](https://dev.to/baboon/tired-of-hand-editing-traefik-yaml-this-little-tool-makes-route-management-way-easier-1do6)
+- [Stop Writing Queries Everywhere: The Atomic Habit Your Laravel Codebase Needs](https://dev.to/raheelshan/stop-writing-queries-everywhere-the-atomic-habit-your-laravel-codebase-needs-4g58)
+- [Surviving a Kernel Panic: My Ubuntu War Story](https://dev.to/datawithnaomi/surviving-a-kernel-panic-my-ubuntu-war-story-53j5)
 <!-- BLOG-POST-LIST:END -->
 
 
