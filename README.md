@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Rust-based codebase analyzer that finds dead code in JS/TS projects in milliseconds](https://dev.to/bartwaardenburg/i-built-a-rust-based-codebase-analyzer-that-finds-dead-code-in-jsts-projects-in-milliseconds-180i)
-- [What are your goals for the week? #171](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-171-5232)
-- [Building Real-Time Collaborative Apps with CRDTs and Y.js](https://dev.to/chengyixu/building-real-time-collaborative-apps-with-crdts-and-yjs-o43)
-- [AI Coding Tip 012 - Understand All Your Code](https://dev.to/mcsee/ai-coding-tip-012-understand-all-your-code-450h)
+- [CSS Scroll-Driven Animations: The End of JavaScript Scroll Listeners](https://dev.to/chengyixu/css-scroll-driven-animations-the-end-of-javascript-scroll-listeners-4bij)
+- [CSS-in-JS is Dead. Long Live CSS Modules and Vanilla Extract](https://dev.to/chengyixu/css-in-js-is-dead-long-live-css-modules-and-vanilla-extract-4662)
+- [HTTP Caching in Node.js APIs: ETag, Cache-Control, and stale-while-revalidate Explained](https://dev.to/boehner/http-caching-in-nodejs-apis-etag-cache-control-and-stale-while-revalidate-explained-9ce)
+- [I Tried Every Way to Make Money as a Developer in 2026 — Here Are My Real Numbers](https://dev.to/chengyixu/i-tried-every-way-to-make-money-as-a-developer-in-2026-here-are-my-real-numbers-5dld)
 <!-- BLOG-POST-LIST:END -->
 
 
