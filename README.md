@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built Envoy - Control Plane for Painless PostgreSQL Schema Migrations](https://dev.to/franciscolunadev82/i-built-envoy-control-plane-for-painless-postgresql-schema-migrations-3l40)
-- [Day 16 – Designing Agent Prompts That Actually Work](https://dev.to/swatigoyal911/day-16-designing-agent-prompts-that-actually-work-2mno)
-- [Zero-Downtime Database Migrations: Patterns for Production PostgreSQL in 2026](https://dev.to/young_gao/zero-downtime-database-migrations-patterns-for-production-postgresql-in-2026-2a3i)
-- [From Sound Waves to Mental Wellness: Building a Speech Emotion Recognition &lpar;SER&rpar; System with CNN and FastAPI](https://dev.to/beck_moulton/from-sound-waves-to-mental-wellness-building-a-speech-emotion-recognition-ser-system-with-cnn-j80)
+- [We Had to Write Docs for AI: llms.txt Changed Everything](https://dev.to/eugenioenko/we-had-to-write-docs-for-ai-llmstxt-changed-everything-44f5)
+- [How We Got DDEV, Laravel, and a Go API Talking: The Sidecar Approach](https://dev.to/jonesrussell/how-we-got-ddev-laravel-and-a-go-api-talking-the-sidecar-approach-4dpp)
+- [Building a temporal layer so your AI never lies about time](https://dev.to/jonesrussell/building-a-temporal-layer-so-your-ai-never-lies-about-time-j0n)
+- [I built an Open Source Miller Columns File Explorer for Windows because I missed macOS Finder.](https://dev.to/nwlsrb/i-built-an-open-source-miller-columns-file-explorer-for-windows-because-i-missed-macos-finder-gip)
 <!-- BLOG-POST-LIST:END -->
 
 
