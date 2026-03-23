@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hybrid Analytics Architecture](https://dev.to/anjab/the-hybrid-analytics-architecture-4chc)
-- [Clinical documentation as blocks, not forms.](https://dev.to/4akera/clinical-documentation-as-blocks-not-forms-5fj2)
-- [ForceMemo: How Stolen Credentials Turned Hundreds of GitHub Python Repos Into Blockchain-Powered Malware Distributors](https://dev.to/ohmygod/forcememo-how-stolen-credentials-turned-hundreds-of-github-python-repos-into-blockchain-powered-2kbe)
-- [Project N.O.M.A.D.: The Open-Source Offline Survival Computer That Runs Without the Internet](https://dev.to/arshkharbanda2010/project-nomad-the-open-source-offline-survival-computer-that-runs-without-the-internet-20c7)
+- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-agn)
+- [How I accidentally built a production tool with Amazon Q and stubbornness](https://dev.to/bramverhagen/how-i-accidentally-built-a-production-tool-with-amazon-q-and-stubbornness-4m9g)
+- [Spec-Driven Development vs Vibe Coding: My Honest First Impressions After Trying It](https://dev.to/incomplete_developer/spec-driven-development-vs-vibe-coding-my-honest-first-impressions-after-trying-it-4o5e)
+- [Using Google Antigravity Without Launching Yourself Into Orbit](https://dev.to/harshith_halejolad/using-google-antigravity-without-launching-yourself-into-orbit-3348)
 <!-- BLOG-POST-LIST:END -->
 
 
