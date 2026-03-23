@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RubyKaigi Teaser: Ruby on the Edge](https://dev.to/udzura/rubykaigi-teaser-ruby-on-the-edge-o7a)
-- [I Analyzed 300 LLM Drift Checks: Here&#39;s What I Found](https://dev.to/clawgenesis/i-analyzed-300-llm-drift-checks-heres-what-i-found-46dl)
-- [Building a Protocol Translation Layer for Multi-Agent Systems](https://dev.to/kwstas_gal08_4d89c9c8c2a9/building-a-protocol-translation-layer-for-multi-agent-systems-3ph4)
-- [I am building an anime tracker inspired by MyAnimeList](https://dev.to/dsoeiro/i-am-building-an-anime-tracker-inspired-by-myanimelist-181f)
+- [I built a Rust-based codebase analyzer that finds dead code in JS/TS projects in milliseconds](https://dev.to/bartwaardenburg/i-built-a-rust-based-codebase-analyzer-that-finds-dead-code-in-jsts-projects-in-milliseconds-180i)
+- [What are your goals for the week? #171](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-171-5232)
+- [Building Real-Time Collaborative Apps with CRDTs and Y.js](https://dev.to/chengyixu/building-real-time-collaborative-apps-with-crdts-and-yjs-o43)
+- [AI Coding Tip 012 - Understand All Your Code](https://dev.to/mcsee/ai-coding-tip-012-understand-all-your-code-450h)
 <!-- BLOG-POST-LIST:END -->
 
 
