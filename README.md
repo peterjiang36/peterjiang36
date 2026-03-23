@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Had to Write Docs for AI: llms.txt Changed Everything](https://dev.to/eugenioenko/we-had-to-write-docs-for-ai-llmstxt-changed-everything-44f5)
-- [How We Got DDEV, Laravel, and a Go API Talking: The Sidecar Approach](https://dev.to/jonesrussell/how-we-got-ddev-laravel-and-a-go-api-talking-the-sidecar-approach-4dpp)
-- [Building a temporal layer so your AI never lies about time](https://dev.to/jonesrussell/building-a-temporal-layer-so-your-ai-never-lies-about-time-j0n)
-- [I built an Open Source Miller Columns File Explorer for Windows because I missed macOS Finder.](https://dev.to/nwlsrb/i-built-an-open-source-miller-columns-file-explorer-for-windows-because-i-missed-macos-finder-gip)
+- [Measure, Benchmark, Ship: Building Better Software with AI](https://dev.to/byzantime/measure-benchmark-ship-building-better-software-with-ai-2anf)
+- [Duct tape enough services together and you can cache APT packages](https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml)
+- [Consistency Thinking](https://dev.to/meotism/consistency-thinking-ndf)
+- [ClawHub Just Changed Its Search Algorithm — Here&#39;s What I Found in the Source Code](https://dev.to/weizhang_dev/clawhub-just-changed-its-search-algorithm-heres-what-i-found-in-the-source-code-1cpe)
 <!-- BLOG-POST-LIST:END -->
 
 
