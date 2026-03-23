@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Measure, Benchmark, Ship: Building Better Software with AI](https://dev.to/byzantime/measure-benchmark-ship-building-better-software-with-ai-2anf)
-- [Duct tape enough services together and you can cache APT packages](https://dev.to/dhandspikerwade/duct-tape-enough-services-together-and-you-can-cache-apt-packages-2iml)
-- [Consistency Thinking](https://dev.to/meotism/consistency-thinking-ndf)
-- [ClawHub Just Changed Its Search Algorithm — Here&#39;s What I Found in the Source Code](https://dev.to/weizhang_dev/clawhub-just-changed-its-search-algorithm-heres-what-i-found-in-the-source-code-1cpe)
+- [The Digital Paralegal: Amplifying Legal Teams with a Copilot Co-Worker](https://dev.to/balagmadhu/the-digital-paralegal-amplifying-legal-teams-with-a-copilot-co-worker-ebk)
+- [How to Calculate Your Break-Even Point Before You Launch](https://dev.to/evvytools/how-to-calculate-your-break-even-point-before-you-launch-4jma)
+- [5 Free Nutrition and Fitness Calculators Worth Bookmarking](https://dev.to/evvytools/5-free-nutrition-and-fitness-calculators-worth-bookmarking-21en)
+- [Golangci-lint: Your Go Guardian Against Code Smells](https://dev.to/jonesrussell/golangci-lint-your-go-guardian-against-code-smells-4bca)
 <!-- BLOG-POST-LIST:END -->
 
 
