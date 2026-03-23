@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Paralegal: Amplifying Legal Teams with a Copilot Co-Worker](https://dev.to/balagmadhu/the-digital-paralegal-amplifying-legal-teams-with-a-copilot-co-worker-ebk)
-- [How to Calculate Your Break-Even Point Before You Launch](https://dev.to/evvytools/how-to-calculate-your-break-even-point-before-you-launch-4jma)
-- [5 Free Nutrition and Fitness Calculators Worth Bookmarking](https://dev.to/evvytools/5-free-nutrition-and-fitness-calculators-worth-bookmarking-21en)
-- [Golangci-lint: Your Go Guardian Against Code Smells](https://dev.to/jonesrussell/golangci-lint-your-go-guardian-against-code-smells-4bca)
+- [Infinite+ Free Developer Tools – No Signup, No Tracking](https://dev.to/shahmeerfarhan/90-free-developer-tools-no-signup-no-tracking-hbi)
+- [Cognitive Prosthesis: How to Turn AI from a Tool into a Co-Author of Complex Systems](https://dev.to/basil_kubarev_0fc48181446/cognitive-prosthesis-how-to-turn-ai-from-a-tool-into-a-co-author-of-complex-systems-458b)
+- [ASSIGNMENT 20](https://dev.to/tanishka_v_b7e4add4c1c1a4/assignment-20-59do)
+- [10 AI Code Review Tools That Actually Caught Bugs My Team Missed](https://dev.to/dextralabs/10-ai-code-review-tools-that-actually-caught-bugs-my-team-missed-n8g)
 <!-- BLOG-POST-LIST:END -->
 
 
