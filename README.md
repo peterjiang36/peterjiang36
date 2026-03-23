@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
-- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news_b1b4d758b95166/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
-- [Uh oh... Cloudflare just turned evil](https://dev.to/fabianfrankwerner/uh-oh-cloudflare-just-turned-evil-42pc)
-- [Is this &quot;Nano Banana&quot; image for real?](https://dev.to/lee12/is-this-nano-banana-image-for-real-47f5)
+- [I built Envoy - Control Plane for Painless PostgreSQL Schema Migrations](https://dev.to/franciscolunadev82/i-built-envoy-control-plane-for-painless-postgresql-schema-migrations-3l40)
+- [Day 16 – Designing Agent Prompts That Actually Work](https://dev.to/swatigoyal911/day-16-designing-agent-prompts-that-actually-work-2mno)
+- [Zero-Downtime Database Migrations: Patterns for Production PostgreSQL in 2026](https://dev.to/young_gao/zero-downtime-database-migrations-patterns-for-production-postgresql-in-2026-2a3i)
+- [From Sound Waves to Mental Wellness: Building a Speech Emotion Recognition &lpar;SER&rpar; System with CNN and FastAPI](https://dev.to/beck_moulton/from-sound-waves-to-mental-wellness-building-a-speech-emotion-recognition-ser-system-with-cnn-j80)
 <!-- BLOG-POST-LIST:END -->
 
 
