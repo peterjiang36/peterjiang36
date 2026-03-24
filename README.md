@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Skills Are the New Boilerplate. They Solve Almost Nothing.](https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo)
-- [Why Your AI Agent Needs to Argue With Itself](https://dev.to/apireno/why-your-ai-agent-needs-to-argue-with-itself-4idc)
-- [AWS Lambda in Python with Datadog Integration](https://dev.to/aws-builders/aws-lambda-in-python-with-datadog-integration-4675)
-- [I Replaced My Morning Routine App With a Stock Chart. Here&#39;s What Changed.](https://dev.to/eastkap/i-replaced-my-morning-routine-app-with-a-stock-chart-heres-what-changed-58bc)
+- [Why Most RAG Systems Fail in Production &lpar;And How to Design One That Actually Works&rpar;](https://dev.to/theprodsde/why-most-rag-systems-fail-in-production-and-how-to-design-one-that-actually-works-j55)
+- [Are We Still Learning to Code or Just Learning to Ship Faster?](https://dev.to/dhruvjoshi9/are-we-still-learning-to-code-or-just-learning-to-ship-faster-15pi)
+- [How I Built a Soccer Coach Contact Extractor for Messy Athletics Websites](https://dev.to/dilutedev/how-i-built-a-soccer-coach-contact-extractor-for-messy-athletics-websites-41hh)
+- [What Technical and Compliance Requirements Shape Crypto Banking Platform Development?](https://dev.to/ami_shah_291d36ba52274e6c/what-technical-and-compliance-requirements-shape-crypto-banking-platform-development-4en9)
 <!-- BLOG-POST-LIST:END -->
 
 
