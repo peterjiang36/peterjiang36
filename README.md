@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees Changed How I Run Parallel AI Agents](https://dev.to/battyterm/git-worktrees-changed-how-i-run-parallel-ai-agents-39pm)
-- [Why Behavioral Interviews Are Actually Harder Than Coding Rounds](https://dev.to/karuha/why-behavioral-interviews-are-actually-harder-than-coding-rounds-5fl2)
-- [Select Queries from DVD Rental database](https://dev.to/s_a_r_a/select-queries-from-dvd-rental-database-kkh)
-- [Why Python Is The *Best* Programming Language So Far](https://dev.to/therealprohacker/why-python-is-the-best-programming-language-so-far-18if)
+- [Inside SQLite’s Frontend: BETWEEN, OR, LIKE, and GLOB Optimizations](https://dev.to/lovestaco/inside-sqlites-frontend-between-or-like-and-glob-optimizations-28p2)
+- [Competitive Friends Who Undermine You Over Text: The Pattern](https://dev.to/skippy_magnificent_8cce24/competitive-friends-who-undermine-you-over-text-the-pattern-1mci)
+- [Context7 MCP Server — Real-Time Library Docs for AI Coding Agents](https://dev.to/grove_chatforest/context7-mcp-server-real-time-library-docs-for-ai-coding-agents-40k3)
+- [Notion Decision Intelligence Engine — An AI That Audits Your Past Decisions](https://dev.to/smkulkarni/notion-decision-intelligence-engine-an-ai-that-audits-your-past-decisions-12be)
 <!-- BLOG-POST-LIST:END -->
 
 
