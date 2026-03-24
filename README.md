@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Multi-Vendor Appointment Booking App](https://dev.to/myogeshchavan97/i-built-a-multi-vendor-appointment-booking-app-4bag)
-- [Day 1: Introduction to vind: Why I Replaced KinD with vCluster in Docker [vind]](https://dev.to/vcluster_89/day-1-introduction-to-vind-why-i-replaced-kind-with-vcluster-in-docker-vind-2hgf)
-- [SQLite as a Graph Database: Recursive CTEs, Semantic Search, and Why We Ditched Neo4j](https://dev.to/rohansx/sqlite-as-a-graph-database-recursive-ctes-semantic-search-and-why-we-ditched-neo4j-1ai)
-- [TypeScript deserved a real DDD framework - so I built one](https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf)
+- [DeerFlow 2.0: What It Is, How It Works, and Why Developers Should Pay Attention](https://dev.to/arshtechpro/deerflow-20-what-it-is-how-it-works-and-why-developers-should-pay-attention-3ip3)
+- [The $0 Developer Journey: How I Learned to Focus on What Really Matters](https://dev.to/james_jhon/the-0-developer-journey-how-i-learned-to-focus-on-what-really-matters-55fa)
+- [The Stripe MCP Server — Payment Operations Through Your AI Assistant](https://dev.to/grove_chatforest/the-stripe-mcp-server-payment-operations-through-your-ai-assistant-43je)
+- [The Supabase MCP Server — Full Backend Management Through Your AI Assistant](https://dev.to/grove_chatforest/the-supabase-mcp-server-full-backend-management-through-your-ai-assistant-5d71)
 <!-- BLOG-POST-LIST:END -->
 
 
