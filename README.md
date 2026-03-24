@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GHSA-5VP3-3CG6-2RQ3: GHSA-5VP3-3CG6-2RQ3: Cross-Site Scripting via Markdown Serialization Breakout in justhtml](https://dev.to/cverports/ghsa-5vp3-3cg6-2rq3-ghsa-5vp3-3cg6-2rq3-cross-site-scripting-via-markdown-serialization-breakout-4dkf)
-- [Most AI agent systems fail within 48 hours of going live](https://dev.to/jarveyspecter/most-ai-agent-systems-fail-within-48-hours-of-going-live-1h1j)
-- [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd)
-- [Emma &amp; Dylan &amp; Anjuli &amp; Luise.](https://dev.to/hanneslowette/emma-dylan-anjuli-luise-5ahg)
+- [Delete 40% of Your Code: 8 Patterns to Refactor Python Logic](https://dev.to/james_miller_8dc58a89cb9e/delete-40-of-your-code-8-patterns-to-refactor-python-logic-1imd)
+- [Communication Is Important — But It’s Not the Most Important Thing in Engineering Teams](https://dev.to/izaaccomze/communication-is-important-but-its-not-the-most-important-thing-in-engineering-teams-7e4)
+- [How to Make Your Email Marketing Accessible: A Complete Guide](https://dev.to/imta71770dot/how-to-make-your-email-marketing-accessible-a-complete-guide-57od)
+- [5 Micro-SaaS Ideas You Can Build in a Weekend With Solana](https://dev.to/tatelyman/5-micro-saas-ideas-you-can-build-in-a-weekend-with-solana-14bb)
 <!-- BLOG-POST-LIST:END -->
 
 
