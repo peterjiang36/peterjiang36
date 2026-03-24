@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackers Tried to Breach My Pipeline at 3 AM — A DevSecOps Survival Guide 🛡️](https://dev.to/sanjaysundarmurthy/hackers-tried-to-breach-my-pipeline-at-3-am-a-devsecops-survival-guide-55im)
-- [From Theory to Practice: Week 1 of Hands-On Offensive Security](https://dev.to/northwillov/from-theory-to-practice-week-1-of-hands-on-offensive-security-3a4h)
-- [The Limits of Vibe Coding — What Nobody Tells You After the Honeymoon Phase](https://dev.to/as1as/the-limits-of-vibe-coding-what-nobody-tells-you-after-the-honeymoon-phase-4c44)
-- [Does My Email Sound Rude? A 60-Second Check Before You Send](https://dev.to/skippy_magnificent_8cce24/does-my-email-sound-rude-a-60-second-check-before-you-send-4com)
+- [Agents now buy live data with MPP — here&#39;s a working example](https://dev.to/nathanielc85523/agents-now-buy-live-data-with-mpp-heres-a-working-example-48a9)
+- [Beyond Vector Search: Building a Clause Forest &lpar;FoC&rpar; Architecture for Financial RAG](https://dev.to/xiaojing_liu_85d65a8b99e4/beyond-vector-search-building-a-clause-forest-foc-architecture-for-financial-rag-4pcf)
+- [How Much Clarity Do Investors Have on Apollo Green Energy Before Listing?](https://dev.to/planifycapital/how-much-clarity-do-investors-have-on-apollo-green-energy-before-listing-5hb0)
+- [كلاود الآن يمكنه استخدام جهازك: ماذا يعني ذلك لاختبار API؟](https://dev.to/yusuf_khalidd/klwd-lan-ymknh-stkhdm-jhzk-mdh-yny-dhlk-lkhtbr-api-2nkf)
 <!-- BLOG-POST-LIST:END -->
 
 
