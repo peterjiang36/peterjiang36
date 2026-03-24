@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We anchor every AI-generated commit to Bitcoin. Here is why.](https://dev.to/jonna_fassbender_0a699631/we-anchor-every-ai-generated-commit-to-bitcoin-here-is-why-38ee)
-- [What if your context maps, event flows, and dependency graphs just... generated themselves from Markdown?](https://dev.to/raj_navakoti/what-if-your-context-maps-event-flows-and-dependency-graphs-just-generated-themselves-from-5d57)
-- [BCC in Work Emails: When Hidden Recipients Mean Hidden Agendas](https://dev.to/skippy_magnificent_8cce24/bcc-in-work-emails-when-hidden-recipients-mean-hidden-agendas-1i25)
-- [Most LLM updates don’t matter. These 5 might.](https://dev.to/sarvabharan/most-llm-updates-dont-matter-these-5-might-4m60)
+- [AI Skills Are the New Boilerplate. They Solve Almost Nothing.](https://dev.to/reneza/ai-skills-are-the-new-boilerplate-they-solve-almost-nothing-4obo)
+- [Why Your AI Agent Needs to Argue With Itself](https://dev.to/apireno/why-your-ai-agent-needs-to-argue-with-itself-4idc)
+- [AWS Lambda in Python with Datadog Integration](https://dev.to/aws-builders/aws-lambda-in-python-with-datadog-integration-4675)
+- [I Replaced My Morning Routine App With a Stock Chart. Here&#39;s What Changed.](https://dev.to/eastkap/i-replaced-my-morning-routine-app-with-a-stock-chart-heres-what-changed-58bc)
 <!-- BLOG-POST-LIST:END -->
 
 
