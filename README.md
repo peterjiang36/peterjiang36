@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 CrowdBooks is LIVE — and it&#39;s getting better every day!](https://dev.to/artanidos/crowdbooks-is-live-and-its-getting-better-every-day-3f5)
-- [Why REST-Based Video Uploads Failed — and Why We Moved to Azure Communication Services](https://dev.to/shadowmo/why-rest-based-video-uploads-failed-and-why-we-moved-to-azure-communication-services-3de0)
-- [Why my Next.js dashboard was always showing stale data — and the one-line fix](https://dev.to/ronaldgga/why-my-nextjs-dashboard-was-always-showing-stale-data-and-the-one-line-fix-15i8)
-- [CVE-2026-33169: CVE-2026-33169: Regular Expression Denial of Service &lpar;ReDoS&rpar; in ActiveSupport Number Formatting](https://dev.to/cverports/cve-2026-33169-cve-2026-33169-regular-expression-denial-of-service-redos-in-activesupport-c1d)
+- [🚀 Creating an EC2 Instance Using Python `requests` &lpar;Without boto3&rpar;](https://dev.to/jayakrishnayadav24/creating-an-ec2-instance-using-python-requests-without-boto3-1m5n)
+- [The 5 software development trends that actually matter in 2026 &lpar;and what they mean for your startup&rpar;](https://dev.to/sociilabs/the-5-software-development-trends-that-actually-matter-in-2026-and-what-they-mean-for-your-startup-6o4)
+- [33 LangChain Alternatives That Won&#39;t Leak Your Data &lpar;2026 Guide&rpar;](https://dev.to/jaipalsingh/33-langchain-alternatives-that-wont-leak-your-data-2026-guide-3mjf)
+- [The Complete Guide to Growing Your Chrome Extension from 0 to 1,000 Users in 2026](https://dev.to/quangpl/the-complete-guide-to-growing-your-chrome-extension-from-0-to-1000-users-in-2026-3hn6)
 <!-- BLOG-POST-LIST:END -->
 
 
