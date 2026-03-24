@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automation Does Not Equal Compliance: The Gap I Noticed While Building My Platform Lab](https://dev.to/vandana_platform/automation-does-not-equal-compliance-the-gap-i-noticed-while-building-my-platform-lab-317g)
-- [From Pixels to Proteins: Real-Time AI Food Tracking using GPT-4o, Pydantic, and FastAPI](https://dev.to/wellallytech/from-pixels-to-proteins-real-time-ai-food-tracking-using-gpt-4o-pydantic-and-fastapi-2ofj)
-- [Secure your MCP servers in 10 seconds](https://dev.to/0x711/secure-your-mcp-servers-in-10-seconds-1b6h)
-- [How I Accidentally Built an AI Orchestrator](https://dev.to/zips/how-i-accidentally-built-an-ai-orchestrator-oim)
+- [🚀 CrowdBooks is LIVE — and it&#39;s getting better every day!](https://dev.to/artanidos/crowdbooks-is-live-and-its-getting-better-every-day-3f5)
+- [Why REST-Based Video Uploads Failed — and Why We Moved to Azure Communication Services](https://dev.to/shadowmo/why-rest-based-video-uploads-failed-and-why-we-moved-to-azure-communication-services-3de0)
+- [Why my Next.js dashboard was always showing stale data — and the one-line fix](https://dev.to/ronaldgga/why-my-nextjs-dashboard-was-always-showing-stale-data-and-the-one-line-fix-15i8)
+- [CVE-2026-33169: CVE-2026-33169: Regular Expression Denial of Service &lpar;ReDoS&rpar; in ActiveSupport Number Formatting](https://dev.to/cverports/cve-2026-33169-cve-2026-33169-regular-expression-denial-of-service-redos-in-activesupport-c1d)
 <!-- BLOG-POST-LIST:END -->
 
 
