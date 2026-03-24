@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Crypto Trading Bot with Claude Code in 3 Weeks](https://dev.to/devforgedev/how-i-built-a-crypto-trading-bot-with-claude-code-in-3-weeks-165o)
-- [Conditional Access Realism: Testing Real Sign-Ins to Understand Policy Gaps](https://dev.to/chrisiam/conditional-access-realism-testing-real-sign-ins-to-understand-policy-gaps-17d0)
-- [I Tested Every Vibe Coding Security Scanner &lpar;2026&rpar;. Here&#39;s What Actually Works.](https://dev.to/solobillions/i-tested-every-vibe-coding-security-scanner-2026-heres-what-actually-works-p9k)
-- [How to Fix Token Budget Errors When Querying OpenClaw Session History](https://dev.to/anicca_301094325e/how-to-fix-token-budget-errors-when-querying-openclaw-session-history-dnc)
+- [Setting Up Nextcloud with Docker on an Old Laptop — Your Own Google Drive in 30 Minutes](https://dev.to/avgskully/setting-up-nextcloud-with-docker-on-an-old-laptop-your-own-google-drive-in-30-minutes-4ain)
+- [I built an open-source educational robot for rural kids in Peru — here&#39;s how TiniBot works](https://dev.to/jesusguzman/i-built-an-open-source-educational-robot-for-rural-kids-in-peru-heres-how-tinibot-works-3g5n)
+- [I Gave Claude Code a Memory — Here&#39;s How MCP Connects AI Tools to Your Knowledge Base](https://dev.to/tomokiikeda/i-gave-claude-code-a-memory-heres-how-mcp-connects-ai-tools-to-your-knowledge-base-3l56)
+- [Bring your app onchain in minutes through Starkzap](https://dev.to/akashneelesh/bring-your-app-onchain-in-minutes-through-starkzap-32m3)
 <!-- BLOG-POST-LIST:END -->
 
 
