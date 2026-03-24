@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Is a Tool. Operum Is a Team. — Introducing Pluggable AI Engines for Multi-Agent Orchestration](https://dev.to/alprimak/cursor-is-a-tool-operum-is-a-team-introducing-pluggable-ai-engines-for-multi-agent-orchestration-bo0)
-- [I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here&#39;s What Actually Happened.](https://dev.to/pjhoberman/i-ran-60-autoresearch-experiments-on-a-production-search-algorithm-heres-what-actually-happened-46bk)
-- [The Claude Code CVE That Should Change How You Review AI-Generated Code](https://dev.to/toniantunovic/the-claude-code-cve-that-should-change-how-you-review-ai-generated-code-4gd4)
-- [Stop Wrestling with D3.js: 8 Free Tools That Do It Better](https://dev.to/elysiatools/stop-wrestling-with-d3js-8-free-tools-that-do-it-better-2ff1)
+- [From Pixels to Diagnosis: Building a Real-Time Skin Lesion Classifier with Flutter &amp; ViT](https://dev.to/beck_moulton/from-pixels-to-diagnosis-building-a-real-time-skin-lesion-classifier-with-flutter-vit-1nia)
+- [The Private Key Pandemic: Why 60% of 2026&#39;s DeFi Losses Come From Off-Chain Failures — And a Defense Blueprint](https://dev.to/ohmygod/the-private-key-pandemic-why-60-of-2026s-defi-losses-come-from-off-chain-failures-and-a-4k7g)
+- [This Week in Changelogs: curl](https://dev.to/pomidoroshev/this-week-in-changelogs-curl-1d08)
+- [How to Add Screenshot Tests to Your GitHub Actions CI Pipeline](https://dev.to/custodiaadmin/how-to-add-screenshot-tests-to-your-github-actions-ci-pipeline-3a6f)
 <!-- BLOG-POST-LIST:END -->
 
 
