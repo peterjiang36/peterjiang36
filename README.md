@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Nextcloud with Docker on an Old Laptop — Your Own Google Drive in 30 Minutes](https://dev.to/avgskully/setting-up-nextcloud-with-docker-on-an-old-laptop-your-own-google-drive-in-30-minutes-4ain)
-- [I built an open-source educational robot for rural kids in Peru — here&#39;s how TiniBot works](https://dev.to/jesusguzman/i-built-an-open-source-educational-robot-for-rural-kids-in-peru-heres-how-tinibot-works-3g5n)
-- [I Gave Claude Code a Memory — Here&#39;s How MCP Connects AI Tools to Your Knowledge Base](https://dev.to/tomokiikeda/i-gave-claude-code-a-memory-heres-how-mcp-connects-ai-tools-to-your-knowledge-base-3l56)
-- [Bring your app onchain in minutes through Starkzap](https://dev.to/akashneelesh/bring-your-app-onchain-in-minutes-through-starkzap-32m3)
+- [17 Claude Code Releases in 30 Days: Everything That Changed](https://dev.to/ji_ai/17-claude-code-releases-in-30-days-everything-that-changed-1ec8)
+- [Claude Can Now Control Your Mac While You Sleep](https://dev.to/ji_ai/claude-can-now-control-your-mac-while-you-sleep-29g1)
+- [Security Warnings Preserved, Deprecated Noise Deleted](https://dev.to/ji_ai/security-warnings-preserved-deprecated-noise-deleted-4hao)
+- [KEXP: Vopli Vidopliassova - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-vopli-vidopliassova-full-performance-live-on-kexp-3h56)
 <!-- BLOG-POST-LIST:END -->
 
 
