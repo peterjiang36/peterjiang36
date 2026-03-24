@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Creating an EC2 Instance Using Python `requests` &lpar;Without boto3&rpar;](https://dev.to/jayakrishnayadav24/creating-an-ec2-instance-using-python-requests-without-boto3-1m5n)
-- [The 5 software development trends that actually matter in 2026 &lpar;and what they mean for your startup&rpar;](https://dev.to/sociilabs/the-5-software-development-trends-that-actually-matter-in-2026-and-what-they-mean-for-your-startup-6o4)
-- [33 LangChain Alternatives That Won&#39;t Leak Your Data &lpar;2026 Guide&rpar;](https://dev.to/jaipalsingh/33-langchain-alternatives-that-wont-leak-your-data-2026-guide-3mjf)
-- [The Complete Guide to Growing Your Chrome Extension from 0 to 1,000 Users in 2026](https://dev.to/quangpl/the-complete-guide-to-growing-your-chrome-extension-from-0-to-1000-users-in-2026-3hn6)
+- [Kavach: Building a Real-Time Parametric Insurance System for the Gig Economy](https://dev.to/ayushwrite63/kavach-building-a-real-time-parametric-insurance-system-for-the-gig-economy-47je)
+- [How to Generate PDF Reports from HTML Templates in Python](https://dev.to/custodiaadmin/how-to-generate-pdf-reports-from-html-templates-in-python-3c05)
+- [I tracked 37 airport trips in a spreadsheet. Here&#39;s what the data actually shows about transportation costs.](https://dev.to/casey_parker_78c7b16bc629/i-tracked-37-airport-trips-in-a-spreadsheet-heres-what-the-data-actually-shows-about-134n)
+- [AI Before Computers: Myths, Legends, and Mechanical Marvels](https://dev.to/ishaan00/ai-before-computers-myths-legends-and-mechanical-marvels-4dk1)
 <!-- BLOG-POST-LIST:END -->
 
 
