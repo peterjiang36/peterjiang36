@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside SQLite’s Frontend: BETWEEN, OR, LIKE, and GLOB Optimizations](https://dev.to/lovestaco/inside-sqlites-frontend-between-or-like-and-glob-optimizations-28p2)
-- [Competitive Friends Who Undermine You Over Text: The Pattern](https://dev.to/skippy_magnificent_8cce24/competitive-friends-who-undermine-you-over-text-the-pattern-1mci)
-- [Context7 MCP Server — Real-Time Library Docs for AI Coding Agents](https://dev.to/grove_chatforest/context7-mcp-server-real-time-library-docs-for-ai-coding-agents-40k3)
-- [Notion Decision Intelligence Engine — An AI That Audits Your Past Decisions](https://dev.to/smkulkarni/notion-decision-intelligence-engine-an-ai-that-audits-your-past-decisions-12be)
+- [Building CLIAR — A simple drop-in Java class for parsing command-line arguments &lpar;Part 1&rpar;](https://dev.to/onebitwonder/building-cliar-a-simple-drop-in-java-class-for-parsing-command-line-arguments-part-1-jle)
+- [VS2022&#39;s Angular and ASP.NET Core Template Is Stuck on Angular 19 — Here&#39;s the Workaround](https://dev.to/gkibria/vs2022s-angular-and-aspnet-core-template-is-stuck-on-angular-19-heres-the-workaround-11fj)
+- [I Built an Executive Team of 6 AI Agents to Manage My 15 Side Projects](https://dev.to/razbakov/i-built-an-executive-team-of-6-ai-agents-to-manage-my-15-side-projects-4k0i)
+- [LiteLLM vs Bifrost: Which AI Gateway Is Right for Enterprise Teams?](https://dev.to/kuldeep_paul/litellm-vs-bifrost-which-ai-gateway-is-right-for-enterprise-teams-4h2f)
 <!-- BLOG-POST-LIST:END -->
 
 
