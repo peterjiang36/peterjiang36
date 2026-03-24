@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [17 Claude Code Releases in 30 Days: Everything That Changed](https://dev.to/ji_ai/17-claude-code-releases-in-30-days-everything-that-changed-1ec8)
-- [Claude Can Now Control Your Mac While You Sleep](https://dev.to/ji_ai/claude-can-now-control-your-mac-while-you-sleep-29g1)
-- [Security Warnings Preserved, Deprecated Noise Deleted](https://dev.to/ji_ai/security-warnings-preserved-deprecated-noise-deleted-4hao)
-- [KEXP: Vopli Vidopliassova - Full Performance &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-vopli-vidopliassova-full-performance-live-on-kexp-3h56)
+- [Git Worktrees Changed How I Run Parallel AI Agents](https://dev.to/battyterm/git-worktrees-changed-how-i-run-parallel-ai-agents-39pm)
+- [Why Behavioral Interviews Are Actually Harder Than Coding Rounds](https://dev.to/karuha/why-behavioral-interviews-are-actually-harder-than-coding-rounds-5fl2)
+- [Select Queries from DVD Rental database](https://dev.to/s_a_r_a/select-queries-from-dvd-rental-database-kkh)
+- [Why Python Is The *Best* Programming Language So Far](https://dev.to/therealprohacker/why-python-is-the-best-programming-language-so-far-18if)
 <!-- BLOG-POST-LIST:END -->
 
 
