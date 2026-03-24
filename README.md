@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most RAG Systems Fail in Production &lpar;And How to Design One That Actually Works&rpar;](https://dev.to/theprodsde/why-most-rag-systems-fail-in-production-and-how-to-design-one-that-actually-works-j55)
-- [Are We Still Learning to Code or Just Learning to Ship Faster?](https://dev.to/dhruvjoshi9/are-we-still-learning-to-code-or-just-learning-to-ship-faster-15pi)
-- [How I Built a Soccer Coach Contact Extractor for Messy Athletics Websites](https://dev.to/dilutedev/how-i-built-a-soccer-coach-contact-extractor-for-messy-athletics-websites-41hh)
-- [What Technical and Compliance Requirements Shape Crypto Banking Platform Development?](https://dev.to/ami_shah_291d36ba52274e6c/what-technical-and-compliance-requirements-shape-crypto-banking-platform-development-4en9)
+- [Suspense is a symptom](https://dev.to/iceonfire/suspense-is-a-symptom-clj)
+- [Share your cancer code!](https://dev.to/epigene/share-your-cancer-code-2afg)
+- [Documenting a Narcissist Smear Campaign in Text Messages](https://dev.to/skippy_magnificent_8cce24/documenting-a-narcissist-smear-campaign-in-text-messages-34m0)
+- [The 5-Layer Memory Architecture That Keeps Our AI Agent Running 24/7 Without Forgetting](https://dev.to/talon8575/the-5-layer-memory-architecture-that-keeps-our-ai-agent-running-247-without-forgetting-3a44)
 <!-- BLOG-POST-LIST:END -->
 
 
