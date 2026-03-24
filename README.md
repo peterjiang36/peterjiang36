@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Pixels to Diagnosis: Building a Real-Time Skin Lesion Classifier with Flutter &amp; ViT](https://dev.to/beck_moulton/from-pixels-to-diagnosis-building-a-real-time-skin-lesion-classifier-with-flutter-vit-1nia)
-- [The Private Key Pandemic: Why 60% of 2026&#39;s DeFi Losses Come From Off-Chain Failures — And a Defense Blueprint](https://dev.to/ohmygod/the-private-key-pandemic-why-60-of-2026s-defi-losses-come-from-off-chain-failures-and-a-4k7g)
-- [This Week in Changelogs: curl](https://dev.to/pomidoroshev/this-week-in-changelogs-curl-1d08)
-- [How to Add Screenshot Tests to Your GitHub Actions CI Pipeline](https://dev.to/custodiaadmin/how-to-add-screenshot-tests-to-your-github-actions-ci-pipeline-3a6f)
+- [Automation Does Not Equal Compliance: The Gap I Noticed While Building My Platform Lab](https://dev.to/vandana_platform/automation-does-not-equal-compliance-the-gap-i-noticed-while-building-my-platform-lab-317g)
+- [From Pixels to Proteins: Real-Time AI Food Tracking using GPT-4o, Pydantic, and FastAPI](https://dev.to/wellallytech/from-pixels-to-proteins-real-time-ai-food-tracking-using-gpt-4o-pydantic-and-fastapi-2ofj)
+- [Secure your MCP servers in 10 seconds](https://dev.to/0x711/secure-your-mcp-servers-in-10-seconds-1b6h)
+- [How I Accidentally Built an AI Orchestrator](https://dev.to/zips/how-i-accidentally-built-an-ai-orchestrator-oim)
 <!-- BLOG-POST-LIST:END -->
 
 
