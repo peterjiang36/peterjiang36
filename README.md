@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Design: Automated Accessibility Suggestions Transform UX](https://dev.to/brandikinard/ai-powered-design-automated-accessibility-suggestions-transform-ux-3p78)
-- [Managing High Traffic Applications with AWS Elastic Load Balancer and Terraform](https://dev.to/mary_mutua_9d55b3c269f343/managing-high-traffic-applications-with-aws-elastic-load-balancer-and-terraform-5cpn)
-- [3 Tiny Mac Utilities That Fixed My Dev Workflow This Month](https://dev.to/godnick/3-tiny-mac-utilities-that-fixed-my-dev-workflow-this-month-o3d)
-- [The Wayback Machine Has a Free API — Check How Any Website Looked 10 Years Ago](https://dev.to/0012303/the-wayback-machine-has-a-free-api-check-how-any-website-looked-10-years-ago-2f20)
+- [GHSA-5VP3-3CG6-2RQ3: GHSA-5VP3-3CG6-2RQ3: Cross-Site Scripting via Markdown Serialization Breakout in justhtml](https://dev.to/cverports/ghsa-5vp3-3cg6-2rq3-ghsa-5vp3-3cg6-2rq3-cross-site-scripting-via-markdown-serialization-breakout-4dkf)
+- [Most AI agent systems fail within 48 hours of going live](https://dev.to/jarveyspecter/most-ai-agent-systems-fail-within-48-hours-of-going-live-1h1j)
+- [Engram: A new type of AI](https://dev.to/nodefiend/engram-a-new-type-of-ai-1jbd)
+- [Emma &amp; Dylan &amp; Anjuli &amp; Luise.](https://dev.to/hanneslowette/emma-dylan-anjuli-luise-5ahg)
 <!-- BLOG-POST-LIST:END -->
 
 
