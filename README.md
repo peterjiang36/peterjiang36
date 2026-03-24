@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Suspense is a symptom](https://dev.to/iceonfire/suspense-is-a-symptom-clj)
-- [Share your cancer code!](https://dev.to/epigene/share-your-cancer-code-2afg)
-- [Documenting a Narcissist Smear Campaign in Text Messages](https://dev.to/skippy_magnificent_8cce24/documenting-a-narcissist-smear-campaign-in-text-messages-34m0)
-- [The 5-Layer Memory Architecture That Keeps Our AI Agent Running 24/7 Without Forgetting](https://dev.to/talon8575/the-5-layer-memory-architecture-that-keeps-our-ai-agent-running-247-without-forgetting-3a44)
+- [How I Built a Crypto Trading Bot with Claude Code in 3 Weeks](https://dev.to/devforgedev/how-i-built-a-crypto-trading-bot-with-claude-code-in-3-weeks-165o)
+- [Conditional Access Realism: Testing Real Sign-Ins to Understand Policy Gaps](https://dev.to/chrisiam/conditional-access-realism-testing-real-sign-ins-to-understand-policy-gaps-17d0)
+- [I Tested Every Vibe Coding Security Scanner &lpar;2026&rpar;. Here&#39;s What Actually Works.](https://dev.to/solobillions/i-tested-every-vibe-coding-security-scanner-2026-heres-what-actually-works-p9k)
+- [How to Fix Token Budget Errors When Querying OpenClaw Session History](https://dev.to/anicca_301094325e/how-to-fix-token-budget-errors-when-querying-openclaw-session-history-dnc)
 <!-- BLOG-POST-LIST:END -->
 
 
