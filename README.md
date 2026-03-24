@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agents now buy live data with MPP — here&#39;s a working example](https://dev.to/nathanielc85523/agents-now-buy-live-data-with-mpp-heres-a-working-example-48a9)
-- [Beyond Vector Search: Building a Clause Forest &lpar;FoC&rpar; Architecture for Financial RAG](https://dev.to/xiaojing_liu_85d65a8b99e4/beyond-vector-search-building-a-clause-forest-foc-architecture-for-financial-rag-4pcf)
-- [How Much Clarity Do Investors Have on Apollo Green Energy Before Listing?](https://dev.to/planifycapital/how-much-clarity-do-investors-have-on-apollo-green-energy-before-listing-5hb0)
-- [كلاود الآن يمكنه استخدام جهازك: ماذا يعني ذلك لاختبار API؟](https://dev.to/yusuf_khalidd/klwd-lan-ymknh-stkhdm-jhzk-mdh-yny-dhlk-lkhtbr-api-2nkf)
+- [I Built a Multi-Vendor Appointment Booking App](https://dev.to/myogeshchavan97/i-built-a-multi-vendor-appointment-booking-app-4bag)
+- [Day 1: Introduction to vind: Why I Replaced KinD with vCluster in Docker [vind]](https://dev.to/vcluster_89/day-1-introduction-to-vind-why-i-replaced-kind-with-vcluster-in-docker-vind-2hgf)
+- [SQLite as a Graph Database: Recursive CTEs, Semantic Search, and Why We Ditched Neo4j](https://dev.to/rohansx/sqlite-as-a-graph-database-recursive-ctes-semantic-search-and-why-we-ditched-neo4j-1ai)
+- [TypeScript deserved a real DDD framework - so I built one](https://dev.to/dogganidhal/typescript-deserved-a-real-ddd-framework-so-i-built-one-4dpf)
 <!-- BLOG-POST-LIST:END -->
 
 
