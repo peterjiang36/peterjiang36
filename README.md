@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Something More Worth Discussing Than AI Anxiety](https://dev.to/skyguan92/something-more-worth-discussing-than-ai-anxiety-2m2i)
-- [Video to GIF Conversion: Why the Output Is Always Bigger Than Expected](https://dev.to/alphashark/video-to-gif-conversion-why-the-output-is-always-bigger-than-expected-4747)
-- [UTC to PST/PDT Conversion Is Not Always Minus 8 Hours](https://dev.to/alphashark/utc-to-pstpdt-conversion-is-not-always-minus-8-hours-3gli)
-- [Why I Stopped Using Docker for Local Development](https://dev.to/0012303/why-i-stopped-using-docker-for-local-development-2al1)
+- [ChatGPT vs Claude for Coding: An Honest Comparison &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/chatgpt-vs-claude-for-coding-an-honest-comparison-2026-53n3)
+- [Best VS Code Extensions for JavaScript Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-vs-code-extensions-for-javascript-developers-in-2026-6f0)
+- [CRM MCP Servers — Salesforce, HubSpot, Pipedrive, Attio, and Beyond](https://dev.to/grove_chatforest/crm-mcp-servers-salesforce-hubspot-pipedrive-attio-and-beyond-off)
+- [Why I Build Native macOS Apps Instead of Electron — A Solo Dev&#39;s Honest Take](https://dev.to/godnick/why-i-build-native-macos-apps-instead-of-electron-a-solo-devs-honest-take-2ok3)
 <!-- BLOG-POST-LIST:END -->
 
 
