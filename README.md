@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-95j)
-- [Santa Augmentcode Intent Ep.5](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep5-1fk5)
-- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-4a62)
-- [To The Moon Terraform Ep.8](https://dev.to/the-software-s-journey/to-the-moon-terraform-ep8-47h1)
+- [I cut Claude API costs by 90% with prompt caching. Here&#39;s what I learned before I had to shut it down.](https://dev.to/dusttoo/i-cut-claude-api-costs-by-90-with-prompt-caching-heres-what-i-learned-before-i-had-to-shut-it-564d)
+- [Why Sovereignty Is Not Enough: The Missing Operational Layer in AI Stewardship](https://dev.to/crisiscoresystems/why-sovereignty-is-not-enough-the-missing-operational-layer-in-ai-stewardship-2i4h)
+- [SonarQube vs DeepSource: Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-deepsource-complete-comparison-2026-2o1l)
+- [Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/aws-builders/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-6mi)
 <!-- BLOG-POST-LIST:END -->
 
 
