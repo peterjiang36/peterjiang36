@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a simple EC2 instance and run a webserver and access it from outside](https://dev.to/jonah_blessy/create-a-simple-ec2-instance-and-run-a-webserver-and-access-it-from-outside-1dg2)
-- [Specification Pattern υπό το πρίσμα του SOLID και της Clean Architecture](https://dev.to/__b63657/specification-pattern-upo-to-prisma-tou-solid-kai-tes-clean-architecture-8oh)
-- [Harness Engineering: The Concept I Didn&#39;t Know I Needed](https://dev.to/techwithhari/harness-engineering-the-concept-i-didnt-know-i-needed-5nf)
-- [Optimizing Database Queries for Scalability](https://dev.to/chris_lee_5e58cce05f5d01d/optimizing-database-queries-for-scalability-3267)
+- [Build an Engagement Decay Analyzer: How Fast Do Posts Die?](https://dev.to/olams/build-an-engagement-decay-analyzer-how-fast-do-posts-die-a5a)
+- [Filter Assignments](https://dev.to/jonah_blessy/filter-assignments-142m)
+- [AI Assistance vs AI Agents: Understanding the Shift from Responses to Autonomous Systems](https://dev.to/aws-builders/ai-assistance-vs-ai-agents-understanding-the-shift-from-responses-to-autonomous-systems-pb3)
+- [AI Didn&#39;t Break Your Culture. It Exposed It.](https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729)
 <!-- BLOG-POST-LIST:END -->
 
 
