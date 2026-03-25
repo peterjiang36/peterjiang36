@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to One-Paste Magic Part 1: The Mess &lpar;and Why It Mattered&rpar;](https://dev.to/jeremy_longshore/from-chaos-to-one-paste-magic-part-1-the-mess-and-why-it-mattered-5h3i)
-- [AI-Assisted Technical Writing: From Case Study to Published Portfolio in 30 Minutes](https://dev.to/jeremy_longshore/ai-assisted-technical-writing-from-case-study-to-published-portfolio-in-30-minutes-4kb6)
-- [Best Free Database GUI Tools for Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-free-database-gui-tools-for-developers-in-2026-4ij2)
-- [High Latency in Course Data Fetching: Optimizing Nested Loops and Cache Utilization Reduces Latency to 400ms](https://dev.to/serbyte/high-latency-in-course-data-fetching-optimizing-nested-loops-and-cache-utilization-reduces-latency-57am)
+- [Prettier vs ESLint: Which Should You Use in 2026?](https://dev.to/_d7eb1c1703182e3ce1782/prettier-vs-eslint-which-should-you-use-in-2026-1cf9)
+- [PubMed Has a Free API — Search 36M+ Medical Papers Programmatically](https://dev.to/0012303/pubmed-has-a-free-api-search-36m-medical-papers-programmatically-1in3)
+- [Postman vs Insomnia vs Bruno: Best API Client in 2026?](https://dev.to/_d7eb1c1703182e3ce1782/postman-vs-insomnia-vs-bruno-best-api-client-in-2026-1pf7)
+- [7 Free Postman Alternatives That Won&#39;t Lock Your Collections in the Cloud](https://dev.to/_d7eb1c1703182e3ce1782/7-free-postman-alternatives-that-wont-lock-your-collections-in-the-cloud-4o91)
 <!-- BLOG-POST-LIST:END -->
 
 
