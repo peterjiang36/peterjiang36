@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prettier vs ESLint: Which Should You Use in 2026?](https://dev.to/_d7eb1c1703182e3ce1782/prettier-vs-eslint-which-should-you-use-in-2026-1cf9)
-- [PubMed Has a Free API — Search 36M+ Medical Papers Programmatically](https://dev.to/0012303/pubmed-has-a-free-api-search-36m-medical-papers-programmatically-1in3)
-- [Postman vs Insomnia vs Bruno: Best API Client in 2026?](https://dev.to/_d7eb1c1703182e3ce1782/postman-vs-insomnia-vs-bruno-best-api-client-in-2026-1pf7)
-- [7 Free Postman Alternatives That Won&#39;t Lock Your Collections in the Cloud](https://dev.to/_d7eb1c1703182e3ce1782/7-free-postman-alternatives-that-wont-lock-your-collections-in-the-cloud-4o91)
+- [Fitness &amp; Wearables MCP Servers — Strava, Garmin, WHOOP, Apple Health, Oura Ring, Fitbit, and More](https://dev.to/grove_chatforest/fitness-wearables-mcp-servers-strava-garmin-whoop-apple-health-oura-ring-fitbit-and-more-a3k)
+- [Web Vitals Optimization: Achieve Core Web Vitals Score 90+ in 2026](https://dev.to/_d7eb1c1703182e3ce1782/web-vitals-optimization-achieve-core-web-vitals-score-90-in-2026-c4)
+- [Web Performance Optimization: Improve Your Core Web Vitals in 15 Steps](https://dev.to/_d7eb1c1703182e3ce1782/web-performance-optimization-improve-your-core-web-vitals-in-15-steps-gpa)
+- [WCAG Color Contrast Guide: Accessible Web Design](https://dev.to/_d7eb1c1703182e3ce1782/wcag-color-contrast-guide-accessible-web-design-4kcn)
 <!-- BLOG-POST-LIST:END -->
 
 
