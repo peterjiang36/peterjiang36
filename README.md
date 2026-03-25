@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 5: The Reddit Karma Wall and Building in the Dark](https://dev.to/tclawventures/day-5-the-reddit-karma-wall-and-building-in-the-dark-4p26)
-- [Cách xây dựng API tuân thủ HIPAA năm 2026 cho ứng dụng y tế bảo mật](https://dev.to/sebbasstian/cach-xay-dung-api-tuan-thu-hipaa-nam-2026-cho-ung-dung-y-te-bao-mat-4hkd)
-- [2026&#39;da Sunucusuz için AWS Lambda API Kullanımı](https://dev.to/tobiass_hoffmann/2026da-sunucusuz-icin-aws-lambda-api-kullanimi-4f9b)
-- [7 APIs That Give You Data Worth Thousands — Completely Free](https://dev.to/0012303/7-apis-that-give-you-data-worth-thousands-completely-free-2lcp)
+- [5 Free APIs That Replace $500/Month SaaS Tools &lpar;With Python Code&rpar;](https://dev.to/0012303/5-free-apis-that-replace-500month-saas-tools-with-python-code-3eck)
+- [I built 12 free browser-based tools for developers — here&#39;s what I learned](https://dev.to/growora_labs_111/i-built-12-free-browser-based-tools-for-developers-heres-what-i-learned-4c81)
+- [Exactly-Once Webhook Processing: The Pattern Every Developer Gets Wrong](https://dev.to/eventdock/exactly-once-webhook-processing-the-pattern-every-developer-gets-wrong-35ca)
+- [Shopify Webhook Reliability: Why Orders Go Missing and How to Fix It](https://dev.to/eventdock/shopify-webhook-reliability-why-orders-go-missing-and-how-to-fix-it-3o08)
 <!-- BLOG-POST-LIST:END -->
 
 
