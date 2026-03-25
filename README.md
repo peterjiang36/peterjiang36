@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I cut Claude API costs by 90% with prompt caching. Here&#39;s what I learned before I had to shut it down.](https://dev.to/dusttoo/i-cut-claude-api-costs-by-90-with-prompt-caching-heres-what-i-learned-before-i-had-to-shut-it-564d)
-- [Why Sovereignty Is Not Enough: The Missing Operational Layer in AI Stewardship](https://dev.to/crisiscoresystems/why-sovereignty-is-not-enough-the-missing-operational-layer-in-ai-stewardship-2i4h)
-- [SonarQube vs DeepSource: Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-deepsource-complete-comparison-2026-2o1l)
-- [Cross Cloud Comic Builder with ADK, Amazon Lightsail, and Gemini CLI](https://dev.to/aws-builders/cross-cloud-comic-builder-with-adk-amazon-lightsail-and-gemini-cli-6mi)
+- [Every Skill That Makes a $200k Engineer Is Free on the Internet. The Problem Is How You&#39;re Practicing.](https://dev.to/todo_fix_later/every-skill-that-makes-a-200k-engineer-is-free-on-the-internet-the-problem-is-how-youre-1a16)
+- [LeetCode Solution: 938. Range Sum of BST](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-938-range-sum-of-bst-obj)
+- [Anthropic Just Open-Sourced the MCP Protocol — Here Are 130+ Servers You Can Use Right Now](https://dev.to/0012303/anthropic-just-open-sourced-the-mcp-protocol-here-are-130-servers-you-can-use-right-now-4ge7)
+- [🛠️ Wanna Build the App?](https://dev.to/artanidos/wanna-build-the-app-2gc7)
 <!-- BLOG-POST-LIST:END -->
 
 
