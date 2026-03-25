@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Got 33K GitHub Stars: The Complete Marketing Playbook](https://dev.to/iris1031/how-i-got-33k-github-stars-the-complete-marketing-playbook-529)
-- [Why Small, Regular Releases Matter in Open Source](https://dev.to/mzivkovicdev/why-small-regular-releases-matter-in-open-source-4nkd)
-- [Introducing BizAnalyst AI: Open Source Bu — siness Data Analyst with AI-Powered Insights 📊](https://dev.to/spaidey_393437ef9e695e87a/introducing-bizanalyst-ai-open-source-business-data-analyst-with-ai-powered-insights-1m7g)
-- [Durability in Wallet Transfer System](https://dev.to/sandhya_steffym_4872a8be/durability-in-wallet-transfer-system-1m46)
+- [Como proteger sua IA com Amazon Bedrock Guardrails](https://dev.to/juanf_voltolini/como-proteger-sua-ia-com-amazon-bedrock-guardrails-2711)
+- [Actix-web: #1 in 15 Out of 22 Tests — Dissecting the Benchmark King &lpar;HttpArena Deep Dive&rpar;](https://dev.to/fbio_reis_355b87b508598e/actix-web-1-in-15-out-of-22-tests-dissecting-the-benchmark-king-httparena-deep-dive-114g)
+- [Resend vs Postmark vs Mailgun for Solo Developers in 2026](https://dev.to/devtoolpicks/resend-vs-postmark-vs-mailgun-for-solo-developers-in-2026-5gfl)
+- [From Skill to Gene: A Migration Walkthrough](https://dev.to/rotiferdev/from-skill-to-gene-a-migration-walkthrough-4b9o)
 <!-- BLOG-POST-LIST:END -->
 
 
