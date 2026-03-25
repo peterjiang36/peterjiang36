@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Air Traffic Control Scaleway Ep.6](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep6-16dg)
-- [187 Cycles at $0: What Happens When Your PRs Get Closed](https://dev.to/universe7creator/187-cycles-at-0-what-happens-when-your-prs-get-closed-3p7i)
-- [Air Traffic Control Scaleway Ep.5](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep5-455m)
-- [Why Your AI Firewall Can Be Bypassed &lpar;and How to Make One That Can&#39;t&rpar;](https://dev.to/sovereignshield/why-your-ai-firewall-can-be-bypassed-and-how-to-make-one-that-cant-381b)
+- [How I Got 33K GitHub Stars: The Complete Marketing Playbook](https://dev.to/iris1031/how-i-got-33k-github-stars-the-complete-marketing-playbook-529)
+- [Why Small, Regular Releases Matter in Open Source](https://dev.to/mzivkovicdev/why-small-regular-releases-matter-in-open-source-4nkd)
+- [Introducing BizAnalyst AI: Open Source Bu — siness Data Analyst with AI-Powered Insights 📊](https://dev.to/spaidey_393437ef9e695e87a/introducing-bizanalyst-ai-open-source-business-data-analyst-with-ai-powered-insights-1m7g)
+- [Durability in Wallet Transfer System](https://dev.to/sandhya_steffym_4872a8be/durability-in-wallet-transfer-system-1m46)
 <!-- BLOG-POST-LIST:END -->
 
 
