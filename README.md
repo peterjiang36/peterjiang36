@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Consistency](https://dev.to/jonah_blessy/consistency-35pd)
-- [How I Built a Two-Level Cache to Serve Millions of Lookups in Under a Millisecond](https://dev.to/lalithagovada/how-i-built-a-two-level-cache-to-serve-millions-of-lookups-in-under-a-millisecond-47hg)
-- [Atomicity](https://dev.to/jarvish_/atomicity-anh)
-- [The State of AI Code Review in 2026 - Trends, Tools, and What&#39;s Next](https://dev.to/rahulxsingh/the-state-of-ai-code-review-in-2026-trends-tools-and-whats-next-2gfh)
+- [The Vinted Arbitrage War: Building a Scraper That Doesn&#39;t Get IP-Banned](https://dev.to/datakaz/the-vinted-arbitrage-war-building-a-scraper-that-doesnt-get-ip-banned-4bh3)
+- [Ser dev latinoamericano en 2026: lo que nadie te cuenta](https://dev.to/maurosues/ser-dev-latinoamericano-en-2026-lo-que-nadie-te-cuenta-498e)
+- [10 Best Veracode Alternatives for Application Security &lpar;2026&rpar;](https://dev.to/rahulxsingh/10-best-veracode-alternatives-for-application-security-2026-4k3i)
+- [Kubernetes resources](https://dev.to/coles980/kubernetes-resources-50lo)
 <!-- BLOG-POST-LIST:END -->
 
 
