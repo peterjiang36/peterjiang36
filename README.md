@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vinted Arbitrage War: Building a Scraper That Doesn&#39;t Get IP-Banned](https://dev.to/datakaz/the-vinted-arbitrage-war-building-a-scraper-that-doesnt-get-ip-banned-4bh3)
-- [Ser dev latinoamericano en 2026: lo que nadie te cuenta](https://dev.to/maurosues/ser-dev-latinoamericano-en-2026-lo-que-nadie-te-cuenta-498e)
-- [10 Best Veracode Alternatives for Application Security &lpar;2026&rpar;](https://dev.to/rahulxsingh/10-best-veracode-alternatives-for-application-security-2026-4k3i)
-- [Kubernetes resources](https://dev.to/coles980/kubernetes-resources-50lo)
+- [The 7 AI Agent Failures You&#39;ll Never See Coming Until They Hit Production](https://dev.to/utibe_okodi_339fb47a13ef5/the-7-ai-agent-failures-youll-never-see-coming-until-they-hit-production-fg8)
+- [[Side B] Breaking Free from Vibe Coding Fatigue: A Practical Record of Building an OSS with &#39;Spec-First AI Development&#39;](https://dev.to/d_9d93cd53/side-b-breaking-free-from-vibe-coding-fatigue-a-practical-record-of-building-an-oss-with-1pl9)
+- [[Side A] Building a RAM Disk on Windows without Admin Privileges — Python I/O Acceleration Techniques](https://dev.to/d_9d93cd53/side-a-building-a-ram-disk-on-windows-without-admin-privileges-python-io-acceleration-4omd)
+- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
 <!-- BLOG-POST-LIST:END -->
 
 
