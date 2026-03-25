@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Case for Dev Tool Minimalism: Why Fewer Features Win](https://dev.to/godnick/the-case-for-dev-tool-minimalism-why-fewer-features-win-2p91)
-- [What Actually Happens to Your Paycheck Before It Hits Your Bank Account](https://dev.to/alphashark/what-actually-happens-to-your-paycheck-before-it-hits-your-bank-account-17fh)
-- [OpenAlex Has a Free API — Search 250M+ Academic Works Without Any Key](https://dev.to/0012303/openalex-has-a-free-api-search-250m-academic-works-without-any-key-4915)
-- [Enterprise Auth in Astro without the pain](https://dev.to/saif_shines/enterprise-auth-in-astro-without-the-pain-1idh)
+- [Something More Worth Discussing Than AI Anxiety](https://dev.to/skyguan92/something-more-worth-discussing-than-ai-anxiety-2m2i)
+- [Video to GIF Conversion: Why the Output Is Always Bigger Than Expected](https://dev.to/alphashark/video-to-gif-conversion-why-the-output-is-always-bigger-than-expected-4747)
+- [UTC to PST/PDT Conversion Is Not Always Minus 8 Hours](https://dev.to/alphashark/utc-to-pstpdt-conversion-is-not-always-minus-8-hours-3gli)
+- [Why I Stopped Using Docker for Local Development](https://dev.to/0012303/why-i-stopped-using-docker-for-local-development-2al1)
 <!-- BLOG-POST-LIST:END -->
 
 
