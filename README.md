@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LiteLLM Was Just Compromised on PyPI — Here&#39;s How to Detect Supply Chain Attacks](https://dev.to/0012303/litellm-was-just-compromised-on-pypi-heres-how-to-detect-supply-chain-attacks-188)
-- [25 Companies That Pay Developers $200-$1,500 to Write Technical Articles](https://dev.to/0012303/25-companies-that-pay-developers-200-1500-to-write-technical-articles-45i4)
-- [Detecting Invisible Code: A 30-Line Scanner for Unicode Steganography](https://dev.to/websationflow/detecting-invisible-code-a-30-line-scanner-for-unicode-steganography-4g3p)
-- [Gasless AI Agents with ERC-4337 Account Abstraction](https://dev.to/walletguy/gasless-ai-agents-with-erc-4337-account-abstraction-4lf0)
+- [Build a Production-Ready FastAPI Backend in 2026: 5 Templates That Ship in Minutes](https://dev.to/ottoaria/build-a-production-ready-fastapi-backend-in-2026-5-templates-that-ship-in-minutes-1kfl)
+- [Dark Mode UI Components for SaaS: Button, Input, Card, Badge &lpar;Tailwind CSS v4&rpar;](https://dev.to/huangyongshan46a11y/dark-mode-ui-components-for-saas-button-input-card-badge-tailwind-css-v4-1749)
+- [Coming Back to Kotlin: Building a Real App with KMP Part 3 — From Raw HTML to Native Content](https://dev.to/rarroyo00/coming-back-to-kotlin-building-a-real-app-with-kmp-part-3-from-raw-html-to-native-content-16nl)
+- [Silent Flames](https://dev.to/n92/silent-flames-48k2)
 <!-- BLOG-POST-LIST:END -->
 
 
