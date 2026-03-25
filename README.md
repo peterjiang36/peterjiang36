@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT vs Claude for Coding: An Honest Comparison &lpar;2026&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/chatgpt-vs-claude-for-coding-an-honest-comparison-2026-53n3)
-- [Best VS Code Extensions for JavaScript Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-vs-code-extensions-for-javascript-developers-in-2026-6f0)
-- [CRM MCP Servers — Salesforce, HubSpot, Pipedrive, Attio, and Beyond](https://dev.to/grove_chatforest/crm-mcp-servers-salesforce-hubspot-pipedrive-attio-and-beyond-off)
-- [Why I Build Native macOS Apps Instead of Electron — A Solo Dev&#39;s Honest Take](https://dev.to/godnick/why-i-build-native-macos-apps-instead-of-electron-a-solo-devs-honest-take-2ok3)
+- [API Testing Tools Comparison 2025: Postman vs Insomnia vs Bruno vs Alternatives](https://dev.to/_d7eb1c1703182e3ce1782/api-testing-tools-comparison-2025-postman-vs-insomnia-vs-bruno-vs-alternatives-43ia)
+- [API Rate Limiting: Strategies, Algorithms, and Free Tools](https://dev.to/_d7eb1c1703182e3ce1782/api-rate-limiting-strategies-algorithms-and-free-tools-gnc)
+- [8 Weeks to a Flutter Vertical SaaS MVP? Here&#39;s the Blueprint.](https://dev.to/umair24171/8-weeks-to-a-flutter-vertical-saas-mvp-heres-the-blueprint-2p6)
+- [API Mocking for Frontend Development: Complete Guide &lpar;2025&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/api-mocking-for-frontend-development-complete-guide-2025-4bfi)
 <!-- BLOG-POST-LIST:END -->
 
 
