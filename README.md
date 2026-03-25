@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como proteger sua IA com Amazon Bedrock Guardrails](https://dev.to/juanf_voltolini/como-proteger-sua-ia-com-amazon-bedrock-guardrails-2711)
-- [Actix-web: #1 in 15 Out of 22 Tests — Dissecting the Benchmark King &lpar;HttpArena Deep Dive&rpar;](https://dev.to/fbio_reis_355b87b508598e/actix-web-1-in-15-out-of-22-tests-dissecting-the-benchmark-king-httparena-deep-dive-114g)
-- [Resend vs Postmark vs Mailgun for Solo Developers in 2026](https://dev.to/devtoolpicks/resend-vs-postmark-vs-mailgun-for-solo-developers-in-2026-5gfl)
-- [From Skill to Gene: A Migration Walkthrough](https://dev.to/rotiferdev/from-skill-to-gene-a-migration-walkthrough-4b9o)
+- [Santa Augmentcode Intent Ep.8](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep8-95j)
+- [Santa Augmentcode Intent Ep.5](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep5-1fk5)
+- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-4a62)
+- [To The Moon Terraform Ep.8](https://dev.to/the-software-s-journey/to-the-moon-terraform-ep8-47h1)
 <!-- BLOG-POST-LIST:END -->
 
 
