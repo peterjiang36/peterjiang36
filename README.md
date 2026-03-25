@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an Engagement Decay Analyzer: How Fast Do Posts Die?](https://dev.to/olams/build-an-engagement-decay-analyzer-how-fast-do-posts-die-a5a)
-- [Filter Assignments](https://dev.to/jonah_blessy/filter-assignments-142m)
-- [AI Assistance vs AI Agents: Understanding the Shift from Responses to Autonomous Systems](https://dev.to/aws-builders/ai-assistance-vs-ai-agents-understanding-the-shift-from-responses-to-autonomous-systems-pb3)
-- [AI Didn&#39;t Break Your Culture. It Exposed It.](https://dev.to/jonoherrington/ai-didnt-break-your-culture-it-exposed-it-2729)
+- [Consistency](https://dev.to/jonah_blessy/consistency-35pd)
+- [How I Built a Two-Level Cache to Serve Millions of Lookups in Under a Millisecond](https://dev.to/lalithagovada/how-i-built-a-two-level-cache-to-serve-millions-of-lookups-in-under-a-millisecond-47hg)
+- [Atomicity](https://dev.to/jarvish_/atomicity-anh)
+- [The State of AI Code Review in 2026 - Trends, Tools, and What&#39;s Next](https://dev.to/rahulxsingh/the-state-of-ai-code-review-in-2026-trends-tools-and-whats-next-2gfh)
 <!-- BLOG-POST-LIST:END -->
 
 
