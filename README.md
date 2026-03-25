@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Skill That Makes a $200k Engineer Is Free on the Internet. The Problem Is How You&#39;re Practicing.](https://dev.to/todo_fix_later/every-skill-that-makes-a-200k-engineer-is-free-on-the-internet-the-problem-is-how-youre-1a16)
-- [LeetCode Solution: 938. Range Sum of BST](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-938-range-sum-of-bst-obj)
-- [Anthropic Just Open-Sourced the MCP Protocol — Here Are 130+ Servers You Can Use Right Now](https://dev.to/0012303/anthropic-just-open-sourced-the-mcp-protocol-here-are-130-servers-you-can-use-right-now-4ge7)
-- [🛠️ Wanna Build the App?](https://dev.to/artanidos/wanna-build-the-app-2gc7)
+- [Create a simple EC2 instance and run a webserver and access it from outside](https://dev.to/jonah_blessy/create-a-simple-ec2-instance-and-run-a-webserver-and-access-it-from-outside-1dg2)
+- [Specification Pattern υπό το πρίσμα του SOLID και της Clean Architecture](https://dev.to/__b63657/specification-pattern-upo-to-prisma-tou-solid-kai-tes-clean-architecture-8oh)
+- [Harness Engineering: The Concept I Didn&#39;t Know I Needed](https://dev.to/techwithhari/harness-engineering-the-concept-i-didnt-know-i-needed-5nf)
+- [Optimizing Database Queries for Scalability](https://dev.to/chris_lee_5e58cce05f5d01d/optimizing-database-queries-for-scalability-3267)
 <!-- BLOG-POST-LIST:END -->
 
 
