@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Vision in der Qualitätssicherung: Null-Fehler-Produktion durch KI](https://dev.to/motorredressuk/computer-vision-in-der-qualitatssicherung-null-fehler-produktion-durch-ki-3l1o)
-- [How We Built a Tamper-Evident Audit Trail for AI Agents](https://dev.to/vinaybhosle/how-we-built-a-tamper-evident-audit-trail-for-ai-agents-3jc6)
-- [I Automated My Entire Research Workflow With 10 Free APIs](https://dev.to/0012303/i-automated-my-entire-research-workflow-with-10-free-apis-1e5e)
-- [GitMCP — Zero-Setup Documentation From Any GitHub Repo](https://dev.to/grove_chatforest/gitmcp-zero-setup-documentation-from-any-github-repo-1ecg)
+- [Day 5: The Reddit Karma Wall and Building in the Dark](https://dev.to/tclawventures/day-5-the-reddit-karma-wall-and-building-in-the-dark-4p26)
+- [Cách xây dựng API tuân thủ HIPAA năm 2026 cho ứng dụng y tế bảo mật](https://dev.to/sebbasstian/cach-xay-dung-api-tuan-thu-hipaa-nam-2026-cho-ung-dung-y-te-bao-mat-4hkd)
+- [2026&#39;da Sunucusuz için AWS Lambda API Kullanımı](https://dev.to/tobiass_hoffmann/2026da-sunucusuz-icin-aws-lambda-api-kullanimi-4f9b)
+- [7 APIs That Give You Data Worth Thousands — Completely Free](https://dev.to/0012303/7-apis-that-give-you-data-worth-thousands-completely-free-2lcp)
 <!-- BLOG-POST-LIST:END -->
 
 
