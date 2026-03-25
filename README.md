@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7 AI Agent Failures You&#39;ll Never See Coming Until They Hit Production](https://dev.to/utibe_okodi_339fb47a13ef5/the-7-ai-agent-failures-youll-never-see-coming-until-they-hit-production-fg8)
-- [[Side B] Breaking Free from Vibe Coding Fatigue: A Practical Record of Building an OSS with &#39;Spec-First AI Development&#39;](https://dev.to/d_9d93cd53/side-b-breaking-free-from-vibe-coding-fatigue-a-practical-record-of-building-an-oss-with-1pl9)
-- [[Side A] Building a RAM Disk on Windows without Admin Privileges — Python I/O Acceleration Techniques](https://dev.to/d_9d93cd53/side-a-building-a-ram-disk-on-windows-without-admin-privileges-python-io-acceleration-4omd)
-- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
+- [I Built a Price Monitoring Bot That Saved My Client $12,000](https://dev.to/0012303/i-built-a-price-monitoring-bot-that-saved-my-client-12000-6kl)
+- [Genesis: Teaching AI to Learn Like a Child &lpar;Patent Pending&rpar;](https://dev.to/jtil4201/genesis-teaching-ai-to-learn-like-a-child-patent-pending-ajj)
+- [What’s one thing you wish you knew before starting your SaaS?](https://dev.to/vrishabh_081/whats-one-thing-you-wish-you-knew-before-starting-your-saas-mo0)
+- [We&#39;re Inside the DST Gap Right Now — Your Code Might Not Be](https://dev.to/hnevkop/were-inside-the-dst-gap-right-now-your-code-might-not-be-271b)
 <!-- BLOG-POST-LIST:END -->
 
 
