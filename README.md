@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Production-Ready FastAPI Backend in 2026: 5 Templates That Ship in Minutes](https://dev.to/ottoaria/build-a-production-ready-fastapi-backend-in-2026-5-templates-that-ship-in-minutes-1kfl)
-- [Dark Mode UI Components for SaaS: Button, Input, Card, Badge &lpar;Tailwind CSS v4&rpar;](https://dev.to/huangyongshan46a11y/dark-mode-ui-components-for-saas-button-input-card-badge-tailwind-css-v4-1749)
-- [Coming Back to Kotlin: Building a Real App with KMP Part 3 — From Raw HTML to Native Content](https://dev.to/rarroyo00/coming-back-to-kotlin-building-a-real-app-with-kmp-part-3-from-raw-html-to-native-content-16nl)
-- [Silent Flames](https://dev.to/n92/silent-flames-48k2)
+- [The Case for Dev Tool Minimalism: Why Fewer Features Win](https://dev.to/godnick/the-case-for-dev-tool-minimalism-why-fewer-features-win-2p91)
+- [What Actually Happens to Your Paycheck Before It Hits Your Bank Account](https://dev.to/alphashark/what-actually-happens-to-your-paycheck-before-it-hits-your-bank-account-17fh)
+- [OpenAlex Has a Free API — Search 250M+ Academic Works Without Any Key](https://dev.to/0012303/openalex-has-a-free-api-search-250m-academic-works-without-any-key-4915)
+- [Enterprise Auth in Astro without the pain](https://dev.to/saif_shines/enterprise-auth-in-astro-without-the-pain-1idh)
 <!-- BLOG-POST-LIST:END -->
 
 
