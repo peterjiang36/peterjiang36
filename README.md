@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Free APIs That Replace $500/Month SaaS Tools &lpar;With Python Code&rpar;](https://dev.to/0012303/5-free-apis-that-replace-500month-saas-tools-with-python-code-3eck)
-- [I built 12 free browser-based tools for developers — here&#39;s what I learned](https://dev.to/growora_labs_111/i-built-12-free-browser-based-tools-for-developers-heres-what-i-learned-4c81)
-- [Exactly-Once Webhook Processing: The Pattern Every Developer Gets Wrong](https://dev.to/eventdock/exactly-once-webhook-processing-the-pattern-every-developer-gets-wrong-35ca)
-- [Shopify Webhook Reliability: Why Orders Go Missing and How to Fix It](https://dev.to/eventdock/shopify-webhook-reliability-why-orders-go-missing-and-how-to-fix-it-3o08)
+- [Air Traffic Control Scaleway Ep.6](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep6-16dg)
+- [187 Cycles at $0: What Happens When Your PRs Get Closed](https://dev.to/universe7creator/187-cycles-at-0-what-happens-when-your-prs-get-closed-3p7i)
+- [Air Traffic Control Scaleway Ep.5](https://dev.to/the-software-s-journey/air-traffic-control-scaleway-ep5-455m)
+- [Why Your AI Firewall Can Be Bypassed &lpar;and How to Make One That Can&#39;t&rpar;](https://dev.to/sovereignshield/why-your-ai-firewall-can-be-bypassed-and-how-to-make-one-that-cant-381b)
 <!-- BLOG-POST-LIST:END -->
 
 
