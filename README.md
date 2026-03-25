@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API Testing Tools Comparison 2025: Postman vs Insomnia vs Bruno vs Alternatives](https://dev.to/_d7eb1c1703182e3ce1782/api-testing-tools-comparison-2025-postman-vs-insomnia-vs-bruno-vs-alternatives-43ia)
-- [API Rate Limiting: Strategies, Algorithms, and Free Tools](https://dev.to/_d7eb1c1703182e3ce1782/api-rate-limiting-strategies-algorithms-and-free-tools-gnc)
-- [8 Weeks to a Flutter Vertical SaaS MVP? Here&#39;s the Blueprint.](https://dev.to/umair24171/8-weeks-to-a-flutter-vertical-saas-mvp-heres-the-blueprint-2p6)
-- [API Mocking for Frontend Development: Complete Guide &lpar;2025&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/api-mocking-for-frontend-development-complete-guide-2025-4bfi)
+- [From Chaos to One-Paste Magic Part 1: The Mess &lpar;and Why It Mattered&rpar;](https://dev.to/jeremy_longshore/from-chaos-to-one-paste-magic-part-1-the-mess-and-why-it-mattered-5h3i)
+- [AI-Assisted Technical Writing: From Case Study to Published Portfolio in 30 Minutes](https://dev.to/jeremy_longshore/ai-assisted-technical-writing-from-case-study-to-published-portfolio-in-30-minutes-4kb6)
+- [Best Free Database GUI Tools for Developers in 2026](https://dev.to/_d7eb1c1703182e3ce1782/best-free-database-gui-tools-for-developers-in-2026-4ij2)
+- [High Latency in Course Data Fetching: Optimizing Nested Loops and Cache Utilization Reduces Latency to 400ms](https://dev.to/serbyte/high-latency-in-course-data-fetching-optimizing-nested-loops-and-cache-utilization-reduces-latency-57am)
 <!-- BLOG-POST-LIST:END -->
 
 
