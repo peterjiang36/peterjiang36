@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fitness &amp; Wearables MCP Servers — Strava, Garmin, WHOOP, Apple Health, Oura Ring, Fitbit, and More](https://dev.to/grove_chatforest/fitness-wearables-mcp-servers-strava-garmin-whoop-apple-health-oura-ring-fitbit-and-more-a3k)
-- [Web Vitals Optimization: Achieve Core Web Vitals Score 90+ in 2026](https://dev.to/_d7eb1c1703182e3ce1782/web-vitals-optimization-achieve-core-web-vitals-score-90-in-2026-c4)
-- [Web Performance Optimization: Improve Your Core Web Vitals in 15 Steps](https://dev.to/_d7eb1c1703182e3ce1782/web-performance-optimization-improve-your-core-web-vitals-in-15-steps-gpa)
-- [WCAG Color Contrast Guide: Accessible Web Design](https://dev.to/_d7eb1c1703182e3ce1782/wcag-color-contrast-guide-accessible-web-design-4kcn)
+- [Computer Vision in der Qualitätssicherung: Null-Fehler-Produktion durch KI](https://dev.to/motorredressuk/computer-vision-in-der-qualitatssicherung-null-fehler-produktion-durch-ki-3l1o)
+- [How We Built a Tamper-Evident Audit Trail for AI Agents](https://dev.to/vinaybhosle/how-we-built-a-tamper-evident-audit-trail-for-ai-agents-3jc6)
+- [I Automated My Entire Research Workflow With 10 Free APIs](https://dev.to/0012303/i-automated-my-entire-research-workflow-with-10-free-apis-1e5e)
+- [GitMCP — Zero-Setup Documentation From Any GitHub Repo](https://dev.to/grove_chatforest/gitmcp-zero-setup-documentation-from-any-github-repo-1ecg)
 <!-- BLOG-POST-LIST:END -->
 
 
