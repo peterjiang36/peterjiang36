@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hướng Dẫn Biến Trading Agents Thành Quy Trình API Giao Dịch Thực Tế](https://dev.to/sebbasstian/huong-dan-bien-trading-agents-thanh-quy-trinh-api-giao-dich-thuc-te-57op)
-- [From expensive tokens to intelligent compression: how we optimize LLM costs in production](https://dev.to/carlosortet/from-expensive-tokens-to-intelligent-compression-how-we-optimize-llm-costs-in-production-18ig)
-- [Embedding Local LLMs in Your Mobile App](https://dev.to/software_mvp-factory/embedding-local-llms-in-your-mobile-app-544m)
-- [I Built a Kubernetes IDE in Rust + Swift Because Lens Was Eating My RAM](https://dev.to/chonle/i-built-a-kubernetes-ide-in-rust-swift-because-lens-was-eating-my-ram-1d41)
+- [The Node.js Production Readiness Checklist: 47 Things Engineers Miss Before Shipping](https://dev.to/axiom_agent_1dc642fa83651/the-nodejs-production-readiness-checklist-47-things-engineers-miss-before-shipping-5im)
+- [How We Got Local MCP Servers Working in Claude Cowork &lpar;The Missing Guide&rpar;](https://dev.to/murat-a-a/how-we-got-local-mcp-servers-working-in-claude-cowork-the-missing-guide-nbc)
+- [How Should Students Document AI Usage in Academic Work?](https://dev.to/jhagerer/how-should-students-document-ai-usage-in-academic-work-58m1)
+- [I built a PWA fitness tracker with AI that supports 86 sports — as a solo developer](https://dev.to/olli_angermann_2e001d1fe2/i-built-a-pwa-fitness-tracker-with-ai-that-supports-86-sports-as-a-solo-developer-35ip)
 <!-- BLOG-POST-LIST:END -->
 
 
