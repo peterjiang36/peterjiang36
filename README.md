@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Closures Explained Simply](https://dev.to/kathirvel-s/javascript-closures-explained-simply-2mf3)
-- [Questioning productivity with AI coding agents in enterprise environments](https://dev.to/jarle/questioning-productivity-with-ai-coding-agents-in-enterprise-environments-3287)
-- [How We Generated 3,066 Colors Algorithmically — No Database Needed](https://dev.to/jasonyeyuhe/how-we-generated-3066-colors-algorithmically-no-database-needed-2k02)
-- [Meaningful Domain Models in TypeScript](https://dev.to/sacha/meaningful-domain-models-in-typescript-5a9)
+- [I Hooked My Autonomous AI Outreach Swarm to Notion via MCP - It Reports Every Cycle in Real-Time](https://dev.to/fliptrigga13/i-hooked-my-autonomous-ai-outreach-swarm-to-notion-via-mcp-it-reports-every-cycle-in-real-time-1d3p)
+- [Basic Programs in Python,Java &amp; JavaScript: Smallest Number, Prime Number, and GCD](https://dev.to/harini_magesh_fa40041cf8d/basic-programs-in-pythonjava-javascript-smallest-number-prime-number-and-gcd-3mag)
+- [I built my own icon platform after getting frustrated with FontAwesome — here&#39;s how each feature came to life](https://dev.to/phc_y_55deee7323f8de7e/i-built-my-own-icon-platform-after-getting-frustrated-with-fontawesome-heres-how-each-feature-352g)
+- [Stop Paying $200/Month for Rank Tracking — Automate It with Apify in 30 Minutes](https://dev.to/vhub_systems_ed5641f65d59/stop-paying-200month-for-rank-tracking-automate-it-with-apify-in-30-minutes-1n3f)
 <!-- BLOG-POST-LIST:END -->
 
 
