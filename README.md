@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PyPI Supply Chain Defense: Protecting Your Mac from Compromised Packages](https://dev.to/mazharul/pypi-supply-chain-defense-protecting-your-mac-from-compromised-packages-35ih)
-- [DevOps Is Hard. Here’s Why Nobody Admits It.](https://dev.to/szglabs/devops-is-hard-heres-why-nobody-admits-it-3288)
-- [How to Build a Contact Form in Next.js &lpar;Without Building a Backend&rpar;](https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74)
-- [WhatDoes ‘Agentic’ Really Mean in the AI Industry? Exploring Its Rise and Impact](https://dev.to/aloycwl/whatdoes-agentic-really-mean-in-the-ai-industry-exploring-its-rise-and-impact-51h3)
+- [How to Avoid Getting Blocked While Scraping in 2026 &lpar;Complete Guide&rpar;](https://dev.to/agenthustler/how-to-avoid-getting-blocked-while-scraping-in-2026-complete-guide-3d7i)
+- [Build with TRAE @ São Paulo: Muito além do demo, veja como os devs dominam o TRAE SOLO](https://dev.to/captaincc/build-with-trae-sao-paulo-muito-alem-do-demo-veja-como-os-devs-dominam-o-trae-solo-3hmm)
+- [I built a lightweight OpenTelemetry viewer for local development](https://dev.to/mesaglio/i-built-a-lightweight-opentelemetry-viewer-for-local-development-2d84)
+- [I built 10 autonomous AI agents for Claude Code — here&#39;s how they work Tags: ai, webdev, productivity, opensource](https://dev.to/samarth0211/i-built-10-autonomous-ai-agents-for-claude-code-heres-how-they-work-tags-ai-webdev-3bmc)
 <!-- BLOG-POST-LIST:END -->
 
 
