@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
-- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
-- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
-- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
+- [Audit Your SvelteKit Codebase with a JSON Feed of 34 Svelte 5 Patterns](https://dev.to/rickcogley/audit-your-sveltekit-codebase-with-a-json-feed-of-34-svelte-5-patterns-4l6e)
+- [Deploynix vs. Laravel Forge vs. Ploi: An Honest Comparison](https://dev.to/deploynix/deploynix-vs-laravel-forge-vs-ploi-an-honest-comparison-a17)
+- [vLLM On-Demand Gateway: Zero-VRAM Standby for Local LLMs on Consumer GPUs](https://dev.to/soytuber/vllm-on-demand-gateway-zero-vram-standby-for-local-llms-on-consumer-gpus-3a5l)
+- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip)
 <!-- BLOG-POST-LIST:END -->
 
 
