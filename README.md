@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Video Player Is Bloating Your Bundle &lpar;and How to Fix It&rpar;](https://dev.to/alanwest/why-your-video-player-is-bloating-your-bundle-and-how-to-fix-it-gp6)
-- [Excel](https://dev.to/mckakankato/excel-3ikf)
-- [BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?](https://dev.to/om_prakash_3311f8a4576605/birefnet-vs-rembg-vs-u2net-which-background-removal-model-actually-works-in-production-5cho)
-- [CAP Advanced Patterns — Drafts, i18n, Audit Logging &amp; Production Readiness](https://dev.to/aliaksandr_tsviatkou/cap-advanced-patterns-drafts-i18n-audit-logging-production-readiness-19ak)
+- [Stop Wasting API Calls: Detect What&#39;s Blocking Your Agent Before You Solve](https://dev.to/arsonxdev/stop-wasting-api-calls-detect-whats-blocking-your-agent-before-you-solve-3fi1)
+- [Why Agile Frameworks Fail - A Psychological Analysis](https://dev.to/dealeron/why-agile-frameworks-fail-a-psychological-analysis-28mp)
+- [回测的真相与陷阱：为什么「测了十年」不等于「靠谱」](https://dev.to/ghostsworm/hui-ce-de-zhen-xiang-yu-xian-jing-wei-shi-yao-ce-liao-shi-nian-bu-deng-yu-kao-pu--1n9c)
+- [18,883 MCP servers. Five Chinese tech giants joined this week. Zero security audits.](https://dev.to/n_asuy/18883-mcp-servers-five-chinese-tech-giants-joined-this-week-zero-security-audits-fco)
 <!-- BLOG-POST-LIST:END -->
 
 
