@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
-- [Claude Code vs Antigravity](https://dev.to/highcenburg/claude-code-vs-antigravity-506e)
-- [Structured Concurrency in Java 21: What It Fixes and Why It Exists](https://dev.to/jagdish_salgotra_e253b2d3/structured-concurrency-in-java-21-what-it-fixes-and-why-it-exists-44ci)
-- [Building a Cost-Effective Windows Code Signing Pipeline: Sectigo + Google Cloud KMS on GitHub Actions](https://dev.to/katz/building-a-cost-effective-windows-code-signing-pipeline-sectigo-google-cloud-kms-on-github-2ghf)
+- [HTML part 3](https://dev.to/nanthini_ammu_ac02ad32802/html-part-3-1307)
+- [Overnight CLI: Train Claude Code on Your Own Chat History to Work While You Sleep](https://dev.to/gentic_news/overnight-cli-train-claude-code-on-your-own-chat-history-to-work-while-you-sleep-2k4b)
+- [The 5-Minute Claude Code Setup: What &#39;Bare Minimum&#39; Actually Means in 2026](https://dev.to/gentic_news/the-5-minute-claude-code-setup-what-bare-minimum-actually-means-in-2026-4132)
+- [Build a Pinterest-Powered Visual Search with the Pinterest Pin Search API](https://dev.to/donnyautomation/build-a-pinterest-powered-visual-search-with-the-pinterest-pin-search-api-946)
 <!-- BLOG-POST-LIST:END -->
 
 
