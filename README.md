@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Code Becomes Cheap, Thinking Becomes Expensive](https://dev.to/celestina_dike_2f013c2c7b/when-code-becomes-cheap-thinking-becomes-expensive-172o)
-- [Hot take: most developers don’t need more AI tools, they need better judgment](https://dev.to/dhruvjoshi9/hot-take-most-developers-dont-need-more-ai-tools-they-need-better-judgment-3dh0)
-- [Multi-Agent Orchestration: The Art of the Handoff](https://dev.to/the_bookmaster/multi-agent-orchestration-the-art-of-the-handoff-252a)
-- [Why Developers Will Become Responsible for AI Compliance Under the EU AI Act](https://dev.to/annexops/why-developers-will-become-responsible-for-ai-compliance-under-the-eu-ai-act-1i24)
+- [JavaScript Closures Explained Simply](https://dev.to/kathirvel-s/javascript-closures-explained-simply-2mf3)
+- [Questioning productivity with AI coding agents in enterprise environments](https://dev.to/jarle/questioning-productivity-with-ai-coding-agents-in-enterprise-environments-3287)
+- [How We Generated 3,066 Colors Algorithmically — No Database Needed](https://dev.to/jasonyeyuhe/how-we-generated-3066-colors-algorithmically-no-database-needed-2k02)
+- [Meaningful Domain Models in TypeScript](https://dev.to/sacha/meaningful-domain-models-in-typescript-5a9)
 <!-- BLOG-POST-LIST:END -->
 
 
