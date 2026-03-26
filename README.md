@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Avoid Getting Blocked While Scraping in 2026 &lpar;Complete Guide&rpar;](https://dev.to/agenthustler/how-to-avoid-getting-blocked-while-scraping-in-2026-complete-guide-3d7i)
-- [Build with TRAE @ São Paulo: Muito além do demo, veja como os devs dominam o TRAE SOLO](https://dev.to/captaincc/build-with-trae-sao-paulo-muito-alem-do-demo-veja-como-os-devs-dominam-o-trae-solo-3hmm)
-- [I built a lightweight OpenTelemetry viewer for local development](https://dev.to/mesaglio/i-built-a-lightweight-opentelemetry-viewer-for-local-development-2d84)
-- [I built 10 autonomous AI agents for Claude Code — here&#39;s how they work Tags: ai, webdev, productivity, opensource](https://dev.to/samarth0211/i-built-10-autonomous-ai-agents-for-claude-code-heres-how-they-work-tags-ai-webdev-3bmc)
+- [Solana&#39;s Noisy Neighbor Attack: How Localized Fee Markets Let Attackers Block Your DeFi Liquidations — And the Detection Toolkit to Stop Them](https://dev.to/ohmygod/solanas-noisy-neighbor-attack-how-localized-fee-markets-let-attackers-block-your-defi-3aoj)
+- [Number Guessing Game](https://dev.to/sharmi_sabari_09/number-guessing-game-47ha)
+- [Why Enterprise AI Infrastructure is Going Hybrid – and Geographic](https://dev.to/michaeltuszynski/why-enterprise-ai-infrastructure-is-going-hybrid-and-geographic-1dba)
+- [How to Set Up Code Signing for Windows Apps in GitHub Actions CI/CD Pipelines](https://dev.to/katz/how-to-set-up-code-signing-for-windows-apps-in-github-actions-cicd-pipelines-21ee)
 <!-- BLOG-POST-LIST:END -->
 
 
