@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Container monitoring just got broader: Docker Swarm and Podman support is here](https://dev.to/manageengineapm/container-monitoring-just-got-broader-docker-swarm-and-podman-support-is-here-3d2e)
-- [Stop Crashing Your Browser: How I Built a Server-Side Engine to Generate 1 Million SQL Rows Instantly](https://dev.to/mrdisloyal/stop-crashing-your-browser-how-i-built-a-server-side-engine-to-generate-1-million-sql-rows-3h4o)
-- [The Hidden Cost of Dev Environments: Why Your Staging Cluster Runs 24/7 &lpar;And How to Stop It&rpar;](https://dev.to/muskan_8abedcc7e12/the-hidden-cost-of-dev-environments-why-your-staging-cluster-runs-247-and-how-to-stop-it-59n4)
-- [Asset-Based Data Orchestration: Lessons from Building a Multi-State Social Data Platform](https://dev.to/u11d/asset-based-data-orchestration-lessons-from-building-a-multi-state-social-data-platform-9l)
+- [Fetching X Timelines with API v2 Pay-Per-Use: Cost Breakdown, Caching, and the Gotchas](https://dev.to/ikka/fetching-x-timelines-with-api-v2-pay-per-use-cost-breakdown-caching-and-the-gotchas-1i2o)
+- [Flutter Anti-Pattern: How setState&lpar;&rpar; Turns Your App Into a Slideshow](https://dev.to/interlib_dev/flutter-anti-pattern-how-setstate-turns-your-app-into-a-slideshow-abj)
+- [How I Built a Hallucination Detector for RAG Pipelines in Python](https://dev.to/devasish_banerjee_b55ceb1/how-i-built-a-hallucination-detector-for-rag-pipelines-in-python-5ahc)
+- [I Tried 30+ System Design Books and Courses: Here Are My Top 5 Recommendations for 2026](https://dev.to/somadevtoo/i-tried-30-system-design-books-and-courses-here-are-my-top-5-recommendations-for-2026-3nec)
 <!-- BLOG-POST-LIST:END -->
 
 
