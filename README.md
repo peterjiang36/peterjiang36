@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Audit Your SvelteKit Codebase with a JSON Feed of 34 Svelte 5 Patterns](https://dev.to/rickcogley/audit-your-sveltekit-codebase-with-a-json-feed-of-34-svelte-5-patterns-4l6e)
-- [Deploynix vs. Laravel Forge vs. Ploi: An Honest Comparison](https://dev.to/deploynix/deploynix-vs-laravel-forge-vs-ploi-an-honest-comparison-a17)
-- [vLLM On-Demand Gateway: Zero-VRAM Standby for Local LLMs on Consumer GPUs](https://dev.to/soytuber/vllm-on-demand-gateway-zero-vram-standby-for-local-llms-on-consumer-gpus-3a5l)
-- [Building Framework-Agnostic AI Swarms: Compare LangGraph, Strands, and OpenAI Swarm](https://dev.to/launchdarkly/building-framework-agnostic-ai-swarms-compare-langgraph-strands-and-openai-swarm-14ip)
+- [OpenClaw Just Passed React. GitHub Star Leaderboard Update.](https://dev.to/andreagriffiths11/openclaw-just-passed-react-github-star-leaderboard-update-1k1g)
+- [OpenClaw Just Passed React. Here&#39;s What the GitHub Star Leaderboard Actually Looks Like.](https://dev.to/andreagriffiths11/openclaw-just-passed-react-heres-what-the-github-star-leaderboard-actually-looks-like-3p7c)
+- [Web Service Validator: Test PromoStandards Endpoints in Seconds, Not Hours](https://dev.to/psrestful/web-service-validator-test-promostandards-endpoints-in-seconds-not-hours-1534)
+- [Exploring Git: From Blobs and Trees to Practical Workflows](https://dev.to/abhishekrp_07/exploring-git-from-blobs-and-trees-to-practical-workflows-3g00)
 <!-- BLOG-POST-LIST:END -->
 
 
