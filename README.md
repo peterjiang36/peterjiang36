@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML part 3](https://dev.to/nanthini_ammu_ac02ad32802/html-part-3-1307)
-- [Overnight CLI: Train Claude Code on Your Own Chat History to Work While You Sleep](https://dev.to/gentic_news/overnight-cli-train-claude-code-on-your-own-chat-history-to-work-while-you-sleep-2k4b)
-- [The 5-Minute Claude Code Setup: What &#39;Bare Minimum&#39; Actually Means in 2026](https://dev.to/gentic_news/the-5-minute-claude-code-setup-what-bare-minimum-actually-means-in-2026-4132)
-- [Build a Pinterest-Powered Visual Search with the Pinterest Pin Search API](https://dev.to/donnyautomation/build-a-pinterest-powered-visual-search-with-the-pinterest-pin-search-api-946)
+- [Container monitoring just got broader: Docker Swarm and Podman support is here](https://dev.to/manageengineapm/container-monitoring-just-got-broader-docker-swarm-and-podman-support-is-here-3d2e)
+- [Stop Crashing Your Browser: How I Built a Server-Side Engine to Generate 1 Million SQL Rows Instantly](https://dev.to/mrdisloyal/stop-crashing-your-browser-how-i-built-a-server-side-engine-to-generate-1-million-sql-rows-3h4o)
+- [The Hidden Cost of Dev Environments: Why Your Staging Cluster Runs 24/7 &lpar;And How to Stop It&rpar;](https://dev.to/muskan_8abedcc7e12/the-hidden-cost-of-dev-environments-why-your-staging-cluster-runs-247-and-how-to-stop-it-59n4)
+- [Asset-Based Data Orchestration: Lessons from Building a Multi-State Social Data Platform](https://dev.to/u11d/asset-based-data-orchestration-lessons-from-building-a-multi-state-social-data-platform-9l)
 <!-- BLOG-POST-LIST:END -->
 
 
