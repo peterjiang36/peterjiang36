@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Dangerous Response Code Isn&#39;t 500. It&#39;s 200.](https://dev.to/sitewatch/the-most-dangerous-response-code-isnt-500-its-200-402n)
-- [Xcode 26.4 -- Here Is What Actually Matters for Devs](https://dev.to/arshtechpro/xcode-264-here-is-what-actually-matters-for-devs-2hke)
-- [Root Cause Analysis: The Complete Guide for SREs](https://dev.to/siddharth_singh_409bd5267/root-cause-analysis-the-complete-guide-for-sres-1chm)
-- [Why No-Code Can Be More Difficult Than Coding for a Senior Software Engineer](https://dev.to/tyler_biffle_1ca74cc0e8ee/why-no-code-can-be-more-difficult-than-coding-for-a-senior-software-engineer-11f4)
+- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
+- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
+- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
+- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
 <!-- BLOG-POST-LIST:END -->
 
 
