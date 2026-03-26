@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana&#39;s Noisy Neighbor Attack: How Localized Fee Markets Let Attackers Block Your DeFi Liquidations — And the Detection Toolkit to Stop Them](https://dev.to/ohmygod/solanas-noisy-neighbor-attack-how-localized-fee-markets-let-attackers-block-your-defi-3aoj)
-- [Number Guessing Game](https://dev.to/sharmi_sabari_09/number-guessing-game-47ha)
-- [Why Enterprise AI Infrastructure is Going Hybrid – and Geographic](https://dev.to/michaeltuszynski/why-enterprise-ai-infrastructure-is-going-hybrid-and-geographic-1dba)
-- [How to Set Up Code Signing for Windows Apps in GitHub Actions CI/CD Pipelines](https://dev.to/katz/how-to-set-up-code-signing-for-windows-apps-in-github-actions-cicd-pipelines-21ee)
+- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
+- [Claude Code vs Antigravity](https://dev.to/highcenburg/claude-code-vs-antigravity-506e)
+- [Structured Concurrency in Java 21: What It Fixes and Why It Exists](https://dev.to/jagdish_salgotra_e253b2d3/structured-concurrency-in-java-21-what-it-fixes-and-why-it-exists-44ci)
+- [Building a Cost-Effective Windows Code Signing Pipeline: Sectigo + Google Cloud KMS on GitHub Actions](https://dev.to/katz/building-a-cost-effective-windows-code-signing-pipeline-sectigo-google-cloud-kms-on-github-2ghf)
 <!-- BLOG-POST-LIST:END -->
 
 
