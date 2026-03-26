@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness](https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic)
-- [We’re building a SaaS AI assistant in ~90 lines of TypeScript &lpar;Live&rpar;](https://dev.to/anna_chaykovskaya_9ad7aea/were-building-a-saas-ai-assistant-in-90-lines-of-typescript-live-49kg)
-- [Still Picking API vs Local LLM by Gut Feeling? A Framework With Real Benchmarks](https://dev.to/plasmon_imp/still-picking-api-vs-local-llm-by-gut-feeling-a-framework-with-real-benchmarks-2c0l)
-- [I Gave My AI Agent Memory Across Sessions. Here&#39;s the Schema.](https://dev.to/thestack_ai/i-gave-my-ai-agent-memory-across-sessions-heres-the-schema-57ng)
+- [PyPI Supply Chain Defense: Protecting Your Mac from Compromised Packages](https://dev.to/mazharul/pypi-supply-chain-defense-protecting-your-mac-from-compromised-packages-35ih)
+- [DevOps Is Hard. Here’s Why Nobody Admits It.](https://dev.to/szglabs/devops-is-hard-heres-why-nobody-admits-it-3288)
+- [How to Build a Contact Form in Next.js &lpar;Without Building a Backend&rpar;](https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74)
+- [WhatDoes ‘Agentic’ Really Mean in the AI Industry? Exploring Its Rise and Impact](https://dev.to/aloycwl/whatdoes-agentic-really-mean-in-the-ai-industry-exploring-its-rise-and-impact-51h3)
 <!-- BLOG-POST-LIST:END -->
 
 
