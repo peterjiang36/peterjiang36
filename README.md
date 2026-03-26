@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Friendly Website: Technical Guide for Developers](https://dev.to/immaginagroup/building-an-ai-friendly-website-technical-guide-for-developers-4dde)
-- [Why 96% of the Web Is Invisible to AI Agents &lpar;And What You Can Do About It&rpar;](https://dev.to/unlikefraction/why-96-of-the-web-is-invisible-to-ai-agents-and-what-you-can-do-about-it-34bn)
-- [Google Agent Skills: How a Single SKILL.md File Boosted AI Coding Accuracy from 6.8% to 96%](https://dev.to/_46ea277e677b888e0cd13/google-agent-skills-how-a-single-skillmd-file-boosted-ai-coding-accuracy-from-68-to-96-2fm0)
-- [GoFr — The Go Framework That Finally Made Backend Development Click for Me](https://dev.to/arpita_kotnis_/gofr-the-go-framework-that-finally-made-backend-development-click-for-me-4nif)
+- [When Code Becomes Cheap, Thinking Becomes Expensive](https://dev.to/celestina_dike_2f013c2c7b/when-code-becomes-cheap-thinking-becomes-expensive-172o)
+- [Hot take: most developers don’t need more AI tools, they need better judgment](https://dev.to/dhruvjoshi9/hot-take-most-developers-dont-need-more-ai-tools-they-need-better-judgment-3dh0)
+- [Multi-Agent Orchestration: The Art of the Handoff](https://dev.to/the_bookmaster/multi-agent-orchestration-the-art-of-the-handoff-252a)
+- [Why Developers Will Become Responsible for AI Compliance Under the EU AI Act](https://dev.to/annexops/why-developers-will-become-responsible-for-ai-compliance-under-the-eu-ai-act-1i24)
 <!-- BLOG-POST-LIST:END -->
 
 
