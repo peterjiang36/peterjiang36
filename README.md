@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Wasting API Calls: Detect What&#39;s Blocking Your Agent Before You Solve](https://dev.to/arsonxdev/stop-wasting-api-calls-detect-whats-blocking-your-agent-before-you-solve-3fi1)
-- [Why Agile Frameworks Fail - A Psychological Analysis](https://dev.to/dealeron/why-agile-frameworks-fail-a-psychological-analysis-28mp)
-- [回测的真相与陷阱：为什么「测了十年」不等于「靠谱」](https://dev.to/ghostsworm/hui-ce-de-zhen-xiang-yu-xian-jing-wei-shi-yao-ce-liao-shi-nian-bu-deng-yu-kao-pu--1n9c)
-- [18,883 MCP servers. Five Chinese tech giants joined this week. Zero security audits.](https://dev.to/n_asuy/18883-mcp-servers-five-chinese-tech-giants-joined-this-week-zero-security-audits-fco)
+- [I Built a Rabies Vaccine Schedule Calculator &lpar;Because People Still Miscalculate It&rpar; using Claudee](https://dev.to/diamondfdk/i-built-a-rabies-vaccine-schedule-calculator-because-people-still-miscalculate-it-using-claudee-38np)
+- [The Complete Docker Read List: Q1 2026 Edition](https://dev.to/docker/the-complete-docker-read-list-q1-2026-edition-3gg8)
+- [Prompt Injection Isn&#39;t a Chatbot Problem Anymore](https://dev.to/adxzer/prompt-injection-isnt-a-chatbot-problem-anymore-2ipe)
+- [Understanding Events in JavaScript &lpar;Beginner Friendly Guide&rpar;](https://dev.to/jaya_sudha_96fce1e511efee/understanding-events-in-javascript-beginner-friendly-guide-49bk)
 <!-- BLOG-POST-LIST:END -->
 
 
