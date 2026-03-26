@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Node.js Production Readiness Checklist: 47 Things Engineers Miss Before Shipping](https://dev.to/axiom_agent_1dc642fa83651/the-nodejs-production-readiness-checklist-47-things-engineers-miss-before-shipping-5im)
-- [How We Got Local MCP Servers Working in Claude Cowork &lpar;The Missing Guide&rpar;](https://dev.to/murat-a-a/how-we-got-local-mcp-servers-working-in-claude-cowork-the-missing-guide-nbc)
-- [How Should Students Document AI Usage in Academic Work?](https://dev.to/jhagerer/how-should-students-document-ai-usage-in-academic-work-58m1)
-- [I built a PWA fitness tracker with AI that supports 86 sports — as a solo developer](https://dev.to/olli_angermann_2e001d1fe2/i-built-a-pwa-fitness-tracker-with-ai-that-supports-86-sports-as-a-solo-developer-35ip)
+- [Building an AI-Friendly Website: Technical Guide for Developers](https://dev.to/immaginagroup/building-an-ai-friendly-website-technical-guide-for-developers-4dde)
+- [Why 96% of the Web Is Invisible to AI Agents &lpar;And What You Can Do About It&rpar;](https://dev.to/unlikefraction/why-96-of-the-web-is-invisible-to-ai-agents-and-what-you-can-do-about-it-34bn)
+- [Google Agent Skills: How a Single SKILL.md File Boosted AI Coding Accuracy from 6.8% to 96%](https://dev.to/_46ea277e677b888e0cd13/google-agent-skills-how-a-single-skillmd-file-boosted-ai-coding-accuracy-from-68-to-96-2fm0)
+- [GoFr — The Go Framework That Finally Made Backend Development Click for Me](https://dev.to/arpita_kotnis_/gofr-the-go-framework-that-finally-made-backend-development-click-for-me-4nif)
 <!-- BLOG-POST-LIST:END -->
 
 
