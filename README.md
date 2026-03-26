@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Price Monitoring Bot That Saved My Client $12,000](https://dev.to/0012303/i-built-a-price-monitoring-bot-that-saved-my-client-12000-6kl)
-- [Genesis: Teaching AI to Learn Like a Child &lpar;Patent Pending&rpar;](https://dev.to/jtil4201/genesis-teaching-ai-to-learn-like-a-child-patent-pending-ajj)
-- [What’s one thing you wish you knew before starting your SaaS?](https://dev.to/vrishabh_081/whats-one-thing-you-wish-you-knew-before-starting-your-saas-mo0)
-- [We&#39;re Inside the DST Gap Right Now — Your Code Might Not Be](https://dev.to/hnevkop/were-inside-the-dst-gap-right-now-your-code-might-not-be-271b)
+- [Beyond n8n for Workflow Automation: Agent Graphs as Your Universal Agent Harness](https://dev.to/launchdarkly/beyond-n8n-for-workflow-automation-agent-graphs-as-your-universal-agent-harness-4lic)
+- [We’re building a SaaS AI assistant in ~90 lines of TypeScript &lpar;Live&rpar;](https://dev.to/anna_chaykovskaya_9ad7aea/were-building-a-saas-ai-assistant-in-90-lines-of-typescript-live-49kg)
+- [Still Picking API vs Local LLM by Gut Feeling? A Framework With Real Benchmarks](https://dev.to/plasmon_imp/still-picking-api-vs-local-llm-by-gut-feeling-a-framework-with-real-benchmarks-2c0l)
+- [I Gave My AI Agent Memory Across Sessions. Here&#39;s the Schema.](https://dev.to/thestack_ai/i-gave-my-ai-agent-memory-across-sessions-heres-the-schema-57ng)
 <!-- BLOG-POST-LIST:END -->
 
 
