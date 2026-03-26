@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Hooked My Autonomous AI Outreach Swarm to Notion via MCP - It Reports Every Cycle in Real-Time](https://dev.to/fliptrigga13/i-hooked-my-autonomous-ai-outreach-swarm-to-notion-via-mcp-it-reports-every-cycle-in-real-time-1d3p)
-- [Basic Programs in Python,Java &amp; JavaScript: Smallest Number, Prime Number, and GCD](https://dev.to/harini_magesh_fa40041cf8d/basic-programs-in-pythonjava-javascript-smallest-number-prime-number-and-gcd-3mag)
-- [I built my own icon platform after getting frustrated with FontAwesome — here&#39;s how each feature came to life](https://dev.to/phc_y_55deee7323f8de7e/i-built-my-own-icon-platform-after-getting-frustrated-with-fontawesome-heres-how-each-feature-352g)
-- [Stop Paying $200/Month for Rank Tracking — Automate It with Apify in 30 Minutes](https://dev.to/vhub_systems_ed5641f65d59/stop-paying-200month-for-rank-tracking-automate-it-with-apify-in-30-minutes-1n3f)
+- [Why Your Video Player Is Bloating Your Bundle &lpar;and How to Fix It&rpar;](https://dev.to/alanwest/why-your-video-player-is-bloating-your-bundle-and-how-to-fix-it-gp6)
+- [Excel](https://dev.to/mckakankato/excel-3ikf)
+- [BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?](https://dev.to/om_prakash_3311f8a4576605/birefnet-vs-rembg-vs-u2net-which-background-removal-model-actually-works-in-production-5cho)
+- [CAP Advanced Patterns — Drafts, i18n, Audit Logging &amp; Production Readiness](https://dev.to/aliaksandr_tsviatkou/cap-advanced-patterns-drafts-i18n-audit-logging-production-readiness-19ak)
 <!-- BLOG-POST-LIST:END -->
 
 
