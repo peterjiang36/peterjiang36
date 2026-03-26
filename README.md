@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetching X Timelines with API v2 Pay-Per-Use: Cost Breakdown, Caching, and the Gotchas](https://dev.to/ikka/fetching-x-timelines-with-api-v2-pay-per-use-cost-breakdown-caching-and-the-gotchas-1i2o)
-- [Flutter Anti-Pattern: How setState&lpar;&rpar; Turns Your App Into a Slideshow](https://dev.to/interlib_dev/flutter-anti-pattern-how-setstate-turns-your-app-into-a-slideshow-abj)
-- [How I Built a Hallucination Detector for RAG Pipelines in Python](https://dev.to/devasish_banerjee_b55ceb1/how-i-built-a-hallucination-detector-for-rag-pipelines-in-python-5ahc)
-- [I Tried 30+ System Design Books and Courses: Here Are My Top 5 Recommendations for 2026](https://dev.to/somadevtoo/i-tried-30-system-design-books-and-courses-here-are-my-top-5-recommendations-for-2026-3nec)
+- [Hướng Dẫn Biến Trading Agents Thành Quy Trình API Giao Dịch Thực Tế](https://dev.to/sebbasstian/huong-dan-bien-trading-agents-thanh-quy-trinh-api-giao-dich-thuc-te-57op)
+- [From expensive tokens to intelligent compression: how we optimize LLM costs in production](https://dev.to/carlosortet/from-expensive-tokens-to-intelligent-compression-how-we-optimize-llm-costs-in-production-18ig)
+- [Embedding Local LLMs in Your Mobile App](https://dev.to/software_mvp-factory/embedding-local-llms-in-your-mobile-app-544m)
+- [I Built a Kubernetes IDE in Rust + Swift Because Lens Was Eating My RAM](https://dev.to/chonle/i-built-a-kubernetes-ide-in-rust-swift-because-lens-was-eating-my-ram-1d41)
 <!-- BLOG-POST-LIST:END -->
 
 
