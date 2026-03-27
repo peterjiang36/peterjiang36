@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Submitting My First Device Tree Binding Patch for GSoC 2026 — And It Got Accepted!](https://dev.to/moonlitpath1/submitting-my-first-device-tree-binding-patch-for-gsoc-2026-3io4)
-- [Grafana Dashboards for Non-Prod Environment Observability: Cost + Performance in One View](https://dev.to/muskan_8abedcc7e12/grafana-dashboards-for-non-prod-environment-observability-cost-performance-in-one-view-40hc)
-- [Closures in JavaScript: A Beginner-Friendly Guide](https://dev.to/jaya_sudha_96fce1e511efee/understanding-closures-in-javascript-explained-for-beginners-1b8c)
-- [Using AI to Explain Terraform Plans to Humans](https://dev.to/yogesh_vk/using-ai-to-explain-terraform-plans-to-humans-3dp4)
+- [MagiC v0.4: Embedded Server Mode + Real Benchmark Numbers](https://dev.to/kienbui1995/magic-v04-embedded-server-mode-real-benchmark-numbers-2bo5)
+- [I Made a Tool That Turns Songs into DNA Portraits](https://dev.to/mindon/i-made-a-tool-that-turns-songs-into-dna-portraits-404e)
+- [gstack vs Superpowers vs AEGIS — 3 Philosophies of AI Agent Systems](https://dev.to/th19930828/gstack-vs-superpowers-vs-aegis-3-philosophies-of-ai-agent-systems-o05)
+- [#Open Claw that runs Food Truck ..](https://dev.to/bkashji/open-claw-that-runs-food-truck--1fa3)
 <!-- BLOG-POST-LIST:END -->
 
 
