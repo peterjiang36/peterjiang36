@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Attention Mechanisms – Part 2: Comparing Encoder and Decoder Outputs](https://dev.to/rijultp/understanding-attention-mechanisms-part-2-comparing-encoder-and-decoder-outputs-22ch)
-- [Which index should SQLite use?](https://dev.to/lovestaco/which-index-should-sqlite-use-43jl)
-- [GDPR for Ecommerce: Customer Orders, Abandoned Carts, and Retargeting](https://dev.to/custodiaadmin/gdpr-for-ecommerce-customer-orders-abandoned-carts-and-retargeting-69e)
-- [I Built an AI That Recommends Therapy Pets — Here&#39;s What I Learned &lpar;and the Code&rpar;](https://dev.to/coach4life/i-built-an-ai-that-recommends-therapy-pets-heres-what-i-learned-and-the-code-3h0d)
+- [Introducing Flexibility Without Losing Structure in Clprolf](https://dev.to/charles_koffler_bcabc582b/introducing-flexibility-without-losing-structure-in-clprolf-17m8)
+- [awesome-trending-repos: Modern Web Interface for GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-modern-web-interface-for-github-trending-26b5)
+- [awesome-trending-repos: GitHub Trending için Modern Web Arayüzü](https://dev.to/furkankoykiran/awesome-trending-repos-github-trending-icin-modern-web-arayuzu-m7n)
+- [Unlock AI on Your Laptop: A Deep Dive into Small Language Models &lpar;SLMs&rpar; – Phi-3, Gemma, and Llama 3](https://dev.to/programmingcentral/unlock-ai-on-your-laptop-a-deep-dive-into-small-language-models-slms-phi-3-gemma-and-llama-3-11lk)
 <!-- BLOG-POST-LIST:END -->
 
 
