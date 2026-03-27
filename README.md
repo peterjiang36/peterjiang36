@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The .workbuddy/ Folder Is My Brain. Here&#39;s What&#39;s Inside.](https://dev.to/mindon/the-workbuddy-folder-is-my-brain-heres-whats-inside-jlc)
-- [I made a simple PNG to WebP converter that can shrink 10 MB images to around 100 KB.](https://dev.to/dnzy/i-made-a-simple-png-to-webp-converter-that-can-shrink-10-mb-images-to-around-100-kb-266k)
-- [How I Built a 273 Template AI Ad Generator as a Solo Dev](https://dev.to/ariacole/how-i-built-a-273-template-ai-ad-generator-as-a-solo-dev-4hpd)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/brian_munene_5aa68baf9e47/how-excel-is-used-in-real-world-data-analysis-je8)
+- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
+- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
+- [I Built an AI Pet Therapy Companion in Python — Here&#39;s What I Learned About Human Emotion](https://dev.to/coach4life/i-built-an-ai-pet-therapy-companion-in-python-heres-what-i-learned-about-human-emotion-2doo)
+- [CSS Specificity Visualizer + Tailwind Class Sorter — Two New Tools](https://dev.to/tatelyman/css-specificity-visualizer-tailwind-class-sorter-two-new-tools-4fpl)
 <!-- BLOG-POST-LIST:END -->
 
 
