@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust MCP Server Setup Guide for Vibe CLI](https://dev.to/opensite/rust-mcp-server-setup-guide-for-vibe-cli-5nk)
-- [Why Godot&#39;s architecture makes it the best engine for AI-assisted development](https://dev.to/ziva/why-godots-architecture-makes-it-the-best-engine-for-ai-assisted-development-5e8f)
-- [I built a health check for inherited codebases — and vibe-coded apps that now became important](https://dev.to/lukepercy/i-built-a-health-check-for-inherited-codebases-and-vibe-coded-apps-that-now-became-important-cko)
-- [How to Setup Snyk in 2026 - Complete Step-by-Step Guide](https://dev.to/rahulxsingh/how-to-setup-snyk-in-2026-complete-step-by-step-guide-184b)
+- [One Decorator to Audit Every AI Agent Call](https://dev.to/jagmarques/one-decorator-to-audit-every-ai-agent-call-3agk)
+- [I built a free API for online slot game data — 2,600+ slots](https://dev.to/slreport/i-built-a-free-api-for-online-slot-game-data-2600-slots-2jba)
+- [5 QA Automation Interview Questions That Senior Engineers Still Get Wrong](https://dev.to/bakatsiasgeorge/5-qa-automation-interview-questions-that-senior-engineers-still-get-wrong-1nii)
+- [The Conversion Bottleneck Nobody Talks About When Building Autonomous Agents](https://dev.to/nathanhamlett/the-conversion-bottleneck-nobody-talks-about-when-building-autonomous-agents-jl2)
 <!-- BLOG-POST-LIST:END -->
 
 
