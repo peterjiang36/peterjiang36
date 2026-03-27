@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Flexibility Without Losing Structure in Clprolf](https://dev.to/charles_koffler_bcabc582b/introducing-flexibility-without-losing-structure-in-clprolf-17m8)
-- [awesome-trending-repos: Modern Web Interface for GitHub Trending](https://dev.to/furkankoykiran/awesome-trending-repos-modern-web-interface-for-github-trending-26b5)
-- [awesome-trending-repos: GitHub Trending için Modern Web Arayüzü](https://dev.to/furkankoykiran/awesome-trending-repos-github-trending-icin-modern-web-arayuzu-m7n)
-- [Unlock AI on Your Laptop: A Deep Dive into Small Language Models &lpar;SLMs&rpar; – Phi-3, Gemma, and Llama 3](https://dev.to/programmingcentral/unlock-ai-on-your-laptop-a-deep-dive-into-small-language-models-slms-phi-3-gemma-and-llama-3-11lk)
+- [My GSoC 2026 Journey: Spectra.jl across the Electromagnetic Spectrum](https://dev.to/mahmoud_mohamed_8561cb6b0/my-gsoc-2026-journey-spectrajl-across-the-electromagnetic-spectrum-2h40)
+- [The Webhook Failure Modes Nobody Warns You About](https://dev.to/jamesbrown/the-webhook-failure-modes-nobody-warns-you-about-346m)
+- [How a Branded Cents Type Eliminated an Entire Class of Bugs Across 97 Files](https://dev.to/emmanueln07/how-a-branded-cents-type-eliminated-an-entire-class-of-bugs-across-97-files-2o6o)
+- [Security news weekly round-up - 27th March 2026](https://dev.to/ziizium/security-news-weekly-round-up-27th-march-2026-3ik8)
 <!-- BLOG-POST-LIST:END -->
 
 
