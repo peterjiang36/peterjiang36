@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Decorator to Audit Every AI Agent Call](https://dev.to/jagmarques/one-decorator-to-audit-every-ai-agent-call-3agk)
-- [I built a free API for online slot game data — 2,600+ slots](https://dev.to/slreport/i-built-a-free-api-for-online-slot-game-data-2600-slots-2jba)
-- [5 QA Automation Interview Questions That Senior Engineers Still Get Wrong](https://dev.to/bakatsiasgeorge/5-qa-automation-interview-questions-that-senior-engineers-still-get-wrong-1nii)
-- [The Conversion Bottleneck Nobody Talks About When Building Autonomous Agents](https://dev.to/nathanhamlett/the-conversion-bottleneck-nobody-talks-about-when-building-autonomous-agents-jl2)
+- [I Replaced Cloud AI APIs With a $600 Mac Mini — Here&#39;s What Actually Works](https://dev.to/maxxmini/i-replaced-cloud-ai-apis-with-a-600-mac-mini-heres-what-actually-works-4iae)
+- [How to Build a Multi-Step HS Classification Workflow with 3 APIs](https://dev.to/choong-devsan/how-to-build-a-multi-step-hs-classification-workflow-with-3-apis-4hpb)
+- [I Built a Tool That Turns Any API Into Something Your MCP Client Can Use](https://dev.to/veysi/i-built-a-tool-that-turns-any-api-into-something-your-mcp-client-can-use-45np)
+- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/aws-builders/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-834)
 <!-- BLOG-POST-LIST:END -->
 
 
