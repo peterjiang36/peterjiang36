@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Website Privacy Audit Checklist: 30 Things to Verify Before Your Next Compliance Review](https://dev.to/custodiaadmin/website-privacy-audit-checklist-30-things-to-verify-before-your-next-compliance-review-4oni)
-- [7 Mac Apps Every API-Heavy Developer Needs in 2026](https://dev.to/godnick/7-mac-apps-every-api-heavy-developer-needs-in-2026-1kpk)
-- [Mind-Bending Realities: 7 Famous Paradoxes That Still Baffle Scientists and Philosophers](https://dev.to/aloycwl/mind-bending-realities-7-famous-paradoxes-that-still-baffle-scientists-and-philosophers-3n2b)
-- [Rethinking React routing: a simpler, more predictable approach](https://dev.to/delpi/rethinking-react-routing-a-simpler-more-predictable-approach-5eog)
+- [Introducing NestDaddy — A Search Engine + API Platform](https://dev.to/nestdaddy/introducing-nestdaddy-a-search-engine-api-platform-2i5l)
+- [I Wrote a Script to Switch Between 12 HubSpot Portals. Then I Stopped.](https://dev.to/smuves/i-wrote-a-script-to-switch-between-12-hubspot-portals-then-i-stopped-2ga2)
+- [MoneyPrinterTurbo: AI 원클릭 숏폼 영상 자동 생성 오픈소스 &lpar;53K+ Stars&rpar;](https://dev.to/_46ea277e677b888e0cd13/moneyprinterturbo-ai-weonkeulrig-syospom-yeongsang-jadong-saengseong-opeunsoseu-53k-stars-enm)
+- [Stop Fighting Messy JSON: Why I Built a &quot;Zen&quot; Viewer for Developers](https://dev.to/surajpatelcs/stop-fighting-messy-json-why-i-built-a-zen-viewer-for-developers-59oj)
 <!-- BLOG-POST-LIST:END -->
 
 
