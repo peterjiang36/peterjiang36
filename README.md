@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como eu penso e escrevo meus testes](https://dev.to/ewertoncodes/como-eu-penso-e-escrevo-meus-testes-4j26)
-- [4 Useful Terminal Commands for Awkward Finder Tasks &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/4-useful-terminal-commands-for-awkward-finder-tasks-bite-size-article-7f5)
-- [Anchoring the Vibe: The AEGIS model](https://dev.to/binaryprovider/anchoring-the-vibe-the-aegis-model-2nke)
-- [Simulating P2P Attacks and Teaching AI to Resume Sessions](https://dev.to/yashksaini/simulating-p2p-attacks-and-teaching-ai-to-resume-sessions-2i16)
+- [Understanding Attention Mechanisms – Part 2: Comparing Encoder and Decoder Outputs](https://dev.to/rijultp/understanding-attention-mechanisms-part-2-comparing-encoder-and-decoder-outputs-22ch)
+- [Which index should SQLite use?](https://dev.to/lovestaco/which-index-should-sqlite-use-43jl)
+- [GDPR for Ecommerce: Customer Orders, Abandoned Carts, and Retargeting](https://dev.to/custodiaadmin/gdpr-for-ecommerce-customer-orders-abandoned-carts-and-retargeting-69e)
+- [I Built an AI That Recommends Therapy Pets — Here&#39;s What I Learned &lpar;and the Code&rpar;](https://dev.to/coach4life/i-built-an-ai-that-recommends-therapy-pets-heres-what-i-learned-and-the-code-3h0d)
 <!-- BLOG-POST-LIST:END -->
 
 
