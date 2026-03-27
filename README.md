@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MagiC v0.4: Embedded Server Mode + Real Benchmark Numbers](https://dev.to/kienbui1995/magic-v04-embedded-server-mode-real-benchmark-numbers-2bo5)
-- [I Made a Tool That Turns Songs into DNA Portraits](https://dev.to/mindon/i-made-a-tool-that-turns-songs-into-dna-portraits-404e)
-- [gstack vs Superpowers vs AEGIS — 3 Philosophies of AI Agent Systems](https://dev.to/th19930828/gstack-vs-superpowers-vs-aegis-3-philosophies-of-ai-agent-systems-o05)
-- [#Open Claw that runs Food Truck ..](https://dev.to/bkashji/open-claw-that-runs-food-truck--1fa3)
+- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
+- [Pick the Right Claude Code Model for Every Task](https://dev.to/klement_gunndu/pick-the-right-claude-code-model-for-every-task-1p6a)
+- [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
+- [The agent that writes its own diary — automatically](https://dev.to/jmolinasoler/the-agent-that-writes-its-own-diary-automatically-2pi2)
 <!-- BLOG-POST-LIST:END -->
 
 
