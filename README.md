@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing NestDaddy — A Search Engine + API Platform](https://dev.to/nestdaddy/introducing-nestdaddy-a-search-engine-api-platform-2i5l)
-- [I Wrote a Script to Switch Between 12 HubSpot Portals. Then I Stopped.](https://dev.to/smuves/i-wrote-a-script-to-switch-between-12-hubspot-portals-then-i-stopped-2ga2)
-- [MoneyPrinterTurbo: AI 원클릭 숏폼 영상 자동 생성 오픈소스 &lpar;53K+ Stars&rpar;](https://dev.to/_46ea277e677b888e0cd13/moneyprinterturbo-ai-weonkeulrig-syospom-yeongsang-jadong-saengseong-opeunsoseu-53k-stars-enm)
-- [Stop Fighting Messy JSON: Why I Built a &quot;Zen&quot; Viewer for Developers](https://dev.to/surajpatelcs/stop-fighting-messy-json-why-i-built-a-zen-viewer-for-developers-59oj)
+- [Submitting My First Device Tree Binding Patch for GSoC 2026 — And It Got Accepted!](https://dev.to/moonlitpath1/submitting-my-first-device-tree-binding-patch-for-gsoc-2026-3io4)
+- [Grafana Dashboards for Non-Prod Environment Observability: Cost + Performance in One View](https://dev.to/muskan_8abedcc7e12/grafana-dashboards-for-non-prod-environment-observability-cost-performance-in-one-view-40hc)
+- [Closures in JavaScript: A Beginner-Friendly Guide](https://dev.to/jaya_sudha_96fce1e511efee/understanding-closures-in-javascript-explained-for-beginners-1b8c)
+- [Using AI to Explain Terraform Plans to Humans](https://dev.to/yogesh_vk/using-ai-to-explain-terraform-plans-to-humans-3dp4)
 <!-- BLOG-POST-LIST:END -->
 
 
