@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Agent Patterns Every Developer Should Know in 2026](https://dev.to/paxrel/5-ai-agent-patterns-every-developer-should-know-in-2026-177j)
-- [Porting Test Drive II from SNES to PC, Part 37: Narrowing the SNES clock-slot timing drift](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-37-narrowing-the-snes-clock-slot-timing-drift-cbc)
-- [OpenClaw Alternatives for Enterprise Security: Honest 2026 Comparison](https://dev.to/sebastian_chedal/openclaw-alternatives-for-enterprise-security-honest-2026-comparison-3oa2)
-- [I Built a PDF Splitter That Never Touches Your Files — Here&#39;s How](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-splitter-that-never-touches-your-files-heres-how-96o)
+- [Boost Your Agents with MCPs - Launch First Real-world Agentic App](https://dev.to/mindy_jen_phd/boost-your-agents-with-mcps-launch-first-real-world-agentic-app-3lbc)
+- [Accessibility overlays: why painting over problems doesn&#39;t fix them](https://dev.to/ssmancha/accessibility-overlays-why-painting-over-problems-doesnt-fix-them-2anb)
+- [API Rate Limiting Strategies for Multi-Account Web Scrapers](https://dev.to/digitalgrowthpro/api-rate-limiting-strategies-for-multi-account-web-scrapers-4c3g)
+- [🚀 Stop Rewriting Components — Convert React to Vue Automatically](https://dev.to/parsajiravand/stop-rewriting-components-convert-react-to-vue-automatically-pfc)
 <!-- BLOG-POST-LIST:END -->
 
 
