@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19Chest CT Images](https://dev.to/paperium/residual-attention-u-net-for-automated-multi-class-segmentation-of-covid-19chest-ct-images-32ie)
-- [I Let AI Create a Product and Post It to LinkedIn. It Failed Spectacularly.](https://dev.to/tmdlrg/i-let-ai-create-a-product-and-post-it-to-linkedin-it-failed-spectacularly-126j)
-- [Why your word error rate &lpar;WER&rpar; benchmark might be lying to you](https://dev.to/martschweiger/why-your-word-error-rate-wer-benchmark-might-be-lying-to-you-2a7p)
-- [Why a Single Markdown File Can&#39;t Be Your AI Agent&#39;s Memory](https://dev.to/origin_matrix_b790e656217/why-a-single-markdown-file-cant-be-your-ai-agents-memory-10l3)
+- [Micronaut 4 application on AWS Lambda- Part 8 Measuring Lambda cold and warm starts with REST API application](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-8-measuring-lambda-cold-and-warm-starts-with-rest-api-59hl)
+- [Why Most QA Engineers Can&#39;t Practice Their Core Skill — and How Mutation Testing Changes That](https://dev.to/sdetcode/why-most-qa-engineers-cant-practice-their-core-skill-and-how-mutation-testing-changes-that-c30)
+- [PII-aware routing: how to use cloud AI and keep your sensitive data local](https://dev.to/micelclaw/pii-aware-routing-how-to-use-cloud-ai-and-keep-your-sensitive-data-local-1m40)
+- [Despliegue, Operación y Troubleshooting interactivo de Infraestructura, usando AWS Kiro](https://dev.to/oscar_gaviria_2b862594738/despliegue-operacion-y-troubleshooting-interactivo-de-infraestructura-usando-aws-kiro-5g33)
 <!-- BLOG-POST-LIST:END -->
 
 
