@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cloud-Native Workflow Engine for Kubernetes - What Would You Use It For?](https://dev.to/maksym_trofimenko_c203c72/i-built-a-cloud-native-workflow-engine-for-kubernetes-what-would-you-use-it-for-3m89)
-- [Vite Environment Variables: Master .env &amp; import.meta.env](https://dev.to/maanu07/vite-environment-variables-master-env-importmetaenv-1j1m)
-- [From if Statements to Classes: How Refactoring Taught Me Testable Code](https://dev.to/enayet_rashid_bd/from-if-statements-to-classes-how-refactoring-taught-me-testable-code-26a0)
-- [Your framework choice is now your biggest AI cost lever](https://dev.to/andrewrozumny/your-framework-choice-is-now-your-biggest-ai-cost-lever-lml)
+- [How to Improve Performance in React Applications](https://dev.to/miasalazar/how-to-improve-performance-in-react-applications-4f40)
+- [I Found 11 Security Gaps in My Own Bedrock Agent — Here&#39;s How I Fixed Them](https://dev.to/neziribass/i-found-11-security-gaps-in-my-own-bedrock-agent-heres-how-i-fixed-them-15k2)
+- [I Let AI Run My Life for a Week. It Didn&#39;t Break. That&#39;s What Scared Me.](https://dev.to/mrlinuncut/i-let-ai-run-my-life-for-a-week-it-didnt-break-thats-what-scared-me-3kd8)
+- [Stop Misreading JavaScript: The Truth About Single Thread, Sync, and Async](https://dev.to/kathirvel-s/stop-misreading-javascript-the-truth-about-single-thread-sync-and-async-1nlm)
 <!-- BLOG-POST-LIST:END -->
 
 
