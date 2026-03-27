@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
-- [Pick the Right Claude Code Model for Every Task](https://dev.to/klement_gunndu/pick-the-right-claude-code-model-for-every-task-1p6a)
-- [Did You Know That LLMs Can Take Architecture as Code to the Next Level?](https://dev.to/alexey_pronsky_e3cd77bd7/did-you-know-that-llms-can-take-architecture-as-code-to-the-next-level-dc9)
-- [The agent that writes its own diary — automatically](https://dev.to/jmolinasoler/the-agent-that-writes-its-own-diary-automatically-2pi2)
+- [Flowchart of Some While Loop Programs in Javascript](https://dev.to/deva_i_932c8869ada96d4c9f/flowchart-of-some-while-loop-programs-in-javascript-755)
+- [Your production server is dead. Hard reboot, what caused the issue?](https://dev.to/anderson_leite/your-production-server-is-dying-and-you-cant-ssh-into-it-now-what-ecf)
+- [GDPR for Gyms and Fitness Businesses: Member Data, Health Information, and Biometrics](https://dev.to/custodiaadmin/gdpr-for-gyms-and-fitness-businesses-member-data-health-information-and-biometrics-1d0e)
+- [3 Content Seasons Every Business Owner Needs](https://dev.to/shortformscale/3-content-seasons-every-business-owner-needs-55mb)
 <!-- BLOG-POST-LIST:END -->
 
 
