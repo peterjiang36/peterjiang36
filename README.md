@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Agents with MCPs - Launch First Real-world Agentic App](https://dev.to/mindy_jen_phd/boost-your-agents-with-mcps-launch-first-real-world-agentic-app-3lbc)
-- [Accessibility overlays: why painting over problems doesn&#39;t fix them](https://dev.to/ssmancha/accessibility-overlays-why-painting-over-problems-doesnt-fix-them-2anb)
-- [API Rate Limiting Strategies for Multi-Account Web Scrapers](https://dev.to/digitalgrowthpro/api-rate-limiting-strategies-for-multi-account-web-scrapers-4c3g)
-- [🚀 Stop Rewriting Components — Convert React to Vue Automatically](https://dev.to/parsajiravand/stop-rewriting-components-convert-react-to-vue-automatically-pfc)
+- [Como eu penso e escrevo meus testes](https://dev.to/ewertoncodes/como-eu-penso-e-escrevo-meus-testes-4j26)
+- [4 Useful Terminal Commands for Awkward Finder Tasks &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/4-useful-terminal-commands-for-awkward-finder-tasks-bite-size-article-7f5)
+- [Anchoring the Vibe: The AEGIS model](https://dev.to/binaryprovider/anchoring-the-vibe-the-aegis-model-2nke)
+- [Simulating P2P Attacks and Teaching AI to Resume Sessions](https://dev.to/yashksaini/simulating-p2p-attacks-and-teaching-ai-to-resume-sessions-2i16)
 <!-- BLOG-POST-LIST:END -->
 
 
