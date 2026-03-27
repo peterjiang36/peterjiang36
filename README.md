@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Micronaut 4 application on AWS Lambda- Part 8 Measuring Lambda cold and warm starts with REST API application](https://dev.to/aws-heroes/micronaut-4-application-on-aws-lambda-part-8-measuring-lambda-cold-and-warm-starts-with-rest-api-59hl)
-- [Why Most QA Engineers Can&#39;t Practice Their Core Skill — and How Mutation Testing Changes That](https://dev.to/sdetcode/why-most-qa-engineers-cant-practice-their-core-skill-and-how-mutation-testing-changes-that-c30)
-- [PII-aware routing: how to use cloud AI and keep your sensitive data local](https://dev.to/micelclaw/pii-aware-routing-how-to-use-cloud-ai-and-keep-your-sensitive-data-local-1m40)
-- [Despliegue, Operación y Troubleshooting interactivo de Infraestructura, usando AWS Kiro](https://dev.to/oscar_gaviria_2b862594738/despliegue-operacion-y-troubleshooting-interactivo-de-infraestructura-usando-aws-kiro-5g33)
+- [Introducing &quot;Wevo&quot;: Building a trust history app with Swift &amp; Vapor 🖋️](https://dev.to/h1d3mun3/introducing-wevo-building-a-trust-history-app-with-swift-vapor-340g)
+- [ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI for Business Growth](https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-for-business-growth-5dhg)
+- [Cloudflare Workers Has a Free Edge Serverless Platform With 100K Daily Requests](https://dev.to/0012303/cloudflare-workers-has-a-free-edge-serverless-platform-with-100k-daily-requests-1hje)
+- [Your ASP.NET API Already Speaks MCP - It Just Doesn&#39;t Know It Yet](https://dev.to/kebechet/your-aspnet-api-already-speaks-mcp-it-just-doesnt-know-it-yet-2870)
 <!-- BLOG-POST-LIST:END -->
 
 
