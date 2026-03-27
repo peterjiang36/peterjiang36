@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced Cloud AI APIs With a $600 Mac Mini — Here&#39;s What Actually Works](https://dev.to/maxxmini/i-replaced-cloud-ai-apis-with-a-600-mac-mini-heres-what-actually-works-4iae)
-- [How to Build a Multi-Step HS Classification Workflow with 3 APIs](https://dev.to/choong-devsan/how-to-build-a-multi-step-hs-classification-workflow-with-3-apis-4hpb)
-- [I Built a Tool That Turns Any API Into Something Your MCP Client Can Use](https://dev.to/veysi/i-built-a-tool-that-turns-any-api-into-something-your-mcp-client-can-use-45np)
-- [Cross Cloud ADK with Amazon Fargate, and Gemini CLI](https://dev.to/aws-builders/cross-cloud-adk-with-amazon-fargate-and-gemini-cli-834)
+- [How to Build an Earnings Call Transcript Analyzer](https://dev.to/agenthustler/how-to-build-an-earnings-call-transcript-analyzer-4a02)
+- [Google&#39;s Cache Compression, Siri&#39;s Open Door, and the CFO Agent Test](https://dev.to/anikalp1/googles-cache-compression-siris-open-door-and-the-cfo-agent-test-4d9b)
+- [I Stopped Dreading LaTeX Error Logs — Here&#39;s What Changed](https://dev.to/tex64/i-stopped-dreading-latex-error-logs-heres-what-changed-194f)
+- [How to Scrape Conference Speaker Lineups for Trend Detection](https://dev.to/agenthustler/how-to-scrape-conference-speaker-lineups-for-trend-detection-5col)
 <!-- BLOG-POST-LIST:END -->
 
 
