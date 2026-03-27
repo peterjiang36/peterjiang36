@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Improve Performance in React Applications](https://dev.to/miasalazar/how-to-improve-performance-in-react-applications-4f40)
-- [I Found 11 Security Gaps in My Own Bedrock Agent — Here&#39;s How I Fixed Them](https://dev.to/neziribass/i-found-11-security-gaps-in-my-own-bedrock-agent-heres-how-i-fixed-them-15k2)
-- [I Let AI Run My Life for a Week. It Didn&#39;t Break. That&#39;s What Scared Me.](https://dev.to/mrlinuncut/i-let-ai-run-my-life-for-a-week-it-didnt-break-thats-what-scared-me-3kd8)
-- [Stop Misreading JavaScript: The Truth About Single Thread, Sync, and Async](https://dev.to/kathirvel-s/stop-misreading-javascript-the-truth-about-single-thread-sync-and-async-1nlm)
+- [Residual Attention U-Net for Automated Multi-Class Segmentation of COVID-19Chest CT Images](https://dev.to/paperium/residual-attention-u-net-for-automated-multi-class-segmentation-of-covid-19chest-ct-images-32ie)
+- [I Let AI Create a Product and Post It to LinkedIn. It Failed Spectacularly.](https://dev.to/tmdlrg/i-let-ai-create-a-product-and-post-it-to-linkedin-it-failed-spectacularly-126j)
+- [Why your word error rate &lpar;WER&rpar; benchmark might be lying to you](https://dev.to/martschweiger/why-your-word-error-rate-wer-benchmark-might-be-lying-to-you-2a7p)
+- [Why a Single Markdown File Can&#39;t Be Your AI Agent&#39;s Memory](https://dev.to/origin_matrix_b790e656217/why-a-single-markdown-file-cant-be-your-ai-agents-memory-10l3)
 <!-- BLOG-POST-LIST:END -->
 
 
