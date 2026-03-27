@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing &quot;Wevo&quot;: Building a trust history app with Swift &amp; Vapor 🖋️](https://dev.to/h1d3mun3/introducing-wevo-building-a-trust-history-app-with-swift-vapor-340g)
-- [ChatGPT Prompt Engineering for Freelancers: Unlocking the Power of AI for Business Growth](https://dev.to/caper_dev/chatgpt-prompt-engineering-for-freelancers-unlocking-the-power-of-ai-for-business-growth-5dhg)
-- [Cloudflare Workers Has a Free Edge Serverless Platform With 100K Daily Requests](https://dev.to/0012303/cloudflare-workers-has-a-free-edge-serverless-platform-with-100k-daily-requests-1hje)
-- [Your ASP.NET API Already Speaks MCP - It Just Doesn&#39;t Know It Yet](https://dev.to/kebechet/your-aspnet-api-already-speaks-mcp-it-just-doesnt-know-it-yet-2870)
+- [5 AI Agent Patterns Every Developer Should Know in 2026](https://dev.to/paxrel/5-ai-agent-patterns-every-developer-should-know-in-2026-177j)
+- [Porting Test Drive II from SNES to PC, Part 37: Narrowing the SNES clock-slot timing drift](https://dev.to/nivandosoares/porting-test-drive-ii-from-snes-to-pc-part-37-narrowing-the-snes-clock-slot-timing-drift-cbc)
+- [OpenClaw Alternatives for Enterprise Security: Honest 2026 Comparison](https://dev.to/sebastian_chedal/openclaw-alternatives-for-enterprise-security-honest-2026-comparison-3oa2)
+- [I Built a PDF Splitter That Never Touches Your Files — Here&#39;s How](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-splitter-that-never-touches-your-files-heres-how-96o)
 <!-- BLOG-POST-LIST:END -->
 
 
