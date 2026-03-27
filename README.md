@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents as DeFi Lenders: Aave V3 + Kamino Integration](https://dev.to/walletguy/ai-agents-as-defi-lenders-aave-v3-kamino-integration-igd)
-- [Unveiling Collab-Public: The Future of Collaborative AI Creation](https://dev.to/dd8888/unveiling-collab-public-the-future-of-collaborative-ai-creation-4lem)
-- [How I Built an Intent Classifier to Route Messages Across Multiple LLMs](https://dev.to/abhijeetbuilds/how-i-built-an-intent-classifier-to-route-messages-across-multiple-llms-9bd)
-- [How I Gave My AI Agents a Permanent Memory That Syncs Across Machines](https://dev.to/keshrath/how-i-gave-my-ai-agents-a-permanent-memory-that-syncs-across-machines-4755)
+- [I Built a Cloud-Native Workflow Engine for Kubernetes - What Would You Use It For?](https://dev.to/maksym_trofimenko_c203c72/i-built-a-cloud-native-workflow-engine-for-kubernetes-what-would-you-use-it-for-3m89)
+- [Vite Environment Variables: Master .env &amp; import.meta.env](https://dev.to/maanu07/vite-environment-variables-master-env-importmetaenv-1j1m)
+- [From if Statements to Classes: How Refactoring Taught Me Testable Code](https://dev.to/enayet_rashid_bd/from-if-statements-to-classes-how-refactoring-taught-me-testable-code-26a0)
+- [Your framework choice is now your biggest AI cost lever](https://dev.to/andrewrozumny/your-framework-choice-is-now-your-biggest-ai-cost-lever-lml)
 <!-- BLOG-POST-LIST:END -->
 
 
