@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My GSoC 2026 Journey: Spectra.jl across the Electromagnetic Spectrum](https://dev.to/mahmoud_mohamed_8561cb6b0/my-gsoc-2026-journey-spectrajl-across-the-electromagnetic-spectrum-2h40)
-- [The Webhook Failure Modes Nobody Warns You About](https://dev.to/jamesbrown/the-webhook-failure-modes-nobody-warns-you-about-346m)
-- [How a Branded Cents Type Eliminated an Entire Class of Bugs Across 97 Files](https://dev.to/emmanueln07/how-a-branded-cents-type-eliminated-an-entire-class-of-bugs-across-97-files-2o6o)
-- [Security news weekly round-up - 27th March 2026](https://dev.to/ziizium/security-news-weekly-round-up-27th-march-2026-3ik8)
+- [The .workbuddy/ Folder Is My Brain. Here&#39;s What&#39;s Inside.](https://dev.to/mindon/the-workbuddy-folder-is-my-brain-heres-whats-inside-jlc)
+- [I made a simple PNG to WebP converter that can shrink 10 MB images to around 100 KB.](https://dev.to/dnzy/i-made-a-simple-png-to-webp-converter-that-can-shrink-10-mb-images-to-around-100-kb-266k)
+- [How I Built a 273 Template AI Ad Generator as a Solo Dev](https://dev.to/ariacole/how-i-built-a-273-template-ai-ad-generator-as-a-solo-dev-4hpd)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/brian_munene_5aa68baf9e47/how-excel-is-used-in-real-world-data-analysis-je8)
 <!-- BLOG-POST-LIST:END -->
 
 
