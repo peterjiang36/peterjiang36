@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
-- [I Built an AI Pet Therapy Companion in Python — Here&#39;s What I Learned About Human Emotion](https://dev.to/coach4life/i-built-an-ai-pet-therapy-companion-in-python-heres-what-i-learned-about-human-emotion-2doo)
-- [CSS Specificity Visualizer + Tailwind Class Sorter — Two New Tools](https://dev.to/tatelyman/css-specificity-visualizer-tailwind-class-sorter-two-new-tools-4fpl)
+- [Your AI Agent Just Made a $50K Mistake. Can You Explain Why?](https://dev.to/ilflow4592/your-ai-agent-just-made-a-50k-mistake-can-you-explain-why-4be3)
+- [Taming the Glucose Spike: Predicting Postprandial Peaks with Transformers and PyTorch](https://dev.to/beck_moulton/taming-the-glucose-spike-predicting-postprandial-peaks-with-transformers-and-pytorch-olo)
+- [Comprehensive Guide to Twitter/X Scraping Frameworks and Tools in 2026](https://dev.to/ashish_soni08/comprehensive-guide-to-twitterx-scraping-frameworks-and-tools-in-2026-37p2)
+- [500+ Free Online Tools I Built — Here Are the Most Useful Ones](https://dev.to/tatelyman/500-free-online-tools-i-built-here-are-the-most-useful-ones-2g28)
 <!-- BLOG-POST-LIST:END -->
 
 
