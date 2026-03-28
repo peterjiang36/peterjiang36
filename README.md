@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Shell Shortcuts That Will Save You Hours Every Week](https://dev.to/benriemer/linux-shell-shortcuts-that-will-save-you-hours-every-week-3kil)
-- [The JSON Parsing Problem That&#39;s Killing Your AI Agent Reliability](https://dev.to/the_bookmaster/the-json-parsing-problem-thats-killing-your-ai-agent-reliability-4gjg)
-- [I Built an AI Tool That Dubs Any YouTube Video Into 50+ Languages](https://dev.to/tubevoice/i-built-an-ai-tool-that-dubs-any-youtube-video-into-50-languages-3bd1)
-- [Artifact Management: Docker Registry, Nexus, and Artifactory](https://dev.to/matt_frank_usa/artifact-management-docker-registry-nexus-and-artifactory-h1n)
+- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
+- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
+- [CVE-2026-33044: CVE-2026-33044: Stored Cross-Site Scripting in Home Assistant Map-Card](https://dev.to/cverports/cve-2026-33044-cve-2026-33044-stored-cross-site-scripting-in-home-assistant-map-card-1df8)
+- [Scalable Design of Agent](https://dev.to/ma_uttaram_f822b3b02ec546/scalable-design-of-agent-1m2b)
 <!-- BLOG-POST-LIST:END -->
 
 
