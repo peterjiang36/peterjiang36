@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Doesn&#39;t Need Screenshots. It Needs DevTools.](https://dev.to/emad_omar_5311e0e328be24c/your-ai-doesnt-need-screenshots-it-needs-devtools-3lg1)
-- [Building an A2A Simulator to Debug Agent-to-Agent Communication](https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-g9i)
-- [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao)
+- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
+- [Securing AI Agent Workflows: Preventing Identity Collapse in Multi-Step Chains](https://dev.to/jerry_poon/securing-ai-agent-workflows-preventing-identity-collapse-in-multi-step-chains-45d2)
+- [Why I&#39;m Finally Starting to Write](https://dev.to/ejlan/why-im-finally-starting-to-write-4cak)
+- [React Hooks Explained: A Visual Guide for 2026](https://dev.to/lucasmdevdev/react-hooks-explained-a-visual-guide-for-2026-2cc4)
 <!-- BLOG-POST-LIST:END -->
 
 
