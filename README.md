@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Printing Department](https://dev.to/rmion/printing-department-3cla)
-- [Aave CAPO Oracle $27.78M Liquidation — Dev.to](https://dev.to/liguang_he_816d8b69f7bb33/aave-capo-oracle-2778m-liquidation-devto-3dp3)
-- [I Built a Free Astrocartography Calculator with Next.js — Here&#39;s the Full Story](https://dev.to/_eb3468ba11d30aaf81a0e85/i-built-a-free-astrocartography-calculator-with-nextjs-heres-the-full-story-4fbd)
-- [&quot;I&#39;m not a developer, but I built a web app with AI. Here&#39;s how and why.&quot;](https://dev.to/joonaskarh63513/im-not-a-developer-but-i-built-a-web-app-with-ai-heres-how-and-why-15ch)
+- [I built a semantic job matcher for freelancers using Qdrant + BGE embeddings — here&#39;s what the rankings look like](https://dev.to/prog585/i-built-a-semantic-job-matcher-for-freelancers-using-qdrant-bge-embeddings-heres-what-the-454a)
+- [From Cloud-First to Local-First: Migrating My AI Agent to a 32B Open-Source Model &lpar;$3/day $0/day&rpar;](https://dev.to/xadenai/from-cloud-first-to-local-first-migrating-my-ai-agent-to-a-32b-open-source-model-3day-0day-4934)
+- [How to Build an AI Strategy That Actually Delivers ROI](https://dev.to/autonix_lab_9b9969d421518/how-to-build-an-ai-strategy-that-actually-delivers-roi-mij)
+- [How to Build a Sales Signal Tracker That Alerts You When a Prospect Views Your Pricing Page](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-sales-signal-tracker-that-alerts-you-when-a-prospect-views-your-pricing-page-53j1)
 <!-- BLOG-POST-LIST:END -->
 
 
