@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel Has a Free API: Here&#39;s How to Use It for Deployment Automation](https://dev.to/0012303/vercel-has-a-free-api-heres-how-to-use-it-for-deployment-automation-3bbc)
-- [Build an MCP server that gives any LLM long-term memory](https://dev.to/wiscale/build-an-mcp-server-that-gives-any-llm-long-term-memory-34lf)
-- [How I Automated Multi-Platform Docker Image Builds for Embedded SoCs &lpar;RK3588, RV1126, RK3568&rpar;](https://dev.to/potterwhite/how-i-automated-multi-platform-docker-image-builds-for-embedded-socs-rk3588-rv1126-rk3568-4jbo)
-- [One sentence in VS Code. My entire Notion workspace becomes a live interactive briefing and the AI handles the rest.](https://dev.to/zeshama/one-sentence-in-vs-code-my-entire-notion-workspace-becomes-a-live-interactive-briefing-and-the-ai-2kdp)
+- [Gemini CLI + Flutter: The Most Powerful AI Coding Assistant Workflow in 2026](https://dev.to/techwithsam/gemini-cli-flutter-the-most-powerful-ai-coding-assistant-workflow-in-2026-3ibe)
+- [From Barriers to Opportunity: A Glass Ceiling Animation](https://dev.to/nani_hatake_cff6f15517cdd/from-barriers-to-opportunity-a-glass-ceiling-animation-16a0)
+- [K501 - Stabilizing Systems Without Control &lpar;Non-Executable Structures&rpar;](https://dev.to/k501is/k501-stabilizing-systems-without-control-non-executable-structures-abi)
+- [The 3 Production Failures That Kill AI Agents &lpar;And How We Fixed Each One&rpar;](https://dev.to/diven_rastdus_c5af27d68f3/the-3-production-failures-that-kill-ai-agents-and-how-we-fixed-each-one-3p59)
 <!-- BLOG-POST-LIST:END -->
 
 
