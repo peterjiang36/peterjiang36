@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps for Your First Week at a New Dev Job in 2026](https://dev.to/godnick/7-mac-apps-for-your-first-week-at-a-new-dev-job-in-2026-13i0)
-- [How to Handle API Rate Limits Before They Break Your Production Integration](https://dev.to/vhub_systems_ed5641f65d59/how-to-handle-api-rate-limits-before-they-break-your-production-integration-53fn)
-- [I Built a 592-Entry Herb-Drug Interaction Database — Here&#39;s What the Data Reveals](https://dev.to/botanica_andina/i-built-a-592-entry-herb-drug-interaction-database-heres-what-the-data-reveals-1955)
-- [github/github-mcp-server](https://dev.to/gwohong_lee_c745dae53e797/githubgithub-mcp-server-4kop)
+- [Printing Department](https://dev.to/rmion/printing-department-3cla)
+- [Aave CAPO Oracle $27.78M Liquidation — Dev.to](https://dev.to/liguang_he_816d8b69f7bb33/aave-capo-oracle-2778m-liquidation-devto-3dp3)
+- [I Built a Free Astrocartography Calculator with Next.js — Here&#39;s the Full Story](https://dev.to/_eb3468ba11d30aaf81a0e85/i-built-a-free-astrocartography-calculator-with-nextjs-heres-the-full-story-4fbd)
+- [&quot;I&#39;m not a developer, but I built a web app with AI. Here&#39;s how and why.&quot;](https://dev.to/joonaskarh63513/im-not-a-developer-but-i-built-a-web-app-with-ai-heres-how-and-why-15ch)
 <!-- BLOG-POST-LIST:END -->
 
 
