@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Aurora PostgreSQL Serverless &lpar;Express configuration&rpar; with CDK and Drizzle](https://dev.to/aws-builders/aurora-postgresql-serverless-express-configuration-with-cdk-and-drizzle-4hi7)
-- [Our Go CMS now speaks 5 languages, themes itself, and meditates on 404s](https://dev.to/artanidos/our-go-cms-now-speaks-5-languages-themes-itself-and-meditates-on-404s-2flf)
-- [5 outils IA qui vont transformer votre productivité en 2026](https://dev.to/lucasmdevdev/5-outils-ia-qui-vont-transformer-votre-productivite-en-2026-25a0)
-- [Azure DevOps Code Review: Tools and Setup Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/azure-devops-code-review-tools-and-setup-guide-2026-5b5i)
+- [Azure DevOps Pipelines: Complete CI/CD Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/azure-devops-pipelines-complete-cicd-guide-2026-34c8)
+- [Something every senior engineer learns the expensive way:](https://dev.to/neeraja_khanapure_4a33a5f/something-every-senior-engineer-learns-the-expensive-way-a8h)
+- [Votre première automatisation avec Make en 2026 : guide pas à pas](https://dev.to/lucasmdevdev/votre-premiere-automatisation-avec-make-en-2026-guide-pas-a-pas-45mi)
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/ritam369/understanding-object-oriented-programming-in-javascript-570e)
 <!-- BLOG-POST-LIST:END -->
 
 
