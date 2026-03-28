@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching Coding Agent to Write XSLT — Building a Domain Skill](https://dev.to/imdj/teaching-coding-agent-to-write-xslt-building-a-domain-skill-138c)
-- [A Note on Decoded and Patterns](https://dev.to/sreya-satheesh/a-note-on-decoded-and-patterns-3h60)
-- [Backup &amp; Recovery: Enterprise Security for Homelabs](https://dev.to/orthogonalinfo/backup-recovery-enterprise-security-for-homelabs-12mj)
-- [How to Build a Competitor Pricing Change Monitor That Alerts You When a Rival Updates Their Pricing Page](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-competitor-pricing-change-monitor-that-alerts-you-when-a-rival-updates-their-pricing-nje)
+- [Vercel Has a Free API: Here&#39;s How to Use It for Deployment Automation](https://dev.to/0012303/vercel-has-a-free-api-heres-how-to-use-it-for-deployment-automation-3bbc)
+- [Build an MCP server that gives any LLM long-term memory](https://dev.to/wiscale/build-an-mcp-server-that-gives-any-llm-long-term-memory-34lf)
+- [How I Automated Multi-Platform Docker Image Builds for Embedded SoCs &lpar;RK3588, RV1126, RK3568&rpar;](https://dev.to/potterwhite/how-i-automated-multi-platform-docker-image-builds-for-embedded-socs-rk3588-rv1126-rk3568-4jbo)
+- [One sentence in VS Code. My entire Notion workspace becomes a live interactive briefing and the AI handles the rest.](https://dev.to/zeshama/one-sentence-in-vs-code-my-entire-notion-workspace-becomes-a-live-interactive-briefing-and-the-ai-2kdp)
 <!-- BLOG-POST-LIST:END -->
 
 
