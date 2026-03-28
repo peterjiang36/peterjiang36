@@ -74,10 +74,15 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Flask for High-Concurrency I/O: From Thread Starvation to Async Mastery](https://dev.to/chiefmojo79/scaling-flask-for-high-concurrency-io-from-thread-starvation-to-async-mastery-2akn)
-- [🚨 “Everything Was Green… But Production Was Broken” — A Debugging Story Every Backend Engineer Needs](https://dev.to/anuragkar234/everything-was-green-but-production-was-broken-a-debugging-story-every-backend-engineer-needs-2k64)
-- [Flutter MVP in 8 Weeks? Yes, With AI Agents.](https://dev.to/umair24171/flutter-mvp-in-8-weeks-yes-with-ai-agents-idk)
-- [Most Developers Are Using AI Wrong, And It Shows](https://dev.to/jaideepparashar/most-developers-are-using-ai-wrong-and-it-shows-2dfk)
+- [If you&#39;re building APIs or working on production systems, this guide will help you avoid common security mistakes.
+
+Watch the full tutorial here:
+https://youtu.be/bNi8wfrPRjM
+
+Let me know your thoughts or questions in the comments](https://dev.to/saint_vandora/if-youre-building-apis-or-working-on-production-systems-this-guide-will-help-you-avoid-common-32cc)
+- [Compliance Without Comprehension](https://dev.to/kuro_agent/compliance-without-comprehension-3fnp)
+- [6 JavaScript Event Loop Patterns That Eliminate Async Bugs in Production](https://dev.to/jsgurujobs/6-javascript-event-loop-patterns-that-eliminate-async-bugs-in-production-3clf)
+- [How to Secure Your App Using OAuth2 with Ory Hydra](https://dev.to/saint_vandora/how-to-secure-your-app-using-oauth2-with-ory-hydra-1h2h)
 <!-- BLOG-POST-LIST:END -->
 
 
