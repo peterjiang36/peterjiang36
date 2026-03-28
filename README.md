@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview: What Is an AI Agent?](https://dev.to/ucjung/overview-what-is-an-ai-agent-9n3)
-- [How to Run a Crypto AI Agent on Low-End Hardware in 2026 &lpar;No GPU Required&rpar;](https://dev.to/paarthurnax_3f967358857ce/how-to-run-a-crypto-ai-agent-on-low-end-hardware-in-2026-no-gpu-required-44ga)
-- [Designing Memory for 20 AI Agents Across 9 Nodes: Multi-Agent Memory Architecture](https://dev.to/linou518/designing-memory-for-20-ai-agents-across-9-nodes-multi-agent-memory-architecture-4nhe)
-- [How to Get the Caller&#39;s Filename in Node.js](https://dev.to/segur/how-to-get-the-callers-filename-in-nodejs-dik)
+- [Zellij Has a Free Terminal Multiplexer: The Modern tmux Alternative With Built-In Layouts, Plugin System, and Session Management](https://dev.to/0012303/zellij-has-a-free-terminal-multiplexer-the-modern-tmux-alternative-with-built-in-layouts-plugin-56jb)
+- [I built a CLI that migrates your JS codebase to TypeScript automatically using AI](https://dev.to/nikeshsundar/i-built-a-cli-that-migrates-your-js-codebase-to-typescript-automatically-using-ai-1n49)
+- [Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets](https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf)
+- [Beyond the Mouse: A Real-Time Gesture-Controlled AI System &lpar;Lì Ào Engine&rpar;](https://dev.to/sadekul-me/beyond-the-mouse-a-real-time-gesture-controlled-ai-system-li-ao-engine-4o7)
 <!-- BLOG-POST-LIST:END -->
 
 
