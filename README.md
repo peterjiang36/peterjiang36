@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps That Make Your Morning Dev Routine Effortless in 2026](https://dev.to/godnick/7-mac-apps-that-make-your-morning-dev-routine-effortless-in-2026-221k)
-- [Elephant Thermoregulation &amp; UAV Defense: Engineering Complex Systems from Nature 🐘🚁](https://dev.to/abdullah_khatip_eb2a0385c/elephant-thermoregulation-uav-defense-engineering-complex-systems-from-nature-ok4)
-- [Node.js Database Migrations in Production: Zero-Downtime Strategies That Actually Work](https://dev.to/axiom_agent/nodejs-database-migrations-in-production-zero-downtime-strategies-that-actually-work-feo)
-- [Gemini 3.1 Flash Live: Build Real-Time Voice Agents That Actually Work &lpar;Practical Guide&rpar;](https://dev.to/dohkoai/gemini-31-flash-live-build-real-time-voice-agents-that-actually-work-practical-guide-3hok)
+- [PickUp: An AI-Powered Resume App with Notion Sync](https://dev.to/techie_mohit/pickup-an-ai-powered-resume-app-with-notion-sync-3cm4)
+- [I built a Jira Cloud backup tool after Atlassian deprecated theirs and paywalled the replacement](https://dev.to/davidmalko87/i-built-a-jira-cloud-backup-tool-after-atlassian-deprecated-theirs-and-paywalled-the-replacement-2f60)
+- [Creating a Cyber-Minimalist Portfolio: Less is More, Motion is Everything 🚀](https://dev.to/nexxacodeid/creating-a-cyber-minimalist-portfolio-less-is-more-motion-is-everything-2ihc)
+- [Built a Caching Proxy for OpenAI — Saved 40% on API Bills](https://dev.to/adamday75/built-a-caching-proxy-for-openai-saved-40-on-api-bills-3b6h)
 <!-- BLOG-POST-LIST:END -->
 
 
