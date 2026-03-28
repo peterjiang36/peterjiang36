@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Just Made a $50K Mistake. Can You Explain Why?](https://dev.to/ilflow4592/your-ai-agent-just-made-a-50k-mistake-can-you-explain-why-4be3)
-- [Taming the Glucose Spike: Predicting Postprandial Peaks with Transformers and PyTorch](https://dev.to/beck_moulton/taming-the-glucose-spike-predicting-postprandial-peaks-with-transformers-and-pytorch-olo)
-- [Comprehensive Guide to Twitter/X Scraping Frameworks and Tools in 2026](https://dev.to/ashish_soni08/comprehensive-guide-to-twitterx-scraping-frameworks-and-tools-in-2026-37p2)
-- [500+ Free Online Tools I Built — Here Are the Most Useful Ones](https://dev.to/tatelyman/500-free-online-tools-i-built-here-are-the-most-useful-ones-2g28)
+- [7 Mac Apps for Your First Week at a New Dev Job in 2026](https://dev.to/godnick/7-mac-apps-for-your-first-week-at-a-new-dev-job-in-2026-13i0)
+- [How to Handle API Rate Limits Before They Break Your Production Integration](https://dev.to/vhub_systems_ed5641f65d59/how-to-handle-api-rate-limits-before-they-break-your-production-integration-53fn)
+- [I Built a 592-Entry Herb-Drug Interaction Database — Here&#39;s What the Data Reveals](https://dev.to/botanica_andina/i-built-a-592-entry-herb-drug-interaction-database-heres-what-the-data-reveals-1955)
+- [github/github-mcp-server](https://dev.to/gwohong_lee_c745dae53e797/githubgithub-mcp-server-4kop)
 <!-- BLOG-POST-LIST:END -->
 
 
