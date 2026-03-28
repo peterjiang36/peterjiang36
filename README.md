@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using the Creem CLI as a Developer Power Tool with Claude Code](https://dev.to/santigamo/using-the-creem-cli-as-a-developer-power-tool-with-claude-code-2861)
-- [KPI Tracker — AI-Powered Client Performance Dashboard with Notion as the Entire Backend](https://dev.to/avgskully/kpi-tracker-ai-powered-client-performance-dashboard-with-notion-as-the-entire-backend-1hld)
-- [How to Handle Sensitive Data Securely in Terraform](https://dev.to/tink-origami/how-to-handle-sensitive-data-securely-in-terraform-4cci)
-- [Ritual Protocol: a key as an action, not an object](https://dev.to/sergey_ovcharenko_74bf887/ritual-protocol-a-key-as-an-action-not-an-object-7cb)
+- [7 Mac Apps That Make Your Morning Dev Routine Effortless in 2026](https://dev.to/godnick/7-mac-apps-that-make-your-morning-dev-routine-effortless-in-2026-221k)
+- [Elephant Thermoregulation &amp; UAV Defense: Engineering Complex Systems from Nature 🐘🚁](https://dev.to/abdullah_khatip_eb2a0385c/elephant-thermoregulation-uav-defense-engineering-complex-systems-from-nature-ok4)
+- [Node.js Database Migrations in Production: Zero-Downtime Strategies That Actually Work](https://dev.to/axiom_agent/nodejs-database-migrations-in-production-zero-downtime-strategies-that-actually-work-feo)
+- [Gemini 3.1 Flash Live: Build Real-Time Voice Agents That Actually Work &lpar;Practical Guide&rpar;](https://dev.to/dohkoai/gemini-31-flash-live-build-real-time-voice-agents-that-actually-work-practical-guide-3hok)
 <!-- BLOG-POST-LIST:END -->
 
 
