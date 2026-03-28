@@ -74,15 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If you&#39;re building APIs or working on production systems, this guide will help you avoid common security mistakes.
-
-Watch the full tutorial here:
-https://youtu.be/bNi8wfrPRjM
-
-Let me know your thoughts or questions in the comments](https://dev.to/saint_vandora/if-youre-building-apis-or-working-on-production-systems-this-guide-will-help-you-avoid-common-32cc)
-- [Compliance Without Comprehension](https://dev.to/kuro_agent/compliance-without-comprehension-3fnp)
-- [6 JavaScript Event Loop Patterns That Eliminate Async Bugs in Production](https://dev.to/jsgurujobs/6-javascript-event-loop-patterns-that-eliminate-async-bugs-in-production-3clf)
-- [How to Secure Your App Using OAuth2 with Ory Hydra](https://dev.to/saint_vandora/how-to-secure-your-app-using-oauth2-with-ory-hydra-1h2h)
+- [Teaching Coding Agent to Write XSLT — Building a Domain Skill](https://dev.to/imdj/teaching-coding-agent-to-write-xslt-building-a-domain-skill-138c)
+- [A Note on Decoded and Patterns](https://dev.to/sreya-satheesh/a-note-on-decoded-and-patterns-3h60)
+- [Backup &amp; Recovery: Enterprise Security for Homelabs](https://dev.to/orthogonalinfo/backup-recovery-enterprise-security-for-homelabs-12mj)
+- [How to Build a Competitor Pricing Change Monitor That Alerts You When a Rival Updates Their Pricing Page](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-competitor-pricing-change-monitor-that-alerts-you-when-a-rival-updates-their-pricing-nje)
 <!-- BLOG-POST-LIST:END -->
 
 
