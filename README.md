@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zellij Has a Free Terminal Multiplexer: The Modern tmux Alternative With Built-In Layouts, Plugin System, and Session Management](https://dev.to/0012303/zellij-has-a-free-terminal-multiplexer-the-modern-tmux-alternative-with-built-in-layouts-plugin-56jb)
-- [I built a CLI that migrates your JS codebase to TypeScript automatically using AI](https://dev.to/nikeshsundar/i-built-a-cli-that-migrates-your-js-codebase-to-typescript-automatically-using-ai-1n49)
-- [Decoding Bronze Age Paperwork: Modern AI vs. Ancient Assyrian Clay Tablets](https://dev.to/gde/decoding-bronze-age-paperwork-modern-ai-vs-ancient-assyrian-clay-tablets-5adf)
-- [Beyond the Mouse: A Real-Time Gesture-Controlled AI System &lpar;Lì Ào Engine&rpar;](https://dev.to/sadekul-me/beyond-the-mouse-a-real-time-gesture-controlled-ai-system-li-ao-engine-4o7)
+- [Using the Creem CLI as a Developer Power Tool with Claude Code](https://dev.to/santigamo/using-the-creem-cli-as-a-developer-power-tool-with-claude-code-2861)
+- [KPI Tracker — AI-Powered Client Performance Dashboard with Notion as the Entire Backend](https://dev.to/avgskully/kpi-tracker-ai-powered-client-performance-dashboard-with-notion-as-the-entire-backend-1hld)
+- [How to Handle Sensitive Data Securely in Terraform](https://dev.to/tink-origami/how-to-handle-sensitive-data-securely-in-terraform-4cci)
+- [Ritual Protocol: a key as an action, not an object](https://dev.to/sergey_ovcharenko_74bf887/ritual-protocol-a-key-as-an-action-not-an-object-7cb)
 <!-- BLOG-POST-LIST:END -->
 
 
