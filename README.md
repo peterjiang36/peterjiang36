@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Paperless-ngx Has a Free API: Self-Hosted Document Management with OCR and Full-Text Search](https://dev.to/0012303/paperless-ngx-has-a-free-api-self-hosted-document-management-with-ocr-and-full-text-search-6e3)
-- [Bun Has a Free HTTP Server API: Build Blazing-Fast APIs Without Express](https://dev.to/0012303/bun-has-a-free-http-server-api-build-blazing-fast-apis-without-express-5684)
-- [GHSA-H8R8-WCCR-V5F2: GHSA-H8R8-WCCR-V5F2: Mutation-XSS via Re-Contextualization in DOMPurify](https://dev.to/cverports/ghsa-h8r8-wccr-v5f2-ghsa-h8r8-wccr-v5f2-mutation-xss-via-re-contextualization-in-dompurify-57jm)
-- [Cloudflare Workers AI Has a Free API: Run AI Models at the Edge with Zero Infrastructure](https://dev.to/0012303/cloudflare-workers-ai-has-a-free-api-run-ai-models-at-the-edge-with-zero-infrastructure-2ibo)
+- [Why Your SaaS Node Backend Will Fail at 10k Requests/Minute &lpar;and How to Stress‑Proof It Without Rewriting&rpar;](https://dev.to/siddhant_jain_18/why-your-saas-node-backend-will-fail-at-10k-requestsminute-and-how-to-stress-proof-it-without-2bfg)
+- [Building Beautiful AI Chat UIs in Flutter: A Developer&#39;s Guide](https://dev.to/abphaiboon/building-beautiful-ai-chat-uis-in-flutter-a-developers-guide-330a)
+- [Вайбкодинг с Claude | Создание Telegram-ботов](https://dev.to/andreypopov30/vaibkodingh-s-claude-sozdaniie-telegram-botov-41lc)
+- [Claude Code 2.1.85: My Python Project Setup After Six Months of Daily Use](https://dev.to/peytongreen_dev/claude-code-2185-my-python-project-setup-after-six-months-of-daily-use-3253)
 <!-- BLOG-POST-LIST:END -->
 
 
