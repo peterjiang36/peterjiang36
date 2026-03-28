@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evolution Engineering: The Missing Discipline in AI](https://dev.to/rotiferdev/evolution-engineering-the-missing-discipline-in-ai-lic)
-- [The Quantum Countdown: Engineering a &quot;Post-Quantum&quot; World](https://dev.to/samruddhi_nikam_159/the-quantum-countdown-engineering-a-post-quantum-world-1n9b)
-- [Smart Mechanic AI Workflow System](https://dev.to/joshua_solomon_ed05d6cb51/smart-mechanic-ai-workflow-system-1fm6)
-- [I spent a weekend building a webhook debugger and lost sleep over a silent Stripe failure](https://dev.to/jamesbrown/i-spent-a-weekend-building-a-webhook-debugger-and-lost-sleep-over-a-silent-stripe-failure-4ogc)
+- [Overview: What Is an AI Agent?](https://dev.to/ucjung/overview-what-is-an-ai-agent-9n3)
+- [How to Run a Crypto AI Agent on Low-End Hardware in 2026 &lpar;No GPU Required&rpar;](https://dev.to/paarthurnax_3f967358857ce/how-to-run-a-crypto-ai-agent-on-low-end-hardware-in-2026-no-gpu-required-44ga)
+- [Designing Memory for 20 AI Agents Across 9 Nodes: Multi-Agent Memory Architecture](https://dev.to/linou518/designing-memory-for-20-ai-agents-across-9-nodes-multi-agent-memory-architecture-4nhe)
+- [How to Get the Caller&#39;s Filename in Node.js](https://dev.to/segur/how-to-get-the-callers-filename-in-nodejs-dik)
 <!-- BLOG-POST-LIST:END -->
 
 
