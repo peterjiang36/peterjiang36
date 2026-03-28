@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your SaaS Node Backend Will Fail at 10k Requests/Minute &lpar;and How to Stress‑Proof It Without Rewriting&rpar;](https://dev.to/siddhant_jain_18/why-your-saas-node-backend-will-fail-at-10k-requestsminute-and-how-to-stress-proof-it-without-2bfg)
-- [Building Beautiful AI Chat UIs in Flutter: A Developer&#39;s Guide](https://dev.to/abphaiboon/building-beautiful-ai-chat-uis-in-flutter-a-developers-guide-330a)
-- [Вайбкодинг с Claude | Создание Telegram-ботов](https://dev.to/andreypopov30/vaibkodingh-s-claude-sozdaniie-telegram-botov-41lc)
-- [Claude Code 2.1.85: My Python Project Setup After Six Months of Daily Use](https://dev.to/peytongreen_dev/claude-code-2185-my-python-project-setup-after-six-months-of-daily-use-3253)
+- [Linux Shell Shortcuts That Will Save You Hours Every Week](https://dev.to/benriemer/linux-shell-shortcuts-that-will-save-you-hours-every-week-3kil)
+- [The JSON Parsing Problem That&#39;s Killing Your AI Agent Reliability](https://dev.to/the_bookmaster/the-json-parsing-problem-thats-killing-your-ai-agent-reliability-4gjg)
+- [I Built an AI Tool That Dubs Any YouTube Video Into 50+ Languages](https://dev.to/tubevoice/i-built-an-ai-tool-that-dubs-any-youtube-video-into-50-languages-3bd1)
+- [Artifact Management: Docker Registry, Nexus, and Artifactory](https://dev.to/matt_frank_usa/artifact-management-docker-registry-nexus-and-artifactory-h1n)
 <!-- BLOG-POST-LIST:END -->
 
 
