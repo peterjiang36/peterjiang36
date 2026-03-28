@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a semantic job matcher for freelancers using Qdrant + BGE embeddings — here&#39;s what the rankings look like](https://dev.to/prog585/i-built-a-semantic-job-matcher-for-freelancers-using-qdrant-bge-embeddings-heres-what-the-454a)
-- [From Cloud-First to Local-First: Migrating My AI Agent to a 32B Open-Source Model &lpar;$3/day $0/day&rpar;](https://dev.to/xadenai/from-cloud-first-to-local-first-migrating-my-ai-agent-to-a-32b-open-source-model-3day-0day-4934)
-- [How to Build an AI Strategy That Actually Delivers ROI](https://dev.to/autonix_lab_9b9969d421518/how-to-build-an-ai-strategy-that-actually-delivers-roi-mij)
-- [How to Build a Sales Signal Tracker That Alerts You When a Prospect Views Your Pricing Page](https://dev.to/vhub_systems_ed5641f65d59/how-to-build-a-sales-signal-tracker-that-alerts-you-when-a-prospect-views-your-pricing-page-53j1)
+- [Scaling Flask for High-Concurrency I/O: From Thread Starvation to Async Mastery](https://dev.to/chiefmojo79/scaling-flask-for-high-concurrency-io-from-thread-starvation-to-async-mastery-2akn)
+- [🚨 “Everything Was Green… But Production Was Broken” — A Debugging Story Every Backend Engineer Needs](https://dev.to/anuragkar234/everything-was-green-but-production-was-broken-a-debugging-story-every-backend-engineer-needs-2k64)
+- [Flutter MVP in 8 Weeks? Yes, With AI Agents.](https://dev.to/umair24171/flutter-mvp-in-8-weeks-yes-with-ai-agents-idk)
+- [Most Developers Are Using AI Wrong, And It Shows](https://dev.to/jaideepparashar/most-developers-are-using-ai-wrong-and-it-shows-2dfk)
 <!-- BLOG-POST-LIST:END -->
 
 
