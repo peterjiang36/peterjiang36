@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
-- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
-- [CVE-2026-33044: CVE-2026-33044: Stored Cross-Site Scripting in Home Assistant Map-Card](https://dev.to/cverports/cve-2026-33044-cve-2026-33044-stored-cross-site-scripting-in-home-assistant-map-card-1df8)
-- [Scalable Design of Agent](https://dev.to/ma_uttaram_f822b3b02ec546/scalable-design-of-agent-1m2b)
+- [Aurora PostgreSQL Serverless &lpar;Express configuration&rpar; with CDK and Drizzle](https://dev.to/aws-builders/aurora-postgresql-serverless-express-configuration-with-cdk-and-drizzle-4hi7)
+- [Our Go CMS now speaks 5 languages, themes itself, and meditates on 404s](https://dev.to/artanidos/our-go-cms-now-speaks-5-languages-themes-itself-and-meditates-on-404s-2flf)
+- [5 outils IA qui vont transformer votre productivité en 2026](https://dev.to/lucasmdevdev/5-outils-ia-qui-vont-transformer-votre-productivite-en-2026-25a0)
+- [Azure DevOps Code Review: Tools and Setup Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/azure-devops-code-review-tools-and-setup-guide-2026-5b5i)
 <!-- BLOG-POST-LIST:END -->
 
 
