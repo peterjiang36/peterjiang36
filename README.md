@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini CLI + Flutter: The Most Powerful AI Coding Assistant Workflow in 2026](https://dev.to/techwithsam/gemini-cli-flutter-the-most-powerful-ai-coding-assistant-workflow-in-2026-3ibe)
-- [From Barriers to Opportunity: A Glass Ceiling Animation](https://dev.to/nani_hatake_cff6f15517cdd/from-barriers-to-opportunity-a-glass-ceiling-animation-16a0)
-- [K501 - Stabilizing Systems Without Control &lpar;Non-Executable Structures&rpar;](https://dev.to/k501is/k501-stabilizing-systems-without-control-non-executable-structures-abi)
-- [The 3 Production Failures That Kill AI Agents &lpar;And How We Fixed Each One&rpar;](https://dev.to/diven_rastdus_c5af27d68f3/the-3-production-failures-that-kill-ai-agents-and-how-we-fixed-each-one-3p59)
+- [Evolution Engineering: The Missing Discipline in AI](https://dev.to/rotiferdev/evolution-engineering-the-missing-discipline-in-ai-lic)
+- [The Quantum Countdown: Engineering a &quot;Post-Quantum&quot; World](https://dev.to/samruddhi_nikam_159/the-quantum-countdown-engineering-a-post-quantum-world-1n9b)
+- [Smart Mechanic AI Workflow System](https://dev.to/joshua_solomon_ed05d6cb51/smart-mechanic-ai-workflow-system-1fm6)
+- [I spent a weekend building a webhook debugger and lost sleep over a silent Stripe failure](https://dev.to/jamesbrown/i-spent-a-weekend-building-a-webhook-debugger-and-lost-sleep-over-a-silent-stripe-failure-4ogc)
 <!-- BLOG-POST-LIST:END -->
 
 
