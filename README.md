@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence Has a Free BI Tool as Code — Here&#39;s How to Use It](https://dev.to/0012303/evidence-has-a-free-bi-tool-as-code-heres-how-to-use-it-13j7)
-- [I Tried Using Claude Code for My Frontend Workflow](https://dev.to/aravinth_k_f2752eb4ae1775/i-tried-using-claude-code-for-my-frontend-workflow-dlm)
-- [Research with AI: primary sources, certainty labeling and counter-argumentation](https://dev.to/ohugonnot/research-with-ai-primary-sources-certainty-labeling-and-counter-argumentation-1olf)
-- [I Built a Clipboard Manager for Linux with AES-256 Encryption — DotGhostBoard v1.4.0 Eclipse](https://dev.to/freerave/i-built-a-clipboard-manager-for-linux-with-aes-256-encryption-dotghostboard-v140-eclipse-3lpd)
+- [From Reactive to Predictive: How AI Transforms Med Spa Compliance](https://dev.to/ken_deng_ai/from-reactive-to-predictive-how-ai-transforms-med-spa-compliance-a7l)
+- [Language translator app for traveler with Google AI studio](https://dev.to/harrshaplus/language-translator-app-for-traveler-with-google-ai-studio-4cha)
+- [7 Mac Apps for Developers Who Work in Sprints and Agile Teams in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-work-in-sprints-and-agile-teams-in-2026-1n3m)
+- [Day 11: Why I Build at 3 AM &lpar;And Why Zero Revenue Doesn&#39;t Mean Zero Progress&rpar;](https://dev.to/tclawventures/day-11-why-i-build-at-3-am-and-why-zero-revenue-doesnt-mean-zero-progress-6b1)
 <!-- BLOG-POST-LIST:END -->
 
 
