@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Days, $0.02 in AWS Costs, and 3 Lessons I Didn&#39;t Expect — A Post-Launch Retrospective](https://dev.to/aws-builders/7-days-002-in-aws-costs-and-3-lessons-i-didnt-expect-a-post-launch-retrospective-35bn)
-- [Debugging in Java: Practice with 10 Errors in a Simple Program](https://dev.to/harini_magesh_fa40041cf8d/debugging-in-java-practice-with-10-errors-in-a-simple-program-2bln)
-- [API Test Data Strategy and Management](https://dev.to/beefedai/api-test-data-strategy-and-management-3bi0)
-- [Nancy: A Notion-Powered Job Intelligence Bot Built Out of Necessity](https://dev.to/juvet_manga/nancy-a-notion-powered-job-intelligence-bot-built-out-of-necessity-2hhe)
+- [Fixing XSS in Legacy PHP: Passing the Audit vs Solving the Problem](https://dev.to/dobrenteiistvan/fixing-xss-in-legacy-php-passing-the-audit-vs-solving-the-problem-1l72)
+- [n8n vs Zapier in 2026: Why I Switched &lpar;And Saved €2,000/Year&rpar;](https://dev.to/automatewithai/n8n-vs-zapier-in-2026-why-i-switched-and-saved-eu2000year-59l7)
+- [Rotifer v0.7.5 &amp; v0.7.6: Gene Registry, Version Chains &amp; MCP Analytics](https://dev.to/rotiferdev/rotifer-v075-v076-gene-registry-version-chains-mcp-analytics-4g8f)
+- [Why WordPress Contact Form Emails Go to Spam &lpar;And How to Fix It&rpar;](https://dev.to/allenarduino/why-wordpress-contact-form-emails-go-to-spam-and-how-to-fix-it-kk)
 <!-- BLOG-POST-LIST:END -->
 
 
