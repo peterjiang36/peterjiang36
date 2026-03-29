@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing XSS in Legacy PHP: Passing the Audit vs Solving the Problem](https://dev.to/dobrenteiistvan/fixing-xss-in-legacy-php-passing-the-audit-vs-solving-the-problem-1l72)
-- [n8n vs Zapier in 2026: Why I Switched &lpar;And Saved €2,000/Year&rpar;](https://dev.to/automatewithai/n8n-vs-zapier-in-2026-why-i-switched-and-saved-eu2000year-59l7)
-- [Rotifer v0.7.5 &amp; v0.7.6: Gene Registry, Version Chains &amp; MCP Analytics](https://dev.to/rotiferdev/rotifer-v075-v076-gene-registry-version-chains-mcp-analytics-4g8f)
-- [Why WordPress Contact Form Emails Go to Spam &lpar;And How to Fix It&rpar;](https://dev.to/allenarduino/why-wordpress-contact-form-emails-go-to-spam-and-how-to-fix-it-kk)
+- [Evidence Has a Free BI Tool as Code — Here&#39;s How to Use It](https://dev.to/0012303/evidence-has-a-free-bi-tool-as-code-heres-how-to-use-it-13j7)
+- [I Tried Using Claude Code for My Frontend Workflow](https://dev.to/aravinth_k_f2752eb4ae1775/i-tried-using-claude-code-for-my-frontend-workflow-dlm)
+- [Research with AI: primary sources, certainty labeling and counter-argumentation](https://dev.to/ohugonnot/research-with-ai-primary-sources-certainty-labeling-and-counter-argumentation-1olf)
+- [I Built a Clipboard Manager for Linux with AES-256 Encryption — DotGhostBoard v1.4.0 Eclipse](https://dev.to/freerave/i-built-a-clipboard-manager-for-linux-with-aes-256-encryption-dotghostboard-v140-eclipse-3lpd)
 <!-- BLOG-POST-LIST:END -->
 
 
