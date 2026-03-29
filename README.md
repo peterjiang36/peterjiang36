@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Consistency](https://dev.to/anjana_rk_fbdea7abbdf13/consistency-596k)
-- [Claude Opus 4.6 vs. GPT 5.4](https://dev.to/ipazooki/claude-opus-46-vs-gpt-54-4bcc)
-- [CA 04 - Two Sum &amp; Sorted Two Sum](https://dev.to/suruthika_635f93a26b450ac/ca-04-two-sum-sorted-two-sum-22hk)
-- [bQuery.js 🥂 The jQuery for the Modern Web Platform](https://dev.to/josunlp/bqueryjs-the-jquery-for-the-modern-web-platform-10o7)
+- [Real Device Cloud vs Emulators: A Developer&#39;s Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo)
+- [# Understanding Data Modeling in Power BI](https://dev.to/raggedgentio/-understanding-data-modeling-in-power-bi-5d6a)
+- [Zustand Has a Free State Manager That Replaces Redux in 10 Lines](https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj)
+- [Understanding Data Modelling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/tom_chege/understanding-data-modelling-in-power-bi-joins-relationships-and-schemas-explained-e3g)
 <!-- BLOG-POST-LIST:END -->
 
 
