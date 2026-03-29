@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Accept USDC Payments in Node.js Using Web3indo &lpar;Stripe-Style Crypto Checkout&rpar;](https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn)
-- [7 Mac Apps for Developers Obsessed With Performance and Optimization in 2026](https://dev.to/godnick/7-mac-apps-for-developers-obsessed-with-performance-and-optimization-in-2026-23oc)
-- [SJF4J vs Jayway JsonPath: Up to 7x Faster in Java Benchmarks](https://dev.to/hannyu/sjf4j-vs-jayway-jsonpath-up-to-7x-faster-in-java-benchmarks-2aof)
-- [I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data](https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i)
+- [Why Your CTA Section Decides If Users Convert &lpar;Not Your Tools&rpar;](https://dev.to/bhavin-allinonetools/why-your-cta-section-decides-if-users-convert-not-your-tools-415m)
+- [gghstats: Keep GitHub traffic past 14 days](https://dev.to/hrodrig/gghstats-keep-github-traffic-past-14-days-3ckg)
+- [Stop Skipping Email Verification in Your Automated Tests](https://dev.to/dishantsinghdev/stop-skipping-email-verification-in-your-automated-tests-310e)
+- [Why You Can&#39;t Reproduce AI Agent Failures &lpar;And Why That&#39;s a Huge Problem&rpar;](https://dev.to/ansh_x_0258c523d35b66fe84/why-you-cant-reproduce-ai-agent-failures-and-why-thats-a-huge-problem-3p7a)
 <!-- BLOG-POST-LIST:END -->
 
 
