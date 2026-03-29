@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cookie Guard: The GDPR/CCPA Consent Manager &lpar;No Dependencies, 12.8 kB, 22 Languages&rpar;](https://dev.to/joseba-mirena/cookie-guard-the-gdprccpa-consent-manager-i-built-from-scratch-no-dependencies-128-kb-22-2ndp)
-- [Basic Select SQL Queries](https://dev.to/ashiq_omar/basic-select-sql-queries-28g7)
-- [What a week without Postman taught me about my API workflow](https://dev.to/arvindh_httpbot/what-a-week-without-postman-taught-me-about-my-api-workflow-41g9)
-- [The World as an Interface](https://dev.to/vedangvatsa/the-world-as-an-interface-49o4)
+- [Flutter Interview Questions Part 7: Advanced Flutter — RenderObjects, Isolates, Engine &amp; Performance](https://dev.to/anurag_dev/flutter-interview-questions-part-7-advanced-flutter-renderobjects-isolates-engine-performance-3821)
+- [Provide storage for the public website](https://dev.to/faynessa/provide-storage-for-the-public-website-pk)
+- [Claude Code Crash Course](https://dev.to/colocodes/claude-code-crash-course-m3o)
+- [Building an Accessible Toast Notification System in React](https://dev.to/hritickjaiswal/building-an-accessible-toast-notification-system-in-react-a65)
 <!-- BLOG-POST-LIST:END -->
 
 
