@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
-- [Securing AI Agent Workflows: Preventing Identity Collapse in Multi-Step Chains](https://dev.to/jerry_poon/securing-ai-agent-workflows-preventing-identity-collapse-in-multi-step-chains-45d2)
-- [Why I&#39;m Finally Starting to Write](https://dev.to/ejlan/why-im-finally-starting-to-write-4cak)
-- [React Hooks Explained: A Visual Guide for 2026](https://dev.to/lucasmdevdev/react-hooks-explained-a-visual-guide-for-2026-2cc4)
+- [We scanned 4,162 MCP servers. 73% are invisible to AI agents.](https://dev.to/imhiroki/we-scanned-4162-mcp-servers-73-are-invisible-to-ai-agents-2i8c)
+- [DAG vs Langraph Nodes](https://dev.to/ma_uttaram_f822b3b02ec546/dag-vs-langraph-nodes-3en2)
+- [fixing two bugs stacked on top of each other in ProseMirror](https://dev.to/nalalou/why-bold-bleeds-when-you-join-blocks-in-prosemirror-1ob7)
+- [I Built a Private Voice Chat App Because I Was Done Giving Discord My Conversations](https://dev.to/shynsec/i-built-a-private-voice-chat-app-because-i-was-done-giving-discord-my-conversations-1h8h)
 <!-- BLOG-POST-LIST:END -->
 
 
