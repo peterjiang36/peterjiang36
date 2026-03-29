@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trace AI: I Pointed a Camera at a Whiteboard. Notion Built the Entire System Design Doc.](https://dev.to/_boweii/trace-ai-i-pointed-a-camera-at-a-whiteboard-notion-built-the-entire-system-design-doc-37m6)
-- [Give Your AI Agent a Mock Server: mockd as an MCP Tool](https://dev.to/mockd/give-your-ai-agent-a-mock-server-mockd-as-an-mcp-tool-844)
-- [NoteRunway: Because Your Notion Workspace Deserves an Elite Crew](https://dev.to/georgekobaidze/noterunway-because-your-notion-workspace-deserves-an-elite-crew-53bk)
-- [I built a payment processing platform in Mexico with FastAPI — here&#39;s what I learned after 10+ production deployments](https://dev.to/jagoraxr/i-built-a-payment-processing-platform-in-mexico-with-fastapi-heres-what-i-learned-after-10-mc0)
+- [Serverless ETL/ELT Architecture with S3, EventBridge, Lambda, Step Functions, and Glue](https://dev.to/aws-builders/serverless-etlelt-architecture-with-s3-eventbridge-lambda-step-functions-and-glue-31l1)
+- [Codacy GitHub Integration: Setup and Config Guide](https://dev.to/rahulxsingh/codacy-github-integration-setup-and-config-guide-4o59)
+- [AI coding agents lie about their work. Outcome-based verification catches it.](https://dev.to/moonrunnerkc/ai-coding-agents-lie-about-their-work-outcome-based-verification-catches-it-12b4)
+- [I Built an Agent That Assembles Incident War Rooms in Notion Through MCP](https://dev.to/lewisawe/i-built-an-agent-that-assembles-incident-war-rooms-in-notion-through-mcp-2idk)
 <!-- BLOG-POST-LIST:END -->
 
 
