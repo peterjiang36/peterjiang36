@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Opus, Gemini, and ChatGPT Walk Into a Bar](https://dev.to/arezvov/opus-gemini-and-chatgpt-walk-into-a-bar-kii)
-- [Safest Skills — Recommended Picks — 2026-03-29](https://dev.to/_0ae5dca97e251657f73267/safest-skills-recommended-picks-2026-03-29-2ibh)
-- [Repowire: A Mesh Network for AI Coding Agents](https://dev.to/prassannaravishankar/repowire-a-mesh-network-for-ai-coding-agents-3h2b)
-- [From Domain to IP: Demystifying DNS Records in Minutes](https://dev.to/swatigoyal911/from-domain-to-ip-demystifying-dns-records-in-minutes-4adk)
+- [Building a Homelab Dashboard in One File — The Design and Dilemmas of a Single-file SPA](https://dev.to/linou518/building-a-homelab-dashboard-in-one-file-the-design-and-dilemmas-of-a-single-file-spa-2mf2)
+- [Designing a Memory System for Multi-Agent AI — Building &#39;Never-Forget&#39; Agents with PostgreSQL + pgvector](https://dev.to/linou518/designing-a-memory-system-for-multi-agent-ai-building-never-forget-agents-with-postgresql--52g9)
+- [RBAC vs ABAC vs ReBAC: How to Choose and Implement Access Control Models](https://dev.to/kanywst/rbac-vs-abac-vs-rebac-how-to-choose-and-implement-access-control-models-3i2d)
+- [Sharing Reusable C Headers Between Perl XS Distributions](https://dev.to/lnationorg/sharing-reusable-c-headers-between-perl-xs-distributions-2boj)
 <!-- BLOG-POST-LIST:END -->
 
 
