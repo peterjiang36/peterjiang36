@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Data Access Layer Doen&#39;t Understand Databases](https://dev.to/pengdows/your-data-access-layer-doent-understand-databases-33jc)
-- [Beyond the Chatbot: Dhikroh AI — A Framework-Guided Transformation System for Muslimah Women](https://dev.to/tadhy/beyond-the-chatbot-dhikroh-ai-a-framework-guided-transformation-system-for-muslimah-women-20ke)
-- [Deploying Mercure alongside Caddy on a shared VPS](https://dev.to/jonesrussell/deploying-mercure-alongside-caddy-on-a-shared-vps-736)
-- [Rebuilding TLS, Part 1 — Why Encryption Alone Is Not Enough](https://dev.to/aws-builders/rebuilding-tls-part-1-a-fake-secure-channel-p0n)
+- [I Gave Claude Code Access to My Prod Database with MCP](https://dev.to/spencerpauly/i-gave-my-ai-access-to-my-prod-database-with-mcp-15c0)
+- [CDKTF Has Free Terraform in TypeScript — Here&#39;s How to Ditch HCL Forever](https://dev.to/0012303/cdktf-has-free-terraform-in-typescript-heres-how-to-ditch-hcl-forever-43pf)
+- [Ollama &amp; LangChain.js: Build Local, Powerful AI Apps](https://dev.to/programmingcentral/ollama-langchainjs-build-local-powerful-ai-apps-3if0)
+- [How to Integrate Codacy with Bitbucket Pipelines](https://dev.to/rahulxsingh/how-to-integrate-codacy-with-bitbucket-pipelines-449p)
 <!-- BLOG-POST-LIST:END -->
 
 
