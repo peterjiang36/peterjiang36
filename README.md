@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We scanned 4,162 MCP servers. 73% are invisible to AI agents.](https://dev.to/imhiroki/we-scanned-4162-mcp-servers-73-are-invisible-to-ai-agents-2i8c)
-- [DAG vs Langraph Nodes](https://dev.to/ma_uttaram_f822b3b02ec546/dag-vs-langraph-nodes-3en2)
-- [fixing two bugs stacked on top of each other in ProseMirror](https://dev.to/nalalou/why-bold-bleeds-when-you-join-blocks-in-prosemirror-1ob7)
-- [I Built a Private Voice Chat App Because I Was Done Giving Discord My Conversations](https://dev.to/shynsec/i-built-a-private-voice-chat-app-because-i-was-done-giving-discord-my-conversations-1h8h)
+- [AitherOS vs AutoGen: Which Multi-Agent Framework Should You Use in 2026?](https://dev.to/aither_os/aitheros-vs-autogen-which-multi-agent-framework-should-you-use-in-2026-3b4e)
+- [Thermal-Aware Power Management: Throttling Algorithms &amp; Sustained Performance](https://dev.to/beefedai/thermal-aware-power-management-throttling-algorithms-sustained-performance-10gp)
+- [How SSH Works—and How It Breaks: A Practical Guide to Secure Remote Access](https://dev.to/jodaut/how-ssh-works-and-how-it-breaks-a-practical-guide-to-secure-remote-access-4m09)
+- [A Step-by-Step Guide to Linear Regression in Machine Learning](https://dev.to/cc-keh/a-step-by-step-guide-to-linear-regression-in-machine-learning-54lp)
 <!-- BLOG-POST-LIST:END -->
 
 
