@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AitherOS vs AutoGen: Which Multi-Agent Framework Should You Use in 2026?](https://dev.to/aither_os/aitheros-vs-autogen-which-multi-agent-framework-should-you-use-in-2026-3b4e)
-- [Thermal-Aware Power Management: Throttling Algorithms &amp; Sustained Performance](https://dev.to/beefedai/thermal-aware-power-management-throttling-algorithms-sustained-performance-10gp)
-- [How SSH Works—and How It Breaks: A Practical Guide to Secure Remote Access](https://dev.to/jodaut/how-ssh-works-and-how-it-breaks-a-practical-guide-to-secure-remote-access-4m09)
-- [A Step-by-Step Guide to Linear Regression in Machine Learning](https://dev.to/cc-keh/a-step-by-step-guide-to-linear-regression-in-machine-learning-54lp)
+- [How to Accept USDC Payments in Node.js Using Web3indo &lpar;Stripe-Style Crypto Checkout&rpar;](https://dev.to/masud_suhandi_677020c7dab/how-to-accept-usdc-payments-in-nodejs-using-web3indo-stripe-style-crypto-checkout-3mhn)
+- [7 Mac Apps for Developers Obsessed With Performance and Optimization in 2026](https://dev.to/godnick/7-mac-apps-for-developers-obsessed-with-performance-and-optimization-in-2026-23oc)
+- [SJF4J vs Jayway JsonPath: Up to 7x Faster in Java Benchmarks](https://dev.to/hannyu/sjf4j-vs-jayway-jsonpath-up-to-7x-faster-in-java-benchmarks-2aof)
+- [I Built an Andean Medicinal Plant Identifier That Uses Traditional Knowledge + Modern Data](https://dev.to/botanica_andina/i-built-an-andean-medicinal-plant-identifier-that-uses-traditional-knowledge-modern-data-244i)
 <!-- BLOG-POST-LIST:END -->
 
 
