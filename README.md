@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real Device Cloud vs Emulators: A Developer&#39;s Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo)
-- [# Understanding Data Modeling in Power BI](https://dev.to/raggedgentio/-understanding-data-modeling-in-power-bi-5d6a)
-- [Zustand Has a Free State Manager That Replaces Redux in 10 Lines](https://dev.to/0012303/zustand-has-a-free-state-manager-that-replaces-redux-in-10-lines-15mj)
-- [Understanding Data Modelling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/tom_chege/understanding-data-modelling-in-power-bi-joins-relationships-and-schemas-explained-e3g)
+- [Your Data Access Layer Doen&#39;t Understand Databases](https://dev.to/pengdows/your-data-access-layer-doent-understand-databases-33jc)
+- [Beyond the Chatbot: Dhikroh AI — A Framework-Guided Transformation System for Muslimah Women](https://dev.to/tadhy/beyond-the-chatbot-dhikroh-ai-a-framework-guided-transformation-system-for-muslimah-women-20ke)
+- [Deploying Mercure alongside Caddy on a shared VPS](https://dev.to/jonesrussell/deploying-mercure-alongside-caddy-on-a-shared-vps-736)
+- [Rebuilding TLS, Part 1 — Why Encryption Alone Is Not Enough](https://dev.to/aws-builders/rebuilding-tls-part-1-a-fake-secure-channel-p0n)
 <!-- BLOG-POST-LIST:END -->
 
 
