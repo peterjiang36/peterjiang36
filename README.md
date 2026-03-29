@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Homelab Dashboard in One File — The Design and Dilemmas of a Single-file SPA](https://dev.to/linou518/building-a-homelab-dashboard-in-one-file-the-design-and-dilemmas-of-a-single-file-spa-2mf2)
-- [Designing a Memory System for Multi-Agent AI — Building &#39;Never-Forget&#39; Agents with PostgreSQL + pgvector](https://dev.to/linou518/designing-a-memory-system-for-multi-agent-ai-building-never-forget-agents-with-postgresql--52g9)
-- [RBAC vs ABAC vs ReBAC: How to Choose and Implement Access Control Models](https://dev.to/kanywst/rbac-vs-abac-vs-rebac-how-to-choose-and-implement-access-control-models-3i2d)
-- [Sharing Reusable C Headers Between Perl XS Distributions](https://dev.to/lnationorg/sharing-reusable-c-headers-between-perl-xs-distributions-2boj)
+- [Provisioning a Kubernetes Cluster on OpenStack Using Cluster API &lpar;CAPI&rpar;](https://dev.to/sri_saivenkatakasisubb/provisioning-a-kubernetes-cluster-on-openstack-using-cluster-api-capi-2fn8)
+- [Local LLM Inference in 2026: The Complete Guide to Tools, Hardware &amp; Open-Weight Models](https://dev.to/starmorph/local-llm-inference-in-2026-the-complete-guide-to-tools-hardware-open-weight-models-2iho)
+- [Mermaid.js Tutorial: The Complete Guide to Diagrams as Code &lpar;2026&rpar;](https://dev.to/starmorph/mermaidjs-tutorial-the-complete-guide-to-diagrams-as-code-2026-fhc)
+- [Provide private storage for internal company documents](https://dev.to/faynessa/provide-private-storage-for-internal-company-documents-m04)
 <!-- BLOG-POST-LIST:END -->
 
 
