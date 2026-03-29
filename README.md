@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless ETL/ELT Architecture with S3, EventBridge, Lambda, Step Functions, and Glue](https://dev.to/aws-builders/serverless-etlelt-architecture-with-s3-eventbridge-lambda-step-functions-and-glue-31l1)
-- [Codacy GitHub Integration: Setup and Config Guide](https://dev.to/rahulxsingh/codacy-github-integration-setup-and-config-guide-4o59)
-- [AI coding agents lie about their work. Outcome-based verification catches it.](https://dev.to/moonrunnerkc/ai-coding-agents-lie-about-their-work-outcome-based-verification-catches-it-12b4)
-- [I Built an Agent That Assembles Incident War Rooms in Notion Through MCP](https://dev.to/lewisawe/i-built-an-agent-that-assembles-incident-war-rooms-in-notion-through-mcp-2idk)
+- [The &quot;Vibe Coding&quot; Hall of Shame.
+
+A curated directory of documented incidents where AI-generated and vibe-coded software failed in production.
+
+https://crackr.dev/vibe-coding-failures](https://dev.to/ridaennasry/the-vibe-coding-hall-of-shame-a-curated-directory-of-documented-incidents-where-ai-generated-530c)
+- [PIRBGEN](https://dev.to/mersau1t/pirbgen-8h1)
+- [How to Set Up Codacy with Jenkins for Automated Review](https://dev.to/rahulxsingh/how-to-set-up-codacy-with-jenkins-for-automated-review-2j83)
+- [MCP Notion Project: BrowserResume](https://dev.to/thegamersbaxechief/mcp-notion-project-browserresume-1857)
 <!-- BLOG-POST-LIST:END -->
 
 
