@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Algoora: The Competitive Coding Platform That Actually Makes You Want to Practice Algorithms](https://dev.to/lazaremirziashvili/algoora-the-competitive-coding-platform-that-actually-makes-you-want-to-practice-algorithms-1608)
-- [🌱 Eco-Loom: A Sustainability Operations Workspace](https://dev.to/codeexplorerray/eco-loom-a-sustainability-operations-workspace-ecp)
-- [Platform Engineering Explained: Why 80% of DevOps Teams Are Evolving in 2026](https://dev.to/tyson_cung/platform-engineering-explained-why-80-of-devops-teams-are-evolving-in-2026-7nn)
-- [AI-Driven Code Review: How to Improve Code Quality](https://dev.to/blake-donovan/ai-driven-code-review-how-to-improve-code-quality-2cfo)
+- [How to Use ChatGPT for Code Review &lpar;with Prompts&rpar;](https://dev.to/rahulxsingh/how-to-use-chatgpt-for-code-review-with-prompts-3i5m)
+- [NanoClaw&#39;s Deterministic Security Layer](https://dev.to/ebenezer-isaac/nanoclaws-deterministic-security-layer-1gmg)
+- [A Beginner’s Guide to How GraphQL Requests Work](https://dev.to/vyshnavi_devi/a-beginners-guide-to-how-graphql-requests-work-4ejj)
+- [The 5 Agent Failure Modes Nobody Warns You About Until It&#39;s Too Late](https://dev.to/the_bookmaster/the-5-agent-failure-modes-nobody-warns-you-about-until-its-too-late-2584)
 <!-- BLOG-POST-LIST:END -->
 
 
