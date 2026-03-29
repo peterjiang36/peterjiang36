@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Interview Questions Part 7: Advanced Flutter — RenderObjects, Isolates, Engine &amp; Performance](https://dev.to/anurag_dev/flutter-interview-questions-part-7-advanced-flutter-renderobjects-isolates-engine-performance-3821)
-- [Provide storage for the public website](https://dev.to/faynessa/provide-storage-for-the-public-website-pk)
-- [Claude Code Crash Course](https://dev.to/colocodes/claude-code-crash-course-m3o)
-- [Building an Accessible Toast Notification System in React](https://dev.to/hritickjaiswal/building-an-accessible-toast-notification-system-in-react-a65)
+- [7 Days, $0.02 in AWS Costs, and 3 Lessons I Didn&#39;t Expect — A Post-Launch Retrospective](https://dev.to/aws-builders/7-days-002-in-aws-costs-and-3-lessons-i-didnt-expect-a-post-launch-retrospective-35bn)
+- [Debugging in Java: Practice with 10 Errors in a Simple Program](https://dev.to/harini_magesh_fa40041cf8d/debugging-in-java-practice-with-10-errors-in-a-simple-program-2bln)
+- [API Test Data Strategy and Management](https://dev.to/beefedai/api-test-data-strategy-and-management-3bi0)
+- [Nancy: A Notion-Powered Job Intelligence Bot Built Out of Necessity](https://dev.to/juvet_manga/nancy-a-notion-powered-job-intelligence-bot-built-out-of-necessity-2hhe)
 <!-- BLOG-POST-LIST:END -->
 
 
