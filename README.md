@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use ChatGPT for Code Review &lpar;with Prompts&rpar;](https://dev.to/rahulxsingh/how-to-use-chatgpt-for-code-review-with-prompts-3i5m)
-- [NanoClaw&#39;s Deterministic Security Layer](https://dev.to/ebenezer-isaac/nanoclaws-deterministic-security-layer-1gmg)
-- [A Beginner’s Guide to How GraphQL Requests Work](https://dev.to/vyshnavi_devi/a-beginners-guide-to-how-graphql-requests-work-4ejj)
-- [The 5 Agent Failure Modes Nobody Warns You About Until It&#39;s Too Late](https://dev.to/the_bookmaster/the-5-agent-failure-modes-nobody-warns-you-about-until-its-too-late-2584)
+- [Consistency](https://dev.to/anjana_rk_fbdea7abbdf13/consistency-596k)
+- [Claude Opus 4.6 vs. GPT 5.4](https://dev.to/ipazooki/claude-opus-46-vs-gpt-54-4bcc)
+- [CA 04 - Two Sum &amp; Sorted Two Sum](https://dev.to/suruthika_635f93a26b450ac/ca-04-two-sum-sorted-two-sum-22hk)
+- [bQuery.js 🥂 The jQuery for the Modern Web Platform](https://dev.to/josunlp/bqueryjs-the-jquery-for-the-modern-web-platform-10o7)
 <!-- BLOG-POST-LIST:END -->
 
 
