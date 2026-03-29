@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Provisioning a Kubernetes Cluster on OpenStack Using Cluster API &lpar;CAPI&rpar;](https://dev.to/sri_saivenkatakasisubb/provisioning-a-kubernetes-cluster-on-openstack-using-cluster-api-capi-2fn8)
-- [Local LLM Inference in 2026: The Complete Guide to Tools, Hardware &amp; Open-Weight Models](https://dev.to/starmorph/local-llm-inference-in-2026-the-complete-guide-to-tools-hardware-open-weight-models-2iho)
-- [Mermaid.js Tutorial: The Complete Guide to Diagrams as Code &lpar;2026&rpar;](https://dev.to/starmorph/mermaidjs-tutorial-the-complete-guide-to-diagrams-as-code-2026-fhc)
-- [Provide private storage for internal company documents](https://dev.to/faynessa/provide-private-storage-for-internal-company-documents-m04)
+- [Design too much, build just enough](https://dev.to/munalouisnwugo/design-too-much-build-just-enough-3ff7)
+- [Effect-TS Has a Free API: TypeScript&#39;s Missing Standard Library for Production Apps](https://dev.to/0012303/effect-ts-has-a-free-api-typescripts-missing-standard-library-for-production-apps-45k)
+- [ENGRAM — AI-Powered Engineering Intelligence That Lives in Your Notion](https://dev.to/manojpisini/engram-ai-powered-engineering-intelligence-that-lives-in-your-notion-2ei2)
+- [Imposter Syndrome in the Tech Space](https://dev.to/cr4n31/imposter-syndrome-in-the-tech-space-4kn)
 <!-- BLOG-POST-LIST:END -->
 
 
