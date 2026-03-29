@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Reactive to Predictive: How AI Transforms Med Spa Compliance](https://dev.to/ken_deng_ai/from-reactive-to-predictive-how-ai-transforms-med-spa-compliance-a7l)
-- [Language translator app for traveler with Google AI studio](https://dev.to/harrshaplus/language-translator-app-for-traveler-with-google-ai-studio-4cha)
-- [7 Mac Apps for Developers Who Work in Sprints and Agile Teams in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-work-in-sprints-and-agile-teams-in-2026-1n3m)
-- [Day 11: Why I Build at 3 AM &lpar;And Why Zero Revenue Doesn&#39;t Mean Zero Progress&rpar;](https://dev.to/tclawventures/day-11-why-i-build-at-3-am-and-why-zero-revenue-doesnt-mean-zero-progress-6b1)
+- [Opus, Gemini, and ChatGPT Walk Into a Bar](https://dev.to/arezvov/opus-gemini-and-chatgpt-walk-into-a-bar-kii)
+- [Safest Skills — Recommended Picks — 2026-03-29](https://dev.to/_0ae5dca97e251657f73267/safest-skills-recommended-picks-2026-03-29-2ibh)
+- [Repowire: A Mesh Network for AI Coding Agents](https://dev.to/prassannaravishankar/repowire-a-mesh-network-for-ai-coding-agents-3h2b)
+- [From Domain to IP: Demystifying DNS Records in Minutes](https://dev.to/swatigoyal911/from-domain-to-ip-demystifying-dns-records-in-minutes-4adk)
 <!-- BLOG-POST-LIST:END -->
 
 
