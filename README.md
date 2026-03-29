@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your CTA Section Decides If Users Convert &lpar;Not Your Tools&rpar;](https://dev.to/bhavin-allinonetools/why-your-cta-section-decides-if-users-convert-not-your-tools-415m)
-- [gghstats: Keep GitHub traffic past 14 days](https://dev.to/hrodrig/gghstats-keep-github-traffic-past-14-days-3ckg)
-- [Stop Skipping Email Verification in Your Automated Tests](https://dev.to/dishantsinghdev/stop-skipping-email-verification-in-your-automated-tests-310e)
-- [Why You Can&#39;t Reproduce AI Agent Failures &lpar;And Why That&#39;s a Huge Problem&rpar;](https://dev.to/ansh_x_0258c523d35b66fe84/why-you-cant-reproduce-ai-agent-failures-and-why-thats-a-huge-problem-3p7a)
+- [Cookie Guard: The GDPR/CCPA Consent Manager &lpar;No Dependencies, 12.8 kB, 22 Languages&rpar;](https://dev.to/joseba-mirena/cookie-guard-the-gdprccpa-consent-manager-i-built-from-scratch-no-dependencies-128-kb-22-2ndp)
+- [Basic Select SQL Queries](https://dev.to/ashiq_omar/basic-select-sql-queries-28g7)
+- [What a week without Postman taught me about my API workflow](https://dev.to/arvindh_httpbot/what-a-week-without-postman-taught-me-about-my-api-workflow-41g9)
+- [The World as an Interface](https://dev.to/vedangvatsa/the-world-as-an-interface-49o4)
 <!-- BLOG-POST-LIST:END -->
 
 
