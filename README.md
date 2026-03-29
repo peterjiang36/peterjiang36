@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave Claude Code Access to My Prod Database with MCP](https://dev.to/spencerpauly/i-gave-my-ai-access-to-my-prod-database-with-mcp-15c0)
-- [CDKTF Has Free Terraform in TypeScript — Here&#39;s How to Ditch HCL Forever](https://dev.to/0012303/cdktf-has-free-terraform-in-typescript-heres-how-to-ditch-hcl-forever-43pf)
-- [Ollama &amp; LangChain.js: Build Local, Powerful AI Apps](https://dev.to/programmingcentral/ollama-langchainjs-build-local-powerful-ai-apps-3if0)
-- [How to Integrate Codacy with Bitbucket Pipelines](https://dev.to/rahulxsingh/how-to-integrate-codacy-with-bitbucket-pipelines-449p)
+- [Trace AI: I Pointed a Camera at a Whiteboard. Notion Built the Entire System Design Doc.](https://dev.to/_boweii/trace-ai-i-pointed-a-camera-at-a-whiteboard-notion-built-the-entire-system-design-doc-37m6)
+- [Give Your AI Agent a Mock Server: mockd as an MCP Tool](https://dev.to/mockd/give-your-ai-agent-a-mock-server-mockd-as-an-mcp-tool-844)
+- [NoteRunway: Because Your Notion Workspace Deserves an Elite Crew](https://dev.to/georgekobaidze/noterunway-because-your-notion-workspace-deserves-an-elite-crew-53bk)
+- [I built a payment processing platform in Mexico with FastAPI — here&#39;s what I learned after 10+ production deployments](https://dev.to/jagoraxr/i-built-a-payment-processing-platform-in-mexico-with-fastapi-heres-what-i-learned-after-10-mc0)
 <!-- BLOG-POST-LIST:END -->
 
 
