@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways to Learn Vim in 2026: A Complete Beginner&#39;s Guide](https://dev.to/azborovskyi/ways-to-learn-vim-in-2026-a-complete-beginners-guide-ma)
-- [I spent 8 weeks building a Nash Equilibrium calculator from scratch in Python](https://dev.to/krira0708/i-spent-8-weeks-building-a-nash-equilibrium-calculator-from-scratch-in-python-5g98)
-- [Chapter 4. How to Use — Sub Agents](https://dev.to/ucjung/chapter-4-how-to-use-sub-agents-4gao)
-- [Cómo crear un sistema de pago por minuto en PHP &lpar;caso real aplicado a streaming&rpar; con wordpress](https://dev.to/alvaro_ayalac_1d7c2734b4/como-crear-un-sistema-de-pago-por-minuto-en-php-caso-real-aplicado-a-streaming-con-wordpress-2lg1)
+- [Mastering the Orchestration Pattern in React: Taming Complex Component Logic](https://dev.to/maximlogunov/mastering-the-orchestration-pattern-in-react-taming-complex-component-logic-5c9i)
+- [WCAG 2.2: What Changed, Why It Matters, and How to Implement It](https://dev.to/thoithoi_shougrakpam_6753/wcag-22-what-changed-why-it-matters-and-how-to-implement-it-98e)
+- [Rebooting a Production VM on Oracle Cloud: A Reference Guide](https://dev.to/smyekh/rebooting-a-production-vm-on-oracle-cloud-a-reference-guide-3l8)
+- [GenAIOps on AWS: End-to-End Observability Stack - Part 3](https://dev.to/shoaibalimir/genaiops-on-aws-end-to-end-observability-stack-part-3-3d12)
 <!-- BLOG-POST-LIST:END -->
 
 
