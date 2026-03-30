@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 I Built a 3D Animated Portfolio Website in Under 1 Hour Using Gemini](https://dev.to/sripadh_sujith_1487e8db18/i-built-a-3d-animated-portfolio-website-in-under-1-hour-using-gemini-4n82)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-k99)
-- [CryptoWave — SEO &amp; Polish Update](https://dev.to/a31139027commits/cryptowave-seo-polish-update-1p5e)
-- [Recursion](https://dev.to/sasirekaarumugam/recursion-2jg5)
+- [Why You Need An Intention For Your Coding Career](https://dev.to/canro91/why-you-need-an-intention-for-your-coding-career-2fb8)
+- [MiniStack v1.1.2 — Cognito, EC2, EMR, 656 Tests, and Zero Docker Leaks](https://dev.to/nahuel990/ministack-v110-cognito-ec2-emr-656-tests-and-zero-docker-leaks-2k3b)
+- [Foggy Odoo Bridge: Governed MCP Access to Odoo Data with Permission Preservation](https://dev.to/foggy-projects/foggy-odoo-bridge-governed-mcp-access-to-odoo-data-with-permission-preservation-3bd)
+- [The Ultimate Guide to Building Enterprise Micro-Frontends with Angular 21 &amp; Native Federation](https://dev.to/mhmoud_ashour_5547515422e/the-ultimate-guide-to-building-enterprise-micro-frontends-with-angular-21-native-federation-5b8b)
 <!-- BLOG-POST-LIST:END -->
 
 
