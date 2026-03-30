@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MariaDB vs PostgreSQL — 7 differences that matter in 2026](https://dev.to/finny_collins/mariadb-vs-postgresql-7-differences-that-matter-in-2026-3eie)
-- [Why I Stopped Using WordPress and Switched Everything to Next.js](https://dev.to/impeccify/why-i-stopped-using-wordpress-and-switched-everything-to-nextjs-26ip)
-- [Tap: Forge Once, Run Forever — Why AI Browser Automation Needs a Protocol](https://dev.to/leonting1010/tap-forge-once-run-forever-why-ai-browser-automation-needs-a-protocol-3cee)
-- [5 Things I Learned Building 100+ Web Pages with Next.js App Router](https://dev.to/impeccify/5-things-i-learned-building-100-web-pages-with-nextjs-app-router-52d6)
+- [AWS-native incident investigation PoC](https://dev.to/oded_keren/aws-native-incident-investigation-poc-6aj)
+- [One query is never enough: why top RAG systems search three times](https://dev.to/wiscale-fr/one-query-is-never-enough-why-top-rag-systems-search-three-times-55hj)
+- [We Trained a Skin analysis AI Model on Millions of Real Photos — What Actually Works in Production](https://dev.to/malkiel/we-trained-a-skin-analysis-ai-model-on-millions-of-real-photos-what-actually-works-in-production-4a80)
+- [I Built Two Personal Apps in One Evening — A Food Journal and a Tower Defense Game](https://dev.to/mindon/i-built-two-personal-apps-in-one-evening-a-food-journal-and-a-tower-defense-game-1ck0)
 <!-- BLOG-POST-LIST:END -->
 
 
