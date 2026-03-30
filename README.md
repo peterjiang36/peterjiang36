@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Swingbench in a Container: The Podman Way](https://dev.to/project42/swingbench-in-a-container-the-podman-way-4fe3)
-- [How Generative AI Service Providers Design and Deliver Enterprise Solutions](https://dev.to/riya_sree/how-generative-ai-service-providers-design-and-deliver-enterprise-solutions-4a74)
-- [Awesome LLM Apps: Agents &amp; RAG Showcase](https://dev.to/stelixx-insider/awesome-llm-apps-agents-rag-showcase-34om)
-- [AI Risks in Health and Finance: When Errors Matter](https://dev.to/robert_cizmas/ai-risks-in-health-and-finance-when-errors-matter-1gaj)
+- [MariaDB vs PostgreSQL — 7 differences that matter in 2026](https://dev.to/finny_collins/mariadb-vs-postgresql-7-differences-that-matter-in-2026-3eie)
+- [Why I Stopped Using WordPress and Switched Everything to Next.js](https://dev.to/impeccify/why-i-stopped-using-wordpress-and-switched-everything-to-nextjs-26ip)
+- [Tap: Forge Once, Run Forever — Why AI Browser Automation Needs a Protocol](https://dev.to/leonting1010/tap-forge-once-run-forever-why-ai-browser-automation-needs-a-protocol-3cee)
+- [5 Things I Learned Building 100+ Web Pages with Next.js App Router](https://dev.to/impeccify/5-things-i-learned-building-100-web-pages-with-nextjs-app-router-52d6)
 <!-- BLOG-POST-LIST:END -->
 
 
