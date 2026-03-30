@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Firecracker VM Orchestrator in Go — Part 1: Provider Interfaces](https://dev.to/strandnerd/building-a-firecracker-vm-orchestrator-in-go-part-1-provider-interfaces-11io)
-- [SafeBrowse: A Trust Layer for AI Browser Agents &lpar;Prevent Prompt Injection &amp; Data Exfiltration&rpar;](https://dev.to/rob_kang_7e54350f8af26743/safebrowse-a-trust-layer-for-ai-browser-agents-prevent-prompt-injection-data-exfiltration-3i3b)
-- [How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle](https://dev.to/paulbabatuyi/how-to-build-a-bank-ledger-in-golang-with-postgresql-using-the-double-entry-accounting-principle-2npi)
-- [Day 24: Agentic AI in DevOps &amp; MLOps ⚙️🚀](https://dev.to/swatigoyal911/day-24-agentic-ai-in-devops-mlops-1bf9)
+- [O que aprendi usando Lovable por 8 meses para criar sites bonitos, padronizados e fáceis de manter](https://dev.to/raphmoraes/o-que-aprendi-usando-lovable-por-8-meses-para-criar-sites-bonitos-padronizados-e-faceis-de-manter-4m1)
+- [Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation](https://dev.to/paperium/mamba-unet-unet-like-pure-visual-mamba-for-medical-image-segmentation-g83)
+- [Quantify Your Life: Building a High-Performance Health Data Lake with InfluxDB, Grafana, and Python 🚀](https://dev.to/wellallytech/quantify-your-life-building-a-high-performance-health-data-lake-with-influxdb-grafana-and-python-40c1)
+- [Why Enterprise Should Embrace Open Source](https://dev.to/katkeilty/why-enterprise-should-embrace-open-source-c93)
 <!-- BLOG-POST-LIST:END -->
 
 
