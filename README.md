@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [O que aprendi usando Lovable por 8 meses para criar sites bonitos, padronizados e fáceis de manter](https://dev.to/raphmoraes/o-que-aprendi-usando-lovable-por-8-meses-para-criar-sites-bonitos-padronizados-e-faceis-de-manter-4m1)
-- [Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation](https://dev.to/paperium/mamba-unet-unet-like-pure-visual-mamba-for-medical-image-segmentation-g83)
-- [Quantify Your Life: Building a High-Performance Health Data Lake with InfluxDB, Grafana, and Python 🚀](https://dev.to/wellallytech/quantify-your-life-building-a-high-performance-health-data-lake-with-influxdb-grafana-and-python-40c1)
-- [Why Enterprise Should Embrace Open Source](https://dev.to/katkeilty/why-enterprise-should-embrace-open-source-c93)
+- [🚀 I Built a 3D Animated Portfolio Website in Under 1 Hour Using Gemini](https://dev.to/sripadh_sujith_1487e8db18/i-built-a-3d-animated-portfolio-website-in-under-1-hour-using-gemini-4n82)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-k99)
+- [CryptoWave — SEO &amp; Polish Update](https://dev.to/a31139027commits/cryptowave-seo-polish-update-1p5e)
+- [Recursion](https://dev.to/sasirekaarumugam/recursion-2jg5)
 <!-- BLOG-POST-LIST:END -->
 
 
