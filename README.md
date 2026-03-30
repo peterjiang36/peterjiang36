@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Gantt Chart Component with Zero Dependencies](https://dev.to/rgab/building-a-gantt-chart-component-with-zero-dependencies-2d65)
-- [[Boost]](https://dev.to/joachimzeelmaekers/-16jg)
-- [K501 - Human–Machine Resonance — Beyond Control, Toward Alignment](https://dev.to/k501is/human-machine-resonance-beyond-control-toward-alignment-1j78)
-- [&quot;Why Your Paper Trading Backtests Are Lying to You &lpar;And How to Fix It&rpar;&quot;](https://dev.to/qcautomation/why-your-paper-trading-backtests-are-lying-to-you-and-how-to-fix-it-47b)
+- [Ways to Learn Vim in 2026: A Complete Beginner&#39;s Guide](https://dev.to/azborovskyi/ways-to-learn-vim-in-2026-a-complete-beginners-guide-ma)
+- [I spent 8 weeks building a Nash Equilibrium calculator from scratch in Python](https://dev.to/krira0708/i-spent-8-weeks-building-a-nash-equilibrium-calculator-from-scratch-in-python-5g98)
+- [Chapter 4. How to Use — Sub Agents](https://dev.to/ucjung/chapter-4-how-to-use-sub-agents-4gao)
+- [Cómo crear un sistema de pago por minuto en PHP &lpar;caso real aplicado a streaming&rpar; con wordpress](https://dev.to/alvaro_ayalac_1d7c2734b4/como-crear-un-sistema-de-pago-por-minuto-en-php-caso-real-aplicado-a-streaming-con-wordpress-2lg1)
 <!-- BLOG-POST-LIST:END -->
 
 
