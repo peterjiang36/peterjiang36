@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Context Behind the Context: How Flutter Navigation Really Works](https://dev.to/thanasistraitsis/the-context-behind-the-context-how-flutter-navigation-really-works-4j4)
-- [Agents Don&#39;t Just Do Unauthorized Things. They Cause Humans to Do Unauthorized Things.](https://dev.to/dannwaneri/agents-dont-just-do-unauthorized-things-they-cause-humans-to-do-unauthorized-things-51j4)
-- [The Invisible Developer Problem: Why Good Coders Still Get Ignored](https://dev.to/__be2942592/the-invisible-developer-problem-why-good-coders-still-get-ignored-4n3e)
-- [LayoutSans: Full 2D layout engine built on top of Pretext &lpar;flex, grid, magazine — zero DOM&rpar;](https://dev.to/baselashraf81/layoutsans-full-2d-layout-engine-built-on-top-of-pretext-flex-grid-magazine-zero-dom-842)
+- [Building a Gantt Chart Component with Zero Dependencies](https://dev.to/rgab/building-a-gantt-chart-component-with-zero-dependencies-2d65)
+- [[Boost]](https://dev.to/joachimzeelmaekers/-16jg)
+- [K501 - Human–Machine Resonance — Beyond Control, Toward Alignment](https://dev.to/k501is/human-machine-resonance-beyond-control-toward-alignment-1j78)
+- [&quot;Why Your Paper Trading Backtests Are Lying to You &lpar;And How to Fix It&rpar;&quot;](https://dev.to/qcautomation/why-your-paper-trading-backtests-are-lying-to-you-and-how-to-fix-it-47b)
 <!-- BLOG-POST-LIST:END -->
 
 
