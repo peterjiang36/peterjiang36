@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Singularity Is Nearer: What Ray Kurzweil&#39;s Six Epochs Gets Right About Our Future](https://dev.to/brunohsouza/the-singularity-is-nearer-what-ray-kurzweils-six-epochs-gets-right-about-our-future-1pph)
-- [Artemis: How NASA&#39;s Return to the Moon Is Redefining Space Exploration in 2026](https://dev.to/walid_azrour_0813f6b60398/artemis-how-nasas-return-to-the-moon-is-redefining-space-exploration-in-2026-3ffc)
-- [🖥️ Weekend Project: A CLI to Manage Multi-Monitor Layouts on Windows](https://dev.to/osirisfrik/weekend-project-a-cli-to-manage-multi-monitor-layouts-on-windows-5a7d)
-- [Crow Docs Evolving: Stability, UX, and a New Community Channel 🚀](https://dev.to/zengkkj/crow-docs-evolving-stability-ux-and-a-new-community-channel-4omb)
+- [PDFs with Graphs? Just Ask the Agent: Cross-Analyzing Unstructured and Structured Data on Snowflake Cortex Agent](https://dev.to/sagara/pdfs-with-graphs-just-ask-the-agent-cross-analyzing-unstructured-and-structured-data-on-snowflake-1ld4)
+- [The Seven Deadly Sins of MCP: Operational Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-operational-sins-1892)
+- [Nine Ways Backstage Breaks Before Your Developer Portal Works](https://dev.to/sodiqjimoh/nine-ways-backstage-breaks-before-your-developer-portal-works-4eo1)
+- [5,699 Tests, Zero Stubs: How We UAT-Verified a 25-Agent AI Marketing Platform](https://dev.to/tmdlrg/5699-tests-zero-stubs-how-we-uat-verified-a-25-agent-ai-marketing-platform-3f6)
 <!-- BLOG-POST-LIST:END -->
 
 
