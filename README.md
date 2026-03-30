@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw AI Agent Review: Does It Actually Cut Cognitive Load for Developers?](https://dev.to/marcus-reid-psych/openclaw-ai-agent-review-does-it-actually-cut-cognitive-load-for-developers-hdk)
-- [The Compound Interest of AI Context: Why Your Knowledge Layer Will Be Your Most Valuable Business Asset](https://dev.to/william_welsh_6c00df23992/the-compound-interest-of-ai-context-why-your-knowledge-layer-will-be-your-most-valuable-business-2160)
-- [Beyond the Hype: Building a Practical AI Memory System with Vector Databases](https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-17oc)
-- [I Replaced 3 Database Tools With dbridge.dev — Here&#39;s the Honest Trade-off](https://dev.to/shoaib_ihsan_23612829cc82/i-replaced-3-database-tools-with-dbridgedev-heres-the-honest-trade-off-39nk)
+- [AI-Powered Media Server Management with OpenClaw and Tsarr](https://dev.to/robbeverhelst/ai-powered-media-server-management-with-openclaw-and-tsarr-494h)
+- [SPL practice: solve space-time collision problem of trillion-scale calculations in only three minutes](https://dev.to/esproc_spl/spl-practice-solve-space-time-collision-problem-of-trillion-scale-calculations-in-only-three-1ko5)
+- [How to Build a Multi-Chain Swap Interface](https://dev.to/moonsoon69/how-to-build-a-multi-chain-swap-interface-5bjm)
+- [5 Top Token Swap Solutions for Telegram Bots in 2026](https://dev.to/moonsoon69/5-top-token-swap-solutions-for-telegram-bots-in-2026-kdn)
 <!-- BLOG-POST-LIST:END -->
 
 
