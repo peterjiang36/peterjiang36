@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS-native incident investigation PoC](https://dev.to/oded_keren/aws-native-incident-investigation-poc-6aj)
-- [One query is never enough: why top RAG systems search three times](https://dev.to/wiscale-fr/one-query-is-never-enough-why-top-rag-systems-search-three-times-55hj)
-- [We Trained a Skin analysis AI Model on Millions of Real Photos — What Actually Works in Production](https://dev.to/malkiel/we-trained-a-skin-analysis-ai-model-on-millions-of-real-photos-what-actually-works-in-production-4a80)
-- [I Built Two Personal Apps in One Evening — A Food Journal and a Tower Defense Game](https://dev.to/mindon/i-built-two-personal-apps-in-one-evening-a-food-journal-and-a-tower-defense-game-1ck0)
+- [The Context Behind the Context: How Flutter Navigation Really Works](https://dev.to/thanasistraitsis/the-context-behind-the-context-how-flutter-navigation-really-works-4j4)
+- [Agents Don&#39;t Just Do Unauthorized Things. They Cause Humans to Do Unauthorized Things.](https://dev.to/dannwaneri/agents-dont-just-do-unauthorized-things-they-cause-humans-to-do-unauthorized-things-51j4)
+- [The Invisible Developer Problem: Why Good Coders Still Get Ignored](https://dev.to/__be2942592/the-invisible-developer-problem-why-good-coders-still-get-ignored-4n3e)
+- [LayoutSans: Full 2D layout engine built on top of Pretext &lpar;flex, grid, magazine — zero DOM&rpar;](https://dev.to/baselashraf81/layoutsans-full-2d-layout-engine-built-on-top-of-pretext-flex-grid-magazine-zero-dom-842)
 <!-- BLOG-POST-LIST:END -->
 
 
