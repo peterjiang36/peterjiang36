@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Centralized Documentation Needed for Oxlint and Oxfmt Compatibility with Frameworks and File Types](https://dev.to/pavkode/centralized-documentation-needed-for-oxlint-and-oxfmt-compatibility-with-frameworks-and-file-types-56d6)
-- [The Pain of Neglecting Maintainability in Code](https://dev.to/chris_lee_5e58cce05f5d01d/the-pain-of-neglecting-maintainability-in-code-ll3)
-- [Three Threads, One Terminal: Concurrency in Rust with Channels and Atomics](https://dev.to/mellorb/three-threads-one-terminal-concurrency-in-rust-with-channels-and-atomics-12i1)
-- [TurboQuant RaBitQ: How Big Labs Rebrand Iteration](https://dev.to/simon_paxton/turboquant-rabitq-how-big-labs-rebrand-iteration-5fa7)
+- [React Native vs Flutter vs Expo vs Lynx 2026: Which to Choose for Your App?](https://dev.to/krunal_groovy/react-native-vs-flutter-vs-expo-vs-lynx-2026-which-to-choose-for-your-app-30h6)
+- [6 Things About The Terminal That Confuse Everyone &lpar;And Nobody Warns You About&rpar;](https://dev.to/adrianjiga/6-things-about-the-terminal-that-confuse-everyone-and-nobody-warns-you-about-4kd2)
+- [Zero-Trust Architecture: The Security Model Every Developer Needs to Understand in 2026](https://dev.to/walid_azrour_0813f6b60398/zero-trust-architecture-the-security-model-every-developer-needs-to-understand-in-2026-4c03)
+- [The Ultimate Technical SEO Checklist for Developers &lpar;2026 Edition&rpar;](https://dev.to/monsur/the-ultimate-technical-seo-checklist-for-developers-2026-edition-3cmd)
 <!-- BLOG-POST-LIST:END -->
 
 
