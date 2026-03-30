@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw in Production: Real Costs, Security Setup, and What a Month of Daily Use Actually Looks Like](https://dev.to/virtualunc/openclaw-in-production-real-costs-security-setup-and-what-a-month-of-daily-use-actually-looks-10dg)
-- [I got rate-limited scraping 100 pages. Here&#39;s what actually worked](https://dev.to/nicodev__/i-got-rate-limited-scraping-100-pages-heres-what-actually-worked-4p70)
-- [🎨 Dynamic Texture Loading in NervForge: Async Promises in C++/WASM](https://dev.to/the_lone_engineer/dynamic-texture-loading-in-nervforge-async-promises-in-cwasm-4c15)
-- [QA in chaos. How Do You Test Anyway?](https://dev.to/bukinator/qa-in-chaos-how-do-you-test-anyway-2dpm)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/lorraine_njagi_k/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-4klb)
+- [Codacy vs SonarCloud: Cloud Code Quality Compared](https://dev.to/rahulxsingh/codacy-vs-sonarcloud-cloud-code-quality-compared-4pm5)
+- [Google AI Studio and Claude Code in 2026: Guide](https://dev.to/danielflugger/google-ai-studio-and-claude-code-in-2026-guide-22f)
+- [The Irony of Language Models That Don&#39;t Speak Your Language](https://dev.to/tverney_77/the-irony-of-language-models-that-dont-speak-your-language-5b5)
 <!-- BLOG-POST-LIST:END -->
 
 
