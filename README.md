@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My AI Agent Memory of Its Past Failures. It Didn&#39;t Just Avoid Mistakes -- It Used Them as Content.](https://dev.to/agentkit/i-gave-my-ai-agent-memory-of-its-past-failures-it-didnt-just-avoid-mistakes-it-used-them-as-51f0)
-- [Here’s how I would learn AI Agents as a total beginner](https://dev.to/shittu_olumide_/heres-how-i-would-learn-ai-agents-as-a-total-beginner-16k1)
-- [When vector search isn&#39;t enough: hybrid graph+vector queries in VelesQL](https://dev.to/wiscale-fr/when-vector-search-isnt-enough-hybrid-graphvector-queries-in-velesql-48g9)
-- [LinkedIn Uses 2.4 GB of RAM Across Two Tabs. We All Just Shrugged.](https://dev.to/adioof/linkedin-uses-24-gb-of-ram-across-two-tabs-we-all-just-shrugged-chi)
+- [Swingbench in a Container: The Podman Way](https://dev.to/project42/swingbench-in-a-container-the-podman-way-4fe3)
+- [How Generative AI Service Providers Design and Deliver Enterprise Solutions](https://dev.to/riya_sree/how-generative-ai-service-providers-design-and-deliver-enterprise-solutions-4a74)
+- [Awesome LLM Apps: Agents &amp; RAG Showcase](https://dev.to/stelixx-insider/awesome-llm-apps-agents-rag-showcase-34om)
+- [AI Risks in Health and Finance: When Errors Matter](https://dev.to/robert_cizmas/ai-risks-in-health-and-finance-when-errors-matter-1gaj)
 <!-- BLOG-POST-LIST:END -->
 
 
