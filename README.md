@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Orchestration Pattern in React: Taming Complex Component Logic](https://dev.to/maximlogunov/mastering-the-orchestration-pattern-in-react-taming-complex-component-logic-5c9i)
-- [WCAG 2.2: What Changed, Why It Matters, and How to Implement It](https://dev.to/thoithoi_shougrakpam_6753/wcag-22-what-changed-why-it-matters-and-how-to-implement-it-98e)
-- [Rebooting a Production VM on Oracle Cloud: A Reference Guide](https://dev.to/smyekh/rebooting-a-production-vm-on-oracle-cloud-a-reference-guide-3l8)
-- [GenAIOps on AWS: End-to-End Observability Stack - Part 3](https://dev.to/shoaibalimir/genaiops-on-aws-end-to-end-observability-stack-part-3-3d12)
+- [Centralized Documentation Needed for Oxlint and Oxfmt Compatibility with Frameworks and File Types](https://dev.to/pavkode/centralized-documentation-needed-for-oxlint-and-oxfmt-compatibility-with-frameworks-and-file-types-56d6)
+- [The Pain of Neglecting Maintainability in Code](https://dev.to/chris_lee_5e58cce05f5d01d/the-pain-of-neglecting-maintainability-in-code-ll3)
+- [Three Threads, One Terminal: Concurrency in Rust with Channels and Atomics](https://dev.to/mellorb/three-threads-one-terminal-concurrency-in-rust-with-channels-and-atomics-12i1)
+- [TurboQuant RaBitQ: How Big Labs Rebrand Iteration](https://dev.to/simon_paxton/turboquant-rabitq-how-big-labs-rebrand-iteration-5fa7)
 <!-- BLOG-POST-LIST:END -->
 
 
