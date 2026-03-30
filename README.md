@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Hire Generative AI Developers](https://dev.to/aartijangid23/how-to-hire-generative-ai-developers-neh)
-- [Return to Office Is Not a Productivity Strategy: What Actually Makes Developers Effective in 2026](https://dev.to/alexcloudstar/return-to-office-is-not-a-productivity-strategy-what-actually-makes-developers-effective-in-2026-4hbo)
-- [You&#39;re Looking at the Wrong Pretext Demo](https://dev.to/denodell/youre-looking-at-the-wrong-pretext-demo-4960)
-- [My Learning Journey as a Developer](https://dev.to/olayemi_elsie/my-learning-journey-as-a-developer-nhn)
+- [I Gave My AI Agent Memory of Its Past Failures. It Didn&#39;t Just Avoid Mistakes -- It Used Them as Content.](https://dev.to/agentkit/i-gave-my-ai-agent-memory-of-its-past-failures-it-didnt-just-avoid-mistakes-it-used-them-as-51f0)
+- [Here’s how I would learn AI Agents as a total beginner](https://dev.to/shittu_olumide_/heres-how-i-would-learn-ai-agents-as-a-total-beginner-16k1)
+- [When vector search isn&#39;t enough: hybrid graph+vector queries in VelesQL](https://dev.to/wiscale-fr/when-vector-search-isnt-enough-hybrid-graphvector-queries-in-velesql-48g9)
+- [LinkedIn Uses 2.4 GB of RAM Across Two Tabs. We All Just Shrugged.](https://dev.to/adioof/linkedin-uses-24-gb-of-ram-across-two-tabs-we-all-just-shrugged-chi)
 <!-- BLOG-POST-LIST:END -->
 
 
