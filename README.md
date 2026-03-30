@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Vibe Coding&quot; Hall of Shame.
-
-A curated directory of documented incidents where AI-generated and vibe-coded software failed in production.
-
-https://crackr.dev/vibe-coding-failures](https://dev.to/ridaennasry/the-vibe-coding-hall-of-shame-a-curated-directory-of-documented-incidents-where-ai-generated-530c)
-- [PIRBGEN](https://dev.to/mersau1t/pirbgen-8h1)
-- [How to Set Up Codacy with Jenkins for Automated Review](https://dev.to/rahulxsingh/how-to-set-up-codacy-with-jenkins-for-automated-review-2j83)
-- [MCP Notion Project: BrowserResume](https://dev.to/thegamersbaxechief/mcp-notion-project-browserresume-1857)
+- [Building a Firecracker VM Orchestrator in Go — Part 1: Provider Interfaces](https://dev.to/strandnerd/building-a-firecracker-vm-orchestrator-in-go-part-1-provider-interfaces-11io)
+- [SafeBrowse: A Trust Layer for AI Browser Agents &lpar;Prevent Prompt Injection &amp; Data Exfiltration&rpar;](https://dev.to/rob_kang_7e54350f8af26743/safebrowse-a-trust-layer-for-ai-browser-agents-prevent-prompt-injection-data-exfiltration-3i3b)
+- [How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle](https://dev.to/paulbabatuyi/how-to-build-a-bank-ledger-in-golang-with-postgresql-using-the-double-entry-accounting-principle-2npi)
+- [Day 24: Agentic AI in DevOps &amp; MLOps ⚙️🚀](https://dev.to/swatigoyal911/day-24-agentic-ai-in-devops-mlops-1bf9)
 <!-- BLOG-POST-LIST:END -->
 
 
