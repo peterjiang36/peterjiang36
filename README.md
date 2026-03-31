@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PDFs with Graphs? Just Ask the Agent: Cross-Analyzing Unstructured and Structured Data on Snowflake Cortex Agent](https://dev.to/sagara/pdfs-with-graphs-just-ask-the-agent-cross-analyzing-unstructured-and-structured-data-on-snowflake-1ld4)
-- [The Seven Deadly Sins of MCP: Operational Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-operational-sins-1892)
-- [Nine Ways Backstage Breaks Before Your Developer Portal Works](https://dev.to/sodiqjimoh/nine-ways-backstage-breaks-before-your-developer-portal-works-4eo1)
-- [5,699 Tests, Zero Stubs: How We UAT-Verified a 25-Agent AI Marketing Platform](https://dev.to/tmdlrg/5699-tests-zero-stubs-how-we-uat-verified-a-25-agent-ai-marketing-platform-3f6)
+- [I Gave Gemini 3 My Worst Legacy Code — Here’s What Happened](https://dev.to/jubinsoni/i-gave-gemini-3-my-worst-legacy-code-heres-what-happened-5h68)
+- [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](https://dev.to/paperium/exploring-the-limits-of-chatgpt-for-query-or-aspect-based-text-summarization-1d46)
+- [RustDesk: Cómo crear una red de acceso remoto segura y privada](https://dev.to/oscar_ricardosncheguti/rustdesk-como-crear-una-red-de-acceso-remoto-segura-y-privada-50df)
+- [Measure Agent Quality and Safety with Azure AI Evaluation SDK and Azure AI Foundry](https://dev.to/cristofima/measure-agent-quality-and-safety-with-azure-ai-evaluation-sdk-and-azure-ai-foundry-gk9)
 <!-- BLOG-POST-LIST:END -->
 
 
