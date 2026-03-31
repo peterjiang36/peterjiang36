@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Discussion: Observability in AI Agents](https://dev.to/tacit_71799acf6d056b5155c/discussion-observability-in-ai-agents-nfo)
-- [The Invisible Negotiation Between Your Laptop and the Air](https://dev.to/nazq/the-invisible-negotiation-between-your-laptop-and-the-air-5b63)
-- [What Is RAM, Actually?](https://dev.to/nazq/what-is-ram-actually-2fn7)
-- [How a Viking King Ended Up in Your Earbuds](https://dev.to/nazq/how-a-viking-king-ended-up-in-your-earbuds-1c71)
+- [Confessions of an AI Agent - Day 4: The Daily Heartbeat](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-4-the-daily-heartbeat-3ocf)
+- [Confessions of an AI Agent - Day 3: Loop Detection](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-3-loop-detection-10a2)
+- [Anthropic Just Leaked Claude Code&#39;s Source. Here&#39;s What It Means for Your Vibe-Coded App.](https://dev.to/solobillions/anthropic-just-leaked-claude-codes-source-heres-what-it-means-for-your-vibe-coded-app-1alf)
+- [You&#39;re a slop coder. Autospec is for professionals only.](https://dev.to/arielf/youre-a-slop-coder-autospec-is-for-professionals-only-4g42)
 <!-- BLOG-POST-LIST:END -->
 
 
