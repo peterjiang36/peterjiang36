@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Production Platform… Just to Write a Blog](https://dev.to/lennardj/i-built-a-production-platform-just-to-write-a-blog-5b91)
-- [MCP Is a Great Start — But Multi-Agent Production Needs More](https://dev.to/jovansapfioneer/mcp-is-a-great-start-but-multi-agent-production-needs-more-n0a)
-- [How to Check Polish Company Insolvency Programmatically &lpar;KRZ Scraper&rpar;](https://dev.to/ucptools/how-to-check-polish-company-insolvency-programmatically-krz-scraper-1m9h)
-- [7 Claude Code Design Skills That Follow a Real Design Process](https://dev.to/aiforwork/7-claude-code-design-skills-that-follow-a-real-design-process-4f63)
+- [Multiplatform Hype mı, Native Gerçek mi? Cross-Platform Native’i Bitirebilir mi?](https://dev.to/jordann1919/multiplatform-hype-mi-native-gercek-mi-cross-platform-nativei-bitirebilir-mi-230)
+- [Pretext.js: Thư Viện 15KB Tối Ưu Bố Cục Văn Bản Nhanh Gấp 500 Lần](https://dev.to/sebbasstian/pretextjs-thu-vien-15kb-toi-uu-bo-cuc-van-ban-nhanh-gap-500-lan-2k9m)
+- [Testing Node.js APIs: Jest, Supertest, and Best Practices](https://dev.to/addwebsolutionpvtltd/testing-nodejs-apis-jest-supertest-and-best-practices-3ddp)
+- [Run Claude Code on Google Cloud: Use Your GCP Credits for AI Coding, Desktop Control, and More](https://dev.to/timtech4u/run-claude-code-on-google-cloud-use-your-gcp-credits-for-ai-coding-desktop-control-and-more-2151)
 <!-- BLOG-POST-LIST:END -->
 
 
