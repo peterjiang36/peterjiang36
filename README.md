@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ERC-8004 Trustless Agents: Onchain Reputation for AI](https://dev.to/walletguy/erc-8004-trustless-agents-onchain-reputation-for-ai-32h)
-- [Engineer&#39;s Guide to Surviving Global Cyber Compliance: Unpacking the OSPS Baseline](https://dev.to/mallagari_sri_datta/engineers-guide-to-surviving-global-cyber-compliance-unpacking-the-osps-baseline-1fa)
-- [Data Modeling in Power BI: Joins, Relationships, and Schemas](https://dev.to/grace_wambua/data-modeling-in-power-bi-joins-relationships-and-schemas-566m)
-- [Unlock Local AI: Generating Synthetic Data for Powerful Fine-Tuning](https://dev.to/programmingcentral/unlock-local-ai-generating-synthetic-data-for-powerful-fine-tuning-57n8)
+- [Object-Oriented Ruby for AI Developers](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-30jl)
+- [Ruby Patterns for AI Developers — Procs, Lambdas, Closures, Enumerable Magic](https://dev.to/agentq/ruby-patterns-for-ai-developers-procs-lambdas-closures-enumerable-magic-1hej)
+- [Cipher: My AI That&#39;s Actually Building Unreal Blueprints For Me](https://dev.to/rezzzdev/cipher-my-ai-thats-actually-building-unreal-blueprints-for-me-2o70)
+- [Getting Started with Claude Code: A Guide to Slash Commands and Tips](https://dev.to/debs_obrien/getting-started-with-claude-code-a-guide-to-slash-commands-and-tips-10n1)
 <!-- BLOG-POST-LIST:END -->
 
 
