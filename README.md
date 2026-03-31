@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build an Instagram-style &quot;Shot on Canon&quot; UI in Flutter in 5 minutes](https://dev.to/psyduck_shuffler/how-to-build-an-instagram-style-shot-on-canon-ui-in-flutter-in-5-minutes-jk0)
-- [Harness Engineering in Practice: How I Built Mine in 4-steps](https://dev.to/simba_ji/harness-engineering-in-practice-how-i-built-mine-in-4-steps-2763)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/melody_mulei/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-1mgm)
-- [End-to-end TLS for public-domain tunnels, without trusting the relay](https://dev.to/gosunuts/end-to-end-tls-for-public-domain-tunnels-without-trusting-the-relay-4452)
+- [I Built a Production Platform… Just to Write a Blog](https://dev.to/lennardj/i-built-a-production-platform-just-to-write-a-blog-5b91)
+- [MCP Is a Great Start — But Multi-Agent Production Needs More](https://dev.to/jovansapfioneer/mcp-is-a-great-start-but-multi-agent-production-needs-more-n0a)
+- [How to Check Polish Company Insolvency Programmatically &lpar;KRZ Scraper&rpar;](https://dev.to/ucptools/how-to-check-polish-company-insolvency-programmatically-krz-scraper-1m9h)
+- [7 Claude Code Design Skills That Follow a Real Design Process](https://dev.to/aiforwork/7-claude-code-design-skills-that-follow-a-real-design-process-4f63)
 <!-- BLOG-POST-LIST:END -->
 
 
