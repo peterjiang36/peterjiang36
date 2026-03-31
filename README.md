@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We scanned 3,000 healthcare repositories. Here&#39;s what we found in CDC, VA, NHS, and Google&#39;s code.](https://dev.to/nirvahana/we-scanned-3000-healthcare-repositories-heres-what-we-found-in-cdc-va-nhs-and-googles-code-44a8)
-- [How a Payment Problem Unexpectedly Changed My Career Path in Tech](https://dev.to/hadil/how-a-payment-problem-unexpectedly-changed-my-career-path-in-tech-1oon)
-- [What even is an AI Agent?… Isn’t it just an API Call?](https://dev.to/khushpanchal123/what-even-is-an-ai-agent-isnt-it-just-an-api-call-5e45)
-- [💾 GBase Database Backup and Recovery: A Practical Guide for Data Safety](https://dev.to/scale_b4260f8ecad7f02306d/gbase-database-backup-and-recovery-a-practical-guide-for-data-safety-2eha)
+- [Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity](https://dev.to/gavincettolo/bad-code-is-a-high-interest-loan-how-technical-debt-slowly-kills-team-velocity-lac)
+- [Weather MCP](https://dev.to/jonjam/weather-mcp-1idj)
+- [Right-Sizing vs. Auto-Scaling: Which Saves More on EKS?](https://dev.to/muskan_8abedcc7e12/right-sizing-vs-auto-scaling-which-saves-more-on-eks-3anf)
+- [I Spent a Week on VibeCode Arena. Here Is Everything I Did Not Expect.](https://dev.to/sukriti_singh/i-spent-a-week-on-vibecode-arena-here-is-everything-i-did-not-expect-9pp)
 <!-- BLOG-POST-LIST:END -->
 
 
