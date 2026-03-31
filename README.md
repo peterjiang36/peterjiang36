@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Privacy-First Offline PWA Expense Tracker](https://dev.to/pda-dp-shop/how-i-built-a-privacy-first-offline-pwa-expense-tracker-3kob)
-- [## The Invisible Bug That Broke My React Deployment &lpar;and What It Taught Me&rpar;](https://dev.to/mindmagic/-the-invisible-bug-that-broke-my-react-deployment-and-what-it-taught-me-53i4)
-- [Build a RAG Pipeline Inside Joomla for Intelligent Site Search](https://dev.to/albert_andrew_24878d43267/build-a-rag-pipeline-inside-joomla-for-intelligent-site-search-le)
-- [How I Built Secure Firebase Cloud Functions with Admin Permissions and Rate Limiting](https://dev.to/shakewithabhi/how-i-built-secure-firebase-cloud-functions-with-admin-permissions-and-rate-limiting-2p8)
+- [I mapped all 84 MITRE ATLAS techniques to AI agent detection rules — here&#39;s what I found](https://dev.to/akavlabs/i-mapped-all-84-mitre-atlas-techniques-to-ai-agent-detection-rules-heres-what-i-found-1o18)
+- [Claude Code source map leaks are a wake-up call — here&#39;s how to monitor agent vulnerabilities](https://dev.to/authora/claude-code-source-map-leaks-are-a-wake-up-call-heres-how-to-monitor-agent-vulnerabilities-2mll)
+- [Building a Circuit Breaker in Rust: From Zero to Production](https://dev.to/dylan_dumont_266378d98367/building-a-circuit-breaker-in-rust-from-zero-to-production-40bm)
+- [How I Actually Use AI While Coding](https://dev.to/utkuhanakar/how-i-actually-use-ai-while-coding-4obc)
 <!-- BLOG-POST-LIST:END -->
 
 
