@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do blockchains deform under agentic pressure?](https://dev.to/invarians/do-blockchains-deform-under-agentic-pressure-4od3)
-- [Why You Probably Don&#39;t Need a Full-Time CTO](https://dev.to/mdostal/why-you-probably-dont-need-a-full-time-cto-4k5l)
-- [PostgreSQL Connection Pooling with PgBouncer: A Complete Guide](https://dev.to/geekyfox90/postgresql-connection-pooling-with-pgbouncer-a-complete-guide-2fam)
-- [We Reverse-Engineered 12 Versions of Claude Code. Then It Leaked Its Own Source Code.](https://dev.to/kolkov/we-reverse-engineered-12-versions-of-claude-code-then-it-leaked-its-own-source-code-pij)
+- [Two-level concurrency in Node.js - worker threads and async pools for data integration pipelines](https://dev.to/volodymyr-koval/two-level-concurrency-in-nodejs-worker-threads-and-async-pools-for-data-integration-pipelines-52ac)
+- [🏦 Bridging Development and QA: My Journey from Code Design to Manual Testing Mastery](https://dev.to/enayet_rashid_bd/bridging-development-and-qa-my-journey-from-code-design-to-manual-testing-mastery-jnm)
+- [JOLT: A Complete Guide to JSON Transformation &lpar;Basics to Advanced&rpar;](https://dev.to/aquiles/jolt-a-complete-guide-to-json-transformation-from-basics-to-advanced-dai)
+- [CodeRabbit for Open Source: AI Code Reviews for OSS Projects](https://dev.to/rahulxsingh/coderabbit-for-open-source-ai-code-reviews-for-oss-projects-134i)
 <!-- BLOG-POST-LIST:END -->
 
 
