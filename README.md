@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 57 of #100DayOfCode — Understanding Server Actions vs API Routes &amp; MongoDB in Next.js](https://dev.to/m_saad_ahmad/day-57-of-100dayofcode-understanding-server-actions-vs-api-routes-mongodb-in-nextjs-am8)
-- [Claude Mythos Leak: Why Cybersec Pros + Tech Workers Should Be Nervous Right Now 😰](https://dev.to/dobbythedev/claude-mythos-leak-why-cybersec-pros-tech-workers-should-be-nervous-right-now-5aod)
-- [Will I lose my job because of GenAI?](https://dev.to/welcloud-io/will-i-lose-my-job-because-of-genai-3pfm)
-- [How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links](https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph)
+- [We scanned 3,000 healthcare repositories. Here&#39;s what we found in CDC, VA, NHS, and Google&#39;s code.](https://dev.to/nirvahana/we-scanned-3000-healthcare-repositories-heres-what-we-found-in-cdc-va-nhs-and-googles-code-44a8)
+- [How a Payment Problem Unexpectedly Changed My Career Path in Tech](https://dev.to/hadil/how-a-payment-problem-unexpectedly-changed-my-career-path-in-tech-1oon)
+- [What even is an AI Agent?… Isn’t it just an API Call?](https://dev.to/khushpanchal123/what-even-is-an-ai-agent-isnt-it-just-an-api-call-5e45)
+- [💾 GBase Database Backup and Recovery: A Practical Guide for Data Safety](https://dev.to/scale_b4260f8ecad7f02306d/gbase-database-backup-and-recovery-a-practical-guide-for-data-safety-2eha)
 <!-- BLOG-POST-LIST:END -->
 
 
