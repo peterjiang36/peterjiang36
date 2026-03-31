@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bad Code Is a High-Interest Loan: How Technical Debt Slowly Kills Team Velocity](https://dev.to/gavincettolo/bad-code-is-a-high-interest-loan-how-technical-debt-slowly-kills-team-velocity-lac)
-- [Weather MCP](https://dev.to/jonjam/weather-mcp-1idj)
-- [Right-Sizing vs. Auto-Scaling: Which Saves More on EKS?](https://dev.to/muskan_8abedcc7e12/right-sizing-vs-auto-scaling-which-saves-more-on-eks-3anf)
-- [I Spent a Week on VibeCode Arena. Here Is Everything I Did Not Expect.](https://dev.to/sukriti_singh/i-spent-a-week-on-vibecode-arena-here-is-everything-i-did-not-expect-9pp)
+- [How to build an Instagram-style &quot;Shot on Canon&quot; UI in Flutter in 5 minutes](https://dev.to/psyduck_shuffler/how-to-build-an-instagram-style-shot-on-canon-ui-in-flutter-in-5-minutes-jk0)
+- [Harness Engineering in Practice: How I Built Mine in 4-steps](https://dev.to/simba_ji/harness-engineering-in-practice-how-i-built-mine-in-4-steps-2763)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/melody_mulei/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-1mgm)
+- [End-to-end TLS for public-domain tunnels, without trusting the relay](https://dev.to/gosunuts/end-to-end-tls-for-public-domain-tunnels-without-trusting-the-relay-4452)
 <!-- BLOG-POST-LIST:END -->
 
 
