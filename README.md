@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave Gemini 3 My Worst Legacy Code — Here’s What Happened](https://dev.to/jubinsoni/i-gave-gemini-3-my-worst-legacy-code-heres-what-happened-5h68)
-- [Exploring the Limits of ChatGPT for Query or Aspect-based Text Summarization](https://dev.to/paperium/exploring-the-limits-of-chatgpt-for-query-or-aspect-based-text-summarization-1d46)
-- [RustDesk: Cómo crear una red de acceso remoto segura y privada](https://dev.to/oscar_ricardosncheguti/rustdesk-como-crear-una-red-de-acceso-remoto-segura-y-privada-50df)
-- [Measure Agent Quality and Safety with Azure AI Evaluation SDK and Azure AI Foundry](https://dev.to/cristofima/measure-agent-quality-and-safety-with-azure-ai-evaluation-sdk-and-azure-ai-foundry-gk9)
+- [Mutation Testing: The Missing Safety Net for AI-Generated Code](https://dev.to/rsri/mutation-testing-the-missing-safety-net-for-ai-generated-code-54kn)
+- [Automatically hide _assets folders in Obsidian &lpar;until you need them&rpar;](https://dev.to/ackvf/automatically-hide-assets-folders-in-obsidian-until-you-need-them-505i)
+- [Open Source, MIT License, Fork of RTK — The Full Story](https://dev.to/ji_ai/open-source-mit-license-fork-of-rtk-the-full-story-1pp0)
+- [Claude Mythos: What We Actually Know &lpar;and What We Don&#39;t&rpar;](https://dev.to/solomonneas/claude-mythos-what-we-actually-know-and-what-we-dont-32k5)
 <!-- BLOG-POST-LIST:END -->
 
 
