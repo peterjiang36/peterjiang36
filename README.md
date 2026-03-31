@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two-level concurrency in Node.js - worker threads and async pools for data integration pipelines](https://dev.to/volodymyr-koval/two-level-concurrency-in-nodejs-worker-threads-and-async-pools-for-data-integration-pipelines-52ac)
-- [🏦 Bridging Development and QA: My Journey from Code Design to Manual Testing Mastery](https://dev.to/enayet_rashid_bd/bridging-development-and-qa-my-journey-from-code-design-to-manual-testing-mastery-jnm)
-- [JOLT: A Complete Guide to JSON Transformation &lpar;Basics to Advanced&rpar;](https://dev.to/aquiles/jolt-a-complete-guide-to-json-transformation-from-basics-to-advanced-dai)
-- [CodeRabbit for Open Source: AI Code Reviews for OSS Projects](https://dev.to/rahulxsingh/coderabbit-for-open-source-ai-code-reviews-for-oss-projects-134i)
+- [Your AI Agents Are Processing Personal Data. GDPR Now Requires You to Prove It.](https://dev.to/waxell/your-ai-agents-are-processing-personal-data-gdpr-now-requires-you-to-prove-it-1ghd)
+- [Pyth Progress Report: Community Hackathon Updates 3.30](https://dev.to/spank2023/pyth-progress-report-community-hackathon-updates-330-42og)
+- [How do private resources in AWS Private Subnets still get updates from the internet](https://dev.to/ayomtuase/how-do-private-resources-in-aws-private-subnets-still-get-updates-from-the-internet-2hpe)
+- [Estimating the speed of the ISS using computer vision &lpar;Python + OpenCV&rpar;](https://dev.to/babbawaagen/estimating-the-speed-of-the-iss-using-computer-vision-python-opencv-422c)
 <!-- BLOG-POST-LIST:END -->
 
 
