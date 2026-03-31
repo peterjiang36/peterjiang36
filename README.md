@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A career &quot;plan&quot; sounds like a blueprint with every career scenario figured out in advance. Instead, think of a career intention.](https://dev.to/canro91/a-career-plan-sounds-like-a-blueprint-with-every-career-scenario-figured-out-in-advance-instead-47ck)
-- [Building a Rails Engine #15 -- ERB Views Meet Phlex Components](https://dev.to/seryllns_/building-a-rails-engine-15-erb-views-meet-phlex-components-bd9)
-- [Building a coding course generator in public #1: The problem with learning to code today](https://dev.to/javz/building-a-coding-course-generator-in-public-1-the-problem-with-learning-to-code-today-2pm7)
-- [I Built a Focus-Scoring Browser Using Camera AI, Claude, and MediaPipe](https://dev.to/_5718073ab6c53f3bac30/i-built-a-focus-scoring-browser-using-camera-ai-claude-and-mediapipe-3443)
+- [The Secret to Near 100% AWS Tagging Compliance? People Shouldn&#39;t Know You&#39;re Doing It.](https://dev.to/leewynne/the-secret-to-near-100-aws-tagging-compliance-people-shouldnt-know-youre-doing-it-l00)
+- [Implementing 3-Tier Moderation for Telegram Bots](https://dev.to/personymai/implementing-3-tier-moderation-for-telegram-bots-1ne4)
+- [Debugging PostgreSQL Query Plan Instability in Production](https://dev.to/sriramrajendran/debugging-postgresql-query-plan-instability-in-production-ncb)
+- [I analyzed 250,000 attacks on my Linux servers. Here&#39;s what I found.](https://dev.to/defensia/i-analyzed-250000-attacks-on-my-linux-servers-heres-what-i-found-20o8)
 <!-- BLOG-POST-LIST:END -->
 
 
