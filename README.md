@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multiplatform Hype mı, Native Gerçek mi? Cross-Platform Native’i Bitirebilir mi?](https://dev.to/jordann1919/multiplatform-hype-mi-native-gercek-mi-cross-platform-nativei-bitirebilir-mi-230)
-- [Pretext.js: Thư Viện 15KB Tối Ưu Bố Cục Văn Bản Nhanh Gấp 500 Lần](https://dev.to/sebbasstian/pretextjs-thu-vien-15kb-toi-uu-bo-cuc-van-ban-nhanh-gap-500-lan-2k9m)
-- [Testing Node.js APIs: Jest, Supertest, and Best Practices](https://dev.to/addwebsolutionpvtltd/testing-nodejs-apis-jest-supertest-and-best-practices-3ddp)
-- [Run Claude Code on Google Cloud: Use Your GCP Credits for AI Coding, Desktop Control, and More](https://dev.to/timtech4u/run-claude-code-on-google-cloud-use-your-gcp-credits-for-ai-coding-desktop-control-and-more-2151)
+- [Junior Dev Job Postings Dropped 60%. AI Didn&#39;t Fire Them. It Just Made Companies Stop Hiring.](https://dev.to/adioof/junior-dev-job-postings-dropped-60-ai-didnt-fire-them-it-just-made-companies-stop-hiring-26be)
+- [I Squeezed an Entire MLOps Pipeline into 10 Lines of YAML](https://dev.to/net0pyr/i-squeezed-an-entire-mlops-pipeline-into-10-lines-of-yaml-lph)
+- [GitHub Copilot Put Ads in 11,000 Pull Requests. Microsoft Called Them &#39;Tips.&#39;](https://dev.to/adioof/github-copilot-put-ads-in-11000-pull-requests-microsoft-called-them-tips-24ni)
+- [I built L0p4Map – open source network monitoring tool with interactive topology graph](https://dev.to/haxl0p4/i-built-l0p4map-open-source-network-monitoring-tool-with-interactive-topology-graph-4bhi)
 <!-- BLOG-POST-LIST:END -->
 
 
