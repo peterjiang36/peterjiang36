@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I mapped all 84 MITRE ATLAS techniques to AI agent detection rules — here&#39;s what I found](https://dev.to/akavlabs/i-mapped-all-84-mitre-atlas-techniques-to-ai-agent-detection-rules-heres-what-i-found-1o18)
-- [Claude Code source map leaks are a wake-up call — here&#39;s how to monitor agent vulnerabilities](https://dev.to/authora/claude-code-source-map-leaks-are-a-wake-up-call-heres-how-to-monitor-agent-vulnerabilities-2mll)
-- [Building a Circuit Breaker in Rust: From Zero to Production](https://dev.to/dylan_dumont_266378d98367/building-a-circuit-breaker-in-rust-from-zero-to-production-40bm)
-- [How I Actually Use AI While Coding](https://dev.to/utkuhanakar/how-i-actually-use-ai-while-coding-4obc)
+- [ERC-8004 Trustless Agents: Onchain Reputation for AI](https://dev.to/walletguy/erc-8004-trustless-agents-onchain-reputation-for-ai-32h)
+- [Engineer&#39;s Guide to Surviving Global Cyber Compliance: Unpacking the OSPS Baseline](https://dev.to/mallagari_sri_datta/engineers-guide-to-surviving-global-cyber-compliance-unpacking-the-osps-baseline-1fa)
+- [Data Modeling in Power BI: Joins, Relationships, and Schemas](https://dev.to/grace_wambua/data-modeling-in-power-bi-joins-relationships-and-schemas-566m)
+- [Unlock Local AI: Generating Synthetic Data for Powerful Fine-Tuning](https://dev.to/programmingcentral/unlock-local-ai-generating-synthetic-data-for-powerful-fine-tuning-57n8)
 <!-- BLOG-POST-LIST:END -->
 
 
