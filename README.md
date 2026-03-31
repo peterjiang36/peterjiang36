@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agents Are Processing Personal Data. GDPR Now Requires You to Prove It.](https://dev.to/waxell/your-ai-agents-are-processing-personal-data-gdpr-now-requires-you-to-prove-it-1ghd)
-- [Pyth Progress Report: Community Hackathon Updates 3.30](https://dev.to/spank2023/pyth-progress-report-community-hackathon-updates-330-42og)
-- [How do private resources in AWS Private Subnets still get updates from the internet](https://dev.to/ayomtuase/how-do-private-resources-in-aws-private-subnets-still-get-updates-from-the-internet-2hpe)
-- [Estimating the speed of the ISS using computer vision &lpar;Python + OpenCV&rpar;](https://dev.to/babbawaagen/estimating-the-speed-of-the-iss-using-computer-vision-python-opencv-422c)
+- [How I Built a Privacy-First Offline PWA Expense Tracker](https://dev.to/pda-dp-shop/how-i-built-a-privacy-first-offline-pwa-expense-tracker-3kob)
+- [## The Invisible Bug That Broke My React Deployment &lpar;and What It Taught Me&rpar;](https://dev.to/mindmagic/-the-invisible-bug-that-broke-my-react-deployment-and-what-it-taught-me-53i4)
+- [Build a RAG Pipeline Inside Joomla for Intelligent Site Search](https://dev.to/albert_andrew_24878d43267/build-a-rag-pipeline-inside-joomla-for-intelligent-site-search-le)
+- [How I Built Secure Firebase Cloud Functions with Admin Permissions and Rate Limiting](https://dev.to/shakewithabhi/how-i-built-secure-firebase-cloud-functions-with-admin-permissions-and-rate-limiting-2p8)
 <!-- BLOG-POST-LIST:END -->
 
 
