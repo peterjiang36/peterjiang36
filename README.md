@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret to Near 100% AWS Tagging Compliance? People Shouldn&#39;t Know You&#39;re Doing It.](https://dev.to/leewynne/the-secret-to-near-100-aws-tagging-compliance-people-shouldnt-know-youre-doing-it-l00)
-- [Implementing 3-Tier Moderation for Telegram Bots](https://dev.to/personymai/implementing-3-tier-moderation-for-telegram-bots-1ne4)
-- [Debugging PostgreSQL Query Plan Instability in Production](https://dev.to/sriramrajendran/debugging-postgresql-query-plan-instability-in-production-ncb)
-- [I analyzed 250,000 attacks on my Linux servers. Here&#39;s what I found.](https://dev.to/defensia/i-analyzed-250000-attacks-on-my-linux-servers-heres-what-i-found-20o8)
+- [Do blockchains deform under agentic pressure?](https://dev.to/invarians/do-blockchains-deform-under-agentic-pressure-4od3)
+- [Why You Probably Don&#39;t Need a Full-Time CTO](https://dev.to/mdostal/why-you-probably-dont-need-a-full-time-cto-4k5l)
+- [PostgreSQL Connection Pooling with PgBouncer: A Complete Guide](https://dev.to/geekyfox90/postgresql-connection-pooling-with-pgbouncer-a-complete-guide-2fam)
+- [We Reverse-Engineered 12 Versions of Claude Code. Then It Leaked Its Own Source Code.](https://dev.to/kolkov/we-reverse-engineered-12-versions-of-claude-code-then-it-leaked-its-own-source-code-pij)
 <!-- BLOG-POST-LIST:END -->
 
 
