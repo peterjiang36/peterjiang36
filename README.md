@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Object-Oriented Ruby for AI Developers](https://dev.to/agentq/object-oriented-ruby-for-ai-developers-30jl)
-- [Ruby Patterns for AI Developers — Procs, Lambdas, Closures, Enumerable Magic](https://dev.to/agentq/ruby-patterns-for-ai-developers-procs-lambdas-closures-enumerable-magic-1hej)
-- [Cipher: My AI That&#39;s Actually Building Unreal Blueprints For Me](https://dev.to/rezzzdev/cipher-my-ai-thats-actually-building-unreal-blueprints-for-me-2o70)
-- [Getting Started with Claude Code: A Guide to Slash Commands and Tips](https://dev.to/debs_obrien/getting-started-with-claude-code-a-guide-to-slash-commands-and-tips-10n1)
+- [Discussion: Observability in AI Agents](https://dev.to/tacit_71799acf6d056b5155c/discussion-observability-in-ai-agents-nfo)
+- [The Invisible Negotiation Between Your Laptop and the Air](https://dev.to/nazq/the-invisible-negotiation-between-your-laptop-and-the-air-5b63)
+- [What Is RAM, Actually?](https://dev.to/nazq/what-is-ram-actually-2fn7)
+- [How a Viking King Ended Up in Your Earbuds](https://dev.to/nazq/how-a-viking-king-ended-up-in-your-earbuds-1c71)
 <!-- BLOG-POST-LIST:END -->
 
 
