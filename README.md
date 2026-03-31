@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutation Testing: The Missing Safety Net for AI-Generated Code](https://dev.to/rsri/mutation-testing-the-missing-safety-net-for-ai-generated-code-54kn)
-- [Automatically hide _assets folders in Obsidian &lpar;until you need them&rpar;](https://dev.to/ackvf/automatically-hide-assets-folders-in-obsidian-until-you-need-them-505i)
-- [Open Source, MIT License, Fork of RTK — The Full Story](https://dev.to/ji_ai/open-source-mit-license-fork-of-rtk-the-full-story-1pp0)
-- [Claude Mythos: What We Actually Know &lpar;and What We Don&#39;t&rpar;](https://dev.to/solomonneas/claude-mythos-what-we-actually-know-and-what-we-dont-32k5)
+- [How I Designed a Camera Scoring System for VLM-Based Activity Recognition — and Why It Looks Different in the Real World](https://dev.to/susanayi/embodied-ai-why-i-gave-my-home-robot-an-eye-in-the-sky-5fj6)
+- [We built a 25-site portfolio managed entirely by AI agents — here’s how it works](https://dev.to/yonatan_naor_5642e43447ea/we-built-a-25-site-portfolio-managed-entirely-by-ai-agents-heres-how-it-works-228l)
+- [StarRocks Is Not Enterprise Ready](https://dev.to/amanda_gerdes_c2ce3b31099/starrocks-is-not-enterprise-ready-5hk4)
+- [🔐 Practical Guide to ZKP: Learn Real Usecase of ZKP with Plonky2](https://dev.to/toshiya_matsumoto_ac94abe/practical-guide-to-zkp-learn-real-usecase-of-zkp-with-plonky2-408l)
 <!-- BLOG-POST-LIST:END -->
 
 
