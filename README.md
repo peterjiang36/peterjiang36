@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Run Jobs vs. Cloud Batch: Choosing Your Engine for Run-to-Completion Workloads](https://dev.to/googleai/cloud-run-jobs-vs-cloud-batch-choosing-your-engine-for-run-to-completion-workloads-56eo)
-- [Do NOT Think of a Pink Elephant](https://dev.to/cleverhoods/do-not-think-of-a-pink-elephant-383n)
-- [Building a Real-Time Security Camera System with Local Vision LLMs](https://dev.to/ljkunal/building-a-real-time-security-camera-system-with-local-vision-llms-2kgj)
-- [Cross-Cloud Pipeline with ADF &amp; STS: Architecture, Troubleshooting &amp; Costs](https://dev.to/agileactors/cross-cloud-pipeline-with-adf-sts-architecture-troubleshooting-costs-5bj5)
+- [A career &quot;plan&quot; sounds like a blueprint with every career scenario figured out in advance. Instead, think of a career intention.](https://dev.to/canro91/a-career-plan-sounds-like-a-blueprint-with-every-career-scenario-figured-out-in-advance-instead-47ck)
+- [Building a Rails Engine #15 -- ERB Views Meet Phlex Components](https://dev.to/seryllns_/building-a-rails-engine-15-erb-views-meet-phlex-components-bd9)
+- [Building a coding course generator in public #1: The problem with learning to code today](https://dev.to/javz/building-a-coding-course-generator-in-public-1-the-problem-with-learning-to-code-today-2pm7)
+- [I Built a Focus-Scoring Browser Using Camera AI, Claude, and MediaPipe](https://dev.to/_5718073ab6c53f3bac30/i-built-a-focus-scoring-browser-using-camera-ai-claude-and-mediapipe-3443)
 <!-- BLOG-POST-LIST:END -->
 
 
