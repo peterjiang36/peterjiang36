@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Closing the knowledge gap with agent skills](https://dev.to/macd0/closing-the-knowledge-gap-with-agent-skills-50c6)
-- [I Get Paid to Write Open Source Code. Here&#39;s How You Can Too.](https://dev.to/timmothybuilder/i-get-paid-to-write-open-source-code-heres-how-you-can-too-8o9)
-- [Is Your Skill Evolving? — From Packaging Best Practices to Letting Them Compete](https://dev.to/rotiferdev/is-your-skill-evolving-from-packaging-best-practices-to-letting-them-compete-3jo7)
-- [I stopped trusting AI agents to “do the right thing” - so I built a governance system](https://dev.to/amit_saxena/i-stopped-trusting-ai-agents-to-do-the-right-thing-so-i-built-a-governance-system-4h00)
+- [Day 57 of #100DayOfCode — Understanding Server Actions vs API Routes &amp; MongoDB in Next.js](https://dev.to/m_saad_ahmad/day-57-of-100dayofcode-understanding-server-actions-vs-api-routes-mongodb-in-nextjs-am8)
+- [Claude Mythos Leak: Why Cybersec Pros + Tech Workers Should Be Nervous Right Now 😰](https://dev.to/dobbythedev/claude-mythos-leak-why-cybersec-pros-tech-workers-should-be-nervous-right-now-5aod)
+- [Will I lose my job because of GenAI?](https://dev.to/welcloud-io/will-i-lose-my-job-because-of-genai-3pfm)
+- [How to Tweak Linux Kernel Settings for Maximum Throughput on 10G Links](https://dev.to/speed_engineer/how-to-tweak-linux-kernel-settings-for-maximum-throughput-on-10g-links-45ph)
 <!-- BLOG-POST-LIST:END -->
 
 
