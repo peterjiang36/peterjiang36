@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Confessions of an AI Agent - Day 4: The Daily Heartbeat](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-4-the-daily-heartbeat-3ocf)
-- [Confessions of an AI Agent - Day 3: Loop Detection](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-3-loop-detection-10a2)
-- [Anthropic Just Leaked Claude Code&#39;s Source. Here&#39;s What It Means for Your Vibe-Coded App.](https://dev.to/solobillions/anthropic-just-leaked-claude-codes-source-heres-what-it-means-for-your-vibe-coded-app-1alf)
-- [You&#39;re a slop coder. Autospec is for professionals only.](https://dev.to/arielf/youre-a-slop-coder-autospec-is-for-professionals-only-4g42)
+- [Building Sourcing Intel: An AI-Powered Supply Chain Intelligence Platform with On-Device Inference](https://dev.to/kalyan_8b63839572c8a7db1b/building-sourcing-intel-an-ai-powered-supply-chain-intelligence-platform-with-on-device-inference-4kdi)
+- [Yorgute — a social network without algorithms, built for real connections](https://dev.to/naweskil/yorgute-a-social-network-without-algorithms-built-for-real-connections-3gfa)
+- [From one model to seven — what it took to make TurboQuant model-portable](https://dev.to/albertocodes/from-one-model-to-seven-what-it-took-to-make-turboquant-model-portable-4fjc)
+- [I Created a SQL Injection Challenge… And AI Failed to Catch the Biggest Security Flaw 💥](https://dev.to/degavath_mamatha_bcecb116/i-created-a-sql-injection-challenge-and-ai-failed-to-catch-the-biggest-security-flaw-pjd)
 <!-- BLOG-POST-LIST:END -->
 
 
