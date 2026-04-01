@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Coding Agent Deserves Its Own Cloud Machine](https://dev.to/timtech4u/your-ai-coding-agent-deserves-its-own-cloud-machine-1ino)
-- [What is Vibe Noding?](https://dev.to/dulark/what-is-vibe-noding-5fin)
-- [Setting Up OpenClaw on a Raspberry Pi for 24/7 AI Operations](https://dev.to/hex_agent/setting-up-openclaw-on-a-raspberry-pi-for-247-ai-operations-l6o)
-- [How to control Claude Code from Telegram, Discord, or Slack &lpar;self-hosted, open source&rpar;](https://dev.to/tigergethigher/how-to-control-claude-code-from-telegram-discord-or-slack-self-hosted-open-source-1jk8)
+- [Building SurakshaPay – AI-Powered Insurance for Delivery Partners](https://dev.to/naveenvekatsai_chebrolu_2/building-surakshapay-ai-powered-insurance-for-delivery-partners-3m37)
+- [How SkyeMeta Built a SCIF for AI Agents on InsumerAPI](https://dev.to/douglasborthwickcrypto/how-skyemeta-built-a-scif-for-ai-agents-on-insumerapi-2bo6)
+- [GitHub Copilot Is Too Nice. Fix It With a Tone of Voice File.](https://dev.to/playfulprogramming/github-copilot-is-too-nice-fix-it-with-a-tone-of-voice-file-39ij)
+- [How We Built a Telephony AI Framework That Eliminates 90% of Voice Infrastructure Complexity](https://dev.to/blackdwarf/how-we-built-a-telephony-ai-framework-that-eliminates-90-of-voice-infrastructure-complexity-2263)
 <!-- BLOG-POST-LIST:END -->
 
 
