@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When a Memory Pool Actually Helps in Go Logging](https://dev.to/solgitae/when-a-memory-pool-actually-helps-in-go-logging-l3o)
-- [Por qué usamos una API para validar NIF, NIE y CIF en vez de implementarlo nosotros mismos](https://dev.to/agarridobuilds/por-que-usamos-una-api-para-validar-nif-nie-y-cif-en-vez-de-implementarlo-nosotros-mismos-4nhm)
-- [Why I moved Viconic to a new domain &lpar;and what&#39;s new&rpar;](https://dev.to/phc_y_55deee7323f8de7e/why-i-moved-viconic-to-a-new-domain-and-whats-new-3nom)
-- [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa)
+- [Exception Handling Keywords in Java](https://dev.to/vidya_cdd37fca763a53a10e2/exception-handling-keywords-in-java-p4n)
+- [Monitor Insider Trading Without Parsing SEC XML — Form 4 Data as Clean JSON](https://dev.to/lulzasaur/monitor-insider-trading-without-parsing-sec-xml-form-4-data-as-clean-json-3ome)
+- [I Replaced 5 State Website Scrapers with One API Call](https://dev.to/lulzasaur/i-replaced-5-state-website-scrapers-with-one-api-call-325m)
+- [Web Scraping Is Dead. Web Agents Just Replaced It.](https://dev.to/lazyasscoder/web-scraping-is-dead-web-agents-just-replaced-it-115o)
 <!-- BLOG-POST-LIST:END -->
 
 
