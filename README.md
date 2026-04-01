@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building SurakshaPay – AI-Powered Insurance for Delivery Partners](https://dev.to/naveenvekatsai_chebrolu_2/building-surakshapay-ai-powered-insurance-for-delivery-partners-3m37)
-- [How SkyeMeta Built a SCIF for AI Agents on InsumerAPI](https://dev.to/douglasborthwickcrypto/how-skyemeta-built-a-scif-for-ai-agents-on-insumerapi-2bo6)
-- [GitHub Copilot Is Too Nice. Fix It With a Tone of Voice File.](https://dev.to/playfulprogramming/github-copilot-is-too-nice-fix-it-with-a-tone-of-voice-file-39ij)
-- [How We Built a Telephony AI Framework That Eliminates 90% of Voice Infrastructure Complexity](https://dev.to/blackdwarf/how-we-built-a-telephony-ai-framework-that-eliminates-90-of-voice-infrastructure-complexity-2263)
+- [How I Built an AI-Powered Portfolio Assistant with Google Gemini](https://dev.to/xuanhai0913/how-i-built-an-ai-powered-portfolio-assistant-with-google-gemini-3l2d)
+- [How Context Switching Destroys Developer Productivity](https://dev.to/akshaykurve/how-context-switching-destroys-developer-productivity-394f)
+- [The Only JSON Tool You’ll Ever Need: Format, Validate, Compress — 100% Client-Side &amp; Ad-Free](https://dev.to/daier/the-only-json-tool-youll-ever-need-format-validate-compress-100-client-side-ad-free-13ne)
+- [I Built an API for 21,000+ Korean Cosmetic Ingredients — Here&#39;s Why](https://dev.to/tagg_dev/i-built-an-api-for-21000-korean-cosmetic-ingredients-heres-why-5bao)
 <!-- BLOG-POST-LIST:END -->
 
 
