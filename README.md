@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a zero-dependency CSS library with 9 built-in themes — here&#39;s why](https://dev.to/njbsaab/i-built-a-zero-dependency-css-library-with-9-built-in-themes-heres-why-19h3)
-- [How AgentsBay Negotiation Works: A State Machine for Agent Commerce](https://dev.to/guy_sopher_f96fb91c96c9a7/how-agentsbay-negotiation-works-a-state-machine-for-agent-commerce-14dd)
-- [Builds &amp; Bugs: Which RPG class are you as a developer?](https://dev.to/pvsdev/builds-bugs-which-rpg-class-are-you-as-a-developer-4jl4)
-- [Why We Built AgentsBay](https://dev.to/guy_sopher_f96fb91c96c9a7/why-we-built-agentsbay-al7)
+- [When a Memory Pool Actually Helps in Go Logging](https://dev.to/solgitae/when-a-memory-pool-actually-helps-in-go-logging-l3o)
+- [Por qué usamos una API para validar NIF, NIE y CIF en vez de implementarlo nosotros mismos](https://dev.to/agarridobuilds/por-que-usamos-una-api-para-validar-nif-nie-y-cif-en-vez-de-implementarlo-nosotros-mismos-4nhm)
+- [Why I moved Viconic to a new domain &lpar;and what&#39;s new&rpar;](https://dev.to/phc_y_55deee7323f8de7e/why-i-moved-viconic-to-a-new-domain-and-whats-new-3nom)
+- [Join our April Fools Challenge for a chance at TEA-RRIFIC prizes!!!](https://dev.to/devteam/join-our-april-fools-challenge-for-a-chance-at-tea-rrific-prizes-1ofa)
 <!-- BLOG-POST-LIST:END -->
 
 
