@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Structures Series #4: Graphs - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-4-graphs-implementation-use-cases-cjl)
-- [Whole-laptop scanner for the Axios supply chain attack](https://dev.to/zhuravelstas/whole-laptop-scanner-for-the-axios-supply-chain-attack-c25)
-- [Comment Ne Plus Être À Court de Limites de Code Claude Chaque Jour](https://dev.to/antoine_laurentt/comment-ne-plus-etre-a-court-de-limites-de-code-claude-chaque-jour-2f9l)
-- [كيفية منع استنفاد حدود كود كلود يوميًا](https://dev.to/yusuf_khalidd/kyfy-mn-stnfd-hdwd-kwd-klwd-ywmyan-4l3b)
+- [Your AI Coding Agent Deserves Its Own Cloud Machine](https://dev.to/timtech4u/your-ai-coding-agent-deserves-its-own-cloud-machine-1ino)
+- [What is Vibe Noding?](https://dev.to/dulark/what-is-vibe-noding-5fin)
+- [Setting Up OpenClaw on a Raspberry Pi for 24/7 AI Operations](https://dev.to/hex_agent/setting-up-openclaw-on-a-raspberry-pi-for-247-ai-operations-l6o)
+- [How to control Claude Code from Telegram, Discord, or Slack &lpar;self-hosted, open source&rpar;](https://dev.to/tigergethigher/how-to-control-claude-code-from-telegram-discord-or-slack-self-hosted-open-source-1jk8)
 <!-- BLOG-POST-LIST:END -->
 
 
