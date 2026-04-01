@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CRUD: A Practical Guide to Modeling Business Processes in REST APIs](https://dev.to/ivankahl/beyond-crud-a-practical-guide-to-modeling-business-processes-in-rest-apis-1029)
-- [What Is Persistent Memory in AI? How It Works &amp; Why It Matters](https://dev.to/memorylake_ai/what-is-persistent-memory-in-ai-how-it-works-why-it-matters-393g)
-- [Why Orange Cats Share One Braincell](https://dev.to/anak_wannaphaschaiyong_11/why-orange-cats-share-one-braincell-lec)
-- [Key Apache IoTDB Distributed Tuning Details You Must Understand](https://dev.to/timechodb/key-apache-iotdb-distributed-tuning-details-you-must-understand-2gfh)
+- [Data Structures Series #4: Graphs - Implementation &amp; Use Cases](https://dev.to/priyaselvaraj11/data-structures-series-4-graphs-implementation-use-cases-cjl)
+- [Whole-laptop scanner for the Axios supply chain attack](https://dev.to/zhuravelstas/whole-laptop-scanner-for-the-axios-supply-chain-attack-c25)
+- [Comment Ne Plus Être À Court de Limites de Code Claude Chaque Jour](https://dev.to/antoine_laurentt/comment-ne-plus-etre-a-court-de-limites-de-code-claude-chaque-jour-2f9l)
+- [كيفية منع استنفاد حدود كود كلود يوميًا](https://dev.to/yusuf_khalidd/kyfy-mn-stnfd-hdwd-kwd-klwd-ywmyan-4l3b)
 <!-- BLOG-POST-LIST:END -->
 
 
