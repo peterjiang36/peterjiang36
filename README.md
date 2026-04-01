@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [La blockchain](https://dev.to/amel_in_tech/la-blockchain-5gk5)
-- [Cron expressions explained — a complete guide with real examples](https://dev.to/willivan0706/cron-expressions-explained-a-complete-guide-with-real-examples-4pj8)
-- [Polymarket Kalshi Arbitrage](https://dev.to/benjamin_martin_749c1d57f/polymarket-x-kalshi-arbitrage-27di)
-- [BMAD-Method: AI-Driven Agile Development That Actually Works &lpar;Part 1: Core Framework&rpar;](https://dev.to/bspann/bmad-method-ai-driven-agile-development-that-actually-works-part-1-core-framework-36n1)
+- [The Hidden Cost of Copy-Pasting Code Into ChatGPT](https://dev.to/ziva/the-hidden-cost-of-copy-pasting-code-into-chatgpt-dl2)
+- [14-Package Monorepo: How We Structured WAIaaS for AI Agent Builders](https://dev.to/walletguy/14-package-monorepo-how-we-structured-waiaas-for-ai-agent-builders-40d5)
+- [Promoting raw BG3 gameplay bundle previews in the TD2 SDL port](https://dev.to/nivandosoares/promoting-raw-bg3-gameplay-bundle-previews-in-the-td2-sdl-port-52c1)
+- [What Is New In Helm 4 And How It Improves Over Helm 3](https://dev.to/mechcloud_academy/what-is-new-in-helm-4-and-how-it-improves-over-helm-3-6l1)
 <!-- BLOG-POST-LIST:END -->
 
 
