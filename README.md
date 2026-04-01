@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cracking &quot;Duplicate Zeros&quot; with 0ms Runtime](https://dev.to/nithya_dharshiniofficial/cracking-duplicate-zeros-with-0ms-runtime-3f6d)
-- [Infrastructure as Code with Terraform &amp; AWS](https://dev.to/rwatkins1/infrastructure-as-code-with-terraform-aws-4je2)
-- [Reducing bootstrap memory cost in LLM agents](https://dev.to/sandysdn/reducing-bootstrap-memory-cost-in-llm-agents-2i7g)
-- [Claude Code Hidden Features You Probably Missed](https://dev.to/devopsdaily/claude-code-hidden-features-you-probably-missed-3ej0)
+- [The DeepMind Hedge Fund Myth: Why ‘DeepTick’ Died](https://dev.to/simon_paxton/the-deepmind-hedge-fund-myth-why-deeptick-died-4920)
+- [Building a RAG Chatbot with React/Angular, Node.js, pgvector, and OpenAI](https://dev.to/nagendrababun/building-a-rag-chatbot-with-reactangular-nodejs-pgvector-and-openai-3897)
+- [Decode JWT in the terminal](https://dev.to/gousejani/decode-jwt-in-the-terminal-2n5m)
+- [I Reverse-Engineered Claude Code&#39;s /buddy System and Got a Legendary Cat — Here&#39;s How to Reroll Yours](https://dev.to/ithiria894/i-reverse-engineered-claude-codes-buddy-system-heres-how-to-reroll-yours-2ghj)
 <!-- BLOG-POST-LIST:END -->
 
 
