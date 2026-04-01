@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Repository Pattern Done Right: Consumer-Defined Interfaces in Go](https://dev.to/dentedlogic/the-repository-pattern-done-right-consumer-defined-interfaces-in-go-1f14)
-- [Managing Secret For Your Golang Apps With The GCP Secret Manager](https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj)
-- [The Role of a Team Lead](https://dev.to/arezvov/the-role-of-a-team-lead-17mh)
-- [Riddle me this DEV and MLH Community](https://dev.to/francistrdev/riddle-me-this-dev-and-mlh-community-259g)
+- [Carbon Credits Explained: How Carbon Capture Creates New Revenue Streams](https://dev.to/carbelim2025/carbon-credits-explained-how-carbon-capture-creates-new-revenue-streams-3961)
+- [Built a Free Online Paint Tool — Simple, Fast &amp; No Login Needed](https://dev.to/toolbyus/built-a-free-online-paint-tool-simple-fast-no-login-needed-1na8)
+- [The End of the &quot;I Am Not a Robot&quot; Box: Why Your Next Login Will Require 5 Squats](https://dev.to/vincentnarbot/the-end-of-the-i-am-not-a-robot-box-why-your-next-login-will-require-5-squats-5d11)
+- [Instagram DMs to Amazon Connect Chat](https://dev.to/ensamblador/instagram-dms-to-amazon-connect-chat-5e0l)
 <!-- BLOG-POST-LIST:END -->
 
 
