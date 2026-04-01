@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Fixed My Own Mistake: The TCJSgame Speed.js Story](https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-my-own-mistake-the-tcjsgame-speedjs-story-1pio)
-- [I Ranked Every AI Code Editor in March 2026. The $2B One Came Last.](https://dev.to/skilaai/i-ranked-every-ai-code-editor-in-march-2026-the-2b-one-came-last-25m7)
-- [From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL](https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm)
-- [Começar em programação do zero depois dos 40: roteiro realista de André Blos Aliatti](https://dev.to/andre_blos_aliatti/comecar-em-programacao-do-zero-depois-dos-40-roteiro-realista-de-andre-blos-aliatti-4pal)
+- [TypeScript Discriminated Unions: Safe API Response Handling](https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca)
+- [RAG Web Browser: Give Your AI Real-Time Web Access Without Hallucinations](https://dev.to/2gelbuy/rag-web-browser-give-your-ai-real-time-web-access-without-hallucinations-4oo7)
+- [What Nobody Tells You About Building a Protocol for AI Agents](https://dev.to/kirk42/what-nobody-tells-you-about-building-a-protocol-for-ai-agents-hlj)
+- [The Evidence Is in the Phone. Most of It Never Makes It Into the Case.](https://dev.to/charles_west_99af57fcbac3/the-evidence-is-in-the-phone-most-of-it-never-makes-it-into-the-case-mle)
 <!-- BLOG-POST-LIST:END -->
 
 
