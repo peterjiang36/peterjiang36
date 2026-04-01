@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Rust&#39;s Ownership Model Prevents Bugs — A Visual Guide](https://dev.to/divyesh_kakadiya/how-rusts-ownership-model-prevents-bugs-a-visual-guide-2epp)
-- [How I Built an AI Tool to Generate US Visa Photos &lpar;And Why Most Photos Fail&rpar;](https://dev.to/navnit73/how-i-built-an-ai-tool-to-generate-us-visa-photos-and-why-most-photos-fail-1797)
-- [Programs Beat Prompts: AI Forges Deterministic Interface Programs That Run Forever](https://dev.to/leonting1010/programs-beat-prompts-ai-forges-deterministic-interface-programs-that-run-forever-j9e)
-- [From a Login Screen to a Real ERP Flow: Building Navigation and the First Inventory Module](https://dev.to/leorasgg/from-a-login-screen-to-a-real-erp-flow-building-navigation-and-the-first-inventory-module-5e8j)
+- [Beyond CRUD: A Practical Guide to Modeling Business Processes in REST APIs](https://dev.to/ivankahl/beyond-crud-a-practical-guide-to-modeling-business-processes-in-rest-apis-1029)
+- [What Is Persistent Memory in AI? How It Works &amp; Why It Matters](https://dev.to/memorylake_ai/what-is-persistent-memory-in-ai-how-it-works-why-it-matters-393g)
+- [Why Orange Cats Share One Braincell](https://dev.to/anak_wannaphaschaiyong_11/why-orange-cats-share-one-braincell-lec)
+- [Key Apache IoTDB Distributed Tuning Details You Must Understand](https://dev.to/timechodb/key-apache-iotdb-distributed-tuning-details-you-must-understand-2gfh)
 <!-- BLOG-POST-LIST:END -->
 
 
