@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Carbon Credits Explained: How Carbon Capture Creates New Revenue Streams](https://dev.to/carbelim2025/carbon-credits-explained-how-carbon-capture-creates-new-revenue-streams-3961)
-- [Built a Free Online Paint Tool — Simple, Fast &amp; No Login Needed](https://dev.to/toolbyus/built-a-free-online-paint-tool-simple-fast-no-login-needed-1na8)
-- [The End of the &quot;I Am Not a Robot&quot; Box: Why Your Next Login Will Require 5 Squats](https://dev.to/vincentnarbot/the-end-of-the-i-am-not-a-robot-box-why-your-next-login-will-require-5-squats-5d11)
-- [Instagram DMs to Amazon Connect Chat](https://dev.to/ensamblador/instagram-dms-to-amazon-connect-chat-5e0l)
+- [Beyond the Hype: Building a Practical AI Memory System with Vector Databases](https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-hk9)
+- [I Gave Devin 10 Real Tasks. It Completed 3.](https://dev.to/alanwest/i-gave-devin-10-real-tasks-it-completed-3-3063)
+- [Why 90% of Sanctions Screening Alerts Are False Positives &lpar;And How to Fix It with Python&rpar;](https://dev.to/dave_sng_ec0ec8421d812d35/why-90-of-sanctions-screening-alerts-are-false-positives-and-how-to-fix-it-with-python-480a)
+- [Event-driven vs request-driven architecture](https://dev.to/binadit/event-driven-vs-request-driven-architecture-5an1)
 <!-- BLOG-POST-LIST:END -->
 
 
