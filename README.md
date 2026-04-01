@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Discriminated Unions: Safe API Response Handling](https://dev.to/maanu07/typescript-discriminated-unions-safe-api-response-handling-17ca)
-- [RAG Web Browser: Give Your AI Real-Time Web Access Without Hallucinations](https://dev.to/2gelbuy/rag-web-browser-give-your-ai-real-time-web-access-without-hallucinations-4oo7)
-- [What Nobody Tells You About Building a Protocol for AI Agents](https://dev.to/kirk42/what-nobody-tells-you-about-building-a-protocol-for-ai-agents-hlj)
-- [The Evidence Is in the Phone. Most of It Never Makes It Into the Case.](https://dev.to/charles_west_99af57fcbac3/the-evidence-is-in-the-phone-most-of-it-never-makes-it-into-the-case-mle)
+- [The Repository Pattern Done Right: Consumer-Defined Interfaces in Go](https://dev.to/dentedlogic/the-repository-pattern-done-right-consumer-defined-interfaces-in-go-1f14)
+- [Managing Secret For Your Golang Apps With The GCP Secret Manager](https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj)
+- [The Role of a Team Lead](https://dev.to/arezvov/the-role-of-a-team-lead-17mh)
+- [Riddle me this DEV and MLH Community](https://dev.to/francistrdev/riddle-me-this-dev-and-mlh-community-259g)
 <!-- BLOG-POST-LIST:END -->
 
 
