@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exception Handling Keywords in Java](https://dev.to/vidya_cdd37fca763a53a10e2/exception-handling-keywords-in-java-p4n)
-- [Monitor Insider Trading Without Parsing SEC XML — Form 4 Data as Clean JSON](https://dev.to/lulzasaur/monitor-insider-trading-without-parsing-sec-xml-form-4-data-as-clean-json-3ome)
-- [I Replaced 5 State Website Scrapers with One API Call](https://dev.to/lulzasaur/i-replaced-5-state-website-scrapers-with-one-api-call-325m)
-- [Web Scraping Is Dead. Web Agents Just Replaced It.](https://dev.to/lazyasscoder/web-scraping-is-dead-web-agents-just-replaced-it-115o)
+- [Cracking &quot;Duplicate Zeros&quot; with 0ms Runtime](https://dev.to/nithya_dharshiniofficial/cracking-duplicate-zeros-with-0ms-runtime-3f6d)
+- [Infrastructure as Code with Terraform &amp; AWS](https://dev.to/rwatkins1/infrastructure-as-code-with-terraform-aws-4je2)
+- [Reducing bootstrap memory cost in LLM agents](https://dev.to/sandysdn/reducing-bootstrap-memory-cost-in-llm-agents-2i7g)
+- [Claude Code Hidden Features You Probably Missed](https://dev.to/devopsdaily/claude-code-hidden-features-you-probably-missed-3ej0)
 <!-- BLOG-POST-LIST:END -->
 
 
