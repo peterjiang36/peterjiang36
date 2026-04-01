@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Copy-Pasting Code Into ChatGPT](https://dev.to/ziva/the-hidden-cost-of-copy-pasting-code-into-chatgpt-dl2)
-- [14-Package Monorepo: How We Structured WAIaaS for AI Agent Builders](https://dev.to/walletguy/14-package-monorepo-how-we-structured-waiaas-for-ai-agent-builders-40d5)
-- [Promoting raw BG3 gameplay bundle previews in the TD2 SDL port](https://dev.to/nivandosoares/promoting-raw-bg3-gameplay-bundle-previews-in-the-td2-sdl-port-52c1)
-- [What Is New In Helm 4 And How It Improves Over Helm 3](https://dev.to/mechcloud_academy/what-is-new-in-helm-4-and-how-it-improves-over-helm-3-6l1)
+- [Your agent&#39;s guardrails are suggestions, not enforcement](https://dev.to/brianrhall/your-agents-guardrails-are-suggestions-not-enforcement-2c8k)
+- [Optimizing for understanding](https://dev.to/nikolay_konovalov_f25575a/optimizing-for-understanding-421j)
+- [Security Gates With No Keys: When Plugin Safety Blocks Legitimate Use](https://dev.to/oolongtea2026/security-gates-with-no-keys-when-plugin-safety-blocks-legitimate-use-1lak)
+- [I created my own web OS from scratch as part of a 14 day challenge :&rpar;](https://dev.to/libersoft-org/i-created-my-own-web-os-from-scratch-as-part-of-a-14-day-challenge--3ida)
 <!-- BLOG-POST-LIST:END -->
 
 
