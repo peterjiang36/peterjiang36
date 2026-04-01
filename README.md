@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Patterns in C# &lpar;Factory, Singleton, Repository, Observer&rpar;](https://dev.to/allcoderthings/design-patterns-in-c-factory-singleton-repository-observer-1f6f)
-- [Configuring .deepsource.toml: Reference Guide](https://dev.to/rahulxsingh/configuring-deepsourcetoml-reference-guide-5d3a)
-- [Building Self-Improving AI Agent Hierarchies with Paperclip Plugins](https://dev.to/brady_smith_e32781c702b6c/building-self-improving-ai-agent-hierarchies-with-paperclip-plugins-55f)
-- [I Spent $11,922 on Cursor in Under 4 Weeks. Here&#39;s How I Fixed It.](https://dev.to/bytedesk/i-spent-11922-on-cursor-in-under-4-weeks-heres-how-i-fixed-it-3gh2)
+- [Self-Referential Generics in Kotlin: When Type Safety Requires Talking to Yourself](https://dev.to/zoos1ne/self-referential-generics-in-kotlin-when-type-safety-requires-talking-to-yourself-37bn)
+- [How I Started Using AI Agents for End-to-End Testing &lpar;Autonoma AI&rpar;](https://dev.to/iamadnank9/how-i-started-using-ai-agents-for-end-to-end-testing-autonoma-ai-2dpj)
+- [How AI Is Changing PTSD Recovery — And Why It Matters](https://dev.to/paifamily/how-ai-is-changing-ptsd-recovery-and-why-it-matters-3ddn)
+- [DeepSource vs Coverity: Static Analysis Compared](https://dev.to/rahulxsingh/deepsource-vs-coverity-static-analysis-compared-202h)
 <!-- BLOG-POST-LIST:END -->
 
 
