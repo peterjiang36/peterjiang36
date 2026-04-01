@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: Building a Practical AI Memory System with Vector Databases](https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-hk9)
-- [I Gave Devin 10 Real Tasks. It Completed 3.](https://dev.to/alanwest/i-gave-devin-10-real-tasks-it-completed-3-3063)
-- [Why 90% of Sanctions Screening Alerts Are False Positives &lpar;And How to Fix It with Python&rpar;](https://dev.to/dave_sng_ec0ec8421d812d35/why-90-of-sanctions-screening-alerts-are-false-positives-and-how-to-fix-it-with-python-480a)
-- [Event-driven vs request-driven architecture](https://dev.to/binadit/event-driven-vs-request-driven-architecture-5an1)
+- [How Rust&#39;s Ownership Model Prevents Bugs — A Visual Guide](https://dev.to/divyesh_kakadiya/how-rusts-ownership-model-prevents-bugs-a-visual-guide-2epp)
+- [How I Built an AI Tool to Generate US Visa Photos &lpar;And Why Most Photos Fail&rpar;](https://dev.to/navnit73/how-i-built-an-ai-tool-to-generate-us-visa-photos-and-why-most-photos-fail-1797)
+- [Programs Beat Prompts: AI Forges Deterministic Interface Programs That Run Forever](https://dev.to/leonting1010/programs-beat-prompts-ai-forges-deterministic-interface-programs-that-run-forever-j9e)
+- [From a Login Screen to a Real ERP Flow: Building Navigation and the First Inventory Module](https://dev.to/leorasgg/from-a-login-screen-to-a-real-erp-flow-building-navigation-and-the-first-inventory-module-5e8j)
 <!-- BLOG-POST-LIST:END -->
 
 
