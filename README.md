@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Sourcing Intel: An AI-Powered Supply Chain Intelligence Platform with On-Device Inference](https://dev.to/kalyan_8b63839572c8a7db1b/building-sourcing-intel-an-ai-powered-supply-chain-intelligence-platform-with-on-device-inference-4kdi)
-- [Yorgute — a social network without algorithms, built for real connections](https://dev.to/naweskil/yorgute-a-social-network-without-algorithms-built-for-real-connections-3gfa)
-- [From one model to seven — what it took to make TurboQuant model-portable](https://dev.to/albertocodes/from-one-model-to-seven-what-it-took-to-make-turboquant-model-portable-4fjc)
-- [I Created a SQL Injection Challenge… And AI Failed to Catch the Biggest Security Flaw 💥](https://dev.to/degavath_mamatha_bcecb116/i-created-a-sql-injection-challenge-and-ai-failed-to-catch-the-biggest-security-flaw-pjd)
+- [How I Fixed My Own Mistake: The TCJSgame Speed.js Story](https://dev.to/kehinde_owolabi_e2e54567a/how-i-fixed-my-own-mistake-the-tcjsgame-speedjs-story-1pio)
+- [I Ranked Every AI Code Editor in March 2026. The $2B One Came Last.](https://dev.to/skilaai/i-ranked-every-ai-code-editor-in-march-2026-the-2b-one-came-last-25m7)
+- [From Elementor to Headless: How I Rebuilt My Portfolio with React and WordPress GraphQL](https://dev.to/othex/from-elementor-to-headless-how-i-rebuilt-my-portfolio-with-react-and-wordpress-graphql-39pm)
+- [Começar em programação do zero depois dos 40: roteiro realista de André Blos Aliatti](https://dev.to/andre_blos_aliatti/comecar-em-programacao-do-zero-depois-dos-40-roteiro-realista-de-andre-blos-aliatti-4pal)
 <!-- BLOG-POST-LIST:END -->
 
 
