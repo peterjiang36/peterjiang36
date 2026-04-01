@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your agent&#39;s guardrails are suggestions, not enforcement](https://dev.to/brianrhall/your-agents-guardrails-are-suggestions-not-enforcement-2c8k)
-- [Optimizing for understanding](https://dev.to/nikolay_konovalov_f25575a/optimizing-for-understanding-421j)
-- [Security Gates With No Keys: When Plugin Safety Blocks Legitimate Use](https://dev.to/oolongtea2026/security-gates-with-no-keys-when-plugin-safety-blocks-legitimate-use-1lak)
-- [I created my own web OS from scratch as part of a 14 day challenge :&rpar;](https://dev.to/libersoft-org/i-created-my-own-web-os-from-scratch-as-part-of-a-14-day-challenge--3ida)
+- [Design Patterns in C# &lpar;Factory, Singleton, Repository, Observer&rpar;](https://dev.to/allcoderthings/design-patterns-in-c-factory-singleton-repository-observer-1f6f)
+- [Configuring .deepsource.toml: Reference Guide](https://dev.to/rahulxsingh/configuring-deepsourcetoml-reference-guide-5d3a)
+- [Building Self-Improving AI Agent Hierarchies with Paperclip Plugins](https://dev.to/brady_smith_e32781c702b6c/building-self-improving-ai-agent-hierarchies-with-paperclip-plugins-55f)
+- [I Spent $11,922 on Cursor in Under 4 Weeks. Here&#39;s How I Fixed It.](https://dev.to/bytedesk/i-spent-11922-on-cursor-in-under-4-weeks-heres-how-i-fixed-it-3gh2)
 <!-- BLOG-POST-LIST:END -->
 
 
