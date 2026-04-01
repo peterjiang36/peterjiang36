@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI-Powered Portfolio Assistant with Google Gemini](https://dev.to/xuanhai0913/how-i-built-an-ai-powered-portfolio-assistant-with-google-gemini-3l2d)
-- [How Context Switching Destroys Developer Productivity](https://dev.to/akshaykurve/how-context-switching-destroys-developer-productivity-394f)
-- [The Only JSON Tool You’ll Ever Need: Format, Validate, Compress — 100% Client-Side &amp; Ad-Free](https://dev.to/daier/the-only-json-tool-youll-ever-need-format-validate-compress-100-client-side-ad-free-13ne)
-- [I Built an API for 21,000+ Korean Cosmetic Ingredients — Here&#39;s Why](https://dev.to/tagg_dev/i-built-an-api-for-21000-korean-cosmetic-ingredients-heres-why-5bao)
+- [I built a zero-dependency CSS library with 9 built-in themes — here&#39;s why](https://dev.to/njbsaab/i-built-a-zero-dependency-css-library-with-9-built-in-themes-heres-why-19h3)
+- [How AgentsBay Negotiation Works: A State Machine for Agent Commerce](https://dev.to/guy_sopher_f96fb91c96c9a7/how-agentsbay-negotiation-works-a-state-machine-for-agent-commerce-14dd)
+- [Builds &amp; Bugs: Which RPG class are you as a developer?](https://dev.to/pvsdev/builds-bugs-which-rpg-class-are-you-as-a-developer-4jl4)
+- [Why We Built AgentsBay](https://dev.to/guy_sopher_f96fb91c96c9a7/why-we-built-agentsbay-al7)
 <!-- BLOG-POST-LIST:END -->
 
 
