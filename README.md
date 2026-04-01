@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The DeepMind Hedge Fund Myth: Why ‘DeepTick’ Died](https://dev.to/simon_paxton/the-deepmind-hedge-fund-myth-why-deeptick-died-4920)
-- [Building a RAG Chatbot with React/Angular, Node.js, pgvector, and OpenAI](https://dev.to/nagendrababun/building-a-rag-chatbot-with-reactangular-nodejs-pgvector-and-openai-3897)
-- [Decode JWT in the terminal](https://dev.to/gousejani/decode-jwt-in-the-terminal-2n5m)
-- [I Reverse-Engineered Claude Code&#39;s /buddy System and Got a Legendary Cat — Here&#39;s How to Reroll Yours](https://dev.to/ithiria894/i-reverse-engineered-claude-codes-buddy-system-heres-how-to-reroll-yours-2ghj)
+- [La blockchain](https://dev.to/amel_in_tech/la-blockchain-5gk5)
+- [Cron expressions explained — a complete guide with real examples](https://dev.to/willivan0706/cron-expressions-explained-a-complete-guide-with-real-examples-4pj8)
+- [Polymarket Kalshi Arbitrage](https://dev.to/benjamin_martin_749c1d57f/polymarket-x-kalshi-arbitrage-27di)
+- [BMAD-Method: AI-Driven Agile Development That Actually Works &lpar;Part 1: Core Framework&rpar;](https://dev.to/bspann/bmad-method-ai-driven-agile-development-that-actually-works-part-1-core-framework-36n1)
 <!-- BLOG-POST-LIST:END -->
 
 
