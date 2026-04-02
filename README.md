@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Architecture Explained: Agent Loop, Tool System, and Permission Model &lpar;Rust Rewrite Analysis&rpar;](https://dev.to/brooks_wilson_36fbefbbae4/claude-code-architecture-explained-agent-loop-tool-system-and-permission-model-rust-rewrite-41b2)
-- [The Data Structure That&#39;s Okay With Being Wrong](https://dev.to/aaronyong_14b256a/the-data-structure-thats-okay-with-being-wrong-15mj)
-- [Ad-Free YouTube With a Custom Player](https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h)
-- [How to Auto-Index Your URLs with Google Search Console API](https://dev.to/pixeliro/how-to-auto-index-your-urls-with-google-search-console-api-1ig4)
+- [Sum, Count, and Reverse of Digits in Python &lpar;While Loop &amp; Recursion&rpar;](https://dev.to/harini_magesh_fa40041cf8d/sum-count-and-reverse-of-digits-in-python-while-loop-recursion-29jk)
+- [When LangChain Is Enough: How to Build Useful AI Apps Without Overengineering](https://dev.to/optyxstack/when-langchain-is-enough-how-to-build-useful-ai-apps-without-overengineering-57hb)
+- [The Evolution of Natural Language Processing: A Journey from 1960 to 2020](https://dev.to/mr_max_02/the-evolution-of-natural-language-processing-a-journey-from-1960-to-2020-9k)
+- [The part Cloudflare Email Routing doesn&#39;t solve — and how I fixed it](https://dev.to/nonozone/the-part-cloudflare-email-routing-doesnt-solve-and-how-i-fixed-it-8nl)
 <!-- BLOG-POST-LIST:END -->
 
 
