@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Compact Patterns for Web3 Developers](https://dev.to/midnight-aliit/advanced-compact-patterns-for-web3-developers-4m9i)
-- [&quot;This AdWidget is already in the Widget tree&quot; — It Only Crashed After One Specific Flow](https://dev.to/devsnake/this-adwidget-is-already-in-the-widget-tree-it-only-crashed-after-one-specific-flow-54mg)
-- [Best Free Snyk Alternatives for Vulnerability Scanning](https://dev.to/rahulxsingh/best-free-snyk-alternatives-for-vulnerability-scanning-49e8)
-- [Decoding the Black Box: LLM Observability with LangSmith &amp; Helicone for Local Models](https://dev.to/programmingcentral/decoding-the-black-box-llm-observability-with-langsmith-helicone-for-local-models-1jf9)
+- [You&#39;re spending money on Claude Code and have no idea how much](https://dev.to/edwardkubiak/youre-spending-money-on-claude-code-and-have-no-idea-how-much-2d56)
+- [getElementBy... ...destructuring](https://dev.to/efpage/getelementby-destructuring-1ajc)
+- [Mejorando tu Seguridad en AWS con ML y AI](https://dev.to/aws-builders/mejorando-tu-seguridad-en-aws-con-ml-y-ai-4122)
+- [[Boost]](https://dev.to/owasp_foundation/-40bl)
 <!-- BLOG-POST-LIST:END -->
 
 
