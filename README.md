@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your React App Is Probably Doing Too Much](https://dev.to/rohith_kn/your-react-app-is-probably-doing-too-much-3lc1)
-- [Reliable LLM JSON Output: Few-Shot Prompting &amp; Robust Parsing](https://dev.to/maanu07/reliable-llm-json-output-few-shot-prompting-robust-parsing-2f11)
-- [The Hardest Part of Modern C++ Isn&#39;t the Language.](https://dev.to/silverstream/the-hardest-part-of-modern-c-isnt-the-language-4p5h)
-- [Why I Built Frihet Solo: One Developer, Zero Investors](https://dev.to/frihet/why-i-built-frihet-solo-one-developer-zero-investors-43jd)
+- [Compare TCGPlayer, Reverb, and OfferUp Prices in One API Call](https://dev.to/lulzasaur/compare-tcgplayer-reverb-and-offerup-prices-in-one-api-call-2f0p)
+- [Build a Form 4 Insider-Buy Alert Without Parsing SEC XML](https://dev.to/lulzasaur/build-a-form-4-insider-buy-alert-without-parsing-sec-xml-1dhl)
+- [Verify Contractor Licenses in 11 US States with One API Call](https://dev.to/lulzasaur/verify-contractor-licenses-in-11-us-states-with-one-api-call-26hi)
+- [CircuitBreaker: The AI Agent&#39;s Seatbelt](https://dev.to/cirkuitbreakerswitch/circuitbreaker-the-ai-agents-seatbelt-jd)
 <!-- BLOG-POST-LIST:END -->
 
 
