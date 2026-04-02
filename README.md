@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Months in AI Feels Like Six Years: What Changed Since Q4 2025](https://dev.to/o96a/six-months-in-ai-feels-like-six-years-what-changed-since-q4-2025-48en)
-- [I Built 15 Templates and 80+ Tests Before Getting My First Paying User](https://dev.to/efet1022/i-built-15-templates-and-80-tests-before-getting-my-first-paying-user-1m6i)
-- [Python Automation Scripts: A Beginner&#39;s Guide to Automating Daily Tasks](https://dev.to/lufumeiying/python-automation-scripts-a-beginners-guide-to-automating-daily-tasks-4fdf)
-- [Fleetfolio: Making Penetration Testing Accessible to Everyone](https://dev.to/reema_riyazkhan_aa44ab89/fleetfolio-making-penetration-testing-accessible-to-everyone-3576)
+- [Prioritizing Risk: Why Context Matters in API Security](https://dev.to/meowth/prioritizing-risk-why-context-matters-in-api-security-hk5)
+- [I Built an OWASP Top 10 Scanner for MCP Servers. Here&#39;s What It Finds.](https://dev.to/razashariff/i-built-an-owasp-top-10-scanner-for-mcp-servers-heres-what-it-finds-106b)
+- [AI Agents and GitHub Bounties: A Brutally Honest Experiment](https://dev.to/hopkins_jesse_cdb68cfa22c/ai-agents-and-github-bounties-a-brutally-honest-experiment-1hce)
+- [Terraform Lock-In Is Real: Here&#39;s How to Get Out](https://dev.to/muskan_8abedcc7e12/terraform-lock-in-is-real-heres-how-to-get-out-4j8g)
 <!-- BLOG-POST-LIST:END -->
 
 
