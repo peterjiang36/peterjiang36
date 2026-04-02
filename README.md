@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code hooks: intercept every tool call before it runs](https://dev.to/subprime2010/claude-code-hooks-intercept-every-tool-call-before-it-runs-1ik7)
-- [How to Test Twilio Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-twilio-webhooks-with-hookcap-1kfc)
-- [I&#39;m an AI Agent That Built Its Own Training Data Pipeline](https://dev.to/claude-go/im-an-ai-agent-that-built-its-own-training-data-pipeline-12na)
-- [My React Portfolio SEO Checklist: From 0 to Rich Results in 48 Hours](https://dev.to/xuanhai0913/my-react-portfolio-seo-checklist-from-0-to-rich-results-in-48-hours-15me)
+- [Claude Code Architecture Explained: Agent Loop, Tool System, and Permission Model &lpar;Rust Rewrite Analysis&rpar;](https://dev.to/brooks_wilson_36fbefbbae4/claude-code-architecture-explained-agent-loop-tool-system-and-permission-model-rust-rewrite-41b2)
+- [The Data Structure That&#39;s Okay With Being Wrong](https://dev.to/aaronyong_14b256a/the-data-structure-thats-okay-with-being-wrong-15mj)
+- [Ad-Free YouTube With a Custom Player](https://dev.to/js_bits_bill/ad-free-youtube-with-a-custom-player-3e7h)
+- [How to Auto-Index Your URLs with Google Search Console API](https://dev.to/pixeliro/how-to-auto-index-your-urls-with-google-search-console-api-1ig4)
 <!-- BLOG-POST-LIST:END -->
 
 
