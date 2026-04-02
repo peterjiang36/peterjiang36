@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compare TCGPlayer, Reverb, and OfferUp Prices in One API Call](https://dev.to/lulzasaur/compare-tcgplayer-reverb-and-offerup-prices-in-one-api-call-2f0p)
-- [Build a Form 4 Insider-Buy Alert Without Parsing SEC XML](https://dev.to/lulzasaur/build-a-form-4-insider-buy-alert-without-parsing-sec-xml-1dhl)
-- [Verify Contractor Licenses in 11 US States with One API Call](https://dev.to/lulzasaur/verify-contractor-licenses-in-11-us-states-with-one-api-call-26hi)
-- [CircuitBreaker: The AI Agent&#39;s Seatbelt](https://dev.to/cirkuitbreakerswitch/circuitbreaker-the-ai-agents-seatbelt-jd)
+- [Top 10 Cheapest Providers for DeepSeek V3.2 in 2026](https://dev.to/smakosh/top-10-cheapest-providers-for-deepseek-v32-in-2026-38ce)
+- [How to Build a Fully Local Thermal Printer Server &lpar;No Cloud Required&rpar;](https://dev.to/alanwest/how-to-build-a-fully-local-thermal-printer-server-no-cloud-required-3a7k)
+- [14 Playwright Mistakes Slowing Your Team Down : A Daily Series](https://dev.to/testdino01/14-playwright-mistakes-slowing-your-team-down-a-daily-series-3jbb)
+- [Running Laravel Octane on Deploynix: FrankenPHP, RoadRunner &amp; Swoole](https://dev.to/deploynix/running-laravel-octane-on-deploynix-frankenphp-roadrunner-swoole-4bdd)
 <!-- BLOG-POST-LIST:END -->
 
 
