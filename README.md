@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Scanned 12 Popular MCP Servers. Here&#39;s What We Found.](https://dev.to/piiiico/we-scanned-12-popular-mcp-servers-heres-what-we-found-4ggk)
-- [Frontend Development Is Turning Into Behavior Engineering](https://dev.to/rohith_kn/frontend-development-is-turning-into-behavior-engineering-1hdp)
-- [How I accidentally shipped my source maps &lpar;and why ignore files matter&rpar;](https://dev.to/swapnilh_patil_9999/how-i-accidentally-shipped-my-source-maps-and-why-ignore-files-matter-e16)
-- [Using Azure ExpressRoute with Power Platform](https://dev.to/seenakhan/using-azure-expressroute-with-power-platform-120h)
+- [How to Download HuggingFace Models on Glows.ai](https://dev.to/glowsai/how-to-download-huggingface-models-on-glowsai-1jm3)
+- [I built a Chrome extension that fact-checks AI restaurant recommendations against government data](https://dev.to/piiiico/i-built-a-chrome-extension-that-fact-checks-ai-restaurant-recommendations-against-government-data-2aeh)
+- [I&#39;m a Developer and I Run My Business on Spreadsheets - Here&#39;s Why](https://dev.to/timdah/im-a-developer-and-i-run-my-business-on-spreadsheets-heres-why-2h86)
+- [BRC JS: Bootstrap Right-Click Navigation Menu](https://dev.to/joseba-mirena/brc-js-bootstrap-right-click-navigation-menu-35nn)
 <!-- BLOG-POST-LIST:END -->
 
 
