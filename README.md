@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built 2 free web tools to solve problems that annoyed me — here&#39;s what I learned](https://dev.to/hammadbutt/i-built-2-free-web-tools-to-solve-problems-that-annoyed-me-heres-what-i-learned-h53)
-- [🌐 Beyond One Data Source: Building Scalable Data Pipelines in Power BI](https://dev.to/abooafifah/beyond-one-data-source-building-scalable-data-pipelines-in-power-bi-145f)
-- [Top LLM Gateways That Support Semantic Caching in 2026](https://dev.to/debmckinney/top-llm-gateways-that-support-semantic-caching-in-2026-3dho)
-- [Developers Who Don’t Adapt to AI Won’t Disappear, They’ll Be Ignored](https://dev.to/jaideepparashar/developers-who-dont-adapt-to-ai-wont-disappear-theyll-be-ignored-15p0)
+- [Choose Your Burnout](https://dev.to/siti_aisyahmatzainal_73/choose-your-burnout-2b9m)
+- [I Built a Rust-Powered Diff Sync Engine to Fix Android↔Mac Sync [Mac Only]](https://dev.to/hiyoyok/i-built-a-rust-powered-diff-sync-engine-to-fix-android-mac-sync-mac-only-5aff)
+- [5 Claude Code Hooks That Automate My Entire Workflow](https://dev.to/devforgedev/5-claude-code-hooks-that-automate-my-entire-workflow-2fj7)
+- [ML Hit 99% Accuracy on Yield Prediction — The Factory Floor Ignored It](https://dev.to/plasmon_imp/ml-hit-99-accuracy-on-yield-prediction-the-factory-floor-ignored-it-4ikm)
 <!-- BLOG-POST-LIST:END -->
 
 
