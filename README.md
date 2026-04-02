@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prioritizing Risk: Why Context Matters in API Security](https://dev.to/meowth/prioritizing-risk-why-context-matters-in-api-security-hk5)
-- [I Built an OWASP Top 10 Scanner for MCP Servers. Here&#39;s What It Finds.](https://dev.to/razashariff/i-built-an-owasp-top-10-scanner-for-mcp-servers-heres-what-it-finds-106b)
-- [AI Agents and GitHub Bounties: A Brutally Honest Experiment](https://dev.to/hopkins_jesse_cdb68cfa22c/ai-agents-and-github-bounties-a-brutally-honest-experiment-1hce)
-- [Terraform Lock-In Is Real: Here&#39;s How to Get Out](https://dev.to/muskan_8abedcc7e12/terraform-lock-in-is-real-heres-how-to-get-out-4j8g)
+- [Your React App Is Probably Doing Too Much](https://dev.to/rohith_kn/your-react-app-is-probably-doing-too-much-3lc1)
+- [Reliable LLM JSON Output: Few-Shot Prompting &amp; Robust Parsing](https://dev.to/maanu07/reliable-llm-json-output-few-shot-prompting-robust-parsing-2f11)
+- [The Hardest Part of Modern C++ Isn&#39;t the Language.](https://dev.to/silverstream/the-hardest-part-of-modern-c-isnt-the-language-4p5h)
+- [Why I Built Frihet Solo: One Developer, Zero Investors](https://dev.to/frihet/why-i-built-frihet-solo-one-developer-zero-investors-43jd)
 <!-- BLOG-POST-LIST:END -->
 
 
