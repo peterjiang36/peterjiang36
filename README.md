@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Cheapest Providers for DeepSeek V3.2 in 2026](https://dev.to/smakosh/top-10-cheapest-providers-for-deepseek-v32-in-2026-38ce)
-- [How to Build a Fully Local Thermal Printer Server &lpar;No Cloud Required&rpar;](https://dev.to/alanwest/how-to-build-a-fully-local-thermal-printer-server-no-cloud-required-3a7k)
-- [14 Playwright Mistakes Slowing Your Team Down : A Daily Series](https://dev.to/testdino01/14-playwright-mistakes-slowing-your-team-down-a-daily-series-3jbb)
-- [Running Laravel Octane on Deploynix: FrankenPHP, RoadRunner &amp; Swoole](https://dev.to/deploynix/running-laravel-octane-on-deploynix-frankenphp-roadrunner-swoole-4bdd)
+- [WebSockets for Real-Time Video Processing Progress Updates](https://dev.to/kyle_clipspeedai/websockets-for-real-time-video-processing-progress-updates-34di)
+- [&quot;🗓️ Simp1OS Dev Logs – The Sacred Texts of Simp1OS&quot;](https://dev.to/arush179/simp1os-dev-logs-framebuffer-chronicles-1a78)
+- [ContextCore: AI Agents conversations to an MCP-queryable memory layer](https://dev.to/kyliathy/contextcore-ai-agents-conversations-to-an-mcp-queryable-memory-layer-4h1p)
+- [I Built a 209-Page Sauna Site Without Knowing How to Code](https://dev.to/ac0ai/i-built-a-209-page-sauna-site-without-knowing-how-to-codepublished-8c7)
 <!-- BLOG-POST-LIST:END -->
 
 
