@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DoBu — Documentation Builder for the Ascoos Ecosystem](https://dev.to/ascoos/dobu-documentation-builder-for-the-ascoos-ecosystem-1ip8)
-- [Dropshipping Automation Tools Compared: DSers MCP vs AliDropify vs AutoDS vs AeroDrop &lpar;2026&rpar;](https://dev.to/_95a3e57463e6442feacd0/dropshipping-automation-tools-compared-dsers-mcp-vs-alidropify-vs-autods-vs-aerodrop-2026-4khj)
-- [Essential Claude Code Skills for Mobile Developers](https://dev.to/markkazakov/essential-claude-code-skills-for-mobile-developers-3mc5)
-- [How I Went From Zero Code to 27-Page SEO Website Using Only AI and Free Tools](https://dev.to/xuejiepbit/how-i-went-from-zero-code-to-27-page-seo-website-using-only-ai-and-free-tools-43ij)
+- [Six Months in AI Feels Like Six Years: What Changed Since Q4 2025](https://dev.to/o96a/six-months-in-ai-feels-like-six-years-what-changed-since-q4-2025-48en)
+- [I Built 15 Templates and 80+ Tests Before Getting My First Paying User](https://dev.to/efet1022/i-built-15-templates-and-80-tests-before-getting-my-first-paying-user-1m6i)
+- [Python Automation Scripts: A Beginner&#39;s Guide to Automating Daily Tasks](https://dev.to/lufumeiying/python-automation-scripts-a-beginners-guide-to-automating-daily-tasks-4fdf)
+- [Fleetfolio: Making Penetration Testing Accessible to Everyone](https://dev.to/reema_riyazkhan_aa44ab89/fleetfolio-making-penetration-testing-accessible-to-everyone-3576)
 <!-- BLOG-POST-LIST:END -->
 
 
