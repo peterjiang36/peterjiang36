@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Download HuggingFace Models on Glows.ai](https://dev.to/glowsai/how-to-download-huggingface-models-on-glowsai-1jm3)
-- [I built a Chrome extension that fact-checks AI restaurant recommendations against government data](https://dev.to/piiiico/i-built-a-chrome-extension-that-fact-checks-ai-restaurant-recommendations-against-government-data-2aeh)
-- [I&#39;m a Developer and I Run My Business on Spreadsheets - Here&#39;s Why](https://dev.to/timdah/im-a-developer-and-i-run-my-business-on-spreadsheets-heres-why-2h86)
-- [BRC JS: Bootstrap Right-Click Navigation Menu](https://dev.to/joseba-mirena/brc-js-bootstrap-right-click-navigation-menu-35nn)
+- [How to Build Your Own Local AI Agent: Setting Up OpenClaw with Ollama and Slack on Ubuntu](https://dev.to/taukirsheikh/how-to-build-your-own-local-ai-agent-setting-up-openclaw-with-ollama-and-slack-on-ubuntu-17bc)
+- [The 17 Ways AI Agents Break in Production](https://dev.to/tuomo_pisama/the-17-ways-ai-agents-break-in-production-2c1)
+- [Heuristic Detectors vs LLM Judges: What We Learned Analyzing 7,000 Agent Traces](https://dev.to/tuomo_pisama/heuristic-detectors-vs-llm-judges-what-we-learned-analyzing-7000-agent-traces-iil)
+- [Why Your Multi-Agent System Fails Silently &lpar;And How to Detect It&rpar;](https://dev.to/tuomo_pisama/why-your-multi-agent-system-fails-silently-and-how-to-detect-it-f0m)
 <!-- BLOG-POST-LIST:END -->
 
 
