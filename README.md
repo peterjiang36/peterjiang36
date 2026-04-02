@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Your Own Local AI Agent: Setting Up OpenClaw with Ollama and Slack on Ubuntu](https://dev.to/taukirsheikh/how-to-build-your-own-local-ai-agent-setting-up-openclaw-with-ollama-and-slack-on-ubuntu-17bc)
-- [The 17 Ways AI Agents Break in Production](https://dev.to/tuomo_pisama/the-17-ways-ai-agents-break-in-production-2c1)
-- [Heuristic Detectors vs LLM Judges: What We Learned Analyzing 7,000 Agent Traces](https://dev.to/tuomo_pisama/heuristic-detectors-vs-llm-judges-what-we-learned-analyzing-7000-agent-traces-iil)
-- [Why Your Multi-Agent System Fails Silently &lpar;And How to Detect It&rpar;](https://dev.to/tuomo_pisama/why-your-multi-agent-system-fails-silently-and-how-to-detect-it-f0m)
+- [The Archetypal Go Program: Servers, Goroutines, and Scheduling](https://dev.to/lbvf50mobile/the-archetypal-go-program-servers-goroutines-and-scheduling-1dge)
+- [Manage Google Calendar from the Command Line — No API Setup](https://dev.to/qasim157/manage-google-calendar-from-the-command-line-no-api-setup-5c9d)
+- [I Built a 6-Agent AI System That Debates Every Trade Decision — It Just Got One Wrong](https://dev.to/han_jingchao_1e86fbdfa070/i-built-a-6-agent-ai-system-that-debates-every-trade-decision-it-just-got-one-wrong-1b8a)
+- [A No-Nonsense Guide to Domains and Hosting](https://dev.to/asathyajith/a-no-nonsense-guide-to-domains-and-hosting-12g)
 <!-- BLOG-POST-LIST:END -->
 
 
