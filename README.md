@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebSockets for Real-Time Video Processing Progress Updates](https://dev.to/kyle_clipspeedai/websockets-for-real-time-video-processing-progress-updates-34di)
-- [&quot;🗓️ Simp1OS Dev Logs – The Sacred Texts of Simp1OS&quot;](https://dev.to/arush179/simp1os-dev-logs-framebuffer-chronicles-1a78)
-- [ContextCore: AI Agents conversations to an MCP-queryable memory layer](https://dev.to/kyliathy/contextcore-ai-agents-conversations-to-an-mcp-queryable-memory-layer-4h1p)
-- [I Built a 209-Page Sauna Site Without Knowing How to Code](https://dev.to/ac0ai/i-built-a-209-page-sauna-site-without-knowing-how-to-codepublished-8c7)
+- [We Scanned 12 Popular MCP Servers. Here&#39;s What We Found.](https://dev.to/piiiico/we-scanned-12-popular-mcp-servers-heres-what-we-found-4ggk)
+- [Frontend Development Is Turning Into Behavior Engineering](https://dev.to/rohith_kn/frontend-development-is-turning-into-behavior-engineering-1hdp)
+- [How I accidentally shipped my source maps &lpar;and why ignore files matter&rpar;](https://dev.to/swapnilh_patil_9999/how-i-accidentally-shipped-my-source-maps-and-why-ignore-files-matter-e16)
+- [Using Azure ExpressRoute with Power Platform](https://dev.to/seenakhan/using-azure-expressroute-with-power-platform-120h)
 <!-- BLOG-POST-LIST:END -->
 
 
