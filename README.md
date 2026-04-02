@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The problem isn’t time. It’s your system.](https://dev.to/lifeorder_42/the-problem-isnt-time-its-your-system-2oif)
-- [[Boost]](https://dev.to/jonmarkgo/-59b4)
-- [From Junior to Senior: What Actually Changes &lpar;And What Nobody Tells You&rpar;](https://dev.to/careercheck/from-junior-to-senior-what-actually-changes-and-what-nobody-tells-you-3hdc)
-- [From AI Chat tool to Autonomous Solvers: A Developer’s Guide to AI Agents](https://dev.to/vinod_wa/from-ai-chat-tool-to-autonomous-solvers-a-developers-guide-to-ai-agents-38dk)
+- [Advanced Compact Patterns for Web3 Developers](https://dev.to/midnight-aliit/advanced-compact-patterns-for-web3-developers-4m9i)
+- [&quot;This AdWidget is already in the Widget tree&quot; — It Only Crashed After One Specific Flow](https://dev.to/devsnake/this-adwidget-is-already-in-the-widget-tree-it-only-crashed-after-one-specific-flow-54mg)
+- [Best Free Snyk Alternatives for Vulnerability Scanning](https://dev.to/rahulxsingh/best-free-snyk-alternatives-for-vulnerability-scanning-49e8)
+- [Decoding the Black Box: LLM Observability with LangSmith &amp; Helicone for Local Models](https://dev.to/programmingcentral/decoding-the-black-box-llm-observability-with-langsmith-helicone-for-local-models-1jf9)
 <!-- BLOG-POST-LIST:END -->
 
 
