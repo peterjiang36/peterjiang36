@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Referential Generics in Kotlin: When Type Safety Requires Talking to Yourself](https://dev.to/zoos1ne/self-referential-generics-in-kotlin-when-type-safety-requires-talking-to-yourself-37bn)
-- [How I Started Using AI Agents for End-to-End Testing &lpar;Autonoma AI&rpar;](https://dev.to/iamadnank9/how-i-started-using-ai-agents-for-end-to-end-testing-autonoma-ai-2dpj)
-- [How AI Is Changing PTSD Recovery — And Why It Matters](https://dev.to/paifamily/how-ai-is-changing-ptsd-recovery-and-why-it-matters-3ddn)
-- [DeepSource vs Coverity: Static Analysis Compared](https://dev.to/rahulxsingh/deepsource-vs-coverity-static-analysis-compared-202h)
+- [The $10 Billion Trust Data Market That AI Companies Can&#39;t See](https://dev.to/piiiico/the-10-billion-trust-data-market-that-ai-companies-cant-see-2pj6)
+- [How to Monitor Multi-Step API Authentication Flows](https://dev.to/velprove/how-to-monitor-multi-step-api-authentication-flows-356b)
+- [Lógica de Programação: O Primeiro Passo Para Dominar Qualquer Linguagem](https://dev.to/ana-beatriz-valentim/logica-de-programacao-o-primeiro-passo-para-dominar-qualquer-linguagem-op9)
+- [MiniScript Weekly News — Apr 1, 2026](https://dev.to/joestrout/miniscript-weekly-news-apr-1-2026-7b1)
 <!-- BLOG-POST-LIST:END -->
 
 
