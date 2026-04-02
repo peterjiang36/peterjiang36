@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re spending money on Claude Code and have no idea how much](https://dev.to/edwardkubiak/youre-spending-money-on-claude-code-and-have-no-idea-how-much-2d56)
-- [getElementBy... ...destructuring](https://dev.to/efpage/getelementby-destructuring-1ajc)
-- [Mejorando tu Seguridad en AWS con ML y AI](https://dev.to/aws-builders/mejorando-tu-seguridad-en-aws-con-ml-y-ai-4122)
-- [[Boost]](https://dev.to/owasp_foundation/-40bl)
+- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
+- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
+- [Multi-Model AI Orchestration for Software Development: How I Ship 10x Faster with Claude, Codex, and Gemini](https://dev.to/zaferdace/multi-model-ai-orchestration-for-software-development-how-i-ship-10x-faster-with-claude-codex-53l3)
+- [Migrating a Webpack-Era Federated Module to Vite Without Breaking the Host Contract](https://dev.to/mdolive/migrating-a-webpack-era-federated-module-to-vite-without-breaking-the-host-contract-31nb)
 <!-- BLOG-POST-LIST:END -->
 
 
