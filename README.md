@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sum, Count, and Reverse of Digits in Python &lpar;While Loop &amp; Recursion&rpar;](https://dev.to/harini_magesh_fa40041cf8d/sum-count-and-reverse-of-digits-in-python-while-loop-recursion-29jk)
-- [When LangChain Is Enough: How to Build Useful AI Apps Without Overengineering](https://dev.to/optyxstack/when-langchain-is-enough-how-to-build-useful-ai-apps-without-overengineering-57hb)
-- [The Evolution of Natural Language Processing: A Journey from 1960 to 2020](https://dev.to/mr_max_02/the-evolution-of-natural-language-processing-a-journey-from-1960-to-2020-9k)
-- [The part Cloudflare Email Routing doesn&#39;t solve — and how I fixed it](https://dev.to/nonozone/the-part-cloudflare-email-routing-doesnt-solve-and-how-i-fixed-it-8nl)
+- [I built 2 free web tools to solve problems that annoyed me — here&#39;s what I learned](https://dev.to/hammadbutt/i-built-2-free-web-tools-to-solve-problems-that-annoyed-me-heres-what-i-learned-h53)
+- [🌐 Beyond One Data Source: Building Scalable Data Pipelines in Power BI](https://dev.to/abooafifah/beyond-one-data-source-building-scalable-data-pipelines-in-power-bi-145f)
+- [Top LLM Gateways That Support Semantic Caching in 2026](https://dev.to/debmckinney/top-llm-gateways-that-support-semantic-caching-in-2026-3dho)
+- [Developers Who Don’t Adapt to AI Won’t Disappear, They’ll Be Ignored](https://dev.to/jaideepparashar/developers-who-dont-adapt-to-ai-wont-disappear-theyll-be-ignored-15p0)
 <!-- BLOG-POST-LIST:END -->
 
 
