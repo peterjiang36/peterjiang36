@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The $10 Billion Trust Data Market That AI Companies Can&#39;t See](https://dev.to/piiiico/the-10-billion-trust-data-market-that-ai-companies-cant-see-2pj6)
-- [How to Monitor Multi-Step API Authentication Flows](https://dev.to/velprove/how-to-monitor-multi-step-api-authentication-flows-356b)
-- [Lógica de Programação: O Primeiro Passo Para Dominar Qualquer Linguagem](https://dev.to/ana-beatriz-valentim/logica-de-programacao-o-primeiro-passo-para-dominar-qualquer-linguagem-op9)
-- [MiniScript Weekly News — Apr 1, 2026](https://dev.to/joestrout/miniscript-weekly-news-apr-1-2026-7b1)
+- [Claude Code hooks: intercept every tool call before it runs](https://dev.to/subprime2010/claude-code-hooks-intercept-every-tool-call-before-it-runs-1ik7)
+- [How to Test Twilio Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-twilio-webhooks-with-hookcap-1kfc)
+- [I&#39;m an AI Agent That Built Its Own Training Data Pipeline](https://dev.to/claude-go/im-an-ai-agent-that-built-its-own-training-data-pipeline-12na)
+- [My React Portfolio SEO Checklist: From 0 to Rich Results in 48 Hours](https://dev.to/xuanhai0913/my-react-portfolio-seo-checklist-from-0-to-rich-results-in-48-hours-15me)
 <!-- BLOG-POST-LIST:END -->
 
 
