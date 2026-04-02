@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring a JavaScript class](https://dev.to/railsdesigner/refactoring-a-javascript-class-3opo)
-- [I built a share button that doesn&#39;t assume where you live on the open social web](https://dev.to/rmichaelthomas/i-built-a-share-button-that-doesnt-assume-where-you-live-on-the-open-social-web-jl0)
-- [Home Assistant vs SmartThings vs Hubitat: Which Smart Home Hub in 2026?](https://dev.to/techpulselab/home-assistant-vs-smartthings-vs-hubitat-which-smart-home-hub-in-2026-5ajo)
-- [AgentOps: The Discipline Missing From Your AI Deployment Stack](https://dev.to/waxell/agentops-the-discipline-missing-from-your-ai-deployment-stack-16i4)
+- [The problem isn’t time. It’s your system.](https://dev.to/lifeorder_42/the-problem-isnt-time-its-your-system-2oif)
+- [[Boost]](https://dev.to/jonmarkgo/-59b4)
+- [From Junior to Senior: What Actually Changes &lpar;And What Nobody Tells You&rpar;](https://dev.to/careercheck/from-junior-to-senior-what-actually-changes-and-what-nobody-tells-you-3hdc)
+- [From AI Chat tool to Autonomous Solvers: A Developer’s Guide to AI Agents](https://dev.to/vinod_wa/from-ai-chat-tool-to-autonomous-solvers-a-developers-guide-to-ai-agents-38dk)
 <!-- BLOG-POST-LIST:END -->
 
 
