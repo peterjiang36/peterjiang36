@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choose Your Burnout](https://dev.to/siti_aisyahmatzainal_73/choose-your-burnout-2b9m)
-- [I Built a Rust-Powered Diff Sync Engine to Fix Android↔Mac Sync [Mac Only]](https://dev.to/hiyoyok/i-built-a-rust-powered-diff-sync-engine-to-fix-android-mac-sync-mac-only-5aff)
-- [5 Claude Code Hooks That Automate My Entire Workflow](https://dev.to/devforgedev/5-claude-code-hooks-that-automate-my-entire-workflow-2fj7)
-- [ML Hit 99% Accuracy on Yield Prediction — The Factory Floor Ignored It](https://dev.to/plasmon_imp/ml-hit-99-accuracy-on-yield-prediction-the-factory-floor-ignored-it-4ikm)
+- [DoBu — Documentation Builder for the Ascoos Ecosystem](https://dev.to/ascoos/dobu-documentation-builder-for-the-ascoos-ecosystem-1ip8)
+- [Dropshipping Automation Tools Compared: DSers MCP vs AliDropify vs AutoDS vs AeroDrop &lpar;2026&rpar;](https://dev.to/_95a3e57463e6442feacd0/dropshipping-automation-tools-compared-dsers-mcp-vs-alidropify-vs-autods-vs-aerodrop-2026-4khj)
+- [Essential Claude Code Skills for Mobile Developers](https://dev.to/markkazakov/essential-claude-code-skills-for-mobile-developers-3mc5)
+- [How I Went From Zero Code to 27-Page SEO Website Using Only AI and Free Tools](https://dev.to/xuejiepbit/how-i-went-from-zero-code-to-27-page-seo-website-using-only-ai-and-free-tools-43ij)
 <!-- BLOG-POST-LIST:END -->
 
 
