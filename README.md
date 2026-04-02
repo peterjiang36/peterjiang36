@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Archetypal Go Program: Servers, Goroutines, and Scheduling](https://dev.to/lbvf50mobile/the-archetypal-go-program-servers-goroutines-and-scheduling-1dge)
-- [Manage Google Calendar from the Command Line — No API Setup](https://dev.to/qasim157/manage-google-calendar-from-the-command-line-no-api-setup-5c9d)
-- [I Built a 6-Agent AI System That Debates Every Trade Decision — It Just Got One Wrong](https://dev.to/han_jingchao_1e86fbdfa070/i-built-a-6-agent-ai-system-that-debates-every-trade-decision-it-just-got-one-wrong-1b8a)
-- [A No-Nonsense Guide to Domains and Hosting](https://dev.to/asathyajith/a-no-nonsense-guide-to-domains-and-hosting-12g)
+- [Refactoring a JavaScript class](https://dev.to/railsdesigner/refactoring-a-javascript-class-3opo)
+- [I built a share button that doesn&#39;t assume where you live on the open social web](https://dev.to/rmichaelthomas/i-built-a-share-button-that-doesnt-assume-where-you-live-on-the-open-social-web-jl0)
+- [Home Assistant vs SmartThings vs Hubitat: Which Smart Home Hub in 2026?](https://dev.to/techpulselab/home-assistant-vs-smartthings-vs-hubitat-which-smart-home-hub-in-2026-5ajo)
+- [AgentOps: The Discipline Missing From Your AI Deployment Stack](https://dev.to/waxell/agentops-the-discipline-missing-from-your-ai-deployment-stack-16i4)
 <!-- BLOG-POST-LIST:END -->
 
 
