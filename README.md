@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab Code Review: Best Tools and Practices &lpar;2026&rpar;](https://dev.to/rahulxsingh/gitlab-code-review-best-tools-and-practices-2026-3clb)
-- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
-- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
-- [Woman&#39;s Day: Be Yourself](https://dev.to/stuxint/womans-day-be-yourself-5d8e)
+- [Google Gemma 4: Everything Developers Need to Know](https://dev.to/om_shree_0709/google-gemma-4-everything-developers-need-to-know-3daf)
+- [I Dropped 8 Geniuses Into a Room and Asked: &quot;What Is the Point of Life?&quot; *Then I played God.*](https://dev.to/kyeong_sunkim_f3ec9f5af4/i-dropped-8-geniuses-into-a-room-and-asked-what-is-the-point-of-life-then-i-played-god-5gal)
+- [The Smartest Apps Are the Ones That Do Less](https://dev.to/rohith_kn/the-smartest-apps-are-the-ones-that-do-less-2d3h)
+- [Claude Code Token Crisis: Why I Built a Local Agent Instead of Switching to Codex](https://dev.to/tsunamayo7/claude-code-token-crisis-why-i-built-a-local-agent-instead-of-switching-to-codex-1p1b)
 <!-- BLOG-POST-LIST:END -->
 
 
