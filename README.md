@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does Payment Settlement Work?](https://dev.to/flutterwaveeng/how-does-payment-settlement-work-3p9m)
-- [When AI Leaks Internal Tags: Debugging a 3-Layer Streaming Architecture Bug](https://dev.to/bailorgana/when-ai-leaks-internal-tags-debugging-a-3-layer-streaming-architecture-bug-ig4)
-- [Building a SIEM-Style Threat Detection Dashboard Using ELK Stack and Docker](https://dev.to/dipesh_kumar_2fa6e436346e/building-a-siem-style-threat-detection-dashboard-using-elk-stack-and-docker-5de6)
-- [#6 Things Every Backend Engineer Should Know &lpar;That AI Won&#39;t Tell You&rpar;](https://dev.to/aayushghimirey/6-things-every-backend-engineer-should-know-that-ai-wont-tell-you-41hg)
+- [I Benchmarked 3 Ways to Log in .NET : One Allocates Nothing](https://dev.to/jfmeyers/i-benchmarked-3-ways-to-log-in-net-one-allocates-nothing-25ok)
+- [iOS 27 Siri Extensions: Best AI Assistant for iPhone in 2026](https://dev.to/assindo/ios-27-siri-extensions-best-ai-assistant-for-iphone-in-2026-476p)
+- [NumPy Arrays for Beginners: A Better Alternative to Python Lists](https://dev.to/sophidoo/numpy-arrays-for-beginners-a-better-alternative-to-python-lists-14i0)
+- [React + Firebase: Architecture Decisions for a Production ERP](https://dev.to/frihet/react-firebase-architecture-decisions-for-a-production-erp-2lg4)
 <!-- BLOG-POST-LIST:END -->
 
 
