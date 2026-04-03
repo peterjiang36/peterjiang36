@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [No-Code Page Builders vs Custom Development: A Strategic Decision Framework for Marketing Teams and Developers](https://dev.to/jasonbiondo/no-code-page-builders-vs-custom-development-a-strategic-decision-framework-for-marketing-teams-and-5c30)
-- [The AI Coding War Is Over. Nobody Won.](https://dev.to/pudgycat/the-ai-coding-war-is-over-nobody-won-52g)
-- [Complete Guide to Next.js 16 + React 19.2 in Production — RSC Security, View Transitions, Turbopack](https://dev.to/x4nent/complete-guide-to-nextjs-16-react-192-in-production-rsc-security-view-transitions-turbopack-5090)
-- [CH341 with python](https://dev.to/danielmx/ch341-with-python-52en)
+- [I Built a Checkpoint System for Claude Code CLI — Never Lose Your Work Again](https://dev.to/alexdevson/i-built-a-checkpoint-system-for-claude-code-cli-never-lose-your-work-again-11fc)
+- [Como configurar o WSL para rodar em um HD externo](https://dev.to/jeanmfdias/como-configurar-o-wsl-para-rodar-em-um-hd-externo-315b)
+- [My 3-Month Startup Directory Submission Journey — What Actually Moved the Needle](https://dev.to/jim_l_efc70c3a738e9f4baa7/my-3-month-startup-directory-submission-journey-what-actually-moved-the-needle-gef)
+- [DualClip: multi-slot clipboard manager for macOS](https://dev.to/rakkunn/dualclip-multi-slot-clipboard-manager-44f5)
 <!-- BLOG-POST-LIST:END -->
 
 
