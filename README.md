@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Bypass Akamai Bot Detection in 2026](https://dev.to/vhub_systems_ed5641f65d59/how-to-bypass-akamai-bot-detection-in-2026-39lj)
-- [Competitive Intelligence for Startups: How I Track 50 Competitors for $12/Month](https://dev.to/vhub_systems_ed5641f65d59/competitive-intelligence-for-startups-how-i-track-50-competitors-for-12month-58m0)
-- [Prepared statements in Manticore Search](https://dev.to/sanikolaev/prepared-statements-in-manticore-search-2n4e)
-- [How to Bypass Akamai Bot Detection in 2026: curl-cffi + Residential Proxies](https://dev.to/vhub_systems_ed5641f65d59/how-to-bypass-akamai-bot-detection-in-2026-curl-cffi-residential-proxies-5h3k)
+- [Python vs JavaScript vs Go in 2026: Which Language Should You Learn Right Now?](https://dev.to/castillodk/python-vs-javascript-vs-go-in-2026-which-language-should-you-learn-right-now-1cdf)
+- [MCP is the Future of AI Tools: Here&#39;s How to Use It in TypeScript](https://dev.to/neurolink/mcp-is-the-future-of-ai-tools-heres-how-to-use-it-in-typescript-25b0)
+- [Running ChatGPT, Claude, and Gemini in One TypeScript App](https://dev.to/neurolink/running-chatgpt-claude-and-gemini-in-one-typescript-app-47pm)
+- [Grid: A Private, Open-Source Location Sharing Solution](https://dev.to/stelixx-insider/grid-a-private-open-source-location-sharing-solution-1c5d)
 <!-- BLOG-POST-LIST:END -->
 
 
