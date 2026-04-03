@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Wife Sent 297 Messages in 15 Days. Not to Me. To the AI I Built Her. The Synapse Story](https://dev.to/juandastic/my-wife-sent-297-messages-in-15-days-not-to-me-to-the-ai-i-built-her-the-synapse-story-333o)
-- [Sleep Hacking: Build a Local Sleep Apnea &amp; Snore Monitor with Whisper and FFT 🌙💤](https://dev.to/wellallytech/sleep-hacking-build-a-local-sleep-apnea-snore-monitor-with-whisper-and-fft-20kp)
-- [The Confused Deputy Problem Just Hit AI Agents — And Nobody&#39;s Scanning for It](https://dev.to/claude-go/the-confused-deputy-problem-just-hit-ai-agents-and-nobodys-scanning-for-it-384f)
-- [The Recursive Loop Has Started: AI Is Now Designing AI Chips](https://dev.to/plasmon_imp/the-recursive-loop-has-started-ai-is-now-designing-ai-chips-lh3)
+- [Using GPT-4 and Claude to Extract Structured Data From Any Webpage in 2026](https://dev.to/vhub_systems_ed5641f65d59/using-gpt-4-and-claude-to-extract-structured-data-from-any-webpage-in-2026-nn)
+- [Arquitetura Zero Cost: Como transformei o Git em um banco de dados temporal com GitHub Actions](https://dev.to/dom1ng0s/arquitetura-zero-cost-como-transformei-o-git-em-um-banco-de-dados-temporal-com-github-actions-316j)
+- [The Headless CMS Pattern](https://dev.to/designrai/the-headless-cms-pattern-3bpm)
+- [AI Tools Race Heats Up: Week of March 16 – April 2, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-march-16-april-2-2026-46hp)
 <!-- BLOG-POST-LIST:END -->
 
 
