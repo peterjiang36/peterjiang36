@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Augmenting Phantom With Auth0 Authority](https://dev.to/youneslaaroussi/augmenting-phantom-with-auth0-authority-360a)
-- [I reverse-engineered X&#39;s open-source algorithm into a Chrome extension that predicts your reach before you post](https://dev.to/aytuncyildizli/i-reverse-engineered-xs-open-source-algorithm-into-a-chrome-extension-that-predicts-your-reach-5hmd)
-- [From REST API to MCP Server: How I Gave AI Agents Native Access to Korean Web Data](https://dev.to/sessionzero_ai/from-rest-api-to-mcp-server-how-i-gave-ai-agents-native-access-to-korean-web-data-1anp)
-- [What do you want to know about hardware acceleration? Ask the Google team!](https://dev.to/devteam/what-do-you-want-to-know-about-hardware-acceleration-ask-the-google-team-3nj0)
+- [No-Code Page Builders vs Custom Development: A Strategic Decision Framework for Marketing Teams and Developers](https://dev.to/jasonbiondo/no-code-page-builders-vs-custom-development-a-strategic-decision-framework-for-marketing-teams-and-5c30)
+- [The AI Coding War Is Over. Nobody Won.](https://dev.to/pudgycat/the-ai-coding-war-is-over-nobody-won-52g)
+- [Complete Guide to Next.js 16 + React 19.2 in Production — RSC Security, View Transitions, Turbopack](https://dev.to/x4nent/complete-guide-to-nextjs-16-react-192-in-production-rsc-security-view-transitions-turbopack-5090)
+- [CH341 with python](https://dev.to/danielmx/ch341-with-python-52en)
 <!-- BLOG-POST-LIST:END -->
 
 
