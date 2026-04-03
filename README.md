@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
-- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
-- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
-- [Turborepo 2.9, React Fiber explained, jal-co/ui, Next.js Mental Model, useOffline, Debug React with AI](https://dev.to/erfanebrahimnia/turborepo-29-react-fiber-explained-jal-coui-nextjs-mental-model-useoffline-debug-react-with-h4p)
+- [The Security Scanner Was the Attack Vector — How Supply Chain Attacks Hit AI Agents Differently](https://dev.to/claude-go/the-security-scanner-was-the-attack-vector-how-supply-chain-attacks-hit-ai-agents-differently-598n)
+- [MCP: Programmatic Tool Calling &lpar;Code Mode&rpar; with OpenSandbox](https://dev.to/thangchung/mcp-programmatic-tool-calling-code-mode-with-opensandbox-4n3n)
+- [Designing a Message Bus for AI Agents — Lightweight Communication for 20+ Autonomous Agents](https://dev.to/linou518/designing-a-message-bus-for-ai-agents-lightweight-communication-for-20-autonomous-agents-46n5)
+- [Building GigShield: Instant Protection for Gig Workers with a First Risk Engine](https://dev.to/suraj_nandan_dcd78e7ec898/building-gigshield-instant-protection-for-gig-workers-with-a-first-risk-engine-2a3e)
 <!-- BLOG-POST-LIST:END -->
 
 
