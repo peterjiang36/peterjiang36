@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Philosophy cannot make AI Moral](https://dev.to/aaih_sg/philosophy-cannot-make-ai-moral-618)
-- [I Built an AI Agent That Watches the Market While I Sleep](https://dev.to/chen_zhang_bac430bc7f6b95/i-built-an-ai-agent-that-watches-the-market-while-i-sleep-3go4)
-- [Agentic PHPUnit output](https://dev.to/xwero/agentic-phpunit-output-291n)
-- [Stop Falling for Unlimited Hosting: A Developer&#39;s Guide to Bandwidth vs. Data Transfer](https://dev.to/nyra_amsi/stop-falling-for-unlimited-hosting-a-developers-guide-to-bandwidth-vs-data-transfer-26f4)
+- [Are We Still Engineers or Just Tool Operators?](https://dev.to/mili_hunjic_70cb2c5dd0e49/are-we-still-engineers-or-just-tool-operators-43m9)
+- [Beyond the LLM: Why Amazon Bedrock Agents are the New EC2 for AI Orchestration](https://dev.to/jubinsoni/beyond-the-llm-why-amazon-bedrock-agents-are-the-new-ec2-for-ai-orchestration-amj)
+- [Truthy vs Falsy Values, Type Conversion](https://dev.to/nanthini_ammu_ac02ad32802/truthy-vs-falsy-values-type-conversion-1ao9)
+- [Extracting Images from PDF in the Browser: A Pure Client-Side Implementation](https://dev.to/linmingren/extracting-images-from-pdf-in-the-browser-a-pure-client-side-implementation-kga)
 <!-- BLOG-POST-LIST:END -->
 
 
