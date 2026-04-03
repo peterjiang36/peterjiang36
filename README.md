@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [YubiKey SSH Authentication: Stop Trusting Key Files on Disk](https://dev.to/orthogonalinfo/yubikey-ssh-authentication-stop-trusting-key-files-on-disk-157o)
-- [How Google&#39;s Ad Review Bots Have Evolved in 2026: What Media Buyers Need to Know](https://dev.to/chaanli/how-googles-ad-review-bots-have-evolved-in-2026-what-media-buyers-need-to-know-3o60)
-- [Best Mechanical Keyboards in 2026: 7 Picks From Budget to Endgame](https://dev.to/techpulselab/best-mechanical-keyboards-in-2026-7-picks-from-budget-to-endgame-3oga)
-- [Apfel: The Free AI Already Built Into Your Mac](https://dev.to/onsen/apfel-the-free-ai-already-built-into-your-mac-1kll)
+- [What Happened When I Got a Surprise $80 Claude Bill](https://dev.to/godnick/what-happened-when-i-got-a-surprise-80-claude-bill-5d83)
+- [The Zero-Cost Cloud Engineer Part 4: Cloud Storage, Secret Manager, and the Legacy Access Trap](https://dev.to/mohamadawwaad/the-zero-cost-cloud-engineer-part-4-cloud-storage-secret-manager-and-the-legacy-access-trap-32hi)
+- [Multiplayer Challenges](https://dev.to/jesuspinarte/multiplayer-challenges-1onb)
+- [The Trusted Document Problem: Why Indirect Prompt Injection Is Now Your AI Agent&#39;s #1 Security Risk](https://dev.to/waxell/the-trusted-document-problem-why-indirect-prompt-injection-is-now-your-ai-agents-1-security-risk-5c14)
 <!-- BLOG-POST-LIST:END -->
 
 
