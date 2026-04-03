@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wrapping John the Ripper in a PyQt5 GUI on Windows: Architecture and Hard-Won Lessons](https://dev.to/haseebkaloya/wrapping-john-the-ripper-in-a-pyqt5-gui-on-windows-architecture-and-hard-won-lessons-2b9a)
-- [Building Automated Translation Workflows for International Business Documents](https://dev.to/diogoheleno/building-automated-translation-workflows-for-international-business-documents-3ob8)
-- [What Kind of Database I Want NodeDB to Be](https://dev.to/nodedb/what-kind-of-database-i-want-nodedb-to-be-2ep)
-- [Type-Guided Constrained Decoding: How to Stop LLMs from Hallucinating Code](https://dev.to/delimitter_8b9077911a3848/type-guided-constrained-decoding-how-to-stop-llms-from-hallucinating-code-5hbc)
+- [How Does Payment Settlement Work?](https://dev.to/flutterwaveeng/how-does-payment-settlement-work-3p9m)
+- [When AI Leaks Internal Tags: Debugging a 3-Layer Streaming Architecture Bug](https://dev.to/bailorgana/when-ai-leaks-internal-tags-debugging-a-3-layer-streaming-architecture-bug-ig4)
+- [Building a SIEM-Style Threat Detection Dashboard Using ELK Stack and Docker](https://dev.to/dipesh_kumar_2fa6e436346e/building-a-siem-style-threat-detection-dashboard-using-elk-stack-and-docker-5de6)
+- [#6 Things Every Backend Engineer Should Know &lpar;That AI Won&#39;t Tell You&rpar;](https://dev.to/aayushghimirey/6-things-every-backend-engineer-should-know-that-ai-wont-tell-you-41hg)
 <!-- BLOG-POST-LIST:END -->
 
 
