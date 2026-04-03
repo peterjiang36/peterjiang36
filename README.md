@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agents Are Only Half as Smart as They Could Be](https://dev.to/synthaicode_commander/why-your-ai-agents-are-only-half-as-smart-as-they-could-be-2o39)
-- [How to Add Cross-Chain Swaps to a Go Microservice](https://dev.to/moonsoon69/how-to-add-cross-chain-swaps-to-a-go-microservice-4bll)
-- [5 Ways to Monitor Token Prices Across 46 EVM Chains](https://dev.to/moonsoon69/5-ways-to-monitor-token-prices-across-46-evm-chains-5c57)
-- [How to Build an AI Trading Agent with Swap API](https://dev.to/moonsoon69/how-to-build-an-ai-trading-agent-with-swap-api-2jgi)
+- [How to Use rs-trafilatura with crawl4ai](https://dev.to/murroughfoley/how-to-use-rs-trafilatura-with-crawl4ai-3nfd)
+- [CSS Eggs: Duck Eggs Woo-oo!](https://dev.to/jarvisscript/css-eggs-duck-eggs-woo-oo-1a7d)
+- [🚀 Live Webinar Tomorrow: Build a Restaurant Ordering App from Scratch](https://dev.to/myogeshchavan97/live-webinar-tomorrow-build-a-restaurant-ordering-app-from-scratch-53g9)
+- [rs-trafilatura: Page-Type-Aware Web Content Extraction in Rust](https://dev.to/murroughfoley/rs-trafilatura-page-type-aware-web-content-extraction-in-rust-2ppf)
 <!-- BLOG-POST-LIST:END -->
 
 
