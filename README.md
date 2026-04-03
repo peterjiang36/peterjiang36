@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are We Still Engineers or Just Tool Operators?](https://dev.to/mili_hunjic_70cb2c5dd0e49/are-we-still-engineers-or-just-tool-operators-43m9)
-- [Beyond the LLM: Why Amazon Bedrock Agents are the New EC2 for AI Orchestration](https://dev.to/jubinsoni/beyond-the-llm-why-amazon-bedrock-agents-are-the-new-ec2-for-ai-orchestration-amj)
-- [Truthy vs Falsy Values, Type Conversion](https://dev.to/nanthini_ammu_ac02ad32802/truthy-vs-falsy-values-type-conversion-1ao9)
-- [Extracting Images from PDF in the Browser: A Pure Client-Side Implementation](https://dev.to/linmingren/extracting-images-from-pdf-in-the-browser-a-pure-client-side-implementation-kga)
+- [Wrapping John the Ripper in a PyQt5 GUI on Windows: Architecture and Hard-Won Lessons](https://dev.to/haseebkaloya/wrapping-john-the-ripper-in-a-pyqt5-gui-on-windows-architecture-and-hard-won-lessons-2b9a)
+- [Building Automated Translation Workflows for International Business Documents](https://dev.to/diogoheleno/building-automated-translation-workflows-for-international-business-documents-3ob8)
+- [What Kind of Database I Want NodeDB to Be](https://dev.to/nodedb/what-kind-of-database-i-want-nodedb-to-be-2ep)
+- [Type-Guided Constrained Decoding: How to Stop LLMs from Hallucinating Code](https://dev.to/delimitter_8b9077911a3848/type-guided-constrained-decoding-how-to-stop-llms-from-hallucinating-code-5hbc)
 <!-- BLOG-POST-LIST:END -->
 
 
