@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hand-Wiring React Tables: How I Bridged Drizzle ORM and TanStack in 5 Minutes](https://dev.to/jacksonkasi/stop-hand-wiring-react-tables-how-i-bridged-drizzle-orm-and-tanstack-in-5-minutes-11f0)
-- [Migrating From Shared Hosting to Deploynix: A Complete Guide](https://dev.to/deploynix/migrating-from-shared-hosting-to-deploynix-a-complete-guide-33fm)
-- [Single-Model vs Multi-Model AI Code Review: What I Learned Running Both](https://dev.to/brianmello/single-model-vs-multi-model-ai-code-review-what-i-learned-running-both-2i22)
-- [Adding Authentication and SSO to a Streamlit App](https://dev.to/descope/adding-authentication-and-sso-to-a-streamlit-app-4cm3)
+- [YubiKey SSH Authentication: Stop Trusting Key Files on Disk](https://dev.to/orthogonalinfo/yubikey-ssh-authentication-stop-trusting-key-files-on-disk-157o)
+- [How Google&#39;s Ad Review Bots Have Evolved in 2026: What Media Buyers Need to Know](https://dev.to/chaanli/how-googles-ad-review-bots-have-evolved-in-2026-what-media-buyers-need-to-know-3o60)
+- [Best Mechanical Keyboards in 2026: 7 Picks From Budget to Endgame](https://dev.to/techpulselab/best-mechanical-keyboards-in-2026-7-picks-from-budget-to-endgame-3oga)
+- [Apfel: The Free AI Already Built Into Your Mac](https://dev.to/onsen/apfel-the-free-ai-already-built-into-your-mac-1kll)
 <!-- BLOG-POST-LIST:END -->
 
 
