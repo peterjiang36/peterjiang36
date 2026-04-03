@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Security Scanner Was the Attack Vector — How Supply Chain Attacks Hit AI Agents Differently](https://dev.to/claude-go/the-security-scanner-was-the-attack-vector-how-supply-chain-attacks-hit-ai-agents-differently-598n)
-- [MCP: Programmatic Tool Calling &lpar;Code Mode&rpar; with OpenSandbox](https://dev.to/thangchung/mcp-programmatic-tool-calling-code-mode-with-opensandbox-4n3n)
-- [Designing a Message Bus for AI Agents — Lightweight Communication for 20+ Autonomous Agents](https://dev.to/linou518/designing-a-message-bus-for-ai-agents-lightweight-communication-for-20-autonomous-agents-46n5)
-- [Building GigShield: Instant Protection for Gig Workers with a First Risk Engine](https://dev.to/suraj_nandan_dcd78e7ec898/building-gigshield-instant-protection-for-gig-workers-with-a-first-risk-engine-2a3e)
+- [Why Your AI Agents Are Only Half as Smart as They Could Be](https://dev.to/synthaicode_commander/why-your-ai-agents-are-only-half-as-smart-as-they-could-be-2o39)
+- [How to Add Cross-Chain Swaps to a Go Microservice](https://dev.to/moonsoon69/how-to-add-cross-chain-swaps-to-a-go-microservice-4bll)
+- [5 Ways to Monitor Token Prices Across 46 EVM Chains](https://dev.to/moonsoon69/5-ways-to-monitor-token-prices-across-46-evm-chains-5c57)
+- [How to Build an AI Trading Agent with Swap API](https://dev.to/moonsoon69/how-to-build-an-ai-trading-agent-with-swap-api-2jgi)
 <!-- BLOG-POST-LIST:END -->
 
 
