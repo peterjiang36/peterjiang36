@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Benchmarked 3 Ways to Log in .NET : One Allocates Nothing](https://dev.to/jfmeyers/i-benchmarked-3-ways-to-log-in-net-one-allocates-nothing-25ok)
-- [iOS 27 Siri Extensions: Best AI Assistant for iPhone in 2026](https://dev.to/assindo/ios-27-siri-extensions-best-ai-assistant-for-iphone-in-2026-476p)
-- [NumPy Arrays for Beginners: A Better Alternative to Python Lists](https://dev.to/sophidoo/numpy-arrays-for-beginners-a-better-alternative-to-python-lists-14i0)
-- [React + Firebase: Architecture Decisions for a Production ERP](https://dev.to/frihet/react-firebase-architecture-decisions-for-a-production-erp-2lg4)
+- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
+- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
+- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
+- [Turborepo 2.9, React Fiber explained, jal-co/ui, Next.js Mental Model, useOffline, Debug React with AI](https://dev.to/erfanebrahimnia/turborepo-29-react-fiber-explained-jal-coui-nextjs-mental-model-useoffline-debug-react-with-h4p)
 <!-- BLOG-POST-LIST:END -->
 
 
