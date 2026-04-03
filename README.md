@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead Code Phá Hủy Công Ty 1,5 Tỷ Đô Trong 45 Phút — Knight Capital](https://dev.to/phuoc_nguyendang_12ed536/dead-code-pha-huy-cong-ty-15-ty-do-trong-45-phut-knight-capital-ihj)
-- [From MLOps to LLMOps: A Practical AWS GenAI Operations Guide](https://dev.to/aws-builders/from-mlops-to-llmops-a-practical-aws-genai-operations-guide-4k31)
-- [Cleaned 10k customer records. One emoji crashed my entire pipeline.](https://dev.to/nicodev__/cleaned-10k-customer-records-one-emoji-crashed-my-entire-pipeline-3n1b)
-- [He Wrote the Book on Mercy — His Student Showed None](https://dev.to/phuoc_nguyendang_12ed536/he-wrote-the-book-on-mercy-his-student-showed-none-42h9)
+- [Stop Hand-Wiring React Tables: How I Bridged Drizzle ORM and TanStack in 5 Minutes](https://dev.to/jacksonkasi/stop-hand-wiring-react-tables-how-i-bridged-drizzle-orm-and-tanstack-in-5-minutes-11f0)
+- [Migrating From Shared Hosting to Deploynix: A Complete Guide](https://dev.to/deploynix/migrating-from-shared-hosting-to-deploynix-a-complete-guide-33fm)
+- [Single-Model vs Multi-Model AI Code Review: What I Learned Running Both](https://dev.to/brianmello/single-model-vs-multi-model-ai-code-review-what-i-learned-running-both-2i22)
+- [Adding Authentication and SSO to a Streamlit App](https://dev.to/descope/adding-authentication-and-sso-to-a-streamlit-app-4cm3)
 <!-- BLOG-POST-LIST:END -->
 
 
