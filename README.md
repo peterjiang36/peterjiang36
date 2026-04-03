@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happened When I Got a Surprise $80 Claude Bill](https://dev.to/godnick/what-happened-when-i-got-a-surprise-80-claude-bill-5d83)
-- [The Zero-Cost Cloud Engineer Part 4: Cloud Storage, Secret Manager, and the Legacy Access Trap](https://dev.to/mohamadawwaad/the-zero-cost-cloud-engineer-part-4-cloud-storage-secret-manager-and-the-legacy-access-trap-32hi)
-- [Multiplayer Challenges](https://dev.to/jesuspinarte/multiplayer-challenges-1onb)
-- [The Trusted Document Problem: Why Indirect Prompt Injection Is Now Your AI Agent&#39;s #1 Security Risk](https://dev.to/waxell/the-trusted-document-problem-why-indirect-prompt-injection-is-now-your-ai-agents-1-security-risk-5c14)
+- [BullMQ + Node.js: Replace 50 Cron Jobs with Smart Queues](https://dev.to/_1353e04f14b156240b/bullmq-nodejs-replace-50-cron-jobs-with-smart-queues-3j3n)
+- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
+- [The Dependency Firewall: Isolate AI Changes So One Bad Prompt Can&#39;t Break Your Build](https://dev.to/novaelvaris/the-dependency-firewall-isolate-ai-changes-so-one-bad-prompt-cant-break-your-build-3f6g)
+- [Why I built a SQLite workbench in bash](https://dev.to/fissible/why-i-built-a-sqlite-workbench-in-bash-3m5o)
 <!-- BLOG-POST-LIST:END -->
 
 
