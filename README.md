@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use rs-trafilatura with crawl4ai](https://dev.to/murroughfoley/how-to-use-rs-trafilatura-with-crawl4ai-3nfd)
-- [CSS Eggs: Duck Eggs Woo-oo!](https://dev.to/jarvisscript/css-eggs-duck-eggs-woo-oo-1a7d)
-- [🚀 Live Webinar Tomorrow: Build a Restaurant Ordering App from Scratch](https://dev.to/myogeshchavan97/live-webinar-tomorrow-build-a-restaurant-ordering-app-from-scratch-53g9)
-- [rs-trafilatura: Page-Type-Aware Web Content Extraction in Rust](https://dev.to/murroughfoley/rs-trafilatura-page-type-aware-web-content-extraction-in-rust-2ppf)
+- [Migrating from Claude Sub-agents to duckflux](https://dev.to/ggondim/migrating-from-claude-sub-agents-to-duckflux-d9e)
+- [Genetic Algorithms: From Line Fitting to the Travelling Salesman](https://dev.to/berkan_sesen/genetic-algorithms-from-line-fitting-to-the-travelling-salesman-21pf)
+- [The Part of My AI Stack That Isn&#39;t AI: Human Workers via MCP](https://dev.to/tonylewislondon/the-part-of-my-ai-stack-that-isnt-ai-human-workers-via-mcp-5217)
+- [One Company Found 1,600 AI Tools Running Without Approval. Stanford Says This Is Normal.](https://dev.to/tonylewislondon/one-company-found-1600-ai-tools-running-without-approval-stanford-says-this-is-normal-2gki)
 <!-- BLOG-POST-LIST:END -->
 
 
