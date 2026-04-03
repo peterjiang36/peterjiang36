@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Claude Sub-agents to duckflux](https://dev.to/ggondim/migrating-from-claude-sub-agents-to-duckflux-d9e)
-- [Genetic Algorithms: From Line Fitting to the Travelling Salesman](https://dev.to/berkan_sesen/genetic-algorithms-from-line-fitting-to-the-travelling-salesman-21pf)
-- [The Part of My AI Stack That Isn&#39;t AI: Human Workers via MCP](https://dev.to/tonylewislondon/the-part-of-my-ai-stack-that-isnt-ai-human-workers-via-mcp-5217)
-- [One Company Found 1,600 AI Tools Running Without Approval. Stanford Says This Is Normal.](https://dev.to/tonylewislondon/one-company-found-1600-ai-tools-running-without-approval-stanford-says-this-is-normal-2gki)
+- [Dead Code Phá Hủy Công Ty 1,5 Tỷ Đô Trong 45 Phút — Knight Capital](https://dev.to/phuoc_nguyendang_12ed536/dead-code-pha-huy-cong-ty-15-ty-do-trong-45-phut-knight-capital-ihj)
+- [From MLOps to LLMOps: A Practical AWS GenAI Operations Guide](https://dev.to/aws-builders/from-mlops-to-llmops-a-practical-aws-genai-operations-guide-4k31)
+- [Cleaned 10k customer records. One emoji crashed my entire pipeline.](https://dev.to/nicodev__/cleaned-10k-customer-records-one-emoji-crashed-my-entire-pipeline-3n1b)
+- [He Wrote the Book on Mercy — His Student Showed None](https://dev.to/phuoc_nguyendang_12ed536/he-wrote-the-book-on-mercy-his-student-showed-none-42h9)
 <!-- BLOG-POST-LIST:END -->
 
 
