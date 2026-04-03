@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python vs JavaScript vs Go in 2026: Which Language Should You Learn Right Now?](https://dev.to/castillodk/python-vs-javascript-vs-go-in-2026-which-language-should-you-learn-right-now-1cdf)
-- [MCP is the Future of AI Tools: Here&#39;s How to Use It in TypeScript](https://dev.to/neurolink/mcp-is-the-future-of-ai-tools-heres-how-to-use-it-in-typescript-25b0)
-- [Running ChatGPT, Claude, and Gemini in One TypeScript App](https://dev.to/neurolink/running-chatgpt-claude-and-gemini-in-one-typescript-app-47pm)
-- [Grid: A Private, Open-Source Location Sharing Solution](https://dev.to/stelixx-insider/grid-a-private-open-source-location-sharing-solution-1c5d)
+- [Philosophy cannot make AI Moral](https://dev.to/aaih_sg/philosophy-cannot-make-ai-moral-618)
+- [I Built an AI Agent That Watches the Market While I Sleep](https://dev.to/chen_zhang_bac430bc7f6b95/i-built-an-ai-agent-that-watches-the-market-while-i-sleep-3go4)
+- [Agentic PHPUnit output](https://dev.to/xwero/agentic-phpunit-output-291n)
+- [Stop Falling for Unlimited Hosting: A Developer&#39;s Guide to Bandwidth vs. Data Transfer](https://dev.to/nyra_amsi/stop-falling-for-unlimited-hosting-a-developers-guide-to-bandwidth-vs-data-transfer-26f4)
 <!-- BLOG-POST-LIST:END -->
 
 
