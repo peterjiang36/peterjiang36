@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Case Study in Solving the Riddle of FrancisTRDEV](https://dev.to/ddebajyati/a-case-study-in-solving-the-riddle-of-francistrdev-2c1i)
-- [What Is a Container? The OS-Level Truth Most Engineers Don&#39;t Know](https://dev.to/chkrishnatej/what-is-a-container-the-os-level-truth-most-engineers-dont-know-3n2l)
-- [How to Understand Unwritten Rules at Work 💼](https://dev.to/sonika_onboardedhq/how-to-understand-unwritten-rules-at-work-4pn)
-- [Zero-Trust Capability Delegation for MCP Agents: How I Built AgentBond](https://dev.to/tvprasad/zero-trust-capability-delegation-for-mcp-agents-how-i-built-agentbond-4el1)
+- [Two sum problem](https://dev.to/kittichanr/two-sum-problem-21p3)
+- [Hi, I&#39;m Colin — Full Stack Developer Focused on 3D &amp; AI](https://dev.to/colin_mak_1015/hi-im-colin-full-stack-developer-focused-on-3d-ai-2kf)
+- [Creative Freedom at Scale: How CHILI GraFx is Automating the Future of Brand Governance](https://dev.to/documentorium/creative-freedom-at-scale-how-chili-grafx-is-automating-the-future-of-brand-governance-ocm)
+- [Docker Build Output: 50 Lines You Don&#39;t Need](https://dev.to/ji_ai/docker-build-output-50-lines-you-dont-need-4cpi)
 <!-- BLOG-POST-LIST:END -->
 
 
