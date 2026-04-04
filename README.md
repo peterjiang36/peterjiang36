@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Search Competitive Analysis: 3 Citations Your Competitors Are Winning &lpar;And How to Capture Them&rpar;](https://dev.to/texta/ai-search-competitive-analysis-3-citations-your-competitors-are-winning-and-how-to-capture-them-599f)
-- [We Moved a Production System from Azure VMs to Bare Metal Kubernetes in 3 Months](https://dev.to/aldotek_llc/we-moved-a-production-system-from-azure-vms-to-bare-metal-kubernetes-in-3-months-3g36)
-- [Morocco&#39;s E-Invoicing Revolution: What Every Business Needs to Know Before 2026](https://dev.to/badreddine_aitelkhadir_/moroccos-e-invoicing-revolution-what-every-business-needs-to-know-before-2026-17a)
-- [We audited LoCoMo: 6.4% of the answer key is wrong and the judge accepts up to 63% of intentionally](https://dev.to/penfieldlabs/we-audited-locomo-64-of-the-answer-key-is-wrong-and-the-judge-accepts-up-to-63-of-intentionally-33lg)
+- [I Tried to Automate a Manual Review Task with Claude. It Wasn&#39;t Worth It.](https://dev.to/alistairjcbrown/i-tried-to-automate-a-manual-review-task-with-claude-it-wasnt-worth-it-13m9)
+- [A color QR code on a physical medium — it actually reads!](https://dev.to/astra31415926/a-color-qr-code-on-a-physical-medium-it-actually-reads-3lhj)
+- [I Built an AI That Speaks Fluent LinkedIn &lpar;And It&#39;s Terrifying&rpar;](https://dev.to/avgskully/i-built-an-ai-that-speaks-fluent-linkedin-and-its-terrifying-25a7)
+- [I Built an Invoice Parser API in One Day and Listed it on RapidAPI &lpar;Day 1 of 21&rpar;](https://dev.to/ruanmuller04/i-built-an-invoice-parser-api-in-one-day-and-listed-it-on-rapidapi-day-1-of-21-27gb)
 <!-- BLOG-POST-LIST:END -->
 
 
