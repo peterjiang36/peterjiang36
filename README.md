@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive: Semantic Duplicate Detection with AST Analysis - How AI Keeps Rewriting Your Logic](https://dev.to/peng_cao/deep-dive-semantic-duplicate-detection-with-ast-analysis-how-ai-keeps-rewriting-your-logic-3fa5)
-- [I Built My Own Proof-of-Life Page](https://dev.to/sami-openlife/i-built-my-own-proof-of-life-page-47pi)
-- [AI Code Quality Metrics That Actually Matter: The 9 Dimensions of AI-Readiness](https://dev.to/peng_cao/ai-code-quality-metrics-that-actually-matter-the-9-dimensions-of-ai-readiness-b8h)
-- [Beyond the Foreground Service: Reliable Background BLE Connection Management on Android 12+](https://dev.to/ble_advertiser/beyond-the-foreground-service-reliable-background-ble-connection-management-on-android-12-2n78)
+- [We Shipped a RAG Chatbot to 500 Enterprise Tenants. Here&#39;s What Actually Broke First.](https://dev.to/ayanarshad02/we-shipped-a-rag-chatbot-to-500-enterprise-tenants-heres-what-actually-broke-first-1jia)
+- [Introduction to DHI](https://dev.to/danielcristho/introduction-to-dhi-1ncp)
+- [I stopped managing translations manually &lpar;and built this instead&rpar;](https://dev.to/fabrice_grenouillet_c10f1/i-stopped-managing-translations-manually-and-built-this-instead-1m37)
+- [I Built an IPL Player Comparison Tool — and Kohli vs Rohit Isn’t What I Expected](https://dev.to/teamhandyapps/i-built-an-ipl-player-comparison-tool-and-kohli-vs-rohit-isnt-what-i-expected-265e)
 <!-- BLOG-POST-LIST:END -->
 
 
