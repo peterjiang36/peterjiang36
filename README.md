@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Audited 50 Websites. Here&#39;s What Was Silently Broken](https://dev.to/nickycdk/i-audited-50-websites-heres-what-was-silently-broken-3mk7)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained.](https://dev.to/leah_kivuti_be52fd03ba0f5/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-4a6f)
-- [Optimizing Claude Code token usage: lessons learned](https://dev.to/ohugonnot/optimizing-claude-code-token-usage-lessons-learned-3h71)
-- [Agents Bedrock AgentCore en mode VPC : attention aux coûts de NAT Gateway !](https://dev.to/aws-builders/agents-bedrock-agentcore-en-mode-vpc-attention-aux-couts-de-nat-gateway--3pp4)
+- [I Tested Every Gemma 4 Model Locally on My MacBook - What Actually Works](https://dev.to/akartit/i-tested-every-gemma-4-model-locally-on-my-macbook-what-actually-works-3g2o)
+- [The ERP Is Dead: Why Your Business Needs an AI Operating System](https://dev.to/frihet/the-erp-is-dead-why-your-business-needs-an-ai-operating-system-25gc)
+- [Best Python Code Quality Tools Compared](https://dev.to/rahulxsingh/best-python-code-quality-tools-compared-5dfi)
+- [The Warrior&#39;s Planner](https://dev.to/prema_ananda/the-warriors-planner-ah)
 <!-- BLOG-POST-LIST:END -->
 
 
