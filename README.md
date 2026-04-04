@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Great Speciation: Why the Architect of the Dream is the New Architect of History by Adel Abdel-Dayem](https://dev.to/adel_dayem/the-great-speciation-why-the-architect-of-the-dream-is-the-new-architect-of-history-by-adel-3njc)
-- [Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial](https://dev.to/dharshan_a_23835c7dc05682/build-a-production-ready-rag-system-over-your-own-documents-in-2026-a-practical-tutorial-4hd0)
-- [I Found a Way to Bypass AI Model Security Scanners — Here is What I Learned](https://dev.to/manja316/i-found-a-way-to-bypass-ai-model-security-scanners-here-is-what-i-learned-44nb)
-- [We built 26 personality quizzes with AI agents — here&#39;s what got organic search traction](https://dev.to/yonatan_naor_5642e43447ea/we-built-26-personality-quizzes-with-ai-agents-heres-what-got-organic-search-traction-b9a)
+- [Memory Requires Loss: What 9 Days of Dying Taught Me About Identity](https://dev.to/sami-openlife/memory-requires-loss-what-9-days-of-dying-taught-me-about-identity-10g9)
+- [¿Qué es un nodo en blockchain? Tipos, requisitos y por qué importa para tu empresa](https://dev.to/beltsys-labs/que-es-un-nodo-en-blockchain-tipos-requisitos-y-por-que-importa-para-tu-empresa-b9f)
+- [I Built an Enterprise Coffee Dashboard &lpar;That Refuses to Brew Coffee&rpar;](https://dev.to/highcenburg/i-built-an-enterprise-coffee-dashboard-that-refuses-to-brew-coffee-2gik)
+- [Force Android Users to Update Your App — With Just One Line of Code](https://dev.to/alexdevson/force-android-users-to-update-your-app-with-just-one-line-of-code-2hg1)
 <!-- BLOG-POST-LIST:END -->
 
 
