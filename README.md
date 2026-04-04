@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Data from Multiple Sources in Power BI: A Pictorial Guide to Seamless Data Integration](https://dev.to/madina_yusuff_1/getting-data-from-multiple-sources-in-power-bi-a-pictorial-guide-to-seamless-data-integration-5clp)
-- [Deep Neural Decision Trees](https://dev.to/paperium/deep-neural-decision-trees-4j8d)
-- [The AI Coding Productivity Illusion](https://dev.to/rawveg/the-ai-coding-productivity-illusion-4kde)
-- [S1: My Aurora Robotics 2.0 Experience](https://dev.to/abdullateef/day-1-why-im-returning-to-robotics-my-aurora-robotics-orientation-experience-55ej)
+- [I built an npm middleware that scores your LLM prompts before they hit your agent workflow](https://dev.to/onchainaiintel/i-built-an-npm-middleware-that-scores-your-llm-prompts-before-they-hit-your-agent-workflow-53ci)
+- [Access Your Home Server from Anywhere — Tailscale, Oracle VPS, and frp](https://dev.to/avgskully/access-your-home-server-from-anywhere-tailscale-oracle-vps-and-frp-4887)
+- [I Built a Programming Language That Speaks 8 Human Languages](https://dev.to/z_language/i-built-a-programming-language-that-speaks-8-human-languages-jco)
+- [Blade Runner 2026](https://dev.to/jballanc/blade-runner-2026-1dmi)
 <!-- BLOG-POST-LIST:END -->
 
 
