@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unseen Cartographers: A Hybid Report on Underrepresented Voices in Tech](https://dev.to/narnaiezzsshaa/the-unseen-cartographers-a-hybid-report-on-underrepresented-voices-in-tech-2gif)
-- [Qodo AI Pricing: Free vs Teams vs Enterprise Plans in 2026](https://dev.to/rahulxsingh/qodo-ai-pricing-free-vs-teams-vs-enterprise-plans-in-2026-2mh5)
-- [You&#39;ve Never Seen 90% of the Internet. Neither Has Google.](https://dev.to/lazyasscoder/youve-never-seen-90-of-the-internet-neither-has-google-13d4)
-- [Anthropic&#39;s skills playbook vs our custom knowledge layer](https://dev.to/szkjn/anthropics-skills-playbook-vs-our-custom-knowledge-layer-29g3)
+- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
+- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
+- [Why More GPUs Won&#39;t Save Your AI Infrastructure](https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8)
+- [I built a self-hosted alternative to Marker.io - here&#39;s how it works under the hood](https://dev.to/neosianexus/i-built-a-self-hosted-alternative-to-markerio-heres-how-it-works-under-the-hood-2i7k)
 <!-- BLOG-POST-LIST:END -->
 
 
