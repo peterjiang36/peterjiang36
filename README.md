@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Show HN: TerminallySKILL -- Open-source terminal workspace with visual command builder and SSH/VNC](https://dev.to/cryptopoly/show-hn-terminallyskill-open-source-terminal-workspace-with-visual-command-builder-and-sshvnc-6pb)
-- [Atualizações do Android: Histórico e Longevidade &lpar;Guia 2026&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/atualizacoes-do-android-historico-e-longevidade-guia-2026-3a6h)
-- [From Data Sources to Insights: Integrating Data in Power BI](https://dev.to/temiloluwa_bolaji_6a05260/from-data-sources-to-insights-integrating-data-in-power-bi-38oa)
-- [From Data Sources to Insights: Integrating Data in Power BI](https://dev.to/temiloluwa_bolaji_6a05260/from-data-sources-to-insights-integrating-data-in-power-bi-3kff)
+- [Beyond the Disk: Why PandaCloud is Now an Ephemeral RAM Cache Pool](https://dev.to/c4fkrx/beyond-the-disk-why-pandacloud-is-now-an-ephemeral-ram-cache-pool-4743)
+- [The Prototype Tax: Why AI Makes Production-First Architecture the Smarter Default](https://dev.to/aiavenger/the-prototype-tax-why-ai-makes-production-first-architecture-the-smarter-default-3b3l)
+- [Google Drive Links Never Expire. Thats a Problem.](https://dev.to/robertatkinson3570/google-drive-links-never-expire-thats-a-problem-58be)
+- [Qodo AI Alternatives: 10 Best AI Test Gen Tools](https://dev.to/rahulxsingh/qodo-ai-alternatives-10-best-ai-test-gen-tools-1kdj)
 <!-- BLOG-POST-LIST:END -->
 
 
