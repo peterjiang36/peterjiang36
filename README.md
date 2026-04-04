@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
-- [MCP Connector Poisoning: How Compromised npm Packages Hijack Your AI Agent](https://dev.to/toniantunovic/mcp-connector-poisoning-how-compromised-npm-packages-hijack-your-ai-agent-3ha0)
-- [Deduplicating 401,000 Equipment Auction Records with LLM Calibration](https://dev.to/benzsevern/deduplicating-401000-equipment-auction-records-with-llm-calibration-1knn)
-- [AI-Powered Deduplication: How LLMs Supercharge the Golden Suite](https://dev.to/benzsevern/ai-powered-deduplication-how-llms-supercharge-the-golden-suite-38pp)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2d5j)
+- [Show HN: LoreSpec – Structured knowledge extraction from AI conversations](https://dev.to/jgnoncelogic/show-hn-lorespec-structured-knowledge-extraction-from-ai-conversations-1k1l)
+- [Getting Started with OpenClaw: A Step-by-Step Guide to Setting Up OpenClaw on a VPS](https://dev.to/geraldm/getting-started-with-openclaw-a-step-by-step-guide-to-setting-up-openclaw-on-a-vps-574d)
+- [Qodo Merge GitHub Integration: Automated PR Review Setup](https://dev.to/rahulxsingh/qodo-merge-github-integration-automated-pr-review-setup-4i2g)
 <!-- BLOG-POST-LIST:END -->
 
 
