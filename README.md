@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Disk: Why PandaCloud is Now an Ephemeral RAM Cache Pool](https://dev.to/c4fkrx/beyond-the-disk-why-pandacloud-is-now-an-ephemeral-ram-cache-pool-4743)
-- [The Prototype Tax: Why AI Makes Production-First Architecture the Smarter Default](https://dev.to/aiavenger/the-prototype-tax-why-ai-makes-production-first-architecture-the-smarter-default-3b3l)
-- [Google Drive Links Never Expire. Thats a Problem.](https://dev.to/robertatkinson3570/google-drive-links-never-expire-thats-a-problem-58be)
-- [Qodo AI Alternatives: 10 Best AI Test Gen Tools](https://dev.to/rahulxsingh/qodo-ai-alternatives-10-best-ai-test-gen-tools-1kdj)
+- [AI Search Competitive Analysis: 3 Citations Your Competitors Are Winning &lpar;And How to Capture Them&rpar;](https://dev.to/texta/ai-search-competitive-analysis-3-citations-your-competitors-are-winning-and-how-to-capture-them-599f)
+- [We Moved a Production System from Azure VMs to Bare Metal Kubernetes in 3 Months](https://dev.to/aldotek_llc/we-moved-a-production-system-from-azure-vms-to-bare-metal-kubernetes-in-3-months-3g36)
+- [Morocco&#39;s E-Invoicing Revolution: What Every Business Needs to Know Before 2026](https://dev.to/badreddine_aitelkhadir_/moroccos-e-invoicing-revolution-what-every-business-needs-to-know-before-2026-17a)
+- [We audited LoCoMo: 6.4% of the answer key is wrong and the judge accepts up to 63% of intentionally](https://dev.to/penfieldlabs/we-audited-locomo-64-of-the-answer-key-is-wrong-and-the-judge-accepts-up-to-63-of-intentionally-33lg)
 <!-- BLOG-POST-LIST:END -->
 
 
