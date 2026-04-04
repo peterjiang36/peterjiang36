@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an npm middleware that scores your LLM prompts before they hit your agent workflow](https://dev.to/onchainaiintel/i-built-an-npm-middleware-that-scores-your-llm-prompts-before-they-hit-your-agent-workflow-53ci)
-- [Access Your Home Server from Anywhere — Tailscale, Oracle VPS, and frp](https://dev.to/avgskully/access-your-home-server-from-anywhere-tailscale-oracle-vps-and-frp-4887)
-- [I Built a Programming Language That Speaks 8 Human Languages](https://dev.to/z_language/i-built-a-programming-language-that-speaks-8-human-languages-jco)
-- [Blade Runner 2026](https://dev.to/jballanc/blade-runner-2026-1dmi)
+- [Show HN: TerminallySKILL -- Open-source terminal workspace with visual command builder and SSH/VNC](https://dev.to/cryptopoly/show-hn-terminallyskill-open-source-terminal-workspace-with-visual-command-builder-and-sshvnc-6pb)
+- [Atualizações do Android: Histórico e Longevidade &lpar;Guia 2026&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/atualizacoes-do-android-historico-e-longevidade-guia-2026-3a6h)
+- [From Data Sources to Insights: Integrating Data in Power BI](https://dev.to/temiloluwa_bolaji_6a05260/from-data-sources-to-insights-integrating-data-in-power-bi-38oa)
+- [From Data Sources to Insights: Integrating Data in Power BI](https://dev.to/temiloluwa_bolaji_6a05260/from-data-sources-to-insights-integrating-data-in-power-bi-3kff)
 <!-- BLOG-POST-LIST:END -->
 
 
