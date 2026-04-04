@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2d5j)
-- [Show HN: LoreSpec – Structured knowledge extraction from AI conversations](https://dev.to/jgnoncelogic/show-hn-lorespec-structured-knowledge-extraction-from-ai-conversations-1k1l)
-- [Getting Started with OpenClaw: A Step-by-Step Guide to Setting Up OpenClaw on a VPS](https://dev.to/geraldm/getting-started-with-openclaw-a-step-by-step-guide-to-setting-up-openclaw-on-a-vps-574d)
-- [Qodo Merge GitHub Integration: Automated PR Review Setup](https://dev.to/rahulxsingh/qodo-merge-github-integration-automated-pr-review-setup-4i2g)
+- [Agent Middleware in Microsoft Agent Framework 1.0](https://dev.to/sreeni5018/agent-middleware-in-microsoft-agent-framework-10-2bm0)
+- [&quot;I Built a Web Browser from Scratch in 42 Days — No Libraries, Just Node.js&quot;](https://dev.to/nitinkumaryadav1307/i-built-a-web-browser-from-scratch-in-42-days-no-libraries-just-nodejs-416h)
+- [Deep Links em Flutter: O Guia Definitivo para Iniciantes &lpar;Sem Pacotes de Terceiros&rpar; &lpar;Parte 1&rpar;](https://dev.to/cdornelles/deep-links-em-flutter-o-guia-definitivo-para-iniciantes-sem-pacotes-de-terceiros-parte-1-4a31)
+- [How to Clean Up Xcode and Free 30-50GB on Your Mac](https://dev.to/nixeton/how-to-clean-up-xcode-and-free-30-50gb-on-your-mac-3ogh)
 <!-- BLOG-POST-LIST:END -->
 
 
