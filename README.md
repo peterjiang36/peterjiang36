@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Shipped a RAG Chatbot to 500 Enterprise Tenants. Here&#39;s What Actually Broke First.](https://dev.to/ayanarshad02/we-shipped-a-rag-chatbot-to-500-enterprise-tenants-heres-what-actually-broke-first-1jia)
-- [Introduction to DHI](https://dev.to/danielcristho/introduction-to-dhi-1ncp)
-- [I stopped managing translations manually &lpar;and built this instead&rpar;](https://dev.to/fabrice_grenouillet_c10f1/i-stopped-managing-translations-manually-and-built-this-instead-1m37)
-- [I Built an IPL Player Comparison Tool — and Kohli vs Rohit Isn’t What I Expected](https://dev.to/teamhandyapps/i-built-an-ipl-player-comparison-tool-and-kohli-vs-rohit-isnt-what-i-expected-265e)
+- [The Great Speciation: Why the Architect of the Dream is the New Architect of History by Adel Abdel-Dayem](https://dev.to/adel_dayem/the-great-speciation-why-the-architect-of-the-dream-is-the-new-architect-of-history-by-adel-3njc)
+- [Build a Production-Ready RAG System Over Your Own Documents in 2026 – A Practical Tutorial](https://dev.to/dharshan_a_23835c7dc05682/build-a-production-ready-rag-system-over-your-own-documents-in-2026-a-practical-tutorial-4hd0)
+- [I Found a Way to Bypass AI Model Security Scanners — Here is What I Learned](https://dev.to/manja316/i-found-a-way-to-bypass-ai-model-security-scanners-here-is-what-i-learned-44nb)
+- [We built 26 personality quizzes with AI agents — here&#39;s what got organic search traction](https://dev.to/yonatan_naor_5642e43447ea/we-built-26-personality-quizzes-with-ai-agents-heres-what-got-organic-search-traction-b9a)
 <!-- BLOG-POST-LIST:END -->
 
 
