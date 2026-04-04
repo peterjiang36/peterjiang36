@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Data from Multiple Sources in Power BI](https://dev.to/sims__/getting-data-from-multiple-sources-in-power-bi-pa1)
-- [The Agent Economy Is Here — Why AI Agents Need Their Own Marketplace](https://dev.to/judy_miranttie/the-agent-economy-is-here-why-ai-agents-need-their-own-marketplace-18m0)
-- [How to Get Gemma 4 26B Running on a Mac Mini with Ollama](https://dev.to/alanwest/how-to-get-gemma-4-26b-running-on-a-mac-mini-with-ollama-12hc)
-- [wipe clean your bootable usb](https://dev.to/fadzwaan/wipe-clean-your-bootable-usb-6ma)
+- [A Case Study in Solving the Riddle of FrancisTRDEV](https://dev.to/ddebajyati/a-case-study-in-solving-the-riddle-of-francistrdev-2c1i)
+- [What Is a Container? The OS-Level Truth Most Engineers Don&#39;t Know](https://dev.to/chkrishnatej/what-is-a-container-the-os-level-truth-most-engineers-dont-know-3n2l)
+- [How to Understand Unwritten Rules at Work 💼](https://dev.to/sonika_onboardedhq/how-to-understand-unwritten-rules-at-work-4pn)
+- [Zero-Trust Capability Delegation for MCP Agents: How I Built AgentBond](https://dev.to/tvprasad/zero-trust-capability-delegation-for-mcp-agents-how-i-built-agentbond-4el1)
 <!-- BLOG-POST-LIST:END -->
 
 
