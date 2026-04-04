@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Tasarımında &quot;Iconography&quot;: Özel SVG Seti Oluşturma](https://dev.to/forumweb/web-tasariminda-iconography-ozel-svg-seti-olusturma-468i)
-- [Unit Testing Prompts: The Key to Reliable AI in Production](https://dev.to/programmingcentral/unit-testing-prompts-the-key-to-reliable-ai-in-production-4gho)
-- [How I Built Collapse Detection for Persistent AI Agents](https://dev.to/nilegreen/how-i-built-collapse-detection-for-persistent-ai-agents-3c3c)
-- [I Built 3 APIs for Turkish E-Commerce Intelligence on Apify](https://dev.to/seralifatih/i-built-3-apis-for-turkish-e-commerce-intelligence-on-apify-3m0d)
+- [The Documentation Attack Surface: How npm Libraries Teach Insecure Patterns](https://dev.to/ethan_kreloff_4a7339e3d1d/the-documentation-attack-surface-how-npm-libraries-teach-insecure-patterns-2j6j)
+- [Everyone&#39;s Building AI Agents. Nobody&#39;s Building What Makes Them Work.](https://dev.to/team_prompeteer_b8b6250cd/everyones-building-ai-agents-nobodys-building-what-makes-them-work-1epb)
+- [Qodo Merge Review: Is AI PR Review Worth It?](https://dev.to/rahulxsingh/qodo-merge-review-is-ai-pr-review-worth-it-46j1)
+- [Understanding Attention Mechanisms – Part 6: Final Step in Decoding](https://dev.to/rijultp/understanding-attention-mechanisms-part-6-final-step-in-decoding-5a87)
 <!-- BLOG-POST-LIST:END -->
 
 
