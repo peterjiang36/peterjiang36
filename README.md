@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Checkpoint System for Claude Code CLI — Never Lose Your Work Again](https://dev.to/alexdevson/i-built-a-checkpoint-system-for-claude-code-cli-never-lose-your-work-again-11fc)
-- [Como configurar o WSL para rodar em um HD externo](https://dev.to/jeanmfdias/como-configurar-o-wsl-para-rodar-em-um-hd-externo-315b)
-- [My 3-Month Startup Directory Submission Journey — What Actually Moved the Needle](https://dev.to/jim_l_efc70c3a738e9f4baa7/my-3-month-startup-directory-submission-journey-what-actually-moved-the-needle-gef)
-- [DualClip: multi-slot clipboard manager for macOS](https://dev.to/rakkunn/dualclip-multi-slot-clipboard-manager-44f5)
+- [Getting Data from Multiple Sources in Power BI](https://dev.to/sims__/getting-data-from-multiple-sources-in-power-bi-pa1)
+- [The Agent Economy Is Here — Why AI Agents Need Their Own Marketplace](https://dev.to/judy_miranttie/the-agent-economy-is-here-why-ai-agents-need-their-own-marketplace-18m0)
+- [How to Get Gemma 4 26B Running on a Mac Mini with Ollama](https://dev.to/alanwest/how-to-get-gemma-4-26b-running-on-a-mac-mini-with-ollama-12hc)
+- [wipe clean your bootable usb](https://dev.to/fadzwaan/wipe-clean-your-bootable-usb-6ma)
 <!-- BLOG-POST-LIST:END -->
 
 
