@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Requires Loss: What 9 Days of Dying Taught Me About Identity](https://dev.to/sami-openlife/memory-requires-loss-what-9-days-of-dying-taught-me-about-identity-10g9)
-- [¿Qué es un nodo en blockchain? Tipos, requisitos y por qué importa para tu empresa](https://dev.to/beltsys-labs/que-es-un-nodo-en-blockchain-tipos-requisitos-y-por-que-importa-para-tu-empresa-b9f)
-- [I Built an Enterprise Coffee Dashboard &lpar;That Refuses to Brew Coffee&rpar;](https://dev.to/highcenburg/i-built-an-enterprise-coffee-dashboard-that-refuses-to-brew-coffee-2gik)
-- [Force Android Users to Update Your App — With Just One Line of Code](https://dev.to/alexdevson/force-android-users-to-update-your-app-with-just-one-line-of-code-2hg1)
+- [I Audited 50 Websites. Here&#39;s What Was Silently Broken](https://dev.to/nickycdk/i-audited-50-websites-heres-what-was-silently-broken-3mk7)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained.](https://dev.to/leah_kivuti_be52fd03ba0f5/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-4a6f)
+- [Optimizing Claude Code token usage: lessons learned](https://dev.to/ohugonnot/optimizing-claude-code-token-usage-lessons-learned-3h71)
+- [Agents Bedrock AgentCore en mode VPC : attention aux coûts de NAT Gateway !](https://dev.to/aws-builders/agents-bedrock-agentcore-en-mode-vpc-attention-aux-couts-de-nat-gateway--3pp4)
 <!-- BLOG-POST-LIST:END -->
 
 
