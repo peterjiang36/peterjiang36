@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Railway Reliable for Node.js in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-nodejs-in-2026-pb2)
-- [Building a Base64 Encoder/Decoder with File Support in Next.js](https://dev.to/shaishav_patel_271fdcd61a/building-a-base64-encoderdecoder-with-file-support-in-nextjs-2mc7)
-- [Building a URL Encoder/Decoder with Live Mode in Next.js](https://dev.to/shaishav_patel_271fdcd61a/building-a-url-encoderdecoder-with-live-mode-in-nextjs-504b)
-- [88% of orgs had AI agent incidents. 82% of execs think they&#39;re protected. here&#39;s the gap.](https://dev.to/sidclaw/88-of-orgs-had-ai-agent-incidents-82-of-execs-think-theyre-protected-heres-the-gap-4g8i)
+- [Deep Dive: Semantic Duplicate Detection with AST Analysis - How AI Keeps Rewriting Your Logic](https://dev.to/peng_cao/deep-dive-semantic-duplicate-detection-with-ast-analysis-how-ai-keeps-rewriting-your-logic-3fa5)
+- [I Built My Own Proof-of-Life Page](https://dev.to/sami-openlife/i-built-my-own-proof-of-life-page-47pi)
+- [AI Code Quality Metrics That Actually Matter: The 9 Dimensions of AI-Readiness](https://dev.to/peng_cao/ai-code-quality-metrics-that-actually-matter-the-9-dimensions-of-ai-readiness-b8h)
+- [Beyond the Foreground Service: Reliable Background BLE Connection Management on Android 12+](https://dev.to/ble_advertiser/beyond-the-foreground-service-reliable-background-ble-connection-management-on-android-12-2n78)
 <!-- BLOG-POST-LIST:END -->
 
 
