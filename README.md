@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two sum problem](https://dev.to/kittichanr/two-sum-problem-21p3)
-- [Hi, I&#39;m Colin — Full Stack Developer Focused on 3D &amp; AI](https://dev.to/colin_mak_1015/hi-im-colin-full-stack-developer-focused-on-3d-ai-2kf)
-- [Creative Freedom at Scale: How CHILI GraFx is Automating the Future of Brand Governance](https://dev.to/documentorium/creative-freedom-at-scale-how-chili-grafx-is-automating-the-future-of-brand-governance-ocm)
-- [Docker Build Output: 50 Lines You Don&#39;t Need](https://dev.to/ji_ai/docker-build-output-50-lines-you-dont-need-4cpi)
+- [Is Railway Reliable for Node.js in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-nodejs-in-2026-pb2)
+- [Building a Base64 Encoder/Decoder with File Support in Next.js](https://dev.to/shaishav_patel_271fdcd61a/building-a-base64-encoderdecoder-with-file-support-in-nextjs-2mc7)
+- [Building a URL Encoder/Decoder with Live Mode in Next.js](https://dev.to/shaishav_patel_271fdcd61a/building-a-url-encoderdecoder-with-live-mode-in-nextjs-504b)
+- [88% of orgs had AI agent incidents. 82% of execs think they&#39;re protected. here&#39;s the gap.](https://dev.to/sidclaw/88-of-orgs-had-ai-agent-incidents-82-of-execs-think-theyre-protected-heres-the-gap-4g8i)
 <!-- BLOG-POST-LIST:END -->
 
 
