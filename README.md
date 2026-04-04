@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Documentation Attack Surface: How npm Libraries Teach Insecure Patterns](https://dev.to/ethan_kreloff_4a7339e3d1d/the-documentation-attack-surface-how-npm-libraries-teach-insecure-patterns-2j6j)
-- [Everyone&#39;s Building AI Agents. Nobody&#39;s Building What Makes Them Work.](https://dev.to/team_prompeteer_b8b6250cd/everyones-building-ai-agents-nobodys-building-what-makes-them-work-1epb)
-- [Qodo Merge Review: Is AI PR Review Worth It?](https://dev.to/rahulxsingh/qodo-merge-review-is-ai-pr-review-worth-it-46j1)
-- [Understanding Attention Mechanisms – Part 6: Final Step in Decoding](https://dev.to/rijultp/understanding-attention-mechanisms-part-6-final-step-in-decoding-5a87)
+- [The Unseen Cartographers: A Hybid Report on Underrepresented Voices in Tech](https://dev.to/narnaiezzsshaa/the-unseen-cartographers-a-hybid-report-on-underrepresented-voices-in-tech-2gif)
+- [Qodo AI Pricing: Free vs Teams vs Enterprise Plans in 2026](https://dev.to/rahulxsingh/qodo-ai-pricing-free-vs-teams-vs-enterprise-plans-in-2026-2mh5)
+- [You&#39;ve Never Seen 90% of the Internet. Neither Has Google.](https://dev.to/lazyasscoder/youve-never-seen-90-of-the-internet-neither-has-google-13d4)
+- [Anthropic&#39;s skills playbook vs our custom knowledge layer](https://dev.to/szkjn/anthropics-skills-playbook-vs-our-custom-knowledge-layer-29g3)
 <!-- BLOG-POST-LIST:END -->
 
 
