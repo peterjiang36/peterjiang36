@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
-- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
-- [Why More GPUs Won&#39;t Save Your AI Infrastructure](https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8)
-- [I built a self-hosted alternative to Marker.io - here&#39;s how it works under the hood](https://dev.to/neosianexus/i-built-a-self-hosted-alternative-to-markerio-heres-how-it-works-under-the-hood-2i7k)
+- [AI-Assisted Learning Gaps: Addressing Foundational Programming Skills for Independent Problem-Solving](https://dev.to/ilyatech/ai-assisted-learning-gaps-addressing-foundational-programming-skills-for-independent-3of5)
+- [The Dario Amodei Exit: How One Man’s Split from OpenAI Created Claude, the AI That’s Beating ChatGPT at Coding](https://dev.to/grenishrai/the-dario-amodei-exit-how-one-mans-split-from-openai-created-claude-the-ai-thats-beating-1c52)
+- [Why your agent RBAC is broken &lpar;and how to stop webchat from getting exec&rpar;](https://dev.to/authora/why-your-agent-rbac-is-broken-and-how-to-stop-webchat-from-getting-exec-2kgp)
+- [I Started Building a Roguelike RPG — Powered by On-Device AI #3](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-3-5b62)
 <!-- BLOG-POST-LIST:END -->
 
 
