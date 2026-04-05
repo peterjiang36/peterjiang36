@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator](https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h)
-- [Stop leaking your .env to AI! I built a Rust/Tauri Secret Manager to inject API keys safely 🛡️](https://dev.to/erai_4d982e9ebafb9f7a35d/stop-leaking-your-env-to-ai-i-built-a-rusttauri-secret-manager-to-inject-api-keys-safely-4apj)
-- [NevaMind AI: Advanced Memory for Proactive Agents](https://dev.to/stelixx-insider/nevamind-ai-advanced-memory-for-proactive-agents-1hnd)
-- [How to Switch Industries Without Starting Over](https://dev.to/careercheck/how-to-switch-industries-without-starting-over-3g43)
+- [The Real Ceiling in Claude Code&#39;s Memory System &lpar;It’s Not the 200-Line Cap&rpar;](https://dev.to/penfieldlabs/the-real-ceiling-in-claude-codes-memory-system-its-not-the-200-line-cap-2cbl)
+- [XYRONIX](https://dev.to/mohitscodiclab/xyronix-4j4d)
+- [# Understanding Data Modeling in PowerBI: Joins, Relationship and Schemas.](https://dev.to/nyamatari_brian_c41e0c389/-understanding-data-modeling-in-powerbi-joins-relationship-and-schemas-1imn)
+- [Understanding Scope, Hoisting, and Closures like a Pro!](https://dev.to/rafsan-jany-ratul/understanding-scope-hoisting-and-closures-like-a-pro-152h)
 <!-- BLOG-POST-LIST:END -->
 
 
