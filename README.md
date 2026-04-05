@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc)
-- [How to secure MCP tools on AWS for AI agents with authentication, authorization, and least privilege](https://dev.to/aws-builders/how-to-secure-mcp-tools-on-aws-for-ai-agents-with-authentication-authorization-and-least-privilege-50ea)
-- [The Flat Subscription Problem: Why Agents Break AI Pricing](https://dev.to/piiiico/the-flat-subscription-problem-why-agents-break-ai-pricing-h1j)
-- [Privacy-Preserving Gesture Control: Developing an Open-Source, Usable, and Compatible Web Map Library](https://dev.to/maxgeris/privacy-preserving-gesture-control-developing-an-open-source-usable-and-compatible-web-map-3kpp)
+- [The AWS Dev Setup Nobody Told You About. Claude Code, Kiro Pro, and Agent Plugins.](https://dev.to/aws-heroes/the-aws-dev-setup-nobody-told-you-about-claude-code-kiro-pro-and-agent-plugins-1c3p)
+- [I Built a Zero-Login Postman Alternative in 5 Weeks. My Cofounder Is an AI and I Work Long Shifts.](https://dev.to/apibuilderhq/i-built-a-zero-login-postman-alternative-in-5-weeks-my-cofounder-is-an-ai-and-i-work-long-shifts-4phn)
+- [Scarcity Captures the Mind](https://dev.to/odiong/scarcity-captures-the-mind-4pe7)
+- [Want Your AI to Stay Private? Run a Fully Local LLM with Open WebUI + Ollama](https://dev.to/micheal_angelo_41cea4e81a/want-your-ai-to-stay-private-run-a-fully-local-llm-with-open-webui-ollama-3c8f)
 <!-- BLOG-POST-LIST:END -->
 
 
