@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Living on the Linux Console — Part 2: casty, a Full Browser for TTY](https://dev.to/owxy_orz/living-on-the-linux-console-part-2-casty-a-full-browser-for-tty-1fm1)
-- [Best Free Cron Monitoring Tools for Developers in 2026](https://dev.to/quietpulse-social/best-free-cron-monitoring-tools-for-developers-in-2026-64b)
-- [Building an Interactive N-Queens Visualizer with React + TypeScript](https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd)
-- [Why your website gets traffic but no enquiries](https://dev.to/dhirajweb/why-your-website-gets-traffic-but-no-enquiries-4deo)
+- [Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator](https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h)
+- [Stop leaking your .env to AI! I built a Rust/Tauri Secret Manager to inject API keys safely 🛡️](https://dev.to/erai_4d982e9ebafb9f7a35d/stop-leaking-your-env-to-ai-i-built-a-rusttauri-secret-manager-to-inject-api-keys-safely-4apj)
+- [NevaMind AI: Advanced Memory for Proactive Agents](https://dev.to/stelixx-insider/nevamind-ai-advanced-memory-for-proactive-agents-1hnd)
+- [How to Switch Industries Without Starting Over](https://dev.to/careercheck/how-to-switch-industries-without-starting-over-3g43)
 <!-- BLOG-POST-LIST:END -->
 
 
