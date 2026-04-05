@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Tools Are Making Developers Dumber. The Data Agrees.](https://dev.to/gabrielanhaia/ai-coding-tools-are-making-developers-dumber-the-data-agrees-10li)
-- [I designed an AI second brain companion that connects what no single app can see — looking for builders](https://dev.to/srigururam_srinivasan/i-designed-an-ai-second-brain-companion-that-connects-what-no-single-app-can-see-looking-for-2ekm)
-- [[Boost]](https://dev.to/anthonymax/-20n7)
-- [Build Your First Multi-Agent System with OpenAI Agents SDK — Step-by-Step Python Tutorial &lpar;2026&rpar;](https://dev.to/jangwook_kim_e31e7291ad98/build-your-first-multi-agent-system-with-openai-agents-sdk-step-by-step-python-tutorial-2026-2n79)
+- [setup config.py](https://dev.to/thisisnihal/setup-configpy-5dbg)
+- [The Inconvenience Machine](https://dev.to/aliyualbako/the-inconvenience-machine-2oib)
+- [Building a Continuous Voice Interface with the OpenAI Realtime API](https://dev.to/diran_adeola/building-a-continuous-voice-interface-with-the-openai-realtime-api-2pn)
+- [0. Why I’m Growing HAID in Public, Not Building in Public](https://dev.to/shadowlik/0-why-im-growing-haid-in-public-not-building-in-public-1d0l)
 <!-- BLOG-POST-LIST:END -->
 
 
