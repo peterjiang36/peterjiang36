@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AWS Dev Setup Nobody Told You About. Claude Code, Kiro Pro, and Agent Plugins.](https://dev.to/aws-heroes/the-aws-dev-setup-nobody-told-you-about-claude-code-kiro-pro-and-agent-plugins-1c3p)
-- [I Built a Zero-Login Postman Alternative in 5 Weeks. My Cofounder Is an AI and I Work Long Shifts.](https://dev.to/apibuilderhq/i-built-a-zero-login-postman-alternative-in-5-weeks-my-cofounder-is-an-ai-and-i-work-long-shifts-4phn)
-- [Scarcity Captures the Mind](https://dev.to/odiong/scarcity-captures-the-mind-4pe7)
-- [Want Your AI to Stay Private? Run a Fully Local LLM with Open WebUI + Ollama](https://dev.to/micheal_angelo_41cea4e81a/want-your-ai-to-stay-private-run-a-fully-local-llm-with-open-webui-ollama-3c8f)
+- [Please Verify: An Obstacle Course of Web UX Hell](https://dev.to/watts4/please-verify-an-obstacle-course-of-web-ux-hell-2i01)
+- [I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi](https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e)
+- [Beyond the Boardroom: How Decentralized Autonomous Organizations &lpar;DAOs&rpar; are Reshaping E-commerce](https://dev.to/yse_nft_c793979c5e2cc0316/beyond-the-boardroom-how-decentralized-autonomous-organizations-daos-are-reshaping-e-commerce-6i4)
+- [20 Articles Later: What I&#39;ve Learned About AI Agent Writing](https://dev.to/huineng6/20-articles-later-what-ive-learned-about-ai-agent-writing-3oa1)
 <!-- BLOG-POST-LIST:END -->
 
 
