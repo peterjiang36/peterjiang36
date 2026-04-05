@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 DevOps Engineer Labs: From Bash Scripting to Docker Image Management](https://dev.to/labex/5-devops-engineer-labs-from-bash-scripting-to-docker-image-management-16ba)
-- [AI Coding Tools Produce 281% More Code in Month 1. By Month 3, the Advantage Is Gone.](https://dev.to/ziva/ai-coding-tools-produce-281-more-code-in-month-1-by-month-3-the-advantage-is-gone-56p9)
-- [Your Monitoring Didn&#39;t Miss the Incident. It Was Never Designed to See It](https://dev.to/ntctech/your-monitoring-didnt-miss-the-incident-it-was-never-designed-to-see-it-2n8l)
-- [Secure Error Handling in APIs: How to Implement Global Filters and Prevent Sensitive Data Leaks](https://dev.to/actocodes/secure-error-handling-in-apis-how-to-implement-global-filters-and-prevent-sensitive-data-leaks-31ke)
+- [Matrices in Python](https://dev.to/gaurav386i/matrices-in-python-9ig)
+- [Open Source Release Help](https://dev.to/foxybimbo/open-source-release-help-2img)
+- [Step-by-Step Git Commands Guide](https://dev.to/satishjaiswal/step-by-step-git-commands-guide-5bmg)
+- [Qodo vs Sourcery: AI Code Review Approaches Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/qodo-vs-sourcery-ai-code-review-approaches-compared-2026-a6b)
 <!-- BLOG-POST-LIST:END -->
 
 
