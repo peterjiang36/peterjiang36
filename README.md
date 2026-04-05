@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Verify: An Obstacle Course of Web UX Hell](https://dev.to/watts4/please-verify-an-obstacle-course-of-web-ux-hell-2i01)
-- [I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi](https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e)
-- [Beyond the Boardroom: How Decentralized Autonomous Organizations &lpar;DAOs&rpar; are Reshaping E-commerce](https://dev.to/yse_nft_c793979c5e2cc0316/beyond-the-boardroom-how-decentralized-autonomous-organizations-daos-are-reshaping-e-commerce-6i4)
-- [20 Articles Later: What I&#39;ve Learned About AI Agent Writing](https://dev.to/huineng6/20-articles-later-what-ive-learned-about-ai-agent-writing-3oa1)
+- [🚀 Build a Professional Image Converter GUI in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/build-a-professional-image-converter-gui-in-python-step-by-step-64l)
+- [Is Railway Reliable for SaaS Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-saas-apps-in-2026-h3l)
+- [5 Patterns for Building Resilient Event-Driven Integrations](https://dev.to/137foundry/5-patterns-for-building-resilient-event-driven-integrations-3i8h)
+- [My Claude Code Buddy Moved Into My MacBook&#39;s Notch and I Can&#39;t Stop Looking at It](https://dev.to/krisying/my-claude-code-buddy-moved-into-my-macbooks-notch-and-i-cant-stop-looking-at-it-3d6e)
 <!-- BLOG-POST-LIST:END -->
 
 
