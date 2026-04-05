@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-54gc)
-- [Accelerating TURN with eBPF: A Non-Invasive Approach](https://dev.to/ivan-m-tech/accelerating-turn-with-ebpf-a-non-invasive-approach-ed1)
-- [How to Set Up Qodo AI in VS Code: Installation Guide](https://dev.to/rahulxsingh/how-to-set-up-qodo-ai-in-vs-code-installation-guide-2983)
-- [I Built a Cost Calculator for the OpenClaw Ban Because It Hit Me Too](https://dev.to/solido/i-built-a-cost-calculator-for-the-openclaw-ban-because-it-hit-me-too-59ef)
+- [Mixed document packs need triage before they need smarter extraction](https://dev.to/cy_ong_591/mixed-document-packs-need-triage-before-they-need-smarter-extraction-2h8i)
+- [Provenance is more useful than people think in document workflows](https://dev.to/cy_ong_591/provenance-is-more-useful-than-people-think-in-document-workflows-5egj)
+- [Backpressure in document pipelines is an architecture problem, not only an ops problem](https://dev.to/cy_ong_591/backpressure-in-document-pipelines-is-an-architecture-problem-not-only-an-ops-problem-3762)
+- [Diário de vibe coding: do certificado Anthropic a uma plataforma de FinOps em dias](https://dev.to/boccato85/diario-de-vibe-coding-do-certificado-anthropic-a-uma-plataforma-de-finops-em-dias-1dib)
 <!-- BLOG-POST-LIST:END -->
 
 
