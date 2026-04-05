@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK Deployment Best Practices](https://dev.to/aws-heroes/aws-cdk-deployment-best-practices-3doo)
-- [I Compared Make.com and n8n Across 20+ Client Deployments. Here Is My Verdict.](https://dev.to/jahanzaibai/i-compared-makecom-and-n8n-across-20-client-deployments-here-is-my-verdict-mlb)
-- [37 Articles: The Night Continues](https://dev.to/huineng6/37-articles-the-night-continues-2867)
-- [Why I Built opa-authzen-interop: Verifying OPA on AuthZEN Interop](https://dev.to/kanywst/why-i-built-opa-authzen-interop-verifying-opa-on-authzen-interop-52i9)
+- [How I built a free browser-based watermark remover using Canvas API](https://dev.to/dan_dan_26ba75efedd611b1f/how-i-built-a-free-browser-based-watermark-remover-using-canvas-api-1if3)
+- [I Built a Multi-Agent Starter Kit with LangGraph — 6 Patterns, 5 Providers, One Command](https://dev.to/ac12644/i-built-a-multi-agent-starter-kit-with-langgraph-6-patterns-5-providers-one-command-b8g)
+- [I Built a Clean, Developer-Focused GitHub Profile README &lpar;with a Coding Cat 🐱‍💻&rpar;](https://dev.to/shub/i-built-a-clean-developer-focused-github-profile-readme-with-a-coding-cat--ao7)
+- [ParamFlow – lightweight layered configuration management for Python](https://dev.to/mduszyk/paramflow-lightweight-layered-configuration-management-for-python-4l29)
 <!-- BLOG-POST-LIST:END -->
 
 
