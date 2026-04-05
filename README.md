@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything Works, But Users Are Still Confused: What SaaS Teams Are Missing](https://dev.to/mukul_sharma/everything-works-but-users-are-still-confused-what-saas-teams-are-missing-oko)
-- [Why Is Google Called Google? The Surprising True Story Explained - &lpar;Sparked by a Last Notebook Page&rpar;](https://dev.to/kathirvel-s/why-is-google-called-google-the-surprising-true-story-explained-sparked-by-a-last-notebook-page-43bp)
-- [&quot;Be Anything You Want&quot; — OK, Here&#39;s How &lpar;Technically&rpar;](https://dev.to/einorde/be-anything-you-want-ok-heres-how-technically-4i1d)
-- [I tried “forgotten” frameworks — and shipped a client app in 3 hours](https://dev.to/antar_mukhopadhyaya/i-tried-forgotten-frameworks-and-shipped-a-client-app-in-3-hours-31gi)
+- [AWS CDK Deployment Best Practices](https://dev.to/aws-heroes/aws-cdk-deployment-best-practices-3doo)
+- [I Compared Make.com and n8n Across 20+ Client Deployments. Here Is My Verdict.](https://dev.to/jahanzaibai/i-compared-makecom-and-n8n-across-20-client-deployments-here-is-my-verdict-mlb)
+- [37 Articles: The Night Continues](https://dev.to/huineng6/37-articles-the-night-continues-2867)
+- [Why I Built opa-authzen-interop: Verifying OPA on AuthZEN Interop](https://dev.to/kanywst/why-i-built-opa-authzen-interop-verifying-opa-on-authzen-interop-52i9)
 <!-- BLOG-POST-LIST:END -->
 
 
