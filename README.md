@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Quality Gates with GitHub Actions and Jenkins](https://dev.to/beefedai/automating-quality-gates-with-github-actions-and-jenkins-38gn)
-- [Bazel For a Frontend Monorepo](https://dev.to/mbarzeev/bazel-for-a-frontend-monorepo-da6)
-- [Fuck Internships](https://dev.to/jb_d008d648a2/fuck-internships-2m97)
-- [Getting to Know Fedora: My Journey Through Revamp Badges contribution as an Outreachy Applicant](https://dev.to/mishael_ndegwa_1a8d4d7f13/getting-to-know-fedora-my-journey-through-revamp-badges-contribution-as-an-outreachy-applicant-l87)
+- [🚀Playwright vs Selenium in 2026: The Ultimate Guide for Modern Test Automation](https://dev.to/ankitaloni369/playwright-vs-selenium-in-2026-the-ultimate-guide-for-modern-test-automation-1bc6)
+- [Building a Decentralized Mesh Network in Rust — Lessons from the Global South](https://dev.to/phantomojo/building-a-decentralized-mesh-network-in-rust-lessons-from-the-global-south-k44)
+- [100 C# Tips I Wish I Knew Earlier &lpar;Part 1&rpar;](https://dev.to/troymiller824/100-c-tips-i-wish-i-knew-earlier-part-1-4o35)
+- [Socratic AI: how I learned formal grammars &lpar;and built a compiler&rpar; without losing control of what I was building](https://dev.to/lucabro/socratic-ai-how-i-learned-formal-grammars-and-built-a-compiler-without-losing-control-of-what-i-41hj)
 <!-- BLOG-POST-LIST:END -->
 
 
