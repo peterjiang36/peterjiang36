@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Learning Gaps: Addressing Foundational Programming Skills for Independent Problem-Solving](https://dev.to/ilyatech/ai-assisted-learning-gaps-addressing-foundational-programming-skills-for-independent-3of5)
-- [The Dario Amodei Exit: How One Man’s Split from OpenAI Created Claude, the AI That’s Beating ChatGPT at Coding](https://dev.to/grenishrai/the-dario-amodei-exit-how-one-mans-split-from-openai-created-claude-the-ai-thats-beating-1c52)
-- [Why your agent RBAC is broken &lpar;and how to stop webchat from getting exec&rpar;](https://dev.to/authora/why-your-agent-rbac-is-broken-and-how-to-stop-webchat-from-getting-exec-2kgp)
-- [I Started Building a Roguelike RPG — Powered by On-Device AI #3](https://dev.to/as1as/i-started-building-a-roguelike-rpg-powered-by-on-device-ai-3-5b62)
+- [AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc)
+- [How to secure MCP tools on AWS for AI agents with authentication, authorization, and least privilege](https://dev.to/aws-builders/how-to-secure-mcp-tools-on-aws-for-ai-agents-with-authentication-authorization-and-least-privilege-50ea)
+- [The Flat Subscription Problem: Why Agents Break AI Pricing](https://dev.to/piiiico/the-flat-subscription-problem-why-agents-break-ai-pricing-h1j)
+- [Privacy-Preserving Gesture Control: Developing an Open-Source, Usable, and Compatible Web Map Library](https://dev.to/maxgeris/privacy-preserving-gesture-control-developing-an-open-source-usable-and-compatible-web-map-3kpp)
 <!-- BLOG-POST-LIST:END -->
 
 
