@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Matrices in Python](https://dev.to/gaurav386i/matrices-in-python-9ig)
-- [Open Source Release Help](https://dev.to/foxybimbo/open-source-release-help-2img)
-- [Step-by-Step Git Commands Guide](https://dev.to/satishjaiswal/step-by-step-git-commands-guide-5bmg)
-- [Qodo vs Sourcery: AI Code Review Approaches Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/qodo-vs-sourcery-ai-code-review-approaches-compared-2026-a6b)
+- [Automating Quality Gates with GitHub Actions and Jenkins](https://dev.to/beefedai/automating-quality-gates-with-github-actions-and-jenkins-38gn)
+- [Bazel For a Frontend Monorepo](https://dev.to/mbarzeev/bazel-for-a-frontend-monorepo-da6)
+- [Fuck Internships](https://dev.to/jb_d008d648a2/fuck-internships-2m97)
+- [Getting to Know Fedora: My Journey Through Revamp Badges contribution as an Outreachy Applicant](https://dev.to/mishael_ndegwa_1a8d4d7f13/getting-to-know-fedora-my-journey-through-revamp-badges-contribution-as-an-outreachy-applicant-l87)
 <!-- BLOG-POST-LIST:END -->
 
 
