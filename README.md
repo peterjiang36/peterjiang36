@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DataWeave 2.5 Generics: How Call-Site Type Parameters Caught 3 Production Bugs](https://dev.to/thasha/dataweave-25-generics-how-call-site-type-parameters-caught-3-production-bugs-pkf)
-- [Tailwind CSS in Micro Frontend Monorepo — Setup Guide](https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k)
-- [I Was a 4-Finger Typist for Years. Here&#39;s How I Fixed My Brain &lpar;and Hit 100 WPM&rpar;](https://dev.to/aakash_p_340b2eb72019415d/i-was-a-4-finger-typist-for-years-heres-how-i-fixed-my-brain-and-hit-100-wpm-1i2p)
-- [JavaScript Modules: Import and Export Explained](https://dev.to/sakshi_tambole_be36125cf5/javascript-modules-import-and-export-explained-3ie)
+- [Everything Works, But Users Are Still Confused: What SaaS Teams Are Missing](https://dev.to/mukul_sharma/everything-works-but-users-are-still-confused-what-saas-teams-are-missing-oko)
+- [Why Is Google Called Google? The Surprising True Story Explained - &lpar;Sparked by a Last Notebook Page&rpar;](https://dev.to/kathirvel-s/why-is-google-called-google-the-surprising-true-story-explained-sparked-by-a-last-notebook-page-43bp)
+- [&quot;Be Anything You Want&quot; — OK, Here&#39;s How &lpar;Technically&rpar;](https://dev.to/einorde/be-anything-you-want-ok-heres-how-technically-4i1d)
+- [I tried “forgotten” frameworks — and shipped a client app in 3 hours](https://dev.to/antar_mukhopadhyaya/i-tried-forgotten-frameworks-and-shipped-a-client-app-in-3-hours-31gi)
 <!-- BLOG-POST-LIST:END -->
 
 
