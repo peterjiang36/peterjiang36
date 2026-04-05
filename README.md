@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mixed document packs need triage before they need smarter extraction](https://dev.to/cy_ong_591/mixed-document-packs-need-triage-before-they-need-smarter-extraction-2h8i)
-- [Provenance is more useful than people think in document workflows](https://dev.to/cy_ong_591/provenance-is-more-useful-than-people-think-in-document-workflows-5egj)
-- [Backpressure in document pipelines is an architecture problem, not only an ops problem](https://dev.to/cy_ong_591/backpressure-in-document-pipelines-is-an-architecture-problem-not-only-an-ops-problem-3762)
-- [Diário de vibe coding: do certificado Anthropic a uma plataforma de FinOps em dias](https://dev.to/boccato85/diario-de-vibe-coding-do-certificado-anthropic-a-uma-plataforma-de-finops-em-dias-1dib)
+- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
+- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
+- [Building a Document Processing Pipeline with S3, Textract, Step Functions and EventBridge](https://dev.to/aws-builders/building-a-document-processing-pipeline-with-s3-textract-step-functions-and-eventbridge-3m3l)
+- [How We Think About ROI Before We Write Code](https://dev.to/xandertaylor/how-we-think-about-roi-before-we-write-code-4m3f)
 <!-- BLOG-POST-LIST:END -->
 
 
