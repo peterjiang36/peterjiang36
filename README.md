@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a free browser-based watermark remover using Canvas API](https://dev.to/dan_dan_26ba75efedd611b1f/how-i-built-a-free-browser-based-watermark-remover-using-canvas-api-1if3)
-- [I Built a Multi-Agent Starter Kit with LangGraph — 6 Patterns, 5 Providers, One Command](https://dev.to/ac12644/i-built-a-multi-agent-starter-kit-with-langgraph-6-patterns-5-providers-one-command-b8g)
-- [I Built a Clean, Developer-Focused GitHub Profile README &lpar;with a Coding Cat 🐱‍💻&rpar;](https://dev.to/shub/i-built-a-clean-developer-focused-github-profile-readme-with-a-coding-cat--ao7)
-- [ParamFlow – lightweight layered configuration management for Python](https://dev.to/mduszyk/paramflow-lightweight-layered-configuration-management-for-python-4l29)
+- [AI Coding Tools Are Making Developers Dumber. The Data Agrees.](https://dev.to/gabrielanhaia/ai-coding-tools-are-making-developers-dumber-the-data-agrees-10li)
+- [I designed an AI second brain companion that connects what no single app can see — looking for builders](https://dev.to/srigururam_srinivasan/i-designed-an-ai-second-brain-companion-that-connects-what-no-single-app-can-see-looking-for-2ekm)
+- [[Boost]](https://dev.to/anthonymax/-20n7)
+- [Build Your First Multi-Agent System with OpenAI Agents SDK — Step-by-Step Python Tutorial &lpar;2026&rpar;](https://dev.to/jangwook_kim_e31e7291ad98/build-your-first-multi-agent-system-with-openai-agents-sdk-step-by-step-python-tutorial-2026-2n79)
 <!-- BLOG-POST-LIST:END -->
 
 
