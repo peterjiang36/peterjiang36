@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build a Professional Image Converter GUI in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/build-a-professional-image-converter-gui-in-python-step-by-step-64l)
-- [Is Railway Reliable for SaaS Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-saas-apps-in-2026-h3l)
-- [5 Patterns for Building Resilient Event-Driven Integrations](https://dev.to/137foundry/5-patterns-for-building-resilient-event-driven-integrations-3i8h)
-- [My Claude Code Buddy Moved Into My MacBook&#39;s Notch and I Can&#39;t Stop Looking at It](https://dev.to/krisying/my-claude-code-buddy-moved-into-my-macbooks-notch-and-i-cant-stop-looking-at-it-3d6e)
+- [Living on the Linux Console — Part 2: casty, a Full Browser for TTY](https://dev.to/owxy_orz/living-on-the-linux-console-part-2-casty-a-full-browser-for-tty-1fm1)
+- [Best Free Cron Monitoring Tools for Developers in 2026](https://dev.to/quietpulse-social/best-free-cron-monitoring-tools-for-developers-in-2026-64b)
+- [Building an Interactive N-Queens Visualizer with React + TypeScript](https://dev.to/singhamandeep007/how-i-built-an-interactive-n-queens-visualizer-with-react-typescript-and-backtracking-4mpd)
+- [Why your website gets traffic but no enquiries](https://dev.to/dhirajweb/why-your-website-gets-traffic-but-no-enquiries-4deo)
 <!-- BLOG-POST-LIST:END -->
 
 
