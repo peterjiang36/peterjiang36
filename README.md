@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop shipping var_dump&lpar;&rpar; to production — enforce it with PHPStan](https://dev.to/rajmundtoth0/stop-shipping-vardump-to-production-enforce-it-with-phpstan-kpa)
-- [Data Engineer&#39;s Guide to Linux: Why It Is Your Secret Weapon](https://dev.to/gracenimimi/data-engineers-guide-to-linux-why-it-is-your-secret-weapon-34ce)
-- [Why Some AI Feels “Process-Obsessed” While Others Just Ship Code](https://dev.to/doozieakshay/why-some-ai-feels-process-obsessed-while-others-just-ship-code-ehi)
-- [Programming Language vs Scripting Language](https://dev.to/harini_magesh_fa40041cf8d/programming-language-vs-scripting-language-3la8)
+- [I Spent 8 Years Selling Cloud at AWS and Alibaba. At 42, I Got Fired. Now I Run My Business with AI.](https://dev.to/fightyai/i-spent-8-years-selling-cloud-at-aws-and-alibaba-at-42-i-got-fired-now-i-run-my-business-with-ai-545c)
+- [Is Your Ruby Version Still Supported? A Maintainer&#39;s Guide to Ruby&#39;s Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799)
+- [$187 and 16 Hours: My First Million-Token Session](https://dev.to/codewithagents_de/187-and-16-hours-my-first-million-token-session-2ae2)
+- [How to Publish a Power BI Report and Embed It on a Website &lpar;Step-by-Step Guide&rpar;](https://dev.to/leah_kivuti_be52fd03ba0f5/how-to-publish-a-power-bi-report-and-embed-it-on-a-website-step-by-step-guide-297b)
 <!-- BLOG-POST-LIST:END -->
 
 
