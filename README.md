@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI: Governance, Guardrails and Security](https://dev.to/anwaar/agentic-ai-governance-guardrails-and-security-57h0)
-- [Build Real Coding Skills—Then Use AI &lpar;In That Order&rpar;](https://dev.to/canro91/build-real-coding-skills-then-use-ai-in-that-order-3hi)
-- [Kronveil v0.3: Multi-Cluster Federation, Custom Collector SDK, and Automated Runbooks](https://dev.to/ramasankar_molleti_f7f80d/kronveil-v03-multi-cluster-federation-custom-collector-sdk-and-automated-runbooks-38oc)
-- [Is Railway Reliable for FastAPI in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-fastapi-in-2026-5gnc)
+- [Stop shipping var_dump&lpar;&rpar; to production — enforce it with PHPStan](https://dev.to/rajmundtoth0/stop-shipping-vardump-to-production-enforce-it-with-phpstan-kpa)
+- [Data Engineer&#39;s Guide to Linux: Why It Is Your Secret Weapon](https://dev.to/gracenimimi/data-engineers-guide-to-linux-why-it-is-your-secret-weapon-34ce)
+- [Why Some AI Feels “Process-Obsessed” While Others Just Ship Code](https://dev.to/doozieakshay/why-some-ai-feels-process-obsessed-while-others-just-ship-code-ehi)
+- [Programming Language vs Scripting Language](https://dev.to/harini_magesh_fa40041cf8d/programming-language-vs-scripting-language-3la8)
 <!-- BLOG-POST-LIST:END -->
 
 
