@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Data Gravity Calculator for AI Infrastructure Placement — Here&#39;s the Methodology](https://dev.to/ntctech/we-built-a-data-gravity-calculator-for-ai-infrastructure-placement-heres-the-methodology-e54)
-- [Introducing Node.js Quickstart Generator v2.0.0: Automated Clean Architecture with a Sleek New UI](https://dev.to/paudang/boilerplate-scaffold-pro-nodejs-apps-with-kafka-graphql-redis-in-30s-1ji9)
-- [The Science Behind Scam Detection: How Tools Like ScamAlerts Work](https://dev.to/james_smith_543/the-science-behind-scam-detection-how-tools-like-scamalerts-work-1fk8)
-- [We Should Write Java Code Differently: Less Language, More Business](https://dev.to/siy/we-should-write-java-code-differently-less-language-more-business-5b4h)
+- [BSides SF 2026: Looking At Security Beyond The Next Big Bet](https://dev.to/gitguardian/bsides-sf-2026-looking-at-security-beyond-the-next-big-bet-21lg)
+- [I Ditched Prisma for Raw SQL &lpar;And My Queries Got 10x Faster&rpar;](https://dev.to/aws-builders/i-ditched-prisma-for-raw-sql-and-my-queries-got-10x-faster-4gen)
+- [I built an intelligence database because Resident Evil made me obsessed with classified files as a kid](https://dev.to/bywyd/i-built-an-intelligence-database-because-resident-evil-made-me-obsessed-with-classified-files-as-a-112c)
+- [Your AI coding agent scores 10/100. Here&#39;s what it&#39;s missing.](https://dev.to/nerviq/your-ai-coding-agent-scores-10100-heres-what-its-missing-5bpk)
 <!-- BLOG-POST-LIST:END -->
 
 
