@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BSides SF 2026: Looking At Security Beyond The Next Big Bet](https://dev.to/gitguardian/bsides-sf-2026-looking-at-security-beyond-the-next-big-bet-21lg)
-- [I Ditched Prisma for Raw SQL &lpar;And My Queries Got 10x Faster&rpar;](https://dev.to/aws-builders/i-ditched-prisma-for-raw-sql-and-my-queries-got-10x-faster-4gen)
-- [I built an intelligence database because Resident Evil made me obsessed with classified files as a kid](https://dev.to/bywyd/i-built-an-intelligence-database-because-resident-evil-made-me-obsessed-with-classified-files-as-a-112c)
-- [Your AI coding agent scores 10/100. Here&#39;s what it&#39;s missing.](https://dev.to/nerviq/your-ai-coding-agent-scores-10100-heres-what-its-missing-5bpk)
+- [Puppetlabs Modules Roundup – March 2026](https://dev.to/puppet/puppetlabs-modules-roundup-march-2026-3bde)
+- [Why Your First Project Should Be Embarrassingly Bad](https://dev.to/devkoan/why-your-first-project-should-be-embarrassingly-bad-424g)
+- [Looping Programs](https://dev.to/kesavarthini/looping-programs-5al0)
+- [How to Get Better Output from AI Tools &lpar;Without Burning Time and Tokens&rpar;](https://dev.to/israjurrahman/how-to-get-better-output-from-ai-tools-without-burning-time-and-tokens-1nbd)
 <!-- BLOG-POST-LIST:END -->
 
 
