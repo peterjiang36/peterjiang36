@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Control Room: Bridging 40 Years of Cement Expertise with Python Automation](https://dev.to/aminuddinkhan/beyond-the-control-room-bridging-40-years-of-cement-expertise-with-python-automation-4ang)
-- [Turning Your GitHub Contributions into a Space Invaders Game](https://dev.to/anatcha_a18586d96181ef79a/turning-your-github-contributions-into-a-space-invaders-game-4om5)
-- [🚨 npm Vulnerabilities Are Growing — A Practical Defense Using OSV.dev in React Native](https://dev.to/amitkumar13/npm-vulnerabilities-are-growing-a-practical-defense-using-osvdev-in-react-native-2h12)
-- [The Insider Screamed. The Outsider Whispered. Same Truth, Different Volume.](https://dev.to/jarradbermingham/the-insider-screamed-the-outsider-whispered-same-truth-different-volume-8no)
+- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
+- [Write, Run, Debug — REslava.Result three-layer observability story](https://dev.to/reslava/write-run-debug-reslavaresult-three-layer-observability-story-5g14)
+- [Agentic AI in the Enterprise: Use Cases, Architecture, and Why It&#39;s Not Just Another AI Buzzword](https://dev.to/marketing_ekfrazo/agentic-ai-in-the-enterprise-use-cases-architecture-and-why-its-not-just-another-ai-buzzword-1do4)
+- [How I Built SirPhire — A Production-Grade PHP eCommerce Platform from Scratch](https://dev.to/webs_nft/how-i-built-sirphire-a-production-grade-php-ecommerce-platform-from-scratch-e01)
 <!-- BLOG-POST-LIST:END -->
 
 
