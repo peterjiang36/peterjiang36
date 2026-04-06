@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Backstage on Kubernetes with the Helm Chart: What the README Doesn&#39;t Tell You](https://dev.to/sodiqjimoh/deploying-backstage-on-kubernetes-with-the-helm-chart-what-the-readme-doesnt-tell-you-26ai)
-- [Domain routing in Waaseyaa: replacing a giant dispatcher with small routers](https://dev.to/jonesrussell/domain-routing-in-waaseyaa-replacing-a-giant-dispatcher-with-small-routers-471g)
-- [8 Machine Learning Projects for Software Engineers to Build in 2026](https://dev.to/nyson_mark/8-machine-learning-projects-for-software-engineers-to-build-in-2026-3705)
-- [How to Publish and Share a Power BI Report Online](https://dev.to/brian_muriithi/how-to-publish-and-share-a-power-bi-report-online-316j)
+- [The Frontend Skills That Are Actually Dying &lpar;Not the Ones You Think&rpar;](https://dev.to/web_dev-usman/the-frontend-skills-that-are-actually-dying-not-the-ones-you-think-17nk)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-3i6g)
+- [教我基础的逻辑学入门知识，确保我能够对逻辑学产生浓烈兴趣，并能够熟练的理解运用逻辑学入门知识](https://dev.to/zhhk1h/jiao-wo-ji-chu-de-luo-ji-xue-ru-men-zhi-shi-que-bao-wo-neng-gou-dui-luo-ji-xue-chan-sheng-nong-lie-xing-qu-bing-neng-gou-shou-lian-de-li-jie-yun-yong-luo-ji-xue-ru-men-zhi-shi-159k)
+- [6 Claude Code Permission Traps I Found Answering GitHub Issues This Week](https://dev.to/yurukusa/6-claude-code-permission-traps-i-found-answering-github-issues-this-week-3ja2)
 <!-- BLOG-POST-LIST:END -->
 
 
