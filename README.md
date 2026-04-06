@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A comprehensive guide to Publishing And Embedding Power BI Reports on Website with iFrames.](https://dev.to/joseous_ngash_19a1831e54d/a-comprehensive-guide-to-publishing-and-embedding-power-bi-reports-on-website-with-iframes-1c0)
-- [Timeout Patterns in Java 21: Full Failure vs Partial Results](https://dev.to/jagdish_salgotra_e253b2d3/timeout-patterns-in-java-21-full-failure-vs-partial-results-371e)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc)
-- [The Developer’s Guide to JWT Storage](https://dev.to/descope/the-developers-guide-to-jwt-storage-5ff7)
+- [The SQL Mistake Everyone Makes: Writing vs Execution Order](https://dev.to/prashant_patil_49/the-sql-mistake-everyone-makes-writing-vs-execution-order-40lf)
+- [How to make your AI agent accountable in 60 seconds](https://dev.to/jagmarques/how-to-make-your-ai-agent-accountable-in-60-seconds-3hj)
+- [Building AI Agents for Slack and Discord Using LLMs](https://dev.to/versadev/building-ai-agents-for-slack-and-discord-using-llms-2nji)
+- [Add Chat AI Summary Using Amazon Bedrock and HTTP Response Streaming](https://dev.to/aws-builders/add-chat-ai-summary-using-amazon-bedrock-and-http-response-streaming-522h)
 <!-- BLOG-POST-LIST:END -->
 
 
