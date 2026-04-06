@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, World!](https://dev.to/garaevdev/hello-world-38hk)
-- [Linting, Static Analysis, and the Pre-Commit Hook That Saved My Sanity](https://dev.to/tacoda/linting-static-analysis-and-the-pre-commit-hook-that-saved-my-sanity-18nf)
-- [I Replaced GitHub + Jira + Vercel + PlanetScale + Datadog With One Free Platform](https://dev.to/yorchperaza/i-replaced-github-jira-vercel-planetscale-datadog-with-one-free-platform-5gkl)
-- [What We Learned Delivering 600+ Software Project](https://dev.to/entalogics/what-we-learned-delivering-600-software-project-4onc)
+- [Why Switzerland Has 25 Gbit Internet and America Doesn&#39;t: A Technical Breakdown [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/why-switzerland-has-25-gbit-internet-and-america-doesnt-a-technical-breakdown-2026-2b3o)
+- [The fall of stackoverflow: Why I Haven&#39;t Logged In for Months](https://dev.to/rdjarbeng/the-fall-of-stackoverflow-why-i-havent-logged-in-for-months-k23)
+- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability](https://dev.to/railsstudent/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-5eg8)
+- [Windows Program Icon Update Issue: Resolving Taskbar and Header Icon Persistence Despite Modifications](https://dev.to/serbyte/windows-program-icon-update-issue-resolving-taskbar-and-header-icon-persistence-despite-433j)
 <!-- BLOG-POST-LIST:END -->
 
 
