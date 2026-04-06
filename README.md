@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We just launched asqav on Hacker News - quantum-safe audit trails for AI agents](https://dev.to/jagmarques/we-just-launched-asqav-on-hacker-news-quantum-safe-audit-trails-for-ai-agents-4p5g)
-- [The Words We Were Losing](https://dev.to/7ard1grad3/the-words-we-were-losing-3gk8)
-- [Python multiprocessing crashed on my custom class. Took forever to figure out why.](https://dev.to/nicodev__/python-multiprocessing-crashed-on-my-custom-class-took-forever-to-figure-out-why-1jd5)
-- [I Built AiVIS Because I Kept Seeing Websites Get Misread by AI](https://dev.to/aivisbiz/i-built-aivis-because-i-kept-seeing-websites-get-misread-by-ai-45cg)
+- [Provision Ubuntu VMs with NoCloud on Proxmox](https://dev.to/kfuras/provision-ubuntu-vms-with-nocloud-on-proxmox-pcc)
+- [docker9](https://dev.to/query_filter_591122b53770/docker9-12b5)
+- [From Doer To Manager](https://dev.to/lingxin_wang_3b88f34b4014/from-doer-to-manager-1gpa)
+- [Automate Blog Image using Python and n8n](https://dev.to/kfuras/automate-blog-image-using-python-and-n8n-4km)
 <!-- BLOG-POST-LIST:END -->
 
 
