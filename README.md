@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First MCP Server: TypeScript vs. Python](https://dev.to/kenwalger/building-your-first-mcp-server-typescript-vs-python-31ch)
-- [Stop Babysitting Servers: Build a Scalable Serverless Data Lake on AWS](https://dev.to/tuni56/stop-babysitting-servers-build-a-scalable-serverless-data-lake-on-aws-2pn7)
-- [Why I Built pip-size: A Story About Obsession with Performance](https://dev.to/mohammadraziei/why-i-built-pip-size-a-story-about-obsession-with-performance-o40)
-- [Geneva Forecasting API: An Expert System for Time-Series Forecasts](https://dev.to/codebydom/geneva-forecasting-api-an-expert-system-for-time-series-forecasts-393n)
+- [Building GNOME Apps with Rust, Part 1: Getting Started](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-1-getting-started-25ol)
+- [I Got Tired of Hunting Screenshot Paths in Terminals. So I Fixed Ctrl+V.](https://dev.to/codewarrior4life/i-got-tired-of-hunting-screenshot-paths-in-terminals-so-i-fixed-ctrlv-5dbk)
+- [The Hidden Dangers of Illegal Wildlife Trade and Why It Must Be Stopped](https://dev.to/animalwatch365/the-hidden-dangers-of-illegal-wildlife-trade-and-why-it-must-be-stopped-2bkd)
+- [I Built a Tariff Impact Tracker That Shows What the Internet Actually Thinks](https://dev.to/vibeyboy2119/i-built-a-tariff-impact-tracker-that-shows-what-the-internet-actually-thinks-40gn)
 <!-- BLOG-POST-LIST:END -->
 
 
