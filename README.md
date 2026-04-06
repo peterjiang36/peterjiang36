@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The SQL Mistake Everyone Makes: Writing vs Execution Order](https://dev.to/prashant_patil_49/the-sql-mistake-everyone-makes-writing-vs-execution-order-40lf)
-- [How to make your AI agent accountable in 60 seconds](https://dev.to/jagmarques/how-to-make-your-ai-agent-accountable-in-60-seconds-3hj)
-- [Building AI Agents for Slack and Discord Using LLMs](https://dev.to/versadev/building-ai-agents-for-slack-and-discord-using-llms-2nji)
-- [Add Chat AI Summary Using Amazon Bedrock and HTTP Response Streaming](https://dev.to/aws-builders/add-chat-ai-summary-using-amazon-bedrock-and-http-response-streaming-522h)
+- [We just launched asqav on Hacker News - quantum-safe audit trails for AI agents](https://dev.to/jagmarques/we-just-launched-asqav-on-hacker-news-quantum-safe-audit-trails-for-ai-agents-4p5g)
+- [The Words We Were Losing](https://dev.to/7ard1grad3/the-words-we-were-losing-3gk8)
+- [Python multiprocessing crashed on my custom class. Took forever to figure out why.](https://dev.to/nicodev__/python-multiprocessing-crashed-on-my-custom-class-took-forever-to-figure-out-why-1jd5)
+- [I Built AiVIS Because I Kept Seeing Websites Get Misread by AI](https://dev.to/aivisbiz/i-built-aivis-because-i-kept-seeing-websites-get-misread-by-ai-45cg)
 <!-- BLOG-POST-LIST:END -->
 
 
