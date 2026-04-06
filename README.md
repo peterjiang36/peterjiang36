@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Frontend Skills That Are Actually Dying &lpar;Not the Ones You Think&rpar;](https://dev.to/web_dev-usman/the-frontend-skills-that-are-actually-dying-not-the-ones-you-think-17nk)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-3i6g)
-- [教我基础的逻辑学入门知识，确保我能够对逻辑学产生浓烈兴趣，并能够熟练的理解运用逻辑学入门知识](https://dev.to/zhhk1h/jiao-wo-ji-chu-de-luo-ji-xue-ru-men-zhi-shi-que-bao-wo-neng-gou-dui-luo-ji-xue-chan-sheng-nong-lie-xing-qu-bing-neng-gou-shou-lian-de-li-jie-yun-yong-luo-ji-xue-ru-men-zhi-shi-159k)
-- [6 Claude Code Permission Traps I Found Answering GitHub Issues This Week](https://dev.to/yurukusa/6-claude-code-permission-traps-i-found-answering-github-issues-this-week-3ja2)
+- [Agentic AI: Governance, Guardrails and Security](https://dev.to/anwaar/agentic-ai-governance-guardrails-and-security-57h0)
+- [Build Real Coding Skills—Then Use AI &lpar;In That Order&rpar;](https://dev.to/canro91/build-real-coding-skills-then-use-ai-in-that-order-3hi)
+- [Kronveil v0.3: Multi-Cluster Federation, Custom Collector SDK, and Automated Runbooks](https://dev.to/ramasankar_molleti_f7f80d/kronveil-v03-multi-cluster-federation-custom-collector-sdk-and-automated-runbooks-38oc)
+- [Is Railway Reliable for FastAPI in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-fastapi-in-2026-5gnc)
 <!-- BLOG-POST-LIST:END -->
 
 
