@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Puppetlabs Modules Roundup – March 2026](https://dev.to/puppet/puppetlabs-modules-roundup-march-2026-3bde)
-- [Why Your First Project Should Be Embarrassingly Bad](https://dev.to/devkoan/why-your-first-project-should-be-embarrassingly-bad-424g)
-- [Looping Programs](https://dev.to/kesavarthini/looping-programs-5al0)
-- [How to Get Better Output from AI Tools &lpar;Without Burning Time and Tokens&rpar;](https://dev.to/israjurrahman/how-to-get-better-output-from-ai-tools-without-burning-time-and-tokens-1nbd)
+- [Hello, World!](https://dev.to/garaevdev/hello-world-38hk)
+- [Linting, Static Analysis, and the Pre-Commit Hook That Saved My Sanity](https://dev.to/tacoda/linting-static-analysis-and-the-pre-commit-hook-that-saved-my-sanity-18nf)
+- [I Replaced GitHub + Jira + Vercel + PlanetScale + Datadog With One Free Platform](https://dev.to/yorchperaza/i-replaced-github-jira-vercel-planetscale-datadog-with-one-free-platform-5gkl)
+- [What We Learned Delivering 600+ Software Project](https://dev.to/entalogics/what-we-learned-delivering-600-software-project-4onc)
 <!-- BLOG-POST-LIST:END -->
 
 
