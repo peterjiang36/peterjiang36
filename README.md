@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
-- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
-- [Building a Document Processing Pipeline with S3, Textract, Step Functions and EventBridge](https://dev.to/aws-builders/building-a-document-processing-pipeline-with-s3-textract-step-functions-and-eventbridge-3m3l)
-- [How We Think About ROI Before We Write Code](https://dev.to/xandertaylor/how-we-think-about-roi-before-we-write-code-4m3f)
+- [Steal My Workflow: Scraping the iOS App Store to Find High-LTV Subscription Apps](https://dev.to/datakaz/steal-my-workflow-scraping-the-ios-app-store-to-find-high-ltv-subscription-apps-5e7l)
+- [Why 700W Laser Welders Are Replacing TIG for Small Shops](https://dev.to/haiyu_lei_c55d874f203e713/why-700w-laser-welders-are-replacing-tig-for-small-shops-4a72)
+- [Sync Contacts Across Gmail and Outlook with OpenClaw](https://dev.to/qasim157/sync-contacts-across-gmail-and-outlook-with-openclaw-14f8)
+- [Automate Meeting Scheduling with OpenClaw and Nylas](https://dev.to/qasim157/automate-meeting-scheduling-with-openclaw-and-nylas-535f)
 <!-- BLOG-POST-LIST:END -->
 
 
