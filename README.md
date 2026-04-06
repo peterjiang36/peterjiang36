@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Who will maintain the Code?](https://dev.to/badr_letitgo_355957588ffd/who-will-maintain-the-code-2fh1)
-- [Was Anthropic’s Claude Source Code Leak Actually a Marketing Stunt?](https://dev.to/yugjadvani/was-anthropics-claude-source-code-leak-actually-a-marketing-stunt-3baf)
-- [Global Variable VS Local Variable](https://dev.to/divya_divya_b18f82b19353a/global-variable-vs-local-variable-5169)
-- [Why I Built TracerKit](https://dev.to/helderberto/why-i-built-tracerkit-fmo)
+- [We Built a Data Gravity Calculator for AI Infrastructure Placement — Here&#39;s the Methodology](https://dev.to/ntctech/we-built-a-data-gravity-calculator-for-ai-infrastructure-placement-heres-the-methodology-e54)
+- [Introducing Node.js Quickstart Generator v2.0.0: Automated Clean Architecture with a Sleek New UI](https://dev.to/paudang/boilerplate-scaffold-pro-nodejs-apps-with-kafka-graphql-redis-in-30s-1ji9)
+- [The Science Behind Scam Detection: How Tools Like ScamAlerts Work](https://dev.to/james_smith_543/the-science-behind-scam-detection-how-tools-like-scamalerts-work-1fk8)
+- [We Should Write Java Code Differently: Less Language, More Business](https://dev.to/siy/we-should-write-java-code-differently-less-language-more-business-5b4h)
 <!-- BLOG-POST-LIST:END -->
 
 
