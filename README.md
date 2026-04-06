@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 8 Years Selling Cloud at AWS and Alibaba. At 42, I Got Fired. Now I Run My Business with AI.](https://dev.to/fightyai/i-spent-8-years-selling-cloud-at-aws-and-alibaba-at-42-i-got-fired-now-i-run-my-business-with-ai-545c)
-- [Is Your Ruby Version Still Supported? A Maintainer&#39;s Guide to Ruby&#39;s Release Cycle](https://dev.to/hsbt/is-your-ruby-version-still-supported-a-maintainers-guide-to-rubys-release-cycle-799)
-- [$187 and 16 Hours: My First Million-Token Session](https://dev.to/codewithagents_de/187-and-16-hours-my-first-million-token-session-2ae2)
-- [How to Publish a Power BI Report and Embed It on a Website &lpar;Step-by-Step Guide&rpar;](https://dev.to/leah_kivuti_be52fd03ba0f5/how-to-publish-a-power-bi-report-and-embed-it-on-a-website-step-by-step-guide-297b)
+- [I Built 3 APIs for Turkey’s Used-Car Market with Apify](https://dev.to/seralifatih/i-built-3-apis-for-turkeys-used-car-market-with-apify-7ph)
+- [Semantic Search with TypeScript: Using embed&lpar;&rpar; and embedMany&lpar;&rpar; for Vector Search](https://dev.to/neurolink/semantic-search-with-typescript-using-embed-and-embedmany-for-vector-search-4g60)
+- [Voice AI Agents: Building Speech-to-Speech Apps with TypeScript](https://dev.to/neurolink/voice-ai-agents-building-speech-to-speech-apps-with-typescript-58ik)
+- [How I Built a Chrome Extension That Shows Who Is Tracking You Now and Cleans Your Browser in One Click](https://dev.to/md_anwarulislamshawn_6/how-i-built-a-chrome-extension-that-shows-trackers-and-cleans-your-browser-in-one-click-50b0)
 <!-- BLOG-POST-LIST:END -->
 
 
