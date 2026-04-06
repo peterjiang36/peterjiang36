@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Switzerland Has 25 Gbit Internet and America Doesn&#39;t: A Technical Breakdown [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/why-switzerland-has-25-gbit-internet-and-america-doesnt-a-technical-breakdown-2026-2b3o)
-- [The fall of stackoverflow: Why I Haven&#39;t Logged In for Months](https://dev.to/rdjarbeng/the-fall-of-stackoverflow-why-i-havent-logged-in-for-months-k23)
-- [Observability at Scale: Mastering ADK Callbacks for Cost, Latency, and Auditability](https://dev.to/railsstudent/observability-at-scale-mastering-adk-callbacks-for-cost-latency-and-auditability-5eg8)
-- [Windows Program Icon Update Issue: Resolving Taskbar and Header Icon Persistence Despite Modifications](https://dev.to/serbyte/windows-program-icon-update-issue-resolving-taskbar-and-header-icon-persistence-despite-433j)
+- [A comprehensive guide to Publishing And Embedding Power BI Reports on Website with iFrames.](https://dev.to/joseous_ngash_19a1831e54d/a-comprehensive-guide-to-publishing-and-embedding-power-bi-reports-on-website-with-iframes-1c0)
+- [Timeout Patterns in Java 21: Full Failure vs Partial Results](https://dev.to/jagdish_salgotra_e253b2d3/timeout-patterns-in-java-21-full-failure-vs-partial-results-371e)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4idc)
+- [The Developer’s Guide to JWT Storage](https://dev.to/descope/the-developers-guide-to-jwt-storage-5ff7)
 <!-- BLOG-POST-LIST:END -->
 
 
