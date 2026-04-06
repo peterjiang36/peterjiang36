@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building GNOME Apps with Rust, Part 1: Getting Started](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-1-getting-started-25ol)
-- [I Got Tired of Hunting Screenshot Paths in Terminals. So I Fixed Ctrl+V.](https://dev.to/codewarrior4life/i-got-tired-of-hunting-screenshot-paths-in-terminals-so-i-fixed-ctrlv-5dbk)
-- [The Hidden Dangers of Illegal Wildlife Trade and Why It Must Be Stopped](https://dev.to/animalwatch365/the-hidden-dangers-of-illegal-wildlife-trade-and-why-it-must-be-stopped-2bkd)
-- [I Built a Tariff Impact Tracker That Shows What the Internet Actually Thinks](https://dev.to/vibeyboy2119/i-built-a-tariff-impact-tracker-that-shows-what-the-internet-actually-thinks-40gn)
+- [The Ultimate Guide to Universal Linux Apps: Snap, Flatpak, and AppImage](https://dev.to/zilton7/the-ultimate-guide-to-universal-linux-apps-snap-flatpak-and-appimage-a50)
+- [The Contents of That Dumpster Are Private](https://dev.to/mockhealth/the-contents-of-that-dumpster-are-private-4dok)
+- [How We Reached 92% Coverage with GitAuto](https://dev.to/gitautoai/how-we-reached-92-coverage-with-gitauto-1ll1)
+- [QIS Outcome Routing with SQLite — Quadratic Intelligence on Any Device, No Server Required](https://dev.to/roryqis/qis-outcome-routing-with-sqlite-quadratic-intelligence-on-any-device-no-server-required-3k7b)
 <!-- BLOG-POST-LIST:END -->
 
 
