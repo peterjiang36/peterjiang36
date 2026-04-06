@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 3 APIs for Turkey’s Used-Car Market with Apify](https://dev.to/seralifatih/i-built-3-apis-for-turkeys-used-car-market-with-apify-7ph)
-- [Semantic Search with TypeScript: Using embed&lpar;&rpar; and embedMany&lpar;&rpar; for Vector Search](https://dev.to/neurolink/semantic-search-with-typescript-using-embed-and-embedmany-for-vector-search-4g60)
-- [Voice AI Agents: Building Speech-to-Speech Apps with TypeScript](https://dev.to/neurolink/voice-ai-agents-building-speech-to-speech-apps-with-typescript-58ik)
-- [How I Built a Chrome Extension That Shows Who Is Tracking You Now and Cleans Your Browser in One Click](https://dev.to/md_anwarulislamshawn_6/how-i-built-a-chrome-extension-that-shows-trackers-and-cleans-your-browser-in-one-click-50b0)
+- [Beyond the Control Room: Bridging 40 Years of Cement Expertise with Python Automation](https://dev.to/aminuddinkhan/beyond-the-control-room-bridging-40-years-of-cement-expertise-with-python-automation-4ang)
+- [Turning Your GitHub Contributions into a Space Invaders Game](https://dev.to/anatcha_a18586d96181ef79a/turning-your-github-contributions-into-a-space-invaders-game-4om5)
+- [🚨 npm Vulnerabilities Are Growing — A Practical Defense Using OSV.dev in React Native](https://dev.to/amitkumar13/npm-vulnerabilities-are-growing-a-practical-defense-using-osvdev-in-react-native-2h12)
+- [The Insider Screamed. The Outsider Whispered. Same Truth, Different Volume.](https://dev.to/jarradbermingham/the-insider-screamed-the-outsider-whispered-same-truth-different-volume-8no)
 <!-- BLOG-POST-LIST:END -->
 
 
