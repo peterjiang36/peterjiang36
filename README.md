@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Steal My Workflow: Scraping the iOS App Store to Find High-LTV Subscription Apps](https://dev.to/datakaz/steal-my-workflow-scraping-the-ios-app-store-to-find-high-ltv-subscription-apps-5e7l)
-- [Why 700W Laser Welders Are Replacing TIG for Small Shops](https://dev.to/haiyu_lei_c55d874f203e713/why-700w-laser-welders-are-replacing-tig-for-small-shops-4a72)
-- [Sync Contacts Across Gmail and Outlook with OpenClaw](https://dev.to/qasim157/sync-contacts-across-gmail-and-outlook-with-openclaw-14f8)
-- [Automate Meeting Scheduling with OpenClaw and Nylas](https://dev.to/qasim157/automate-meeting-scheduling-with-openclaw-and-nylas-535f)
+- [Deploying Backstage on Kubernetes with the Helm Chart: What the README Doesn&#39;t Tell You](https://dev.to/sodiqjimoh/deploying-backstage-on-kubernetes-with-the-helm-chart-what-the-readme-doesnt-tell-you-26ai)
+- [Domain routing in Waaseyaa: replacing a giant dispatcher with small routers](https://dev.to/jonesrussell/domain-routing-in-waaseyaa-replacing-a-giant-dispatcher-with-small-routers-471g)
+- [8 Machine Learning Projects for Software Engineers to Build in 2026](https://dev.to/nyson_mark/8-machine-learning-projects-for-software-engineers-to-build-in-2026-3705)
+- [How to Publish and Share a Power BI Report Online](https://dev.to/brian_muriithi/how-to-publish-and-share-a-power-bi-report-online-316j)
 <!-- BLOG-POST-LIST:END -->
 
 
