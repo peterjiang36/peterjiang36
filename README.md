@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Provision Ubuntu VMs with NoCloud on Proxmox](https://dev.to/kfuras/provision-ubuntu-vms-with-nocloud-on-proxmox-pcc)
-- [docker9](https://dev.to/query_filter_591122b53770/docker9-12b5)
-- [From Doer To Manager](https://dev.to/lingxin_wang_3b88f34b4014/from-doer-to-manager-1gpa)
-- [Automate Blog Image using Python and n8n](https://dev.to/kfuras/automate-blog-image-using-python-and-n8n-4km)
+- [Building Your First MCP Server: TypeScript vs. Python](https://dev.to/kenwalger/building-your-first-mcp-server-typescript-vs-python-31ch)
+- [Stop Babysitting Servers: Build a Scalable Serverless Data Lake on AWS](https://dev.to/tuni56/stop-babysitting-servers-build-a-scalable-serverless-data-lake-on-aws-2pn7)
+- [Why I Built pip-size: A Story About Obsession with Performance](https://dev.to/mohammadraziei/why-i-built-pip-size-a-story-about-obsession-with-performance-o40)
+- [Geneva Forecasting API: An Expert System for Time-Series Forecasts](https://dev.to/codebydom/geneva-forecasting-api-an-expert-system-for-time-series-forecasts-393n)
 <!-- BLOG-POST-LIST:END -->
 
 
