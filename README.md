@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Skills Section: Best Layout + Examples &lpar;2026&rpar;](https://dev.to/sarah_m/resume-skills-section-best-layout-examples-2026-5b98)
-- [How AI Is Transforming Cybersecurity and Compliance — A Deep Dive into PCI DSS](https://dev.to/harshal_mehta/how-ai-is-transforming-cybersecurity-and-compliance-a-deep-dive-into-pci-dss-515p)
-- [Surviving Node.js Clusters: Graceful Teardowns, Windows Quirks, and Black-Box Testing](https://dev.to/ashishbarmaiya/surviving-nodejs-clusters-graceful-teardowns-windows-quirks-and-black-box-testing-1aom)
-- [I Spent 47 Hours Turning &quot;Hello, World&quot; Into an Enterprise Platform](https://dev.to/codeexplorerray/i-spent-47-hours-turning-hello-world-into-an-enterprise-platform-i12)
+- [I got tired of uploading sensitive images to random websites, so I built a local-only blur tool](https://dev.to/wplacetool/i-got-tired-of-uploading-sensitive-images-to-random-websites-so-i-built-a-local-only-blur-tool-581l)
+- [AionUi: One Interface for 12+ AI Agents — A Free, Open-Source Cowork Desktop App](https://dev.to/recca0120/aionui-one-interface-for-12-ai-agents-a-free-open-source-cowork-desktop-app-1mf2)
+- [How I stopped bad data from reaching my warehouse using a single Airflow task](https://dev.to/appdeviq/how-i-stopped-bad-data-from-reaching-my-warehouse-using-a-single-airflow-task-2o88)
+- [Zero Trust for AI Agents: Why We Added Tiered Membership to Our Network](https://dev.to/mycelnet/zero-trust-for-ai-agents-why-we-added-tiered-membership-to-our-network-4b9h)
 <!-- BLOG-POST-LIST:END -->
 
 
