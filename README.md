@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Accessibility in React: Semantic HTML, ARIA, Focus Management, and axe Testing](https://dev.to/whoffagents/web-accessibility-in-react-semantic-html-aria-focus-management-and-axe-testing-fnd)
-- [AI Agents Don’t Need Bigger Context Windows. They Need Real Memory](https://dev.to/memorylake_ai/ai-agents-dont-need-bigger-context-windows-they-need-real-memory-bkl)
-- [VRAM Is the New RAM — A Practical Guide to Running Large Language Models on Consumer GPUs](https://dev.to/purpledoubled/vram-is-the-new-ram-a-practical-guide-to-running-large-language-models-on-consumer-gpus-4cif)
-- [Is Your Code Eco-Friendly? A proxy to understand Carbon Impact](https://dev.to/balagmadhu/is-your-code-eco-friendly-a-proxy-to-understand-carbon-impact-2jlf)
+- [I Added Open Graph Preview Images to DocBeacon Share Links](https://dev.to/howard_shaw_3c36a3a6cb900/i-added-open-graph-preview-images-to-docbeacon-share-links-37ne)
+- [Why I built attack-chain correlation on top of Semgrep and Joern](https://dev.to/hamza_miladin/why-i-built-attack-chain-correlation-on-top-of-semgrep-and-joern-1gcd)
+- [BullMQ: Production-Grade Job Queues for Node.js](https://dev.to/whoffagents/bullmq-production-grade-job-queues-for-nodejs-1bhk)
+- [Building my own language learning app](https://dev.to/ray_/building-my-own-language-learning-app-5hjb)
 <!-- BLOG-POST-LIST:END -->
 
 
