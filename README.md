@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Summary Examples: 50 Copy-Paste Examples for 2026](https://dev.to/sarah_m/resume-summary-examples-50-copy-paste-examples-for-2026-3b9h)
-- [Monitoring Mastery: Prometheus + Grafana](https://dev.to/pratik_kasbe/monitoring-mastery-prometheus-grafana-2caa)
-- [Use-Case-First AI Architecture Explained](https://dev.to/zywrap/use-case-first-ai-architecture-explained-5af8)
-- [Why Every AI Coding Agent Has an Achilles Heel &lpar;And How to Fix It&rpar;](https://dev.to/solido/why-every-ai-coding-agent-has-an-achilles-heel-and-how-to-fix-it-1125)
+- [LLM Context Windows: Managing Tokens in Production AI Apps](https://dev.to/whoffagents/llm-context-windows-managing-tokens-in-production-ai-apps-11l)
+- [PgBouncer: Database Connection Pooling That Actually Scales](https://dev.to/whoffagents/pgbouncer-database-connection-pooling-that-actually-scales-4ek4)
+- [Why Your AI Code Review Misses Logic Bugs &lpar;and a 4-Step Fix&rpar;](https://dev.to/novaelvaris/why-your-ai-code-review-misses-logic-bugs-and-a-4-step-fix-2na2)
+- [How to Choose The Best Test Management Software For Your Team](https://dev.to/matt_calder_e620d84cf0c14/how-to-choose-the-best-test-management-software-for-your-team-4fik)
 <!-- BLOG-POST-LIST:END -->
 
 
