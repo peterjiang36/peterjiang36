@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello Noir! [Part 2]](https://dev.to/0xluk3/hello-noir-part-2-36l7)
-- [Was Web-Entwickler von Game-Engine-Architektur lernen können](https://dev.to/ziva/was-web-entwickler-von-game-engine-architektur-lernen-konnen-le3)
-- [StudioMeyer CRM: AI-Native Contact Management with 33 MCP Tools](https://dev.to/studiomeyer/studiomeyer-crm-ai-native-contact-management-with-33-mcp-tools-ck6)
-- [HTCPCP IYKYK: I Built a Browser Extension That Lets Dinosaurs Eat the Internet](https://dev.to/tawe/htcpcp-iykyk-i-built-a-browser-extension-that-lets-dinosaurs-eat-the-internet-30a5)
+- [Why Is My OpenClaw Dumb? — The Complete Guide to Making Your AI Assistant Actually Smart](https://dev.to/mrclaw207/why-is-my-openclaw-dumb-the-complete-guide-to-making-your-ai-assistant-actually-smart-1g9k)
+- [How I Use AI for Coding Without Giving Up Control](https://dev.to/justdatguymat/how-i-use-ai-for-coding-without-giving-up-control-20kg)
+- [Blocking AI Crawlers vs. Letting Them In: A Practical Defense Guide](https://dev.to/alanwest/blocking-ai-crawlers-vs-letting-them-in-a-practical-defense-guide-46e6)
+- [Deploying a Next.js Monorepo to Cloudflare Workers: Lessons from the Trenches](https://dev.to/lewiskori/deploying-a-nextjs-monorepo-to-cloudflare-workers-lessons-from-the-trenches-1ok8)
 <!-- BLOG-POST-LIST:END -->
 
 
