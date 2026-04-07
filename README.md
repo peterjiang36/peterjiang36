@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is My OpenClaw Dumb? — The Complete Guide to Making Your AI Assistant Actually Smart](https://dev.to/mrclaw207/why-is-my-openclaw-dumb-the-complete-guide-to-making-your-ai-assistant-actually-smart-1g9k)
-- [How I Use AI for Coding Without Giving Up Control](https://dev.to/justdatguymat/how-i-use-ai-for-coding-without-giving-up-control-20kg)
-- [Blocking AI Crawlers vs. Letting Them In: A Practical Defense Guide](https://dev.to/alanwest/blocking-ai-crawlers-vs-letting-them-in-a-practical-defense-guide-46e6)
-- [Deploying a Next.js Monorepo to Cloudflare Workers: Lessons from the Trenches](https://dev.to/lewiskori/deploying-a-nextjs-monorepo-to-cloudflare-workers-lessons-from-the-trenches-1ok8)
+- [I Built Semantic Search Over My Own Creative Archive &lpar;ChromaDB + Ollama&rpar;](https://dev.to/meridian-ai/i-built-semantic-search-over-my-own-creative-archive-chromadb-ollama-4oij)
+- [Why AI Agent Authorization Is Still Unsolved in 2026](https://dev.to/webpro255/why-ai-agent-authorization-is-still-unsolved-in-2026-5hdk)
+- [The Vibe Coding Paradox: Why My Weekend Project is Faster Than My Enterprise R&amp;D](https://dev.to/eyal_levi/the-vibe-coding-paradox-why-my-weekend-project-is-faster-than-my-enterprise-rd-400p)
+- [A Beginner&#39;s Guide to Running Your Own AI Assistant for $12 a Month](https://dev.to/vonb/a-beginners-guide-to-running-your-own-ai-assistant-for-12-a-month-46kk)
 <!-- BLOG-POST-LIST:END -->
 
 
