@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Prompt Libraries Developers Actually Use in 2026](https://dev.to/lightningdev123/best-prompt-libraries-developers-actually-use-in-2026-2fo6)
-- [✨ IaC: Deploying a Node Secrets Viewer with Terraform ✨👩🏽‍💻](https://dev.to/lalidevops/iac-deploying-a-node-secrets-viewer-with-terraform-3h32)
-- [Agent-Driven E2E Testing with Cypress: A Practical Guide to Harness Engineering with Cursor Subagents](https://dev.to/cypress/agent-driven-e2e-testing-with-cypress-a-practical-guide-to-harness-engineering-with-cursor-5fob)
-- [🐳 My Docker Journey: From Zero to &quot;It Works on My Machine&quot; &lpar;For Real This Time 😂!&rpar;](https://dev.to/lalidevops/my-docker-journey-from-zero-to-it-works-on-my-machine-for-real-this-time--57fn)
+- [Naftiko Framework Alpha 1: Turning API Sprawl Into Governed Capabilities for AI](https://dev.to/kinlane/naftiko-framework-alpha-1-turning-api-sprawl-into-governed-capabilities-for-ai-56ea)
+- [Why AI Development Works Better Step by Step, and Why Vibe Planner Is Built for Exactly That](https://dev.to/martintonev/why-ai-development-works-better-step-by-step-and-why-vibe-planner-is-built-for-exactly-that-595i)
+- [Planeta Libre](https://dev.to/renich/planeta-libre-3obh)
+- [True Cost of Building a Slack AI Agent](https://dev.to/lowcodeagency/true-cost-of-building-a-slack-ai-agent-1ee3)
 <!-- BLOG-POST-LIST:END -->
 
 
