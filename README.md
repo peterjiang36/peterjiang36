@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Slack&#39;s New AI Slackbot: What Salesforce Pros Need to Know](https://dev.to/dipojjal/slacks-new-ai-slackbot-what-salesforce-pros-need-to-know-5de8)
-- [Building a Browser-Side Image Compressor with Canvas API — Quality Presets, WebP Conversion, and ZIP Download](https://dev.to/shaishav_patel_271fdcd61a/building-a-browser-side-image-compressor-with-canvas-api-quality-presets-webp-conversion-and-3nne)
-- [How I built a real-time LLM &quot;Kill-Switch&quot; for Vercel Edge using Atomic Redis](https://dev.to/thsky21/how-i-built-a-real-time-llm-kill-switch-for-vercel-edge-using-atomic-redis-3njm)
-- [US De Minimis Is Dead — Here&#39;s What $30 Products Actually Cost Now &lpar;With Real API Data&rpar;](https://dev.to/soulmaten7/us-de-minimis-is-dead-heres-what-30-products-actually-cost-now-with-real-api-data-34d6)
+- [The Stability Assumption: The Hidden Defect Source](https://dev.to/crisiscoresystems/the-stability-assumption-the-hidden-defect-source-5cpd)
+- [Spreading Joy Through Code: Introducing the Birthday Celebration App 🎂](https://dev.to/lemancaliskan/spreading-joy-through-code-introducing-the-birthday-celebration-app-3ni)
+- [¿Tu useEffect tiene un bug silencioso?](https://dev.to/falcondpr/tu-useeffect-tiene-un-bug-silencioso-9cf)
+- [Base64 Decode in JavaScript: atob&lpar;&rpar;, Buffer, and Common Pitfalls](https://dev.to/tooldeck/base64-decode-in-javascript-atob-buffer-and-common-pitfalls-4k3d)
 <!-- BLOG-POST-LIST:END -->
 
 
