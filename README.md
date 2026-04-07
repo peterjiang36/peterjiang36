@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Universal Linux Apps: Snap, Flatpak, and AppImage](https://dev.to/zilton7/the-ultimate-guide-to-universal-linux-apps-snap-flatpak-and-appimage-a50)
-- [The Contents of That Dumpster Are Private](https://dev.to/mockhealth/the-contents-of-that-dumpster-are-private-4dok)
-- [How We Reached 92% Coverage with GitAuto](https://dev.to/gitautoai/how-we-reached-92-coverage-with-gitauto-1ll1)
-- [QIS Outcome Routing with SQLite — Quadratic Intelligence on Any Device, No Server Required](https://dev.to/roryqis/qis-outcome-routing-with-sqlite-quadratic-intelligence-on-any-device-no-server-required-3k7b)
+- [Cx Dev Log — 2026-04-06](https://dev.to/commenterthe9/cx-dev-log-2026-04-06-191f)
+- [Why Data Engineer Interviews Are Completely Broken in 2026](https://dev.to/datadriven/why-data-engineer-interviews-are-completely-broken-in-2026-1186)
+- [The Convergence: Builders Worldwide Keep Reinventing the Same Agent Architecture](https://dev.to/mindon/the-convergence-builders-worldwide-keep-reinventing-the-same-agent-architecture-4fln)
+- [Your personal semantic kernel.](https://dev.to/suign/your-personal-semantic-kernel-4m72)
 <!-- BLOG-POST-LIST:END -->
 
 
