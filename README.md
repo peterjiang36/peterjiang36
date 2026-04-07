@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Beyond RAG: Simulating the Future with MiroFish](https://dev.to/techwithhari/beyond-rag-simulating-the-future-with-mirofish-1dal)
-- [Performance Monitoring for E-Commerce: What Metrics Matter Most](https://dev.to/apogeewatcher/performance-monitoring-for-e-commerce-what-metrics-matter-most-5409)
-- [API Rate Limits Killing Your SFMC Automation?](https://dev.to/martechmon01/api-rate-limits-killing-your-sfmc-automation-4o9)
-- [Production Was Down… But Everything Looked Normal 🤯](https://dev.to/codewithishwar/production-was-down-but-everything-looked-normal-1bc6)
+- [Native Web Components don&#39;t have to be boring. Meet BareDOM v1.3.0](https://dev.to/avanelsas/native-web-components-dont-have-to-be-boring-meet-baredom-v130-4m6e)
+- [Context Pruning Delivers Measurable ROI for Enterprise AI](https://dev.to/tokenaiz/context-pruning-delivers-measurable-roi-for-enterprise-ai-36d0)
+- [The role of social media in the spread of disinformation](https://dev.to/techethics/the-role-of-social-media-in-the-spread-of-disinformation-3452)
+- [Conquering the Reddit API: How to Natively Upload Images via Node.js &lpar;And Survive the S3 Boss Fight&rpar;](https://dev.to/freerave/conquering-the-reddit-api-how-to-natively-upload-images-via-nodejs-and-survive-the-s3-boss-fight-1b21)
 <!-- BLOG-POST-LIST:END -->
 
 
