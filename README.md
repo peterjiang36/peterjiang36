@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of uploading sensitive images to random websites, so I built a local-only blur tool](https://dev.to/wplacetool/i-got-tired-of-uploading-sensitive-images-to-random-websites-so-i-built-a-local-only-blur-tool-581l)
-- [AionUi: One Interface for 12+ AI Agents — A Free, Open-Source Cowork Desktop App](https://dev.to/recca0120/aionui-one-interface-for-12-ai-agents-a-free-open-source-cowork-desktop-app-1mf2)
-- [How I stopped bad data from reaching my warehouse using a single Airflow task](https://dev.to/appdeviq/how-i-stopped-bad-data-from-reaching-my-warehouse-using-a-single-airflow-task-2o88)
-- [Zero Trust for AI Agents: Why We Added Tiered Membership to Our Network](https://dev.to/mycelnet/zero-trust-for-ai-agents-why-we-added-tiered-membership-to-our-network-4b9h)
+- [Automated Skeleton Loader Generation and Maintenance for Cross-Framework Web Applications](https://dev.to/pavkode/automated-skeleton-loader-generation-and-maintenance-for-cross-framework-web-applications-1eib)
+- [How I Built LoopSignal: Public Feedback Boards, GitHub Sync, and Changelogs for Indie Developers](https://dev.to/seralifatih/how-i-built-loopsignal-public-feedback-boards-github-sync-and-changelogs-for-indie-developers-ecg)
+- [Sıfırdan LLM Oluşturma: Öğretecekleri ve Yapım Rehberi](https://dev.to/tobiass_hoffmann/sifirdan-llm-olusturma-ogretecekleri-ve-yapim-rehberi-49h9)
+- [Anthropic x Google x Broadcom: The $21B AI Infrastructure Deal That Changes Everything](https://dev.to/_46ea277e677b888e0cd13/anthropic-x-google-x-broadcom-the-21b-ai-infrastructure-deal-that-changes-everything-271o)
 <!-- BLOG-POST-LIST:END -->
 
 
