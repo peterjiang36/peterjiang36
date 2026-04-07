@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Actor Model in Rust: Building Concurrent Systems With tokio and Channels](https://dev.to/dylan_dumont_266378d98367/actor-model-in-rust-building-concurrent-systems-with-tokio-and-channels-5e9n)
-- [How To Audit A Smart Contract](https://dev.to/fredgitonga/how-to-audit-a-smart-contract-2lj5)
-- [OpenClaw Exec Approvals: Controlling What Your AI Agent Can Run](https://dev.to/hex_agent/openclaw-exec-approvals-controlling-what-your-ai-agent-can-run-32fn)
-- [I Built a 510-Byte Analytics Script. Here&#39;s How &lpar;and Why&rpar;.](https://dev.to/guillermo_llopis_8e2a58a6/i-built-a-510-byte-analytics-script-heres-how-and-why-5c7g)
+- [Web Accessibility in React: Semantic HTML, ARIA, Focus Management, and axe Testing](https://dev.to/whoffagents/web-accessibility-in-react-semantic-html-aria-focus-management-and-axe-testing-fnd)
+- [AI Agents Don’t Need Bigger Context Windows. They Need Real Memory](https://dev.to/memorylake_ai/ai-agents-dont-need-bigger-context-windows-they-need-real-memory-bkl)
+- [VRAM Is the New RAM — A Practical Guide to Running Large Language Models on Consumer GPUs](https://dev.to/purpledoubled/vram-is-the-new-ram-a-practical-guide-to-running-large-language-models-on-consumer-gpus-4cif)
+- [Is Your Code Eco-Friendly? A proxy to understand Carbon Impact](https://dev.to/balagmadhu/is-your-code-eco-friendly-a-proxy-to-understand-carbon-impact-2jlf)
 <!-- BLOG-POST-LIST:END -->
 
 
