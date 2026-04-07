@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Native Web Components don&#39;t have to be boring. Meet BareDOM v1.3.0](https://dev.to/avanelsas/native-web-components-dont-have-to-be-boring-meet-baredom-v130-4m6e)
-- [Context Pruning Delivers Measurable ROI for Enterprise AI](https://dev.to/tokenaiz/context-pruning-delivers-measurable-roi-for-enterprise-ai-36d0)
-- [The role of social media in the spread of disinformation](https://dev.to/techethics/the-role-of-social-media-in-the-spread-of-disinformation-3452)
-- [Conquering the Reddit API: How to Natively Upload Images via Node.js &lpar;And Survive the S3 Boss Fight&rpar;](https://dev.to/freerave/conquering-the-reddit-api-how-to-natively-upload-images-via-nodejs-and-survive-the-s3-boss-fight-1b21)
+- [Hello Noir! [Part 2]](https://dev.to/0xluk3/hello-noir-part-2-36l7)
+- [Was Web-Entwickler von Game-Engine-Architektur lernen können](https://dev.to/ziva/was-web-entwickler-von-game-engine-architektur-lernen-konnen-le3)
+- [StudioMeyer CRM: AI-Native Contact Management with 33 MCP Tools](https://dev.to/studiomeyer/studiomeyer-crm-ai-native-contact-management-with-33-mcp-tools-ck6)
+- [HTCPCP IYKYK: I Built a Browser Extension That Lets Dinosaurs Eat the Internet](https://dev.to/tawe/htcpcp-iykyk-i-built-a-browser-extension-that-lets-dinosaurs-eat-the-internet-30a5)
 <!-- BLOG-POST-LIST:END -->
 
 
