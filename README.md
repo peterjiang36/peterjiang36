@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The SKILL.md Format: A Standard for Portable AI Agent Capabilities](https://dev.to/zacvibecodez/the-skillmd-format-a-standard-for-portable-ai-agent-capabilities-1mf5)
-- [Building Composable AI: Why Skills Marketplaces Are the Next Package Managers](https://dev.to/zacvibecodez/building-composable-ai-why-skills-marketplaces-are-the-next-package-managers-4380)
-- [The Backyard Quarry, Part 4: Searching a Pile of Rocks](https://dev.to/kenwalger/the-backyard-quarry-part-4-searching-a-pile-of-rocks-2aim)
-- [We Built 17 MCP Servers to Let AI Run Our Internal Operations](https://dev.to/ryosuke_tsuji_f08e20fdca1/we-built-17-mcp-servers-to-let-ai-run-our-internal-operations-3lk2)
+- [🚀 Beyond RAG: Simulating the Future with MiroFish](https://dev.to/techwithhari/beyond-rag-simulating-the-future-with-mirofish-1dal)
+- [Performance Monitoring for E-Commerce: What Metrics Matter Most](https://dev.to/apogeewatcher/performance-monitoring-for-e-commerce-what-metrics-matter-most-5409)
+- [API Rate Limits Killing Your SFMC Automation?](https://dev.to/martechmon01/api-rate-limits-killing-your-sfmc-automation-4o9)
+- [Production Was Down… But Everything Looked Normal 🤯](https://dev.to/codewithishwar/production-was-down-but-everything-looked-normal-1bc6)
 <!-- BLOG-POST-LIST:END -->
 
 
