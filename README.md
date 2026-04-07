@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LiteLLM Proxy: The Open-Source Alternative for Multi-Provider LLM Failover and Load Balancing](https://dev.to/deneesh_narayanasamy/litellm-proxy-the-open-source-alternative-for-multi-provider-llm-failover-and-load-balancing-54fn)
-- [The Future of Security Testing: Fast, Automated, and Continuous](https://dev.to/reema_riyazkhan_aa44ab89/the-future-of-security-testing-fast-automated-and-continuous-1dmp)
-- [Your React App&#39;s SEO Is Broken and react-helmet Can&#39;t Fix It Anymore](https://dev.to/alamin_c5eb10132845723c2b/your-react-apps-seo-is-broken-and-react-helmet-cant-fix-it-anymore-p2d)
-- [Managing a Team of AI Agents: What Nobody Tells You](https://dev.to/dpark2025/managing-a-team-of-ai-agents-what-nobody-tells-you-ed4)
+- [Grid Table v1.0.8: Mobile Layout Control + Server Pagination](https://dev.to/john_yaghobieh_8f294091f6/grid-table-v108-mobile-layout-control-server-pagination-32o2)
+- [How I shipped 3 apps in a month and built the tool that made it possible](https://dev.to/boaz-hwang/how-i-shipped-3-apps-in-a-month-and-built-the-tool-that-made-it-possible-59p1)
+- [The MCP Server Testing Guide: How to Test Before You Ship](https://dev.to/whoffagents/the-mcp-server-testing-guide-how-to-test-before-you-ship-4agb)
+- [Working with Data in C#: Arrays](https://dev.to/allcoderthings/working-with-data-in-c-arrays-306j)
 <!-- BLOG-POST-LIST:END -->
 
 
