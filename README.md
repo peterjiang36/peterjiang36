@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open Webhook Gateway — Here&#39;s Why and How](https://dev.to/upsec_co/i-built-an-open-webhook-gateway-heres-why-and-how-1jg2)
-- [From GitHub Actions to ArgoCD: A Complete GitOps Migration Guide](https://dev.to/varunvarde/from-github-actions-to-argocd-a-complete-gitops-migration-guide-4kd4)
-- [Mistake 4/14: Same data breaks Playwright group tests](https://dev.to/testdino01/mistake-414-same-data-breaks-playwright-group-tests-5dj1)
-- [pytest fixtures that actually scale: patterns from 2 years of Python CI pipelines](https://dev.to/peytongreen_dev/pytest-fixtures-that-actually-scale-patterns-from-2-years-of-python-ci-pipelines-3d98)
+- [Slack&#39;s New AI Slackbot: What Salesforce Pros Need to Know](https://dev.to/dipojjal/slacks-new-ai-slackbot-what-salesforce-pros-need-to-know-5de8)
+- [Building a Browser-Side Image Compressor with Canvas API — Quality Presets, WebP Conversion, and ZIP Download](https://dev.to/shaishav_patel_271fdcd61a/building-a-browser-side-image-compressor-with-canvas-api-quality-presets-webp-conversion-and-3nne)
+- [How I built a real-time LLM &quot;Kill-Switch&quot; for Vercel Edge using Atomic Redis](https://dev.to/thsky21/how-i-built-a-real-time-llm-kill-switch-for-vercel-edge-using-atomic-redis-3njm)
+- [US De Minimis Is Dead — Here&#39;s What $30 Products Actually Cost Now &lpar;With Real API Data&rpar;](https://dev.to/soulmaten7/us-de-minimis-is-dead-heres-what-30-products-actually-cost-now-with-real-api-data-34d6)
 <!-- BLOG-POST-LIST:END -->
 
 
