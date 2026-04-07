@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Added Open Graph Preview Images to DocBeacon Share Links](https://dev.to/howard_shaw_3c36a3a6cb900/i-added-open-graph-preview-images-to-docbeacon-share-links-37ne)
-- [Why I built attack-chain correlation on top of Semgrep and Joern](https://dev.to/hamza_miladin/why-i-built-attack-chain-correlation-on-top-of-semgrep-and-joern-1gcd)
-- [BullMQ: Production-Grade Job Queues for Node.js](https://dev.to/whoffagents/bullmq-production-grade-job-queues-for-nodejs-1bhk)
-- [Building my own language learning app](https://dev.to/ray_/building-my-own-language-learning-app-5hjb)
+- [#22 Broken Shoes](https://dev.to/rintaromatsumoto/22-broken-shoes-2mo)
+- [Cloud-Native Authentication Patterns for Web Apps](https://dev.to/hamza_a_1dba9c327788c448f/cloud-native-authentication-patterns-for-web-apps-346b)
+- [#21 The Defeat of Humanity](https://dev.to/rintaromatsumoto/21-the-defeat-of-humanity-3g39)
+- [Azure IoT Operations: Edge Intelligence for Industry](https://dev.to/hamza_a_1dba9c327788c448f/azure-iot-operations-edge-intelligence-for-industry-1khe)
 <!-- BLOG-POST-LIST:END -->
 
 
