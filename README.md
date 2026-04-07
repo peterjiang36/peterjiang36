@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Semantic Search Over My Own Creative Archive &lpar;ChromaDB + Ollama&rpar;](https://dev.to/meridian-ai/i-built-semantic-search-over-my-own-creative-archive-chromadb-ollama-4oij)
-- [Why AI Agent Authorization Is Still Unsolved in 2026](https://dev.to/webpro255/why-ai-agent-authorization-is-still-unsolved-in-2026-5hdk)
-- [The Vibe Coding Paradox: Why My Weekend Project is Faster Than My Enterprise R&amp;D](https://dev.to/eyal_levi/the-vibe-coding-paradox-why-my-weekend-project-is-faster-than-my-enterprise-rd-400p)
-- [A Beginner&#39;s Guide to Running Your Own AI Assistant for $12 a Month](https://dev.to/vonb/a-beginners-guide-to-running-your-own-ai-assistant-for-12-a-month-46kk)
+- [Best Prompt Libraries Developers Actually Use in 2026](https://dev.to/lightningdev123/best-prompt-libraries-developers-actually-use-in-2026-2fo6)
+- [✨ IaC: Deploying a Node Secrets Viewer with Terraform ✨👩🏽‍💻](https://dev.to/lalidevops/iac-deploying-a-node-secrets-viewer-with-terraform-3h32)
+- [Agent-Driven E2E Testing with Cypress: A Practical Guide to Harness Engineering with Cursor Subagents](https://dev.to/cypress/agent-driven-e2e-testing-with-cypress-a-practical-guide-to-harness-engineering-with-cursor-5fob)
+- [🐳 My Docker Journey: From Zero to &quot;It Works on My Machine&quot; &lpar;For Real This Time 😂!&rpar;](https://dev.to/lalidevops/my-docker-journey-from-zero-to-it-works-on-my-machine-for-real-this-time--57fn)
 <!-- BLOG-POST-LIST:END -->
 
 
