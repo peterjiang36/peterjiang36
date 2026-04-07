@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Skeleton Loader Generation and Maintenance for Cross-Framework Web Applications](https://dev.to/pavkode/automated-skeleton-loader-generation-and-maintenance-for-cross-framework-web-applications-1eib)
-- [How I Built LoopSignal: Public Feedback Boards, GitHub Sync, and Changelogs for Indie Developers](https://dev.to/seralifatih/how-i-built-loopsignal-public-feedback-boards-github-sync-and-changelogs-for-indie-developers-ecg)
-- [Sıfırdan LLM Oluşturma: Öğretecekleri ve Yapım Rehberi](https://dev.to/tobiass_hoffmann/sifirdan-llm-olusturma-ogretecekleri-ve-yapim-rehberi-49h9)
-- [Anthropic x Google x Broadcom: The $21B AI Infrastructure Deal That Changes Everything](https://dev.to/_46ea277e677b888e0cd13/anthropic-x-google-x-broadcom-the-21b-ai-infrastructure-deal-that-changes-everything-271o)
+- [LiteLLM Proxy: The Open-Source Alternative for Multi-Provider LLM Failover and Load Balancing](https://dev.to/deneesh_narayanasamy/litellm-proxy-the-open-source-alternative-for-multi-provider-llm-failover-and-load-balancing-54fn)
+- [The Future of Security Testing: Fast, Automated, and Continuous](https://dev.to/reema_riyazkhan_aa44ab89/the-future-of-security-testing-fast-automated-and-continuous-1dmp)
+- [Your React App&#39;s SEO Is Broken and react-helmet Can&#39;t Fix It Anymore](https://dev.to/alamin_c5eb10132845723c2b/your-react-apps-seo-is-broken-and-react-helmet-cant-fix-it-anymore-p2d)
+- [Managing a Team of AI Agents: What Nobody Tells You](https://dev.to/dpark2025/managing-a-team-of-ai-agents-what-nobody-tells-you-ed4)
 <!-- BLOG-POST-LIST:END -->
 
 
