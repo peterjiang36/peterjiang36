@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Context Windows: Managing Tokens in Production AI Apps](https://dev.to/whoffagents/llm-context-windows-managing-tokens-in-production-ai-apps-11l)
-- [PgBouncer: Database Connection Pooling That Actually Scales](https://dev.to/whoffagents/pgbouncer-database-connection-pooling-that-actually-scales-4ek4)
-- [Why Your AI Code Review Misses Logic Bugs &lpar;and a 4-Step Fix&rpar;](https://dev.to/novaelvaris/why-your-ai-code-review-misses-logic-bugs-and-a-4-step-fix-2na2)
-- [How to Choose The Best Test Management Software For Your Team](https://dev.to/matt_calder_e620d84cf0c14/how-to-choose-the-best-test-management-software-for-your-team-4fik)
+- [I Built an Open Webhook Gateway — Here&#39;s Why and How](https://dev.to/upsec_co/i-built-an-open-webhook-gateway-heres-why-and-how-1jg2)
+- [From GitHub Actions to ArgoCD: A Complete GitOps Migration Guide](https://dev.to/varunvarde/from-github-actions-to-argocd-a-complete-gitops-migration-guide-4kd4)
+- [Mistake 4/14: Same data breaks Playwright group tests](https://dev.to/testdino01/mistake-414-same-data-breaks-playwright-group-tests-5dj1)
+- [pytest fixtures that actually scale: patterns from 2 years of Python CI pipelines](https://dev.to/peytongreen_dev/pytest-fixtures-that-actually-scale-patterns-from-2-years-of-python-ci-pipelines-3d98)
 <!-- BLOG-POST-LIST:END -->
 
 
