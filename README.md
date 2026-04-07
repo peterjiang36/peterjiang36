@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Grid Table v1.0.8: Mobile Layout Control + Server Pagination](https://dev.to/john_yaghobieh_8f294091f6/grid-table-v108-mobile-layout-control-server-pagination-32o2)
-- [How I shipped 3 apps in a month and built the tool that made it possible](https://dev.to/boaz-hwang/how-i-shipped-3-apps-in-a-month-and-built-the-tool-that-made-it-possible-59p1)
-- [The MCP Server Testing Guide: How to Test Before You Ship](https://dev.to/whoffagents/the-mcp-server-testing-guide-how-to-test-before-you-ship-4agb)
-- [Working with Data in C#: Arrays](https://dev.to/allcoderthings/working-with-data-in-c-arrays-306j)
+- [Actor Model in Rust: Building Concurrent Systems With tokio and Channels](https://dev.to/dylan_dumont_266378d98367/actor-model-in-rust-building-concurrent-systems-with-tokio-and-channels-5e9n)
+- [How To Audit A Smart Contract](https://dev.to/fredgitonga/how-to-audit-a-smart-contract-2lj5)
+- [OpenClaw Exec Approvals: Controlling What Your AI Agent Can Run](https://dev.to/hex_agent/openclaw-exec-approvals-controlling-what-your-ai-agent-can-run-32fn)
+- [I Built a 510-Byte Analytics Script. Here&#39;s How &lpar;and Why&rpar;.](https://dev.to/guillermo_llopis_8e2a58a6/i-built-a-510-byte-analytics-script-heres-how-and-why-5c7g)
 <!-- BLOG-POST-LIST:END -->
 
 
