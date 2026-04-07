@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [#22 Broken Shoes](https://dev.to/rintaromatsumoto/22-broken-shoes-2mo)
-- [Cloud-Native Authentication Patterns for Web Apps](https://dev.to/hamza_a_1dba9c327788c448f/cloud-native-authentication-patterns-for-web-apps-346b)
-- [#21 The Defeat of Humanity](https://dev.to/rintaromatsumoto/21-the-defeat-of-humanity-3g39)
-- [Azure IoT Operations: Edge Intelligence for Industry](https://dev.to/hamza_a_1dba9c327788c448f/azure-iot-operations-edge-intelligence-for-industry-1khe)
+- [Resume Summary Examples: 50 Copy-Paste Examples for 2026](https://dev.to/sarah_m/resume-summary-examples-50-copy-paste-examples-for-2026-3b9h)
+- [Monitoring Mastery: Prometheus + Grafana](https://dev.to/pratik_kasbe/monitoring-mastery-prometheus-grafana-2caa)
+- [Use-Case-First AI Architecture Explained](https://dev.to/zywrap/use-case-first-ai-architecture-explained-5af8)
+- [Why Every AI Coding Agent Has an Achilles Heel &lpar;And How to Fix It&rpar;](https://dev.to/solido/why-every-ai-coding-agent-has-an-achilles-heel-and-how-to-fix-it-1125)
 <!-- BLOG-POST-LIST:END -->
 
 
