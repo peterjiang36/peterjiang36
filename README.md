@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cx Dev Log — 2026-04-06](https://dev.to/commenterthe9/cx-dev-log-2026-04-06-191f)
-- [Why Data Engineer Interviews Are Completely Broken in 2026](https://dev.to/datadriven/why-data-engineer-interviews-are-completely-broken-in-2026-1186)
-- [The Convergence: Builders Worldwide Keep Reinventing the Same Agent Architecture](https://dev.to/mindon/the-convergence-builders-worldwide-keep-reinventing-the-same-agent-architecture-4fln)
-- [Your personal semantic kernel.](https://dev.to/suign/your-personal-semantic-kernel-4m72)
+- [Resume Skills Section: Best Layout + Examples &lpar;2026&rpar;](https://dev.to/sarah_m/resume-skills-section-best-layout-examples-2026-5b98)
+- [How AI Is Transforming Cybersecurity and Compliance — A Deep Dive into PCI DSS](https://dev.to/harshal_mehta/how-ai-is-transforming-cybersecurity-and-compliance-a-deep-dive-into-pci-dss-515p)
+- [Surviving Node.js Clusters: Graceful Teardowns, Windows Quirks, and Black-Box Testing](https://dev.to/ashishbarmaiya/surviving-nodejs-clusters-graceful-teardowns-windows-quirks-and-black-box-testing-1aom)
+- [I Spent 47 Hours Turning &quot;Hello, World&quot; Into an Enterprise Platform](https://dev.to/codeexplorerray/i-spent-47-hours-turning-hello-world-into-an-enterprise-platform-i12)
 <!-- BLOG-POST-LIST:END -->
 
 
