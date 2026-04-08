@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tu score de accesibilidad te está mintiendo](https://dev.to/jtorchia/tu-score-de-accesibilidad-te-esta-mintiendo-4efo)
-- [Your AI Agent Gets Dumber the More You Teach It. Skill Graphs Are the Fix.](https://dev.to/o96a/your-ai-agent-gets-dumber-the-more-you-teach-it-skill-graphs-are-the-fix-1fba)
-- [Why Your AI Coding Agent Needs a Digital Straitjacket](https://dev.to/haabe/why-your-ai-coding-agent-needs-a-digital-straitjacket-5beb)
-- [How to Reduce Deployment Anxiety: Making Deploys Boring &lpar;Yes, Boring Is the Goal&rpar;](https://dev.to/unitix_flow/how-to-reduce-deployment-anxiety-making-deploys-boring-yes-boring-is-the-goal-1ojo)
+- [A simple action will put you in the top 52% of coders from these stats](https://dev.to/canro91/a-simple-action-will-put-you-in-the-top-52-of-coders-from-these-stats-4cb9)
+- [I&#39;m a seller, not a developer — I triaged a Rust crash in a 1,300-star project](https://dev.to/florianhorner/im-a-seller-not-a-developer-i-triaged-a-rust-crash-in-a-1300-star-project-2ln0)
+- [✨ What I Built for the DEV April Fools Challenge: 🎵 Shake-to-Volume Music Player + 🐍 Shake-Controlled Snake Game](https://dev.to/sushan_shetty_5ebec41a67d/what-i-built-for-the-dev-april-fools-challenge-shake-to-volume-music-player--48e6)
+- [The OSS ER Bargain: What Entity Resolution Actually Costs You](https://dev.to/benzsevern/the-oss-er-bargain-what-entity-resolution-actually-costs-you-8h1)
 <!-- BLOG-POST-LIST:END -->
 
 
