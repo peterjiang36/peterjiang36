@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The OpenClaw Security Crisis: 135,000 Exposed AI Agents and the Runtime Governance Gap](https://dev.to/waxell/the-openclaw-security-crisis-135000-exposed-ai-agents-and-the-runtime-governance-gap-e26)
-- [SonarQube vs Coverity: Quality vs Defect Detection](https://dev.to/rahulxsingh/sonarqube-vs-coverity-quality-vs-defect-detection-1eih)
-- [Unlock AI at the Edge: High-Performance Inference with WebAssembly and ONNX](https://dev.to/programmingcentral/unlock-ai-at-the-edge-high-performance-inference-with-webassembly-and-onnx-27dh)
-- [Your MCP server is not an API adapter](https://dev.to/desty2k/your-mcp-server-is-not-an-api-adapter-23k7)
+- [Kotlin 2.4](https://dev.to/krun_pro/kotlin-24-5ak9)
+- [Understanding Transformers Part 3: How Transformers Combine Meaning and Position](https://dev.to/rijultp/understanding-transformers-part-3-how-transformers-combine-meaning-and-position-4gan)
+- [I built a JS framework with zero dependencies. Here&#39;s why](https://dev.to/nulldeps/i-built-a-js-framework-with-zero-dependencies-heres-why-kle)
+- [We Use Valtio Instead of Redux. Nobody Regrets It.](https://dev.to/adioof/we-use-valtio-instead-of-redux-nobody-regrets-it-2b57)
 <!-- BLOG-POST-LIST:END -->
 
 
