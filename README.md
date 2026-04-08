@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Mythos Finds Bugs Like a Senior Dev Finds Excuses to Skip Standup](https://dev.to/valentin_monteiro/claude-mythos-finds-bugs-like-a-senior-dev-finds-excuses-to-skip-standup-4194)
-- [Claude Mythos Finds Bugs Like a Senior Dev Finds Excuses to Skip Standup](https://dev.to/valentin_monteiro/claude-mythos-finds-bugs-like-a-senior-dev-finds-excuses-to-skip-standup-2h07)
-- [AI Citation Registries and Source Blending in AI Aggregation](https://dev.to/aigistry/ai-citation-registries-and-source-blending-in-ai-aggregation-5h5k)
-- [LLM-as-Judge: using Claude to review a Gemini agent](https://dev.to/thomas_p_fe0c76c7/llm-as-judge-using-claude-to-review-a-gemini-agent-4ofd)
+- [From Helping Out to Taking Ownership: The Art of Sticking Around](https://dev.to/adiatiayu/from-helping-out-to-taking-ownership-the-art-of-sticking-around-55h1)
+- [Dotafury.gg - Dota 2 Game Performance and Statistics](https://dev.to/syedyawer/dotafurygg-dota-2-game-performance-and-statistics-nh6)
+- [A Postmortem on Autonomous LLM-as-Judge: How My Eval Agent Got Two Verdicts Wrong Before I Found a Sandbox Bug](https://dev.to/gpgkd906/a-postmortem-on-autonomous-llm-as-judge-how-my-eval-agent-got-two-verdicts-wrong-before-i-found-a-a3j)
+- [I Benchmarked 4,999 WordPress Plugins for Speed. Here Are the Results.](https://dev.to/wpmultitool/i-benchmarked-4999-wordpress-plugins-for-speed-here-are-the-results-271g)
 <!-- BLOG-POST-LIST:END -->
 
 
