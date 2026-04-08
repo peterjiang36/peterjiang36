@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to georeference a map with QGIS](https://dev.to/noan/how-to-georeference-a-map-with-qgis-4if9)
-- [Your Form Response Just Created a GitHub PR: Cross-Service Orchestration With MCP](https://dev.to/lovanaut55/your-form-response-just-created-a-github-pr-cross-service-orchestration-with-mcp-57hl)
-- [From Counting Words to Learning Meaning](https://dev.to/kambleakash0/from-counting-words-to-learning-meaning-292g)
-- [Thought Waterfall: When Ideas Arrive Faster Than You Can Catch Them](https://dev.to/razbakov/thought-waterfall-when-ideas-arrive-faster-than-you-can-catch-them-ee)
+- [The Silent Guard: Leveraging Machine Learning for Anomaly Detection in Critical Infrastructure](https://dev.to/eferhire/the-silent-guard-leveraging-machine-learning-for-anomaly-detection-in-critical-infrastructure-ahm)
+- [Stop Wasting Tokens: How to Cut Your LLM Costs by 97%](https://dev.to/midhunweb/stop-wasting-tokens-how-to-cut-your-llm-costs-by-97-2ga)
+- [I Ditched My Keyboard for Voice Coding 🎙️](https://dev.to/dzakh/i-ditched-my-keyboard-for-voice-coding-54n9)
+- [Deploy an AI Swarm in 30 Seconds &lpar;Phoenix + MatrixOS&rpar;](https://dev.to/matrixswarm/deploy-an-ai-swarm-in-30-seconds-phoenix-matrixswarm-1ikf)
 <!-- BLOG-POST-LIST:END -->
 
 
