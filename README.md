@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Naftiko Framework Alpha 1: Turning API Sprawl Into Governed Capabilities for AI](https://dev.to/kinlane/naftiko-framework-alpha-1-turning-api-sprawl-into-governed-capabilities-for-ai-56ea)
-- [Why AI Development Works Better Step by Step, and Why Vibe Planner Is Built for Exactly That](https://dev.to/martintonev/why-ai-development-works-better-step-by-step-and-why-vibe-planner-is-built-for-exactly-that-595i)
-- [Planeta Libre](https://dev.to/renich/planeta-libre-3obh)
-- [True Cost of Building a Slack AI Agent](https://dev.to/lowcodeagency/true-cost-of-building-a-slack-ai-agent-1ee3)
+- [The Language We Forgot We Needed](https://dev.to/7ard1grad3/the-language-we-forgot-we-needed-26ad)
+- [The Chip That Sleeps](https://dev.to/7ard1grad3/the-chip-that-sleeps-4lok)
+- [Why Your Open-Source Dependencies Are a Ticking Time Bomb &lpar;And How to Defuse Them&rpar;](https://dev.to/alanwest/why-your-open-source-dependencies-are-a-ticking-time-bomb-and-how-to-defuse-them-k32)
+- [Bounding Box Augmentation for Object Detection with Albumentations](https://dev.to/viglovikov/bounding-box-augmentation-for-object-detection-with-albumentations-2la)
 <!-- BLOG-POST-LIST:END -->
 
 
