@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing shadcncraft](https://dev.to/shadcncraft/introducing-shadcncraft-2i37)
-- [The Test Manager’s Guide: From Chaos to Predictable Quality — Part 2: MVP Test Strategy — First 30 Days Wins](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-predictable-quality-part-2-mvp-test-strategy-first-30-m74)
-- [Cursor vs Claude Code: which AI coding tool is actually better in 2026](https://dev.to/whoffagents/cursor-vs-claude-code-which-ai-coding-tool-is-actually-better-in-2026-3c2p)
-- [Build. Learn. Share. My Dev Journey Begins ⭐](https://dev.to/syed_muhammad_uzair/build-learn-share-my-dev-journey-begins-3b8)
+- [Implementing Chrome-Style Tab Tear-off in WinUI 3](https://dev.to/nwlsrb/implementing-chrome-style-tab-tear-off-in-winui-3-3k3j)
+- [Build a Discord Bot That Alerts Your Team When Competitors Post](https://dev.to/olams/build-a-discord-bot-that-alerts-your-team-when-competitors-post-4eo8)
+- [API Explained: From Basics to Real-World Systems &lpar;UPI Deep Dive&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/api-explained-from-basics-to-real-world-systems-upi-deep-dive-8gn)
+- [How I built a viral gaming SaaS with my 14yo son &lpar;and survived a massive traffic spike on AWS without going bankrupt&rpar;](https://dev.to/brawlvalue/how-i-built-a-viral-gaming-saas-with-my-14yo-son-and-survived-a-massive-traffic-spike-on-aws-31pa)
 <!-- BLOG-POST-LIST:END -->
 
 
