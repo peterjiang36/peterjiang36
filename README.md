@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Language We Forgot We Needed](https://dev.to/7ard1grad3/the-language-we-forgot-we-needed-26ad)
-- [The Chip That Sleeps](https://dev.to/7ard1grad3/the-chip-that-sleeps-4lok)
-- [Why Your Open-Source Dependencies Are a Ticking Time Bomb &lpar;And How to Defuse Them&rpar;](https://dev.to/alanwest/why-your-open-source-dependencies-are-a-ticking-time-bomb-and-how-to-defuse-them-k32)
-- [Bounding Box Augmentation for Object Detection with Albumentations](https://dev.to/viglovikov/bounding-box-augmentation-for-object-detection-with-albumentations-2la)
+- [Your AI Agent Framework Has a Ceiling. Here Is the Architecture That Breaks It.](https://dev.to/roryqis/your-ai-agent-framework-has-a-ceiling-here-is-the-architecture-that-breaks-it-4k6g)
+- [[Rust Guide] 4.4. Reference and Borrowing](https://dev.to/someb1oody/rust-guide-44-reference-and-borrowing-51go)
+- [I Built a Personal Second Brain with Markdown Files and Claude Code — Here&#39;s How](https://dev.to/shirisha_uppoju_b20d30705/i-built-a-personal-second-brain-with-markdown-files-and-claude-code-heres-how-2m14)
+- [10 Signs of Burnout in Software Engineers](https://dev.to/recharge/10-signs-of-burnout-in-software-engineers-1b5b)
 <!-- BLOG-POST-LIST:END -->
 
 
