@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc)
-- [Four Bugs That Would Break a Matching Engine in Production](https://dev.to/iwtxokhtd83/four-bugs-that-would-break-a-matching-engine-in-production-4ekg)
-- [Tech Leadership Is Changing Faster Than Job Titles. Here&#39;s What the Data Shows.](https://dev.to/thomas_prommer/tech-leadership-is-changing-faster-than-job-titles-heres-what-the-data-shows-4j8f)
-- [How AI Apps Actually Use LLMs: Introducing RAG](https://dev.to/dev-in-progress/how-ai-apps-actually-use-llms-introducing-rag-13ob)
+- [Introducing shadcncraft](https://dev.to/shadcncraft/introducing-shadcncraft-2i37)
+- [The Test Manager’s Guide: From Chaos to Predictable Quality — Part 2: MVP Test Strategy — First 30 Days Wins](https://dev.to/abdulosman/the-test-managers-guide-from-chaos-to-predictable-quality-part-2-mvp-test-strategy-first-30-m74)
+- [Cursor vs Claude Code: which AI coding tool is actually better in 2026](https://dev.to/whoffagents/cursor-vs-claude-code-which-ai-coding-tool-is-actually-better-in-2026-3c2p)
+- [Build. Learn. Share. My Dev Journey Begins ⭐](https://dev.to/syed_muhammad_uzair/build-learn-share-my-dev-journey-begins-3b8)
 <!-- BLOG-POST-LIST:END -->
 
 
