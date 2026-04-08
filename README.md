@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin 2.4](https://dev.to/krun_pro/kotlin-24-5ak9)
-- [Understanding Transformers Part 3: How Transformers Combine Meaning and Position](https://dev.to/rijultp/understanding-transformers-part-3-how-transformers-combine-meaning-and-position-4gan)
-- [I built a JS framework with zero dependencies. Here&#39;s why](https://dev.to/nulldeps/i-built-a-js-framework-with-zero-dependencies-heres-why-kle)
-- [We Use Valtio Instead of Redux. Nobody Regrets It.](https://dev.to/adioof/we-use-valtio-instead-of-redux-nobody-regrets-it-2b57)
+- [An NVIDIA H100 Costs $30,000, So I Built One in My Browser. And It Works!](https://dev.to/patabah/an-nvidia-h100-costs-30000-so-i-built-one-in-my-browser-and-it-works-48dn)
+- [How to Build Self-Healing AI Agents with Monocle, Okahu MCP and OpenCode](https://dev.to/astrodevil/how-to-build-self-healing-ai-agents-with-monocle-okahu-mcp-and-opencode-1g4e)
+- [Stop Blaming Estimation. Start Fixing the Org.](https://dev.to/pixari/stop-blaming-estimation-start-fixing-the-org-2a04)
+- [From IONOS Rage-Quit to Self-Hosted Freedom: How a 120 Euro Bill Improved ForgeCMS](https://dev.to/artanidos/from-ionos-rage-quit-to-self-hosted-freedom-how-a-120-euro-bill-improved-forgecms-4kb8)
 <!-- BLOG-POST-LIST:END -->
 
 
