@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Mythos Found Zero-Days That Survived Decades of Human Review. What Stops It Next?](https://dev.to/piiiico/claude-mythos-found-zero-days-that-survived-decades-of-human-review-what-stops-it-next-50eh)
-- [Anthropic Just Admitted Their New Model Is Too Dangerous to Release](https://dev.to/o96a/anthropic-just-admitted-their-new-model-is-too-dangerous-to-release-2og1)
-- [We&#39;re at NAB 2026 — And Here&#39;s What We&#39;ve Been Building for Live Streaming at Scale](https://dev.to/ankush_banyal_708fa19a469/were-at-nab-2026-and-heres-what-weve-been-building-for-live-streaming-at-scale-n8m)
-- [dcd-telegram: A 3.5 MB Rust Drop-in for Claude Code&#39;s 100 MB Telegram Plugin](https://dev.to/mosthy65/dcd-telegram-a-35-mb-rust-drop-in-for-claude-codes-100-mb-telegram-plugin-2j1i)
+- [Claude Mythos Finds Bugs Like a Senior Dev Finds Excuses to Skip Standup](https://dev.to/valentin_monteiro/claude-mythos-finds-bugs-like-a-senior-dev-finds-excuses-to-skip-standup-4194)
+- [Claude Mythos Finds Bugs Like a Senior Dev Finds Excuses to Skip Standup](https://dev.to/valentin_monteiro/claude-mythos-finds-bugs-like-a-senior-dev-finds-excuses-to-skip-standup-2h07)
+- [AI Citation Registries and Source Blending in AI Aggregation](https://dev.to/aigistry/ai-citation-registries-and-source-blending-in-ai-aggregation-5h5k)
+- [LLM-as-Judge: using Claude to review a Gemini agent](https://dev.to/thomas_p_fe0c76c7/llm-as-judge-using-claude-to-review-a-gemini-agent-4ofd)
 <!-- BLOG-POST-LIST:END -->
 
 
