@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An NVIDIA H100 Costs $30,000, So I Built One in My Browser. And It Works!](https://dev.to/patabah/an-nvidia-h100-costs-30000-so-i-built-one-in-my-browser-and-it-works-48dn)
-- [How to Build Self-Healing AI Agents with Monocle, Okahu MCP and OpenCode](https://dev.to/astrodevil/how-to-build-self-healing-ai-agents-with-monocle-okahu-mcp-and-opencode-1g4e)
-- [Stop Blaming Estimation. Start Fixing the Org.](https://dev.to/pixari/stop-blaming-estimation-start-fixing-the-org-2a04)
-- [From IONOS Rage-Quit to Self-Hosted Freedom: How a 120 Euro Bill Improved ForgeCMS](https://dev.to/artanidos/from-ionos-rage-quit-to-self-hosted-freedom-how-a-120-euro-bill-improved-forgecms-4kb8)
+- [Building an AI Invoice Generator in a Week &lpar;Week 8 of My NanoCrafts Build Curriculum&rpar;](https://dev.to/azeezroheem/building-an-ai-invoice-generator-in-a-week-week-8-of-my-nanocrafts-build-curriculum-43i4)
+- [Agentforce Script: Salesforce&#39;s New Way to Control AI Agents](https://dev.to/dipojjal/agentforce-script-salesforces-new-way-to-control-ai-agents-18hl)
+- [Sourcery AI Alternatives: 10 Best Code Quality Tools in 2026](https://dev.to/rahulxsingh/sourcery-ai-alternatives-10-best-code-quality-tools-in-2026-98n)
+- [I Have an AI Agent That Tests My Own Product Every 3 Hours](https://dev.to/toshipon/i-have-an-ai-agent-that-tests-my-own-product-every-3-hours-916)
 <!-- BLOG-POST-LIST:END -->
 
 
