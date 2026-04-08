@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Claude Code Settings Will Die With Your Machine](https://dev.to/ithiria894/your-claude-code-settings-will-die-with-your-machine-42on)
-- [I Built a RAG Pipeline. Then I Realized Retrieval Is the Real Model](https://dev.to/jacobjerryarackal/i-built-a-rag-pipeline-then-i-realized-retrieval-is-the-real-model-4i7l)
-- [Your AI Agent is Reading Poisoned Web Pages.. Here&#39;s How to Stop It](https://dev.to/sysk32/your-ai-agent-is-reading-poisoned-web-pages-heres-how-to-stop-it-4l61)
-- [I Built an Open-Source Visual Kubernetes Orchestration Platform — No YAML Required](https://dev.to/mohit_nagaraj/i-built-an-open-source-visual-kubernetes-orchestration-platform-no-yaml-required-26hm)
+- [Software design documents in 2026, who writes them now?](https://dev.to/sushrutkm/software-design-documents-in-2026-who-writes-them-now-408h)
+- [#40 The Dust-Covered Toolbox](https://dev.to/rintaromatsumoto/40-the-dust-covered-toolbox-3817)
+- [Solving &quot;Analyze and Reason on Multimodal Data with Gemini: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-analyze-and-reason-on-multimodal-data-with-gemini-challenge-lab-a-complete-guide-4che)
+- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
 <!-- BLOG-POST-LIST:END -->
 
 
