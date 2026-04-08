@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Guard: Leveraging Machine Learning for Anomaly Detection in Critical Infrastructure](https://dev.to/eferhire/the-silent-guard-leveraging-machine-learning-for-anomaly-detection-in-critical-infrastructure-ahm)
-- [Stop Wasting Tokens: How to Cut Your LLM Costs by 97%](https://dev.to/midhunweb/stop-wasting-tokens-how-to-cut-your-llm-costs-by-97-2ga)
-- [I Ditched My Keyboard for Voice Coding 🎙️](https://dev.to/dzakh/i-ditched-my-keyboard-for-voice-coding-54n9)
-- [Deploy an AI Swarm in 30 Seconds &lpar;Phoenix + MatrixOS&rpar;](https://dev.to/matrixswarm/deploy-an-ai-swarm-in-30-seconds-phoenix-matrixswarm-1ikf)
+- [Claude Mythos Found Zero-Days That Survived Decades of Human Review. What Stops It Next?](https://dev.to/piiiico/claude-mythos-found-zero-days-that-survived-decades-of-human-review-what-stops-it-next-50eh)
+- [Anthropic Just Admitted Their New Model Is Too Dangerous to Release](https://dev.to/o96a/anthropic-just-admitted-their-new-model-is-too-dangerous-to-release-2og1)
+- [We&#39;re at NAB 2026 — And Here&#39;s What We&#39;ve Been Building for Live Streaming at Scale](https://dev.to/ankush_banyal_708fa19a469/were-at-nab-2026-and-heres-what-weve-been-building-for-live-streaming-at-scale-n8m)
+- [dcd-telegram: A 3.5 MB Rust Drop-in for Claude Code&#39;s 100 MB Telegram Plugin](https://dev.to/mosthy65/dcd-telegram-a-35-mb-rust-drop-in-for-claude-codes-100-mb-telegram-plugin-2j1i)
 <!-- BLOG-POST-LIST:END -->
 
 
