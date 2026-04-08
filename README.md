@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is a Constructor ?](https://dev.to/silambarasan_a_bd1d4d0a29/what-is-a-constructor-in-javascript-25oa)
-- [Database Observability: An Engineer&#39;s Guide to Full-Stack Monitoring Across SQL, NoSQL, and Cloud Databases](https://dev.to/damasosanoja/database-observability-an-engineers-guide-to-full-stack-monitoring-across-sql-nosql-and-cloud-1b3o)
-- [Build a Voice Clone Bot with n8n + ElevenLabs &lpar;No Code, 15 Minutes&rpar;](https://dev.to/grewup/build-a-voice-clone-bot-with-n8n-elevenlabs-no-code-15-minutes-2efc)
-- [You&#39;ve been giving GitHub a key to your Azure. Here&#39;s how to stop.](https://dev.to/florianlenz/youve-been-giving-github-a-key-to-your-azure-heres-how-to-stop-fi9)
+- [Scion: el testbed de orquestación de agentes que Google acaba de open-sourcear](https://dev.to/jtorchia/scion-el-testbed-de-orquestacion-de-agentes-que-google-acaba-de-open-sourcear-148j)
+- [Design Cost-Optimized Database Solutions](https://dev.to/aws-builders/design-cost-optimized-database-solutions-njh)
+- [Developers don&#39;t hate visual workflows. They hate the magic.](https://dev.to/moraispgsi/developers-dont-hate-visual-workflows-they-hate-the-magic-2nh6)
+- [TurboQuant: How a Simple Spin Saves Gigabytes of GPU Memory](https://dev.to/daniel_bharath_8164530f7b/turboquant-how-a-simple-spin-saves-gigabytes-of-gpu-memory-33jl)
 <!-- BLOG-POST-LIST:END -->
 
 
