@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software design documents in 2026, who writes them now?](https://dev.to/sushrutkm/software-design-documents-in-2026-who-writes-them-now-408h)
-- [#40 The Dust-Covered Toolbox](https://dev.to/rintaromatsumoto/40-the-dust-covered-toolbox-3817)
-- [Solving &quot;Analyze and Reason on Multimodal Data with Gemini: Challenge Lab&quot; — A Complete Guide](https://dev.to/willtorber/solving-analyze-and-reason-on-multimodal-data-with-gemini-challenge-lab-a-complete-guide-4che)
-- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
+- [Monitoring Sheet Changes with SHEET and SHEETS Functions on Google Sheets](https://dev.to/gde/monitoring-sheet-changes-with-sheet-and-sheets-functions-on-google-sheets-19dc)
+- [Four Bugs That Would Break a Matching Engine in Production](https://dev.to/iwtxokhtd83/four-bugs-that-would-break-a-matching-engine-in-production-4ekg)
+- [Tech Leadership Is Changing Faster Than Job Titles. Here&#39;s What the Data Shows.](https://dev.to/thomas_prommer/tech-leadership-is-changing-faster-than-job-titles-heres-what-the-data-shows-4j8f)
+- [How AI Apps Actually Use LLMs: Introducing RAG](https://dev.to/dev-in-progress/how-ai-apps-actually-use-llms-introducing-rag-13ob)
 <!-- BLOG-POST-LIST:END -->
 
 
