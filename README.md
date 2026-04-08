@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scion: el testbed de orquestación de agentes que Google acaba de open-sourcear](https://dev.to/jtorchia/scion-el-testbed-de-orquestacion-de-agentes-que-google-acaba-de-open-sourcear-148j)
-- [Design Cost-Optimized Database Solutions](https://dev.to/aws-builders/design-cost-optimized-database-solutions-njh)
-- [Developers don&#39;t hate visual workflows. They hate the magic.](https://dev.to/moraispgsi/developers-dont-hate-visual-workflows-they-hate-the-magic-2nh6)
-- [TurboQuant: How a Simple Spin Saves Gigabytes of GPU Memory](https://dev.to/daniel_bharath_8164530f7b/turboquant-how-a-simple-spin-saves-gigabytes-of-gpu-memory-33jl)
+- [The OpenClaw Security Crisis: 135,000 Exposed AI Agents and the Runtime Governance Gap](https://dev.to/waxell/the-openclaw-security-crisis-135000-exposed-ai-agents-and-the-runtime-governance-gap-e26)
+- [SonarQube vs Coverity: Quality vs Defect Detection](https://dev.to/rahulxsingh/sonarqube-vs-coverity-quality-vs-defect-detection-1eih)
+- [Unlock AI at the Edge: High-Performance Inference with WebAssembly and ONNX](https://dev.to/programmingcentral/unlock-ai-at-the-edge-high-performance-inference-with-webassembly-and-onnx-27dh)
+- [Your MCP server is not an API adapter](https://dev.to/desty2k/your-mcp-server-is-not-an-api-adapter-23k7)
 <!-- BLOG-POST-LIST:END -->
 
 
