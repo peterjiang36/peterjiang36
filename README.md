@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Buying a Mac Mini for Your AI Agent — There&#39;s a Better Way](https://dev.to/rui_fan/stop-buying-a-mac-mini-for-your-ai-agent-theres-a-better-way-4op3)
-- [I Built an Agent to Run Live Event Raffles &lpar;then tried to rig it&rpar;](https://dev.to/kimmaida/i-built-an-agent-to-run-live-event-raffles-then-tried-to-rig-it-al5)
-- [Glasscribe](https://dev.to/joshchodev_a647d9aa412646/glasscribe-4a65)
-- [Building a Browser Game with React: What Doesn’t work well &lpar;Run Away From Work&rpar;](https://dev.to/nyaomaru/building-a-browser-game-with-react-what-doesnt-work-well-run-away-from-work-1khf)
+- [What Happens When AI Agents Hallucinate? The boring part is the checkpoint.](https://dev.to/setas/what-happens-when-ai-agents-hallucinate-the-boring-part-is-the-checkpoint-21eb)
+- [Programming as a tool: A mindset shift for software engineers](https://dev.to/lucapo21/programming-as-a-tool-a-mindset-shift-for-software-engineers-4i84)
+- [The Ultimate Guide to Securing Ansible Supply Chain](https://dev.to/xlab_steampunk/the-ultimate-guide-to-securing-ansible-supply-chain-4gbi)
+- [Early performance testing: benefits, best practices, and implementation strategies](https://dev.to/gatling/early-performance-testing-benefits-best-practices-and-implementation-strategies-5h0k)
 <!-- BLOG-POST-LIST:END -->
 
 
