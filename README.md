@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Framework Has a Ceiling. Here Is the Architecture That Breaks It.](https://dev.to/roryqis/your-ai-agent-framework-has-a-ceiling-here-is-the-architecture-that-breaks-it-4k6g)
-- [[Rust Guide] 4.4. Reference and Borrowing](https://dev.to/someb1oody/rust-guide-44-reference-and-borrowing-51go)
-- [I Built a Personal Second Brain with Markdown Files and Claude Code — Here&#39;s How](https://dev.to/shirisha_uppoju_b20d30705/i-built-a-personal-second-brain-with-markdown-files-and-claude-code-heres-how-2m14)
-- [10 Signs of Burnout in Software Engineers](https://dev.to/recharge/10-signs-of-burnout-in-software-engineers-1b5b)
+- [Your Claude Code Settings Will Die With Your Machine](https://dev.to/ithiria894/your-claude-code-settings-will-die-with-your-machine-42on)
+- [I Built a RAG Pipeline. Then I Realized Retrieval Is the Real Model](https://dev.to/jacobjerryarackal/i-built-a-rag-pipeline-then-i-realized-retrieval-is-the-real-model-4i7l)
+- [Your AI Agent is Reading Poisoned Web Pages.. Here&#39;s How to Stop It](https://dev.to/sysk32/your-ai-agent-is-reading-poisoned-web-pages-heres-how-to-stop-it-4l61)
+- [I Built an Open-Source Visual Kubernetes Orchestration Platform — No YAML Required](https://dev.to/mohit_nagaraj/i-built-an-open-source-visual-kubernetes-orchestration-platform-no-yaml-required-26hm)
 <!-- BLOG-POST-LIST:END -->
 
 
