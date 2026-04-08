@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Chrome-Style Tab Tear-off in WinUI 3](https://dev.to/nwlsrb/implementing-chrome-style-tab-tear-off-in-winui-3-3k3j)
-- [Build a Discord Bot That Alerts Your Team When Competitors Post](https://dev.to/olams/build-a-discord-bot-that-alerts-your-team-when-competitors-post-4eo8)
-- [API Explained: From Basics to Real-World Systems &lpar;UPI Deep Dive&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/api-explained-from-basics-to-real-world-systems-upi-deep-dive-8gn)
-- [How I built a viral gaming SaaS with my 14yo son &lpar;and survived a massive traffic spike on AWS without going bankrupt&rpar;](https://dev.to/brawlvalue/how-i-built-a-viral-gaming-saas-with-my-14yo-son-and-survived-a-massive-traffic-spike-on-aws-31pa)
+- [Is Your Website Invisible to AI? Stop Optimizing for Google, Start Optimizing for ChatGPT](https://dev.to/cucuwang/is-your-website-invisible-to-ai-stop-optimizing-for-google-start-optimizing-for-chatgpt-48o2)
+- [Why O&lpar;n^2&rpar; Algorithms Don’t Run the Same: A Practical Sorting Benchmark in C](https://dev.to/alphabet6135/why-on2-algorithms-dont-run-the-same-a-practical-sorting-benchmark-in-c-kce)
+- [K8S Admins&#39; Top 5 Tasks: Navigating Kubernetes Complexity in](https://dev.to/pratik_kasbe/k8s-admins-top-5-tasks-navigating-kubernetes-complexity-in-399e)
+- [I Renamed My Open-Source Project and Doubled Its Discoverability — Here&#39;s Why &quot;CliGate&quot; Replaced &quot;ProxyPool Hub&quot;](https://dev.to/yiyaoai/i-renamed-my-open-source-project-and-doubled-its-discoverability-heres-why-cligate-replaced-16pi)
 <!-- BLOG-POST-LIST:END -->
 
 
