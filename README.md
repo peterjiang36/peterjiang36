@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When AI Agents Hallucinate? The boring part is the checkpoint.](https://dev.to/setas/what-happens-when-ai-agents-hallucinate-the-boring-part-is-the-checkpoint-21eb)
-- [Programming as a tool: A mindset shift for software engineers](https://dev.to/lucapo21/programming-as-a-tool-a-mindset-shift-for-software-engineers-4i84)
-- [The Ultimate Guide to Securing Ansible Supply Chain](https://dev.to/xlab_steampunk/the-ultimate-guide-to-securing-ansible-supply-chain-4gbi)
-- [Early performance testing: benefits, best practices, and implementation strategies](https://dev.to/gatling/early-performance-testing-benefits-best-practices-and-implementation-strategies-5h0k)
+- [Tu score de accesibilidad te está mintiendo](https://dev.to/jtorchia/tu-score-de-accesibilidad-te-esta-mintiendo-4efo)
+- [Your AI Agent Gets Dumber the More You Teach It. Skill Graphs Are the Fix.](https://dev.to/o96a/your-ai-agent-gets-dumber-the-more-you-teach-it-skill-graphs-are-the-fix-1fba)
+- [Why Your AI Coding Agent Needs a Digital Straitjacket](https://dev.to/haabe/why-your-ai-coding-agent-needs-a-digital-straitjacket-5beb)
+- [How to Reduce Deployment Anxiety: Making Deploys Boring &lpar;Yes, Boring Is the Goal&rpar;](https://dev.to/unitix_flow/how-to-reduce-deployment-anxiety-making-deploys-boring-yes-boring-is-the-goal-1ojo)
 <!-- BLOG-POST-LIST:END -->
 
 
