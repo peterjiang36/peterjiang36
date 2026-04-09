@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Things Your Coding AI Agent Wishes You Understood](https://dev.to/edysilva/five-things-your-coding-ai-agent-wishes-you-understood-37pj)
-- [How I Made Claude Code 10x More Reliable With a Plugin Methodology](https://dev.to/dmitry_hihol_c9a59c1522e8/how-i-made-claude-code-10x-more-reliable-with-a-plugin-methodology-617)
-- [7 Signal Store Features You Only Need to Write Once](https://dev.to/nsimonoski/7-signal-store-features-you-only-need-to-write-once-2950)
-- [What 50+ QA Automation Interviews Taught Me About Flaky Tests](https://dev.to/aston_cook_b6e2cd3f3c477b/what-50-qa-automation-interviews-taught-me-about-flaky-tests-4776)
+- [When the Model Company Builds the Factory: What It Takes to Build Agent-as-a-Service](https://dev.to/chen115y/when-the-model-company-builds-the-factory-what-it-takes-to-build-agent-as-a-service-51g5)
+- [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7)
+- [PluZ.fm - minha rádio com múltiplos canais ao vivo](https://dev.to/gabrielrfcom/pluzfm-minha-radio-com-multiplos-canais-ao-vivo-l0p)
+- [[Boost]](https://dev.to/smplogs/-93d)
 <!-- BLOG-POST-LIST:END -->
 
 
