@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Validating Segment Events Is So Frustrating &lpar;And How I Fixed It&rpar;](https://dev.to/agch-dev/why-validating-segment-events-is-so-frustrating-and-how-i-fixed-it-fda)
-- [74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.](https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2)
-- [Ilere: Building a Transparent Rental Marketplace on Expo and Supabase](https://dev.to/mikelisrael/ilere-building-a-transparent-rental-marketplace-on-expo-and-supabase-2207)
-- [Editing DESIGN.md Directly in Web Interface: From Concept to Implementation](https://dev.to/newbe36524/editing-designmd-directly-in-web-interface-from-concept-to-implementation-22h9)
+- [One Open Source Project a Day &lpar;No.34&rpar;: second-brain-skills - A Skill Toolkit That Turns Claude Code Into a Knowledge Work Expert](https://dev.to/wonderlab/one-open-source-project-a-day-no69-second-brain-skills-a-skill-toolkit-that-turns-claude-code-1hhn)
+- [eBPF in Production Kubernetes: Ditch Your Sidecars in 2026](https://dev.to/cloud_aj_bb4bc2c9cdc529e6/ebpf-in-production-kubernetes-ditch-your-sidecars-in-2026-nem)
+- [Designing a Scalable Electronic Components Platform: Architecture, Data Modeling, Search, and SEO Trade-offs](https://dev.to/caleb_jason_c1a3b9b51c399/designing-a-scalable-electronic-components-platform-architecture-data-modeling-search-and-seo-395h)
+- [SafeLine WAF running on Rootless Docker](https://dev.to/carrie_luo1/safeline-waf-running-on-rootless-docker-c2p)
 <!-- BLOG-POST-LIST:END -->
 
 
