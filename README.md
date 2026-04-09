@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Described a Multi-Agent, Multi-Model System in Plain English. It Was Built in Seconds. Part 5/5](https://dev.to/jon_at_backboardio/i-described-a-multi-agent-multi-model-system-in-plain-english-it-was-built-in-seconds-part-55-59h)
-- [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e)
-- [The Ultimate Guide to a Smooth Dev Environment](https://dev.to/kenahrens/the-ultimate-guide-to-a-smooth-dev-environment-202)
-- [Quantum computing SDKs lack observability. We built QObserva to fix that.](https://dev.to/qobserva/quantum-computing-sdks-lack-observability-we-built-qobserva-to-fix-that-3e96)
+- [Five Things Your Coding AI Agent Wishes You Understood](https://dev.to/edysilva/five-things-your-coding-ai-agent-wishes-you-understood-37pj)
+- [How I Made Claude Code 10x More Reliable With a Plugin Methodology](https://dev.to/dmitry_hihol_c9a59c1522e8/how-i-made-claude-code-10x-more-reliable-with-a-plugin-methodology-617)
+- [7 Signal Store Features You Only Need to Write Once](https://dev.to/nsimonoski/7-signal-store-features-you-only-need-to-write-once-2950)
+- [What 50+ QA Automation Interviews Taught Me About Flaky Tests](https://dev.to/aston_cook_b6e2cd3f3c477b/what-50-qa-automation-interviews-taught-me-about-flaky-tests-4776)
 <!-- BLOG-POST-LIST:END -->
 
 
