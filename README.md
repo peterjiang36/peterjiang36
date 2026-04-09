@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 424: Longest Repeating Character Replacement — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-424-longest-repeating-character-replacement-step-by-step-visual-trace-29f4)
-- [LeetCode 300: Longest Increasing Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-300-longest-increasing-subsequence-step-by-step-visual-trace-5657)
-- [LeetCode 329: Longest Increasing Path In A Matrix — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-329-longest-increasing-path-in-a-matrix-step-by-step-visual-trace-5hk8)
-- [LeetCode 1143: Longest Common Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-1143-longest-common-subsequence-step-by-step-visual-trace-14m5)
+- [Functions](https://dev.to/nanthini_ammu_ac02ad32802/functions-d8o)
+- [Understanding Constructor Functions in JavaScript](https://dev.to/harini_magesh_fa40041cf8d/understanding-constructor-functions-in-javascript-2ogf)
+- [Patterns of Inefficiency in Enterprise and a Lean Alternatives - Part 1](https://dev.to/ks22ss/patterns-of-inefficiency-in-enterprise-and-a-lean-alternatives-part-1-1a8c)
+- [Patterns of Inefficiency in Enterprise and a Lean Alternatives - Part 2](https://dev.to/ks22ss/patterns-of-inefficiency-in-enterprise-and-a-lean-alternatives-part-2-10b1)
 <!-- BLOG-POST-LIST:END -->
 
 
