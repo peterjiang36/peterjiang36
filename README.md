@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Open Source Project a Day &lpar;No.34&rpar;: second-brain-skills - A Skill Toolkit That Turns Claude Code Into a Knowledge Work Expert](https://dev.to/wonderlab/one-open-source-project-a-day-no69-second-brain-skills-a-skill-toolkit-that-turns-claude-code-1hhn)
-- [eBPF in Production Kubernetes: Ditch Your Sidecars in 2026](https://dev.to/cloud_aj_bb4bc2c9cdc529e6/ebpf-in-production-kubernetes-ditch-your-sidecars-in-2026-nem)
-- [Designing a Scalable Electronic Components Platform: Architecture, Data Modeling, Search, and SEO Trade-offs](https://dev.to/caleb_jason_c1a3b9b51c399/designing-a-scalable-electronic-components-platform-architecture-data-modeling-search-and-seo-395h)
-- [SafeLine WAF running on Rootless Docker](https://dev.to/carrie_luo1/safeline-waf-running-on-rootless-docker-c2p)
+- [I built a Travel Data Platform API in .NET - search, analytics, and recommendations with Redis caching](https://dev.to/aftabkh4n/i-built-a-travel-data-platform-api-in-net-search-analytics-and-recommendations-with-redis-1f5l)
+- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-5gf2)
+- [Context Engineering: How to Manage Context for AI Models and Agents](https://dev.to/spyrae/context-engineering-how-to-manage-context-for-ai-models-and-agents-1hej)
+- [Why $9/mo SaaS is Dead in 2026](https://dev.to/elonr/why-9mo-saas-is-dead-in-2026-p0a)
 <!-- BLOG-POST-LIST:END -->
 
 
