@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Search Optimization for Jekyll: JSON-LD, llms.txt, and Entity Graphs](https://dev.to/madmatvey/ai-search-optimization-for-jekyll-json-ld-llmstxt-and-entity-graphs-13g3)
-- [How I Built an AI Agent That Earns $150 Reviewing Pull Requests](https://dev.to/zg361/how-i-built-an-ai-agent-that-earns-150-reviewing-pull-requests-4ae6)
-- [We Let AI Write Our Terraform. Then We Gave It a Security Conscience](https://dev.to/baremetal-dev/we-let-ai-write-our-terraform-then-we-gave-it-a-security-conscience-480e)
-- [Puppet Core 8.18.0 is out: macOS 15 support and key security updates](https://dev.to/puppet/puppet-core-8180-is-out-macos-15-support-and-key-security-updates-2ng8)
+- [Comment une facture de 37€/jour m&#39;a forcée à repenser toute mon infra OpenClaw](https://dev.to/isalafont/comment-une-facture-de-37eujour-ma-forcee-a-repenser-toute-mon-infra-openclaw-4ohc)
+- [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i)
+- [I Built an AI Agent That Routes Our Inbound Requests. Here&#39;s How It Works](https://dev.to/sandfa/i-built-an-ai-agent-that-routes-our-inbound-requests-heres-how-it-works-3cmc)
+- [Advanced Python Logging: JSON, StreamHandler &amp; aiologger](https://dev.to/kaushikcoderpy/advanced-python-logging-json-streamhandler-aiologger-32fd)
 <!-- BLOG-POST-LIST:END -->
 
 
