@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hollow Shield and the Foundation: A Mythic‑Operational Reframing of “The End of Cybersecurity”](https://dev.to/narnaiezzsshaa/the-hollow-shield-and-the-foundation-a-mythic-operational-reframing-of-the-end-of-cybersecurity-3nim)
-- [MCP crossed 97 million installs in 16 months — the agent connectivity standard is settled](https://dev.to/yujia_zhang_0328/mcp-crossed-97-million-installs-in-16-months-the-agent-connectivity-standard-is-settled-3dfk)
-- [How to Add Comments to a Next.js Site &lpar;App Router and Pages Router&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-a-nextjs-site-app-router-and-pages-router-484j)
-- [Ditch the Bloat: Building a High-Performance Health Data Lake with DuckDB &amp; Parquet](https://dev.to/beck_moulton/ditch-the-bloat-building-a-high-performance-health-data-lake-with-duckdb-parquet-chk)
+- [Why Validating Segment Events Is So Frustrating &lpar;And How I Fixed It&rpar;](https://dev.to/agch-dev/why-validating-segment-events-is-so-frustrating-and-how-i-fixed-it-fda)
+- [74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.](https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2)
+- [Ilere: Building a Transparent Rental Marketplace on Expo and Supabase](https://dev.to/mikelisrael/ilere-building-a-transparent-rental-marketplace-on-expo-and-supabase-2207)
+- [Editing DESIGN.md Directly in Web Interface: From Concept to Implementation](https://dev.to/newbe36524/editing-designmd-directly-in-web-interface-from-concept-to-implementation-22h9)
 <!-- BLOG-POST-LIST:END -->
 
 
