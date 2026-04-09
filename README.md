@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Firefox Extension IDs: The Bad and the Ugly](https://dev.to/hister/firefox-extension-ids-the-bad-and-the-ugly-2dgi)
-- [7 Best DeFi APIs for Real-Time Price Feeds](https://dev.to/moonsoon69/7-best-defi-apis-for-real-time-price-feeds-578b)
-- [How to Build a Crypto Payment Gateway with Swaps](https://dev.to/moonsoon69/how-to-build-a-crypto-payment-gateway-with-swaps-28dj)
-- [How to Build a Crypto Portfolio Rebalancer With Python](https://dev.to/moonsoon69/how-to-build-a-crypto-portfolio-rebalancer-with-python-5fg6)
+- [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
+- [Ship a Micro-SaaS in a Weekend: Influencer Vetting Tool &lpar;Full Stack&rpar;](https://dev.to/olams/ship-a-micro-saas-in-a-weekend-influencer-vetting-tool-full-stack-3l5m)
+- [I Built a Personal Knowledge Graph App — Here&#39;s the Full Stack Behind It](https://dev.to/alpereneser/i-built-a-personal-knowledge-graph-app-heres-the-full-stack-behind-it-1laj)
+- [What if: we have two same keys in Reactjs?](https://dev.to/duythenight/what-if-we-have-two-same-keys-in-reactjs-587h)
 <!-- BLOG-POST-LIST:END -->
 
 
