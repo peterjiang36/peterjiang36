@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When the Model Company Builds the Factory: What It Takes to Build Agent-as-a-Service](https://dev.to/chen115y/when-the-model-company-builds-the-factory-what-it-takes-to-build-agent-as-a-service-51g5)
-- [A Go + React monorepo starter with auth and multi-tenancy](https://dev.to/calebeaires/a-go-react-monorepo-starter-with-auth-and-multi-tenancy-57f7)
-- [PluZ.fm - minha rádio com múltiplos canais ao vivo](https://dev.to/gabrielrfcom/pluzfm-minha-radio-com-multiplos-canais-ao-vivo-l0p)
-- [[Boost]](https://dev.to/smplogs/-93d)
+- [Beyond Basic Caching: How layercache Eliminates Cache Stampedes in Node.js](https://dev.to/flyingsquirrel0419/beyond-basic-caching-how-layercache-eliminates-cache-stampedes-in-nodejs-4gi2)
+- [I Analyzed 100 Rental Leases Using AI — Here’s What I Found](https://dev.to/2pomberito/i-analyzed-100-rental-leases-using-ai-heres-what-i-found-4coh)
+- [SqlDependency in .NET – Query Notifications and Real-Time Data Change Reactions](https://dev.to/mortylen/sqldependency-in-net-query-notifications-and-real-time-data-change-reactions-2kkg)
+- [Why GitHub Repositories Are Confusing for Non-Developers &lpar;And What I Built to Fix It&rpar;](https://dev.to/indiecoder/why-github-repositories-are-confusing-for-non-developers-and-what-i-built-to-fix-it-4fkc)
 <!-- BLOG-POST-LIST:END -->
 
 
