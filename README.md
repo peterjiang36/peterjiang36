@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Travel Data Platform API in .NET - search, analytics, and recommendations with Redis caching](https://dev.to/aftabkh4n/i-built-a-travel-data-platform-api-in-net-search-analytics-and-recommendations-with-redis-1f5l)
-- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-5gf2)
-- [Context Engineering: How to Manage Context for AI Models and Agents](https://dev.to/spyrae/context-engineering-how-to-manage-context-for-ai-models-and-agents-1hej)
-- [Why $9/mo SaaS is Dead in 2026](https://dev.to/elonr/why-9mo-saas-is-dead-in-2026-p0a)
+- [It’s Simple, But Annoying: Why I Started Building Keynotif | Cahyanudien Blogs](https://dev.to/cas8398/its-simple-but-annoying-why-i-started-building-keynotif-cahyanudien-blogs-1m2h)
+- [Every AI Meeting Tool Wants a Monthly Fee. So I Built My Own](https://dev.to/insight105/every-ai-meeting-tool-wants-a-monthly-fee-so-i-built-my-own-2ep2)
+- [AI SLOP Detector v3.1: Three Formula Refinements and the Adversarial Tester That Found Them](https://dev.to/flamehaven01/ai-slop-detector-v31-three-formula-refinements-and-the-adversarial-tester-that-found-them-5e2n)
+- [NVIDIA Is Investing in an Open Source Game Engine. Here&#39;s Why That Matters.](https://dev.to/ziva/nvidia-is-investing-in-an-open-source-game-engine-heres-why-that-matters-5eca)
 <!-- BLOG-POST-LIST:END -->
 
 
