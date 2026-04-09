@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Prices Are Dropping, So Why Is My AI Bill Going Up?](https://dev.to/amedinat/token-prices-are-dropping-so-why-is-my-ai-bill-going-up-6mm)
-- [Management&#39;s CVE Fix-All Approach Conflicts with Practical Resource Allocation: Prioritization Needed](https://dev.to/maricode/managements-cve-fix-all-approach-conflicts-with-practical-resource-allocation-prioritization-45hj)
-- [Building a Modern Digital Library: From CustomTkinter to PySide6 📚](https://dev.to/lemancaliskan/building-a-modern-digital-library-from-customtkinter-to-pyside6-1371)
-- [Enterprise UX Patterns: Designing Internal Apps for High Productivity](https://dev.to/vinnyumtech/enterprise-ux-patterns-designing-internal-apps-for-high-productivity-2ib3)
+- [I Described a Multi-Agent, Multi-Model System in Plain English. It Was Built in Seconds. Part 5/5](https://dev.to/jon_at_backboardio/i-described-a-multi-agent-multi-model-system-in-plain-english-it-was-built-in-seconds-part-55-59h)
+- [Skills Are the New CLI](https://dev.to/helderberto/skills-are-the-new-cli-225e)
+- [The Ultimate Guide to a Smooth Dev Environment](https://dev.to/kenahrens/the-ultimate-guide-to-a-smooth-dev-environment-202)
+- [Quantum computing SDKs lack observability. We built QObserva to fix that.](https://dev.to/qobserva/quantum-computing-sdks-lack-observability-we-built-qobserva-to-fix-that-3e96)
 <!-- BLOG-POST-LIST:END -->
 
 
