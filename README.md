@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Basic Caching: How layercache Eliminates Cache Stampedes in Node.js](https://dev.to/flyingsquirrel0419/beyond-basic-caching-how-layercache-eliminates-cache-stampedes-in-nodejs-4gi2)
-- [I Analyzed 100 Rental Leases Using AI — Here’s What I Found](https://dev.to/2pomberito/i-analyzed-100-rental-leases-using-ai-heres-what-i-found-4coh)
-- [SqlDependency in .NET – Query Notifications and Real-Time Data Change Reactions](https://dev.to/mortylen/sqldependency-in-net-query-notifications-and-real-time-data-change-reactions-2kkg)
-- [Why GitHub Repositories Are Confusing for Non-Developers &lpar;And What I Built to Fix It&rpar;](https://dev.to/indiecoder/why-github-repositories-are-confusing-for-non-developers-and-what-i-built-to-fix-it-4fkc)
+- [Understanding Vector Pipelines: From Config Files to Data Flow](https://dev.to/mohhddhassan/understanding-vector-pipelines-from-config-files-to-data-flow-i8k)
+- [Agentic tool use in Aerie workflows](https://dev.to/patonw/agentic-tool-use-in-aerie-workflows-4l4b)
+- [🍪 Cookie-Based JWT Authentication](https://dev.to/pial_shek_09ce71ae3fbe3c1/cookie-based-jwt-authentication-2477)
+- [Digital Marketing Automation vs. Traditional Methods](https://dev.to/growbix_ai_2fef1b9578d140/digital-marketing-automation-vs-traditional-methods-3alp)
 <!-- BLOG-POST-LIST:END -->
 
 
