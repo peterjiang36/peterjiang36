@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Functions](https://dev.to/nanthini_ammu_ac02ad32802/functions-d8o)
-- [Understanding Constructor Functions in JavaScript](https://dev.to/harini_magesh_fa40041cf8d/understanding-constructor-functions-in-javascript-2ogf)
-- [Patterns of Inefficiency in Enterprise and a Lean Alternatives - Part 1](https://dev.to/ks22ss/patterns-of-inefficiency-in-enterprise-and-a-lean-alternatives-part-1-1a8c)
-- [Patterns of Inefficiency in Enterprise and a Lean Alternatives - Part 2](https://dev.to/ks22ss/patterns-of-inefficiency-in-enterprise-and-a-lean-alternatives-part-2-10b1)
+- [Firefox Extension IDs: The Bad and the Ugly](https://dev.to/hister/firefox-extension-ids-the-bad-and-the-ugly-2dgi)
+- [7 Best DeFi APIs for Real-Time Price Feeds](https://dev.to/moonsoon69/7-best-defi-apis-for-real-time-price-feeds-578b)
+- [How to Build a Crypto Payment Gateway with Swaps](https://dev.to/moonsoon69/how-to-build-a-crypto-payment-gateway-with-swaps-28dj)
+- [How to Build a Crypto Portfolio Rebalancer With Python](https://dev.to/moonsoon69/how-to-build-a-crypto-portfolio-rebalancer-with-python-5fg6)
 <!-- BLOG-POST-LIST:END -->
 
 
