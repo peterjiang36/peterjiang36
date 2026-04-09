@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Saved 100+ Hours Building a FastAPI &amp; Stripe SaaS Boilerplate](https://dev.to/hassan_derkaoui_1bad29e16/how-i-saved-100-hours-building-a-fastapi-stripe-saas-boilerplate-1bf8)
-- [[SC] Closures con @Sendable](https://dev.to/david_goyes_a488f58a17a53/sc-closures-con-sendable-55ih)
-- [Laravel Sanctum API Authentication: The Complete Production Guide](https://dev.to/dewald_hugo_472be9f413c2a/laravel-sanctum-api-authentication-the-complete-production-guide-58ac)
-- [Notes on My First Factorio Mod: Why I Stopped Trusting the Shift-Click Dance](https://dev.to/iampavel/notes-on-my-first-factorio-mod-why-i-stopped-trusting-the-shift-click-dance-2eob)
+- [I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.](https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095)
+- [Sourcery vs Ruff: Python Code Quality Comparison](https://dev.to/rahulxsingh/sourcery-vs-ruff-python-code-quality-comparison-b35)
+- [How to Build a CRUD Android App with Jetpack Compose and Room &lpar;Step by Step&rpar;](https://dev.to/developergb/how-to-build-a-crud-android-app-with-jetpack-compose-and-room-step-by-step-5b02)
+- [30 days of solo dev shipping: 9 projects, 1 VPS, no Docker — what I actually learned](https://dev.to/foxyyybusiness/30-days-of-solo-dev-shipping-9-projects-1-vps-no-docker-what-i-actually-learned-47a3)
 <!-- BLOG-POST-LIST:END -->
 
 
