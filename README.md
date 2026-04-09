@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped writing prompts and started writing Python](https://dev.to/aliirz/i-stopped-writing-prompts-and-started-writing-python-2b4e)
-- [Ship a Micro-SaaS in a Weekend: Influencer Vetting Tool &lpar;Full Stack&rpar;](https://dev.to/olams/ship-a-micro-saas-in-a-weekend-influencer-vetting-tool-full-stack-3l5m)
-- [I Built a Personal Knowledge Graph App — Here&#39;s the Full Stack Behind It](https://dev.to/alpereneser/i-built-a-personal-knowledge-graph-app-heres-the-full-stack-behind-it-1laj)
-- [What if: we have two same keys in Reactjs?](https://dev.to/duythenight/what-if-we-have-two-same-keys-in-reactjs-587h)
+- [CONNECTING POSTGRESQL WITH POWERBI &lpar;FOR A LOAN PERFORMANCE DASHBOARD&rpar;](https://dev.to/john_analytics/-connecting-pstgresql-with-powerbi-for-a-loan-performance-dashboard-5cjg)
+- [How to Map a Process: Step-by-Step Guide](https://dev.to/crismoteam/how-to-map-a-process-step-by-step-guide-4g9h)
+- [BPMN vs Flowchart: What is the Difference?](https://dev.to/crismoteam/bpmn-vs-flowchart-what-is-the-difference-556b)
+- [What is BPMN? A Beginner&#39;s Guide to Process Modeling](https://dev.to/crismoteam/what-is-bpmn-a-beginners-guide-to-process-modeling-1gpb)
 <!-- BLOG-POST-LIST:END -->
 
 
