@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Invoice Generator in a Week &lpar;Week 8 of My NanoCrafts Build Curriculum&rpar;](https://dev.to/azeezroheem/building-an-ai-invoice-generator-in-a-week-week-8-of-my-nanocrafts-build-curriculum-43i4)
-- [Agentforce Script: Salesforce&#39;s New Way to Control AI Agents](https://dev.to/dipojjal/agentforce-script-salesforces-new-way-to-control-ai-agents-18hl)
-- [Sourcery AI Alternatives: 10 Best Code Quality Tools in 2026](https://dev.to/rahulxsingh/sourcery-ai-alternatives-10-best-code-quality-tools-in-2026-98n)
-- [I Have an AI Agent That Tests My Own Product Every 3 Hours](https://dev.to/toshipon/i-have-an-ai-agent-that-tests-my-own-product-every-3-hours-916)
+- [The Hollow Shield and the Foundation: A Mythic‑Operational Reframing of “The End of Cybersecurity”](https://dev.to/narnaiezzsshaa/the-hollow-shield-and-the-foundation-a-mythic-operational-reframing-of-the-end-of-cybersecurity-3nim)
+- [MCP crossed 97 million installs in 16 months — the agent connectivity standard is settled](https://dev.to/yujia_zhang_0328/mcp-crossed-97-million-installs-in-16-months-the-agent-connectivity-standard-is-settled-3dfk)
+- [How to Add Comments to a Next.js Site &lpar;App Router and Pages Router&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-a-nextjs-site-app-router-and-pages-router-484j)
+- [Ditch the Bloat: Building a High-Performance Health Data Lake with DuckDB &amp; Parquet](https://dev.to/beck_moulton/ditch-the-bloat-building-a-high-performance-health-data-lake-with-duckdb-parquet-chk)
 <!-- BLOG-POST-LIST:END -->
 
 
