@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CONNECTING POSTGRESQL WITH POWERBI &lpar;FOR A LOAN PERFORMANCE DASHBOARD&rpar;](https://dev.to/john_analytics/-connecting-pstgresql-with-powerbi-for-a-loan-performance-dashboard-5cjg)
-- [How to Map a Process: Step-by-Step Guide](https://dev.to/crismoteam/how-to-map-a-process-step-by-step-guide-4g9h)
-- [BPMN vs Flowchart: What is the Difference?](https://dev.to/crismoteam/bpmn-vs-flowchart-what-is-the-difference-556b)
-- [What is BPMN? A Beginner&#39;s Guide to Process Modeling](https://dev.to/crismoteam/what-is-bpmn-a-beginners-guide-to-process-modeling-1gpb)
+- [ForgeCode vs Claude Code: which AI coding agent actually wins?](https://dev.to/liran_baba/forgecode-vs-claude-code-which-ai-coding-agent-actually-wins-36c)
+- [Why .env files are a security disaster &lpar;and what we do instead&rpar;](https://dev.to/olotuderick/why-env-files-are-a-security-disaster-and-what-we-do-instead-31ab)
+- [The Tool Harness Meta Didnt Tell You About](https://dev.to/o96a/the-tool-harness-meta-didnt-tell-you-about-92h)
+- [FastAPI vs. Django: Choosing the Best Python Framework for Your Application Needs](https://dev.to/romdevin/fastapi-vs-django-choosing-the-best-python-framework-for-your-application-needs-24gk)
 <!-- BLOG-POST-LIST:END -->
 
 
