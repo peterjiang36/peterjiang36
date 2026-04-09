@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Comment une facture de 37€/jour m&#39;a forcée à repenser toute mon infra OpenClaw](https://dev.to/isalafont/comment-une-facture-de-37eujour-ma-forcee-a-repenser-toute-mon-infra-openclaw-4ohc)
-- [TigerFS: A Filesystem Backed by PostgreSQL](https://dev.to/polliog/tigerfs-a-filesystem-backed-by-postgresql-50i)
-- [I Built an AI Agent That Routes Our Inbound Requests. Here&#39;s How It Works](https://dev.to/sandfa/i-built-an-ai-agent-that-routes-our-inbound-requests-heres-how-it-works-3cmc)
-- [Advanced Python Logging: JSON, StreamHandler &amp; aiologger](https://dev.to/kaushikcoderpy/advanced-python-logging-json-streamhandler-aiologger-32fd)
+- [Token Prices Are Dropping, So Why Is My AI Bill Going Up?](https://dev.to/amedinat/token-prices-are-dropping-so-why-is-my-ai-bill-going-up-6mm)
+- [Management&#39;s CVE Fix-All Approach Conflicts with Practical Resource Allocation: Prioritization Needed](https://dev.to/maricode/managements-cve-fix-all-approach-conflicts-with-practical-resource-allocation-prioritization-45hj)
+- [Building a Modern Digital Library: From CustomTkinter to PySide6 📚](https://dev.to/lemancaliskan/building-a-modern-digital-library-from-customtkinter-to-pyside6-1371)
+- [Enterprise UX Patterns: Designing Internal Apps for High Productivity](https://dev.to/vinnyumtech/enterprise-ux-patterns-designing-internal-apps-for-high-productivity-2ib3)
 <!-- BLOG-POST-LIST:END -->
 
 
