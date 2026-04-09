@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Web App to Burn Bad Memories and Grow From Them](https://dev.to/edriso/i-built-a-web-app-to-burn-bad-memories-and-grow-from-them-56fj)
-- [Blockchain from the Ground Up: What It Is, Why It Exists, and Where It&#39;s Going](https://dev.to/gutopro/blockchain-from-the-ground-up-what-it-is-why-it-exists-and-where-its-going-466e)
-- [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2)
-- [tmux + Neovim + AI: My tdev Workflow for AI-Powered Development Sessions](https://dev.to/iampavel/tmux-neovim-ai-my-tdev-workflow-for-ai-powered-development-sessions-18b1)
+- [I Evicted Framer Motion From a Client Site and Cut the Bundle by 27%](https://dev.to/sumorai/i-evicted-framer-motion-from-a-client-site-and-cut-the-bundle-by-27-2mep)
+- [Braves Booth — Idle Recap, Dashboard Density, and AI Pitcher Narratives](https://dev.to/jeremy_longshore/braves-booth-idle-recap-dashboard-density-and-ai-pitcher-narratives-5boc)
+- [Bash Essential Aliases and Functions](https://dev.to/iampavel/bash-essential-aliases-and-functions-2f86)
+- [AI-Built Apps Are Breaking Businesses](https://dev.to/iampavel/ai-built-apps-are-breaking-businesses-m9e)
 <!-- BLOG-POST-LIST:END -->
 
 
