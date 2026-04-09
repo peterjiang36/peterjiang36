@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Vector Pipelines: From Config Files to Data Flow](https://dev.to/mohhddhassan/understanding-vector-pipelines-from-config-files-to-data-flow-i8k)
-- [Agentic tool use in Aerie workflows](https://dev.to/patonw/agentic-tool-use-in-aerie-workflows-4l4b)
-- [🍪 Cookie-Based JWT Authentication](https://dev.to/pial_shek_09ce71ae3fbe3c1/cookie-based-jwt-authentication-2477)
-- [Digital Marketing Automation vs. Traditional Methods](https://dev.to/growbix_ai_2fef1b9578d140/digital-marketing-automation-vs-traditional-methods-3alp)
+- [I Built a Web App to Burn Bad Memories and Grow From Them](https://dev.to/edriso/i-built-a-web-app-to-burn-bad-memories-and-grow-from-them-56fj)
+- [Blockchain from the Ground Up: What It Is, Why It Exists, and Where It&#39;s Going](https://dev.to/gutopro/blockchain-from-the-ground-up-what-it-is-why-it-exists-and-where-its-going-466e)
+- [Tracking, Propagation Attacks, and What We Found in Real Email Traffic](https://dev.to/wadco/tracking-propagation-attacks-and-what-we-found-in-real-traffic-4pc2)
+- [tmux + Neovim + AI: My tdev Workflow for AI-Powered Development Sessions](https://dev.to/iampavel/tmux-neovim-ai-my-tdev-workflow-for-ai-powered-development-sessions-18b1)
 <!-- BLOG-POST-LIST:END -->
 
 
