@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Evicted Framer Motion From a Client Site and Cut the Bundle by 27%](https://dev.to/sumorai/i-evicted-framer-motion-from-a-client-site-and-cut-the-bundle-by-27-2mep)
-- [Braves Booth — Idle Recap, Dashboard Density, and AI Pitcher Narratives](https://dev.to/jeremy_longshore/braves-booth-idle-recap-dashboard-density-and-ai-pitcher-narratives-5boc)
-- [Bash Essential Aliases and Functions](https://dev.to/iampavel/bash-essential-aliases-and-functions-2f86)
-- [AI-Built Apps Are Breaking Businesses](https://dev.to/iampavel/ai-built-apps-are-breaking-businesses-m9e)
+- [How I Saved 100+ Hours Building a FastAPI &amp; Stripe SaaS Boilerplate](https://dev.to/hassan_derkaoui_1bad29e16/how-i-saved-100-hours-building-a-fastapi-stripe-saas-boilerplate-1bf8)
+- [[SC] Closures con @Sendable](https://dev.to/david_goyes_a488f58a17a53/sc-closures-con-sendable-55ih)
+- [Laravel Sanctum API Authentication: The Complete Production Guide](https://dev.to/dewald_hugo_472be9f413c2a/laravel-sanctum-api-authentication-the-complete-production-guide-58ac)
+- [Notes on My First Factorio Mod: Why I Stopped Trusting the Shift-Click Dance](https://dev.to/iampavel/notes-on-my-first-factorio-mod-why-i-stopped-trusting-the-shift-click-dance-2eob)
 <!-- BLOG-POST-LIST:END -->
 
 
