@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [It’s Simple, But Annoying: Why I Started Building Keynotif | Cahyanudien Blogs](https://dev.to/cas8398/its-simple-but-annoying-why-i-started-building-keynotif-cahyanudien-blogs-1m2h)
-- [Every AI Meeting Tool Wants a Monthly Fee. So I Built My Own](https://dev.to/insight105/every-ai-meeting-tool-wants-a-monthly-fee-so-i-built-my-own-2ep2)
-- [AI SLOP Detector v3.1: Three Formula Refinements and the Adversarial Tester That Found Them](https://dev.to/flamehaven01/ai-slop-detector-v31-three-formula-refinements-and-the-adversarial-tester-that-found-them-5e2n)
-- [NVIDIA Is Investing in an Open Source Game Engine. Here&#39;s Why That Matters.](https://dev.to/ziva/nvidia-is-investing-in-an-open-source-game-engine-heres-why-that-matters-5eca)
+- [LeetCode 424: Longest Repeating Character Replacement — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-424-longest-repeating-character-replacement-step-by-step-visual-trace-29f4)
+- [LeetCode 300: Longest Increasing Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-300-longest-increasing-subsequence-step-by-step-visual-trace-5657)
+- [LeetCode 329: Longest Increasing Path In A Matrix — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-329-longest-increasing-path-in-a-matrix-step-by-step-visual-trace-5hk8)
+- [LeetCode 1143: Longest Common Subsequence — Step-by-Step Visual Trace](https://dev.to/tracelit/leetcode-1143-longest-common-subsequence-step-by-step-visual-trace-14m5)
 <!-- BLOG-POST-LIST:END -->
 
 
