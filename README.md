@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The proof-of- work with Ansible](https://dev.to/oofemi/the-proof-of-work-with-ansible-2jm1)
-- [AI-Generated PRs Lack Human Oversight, Leading to Poor Code Quality: Implementing Review Guidelines as Solution](https://dev.to/denlava/ai-generated-prs-lack-human-oversight-leading-to-poor-code-quality-implementing-review-guidelines-12ni)
-- [I Built a Real-Time Multiplayer Bingo Engine with Next.js, Supabase, and Ably](https://dev.to/forrestmiller/i-built-a-real-time-multiplayer-bingo-engine-winextjs-webdev-javascript-reactth-nextjs-2og1)
-- [How We Evaluate AI Agents Before Recommending Them to Clients](https://dev.to/lowcodeagency/how-we-evaluate-ai-agents-before-recommending-them-to-clients-3ol3)
+- [What We&#39;ve Learned Running a Company With an AI Agent Fleet](https://dev.to/braingemai/what-weve-learned-running-a-company-with-an-ai-agent-fleet-28jh)
+- [¿Qué es y para qué sirve AWS Kiro?](https://dev.to/byron_lainez/que-es-y-para-que-sirve-aws-kiro-2k0b)
+- [How to build Flexible Neural Networks from scratch in C++](https://dev.to/nalinangrish/how-to-build-flexible-neural-networks-from-scratch-in-c-i65)
+- [nylas webhook server — What It Does and How to Use It](https://dev.to/qasim157/nylas-webhook-server-what-it-does-and-how-to-use-it-21l3)
 <!-- BLOG-POST-LIST:END -->
 
 
