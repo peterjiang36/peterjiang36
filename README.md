@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Eventra in 6 Months &lpar;After My Day Job&rpar;. Here&#39;s How.](https://dev.to/__c500e8ac9bc2/i-built-eventra-in-6-months-after-my-day-job-heres-how-2j9)
-- [I Built a Tool That Turns Any Website Into Full Documentation in Minutes](https://dev.to/andreiasi_marian_b3b813dc/i-built-a-tool-that-turns-any-website-into-full-documentation-in-minutes-5990)
-- [How AI Voice Agents Enhance Customer Support and Sales](https://dev.to/mario-malick98/how-ai-voice-agents-enhance-customer-support-and-sales-448k)
-- [How I Fixed Claude’s Biggest Limitation for Real Projects &lpar;And Stopped Wasting Tokens&rpar;](https://dev.to/ovexro/how-i-fixed-claudes-biggest-limitation-for-real-projects-and-stopped-wasting-tokens-278k)
+- [[Rust Guide] 7.1. Package, Crate, and Module Definitions](https://dev.to/someb1oody/rust-guide-71-package-crate-and-module-definitions-7hl)
+- [rclap a new configuration management for rust, is now on crates.io](https://dev.to/slim_ouertani_4b3ca3e9f8a/rclap-a-new-configuration-management-for-rust-is-now-on-cratesio-h0l)
+- [I Deployed a Bedrock AI Agent Through My IDP in 4 Minutes](https://dev.to/greg_lazarus_9b7e403f2daa/i-deployed-a-bedrock-ai-agent-through-my-idp-in-4-minutes-4ke5)
+- [Scaling for AGI: Future-Proofing Your Code Today](https://dev.to/programmingcentral/scaling-for-agi-future-proofing-your-code-today-31i5)
 <!-- BLOG-POST-LIST:END -->
 
 
