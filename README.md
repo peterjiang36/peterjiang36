@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Cache Management in Next.js 16: updateTag and revalidateTag](https://dev.to/mericcintosun/advanced-cache-management-in-nextjs-16-updatetag-and-revalidatetag-50j2)
-- [Voice-Controlled Local AI Agent](https://dev.to/dev_bhavsar/voice-controlled-local-ai-agent-3k1f)
-- [Teaching Machines to Understand Documents with Docling](https://dev.to/ritika-bhambri/a-deep-dive-into-docling-35d3)
-- [test](https://dev.to/mikeydorje/test-160h)
+- [What if you could reverse a template engine?](https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk)
+- [How we built multi-region uptime consensus on the BEAM — zero external dependencies](https://dev.to/legiahoang/how-we-built-multi-region-uptime-consensus-on-the-beam-zero-external-dependencies-opi)
+- [Deepfakes Surged 2,137%. Courts Rewrote the Rules. Investigators Didn&#39;t.](https://dev.to/caracomp/deepfakes-surged-2137-courts-rewrote-the-rules-investigators-didnt-59e5)
+- [The Standup Chaos Simulator](https://dev.to/javz/the-standup-chaos-simulator-1ch8)
 <!-- BLOG-POST-LIST:END -->
 
 
