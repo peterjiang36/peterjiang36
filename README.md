@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenVid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-6dj)
-- [Experience Engine: 100% local AI memory with Ollama — zero API cost, zero dependencies, memory shrinks as your agent learns](https://dev.to/muonroi/experience-engine-100-local-ai-memory-with-ollama-zero-api-cost-zero-dependencies-memory-49pn)
-- [I Built an AI-Powered SEO Stack with Claude Code. Here&#39;s What Actually Works](https://dev.to/whollykaw/i-built-an-ai-powered-seo-stack-with-claude-code-heres-what-actually-works-1cdj)
-- [GitHub Desktop | The Undo Button for Vibe Coders.](https://dev.to/dererk_copeland_10ced0b89/github-desktop-the-undo-button-for-vibe-coders-2307)
+- [I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs](https://dev.to/leonardosalasd/i-got-tired-of-latex-so-i-built-a-zero-config-python-cli-to-turn-markdown-into-premium-pdfs-oob)
+- [$0.60 per session, just on orientation. Here is what my AI agent was doing before writing any code.](https://dev.to/thegdsks/060-per-session-just-on-orientation-here-is-what-my-ai-agent-was-doing-before-writing-any-code-28i5)
+- [The State of OCR in .NET &lpar;2026&rpar;: From Text Extraction to Real Pipelines](https://dev.to/woltw_dev/the-state-of-ocr-in-net-2026-from-text-extraction-to-real-pipelines-25cb)
+- [The Sort Algo Every Language Uses &lpar;Not Quicksort&rpar;](https://dev.to/neuraldownload/the-sort-algo-every-language-uses-not-quicksort-3lk2)
 <!-- BLOG-POST-LIST:END -->
 
 
