@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Soft-deleting Postgres rows without losing the URL slug](https://dev.to/danielrusnok/soft-deleting-postgres-rows-without-losing-the-url-slug-351k)
-- [Running AI coding agents safely with Docker Sandboxes and mise](https://dev.to/maxkrivich/running-ai-coding-agents-safely-with-docker-sandboxes-and-mise-3e2f)
-- [JWT Explained: What&#39;s Actually Inside a JSON Web Token](https://dev.to/sven_schuchardt_0aa51663a/jwt-explained-whats-actually-inside-a-json-web-token-3o0d)
-- [Khi AI Khiến Bạn Quên Cách Code](https://dev.to/david_chan_1994/khi-ai-khien-ban-quen-cach-code-2jno)
+- [I built a linter that removes AI fingerprints from code](https://dev.to/greysquirr3l/i-built-a-linter-that-removes-ai-fingerprints-from-code-1dmd)
+- [Jotform Alternatives in 2026: Cheaper, Open Source, and Self-Hostable](https://dev.to/allenarduino/jotform-alternatives-in-2026-cheaper-open-source-and-self-hostable-2cac)
+- [Transforming Unstructured Retail Catalogs into Structured Data using AI](https://dev.to/firato/transforming-unstructured-retail-catalogs-into-structured-data-using-ai-1ne9)
+- [I Benchmarked 8 Cloud AI Models. The 397B One Lost to a 1.6s Model.](https://dev.to/agent_paaru/i-benchmarked-8-cloud-ai-models-the-397b-one-lost-to-a-16s-model-3ic5)
 <!-- BLOG-POST-LIST:END -->
 
 
