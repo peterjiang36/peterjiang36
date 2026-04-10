@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformer Architecture in 2026: From Attention to Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jintukumardas/transformer-architecture-in-2026-from-attention-to-mixture-of-experts-moe-3d46)
-- [Recurring VPS Hosting Issues: How Switching Providers and Negotiating Contracts Restores Trust and Reliability](https://dev.to/maxgeris/recurring-vps-hosting-issues-how-switching-providers-and-negotiating-contracts-restores-trust-and-4h0p)
-- [What Game Designers Actually Use: A Honest Look at Level Design and Economy Tools in 2026](https://dev.to/sam_novak_574b07811e18495/what-game-designers-actually-use-a-honest-look-at-level-design-and-economy-tools-in-2026-h9l)
-- [&quot;I Pointed Claude Code at My Local Ollama Models — Here&#39;s the 3-Minute Setup&quot;](https://dev.to/yiyaoai/i-pointed-claude-code-at-my-local-ollama-models-heres-the-3-minute-setup-4hha)
+- [11 Failures Before My CI/CD Pipeline Worked: A VibeCoder&#39;s Guide to Expo + GitHub Actions + DeployGate](https://dev.to/kaz-builds-staff/11-failures-before-my-cicd-pipeline-worked-a-vibecoders-guide-to-expo-github-actions--2gao)
+- [Friday Shipped &amp; Scarred #3: PC Workman 1.7.1, The Foundation Great Release](https://dev.to/huckler/friday-shipped-scarred-3-pc-workman-171-the-foundation-great-release-10aj)
+- [What are the Hidden Costs in Mobile App Development Projects?](https://dev.to/dhruvjoshi9/what-are-the-hidden-costs-in-mobile-app-development-projects-22pn)
+- [A Cognitive Neuroscience Study in Multi-Agent Box-Pushing Adversarial Games](https://dev.to/sengseng/a-cognitive-neuroscience-study-in-multi-agent-box-pushing-adversarial-games-4c5m)
 <!-- BLOG-POST-LIST:END -->
 
 
