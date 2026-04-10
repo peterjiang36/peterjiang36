@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [11 Failures Before My CI/CD Pipeline Worked: A VibeCoder&#39;s Guide to Expo + GitHub Actions + DeployGate](https://dev.to/kaz-builds-staff/11-failures-before-my-cicd-pipeline-worked-a-vibecoders-guide-to-expo-github-actions--2gao)
-- [Friday Shipped &amp; Scarred #3: PC Workman 1.7.1, The Foundation Great Release](https://dev.to/huckler/friday-shipped-scarred-3-pc-workman-171-the-foundation-great-release-10aj)
-- [What are the Hidden Costs in Mobile App Development Projects?](https://dev.to/dhruvjoshi9/what-are-the-hidden-costs-in-mobile-app-development-projects-22pn)
-- [A Cognitive Neuroscience Study in Multi-Agent Box-Pushing Adversarial Games](https://dev.to/sengseng/a-cognitive-neuroscience-study-in-multi-agent-box-pushing-adversarial-games-4c5m)
+- [I Built a Container Orchestrator in Rust Because Kubernetes Was Too Much and Coolify Wasn&#39;t Enough](https://dev.to/mighty840/i-built-a-container-orchestrator-in-rust-because-kubernetes-was-too-much-and-coolify-wasnt-enough-4hj7)
+- [How to Decide Which LMS Platforms Your Edtech Tool Should Support First in 2026](https://dev.to/bhavesh_pawar_8205920953a/how-to-decide-which-lms-platforms-your-edtech-tool-should-support-first-in-2026-3hb7)
+- [Why Your App&#39;s Photos Look Weird: A Developer&#39;s Guide to Moiré Patterns](https://dev.to/fruitwyatt/why-your-apps-photos-look-weird-a-developers-guide-to-moire-patterns-1h5a)
+- [Infrastructure Design for Credit Risk Modeling](https://dev.to/marysofteng/infrastructure-design-for-credit-risk-modeling-2ee7)
 <!-- BLOG-POST-LIST:END -->
 
 
