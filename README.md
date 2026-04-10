@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What if you could reverse a template engine?](https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk)
-- [How we built multi-region uptime consensus on the BEAM — zero external dependencies](https://dev.to/legiahoang/how-we-built-multi-region-uptime-consensus-on-the-beam-zero-external-dependencies-opi)
-- [Deepfakes Surged 2,137%. Courts Rewrote the Rules. Investigators Didn&#39;t.](https://dev.to/caracomp/deepfakes-surged-2137-courts-rewrote-the-rules-investigators-didnt-59e5)
-- [The Standup Chaos Simulator](https://dev.to/javz/the-standup-chaos-simulator-1ch8)
+- [Soft-deleting Postgres rows without losing the URL slug](https://dev.to/danielrusnok/soft-deleting-postgres-rows-without-losing-the-url-slug-351k)
+- [Running AI coding agents safely with Docker Sandboxes and mise](https://dev.to/maxkrivich/running-ai-coding-agents-safely-with-docker-sandboxes-and-mise-3e2f)
+- [JWT Explained: What&#39;s Actually Inside a JSON Web Token](https://dev.to/sven_schuchardt_0aa51663a/jwt-explained-whats-actually-inside-a-json-web-token-3o0d)
+- [Khi AI Khiến Bạn Quên Cách Code](https://dev.to/david_chan_1994/khi-ai-khien-ban-quen-cach-code-2jno)
 <!-- BLOG-POST-LIST:END -->
 
 
