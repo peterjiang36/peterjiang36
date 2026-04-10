@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of LaTeX, so I built a zero-config Python CLI to turn Markdown into premium PDFs](https://dev.to/leonardosalasd/i-got-tired-of-latex-so-i-built-a-zero-config-python-cli-to-turn-markdown-into-premium-pdfs-oob)
-- [$0.60 per session, just on orientation. Here is what my AI agent was doing before writing any code.](https://dev.to/thegdsks/060-per-session-just-on-orientation-here-is-what-my-ai-agent-was-doing-before-writing-any-code-28i5)
-- [The State of OCR in .NET &lpar;2026&rpar;: From Text Extraction to Real Pipelines](https://dev.to/woltw_dev/the-state-of-ocr-in-net-2026-from-text-extraction-to-real-pipelines-25cb)
-- [The Sort Algo Every Language Uses &lpar;Not Quicksort&rpar;](https://dev.to/neuraldownload/the-sort-algo-every-language-uses-not-quicksort-3lk2)
+- [I Started This Not Knowing What a Wallet Was. Here&#39;s Where I&#39;m Going Next](https://dev.to/ribhavmodi/i-started-this-not-knowing-what-a-wallet-was-heres-where-im-going-next-43pn)
+- [JavaScript Basics](https://dev.to/athithya_sivasankarar/javascript-basics-1h8h)
+- [Stop Database Bottlenecks: Master Redis Cache Tags in Laravel](https://dev.to/iprajapatiparesh/stop-database-bottlenecks-master-redis-cache-tags-in-laravel-15mj)
+- [How I Rebuilt My AI Decision Tool From a Summarizer Into a Constraint-Driven Arbitrator](https://dev.to/karamatt_/how-i-rebuilt-my-ai-decision-tool-from-a-summarizer-into-a-constraint-driven-arbitrator-5fc7)
 <!-- BLOG-POST-LIST:END -->
 
 
