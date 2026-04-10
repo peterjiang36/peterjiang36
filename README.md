@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rubber Duck Diffusion Platform](https://dev.to/jasperblank_14/rubber-duck-diffusion-platform-421i)
-- [🚀 End-to-End Deployment of “The EpicBook!” Application with Terraform, AWS, and Nginx](https://dev.to/danyang007/end-to-end-deployment-of-the-epicbook-application-with-terraform-aws-and-nginx-5875)
-- [CrowdFlow AI: The Master Blueprint for a Google Cloud-Powered Smart Stadium](https://dev.to/abhishek_b84cfddf0b8da323/crowdflow-ai-the-master-blueprint-for-a-google-cloud-powered-smart-stadium-1bac)
-- [Push Relay + Telegram: Real-Time Transaction Approval for AI Agents](https://dev.to/walletguy/push-relay-telegram-real-time-transaction-approval-for-ai-agents-26h)
+- [Advanced Cache Management in Next.js 16: updateTag and revalidateTag](https://dev.to/mericcintosun/advanced-cache-management-in-nextjs-16-updatetag-and-revalidatetag-50j2)
+- [Voice-Controlled Local AI Agent](https://dev.to/dev_bhavsar/voice-controlled-local-ai-agent-3k1f)
+- [Teaching Machines to Understand Documents with Docling](https://dev.to/ritika-bhambri/a-deep-dive-into-docling-35d3)
+- [test](https://dev.to/mikeydorje/test-160h)
 <!-- BLOG-POST-LIST:END -->
 
 
