@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Would Learn DevOps in 2026 &lpar;Step-by-Step Roadmap&rpar;](https://dev.to/yash_sonawane25/how-i-would-learn-devops-in-2026-step-by-step-roadmap-3k25)
-- [The Anatomy of an Effective Prompt: Key Techniques from Google’s Guide](https://dev.to/eleonorarocchi/the-anatomy-of-an-effective-prompt-key-techniques-from-googles-guide-119c)
-- [x402 Micropayments for AI Agents: What We Learned Building It](https://dev.to/tiamatenity/x402-micropayments-for-ai-agents-what-we-learned-building-it-49h4)
-- [Building a TCP Server in Rust With tokio: From Accept Loop to Graceful Shutdown](https://dev.to/dylan_dumont_266378d98367/building-a-tcp-server-in-rust-with-tokio-from-accept-loop-to-graceful-shutdown-2bh2)
+- [Transformer Architecture in 2026: From Attention to Mixture of Experts &lpar;MoE&rpar;](https://dev.to/jintukumardas/transformer-architecture-in-2026-from-attention-to-mixture-of-experts-moe-3d46)
+- [Recurring VPS Hosting Issues: How Switching Providers and Negotiating Contracts Restores Trust and Reliability](https://dev.to/maxgeris/recurring-vps-hosting-issues-how-switching-providers-and-negotiating-contracts-restores-trust-and-4h0p)
+- [What Game Designers Actually Use: A Honest Look at Level Design and Economy Tools in 2026](https://dev.to/sam_novak_574b07811e18495/what-game-designers-actually-use-a-honest-look-at-level-design-and-economy-tools-in-2026-h9l)
+- [&quot;I Pointed Claude Code at My Local Ollama Models — Here&#39;s the 3-Minute Setup&quot;](https://dev.to/yiyaoai/i-pointed-claude-code-at-my-local-ollama-models-heres-the-3-minute-setup-4hha)
 <!-- BLOG-POST-LIST:END -->
 
 
