@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Container Orchestrator in Rust Because Kubernetes Was Too Much and Coolify Wasn&#39;t Enough](https://dev.to/mighty840/i-built-a-container-orchestrator-in-rust-because-kubernetes-was-too-much-and-coolify-wasnt-enough-4hj7)
-- [How to Decide Which LMS Platforms Your Edtech Tool Should Support First in 2026](https://dev.to/bhavesh_pawar_8205920953a/how-to-decide-which-lms-platforms-your-edtech-tool-should-support-first-in-2026-3hb7)
-- [Why Your App&#39;s Photos Look Weird: A Developer&#39;s Guide to Moiré Patterns](https://dev.to/fruitwyatt/why-your-apps-photos-look-weird-a-developers-guide-to-moire-patterns-1h5a)
-- [Infrastructure Design for Credit Risk Modeling](https://dev.to/marysofteng/infrastructure-design-for-credit-risk-modeling-2ee7)
+- [FastAPI + MCP: Adding Real OAuth 2.1 Auth to Your Python MCP Server](https://dev.to/peytongreen_dev/fastapi-mcp-adding-real-oauth-21-auth-to-your-python-mcp-server-4pg6)
+- [Figma to FlutterFlow: What Works, What Breaks, and What to Watch Out For](https://dev.to/devansh2002/figma-to-flutterflow-what-works-what-breaks-and-what-to-watch-out-for-56ij)
+- [Classes in python](https://dev.to/ark7/classes-in-python-21nc)
+- [Meta-Optimized Continual Adaptation for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h4e)
 <!-- BLOG-POST-LIST:END -->
 
 
