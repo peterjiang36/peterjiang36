@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.](https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095)
-- [Sourcery vs Ruff: Python Code Quality Comparison](https://dev.to/rahulxsingh/sourcery-vs-ruff-python-code-quality-comparison-b35)
-- [How to Build a CRUD Android App with Jetpack Compose and Room &lpar;Step by Step&rpar;](https://dev.to/developergb/how-to-build-a-crud-android-app-with-jetpack-compose-and-room-step-by-step-5b02)
-- [30 days of solo dev shipping: 9 projects, 1 VPS, no Docker — what I actually learned](https://dev.to/foxyyybusiness/30-days-of-solo-dev-shipping-9-projects-1-vps-no-docker-what-i-actually-learned-47a3)
+- [AI Weekly: 4/1–4/10 | Anthropic Triple Shock Sequel — Mythos Too Dangerous to Ship, Revenue Passes OpenAI, Software Stocks Crash](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-41-410-anthropic-triple-shock-sequel-mythos-too-dangerous-to-ship-revenue-passes-227e)
+- [AI 週報：2026/4/1–4/10 Anthropic 三震續集——Mythos 太危險不敢放、營收超車 OpenAI、軟體股應聲重挫](https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-202641-410anthropic-san-zhen-xu-ji-mythos-tai-wei-xian-bu-gan-fang-ying-shou-chao-che-openai-ruan-ti-gu-ying-sheng-zhong-cuo-434m)
+- [AWS S3 Files: The Missing Conversation](https://dev.to/dzhuneyt/aws-s3-files-the-missing-conversation-3jn1)
+- [Best Sheet2API Alternatives in 2026 &lpar;One Gives You an API AND a Website Widget&rpar;](https://dev.to/allenarduino/best-sheet2api-alternatives-in-2026-one-gives-you-an-api-and-a-website-widget-33i6)
 <!-- BLOG-POST-LIST:END -->
 
 
