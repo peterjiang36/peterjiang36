@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Is Burning Your API Budget: The Model Routing Architecture That Fixes It](https://dev.to/thebrierfox/claude-code-is-burning-your-api-budget-the-model-routing-architecture-that-fixes-it-4bjl)
-- [This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl](https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb)
-- [I Thought I Understood Threads. Then I Read Atomics and Locks.](https://dev.to/hznprince/i-thought-i-understood-threads-then-i-read-atomics-and-locks-2b7g)
-- [Monitoring Java Microservices with OpenTelemetry and OpenObserve](https://dev.to/manas_sharma/monitoring-java-microservices-with-opentelemetry-and-openobserve-2d1)
+- [Publishing and Embedding Power BI Reports on the Web with IFrames](https://dev.to/rosemutai/publishing-and-embedding-power-bi-reports-on-the-web-with-iframes-3nd5)
+- [Meta Spent $14.3B to Kill Open-Source AI. The Muse Spark Benchmarks Tell a Different Story.](https://dev.to/skilaai/meta-spent-143b-to-kill-open-source-ai-the-muse-spark-benchmarks-tell-a-different-story-4d1k)
+- [Claude Code Worktrees: How to Run Parallel Builds Without Merge Conflicts](https://dev.to/thebrierfox/claude-code-worktrees-how-to-run-parallel-builds-without-merge-conflicts-56m2)
+- [Ng-News 26/12: Future of Selectorless, Skills vs. MCP, Zoneless Testing](https://dev.to/playfulprogramming-angular/ng-news-2612-future-of-selectorless-skills-vs-mcp-zoneless-testing-3gmo)
 <!-- BLOG-POST-LIST:END -->
 
 
