@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing and Embedding Power BI Reports on the Web with IFrames](https://dev.to/rosemutai/publishing-and-embedding-power-bi-reports-on-the-web-with-iframes-3nd5)
-- [Meta Spent $14.3B to Kill Open-Source AI. The Muse Spark Benchmarks Tell a Different Story.](https://dev.to/skilaai/meta-spent-143b-to-kill-open-source-ai-the-muse-spark-benchmarks-tell-a-different-story-4d1k)
-- [Claude Code Worktrees: How to Run Parallel Builds Without Merge Conflicts](https://dev.to/thebrierfox/claude-code-worktrees-how-to-run-parallel-builds-without-merge-conflicts-56m2)
-- [Ng-News 26/12: Future of Selectorless, Skills vs. MCP, Zoneless Testing](https://dev.to/playfulprogramming-angular/ng-news-2612-future-of-selectorless-skills-vs-mcp-zoneless-testing-3gmo)
+- [Rubber Duck Diffusion Platform](https://dev.to/jasperblank_14/rubber-duck-diffusion-platform-421i)
+- [🚀 End-to-End Deployment of “The EpicBook!” Application with Terraform, AWS, and Nginx](https://dev.to/danyang007/end-to-end-deployment-of-the-epicbook-application-with-terraform-aws-and-nginx-5875)
+- [CrowdFlow AI: The Master Blueprint for a Google Cloud-Powered Smart Stadium](https://dev.to/abhishek_b84cfddf0b8da323/crowdflow-ai-the-master-blueprint-for-a-google-cloud-powered-smart-stadium-1bac)
+- [Push Relay + Telegram: Real-Time Transaction Approval for AI Agents](https://dev.to/walletguy/push-relay-telegram-real-time-transaction-approval-for-ai-agents-26h)
 <!-- BLOG-POST-LIST:END -->
 
 
