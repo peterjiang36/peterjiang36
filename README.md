@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Started This Not Knowing What a Wallet Was. Here&#39;s Where I&#39;m Going Next](https://dev.to/ribhavmodi/i-started-this-not-knowing-what-a-wallet-was-heres-where-im-going-next-43pn)
-- [JavaScript Basics](https://dev.to/athithya_sivasankarar/javascript-basics-1h8h)
-- [Stop Database Bottlenecks: Master Redis Cache Tags in Laravel](https://dev.to/iprajapatiparesh/stop-database-bottlenecks-master-redis-cache-tags-in-laravel-15mj)
-- [How I Rebuilt My AI Decision Tool From a Summarizer Into a Constraint-Driven Arbitrator](https://dev.to/karamatt_/how-i-rebuilt-my-ai-decision-tool-from-a-summarizer-into-a-constraint-driven-arbitrator-5fc7)
+- [How I Would Learn DevOps in 2026 &lpar;Step-by-Step Roadmap&rpar;](https://dev.to/yash_sonawane25/how-i-would-learn-devops-in-2026-step-by-step-roadmap-3k25)
+- [The Anatomy of an Effective Prompt: Key Techniques from Google’s Guide](https://dev.to/eleonorarocchi/the-anatomy-of-an-effective-prompt-key-techniques-from-googles-guide-119c)
+- [x402 Micropayments for AI Agents: What We Learned Building It](https://dev.to/tiamatenity/x402-micropayments-for-ai-agents-what-we-learned-building-it-49h4)
+- [Building a TCP Server in Rust With tokio: From Accept Loop to Graceful Shutdown](https://dev.to/dylan_dumont_266378d98367/building-a-tcp-server-in-rust-with-tokio-from-accept-loop-to-graceful-shutdown-2bh2)
 <!-- BLOG-POST-LIST:END -->
 
 
