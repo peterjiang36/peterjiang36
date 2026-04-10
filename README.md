@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI + MCP: Adding Real OAuth 2.1 Auth to Your Python MCP Server](https://dev.to/peytongreen_dev/fastapi-mcp-adding-real-oauth-21-auth-to-your-python-mcp-server-4pg6)
-- [Figma to FlutterFlow: What Works, What Breaks, and What to Watch Out For](https://dev.to/devansh2002/figma-to-flutterflow-what-works-what-breaks-and-what-to-watch-out-for-56ij)
-- [Classes in python](https://dev.to/ark7/classes-in-python-21nc)
-- [Meta-Optimized Continual Adaptation for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h4e)
+- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
+- [PySpark to Pandas/scikit-learn: A Practical Migration Guide for Data Engineers Learning ML](https://dev.to/nyson_mark/pyspark-to-pandasscikit-learn-a-practical-migration-guide-for-data-engineers-learning-ml-2gij)
+- [Мини-интернет магазин на Django](https://dev.to/vagram123/mini-intierniet-maghazin-na-django-37hh)
+- [Reverse-RAG: Building AI-Driven Synthetic Staging Environments on AWS](https://dev.to/dhananjay_lakkawar/reverse-rag-building-ai-driven-synthetic-staging-environments-on-aws-5bcj)
 <!-- BLOG-POST-LIST:END -->
 
 
