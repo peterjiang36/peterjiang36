@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly: 4/1–4/10 | Anthropic Triple Shock Sequel — Mythos Too Dangerous to Ship, Revenue Passes OpenAI, Software Stocks Crash](https://dev.to/yang_goufang_23c7ba674984/ai-weekly-41-410-anthropic-triple-shock-sequel-mythos-too-dangerous-to-ship-revenue-passes-227e)
-- [AI 週報：2026/4/1–4/10 Anthropic 三震續集——Mythos 太危險不敢放、營收超車 OpenAI、軟體股應聲重挫](https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-202641-410anthropic-san-zhen-xu-ji-mythos-tai-wei-xian-bu-gan-fang-ying-shou-chao-che-openai-ruan-ti-gu-ying-sheng-zhong-cuo-434m)
-- [AWS S3 Files: The Missing Conversation](https://dev.to/dzhuneyt/aws-s3-files-the-missing-conversation-3jn1)
-- [Best Sheet2API Alternatives in 2026 &lpar;One Gives You an API AND a Website Widget&rpar;](https://dev.to/allenarduino/best-sheet2api-alternatives-in-2026-one-gives-you-an-api-and-a-website-widget-33i6)
+- [OpenVid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-6dj)
+- [Experience Engine: 100% local AI memory with Ollama — zero API cost, zero dependencies, memory shrinks as your agent learns](https://dev.to/muonroi/experience-engine-100-local-ai-memory-with-ollama-zero-api-cost-zero-dependencies-memory-49pn)
+- [I Built an AI-Powered SEO Stack with Claude Code. Here&#39;s What Actually Works](https://dev.to/whollykaw/i-built-an-ai-powered-seo-stack-with-claude-code-heres-what-actually-works-1cdj)
+- [GitHub Desktop | The Undo Button for Vibe Coders.](https://dev.to/dererk_copeland_10ced0b89/github-desktop-the-undo-button-for-vibe-coders-2307)
 <!-- BLOG-POST-LIST:END -->
 
 
