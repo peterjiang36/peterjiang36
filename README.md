@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What We&#39;ve Learned Running a Company With an AI Agent Fleet](https://dev.to/braingemai/what-weve-learned-running-a-company-with-an-ai-agent-fleet-28jh)
-- [¿Qué es y para qué sirve AWS Kiro?](https://dev.to/byron_lainez/que-es-y-para-que-sirve-aws-kiro-2k0b)
-- [How to build Flexible Neural Networks from scratch in C++](https://dev.to/nalinangrish/how-to-build-flexible-neural-networks-from-scratch-in-c-i65)
-- [nylas webhook server — What It Does and How to Use It](https://dev.to/qasim157/nylas-webhook-server-what-it-does-and-how-to-use-it-21l3)
+- [The Job Search Agent: How I’d Add Dedalus to My GTM Job Intelligence Platform](https://dev.to/satvik_panchal_893bb879ef/the-job-search-agent-how-id-add-dedalus-to-my-gtm-job-intelligence-platform-34hb)
+- [Aethir Adapter Exploit. 500k. Complete Operational security Mess.](https://dev.to/jerry_ns/aethir-adapter-exploit-500k-complete-operational-security-mess-4lng)
+- [Why Your Unity WebGL Multiplayer Breaks on Some Networks](https://dev.to/magithar/why-your-unity-webgl-multiplayer-breaks-on-some-networks-1462)
+- [My Study Guide for the Microsoft Certified SQL AI Developer Associate Beta Exam](https://dev.to/rengond/my-study-guide-for-the-microsoft-certified-sql-ai-developer-associate-beta-exam-447o)
 <!-- BLOG-POST-LIST:END -->
 
 
