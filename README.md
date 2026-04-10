@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an AI IELTS Grader That Replaces the $50-Per-Essay Human Tutor](https://dev.to/ryan_715bad0e12e828cbe181/why-i-built-an-ai-ielts-grader-that-replaces-the-50-per-essay-human-tutor-f5f)
-- [PySpark to Pandas/scikit-learn: A Practical Migration Guide for Data Engineers Learning ML](https://dev.to/nyson_mark/pyspark-to-pandasscikit-learn-a-practical-migration-guide-for-data-engineers-learning-ml-2gij)
-- [Мини-интернет магазин на Django](https://dev.to/vagram123/mini-intierniet-maghazin-na-django-37hh)
-- [Reverse-RAG: Building AI-Driven Synthetic Staging Environments on AWS](https://dev.to/dhananjay_lakkawar/reverse-rag-building-ai-driven-synthetic-staging-environments-on-aws-5bcj)
+- [Claude Code Is Burning Your API Budget: The Model Routing Architecture That Fixes It](https://dev.to/thebrierfox/claude-code-is-burning-your-api-budget-the-model-routing-architecture-that-fixes-it-4bjl)
+- [This Week In React #276: Boneyard, Ink, MUI, React Router, Next.js | RN 0.85, ViewTransition, Skia, Windows | JSIR, Security, esbuild, Ky, Intl](https://dev.to/sebastienlorber/this-week-in-react-276-boneyard-ink-mui-react-router-nextjs-rn-085-viewtransition-skia-4inb)
+- [I Thought I Understood Threads. Then I Read Atomics and Locks.](https://dev.to/hznprince/i-thought-i-understood-threads-then-i-read-atomics-and-locks-2b7g)
+- [Monitoring Java Microservices with OpenTelemetry and OpenObserve](https://dev.to/manas_sharma/monitoring-java-microservices-with-opentelemetry-and-openobserve-2d1)
 <!-- BLOG-POST-LIST:END -->
 
 
