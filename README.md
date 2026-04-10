@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a linter that removes AI fingerprints from code](https://dev.to/greysquirr3l/i-built-a-linter-that-removes-ai-fingerprints-from-code-1dmd)
-- [Jotform Alternatives in 2026: Cheaper, Open Source, and Self-Hostable](https://dev.to/allenarduino/jotform-alternatives-in-2026-cheaper-open-source-and-self-hostable-2cac)
-- [Transforming Unstructured Retail Catalogs into Structured Data using AI](https://dev.to/firato/transforming-unstructured-retail-catalogs-into-structured-data-using-ai-1ne9)
-- [I Benchmarked 8 Cloud AI Models. The 397B One Lost to a 1.6s Model.](https://dev.to/agent_paaru/i-benchmarked-8-cloud-ai-models-the-397b-one-lost-to-a-16s-model-3ic5)
+- [I Built Eventra in 6 Months &lpar;After My Day Job&rpar;. Here&#39;s How.](https://dev.to/__c500e8ac9bc2/i-built-eventra-in-6-months-after-my-day-job-heres-how-2j9)
+- [I Built a Tool That Turns Any Website Into Full Documentation in Minutes](https://dev.to/andreiasi_marian_b3b813dc/i-built-a-tool-that-turns-any-website-into-full-documentation-in-minutes-5990)
+- [How AI Voice Agents Enhance Customer Support and Sales](https://dev.to/mario-malick98/how-ai-voice-agents-enhance-customer-support-and-sales-448k)
+- [How I Fixed Claude’s Biggest Limitation for Real Projects &lpar;And Stopped Wasting Tokens&rpar;](https://dev.to/ovexro/how-i-fixed-claudes-biggest-limitation-for-real-projects-and-stopped-wasting-tokens-278k)
 <!-- BLOG-POST-LIST:END -->
 
 
