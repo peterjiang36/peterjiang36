@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Rust Guide] 7.1. Package, Crate, and Module Definitions](https://dev.to/someb1oody/rust-guide-71-package-crate-and-module-definitions-7hl)
-- [rclap a new configuration management for rust, is now on crates.io](https://dev.to/slim_ouertani_4b3ca3e9f8a/rclap-a-new-configuration-management-for-rust-is-now-on-cratesio-h0l)
-- [I Deployed a Bedrock AI Agent Through My IDP in 4 Minutes](https://dev.to/greg_lazarus_9b7e403f2daa/i-deployed-a-bedrock-ai-agent-through-my-idp-in-4-minutes-4ke5)
-- [Scaling for AGI: Future-Proofing Your Code Today](https://dev.to/programmingcentral/scaling-for-agi-future-proofing-your-code-today-31i5)
+- [The proof-of- work with Ansible](https://dev.to/oofemi/the-proof-of-work-with-ansible-2jm1)
+- [AI-Generated PRs Lack Human Oversight, Leading to Poor Code Quality: Implementing Review Guidelines as Solution](https://dev.to/denlava/ai-generated-prs-lack-human-oversight-leading-to-poor-code-quality-implementing-review-guidelines-12ni)
+- [I Built a Real-Time Multiplayer Bingo Engine with Next.js, Supabase, and Ably](https://dev.to/forrestmiller/i-built-a-real-time-multiplayer-bingo-engine-winextjs-webdev-javascript-reactth-nextjs-2og1)
+- [How We Evaluate AI Agents Before Recommending Them to Clients](https://dev.to/lowcodeagency/how-we-evaluate-ai-agents-before-recommending-them-to-clients-3ol3)
 <!-- BLOG-POST-LIST:END -->
 
 
