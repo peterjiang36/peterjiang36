@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [32 Days, One Dev, One App to Replace Them All](https://dev.to/ivorinoxblue/32-days-one-dev-one-app-to-replace-them-all-4o48)
-- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5)
-- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
-- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
+- [The YC President Endorsed an AI Memory System With Fake Benchmarks. He Also Shipped His Own. We Read the Code.](https://dev.to/penfieldlabs/the-yc-president-endorsed-an-ai-memory-system-with-fake-benchmarks-then-he-shipped-his-own-we-4c9l)
+- [I Built a GPS Tracker Without a SIM Card - Here&#39;s How](https://dev.to/david_thomas/i-built-a-gps-tracker-without-a-sim-card-heres-how-434i)
+- [Integrated Live Log Viewer Widget for Egui/Eframe Apps in WebAssembly Environments.](https://dev.to/serbyte/integrated-live-log-viewer-widget-for-eguieframe-apps-in-webassembly-environments-5g64)
+- [Jestronaut: Explore Your Jest Tests Like Never Before](https://dev.to/realdeepnandi/jestronaut-explore-your-jest-tests-like-never-before-4kc2)
 <!-- BLOG-POST-LIST:END -->
 
 
