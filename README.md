@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dark Forest Needs an Immune System](https://dev.to/jonnonz/the-dark-forest-needs-an-immune-system-49co)
-- [How We Built an Automated Meeting Intelligence System with Google Meet, Slack, and RAG](https://dev.to/ryosuke_tsuji_f08e20fdca1/how-we-built-an-automated-meeting-intelligence-system-with-google-meet-slack-and-rag-42ln)
-- [3 layer of design token matter](https://dev.to/harsh_dev_01/3-layer-of-design-token-matter-44f6)
-- [Two Ends of the Token Budget: Caveman and Tool Search](https://dev.to/oldeucryptoboi/two-ends-of-the-token-budget-caveman-and-tool-search-3k8b)
+- [The Art of Self-Mutating Malware](https://dev.to/excalibra/the-art-of-self-mutating-malware-36ab)
+- [ConfDroid Puppet Modules - Selinux](https://dev.to/12ww1160/confdroid-puppet-modules-selinux-4im3)
+- [Tuning PHP-FPM for Laravel: Workers, Memory, and Process Management](https://dev.to/deploynix/tuning-php-fpm-for-laravel-workers-memory-and-process-management-n32)
+- [PostgreSQL Connection Pooling: PgBouncer, Supavisor &amp; Built-In](https://dev.to/philip_mcclarence_2ef9475/postgresql-connection-pooling-pgbouncer-supavisor-built-in-3i4c)
 <!-- BLOG-POST-LIST:END -->
 
 
