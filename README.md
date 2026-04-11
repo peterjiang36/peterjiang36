@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a browser sound game with Web Audio &lpar;why “listen first” beat live tweaking&rpar;](https://dev.to/sam_lee_880a38a45a170858b/building-a-browser-sound-game-with-web-audio-why-listen-first-beat-live-tweaking-ofj)
-- [From Discovery to Cleanup in One Session: Bash workflow notes](https://dev.to/arnostorg/from-discovery-to-cleanup-in-one-session-bash-workflow-notes-655)
-- [I Couldn’t Afford Earth, So I Built Something Better](https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506)
-- [Do Not Press -- an extremely important button that you should not press](https://dev.to/sarveshofficial/do-not-press-an-extremely-important-button-that-you-should-not-press-1hj2)
+- [Archon Hits #1 on GitHub: A Teardown of &quot;AI Harnesses&quot; vs &quot;Cognitive Operating Systems&quot;](https://dev.to/manikse/archon-hits-1-on-github-a-teardown-of-ai-harnesses-vs-cognitive-operating-systems-4mnf)
+- [I&#39;m tearing my hair when I&#39;m thinking of how I&#39;ve been navigating between files before learning this supper tool](https://dev.to/arnostorg/im-tearing-my-hair-when-im-thinking-of-how-ive-been-navigating-between-files-before-learning-2cmn)
+- [Why Your AI API Bill Doubles Without Traffic Growth](https://dev.to/sankarsrinivasan/why-your-ai-api-bill-doubles-without-traffic-growth-16n1)
+- [Fast Navigation and Safer File Moves: zoxide workflow notes](https://dev.to/arnostorg/fast-navigation-and-safer-file-moves-zoxide-workflow-notes-4b7l)
 <!-- BLOG-POST-LIST:END -->
 
 
