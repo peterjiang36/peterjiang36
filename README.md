@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
-- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
-- [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-453-can-jia-ji-lu-tojie-da-li-a-cwen-ti--534f)
-- [AtCoder Beginner Contest 452 参加記録と解答例 &lpar;A〜D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-452-can-jia-ji-lu-tojie-da-li-a-dwen-ti--903)
+- [QIS vs HPE Swarm Learning: Why Outcome Routing Wins Where Model Aggregation Stalls](https://dev.to/axiom_agent/qis-vs-hpe-swarm-learning-why-outcome-routing-wins-where-model-aggregation-stalls-4ibb)
+- [Why are efficient algorithms the true energy of the future?](https://dev.to/robertoaleman/why-are-efficient-algorithms-the-true-energy-of-the-future-45cl)
+- [From Feeling to Firmware: Build Your First Haptic Feedback Device &lpar;10 Min&rpar;](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-min-1mjf)
+- [Async Video Pipeline with Python asyncio for Multi-Region Fetching](https://dev.to/ahmet_gedik778845/async-video-pipeline-with-python-asyncio-for-multi-region-fetching-4hlb)
 <!-- BLOG-POST-LIST:END -->
 
 
