@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Railway Reliable for Customer-Facing APIs in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-customer-facing-apis-in-2026-ff3)
-- [Stop Leaving Your Servers Open: Hardening Linux in 5 Minutes with Ansible](https://dev.to/muhammadkamrankabeeross/stop-leaving-your-servers-open-hardening-linux-in-5-minutes-with-ansible-46a2)
-- [Cron Jobs Are Older Than the Internet — And They Still Run Half Your Stack.](https://dev.to/vasughanta09/cron-jobs-are-older-than-the-internet-and-they-still-run-half-your-stack-2fa0)
-- [How I Built an AI Birthday Photo Generator with Cloudflare Workers, Gemini 2.5 Flash, and FLUX.2 Pro](https://dev.to/wb_7ff5e372a07dea755a347/how-i-built-an-ai-birthday-photo-generator-with-cloudflare-workers-gemini-25-flash-and-flux2-pro-40pm)
+- [Understanding Join Strategies in PySpark &lpar;With Real-World Insights&rpar;](https://dev.to/rasminbhalla/understanding-join-strategies-in-pyspark-with-real-world-insights-1n05)
+- [Stop Your React App From Shifting: A Deep Dive into useCLS from @page-speed/hooks](https://dev.to/opensite/stop-your-react-app-from-shifting-a-deep-dive-into-usecls-from-page-speedhooks-1e9f)
+- [The Meta-Harness Convergence](https://dev.to/rotiferdev/the-meta-harness-convergence-1l6h)
+- [Why Do SSL/TLS Certificate Lifetimes Keep Getting Shorter? — Everything You Need to Know for the 47-Day Era](https://dev.to/kanywst/why-do-ssltls-certificate-lifetimes-keep-getting-shorter-everything-you-need-to-know-for-the-2log)
 <!-- BLOG-POST-LIST:END -->
 
 
