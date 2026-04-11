@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I wanted to build an Agent Memory System and blundered my way into 92% on LongMemEval](https://dev.to/shane-farkas/i-wanted-to-build-an-agent-memory-system-and-blundered-my-way-into-92-on-longmemeval-3b27)
-- [Deploy Node.js &amp; Express Application Using CI/CD &lpar;GitHub Actions + Docker&rpar;](https://dev.to/omkarsharma2821/deploy-nodejs-express-application-using-cicd-github-actions-docker-1fag)
-- [Stop Building AI Agents from Scratch: A Guide to the Best Frameworks in 2026](https://dev.to/davidtechanalyst/stop-building-ai-agents-from-scratch-a-guide-to-the-best-frameworks-in-2026published-206)
-- [How to Build a Waitlist Page for Your Startup in 2026](https://dev.to/allenarduino/how-to-build-a-waitlist-page-for-your-startup-in-2026-21ag)
+- [Quark&#39;s Outlines: Python Expressions](https://dev.to/mike-vincent/quarks-outlines-python-expressions-51ai)
+- [Drizzle ORM Is What Prisma Should Have Been](https://dev.to/whoffagents/drizzle-orm-is-what-prisma-should-have-been-a9j)
+- [Claude Code Hooks: The Automation Layer Nobody Knows About](https://dev.to/whoffagents/claude-code-hooks-the-automation-layer-nobody-knows-about-3po0)
+- [UCP v2026-04-08 Spec Update](https://dev.to/benjifisher/ucp-v2026-04-08-spec-update-39l2)
 <!-- BLOG-POST-LIST:END -->
 
 
