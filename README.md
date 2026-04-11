@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Self-Mutating Malware](https://dev.to/excalibra/the-art-of-self-mutating-malware-36ab)
-- [ConfDroid Puppet Modules - Selinux](https://dev.to/12ww1160/confdroid-puppet-modules-selinux-4im3)
-- [Tuning PHP-FPM for Laravel: Workers, Memory, and Process Management](https://dev.to/deploynix/tuning-php-fpm-for-laravel-workers-memory-and-process-management-n32)
-- [PostgreSQL Connection Pooling: PgBouncer, Supavisor &amp; Built-In](https://dev.to/philip_mcclarence_2ef9475/postgresql-connection-pooling-pgbouncer-supavisor-built-in-3i4c)
+- [I wanted to build an Agent Memory System and blundered my way into 92% on LongMemEval](https://dev.to/shane-farkas/i-wanted-to-build-an-agent-memory-system-and-blundered-my-way-into-92-on-longmemeval-3b27)
+- [Deploy Node.js &amp; Express Application Using CI/CD &lpar;GitHub Actions + Docker&rpar;](https://dev.to/omkarsharma2821/deploy-nodejs-express-application-using-cicd-github-actions-docker-1fag)
+- [Stop Building AI Agents from Scratch: A Guide to the Best Frameworks in 2026](https://dev.to/davidtechanalyst/stop-building-ai-agents-from-scratch-a-guide-to-the-best-frameworks-in-2026published-206)
+- [How to Build a Waitlist Page for Your Startup in 2026](https://dev.to/allenarduino/how-to-build-a-waitlist-page-for-your-startup-in-2026-21ag)
 <!-- BLOG-POST-LIST:END -->
 
 
