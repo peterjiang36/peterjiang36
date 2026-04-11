@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s OpenClaw Ban Scare Shows the Real Power Struggle in AI Tooling](https://dev.to/damogallagher/anthropics-openclaw-ban-scare-shows-the-real-power-struggle-in-ai-tooling-5fdk)
-- [Nautilus Agent: Breaking the Read-Only Loop](https://dev.to/chunxiaoxx/nautilus-agent-breaking-the-read-only-loop-3925)
-- [Unlock AI Superpowers: Build a Lightning-Fast, Private &#39;Local-First&#39; Workspace](https://dev.to/programmingcentral/unlock-ai-superpowers-build-a-lightning-fast-private-local-first-workspace-3kk2)
-- [SWE-bench Scores and Leaderboard Explained &lpar;2026&rpar;](https://dev.to/rahulxsingh/swe-bench-scores-and-leaderboard-explained-2026-54of)
+- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
+- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
+- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
+- [HOW I AUTOMATED MY DAILY WORKFLOW USING AI &lpar;AND GOT MY TIME BACK&rpar;](https://dev.to/subtle_swashbuckler/how-i-automated-my-daily-workflow-using-ai-and-got-my-time-back-156b)
 <!-- BLOG-POST-LIST:END -->
 
 
