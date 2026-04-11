@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CNNs Explained: How Image Classification Actually Works in Deep Learning](https://dev.to/zeromathai/cnns-explained-how-image-classification-actually-works-in-deep-learning-2mbp)
-- [Révolutionner la logistique et recyclage automobile : Stack Tech derrière InterCar](https://dev.to/intercar/revolutionner-lassistance-auto-et-leconomie-circulaire-le-stack-tech-derriere-intercar-43c1)
-- [WHAT IS FTP,TCP](https://dev.to/mohandassmani/what-is-ftptcp-567i)
-- [Your AI Agent Just Did Something. Can You Prove What It Was?](https://dev.to/slucerodev/your-ai-agent-just-did-something-can-you-prove-what-it-was-1gdc)
+- [I Built an AI Code Reviewer That Uses Any LLM to Review Claude Code Output — Zero Dependencies, 7 Commands, Infinite Engines](https://dev.to/srinvias_mudavath/i-built-an-ai-code-reviewer-that-uses-any-llm-to-review-claude-code-output-zero-dependencies-7-27h9)
+- [Building a Local AI Assistant on Linux — Recent Progress on Echo](https://dev.to/crow/building-a-local-ai-assistant-on-linux-recent-progress-on-echo-184l)
+- [FlutterとSupabaseでNotion風ノートコメント機能を実装した話](https://dev.to/kanta13jp1/fluttertosupabasedenotionfeng-notokomentoji-neng-woshi-zhuang-sitahua-352a)
+- [I Rewrote My Portfolio From Scratch — Here&#39;s What Actually Changed &lpar;And Why&rpar;](https://dev.to/j471n/i-rewrote-my-portfolio-from-scratch-heres-what-actually-changed-and-why-1m0g)
 <!-- BLOG-POST-LIST:END -->
 
 
