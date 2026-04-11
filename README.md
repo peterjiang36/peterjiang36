@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Archon Hits #1 on GitHub: A Teardown of &quot;AI Harnesses&quot; vs &quot;Cognitive Operating Systems&quot;](https://dev.to/manikse/archon-hits-1-on-github-a-teardown-of-ai-harnesses-vs-cognitive-operating-systems-4mnf)
-- [I&#39;m tearing my hair when I&#39;m thinking of how I&#39;ve been navigating between files before learning this supper tool](https://dev.to/arnostorg/im-tearing-my-hair-when-im-thinking-of-how-ive-been-navigating-between-files-before-learning-2cmn)
-- [Why Your AI API Bill Doubles Without Traffic Growth](https://dev.to/sankarsrinivasan/why-your-ai-api-bill-doubles-without-traffic-growth-16n1)
-- [Fast Navigation and Safer File Moves: zoxide workflow notes](https://dev.to/arnostorg/fast-navigation-and-safer-file-moves-zoxide-workflow-notes-4b7l)
+- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
+- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
+- [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-453-can-jia-ji-lu-tojie-da-li-a-cwen-ti--534f)
+- [AtCoder Beginner Contest 452 参加記録と解答例 &lpar;A〜D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-452-can-jia-ji-lu-tojie-da-li-a-dwen-ti--903)
 <!-- BLOG-POST-LIST:END -->
 
 
