@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Token Swaps to a Telegram Bot](https://dev.to/moonsoon69/how-to-add-token-swaps-to-a-telegram-bot-40o4)
-- [I&#39;ve built this an app to learn Bash for free in browser](https://dev.to/arnostorg/ive-built-this-an-app-to-learn-bash-for-free-in-browser-2n2a)
-- [How I Mastered Bash by Building My Own Interactive Course 🚀](https://dev.to/arnostorg/how-i-mastered-bash-by-building-my-own-interactive-course-d80)
-- [From 2 Hours of Research to a Script in 10 Minutes: Building a Custom OpenClaw Skill for a Content Creator](https://dev.to/benutting/from-2-hours-of-research-to-a-script-in-10-minutes-building-a-custom-openclaw-skill-for-a-content-25p8)
+- [The Dark Forest Needs an Immune System](https://dev.to/jonnonz/the-dark-forest-needs-an-immune-system-49co)
+- [How We Built an Automated Meeting Intelligence System with Google Meet, Slack, and RAG](https://dev.to/ryosuke_tsuji_f08e20fdca1/how-we-built-an-automated-meeting-intelligence-system-with-google-meet-slack-and-rag-42ln)
+- [3 layer of design token matter](https://dev.to/harsh_dev_01/3-layer-of-design-token-matter-44f6)
+- [Two Ends of the Token Budget: Caveman and Tool Search](https://dev.to/oldeucryptoboi/two-ends-of-the-token-budget-caveman-and-tool-search-3k8b)
 <!-- BLOG-POST-LIST:END -->
 
 
