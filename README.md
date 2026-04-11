@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Expressions](https://dev.to/mike-vincent/quarks-outlines-python-expressions-51ai)
-- [Drizzle ORM Is What Prisma Should Have Been](https://dev.to/whoffagents/drizzle-orm-is-what-prisma-should-have-been-a9j)
-- [Claude Code Hooks: The Automation Layer Nobody Knows About](https://dev.to/whoffagents/claude-code-hooks-the-automation-layer-nobody-knows-about-3po0)
-- [UCP v2026-04-08 Spec Update](https://dev.to/benjifisher/ucp-v2026-04-08-spec-update-39l2)
+- [Building a browser sound game with Web Audio &lpar;why “listen first” beat live tweaking&rpar;](https://dev.to/sam_lee_880a38a45a170858b/building-a-browser-sound-game-with-web-audio-why-listen-first-beat-live-tweaking-ofj)
+- [From Discovery to Cleanup in One Session: Bash workflow notes](https://dev.to/arnostorg/from-discovery-to-cleanup-in-one-session-bash-workflow-notes-655)
+- [I Couldn’t Afford Earth, So I Built Something Better](https://dev.to/konark_13/i-couldnt-afford-earth-so-i-built-something-better-1506)
+- [Do Not Press -- an extremely important button that you should not press](https://dev.to/sarveshofficial/do-not-press-an-extremely-important-button-that-you-should-not-press-1hj2)
 <!-- BLOG-POST-LIST:END -->
 
 
