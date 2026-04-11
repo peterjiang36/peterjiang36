@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
-- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
-- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
-- [HOW I AUTOMATED MY DAILY WORKFLOW USING AI &lpar;AND GOT MY TIME BACK&rpar;](https://dev.to/subtle_swashbuckler/how-i-automated-my-daily-workflow-using-ai-and-got-my-time-back-156b)
+- [[Rust Guide] 8.1. Vector](https://dev.to/someb1oody/rust-guide-81-vector-2b5o)
+- [The International Career Layer: What Cross-Border Communities Actually Change](https://dev.to/d3one/the-international-career-layer-what-cross-border-communities-actually-change-4k10)
+- [I just hardened my OSS release pipeline to 11 layers of security — here&#39;s the playbook](https://dev.to/achiya-automation/i-just-hardened-my-oss-release-pipeline-to-11-layers-of-security-heres-the-playbook-4267)
+- [Why 60 seconds beats a perfect message: an automation latency study](https://dev.to/achiya-automation/why-60-seconds-beats-a-perfect-message-an-automation-latency-study-3gde)
 <!-- BLOG-POST-LIST:END -->
 
 
