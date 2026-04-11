@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantified Self 2.0: Build a High-Performance Health Data Lake with DuckDB, Airflow, and Grafana](https://dev.to/beck_moulton/quantified-self-20-build-a-high-performance-health-data-lake-with-duckdb-airflow-and-grafana-2aeo)
-- [OCP v3.5.0: Zero-Config LAN Sharing — Your Family Can Use Claude in 30 Seconds](https://dev.to/dtzp555max/ocp-v350-zero-config-lan-sharing-your-family-can-use-claude-in-30-seconds-2fcc)
-- [Hello, Dev.to Community! 👋 I&#39;m Thabang, a Full-Stack Developer from South Africa](https://dev.to/gideon877/hello-devto-community-im-thabang-a-full-stack-developer-from-south-africa-1bog)
-- [🚫 Stop Writing Old JavaScript — ✅ Start Using Modern Built-in APIs &lpar;Part 2&rpar;](https://dev.to/nagendrababun/stop-writing-old-javascript-start-using-modern-built-in-apis-part-2-2729)
+- [Why Chunking Is the Biggest Mistake in RAG Systems](https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm)
+- [Finding meaning in text, an experiment in document clustering](https://dev.to/sidharth/finding-meaning-in-text-an-experiment-in-document-clustering-2fme)
+- [We Built an Open-Source Coding Exam Platform Because Every Vendor Let Us Down](https://dev.to/mickyarun/we-built-an-open-source-coding-exam-platform-because-every-vendor-let-us-down-a7m)
+- [Vibe Coding Isn&#39;t Dead. You Just Need More Than Vibes.](https://dev.to/matt_glein/vibe-coding-isnt-dead-you-just-need-more-than-vibes-3n65)
 <!-- BLOG-POST-LIST:END -->
 
 
