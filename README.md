@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Rust Guide] 8.1. Vector](https://dev.to/someb1oody/rust-guide-81-vector-2b5o)
-- [The International Career Layer: What Cross-Border Communities Actually Change](https://dev.to/d3one/the-international-career-layer-what-cross-border-communities-actually-change-4k10)
-- [I just hardened my OSS release pipeline to 11 layers of security — here&#39;s the playbook](https://dev.to/achiya-automation/i-just-hardened-my-oss-release-pipeline-to-11-layers-of-security-heres-the-playbook-4267)
-- [Why 60 seconds beats a perfect message: an automation latency study](https://dev.to/achiya-automation/why-60-seconds-beats-a-perfect-message-an-automation-latency-study-3gde)
+- [MCP vs CLI for Browser Automation: I Benchmarked Both and the Results Surprised Me](https://dev.to/achiya-automation/mcp-vs-cli-for-browser-automation-i-benchmarked-both-and-the-results-surprised-me-4cog)
+- [Voice Agent Project](https://dev.to/aaditya_kapruwan/voice-agent-project-46ka)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-37g2)
+- [𝘚𝘋𝘋 𝘷𝘪𝘯𝘰 𝘢 𝘤𝘢𝘮𝘣𝘪𝘢𝘳 𝘯𝘶𝘦𝘴𝘵𝘳𝘰 𝘧𝘭𝘶𝘫𝘰 𝘥𝘦 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 🤯](https://dev.to/cecygeraldo/-235a)
 <!-- BLOG-POST-LIST:END -->
 
 
