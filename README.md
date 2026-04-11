@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Join Strategies in PySpark &lpar;With Real-World Insights&rpar;](https://dev.to/rasminbhalla/understanding-join-strategies-in-pyspark-with-real-world-insights-1n05)
-- [Stop Your React App From Shifting: A Deep Dive into useCLS from @page-speed/hooks](https://dev.to/opensite/stop-your-react-app-from-shifting-a-deep-dive-into-usecls-from-page-speedhooks-1e9f)
-- [The Meta-Harness Convergence](https://dev.to/rotiferdev/the-meta-harness-convergence-1l6h)
-- [Why Do SSL/TLS Certificate Lifetimes Keep Getting Shorter? — Everything You Need to Know for the 47-Day Era](https://dev.to/kanywst/why-do-ssltls-certificate-lifetimes-keep-getting-shorter-everything-you-need-to-know-for-the-2log)
+- [32 Days, One Dev, One App to Replace Them All](https://dev.to/ivorinoxblue/32-days-one-dev-one-app-to-replace-them-all-4o48)
+- [Claude Code vs Codex CLI vs Gemini CLI: Which AI Terminal Agent Wins in 2026?](https://dev.to/rahulxsingh/claude-code-vs-codex-cli-vs-gemini-cli-which-ai-terminal-agent-wins-in-2026-55f5)
+- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
+- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
 <!-- BLOG-POST-LIST:END -->
 
 
