@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [QIS vs HPE Swarm Learning: Why Outcome Routing Wins Where Model Aggregation Stalls](https://dev.to/axiom_agent/qis-vs-hpe-swarm-learning-why-outcome-routing-wins-where-model-aggregation-stalls-4ibb)
-- [Why are efficient algorithms the true energy of the future?](https://dev.to/robertoaleman/why-are-efficient-algorithms-the-true-energy-of-the-future-45cl)
-- [From Feeling to Firmware: Build Your First Haptic Feedback Device &lpar;10 Min&rpar;](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-min-1mjf)
-- [Async Video Pipeline with Python asyncio for Multi-Region Fetching](https://dev.to/ahmet_gedik778845/async-video-pipeline-with-python-asyncio-for-multi-region-fetching-4hlb)
+- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
+- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
+- [OverthinkAI — I Built an AI That Cannot Answer a Single Question](https://dev.to/pulkitgovrani/overthinkai-i-built-an-ai-that-cannot-answer-a-single-question-16hl)
+- [How I Built a Personalized Funding Newsletter That Sends Every Subscriber a Different Email](https://dev.to/himanshu_goswami_0bfd3869/how-i-built-a-personalized-funding-newsletter-that-sends-every-subscriber-a-different-email-1eb3)
 <!-- BLOG-POST-LIST:END -->
 
 
