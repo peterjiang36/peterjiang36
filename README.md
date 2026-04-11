@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Code Reviewer That Uses Any LLM to Review Claude Code Output — Zero Dependencies, 7 Commands, Infinite Engines](https://dev.to/srinvias_mudavath/i-built-an-ai-code-reviewer-that-uses-any-llm-to-review-claude-code-output-zero-dependencies-7-27h9)
-- [Building a Local AI Assistant on Linux — Recent Progress on Echo](https://dev.to/crow/building-a-local-ai-assistant-on-linux-recent-progress-on-echo-184l)
-- [FlutterとSupabaseでNotion風ノートコメント機能を実装した話](https://dev.to/kanta13jp1/fluttertosupabasedenotionfeng-notokomentoji-neng-woshi-zhuang-sitahua-352a)
-- [I Rewrote My Portfolio From Scratch — Here&#39;s What Actually Changed &lpar;And Why&rpar;](https://dev.to/j471n/i-rewrote-my-portfolio-from-scratch-heres-what-actually-changed-and-why-1m0g)
+- [Anthropic&#39;s OpenClaw Ban Scare Shows the Real Power Struggle in AI Tooling](https://dev.to/damogallagher/anthropics-openclaw-ban-scare-shows-the-real-power-struggle-in-ai-tooling-5fdk)
+- [Nautilus Agent: Breaking the Read-Only Loop](https://dev.to/chunxiaoxx/nautilus-agent-breaking-the-read-only-loop-3925)
+- [Unlock AI Superpowers: Build a Lightning-Fast, Private &#39;Local-First&#39; Workspace](https://dev.to/programmingcentral/unlock-ai-superpowers-build-a-lightning-fast-private-local-first-workspace-3kk2)
+- [SWE-bench Scores and Leaderboard Explained &lpar;2026&rpar;](https://dev.to/rahulxsingh/swe-bench-scores-and-leaderboard-explained-2026-54of)
 <!-- BLOG-POST-LIST:END -->
 
 
