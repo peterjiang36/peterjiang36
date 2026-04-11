@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
-- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
-- [OverthinkAI — I Built an AI That Cannot Answer a Single Question](https://dev.to/pulkitgovrani/overthinkai-i-built-an-ai-that-cannot-answer-a-single-question-16hl)
-- [How I Built a Personalized Funding Newsletter That Sends Every Subscriber a Different Email](https://dev.to/himanshu_goswami_0bfd3869/how-i-built-a-personalized-funding-newsletter-that-sends-every-subscriber-a-different-email-1eb3)
+- [CNNs Explained: How Image Classification Actually Works in Deep Learning](https://dev.to/zeromathai/cnns-explained-how-image-classification-actually-works-in-deep-learning-2mbp)
+- [Révolutionner la logistique et recyclage automobile : Stack Tech derrière InterCar](https://dev.to/intercar/revolutionner-lassistance-auto-et-leconomie-circulaire-le-stack-tech-derriere-intercar-43c1)
+- [WHAT IS FTP,TCP](https://dev.to/mohandassmani/what-is-ftptcp-567i)
+- [Your AI Agent Just Did Something. Can You Prove What It Was?](https://dev.to/slucerodev/your-ai-agent-just-did-something-can-you-prove-what-it-was-1gdc)
 <!-- BLOG-POST-LIST:END -->
 
 
