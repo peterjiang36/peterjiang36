@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS3 ile Web Sayfalarında Fonksiyonel Düğme Tasarımını Geliştirme](https://dev.to/forumweb/css3-ile-web-sayfalarinda-fonksiyonel-dugme-tasarimini-gelistirme-3jpj)
-- [Building an MCP Server with Common Lisp](https://dev.to/veer66/building-an-mcp-server-with-common-lisp-3lem)
-- [Why Your pip Install Output Doesn&#39;t Belong in Claude&#39;s Context](https://dev.to/ji_ai/why-your-pip-install-output-doesnt-belong-in-claudes-context-2f5p)
-- [I Logged Every Decision My AI Agent Made for a Week. Here&#39;s What I Learned.](https://dev.to/hjs-foundation/i-logged-every-decision-my-ai-agent-made-for-a-week-heres-what-i-learned-2cp5)
+- [Is Railway Reliable for Customer-Facing APIs in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-customer-facing-apis-in-2026-ff3)
+- [Stop Leaving Your Servers Open: Hardening Linux in 5 Minutes with Ansible](https://dev.to/muhammadkamrankabeeross/stop-leaving-your-servers-open-hardening-linux-in-5-minutes-with-ansible-46a2)
+- [Cron Jobs Are Older Than the Internet — And They Still Run Half Your Stack.](https://dev.to/vasughanta09/cron-jobs-are-older-than-the-internet-and-they-still-run-half-your-stack-2fa0)
+- [How I Built an AI Birthday Photo Generator with Cloudflare Workers, Gemini 2.5 Flash, and FLUX.2 Pro](https://dev.to/wb_7ff5e372a07dea755a347/how-i-built-an-ai-birthday-photo-generator-with-cloudflare-workers-gemini-25-flash-and-flux2-pro-40pm)
 <!-- BLOG-POST-LIST:END -->
 
 
