@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The YC President Endorsed an AI Memory System With Fake Benchmarks. He Also Shipped His Own. We Read the Code.](https://dev.to/penfieldlabs/the-yc-president-endorsed-an-ai-memory-system-with-fake-benchmarks-then-he-shipped-his-own-we-4c9l)
-- [I Built a GPS Tracker Without a SIM Card - Here&#39;s How](https://dev.to/david_thomas/i-built-a-gps-tracker-without-a-sim-card-heres-how-434i)
-- [Integrated Live Log Viewer Widget for Egui/Eframe Apps in WebAssembly Environments.](https://dev.to/serbyte/integrated-live-log-viewer-widget-for-eguieframe-apps-in-webassembly-environments-5g64)
-- [Jestronaut: Explore Your Jest Tests Like Never Before](https://dev.to/realdeepnandi/jestronaut-explore-your-jest-tests-like-never-before-4kc2)
+- [How to Add Token Swaps to a Telegram Bot](https://dev.to/moonsoon69/how-to-add-token-swaps-to-a-telegram-bot-40o4)
+- [I&#39;ve built this an app to learn Bash for free in browser](https://dev.to/arnostorg/ive-built-this-an-app-to-learn-bash-for-free-in-browser-2n2a)
+- [How I Mastered Bash by Building My Own Interactive Course 🚀](https://dev.to/arnostorg/how-i-mastered-bash-by-building-my-own-interactive-course-d80)
+- [From 2 Hours of Research to a Script in 10 Minutes: Building a Custom OpenClaw Skill for a Content Creator](https://dev.to/benutting/from-2-hours-of-research-to-a-script-in-10-minutes-building-a-custom-openclaw-skill-for-a-content-25p8)
 <!-- BLOG-POST-LIST:END -->
 
 
