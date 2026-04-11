@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Job Search Agent: How I’d Add Dedalus to My GTM Job Intelligence Platform](https://dev.to/satvik_panchal_893bb879ef/the-job-search-agent-how-id-add-dedalus-to-my-gtm-job-intelligence-platform-34hb)
-- [Aethir Adapter Exploit. 500k. Complete Operational security Mess.](https://dev.to/jerry_ns/aethir-adapter-exploit-500k-complete-operational-security-mess-4lng)
-- [Why Your Unity WebGL Multiplayer Breaks on Some Networks](https://dev.to/magithar/why-your-unity-webgl-multiplayer-breaks-on-some-networks-1462)
-- [My Study Guide for the Microsoft Certified SQL AI Developer Associate Beta Exam](https://dev.to/rengond/my-study-guide-for-the-microsoft-certified-sql-ai-developer-associate-beta-exam-447o)
+- [Quantified Self 2.0: Build a High-Performance Health Data Lake with DuckDB, Airflow, and Grafana](https://dev.to/beck_moulton/quantified-self-20-build-a-high-performance-health-data-lake-with-duckdb-airflow-and-grafana-2aeo)
+- [OCP v3.5.0: Zero-Config LAN Sharing — Your Family Can Use Claude in 30 Seconds](https://dev.to/dtzp555max/ocp-v350-zero-config-lan-sharing-your-family-can-use-claude-in-30-seconds-2fcc)
+- [Hello, Dev.to Community! 👋 I&#39;m Thabang, a Full-Stack Developer from South Africa](https://dev.to/gideon877/hello-devto-community-im-thabang-a-full-stack-developer-from-south-africa-1bog)
+- [🚫 Stop Writing Old JavaScript — ✅ Start Using Modern Built-in APIs &lpar;Part 2&rpar;](https://dev.to/nagendrababun/stop-writing-old-javascript-start-using-modern-built-in-apis-part-2-2729)
 <!-- BLOG-POST-LIST:END -->
 
 
