@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Audio Ai agent Pipeline](https://dev.to/siddshett/audio-ai-agent-pipeline-49go)
-- [I Got Tired of Hardcoding Fake Data. So I Built a Mock API That Generates It Automatically.](https://dev.to/tuan_nhatnguyen_7e928cbf/i-got-tired-of-hardcoding-fake-data-so-i-built-a-mock-api-that-generates-it-automatically-b6o)
-- [I built an MCP server that tells Claude when ChatGPT is down &lpar;and how much it costs&rpar;](https://dev.to/imvikyctrl/i-built-an-mcp-server-that-tells-claude-when-chatgpt-is-down-and-how-much-it-costs-4dcf)
-- [Lagrange interpolation: turning points into a polynomial](https://dev.to/0xluk3/lagrange-interpolation-turning-points-into-a-polynomial-l5l)
+- [I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#39;s the Open-Source Scanner I Built](https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2am8)
+- [Building a Pixel-Art AI Interrogation Game with Rust, Tauri, and Memvid](https://dev.to/harishkotra/building-a-pixel-art-ai-interrogation-game-with-rust-tauri-and-memvid-d74)
+- [Excel Crashed on Row 47,000 and I Lost 3 Hours of Work](https://dev.to/robertatkinson3570/excel-crashed-on-row-47000-and-i-lost-3-hours-of-work-3jgc)
+- [Is an AI Model Technically Defined as Software?](https://dev.to/tekk74/is-an-ai-model-technically-defined-as-software-3506)
 <!-- BLOG-POST-LIST:END -->
 
 
