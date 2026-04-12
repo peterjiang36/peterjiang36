@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vane &lpar;Perplexica 2.0&rpar; Quickstart With Ollama and llama.cpp](https://dev.to/rosgluk/vane-perplexica-20-quickstart-with-ollama-and-llamacpp-132o)
-- [Streamlining Browser Extension Development: Overcoming Repetitive Tasks and State Management Complexities](https://dev.to/pavkode/streamlining-browser-extension-development-overcoming-repetitive-tasks-and-state-management-5ef6)
-- [This Website Actively Hates You 😈 | Anti-UX Experiment + 418 Teapot Chaos](https://dev.to/kushan_prasad_3c6b8f0a473/this-website-actively-hates-you-anti-ux-experiment-418-teapot-chaos-obl)
-- [From Zero to Hero](https://dev.to/rodrigocnascimento/from-zero-to-hero-1oed)
+- [I Built an AI That Answers Every Question With HTTP 418 — RFC 2324 Compliant](https://dev.to/aggrey_paintsil_51e08385d/i-built-an-ai-that-answers-every-question-with-http-418-rfc-2324-compliant-248f)
+- [The Button That Ends Your Sanity 💀 &lpar;You Can’t Click It&rpar;](https://dev.to/asmritb_25/the-button-that-ends-your-sanity-you-cant-click-it-4530)
+- [Flutter Interview Questions Part 14: Flutter 3.x Latest Features &amp; Rapid Fire](https://dev.to/anurag_dev/flutter-interview-questions-part-14-flutter-3x-latest-features-rapid-fire-413o)
+- [Re-evaluating the ROI of GLM-5.1 Pro After a Massive Price Hike to $680](https://dev.to/charmpic/re-evaluating-the-roi-of-glm-51-pro-after-a-massive-price-hike-to-680-i2d)
 <!-- BLOG-POST-LIST:END -->
 
 
