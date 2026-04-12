@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ultimate Harness Automation &lpar;OMG: Oh-My-GithubCopilot, v. 1.1.6&rpar; released for Github Copilot](https://dev.to/mincodingopenclaw_56ab0/ultimate-harness-automation-omg-oh-my-githubcopilot-v-116-released-for-github-copilot-22ii)
-- [How to Use AI to Automate Business Processes: A Practical Guide with Examples](https://dev.to/loseinwworld/how-to-use-ai-to-automate-business-processes-a-practical-guide-with-examples-9f0)
-- [Stop Choosing Between Speed and LoRAs: Meet ComfyUI-TensorRT-Reforge 🚀](https://dev.to/zaochuan5854/stop-choosing-between-speed-and-loras-meet-comfyui-tensorrt-reforge-59bc)
-- [Designing a Scalable Recovery Service for Distributed Systems](https://dev.to/jobinesh/designing-a-scalable-recovery-service-for-distributed-systems-1oio)
+- [👋 Hello DEV Community — Full-Stack Developer Here!](https://dev.to/md_saieemmia_358390009b5/hello-dev-community-full-stack-developer-here-2l5g)
+- [Pricing with Precision: How AI Automates Your Handyman Quotes](https://dev.to/ken_deng_ai/pricing-with-precision-how-ai-automates-your-handyman-quotes-41bn)
+- [Building a simple async scheduler with generators in Python](https://dev.to/odmikes/building-a-simple-async-scheduler-with-generators-in-python-543e)
+- [M||D||JS = MorDorJS](https://dev.to/pengeszikra/mdjs-mordorjs-1mon)
 <!-- BLOG-POST-LIST:END -->
 
 
