@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Newly Discovered Skills This Week — 2026-04-12](https://dev.to/_0ae5dca97e251657f73267/newly-discovered-skills-this-week-2026-04-12-4op6)
-- [Skill Category Distribution — 2026-04-12](https://dev.to/_0ae5dca97e251657f73267/skill-category-distribution-2026-04-12-2b7k)
-- [Health Checks in ASP.NET Core: Beyond the Basic /health Endpoint](https://dev.to/adrianbailador/health-checks-in-aspnet-core-beyond-the-basic-health-endpoint-2bpn)
-- [This could have all been avoided with just a single line. Back to basics fellas.](https://dev.to/femiznet/this-could-have-all-been-avoided-with-just-a-single-line-back-to-basics-fellas-1n3j)
+- [[Boost]](https://dev.to/matheusgondra/-4ji7)
+- [LLM Wiki Skill: Build a Second Brain With Claude Code and Obsidian](https://dev.to/alireza_rezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2ljg)
+- [A Practical Guide to nylas timezone info](https://dev.to/qasim157/a-practical-guide-to-nylas-timezone-info-27h4)
+- [nylas air — What It Does and How to Use It](https://dev.to/qasim157/nylas-air-what-it-does-and-how-to-use-it-11g4)
 <!-- BLOG-POST-LIST:END -->
 
 
