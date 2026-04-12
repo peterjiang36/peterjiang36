@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ERP y CRM](https://dev.to/michaoortizz/erp-y-crm-30gb)
-- [I Built 2 Chrome Extensions for ADHD Users &amp; Trust — Shipped to the Chrome Web Store](https://dev.to/imatulsrivas/i-built-2-chrome-extensions-for-adhd-users-trust-shipped-to-the-chrome-web-store-522b)
-- [Surviving Viral Growth: Graceful AI Degradation on AWS](https://dev.to/dhananjay_lakkawar/surviving-viral-growth-graceful-ai-degradation-on-aws-21fg)
-- [A Beginner’s Guide to DDL and DML in SQL](https://dev.to/keim/a-beginners-guide-to-ddl-and-dml-in-sql-5a43)
+- [Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think](https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j)
+- [Dockerized robotics development should be easy!](https://dev.to/pswaroopa/dockerized-robotics-development-should-be-easy-2phf)
+- [&quot;Backend Engineering for an AI Platform: The Infrastructure Decisions Nobody Talks About&quot;](https://dev.to/raghav_bansal_1e5718bd640/backend-engineering-for-an-ai-platform-the-infrastructure-decisions-nobody-talks-about-5gil)
+- [Building a Software KVM in Rust: Why I Ditched Synergy and Rolled My Own](https://dev.to/cursorhop/building-a-software-kvm-in-rust-why-i-ditched-synergy-and-rolled-my-own-3dc5)
 <!-- BLOG-POST-LIST:END -->
 
 
