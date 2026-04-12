@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Specification-First Agentic Development: A Methodology for Structured, Traceable AI-Assisted Development](https://dev.to/holgerleichsenring/specification-first-agentic-development-a-methodology-for-structured-traceable-ai-assisted-la)
-- [How I Passed the AWS Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/ayaanahmad/how-i-passed-the-aws-cloud-practitioner-clf-c02-3dmn)
-- [&quot;Talk to Your Terminal: Building a Voice AI Agent in Python&quot;](https://dev.to/preethii_v_192006/talk-to-your-terminal-building-a-voice-ai-agent-in-python-51bm)
-- [Designing GenAI Infrastructure: How to Scale Video Generation](https://dev.to/karan_kumar_f09865ff0efe9/designing-genai-infrastructure-how-to-scale-video-generation-21bh)
+- [Lightweight &amp; Blazing Fast HTTP Client for Windows: Meet Artemis &lpar;Open Source Alternative to Postman&rpar;](https://dev.to/vinodh_kumarbakthavachal/lightweight-blazing-fast-http-client-for-windows-meet-artemis-open-source-alternative-to-5809)
+- [I cut 40% of my NgRx Signal Store boilerplate — here&#39;s the 5 utilities I extracted](https://dev.to/harsh_m04/i-cut-40-of-my-ngrx-signal-store-boilerplate-heres-the-5-utilities-i-extracted-52mn)
+- [The Vercel Bill Conversation Every Startup Avoids &lpar;Until It&#39;s Too Late&rpar;](https://dev.to/adioof/the-vercel-bill-conversation-every-startup-avoids-until-its-too-late-5bj6)
+- [The Art of API Design: Principles I Learned Building APIs That Handle 50,000+ Daily Requests](https://dev.to/oluwatosinolamilekan/the-art-of-api-design-principles-i-learned-building-apis-that-handle-50000-daily-requests-157h)
 <!-- BLOG-POST-LIST:END -->
 
 
