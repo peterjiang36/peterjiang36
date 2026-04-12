@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro Port: 3.17 kB Gzip, 94% vs React, New Series Record — Because the Framework Runtime Is Literally Zero](https://dev.to/sendotltd/astro-port-317-kb-gzip-94-vs-react-new-series-record-because-the-framework-runtime-is-5f09)
-- [How I Built a Self-Hosted Minecraft Server on AWS in One Day — With a Discord Bot, Auto-Security, and Almost Zero Cost](https://dev.to/birajcoder/how-i-built-a-self-hosted-minecraft-server-on-aws-in-one-day-with-a-discord-bot-auto-security-181c)
-- [How to Choose a Motherboard: What Actually Matters vs What Does Not](https://dev.to/lorikeesmart/how-to-choose-a-motherboard-what-actually-matters-vs-what-does-not-aji)
-- [I Built a Tool That Reads My GCB Bank Statement and Tells Me Where My Money Goes](https://dev.to/aimlin9/i-built-a-tool-that-reads-my-gcb-bank-statement-and-tells-me-where-my-money-goes-2nc4)
+- [Transcript: Sen. Mark Warner on &quot;Face the Nation with Margaret Brennan&quot;](https://dev.to/chx382/transcript-sen-mark-warner-on-face-the-nation-with-margaret-brennan-2k74)
+- [Building a Voice-Controlled AI Agent: Architecture, Models &amp; Lessons Learned](https://dev.to/mahi_vigneshvalleti_f791/building-a-voice-controlled-ai-agent-architecture-models-lessons-learned-3mje)
+- [Why AI-Generated Code Needs Architecture Standards &lpar;and How We Solved It&rpar;](https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh)
+- [SteeplyOpinionated: A PR Review Tool for Tea Recipes &lpar;Returns 418, Obviously&rpar;](https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k)
 <!-- BLOG-POST-LIST:END -->
 
 
