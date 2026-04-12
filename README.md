@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transcript: Sen. Mark Warner on &quot;Face the Nation with Margaret Brennan&quot;](https://dev.to/chx382/transcript-sen-mark-warner-on-face-the-nation-with-margaret-brennan-2k74)
-- [Building a Voice-Controlled AI Agent: Architecture, Models &amp; Lessons Learned](https://dev.to/mahi_vigneshvalleti_f791/building-a-voice-controlled-ai-agent-architecture-models-lessons-learned-3mje)
-- [Why AI-Generated Code Needs Architecture Standards &lpar;and How We Solved It&rpar;](https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh)
-- [SteeplyOpinionated: A PR Review Tool for Tea Recipes &lpar;Returns 418, Obviously&rpar;](https://dev.to/__9e5c331e456d/steeplyopinionated-a-pr-review-tool-for-tea-recipes-returns-418-obviously-1g5k)
+- [ERP y CRM](https://dev.to/michaoortizz/erp-y-crm-30gb)
+- [I Built 2 Chrome Extensions for ADHD Users &amp; Trust — Shipped to the Chrome Web Store](https://dev.to/imatulsrivas/i-built-2-chrome-extensions-for-adhd-users-trust-shipped-to-the-chrome-web-store-522b)
+- [Surviving Viral Growth: Graceful AI Degradation on AWS](https://dev.to/dhananjay_lakkawar/surviving-viral-growth-graceful-ai-degradation-on-aws-21fg)
+- [A Beginner’s Guide to DDL and DML in SQL](https://dev.to/keim/a-beginners-guide-to-ddl-and-dml-in-sql-5a43)
 <!-- BLOG-POST-LIST:END -->
 
 
