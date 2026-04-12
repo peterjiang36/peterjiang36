@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Practitioner Questions | RDS, Aurora, &amp; ElastiCache](https://dev.to/minoltan/aws-cloud-practitioner-questions-rds-aurora-elasticache-2a0g)
-- [What is llms.ljson and why eCommerce needs it](https://dev.to/angeo/what-is-llmsljson-and-why-ecommerce-needs-it-a2a)
-- [Building an AI Chatbot That Learns From Human Edits &lpar;Not Just Feedback&rpar;](https://dev.to/sang0424/building-an-ai-chatbot-that-learns-from-human-edits-not-just-feedback-4n76)
-- [How Archimedes Started: A Research Tool I Built for Myself](https://dev.to/harshalrudra/how-archimedes-started-a-research-tool-i-built-for-myself-3op9)
+- [How I Automated a Monitoring Stack on my Dell Latitude using Ansible &amp; Docker](https://dev.to/muhammadkamrankabeeross/how-i-automated-a-monitoring-stack-on-my-dell-latitude-using-ansible-docker-5b73)
+- [GitHub Copilot vs Cursor 2026: Where Should You Spend Your Money?](https://dev.to/jake_kim_bd3065a6816799db/github-copilot-vs-cursor-2026-where-should-you-spend-your-money-k7h)
+- [API Security in India: The Flaw Nobody Is Fixing](https://dev.to/ceo_shouvik/api-security-in-india-the-flaw-nobody-is-fixing-1a4)
+- [My Journey Building &quot;Maa Writing&quot;: When Tauri Becomes a Personal Battle! 🦀⚡](https://dev.to/kalololo527cell/my-journey-building-maa-writing-when-tauri-becomes-a-personal-battle-hfo)
 <!-- BLOG-POST-LIST:END -->
 
 
