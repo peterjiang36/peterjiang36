@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [👋 Hello DEV Community — Full-Stack Developer Here!](https://dev.to/md_saieemmia_358390009b5/hello-dev-community-full-stack-developer-here-2l5g)
-- [Pricing with Precision: How AI Automates Your Handyman Quotes](https://dev.to/ken_deng_ai/pricing-with-precision-how-ai-automates-your-handyman-quotes-41bn)
-- [Building a simple async scheduler with generators in Python](https://dev.to/odmikes/building-a-simple-async-scheduler-with-generators-in-python-543e)
-- [M||D||JS = MorDorJS](https://dev.to/pengeszikra/mdjs-mordorjs-1mon)
+- [Vane &lpar;Perplexica 2.0&rpar; Quickstart With Ollama and llama.cpp](https://dev.to/rosgluk/vane-perplexica-20-quickstart-with-ollama-and-llamacpp-132o)
+- [Streamlining Browser Extension Development: Overcoming Repetitive Tasks and State Management Complexities](https://dev.to/pavkode/streamlining-browser-extension-development-overcoming-repetitive-tasks-and-state-management-5ef6)
+- [This Website Actively Hates You 😈 | Anti-UX Experiment + 418 Teapot Chaos](https://dev.to/kushan_prasad_3c6b8f0a473/this-website-actively-hates-you-anti-ux-experiment-418-teapot-chaos-obl)
+- [From Zero to Hero](https://dev.to/rodrigocnascimento/from-zero-to-hero-1oed)
 <!-- BLOG-POST-LIST:END -->
 
 
