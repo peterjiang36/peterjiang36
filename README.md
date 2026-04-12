@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/matheusgondra/-4ji7)
-- [LLM Wiki Skill: Build a Second Brain With Claude Code and Obsidian](https://dev.to/alireza_rezvani/llm-wiki-skill-build-a-second-brain-with-claude-code-and-obsidian-2ljg)
-- [A Practical Guide to nylas timezone info](https://dev.to/qasim157/a-practical-guide-to-nylas-timezone-info-27h4)
-- [nylas air — What It Does and How to Use It](https://dev.to/qasim157/nylas-air-what-it-does-and-how-to-use-it-11g4)
+- [Audio Ai agent Pipeline](https://dev.to/siddshett/audio-ai-agent-pipeline-49go)
+- [I Got Tired of Hardcoding Fake Data. So I Built a Mock API That Generates It Automatically.](https://dev.to/tuan_nhatnguyen_7e928cbf/i-got-tired-of-hardcoding-fake-data-so-i-built-a-mock-api-that-generates-it-automatically-b6o)
+- [I built an MCP server that tells Claude when ChatGPT is down &lpar;and how much it costs&rpar;](https://dev.to/imvikyctrl/i-built-an-mcp-server-that-tells-claude-when-chatgpt-is-down-and-how-much-it-costs-4dcf)
+- [Lagrange interpolation: turning points into a polynomial](https://dev.to/0xluk3/lagrange-interpolation-turning-points-into-a-polynomial-l5l)
 <!-- BLOG-POST-LIST:END -->
 
 
