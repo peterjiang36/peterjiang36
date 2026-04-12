@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Audited 13 AI Agent Platforms for Security Misconfigurations — Here&#39;s the Open-Source Scanner I Built](https://dev.to/sattyamjjain/i-audited-13-ai-agent-platforms-for-security-misconfigurations-heres-the-open-source-scanner-i-2am8)
-- [Building a Pixel-Art AI Interrogation Game with Rust, Tauri, and Memvid](https://dev.to/harishkotra/building-a-pixel-art-ai-interrogation-game-with-rust-tauri-and-memvid-d74)
-- [Excel Crashed on Row 47,000 and I Lost 3 Hours of Work](https://dev.to/robertatkinson3570/excel-crashed-on-row-47000-and-i-lost-3-hours-of-work-3jgc)
-- [Is an AI Model Technically Defined as Software?](https://dev.to/tekk74/is-an-ai-model-technically-defined-as-software-3506)
+- [Astro Port: 3.17 kB Gzip, 94% vs React, New Series Record — Because the Framework Runtime Is Literally Zero](https://dev.to/sendotltd/astro-port-317-kb-gzip-94-vs-react-new-series-record-because-the-framework-runtime-is-5f09)
+- [How I Built a Self-Hosted Minecraft Server on AWS in One Day — With a Discord Bot, Auto-Security, and Almost Zero Cost](https://dev.to/birajcoder/how-i-built-a-self-hosted-minecraft-server-on-aws-in-one-day-with-a-discord-bot-auto-security-181c)
+- [How to Choose a Motherboard: What Actually Matters vs What Does Not](https://dev.to/lorikeesmart/how-to-choose-a-motherboard-what-actually-matters-vs-what-does-not-aji)
+- [I Built a Tool That Reads My GCB Bank Statement and Tells Me Where My Money Goes](https://dev.to/aimlin9/i-built-a-tool-that-reads-my-gcb-bank-statement-and-tells-me-where-my-money-goes-2nc4)
 <!-- BLOG-POST-LIST:END -->
 
 
