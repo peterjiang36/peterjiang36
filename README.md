@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Lambda Deployment with Terraform Step by Step Complete Example](https://dev.to/rajesh1761/aws-lambda-deployment-with-terraform-step-by-step-complete-example-24di)
-- [Internal Linking Oversights in WordPress SEO Plugins Limit Site Authority](https://dev.to/nexuwp/internal-linking-oversights-in-wordpress-seo-plugins-limit-site-authority-5dk3)
-- [I built an app that tells you what&#39;s actually in your food &lpar;and it&#39;s not pretty&rpar;](https://dev.to/aayushp/i-built-an-app-that-tells-you-whats-actually-in-your-food-and-its-not-pretty-3f4g)
-- [From Snore to Score: Build a Real-Time Sleep Apnea Detector with Faster-Whisper and FFT](https://dev.to/beck_moulton/from-snore-to-score-build-a-real-time-sleep-apnea-detector-with-faster-whisper-and-fft-3ci7)
+- [Ultimate Harness Automation &lpar;OMG: Oh-My-GithubCopilot, v. 1.1.6&rpar; released for Github Copilot](https://dev.to/mincodingopenclaw_56ab0/ultimate-harness-automation-omg-oh-my-githubcopilot-v-116-released-for-github-copilot-22ii)
+- [How to Use AI to Automate Business Processes: A Practical Guide with Examples](https://dev.to/loseinwworld/how-to-use-ai-to-automate-business-processes-a-practical-guide-with-examples-9f0)
+- [Stop Choosing Between Speed and LoRAs: Meet ComfyUI-TensorRT-Reforge 🚀](https://dev.to/zaochuan5854/stop-choosing-between-speed-and-loras-meet-comfyui-tensorrt-reforge-59bc)
+- [Designing a Scalable Recovery Service for Distributed Systems](https://dev.to/jobinesh/designing-a-scalable-recovery-service-for-distributed-systems-1oio)
 <!-- BLOG-POST-LIST:END -->
 
 
