@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your AI agent needs a .well-known discovery endpoint](https://dev.to/jagmarques/why-your-ai-agent-needs-a-well-known-discovery-endpoint-27of)
-- [From ₹15,000 in Debt to Building a Fintech Side Project: My &quot;Vibe Coding&quot; Journey](https://dev.to/monu_kumar/from-15000-in-debt-to-building-a-fintech-side-project-my-vibe-coding-journey-dhp)
-- [Add governance to Hugging Face smolagents in 4 lines](https://dev.to/jagmarques/add-governance-to-hugging-face-smolagents-in-4-lines-192h)
-- [I Built PromptVault to Solve My Prompt Management Mess, and It Turned Into a Full Offline-First AI Prompt Workspace](https://dev.to/akanshsirohi/i-built-promptvault-to-solve-my-prompt-management-mess-and-it-turned-into-a-full-offline-first-ai-2ejm)
+- [AWS Cloud Practitioner Questions | RDS, Aurora, &amp; ElastiCache](https://dev.to/minoltan/aws-cloud-practitioner-questions-rds-aurora-elasticache-2a0g)
+- [What is llms.ljson and why eCommerce needs it](https://dev.to/angeo/what-is-llmsljson-and-why-ecommerce-needs-it-a2a)
+- [Building an AI Chatbot That Learns From Human Edits &lpar;Not Just Feedback&rpar;](https://dev.to/sang0424/building-an-ai-chatbot-that-learns-from-human-edits-not-just-feedback-4n76)
+- [How Archimedes Started: A Research Tool I Built for Myself](https://dev.to/harshalrudra/how-archimedes-started-a-research-tool-i-built-for-myself-3op9)
 <!-- BLOG-POST-LIST:END -->
 
 
