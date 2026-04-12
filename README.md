@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [13. Introduction to JavaScript &lpar;ES6&rpar;](https://dev.to/avery_/13-introduction-to-javascript-es6-4i94)
-- [DMARC Report Analyzer: How to Read and Act on Aggregate Reports](https://dev.to/toolbox_starnomina/dmarc-report-analyzer-how-to-read-and-act-on-aggregate-reports-bn1)
-- [How to Build an Agentic ML Pipeline: From Natural Language to Production](https://dev.to/karan_kumar_f09865ff0efe9/how-to-build-an-agentic-ml-pipeline-from-natural-language-to-production-5054)
-- [Embedded Linux Development - Part 2](https://dev.to/cangulmez/embedded-linux-development-part-2-3klh)
+- [Specification-First Agentic Development: A Methodology for Structured, Traceable AI-Assisted Development](https://dev.to/holgerleichsenring/specification-first-agentic-development-a-methodology-for-structured-traceable-ai-assisted-la)
+- [How I Passed the AWS Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/ayaanahmad/how-i-passed-the-aws-cloud-practitioner-clf-c02-3dmn)
+- [&quot;Talk to Your Terminal: Building a Voice AI Agent in Python&quot;](https://dev.to/preethii_v_192006/talk-to-your-terminal-building-a-voice-ai-agent-in-python-51bm)
+- [Designing GenAI Infrastructure: How to Scale Video Generation](https://dev.to/karan_kumar_f09865ff0efe9/designing-genai-infrastructure-how-to-scale-video-generation-21bh)
 <!-- BLOG-POST-LIST:END -->
 
 
