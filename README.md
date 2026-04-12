@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lightweight &amp; Blazing Fast HTTP Client for Windows: Meet Artemis &lpar;Open Source Alternative to Postman&rpar;](https://dev.to/vinodh_kumarbakthavachal/lightweight-blazing-fast-http-client-for-windows-meet-artemis-open-source-alternative-to-5809)
-- [I cut 40% of my NgRx Signal Store boilerplate — here&#39;s the 5 utilities I extracted](https://dev.to/harsh_m04/i-cut-40-of-my-ngrx-signal-store-boilerplate-heres-the-5-utilities-i-extracted-52mn)
-- [The Vercel Bill Conversation Every Startup Avoids &lpar;Until It&#39;s Too Late&rpar;](https://dev.to/adioof/the-vercel-bill-conversation-every-startup-avoids-until-its-too-late-5bj6)
-- [The Art of API Design: Principles I Learned Building APIs That Handle 50,000+ Daily Requests](https://dev.to/oluwatosinolamilekan/the-art-of-api-design-principles-i-learned-building-apis-that-handle-50000-daily-requests-157h)
+- [What BYOK Really Means for AI Platform Costs](https://dev.to/swrly/what-byok-really-means-for-ai-platform-costs-34b4)
+- [Building AI Workflows for DevOps Teams](https://dev.to/swrly/building-ai-workflows-for-devops-teams-51p2)
+- [I just published my first npm package — and it actually solves a real problem](https://dev.to/tnikhil24/i-just-published-my-first-npm-package-and-it-actually-solves-a-real-problem-30pc)
+- [I Gamified My Claude Code Terminal With Evolving Pixel Pets](https://dev.to/patheonsceo/i-gamified-my-claude-code-terminal-with-evolving-pixel-pets-4jgi)
 <!-- BLOG-POST-LIST:END -->
 
 
