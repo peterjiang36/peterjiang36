@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sentinel Diary #3: From Information to Action — When the Dashboard Learned to Think](https://dev.to/boccato85/sentinel-diary-3-from-information-to-action-when-the-dashboard-learned-to-think-123j)
-- [Dockerized robotics development should be easy!](https://dev.to/pswaroopa/dockerized-robotics-development-should-be-easy-2phf)
-- [&quot;Backend Engineering for an AI Platform: The Infrastructure Decisions Nobody Talks About&quot;](https://dev.to/raghav_bansal_1e5718bd640/backend-engineering-for-an-ai-platform-the-infrastructure-decisions-nobody-talks-about-5gil)
-- [Building a Software KVM in Rust: Why I Ditched Synergy and Rolled My Own](https://dev.to/cursorhop/building-a-software-kvm-in-rust-why-i-ditched-synergy-and-rolled-my-own-3dc5)
+- [13. Introduction to JavaScript &lpar;ES6&rpar;](https://dev.to/avery_/13-introduction-to-javascript-es6-4i94)
+- [DMARC Report Analyzer: How to Read and Act on Aggregate Reports](https://dev.to/toolbox_starnomina/dmarc-report-analyzer-how-to-read-and-act-on-aggregate-reports-bn1)
+- [How to Build an Agentic ML Pipeline: From Natural Language to Production](https://dev.to/karan_kumar_f09865ff0efe9/how-to-build-an-agentic-ml-pipeline-from-natural-language-to-production-5054)
+- [Embedded Linux Development - Part 2](https://dev.to/cangulmez/embedded-linux-development-part-2-3klh)
 <!-- BLOG-POST-LIST:END -->
 
 
