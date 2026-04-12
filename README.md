@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP vs CLI for Browser Automation: I Benchmarked Both and the Results Surprised Me](https://dev.to/achiya-automation/mcp-vs-cli-for-browser-automation-i-benchmarked-both-and-the-results-surprised-me-4cog)
-- [Voice Agent Project](https://dev.to/aaditya_kapruwan/voice-agent-project-46ka)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-37g2)
-- [𝘚𝘋𝘋 𝘷𝘪𝘯𝘰 𝘢 𝘤𝘢𝘮𝘣𝘪𝘢𝘳 𝘯𝘶𝘦𝘴𝘵𝘳𝘰 𝘧𝘭𝘶𝘫𝘰 𝘥𝘦 𝘥𝘦𝘴𝘢𝘳𝘳𝘰𝘭𝘭𝘰 🤯](https://dev.to/cecygeraldo/-235a)
+- [AWS Lambda Deployment with Terraform Step by Step Complete Example](https://dev.to/rajesh1761/aws-lambda-deployment-with-terraform-step-by-step-complete-example-24di)
+- [Internal Linking Oversights in WordPress SEO Plugins Limit Site Authority](https://dev.to/nexuwp/internal-linking-oversights-in-wordpress-seo-plugins-limit-site-authority-5dk3)
+- [I built an app that tells you what&#39;s actually in your food &lpar;and it&#39;s not pretty&rpar;](https://dev.to/aayushp/i-built-an-app-that-tells-you-whats-actually-in-your-food-and-its-not-pretty-3f4g)
+- [From Snore to Score: Build a Real-Time Sleep Apnea Detector with Faster-Whisper and FFT](https://dev.to/beck_moulton/from-snore-to-score-build-a-real-time-sleep-apnea-detector-with-faster-whisper-and-fft-3ci7)
 <!-- BLOG-POST-LIST:END -->
 
 
