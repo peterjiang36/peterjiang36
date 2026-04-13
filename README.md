@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Copilot Spaces still loses the plot — and how knowledge graphs fix it](https://dev.to/authora/why-copilot-spaces-still-loses-the-plot-and-how-knowledge-graphs-fix-it-1371)
-- [Your Portfolio Is Already Outdated &lpar;Even If It Looks Perfect&rpar;](https://dev.to/bhavya_kapil_0feb7d6e6f64/your-portfolio-is-already-outdated-even-if-it-looks-perfect-1e08)
-- [Two Ways to Think of AI Without Outsourcing Your Mind](https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1)
-- [How Conversation Memory Improves Conversation experience](https://dev.to/balagmadhu/how-conversation-memory-improves-conversation-experience-19g8)
+- [Serving a Live Battery Dashboard from ESP32-C3 with Microdot and MicroPython](https://dev.to/devasservice/serving-a-live-battery-dashboard-from-esp32-c3-with-microdot-and-micropython-5hlo)
+- [Why Your AWS CI/CD Pipeline maybe Slower Than It Should Be &lpar;Mine Was Too&rpar;](https://dev.to/harsh0369/why-your-aws-cicd-pipeline-maybe-slower-than-it-should-be-mine-was-too-2c8h)
+- [How to Open Your LTI Tool in a New Tab in 2026 &lpar;And What Context to Pass With It&rpar;](https://dev.to/bhavesh_pawar_8205920953a/how-to-open-your-lti-tool-in-a-new-tab-in-2026-and-what-context-to-pass-with-it-20jf)
+- [Decoded — a simple way to actually understand DSA](https://dev.to/sreya-satheesh/decoded-a-simple-way-to-actually-understand-dsa-3k6g)
 <!-- BLOG-POST-LIST:END -->
 
 
