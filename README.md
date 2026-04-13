@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Killed 3 Stub Functions in One Session](https://dev.to/naimkatiman/i-killed-3-stub-functions-in-one-session-m58)
-- [trimoji — Unicode and emoji-aware text truncation for JavaScript](https://dev.to/kunaltanwar/trimoji-unicode-and-emoji-aware-text-truncation-for-javascript-2b3e)
-- [IA e eficiência em atividades de código: atividades, métricas e limitações](https://dev.to/asouza/ia-e-eficiencia-em-atividades-de-codigo-atividades-metricas-e-limitacoes-3fc2)
-- [I Open-Sourced a Chinese Astrology Engine and Wired It Into Every AI Coding Tool](https://dev.to/shunshi_peter/i-open-sourced-a-chinese-astrology-engine-and-wired-it-into-every-ai-coding-tool-e9)
+- [Karpathy&#39;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#39;s what I learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9)
+- [One Open Source Project a Day &lpar;No.37&rpar;: everything-claude-code - The Most Systematic Claude Code Enhancement Framework](https://dev.to/wonderlab/one-open-source-project-a-day-no37-everything-claude-code-the-most-systematic-claude-code-1322)
+- [Gemini 3.1 Pro vs GPT-5.4: I Ran Both on the Same 500 Tasks — Here&#39;s Which Won &lpar;And It Wasn&#39;t Close on Cost&rpar;](https://dev.to/tokenmixai/gemini-31-pro-vs-gpt-54-i-ran-both-on-the-same-500-tasks-heres-which-won-and-it-wasnt-close-2li8)
+- [Building Your Own &quot;Google Maps for Codebases&quot;: A Guide to Semantic Code Search with LLMs](https://dev.to/midas126/building-your-own-google-maps-for-codebases-a-guide-to-semantic-code-search-with-llms-579d)
 <!-- BLOG-POST-LIST:END -->
 
 
