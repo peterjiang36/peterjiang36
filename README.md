@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Coding Series](https://dev.to/vrushali_dev_15/beginner-coding-series-4o3j)
-- [The Hidden Cost of ‘Reusable Components’ in Vue](https://dev.to/livecodebase/the-hidden-cost-of-reusable-components-in-vue-4mce)
-- [Stop Copy-Pasting Terraform State Configs: Use Terragrunt instead](https://dev.to/jeancy/stop-copy-pasting-terraform-state-configs-use-terragrunt-instead-ana)
-- [I built a browser-based coding education platform as a CS student, here&#39;s how](https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9)
+- [From 8 Seconds per Frame to Real-Time 3D Fractals in the Browser](https://dev.to/shinigami92/from-8-seconds-per-frame-to-real-time-3d-fractals-in-the-browser-4b26)
+- [What You Actually Learn in the Salesforce Admin Beginner Trail](https://dev.to/pranav_bharti/what-you-actually-learn-in-the-salesforce-admin-beginner-trail-54f4)
+- [16GB of RAM, 12GB of JSON, and One Very Loud Fan](https://dev.to/velk/16gb-of-ram-12gb-of-json-and-one-very-loud-fan-63i)
+- [Your Database Workflow Is Broken &lpar;And It’s Not Your Fault&rpar;](https://dev.to/slotix/your-database-workflow-is-broken-and-its-not-your-fault-5aal)
 <!-- BLOG-POST-LIST:END -->
 
 
