@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [O CMS](https://dev.to/ivan_bertotto_a81eb06db85/o-cms-1l8e)
-- [The 300-gram AI coding rig: iPad mini + Claude Code anywhere](https://dev.to/jagafarm/the-300-gram-ai-coding-rig-ipad-mini-claude-code-anywhere-e1o)
-- [I Built a JSON Fixer Because I Was Tired of Counting Characters](https://dev.to/njoylab/i-built-a-json-fixer-because-i-was-tired-of-counting-characters-4ikb)
-- [Milla Jovovich&#39;s MemPalace Highlights a Growing &#39;Dark Code&#39; Problem](https://dev.to/moebiusansa/milla-jovovichs-mempalace-highlights-a-growing-dark-code-problem-1l1k)
+- [Apache Software Foundation: History, Purpose, and Process](https://dev.to/alexmercedcoder/apache-software-foundation-history-purpose-and-process-199l)
+- [Giving AI Agents Eyes &lpar;Part 1&rpar;: 6 Tricks for Reading Web Pages Without Vision Models](https://dev.to/gauravchodwadia/giving-ai-agents-eyes-part-1-6-tricks-for-reading-web-pages-without-vision-models-4193)
+- [Practical Problem Definition for AI Projects &lpar;A Developer-First Guide&rpar;](https://dev.to/hwyler/practical-problem-definition-for-ai-projects-a-developer-first-guide-5gaa)
+- [The Hidden Cost of Building AI Agents](https://dev.to/lowcodeagency/the-hidden-cost-of-building-ai-agents-4bp5)
 <!-- BLOG-POST-LIST:END -->
 
 
