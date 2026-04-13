@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Laravel Admin CRUD in Minutes with MrCatz DataTable &lpar;Livewire&rpar;](https://dev.to/mrcatz/build-a-laravel-admin-crud-in-minutes-with-mrcatz-datatable-livewire-3ab3)
-- [From Voice to Code: Architecting a Local AI Agent with Llama 3.2 &amp; Streamlit](https://dev.to/jayanth_m_f9c9b1f1d412f04/from-voice-to-code-architecting-a-local-ai-agent-with-llama-32-streamlit-4ebn)
-- [The 9 Things Engineers Get Wrong About the System Design Interview &lpar;and the 185 Articles I Wrote to Fix Them&rpar;](https://dev.to/arslan_ah/the-9-things-engineers-get-wrong-about-the-system-design-interview-and-the-185-articles-i-wrote-to-22p1)
-- [How to Monetize a Mobile App — 6 Proven Strategies That Actually Work](https://dev.to/gautier/how-to-monetize-a-mobile-app-6-proven-strategies-that-actually-work-1ck)
+- [All It Took Was npm install &lpar;Axios Attack&rpar;](https://dev.to/audreyhal/all-it-took-was-npm-install-axios-attack-2dk2)
+- [Microsoft Auth in Next.js Finally Makes Sense](https://dev.to/chemmangat/microsoft-auth-in-nextjs-finally-makes-sense-ih4)
+- [JSON to TypeScript: Generate Types in 5 Seconds](https://dev.to/miccho27/json-to-typescript-generate-types-in-5-seconds-pkc)
+- [quick feedback post](https://dev.to/shatakshig8/quick-feedback-post-1l17)
 <!-- BLOG-POST-LIST:END -->
 
 
