@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer&#39;s Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don&#39;t Need an API Key](https://dev.to/kennedyraju55/the-developers-guide-to-running-llms-locally-ollama-gemma-4-and-why-your-side-projects-dont-54oe)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-1jaj)
-- [Cost-Aware Serverless Architecture Reviews: A Practical Framework](https://dev.to/aws-builders/cost-aware-serverless-architecture-reviews-a-practical-framework-5agl)
-- [I Built 8 Developer Tools That Never See Your Code](https://dev.to/ahnhyeongkyu/i-built-8-developer-tools-that-never-see-youwebdev-javascript-privacy-toolsr-code-4ma7)
+- [This is my first post](https://dev.to/mohsinproduct/this-is-my-first-post-4pce)
+- [BFS Algorithm in Java Step by Step Tutorial with Examples](https://dev.to/rajesh1761/bfs-algorithm-in-java-step-by-step-tutorial-with-examples-6ld)
+- [I built a free desktop video downloader for Windows — Grabbit](https://dev.to/indignity/i-built-a-free-desktop-video-downloader-for-windows-grabbit-3knc)
+- [How Talkie OCR Helps Vision-Impaired &amp; Dyslexic Users Read the World Around Them](https://dev.to/unqlite_db/how-talkie-ocr-helps-vision-impaired-dyslexic-users-read-the-world-around-them-297c)
 <!-- BLOG-POST-LIST:END -->
 
 
