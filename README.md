@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Software Foundation: History, Purpose, and Process](https://dev.to/alexmercedcoder/apache-software-foundation-history-purpose-and-process-199l)
-- [Giving AI Agents Eyes &lpar;Part 1&rpar;: 6 Tricks for Reading Web Pages Without Vision Models](https://dev.to/gauravchodwadia/giving-ai-agents-eyes-part-1-6-tricks-for-reading-web-pages-without-vision-models-4193)
-- [Practical Problem Definition for AI Projects &lpar;A Developer-First Guide&rpar;](https://dev.to/hwyler/practical-problem-definition-for-ai-projects-a-developer-first-guide-5gaa)
-- [The Hidden Cost of Building AI Agents](https://dev.to/lowcodeagency/the-hidden-cost-of-building-ai-agents-4bp5)
+- [[SC] Actores globales](https://dev.to/david_goyes_a488f58a17a53/sc-actores-globales-384b)
+- [You Asked AI to Analyze Your Users. The Report Looks Amazing. It&#39;s Probably Wrong.](https://dev.to/matthewhou/you-asked-ai-to-analyze-your-users-the-report-looks-amazing-its-probably-wrong-1lpm)
+- [Prompt Engineering Is Not Optional in 2026](https://dev.to/mteheran/prompt-engineering-is-not-optional-in-2026-4m4m)
+- [I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944)
 <!-- BLOG-POST-LIST:END -->
 
 
