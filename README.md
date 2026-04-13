@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started With Seal Reports: Sharing Filters Across Multiple Models](https://dev.to/vladg_dev/getting-started-with-seal-reports-sharing-filters-across-multiple-models-cl1)
-- [How Epic Games Scales to 100M+ Concurrent Users](https://dev.to/karan_kumar_f09865ff0efe9/how-epic-games-scales-to-100m-concurrent-users-1k0j)
-- [How Hindsight caught a vendor bug logs missed](https://dev.to/amudhan_1603/how-hindsight-caught-a-vendor-bug-logs-missed-10ne)
-- [x402 upto vs MPP Sessions: Two Philosophies of Usage-Based Payments](https://dev.to/philpher0x/x402-upto-vs-mpp-sessions-two-philosophies-of-usage-based-payments-25ib)
+- [I build free browser tools with Next.js — no backend, no uploads, everything runs client-side](https://dev.to/sreten/i-build-free-browser-tools-with-nextjs-no-backend-no-uploads-everything-runs-client-side-a0m)
+- [One Query, Four GPUs: Tracing a Distributed Training Stall Across Nodes](https://dev.to/ingero/one-query-four-gpus-tracing-a-distributed-training-stall-across-nodes-2jbd)
+- [Building a Local Voice AI Agent with Structured Intent and Safe Execution](https://dev.to/harsh_yadav_12bc260f8969b/building-a-local-voice-ai-agent-with-structured-intent-and-safe-execution-21ni)
+- [Embedded Linux Development - Part 4](https://dev.to/cangulmez/embedded-linux-development-part-4-2j83)
 <!-- BLOG-POST-LIST:END -->
 
 
