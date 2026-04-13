@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Karpathy&#39;s LLM Knowledge Base SEO: I applied the pattern for 12 months and here&#39;s what I learned](https://dev.to/jim_l_efc70c3a738e9f4baa7/karpathys-llm-knowledge-base-x-seo-i-applied-the-pattern-for-12-months-and-heres-what-i-learned-51g9)
-- [One Open Source Project a Day &lpar;No.37&rpar;: everything-claude-code - The Most Systematic Claude Code Enhancement Framework](https://dev.to/wonderlab/one-open-source-project-a-day-no37-everything-claude-code-the-most-systematic-claude-code-1322)
-- [Gemini 3.1 Pro vs GPT-5.4: I Ran Both on the Same 500 Tasks — Here&#39;s Which Won &lpar;And It Wasn&#39;t Close on Cost&rpar;](https://dev.to/tokenmixai/gemini-31-pro-vs-gpt-54-i-ran-both-on-the-same-500-tasks-heres-which-won-and-it-wasnt-close-2li8)
-- [Building Your Own &quot;Google Maps for Codebases&quot;: A Guide to Semantic Code Search with LLMs](https://dev.to/midas126/building-your-own-google-maps-for-codebases-a-guide-to-semantic-code-search-with-llms-579d)
+- [Why Copilot Spaces still loses the plot — and how knowledge graphs fix it](https://dev.to/authora/why-copilot-spaces-still-loses-the-plot-and-how-knowledge-graphs-fix-it-1371)
+- [Your Portfolio Is Already Outdated &lpar;Even If It Looks Perfect&rpar;](https://dev.to/bhavya_kapil_0feb7d6e6f64/your-portfolio-is-already-outdated-even-if-it-looks-perfect-1e08)
+- [Two Ways to Think of AI Without Outsourcing Your Mind](https://dev.to/canro91/two-ways-to-think-of-ai-without-outsourcing-your-mind-12e1)
+- [How Conversation Memory Improves Conversation experience](https://dev.to/balagmadhu/how-conversation-memory-improves-conversation-experience-19g8)
 <!-- BLOG-POST-LIST:END -->
 
 
