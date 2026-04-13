@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [All It Took Was npm install &lpar;Axios Attack&rpar;](https://dev.to/audreyhal/all-it-took-was-npm-install-axios-attack-2dk2)
-- [Microsoft Auth in Next.js Finally Makes Sense](https://dev.to/chemmangat/microsoft-auth-in-nextjs-finally-makes-sense-ih4)
-- [JSON to TypeScript: Generate Types in 5 Seconds](https://dev.to/miccho27/json-to-typescript-generate-types-in-5-seconds-pkc)
-- [quick feedback post](https://dev.to/shatakshig8/quick-feedback-post-1l17)
+- [Open-Sourcing Mano-P Today: Pure Vision GUI Agent, OSWorld #1, Apache 2.0](https://dev.to/mininglamp/open-sourcing-mano-p-today-pure-vision-gui-agent-osworld-1-apache-20-3c0h)
+- [Claude Code Multi-Account Setup &lpar;Without Losing Context&rpar;](https://dev.to/ashishxcode/claude-code-multi-account-setup-without-losing-context-49nf)
+- [Prompt Quality Score &lpar;PQS&rpar; Now Supports x402 Payments on Solana](https://dev.to/onchainaiintel/prompt-quality-score-pqs-now-supports-x402-payments-on-solana-40nd)
+- [Agentic ML: Moving from Manual Pipelines to Autonomous AI](https://dev.to/karan_kumar_f09865ff0efe9/agentic-ml-moving-from-manual-pipelines-to-autonomous-ai-e32)
 <!-- BLOG-POST-LIST:END -->
 
 
