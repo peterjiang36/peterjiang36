@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serving a Live Battery Dashboard from ESP32-C3 with Microdot and MicroPython](https://dev.to/devasservice/serving-a-live-battery-dashboard-from-esp32-c3-with-microdot-and-micropython-5hlo)
-- [Why Your AWS CI/CD Pipeline maybe Slower Than It Should Be &lpar;Mine Was Too&rpar;](https://dev.to/harsh0369/why-your-aws-cicd-pipeline-maybe-slower-than-it-should-be-mine-was-too-2c8h)
-- [How to Open Your LTI Tool in a New Tab in 2026 &lpar;And What Context to Pass With It&rpar;](https://dev.to/bhavesh_pawar_8205920953a/how-to-open-your-lti-tool-in-a-new-tab-in-2026-and-what-context-to-pass-with-it-20jf)
-- [Decoded — a simple way to actually understand DSA](https://dev.to/sreya-satheesh/decoded-a-simple-way-to-actually-understand-dsa-3k6g)
+- [The T-800 Doesn&#39;t Overthink. Neither Should Your LLM.](https://dev.to/__272d48f2ed/the-t-800-doesnt-overthink-neither-should-your-llm-i1f)
+- [Managing your schedule when you have multiple clients](https://dev.to/arthuro33/managing-your-schedule-when-you-have-multiple-clients-2g8p)
+- [Understanding Go: part 13 – Methods](https://dev.to/aurelievache/understanding-go-part-13-methods-585a)
+- [IAM Principal Cost Allocation para Amazon Bedrock &lpar;Novedad&rpar;](https://dev.to/aws-espanol/iam-principal-cost-allocation-para-amazon-bedrock-novedad-26cm)
 <!-- BLOG-POST-LIST:END -->
 
 
