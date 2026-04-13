@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I build free browser tools with Next.js — no backend, no uploads, everything runs client-side](https://dev.to/sreten/i-build-free-browser-tools-with-nextjs-no-backend-no-uploads-everything-runs-client-side-a0m)
-- [One Query, Four GPUs: Tracing a Distributed Training Stall Across Nodes](https://dev.to/ingero/one-query-four-gpus-tracing-a-distributed-training-stall-across-nodes-2jbd)
-- [Building a Local Voice AI Agent with Structured Intent and Safe Execution](https://dev.to/harsh_yadav_12bc260f8969b/building-a-local-voice-ai-agent-with-structured-intent-and-safe-execution-21ni)
-- [Embedded Linux Development - Part 4](https://dev.to/cangulmez/embedded-linux-development-part-4-2j83)
+- [Prompt Complexity vs Output Quality: When More Instructions Hurt Performance](https://dev.to/jasrandhawa/prompt-complexity-vs-output-quality-when-more-instructions-hurt-performance-2hi5)
+- [Live Streaming From Space: The Infrastructure Challenges Behind Live Video Beyond Earth](https://dev.to/red5/live-streaming-from-space-the-infrastructure-challenges-behind-live-video-beyond-earth-3oj7)
+- [How to Use 24 API Tools from Your AI Assistant with HttpStatus MCP Server](https://dev.to/httpstatus/how-to-use-24-api-tools-from-your-ai-assistant-with-httpstatus-mcp-server-3n68)
+- [Google Sheets vs Notion for Tracking Hobbies: Which One Actually Works?](https://dev.to/sheetflux/google-sheets-vs-notion-for-tracking-hobbies-which-one-actually-works-31l)
 <!-- BLOG-POST-LIST:END -->
 
 
