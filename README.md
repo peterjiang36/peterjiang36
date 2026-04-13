@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evaluation, Monitoring, and Model Degradation in Production AI Systems](https://dev.to/satoru_906c2ffeaf64bd2ac1/evaluation-monitoring-and-model-degradation-in-production-ai-systems-4kdl)
-- [Multi-Cloud Identity Federation](https://dev.to/chrisiam/multi-cloud-identity-federation-1peb)
-- [What Changes and What Stays the Same for SRE with AWS Frontier Agents](https://dev.to/aws-builders/what-changes-and-what-stays-the-same-for-sre-with-aws-frontier-agents-23aj)
-- [Building a UK-wide fuel price tracker with Next.js and the CMA open data scheme](https://dev.to/ozzieuk/building-a-uk-wide-fuel-price-tracker-with-nextjs-and-the-cma-open-data-scheme-136b)
+- [O CMS](https://dev.to/ivan_bertotto_a81eb06db85/o-cms-1l8e)
+- [The 300-gram AI coding rig: iPad mini + Claude Code anywhere](https://dev.to/jagafarm/the-300-gram-ai-coding-rig-ipad-mini-claude-code-anywhere-e1o)
+- [I Built a JSON Fixer Because I Was Tired of Counting Characters](https://dev.to/njoylab/i-built-a-json-fixer-because-i-was-tired-of-counting-characters-4ikb)
+- [Milla Jovovich&#39;s MemPalace Highlights a Growing &#39;Dark Code&#39; Problem](https://dev.to/moebiusansa/milla-jovovichs-mempalace-highlights-a-growing-dark-code-problem-1l1k)
 <!-- BLOG-POST-LIST:END -->
 
 
