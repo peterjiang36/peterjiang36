@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The T-800 Doesn&#39;t Overthink. Neither Should Your LLM.](https://dev.to/__272d48f2ed/the-t-800-doesnt-overthink-neither-should-your-llm-i1f)
-- [Managing your schedule when you have multiple clients](https://dev.to/arthuro33/managing-your-schedule-when-you-have-multiple-clients-2g8p)
-- [Understanding Go: part 13 – Methods](https://dev.to/aurelievache/understanding-go-part-13-methods-585a)
-- [IAM Principal Cost Allocation para Amazon Bedrock &lpar;Novedad&rpar;](https://dev.to/aws-espanol/iam-principal-cost-allocation-para-amazon-bedrock-novedad-26cm)
+- [Build a Laravel Admin CRUD in Minutes with MrCatz DataTable &lpar;Livewire&rpar;](https://dev.to/mrcatz/build-a-laravel-admin-crud-in-minutes-with-mrcatz-datatable-livewire-3ab3)
+- [From Voice to Code: Architecting a Local AI Agent with Llama 3.2 &amp; Streamlit](https://dev.to/jayanth_m_f9c9b1f1d412f04/from-voice-to-code-architecting-a-local-ai-agent-with-llama-32-streamlit-4ebn)
+- [The 9 Things Engineers Get Wrong About the System Design Interview &lpar;and the 185 Articles I Wrote to Fix Them&rpar;](https://dev.to/arslan_ah/the-9-things-engineers-get-wrong-about-the-system-design-interview-and-the-185-articles-i-wrote-to-22p1)
+- [How to Monetize a Mobile App — 6 Proven Strategies That Actually Work](https://dev.to/gautier/how-to-monetize-a-mobile-app-6-proven-strategies-that-actually-work-1ck)
 <!-- BLOG-POST-LIST:END -->
 
 
