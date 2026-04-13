@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From 8 Seconds per Frame to Real-Time 3D Fractals in the Browser](https://dev.to/shinigami92/from-8-seconds-per-frame-to-real-time-3d-fractals-in-the-browser-4b26)
-- [What You Actually Learn in the Salesforce Admin Beginner Trail](https://dev.to/pranav_bharti/what-you-actually-learn-in-the-salesforce-admin-beginner-trail-54f4)
-- [16GB of RAM, 12GB of JSON, and One Very Loud Fan](https://dev.to/velk/16gb-of-ram-12gb-of-json-and-one-very-loud-fan-63i)
-- [Your Database Workflow Is Broken &lpar;And It’s Not Your Fault&rpar;](https://dev.to/slotix/your-database-workflow-is-broken-and-its-not-your-fault-5aal)
+- [Getting Started With Seal Reports: Sharing Filters Across Multiple Models](https://dev.to/vladg_dev/getting-started-with-seal-reports-sharing-filters-across-multiple-models-cl1)
+- [How Epic Games Scales to 100M+ Concurrent Users](https://dev.to/karan_kumar_f09865ff0efe9/how-epic-games-scales-to-100m-concurrent-users-1k0j)
+- [How Hindsight caught a vendor bug logs missed](https://dev.to/amudhan_1603/how-hindsight-caught-a-vendor-bug-logs-missed-10ne)
+- [x402 upto vs MPP Sessions: Two Philosophies of Usage-Based Payments](https://dev.to/philpher0x/x402-upto-vs-mpp-sessions-two-philosophies-of-usage-based-payments-25ib)
 <!-- BLOG-POST-LIST:END -->
 
 
