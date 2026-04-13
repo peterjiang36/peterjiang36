@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Social Media Event Bus: React to Posts, Comments, and Follows in Real-Time](https://dev.to/olams/build-a-social-media-event-bus-react-to-posts-comments-and-follows-in-real-time-1j5n)
-- [Web scraping for AI agents: How to give your agents web access](https://dev.to/asaoluelijah/web-scraping-for-ai-agents-how-to-give-your-agents-web-access-4577)
-- [Servo Now on crates.io: What Rust Devs Need to Know](https://dev.to/onsen/servo-now-on-cratesio-what-rust-devs-need-to-know-41jb)
-- [Building VoiceAgent: From Speech to Safe Action](https://dev.to/suraj_kaushik_1cba7bcf833/building-voiceagent-from-speech-to-safe-action-46kc)
+- [Evaluation, Monitoring, and Model Degradation in Production AI Systems](https://dev.to/satoru_906c2ffeaf64bd2ac1/evaluation-monitoring-and-model-degradation-in-production-ai-systems-4kdl)
+- [Multi-Cloud Identity Federation](https://dev.to/chrisiam/multi-cloud-identity-federation-1peb)
+- [What Changes and What Stays the Same for SRE with AWS Frontier Agents](https://dev.to/aws-builders/what-changes-and-what-stays-the-same-for-sre-with-aws-frontier-agents-23aj)
+- [Building a UK-wide fuel price tracker with Next.js and the CMA open data scheme](https://dev.to/ozzieuk/building-a-uk-wide-fuel-price-tracker-with-nextjs-and-the-cma-open-data-scheme-136b)
 <!-- BLOG-POST-LIST:END -->
 
 
