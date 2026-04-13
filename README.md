@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Keyword-to-Blog-Post Pipeline in Python &lpar;Under 50 Lines&rpar;](https://dev.to/aakash_gour/how-i-built-a-keyword-to-blog-post-pipeline-in-python-under-50-lines-264c)
-- [My AI Agent Could See 167 Tools. Then I Told It to shutup.](https://dev.to/hjs-foundation/my-ai-agent-could-see-167-tools-then-i-told-it-to-shutup-1kp9)
-- [Your AI Should Sleep: How We Built a Night Cycle for a Companion Robot](https://dev.to/desve/your-ai-should-sleep-how-we-built-a-night-cycle-for-a-companion-robot-3h2d)
-- [How I Published 21 Technical Articles in One Day Using GitHub Actions + Supabase](https://dev.to/kanta13jp1/how-i-published-21-technical-articles-in-one-day-using-github-actions-supabase-8cm)
+- [The Control Plane Shift: Why Every Infrastructure Decision in 2026 Is the Same](https://dev.to/ntctech/the-control-plane-shift-why-every-infrastructure-decision-in-2026-is-the-same-64n)
+- [AWS App Runner Is Dead — Here&#39;s What You Should Use Instead &lpar;2026&rpar;](https://dev.to/parag477/aws-app-runner-is-dead-heres-what-you-should-use-instead-2026-1hp7)
+- [Building a Voice-Controlled AI Agent with Groq, Whisper, and Gradio](https://dev.to/alokik_gour/building-a-voice-controlled-ai-agent-with-groq-whisper-and-gradio-2mcc)
+- [StuckLoopDetection: How We Stopped an Agent Burning $12 on 47 Identical Calls](https://dev.to/deenuu1/stuckloopdetection-how-we-stopped-an-agent-burning-12-on-47-identical-calls-52ac)
 <!-- BLOG-POST-LIST:END -->
 
 
