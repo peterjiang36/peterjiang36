@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Automated Linux Hardening Script as a Complete Beginner](https://dev.to/dilsharatharuka52web/how-i-built-an-automated-linux-hardening-script-as-a-complete-beginner-2l22)
-- [Hardening GitLab CI/CD with an open-source pipeline linter](https://dev.to/totarathib/hardening-gitlab-cicd-with-an-open-source-pipeline-linter-30c1)
-- [Resume tokens and last-event IDs for LLM streaming: How they work &amp; what they cost to build](https://dev.to/ablyblog/resume-tokens-and-last-event-ids-for-llm-streaming-how-they-work-what-they-cost-to-build-4l7e)
-- [How to Drop a PostgreSQL Database from a Docker Container &lpar;Without Breaking Things&rpar;](https://dev.to/arafatruetbd/how-to-drop-a-postgresql-database-from-a-docker-container-without-breaking-things-ad3)
+- [Beginner Coding Series](https://dev.to/vrushali_dev_15/beginner-coding-series-4o3j)
+- [The Hidden Cost of ‘Reusable Components’ in Vue](https://dev.to/livecodebase/the-hidden-cost-of-reusable-components-in-vue-4mce)
+- [Stop Copy-Pasting Terraform State Configs: Use Terragrunt instead](https://dev.to/jeancy/stop-copy-pasting-terraform-state-configs-use-terragrunt-instead-ana)
+- [I built a browser-based coding education platform as a CS student, here&#39;s how](https://dev.to/delfinobiang/i-built-a-browser-based-coding-education-platform-as-a-cs-student-heres-how-9k9)
 <!-- BLOG-POST-LIST:END -->
 
 
