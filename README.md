@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Complexity vs Output Quality: When More Instructions Hurt Performance](https://dev.to/jasrandhawa/prompt-complexity-vs-output-quality-when-more-instructions-hurt-performance-2hi5)
-- [Live Streaming From Space: The Infrastructure Challenges Behind Live Video Beyond Earth](https://dev.to/red5/live-streaming-from-space-the-infrastructure-challenges-behind-live-video-beyond-earth-3oj7)
-- [How to Use 24 API Tools from Your AI Assistant with HttpStatus MCP Server](https://dev.to/httpstatus/how-to-use-24-api-tools-from-your-ai-assistant-with-httpstatus-mcp-server-3n68)
-- [Google Sheets vs Notion for Tracking Hobbies: Which One Actually Works?](https://dev.to/sheetflux/google-sheets-vs-notion-for-tracking-hobbies-which-one-actually-works-31l)
+- [Build a Social Media Event Bus: React to Posts, Comments, and Follows in Real-Time](https://dev.to/olams/build-a-social-media-event-bus-react-to-posts-comments-and-follows-in-real-time-1j5n)
+- [Web scraping for AI agents: How to give your agents web access](https://dev.to/asaoluelijah/web-scraping-for-ai-agents-how-to-give-your-agents-web-access-4577)
+- [Servo Now on crates.io: What Rust Devs Need to Know](https://dev.to/onsen/servo-now-on-cratesio-what-rust-devs-need-to-know-41jb)
+- [Building VoiceAgent: From Speech to Safe Action](https://dev.to/suraj_kaushik_1cba7bcf833/building-voiceagent-from-speech-to-safe-action-46kc)
 <!-- BLOG-POST-LIST:END -->
 
 
