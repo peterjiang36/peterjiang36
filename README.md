@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Sourcing Mano-P Today: Pure Vision GUI Agent, OSWorld #1, Apache 2.0](https://dev.to/mininglamp/open-sourcing-mano-p-today-pure-vision-gui-agent-osworld-1-apache-20-3c0h)
-- [Claude Code Multi-Account Setup &lpar;Without Losing Context&rpar;](https://dev.to/ashishxcode/claude-code-multi-account-setup-without-losing-context-49nf)
-- [Prompt Quality Score &lpar;PQS&rpar; Now Supports x402 Payments on Solana](https://dev.to/onchainaiintel/prompt-quality-score-pqs-now-supports-x402-payments-on-solana-40nd)
-- [Agentic ML: Moving from Manual Pipelines to Autonomous AI](https://dev.to/karan_kumar_f09865ff0efe9/agentic-ml-moving-from-manual-pipelines-to-autonomous-ai-e32)
+- [How I Built a Keyword-to-Blog-Post Pipeline in Python &lpar;Under 50 Lines&rpar;](https://dev.to/aakash_gour/how-i-built-a-keyword-to-blog-post-pipeline-in-python-under-50-lines-264c)
+- [My AI Agent Could See 167 Tools. Then I Told It to shutup.](https://dev.to/hjs-foundation/my-ai-agent-could-see-167-tools-then-i-told-it-to-shutup-1kp9)
+- [Your AI Should Sleep: How We Built a Night Cycle for a Companion Robot](https://dev.to/desve/your-ai-should-sleep-how-we-built-a-night-cycle-for-a-companion-robot-3h2d)
+- [How I Published 21 Technical Articles in One Day Using GitHub Actions + Supabase](https://dev.to/kanta13jp1/how-i-published-21-technical-articles-in-one-day-using-github-actions-supabase-8cm)
 <!-- BLOG-POST-LIST:END -->
 
 
