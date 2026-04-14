@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Skill Loading: Two-Layer Knowledge Injection That Costs Tokens Only When Needed](https://dev.to/ivan_magda_8417a0295eb014/skill-loading-two-layer-knowledge-injection-that-costs-tokens-only-when-needed-3956)
-- [Understanding RAG by Building a ChatPDF App: From NumPy to FAISS &lpar;Part 2&rpar;](https://dev.to/sharathkurup/understanding-rag-by-building-a-chatpdf-app-from-numpy-to-faiss-part-2-33oe)
-- [Deploy OpenClaw on AWS: Choose the right options for your AI workload](https://dev.to/aws/deploy-openclaw-on-aws-choose-the-right-options-for-your-ai-workload-297f)
-- [BDO Scraper: Polish Waste Registry &lpar;674K+&rpar;](https://dev.to/ucptools/bdo-scraper-polish-waste-registry-674k-1cal)
+- [Batch Process AI Videos for Social Media Platforms](https://dev.to/renderio/batch-process-ai-videos-for-social-media-platforms-3fbo)
+- [How to Make Duplicate TikTok Videos Unique at Scale](https://dev.to/renderio/how-to-make-duplicate-tiktok-videos-unique-at-scale-4j5j)
+- [深度解析：如何构建高性能 Bilibili 视频下载引擎及流媒体合成架构](https://dev.to/yqqwe/shen-du-jie-xi-ru-he-gou-jian-gao-xing-neng-bilibili-shi-pin-xia-zai-yin-qing-ji-liu-mei-ti-he-cheng-jia-gou-5623)
+- [Инженерия загрузчика Bilibili: Разбор протокола DASH, сегментации M4S и мультиплексирования через FFmpeg](https://dev.to/yqqwe/inzhienieriia-zaghruzchika-bilibili-razbor-protokola-dash-sieghmientatsii-m4s-i-multiplieksirovaniia-chieriez-4m86)
 <!-- BLOG-POST-LIST:END -->
 
 
