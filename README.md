@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [StadiumIQ: Redefining the Stadium Experience with Smart Crowd Intelligence](https://dev.to/anwar_khan_e9eb858b7a5f16/stadiumiq-redefining-the-stadium-experience-with-smart-crowd-intelligence-elf)
-- [Is Reddit Dead… or Just Not What It Used to Be?](https://dev.to/phithanh1230/is-reddit-dead-or-just-not-what-it-used-to-be-1o32)
-- [Whisper Hallucination on Silence: Why Your Transcript Loops the Same Phrase](https://dev.to/nareshipme/whisper-hallucination-on-silence-why-your-transcript-loops-the-same-phrase-2pg4)
-- [I built an AI that hacks you before real attackers do](https://dev.to/shirisha_uppoju_b20d30705/i-built-an-ai-that-hacks-you-before-real-attackers-do-h)
+- [Tower 16 for Mac – Introducing AI Commits ✨](https://dev.to/brunobrito/tower-16-for-mac-introducing-ai-commits-215l)
+- [Checkpoint da Série: o que já funciona, o que quebrou e para onde vamos &lpar;Parte 4.5&rpar;](https://dev.to/cdornelles/checkpoint-da-serie-o-que-ja-funciona-o-que-quebrou-e-para-onde-vamos-parte-45-52nf)
+- [Building a 3-Class Lung Cancer Image Classifier with TensorFlow and Flask](https://dev.to/thehydrabytes/building-a-3-class-lung-cancer-image-classifier-with-tensorflow-and-flask-4615)
+- [Building a Voice-Controlled AI Agent using AssemblyAI and Groq](https://dev.to/ishaanchaturved1/building-a-voice-controlled-ai-agent-using-assemblyai-and-groq-gg7)
 <!-- BLOG-POST-LIST:END -->
 
 
