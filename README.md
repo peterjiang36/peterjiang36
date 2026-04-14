@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a SaaS Landing Page That Converts](https://dev.to/alichherawalla/how-to-write-a-saas-landing-page-that-converts-18hk)
-- [I Love Obsidian. But My AI Can&#39;t Use It.](https://dev.to/alfredoizjr/i-love-obsidian-but-my-ai-cant-use-it-2heg)
-- [Scaling Your Food Truck Fleet with AI: Centralized Control Without the Overhead](https://dev.to/ken_deng_ai/scaling-your-food-truck-fleet-with-ai-centralized-control-without-the-overhead-afg)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38)
+- [Self-Hosted Pantheon vs Claude Managed Agents — A Real Cost Comparison](https://dev.to/whoffagents/self-hosted-pantheon-vs-claude-managed-agents-a-real-cost-comparison-3o9o)
+- [YAML vs Markdown vs JSON vs TOON: Which Format Is Most Efficient for the Claude API](https://dev.to/webramos/yaml-vs-markdown-vs-json-vs-toon-which-format-is-most-efficient-for-the-claude-api-4l94)
+- [No GPU? No problem!, running local AI efficiently on my CPU.](https://dev.to/muguchiaerickmwangi/no-gpu-no-problem-running-local-ai-efficiently-on-my-cpu-1fhf)
+- [The Bolt-On](https://dev.to/thesythesis/the-bolt-on-59oe)
 <!-- BLOG-POST-LIST:END -->
 
 
