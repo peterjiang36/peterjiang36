@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Has Amnesia — Here&#39;s How to Fix It with MCP Servers](https://dev.to/renato_marinho/your-ai-agent-has-amnesia-heres-how-to-fix-it-with-mcp-servers-19ln)
-- [Apache Kafka tutorial – What is Apache Kafka?](https://dev.to/altairlage/apache-kafka-tutorial-what-is-apache-kafka-4edl)
-- [Paginação em APIs REST com C# e EF Core: quando usar Offset, Cursor e Keyset](https://dev.to/lzocate-li/paginacao-em-apis-rest-com-c-e-ef-core-quando-usar-offset-cursor-e-keyset-3768)
-- [I vibe-coded the same app on Supabase, Convex, Vennbase, and InstantDB. The results look the same, but they&#39;re not.](https://dev.to/alexdavies74/i-vibe-coded-the-same-app-on-supabase-convex-vennbase-and-instantdb-the-results-look-the-same-1nhg)
+- [How to Deploy Spring Boot Apps on Fly.io](https://dev.to/aerc18/how-to-deploy-spring-boot-apps-on-flyio-5390)
+- [From GitHub to Interview-Ready Resume: Why I Built GitLanded &lpar;and What It Actually Does&rpar;](https://dev.to/omarashry/from-github-to-interview-ready-resume-why-i-built-gitlanded-and-what-it-actually-does-5h0f)
+- [Microsoft MAI-Image-2-Efficient Review 2026: The AI Image Model Built for Production Scale](https://dev.to/bean_bean/microsoft-mai-image-2-efficient-review-2026-the-ai-image-model-built-for-production-scale-1ai5)
+- [Why I Named My Clothing Brand After a /32 And What It Says About IT Culture](https://dev.to/slash_32_7698d745b2b3618f/why-i-named-my-clothing-brand-after-a-32-and-what-it-says-about-it-culture-1ogo)
 <!-- BLOG-POST-LIST:END -->
 
 
