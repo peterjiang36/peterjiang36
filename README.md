@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# I Replaced a $100K Security Audit with a CI Pipeline — And It Caught More Bugs](https://dev.to/vano_chkheidze_5071c537e2/-i-replaced-a-100k-security-audit-with-a-ci-pipeline-and-it-caught-more-bugs-1h11)
-- [Gin+Go Waiting Room Package Released](https://dev.to/andreimerlescu/gingo-waiting-room-package-released-41me)
-- [How I Set Up a Browser Automation Skill for AI Agents Using Chrome CDP &lpar;Step-by-Step Guide&rpar;](https://dev.to/survivor/how-i-set-up-a-browser-automation-skill-for-ai-agents-using-chrome-cdp-step-by-step-guide-4dhj)
-- [Your CSS Animations Are Doing Too Much Manual Labor — Fix It With FSCSS](https://dev.to/sheraz046/your-css-animations-are-doing-too-much-manual-labor-fix-it-with-fscss-52pf)
+- [I Built a Free MCP Server for European Financial Data](https://dev.to/dimitri_roesing/i-built-a-free-mcp-server-for-european-financial-data-50co)
+- [How I Built a 2,600-Page Unit Converter with Programmatic SEO](https://dev.to/jjpdev/how-i-built-a-2600-page-unit-converter-with-programmatic-seo-2ml)
+- [Fix ERR_TOO_MANY_REDIRECTS: WordPress di Belakang AWS ALB](https://dev.to/eryanfauzan/fix-errtoomanyredirects-wordpress-di-belakang-aws-alb-1114)
+- [Kimi Desktop on Ubuntu 26.04: Fixing the Broken .deb with Tauri v2](https://dev.to/johnohhh1/kimi-desktop-on-ubuntu-2604-fixing-the-broken-deb-with-tauri-v2-1e25)
 <!-- BLOG-POST-LIST:END -->
 
 
