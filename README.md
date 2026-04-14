@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in Diction 5.0](https://dev.to/omachala/whats-new-in-diction-50-1k0l)
-- [15. The Document Object Model &lpar;DOM&rpar;](https://dev.to/avery_/15-the-document-object-model-dom-442i)
-- [Amazon Bedrock for Beginners From First Prompt to AI Agent &lpar;Full Tutorial&rpar;](https://dev.to/morganwilliscloud/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln)
-- [After the Panic: A Note for Junior Engineers](https://dev.to/crawleyprint_71/after-the-panic-a-note-for-junior-engineers-2oe3)
+- [Your AI Agent Has Amnesia — Here&#39;s How to Fix It with MCP Servers](https://dev.to/renato_marinho/your-ai-agent-has-amnesia-heres-how-to-fix-it-with-mcp-servers-19ln)
+- [Apache Kafka tutorial – What is Apache Kafka?](https://dev.to/altairlage/apache-kafka-tutorial-what-is-apache-kafka-4edl)
+- [Paginação em APIs REST com C# e EF Core: quando usar Offset, Cursor e Keyset](https://dev.to/lzocate-li/paginacao-em-apis-rest-com-c-e-ef-core-quando-usar-offset-cursor-e-keyset-3768)
+- [I vibe-coded the same app on Supabase, Convex, Vennbase, and InstantDB. The results look the same, but they&#39;re not.](https://dev.to/alexdavies74/i-vibe-coded-the-same-app-on-supabase-convex-vennbase-and-instantdb-the-results-look-the-same-1nhg)
 <!-- BLOG-POST-LIST:END -->
 
 
