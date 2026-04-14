@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the DEV Community Homepage with Pure Canvas](https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0)
-- [AUTOSELLER AI AGENT](https://dev.to/sandhya13r/autoseller-ai-agent-2bf8)
-- [Everyone Using DbContext Concurrently Is Making This Mistake](https://dev.to/temitope_okelola/everyone-using-dbcontext-concurrently-is-making-this-mistake-24bg)
-- [7 Agent Harness Components Every AI Engineer Needs for Production](https://dev.to/divy_ai/7-agent-harness-components-every-ai-engineer-needs-for-production-2d8k)
+- [I Spent 12 Hours Debugging PostHog Self-Hosting So You Don&#39;t Have To](https://dev.to/ismailmirza/i-spent-12-hours-debugging-posthog-self-hosting-so-you-dont-have-to-pb0)
+- [Picking a ServiceNow Partner Is Harder Than It Looks](https://dev.to/omkar_gaikwad_82d889d1a94/picking-a-servicenow-partner-is-harder-than-it-looks-1cg4)
+- [Don&#39;t Let AI Become The Leech Inside Your Brain](https://dev.to/ryo_suwito/dont-let-ai-become-the-leech-inside-your-brain-454h)
+- [I’m Building a Canvas-Style Market Research Workspace — Does This Direction Make Sense?](https://dev.to/pallaxa/im-building-a-canvas-style-market-research-workspace-does-this-direction-make-sense-5555)
 <!-- BLOG-POST-LIST:END -->
 
 
