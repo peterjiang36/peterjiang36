@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Batch Process AI Videos for Social Media Platforms](https://dev.to/renderio/batch-process-ai-videos-for-social-media-platforms-3fbo)
-- [How to Make Duplicate TikTok Videos Unique at Scale](https://dev.to/renderio/how-to-make-duplicate-tiktok-videos-unique-at-scale-4j5j)
-- [深度解析：如何构建高性能 Bilibili 视频下载引擎及流媒体合成架构](https://dev.to/yqqwe/shen-du-jie-xi-ru-he-gou-jian-gao-xing-neng-bilibili-shi-pin-xia-zai-yin-qing-ji-liu-mei-ti-he-cheng-jia-gou-5623)
-- [Инженерия загрузчика Bilibili: Разбор протокола DASH, сегментации M4S и мультиплексирования через FFmpeg](https://dev.to/yqqwe/inzhienieriia-zaghruzchika-bilibili-razbor-protokola-dash-sieghmientatsii-m4s-i-multiplieksirovaniia-chieriez-4m86)
+- [Building the DEV Community Homepage with Pure Canvas](https://dev.to/ouzhou/building-the-dev-community-homepage-with-pure-canvas-8d0)
+- [AUTOSELLER AI AGENT](https://dev.to/sandhya13r/autoseller-ai-agent-2bf8)
+- [Everyone Using DbContext Concurrently Is Making This Mistake](https://dev.to/temitope_okelola/everyone-using-dbcontext-concurrently-is-making-this-mistake-24bg)
+- [7 Agent Harness Components Every AI Engineer Needs for Production](https://dev.to/divy_ai/7-agent-harness-components-every-ai-engineer-needs-for-production-2d8k)
 <!-- BLOG-POST-LIST:END -->
 
 
