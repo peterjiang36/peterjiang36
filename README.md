@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[SC] Actores globales](https://dev.to/david_goyes_a488f58a17a53/sc-actores-globales-384b)
-- [You Asked AI to Analyze Your Users. The Report Looks Amazing. It&#39;s Probably Wrong.](https://dev.to/matthewhou/you-asked-ai-to-analyze-your-users-the-report-looks-amazing-its-probably-wrong-1lpm)
-- [Prompt Engineering Is Not Optional in 2026](https://dev.to/mteheran/prompt-engineering-is-not-optional-in-2026-4m4m)
-- [I Saw Someone Build an AI-Powered Kali Lab at BSides San Diego. Then I Built My Own.](https://dev.to/_spac3gh0st/i-saw-someone-build-an-ai-powered-kali-lab-at-bsides-san-diego-then-i-built-my-own-1944)
+- [Origin: We Built an AI That Learns Like a Child, Not Like a Server Farm](https://dev.to/jtil4201/origin-we-built-an-ai-that-learns-like-a-child-not-like-a-server-farm-2fi6)
+- [I Built a Verified LEI + FIGI Lookup Agent for $5/month — Callable by Any AI Agent via x402](https://dev.to/miggie8888/i-built-a-verified-lei-figi-lookup-agent-for-5month-callable-by-any-ai-agent-via-x402-3lm)
+- [The Ethics of AI Coding Agents: What Developers Should Know](https://dev.to/zacvibecodez/the-ethics-of-ai-coding-agents-what-developers-should-know-3of2)
+- [🌐 Deploying an AWS VPC with Terraform &lpar;Hands-On Lab&rpar; — Part 8](https://dev.to/ahkarswe/deploying-an-aws-vpc-with-terraform-hands-on-lab-part-8-npj)
 <!-- BLOG-POST-LIST:END -->
 
 
