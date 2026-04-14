@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unique Identifiers in Android and iOS: ANDROID_ID, UUID, and Other Strategies](https://dev.to/alejandrocordon/unique-identifiers-in-android-and-ios-androidid-uuid-and-other-strategies-2gl9)
-- [Sparse Federated Representation Learning for autonomous urban air mobility routing during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-during-5am0)
-- [Anthropic Closes Claude Loophole for Agent Tools](https://dev.to/rosgluk/anthropic-closes-claude-loophole-for-agent-tools-1h18)
-- [How Bifrost&#39;s MCP Gateway Cuts AI Agent Token Costs by 92% Without Sacrificing Capability](https://dev.to/andrewbaisden/how-bifrosts-mcp-gateway-cuts-ai-agent-token-costs-by-92-without-sacrificing-capability-237i)
+- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
+- [A Beginner-Friendly Guide to Modern Data Pipelines in the Age of Cloud Computing](https://dev.to/petermuriya/a-beginner-friendly-guide-to-modern-data-pipelines-in-the-age-of-cloud-computing-3d2d)
+- [I got tired of writing commit messages. So I built a CLI.](https://dev.to/federico_6767aae26b9b71f4/i-got-tired-of-writing-commit-messages-so-i-built-a-cli-44fa)
+- [How to review a PR](https://dev.to/zaphoddev/how-to-review-a-pr-525h)
 <!-- BLOG-POST-LIST:END -->
 
 
