@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Really Need Separate Mailboxes for Every Business Email Address?](https://dev.to/nonozone/do-you-really-need-separate-mailboxes-for-every-business-email-address-eak)
-- [Reports of RAG&#39;s death have been greatly exaggerated](https://dev.to/kenforthewin/reports-of-rags-death-have-been-greatly-exaggerated-50ee)
-- [3 Patterns for AI Agents That Analyze Stock Charts](https://dev.to/grahammccain/3-patterns-for-ai-agents-that-analyze-stock-charts-3p2)
-- [Eval Integrity: How We Found the Leakage and Why Our Baseline Lied](https://dev.to/grahammccain/eval-integrity-how-we-found-the-leakage-and-why-our-baseline-lied-cf6)
+- [My AI told me to pip install a package that doesn&#39;t exist. Turns out someone already weaponized that.](https://dev.to/xihegoddess/my-ai-told-me-to-pip-install-a-package-that-doesnt-exist-turns-out-someone-already-weaponized-2eoi)
+- [Why building a job scraper for $0.39/1,000 jobs is not about the money.](https://dev.to/testinat0r/why-building-a-job-scraper-for-0391000-jobs-is-not-about-the-money-1cnn)
+- [How to Add Comments to an Eleventy Site &lpar;with a Custom Shortcode&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-eleventy-site-with-a-custom-shortcode-51c7)
+- [Bringing Reka Edge to Your Workflow via OpenRouter](https://dev.to/reka/bringing-reka-edge-to-your-workflow-via-openrouter-2bgh)
 <!-- BLOG-POST-LIST:END -->
 
 
