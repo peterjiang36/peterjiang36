@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Hands-on] Midnight Deep Dive: Start Building Smart Contracts with Compact](https://dev.to/midnight-aliit/hands-on-midnight-deep-dive-start-building-smart-contracts-with-compact-1inb)
-- [How do AI video generation models work?](https://dev.to/googleai/how-do-ai-video-generation-models-work-a82)
-- [Understanding OpenClaw Memory: How Your Agent Remembers](https://dev.to/zacvibecodez/understanding-openclaw-memory-how-your-agent-remembers-306i)
-- [When the tool breaking is the only thing that makes you take a break](https://dev.to/bao_ngo_48313312086d5b368/when-the-tool-breaking-is-the-only-thing-that-makes-you-take-a-break-151d)
+- [StadiumIQ: Redefining the Stadium Experience with Smart Crowd Intelligence](https://dev.to/anwar_khan_e9eb858b7a5f16/stadiumiq-redefining-the-stadium-experience-with-smart-crowd-intelligence-elf)
+- [Is Reddit Dead… or Just Not What It Used to Be?](https://dev.to/phithanh1230/is-reddit-dead-or-just-not-what-it-used-to-be-1o32)
+- [Whisper Hallucination on Silence: Why Your Transcript Loops the Same Phrase](https://dev.to/nareshipme/whisper-hallucination-on-silence-why-your-transcript-loops-the-same-phrase-2pg4)
+- [I built an AI that hacks you before real attackers do](https://dev.to/shirisha_uppoju_b20d30705/i-built-an-ai-that-hacks-you-before-real-attackers-do-h)
 <!-- BLOG-POST-LIST:END -->
 
 
