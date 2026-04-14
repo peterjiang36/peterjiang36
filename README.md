@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
-- [A Beginner-Friendly Guide to Modern Data Pipelines in the Age of Cloud Computing](https://dev.to/petermuriya/a-beginner-friendly-guide-to-modern-data-pipelines-in-the-age-of-cloud-computing-3d2d)
-- [I got tired of writing commit messages. So I built a CLI.](https://dev.to/federico_6767aae26b9b71f4/i-got-tired-of-writing-commit-messages-so-i-built-a-cli-44fa)
-- [How to review a PR](https://dev.to/zaphoddev/how-to-review-a-pr-525h)
+- [Do You Really Need Separate Mailboxes for Every Business Email Address?](https://dev.to/nonozone/do-you-really-need-separate-mailboxes-for-every-business-email-address-eak)
+- [Reports of RAG&#39;s death have been greatly exaggerated](https://dev.to/kenforthewin/reports-of-rags-death-have-been-greatly-exaggerated-50ee)
+- [3 Patterns for AI Agents That Analyze Stock Charts](https://dev.to/grahammccain/3-patterns-for-ai-agents-that-analyze-stock-charts-3p2)
+- [Eval Integrity: How We Found the Leakage and Why Our Baseline Lied](https://dev.to/grahammccain/eval-integrity-how-we-found-the-leakage-and-why-our-baseline-lied-cf6)
 <!-- BLOG-POST-LIST:END -->
 
 
