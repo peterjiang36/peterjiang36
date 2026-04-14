@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 12 Hours Debugging PostHog Self-Hosting So You Don&#39;t Have To](https://dev.to/ismailmirza/i-spent-12-hours-debugging-posthog-self-hosting-so-you-dont-have-to-pb0)
-- [Picking a ServiceNow Partner Is Harder Than It Looks](https://dev.to/omkar_gaikwad_82d889d1a94/picking-a-servicenow-partner-is-harder-than-it-looks-1cg4)
-- [Don&#39;t Let AI Become The Leech Inside Your Brain](https://dev.to/ryo_suwito/dont-let-ai-become-the-leech-inside-your-brain-454h)
-- [I’m Building a Canvas-Style Market Research Workspace — Does This Direction Make Sense?](https://dev.to/pallaxa/im-building-a-canvas-style-market-research-workspace-does-this-direction-make-sense-5555)
+- [Unique Identifiers in Android and iOS: ANDROID_ID, UUID, and Other Strategies](https://dev.to/alejandrocordon/unique-identifiers-in-android-and-ios-androidid-uuid-and-other-strategies-2gl9)
+- [Sparse Federated Representation Learning for autonomous urban air mobility routing during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-during-5am0)
+- [Anthropic Closes Claude Loophole for Agent Tools](https://dev.to/rosgluk/anthropic-closes-claude-loophole-for-agent-tools-1h18)
+- [How Bifrost&#39;s MCP Gateway Cuts AI Agent Token Costs by 92% Without Sacrificing Capability](https://dev.to/andrewbaisden/how-bifrosts-mcp-gateway-cuts-ai-agent-token-costs-by-92-without-sacrificing-capability-237i)
 <!-- BLOG-POST-LIST:END -->
 
 
