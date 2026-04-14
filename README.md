@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Helped a Client Regain Control of Their Business](https://dev.to/arezvov/how-we-helped-a-client-regain-control-of-their-business-537h)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2amk)
-- [Build Project Structures: Create Professional Layouts Instantly with Powershell](https://dev.to/arnostorg/build-project-structures-create-professional-layouts-instantly-with-powershell-18a0)
-- [I Built an API That Gives AI Agents Persistent Memory - Here&#39;s How](https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb)
+- [Skill Loading: Two-Layer Knowledge Injection That Costs Tokens Only When Needed](https://dev.to/ivan_magda_8417a0295eb014/skill-loading-two-layer-knowledge-injection-that-costs-tokens-only-when-needed-3956)
+- [Understanding RAG by Building a ChatPDF App: From NumPy to FAISS &lpar;Part 2&rpar;](https://dev.to/sharathkurup/understanding-rag-by-building-a-chatpdf-app-from-numpy-to-faiss-part-2-33oe)
+- [Deploy OpenClaw on AWS: Choose the right options for your AI workload](https://dev.to/aws/deploy-openclaw-on-aws-choose-the-right-options-for-your-ai-workload-297f)
+- [BDO Scraper: Polish Waste Registry &lpar;674K+&rpar;](https://dev.to/ucptools/bdo-scraper-polish-waste-registry-674k-1cal)
 <!-- BLOG-POST-LIST:END -->
 
 
