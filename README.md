@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw vs Continue.dev: IDE Agent Showdown](https://dev.to/zacvibecodez/openclaw-vs-continuedev-ide-agent-showdown-3c7c)
-- [How I Built a Premium SaaS Landing Page Template with Tailwind CSS and Vanilla JS](https://dev.to/ctrlcheese/how-i-built-a-premium-saas-landing-page-template-with-tailwind-css-and-vanilla-js-12k7)
-- [Kubernetes Test Automation: Implementing a Shift-Left Strategy](https://dev.to/devopsstart/kubernetes-test-automation-implementing-a-shift-left-strategy-cao)
-- [How to Make a Company AI-Native &lpar;Without Building Anything&rpar;](https://dev.to/serhiip/how-to-make-a-company-ai-native-without-building-anything-2dmk)
+- [[Hands-on] Midnight Deep Dive: Start Building Smart Contracts with Compact](https://dev.to/midnight-aliit/hands-on-midnight-deep-dive-start-building-smart-contracts-with-compact-1inb)
+- [How do AI video generation models work?](https://dev.to/googleai/how-do-ai-video-generation-models-work-a82)
+- [Understanding OpenClaw Memory: How Your Agent Remembers](https://dev.to/zacvibecodez/understanding-openclaw-memory-how-your-agent-remembers-306i)
+- [When the tool breaking is the only thing that makes you take a break](https://dev.to/bao_ngo_48313312086d5b368/when-the-tool-breaking-is-the-only-thing-that-makes-you-take-a-break-151d)
 <!-- BLOG-POST-LIST:END -->
 
 
