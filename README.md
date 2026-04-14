@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI told me to pip install a package that doesn&#39;t exist. Turns out someone already weaponized that.](https://dev.to/xihegoddess/my-ai-told-me-to-pip-install-a-package-that-doesnt-exist-turns-out-someone-already-weaponized-2eoi)
-- [Why building a job scraper for $0.39/1,000 jobs is not about the money.](https://dev.to/testinat0r/why-building-a-job-scraper-for-0391000-jobs-is-not-about-the-money-1cnn)
-- [How to Add Comments to an Eleventy Site &lpar;with a Custom Shortcode&rpar;](https://dev.to/yoni_ryabinski_da05ba8c9c/how-to-add-comments-to-an-eleventy-site-with-a-custom-shortcode-51c7)
-- [Bringing Reka Edge to Your Workflow via OpenRouter](https://dev.to/reka/bringing-reka-edge-to-your-workflow-via-openrouter-2bgh)
+- [OpenClaw vs Continue.dev: IDE Agent Showdown](https://dev.to/zacvibecodez/openclaw-vs-continuedev-ide-agent-showdown-3c7c)
+- [How I Built a Premium SaaS Landing Page Template with Tailwind CSS and Vanilla JS](https://dev.to/ctrlcheese/how-i-built-a-premium-saas-landing-page-template-with-tailwind-css-and-vanilla-js-12k7)
+- [Kubernetes Test Automation: Implementing a Shift-Left Strategy](https://dev.to/devopsstart/kubernetes-test-automation-implementing-a-shift-left-strategy-cao)
+- [How to Make a Company AI-Native &lpar;Without Building Anything&rpar;](https://dev.to/serhiip/how-to-make-a-company-ai-native-without-building-anything-2dmk)
 <!-- BLOG-POST-LIST:END -->
 
 
