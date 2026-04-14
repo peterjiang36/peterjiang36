@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free MCP Server for European Financial Data](https://dev.to/dimitri_roesing/i-built-a-free-mcp-server-for-european-financial-data-50co)
-- [How I Built a 2,600-Page Unit Converter with Programmatic SEO](https://dev.to/jjpdev/how-i-built-a-2600-page-unit-converter-with-programmatic-seo-2ml)
-- [Fix ERR_TOO_MANY_REDIRECTS: WordPress di Belakang AWS ALB](https://dev.to/eryanfauzan/fix-errtoomanyredirects-wordpress-di-belakang-aws-alb-1114)
-- [Kimi Desktop on Ubuntu 26.04: Fixing the Broken .deb with Tauri v2](https://dev.to/johnohhh1/kimi-desktop-on-ubuntu-2604-fixing-the-broken-deb-with-tauri-v2-1e25)
+- [How We Helped a Client Regain Control of Their Business](https://dev.to/arezvov/how-we-helped-a-client-regain-control-of-their-business-537h)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2amk)
+- [Build Project Structures: Create Professional Layouts Instantly with Powershell](https://dev.to/arnostorg/build-project-structures-create-professional-layouts-instantly-with-powershell-18a0)
+- [I Built an API That Gives AI Agents Persistent Memory - Here&#39;s How](https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb)
 <!-- BLOG-POST-LIST:END -->
 
 
