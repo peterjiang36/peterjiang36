@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted Pantheon vs Claude Managed Agents — A Real Cost Comparison](https://dev.to/whoffagents/self-hosted-pantheon-vs-claude-managed-agents-a-real-cost-comparison-3o9o)
-- [YAML vs Markdown vs JSON vs TOON: Which Format Is Most Efficient for the Claude API](https://dev.to/webramos/yaml-vs-markdown-vs-json-vs-toon-which-format-is-most-efficient-for-the-claude-api-4l94)
-- [No GPU? No problem!, running local AI efficiently on my CPU.](https://dev.to/muguchiaerickmwangi/no-gpu-no-problem-running-local-ai-efficiently-on-my-cpu-1fhf)
-- [The Bolt-On](https://dev.to/thesythesis/the-bolt-on-59oe)
+- [What&#39;s New in Diction 5.0](https://dev.to/omachala/whats-new-in-diction-50-1k0l)
+- [15. The Document Object Model &lpar;DOM&rpar;](https://dev.to/avery_/15-the-document-object-model-dom-442i)
+- [Amazon Bedrock for Beginners From First Prompt to AI Agent &lpar;Full Tutorial&rpar;](https://dev.to/morganwilliscloud/amazon-bedrock-for-beginners-from-first-prompt-to-ai-agent-full-tutorial-12ln)
+- [After the Panic: A Note for Junior Engineers](https://dev.to/crawleyprint_71/after-the-panic-a-note-for-junior-engineers-2oe3)
 <!-- BLOG-POST-LIST:END -->
 
 
