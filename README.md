@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tower 16 for Mac – Introducing AI Commits ✨](https://dev.to/brunobrito/tower-16-for-mac-introducing-ai-commits-215l)
-- [Checkpoint da Série: o que já funciona, o que quebrou e para onde vamos &lpar;Parte 4.5&rpar;](https://dev.to/cdornelles/checkpoint-da-serie-o-que-ja-funciona-o-que-quebrou-e-para-onde-vamos-parte-45-52nf)
-- [Building a 3-Class Lung Cancer Image Classifier with TensorFlow and Flask](https://dev.to/thehydrabytes/building-a-3-class-lung-cancer-image-classifier-with-tensorflow-and-flask-4615)
-- [Building a Voice-Controlled AI Agent using AssemblyAI and Groq](https://dev.to/ishaanchaturved1/building-a-voice-controlled-ai-agent-using-assemblyai-and-groq-gg7)
+- [Building Real-Time Applications with WebSockets in 2026: Architecture, Scaling, and Production Patterns](https://dev.to/vikrant_bagal_afae3e25ca7/building-real-time-applications-with-websockets-in-2026-architecture-scaling-and-production-48di)
+- [I Built a Rube Goldburg Machine to Monitor My Smoker using k8s, Prometheus, and Grafana ????](https://dev.to/focused_dot_io/i-built-a-rube-goldburg-machine-to-monitor-my-smoker-using-k8s-prometheus-and-grafana--47cl)
+- [Text Normalization Do&#39;s and Don&#39;t&#39;s for Modern LLM development](https://dev.to/focused_dot_io/text-normalization-dos-and-donts-for-modern-llm-development-19me)
+- [How to Design What People Need, Even When it&#39;s Not What They Want](https://dev.to/focused_dot_io/how-to-design-what-people-need-even-when-its-not-what-they-want-2eba)
 <!-- BLOG-POST-LIST:END -->
 
 
