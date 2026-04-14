@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Origin: We Built an AI That Learns Like a Child, Not Like a Server Farm](https://dev.to/jtil4201/origin-we-built-an-ai-that-learns-like-a-child-not-like-a-server-farm-2fi6)
-- [I Built a Verified LEI + FIGI Lookup Agent for $5/month — Callable by Any AI Agent via x402](https://dev.to/miggie8888/i-built-a-verified-lei-figi-lookup-agent-for-5month-callable-by-any-ai-agent-via-x402-3lm)
-- [The Ethics of AI Coding Agents: What Developers Should Know](https://dev.to/zacvibecodez/the-ethics-of-ai-coding-agents-what-developers-should-know-3of2)
-- [🌐 Deploying an AWS VPC with Terraform &lpar;Hands-On Lab&rpar; — Part 8](https://dev.to/ahkarswe/deploying-an-aws-vpc-with-terraform-hands-on-lab-part-8-npj)
+- [# I Replaced a $100K Security Audit with a CI Pipeline — And It Caught More Bugs](https://dev.to/vano_chkheidze_5071c537e2/-i-replaced-a-100k-security-audit-with-a-ci-pipeline-and-it-caught-more-bugs-1h11)
+- [Gin+Go Waiting Room Package Released](https://dev.to/andreimerlescu/gingo-waiting-room-package-released-41me)
+- [How I Set Up a Browser Automation Skill for AI Agents Using Chrome CDP &lpar;Step-by-Step Guide&rpar;](https://dev.to/survivor/how-i-set-up-a-browser-automation-skill-for-ai-agents-using-chrome-cdp-step-by-step-guide-4dhj)
+- [Your CSS Animations Are Doing Too Much Manual Labor — Fix It With FSCSS](https://dev.to/sheraz046/your-css-animations-are-doing-too-much-manual-labor-fix-it-with-fscss-52pf)
 <!-- BLOG-POST-LIST:END -->
 
 
