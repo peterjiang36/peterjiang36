@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Dead Simple App Because Claude Code Couldn&#39;t Hear Me](https://dev.to/vientapps/i-built-a-dead-simple-app-because-claude-code-couldnt-hear-me-2l90)
-- [Cassandra Internals: LSM Tree, SSTables, and Compaction](https://dev.to/priteshsurana/cassandra-internals-lsm-tree-sstables-and-compaction-2ai8)
-- [I Built Four Tools with Claude Code. None of Them Had Tests. So I Fixed That](https://dev.to/nikhilj/i-built-four-tools-with-claude-code-none-of-them-had-tests-so-i-fixed-that-25gk)
-- [Greedy Algorithms](https://dev.to/sm1/greedy-algorithms-14bl)
+- [5 Important Logics to Understand About Liquidity Book Pair](https://dev.to/azeezabidoye/5-important-logics-to-understand-about-liquidity-book-pair-256o)
+- [How to Try Egonex ECP in .NET 8 and Send Emergency Alerts with an 8-Byte Payload](https://dev.to/geosegun/how-to-try-egonex-ecp-in-net-8-and-send-emergency-alerts-with-an-8-byte-payload-185p)
+- [How to Add Human Approval to Any Zapier Zap](https://dev.to/okrunit/how-to-add-human-approval-to-any-zapier-zap-57km)
+- [GHSA-JJ6C-8H6C-HPPX: GHSA-JJ6C-8H6C-HPPX: Uncontrolled Resource Consumption in pypdf via Malformed PDF Streams](https://dev.to/cverports/ghsa-jj6c-8h6c-hppx-ghsa-jj6c-8h6c-hppx-uncontrolled-resource-consumption-in-pypdf-via-malformed-16jh)
 <!-- BLOG-POST-LIST:END -->
 
 
