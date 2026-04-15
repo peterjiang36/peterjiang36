@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ported ComfyUI Desktop to Ubuntu 26.04](https://dev.to/johnohhh1/i-ported-comfyui-desktop-to-ubuntu-2604-2cb8)
-- [Why I stopped putting LLMs in my agent memory retrieval path](https://dev.to/aarjay_singh_0f76e7ca03bf/why-i-stopped-putting-llms-in-my-agent-memory-retrieval-path-4bia)
-- [&quot;My Company Has Azure OpenAI. My AI Coding Tools Had No Idea What to Do With It.&quot;](https://dev.to/yiyaoai/my-company-has-azure-openai-my-ai-coding-tools-had-no-idea-what-to-do-with-it-26ik)
-- [Building a Low-Cost Download Distribution Station with Cheap Cloud Servers](https://dev.to/newbe36524/building-a-low-cost-download-distribution-station-with-cheap-cloud-servers-7c0)
+- [Filter Data in PowerShell: Where-Object Patterns](https://dev.to/arnostorg/filter-data-in-powershell-where-object-patterns-1mg7)
+- [How I built a resume MCP in an hour](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)
+- [Blueprint: JATS Structural Integrity: The XML-First Framework](https://dev.to/sufyanism/blueprint-jats-structural-integrity-the-xml-first-framework-3l7a)
+- [Your terminal is mass, here are 280+ tools to fix it](https://dev.to/thegdsks/your-terminal-is-mass-here-are-280-tools-to-fix-it-4bc5)
 <!-- BLOG-POST-LIST:END -->
 
 
