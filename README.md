@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Prompt Engineer to Agent Engineer: The 7 Skills You Need to Build AI Agents](https://dev.to/manishmshiva/from-prompt-engineer-to-agent-engineer-the-7-skills-you-need-to-build-ai-agents-33o7)
-- [From Request to Production in One Push. No Mockup Tool Required.](https://dev.to/artanidos/from-request-to-production-in-one-push-no-mockup-tool-required-opa)
-- [How to Compress SVG Files: Tools, Techniques, Config](https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028)
-- [Interview #145: API: Difference between 500 vs 503 status codes?](https://dev.to/maibhushan/interview-145-api-difference-between-500-vs-503-status-codes-24ea)
+- [AI Writes the Code — But You Own the Consequences](https://dev.to/rohith_kn/ai-writes-the-code-but-you-own-the-consequences-116j)
+- [Why 80% of Programmers Are Unhappy &lpar;It&#39;s Not the Money&rpar;](https://dev.to/visesh/why-80-of-programmers-are-unhappy-its-not-the-money-jb3)
+- [Laravel has no native WebDAV server — so I built one](https://dev.to/n3xt0r/laravel-has-no-native-webdav-server-so-i-built-one-2epk)
+- [Cloud AI APIs vs. Self-Hosted LLMs: When an Old Phone Beats GPT-4](https://dev.to/alanwest/cloud-ai-apis-vs-self-hosted-llms-when-an-old-phone-beats-gpt-4-7om)
 <!-- BLOG-POST-LIST:END -->
 
 
