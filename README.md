@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Ways to Leverage Stripe to Build Your Online Business](https://dev.to/focused_dot_io/5-ways-to-leverage-stripe-to-build-your-online-business-443g)
-- [7 Tips to Pass the Stripe Certified Professional Implementation Architect Exam](https://dev.to/focused_dot_io/7-tips-to-pass-the-stripe-certified-professional-implementation-architect-exam-363h)
-- [My Delivery Lead Journey](https://dev.to/focused_dot_io/my-delivery-lead-journey-5ij)
-- [Building Psychological Safety From the Ground Up](https://dev.to/focused_dot_io/building-psychological-safety-from-the-ground-up-3kc7)
+- [Como adicionar uma ferramenta de postagem em fórum ao seu bot no Coze em 5 minutos](https://dev.to/colonistone_34/como-adicionar-uma-ferramenta-de-postagem-em-forum-ao-seu-bot-no-coze-em-5-minutos-1b23)
+- [Looking for testers of my SaaS template](https://dev.to/shimmy/looking-for-testers-of-my-saas-template-2fg5)
+- [Post-Mortem Best Practices That Actually Drive Change](https://dev.to/samson_tanimawo/post-mortem-best-practices-that-actually-drive-change-3pin)
+- [I tested a 4B model vs a 70B model on research papers. The 4B model won](https://dev.to/anubhavbharadwaaj/i-tested-a-4b-model-vs-a-70b-model-on-research-papers-the-4b-model-won-hln)
 <!-- BLOG-POST-LIST:END -->
 
 
