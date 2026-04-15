@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Voice AI Agent in 72 Hours — Here&#39;s Every Decision I&#39;d Make Differently](https://dev.to/akritah/i-built-a-voice-ai-agent-in-72-hours-heres-every-decision-id-make-differently-4d8e)
-- [Building a Multi-Tenant Platform with vCluster on AWS](https://dev.to/yevgeni_shapiro/building-a-multi-tenant-building-a-multi-tenant-platform-with-vcluster-on-aws-d19)
-- [LOS-starter — How I Built a File-Based OS for My Dev Work](https://dev.to/gad_ofir_076c468dd15d483b/los-starter-how-i-built-a-file-based-os-for-my-dev-work-1767)
-- [Your AI Stack Is Too Big](https://dev.to/inferencedaily/your-ai-stack-is-too-big-4eco)
+- [Carte fidélité iPhone : Le guide complet pour booster la rétention de vos clients](https://dev.to/tabcard/carte-fidelite-iphone-le-guide-complet-pour-booster-la-retention-de-vos-clients-2nbb)
+- [16. Advanced JavaScript and DOM Manipulation](https://dev.to/avery_/16-advanced-javascript-and-dom-manipulation-3464)
+- [I built a self-improving home server that autoconfigures itself](https://dev.to/tomastruben/i-built-a-self-improving-home-server-that-autoconfigures-itself-e0p)
+- [Build an Unusual Options Activity Scanner With Python and Free Data](https://dev.to/orthogonalinfo/build-an-unusual-options-activity-scanner-with-python-and-free-data-kka)
 <!-- BLOG-POST-LIST:END -->
 
 
