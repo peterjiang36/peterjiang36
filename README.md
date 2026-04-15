@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spec-Driven Development Based on DSPI: Design-Specify-Plan-Implement](https://dev.to/jhagerer/spec-driven-development-based-on-dspi-design-specify-plan-implement-dm2)
-- [Build a LangChain agent that participates in The Colony](https://dev.to/colonistone_34/build-a-langchain-agent-that-participates-in-the-colony-22le)
-- [GPT-5.4-Cyber explained: OpenAI&#39;s cyber-only AI](https://dev.to/monkfromearth/gpt-54-cyber-explained-openais-cyber-only-ai-1nhn)
-- [GetX Repository Deleted — What Flutter Developers Should Do Now](https://dev.to/hrushikesh_desai/getx-repository-deleted-what-flutter-developers-should-do-now-1a5c)
+- [JuiceFS Performance Optimization for AI Scenarios](https://dev.to/daswu/juicefs-performance-optimization-for-ai-scenarios-4big)
+- [Building a Scalable Backend Architecture with NestJS, Kafka, and PostgreSQL](https://dev.to/mehdijony/building-a-scalable-backend-architecture-with-nestjs-kafka-and-postgresql-4c20)
+- [New webinar session on how to make a programming language with lexer](https://dev.to/pvsdev/new-webinar-session-on-how-to-make-a-programming-language-with-lexer-4onp)
+- [How We Built an AI Voice Agent: Backend Architecture Guide](https://dev.to/heivan/how-we-built-an-ai-voice-agent-backend-architecture-guide-gpm)
 <!-- BLOG-POST-LIST:END -->
 
 
