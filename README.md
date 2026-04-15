@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrapy 🕷️, but in Go: Building High-Performance Scrapers without the Boilerplate](https://dev.to/goscrapy/scrapy-but-in-go-building-high-performance-scrapers-without-the-boilerplate-49k3)
-- [I built a Cloudflare-first batteries-included SaaS OSS framework for Solo Founders - Ottabase](https://dev.to/thinkdj/i-built-a-cloudflare-first-batteries-included-saas-oss-framework-for-solo-founders-ottabase-110l)
-- [Why Your AI Assistant Is Slower Than Your Roadmap Promises](https://dev.to/tokenaiz/why-your-ai-assistant-is-slower-than-your-roadmap-promises-5bl3)
-- [AI Is Changing What Understanding Code Means](https://dev.to/rohith_kn/ai-is-changing-what-understanding-code-means-go2)
+- [I Built a Voice AI Agent in 72 Hours — Here&#39;s Every Decision I&#39;d Make Differently](https://dev.to/akritah/i-built-a-voice-ai-agent-in-72-hours-heres-every-decision-id-make-differently-4d8e)
+- [Building a Multi-Tenant Platform with vCluster on AWS](https://dev.to/yevgeni_shapiro/building-a-multi-tenant-building-a-multi-tenant-platform-with-vcluster-on-aws-d19)
+- [LOS-starter — How I Built a File-Based OS for My Dev Work](https://dev.to/gad_ofir_076c468dd15d483b/los-starter-how-i-built-a-file-based-os-for-my-dev-work-1767)
+- [Your AI Stack Is Too Big](https://dev.to/inferencedaily/your-ai-stack-is-too-big-4eco)
 <!-- BLOG-POST-LIST:END -->
 
 
