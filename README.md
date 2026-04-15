@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Callbacks in JavaScript](https://dev.to/kunal_dev/callbacks-in-javascript-15ll)
-- [Terragrunt folder structure and include](https://dev.to/bard/terragrunt-folder-structure-and-include-33d7)
-- [Guilty Until Proven Real: How Deepfakes Broke the Rules of Evidence](https://dev.to/caracomp/guilty-until-proven-real-how-deepfakes-broke-the-rules-of-evidence-5d3a)
-- [Terragrunt remote_state and generate blocks](https://dev.to/bard/terragrunt-remotestate-and-generate-blocks-ejc)
+- [I Built a Mac App That Makes Android File Sync Feel Like Magic &lpar;No More MTP Hell&rpar;](https://dev.to/hiyoyok/i-built-a-mac-app-that-makes-android-file-sync-feel-like-magic-no-more-mtp-hell-e00)
+- [Cipher21: A sleek, high-stakes Blackjack TUI for CLI junkies](https://dev.to/ginsystems/cipher21-a-sleek-high-stakes-blackjack-tui-for-cli-junkies-1819)
+- [App Store Keyword Cannibalization and Long-Tail Ranking Mechanics](https://dev.to/software_mvp-factory/app-store-keyword-cannibalization-and-long-tail-ranking-mechanics-4acl)
+- [&quot;Memory Is the Unsolved Problem of AI Agents — Here&#39;s Why Everyone&#39;s Getting It Wrong&quot;](https://dev.to/jihyunsama/memory-is-the-unsolved-problem-of-ai-agents-heres-why-everyones-getting-it-wrong-4066)
 <!-- BLOG-POST-LIST:END -->
 
 
