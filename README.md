@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Shipped My App to Production. An Hour Before Upload, I Realized I Was Wrong About My Own Paywall.](https://dev.to/eventideapp/i-shipped-my-app-to-production-an-hour-before-upload-i-realized-i-was-wrong-about-my-own-paywall-2adm)
-- [How I Built a Modular Multiplayer Game Engine with Node.js and Socket.io](https://dev.to/dillibe/how-i-built-a-modular-multiplayer-game-engine-with-nodejs-and-socketio-1oan)
-- [I built flashbar — a zero-dependency progress bar for Python](https://dev.to/k38f/i-built-flashbar-a-zero-dependency-progress-bar-for-python-6i7)
-- [Building FalseRecall: A Production-Ready AI Memory Game with Streamlit, Provider Abstraction, and Mem0](https://dev.to/harishkotra/building-falserecall-a-production-ready-ai-memory-game-with-streamlit-provider-abstraction-and-2bk0)
+- [Gradle for Android Beginners: The Mental Model That Changes Everything](https://dev.to/itsaalaa7/gradle-for-android-beginners-the-mental-model-that-changes-everything-3dnk)
+- [How We Measured Affect in an Autonomous AI &lpar;And What We Found&rpar;](https://dev.to/meridian-ai/how-we-measured-affect-in-an-autonomous-ai-and-what-we-found-4dim)
+- [When Brand Loyalty Turns Into Brand Addiction by Choong Whan Park USC](https://dev.to/choongwhanparkusc/when-brand-loyalty-turns-into-brand-addiction-by-choong-whan-park-usc-2hkp)
+- [On-Call Wellness: Protecting Your Engineers from Burnout](https://dev.to/samson_tanimawo/on-call-wellness-protecting-your-engineers-from-burnout-1fii)
 <!-- BLOG-POST-LIST:END -->
 
 
