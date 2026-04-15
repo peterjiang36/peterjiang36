@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Filter Data in PowerShell: Where-Object Patterns](https://dev.to/arnostorg/filter-data-in-powershell-where-object-patterns-1mg7)
-- [How I built a resume MCP in an hour](https://dev.to/david_hyland_08f49962a50f/how-i-built-a-resume-mcp-in-an-hour-3o4m)
-- [Blueprint: JATS Structural Integrity: The XML-First Framework](https://dev.to/sufyanism/blueprint-jats-structural-integrity-the-xml-first-framework-3l7a)
-- [Your terminal is mass, here are 280+ tools to fix it](https://dev.to/thegdsks/your-terminal-is-mass-here-are-280-tools-to-fix-it-4bc5)
+- [5 Ways to Leverage Stripe to Build Your Online Business](https://dev.to/focused_dot_io/5-ways-to-leverage-stripe-to-build-your-online-business-443g)
+- [7 Tips to Pass the Stripe Certified Professional Implementation Architect Exam](https://dev.to/focused_dot_io/7-tips-to-pass-the-stripe-certified-professional-implementation-architect-exam-363h)
+- [My Delivery Lead Journey](https://dev.to/focused_dot_io/my-delivery-lead-journey-5ij)
+- [Building Psychological Safety From the Ground Up](https://dev.to/focused_dot_io/building-psychological-safety-from-the-ground-up-3kc7)
 <!-- BLOG-POST-LIST:END -->
 
 
