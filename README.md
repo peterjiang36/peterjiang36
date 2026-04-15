@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens After You Vibe Code: Production Observability for Solo Developers](https://dev.to/alexcloudstar/what-happens-after-you-vibe-code-production-observability-for-solo-developers-2iba)
-- [The Real Cost of Running AI in Production: How to Cut Your LLM Bills by 60 to 90 Percent](https://dev.to/alexcloudstar/the-real-cost-of-running-ai-in-production-how-to-cut-your-llm-bills-by-60-to-90-percent-32gn)
-- [When a Precise Specification Is Not Enough](https://dev.to/mortylen/when-a-precise-specification-is-not-enough-34lm)
-- [Javascript Array iteration methods](https://dev.to/mohandassmani/javascript-array-iteration-methods-n6e)
+- [From Prompt Engineer to Agent Engineer: The 7 Skills You Need to Build AI Agents](https://dev.to/manishmshiva/from-prompt-engineer-to-agent-engineer-the-7-skills-you-need-to-build-ai-agents-33o7)
+- [From Request to Production in One Push. No Mockup Tool Required.](https://dev.to/artanidos/from-request-to-production-in-one-push-no-mockup-tool-required-opa)
+- [How to Compress SVG Files: Tools, Techniques, Config](https://dev.to/pixotter/how-to-compress-svg-files-tools-techniques-config-2028)
+- [Interview #145: API: Difference between 500 vs 503 status codes?](https://dev.to/maibhushan/interview-145-api-difference-between-500-vs-503-status-codes-24ea)
 <!-- BLOG-POST-LIST:END -->
 
 
