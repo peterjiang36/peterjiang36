@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Regex That Actually Works &lpar;Copy-Paste Ready Examples&rpar;](https://dev.to/andrewrozumny/regex-that-actually-works-copy-paste-ready-examples-3h4j)
-- [From Code Marketplace to One-Click PaaS: 14 Years of Exploration and Evolution](https://dev.to/zuidaima/from-code-marketplace-to-one-click-paas-14-years-of-exploration-and-evolution-4d6d)
-- [How I built a runtime &quot;flight recorder&quot; for Node.js AI agents using AsyncLocalStorage](https://dev.to/vysh_sh/how-i-built-a-runtime-flight-recorder-for-nodejs-ai-agents-using-asynclocalstorage-410)
-- [We weren’t slow at fixing bugs — we just didn’t understand them](https://dev.to/dat_nguyen_e0f3780236d684/we-werent-slow-at-fixing-bugs-we-just-didnt-understand-them-4h99)
+- [Callbacks in JavaScript](https://dev.to/kunal_dev/callbacks-in-javascript-15ll)
+- [Terragrunt folder structure and include](https://dev.to/bard/terragrunt-folder-structure-and-include-33d7)
+- [Guilty Until Proven Real: How Deepfakes Broke the Rules of Evidence](https://dev.to/caracomp/guilty-until-proven-real-how-deepfakes-broke-the-rules-of-evidence-5d3a)
+- [Terragrunt remote_state and generate blocks](https://dev.to/bard/terragrunt-remotestate-and-generate-blocks-ejc)
 <!-- BLOG-POST-LIST:END -->
 
 
