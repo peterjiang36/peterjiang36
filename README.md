@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Spring Boot Apps on Fly.io](https://dev.to/aerc18/how-to-deploy-spring-boot-apps-on-flyio-5390)
-- [From GitHub to Interview-Ready Resume: Why I Built GitLanded &lpar;and What It Actually Does&rpar;](https://dev.to/omarashry/from-github-to-interview-ready-resume-why-i-built-gitlanded-and-what-it-actually-does-5h0f)
-- [Microsoft MAI-Image-2-Efficient Review 2026: The AI Image Model Built for Production Scale](https://dev.to/bean_bean/microsoft-mai-image-2-efficient-review-2026-the-ai-image-model-built-for-production-scale-1ai5)
-- [Why I Named My Clothing Brand After a /32 And What It Says About IT Culture](https://dev.to/slash_32_7698d745b2b3618f/why-i-named-my-clothing-brand-after-a-32-and-what-it-says-about-it-culture-1ogo)
+- [Paginação em APIs REST com C# e EF Core: Guia Prático](https://dev.to/lzocate-li/paginacao-em-apis-rest-com-c-e-ef-core-guia-pratico-33ke)
+- [How to See Inside Your AI Model in 3 Lines of Python](https://dev.to/staffman76/how-to-see-inside-your-ai-model-in-3-lines-of-python-1cbd)
+- [Contributing to React Router: Implementing Callsite Revalidation Opt-out Without Prior Experience](https://dev.to/pavkode/contributing-to-react-router-implementing-callsite-revalidation-opt-out-without-prior-experience-1k8f)
+- [Your AI Memory System Can&#39;t Tell a River Bank from a Savings Account](https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j)
 <!-- BLOG-POST-LIST:END -->
 
 
