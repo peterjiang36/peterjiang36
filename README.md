@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Writes the Code — But You Own the Consequences](https://dev.to/rohith_kn/ai-writes-the-code-but-you-own-the-consequences-116j)
-- [Why 80% of Programmers Are Unhappy &lpar;It&#39;s Not the Money&rpar;](https://dev.to/visesh/why-80-of-programmers-are-unhappy-its-not-the-money-jb3)
-- [Laravel has no native WebDAV server — so I built one](https://dev.to/n3xt0r/laravel-has-no-native-webdav-server-so-i-built-one-2epk)
-- [Cloud AI APIs vs. Self-Hosted LLMs: When an Old Phone Beats GPT-4](https://dev.to/alanwest/cloud-ai-apis-vs-self-hosted-llms-when-an-old-phone-beats-gpt-4-7om)
+- [I Built a Dead Simple App Because Claude Code Couldn&#39;t Hear Me](https://dev.to/vientapps/i-built-a-dead-simple-app-because-claude-code-couldnt-hear-me-2l90)
+- [Cassandra Internals: LSM Tree, SSTables, and Compaction](https://dev.to/priteshsurana/cassandra-internals-lsm-tree-sstables-and-compaction-2ai8)
+- [I Built Four Tools with Claude Code. None of Them Had Tests. So I Fixed That](https://dev.to/nikhilj/i-built-four-tools-with-claude-code-none-of-them-had-tests-so-i-fixed-that-25gk)
+- [Greedy Algorithms](https://dev.to/sm1/greedy-algorithms-14bl)
 <!-- BLOG-POST-LIST:END -->
 
 
