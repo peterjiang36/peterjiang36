@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Carte fidélité iPhone : Le guide complet pour booster la rétention de vos clients](https://dev.to/tabcard/carte-fidelite-iphone-le-guide-complet-pour-booster-la-retention-de-vos-clients-2nbb)
-- [16. Advanced JavaScript and DOM Manipulation](https://dev.to/avery_/16-advanced-javascript-and-dom-manipulation-3464)
-- [I built a self-improving home server that autoconfigures itself](https://dev.to/tomastruben/i-built-a-self-improving-home-server-that-autoconfigures-itself-e0p)
-- [Build an Unusual Options Activity Scanner With Python and Free Data](https://dev.to/orthogonalinfo/build-an-unusual-options-activity-scanner-with-python-and-free-data-kka)
+- [What Happens After You Vibe Code: Production Observability for Solo Developers](https://dev.to/alexcloudstar/what-happens-after-you-vibe-code-production-observability-for-solo-developers-2iba)
+- [The Real Cost of Running AI in Production: How to Cut Your LLM Bills by 60 to 90 Percent](https://dev.to/alexcloudstar/the-real-cost-of-running-ai-in-production-how-to-cut-your-llm-bills-by-60-to-90-percent-32gn)
+- [When a Precise Specification Is Not Enough](https://dev.to/mortylen/when-a-precise-specification-is-not-enough-34lm)
+- [Javascript Array iteration methods](https://dev.to/mohandassmani/javascript-array-iteration-methods-n6e)
 <!-- BLOG-POST-LIST:END -->
 
 
