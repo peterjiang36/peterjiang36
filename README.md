@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JuiceFS Performance Optimization for AI Scenarios](https://dev.to/daswu/juicefs-performance-optimization-for-ai-scenarios-4big)
-- [Building a Scalable Backend Architecture with NestJS, Kafka, and PostgreSQL](https://dev.to/mehdijony/building-a-scalable-backend-architecture-with-nestjs-kafka-and-postgresql-4c20)
-- [New webinar session on how to make a programming language with lexer](https://dev.to/pvsdev/new-webinar-session-on-how-to-make-a-programming-language-with-lexer-4onp)
-- [How We Built an AI Voice Agent: Backend Architecture Guide](https://dev.to/heivan/how-we-built-an-ai-voice-agent-backend-architecture-guide-gpm)
+- [DevSecOps: The Complete Category-Wise Toolchain Guide](https://dev.to/17j/devsecops-the-complete-category-wise-toolchain-guide-1e57)
+- [From Ruby to Crystal: Why I ported telegem to telecr](https://dev.to/slick_phantom/from-ruby-to-crystal-why-i-ported-telegem-to-telecr-29m)
+- [Your App Is a Snitch: Why Mobile Security Is Broken and How We Fix It](https://dev.to/gerus_team/your-app-is-a-snitch-why-mobile-security-is-broken-and-how-we-fix-it-57a1)
+- [I Built a Pay-Per-Call Trading Signal API for AI Agents](https://dev.to/pmestreforge/i-built-a-pay-per-call-trading-signal-api-for-ai-agents-2441)
 <!-- BLOG-POST-LIST:END -->
 
 
