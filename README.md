@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Mac App That Makes Android File Sync Feel Like Magic &lpar;No More MTP Hell&rpar;](https://dev.to/hiyoyok/i-built-a-mac-app-that-makes-android-file-sync-feel-like-magic-no-more-mtp-hell-e00)
-- [Cipher21: A sleek, high-stakes Blackjack TUI for CLI junkies](https://dev.to/ginsystems/cipher21-a-sleek-high-stakes-blackjack-tui-for-cli-junkies-1819)
-- [App Store Keyword Cannibalization and Long-Tail Ranking Mechanics](https://dev.to/software_mvp-factory/app-store-keyword-cannibalization-and-long-tail-ranking-mechanics-4acl)
-- [&quot;Memory Is the Unsolved Problem of AI Agents — Here&#39;s Why Everyone&#39;s Getting It Wrong&quot;](https://dev.to/jihyunsama/memory-is-the-unsolved-problem-of-ai-agents-heres-why-everyones-getting-it-wrong-4066)
+- [I Shipped My App to Production. An Hour Before Upload, I Realized I Was Wrong About My Own Paywall.](https://dev.to/eventideapp/i-shipped-my-app-to-production-an-hour-before-upload-i-realized-i-was-wrong-about-my-own-paywall-2adm)
+- [How I Built a Modular Multiplayer Game Engine with Node.js and Socket.io](https://dev.to/dillibe/how-i-built-a-modular-multiplayer-game-engine-with-nodejs-and-socketio-1oan)
+- [I built flashbar — a zero-dependency progress bar for Python](https://dev.to/k38f/i-built-flashbar-a-zero-dependency-progress-bar-for-python-6i7)
+- [Building FalseRecall: A Production-Ready AI Memory Game with Streamlit, Provider Abstraction, and Mem0](https://dev.to/harishkotra/building-falserecall-a-production-ready-ai-memory-game-with-streamlit-provider-abstraction-and-2bk0)
 <!-- BLOG-POST-LIST:END -->
 
 
