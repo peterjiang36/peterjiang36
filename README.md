@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevSecOps: The Complete Category-Wise Toolchain Guide](https://dev.to/17j/devsecops-the-complete-category-wise-toolchain-guide-1e57)
-- [From Ruby to Crystal: Why I ported telegem to telecr](https://dev.to/slick_phantom/from-ruby-to-crystal-why-i-ported-telegem-to-telecr-29m)
-- [Your App Is a Snitch: Why Mobile Security Is Broken and How We Fix It](https://dev.to/gerus_team/your-app-is-a-snitch-why-mobile-security-is-broken-and-how-we-fix-it-57a1)
-- [I Built a Pay-Per-Call Trading Signal API for AI Agents](https://dev.to/pmestreforge/i-built-a-pay-per-call-trading-signal-api-for-ai-agents-2441)
+- [Regex That Actually Works &lpar;Copy-Paste Ready Examples&rpar;](https://dev.to/andrewrozumny/regex-that-actually-works-copy-paste-ready-examples-3h4j)
+- [From Code Marketplace to One-Click PaaS: 14 Years of Exploration and Evolution](https://dev.to/zuidaima/from-code-marketplace-to-one-click-paas-14-years-of-exploration-and-evolution-4d6d)
+- [How I built a runtime &quot;flight recorder&quot; for Node.js AI agents using AsyncLocalStorage](https://dev.to/vysh_sh/how-i-built-a-runtime-flight-recorder-for-nodejs-ai-agents-using-asynclocalstorage-410)
+- [We weren’t slow at fixing bugs — we just didn’t understand them](https://dev.to/dat_nguyen_e0f3780236d684/we-werent-slow-at-fixing-bugs-we-just-didnt-understand-them-4h99)
 <!-- BLOG-POST-LIST:END -->
 
 
