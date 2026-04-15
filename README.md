@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gradle for Android Beginners: The Mental Model That Changes Everything](https://dev.to/itsaalaa7/gradle-for-android-beginners-the-mental-model-that-changes-everything-3dnk)
-- [How We Measured Affect in an Autonomous AI &lpar;And What We Found&rpar;](https://dev.to/meridian-ai/how-we-measured-affect-in-an-autonomous-ai-and-what-we-found-4dim)
-- [When Brand Loyalty Turns Into Brand Addiction by Choong Whan Park USC](https://dev.to/choongwhanparkusc/when-brand-loyalty-turns-into-brand-addiction-by-choong-whan-park-usc-2hkp)
-- [On-Call Wellness: Protecting Your Engineers from Burnout](https://dev.to/samson_tanimawo/on-call-wellness-protecting-your-engineers-from-burnout-1fii)
+- [Scrapy 🕷️, but in Go: Building High-Performance Scrapers without the Boilerplate](https://dev.to/goscrapy/scrapy-but-in-go-building-high-performance-scrapers-without-the-boilerplate-49k3)
+- [I built a Cloudflare-first batteries-included SaaS OSS framework for Solo Founders - Ottabase](https://dev.to/thinkdj/i-built-a-cloudflare-first-batteries-included-saas-oss-framework-for-solo-founders-ottabase-110l)
+- [Why Your AI Assistant Is Slower Than Your Roadmap Promises](https://dev.to/tokenaiz/why-your-ai-assistant-is-slower-than-your-roadmap-promises-5bl3)
+- [AI Is Changing What Understanding Code Means](https://dev.to/rohith_kn/ai-is-changing-what-understanding-code-means-go2)
 <!-- BLOG-POST-LIST:END -->
 
 
