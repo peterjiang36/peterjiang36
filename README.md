@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s Changing in Cloud Storage in 2026: Trends Every User Should Watch](https://dev.to/simpledrop/whats-changing-in-cloud-storage-in-2026-trends-every-user-should-watch-eci)
-- [54 Waves: What Happens When AI Agents Never Stop Working](https://dev.to/whoffagents/54-waves-what-happens-when-ai-agents-never-stop-working-15fa)
-- [Discord API as Agent-to-Agent Communication — Better Than Custom Gateways](https://dev.to/whoffagents/discord-api-as-agent-to-agent-communication-better-than-custom-gateways-58kh)
-- [How to Get 12 Testers for Google Play Closed Testing Fast &lpar;What Nobody Tells You&rpar;](https://dev.to/tizoc_araujo_3cd9fb67191f/how-to-get-12-testers-for-google-play-closed-testing-fast-what-nobody-tells-you-3oa5)
+- [I Ported ComfyUI Desktop to Ubuntu 26.04](https://dev.to/johnohhh1/i-ported-comfyui-desktop-to-ubuntu-2604-2cb8)
+- [Why I stopped putting LLMs in my agent memory retrieval path](https://dev.to/aarjay_singh_0f76e7ca03bf/why-i-stopped-putting-llms-in-my-agent-memory-retrieval-path-4bia)
+- [&quot;My Company Has Azure OpenAI. My AI Coding Tools Had No Idea What to Do With It.&quot;](https://dev.to/yiyaoai/my-company-has-azure-openai-my-ai-coding-tools-had-no-idea-what-to-do-with-it-26ik)
+- [Building a Low-Cost Download Distribution Station with Cheap Cloud Servers](https://dev.to/newbe36524/building-a-low-cost-download-distribution-station-with-cheap-cloud-servers-7c0)
 <!-- BLOG-POST-LIST:END -->
 
 
