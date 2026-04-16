@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Every AI Startup Should Watch Out: 1000+ Ghost Accounts Drained Our Platform in 15 Days](https://dev.to/joey_lee_c96e4ad421791371/every-ai-startup-should-watch-out-1000-ghost-accounts-drained-our-platform-in-15-days-4k9h)
-- [Build Your Own Bluetooth-Controlled Car with Arduino: A Complete Step-by-Step Guide](https://dev.to/danieldsouza21/build-your-own-bluetooth-controlled-car-with-arduino-a-complete-step-by-step-guide-3e8h)
-- [thusdev-fetch atteint 256 téléchargements npm en 2 jours !](https://dev.to/amthus/thusdev-fetch-atteint-256-telechargements-npm-en-2-jours--261c)
-- [An AI-Ready NestJS + Next.js Boilerplate for 2026](https://dev.to/xiunotes/an-ai-ready-nestjs-nextjs-boilerplate-for-2026-h4d)
+- [Game on Djangular 🎮 Ep.1](https://dev.to/the-software-s-journey/game-on-djangular-ep1-43a8)
+- [RAG系统实战：从Chunk切分到检索增强全流程解析](https://dev.to/port_smith_378e5d029689f4/ragxi-tong-shi-zhan-cong-chunkqie-fen-dao-jian-suo-zeng-qiang-quan-liu-cheng-jie-xi-4lfc)
+- [Fixing a Flutter Release APK Build That Failed on Windows](https://dev.to/kenryikegbo/-fixing-a-flutter-release-apk-build-that-failed-on-windows-41ip)
+- [Why AI Output Quality Plateaus — And What Actually Raises the Ceiling](https://dev.to/muggleai/why-ai-output-quality-plateaus-and-what-actually-raises-the-ceiling-2mg4)
 <!-- BLOG-POST-LIST:END -->
 
 
