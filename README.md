@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern Next.js Essentials: Building Scalable Full-Stack Applications](https://dev.to/preyumkr/modern-nextjs-essentials-building-scalable-full-stack-applications-2l0f)
-- [Why Semantic Layers Need Distributional Validation, Not Just Schema Validation](https://dev.to/anthony_etherealogic/why-semantic-layers-need-distributional-validation-not-just-schema-validation-47l)
-- [AI Reviews Your Code. But Who Reviews the AI?](https://dev.to/dobrenteiistvan/ai-reviews-your-code-but-who-reviews-the-ai-1nbh)
-- [We Hit 2,500 in 15 Days — And I Want to Make Every Dev Lazier &lpar;Productively&rpar;](https://dev.to/freerave/we-hit-2500-in-15-days-and-i-want-to-make-every-dev-lazier-productively-39a3)
+- [Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh](https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c)
+- [Level up CSS transitions with cubic-bezier](https://dev.to/railsdesigner/level-up-css-transitions-with-cubic-bezier-3955)
+- [I built an open source tab suspender after The Great Suspender got removed for malware](https://dev.to/ml3dev/i-built-an-open-source-tab-suspender-after-the-great-suspender-got-removed-for-malware-4gj2)
+- [Building a Fully Local Voice-Controlled AI Agent on an 8GB M1 Mac &lpar;Without Melting It&rpar;](https://dev.to/knlang/building-a-fully-local-voice-controlled-ai-agent-on-an-8gb-m1-mac-without-melting-it-cf3)
 <!-- BLOG-POST-LIST:END -->
 
 
