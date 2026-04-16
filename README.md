@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Observability Matters More Than Orchestration in Multi-Agent AI](https://dev.to/whoffagents/why-observability-matters-more-than-orchestration-in-multi-agent-ai-4h19)
-- [Signals in Vue &lpar;I&rpar;: A Minimal Bridge to the Composition API](https://dev.to/luciano0322/signals-in-vue-i-a-minimal-bridge-to-the-composition-api-45cf)
-- [Why We Stopped Using Redis &lpar;And Built a Sub-Microsecond Cache in Rust Instead&rpar;](https://dev.to/h33ai/why-we-stopped-using-redis-and-built-a-sub-microsecond-cache-in-rust-instead-52i6)
-- [Why We Built Proactive Briefings Instead of Another Dashboard](https://dev.to/koalr/why-we-built-proactive-briefings-instead-of-another-dashboard-3dh6)
+- [Developers are shipping AI agents without any oversight mechanisms, I&#39;m building a pattern library to fix that](https://dev.to/focus1010/developers-are-shipping-ai-agents-without-any-oversight-mechanisms-im-building-a-pattern-library-3pbj)
+- [I Built a Chrome Extension That Transfers Data Between Web Pages Visually](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-transfers-data-between-web-pages-visually-2pmp)
+- [AI Coding Playbook: Tool Selection, Workflows, and Prompt Templates](https://dev.to/xunxing_mao_fac71e331fd4b/ai-coding-playbook-tool-selection-workflows-and-prompt-templates-caj)
+- [Foodie &amp; Bandit the Regional Food Delivery Platform](https://dev.to/thatorjohn/foodie-bandit-the-regional-food-delivery-platform-2i25)
 <!-- BLOG-POST-LIST:END -->
 
 
