@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Transformers Part 8: Shared Weights in Self-Attention](https://dev.to/rijultp/understanding-transformers-part-8-shared-weights-in-self-attention-2pbe)
-- [Contributing to a Browser Used by Millions](https://dev.to/khaytorah/contributing-to-a-browser-used-by-millions-3g23)
-- [Anti-Cargo-Cult Platform Engineering for Kubernetes at Scale](https://dev.to/isms-core-adm/anti-cargo-cult-platform-engineering-for-kubernetes-at-scale-1i41)
-- [6 Accessibility Checks Most Scanners Miss &lpar;And How AccessGuard Catches Them&rpar;](https://dev.to/chille87/6-accessibility-checks-most-scanners-miss-and-how-accessguard-catches-them-2gcf)
+- [Designing a 5-Minute Crypto Prediction Bot on Polymarket Using Cascade Trailing Logic](https://dev.to/benjamin_martin_749c1d57f/designing-a-5-minute-crypto-prediction-bot-on-polymarket-using-cascade-trailing-logic-2p8h)
+- [Building NewHomie property analytics tool — Part 1](https://dev.to/menglinmaker/building-newhomie-property-analytics-tool-part-1-57oe)
+- [Service Mesh for MCP Agents — Without the Sidecar](https://dev.to/dhyan_raj_98e6a5999c8d5ef/service-mesh-for-mcp-agents-without-the-sidecar-96h)
+- [Otimizando a perfomance do Schepta com React](https://dev.to/jreeeedd/otimizando-a-perfomance-do-schepta-com-react-2k7h)
 <!-- BLOG-POST-LIST:END -->
 
 
