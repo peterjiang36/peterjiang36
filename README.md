@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The dependency vulnerability gap that CI/CD can’t fix](https://dev.to/djminikin/the-dependency-vulnerability-gap-that-cicd-cant-fix-hhn)
-- [CI/CD, GitLab Pipelines and Kaniko](https://dev.to/yepchaos/cicd-gitlab-pipelines-and-kaniko-4oie)
-- [Cybersecurity Looks Like Proof of Work Now — And That Should Scare You](https://dev.to/benriemer/cybersecurity-looks-like-proof-of-work-now-and-that-should-scare-you-1oc5)
-- [Beyond the Moving Average: Mastering Sequential Dependencies with BiLSTM and GRU](https://dev.to/eferhire/beyond-the-moving-average-mastering-sequential-dependencies-with-bilstm-and-gru-121p)
+- [Router cache and request memoization](https://dev.to/peterlidee/router-cache-and-request-memoization-3gi1)
+- [Why I Modelled My LLM Pipeline as a DAG Instead of a Chain — and What I Found Out](https://dev.to/amito_843a9904d48/why-i-modelled-my-llm-pipeline-as-a-dag-instead-of-a-chain-and-what-i-found-out-22cj)
+- [Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/peterlidee/incremental-static-regeneration-isr-3gma)
+- [What Every AI Coding Tool Gets Wrong &lpar;And What to Do About It&rpar;](https://dev.to/soulentheo/what-every-ai-coding-tool-gets-wrong-and-what-to-do-about-it-3a8l)
 <!-- BLOG-POST-LIST:END -->
 
 
