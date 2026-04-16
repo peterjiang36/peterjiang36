@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the 100M-Row Problem: A Summary Table Pattern for High-Volume Push Notification Logs](https://dev.to/sangwoo_rhie/solving-the-100m-row-problem-a-summary-table-pattern-for-high-volume-push-notification-logs-45bb)
-- [Flutter Web With Wasm: What Actually Changes For Developers](https://dev.to/dhruvjoshi9/flutter-web-with-wasm-what-actually-changes-for-developers-3k51)
-- [I Built 50 Royalty-Free Soundtracks for My Side Project in a Weekend Using AI Music Generation](https://dev.to/devisunil/i-built-50-royalty-free-soundtracks-for-my-side-project-in-a-weekend-using-ai-music-generation-2gop)
-- [The Vibe Coding Security Checklist: 7 Things to Check Before You Ship](https://dev.to/jakay/the-vibe-coding-security-checklist-7-things-to-check-before-you-ship-4e66)
+- [Context Compaction: Three Layers of Compression That Let an Agent Run Indefinitely](https://dev.to/ivan-magda/context-compaction-three-layers-of-compression-that-let-an-agent-run-indefinitely-3bb7)
+- [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://dev.to/ingero/mcp-as-observability-interface-connecting-ai-agents-to-kernel-tracepoints-4gaa)
+- [Why I Started Learning System Design as a Web Developer](https://dev.to/prashant_singh428/why-i-started-learning-system-design-as-a-web-developer-518d)
+- [Launching gh-dep-risk: a GitHub CLI extension for npm dependency PR review](https://dev.to/rad1092/gh-dep-risk-a-github-cli-extension-for-npm-pr-dependency-risk-review-410j)
 <!-- BLOG-POST-LIST:END -->
 
 
