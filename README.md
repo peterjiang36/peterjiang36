@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Compaction: Three Layers of Compression That Let an Agent Run Indefinitely](https://dev.to/ivan-magda/context-compaction-three-layers-of-compression-that-let-an-agent-run-indefinitely-3bb7)
-- [MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints](https://dev.to/ingero/mcp-as-observability-interface-connecting-ai-agents-to-kernel-tracepoints-4gaa)
-- [Why I Started Learning System Design as a Web Developer](https://dev.to/prashant_singh428/why-i-started-learning-system-design-as-a-web-developer-518d)
-- [Launching gh-dep-risk: a GitHub CLI extension for npm dependency PR review](https://dev.to/rad1092/gh-dep-risk-a-github-cli-extension-for-npm-pr-dependency-risk-review-410j)
+- [The dependency vulnerability gap that CI/CD can’t fix](https://dev.to/djminikin/the-dependency-vulnerability-gap-that-cicd-cant-fix-hhn)
+- [CI/CD, GitLab Pipelines and Kaniko](https://dev.to/yepchaos/cicd-gitlab-pipelines-and-kaniko-4oie)
+- [Cybersecurity Looks Like Proof of Work Now — And That Should Scare You](https://dev.to/benriemer/cybersecurity-looks-like-proof-of-work-now-and-that-should-scare-you-1oc5)
+- [Beyond the Moving Average: Mastering Sequential Dependencies with BiLSTM and GRU](https://dev.to/eferhire/beyond-the-moving-average-mastering-sequential-dependencies-with-bilstm-and-gru-121p)
 <!-- BLOG-POST-LIST:END -->
 
 
