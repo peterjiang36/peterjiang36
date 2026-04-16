@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Our SwiftUI snapshot tests passed locally but failed on CI. Here&#39;s the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd)
-- [React 19 useOptimistic: The Complete Guide for Production SaaS](https://dev.to/whoffagents/react-19-useoptimistic-the-complete-guide-for-production-saas-3flf)
-- [Drizzle ORM Migrations in Production: Zero-Downtime Schema Changes](https://dev.to/whoffagents/drizzle-orm-migrations-in-production-zero-downtime-schema-changes-e71)
-- [SWR vs TanStack Query 2026: Which React Data Fetching Library Should You Choose?](https://dev.to/jake_kim_bd3065a6816799db/swr-vs-tanstack-query-2026-which-react-data-fetching-library-should-you-choose-342c)
+- [Move and Rename Files in PowerShell: Move-Item Explained](https://dev.to/arnostorg/move-and-rename-files-in-powershell-move-item-explained-35kl)
+- [JavaScript Execution Flow: Event Loop, Call Stack, Microtasks vs Macrotasks](https://dev.to/sachin_singhpatwal_cbaa0/javascript-execution-flow-event-loop-call-stack-microtasks-vs-macrotasks-15c3)
+- [Why Your LED Color Transitions Look Fake](https://dev.to/_0c004e5fde78250aee362/why-your-led-color-transitions-look-fake-395h)
+- [Why Your LED Music Visualizer Has a Delay Problem](https://dev.to/_0c004e5fde78250aee362/why-your-led-music-visualizer-has-a-delay-problem-42p5)
 <!-- BLOG-POST-LIST:END -->
 
 
