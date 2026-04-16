@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Site to Help Foreigners Navigate Life in China — As a Local Who Sees the Struggle Every Day](https://dev.to/chinaneighbor/i-built-a-site-to-help-foreigners-navigate-life-in-china-as-a-local-who-sees-the-struggle-every-27ac)
-- [&quot;AI Inference Economics: The Unit Economics Framework Startups Actually Use&quot;](https://dev.to/stone_vell_6d4e932c750288/ai-inference-economics-the-unit-economics-framework-startups-actually-use-3ieg)
-- [Less, But Better: Dieter Rams&#39; Design Principles for Platform Engineering in the Agentic AI Era](https://dev.to/njoerd/less-but-better-dieter-rams-design-principles-for-platform-engineering-in-the-agentic-ai-era-5fh1)
-- [How I built a browser extension that converts at 64% &lpar;and kept it under 20KB&rpar;](https://dev.to/siakshit/how-i-built-a-browser-extension-that-converts-at-64-and-kept-it-under-20kb-34n2)
+- [Every AI Startup Should Watch Out: 1000+ Ghost Accounts Drained Our Platform in 15 Days](https://dev.to/joey_lee_c96e4ad421791371/every-ai-startup-should-watch-out-1000-ghost-accounts-drained-our-platform-in-15-days-4k9h)
+- [Build Your Own Bluetooth-Controlled Car with Arduino: A Complete Step-by-Step Guide](https://dev.to/danieldsouza21/build-your-own-bluetooth-controlled-car-with-arduino-a-complete-step-by-step-guide-3e8h)
+- [thusdev-fetch atteint 256 téléchargements npm en 2 jours !](https://dev.to/amthus/thusdev-fetch-atteint-256-telechargements-npm-en-2-jours--261c)
+- [An AI-Ready NestJS + Next.js Boilerplate for 2026](https://dev.to/xiunotes/an-ai-ready-nestjs-nextjs-boilerplate-for-2026-h4d)
 <!-- BLOG-POST-LIST:END -->
 
 
