@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Move and Rename Files in PowerShell: Move-Item Explained](https://dev.to/arnostorg/move-and-rename-files-in-powershell-move-item-explained-35kl)
-- [JavaScript Execution Flow: Event Loop, Call Stack, Microtasks vs Macrotasks](https://dev.to/sachin_singhpatwal_cbaa0/javascript-execution-flow-event-loop-call-stack-microtasks-vs-macrotasks-15c3)
-- [Why Your LED Color Transitions Look Fake](https://dev.to/_0c004e5fde78250aee362/why-your-led-color-transitions-look-fake-395h)
-- [Why Your LED Music Visualizer Has a Delay Problem](https://dev.to/_0c004e5fde78250aee362/why-your-led-music-visualizer-has-a-delay-problem-42p5)
+- [Solving the 100M-Row Problem: A Summary Table Pattern for High-Volume Push Notification Logs](https://dev.to/sangwoo_rhie/solving-the-100m-row-problem-a-summary-table-pattern-for-high-volume-push-notification-logs-45bb)
+- [Flutter Web With Wasm: What Actually Changes For Developers](https://dev.to/dhruvjoshi9/flutter-web-with-wasm-what-actually-changes-for-developers-3k51)
+- [I Built 50 Royalty-Free Soundtracks for My Side Project in a Weekend Using AI Music Generation](https://dev.to/devisunil/i-built-50-royalty-free-soundtracks-for-my-side-project-in-a-weekend-using-ai-music-generation-2gop)
+- [The Vibe Coding Security Checklist: 7 Things to Check Before You Ship](https://dev.to/jakay/the-vibe-coding-security-checklist-7-things-to-check-before-you-ship-4e66)
 <!-- BLOG-POST-LIST:END -->
 
 
