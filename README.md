@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Perimeter Is Already Gone — Edge Security Isn&#39;t a Checkbox](https://dev.to/jon_zuanich/your-perimeter-is-already-gone-edge-security-isnt-a-checkbox-pok)
-- [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682)
-- [Binary and Decimal Conversion: The Developer&#39;s Practical Guide &lpar;Not Just Theory&rpar;](https://dev.to/imtiaz_ali_ab85173e5ac4d6/binary-and-decimal-conversion-the-developers-practical-guide-not-just-theory-hi9)
-- [How to Audit Your OpenClaw Setup for Security Risks in Under 5 Minutes](https://dev.to/trent-ai/how-to-audit-your-openclaw-setup-for-security-risks-in-under-5-minutes-3la7)
+- [Deploying to k8s with Terraform using GH Actions](https://dev.to/rmcampos/deploying-to-k8s-with-terraform-using-gh-actions-2nai)
+- [How bloom filters work, irl](https://dev.to/mateebhussain/how-bloom-filters-work-irl-52j0)
+- [You&#39;re the surgeon and AI is your supporting team.](https://dev.to/canro91/youre-the-surgeon-and-ai-is-your-supporting-team-3m06)
+- [Filter with Where-Object: Find Exactly What You Need](https://dev.to/arnostorg/filter-with-where-object-find-exactly-what-you-need-4dk6)
 <!-- BLOG-POST-LIST:END -->
 
 
