@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Fixing MongoDB Updates in n8n &lpar;No More Workarounds!&rpar;](https://dev.to/milankj/fixing-mongodb-updates-in-n8n-no-more-workarounds-4l44)
-- [Why I Killed My 4th Claude Code Instance — Lessons from Multi-Agent Indie Dev](https://dev.to/kanta13jp1/why-i-killed-my-4th-claude-code-instance-lessons-from-multi-agent-indie-dev-4i9d)
-- [Why Your ATS Rejects 40% of Resumes &lpar;It&#39;s Not the Candidates&rpar;](https://dev.to/raja_karuppasamy_dfec2475/why-your-ats-rejects-40-of-resumes-its-not-the-candidates-4f14)
-- [Terminal themes assume you&#39;re scanning code. I&#39;m reading paragraphs.](https://dev.to/palo_alto_ai/terminal-themes-assume-youre-scanning-code-im-reading-paragraphs-337m)
+- [Modern Next.js Essentials: Building Scalable Full-Stack Applications](https://dev.to/preyumkr/modern-nextjs-essentials-building-scalable-full-stack-applications-2l0f)
+- [Why Semantic Layers Need Distributional Validation, Not Just Schema Validation](https://dev.to/anthony_etherealogic/why-semantic-layers-need-distributional-validation-not-just-schema-validation-47l)
+- [AI Reviews Your Code. But Who Reviews the AI?](https://dev.to/dobrenteiistvan/ai-reviews-your-code-but-who-reviews-the-ai-1nbh)
+- [We Hit 2,500 in 15 Days — And I Want to Make Every Dev Lazier &lpar;Productively&rpar;](https://dev.to/freerave/we-hit-2500-in-15-days-and-i-want-to-make-every-dev-lazier-productively-39a3)
 <!-- BLOG-POST-LIST:END -->
 
 
