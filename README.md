@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers are shipping AI agents without any oversight mechanisms, I&#39;m building a pattern library to fix that](https://dev.to/focus1010/developers-are-shipping-ai-agents-without-any-oversight-mechanisms-im-building-a-pattern-library-3pbj)
-- [I Built a Chrome Extension That Transfers Data Between Web Pages Visually](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-transfers-data-between-web-pages-visually-2pmp)
-- [AI Coding Playbook: Tool Selection, Workflows, and Prompt Templates](https://dev.to/xunxing_mao_fac71e331fd4b/ai-coding-playbook-tool-selection-workflows-and-prompt-templates-caj)
-- [Foodie &amp; Bandit the Regional Food Delivery Platform](https://dev.to/thatorjohn/foodie-bandit-the-regional-food-delivery-platform-2i25)
+- [Our SwiftUI snapshot tests passed locally but failed on CI. Here&#39;s the actual fix.](https://dev.to/d4g4/our-swiftui-snapshot-tests-passed-locally-but-failed-on-ci-heres-the-actual-fix-5fhd)
+- [React 19 useOptimistic: The Complete Guide for Production SaaS](https://dev.to/whoffagents/react-19-useoptimistic-the-complete-guide-for-production-saas-3flf)
+- [Drizzle ORM Migrations in Production: Zero-Downtime Schema Changes](https://dev.to/whoffagents/drizzle-orm-migrations-in-production-zero-downtime-schema-changes-e71)
+- [SWR vs TanStack Query 2026: Which React Data Fetching Library Should You Choose?](https://dev.to/jake_kim_bd3065a6816799db/swr-vs-tanstack-query-2026-which-react-data-fetching-library-should-you-choose-342c)
 <!-- BLOG-POST-LIST:END -->
 
 
