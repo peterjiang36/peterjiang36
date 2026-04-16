@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying to k8s with Terraform using GH Actions](https://dev.to/rmcampos/deploying-to-k8s-with-terraform-using-gh-actions-2nai)
-- [How bloom filters work, irl](https://dev.to/mateebhussain/how-bloom-filters-work-irl-52j0)
-- [You&#39;re the surgeon and AI is your supporting team.](https://dev.to/canro91/youre-the-surgeon-and-ai-is-your-supporting-team-3m06)
-- [Filter with Where-Object: Find Exactly What You Need](https://dev.to/arnostorg/filter-with-where-object-find-exactly-what-you-need-4dk6)
+- [🚀 Fixing MongoDB Updates in n8n &lpar;No More Workarounds!&rpar;](https://dev.to/milankj/fixing-mongodb-updates-in-n8n-no-more-workarounds-4l44)
+- [Why I Killed My 4th Claude Code Instance — Lessons from Multi-Agent Indie Dev](https://dev.to/kanta13jp1/why-i-killed-my-4th-claude-code-instance-lessons-from-multi-agent-indie-dev-4i9d)
+- [Why Your ATS Rejects 40% of Resumes &lpar;It&#39;s Not the Candidates&rpar;](https://dev.to/raja_karuppasamy_dfec2475/why-your-ats-rejects-40-of-resumes-its-not-the-candidates-4f14)
+- [Terminal themes assume you&#39;re scanning code. I&#39;m reading paragraphs.](https://dev.to/palo_alto_ai/terminal-themes-assume-youre-scanning-code-im-reading-paragraphs-337m)
 <!-- BLOG-POST-LIST:END -->
 
 
