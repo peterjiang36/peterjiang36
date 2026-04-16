@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Router cache and request memoization](https://dev.to/peterlidee/router-cache-and-request-memoization-3gi1)
-- [Why I Modelled My LLM Pipeline as a DAG Instead of a Chain — and What I Found Out](https://dev.to/amito_843a9904d48/why-i-modelled-my-llm-pipeline-as-a-dag-instead-of-a-chain-and-what-i-found-out-22cj)
-- [Incremental Static Regeneration &lpar;ISR&rpar;](https://dev.to/peterlidee/incremental-static-regeneration-isr-3gma)
-- [What Every AI Coding Tool Gets Wrong &lpar;And What to Do About It&rpar;](https://dev.to/soulentheo/what-every-ai-coding-tool-gets-wrong-and-what-to-do-about-it-3a8l)
+- [IPE v0.1.17 — Keyboard Shortcuts, Crash Recovery &amp; macOS Fix](https://dev.to/eduardmaghakyan/ipe-v0117-keyboard-shortcuts-crash-recovery-macos-fix-2k9)
+- [AI Gateways en 2026: La Capa Crítica que Separa los LLMs de Juguete de los Sistemas AI en Producción](https://dev.to/aurimasmarkunas/ai-gateways-en-2026-la-capa-critica-que-separa-los-llms-de-juguete-de-los-sistemas-ai-en-produccion-461g)
+- [Why Real-Time Data Integration Matters for Modern Applications](https://dev.to/andrew_tan_layline/why-real-time-data-integration-matters-for-modern-applications-34mf)
+- [MCP vs UCP vs AP2: What is the Difference?](https://dev.to/benjifisher/mcp-vs-ucp-vs-ap2-what-is-the-difference-2p7b)
 <!-- BLOG-POST-LIST:END -->
 
 
