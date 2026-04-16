@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Game on Djangular 🎮 Ep.1](https://dev.to/the-software-s-journey/game-on-djangular-ep1-43a8)
-- [RAG系统实战：从Chunk切分到检索增强全流程解析](https://dev.to/port_smith_378e5d029689f4/ragxi-tong-shi-zhan-cong-chunkqie-fen-dao-jian-suo-zeng-qiang-quan-liu-cheng-jie-xi-4lfc)
-- [Fixing a Flutter Release APK Build That Failed on Windows](https://dev.to/kenryikegbo/-fixing-a-flutter-release-apk-build-that-failed-on-windows-41ip)
-- [Why AI Output Quality Plateaus — And What Actually Raises the Ceiling](https://dev.to/muggleai/why-ai-output-quality-plateaus-and-what-actually-raises-the-ceiling-2mg4)
+- [What brings you by a conference booth?](https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3)
+- [How AI Agent Payments Actually Work — And Where They Break](https://dev.to/maxberg/how-ai-agent-payments-actually-work-and-where-they-break-183m)
+- [Database Subsetting for PostgreSQL: A Practical Guide &lpar;2026&rpar;](https://dev.to/jakelaz/database-subsetting-for-postgresql-a-practical-guide-2026-4j5m)
+- [How to Get AI Market Analysis On-Chain: Backtested Patterns Delivered to Your Smart Contract](https://dev.to/pythiatheoracle/how-to-get-ai-market-analysis-on-chain-backtested-patterns-delivered-to-your-smart-contract-3hll)
 <!-- BLOG-POST-LIST:END -->
 
 
