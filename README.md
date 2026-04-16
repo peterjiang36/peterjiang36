@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Important Logics to Understand About Liquidity Book Pair](https://dev.to/azeezabidoye/5-important-logics-to-understand-about-liquidity-book-pair-256o)
-- [How to Try Egonex ECP in .NET 8 and Send Emergency Alerts with an 8-Byte Payload](https://dev.to/geosegun/how-to-try-egonex-ecp-in-net-8-and-send-emergency-alerts-with-an-8-byte-payload-185p)
-- [How to Add Human Approval to Any Zapier Zap](https://dev.to/okrunit/how-to-add-human-approval-to-any-zapier-zap-57km)
-- [GHSA-JJ6C-8H6C-HPPX: GHSA-JJ6C-8H6C-HPPX: Uncontrolled Resource Consumption in pypdf via Malformed PDF Streams](https://dev.to/cverports/ghsa-jj6c-8h6c-hppx-ghsa-jj6c-8h6c-hppx-uncontrolled-resource-consumption-in-pypdf-via-malformed-16jh)
+- [Why Observability Matters More Than Orchestration in Multi-Agent AI](https://dev.to/whoffagents/why-observability-matters-more-than-orchestration-in-multi-agent-ai-4h19)
+- [Signals in Vue &lpar;I&rpar;: A Minimal Bridge to the Composition API](https://dev.to/luciano0322/signals-in-vue-i-a-minimal-bridge-to-the-composition-api-45cf)
+- [Why We Stopped Using Redis &lpar;And Built a Sub-Microsecond Cache in Rust Instead&rpar;](https://dev.to/h33ai/why-we-stopped-using-redis-and-built-a-sub-microsecond-cache-in-rust-instead-52i6)
+- [Why We Built Proactive Briefings Instead of Another Dashboard](https://dev.to/koalr/why-we-built-proactive-briefings-instead-of-another-dashboard-3dh6)
 <!-- BLOG-POST-LIST:END -->
 
 
