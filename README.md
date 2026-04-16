@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What brings you by a conference booth?](https://dev.to/missamarakay/what-brings-you-by-a-conference-booth-43e3)
-- [How AI Agent Payments Actually Work — And Where They Break](https://dev.to/maxberg/how-ai-agent-payments-actually-work-and-where-they-break-183m)
-- [Database Subsetting for PostgreSQL: A Practical Guide &lpar;2026&rpar;](https://dev.to/jakelaz/database-subsetting-for-postgresql-a-practical-guide-2026-4j5m)
-- [How to Get AI Market Analysis On-Chain: Backtested Patterns Delivered to Your Smart Contract](https://dev.to/pythiatheoracle/how-to-get-ai-market-analysis-on-chain-backtested-patterns-delivered-to-your-smart-contract-3hll)
+- [Your Perimeter Is Already Gone — Edge Security Isn&#39;t a Checkbox](https://dev.to/jon_zuanich/your-perimeter-is-already-gone-edge-security-isnt-a-checkbox-pok)
+- [Join the OpenClaw Challenge: $1,200 Prize Pool!](https://dev.to/devteam/join-the-openclaw-challenge-1200-prize-pool-5682)
+- [Binary and Decimal Conversion: The Developer&#39;s Practical Guide &lpar;Not Just Theory&rpar;](https://dev.to/imtiaz_ali_ab85173e5ac4d6/binary-and-decimal-conversion-the-developers-practical-guide-not-just-theory-hi9)
+- [How to Audit Your OpenClaw Setup for Security Risks in Under 5 Minutes](https://dev.to/trent-ai/how-to-audit-your-openclaw-setup-for-security-risks-in-under-5-minutes-3la7)
 <!-- BLOG-POST-LIST:END -->
 
 
