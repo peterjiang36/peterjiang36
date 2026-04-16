@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IPE v0.1.17 — Keyboard Shortcuts, Crash Recovery &amp; macOS Fix](https://dev.to/eduardmaghakyan/ipe-v0117-keyboard-shortcuts-crash-recovery-macos-fix-2k9)
-- [AI Gateways en 2026: La Capa Crítica que Separa los LLMs de Juguete de los Sistemas AI en Producción](https://dev.to/aurimasmarkunas/ai-gateways-en-2026-la-capa-critica-que-separa-los-llms-de-juguete-de-los-sistemas-ai-en-produccion-461g)
-- [Why Real-Time Data Integration Matters for Modern Applications](https://dev.to/andrew_tan_layline/why-real-time-data-integration-matters-for-modern-applications-34mf)
-- [MCP vs UCP vs AP2: What is the Difference?](https://dev.to/benjifisher/mcp-vs-ucp-vs-ap2-what-is-the-difference-2p7b)
+- [I Built a Site to Help Foreigners Navigate Life in China — As a Local Who Sees the Struggle Every Day](https://dev.to/chinaneighbor/i-built-a-site-to-help-foreigners-navigate-life-in-china-as-a-local-who-sees-the-struggle-every-27ac)
+- [&quot;AI Inference Economics: The Unit Economics Framework Startups Actually Use&quot;](https://dev.to/stone_vell_6d4e932c750288/ai-inference-economics-the-unit-economics-framework-startups-actually-use-3ieg)
+- [Less, But Better: Dieter Rams&#39; Design Principles for Platform Engineering in the Agentic AI Era](https://dev.to/njoerd/less-but-better-dieter-rams-design-principles-for-platform-engineering-in-the-agentic-ai-era-5fh1)
+- [How I built a browser extension that converts at 64% &lpar;and kept it under 20KB&rpar;](https://dev.to/siakshit/how-i-built-a-browser-extension-that-converts-at-64-and-kept-it-under-20kb-34n2)
 <!-- BLOG-POST-LIST:END -->
 
 
