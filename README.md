@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling Nightmares: Debugging a Bottleneck in Our Service Mesh](https://dev.to/chris_lee_5e58cce05f5d01d/scaling-nightmares-debugging-a-bottleneck-in-our-service-mesh-43c)
-- [Level up CSS transitions with cubic-bezier](https://dev.to/railsdesigner/level-up-css-transitions-with-cubic-bezier-3955)
-- [I built an open source tab suspender after The Great Suspender got removed for malware](https://dev.to/ml3dev/i-built-an-open-source-tab-suspender-after-the-great-suspender-got-removed-for-malware-4gj2)
-- [Building a Fully Local Voice-Controlled AI Agent on an 8GB M1 Mac &lpar;Without Melting It&rpar;](https://dev.to/knlang/building-a-fully-local-voice-controlled-ai-agent-on-an-8gb-m1-mac-without-melting-it-cf3)
+- [Comment and Control: The GitHub AI Agent Attack That Three Vendors Hushed](https://dev.to/waxell/comment-and-control-the-github-ai-agent-attack-that-three-vendors-hushed-3d4o)
+- [Code Chains Graphs State Machines: An Engineer&#39;s Field Guide to AI Patterns](https://dev.to/shravaniparsi/code-chains-graphs-state-machines-an-engineers-field-guide-to-ai-patterns-31ai)
+- [Breaking Things and Building Better Tests: A Hackathon Snapshot](https://dev.to/hema_nambi_66c9/breaking-things-and-building-better-tests-a-hackathon-snapshot-2337)
+- [GitHub Actions + Claude Code: I Automated My Entire Dev Workflow](https://dev.to/whoffagents/github-actions-claude-code-i-automated-my-entire-dev-workflow-4h0h)
 <!-- BLOG-POST-LIST:END -->
 
 
