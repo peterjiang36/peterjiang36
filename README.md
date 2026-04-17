@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Little&#39;s Law: Understanding how much tour system can handle](https://dev.to/sarupy/littles-law-understanding-how-much-tour-system-can-handle-3fno)
-- [What happens when a 10-year-old builds their first IoT sensor — a teacher&#39;s perspective from Buenos Aires](https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5)
-- [Developer Experience &lpar;DevEx&rpar; Designer Challenges and How to Overcome Them &lpar;Part : I&rpar;](https://dev.to/priya_sajja_c336921bbda87/developer-experience-devex-designer-challenges-and-how-to-overcome-them-part-i-5941)
-- [Why event-driven agents reduce scope, cost, and decision dispersion](https://dev.to/tirso_garcia/why-event-driven-agents-reduce-scope-cost-and-decision-dispersion-2062)
+- [88% of AI Agent Failures Have Nothing to Do With the Model](https://dev.to/serhiip/88-of-ai-agent-failures-have-nothing-to-do-with-the-model-2jga)
+- [How to Fix Flaky Tests in GitHub Actions](https://dev.to/byteframe/how-to-fix-flaky-tests-in-github-actions-3e32)
+- [Como importei 55 milhões de empresas para PostgreSQL em menos de 3 horas](https://dev.to/pedroparker/como-importamos-55-milhoes-de-empresas-para-postgresql-em-menos-de-3-horas-9fe)
+- [OpenClaw and the Boundary Problem](https://dev.to/crisiscoresystems/openclaw-and-the-boundary-problem-5f85)
 <!-- BLOG-POST-LIST:END -->
 
 
