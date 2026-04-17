@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Built It Fast. Human Optimization Cut the Costs.](https://dev.to/sebhoek/ai-built-it-fast-human-optimization-cut-the-costs-13on)
-- [Beyond Blocks and Lines: How CadQuery is Revolutionizing Parametric Design](https://dev.to/glad_labs/beyond-blocks-and-lines-how-cadquery-is-revolutionizing-parametric-design-9dc)
-- [AI Agents Expose Crypto Wallet Security Gap](https://dev.to/tomwangcn/ai-agents-expose-crypto-wallet-security-gap-oha)
-- [Template Literals in JavaScript](https://dev.to/sakshi_tambole_be36125cf5/template-literals-in-javascript-29dg)
+- [ContextClaw: The OpenClaw Plugin That Cut My Token Bill 55%](https://dev.to/vonb/contextclaw-the-openclaw-plugin-that-cut-my-token-bill-55-383a)
+- [Stop Chatting With Your Agent. Use Files.](https://dev.to/vonb/stop-chatting-with-your-agent-use-files-4oi3)
+- [How to Build a Code Quality Gate for AI-Assisted Pull Requests](https://dev.to/137foundry/how-to-build-a-code-quality-gate-for-ai-assisted-pull-requests-2kbg)
+- [7 Free Tools for Managing AI Code Output in Production Engineering Teams](https://dev.to/137foundry/7-free-tools-for-managing-ai-code-output-in-production-engineering-teams-1d9e)
 <!-- BLOG-POST-LIST:END -->
 
 
