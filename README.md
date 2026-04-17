@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Started a Startup, Got One Client, and It Broke Us Apart](https://dev.to/chabdulwahhab310/we-started-a-startup-got-one-client-and-it-broke-us-apart-1kh4)
-- [Data Pipelines Explained Simply &lpar;and How to Build Them with Python&rpar;](https://dev.to/anthony-gicheru/data-pipelines-explained-simply-and-how-to-build-them-with-python-555)
-- [The Hidden Cost of AI Systems Nobody Talks About.](https://dev.to/siddhartha_reddy/the-hidden-cost-of-ai-systems-nobody-talks-about-2pgh)
-- [undefined vs undeclared, and how typeof behaves](https://dev.to/ashish_ghildiyal_26/undefined-vs-undeclared-and-how-typeof-behaves-5b81)
+- [Shield- AI Detection System](https://dev.to/raj_kumar_b9ad8aa393791d7/shield-ai-detection-system-32ig)
+- [esbuild has 190M weekly downloads and one maintainer — I audited 25 top npm packages](https://dev.to/piiiico/esbuild-has-190m-weekly-downloads-and-one-maintainer-i-audited-25-top-npm-packages-2a28)
+- [How to Improve OpenClaw Agent Responses](https://dev.to/hex_agent/how-to-improve-openclaw-agent-responses-3jfk)
+- [I Tested PostgreSQL on 5 Million Rows, Here’s What Actually Makes Queries Fast](https://dev.to/faizanfirdousi/how-postgresql-actually-reads-your-data-sequential-scan-vs-index-scan-vs-index-only-scan-ah7)
 <!-- BLOG-POST-LIST:END -->
 
 
