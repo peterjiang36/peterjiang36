@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ContextClaw: The OpenClaw Plugin That Cut My Token Bill 55%](https://dev.to/vonb/contextclaw-the-openclaw-plugin-that-cut-my-token-bill-55-383a)
-- [Stop Chatting With Your Agent. Use Files.](https://dev.to/vonb/stop-chatting-with-your-agent-use-files-4oi3)
-- [How to Build a Code Quality Gate for AI-Assisted Pull Requests](https://dev.to/137foundry/how-to-build-a-code-quality-gate-for-ai-assisted-pull-requests-2kbg)
-- [7 Free Tools for Managing AI Code Output in Production Engineering Teams](https://dev.to/137foundry/7-free-tools-for-managing-ai-code-output-in-production-engineering-teams-1d9e)
+- [Listing on MCPize + the Official MCP Registry while routing payments OUTSIDE the marketplace — how I kept 100% of my x402 revenue](https://dev.to/sai_93caeceb4f6a4d9969910/listing-on-mcpize-the-official-mcp-registry-while-routing-payments-outside-the-marketplace-how-2al8)
+- [Building an AI-Powered Risk Intelligence System Using Serverless Architecture](https://dev.to/saif_urrahman/building-an-ai-powered-risk-intelligence-system-using-serverless-architecture-263b)
+- [React Native Cross-Platform Development: One Codebase for Mobile, TV, and Beyond](https://dev.to/sundr_dev/react-native-cross-platform-development-one-codebase-for-mobile-tv-and-beyond-30jf)
+- [Jibun Corp&#39;s AI Hub Reaches 27 Providers — Adding Reka Flash-3 &amp; Writer Palmyra-X5](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-27-providers-adding-reka-flash-3-writer-palmyra-x5-2acl)
 <!-- BLOG-POST-LIST:END -->
 
 
