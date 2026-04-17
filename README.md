@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [88% of AI Agent Failures Have Nothing to Do With the Model](https://dev.to/serhiip/88-of-ai-agent-failures-have-nothing-to-do-with-the-model-2jga)
-- [How to Fix Flaky Tests in GitHub Actions](https://dev.to/byteframe/how-to-fix-flaky-tests-in-github-actions-3e32)
-- [Como importei 55 milhões de empresas para PostgreSQL em menos de 3 horas](https://dev.to/pedroparker/como-importamos-55-milhoes-de-empresas-para-postgresql-em-menos-de-3-horas-9fe)
-- [OpenClaw and the Boundary Problem](https://dev.to/crisiscoresystems/openclaw-and-the-boundary-problem-5f85)
+- [How I Automated My Manus AI Workflow &lpar;And Saved 62%&rpar;](https://dev.to/rafsilva85/how-i-automated-my-manus-ai-workflow-and-saved-62-4ejf)
+- [How I Built a 1,056-Test Rust CLI in 3 Weeks](https://dev.to/ji_ai/how-i-built-a-1056-test-rust-cli-in-3-weeks-1fe6)
+- [The Hidden Cost of AI Agents in 2026](https://dev.to/rafsilva85/the-hidden-cost-of-ai-agents-in-2026-fho)
+- [Tackling the unsexy problems has been our goal, so you can build for your customers.](https://dev.to/jon_at_backboardio/tackling-the-unsexy-problems-has-been-our-goal-so-you-can-build-for-your-customers-4c5j)
 <!-- BLOG-POST-LIST:END -->
 
 
