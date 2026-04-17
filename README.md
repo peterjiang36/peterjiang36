@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura REST](https://dev.to/gabrieltme/arquitetura-rest-3d6)
-- [I Built a PQC Native L1 Blockchain from Scratch in 9 Months](https://dev.to/exocognosis/i-built-a-pqc-native-l1-blockchain-from-scratch-in-9-months-550h)
-- [The signing key mistake that cost me a week on my first Android release](https://dev.to/theionproject/the-signing-key-mistake-that-cost-me-a-week-on-my-first-android-release-1eo1)
-- [Part 2: Hands-on tc Framework: Building a Full-Stack Async API with Pages](https://dev.to/functors/part-2-hands-on-tc-framework-building-a-full-stack-async-api-with-pages-3i9m)
+- [I Built a Real-Time Notification System Inspired by Accra Traffic](https://dev.to/nlankwei5/i-built-a-real-time-notification-system-inspired-by-accra-traffic-gh4)
+- [I Built an App That Listens to Your Garden and Tells You What&#39;s Disappearing. 🌍](https://dev.to/_boweii/i-built-an-app-that-listens-to-your-garden-and-tells-you-whats-disappearing-3g92)
+- [My Study Guide for the Microsoft Certified Azure Databricks Data Engineer Associate Beta Exam](https://dev.to/rengond/my-study-guide-for-the-microsoft-certified-azure-databricks-data-engineer-associate-beta-exam-1nbm)
+- [TELMED AI DOCTOR](https://dev.to/cmarvelous/telmed-ai-doctor-11h4)
 <!-- BLOG-POST-LIST:END -->
 
 
