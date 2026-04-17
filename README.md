@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reimagine Python Notebooks in the AI Era: What If You Didn’t Write Code First?](https://dev.to/pplonski/reimagine-python-notebooks-in-the-ai-era-what-if-you-didnt-write-code-first-n6l)
-- [Understanding `$@`, `$*`, `&quot;$@&quot;`, and `&quot;$*&quot;` in Shell Scripts](https://dev.to/vast-cow/understanding-and-in-shell-scripts-455g)
-- [Building a Loader Animation with SVG + CSS Only](https://dev.to/harijn72/building-a-loader-animation-with-svg-css-only-4cnj)
-- [PostgreSQL Read Replicas with Docker: A Step-by-Step Guide](https://dev.to/kalio/postgresql-read-replicas-with-docker-a-step-by-step-guide-1hil)
+- [The 10x Developer: What the Data Actually Shows &lpar;And Why It Doesn&#39;t Matter&rpar;](https://dev.to/arthur_pandev/the-10x-developer-what-the-data-actually-shows-and-why-it-doesnt-matter-38i2)
+- [I built a minimalist &quot;Museum&quot; for Open Source tools that don&#39;t suck](https://dev.to/dinesh_regar_566b26c47b87/i-built-a-minimalist-museum-for-open-source-tools-that-dont-suck-1m3e)
+- [How to fix laggy android emulators in Ubuntu 24.04](https://dev.to/chamal1120/how-to-fix-laggy-android-emulators-in-ubuntu-2404-3bda)
+- [Why I’m building local-first Android automation for AI agents](https://dev.to/labs_aivane_98191a4f3eab1/why-im-building-local-first-android-automation-for-ai-agents-3kgb)
 <!-- BLOG-POST-LIST:END -->
 
 
