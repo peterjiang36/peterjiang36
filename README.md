@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Defend Your AI Agent Against Prompt Injection](https://dev.to/thecyberarchive/how-to-defend-your-ai-agent-against-prompt-injection-de)
-- [Stop burning tokens on DOM noise: a Playwright MCP optimizer layer](https://dev.to/treesoop/stop-burning-tokens-on-dom-noise-a-playwright-mcp-optimizer-layer-1on6)
-- [Why I built ragwise: pip-installable RAG with hybrid search, streaming, and agent tools by default](https://dev.to/laxmikanta_nayak_c2c4d6ea/why-i-built-ragwise-pip-installable-rag-with-hybrid-search-streaming-and-agent-tools-by-default-5g11)
-- [Introducing hwp-mcp: Korean document support for Claude via MCP](https://dev.to/treesoop/introducing-hwp-mcp-korean-document-support-for-claude-via-mcp-1lbg)
+- [AI Built It Fast. Human Optimization Cut the Costs.](https://dev.to/sebhoek/ai-built-it-fast-human-optimization-cut-the-costs-13on)
+- [Beyond Blocks and Lines: How CadQuery is Revolutionizing Parametric Design](https://dev.to/glad_labs/beyond-blocks-and-lines-how-cadquery-is-revolutionizing-parametric-design-9dc)
+- [AI Agents Expose Crypto Wallet Security Gap](https://dev.to/tomwangcn/ai-agents-expose-crypto-wallet-security-gap-oha)
+- [Template Literals in JavaScript](https://dev.to/sakshi_tambole_be36125cf5/template-literals-in-javascript-29dg)
 <!-- BLOG-POST-LIST:END -->
 
 
