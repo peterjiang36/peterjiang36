@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling Apple Vision API from Tauri for Offline OCR [PDF Devlog #2]](https://dev.to/hiyoyok/calling-apple-vision-api-from-tauri-for-offline-ocr-pdf-devlog-2-3mkb)
-- [Angular vs React for ASP.NET Core: A Comprehensive Comparison Guide &lpar;2026&rpar;](https://dev.to/ismcagdas/angular-vs-react-for-aspnet-core-a-comprehensive-comparison-guide-2026-dpc)
-- [AI Dev Weekly Extra: Did Anthropic Let Opus 4.6 Rot So 4.7 Would Look Better?](https://dev.to/ai_made_tools/ai-dev-weekly-extra-did-anthropic-let-opus-46-rot-so-47-would-look-better-3a6n)
-- [Bulk SMS API Integration Guide 2026](https://dev.to/jeffconnor/bulk-sms-api-integration-guide-2026-12aa)
+- [Reimagine Python Notebooks in the AI Era: What If You Didn’t Write Code First?](https://dev.to/pplonski/reimagine-python-notebooks-in-the-ai-era-what-if-you-didnt-write-code-first-n6l)
+- [Understanding `$@`, `$*`, `&quot;$@&quot;`, and `&quot;$*&quot;` in Shell Scripts](https://dev.to/vast-cow/understanding-and-in-shell-scripts-455g)
+- [Building a Loader Animation with SVG + CSS Only](https://dev.to/harijn72/building-a-loader-animation-with-svg-css-only-4cnj)
+- [PostgreSQL Read Replicas with Docker: A Step-by-Step Guide](https://dev.to/kalio/postgresql-read-replicas-with-docker-a-step-by-step-guide-1hil)
 <!-- BLOG-POST-LIST:END -->
 
 
