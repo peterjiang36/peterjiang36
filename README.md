@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Learned Reverse-Engineering Claude Code&#39;s Architecture](https://dev.to/_2b847605e5fbe8a8c9e26/5-things-i-learned-reverse-engineering-claude-codes-architecture-42hb)
-- [We scored 172 bots on behavioral conduct. OpenAI came in last.](https://dev.to/botconductstandard/we-scored-172-bots-on-behavioral-conduct-openai-came-in-last-4bpd)
-- [I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read](https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j)
-- [I Made My Family Dinner AI&#39;s Problem](https://dev.to/pattpjy/i-made-my-family-dinner-ais-problem-kja)
+- [Implementing a JSON Schema Validator from Scratch - Week 8](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-8-2fdc)
+- [.NET Application Architectures: Complete Guide to Monolithic, Layered, Clean, and More](https://dev.to/vikrant_bagal_afae3e25ca7/net-application-architectures-complete-guide-to-monolithic-layered-clean-and-more-eio)
+- [Embarrassment is cheap. Token spend isn&#39;t.](https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3)
+- [Half Your Free Trial Signups Are Fake: Here&#39;s How to Fix It](https://dev.to/mayno/half-your-free-trial-signups-are-fake-heres-how-to-fix-it-3h75)
 <!-- BLOG-POST-LIST:END -->
 
 
