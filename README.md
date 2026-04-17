@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing a JSON Schema Validator from Scratch - Week 8](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-8-2fdc)
-- [.NET Application Architectures: Complete Guide to Monolithic, Layered, Clean, and More](https://dev.to/vikrant_bagal_afae3e25ca7/net-application-architectures-complete-guide-to-monolithic-layered-clean-and-more-eio)
-- [Embarrassment is cheap. Token spend isn&#39;t.](https://dev.to/jon_at_backboardio/embarrassment-is-cheap-token-spend-isnt-40b3)
-- [Half Your Free Trial Signups Are Fake: Here&#39;s How to Fix It](https://dev.to/mayno/half-your-free-trial-signups-are-fake-heres-how-to-fix-it-3h75)
+- [Building an AI-Powered Crypto Sentiment &amp; Trading Dashboard](https://dev.to/rakesh_kumar_021e3d407331/building-an-ai-powered-crypto-sentiment-trading-dashboard-2mlo)
+- [Weekend Challenge: Earth Day Edition](https://dev.to/dan52242644dan/weekend-challenge-earth-day-edition-4m90)
+- [Supabase Row Level Security in Production: Patterns That Actually Work](https://dev.to/whoffagents/supabase-row-level-security-in-production-patterns-that-actually-work-2l78)
+- [Why I Replaced Zapier With n8n &lpar;And What I Wish I&#39;d Known Before&rpar;](https://dev.to/whoffagents/why-i-replaced-zapier-with-n8n-and-what-i-wish-id-known-before-30ad)
 <!-- BLOG-POST-LIST:END -->
 
 
