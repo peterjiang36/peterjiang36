@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Structure-Driven Organization Theory #3 — A Structural Model of People](https://dev.to/machuz/structure-driven-organization-theory-3-a-structural-model-of-people-2okk)
-- [Structure-Driven Organization Theory #2 — Output as Structure](https://dev.to/machuz/structure-driven-organization-theory-2-output-as-structure-42ej)
-- [Structure-Driven Organization Theory #1 — The Concept of Observation](https://dev.to/machuz/structure-driven-organization-theory-1-the-concept-of-observation-5352)
-- [When Data Isn’t Enough: Designing a UI That Makes Climate Risk Feel Real](https://dev.to/sevasu77/when-data-isnt-enough-designing-a-ui-that-makes-climate-risk-feel-real-1i3n)
+- [Claude Code Cost Tracking: Monitor and Cut Your Spending](https://dev.to/aavisangle/claude-code-cost-tracking-monitor-and-cut-your-spending-4cge)
+- [AI Agents in Industrial Automation: Unlocking the Next Era of American Manufacturing](https://dev.to/nodeblue/ai-agents-in-industrial-automation-unlocking-the-next-era-of-american-manufacturing-12od)
+- [Why the same ‘breaking news’ alert hits your phone from five Indian news apps at once](https://dev.to/iojas/why-the-same-breaking-news-alert-hits-your-phone-from-five-indian-news-apps-at-once-5h1m)
+- [I got tired shipping in silence, so I built FeatDrop](https://dev.to/allan_jiang/i-got-tired-shipping-in-silence-so-i-built-featdrop-4e9d)
 <!-- BLOG-POST-LIST:END -->
 
 
