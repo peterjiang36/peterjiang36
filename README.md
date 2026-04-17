@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 10x Developer: What the Data Actually Shows &lpar;And Why It Doesn&#39;t Matter&rpar;](https://dev.to/arthur_pandev/the-10x-developer-what-the-data-actually-shows-and-why-it-doesnt-matter-38i2)
-- [I built a minimalist &quot;Museum&quot; for Open Source tools that don&#39;t suck](https://dev.to/dinesh_regar_566b26c47b87/i-built-a-minimalist-museum-for-open-source-tools-that-dont-suck-1m3e)
-- [How to fix laggy android emulators in Ubuntu 24.04](https://dev.to/chamal1120/how-to-fix-laggy-android-emulators-in-ubuntu-2404-3bda)
-- [Why I’m building local-first Android automation for AI agents](https://dev.to/labs_aivane_98191a4f3eab1/why-im-building-local-first-android-automation-for-ai-agents-3kgb)
+- [Voice Agent](https://dev.to/harshvsingh/voice-agent-5hhm)
+- [Prepping the Ingredients: Scaling CI with a Unified Monorepo Engine](https://dev.to/tom-masson/prepping-the-ingredients-scaling-ci-with-a-unified-monorepo-engine-m0k)
+- [Why Streaks Work: The Psychology Behind Habit Streaks &lpar;And How to Use Them Without Burning Out&rpar;](https://dev.to/assindo/why-streaks-work-the-psychology-behind-habit-streaks-and-how-to-use-them-without-burning-out-42n0)
+- [Browser Automation + /improve: AI Agents That Browse the Web and Fix Themselves](https://dev.to/deenuu1/browser-automation-improve-ai-agents-that-browse-the-web-and-fix-themselves-57i8)
 <!-- BLOG-POST-LIST:END -->
 
 
