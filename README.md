@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Listing on MCPize + the Official MCP Registry while routing payments OUTSIDE the marketplace — how I kept 100% of my x402 revenue](https://dev.to/sai_93caeceb4f6a4d9969910/listing-on-mcpize-the-official-mcp-registry-while-routing-payments-outside-the-marketplace-how-2al8)
-- [Building an AI-Powered Risk Intelligence System Using Serverless Architecture](https://dev.to/saif_urrahman/building-an-ai-powered-risk-intelligence-system-using-serverless-architecture-263b)
-- [React Native Cross-Platform Development: One Codebase for Mobile, TV, and Beyond](https://dev.to/sundr_dev/react-native-cross-platform-development-one-codebase-for-mobile-tv-and-beyond-30jf)
-- [Jibun Corp&#39;s AI Hub Reaches 27 Providers — Adding Reka Flash-3 &amp; Writer Palmyra-X5](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-27-providers-adding-reka-flash-3-writer-palmyra-x5-2acl)
+- [A Pythonic Way to Handle Emails &lpar;IMAP/SMTP&rpar; with Auto-Discovery and AI-Ready Design](https://dev.to/fernandocelmer/a-pythonic-way-to-handle-emails-imapsmtp-with-auto-discovery-and-ai-ready-design-3ad6)
+- [I Collected 8.9 Million Polymarket Price Points — Here&#39;s What I Found About How Markets Really Move](https://dev.to/manja316/i-collected-89-million-polymarket-price-points-heres-what-i-found-about-how-markets-really-move-2dil)
+- [EcoTrack AI — Carbon Footprint Tracker &amp; Dashboard](https://dev.to/gowtham_m_2c7f2a0ed2a274b/ecotrack-ai-carbon-footprint-tracker-dashboard-jb7)
+- [Everyone&#39;s Using AI. No One Agrees How.](https://dev.to/jonoherrington/everyones-using-ai-no-one-agrees-how-fc8)
 <!-- BLOG-POST-LIST:END -->
 
 
