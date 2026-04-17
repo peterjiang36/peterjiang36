@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered Crypto Sentiment &amp; Trading Dashboard](https://dev.to/rakesh_kumar_021e3d407331/building-an-ai-powered-crypto-sentiment-trading-dashboard-2mlo)
-- [Weekend Challenge: Earth Day Edition](https://dev.to/dan52242644dan/weekend-challenge-earth-day-edition-4m90)
-- [Supabase Row Level Security in Production: Patterns That Actually Work](https://dev.to/whoffagents/supabase-row-level-security-in-production-patterns-that-actually-work-2l78)
-- [Why I Replaced Zapier With n8n &lpar;And What I Wish I&#39;d Known Before&rpar;](https://dev.to/whoffagents/why-i-replaced-zapier-with-n8n-and-what-i-wish-id-known-before-30ad)
+- [Arquitetura REST](https://dev.to/gabrieltme/arquitetura-rest-3d6)
+- [I Built a PQC Native L1 Blockchain from Scratch in 9 Months](https://dev.to/exocognosis/i-built-a-pqc-native-l1-blockchain-from-scratch-in-9-months-550h)
+- [The signing key mistake that cost me a week on my first Android release](https://dev.to/theionproject/the-signing-key-mistake-that-cost-me-a-week-on-my-first-android-release-1eo1)
+- [Part 2: Hands-on tc Framework: Building a Full-Stack Async API with Pages](https://dev.to/functors/part-2-hands-on-tc-framework-building-a-full-stack-async-api-with-pages-3i9m)
 <!-- BLOG-POST-LIST:END -->
 
 
