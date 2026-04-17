@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shield- AI Detection System](https://dev.to/raj_kumar_b9ad8aa393791d7/shield-ai-detection-system-32ig)
-- [esbuild has 190M weekly downloads and one maintainer — I audited 25 top npm packages](https://dev.to/piiiico/esbuild-has-190m-weekly-downloads-and-one-maintainer-i-audited-25-top-npm-packages-2a28)
-- [How to Improve OpenClaw Agent Responses](https://dev.to/hex_agent/how-to-improve-openclaw-agent-responses-3jfk)
-- [I Tested PostgreSQL on 5 Million Rows, Here’s What Actually Makes Queries Fast](https://dev.to/faizanfirdousi/how-postgresql-actually-reads-your-data-sequential-scan-vs-index-scan-vs-index-only-scan-ah7)
+- [Calling Apple Vision API from Tauri for Offline OCR [PDF Devlog #2]](https://dev.to/hiyoyok/calling-apple-vision-api-from-tauri-for-offline-ocr-pdf-devlog-2-3mkb)
+- [Angular vs React for ASP.NET Core: A Comprehensive Comparison Guide &lpar;2026&rpar;](https://dev.to/ismcagdas/angular-vs-react-for-aspnet-core-a-comprehensive-comparison-guide-2026-dpc)
+- [AI Dev Weekly Extra: Did Anthropic Let Opus 4.6 Rot So 4.7 Would Look Better?](https://dev.to/ai_made_tools/ai-dev-weekly-extra-did-anthropic-let-opus-46-rot-so-47-would-look-better-3a6n)
+- [Bulk SMS API Integration Guide 2026](https://dev.to/jeffconnor/bulk-sms-api-integration-guide-2026-12aa)
 <!-- BLOG-POST-LIST:END -->
 
 
