@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The POUR principles of web accessibility for developers and designers](https://dev.to/devly-digital/the-pour-principles-of-web-accessibility-for-developers-and-designers-171k)
-- [Quantum Neural Network 3D — A Deep Dive into Interactive WebGL Visualization](https://dev.to/yasirawan4831/quantum-neural-network-3d-a-deep-dive-into-interactive-webgl-visualization-1k3n)
-- [How To Install Caveman In Codex On macOS And Windows](https://dev.to/ganmahmud/how-to-install-caveman-in-codex-on-macos-and-windows-5a22)
-- [Automation Pipeline Reliability: Why Your Workflow Breaks When Nobody Is Watching](https://dev.to/quietpulse-social/automation-pipeline-reliability-why-your-workflow-breaks-when-nobody-is-watching-1pmc)
+- [We Started a Startup, Got One Client, and It Broke Us Apart](https://dev.to/chabdulwahhab310/we-started-a-startup-got-one-client-and-it-broke-us-apart-1kh4)
+- [Data Pipelines Explained Simply &lpar;and How to Build Them with Python&rpar;](https://dev.to/anthony-gicheru/data-pipelines-explained-simply-and-how-to-build-them-with-python-555)
+- [The Hidden Cost of AI Systems Nobody Talks About.](https://dev.to/siddhartha_reddy/the-hidden-cost-of-ai-systems-nobody-talks-about-2pgh)
+- [undefined vs undeclared, and how typeof behaves](https://dev.to/ashish_ghildiyal_26/undefined-vs-undeclared-and-how-typeof-behaves-5b81)
 <!-- BLOG-POST-LIST:END -->
 
 
