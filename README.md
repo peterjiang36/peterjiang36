@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated My Manus AI Workflow &lpar;And Saved 62%&rpar;](https://dev.to/rafsilva85/how-i-automated-my-manus-ai-workflow-and-saved-62-4ejf)
-- [How I Built a 1,056-Test Rust CLI in 3 Weeks](https://dev.to/ji_ai/how-i-built-a-1056-test-rust-cli-in-3-weeks-1fe6)
-- [The Hidden Cost of AI Agents in 2026](https://dev.to/rafsilva85/the-hidden-cost-of-ai-agents-in-2026-fho)
-- [Tackling the unsexy problems has been our goal, so you can build for your customers.](https://dev.to/jon_at_backboardio/tackling-the-unsexy-problems-has-been-our-goal-so-you-can-build-for-your-customers-4c5j)
+- [Structure-Driven Organization Theory #3 — A Structural Model of People](https://dev.to/machuz/structure-driven-organization-theory-3-a-structural-model-of-people-2okk)
+- [Structure-Driven Organization Theory #2 — Output as Structure](https://dev.to/machuz/structure-driven-organization-theory-2-output-as-structure-42ej)
+- [Structure-Driven Organization Theory #1 — The Concept of Observation](https://dev.to/machuz/structure-driven-organization-theory-1-the-concept-of-observation-5352)
+- [When Data Isn’t Enough: Designing a UI That Makes Climate Risk Feel Real](https://dev.to/sevasu77/when-data-isnt-enough-designing-a-ui-that-makes-climate-risk-feel-real-1i3n)
 <!-- BLOG-POST-LIST:END -->
 
 
