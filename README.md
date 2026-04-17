@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Pythonic Way to Handle Emails &lpar;IMAP/SMTP&rpar; with Auto-Discovery and AI-Ready Design](https://dev.to/fernandocelmer/a-pythonic-way-to-handle-emails-imapsmtp-with-auto-discovery-and-ai-ready-design-3ad6)
-- [I Collected 8.9 Million Polymarket Price Points — Here&#39;s What I Found About How Markets Really Move](https://dev.to/manja316/i-collected-89-million-polymarket-price-points-heres-what-i-found-about-how-markets-really-move-2dil)
-- [EcoTrack AI — Carbon Footprint Tracker &amp; Dashboard](https://dev.to/gowtham_m_2c7f2a0ed2a274b/ecotrack-ai-carbon-footprint-tracker-dashboard-jb7)
-- [Everyone&#39;s Using AI. No One Agrees How.](https://dev.to/jonoherrington/everyones-using-ai-no-one-agrees-how-fc8)
+- [5 Things I Learned Reverse-Engineering Claude Code&#39;s Architecture](https://dev.to/_2b847605e5fbe8a8c9e26/5-things-i-learned-reverse-engineering-claude-codes-architecture-42hb)
+- [We scored 172 bots on behavioral conduct. OpenAI came in last.](https://dev.to/botconductstandard/we-scored-172-bots-on-behavioral-conduct-openai-came-in-last-4bpd)
+- [I Built an AI-Powered Learning OS Because I Was Tired of Forgetting Everything I Read](https://dev.to/abhishekalbert/i-built-an-ai-powered-learning-os-because-i-was-tired-of-forgetting-everything-i-read-2e9j)
+- [I Made My Family Dinner AI&#39;s Problem](https://dev.to/pattpjy/i-made-my-family-dinner-ais-problem-kja)
 <!-- BLOG-POST-LIST:END -->
 
 
