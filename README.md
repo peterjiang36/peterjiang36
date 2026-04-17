@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Voice Agent](https://dev.to/harshvsingh/voice-agent-5hhm)
-- [Prepping the Ingredients: Scaling CI with a Unified Monorepo Engine](https://dev.to/tom-masson/prepping-the-ingredients-scaling-ci-with-a-unified-monorepo-engine-m0k)
-- [Why Streaks Work: The Psychology Behind Habit Streaks &lpar;And How to Use Them Without Burning Out&rpar;](https://dev.to/assindo/why-streaks-work-the-psychology-behind-habit-streaks-and-how-to-use-them-without-burning-out-42n0)
-- [Browser Automation + /improve: AI Agents That Browse the Web and Fix Themselves](https://dev.to/deenuu1/browser-automation-improve-ai-agents-that-browse-the-web-and-fix-themselves-57i8)
+- [I built a VS Code extension that turns your codebase into an interactive 3D city 🏙️](https://dev.to/hubinoretros/i-built-a-vs-code-extension-that-turns-your-codebase-into-an-interactive-3d-city-27g7)
+- [The Age of Agents: What We&#39;ve Learned Now That AI Stopped Talking and Started Acting](https://dev.to/sharsh/the-age-of-agents-what-weve-learned-now-that-ai-stopped-talking-and-started-acting-1mom)
+- [tRPC vs REST vs GraphQL in 2026: A SaaS Builder&#39;s Honest Take](https://dev.to/whoffagents/trpc-vs-rest-vs-graphql-in-2026-a-saas-builders-honest-take-459k)
+- [Why I Chose DevOps Along with Frontend &lpar;Weird Combo but Works&rpar;](https://dev.to/sohanaakbar7/why-i-chose-devops-along-with-frontend-weird-combo-but-works-55hi)
 <!-- BLOG-POST-LIST:END -->
 
 
