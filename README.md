@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a VS Code extension that turns your codebase into an interactive 3D city 🏙️](https://dev.to/hubinoretros/i-built-a-vs-code-extension-that-turns-your-codebase-into-an-interactive-3d-city-27g7)
-- [The Age of Agents: What We&#39;ve Learned Now That AI Stopped Talking and Started Acting](https://dev.to/sharsh/the-age-of-agents-what-weve-learned-now-that-ai-stopped-talking-and-started-acting-1mom)
-- [tRPC vs REST vs GraphQL in 2026: A SaaS Builder&#39;s Honest Take](https://dev.to/whoffagents/trpc-vs-rest-vs-graphql-in-2026-a-saas-builders-honest-take-459k)
-- [Why I Chose DevOps Along with Frontend &lpar;Weird Combo but Works&rpar;](https://dev.to/sohanaakbar7/why-i-chose-devops-along-with-frontend-weird-combo-but-works-55hi)
+- [How to Defend Your AI Agent Against Prompt Injection](https://dev.to/thecyberarchive/how-to-defend-your-ai-agent-against-prompt-injection-de)
+- [Stop burning tokens on DOM noise: a Playwright MCP optimizer layer](https://dev.to/treesoop/stop-burning-tokens-on-dom-noise-a-playwright-mcp-optimizer-layer-1on6)
+- [Why I built ragwise: pip-installable RAG with hybrid search, streaming, and agent tools by default](https://dev.to/laxmikanta_nayak_c2c4d6ea/why-i-built-ragwise-pip-installable-rag-with-hybrid-search-streaming-and-agent-tools-by-default-5g11)
+- [Introducing hwp-mcp: Korean document support for Claude via MCP](https://dev.to/treesoop/introducing-hwp-mcp-korean-document-support-for-claude-via-mcp-1lbg)
 <!-- BLOG-POST-LIST:END -->
 
 
