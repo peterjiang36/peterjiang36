@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Cost Tracking: Monitor and Cut Your Spending](https://dev.to/aavisangle/claude-code-cost-tracking-monitor-and-cut-your-spending-4cge)
-- [AI Agents in Industrial Automation: Unlocking the Next Era of American Manufacturing](https://dev.to/nodeblue/ai-agents-in-industrial-automation-unlocking-the-next-era-of-american-manufacturing-12od)
-- [Why the same ‘breaking news’ alert hits your phone from five Indian news apps at once](https://dev.to/iojas/why-the-same-breaking-news-alert-hits-your-phone-from-five-indian-news-apps-at-once-5h1m)
-- [I got tired shipping in silence, so I built FeatDrop](https://dev.to/allan_jiang/i-got-tired-shipping-in-silence-so-i-built-featdrop-4e9d)
+- [The POUR principles of web accessibility for developers and designers](https://dev.to/devly-digital/the-pour-principles-of-web-accessibility-for-developers-and-designers-171k)
+- [Quantum Neural Network 3D — A Deep Dive into Interactive WebGL Visualization](https://dev.to/yasirawan4831/quantum-neural-network-3d-a-deep-dive-into-interactive-webgl-visualization-1k3n)
+- [How To Install Caveman In Codex On macOS And Windows](https://dev.to/ganmahmud/how-to-install-caveman-in-codex-on-macos-and-windows-5a22)
+- [Automation Pipeline Reliability: Why Your Workflow Breaks When Nobody Is Watching](https://dev.to/quietpulse-social/automation-pipeline-reliability-why-your-workflow-breaks-when-nobody-is-watching-1pmc)
 <!-- BLOG-POST-LIST:END -->
 
 
