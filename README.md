@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Split your AWS AppSync schema across multiple files](https://dev.to/moyarich/split-your-aws-appsync-schema-across-multiple-files-56c5)
-- [Supercharge AWS Diagrams in VSCode with Mermaid and Custom Icons](https://dev.to/aws-builders/supercharge-aws-diagrams-in-vscode-with-mermaid-and-custom-icons-d0m)
-- [Anthropic Just Gave Claude a Design Studio. Here&#39;s What Claude Design Actually Does.](https://dev.to/om_shree_0709/anthropic-just-gave-claude-a-design-studio-heres-what-claude-design-actually-does-5h1f)
-- [Why hasn&#39;t AI improved design quality the way it improved dev speed?](https://dev.to/minimal-architect/why-hasnt-ai-improved-design-quality-the-way-it-improved-dev-speed-1bl7)
+- [E-Waste Aware — Sanitise First, Then Recycle 🌏](https://dev.to/shadowstrike/e-waste-aware-sanitise-first-then-recycle-35hd)
+- [Hidden Answers in Plain Sight: A CLI to Ask the Earth](https://dev.to/crevilla2050/hidden-answers-in-plain-sight-a-cli-to-ask-the-earth-44gl)
+- [Kayon for Weekend Challenge: Earth Day Edition](https://dev.to/boby_juliyanto_c33e95cdd9/kayon-for-weekend-challenge-earth-day-edition-o2n)
+- [Techn0tz Turns 1 — Help Shape What’s Next](https://dev.to/manjushaps/techn0tz-turns-1-help-shape-whats-next-5ehe)
 <!-- BLOG-POST-LIST:END -->
 
 
