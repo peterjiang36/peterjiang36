@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j)
-- [Scaling Our Daily Twitter Scraping Workflow with actionbook&#39;s Cloud Browser Providers](https://dev.to/senke0x/scaling-our-daily-twitter-scraping-workflow-with-actionbooks-cloud-browser-providers-1hlh)
-- [EcoSort- Smart Waste Sorting App for Earth day](https://dev.to/kaweendra_shehan_fd70d5ed/ecosort-smart-waste-sorting-app-for-earth-day-56ci)
-- [AI Isn&#39;t a Crutch for Bad Developers ... It&#39;s the Unlock for Neurodivergent Ones](https://dev.to/jonoherrington/ai-isnt-a-crutch-for-bad-developers-its-the-unlock-for-neurodivergent-ones-11ek)
+- [Vibe Coding: A Workflow Guide &lpar;From Zero to SaaS&rpar;](https://dev.to/dyami_connell/vibe-coding-a-workflow-guide-from-zero-to-saas-4h6l)
+- [Most webhook security guides protect the wrong side. The scary part is delivery.](https://dev.to/adioof/most-webhook-security-guides-protect-the-wrong-side-the-scary-part-is-delivery-6pm)
+- [Headless CMS for TanStack Start: Build a Blog with Cosmic](https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f)
+- [EU Age Verification App &quot;Hacked in 2 Minutes&quot; — What Actually Happened](https://dev.to/fldsakos/eu-age-verification-app-hacked-in-2-minutes-what-actually-happened-2d3p)
 <!-- BLOG-POST-LIST:END -->
 
 
