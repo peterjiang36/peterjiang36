@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Material Design Principles Are Correct. Implementing Them Will Break You.](https://dev.to/9thquadrant/material-design-principles-are-correct-implementing-them-will-break-you-2bm3)
-- [I built a terminal screensaver in Go — constellations, rain, braille waves, and full shell integration](https://dev.to/phlx0/i-built-a-terminal-screensaver-in-go-constellations-rain-braille-waves-and-full-shell-2olg)
-- [Hono.js on Cloudflare Workers: Typed APIs That Actually Run at the Edge](https://dev.to/whoffagents/honojs-on-cloudflare-workers-typed-apis-that-actually-run-at-the-edge-3930)
-- [How I Found My First CVE as a College Student &lpar;And What Most Guides Don&#39;t Tell You&rpar;](https://dev.to/krrish_jagbandhu_eca8db9d/how-i-found-my-first-cve-as-a-college-student-and-what-most-guides-dont-tell-you-4h8h)
+- [Quantum Computers Are Coming for Web3 Identity](https://dev.to/malak_gandhi_9c740c7082ee/quantum-computers-are-coming-for-web3-identity-4kdl)
+- [深度解构纽约时报视频流架构：如何构建基于 HLS 与 FFmpeg 的高性能提取引擎](https://dev.to/yqqwe/shen-du-jie-gou-niu-yue-shi-bao-shi-pin-liu-jia-gou-ru-he-gou-jian-ji-yu-hls-yu-ffmpeg-de-gao-xing-neng-ti-qu-yin-qing-3dff)
+- [เจาะลึกสถาปัตยกรรม Media Streaming ของ LinkedIn: การสร้าง Engine สกัดวิดีโอประสิทธิภาพสูงด้วย HLS และ FFmpeg](https://dev.to/yqqwe/ecchaaalueksthaapatykrrm-media-streaming-khng-linkedin-kaarsraang-engine-skadwidiioprasiththiphaaphsuungdwy-hls-ckn)
+- [Giải mã kiến trúc Media Streaming của LinkedIn: Xây dựng Engine trích xuất video hiệu suất cao với HLS và FFmpeg](https://dev.to/yqqwe/giai-ma-kien-truc-media-streaming-cua-linkedin-xay-dung-engine-trich-xuat-video-hieu-suat-cao-voi-5bc6)
 <!-- BLOG-POST-LIST:END -->
 
 
