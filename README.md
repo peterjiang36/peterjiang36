@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computers Are Coming for Web3 Identity](https://dev.to/malak_gandhi_9c740c7082ee/quantum-computers-are-coming-for-web3-identity-4kdl)
-- [深度解构纽约时报视频流架构：如何构建基于 HLS 与 FFmpeg 的高性能提取引擎](https://dev.to/yqqwe/shen-du-jie-gou-niu-yue-shi-bao-shi-pin-liu-jia-gou-ru-he-gou-jian-ji-yu-hls-yu-ffmpeg-de-gao-xing-neng-ti-qu-yin-qing-3dff)
-- [เจาะลึกสถาปัตยกรรม Media Streaming ของ LinkedIn: การสร้าง Engine สกัดวิดีโอประสิทธิภาพสูงด้วย HLS และ FFmpeg](https://dev.to/yqqwe/ecchaaalueksthaapatykrrm-media-streaming-khng-linkedin-kaarsraang-engine-skadwidiioprasiththiphaaphsuungdwy-hls-ckn)
-- [Giải mã kiến trúc Media Streaming của LinkedIn: Xây dựng Engine trích xuất video hiệu suất cao với HLS và FFmpeg](https://dev.to/yqqwe/giai-ma-kien-truc-media-streaming-cua-linkedin-xay-dung-engine-trich-xuat-video-hieu-suat-cao-voi-5bc6)
+- [Building a Digital Agency Hub: How METIS Digital Manages 40+ Web Properties](https://dev.to/julien786534/building-a-digital-agency-hub-how-metis-digital-manages-40-web-properties-3b6d)
+- [Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet](https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj)
+- [Built a freelance proposal generator that reads your CV](https://dev.to/propai/built-a-freelance-proposal-generator-that-reads-your-cv-4hm5)
+- [How to Check If You](https://dev.to/robertatkinson3570/how-to-check-if-you-72e)
 <!-- BLOG-POST-LIST:END -->
 
 
