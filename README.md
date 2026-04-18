@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [E-Waste Aware — Sanitise First, Then Recycle 🌏](https://dev.to/shadowstrike/e-waste-aware-sanitise-first-then-recycle-35hd)
-- [Hidden Answers in Plain Sight: A CLI to Ask the Earth](https://dev.to/crevilla2050/hidden-answers-in-plain-sight-a-cli-to-ask-the-earth-44gl)
-- [Kayon for Weekend Challenge: Earth Day Edition](https://dev.to/boby_juliyanto_c33e95cdd9/kayon-for-weekend-challenge-earth-day-edition-o2n)
-- [Techn0tz Turns 1 — Help Shape What’s Next](https://dev.to/manjushaps/techn0tz-turns-1-help-shape-whats-next-5ehe)
+- [Productionizing LLMs in Go: Distributed Budgeting, LangChain, and ROI Tracking](https://dev.to/oluwajubelo1/productionizing-llms-in-go-distributed-budgeting-langchain-and-roi-tracking-4omn)
+- [The Developer Who Reviews Everything and Ships Nothing](https://dev.to/adamthedeveloper/the-developer-who-reviews-everything-and-ships-nothing-1e28)
+- [Should We Still Care About Our Code?](https://dev.to/js402/should-we-still-care-about-our-code-47mc)
+- [I Built a Bulletproof Web Scraper That Hasn&#39;t Been Blocked in 6 Months — Here&#39;s Every Trick I Use](https://dev.to/vasquezventures/i-built-a-bulletproof-web-scraper-that-hasnt-been-blocked-in-6-months-heres-every-trick-i-use-1hc5)
 <!-- BLOG-POST-LIST:END -->
 
 
