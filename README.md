@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Digital Agency Hub: How METIS Digital Manages 40+ Web Properties](https://dev.to/julien786534/building-a-digital-agency-hub-how-metis-digital-manages-40-web-properties-3b6d)
-- [Argon2id Master Passwords: Securing Your Self-Hosted AI Agent Wallet](https://dev.to/walletguy/argon2id-master-passwords-securing-your-self-hosted-ai-agent-wallet-1gdj)
-- [Built a freelance proposal generator that reads your CV](https://dev.to/propai/built-a-freelance-proposal-generator-that-reads-your-cv-4hm5)
-- [How to Check If You](https://dev.to/robertatkinson3570/how-to-check-if-you-72e)
+- [How I Stopped Retry Storms from Destroying My Scraping Budget](https://dev.to/doru_gradinaru_889c1b8687/how-i-stopped-retry-storms-from-destroying-my-scraping-budget-5b7e)
+- [I built a CLI that roasts HTTP status codes instead of just logging them](https://dev.to/bhabishya/i-built-a-cli-that-roasts-http-status-codes-instead-of-just-logging-them-2eo7)
+- [I built a 1-person web agency in 7 days using Claude Code + Netlify. Full stack + pricing breakdown.](https://dev.to/_f7a195ce7dbc11d21d88/i-built-a-1-person-web-agency-in-7-days-using-claude-code-netlify-full-stack-pricing-breakdown-1aki)
+- [[Tutorial] Building an Unshielded Token dApp with UI](https://dev.to/0xfdbu/tutorial-building-an-unshielded-token-dapp-with-ui-hkj)
 <!-- BLOG-POST-LIST:END -->
 
 
