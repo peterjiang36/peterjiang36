@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Stopped Retry Storms from Destroying My Scraping Budget](https://dev.to/doru_gradinaru_889c1b8687/how-i-stopped-retry-storms-from-destroying-my-scraping-budget-5b7e)
-- [I built a CLI that roasts HTTP status codes instead of just logging them](https://dev.to/bhabishya/i-built-a-cli-that-roasts-http-status-codes-instead-of-just-logging-them-2eo7)
-- [I built a 1-person web agency in 7 days using Claude Code + Netlify. Full stack + pricing breakdown.](https://dev.to/_f7a195ce7dbc11d21d88/i-built-a-1-person-web-agency-in-7-days-using-claude-code-netlify-full-stack-pricing-breakdown-1aki)
-- [[Tutorial] Building an Unshielded Token dApp with UI](https://dev.to/0xfdbu/tutorial-building-an-unshielded-token-dapp-with-ui-hkj)
+- [Why Your Project Works on USB Power But Not on Battery](https://dev.to/_0c004e5fde78250aee362/why-your-project-works-on-usb-power-but-not-on-battery-1lpd)
+- [Why Your Rotary Encoder Counts Wrong &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-rotary-encoder-counts-wrong-and-how-to-fix-it-3mfe)
+- [Why Your I2C Scanner Finds Nothing &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-i2c-scanner-finds-nothing-and-how-to-fix-it-4d07)
+- [Train Your Team on AI Automation for Health Code Compliance](https://dev.to/ken_deng_ai/train-your-team-on-ai-automation-for-health-code-compliance-2h1e)
 <!-- BLOG-POST-LIST:END -->
 
 
