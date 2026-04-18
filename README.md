@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Midnight Zero-Knowledge Briefing: Dual State Model Developer Walkthrough](https://dev.to/spycrypto/midnight-zero-knowledge-briefing-dual-state-model-developer-walkthrough-3bep)
-- [I Bought a Domain That Used to Sell Viagra. Here&#39;s My SEO Recovery Log.](https://dev.to/levent_elik_34b35337d291/i-bought-a-domain-that-used-to-sell-viagra-heres-my-seo-recovery-log-5gkd)
-- [Hello Dev.to — I’m Emenike Nathaniel I’m excited to officially join this amazing developer community.](https://dev.to/githubnath/hello-devto-im-nathaniel-emenike-im-excited-to-officially-join-this-amazing-developer-21cd)
-- [How I Built a Personal AI Workspace with OpenClaw and Reframed My Development Workflow](https://dev.to/promisenotnull/how-i-built-a-personal-ai-workspace-with-openclaw-and-reframed-my-development-workflow-2aia)
+- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757)
+- [GitHub Copilot in 2026 is not what you think it is anymore](https://dev.to/carlosjcastrog/github-copilot-in-2026-is-not-what-you-think-it-is-anymore-ij3)
+- [I Built an AI Chief of Staff That Never Forgets Most startup chaos is memory failure](https://dev.to/dheer46/i-built-an-ai-chief-of-staff-that-never-forgets-most-startup-chaos-is-memory-failure-34p0)
+- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources &lpar;2026&rpar;](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l)
 <!-- BLOG-POST-LIST:END -->
 
 
