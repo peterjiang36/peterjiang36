@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WHY 90% OF DEVELOPERS FAIL AFTER 6 MONTHS!!!](https://dev.to/thecurlyhairdev/why-90-of-developers-fail-after-6-months-2cag)
-- [Automate Your Music Studio: AI for Handouts and Practice Sheets](https://dev.to/ken_deng_ai/automate-your-music-studio-ai-for-handouts-and-practice-sheets-20j7)
-- [Capture a Flutter Widget as PNG and Download It — Web Share Card](https://dev.to/kanta13jp1/capture-a-flutter-widget-as-png-and-download-it-web-share-card-2n20)
-- [Structure-Driven Engineering Organization Theory #8 — Conditions for a Structure-Driven Organization](https://dev.to/machuz/structure-driven-engineering-organization-theory-8-conditions-for-a-structure-driven-organization-h4a)
+- [Building a Modern Open Knowledge Ecosystem: Introducing Mippedia](https://dev.to/mippedia/building-a-modern-open-knowledge-ecosystem-introducing-mippedia-mip)
+- [How to Actually Measure Your Programming Level &lpar;Without Tutorial Hell&rpar;](https://dev.to/vitalyobolensky/how-to-actually-measure-your-programming-level-without-tutorial-hell-45e2)
+- [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
+- [Zero Token Architecture: Why Your AI Agent Should Never See Your Real API Key](https://dev.to/rednakta/zero-token-architecture-why-your-ai-agent-should-never-see-your-real-api-key-3a1n)
 <!-- BLOG-POST-LIST:END -->
 
 
