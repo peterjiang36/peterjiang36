@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VS Code Tips and Tricks That Will Seriously Boost Your Developer Experience](https://dev.to/hamidrazadev/vs-code-tips-and-tricks-that-will-seriously-boost-your-developer-experience-em5)
-- [AI Agents Generate Code That Passes Your Tests. That Is the Problem.](https://dev.to/toniantunovic/ai-agents-generate-code-that-passes-your-tests-that-is-the-problem-56jb)
-- [6 Steps to Reduce Your Mobile Addiction](https://dev.to/bawa_geek/6-steps-to-reduce-your-mobile-addiction-55f7)
-- [The AI Agent Ecosystem Needs a Public Market Layer](https://dev.to/cuilabssgp/the-ai-agent-ecosystem-needs-a-public-market-layer-43cm)
+- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j)
+- [Scaling Our Daily Twitter Scraping Workflow with actionbook&#39;s Cloud Browser Providers](https://dev.to/senke0x/scaling-our-daily-twitter-scraping-workflow-with-actionbooks-cloud-browser-providers-1hlh)
+- [EcoSort- Smart Waste Sorting App for Earth day](https://dev.to/kaweendra_shehan_fd70d5ed/ecosort-smart-waste-sorting-app-for-earth-day-56ci)
+- [AI Isn&#39;t a Crutch for Bad Developers ... It&#39;s the Unlock for Neurodivergent Ones](https://dev.to/jonoherrington/ai-isnt-a-crutch-for-bad-developers-its-the-unlock-for-neurodivergent-ones-11ek)
 <!-- BLOG-POST-LIST:END -->
 
 
