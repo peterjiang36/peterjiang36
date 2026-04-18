@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757)
-- [GitHub Copilot in 2026 is not what you think it is anymore](https://dev.to/carlosjcastrog/github-copilot-in-2026-is-not-what-you-think-it-is-anymore-ij3)
-- [I Built an AI Chief of Staff That Never Forgets Most startup chaos is memory failure](https://dev.to/dheer46/i-built-an-ai-chief-of-staff-that-never-forgets-most-startup-chaos-is-memory-failure-34p0)
-- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources &lpar;2026&rpar;](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l)
+- [Examlock](https://dev.to/zheyuse/examlock-257m)
+- [A declarative CLI framework in Rust](https://dev.to/kuangren_chu_0ca6da848be4/a-declarative-cli-framework-in-rust-d8i)
+- [a claude code/codex plugin to run autoresearch on your repository](https://dev.to/alokbishoyi97/a-claude-codecodex-plugin-to-run-autoresearch-on-your-repository-45oa)
+- [I built a free Java practice playground with a built-in compiler — here&#39;s what I learned &lpar;and what&#39;s inside&rpar;](https://dev.to/priyanshu_rauth/i-built-a-free-java-practice-playground-with-a-built-in-compiler-heres-what-i-learned-and-1be0)
 <!-- BLOG-POST-LIST:END -->
 
 
