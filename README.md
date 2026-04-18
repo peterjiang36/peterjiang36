@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern Open Knowledge Ecosystem: Introducing Mippedia](https://dev.to/mippedia/building-a-modern-open-knowledge-ecosystem-introducing-mippedia-mip)
-- [How to Actually Measure Your Programming Level &lpar;Without Tutorial Hell&rpar;](https://dev.to/vitalyobolensky/how-to-actually-measure-your-programming-level-without-tutorial-hell-45e2)
-- [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
-- [Zero Token Architecture: Why Your AI Agent Should Never See Your Real API Key](https://dev.to/rednakta/zero-token-architecture-why-your-ai-agent-should-never-see-your-real-api-key-3a1n)
+- [Material Design Principles Are Correct. Implementing Them Will Break You.](https://dev.to/9thquadrant/material-design-principles-are-correct-implementing-them-will-break-you-2bm3)
+- [I built a terminal screensaver in Go — constellations, rain, braille waves, and full shell integration](https://dev.to/phlx0/i-built-a-terminal-screensaver-in-go-constellations-rain-braille-waves-and-full-shell-2olg)
+- [Hono.js on Cloudflare Workers: Typed APIs That Actually Run at the Edge](https://dev.to/whoffagents/honojs-on-cloudflare-workers-typed-apis-that-actually-run-at-the-edge-3930)
+- [How I Found My First CVE as a College Student &lpar;And What Most Guides Don&#39;t Tell You&rpar;](https://dev.to/krrish_jagbandhu_eca8db9d/how-i-found-my-first-cve-as-a-college-student-and-what-most-guides-dont-tell-you-4h8h)
 <!-- BLOG-POST-LIST:END -->
 
 
