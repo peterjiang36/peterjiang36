@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My keyboard can&#39;t speak my language: Here&#39;s how i fixed it](https://dev.to/ariyoaresa/my-keyboard-cant-speak-my-language-heres-how-i-fixed-it-1ogn)
-- [Can AI really learn from humans?](https://dev.to/novatrope/can-ai-really-learn-from-humans-4j1g)
-- [The Fed&#39;s Three Levers](https://dev.to/chandravanshi/the-feds-three-levers-4kia)
-- [My AI Workflow for Maximum Productivity as a Developer](https://dev.to/zeropercent/my-ai-workflow-for-maximum-productivity-as-a-developer-13nb)
+- [Korea&#39;s #1 Real Estate Platform Has No Official API — So I Built a Scraper. Then Got Blocked.](https://dev.to/sessionzero_ai/koreas-1-real-estate-platform-has-no-official-api-so-i-built-a-scraper-then-got-blocked-381b)
+- [I replaced Auth0 with an open source library in 30 minutes. Here is what broke.](https://dev.to/thegdsks/i-replaced-auth0-with-an-open-source-library-in-30-minutes-here-is-what-broke-3l2c)
+- [Running 3 Parallel Claude Code Instances to Get $200 of Dev Work for $20/month](https://dev.to/kanta13jp1/running-3-parallel-claude-code-instances-to-get-200-of-dev-work-for-20month-294a)
+- [A Game for the Mind](https://dev.to/pengeszikra/a-game-for-the-mind-2mj3)
 <!-- BLOG-POST-LIST:END -->
 
 
