@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Real-Time Notification System Inspired by Accra Traffic](https://dev.to/nlankwei5/i-built-a-real-time-notification-system-inspired-by-accra-traffic-gh4)
-- [I Built an App That Listens to Your Garden and Tells You What&#39;s Disappearing. 🌍](https://dev.to/_boweii/i-built-an-app-that-listens-to-your-garden-and-tells-you-whats-disappearing-3g92)
-- [My Study Guide for the Microsoft Certified Azure Databricks Data Engineer Associate Beta Exam](https://dev.to/rengond/my-study-guide-for-the-microsoft-certified-azure-databricks-data-engineer-associate-beta-exam-1nbm)
-- [TELMED AI DOCTOR](https://dev.to/cmarvelous/telmed-ai-doctor-11h4)
+- [Midnight Zero-Knowledge Briefing: Dual State Model Developer Walkthrough](https://dev.to/spycrypto/midnight-zero-knowledge-briefing-dual-state-model-developer-walkthrough-3bep)
+- [I Bought a Domain That Used to Sell Viagra. Here&#39;s My SEO Recovery Log.](https://dev.to/levent_elik_34b35337d291/i-bought-a-domain-that-used-to-sell-viagra-heres-my-seo-recovery-log-5gkd)
+- [Hello Dev.to — I’m Emenike Nathaniel I’m excited to officially join this amazing developer community.](https://dev.to/githubnath/hello-devto-im-nathaniel-emenike-im-excited-to-officially-join-this-amazing-developer-21cd)
+- [How I Built a Personal AI Workspace with OpenClaw and Reframed My Development Workflow](https://dev.to/promisenotnull/how-i-built-a-personal-ai-workspace-with-openclaw-and-reframed-my-development-workflow-2aia)
 <!-- BLOG-POST-LIST:END -->
 
 
