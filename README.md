@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Project Works on USB Power But Not on Battery](https://dev.to/_0c004e5fde78250aee362/why-your-project-works-on-usb-power-but-not-on-battery-1lpd)
-- [Why Your Rotary Encoder Counts Wrong &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-rotary-encoder-counts-wrong-and-how-to-fix-it-3mfe)
-- [Why Your I2C Scanner Finds Nothing &lpar;And How to Fix It&rpar;](https://dev.to/_0c004e5fde78250aee362/why-your-i2c-scanner-finds-nothing-and-how-to-fix-it-4d07)
-- [Train Your Team on AI Automation for Health Code Compliance](https://dev.to/ken_deng_ai/train-your-team-on-ai-automation-for-health-code-compliance-2h1e)
+- [VS Code Tips and Tricks That Will Seriously Boost Your Developer Experience](https://dev.to/hamidrazadev/vs-code-tips-and-tricks-that-will-seriously-boost-your-developer-experience-em5)
+- [AI Agents Generate Code That Passes Your Tests. That Is the Problem.](https://dev.to/toniantunovic/ai-agents-generate-code-that-passes-your-tests-that-is-the-problem-56jb)
+- [6 Steps to Reduce Your Mobile Addiction](https://dev.to/bawa_geek/6-steps-to-reduce-your-mobile-addiction-55f7)
+- [The AI Agent Ecosystem Needs a Public Market Layer](https://dev.to/cuilabssgp/the-ai-agent-ecosystem-needs-a-public-market-layer-43cm)
 <!-- BLOG-POST-LIST:END -->
 
 
