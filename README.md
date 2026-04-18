@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is RAG? A Beginner&#39;s Guide to Retrieval-Augmented Generation &lpar;With a Full Pipeline Walkthrough&rpar;](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)
-- [Embeddings Explained: The Secret Language AI Uses to Understand the World](https://dev.to/egepakten/embeddings-explained-the-secret-language-ai-uses-to-understand-the-world-3e0o)
-- [The Vitamin We Never Knew We Needed](https://dev.to/7ard1grad3/the-vitamin-we-never-knew-we-needed-5066)
-- [The Llama Trap: How Meta&#39;s Pivot to Closed-Source &#39;Muse Spark&#39; Upends Thai Enterprise AI](https://dev.to/ireadcustomer/the-llama-trap-how-metas-pivot-to-closed-source-muse-spark-upends-thai-enterprise-ai-221d)
+- [WHY 90% OF DEVELOPERS FAIL AFTER 6 MONTHS!!!](https://dev.to/thecurlyhairdev/why-90-of-developers-fail-after-6-months-2cag)
+- [Automate Your Music Studio: AI for Handouts and Practice Sheets](https://dev.to/ken_deng_ai/automate-your-music-studio-ai-for-handouts-and-practice-sheets-20j7)
+- [Capture a Flutter Widget as PNG and Download It — Web Share Card](https://dev.to/kanta13jp1/capture-a-flutter-widget-as-png-and-download-it-web-share-card-2n20)
+- [Structure-Driven Engineering Organization Theory #8 — Conditions for a Structure-Driven Organization](https://dev.to/machuz/structure-driven-engineering-organization-theory-8-conditions-for-a-structure-driven-organization-h4a)
 <!-- BLOG-POST-LIST:END -->
 
 
