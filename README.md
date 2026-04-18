@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Task System: A File-Based DAG That Survives Context Compaction](https://dev.to/ivan-magda/task-system-a-file-based-dag-that-survives-context-compaction-1jf4)
-- [I Built a Free Portfolio Platform for Developers - Here&#39;s Why and How](https://dev.to/ahmad_walisharify_252389/i-built-a-free-portfolio-platform-for-developers-heres-why-and-how-15in)
-- [Una vez más una persona crea un sistema operativo sola.](https://dev.to/samuel_leonardo_37aff38b4/una-vez-mas-una-persona-crea-un-sistema-operativo-sola-1m9o)
-- [When a Freelancer Should Send a Final Demand Letter for an Unpaid Invoice](https://dev.to/landolio/when-a-freelancer-should-send-a-final-demand-letter-for-an-unpaid-invoice-1ka6)
+- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
+- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
+- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
+- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
 <!-- BLOG-POST-LIST:END -->
 
 
