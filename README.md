@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Examlock](https://dev.to/zheyuse/examlock-257m)
-- [A declarative CLI framework in Rust](https://dev.to/kuangren_chu_0ca6da848be4/a-declarative-cli-framework-in-rust-d8i)
-- [a claude code/codex plugin to run autoresearch on your repository](https://dev.to/alokbishoyi97/a-claude-codecodex-plugin-to-run-autoresearch-on-your-repository-45oa)
-- [I built a free Java practice playground with a built-in compiler — here&#39;s what I learned &lpar;and what&#39;s inside&rpar;](https://dev.to/priyanshu_rauth/i-built-a-free-java-practice-playground-with-a-built-in-compiler-heres-what-i-learned-and-1be0)
+- [Split your AWS AppSync schema across multiple files](https://dev.to/moyarich/split-your-aws-appsync-schema-across-multiple-files-56c5)
+- [Supercharge AWS Diagrams in VSCode with Mermaid and Custom Icons](https://dev.to/aws-builders/supercharge-aws-diagrams-in-vscode-with-mermaid-and-custom-icons-d0m)
+- [Anthropic Just Gave Claude a Design Studio. Here&#39;s What Claude Design Actually Does.](https://dev.to/om_shree_0709/anthropic-just-gave-claude-a-design-studio-heres-what-claude-design-actually-does-5h1f)
+- [Why hasn&#39;t AI improved design quality the way it improved dev speed?](https://dev.to/minimal-architect/why-hasnt-ai-improved-design-quality-the-way-it-improved-dev-speed-1bl7)
 <!-- BLOG-POST-LIST:END -->
 
 
