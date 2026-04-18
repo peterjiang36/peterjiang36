@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: A Workflow Guide &lpar;From Zero to SaaS&rpar;](https://dev.to/dyami_connell/vibe-coding-a-workflow-guide-from-zero-to-saas-4h6l)
-- [Most webhook security guides protect the wrong side. The scary part is delivery.](https://dev.to/adioof/most-webhook-security-guides-protect-the-wrong-side-the-scary-part-is-delivery-6pm)
-- [Headless CMS for TanStack Start: Build a Blog with Cosmic](https://dev.to/tonyspiro/headless-cms-for-tanstack-start-build-a-blog-with-cosmic-k6f)
-- [EU Age Verification App &quot;Hacked in 2 Minutes&quot; — What Actually Happened](https://dev.to/fldsakos/eu-age-verification-app-hacked-in-2-minutes-what-actually-happened-2d3p)
+- [My keyboard can&#39;t speak my language: Here&#39;s how i fixed it](https://dev.to/ariyoaresa/my-keyboard-cant-speak-my-language-heres-how-i-fixed-it-1ogn)
+- [Can AI really learn from humans?](https://dev.to/novatrope/can-ai-really-learn-from-humans-4j1g)
+- [The Fed&#39;s Three Levers](https://dev.to/chandravanshi/the-feds-three-levers-4kia)
+- [My AI Workflow for Maximum Productivity as a Developer](https://dev.to/zeropercent/my-ai-workflow-for-maximum-productivity-as-a-developer-13nb)
 <!-- BLOG-POST-LIST:END -->
 
 
