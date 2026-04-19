@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [More than pretty pictures: Wendy Bishop on visual storytelling in tech](https://dev.to/mark0_617b45cda9782a/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech-4cim)
-- [How to Reorder WooCommerce Checkout Fields Without Breaking Autofill](https://dev.to/nexuwp/how-to-reorder-woocommerce-checkout-fields-without-breaking-autofill-2f1g)
-- [🌍 Eco Swap – Small Changes, Big Impact](https://dev.to/krish_59f618e4f20f19ac884/eco-swap-small-changes-big-impact-1dob)
-- [Frontier AI Reinforces the Future of Modern Cyber Defense](https://dev.to/mark0_617b45cda9782a/frontier-ai-reinforces-the-future-of-modern-cyber-defense-4lnm)
+- [Let&#39;s Encrypt short-lived certificates are quite strict, so you should use an ARI-capable client](https://dev.to/catatsuy/lets-encrypt-short-lived-certificates-are-quite-strict-so-you-should-use-an-ari-capable-client-j5a)
+- [Why We Accepted Surveillance as Default](https://dev.to/vivian-voss/why-we-accepted-surveillance-as-default-1d53)
+- [I Built a Free Screen Resolution Checker — Here&#39;s What I Learned](https://dev.to/alex_mercer_22/i-built-a-free-screen-resolution-checker-heres-what-i-learned-3736)
+- [Next.js 16 App Router: The Complete Guide for 2026](https://dev.to/getcraftly/nextjs-16-app-router-the-complete-guide-for-2026-2hi3)
 <!-- BLOG-POST-LIST:END -->
 
 
