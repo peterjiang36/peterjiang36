@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Design Is Here — AI Is Entering the Visual Creation Era](https://dev.to/yasirawan4831/claude-design-is-here-ai-is-entering-the-visual-creation-era-d9m)
-- [7 Best Free Image Optimization Tools Online &lpar;2026 Comparison&rpar;](https://dev.to/samma1997/7-best-free-image-optimization-tools-online-2026-comparison-972)
-- [Data pipeline around 15 minute city](https://dev.to/mushroomandchai/data-pipeline-around-15-minute-city-4j1o)
-- [Why watermark your photos?](https://dev.to/samma1997/why-watermark-your-photos-4pl)
+- [[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA](https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a)
+- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8)
+- [I built a $250 website business that runs itself — here&#39;s the architecture](https://dev.to/erik_anderson_c41dbafd423/i-built-a-250-website-business-that-runs-itself-heres-the-architecture-1j37)
+- [I added profile-specific duplicate rules to my CSV intake console #5](https://dev.to/fastapier/i-added-profile-specific-duplicate-rules-to-my-csv-intake-console-4-4pno)
 <!-- BLOG-POST-LIST:END -->
 
 
