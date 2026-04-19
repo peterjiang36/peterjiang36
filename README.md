@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
-- [Building a Terminal for Prediction Markets &lpar;Aggregating Polymarket, Kalshi, +5 more&rpar;](https://dev.to/predictefy/building-a-terminal-for-prediction-markets-aggregating-polymarket-kalshi-5-more-3lfk)
-- [EM Operating System: Your Brain Is a Terrible Database](https://dev.to/alexr/em-operating-system-your-brain-is-a-terrible-database-1bce)
-- [Screaming Frog Gave Me 10,000 Errors. Here](https://dev.to/robertatkinson3570/screaming-frog-gave-me-10000-errors-here-3009)
+- [AI Memory Systems: Everything You Need to Know](https://dev.to/codewithveek/ai-memory-systems-everything-you-need-to-know-35n0)
+- [The Opus 4.7 Tokenizer Ate Your Budget &lpar;30-Second Fix&rpar;](https://dev.to/devtorres_/the-opus-47-tokenizer-ate-your-budget-30-second-fix-1l13)
+- [How I packaged offline AI, Flask, and Cryptography into a single Python executable 🚀](https://dev.to/nour833/how-i-packaged-offline-ai-flask-and-cryptography-into-a-single-python-executable-205p)
+- [Canvas Apps Authoring MCP: Testing what it can do](https://dev.to/ateina/canvas-apps-authoring-mcp-testing-what-it-can-do-4jfb)
 <!-- BLOG-POST-LIST:END -->
 
 
