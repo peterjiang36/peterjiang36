@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
-- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
-- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
-- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
+- [Privacy-First: Building a 100% Local AI Medication Assistant with WebLLM and WebGPU](https://dev.to/beck_moulton/privacy-first-building-a-100-local-ai-medication-assistant-with-webllm-and-webgpu-2jk5)
+- [My AI Sends 30k Tokens Per Message. 80% of Them Were Wasted.](https://dev.to/juandastic/my-ai-sends-30k-tokens-per-message-80-of-them-were-wasted-1lmp)
+- [Thương Hồ Protocol: Solving $O&lpar;1&rpar;$ State Bloat with Vietnamese Maritime Wisdom](https://dev.to/phthuong/thuong-ho-protocol-solving-o1-state-bloat-with-vietnamese-maritime-wisdom-1elf)
+- [&lpar;Earth pro &rpar;have a happier earth with the best prices](https://dev.to/butterflycss/earth-pro-have-a-happier-earth-with-the-best-prices-1hem)
 <!-- BLOG-POST-LIST:END -->
 
 
