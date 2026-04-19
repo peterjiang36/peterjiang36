@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 76 of #100DayOfCode — Building DevBoard: REST API and UI Polish](https://dev.to/m_saad_ahmad/day-76-of-100dayofcode-building-devboard-rest-api-and-ui-polish-5068)
-- [Turning a Desk clock into a Claude Code usage meter](https://dev.to/shavindrasn/turning-a-desk-clock-into-a-claude-code-usage-meter-p1p)
-- [I Built a Real-Time Crowd Orchestration Engine for Stadium Events &lpar;PromptWar 2026&rpar;](https://dev.to/leechee/i-built-a-real-time-crowd-orchestration-engine-for-stadium-events-promptwar-2026-4o8b)
-- [The Discipline of Not Fooling Ourselves: Episode 5 — Compliance Without Causality](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-5-compliance-without-causality-1h98)
+- [Handy Agent 2026 – From Chatbot to Autonomous AI Systems](https://dev.to/itprepvn/handy-agent-2026-from-chatbot-to-autonomous-ai-systems-ejh)
+- [The Modular Monolith 2026 Complete Guide — Spring Modulith, ArchUnit Fitness Functions, and Lessons from Shopify&#39;s 30TB/min Architecture](https://dev.to/x4nent/the-modular-monolith-2026-complete-guide-spring-modulith-archunit-fitness-functions-and-lessons-878)
+- [Offline Hash Cracking Tutorial: Crack the Hash Room Walkthrough | TryHackMe](https://dev.to/ibrahim71reza/offline-hash-cracking-tutorial-crack-the-hash-room-walkthrough-tryhackme-9be)
+- [Change tracking and soft delete: audit trails without the boilerplate](https://dev.to/davidlastrucci/change-tracking-and-soft-delete-audit-trails-without-the-boilerplate-57oc)
 <!-- BLOG-POST-LIST:END -->
 
 
