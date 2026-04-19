@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Depth-of-Identity: Thermodynamic Weight for Cyberspace](https://dev.to/zekebuilds/depth-of-identity-thermodynamic-weight-for-cyberspace-2cpj)
-- [The bellows move, but the CPU stays quiet — what’s powering this browser based harmonium?](https://dev.to/zwin/the-bellows-move-but-the-cpu-stays-quiet-whats-powering-this-browser-based-harmonium-l14)
-- [&quot;🗓️ Simp1OS Dev Logs – The Quest for &quot;BRANCH&quot; and the Mystery of the Infinite &quot;A&quot;&quot;](https://dev.to/arush179/-simp1os-dev-logs-the-quest-for-branch-and-the-mystery-of-the-infinite-a-57c2)
-- [I Built an Image Converter Because I Was Tired of “Unsupported Format” Errors](https://dev.to/bhavin-allinonetools/i-built-an-image-converter-because-i-was-tired-of-unsupported-format-errors-2aio)
+- [AI Agent Roadmap: Everything You Need to Build Agents &lpar;In the Right Order&rpar;](https://dev.to/ialijr/ai-agent-roadmap-everything-you-need-to-build-agents-in-the-right-order-2hh8)
+- [# GreenRoute — Google Maps for Sustainable Commuting 🌍](https://dev.to/sushmita_dubey_3c40d63ffc/-greenroute-google-maps-for-sustainable-commuting-2j18)
+- [Building &quot;Guide&quot;: An iOS App for Crisis Response](https://dev.to/ketaki_17/building-guide-a-reference-based-ai-assistant-for-crisis-response-4lhk)
+- [Building Production AI Agents: Why LangGraph and LangChain Matter More Than You Think](https://dev.to/m_toqeer/-building-production-ai-agents-why-langgraph-and-langchain-matter-more-than-you-think-196o)
 <!-- BLOG-POST-LIST:END -->
 
 
