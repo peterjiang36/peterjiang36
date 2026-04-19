@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
-- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
-- [From Prompt to Production: How I Built &quot;Google Stadium&quot; for Google PromptWars 2026](https://dev.to/rshanmugaraj_e471fa3f2ed/from-prompt-to-production-how-i-built-google-stadium-for-google-promptwars-2026-i66)
-- [How Does AI Transcription Work? [Technical Guide]](https://dev.to/quillhub/how-does-ai-transcription-work-technical-guide-5a2h)
+- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
+- [How to Get Real-Time Crypto Prices with the Mobula API in Python](https://dev.to/kevin_menesesgonzlez/how-to-get-real-time-crypto-prices-with-the-mobula-api-in-python-2oop)
+- [Guide to AI-Powered Frontend Testing with TWD](https://dev.to/kevinccbsg/guide-to-ai-powered-frontend-testing-with-twd-3i88)
+- [Công thức viết User Story &#39;thuyết phục mọi Dev&#39;: Hướng dẫn toàn diện và thực chiến](https://dev.to/itprepvn/cong-thuc-viet-user-story-thuyet-phuc-moi-dev-huong-dan-toan-dien-va-thuc-chien-58dm)
 <!-- BLOG-POST-LIST:END -->
 
 
