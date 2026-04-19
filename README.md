@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Handy Agent 2026 – From Chatbot to Autonomous AI Systems](https://dev.to/itprepvn/handy-agent-2026-from-chatbot-to-autonomous-ai-systems-ejh)
-- [The Modular Monolith 2026 Complete Guide — Spring Modulith, ArchUnit Fitness Functions, and Lessons from Shopify&#39;s 30TB/min Architecture](https://dev.to/x4nent/the-modular-monolith-2026-complete-guide-spring-modulith-archunit-fitness-functions-and-lessons-878)
-- [Offline Hash Cracking Tutorial: Crack the Hash Room Walkthrough | TryHackMe](https://dev.to/ibrahim71reza/offline-hash-cracking-tutorial-crack-the-hash-room-walkthrough-tryhackme-9be)
-- [Change tracking and soft delete: audit trails without the boilerplate](https://dev.to/davidlastrucci/change-tracking-and-soft-delete-audit-trails-without-the-boilerplate-57oc)
+- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
+- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
+- [From Prompt to Production: How I Built &quot;Google Stadium&quot; for Google PromptWars 2026](https://dev.to/rshanmugaraj_e471fa3f2ed/from-prompt-to-production-how-i-built-google-stadium-for-google-promptwars-2026-i66)
+- [How Does AI Transcription Work? [Technical Guide]](https://dev.to/quillhub/how-does-ai-transcription-work-technical-guide-5a2h)
 <!-- BLOG-POST-LIST:END -->
 
 
