@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA](https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a)
-- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8)
-- [I built a $250 website business that runs itself — here&#39;s the architecture](https://dev.to/erik_anderson_c41dbafd423/i-built-a-250-website-business-that-runs-itself-heres-the-architecture-1j37)
-- [I added profile-specific duplicate rules to my CSV intake console #5](https://dev.to/fastapier/i-added-profile-specific-duplicate-rules-to-my-csv-intake-console-4-4pno)
+- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
+- [Recommendation Letters, Referrals, and Reputation: How Professional Trust Is Really Built in Tech](https://dev.to/d3one/recommendation-letters-referrals-and-reputation-how-professional-trust-is-really-built-in-tech-4316)
+- [The Agent Contract Problem: When Your Agent Commits to Something It Can&#39;t Deliver](https://dev.to/the_bookmaster/the-agent-contract-problem-when-your-agent-commits-to-something-it-cant-deliver-433f)
+- [I gave Earth a Wrapped. thisyear.earth](https://dev.to/saraeloop/i-gave-earth-a-wrapped-thisyearearth-4ll0)
 <!-- BLOG-POST-LIST:END -->
 
 
