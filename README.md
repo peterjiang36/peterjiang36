@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Roadmap: Everything You Need to Build Agents &lpar;In the Right Order&rpar;](https://dev.to/ialijr/ai-agent-roadmap-everything-you-need-to-build-agents-in-the-right-order-2hh8)
-- [# GreenRoute — Google Maps for Sustainable Commuting 🌍](https://dev.to/sushmita_dubey_3c40d63ffc/-greenroute-google-maps-for-sustainable-commuting-2j18)
-- [Building &quot;Guide&quot;: An iOS App for Crisis Response](https://dev.to/ketaki_17/building-guide-a-reference-based-ai-assistant-for-crisis-response-4lhk)
-- [Building Production AI Agents: Why LangGraph and LangChain Matter More Than You Think](https://dev.to/m_toqeer/-building-production-ai-agents-why-langgraph-and-langchain-matter-more-than-you-think-196o)
+- [Authentication on the Frontend - More Than Just Tokens](https://dev.to/codescoop/authentication-on-the-frontend-more-than-just-tokens-2kj7)
+- [Building a Terminal for Prediction Markets &lpar;Aggregating Polymarket, Kalshi, +5 more&rpar;](https://dev.to/predictefy/building-a-terminal-for-prediction-markets-aggregating-polymarket-kalshi-5-more-3lfk)
+- [EM Operating System: Your Brain Is a Terrible Database](https://dev.to/alexr/em-operating-system-your-brain-is-a-terrible-database-1bce)
+- [Screaming Frog Gave Me 10,000 Errors. Here](https://dev.to/robertatkinson3570/screaming-frog-gave-me-10000-errors-here-3009)
 <!-- BLOG-POST-LIST:END -->
 
 
