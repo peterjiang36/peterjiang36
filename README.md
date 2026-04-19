@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How TikTok’s Safety Bot Forced Me to Optimize My JS Canvas Engine](https://dev.to/viablemedia/how-tiktoks-safety-bot-forced-me-to-optimize-my-js-canvas-engine-4fpl)
-- [PrepSync-AI &lpar;meeting prep agent&rpar;](https://dev.to/siddharth_c77149322a88c6f/prepsync-ai-meeting-prep-agent-1bdi)
-- [Next.js 15 com 55 milhões de páginas dinâmicas: SSR, SEO e performance](https://dev.to/pedroparker/nextjs-15-com-55-milhoes-de-paginas-dinamicas-ssr-seo-e-performance-4cio)
-- [I Asked AI to Show Me My Life in 2050 — It Was Terrifying](https://dev.to/smkulkarni/i-asked-ai-to-show-me-my-life-in-2050-it-was-terrifying-418o)
+- [Reversing using C](https://dev.to/maximilianfeldthusen/reversing-using-c-21bd)
+- [Tired of Claude Code Ignoring Your CLAUDE.md? I Built claudemd-guard](https://dev.to/hirochiba/tired-of-claude-code-ignoring-your-claudemd-i-built-claudemd-guard-34k5)
+- [Kubuntu vs KDE Neon: A Technical Deep Dive](https://dev.to/rosgluk/kubuntu-vs-kde-neon-a-technical-deep-dive-48dm)
+- [Moving OpenCode Desktop to Electron](https://dev.to/brendonovich/moving-opencode-desktop-to-electron-4hip)
 <!-- BLOG-POST-LIST:END -->
 
 
