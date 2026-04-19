@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built the Ansible tool I wish I had: A visual debugger and &quot;Limits&quot; sandbox](https://dev.to/aogunwoolu/i-built-the-ansible-tool-i-wish-i-had-a-visual-debugger-and-limits-sandbox-1jo8)
-- [Green Habit Coach — AI-Powered Habit Analysis and Eco Coaching](https://dev.to/zoe_lin_0653/green-habit-coach-ai-powered-habit-analysis-and-eco-coaching-5dco)
-- [Paying $40/month for both Cursor and Claude Code is the new &quot;I use Vim btw](https://dev.to/adioof/paying-40month-for-both-cursor-and-claude-code-is-the-new-i-use-vim-btw-4622)
-- [I Almost Lost Commerza: The Brutal Reality of Building an Ecommerce System Without a Framework](https://dev.to/syedahmershah/i-almost-lost-commerza-the-brutal-reality-of-building-an-ecommerce-system-without-a-framework-5b78)
+- [Claude Design Is Here — AI Is Entering the Visual Creation Era](https://dev.to/yasirawan4831/claude-design-is-here-ai-is-entering-the-visual-creation-era-d9m)
+- [7 Best Free Image Optimization Tools Online &lpar;2026 Comparison&rpar;](https://dev.to/samma1997/7-best-free-image-optimization-tools-online-2026-comparison-972)
+- [Data pipeline around 15 minute city](https://dev.to/mushroomandchai/data-pipeline-around-15-minute-city-4j1o)
+- [Why watermark your photos?](https://dev.to/samma1997/why-watermark-your-photos-4pl)
 <!-- BLOG-POST-LIST:END -->
 
 
