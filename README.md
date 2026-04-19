@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
-- [Recommendation Letters, Referrals, and Reputation: How Professional Trust Is Really Built in Tech](https://dev.to/d3one/recommendation-letters-referrals-and-reputation-how-professional-trust-is-really-built-in-tech-4316)
-- [The Agent Contract Problem: When Your Agent Commits to Something It Can&#39;t Deliver](https://dev.to/the_bookmaster/the-agent-contract-problem-when-your-agent-commits-to-something-it-cant-deliver-433f)
-- [I gave Earth a Wrapped. thisyear.earth](https://dev.to/saraeloop/i-gave-earth-a-wrapped-thisyearearth-4ll0)
+- [Smoke Test — Article — 2026-04-20](https://dev.to/manuel_thunk_5ccfb328535a/smoke-test-article-2026-04-20-4dc7)
+- [We Built a Free, Fully Private Remote Control App for Windows. No Cloud, No Ads, No Compromise.](https://dev.to/breadworks/we-built-a-free-fully-private-remote-control-app-for-windows-no-cloud-no-ads-no-compromise-3jlh)
+- [Serverless CDC and Event Ingestion Patterns into Analytics Pipelines on AWS](https://dev.to/aws-builders/serverless-cdc-and-event-ingestion-patterns-into-analytics-pipelines-on-aws-4i56)
+- [ApplyPilot - self-hosted job search companion &lpar;open source, BYOK Gemini&rpar;](https://dev.to/eliornl/applypilot-self-hosted-job-search-companion-open-source-byok-gemini-212n)
 <!-- BLOG-POST-LIST:END -->
 
 
