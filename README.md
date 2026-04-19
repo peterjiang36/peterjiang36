@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
-- [How to Get Real-Time Crypto Prices with the Mobula API in Python](https://dev.to/kevin_menesesgonzlez/how-to-get-real-time-crypto-prices-with-the-mobula-api-in-python-2oop)
-- [Guide to AI-Powered Frontend Testing with TWD](https://dev.to/kevinccbsg/guide-to-ai-powered-frontend-testing-with-twd-3i88)
-- [Công thức viết User Story &#39;thuyết phục mọi Dev&#39;: Hướng dẫn toàn diện và thực chiến](https://dev.to/itprepvn/cong-thuc-viet-user-story-thuyet-phuc-moi-dev-huong-dan-toan-dien-va-thuc-chien-58dm)
+- [Depth-of-Identity: Thermodynamic Weight for Cyberspace](https://dev.to/zekebuilds/depth-of-identity-thermodynamic-weight-for-cyberspace-2cpj)
+- [The bellows move, but the CPU stays quiet — what’s powering this browser based harmonium?](https://dev.to/zwin/the-bellows-move-but-the-cpu-stays-quiet-whats-powering-this-browser-based-harmonium-l14)
+- [&quot;🗓️ Simp1OS Dev Logs – The Quest for &quot;BRANCH&quot; and the Mystery of the Infinite &quot;A&quot;&quot;](https://dev.to/arush179/-simp1os-dev-logs-the-quest-for-branch-and-the-mystery-of-the-infinite-a-57c2)
+- [I Built an Image Converter Because I Was Tired of “Unsupported Format” Errors](https://dev.to/bhavin-allinonetools/i-built-an-image-converter-because-i-was-tired-of-unsupported-format-errors-2aio)
 <!-- BLOG-POST-LIST:END -->
 
 
