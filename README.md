@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reversing using C](https://dev.to/maximilianfeldthusen/reversing-using-c-21bd)
-- [Tired of Claude Code Ignoring Your CLAUDE.md? I Built claudemd-guard](https://dev.to/hirochiba/tired-of-claude-code-ignoring-your-claudemd-i-built-claudemd-guard-34k5)
-- [Kubuntu vs KDE Neon: A Technical Deep Dive](https://dev.to/rosgluk/kubuntu-vs-kde-neon-a-technical-deep-dive-48dm)
-- [Moving OpenCode Desktop to Electron](https://dev.to/brendonovich/moving-opencode-desktop-to-electron-4hip)
+- [More than pretty pictures: Wendy Bishop on visual storytelling in tech](https://dev.to/mark0_617b45cda9782a/more-than-pretty-pictures-wendy-bishop-on-visual-storytelling-in-tech-4cim)
+- [How to Reorder WooCommerce Checkout Fields Without Breaking Autofill](https://dev.to/nexuwp/how-to-reorder-woocommerce-checkout-fields-without-breaking-autofill-2f1g)
+- [🌍 Eco Swap – Small Changes, Big Impact](https://dev.to/krish_59f618e4f20f19ac884/eco-swap-small-changes-big-impact-1dob)
+- [Frontier AI Reinforces the Future of Modern Cyber Defense](https://dev.to/mark0_617b45cda9782a/frontier-ai-reinforces-the-future-of-modern-cyber-defense-4lnm)
 <!-- BLOG-POST-LIST:END -->
 
 
