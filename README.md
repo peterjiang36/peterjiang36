@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Social Media App Where Posts Self-Destruct &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/swapnilnakate7/i-built-a-social-media-app-where-posts-self-destruct-and-why-thats-the-future-3c08)
-- [Meta&#39;s $2B Bet: The &#39;Child Safety&#39; Bill That Builds a National ID Layer](https://dev.to/caracomp/metas-2b-bet-the-child-safety-bill-that-builds-a-national-id-layer-1f4d)
-- [Axios Compromise: What Actually Happened](https://dev.to/randomchaos/axios-compromise-what-actually-happened-2glk)
-- [greatCircleDistance in ClickHouse: Avoiding Full Table Scans](https://dev.to/mohhddhassan/greatcircledistance-in-clickhouse-avoiding-full-table-scans-375p)
+- [Corrupted File picoCTF Writeup](https://dev.to/rudycandy/corrupted-file-picoctf-writeup-446c)
+- [Crack the Power picoCTF Writeup](https://dev.to/rudycandy/crack-the-power-picoctf-writeup-1ng4)
+- [Why AI Correlation Is Harder Than You Think &lpar;And What 20 Years of Pain Taught Me&rpar;](https://dev.to/davidcampbelldc/why-ai-correlation-is-harder-than-you-think-and-what-20-years-of-pain-taught-me-16o4)
+- [What does the term &#39;hacker&#39; mean to you?](https://dev.to/jess/what-does-the-term-hacker-mean-to-you-2fp8)
 <!-- BLOG-POST-LIST:END -->
 
 
