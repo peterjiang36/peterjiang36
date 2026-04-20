@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Corrupted File picoCTF Writeup](https://dev.to/rudycandy/corrupted-file-picoctf-writeup-446c)
-- [Crack the Power picoCTF Writeup](https://dev.to/rudycandy/crack-the-power-picoctf-writeup-1ng4)
-- [Why AI Correlation Is Harder Than You Think &lpar;And What 20 Years of Pain Taught Me&rpar;](https://dev.to/davidcampbelldc/why-ai-correlation-is-harder-than-you-think-and-what-20-years-of-pain-taught-me-16o4)
-- [What does the term &#39;hacker&#39; mean to you?](https://dev.to/jess/what-does-the-term-hacker-mean-to-you-2fp8)
+- [The Logistics Stack Problem: Why Cross-Border B2B Freight Is Still Hard to Automate](https://dev.to/rickey12/the-logistics-stack-problem-why-cross-border-b2b-freight-is-still-hard-to-automate-1368)
+- [Two Days, Two Hacks: The Lovable Disclosure and the Pattern Nobody Wants to Talk About](https://dev.to/jon_at_backboardio/two-days-two-hacks-the-lovable-disclosure-and-the-pattern-nobody-wants-to-talk-about-47eh)
+- [Three days debugging a missing trace](https://dev.to/rsiv/three-days-debugging-a-missing-trace-7p8)
+- [Developer&#39;s Guide to Eliminating Back Pain at Your Desk](https://dev.to/the_devzenteam_769cdf22/developers-guide-to-eliminating-back-pain-at-your-desk-ee3)
 <!-- BLOG-POST-LIST:END -->
 
 
