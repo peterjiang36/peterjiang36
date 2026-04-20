@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Burp Suite for HTB &amp; CTF Players: Complete Guide &lpar;2026&rpar;](https://dev.to/rushiii3/burp-suite-for-htb-ctf-players-complete-guide-2026-5575)
-- [We Built a Custom Graph RAG to Let AI Answer &quot;Did That Initiative Actually Work?&quot;](https://dev.to/ryosuke_tsuji_f08e20fdca1/we-built-a-custom-graph-rag-to-let-ai-answer-did-that-initiative-actually-work-3oda)
-- [Week 4,5,6 - Learning K8s](https://dev.to/nicbaughman/week-456-learning-k8s-3jeo)
-- [A Stranger Audited My AI Product for Free. Here&#39;s What They Found.](https://dev.to/alimafana/a-stranger-audited-my-ai-product-for-free-heres-what-they-found-3npd)
+- [I Built a Social Media App Where Posts Self-Destruct &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/swapnilnakate7/i-built-a-social-media-app-where-posts-self-destruct-and-why-thats-the-future-3c08)
+- [Meta&#39;s $2B Bet: The &#39;Child Safety&#39; Bill That Builds a National ID Layer](https://dev.to/caracomp/metas-2b-bet-the-child-safety-bill-that-builds-a-national-id-layer-1f4d)
+- [Axios Compromise: What Actually Happened](https://dev.to/randomchaos/axios-compromise-what-actually-happened-2glk)
+- [greatCircleDistance in ClickHouse: Avoiding Full Table Scans](https://dev.to/mohhddhassan/greatcircledistance-in-clickhouse-avoiding-full-table-scans-375p)
 <!-- BLOG-POST-LIST:END -->
 
 
