@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Smoke Test — Article — 2026-04-20](https://dev.to/manuel_thunk_5ccfb328535a/smoke-test-article-2026-04-20-4dc7)
-- [We Built a Free, Fully Private Remote Control App for Windows. No Cloud, No Ads, No Compromise.](https://dev.to/breadworks/we-built-a-free-fully-private-remote-control-app-for-windows-no-cloud-no-ads-no-compromise-3jlh)
-- [Serverless CDC and Event Ingestion Patterns into Analytics Pipelines on AWS](https://dev.to/aws-builders/serverless-cdc-and-event-ingestion-patterns-into-analytics-pipelines-on-aws-4i56)
-- [ApplyPilot - self-hosted job search companion &lpar;open source, BYOK Gemini&rpar;](https://dev.to/eliornl/applypilot-self-hosted-job-search-companion-open-source-byok-gemini-212n)
+- [Claude Opus 4.7 Field Report: Eight Hours of Autonomous Work](https://dev.to/kai_outputs/claude-opus-47-field-report-eight-hours-of-autonomous-work-10e3)
+- [My AI-Heavy Indie Stack &lpar;Actually Honest Breakdown&rpar;](https://dev.to/kai_outputs/my-ai-heavy-indie-stack-actually-honest-breakdown-2jim)
+- [How I Built My AI Agent Learning Guide from Scratch: The Hard Truths](https://dev.to/kevinten10/how-i-built-my-ai-agent-learning-guide-from-scratch-the-hard-truths-112i)
+- [Why Blockchains Exclude Floating Point at the Architecture Level](https://dev.to/dharrsan-hq/why-blockchains-exclude-floating-point-at-the-architecture-level-8a4)
 <!-- BLOG-POST-LIST:END -->
 
 
