@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your AI Agent Goes Rogue: Building a Bulletproof Incident Response System](https://dev.to/chiefwebofficer/when-your-ai-agent-goes-rogue-building-a-bulletproof-incident-response-system-ifb)
-- [agentic coding habits to accelerate your engineering workflow](https://dev.to/jackmarchant/agentic-coding-habits-to-accelerate-your-engineering-workflow-4p3g)
-- [From Complaints to Prevention: A Product Manager’s Approach to AI-Driven Telecom Billing](https://dev.to/balu_chavan_bf4de371f2a30/from-complaints-to-prevention-a-product-managers-approach-to-ai-driven-telecom-billing-4626)
-- [Hermes vs OpenCLAW: &quot;Kẻ Tám Lạng, Người Nửa Cân&quot; Trong Xử Lý Dữ Liệu 2026](https://dev.to/itprepvn/hermes-vs-openclaw-ke-tam-lang-nguoi-nua-can-trong-xu-ly-du-lieu-2026-287)
+- [AI Was Supposed to Reduce Developer Burnout. The Data Says Otherwise.](https://dev.to/recharge/ai-was-supposed-to-reduce-developer-burnout-the-data-says-otherwise-157c)
+- [Active Inference, The Learn Arc — Part 8: Chapter 7 — POMDPs, Sophisticated Planning, and Dirichlet Learning](https://dev.to/tmdlrg/active-inference-the-learn-arc-part-8-chapter-7-pomdps-sophisticated-planning-and-dirichlet-3en2)
+- [Why I Stopped Using Copilot and Won’t Be Going Back](https://dev.to/speedcraft_tech_labs/why-i-stopped-using-copilot-and-wont-be-going-back-6ff)
+- [Write a List in One Line &lpar;List Comprehensions&rpar;](https://dev.to/yakhilesh/write-a-list-in-one-line-list-comprehensions-3f1a)
 <!-- BLOG-POST-LIST:END -->
 
 
