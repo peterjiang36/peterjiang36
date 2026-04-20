@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ANÁLISE ACERCA DO FRAMEWORK GRPC &lpar;GOOGLE REMOTE PROCEDURE CALL&rpar;: COMPARAÇÕES E DESEMPENHOS](https://dev.to/jeanvitorvieira/analise-acerca-do-framework-grpc-google-remote-procedure-call-comparacoes-e-desempenhos-5amd)
-- [TestSprite: What Happens When You Test Stripe&#39;s Pricing Page for Locale Handling](https://dev.to/minepop_b9b83b74c8f47ae8b/testsprite-what-happens-when-you-test-stripes-pricing-page-for-locale-handling-16dg)
-- [Public Integration Without Authentication Exposes Critical Control Failure](https://dev.to/randomchaos/public-integration-without-authentication-exposes-critical-control-failure-1f9l)
-- [The Failure Mechanism in OT Systems: Identity Boundaries at Execution Context](https://dev.to/randomchaos/the-failure-mechanism-in-ot-systems-identity-boundaries-at-execution-context-3ac7)
+- [How I automated dead endpoint detection and removed 16,000 lines from our Node.js codebase](https://dev.to/miguel_lopes_966962540a43/how-i-automated-dead-endpoint-detection-and-removed-16000-lines-from-our-nodejs-codebase-1fan)
+- [ClickHouse Native JSON Support in 2026: A PR-by-PR Analysis](https://dev.to/manveer_chawla_64a7283d5a/clickhouse-native-json-support-in-2026-a-pr-by-pr-analysis-1hdp)
+- [Factur-X EN 16931 from scratch: PDF/A-3 + CII XML in Node.js / TypeScript](https://dev.to/erwanbargain/factur-x-en-16931-from-scratch-pdfa-3-cii-xml-in-nodejs-typescript-3pbe)
+- [Why LLM Outputs Fail in Production-and How to Fix It](https://dev.to/randomchaos/why-llm-outputs-fail-in-production-and-how-to-fix-it-37hn)
 <!-- BLOG-POST-LIST:END -->
 
 
