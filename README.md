@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I automated dead endpoint detection and removed 16,000 lines from our Node.js codebase](https://dev.to/miguel_lopes_966962540a43/how-i-automated-dead-endpoint-detection-and-removed-16000-lines-from-our-nodejs-codebase-1fan)
-- [ClickHouse Native JSON Support in 2026: A PR-by-PR Analysis](https://dev.to/manveer_chawla_64a7283d5a/clickhouse-native-json-support-in-2026-a-pr-by-pr-analysis-1hdp)
-- [Factur-X EN 16931 from scratch: PDF/A-3 + CII XML in Node.js / TypeScript](https://dev.to/erwanbargain/factur-x-en-16931-from-scratch-pdfa-3-cii-xml-in-nodejs-typescript-3pbe)
-- [Why LLM Outputs Fail in Production-and How to Fix It](https://dev.to/randomchaos/why-llm-outputs-fail-in-production-and-how-to-fix-it-37hn)
+- [I built a Claude Code plugin that refuses to agree with me](https://dev.to/amroabdalla00/i-built-a-claude-code-plugin-that-refuses-to-agree-with-me-24ja)
+- [Protobuf: Why Google&#39;s Servers Don&#39;t Speak JSON](https://dev.to/neuraldownload/protobuf-why-googles-servers-dont-speak-json-1k67)
+- [The System Did Not Fail. It Behaved As Designed.](https://dev.to/randomchaos/the-system-did-not-fail-it-behaved-as-designed-1i4)
+- [8 Days from Application to Approved: My First MCP Marketplace Listing](https://dev.to/sessionzero_ai/8-days-from-application-to-approved-my-first-mcp-marketplace-listing-45g7)
 <!-- BLOG-POST-LIST:END -->
 
 
