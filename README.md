@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coal Keeps Slipping Through Kiwi-chan&#39;s Fingers! ⛏️](https://dev.to/kiwi_tech/coal-keeps-slipping-through-kiwi-chans-fingers-300i)
-- [Black-Scholes on Polymarket: Finding Mispriced Binary Events with Python](https://dev.to/ayratmurtazin/black-scholes-on-polymarket-finding-mispriced-binary-events-with-python-2m50)
-- [Hosting Laravel in the EU: GDPR Compliance with Hetzner and Deploynix](https://dev.to/deploynix/hosting-laravel-in-the-eu-gdpr-compliance-with-hetzner-and-deploynix-3abe)
-- [How OpenClaw is Shaping the Future of AI-Driven Education](https://dev.to/ahmed_adelabdulwahab_320/how-openclaw-is-shaping-the-future-of-ai-driven-education-630)
+- [Why AI Systems Fail in Production - And How to Fix It](https://dev.to/randomchaos/why-ai-systems-fail-in-production-and-how-to-fix-it-3obe)
+- [HTB Lame - NO Metasploit Walkthrough](https://dev.to/micheaol/htb-lame-no-metasploit-walkthrough-1g34)
+- [From Knowledge Hoarding to Business Weapon: How My &quot;Second Brain&quot; Actually Made Money](https://dev.to/kevinten10/from-knowledge-hoarding-to-business-weapon-how-my-second-brain-actually-made-money-5gnd)
+- [We Open Sourced the Djowda Platform — Here Are 6 Challenges for the Community](https://dev.to/djowda/we-open-sourced-the-djowda-platform-here-are-6-challenges-for-the-community-38op)
 <!-- BLOG-POST-LIST:END -->
 
 
