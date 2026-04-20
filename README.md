@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Just Passed OpenAI in Revenue. Here&#39;s What Actually Built That Lead.](https://dev.to/om_shree_0709/anthropic-just-passed-openai-in-revenue-heres-what-actually-built-that-lead-2kmo)
-- [Contract Testing Explained for Beginners](https://dev.to/thechisomchima/contract-testing-explained-for-beginners-3ph2)
-- [Clearing Your Jira Tickets Isn&#39;t Enough](https://dev.to/sanjay_sarvaiya/clearing-your-jira-tickets-isnt-enough-1lmf)
-- [Terra Triage: I Built a 3-Agent Wildlife Dispatcher That Learns From Every Referral](https://dev.to/arqamwd/terra-triage-i-built-a-3-agent-wildlife-dispatcher-that-learns-from-every-referral-efk)
+- [Next.js 16 Complete Beginner&#39;s Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2)
+- [The Future: Engineers as AI System Architects](https://dev.to/siddhartha_reddy/the-future-engineers-as-ai-system-architects-4015)
+- [Launch Day: 7 AI Agents Start Building Startups with $100 Each](https://dev.to/ai_made_tools/launch-day-7-ai-agents-start-building-startups-with-100-each-5f8h)
+- [What Is LangGraph? A Beginner-Friendly Introduction](https://dev.to/itprepvn/what-is-langgraph-a-beginner-friendly-introduction-3b7d)
 <!-- BLOG-POST-LIST:END -->
 
 
