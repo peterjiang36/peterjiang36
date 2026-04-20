@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CIA Triad, Authentication &amp; Authorization in Cybersecurity &lpar;2026&rpar;](https://dev.to/rushiii3/cia-triad-authentication-authorization-in-cybersecurity-2026-5cdh)
-- [From Knowledge Base to AI System: How Papers Evolved Beyond My Wildest Dreams](https://dev.to/kevinten10/from-knowledge-base-to-ai-system-how-papers-evolved-beyond-my-wildest-dreams-1hgk)
-- [24 Technologies that WhatsApp is Built with 🌱](https://dev.to/nube_colectiva_nc/the-architecture-of-ubiquity-what-is-whatsapp-made-of-e3)
-- [Redis Caching Strategies for Video Content Platforms](https://dev.to/ahmet_gedik778845/redis-caching-strategies-for-video-content-platforms-146m)
+- [Anthropic Just Passed OpenAI in Revenue. Here&#39;s What Actually Built That Lead.](https://dev.to/om_shree_0709/anthropic-just-passed-openai-in-revenue-heres-what-actually-built-that-lead-2kmo)
+- [Contract Testing Explained for Beginners](https://dev.to/thechisomchima/contract-testing-explained-for-beginners-3ph2)
+- [Clearing Your Jira Tickets Isn&#39;t Enough](https://dev.to/sanjay_sarvaiya/clearing-your-jira-tickets-isnt-enough-1lmf)
+- [Terra Triage: I Built a 3-Agent Wildlife Dispatcher That Learns From Every Referral](https://dev.to/arqamwd/terra-triage-i-built-a-3-agent-wildlife-dispatcher-that-learns-from-every-referral-efk)
 <!-- BLOG-POST-LIST:END -->
 
 
