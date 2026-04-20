@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How ChatGPT Works &lpar;Simple Explanation for Beginners&rpar;](https://dev.to/debugdiariesbyswethap/how-chatgpt-works-simple-explanation-for-beginners-51ok)
-- [Azure Service Bus for Event-Driven Systems: A Practical Deep Dive](https://dev.to/aldacosta/azure-service-bus-for-event-driven-systems-a-practical-deep-dive-5an3)
-- [Plant in real life. Share on a living Earth. Grow a global green community. This is Plantera. 🌍🌱](https://dev.to/anupam058/plant-in-real-life-share-on-a-living-earth-grow-a-global-green-community-this-is-plantera-51p6)
-- [EU AI Act: Was ab August 2026 konkret für dein Unternehmen gilt](https://dev.to/codewithagents_de/eu-ai-act-was-ab-august-2026-konkret-fur-dein-unternehmen-gilt-56l3)
+- [I benchmarked 3 local LLMs on 50 factual questions -here&#39;s what failed](https://dev.to/sekumohamed/i-benchmarked-3-local-llms-on-50-factual-questions-heres-what-failed-13g6)
+- [Why Tracking AI Search Visibility Is Kind of Broken](https://dev.to/searchscore/why-tracking-ai-search-visibility-is-kind-of-broken-5dpd)
+- [I compiled Rust to WebAssembly to build a system design simulator that runs entirely in your browser!](https://dev.to/ronit_dahiya_31be6743f3bd/i-compiled-rust-to-webassembly-to-build-a-system-design-simulator-that-runs-entirely-in-your-3j1n)
+- [2000 modules to render a button. Web dev earned this reputation.](https://dev.to/adioof/2000-modules-to-render-a-button-web-dev-earned-this-reputation-3fe8)
 <!-- BLOG-POST-LIST:END -->
 
 
