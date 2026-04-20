@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I benchmarked 3 local LLMs on 50 factual questions -here&#39;s what failed](https://dev.to/sekumohamed/i-benchmarked-3-local-llms-on-50-factual-questions-heres-what-failed-13g6)
-- [Why Tracking AI Search Visibility Is Kind of Broken](https://dev.to/searchscore/why-tracking-ai-search-visibility-is-kind-of-broken-5dpd)
-- [I compiled Rust to WebAssembly to build a system design simulator that runs entirely in your browser!](https://dev.to/ronit_dahiya_31be6743f3bd/i-compiled-rust-to-webassembly-to-build-a-system-design-simulator-that-runs-entirely-in-your-3j1n)
-- [2000 modules to render a button. Web dev earned this reputation.](https://dev.to/adioof/2000-modules-to-render-a-button-web-dev-earned-this-reputation-3fe8)
+- [How to Use APM Tools Effectively](https://dev.to/safdarwahid/how-to-use-apm-tools-effectively-25ab)
+- [The Death of &quot;String-Based&quot; Descriptions in AI Integration](https://dev.to/tercelyi/the-death-of-string-based-descriptions-in-ai-integration-327l)
+- [¿Cómo guardar tus marcadores web?](https://dev.to/baltasarq/como-guardar-tus-marcadores-web-28j8)
+- [Game QA Best Practices: A Developer&#39;&#39;s Testing Guide](https://dev.to/oceanviewgames/game-qa-best-practices-a-developers-testing-guide-3g6k)
 <!-- BLOG-POST-LIST:END -->
 
 
