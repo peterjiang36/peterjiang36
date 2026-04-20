@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Digital Souls: The Brutal Reality of Creating AI That Understands You Like Nobody Else](https://dev.to/kevinten10/building-digital-souls-the-brutal-reality-of-creating-ai-that-understands-you-like-nobody-else-46cn)
-- [How to Validate Indian Pincode Using Python](https://dev.to/harini_magesh_fa40041cf8d/how-to-validate-indian-pincode-using-python-5cjk)
-- [Launching Pegasus 1.5 by TwelveLabs on Product Hunt](https://dev.to/fmerian/launching-pegasus-15-by-twelvelabs-on-product-hunt-54dd)
-- [How We Integrate AI Into Real Mobile and Web Apps](https://dev.to/zartek_technologies_/how-we-integrate-ai-into-real-mobile-and-web-apps-51p2)
+- [How ChatGPT Works &lpar;Simple Explanation for Beginners&rpar;](https://dev.to/debugdiariesbyswethap/how-chatgpt-works-simple-explanation-for-beginners-51ok)
+- [Azure Service Bus for Event-Driven Systems: A Practical Deep Dive](https://dev.to/aldacosta/azure-service-bus-for-event-driven-systems-a-practical-deep-dive-5an3)
+- [Plant in real life. Share on a living Earth. Grow a global green community. This is Plantera. 🌍🌱](https://dev.to/anupam058/plant-in-real-life-share-on-a-living-earth-grow-a-global-green-community-this-is-plantera-51p6)
+- [EU AI Act: Was ab August 2026 konkret für dein Unternehmen gilt](https://dev.to/codewithagents_de/eu-ai-act-was-ab-august-2026-konkret-fur-dein-unternehmen-gilt-56l3)
 <!-- BLOG-POST-LIST:END -->
 
 
