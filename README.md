@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use APM Tools Effectively](https://dev.to/safdarwahid/how-to-use-apm-tools-effectively-25ab)
-- [The Death of &quot;String-Based&quot; Descriptions in AI Integration](https://dev.to/tercelyi/the-death-of-string-based-descriptions-in-ai-integration-327l)
-- [¿Cómo guardar tus marcadores web?](https://dev.to/baltasarq/como-guardar-tus-marcadores-web-28j8)
-- [Game QA Best Practices: A Developer&#39;&#39;s Testing Guide](https://dev.to/oceanviewgames/game-qa-best-practices-a-developers-testing-guide-3g6k)
+- [How I Structure Scalable React Native Apps Using MVVM](https://dev.to/fouzia_naaz/how-i-structure-scalable-react-native-apps-using-mvvm-5dn0)
+- [I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You](https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16)
+- [Generative UI Project Ideas with Complete Source Code](https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp)
+- [Rethinking LLM Benchmarks: Why Scores Alone Don’t Tell the Full Story](https://dev.to/lightningdev123/rethinking-llm-benchmarks-why-scores-alone-dont-tell-the-full-story-3bco)
 <!-- BLOG-POST-LIST:END -->
 
 
