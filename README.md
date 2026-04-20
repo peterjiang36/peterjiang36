@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Koko Eating Banana](https://dev.to/we_are_broken_compilers/koko-eating-banana-33ag)
-- [Building Dashboard: A Beginner&#39;s Case Study with E‑commerce Data](https://dev.to/yaw_baffoe/building-dashboard-a-beginners-case-study-with-e-commerce-data-dg8)
-- [Zazen for ADHD devs: what 20 minutes of sitting still does to my brain](https://dev.to/kairi_outputs/zazen-for-adhd-devs-what-20-minutes-of-sitting-still-does-to-my-brain-361d)
-- [The Brutal Truth About Capa-Java: After 6 Months of Multi-Cloud Hell](https://dev.to/kevinten10/the-brutal-truth-about-capa-java-after-6-months-of-multi-cloud-hell-1edl)
+- [Burp Suite for HTB &amp; CTF Players: Complete Guide &lpar;2026&rpar;](https://dev.to/rushiii3/burp-suite-for-htb-ctf-players-complete-guide-2026-5575)
+- [We Built a Custom Graph RAG to Let AI Answer &quot;Did That Initiative Actually Work?&quot;](https://dev.to/ryosuke_tsuji_f08e20fdca1/we-built-a-custom-graph-rag-to-let-ai-answer-did-that-initiative-actually-work-3oda)
+- [Week 4,5,6 - Learning K8s](https://dev.to/nicbaughman/week-456-learning-k8s-3jeo)
+- [A Stranger Audited My AI Product for Free. Here&#39;s What They Found.](https://dev.to/alimafana/a-stranger-audited-my-ai-product-for-free-heres-what-they-found-3npd)
 <!-- BLOG-POST-LIST:END -->
 
 
