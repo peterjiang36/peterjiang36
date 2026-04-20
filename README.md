@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Claude Code plugin that refuses to agree with me](https://dev.to/amroabdalla00/i-built-a-claude-code-plugin-that-refuses-to-agree-with-me-24ja)
-- [Protobuf: Why Google&#39;s Servers Don&#39;t Speak JSON](https://dev.to/neuraldownload/protobuf-why-googles-servers-dont-speak-json-1k67)
-- [The System Did Not Fail. It Behaved As Designed.](https://dev.to/randomchaos/the-system-did-not-fail-it-behaved-as-designed-1i4)
-- [8 Days from Application to Approved: My First MCP Marketplace Listing](https://dev.to/sessionzero_ai/8-days-from-application-to-approved-my-first-mcp-marketplace-listing-45g7)
+- [Coal Keeps Slipping Through Kiwi-chan&#39;s Fingers! ⛏️](https://dev.to/kiwi_tech/coal-keeps-slipping-through-kiwi-chans-fingers-300i)
+- [Black-Scholes on Polymarket: Finding Mispriced Binary Events with Python](https://dev.to/ayratmurtazin/black-scholes-on-polymarket-finding-mispriced-binary-events-with-python-2m50)
+- [Hosting Laravel in the EU: GDPR Compliance with Hetzner and Deploynix](https://dev.to/deploynix/hosting-laravel-in-the-eu-gdpr-compliance-with-hetzner-and-deploynix-3abe)
+- [How OpenClaw is Shaping the Future of AI-Driven Education](https://dev.to/ahmed_adelabdulwahab_320/how-openclaw-is-shaping-the-future-of-ai-driven-education-630)
 <!-- BLOG-POST-LIST:END -->
 
 
