@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Logistics Stack Problem: Why Cross-Border B2B Freight Is Still Hard to Automate](https://dev.to/rickey12/the-logistics-stack-problem-why-cross-border-b2b-freight-is-still-hard-to-automate-1368)
-- [Two Days, Two Hacks: The Lovable Disclosure and the Pattern Nobody Wants to Talk About](https://dev.to/jon_at_backboardio/two-days-two-hacks-the-lovable-disclosure-and-the-pattern-nobody-wants-to-talk-about-47eh)
-- [Three days debugging a missing trace](https://dev.to/rsiv/three-days-debugging-a-missing-trace-7p8)
-- [Developer&#39;s Guide to Eliminating Back Pain at Your Desk](https://dev.to/the_devzenteam_769cdf22/developers-guide-to-eliminating-back-pain-at-your-desk-ee3)
+- [ANÁLISE ACERCA DO FRAMEWORK GRPC &lpar;GOOGLE REMOTE PROCEDURE CALL&rpar;: COMPARAÇÕES E DESEMPENHOS](https://dev.to/jeanvitorvieira/analise-acerca-do-framework-grpc-google-remote-procedure-call-comparacoes-e-desempenhos-5amd)
+- [TestSprite: What Happens When You Test Stripe&#39;s Pricing Page for Locale Handling](https://dev.to/minepop_b9b83b74c8f47ae8b/testsprite-what-happens-when-you-test-stripes-pricing-page-for-locale-handling-16dg)
+- [Public Integration Without Authentication Exposes Critical Control Failure](https://dev.to/randomchaos/public-integration-without-authentication-exposes-critical-control-failure-1f9l)
+- [The Failure Mechanism in OT Systems: Identity Boundaries at Execution Context](https://dev.to/randomchaos/the-failure-mechanism-in-ot-systems-identity-boundaries-at-execution-context-3ac7)
 <!-- BLOG-POST-LIST:END -->
 
 
