@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.7 Field Report: Eight Hours of Autonomous Work](https://dev.to/kai_outputs/claude-opus-47-field-report-eight-hours-of-autonomous-work-10e3)
-- [My AI-Heavy Indie Stack &lpar;Actually Honest Breakdown&rpar;](https://dev.to/kai_outputs/my-ai-heavy-indie-stack-actually-honest-breakdown-2jim)
-- [How I Built My AI Agent Learning Guide from Scratch: The Hard Truths](https://dev.to/kevinten10/how-i-built-my-ai-agent-learning-guide-from-scratch-the-hard-truths-112i)
-- [Why Blockchains Exclude Floating Point at the Architecture Level](https://dev.to/dharrsan-hq/why-blockchains-exclude-floating-point-at-the-architecture-level-8a4)
+- [When Your AI Agent Goes Rogue: Building a Bulletproof Incident Response System](https://dev.to/chiefwebofficer/when-your-ai-agent-goes-rogue-building-a-bulletproof-incident-response-system-ifb)
+- [agentic coding habits to accelerate your engineering workflow](https://dev.to/jackmarchant/agentic-coding-habits-to-accelerate-your-engineering-workflow-4p3g)
+- [From Complaints to Prevention: A Product Manager’s Approach to AI-Driven Telecom Billing](https://dev.to/balu_chavan_bf4de371f2a30/from-complaints-to-prevention-a-product-managers-approach-to-ai-driven-telecom-billing-4626)
+- [Hermes vs OpenCLAW: &quot;Kẻ Tám Lạng, Người Nửa Cân&quot; Trong Xử Lý Dữ Liệu 2026](https://dev.to/itprepvn/hermes-vs-openclaw-ke-tam-lang-nguoi-nua-can-trong-xu-ly-du-lieu-2026-287)
 <!-- BLOG-POST-LIST:END -->
 
 
