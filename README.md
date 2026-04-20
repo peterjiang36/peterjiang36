@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding produces the silhouette of software, not software](https://dev.to/adioof/vibe-coding-produces-the-silhouette-of-software-not-software-nhg)
-- [Building resilient large-scale applications](https://dev.to/yogmel/building-resilient-large-scale-applications-43ca)
-- [I built a FRAME cartridge for Claude Design Day One](https://dev.to/seriousbydesign/i-built-a-frame-cartridge-for-claude-design-day-one-1doi)
-- [The Hidden Cost of AWS Lambda SnapStart for Python, and How I Fixed It with Durable Functions](https://dev.to/jayaganeshk/the-hidden-cost-of-aws-lambda-snapstart-for-python-and-how-i-fixed-it-with-durable-functions-2ba4)
+- [Koko Eating Banana](https://dev.to/we_are_broken_compilers/koko-eating-banana-33ag)
+- [Building Dashboard: A Beginner&#39;s Case Study with E‑commerce Data](https://dev.to/yaw_baffoe/building-dashboard-a-beginners-case-study-with-e-commerce-data-dg8)
+- [Zazen for ADHD devs: what 20 minutes of sitting still does to my brain](https://dev.to/kairi_outputs/zazen-for-adhd-devs-what-20-minutes-of-sitting-still-does-to-my-brain-361d)
+- [The Brutal Truth About Capa-Java: After 6 Months of Multi-Cloud Hell](https://dev.to/kevinten10/the-brutal-truth-about-capa-java-after-6-months-of-multi-cloud-hell-1edl)
 <!-- BLOG-POST-LIST:END -->
 
 
