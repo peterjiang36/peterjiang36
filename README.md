@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure Scalable React Native Apps Using MVVM](https://dev.to/fouzia_naaz/how-i-structure-scalable-react-native-apps-using-mvvm-5dn0)
-- [I Built The Same App 3 Ways: No-Code, React Native, And Angular + .NET On Azure - Here’s What Nobody Tells You](https://dev.to/dhruvjoshi9/i-built-the-same-app-3-ways-no-code-react-native-and-angular-net-on-azure-heres-what-3i16)
-- [Generative UI Project Ideas with Complete Source Code](https://dev.to/copilotkit/generative-ui-project-ideas-with-complete-source-code-26jp)
-- [Rethinking LLM Benchmarks: Why Scores Alone Don’t Tell the Full Story](https://dev.to/lightningdev123/rethinking-llm-benchmarks-why-scores-alone-dont-tell-the-full-story-3bco)
+- [Vibe coding produces the silhouette of software, not software](https://dev.to/adioof/vibe-coding-produces-the-silhouette-of-software-not-software-nhg)
+- [Building resilient large-scale applications](https://dev.to/yogmel/building-resilient-large-scale-applications-43ca)
+- [I built a FRAME cartridge for Claude Design Day One](https://dev.to/seriousbydesign/i-built-a-frame-cartridge-for-claude-design-day-one-1doi)
+- [The Hidden Cost of AWS Lambda SnapStart for Python, and How I Fixed It with Durable Functions](https://dev.to/jayaganeshk/the-hidden-cost-of-aws-lambda-snapstart-for-python-and-how-i-fixed-it-with-durable-functions-2ba4)
 <!-- BLOG-POST-LIST:END -->
 
 
