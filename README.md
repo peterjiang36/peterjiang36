@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Was Supposed to Reduce Developer Burnout. The Data Says Otherwise.](https://dev.to/recharge/ai-was-supposed-to-reduce-developer-burnout-the-data-says-otherwise-157c)
-- [Active Inference, The Learn Arc — Part 8: Chapter 7 — POMDPs, Sophisticated Planning, and Dirichlet Learning](https://dev.to/tmdlrg/active-inference-the-learn-arc-part-8-chapter-7-pomdps-sophisticated-planning-and-dirichlet-3en2)
-- [Why I Stopped Using Copilot and Won’t Be Going Back](https://dev.to/speedcraft_tech_labs/why-i-stopped-using-copilot-and-wont-be-going-back-6ff)
-- [Write a List in One Line &lpar;List Comprehensions&rpar;](https://dev.to/yakhilesh/write-a-list-in-one-line-list-comprehensions-3f1a)
+- [CIA Triad, Authentication &amp; Authorization in Cybersecurity &lpar;2026&rpar;](https://dev.to/rushiii3/cia-triad-authentication-authorization-in-cybersecurity-2026-5cdh)
+- [From Knowledge Base to AI System: How Papers Evolved Beyond My Wildest Dreams](https://dev.to/kevinten10/from-knowledge-base-to-ai-system-how-papers-evolved-beyond-my-wildest-dreams-1hgk)
+- [24 Technologies that WhatsApp is Built with 🌱](https://dev.to/nube_colectiva_nc/the-architecture-of-ubiquity-what-is-whatsapp-made-of-e3)
+- [Redis Caching Strategies for Video Content Platforms](https://dev.to/ahmet_gedik778845/redis-caching-strategies-for-video-content-platforms-146m)
 <!-- BLOG-POST-LIST:END -->
 
 
