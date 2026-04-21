@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo Render no React](https://dev.to/caipora_dev/entendendo-render-no-react-54ib)
-- [I got tired of my GitHub profile card 429ing, so I built an alternative](https://dev.to/shay_manor_428011eaece64a/i-got-tired-of-my-github-profile-card-429ing-so-i-built-an-alternative-2jge)
-- [Как создать блог на Astro: установка, MDX, Content Collections](https://dev.to/_vproger_/kak-sozdat-blogh-na-astro-ustanovka-mdx-content-collections-3000)
-- [CI Channel for Claude Channels CI notifications](https://dev.to/waleedkadous/ci-channel-for-claude-channels-ci-notifications-2dl1)
+- [I Tracked My To-Do List for 30 Days. 73% of My &#39;Urgent&#39; Work Was Someone Else&#39;s Emergency.](https://dev.to/aralroca/i-tracked-my-to-do-list-for-30-days-73-of-my-urgent-work-was-someone-elses-emergency-63)
+- [What Did Your Agent Do Last Night?](https://dev.to/zsb7/what-did-your-agent-do-last-night-2c0b)
+- [How to Use the AllRatesToday MCP Server with Claude Code and Cursor](https://dev.to/chathuranga_basnayaka_d50/how-to-use-the-allratestoday-mcp-server-with-claude-code-and-cursor-5db9)
+- [Vibe coding will produce the worst legacy codebases we&#39;ve ever seen](https://dev.to/adioof/vibe-coding-will-produce-the-worst-legacy-codebases-weve-ever-seen-4pp1)
 <!-- BLOG-POST-LIST:END -->
 
 
