@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Jungle Grid handles the messy parts of GPU orchestration so you don&#39;t have to.](https://dev.to/benedict_dejaguarkyng_2/how-jungle-grid-handles-the-messy-parts-of-gpu-orchestration-so-you-dont-have-to-37lb)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1nj0)
-- [Interface in Go ฉบับรวบยอด](https://dev.to/perajit/interface-in-go-chbabrwbyd-1c3e)
-- [Cloud SQL IAM auth on Cloud Run with Postgres.js &lpar;no connector package in your app&rpar;](https://dev.to/dropfile/cloud-sql-iam-auth-on-cloud-run-with-postgresjs-no-connector-package-in-your-app-knl)
+- [404 robo haiku](https://dev.to/preetha_vaishnavi_2b82358/404-robo-haiku-29b8)
+- [My Cache Caused 4 Production Incidents. Here&#39;s What I Learned.](https://dev.to/flyingsquirrel0419/my-cache-caused-4-production-incidents-heres-what-i-learned-18pf)
+- [How I cut my Cursor/Claude token usage by 90% with a custom &quot;Dehydrator&quot; tool matrix 🛡️](https://dev.to/cleandatadev/how-i-cut-my-cursorclaude-token-usage-by-90-with-a-custom-dehydrator-tool-matrix-ake)
+- [AI Hacking Claude Chrome: Anthropic AI Writes Exploit Code](https://dev.to/deshtak/ai-hacking-claude-chrome-anthropic-ai-writes-exploit-code-37aj)
 <!-- BLOG-POST-LIST:END -->
 
 
