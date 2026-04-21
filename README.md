@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Portkey&#39;s Agent Gateway](https://dev.to/siddharth_sambharia_1a196/introducing-portkeys-agent-gateway-41n0)
-- [contentful-managementでエントリーの一覧取得と新規作成をasyncでやってみる](https://dev.to/segur/contentful-managementdeentorino-lan-qu-de-toxin-gui-zuo-cheng-woasyncdeyatutemiru-pk8)
-- [BotConduct Training Center: free adversarial evaluation for your AI agent](https://dev.to/botconductstandard/botconduct-training-center-free-adversarial-evaluation-for-your-ai-agent-2f78)
-- [3 Things React Compiler Won&#39;t Auto-Memo: From 512ms Down to 6ms](https://dev.to/recca0120/3-things-react-compiler-wont-auto-memo-from-512ms-down-to-6ms-nic)
+- [Mastering vem Tasks: Create, Prioritize, Implement, and Ship — A Complete Guide](https://dev.to/vem/mastering-vem-tasks-create-prioritize-implement-and-ship-a-complete-guide-4a41)
+- [Why Application-Layer Audit Trails Fail &lpar;and How PostgreSQL Triggers Fix It&rpar;](https://dev.to/kenzura/why-application-layer-audit-trails-fail-and-how-postgresql-triggers-fix-it-3h4h)
+- [AI Arcade, a Raspberry Pi arcade box that generates tiny games with a joystick](https://dev.to/grigtod/ai-arcade-a-raspberry-pi-arcade-box-that-generates-tiny-games-with-a-joystick-38op)
+- [What Being at JCON Europe Teaches Me &lpar;Beyond the Talks&rpar;](https://dev.to/wallaceespindola/what-being-at-jcon-europe-teaches-me-beyond-the-talks-3hh1)
 <!-- BLOG-POST-LIST:END -->
 
 
