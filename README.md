@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I leaked my GH token to Claude](https://dev.to/svn_arv/i-leaked-my-gh-token-to-claude-39dh)
-- [Here are the strategies I used to get my first 1000 users on my app as an indie app developer](https://dev.to/hotdogerino/here-are-the-strategies-i-used-to-get-my-first-1000-users-on-my-app-as-an-indie-app-developer-32b2)
-- [A practical guide to getting comfortable with AI coding tools](https://dev.to/liatmoss/a-practical-guide-to-getting-comfortable-with-ai-coding-tools-1noo)
-- [I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel](https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf)
+- [Getting Data from Multiple Sources in Power BI: Building the Foundation of a Data Analytics Career](https://dev.to/dreez/getting-data-from-multiple-sources-in-power-bi-building-the-foundation-of-a-data-analytics-career-2hha)
+- [7 Hidden Burp Suite Features That Save Hours of Manual Testing &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/7-hidden-burp-suite-features-that-save-hours-of-manual-testing-2026-1ghk)
+- [Claude Opus 4.7 is on Bedrock. Amazon just bet $25 billion it&#39;s the future. Here&#39;s what engineers need to know.](https://dev.to/ajbuilds/claude-opus-47-is-on-bedrock-amazon-just-bet-25-billion-its-the-future-heres-what-engineers-4ec8)
+- [Design by Contract in Go: Panics, Preconditions, and checkContracts&lpar;&rpar;](https://dev.to/bala_paranj_059d338e44e7e/design-by-contract-in-go-panics-preconditions-and-checkcontracts-503g)
 <!-- BLOG-POST-LIST:END -->
 
 
