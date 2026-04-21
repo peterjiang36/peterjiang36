@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Systems Fail in Production - And How to Fix It](https://dev.to/randomchaos/why-ai-systems-fail-in-production-and-how-to-fix-it-3obe)
-- [HTB Lame - NO Metasploit Walkthrough](https://dev.to/micheaol/htb-lame-no-metasploit-walkthrough-1g34)
-- [From Knowledge Hoarding to Business Weapon: How My &quot;Second Brain&quot; Actually Made Money](https://dev.to/kevinten10/from-knowledge-hoarding-to-business-weapon-how-my-second-brain-actually-made-money-5gnd)
-- [We Open Sourced the Djowda Platform — Here Are 6 Challenges for the Community](https://dev.to/djowda/we-open-sourced-the-djowda-platform-here-are-6-challenges-for-the-community-38op)
+- [From Notepad to Neural Network: The Brutal Truth About My 2-Year Journey Building a Knowledge Management System](https://dev.to/kevinten10/from-notepad-to-neural-network-the-brutal-truth-about-my-2-year-journey-building-a-knowledge-3hf)
+- [Flux 2.8 GA — Helm v4 Server-Side Apply, MTTR Cuts, CEL Health Checks, and the 2026 GitOps Standard](https://dev.to/x4nent/flux-28-ga-helm-v4-server-side-apply-mttr-cuts-cel-health-checks-and-the-2026-gitops-standard-3jih)
+- [From Hell to Haven: My Six-Month Journey with Capa-Java](https://dev.to/kevinten10/from-hell-to-haven-my-six-month-journey-with-capa-java-4kn8)
+- [Building an AI Tutor That Works Without Internet: Lessons from Rural Ethiopia](https://dev.to/zeshama/building-an-ai-tutor-that-works-without-internet-lessons-from-rural-ethiopia-497k)
 <!-- BLOG-POST-LIST:END -->
 
 
