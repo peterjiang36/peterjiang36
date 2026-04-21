@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Years Later: What My &quot;Second Brain&quot; Project Really Taught Me About Productivity](https://dev.to/kevinten10/two-years-later-what-my-second-brain-project-really-taught-me-about-productivity-5bb4)
-- [What is the Internet? A Beginner’s Guide to How It Travels Across the World](https://dev.to/g_anushreyarao_11/what-is-the-internet-a-beginners-guide-to-how-it-travels-across-the-world-6lc)
-- [How Linux is Used in Real-World Data Engineering](https://dev.to/datawithnaomi/how-linux-is-used-in-real-world-data-engineering-3be7)
-- [How to Upgrade &quot;Dumb&quot; Legacy EV Chargers to OCPP 2.0.1 &lpar;Without Ripping Them Out&rpar;](https://dev.to/jessieiot/how-to-upgrade-dumb-legacy-ev-chargers-to-ocpp-201-without-ripping-them-out-56p9)
+- [I leaked my GH token to Claude](https://dev.to/svn_arv/i-leaked-my-gh-token-to-claude-39dh)
+- [Here are the strategies I used to get my first 1000 users on my app as an indie app developer](https://dev.to/hotdogerino/here-are-the-strategies-i-used-to-get-my-first-1000-users-on-my-app-as-an-indie-app-developer-32b2)
+- [A practical guide to getting comfortable with AI coding tools](https://dev.to/liatmoss/a-practical-guide-to-getting-comfortable-with-ai-coding-tools-1noo)
+- [I Spent $1,500 on an ergonomic chair just to sit in it like a human pretzel](https://dev.to/the_nortern_dev/i-spent-1500-on-an-ergonomic-chair-just-to-sit-in-it-like-a-human-pretzel-38jf)
 <!-- BLOG-POST-LIST:END -->
 
 
