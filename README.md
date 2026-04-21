@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 1,847-Hour Question: Why I Keep Building Knowledge Systems That Nobody Uses](https://dev.to/kevinten10/the-1847-hour-question-why-i-keep-building-knowledge-systems-that-nobody-uses-4d4l)
-- [Add Telephony to a Gemini Live Agent with Twilio](https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc)
-- [How to Deploy a Spring Boot + React App for Free on Render: From Local to Production](https://dev.to/cleaner-wrasse/how-to-deploy-a-spring-boot-react-app-for-free-on-render-from-local-to-production-2d7b)
-- [Beyond the Hype: Why My Personal Knowledge Management System Still Fails After 1,847 Hours](https://dev.to/kevinten10/beyond-the-hype-why-my-personal-knowledge-management-system-still-fails-after-1847-hours-1e7m)
+- [Introducing Portkey&#39;s Agent Gateway](https://dev.to/siddharth_sambharia_1a196/introducing-portkeys-agent-gateway-41n0)
+- [contentful-managementでエントリーの一覧取得と新規作成をasyncでやってみる](https://dev.to/segur/contentful-managementdeentorino-lan-qu-de-toxin-gui-zuo-cheng-woasyncdeyatutemiru-pk8)
+- [BotConduct Training Center: free adversarial evaluation for your AI agent](https://dev.to/botconductstandard/botconduct-training-center-free-adversarial-evaluation-for-your-ai-agent-2f78)
+- [3 Things React Compiler Won&#39;t Auto-Memo: From 512ms Down to 6ms](https://dev.to/recca0120/3-things-react-compiler-wont-auto-memo-from-512ms-down-to-6ms-nic)
 <!-- BLOG-POST-LIST:END -->
 
 
