@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
-- [nylas contacts groups list for Developers — Quick Reference](https://dev.to/qasim157/nylas-contacts-groups-list-for-developers-quick-reference-512k)
-- [Working with nylas contacts list: List all contacts from your address book](https://dev.to/qasim157/working-with-nylas-contacts-list-list-all-contacts-from-your-address-book-190p)
-- [nylas contacts search — Search contacts by name, email, or company](https://dev.to/qasim157/nylas-contacts-search-search-contacts-by-name-email-or-company-7jj)
+- [Entendendo Render no React](https://dev.to/caipora_dev/entendendo-render-no-react-54ib)
+- [I got tired of my GitHub profile card 429ing, so I built an alternative](https://dev.to/shay_manor_428011eaece64a/i-got-tired-of-my-github-profile-card-429ing-so-i-built-an-alternative-2jge)
+- [Как создать блог на Astro: установка, MDX, Content Collections](https://dev.to/_vproger_/kak-sozdat-blogh-na-astro-ustanovka-mdx-content-collections-3000)
+- [CI Channel for Claude Channels CI notifications](https://dev.to/waleedkadous/ci-channel-for-claude-channels-ci-notifications-2dl1)
 <!-- BLOG-POST-LIST:END -->
 
 
