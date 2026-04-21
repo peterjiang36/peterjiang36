@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Rust and Formal Verification: How to Prove Your Code Actually Works](https://dev.to/nithinbharathwaj/-rust-and-formal-verification-how-to-prove-your-code-actually-works-fme)
-- [Hermes 和 OpenClaw，AI Agent 的两条路线之争](https://dev.to/_cbd692d476c5faf3b61bcf/hermes-he-openclawai-agent-de-liang-tiao-lu-xian-zhi-zheng-59l3)
-- [Hermes vs OpenClaw — Two Different Visions for AI Agents in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/hermes-vs-openclaw-two-different-visions-for-ai-agents-in-2026-1m6g)
-- [Mistake 14/14: Not using the tools Playwright already gives you](https://dev.to/testdino01/mistake-1414-not-using-the-tools-playwright-already-gives-you-131a)
+- [The 1,847-Hour Question: Why I Keep Building Knowledge Systems That Nobody Uses](https://dev.to/kevinten10/the-1847-hour-question-why-i-keep-building-knowledge-systems-that-nobody-uses-4d4l)
+- [Add Telephony to a Gemini Live Agent with Twilio](https://dev.to/googleai/add-telephony-to-a-gemini-live-agent-with-twilio-1elc)
+- [How to Deploy a Spring Boot + React App for Free on Render: From Local to Production](https://dev.to/cleaner-wrasse/how-to-deploy-a-spring-boot-react-app-for-free-on-render-from-local-to-production-2d7b)
+- [Beyond the Hype: Why My Personal Knowledge Management System Still Fails After 1,847 Hours](https://dev.to/kevinten10/beyond-the-hype-why-my-personal-knowledge-management-system-still-fails-after-1847-hours-1e7m)
 <!-- BLOG-POST-LIST:END -->
 
 
