@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Delegation Debt Problem: When Your Agent Owes More Than It Can Deliver](https://dev.to/the_bookmaster/the-delegation-debt-problem-when-your-agent-owes-more-than-it-can-deliver-13e3)
-- [Stop Losing Your API Calls: Build a Production-Ready Browser Cache in 5 Minutes](https://dev.to/mjavadsf/stop-losing-your-api-calls-build-a-production-ready-browser-cache-in-5-minutes-2apb)
-- [Building a C# Agent with Microsoft Agent Framework and Ollama](https://dev.to/bspann/building-a-c-agent-with-microsoft-agent-framework-and-ollama-26m4)
-- [6 AI App Builders Tested on Full Products: Which One Shipped a Real Multi-Screen App in 2026?](https://dev.to/fan-song/6-ai-app-builders-tested-on-full-products-which-one-shipped-a-real-multi-screen-app-in-2026-3p0k)
+- [1 month, 276 visitors, 0 sales sales - what I learned building a React Native starter kit nobody asked for](https://dev.to/salgueirodev/1-month-276-visitors-0-sales-sales-what-i-learned-building-a-react-native-starter-kit-nobody-4dc8)
+- [The 58th Attempt: When Your &quot;Meta-Promotion&quot; Becomes Your Actual Product](https://dev.to/kevinten10/the-58th-attempt-when-your-meta-promotion-becomes-your-actual-product-1j1c)
+- [Dapper Has 464 Open Issues. I Had My pengdows.crud Codebase Audited Against Every One of Them.](https://dev.to/pengdows/dapper-has-464-open-issues-i-had-my-pengdowscrud-codebase-audited-against-every-one-of-them-25dk)
+- [Evaluating AI Tools for Research: A Framework for Accuracy, Bias, and Trustworthiness](https://dev.to/jasrandhawa/evaluating-ai-tools-for-research-a-framework-for-accuracy-bias-and-trustworthiness-g24)
 <!-- BLOG-POST-LIST:END -->
 
 
