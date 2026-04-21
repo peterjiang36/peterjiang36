@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering vem Tasks: Create, Prioritize, Implement, and Ship — A Complete Guide](https://dev.to/vem/mastering-vem-tasks-create-prioritize-implement-and-ship-a-complete-guide-4a41)
-- [Why Application-Layer Audit Trails Fail &lpar;and How PostgreSQL Triggers Fix It&rpar;](https://dev.to/kenzura/why-application-layer-audit-trails-fail-and-how-postgresql-triggers-fix-it-3h4h)
-- [AI Arcade, a Raspberry Pi arcade box that generates tiny games with a joystick](https://dev.to/grigtod/ai-arcade-a-raspberry-pi-arcade-box-that-generates-tiny-games-with-a-joystick-38op)
-- [What Being at JCON Europe Teaches Me &lpar;Beyond the Talks&rpar;](https://dev.to/wallaceespindola/what-being-at-jcon-europe-teaches-me-beyond-the-talks-3hh1)
+- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
+- [nylas contacts groups list for Developers — Quick Reference](https://dev.to/qasim157/nylas-contacts-groups-list-for-developers-quick-reference-512k)
+- [Working with nylas contacts list: List all contacts from your address book](https://dev.to/qasim157/working-with-nylas-contacts-list-list-all-contacts-from-your-address-book-190p)
+- [nylas contacts search — Search contacts by name, email, or company](https://dev.to/qasim157/nylas-contacts-search-search-contacts-by-name-email-or-company-7jj)
 <!-- BLOG-POST-LIST:END -->
 
 
