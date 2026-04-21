@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tracked My To-Do List for 30 Days. 73% of My &#39;Urgent&#39; Work Was Someone Else&#39;s Emergency.](https://dev.to/aralroca/i-tracked-my-to-do-list-for-30-days-73-of-my-urgent-work-was-someone-elses-emergency-63)
-- [What Did Your Agent Do Last Night?](https://dev.to/zsb7/what-did-your-agent-do-last-night-2c0b)
-- [How to Use the AllRatesToday MCP Server with Claude Code and Cursor](https://dev.to/chathuranga_basnayaka_d50/how-to-use-the-allratestoday-mcp-server-with-claude-code-and-cursor-5db9)
-- [Vibe coding will produce the worst legacy codebases we&#39;ve ever seen](https://dev.to/adioof/vibe-coding-will-produce-the-worst-legacy-codebases-weve-ever-seen-4pp1)
+- [Please Don’t Throw That Away](https://dev.to/lanternetwork/please-dont-throw-that-away-16jh)
+- [GCP Claude Code Plugin](https://dev.to/byshade/gcp-claude-code-plugin-184e)
+- [Your Agents Are Talking Past Each Other](https://dev.to/o96a/your-agents-are-talking-past-each-other-15p5)
+- [php dev101](https://dev.to/asasa_1284cbd1a6d1a1c/php-dev101-4lb6)
 <!-- BLOG-POST-LIST:END -->
 
 
