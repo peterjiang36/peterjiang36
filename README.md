@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Notepad to Neural Network: The Brutal Truth About My 2-Year Journey Building a Knowledge Management System](https://dev.to/kevinten10/from-notepad-to-neural-network-the-brutal-truth-about-my-2-year-journey-building-a-knowledge-3hf)
-- [Flux 2.8 GA — Helm v4 Server-Side Apply, MTTR Cuts, CEL Health Checks, and the 2026 GitOps Standard](https://dev.to/x4nent/flux-28-ga-helm-v4-server-side-apply-mttr-cuts-cel-health-checks-and-the-2026-gitops-standard-3jih)
-- [From Hell to Haven: My Six-Month Journey with Capa-Java](https://dev.to/kevinten10/from-hell-to-haven-my-six-month-journey-with-capa-java-4kn8)
-- [Building an AI Tutor That Works Without Internet: Lessons from Rural Ethiopia](https://dev.to/zeshama/building-an-ai-tutor-that-works-without-internet-lessons-from-rural-ethiopia-497k)
+- [How Jungle Grid handles the messy parts of GPU orchestration so you don&#39;t have to.](https://dev.to/benedict_dejaguarkyng_2/how-jungle-grid-handles-the-messy-parts-of-gpu-orchestration-so-you-dont-have-to-37lb)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1nj0)
+- [Interface in Go ฉบับรวบยอด](https://dev.to/perajit/interface-in-go-chbabrwbyd-1c3e)
+- [Cloud SQL IAM auth on Cloud Run with Postgres.js &lpar;no connector package in your app&rpar;](https://dev.to/dropfile/cloud-sql-iam-auth-on-cloud-run-with-postgresjs-no-connector-package-in-your-app-knl)
 <!-- BLOG-POST-LIST:END -->
 
 
