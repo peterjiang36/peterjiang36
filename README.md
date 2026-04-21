@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Data from Multiple Sources in Power BI: Building the Foundation of a Data Analytics Career](https://dev.to/dreez/getting-data-from-multiple-sources-in-power-bi-building-the-foundation-of-a-data-analytics-career-2hha)
-- [7 Hidden Burp Suite Features That Save Hours of Manual Testing &lpar;2026&rpar;](https://dev.to/lucky_lonerusher/7-hidden-burp-suite-features-that-save-hours-of-manual-testing-2026-1ghk)
-- [Claude Opus 4.7 is on Bedrock. Amazon just bet $25 billion it&#39;s the future. Here&#39;s what engineers need to know.](https://dev.to/ajbuilds/claude-opus-47-is-on-bedrock-amazon-just-bet-25-billion-its-the-future-heres-what-engineers-4ec8)
-- [Design by Contract in Go: Panics, Preconditions, and checkContracts&lpar;&rpar;](https://dev.to/bala_paranj_059d338e44e7e/design-by-contract-in-go-panics-preconditions-and-checkcontracts-503g)
+- [Build a Full E-Commerce App with Flask &amp; React &lpar;Complete Guide&rpar; ver 2](https://dev.to/thetoest/build-a-full-e-commerce-app-with-flask-react-complete-guide-ver-2-39h2)
+- [I Built the Missing Claude AI SDK for .NET 8 — And It&#39;s Now on NuGet](https://dev.to/shatru123/i-built-the-missing-claude-ai-sdk-for-net-8-and-its-now-on-nuget-3ki7)
+- [AVS Is a Migration Strategy. Treating It as a Destination Is the Mistake.](https://dev.to/ntctech/avs-is-a-migration-strategy-treating-it-as-a-destination-is-the-mistake-2i6d)
+- [The One-Person Billion-Dollar Company: AI Makes It Real](https://dev.to/nishilbhave/the-one-person-billion-dollar-company-ai-makes-it-real-23ja)
 <!-- BLOG-POST-LIST:END -->
 
 
