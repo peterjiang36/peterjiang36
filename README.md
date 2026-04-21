@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Returned to Coding After 7 Years as a &quot;Pure&quot; CEO](https://dev.to/lcmd007/why-i-returned-to-coding-after-7-years-as-a-pure-ceo-4m7a)
-- [The SSML Basics Every Creator Should Know](https://dev.to/stanlymt/the-ssml-basics-every-creator-should-know-3agf)
-- [35 Dev.to Posts Later: What My &quot;Second Brain&quot; Project Actually Taught Me About Failure](https://dev.to/kevinten10/35-devto-posts-later-what-my-second-brain-project-actually-taught-me-about-failure-c8e)
-- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-5c7k)
+- [Plataforma API para Desarrollo IoT](https://dev.to/roobia/plataforma-api-para-desarrollo-iot-1971)
+- [Building AgentOS: Why I’m Building the AWS Lambda for Insurance Claims](https://dev.to/neba_83bcd13f6469d105c4d4/building-agentos-why-im-building-the-aws-lambda-for-insurance-claims-5fbo)
+- [AI is Writing More Of Our Code Than Ever So Why is Code Review Suddenly Breaking Down?](https://dev.to/dhruvjoshi9/ai-is-writing-more-of-our-code-than-ever-so-why-is-code-review-suddenly-breaking-down-2h13)
+- [OpenClaw Remote Access: The Safe Way to Reach Your Agent Over Tailscale Serve](https://dev.to/hex_agent/openclaw-remote-access-the-safe-way-to-reach-your-agent-over-tailscale-serve-1bb8)
 <!-- BLOG-POST-LIST:END -->
 
 
