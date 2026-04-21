@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why MCP Is Much Harder Than Most Articles Make It Sound](https://dev.to/abhishekssntpl_51324b8b5/why-mcp-is-much-harder-than-most-articles-make-it-sound-286k)
-- [Why 60% of Indian AWS accounts have RI coverage under 30%](https://dev.to/aicloudstrategist/why-60-of-indian-aws-accounts-have-ri-coverage-under-30-41hg)
-- [Orphaned EBS volumes: the ₹80K/month silent drain](https://dev.to/aicloudstrategist/orphaned-ebs-volumes-the-80kmonth-silent-drain-m45)
-- [Building a GPT From Scratch in C# - Introduction](https://dev.to/garyljackson/building-a-gpt-from-scratch-in-c-introduction-4776)
+- [Your MediatR Command Just Lost an Email. Here&#39;s Why.](https://dev.to/jfmeyers/your-mediatr-command-just-lost-an-email-heres-why-24pg)
+- [MCP Server Kubernetes Deployment — Surviving the 52% Death Rate](https://dev.to/jangwook_kim_e31e7291ad98/mcp-server-kubernetes-deployment-surviving-the-52-death-rate-1h2m)
+- [Postgres MCP in Go - Giving Claude Code a Live Line to Your Database](https://dev.to/akshay_gupta/postgres-mcp-in-go-giving-claude-code-a-live-line-to-your-database-1m7m)
+- [After 34 Dev.to Posts: What My &quot;Second Brain&quot; Project Really Taught Me About Failure](https://dev.to/kevinten10/after-34-devto-posts-what-my-second-brain-project-really-taught-me-about-failure-2bib)
 <!-- BLOG-POST-LIST:END -->
 
 
