@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Agent Identity Crisis Is Here. The Infrastructure to Solve It Already Exists.](https://dev.to/aaron_schnieder_4563d5d33/the-ai-agent-identity-crisis-is-here-the-infrastructure-to-solve-it-already-exists-35ha)
-- [Monitoring und Tracing im Zeitalter von Cloud und Microservices: Warum Log-Enzyme nicht reichen](https://dev.to/uhltak/monitoring-und-tracing-im-zeitalter-von-cloud-und-microservices-warum-log-enzyme-nicht-reichen-2ng7)
-- [Why Every AI Coding Agent Will Need Persistent Memory by 2027](https://dev.to/varun_pratapbhardwaj_b13/why-every-ai-coding-agent-will-need-persistent-memory-by-2027-10h6)
-- [5 Docker Scenarios Every Developer Should Practice &lpar;With Fixes &amp; Best Practices&rpar;](https://dev.to/nazmur96/5-docker-scenarios-every-developer-should-practice-with-fixes-best-practices-3l70)
+- [The Delegation Debt Problem: When Your Agent Owes More Than It Can Deliver](https://dev.to/the_bookmaster/the-delegation-debt-problem-when-your-agent-owes-more-than-it-can-deliver-13e3)
+- [Stop Losing Your API Calls: Build a Production-Ready Browser Cache in 5 Minutes](https://dev.to/mjavadsf/stop-losing-your-api-calls-build-a-production-ready-browser-cache-in-5-minutes-2apb)
+- [Building a C# Agent with Microsoft Agent Framework and Ollama](https://dev.to/bspann/building-a-c-agent-with-microsoft-agent-framework-and-ollama-26m4)
+- [6 AI App Builders Tested on Full Products: Which One Shipped a Real Multi-Screen App in 2026?](https://dev.to/fan-song/6-ai-app-builders-tested-on-full-products-which-one-shipped-a-real-multi-screen-app-in-2026-3p0k)
 <!-- BLOG-POST-LIST:END -->
 
 
