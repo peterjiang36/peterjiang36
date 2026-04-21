@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your MediatR Command Just Lost an Email. Here&#39;s Why.](https://dev.to/jfmeyers/your-mediatr-command-just-lost-an-email-heres-why-24pg)
-- [MCP Server Kubernetes Deployment — Surviving the 52% Death Rate](https://dev.to/jangwook_kim_e31e7291ad98/mcp-server-kubernetes-deployment-surviving-the-52-death-rate-1h2m)
-- [Postgres MCP in Go - Giving Claude Code a Live Line to Your Database](https://dev.to/akshay_gupta/postgres-mcp-in-go-giving-claude-code-a-live-line-to-your-database-1m7m)
-- [After 34 Dev.to Posts: What My &quot;Second Brain&quot; Project Really Taught Me About Failure](https://dev.to/kevinten10/after-34-devto-posts-what-my-second-brain-project-really-taught-me-about-failure-2bib)
+- [Why I Returned to Coding After 7 Years as a &quot;Pure&quot; CEO](https://dev.to/lcmd007/why-i-returned-to-coding-after-7-years-as-a-pure-ceo-4m7a)
+- [The SSML Basics Every Creator Should Know](https://dev.to/stanlymt/the-ssml-basics-every-creator-should-know-3agf)
+- [35 Dev.to Posts Later: What My &quot;Second Brain&quot; Project Actually Taught Me About Failure](https://dev.to/kevinten10/35-devto-posts-later-what-my-second-brain-project-actually-taught-me-about-failure-c8e)
+- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-5c7k)
 <!-- BLOG-POST-LIST:END -->
 
 
