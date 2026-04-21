@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Full E-Commerce App with Flask &amp; React &lpar;Complete Guide&rpar; ver 2](https://dev.to/thetoest/build-a-full-e-commerce-app-with-flask-react-complete-guide-ver-2-39h2)
-- [I Built the Missing Claude AI SDK for .NET 8 — And It&#39;s Now on NuGet](https://dev.to/shatru123/i-built-the-missing-claude-ai-sdk-for-net-8-and-its-now-on-nuget-3ki7)
-- [AVS Is a Migration Strategy. Treating It as a Destination Is the Mistake.](https://dev.to/ntctech/avs-is-a-migration-strategy-treating-it-as-a-destination-is-the-mistake-2i6d)
-- [The One-Person Billion-Dollar Company: AI Makes It Real](https://dev.to/nishilbhave/the-one-person-billion-dollar-company-ai-makes-it-real-23ja)
+- [# Rust and Formal Verification: How to Prove Your Code Actually Works](https://dev.to/nithinbharathwaj/-rust-and-formal-verification-how-to-prove-your-code-actually-works-fme)
+- [Hermes 和 OpenClaw，AI Agent 的两条路线之争](https://dev.to/_cbd692d476c5faf3b61bcf/hermes-he-openclawai-agent-de-liang-tiao-lu-xian-zhi-zheng-59l3)
+- [Hermes vs OpenClaw — Two Different Visions for AI Agents in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/hermes-vs-openclaw-two-different-visions-for-ai-agents-in-2026-1m6g)
+- [Mistake 14/14: Not using the tools Playwright already gives you](https://dev.to/testdino01/mistake-1414-not-using-the-tools-playwright-already-gives-you-131a)
 <!-- BLOG-POST-LIST:END -->
 
 
