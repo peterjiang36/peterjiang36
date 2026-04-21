@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Please Don’t Throw That Away](https://dev.to/lanternetwork/please-dont-throw-that-away-16jh)
-- [GCP Claude Code Plugin](https://dev.to/byshade/gcp-claude-code-plugin-184e)
-- [Your Agents Are Talking Past Each Other](https://dev.to/o96a/your-agents-are-talking-past-each-other-15p5)
-- [php dev101](https://dev.to/asasa_1284cbd1a6d1a1c/php-dev101-4lb6)
+- [The AI Agent Identity Crisis Is Here. The Infrastructure to Solve It Already Exists.](https://dev.to/aaron_schnieder_4563d5d33/the-ai-agent-identity-crisis-is-here-the-infrastructure-to-solve-it-already-exists-35ha)
+- [Monitoring und Tracing im Zeitalter von Cloud und Microservices: Warum Log-Enzyme nicht reichen](https://dev.to/uhltak/monitoring-und-tracing-im-zeitalter-von-cloud-und-microservices-warum-log-enzyme-nicht-reichen-2ng7)
+- [Why Every AI Coding Agent Will Need Persistent Memory by 2027](https://dev.to/varun_pratapbhardwaj_b13/why-every-ai-coding-agent-will-need-persistent-memory-by-2027-10h6)
+- [5 Docker Scenarios Every Developer Should Practice &lpar;With Fixes &amp; Best Practices&rpar;](https://dev.to/nazmur96/5-docker-scenarios-every-developer-should-practice-with-fixes-best-practices-3l70)
 <!-- BLOG-POST-LIST:END -->
 
 
