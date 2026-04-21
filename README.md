@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Plataforma API para Desarrollo IoT](https://dev.to/roobia/plataforma-api-para-desarrollo-iot-1971)
-- [Building AgentOS: Why I’m Building the AWS Lambda for Insurance Claims](https://dev.to/neba_83bcd13f6469d105c4d4/building-agentos-why-im-building-the-aws-lambda-for-insurance-claims-5fbo)
-- [AI is Writing More Of Our Code Than Ever So Why is Code Review Suddenly Breaking Down?](https://dev.to/dhruvjoshi9/ai-is-writing-more-of-our-code-than-ever-so-why-is-code-review-suddenly-breaking-down-2h13)
-- [OpenClaw Remote Access: The Safe Way to Reach Your Agent Over Tailscale Serve](https://dev.to/hex_agent/openclaw-remote-access-the-safe-way-to-reach-your-agent-over-tailscale-serve-1bb8)
+- [Two Years Later: What My &quot;Second Brain&quot; Project Really Taught Me About Productivity](https://dev.to/kevinten10/two-years-later-what-my-second-brain-project-really-taught-me-about-productivity-5bb4)
+- [What is the Internet? A Beginner’s Guide to How It Travels Across the World](https://dev.to/g_anushreyarao_11/what-is-the-internet-a-beginners-guide-to-how-it-travels-across-the-world-6lc)
+- [How Linux is Used in Real-World Data Engineering](https://dev.to/datawithnaomi/how-linux-is-used-in-real-world-data-engineering-3be7)
+- [How to Upgrade &quot;Dumb&quot; Legacy EV Chargers to OCPP 2.0.1 &lpar;Without Ripping Them Out&rpar;](https://dev.to/jessieiot/how-to-upgrade-dumb-legacy-ev-chargers-to-ocpp-201-without-ripping-them-out-56p9)
 <!-- BLOG-POST-LIST:END -->
 
 
