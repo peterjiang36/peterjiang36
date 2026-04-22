@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Freelance Rate Formula I Wish I Knew Earlier &lpar;Free Calculator Included&rpar;](https://dev.to/kineticgoods/the-freelance-rate-formula-i-wish-i-knew-earlier-free-calculator-included-6lh)
-- [### Ribbon: A CLI Project with the Potential to Become the Next Mainstream Tool](https://dev.to/transpective_ecf841cb1a37/-ribbon-a-cli-project-with-the-potential-to-become-the-next-mainstream-tool-40nc)
-- [This Week in RAG &amp; Vector Databases: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-rag-vector-databases-fastest-growing-projects-april-22-2026-4f7c)
-- [Automated Intelligence Dev Bounty Scouter with OpenClaw, Gemini &amp; SearXNG in RPi](https://dev.to/kheai/automated-intelligence-dev-bounty-scouter-with-openclaw-gemini-searxng-in-rpi-2623)
+- [How I built a QR business card generator with Next.js](https://dev.to/shrikant9907/how-i-built-a-qr-business-card-generator-with-nextjs-550g)
+- [Building The World Now: six months of stack notes](https://dev.to/cloudonemonk/building-the-world-now-six-months-of-stack-notes-10pa)
+- [Why CAPTCHA and Traditional Verification Methods Are Failing](https://dev.to/james_smith_543/why-captcha-and-traditional-verification-methods-are-failing-5e2k)
+- [How I Started Learning Kotlin by Building a Real Android App](https://dev.to/johnnylemonny/how-i-started-learning-kotlin-by-building-a-real-android-app-32ic)
 <!-- BLOG-POST-LIST:END -->
 
 
