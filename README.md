@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Foray into Harness Engineers](https://dev.to/neo_efecd668f2fc8966c7e72/my-first-foray-into-harness-engineers-j3p)
-- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-kjh)
-- [DataFrames &amp; SQL in Databricks: Reading, Writing, and Transforming Data](https://dev.to/qvfagundes/dataframes-sql-in-databricks-reading-writing-and-transforming-data-50h9)
-- [YOUR AI ASSISTANT MIGHT BE LYING TO YOU — AND OTHER UNCOMFORTABLE TRUTHS ABOUT AI TODAY](https://dev.to/samar_rai_3e37d61db7ae3a7/your-ai-assistant-might-be-lyingto-you-and-other-uncomfortable-truthsabout-ai-today-17ee)
+- [I Tried Vinext The Build Felt Slightly Better](https://dev.to/ezhil_sivarajsr/i-tried-vinext-the-build-felt-slightly-better-4ni5)
+- [Playwright MCP burns 114k tokens for one workflow. Here&#39;s why, and what to do about it.](https://dev.to/leonting1010/playwright-mcp-burns-114k-tokens-for-one-workflow-heres-why-and-what-to-do-about-it-57k8)
+- [Day 8: I Built a Timeline to See the Life of Data](https://dev.to/gracesoftdev/day-8-i-built-a-timeline-to-see-the-life-of-data-2n7i)
+- [Kiwi-chan Devlog #007: The Great Log Acquisition Struggle](https://dev.to/kiwi_tech/kiwi-chan-devlog-007-the-great-log-acquisition-struggle-34o4)
 <!-- BLOG-POST-LIST:END -->
 
 
