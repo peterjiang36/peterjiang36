@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ccusage-web – web dashboard to track Claude Code token costs](https://dev.to/hamzaahmedkhan/ccusage-web-web-dashboard-to-track-claude-code-token-costs-3l17)
-- [How I Built a Simple AI Tool to Remove Objects from Images &lpar;No Photoshop Needed&rpar;](https://dev.to/maxray/how-i-built-a-simple-ai-tool-to-remove-objects-from-images-no-photoshop-needed-2g0c)
-- [Retell AI vs VAPI: Which Voice Agent Platform Should You Actually Build On?](https://dev.to/jahanzaibai/retell-ai-vs-vapi-which-voice-agent-platform-should-you-actually-build-on-19f8)
-- [save your cloud cost](https://dev.to/ryka/save-your-cloud-cost-4an9)
+- [The Freelance Rate Formula I Wish I Knew Earlier &lpar;Free Calculator Included&rpar;](https://dev.to/kineticgoods/the-freelance-rate-formula-i-wish-i-knew-earlier-free-calculator-included-6lh)
+- [### Ribbon: A CLI Project with the Potential to Become the Next Mainstream Tool](https://dev.to/transpective_ecf841cb1a37/-ribbon-a-cli-project-with-the-potential-to-become-the-next-mainstream-tool-40nc)
+- [This Week in RAG &amp; Vector Databases: Fastest-Growing Projects — April 22, 2026](https://dev.to/pullrepo/this-week-in-rag-vector-databases-fastest-growing-projects-april-22-2026-4f7c)
+- [Automated Intelligence Dev Bounty Scouter with OpenClaw, Gemini &amp; SearXNG in RPi](https://dev.to/kheai/automated-intelligence-dev-bounty-scouter-with-openclaw-gemini-searxng-in-rpi-2623)
 <!-- BLOG-POST-LIST:END -->
 
 
