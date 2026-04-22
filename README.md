@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Smells: From Qualitative to Quantitative](https://dev.to/adhxdev/agentic-smells-from-qualitative-to-quantitative-2lhp)
-- [My Security Cameras Were Dead for 3 Days. Now They Fix Themselves.](https://dev.to/ljkunal/my-security-cameras-were-dead-for-3-days-now-they-fix-themselves-139c)
-- [I Built a Personal AI Engineer Using OpenClaw That Actually Helps Me Ship Faster](https://dev.to/extinctsion/i-built-a-personal-ai-engineer-using-openclaw-that-actually-helps-me-ship-faster-3lbo)
-- [I built a messaging app where everything disappears &lpar;and why&rpar;](https://dev.to/sonu_samrat_a10b0defcb70f/i-built-a-messaging-app-where-everything-disappears-and-why-12dm)
+- [ETL vs ELT: Which One Should You Use and Why](https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7)
+- [Hello World](https://dev.to/soohidden/hello-world-31jh)
+- [I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.](https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i)
+- [Breaking Down Linux File-System](https://dev.to/ritam369/breaking-down-linux-file-system-56ga)
 <!-- BLOG-POST-LIST:END -->
 
 
