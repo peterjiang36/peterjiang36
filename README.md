@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ETL vs ELT: Which One Should You Use and Why](https://dev.to/kuria_dd8316139db3dea9c85/etl-vs-elt-which-one-should-you-use-and-why-38i7)
-- [Hello World](https://dev.to/soohidden/hello-world-31jh)
-- [I shipped a DevSecOps tool in 2026 with zero LLM calls. On purpose. I think determinism still wins.](https://dev.to/danilo_vaccalluzzo_29784e/i-shipped-a-devsecops-tool-in-2026-with-zero-llm-calls-on-purpose-i-think-determinism-still-wins-c2i)
-- [Breaking Down Linux File-System](https://dev.to/ritam369/breaking-down-linux-file-system-56ga)
+- [Migrating from LocalStack to fakecloud in 10 minutes](https://dev.to/vieiralucas/migrating-from-localstack-to-fakecloud-in-10-minutes-1ij0)
+- [I Ran a Subdomain Takeover Checker on GitHub.com and Found a Vulnerable Subdomain](https://dev.to/mikaww1/i-ran-a-subdomain-takeover-checker-on-githubcom-and-found-a-vulnerable-subdomain-5ba2)
+- [I Spent a Week Inside OpenClaw. Here Is What Broke Me &lpar;and What Blew My Mind&rpar;](https://dev.to/onirestart/i-spent-a-week-inside-openclaw-here-is-what-broke-me-and-what-blew-my-mind-4746)
+- [Low-power firmware techniques for battery-powered MCUs](https://dev.to/beefedai/low-power-firmware-techniques-for-battery-powered-mcus-3n6l)
 <!-- BLOG-POST-LIST:END -->
 
 
