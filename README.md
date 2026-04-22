@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EP2: Mapping the Labyrinth: How Coolify Deploys Your Apps &lpar;and Why K8s Fits&rpar;](https://dev.to/drtobbyas/ep2-mapping-the-labyrinth-how-coolify-deploys-your-apps-and-why-k8s-fits-3dal)
-- [[Boost]](https://dev.to/olanetsoft/-cm2)
-- [Why LoRA? Understanding the representative PEFT](https://dev.to/jun07/why-lora-understanding-the-representative-peft-4gk7)
-- [claude-3-haiku-20240307 just started returning errors — here&#39;s what happened](https://dev.to/flarecanary/claude-3-haiku-20240307-just-started-returning-errors-heres-what-happened-57he)
+- [How To Enhance Your App With Oasis ROFL: A QuickStart Tutorial](https://dev.to/dc600/how-to-enhance-your-app-with-oasis-rofl-a-quickstart-tutorial-3n55)
+- [Why AI Agencies are flying blind &lpar;and how to fix your LLM margins&rpar;](https://dev.to/amedinat/why-ai-agencies-are-flying-blind-and-how-to-fix-your-llm-margins-1cd7)
+- [Stop Guessing – Use Golden Datasets for Prompt Evals](https://dev.to/lukaswalter/stop-guessing-use-golden-datasets-for-prompt-evals-1adi)
+- [SEPA pain.001 XML in 5 Minutes: Generate and Validate for Free](https://dev.to/ismail183/sepa-pain001-xml-in-5-minutes-generate-and-validate-for-free-3nfg)
 <!-- BLOG-POST-LIST:END -->
 
 
