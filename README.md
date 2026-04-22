@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [is-kit vs Zod: A Practical Comparison from 3 Perspectives](https://dev.to/nyaomaru/is-kit-vs-zod-a-practical-comparison-from-3-perspectives-21eh)
-- [Sticky identities](https://dev.to/lezhag/sticky-identities-3c8k)
-- [Just getting started here excited to be part of the community!](https://dev.to/himanshu_pradhan_0a9e9d69/just-getting-started-here-excited-to-be-part-of-the-community-2abb)
-- [HTB &lpar;Bashed&rpar; — Walkthrough](https://dev.to/micheaol/htb-bashed-walkthrough-4j0c)
+- [EP2: Mapping the Labyrinth: How Coolify Deploys Your Apps &lpar;and Why K8s Fits&rpar;](https://dev.to/drtobbyas/ep2-mapping-the-labyrinth-how-coolify-deploys-your-apps-and-why-k8s-fits-3dal)
+- [[Boost]](https://dev.to/olanetsoft/-cm2)
+- [Why LoRA? Understanding the representative PEFT](https://dev.to/jun07/why-lora-understanding-the-representative-peft-4gk7)
+- [claude-3-haiku-20240307 just started returning errors — here&#39;s what happened](https://dev.to/flarecanary/claude-3-haiku-20240307-just-started-returning-errors-heres-what-happened-57he)
 <!-- BLOG-POST-LIST:END -->
 
 
