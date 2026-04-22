@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1 month, 276 visitors, 0 sales sales - what I learned building a React Native starter kit nobody asked for](https://dev.to/salgueirodev/1-month-276-visitors-0-sales-sales-what-i-learned-building-a-react-native-starter-kit-nobody-4dc8)
-- [The 58th Attempt: When Your &quot;Meta-Promotion&quot; Becomes Your Actual Product](https://dev.to/kevinten10/the-58th-attempt-when-your-meta-promotion-becomes-your-actual-product-1j1c)
-- [Dapper Has 464 Open Issues. I Had My pengdows.crud Codebase Audited Against Every One of Them.](https://dev.to/pengdows/dapper-has-464-open-issues-i-had-my-pengdowscrud-codebase-audited-against-every-one-of-them-25dk)
-- [Evaluating AI Tools for Research: A Framework for Accuracy, Bias, and Trustworthiness](https://dev.to/jasrandhawa/evaluating-ai-tools-for-research-a-framework-for-accuracy-bias-and-trustworthiness-g24)
+- [Authentication in MERN Apps: JWT, bcrypt, Redis, and OAuth2](https://dev.to/im-shafiqurehman/authentication-in-mern-apps-jwt-bcrypt-redis-and-oauth2-4k23)
+- [AI Manifest: How I Cut AI Agent Tokens by 82% on Multi-Step Web UIs](https://dev.to/11pyo/ai-manifest-how-i-cut-ai-agent-tokens-by-82-on-multi-step-web-uis-57n)
+- [Building MailSink: a temp email API with MCP server on Cloudflare Workers](https://dev.to/heocoi/building-mailsink-a-temp-email-api-with-mcp-server-on-cloudflare-workers-4g65)
+- [We Built an AI Comic Generator in 3 Sprints — Here&#39;s What Actually Worked](https://dev.to/reghunaath/we-built-an-ai-comic-generator-in-3-sprints-heres-what-actually-worked-ccj)
 <!-- BLOG-POST-LIST:END -->
 
 
