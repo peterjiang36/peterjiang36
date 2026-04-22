@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from LocalStack to fakecloud in 10 minutes](https://dev.to/vieiralucas/migrating-from-localstack-to-fakecloud-in-10-minutes-1ij0)
-- [I Ran a Subdomain Takeover Checker on GitHub.com and Found a Vulnerable Subdomain](https://dev.to/mikaww1/i-ran-a-subdomain-takeover-checker-on-githubcom-and-found-a-vulnerable-subdomain-5ba2)
-- [I Spent a Week Inside OpenClaw. Here Is What Broke Me &lpar;and What Blew My Mind&rpar;](https://dev.to/onirestart/i-spent-a-week-inside-openclaw-here-is-what-broke-me-and-what-blew-my-mind-4746)
-- [Low-power firmware techniques for battery-powered MCUs](https://dev.to/beefedai/low-power-firmware-techniques-for-battery-powered-mcus-3n6l)
+- [We Talked About This for Two Years. Now You Can Talk to It](https://dev.to/mz06/we-talked-about-this-for-two-years-now-you-can-talk-to-it-2di0)
+- [AWS vs GCP ตอนที่ 2: IAM](https://dev.to/perajit/aws-vs-gcp-tnthii-2-iam-2e4a)
+- [Top 4 React Native Image Caching Libraries in 2026](https://dev.to/running_squirrel/top-4-react-native-image-caching-libraries-in-2026-22n1)
+- [Mastering Commonly Used SQL Joins: With Relatable Examples](https://dev.to/alex_coder/mastering-sql-joins-with-relatable-examples-1b5h)
 <!-- BLOG-POST-LIST:END -->
 
 
