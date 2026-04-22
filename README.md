@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Agent AI Swarm with Valkey as the Nervous System](https://dev.to/harishkotra/building-a-multi-agent-ai-swarm-with-valkey-as-the-nervous-system-567p)
-- [Software Architecture as Educated Coarse-Graining](https://dev.to/devanomaly/software-architecture-as-educated-coarse-graining-37m1)
-- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-3mn1)
-- [I Built a Swarm Agent RAG System Inspired by Karpathy&#39;s LLM Wiki](https://dev.to/arananet/i-built-a-swarm-agent-rag-system-inspired-by-karpathys-llm-wiki-2adn)
+- [Generating Realistic Seed Data That Respects Foreign Keys, in 20 Seconds](https://dev.to/gillarohith/generating-realistic-seed-data-that-respects-foreign-keys-in-20-seconds-2617)
+- [BB Day 14: Command Injection Bug Bounty 2026 — Find OS Injection in Web Apps &amp; APIs That Pay](https://dev.to/lucky_lonerusher/bb-day-14-command-injection-bug-bounty-2026-find-os-injection-in-web-apps-apis-that-pay-5911)
+- [Deep Linking in React Native with AppDelegate.swift](https://dev.to/peakiqofficial/deep-linking-in-react-native-with-appdelegateswift-47l4)
+- [Building a Content Factory with Claude Code + Remotion](https://dev.to/nextools/building-a-content-factory-with-claude-code-remotion-415h)
 <!-- BLOG-POST-LIST:END -->
 
 
