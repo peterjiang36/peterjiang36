@@ -74,20 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepfakes Scaled. Your Verification Didn&#39;t.](https://dev.to/caracomp/deepfakes-scaled-your-verification-didnt-2k6b)
-- [Why I Built BudgetWise AI: Navigating Finances with an AI Companion 💰🤖 Tags:
-#
-windows11
-#
-coding
-#
-microsoftstore
-#
-programming
-The Problem: Traditional Budgeting is Tedious
- Let’s be honest—most budgeting apps feel like homework. You’re either manually](https://dev.to/josephnrobinson/why-i-built-budgetwise-ai-navigating-finances-with-an-ai-companion-tags-windows11--68f)
-- [Your Projects, One Jump Away with JustJump](https://dev.to/rtech91/your-projects-one-jump-away-with-justjump-i4c)
-- [From Backend Engineer to Building AI Infrastructure at a Startup](https://dev.to/auth0/from-backend-engineer-to-building-ai-infrastructure-at-a-startup-1cco)
+- [Agentic Smells: From Qualitative to Quantitative](https://dev.to/adhxdev/agentic-smells-from-qualitative-to-quantitative-2lhp)
+- [My Security Cameras Were Dead for 3 Days. Now They Fix Themselves.](https://dev.to/ljkunal/my-security-cameras-were-dead-for-3-days-now-they-fix-themselves-139c)
+- [I Built a Personal AI Engineer Using OpenClaw That Actually Helps Me Ship Faster](https://dev.to/extinctsion/i-built-a-personal-ai-engineer-using-openclaw-that-actually-helps-me-ship-faster-3lbo)
+- [I built a messaging app where everything disappears &lpar;and why&rpar;](https://dev.to/sonu_samrat_a10b0defcb70f/i-built-a-messaging-app-where-everything-disappears-and-why-12dm)
 <!-- BLOG-POST-LIST:END -->
 
 
