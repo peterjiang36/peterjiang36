@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to AWS Solutions Architect Certification Training](https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk)
-- [My Junior Can Explain It. My Senior Can Defend It. The AI Just... Did It.](https://dev.to/jonoherrington/my-junior-can-explain-it-my-senior-can-defend-it-the-ai-just-did-it-40ip)
-- [Google TPU 8 vs Nvidia: 8t and 8i Specs Explained](https://dev.to/monkfromearth/google-tpu-8-vs-nvidia-8t-and-8i-specs-explained-3i75)
-- [Anthropic&#39;s New Update on Designing AI: How Claude Is Being Built for the Future](https://dev.to/manya_shreevangimalla_2d/anthropics-new-update-on-designing-ai-how-claude-is-being-built-for-the-future-37o6)
+- [Aximo — a local Rust STT API for CPU-only inference](https://dev.to/if/aximo-a-local-rust-stt-api-for-cpu-only-inference-3e5d)
+- [Announcing ObjeX | We Built Our Own S3](https://dev.to/meritonaliu/announcing-objex-we-built-our-own-s3-459l)
+- [The utm_source you should NOT use for Meta Ads &lpar;and why GA4 makes it disappear&rpar;](https://dev.to/toshihiro_shishido/the-utmsource-you-should-not-use-for-meta-ads-and-why-ga4-makes-it-disappear-19a3)
+- [Entity Optimization for Brands in AI Search](https://dev.to/chudi_nnorukam/entity-optimization-for-brands-in-ai-search-hbn)
 <!-- BLOG-POST-LIST:END -->
 
 
