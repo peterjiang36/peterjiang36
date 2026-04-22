@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [10 npm Packages You&#39;ll Actually Use in 2026](https://dev.to/sonotommy/10-npm-packages-youll-actually-use-in-2026-d64)
-- [Part 3: The Science - Hyperparameter Tuning &amp; Getting to 100% Precision with Warp/Oz](https://dev.to/syamaner/part-3-the-science-hyperparameter-tuning-getting-to-100-precision-with-warpoz-41cc)
-- [WhatsApp Image Quality Loss? Fix It Before Sending [2026]](https://dev.to/samma1997/whatsapp-image-quality-loss-fix-it-before-sending-2026-223)
-- [How to Create an Interactive Travel Photo Map from Your iPhone Photos](https://dev.to/samma1997/how-to-create-an-interactive-travel-photo-map-from-your-iphone-photos-4opo)
+- [ccusage-web – web dashboard to track Claude Code token costs](https://dev.to/hamzaahmedkhan/ccusage-web-web-dashboard-to-track-claude-code-token-costs-3l17)
+- [How I Built a Simple AI Tool to Remove Objects from Images &lpar;No Photoshop Needed&rpar;](https://dev.to/maxray/how-i-built-a-simple-ai-tool-to-remove-objects-from-images-no-photoshop-needed-2g0c)
+- [Retell AI vs VAPI: Which Voice Agent Platform Should You Actually Build On?](https://dev.to/jahanzaibai/retell-ai-vs-vapi-which-voice-agent-platform-should-you-actually-build-on-19f8)
+- [save your cloud cost](https://dev.to/ryka/save-your-cloud-cost-4an9)
 <!-- BLOG-POST-LIST:END -->
 
 
