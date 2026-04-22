@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating Realistic Seed Data That Respects Foreign Keys, in 20 Seconds](https://dev.to/gillarohith/generating-realistic-seed-data-that-respects-foreign-keys-in-20-seconds-2617)
-- [BB Day 14: Command Injection Bug Bounty 2026 — Find OS Injection in Web Apps &amp; APIs That Pay](https://dev.to/lucky_lonerusher/bb-day-14-command-injection-bug-bounty-2026-find-os-injection-in-web-apps-apis-that-pay-5911)
-- [Deep Linking in React Native with AppDelegate.swift](https://dev.to/peakiqofficial/deep-linking-in-react-native-with-appdelegateswift-47l4)
-- [Building a Content Factory with Claude Code + Remotion](https://dev.to/nextools/building-a-content-factory-with-claude-code-remotion-415h)
+- [is-kit vs Zod: A Practical Comparison from 3 Perspectives](https://dev.to/nyaomaru/is-kit-vs-zod-a-practical-comparison-from-3-perspectives-21eh)
+- [Sticky identities](https://dev.to/lezhag/sticky-identities-3c8k)
+- [Just getting started here excited to be part of the community!](https://dev.to/himanshu_pradhan_0a9e9d69/just-getting-started-here-excited-to-be-part-of-the-community-2abb)
+- [HTB &lpar;Bashed&rpar; — Walkthrough](https://dev.to/micheaol/htb-bashed-walkthrough-4j0c)
 <!-- BLOG-POST-LIST:END -->
 
 
