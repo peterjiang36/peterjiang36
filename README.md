@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Vinext The Build Felt Slightly Better](https://dev.to/ezhil_sivarajsr/i-tried-vinext-the-build-felt-slightly-better-4ni5)
-- [Playwright MCP burns 114k tokens for one workflow. Here&#39;s why, and what to do about it.](https://dev.to/leonting1010/playwright-mcp-burns-114k-tokens-for-one-workflow-heres-why-and-what-to-do-about-it-57k8)
-- [Day 8: I Built a Timeline to See the Life of Data](https://dev.to/gracesoftdev/day-8-i-built-a-timeline-to-see-the-life-of-data-2n7i)
-- [Kiwi-chan Devlog #007: The Great Log Acquisition Struggle](https://dev.to/kiwi_tech/kiwi-chan-devlog-007-the-great-log-acquisition-struggle-34o4)
+- [10 npm Packages You&#39;ll Actually Use in 2026](https://dev.to/sonotommy/10-npm-packages-youll-actually-use-in-2026-d64)
+- [Part 3: The Science - Hyperparameter Tuning &amp; Getting to 100% Precision with Warp/Oz](https://dev.to/syamaner/part-3-the-science-hyperparameter-tuning-getting-to-100-precision-with-warpoz-41cc)
+- [WhatsApp Image Quality Loss? Fix It Before Sending [2026]](https://dev.to/samma1997/whatsapp-image-quality-loss-fix-it-before-sending-2026-223)
+- [How to Create an Interactive Travel Photo Map from Your iPhone Photos](https://dev.to/samma1997/how-to-create-an-interactive-travel-photo-map-from-your-iphone-photos-4opo)
 <!-- BLOG-POST-LIST:END -->
 
 
