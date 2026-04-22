@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a QR business card generator with Next.js](https://dev.to/shrikant9907/how-i-built-a-qr-business-card-generator-with-nextjs-550g)
-- [Building The World Now: six months of stack notes](https://dev.to/cloudonemonk/building-the-world-now-six-months-of-stack-notes-10pa)
-- [Why CAPTCHA and Traditional Verification Methods Are Failing](https://dev.to/james_smith_543/why-captcha-and-traditional-verification-methods-are-failing-5e2k)
-- [How I Started Learning Kotlin by Building a Real Android App](https://dev.to/johnnylemonny/how-i-started-learning-kotlin-by-building-a-real-android-app-32ic)
+- [Building a Multi-Agent AI Swarm with Valkey as the Nervous System](https://dev.to/harishkotra/building-a-multi-agent-ai-swarm-with-valkey-as-the-nervous-system-567p)
+- [Software Architecture as Educated Coarse-Graining](https://dev.to/devanomaly/software-architecture-as-educated-coarse-graining-37m1)
+- [Color Contrast Failures: The Number One Accessibility Issue and How to Fix It](https://dev.to/toolkitonline/color-contrast-failures-the-number-one-accessibility-issue-and-how-to-fix-it-3mn1)
+- [I Built a Swarm Agent RAG System Inspired by Karpathy&#39;s LLM Wiki](https://dev.to/arananet/i-built-a-swarm-agent-rag-system-inspired-by-karpathys-llm-wiki-2adn)
 <!-- BLOG-POST-LIST:END -->
 
 
