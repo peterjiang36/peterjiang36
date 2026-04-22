@@ -74,10 +74,20 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💸 Why most devs never make money &lpar;brutal truth&rpar;](https://dev.to/robsonmuniz16/why-most-devs-never-make-money-brutal-truth-25nd)
-- [Network Forensics for Non-Security Teams: Why Every IT Department Needs Packet-Level Visibility](https://dev.to/anatraf_482389aa982e/network-forensics-for-non-security-teams-why-every-it-department-needs-packet-level-visibility-3i9n)
-- [Amikor nem működik a korreláció I.](https://dev.to/kovoliver/amikor-nem-mukodik-a-korrelacio-i-2kjd)
-- [I Built a Scroll Position Memory Extension That Actually Works on SPAs](https://dev.to/_350df62777eb55e1/i-built-a-scroll-position-memory-extension-that-actually-works-on-spas-3fjd)
+- [Deepfakes Scaled. Your Verification Didn&#39;t.](https://dev.to/caracomp/deepfakes-scaled-your-verification-didnt-2k6b)
+- [Why I Built BudgetWise AI: Navigating Finances with an AI Companion 💰🤖 Tags:
+#
+windows11
+#
+coding
+#
+microsoftstore
+#
+programming
+The Problem: Traditional Budgeting is Tedious
+ Let’s be honest—most budgeting apps feel like homework. You’re either manually](https://dev.to/josephnrobinson/why-i-built-budgetwise-ai-navigating-finances-with-an-ai-companion-tags-windows11--68f)
+- [Your Projects, One Jump Away with JustJump](https://dev.to/rtech91/your-projects-one-jump-away-with-justjump-i4c)
+- [From Backend Engineer to Building AI Infrastructure at a Startup](https://dev.to/auth0/from-backend-engineer-to-building-ai-infrastructure-at-a-startup-1cco)
 <!-- BLOG-POST-LIST:END -->
 
 
