@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Enhance Your App With Oasis ROFL: A QuickStart Tutorial](https://dev.to/dc600/how-to-enhance-your-app-with-oasis-rofl-a-quickstart-tutorial-3n55)
-- [Why AI Agencies are flying blind &lpar;and how to fix your LLM margins&rpar;](https://dev.to/amedinat/why-ai-agencies-are-flying-blind-and-how-to-fix-your-llm-margins-1cd7)
-- [Stop Guessing – Use Golden Datasets for Prompt Evals](https://dev.to/lukaswalter/stop-guessing-use-golden-datasets-for-prompt-evals-1adi)
-- [SEPA pain.001 XML in 5 Minutes: Generate and Validate for Free](https://dev.to/ismail183/sepa-pain001-xml-in-5-minutes-generate-and-validate-for-free-3nfg)
+- [💸 Why most devs never make money &lpar;brutal truth&rpar;](https://dev.to/robsonmuniz16/why-most-devs-never-make-money-brutal-truth-25nd)
+- [Network Forensics for Non-Security Teams: Why Every IT Department Needs Packet-Level Visibility](https://dev.to/anatraf_482389aa982e/network-forensics-for-non-security-teams-why-every-it-department-needs-packet-level-visibility-3i9n)
+- [Amikor nem működik a korreláció I.](https://dev.to/kovoliver/amikor-nem-mukodik-a-korrelacio-i-2kjd)
+- [I Built a Scroll Position Memory Extension That Actually Works on SPAs](https://dev.to/_350df62777eb55e1/i-built-a-scroll-position-memory-extension-that-actually-works-on-spas-3fjd)
 <!-- BLOG-POST-LIST:END -->
 
 
