@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication in MERN Apps: JWT, bcrypt, Redis, and OAuth2](https://dev.to/im-shafiqurehman/authentication-in-mern-apps-jwt-bcrypt-redis-and-oauth2-4k23)
-- [AI Manifest: How I Cut AI Agent Tokens by 82% on Multi-Step Web UIs](https://dev.to/11pyo/ai-manifest-how-i-cut-ai-agent-tokens-by-82-on-multi-step-web-uis-57n)
-- [Building MailSink: a temp email API with MCP server on Cloudflare Workers](https://dev.to/heocoi/building-mailsink-a-temp-email-api-with-mcp-server-on-cloudflare-workers-4g65)
-- [We Built an AI Comic Generator in 3 Sprints — Here&#39;s What Actually Worked](https://dev.to/reghunaath/we-built-an-ai-comic-generator-in-3-sprints-heres-what-actually-worked-ccj)
+- [OpenAI Euphony: A Browser-Based Viewer for Harmony Conversations and Codex CLI Sessions](https://dev.to/_46ea277e677b888e0cd13/openai-euphony-a-browser-based-viewer-for-harmony-conversations-and-codex-cli-sessions-5gcn)
+- [Why Safari Said &#39;Link Not Found&#39; &lpar;And Chrome Didn&#39;t&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-safari-said-link-not-found-and-chrome-didnt-2dn5)
+- [Anthropic&#39;s Most Dangerous Model Just Got Accessed by People Who Weren&#39;t Supposed to Have It](https://dev.to/om_shree_0709/anthropics-most-dangerous-model-just-got-accessed-by-people-who-werent-supposed-to-have-it-14dn)
+- [App Links e Universal Links: Deep Links em Produção &lpar;Parte 5&rpar;](https://dev.to/cdornelles/app-links-e-universal-links-deep-links-em-producao-parte-5-36gj)
 <!-- BLOG-POST-LIST:END -->
 
 
