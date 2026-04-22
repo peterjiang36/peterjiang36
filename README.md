@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Talked About This for Two Years. Now You Can Talk to It](https://dev.to/mz06/we-talked-about-this-for-two-years-now-you-can-talk-to-it-2di0)
-- [AWS vs GCP ตอนที่ 2: IAM](https://dev.to/perajit/aws-vs-gcp-tnthii-2-iam-2e4a)
-- [Top 4 React Native Image Caching Libraries in 2026](https://dev.to/running_squirrel/top-4-react-native-image-caching-libraries-in-2026-22n1)
-- [Mastering Commonly Used SQL Joins: With Relatable Examples](https://dev.to/alex_coder/mastering-sql-joins-with-relatable-examples-1b5h)
+- [A Practical Guide to AWS Solutions Architect Certification Training](https://dev.to/pranay_trivedi_9e2af65696/a-practical-guide-to-aws-solutions-architect-certification-training-llk)
+- [My Junior Can Explain It. My Senior Can Defend It. The AI Just... Did It.](https://dev.to/jonoherrington/my-junior-can-explain-it-my-senior-can-defend-it-the-ai-just-did-it-40ip)
+- [Google TPU 8 vs Nvidia: 8t and 8i Specs Explained](https://dev.to/monkfromearth/google-tpu-8-vs-nvidia-8t-and-8i-specs-explained-3i75)
+- [Anthropic&#39;s New Update on Designing AI: How Claude Is Being Built for the Future](https://dev.to/manya_shreevangimalla_2d/anthropics-new-update-on-designing-ai-how-claude-is-being-built-for-the-future-37o6)
 <!-- BLOG-POST-LIST:END -->
 
 
