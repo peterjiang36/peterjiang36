@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Euphony: A Browser-Based Viewer for Harmony Conversations and Codex CLI Sessions](https://dev.to/_46ea277e677b888e0cd13/openai-euphony-a-browser-based-viewer-for-harmony-conversations-and-codex-cli-sessions-5gcn)
-- [Why Safari Said &#39;Link Not Found&#39; &lpar;And Chrome Didn&#39;t&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-safari-said-link-not-found-and-chrome-didnt-2dn5)
-- [Anthropic&#39;s Most Dangerous Model Just Got Accessed by People Who Weren&#39;t Supposed to Have It](https://dev.to/om_shree_0709/anthropics-most-dangerous-model-just-got-accessed-by-people-who-werent-supposed-to-have-it-14dn)
-- [App Links e Universal Links: Deep Links em Produção &lpar;Parte 5&rpar;](https://dev.to/cdornelles/app-links-e-universal-links-deep-links-em-producao-parte-5-36gj)
+- [My First Foray into Harness Engineers](https://dev.to/neo_efecd668f2fc8966c7e72/my-first-foray-into-harness-engineers-j3p)
+- [TestSprite — localized dev review with feedback](https://dev.to/8006/testsprite-localized-dev-review-with-feedback-kjh)
+- [DataFrames &amp; SQL in Databricks: Reading, Writing, and Transforming Data](https://dev.to/qvfagundes/dataframes-sql-in-databricks-reading-writing-and-transforming-data-50h9)
+- [YOUR AI ASSISTANT MIGHT BE LYING TO YOU — AND OTHER UNCOMFORTABLE TRUTHS ABOUT AI TODAY](https://dev.to/samar_rai_3e37d61db7ae3a7/your-ai-assistant-might-be-lyingto-you-and-other-uncomfortable-truthsabout-ai-today-17ee)
 <!-- BLOG-POST-LIST:END -->
 
 
