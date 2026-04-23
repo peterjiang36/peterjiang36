@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave 7 AI Agents $100 Each to Build Startups. Here&#39;s What They Built in 4 Days.](https://dev.to/ai_made_tools/i-gave-7-ai-agents-100-each-to-build-startups-heres-what-they-built-in-4-days-7hd)
-- [Test Case Management in 2026: Process Over Tooling](https://dev.to/nazar_koval_165c290e1a163/test-case-management-in-2026-process-over-tooling-56ci)
-- [The Death of the Status Update: Why Weekly Reports Beat Daily Standups](https://dev.to/kineticgoods/the-death-of-the-status-update-why-weekly-reports-beat-daily-standups-4d5j)
-- [How I Explain DevOps to My Non-Tech Friends](https://dev.to/sohanaakbar7/how-i-explain-devops-to-my-non-tech-friends-1goh)
+- [A Practical Guide to Building a Vision AI Model Serving Pipeline with AWS CDK](https://dev.to/aws-builders/a-practical-guide-to-building-a-vision-ai-model-serving-pipeline-with-aws-cdk-31i)
+- [Self Host Docker Guide on a VPS &lpar;Secure + Simple&rpar;](https://dev.to/juan_diegoisazaa_5362a/self-host-docker-guide-on-a-vps-secure-simple-56pj)
+- [I Am Building a Cloud: Lessons from Designing Your Own Cloud Infrastructure from Scratch](https://dev.to/_d916d77be80d376e49d8e/i-am-building-a-cloud-lessons-from-designing-your-own-cloud-infrastructure-from-scratch-2j79)
+- [The Math Doesn&#39;t Work](https://dev.to/jonoherrington/the-math-doesnt-work-4f13)
 <!-- BLOG-POST-LIST:END -->
 
 
