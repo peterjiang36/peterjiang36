@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Dashboard: The Trick to Winning Over Your Clients with AI](https://dev.to/jestebandev/beyond-the-dashboard-the-trick-to-winning-over-your-clients-with-ai-kc4)
-- [I Built a Toast Library Where a Robot Delivers Your Notifications 🤖](https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo)
-- [The MCP Discovery Problem: Why 7,500+ Servers Is Both a Victory and a Warning](https://dev.to/codemalasartes/the-mcp-discovery-problem-why-7500-servers-is-both-a-victory-and-a-warning-3joe)
-- [I Tested Google Cloud Fraud Defense, Here is What Actually Changed 👇](https://dev.to/rasu-555/i-tested-google-cloud-fraud-defense-here-is-what-actually-changed-4aga)
+- [GitOps Deployment for Kubernetes Teams](https://dev.to/safdarwahid/gitops-deployment-for-kubernetes-teams-237o)
+- [Escape the cloud](https://dev.to/alfierivera/escape-the-cloud-4j1l)
+- [Why Is Redis INCR a Bad Fit for a Public URL Shortener?](https://dev.to/leetdezine/url-shortener-traps-that-look-correct-until-they-break-2o8g)
+- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
 <!-- BLOG-POST-LIST:END -->
 
 
