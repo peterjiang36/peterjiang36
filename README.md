@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hybrid Vinted Scraping Architecture That Outperforms Pure Browser Crawls](https://dev.to/boo_n/the-hybrid-vinted-scraping-architecture-that-outperforms-pure-browser-crawls-593b)
-- [KIOKU v0.5.0 + v0.5.1 — unified ingest router + hot cache, shipped same day](https://dev.to/megaphone/kioku-v050-v051-unified-ingest-router-hot-cache-shipped-same-day-1fdd)
-- [Symfony Messenger: A Great Servant, But a Terrible Master &lpar;Or How Asynchrony Cost Me Half My Beard&rpar;](https://dev.to/tito10047/symfony-messenger-a-great-servant-but-a-terrible-master-or-how-asynchrony-cost-me-half-my-beard-3k5c)
-- [I Built a Tool That Forces Me to Stop Procrastinating &lpar;Here’s How&rpar;](https://dev.to/ankit8801/i-built-a-tool-that-forces-me-to-stop-procrastinating-heres-how-i9f)
+- [Universal Basic Tokens: The Future of Technological Capitalism?](https://dev.to/souliane/universal-basic-tokens-the-future-of-technological-capitalism-4lff)
+- [How to add Apple Game Center leaderboards to an Expo app](https://dev.to/marioprieta/how-to-add-apple-game-center-leaderboards-to-an-expo-app-hpj)
+- [I built a browser daemon for AI coding agents because Playwright wasn&#39;t enough](https://dev.to/lipski/i-built-a-browser-daemon-for-ai-coding-agents-because-playwright-wasnt-enough-jp0)
+- [Doppar vs Laravel: A Brutally Honest PHP Framework Comparison &lpar;2026&rpar;](https://dev.to/mahedi1501/doppar-vs-laravel-a-brutally-honest-php-framework-comparison-2026-1d8e)
 <!-- BLOG-POST-LIST:END -->
 
 
