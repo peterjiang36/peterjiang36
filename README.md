@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Universal Basic Tokens: The Future of Technological Capitalism?](https://dev.to/souliane/universal-basic-tokens-the-future-of-technological-capitalism-4lff)
-- [How to add Apple Game Center leaderboards to an Expo app](https://dev.to/marioprieta/how-to-add-apple-game-center-leaderboards-to-an-expo-app-hpj)
-- [I built a browser daemon for AI coding agents because Playwright wasn&#39;t enough](https://dev.to/lipski/i-built-a-browser-daemon-for-ai-coding-agents-because-playwright-wasnt-enough-jp0)
-- [Doppar vs Laravel: A Brutally Honest PHP Framework Comparison &lpar;2026&rpar;](https://dev.to/mahedi1501/doppar-vs-laravel-a-brutally-honest-php-framework-comparison-2026-1d8e)
+- [I Gave 7 AI Agents $100 Each to Build Startups. Here&#39;s What They Built in 4 Days.](https://dev.to/ai_made_tools/i-gave-7-ai-agents-100-each-to-build-startups-heres-what-they-built-in-4-days-7hd)
+- [Test Case Management in 2026: Process Over Tooling](https://dev.to/nazar_koval_165c290e1a163/test-case-management-in-2026-process-over-tooling-56ci)
+- [The Death of the Status Update: Why Weekly Reports Beat Daily Standups](https://dev.to/kineticgoods/the-death-of-the-status-update-why-weekly-reports-beat-daily-standups-4d5j)
+- [How I Explain DevOps to My Non-Tech Friends](https://dev.to/sohanaakbar7/how-i-explain-devops-to-my-non-tech-friends-1goh)
 <!-- BLOG-POST-LIST:END -->
 
 
