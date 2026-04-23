@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing Web Scraping Data to Reduce RAG Token Costs](https://dev.to/alterlab/optimizing-web-scraping-data-to-reduce-rag-token-costs-3ecm)
-- [We Shipped to 3 Platforms With One Merge. Here&#39;s Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
-- [How to Add Stripe Subscriptions to an AI-Generated App &lpar;Step by Step&rpar;](https://dev.to/aadesh-kumar/how-to-add-stripe-subscriptions-to-an-ai-generated-app-step-by-step-gea)
-- [Warrior of Code](https://dev.to/andreas_mller_2fd27cf578/warrior-of-code-nkn)
+- [The Hybrid Vinted Scraping Architecture That Outperforms Pure Browser Crawls](https://dev.to/boo_n/the-hybrid-vinted-scraping-architecture-that-outperforms-pure-browser-crawls-593b)
+- [KIOKU v0.5.0 + v0.5.1 — unified ingest router + hot cache, shipped same day](https://dev.to/megaphone/kioku-v050-v051-unified-ingest-router-hot-cache-shipped-same-day-1fdd)
+- [Symfony Messenger: A Great Servant, But a Terrible Master &lpar;Or How Asynchrony Cost Me Half My Beard&rpar;](https://dev.to/tito10047/symfony-messenger-a-great-servant-but-a-terrible-master-or-how-asynchrony-cost-me-half-my-beard-3k5c)
+- [I Built a Tool That Forces Me to Stop Procrastinating &lpar;Here’s How&rpar;](https://dev.to/ankit8801/i-built-a-tool-that-forces-me-to-stop-procrastinating-heres-how-i9f)
 <!-- BLOG-POST-LIST:END -->
 
 
