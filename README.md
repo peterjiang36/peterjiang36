@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Guide: Building an Active-Active Multicloud Cell-Based Architecture](https://dev.to/sertaoseracloud/practical-guide-building-an-active-active-multicloud-cell-based-architecture-bk8)
-- [Add cryptographic authorization to AI agents in 5 minutes](https://dev.to/allforscience/add-cryptographic-authorization-to-ai-agents-in-5-minutes-49p1)
-- [Google Cloud NEXT ’26 Didn’t Feel Like Updates — It Felt Like a Shift &lpar;Tried It + Real Use Case&rpar;](https://dev.to/chaitra12345678/google-cloud-next-26-didnt-feel-like-updates-it-felt-like-a-shift-tried-it-real-use-case-354o)
-- [Building a website with Replit and Vercel](https://dev.to/absterellio/building-a-website-with-replit-and-vercel-4kbj)
+- [Google Cloud NEXT 2026 Quietly Killed “Coding First” — Here’s Why AI Boost Bites Is a Bigger Deal Than You Think](https://dev.to/rexreus/google-cloud-next-2026-quietly-killed-coding-first-heres-why-ai-boost-bites-is-a-bigger-deal-4c6n)
+- [Know Your Location: Use Get-Location as Your Anchor](https://dev.to/arnostorg/know-your-location-use-get-location-as-your-anchor-38l)
+- [Why the Line Between Data Engineer and ML Engineer Is Disappearing, And Why That&#39;s Your Cue to Cross It](https://dev.to/nyson_mark/why-the-line-between-data-engineer-and-ml-engineer-is-disappearing-and-why-thats-your-cue-to-566l)
+- [The Token Tab: A Developer&#39;s Audit of the AI Hype Stack](https://dev.to/thegdsks/the-token-tab-a-developers-audit-of-the-ai-hype-stack-6gg)
 <!-- BLOG-POST-LIST:END -->
 
 
