@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Transformers Part 12: Building the Decoder Layers](https://dev.to/rijultp/understanding-transformers-part-12-building-the-decoder-layers-36j)
-- [Understanding the this Keyword in JavaScript: The Ultimate Guide](https://dev.to/ritam369/understanding-the-this-keyword-in-javascript-the-ultimate-guide-4in8)
-- [Word ladders the right way: BFS, bidirectional search, and why Dijkstra is overkill](https://dev.to/dean_gilley/word-ladders-the-right-way-bfs-bidirectional-search-and-why-dijkstra-is-overkill-2ipb)
-- [Spelling correction at scale: Levenshtein distance, BK-trees, and symmetric deletion](https://dev.to/dean_gilley/spelling-correction-at-scale-levenshtein-distance-bk-trees-and-symmetric-deletion-4c1p)
+- [Looking for feedback on a small OpenTofu repo](https://dev.to/dionise/looking-for-feedback-on-a-small-opentofu-repo-13jg)
+- [Día 14: Cambiaste una clase y rompiste 10 más. Efecto dominó.](https://dev.to/alafourcadev/dia-14-cambiaste-una-clase-y-rompiste-10-mas-efecto-domino-3oab)
+- [Día 13: Tu clase tiene 50 métodos. Hace de todo. No hace nada bien.](https://dev.to/alafourcadev/dia-13-tu-clase-tiene-50-metodos-hace-de-todo-no-hace-nada-bien-4928)
+- [Día 12: 5.000 personas hicieron click al mismo tiempo. Tu servidor pidió perdón.](https://dev.to/alafourcadev/dia-12-5000-personas-hicieron-click-al-mismo-tiempo-tu-servidor-pidio-perdon-26ci)
 <!-- BLOG-POST-LIST:END -->
 
 
