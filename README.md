@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps Deployment for Kubernetes Teams](https://dev.to/safdarwahid/gitops-deployment-for-kubernetes-teams-237o)
-- [Escape the cloud](https://dev.to/alfierivera/escape-the-cloud-4j1l)
-- [Why Is Redis INCR a Bad Fit for a Public URL Shortener?](https://dev.to/leetdezine/url-shortener-traps-that-look-correct-until-they-break-2o8g)
-- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
+- [How We Log LLM Requests at Sub-50ms Latency Using ClickHouse](https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn)
+- [Your Claude Max Weekly Limit Runs Out in 3 Days. Here&#39;s Why &lpar;and the Fix&rpar;](https://dev.to/ievgen_ch/your-claude-max-weekly-limit-runs-out-in-3-days-heres-why-and-the-fix-45mk)
+- [Building a developer first temporary email service](https://dev.to/anshu0x/building-a-developer-first-temporary-email-service-4a9)
+- [Blog 3: Adaptive Learning Rate Methods &lpar;Part 1&rpar;](https://dev.to/harshil_rami_8533a7388ef7/blog-3-adaptive-learning-rate-methods-part-1-2jc2)
 <!-- BLOG-POST-LIST:END -->
 
 
