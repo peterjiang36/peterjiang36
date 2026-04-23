@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce Headless 360: Run Your CRM Without a Browser](https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4)
-- [Build a typed CLI from scratch with Commander.js + Zod](https://dev.to/f3rnox/build-a-typed-cli-from-scratch-with-commanderjs-zod-4oj6)
-- [RAG Systems in Production: Building Enterprise Knowledge Search](https://dev.to/krunal_groovy/rag-systems-in-production-building-enterprise-knowledge-search-2g9f)
-- [We Built a 31-Agent AI Team That Hires Itself, Critiques Itself, and Dreams](https://dev.to/ikhaled_elazab/we-built-a-31-agent-ai-team-that-hires-itself-critiques-itself-and-dreams-35dj)
+- [Using Chat GPT To Generate Datasets 🤖](https://dev.to/f3rnox/using-chat-gpt-to-generate-datasets-3kop)
+- [My first post. Day 1 of my Cloud Journey!](https://dev.to/eduardo_guerrero/my-first-post-day-1-of-my-cloud-journey-2a75)
+- [Testing AI Agents Like Code: the `oa test` Harness](https://dev.to/sg-prime/testing-ai-agents-like-code-the-oa-test-harness-oh)
+- [From Code to Clouds: Hosting a Professional Resume on GitHub Pages](https://dev.to/rahimah_dev/from-code-to-clouds-hosting-a-professional-resume-on-github-pages-37ch)
 <!-- BLOG-POST-LIST:END -->
 
 
