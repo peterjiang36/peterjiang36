@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Practical Guide to Building a Vision AI Model Serving Pipeline with AWS CDK](https://dev.to/aws-builders/a-practical-guide-to-building-a-vision-ai-model-serving-pipeline-with-aws-cdk-31i)
-- [Self Host Docker Guide on a VPS &lpar;Secure + Simple&rpar;](https://dev.to/juan_diegoisazaa_5362a/self-host-docker-guide-on-a-vps-secure-simple-56pj)
-- [I Am Building a Cloud: Lessons from Designing Your Own Cloud Infrastructure from Scratch](https://dev.to/_d916d77be80d376e49d8e/i-am-building-a-cloud-lessons-from-designing-your-own-cloud-infrastructure-from-scratch-2j79)
-- [The Math Doesn&#39;t Work](https://dev.to/jonoherrington/the-math-doesnt-work-4f13)
+- [JavaScript y su ecosistema: un tocahuevos con capas de abstracción](https://dev.to/satandev/javascript-y-su-ecosistema-un-tocahuevos-con-capas-de-abstraccion-k47)
+- [Privacy-first mind mapping app. Part 2: Rust Backend - Why the Pain Is Worth It](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-2-rust-backend-why-the-pain-is-worth-it-3hni)
+- [Redis-backed permissions for high-volume Laravel apps: v4.0.0-beta.1](https://dev.to/scabarcas/redis-backed-permissions-for-high-volume-laravel-apps-v400-beta1-dk3)
+- [微软应用商店上架指南](https://dev.to/yangholmes/wei-ruan-ying-yong-shang-dian-shang-jia-zhi-nan-3k8g)
 <!-- BLOG-POST-LIST:END -->
 
 
