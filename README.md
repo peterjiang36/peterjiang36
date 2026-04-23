@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [why you need hcl-linter?](https://dev.to/bard/why-you-need-hcl-linter-2c3j)
-- [I built Xyra, a desktop-style SSH/SFTP dashboard for managing Linux/VPS files from Windows](https://dev.to/mambuzrrr/i-built-xyra-a-desktop-style-sshsftp-dashboard-for-managing-linuxvps-files-from-windows-24do)
-- [The Meeting-Free Week: What Happened When Our Team Stopped Having Daily Standups](https://dev.to/kineticgoods/the-meeting-free-week-what-happened-when-our-team-stopped-having-daily-standups-3mhb)
-- [AI Code Editing Gone Too Far: Stop Over-Editing Now](https://dev.to/onsen/ai-code-editing-gone-too-far-stop-over-editing-now-444m)
+- [我实际跑了一次 TestSprite：它能给出有用反馈，但中文本地化还有明显空缺](https://dev.to/bytewatcher/wo-shi-ji-pao-liao-ci-testspriteta-neng-gei-chu-you-yong-fan-kui-dan-zhong-wen-ben-di-hua-huan-you-ming-xian-kong-que-221i)
+- [📦 Service Workers in PWAs: How to Cache Content and Supercharge Web App Performance](https://dev.to/okoye_ndidiamaka_5e3b7d30/service-workers-in-pwas-how-to-cache-content-and-supercharge-web-app-performance-2iak)
+- [JSON Formatter Pro vs REST Client: Which Is Better in 2026?](https://dev.to/alphashark/json-formatter-pro-vs-rest-client-which-is-better-in-2026-4oo3)
+- [How a fintech platform achieved 99.97% uptime with graceful degradation and circuit breakers](https://dev.to/binadit/how-a-fintech-platform-achieved-9997-uptime-with-graceful-degradation-and-circuit-breakers-827)
 <!-- BLOG-POST-LIST:END -->
 
 
