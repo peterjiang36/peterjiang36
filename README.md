@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Google&#39;s Gemini Contribute to my Daily Activities](https://dev.to/johnboscoo66821/how-googles-gemini-contribute-to-my-daily-activities-2e4b)
-- [Beyond the Chatbot: Why Sovereign AI is the Only Path to Exponential Education](https://dev.to/avatar-alchemy/beyond-the-chatbot-why-sovereign-ai-is-the-only-path-to-exponential-education-365b)
-- [Créer un système d’authentification avec PHP et MySQL &lpar;étape par étape&rpar;](https://dev.to/hiba2007code/creer-un-systeme-dauthentification-avec-php-et-mysql-etape-par-etape-55m0)
-- [How a Pakistani Engineer Got 6 Pull Requests Merged Into Flutter&#39;s Official Framework](https://dev.to/ishaquehassan/how-a-pakistani-engineer-got-6-pull-requests-merged-into-flutters-official-framework-51po)
+- [Go - Channels and everything you need to know about it!](https://dev.to/luph/go-channels-and-everything-you-need-to-know-about-it-47o2)
+- [Chapter 4: The Bigram Model - Simplest Possible Language Model](https://dev.to/garyljackson/chapter-4-the-bigram-model-simplest-possible-language-model-3i63)
+- [On Things](https://dev.to/les2/on-things-4548)
+- [Anthropic CVP Run 3 — Does Claude&#39;s Safety Stack Scale Down to Haiku 4.5?](https://dev.to/azrollin/anthropic-cvp-run-3-does-claudes-safety-stack-scale-down-to-haiku-45-41he)
 <!-- BLOG-POST-LIST:END -->
 
 
