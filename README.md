@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript y su ecosistema: un tocahuevos con capas de abstracción](https://dev.to/satandev/javascript-y-su-ecosistema-un-tocahuevos-con-capas-de-abstraccion-k47)
-- [Privacy-first mind mapping app. Part 2: Rust Backend - Why the Pain Is Worth It](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-2-rust-backend-why-the-pain-is-worth-it-3hni)
-- [Redis-backed permissions for high-volume Laravel apps: v4.0.0-beta.1](https://dev.to/scabarcas/redis-backed-permissions-for-high-volume-laravel-apps-v400-beta1-dk3)
-- [微软应用商店上架指南](https://dev.to/yangholmes/wei-ruan-ying-yong-shang-dian-shang-jia-zhi-nan-3k8g)
+- [Beyond the Dashboard: The Trick to Winning Over Your Clients with AI](https://dev.to/jestebandev/beyond-the-dashboard-the-trick-to-winning-over-your-clients-with-ai-kc4)
+- [I Built a Toast Library Where a Robot Delivers Your Notifications 🤖](https://dev.to/pratham_kumar_8cc837c51ed/i-built-a-toast-library-where-a-robot-delivers-your-notifications-54mo)
+- [The MCP Discovery Problem: Why 7,500+ Servers Is Both a Victory and a Warning](https://dev.to/codemalasartes/the-mcp-discovery-problem-why-7500-servers-is-both-a-victory-and-a-warning-3joe)
+- [I Tested Google Cloud Fraud Defense, Here is What Actually Changed 👇](https://dev.to/rasu-555/i-tested-google-cloud-fraud-defense-here-is-what-actually-changed-4aga)
 <!-- BLOG-POST-LIST:END -->
 
 
