@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Log LLM Requests at Sub-50ms Latency Using ClickHouse](https://dev.to/gauravdagde/how-we-log-llm-requests-at-sub-50ms-latency-using-clickhouse-3jbn)
-- [Your Claude Max Weekly Limit Runs Out in 3 Days. Here&#39;s Why &lpar;and the Fix&rpar;](https://dev.to/ievgen_ch/your-claude-max-weekly-limit-runs-out-in-3-days-heres-why-and-the-fix-45mk)
-- [Building a developer first temporary email service](https://dev.to/anshu0x/building-a-developer-first-temporary-email-service-4a9)
-- [Blog 3: Adaptive Learning Rate Methods &lpar;Part 1&rpar;](https://dev.to/harshil_rami_8533a7388ef7/blog-3-adaptive-learning-rate-methods-part-1-2jc2)
+- [Understanding Transformers Part 12: Building the Decoder Layers](https://dev.to/rijultp/understanding-transformers-part-12-building-the-decoder-layers-36j)
+- [Understanding the this Keyword in JavaScript: The Ultimate Guide](https://dev.to/ritam369/understanding-the-this-keyword-in-javascript-the-ultimate-guide-4in8)
+- [Word ladders the right way: BFS, bidirectional search, and why Dijkstra is overkill](https://dev.to/dean_gilley/word-ladders-the-right-way-bfs-bidirectional-search-and-why-dijkstra-is-overkill-2ipb)
+- [Spelling correction at scale: Levenshtein distance, BK-trees, and symmetric deletion](https://dev.to/dean_gilley/spelling-correction-at-scale-levenshtein-distance-bk-trees-and-symmetric-deletion-4c1p)
 <!-- BLOG-POST-LIST:END -->
 
 
