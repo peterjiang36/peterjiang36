@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Chat GPT To Generate Datasets 🤖](https://dev.to/f3rnox/using-chat-gpt-to-generate-datasets-3kop)
-- [My first post. Day 1 of my Cloud Journey!](https://dev.to/eduardo_guerrero/my-first-post-day-1-of-my-cloud-journey-2a75)
-- [Testing AI Agents Like Code: the `oa test` Harness](https://dev.to/sg-prime/testing-ai-agents-like-code-the-oa-test-harness-oh)
-- [From Code to Clouds: Hosting a Professional Resume on GitHub Pages](https://dev.to/rahimah_dev/from-code-to-clouds-hosting-a-professional-resume-on-github-pages-37ch)
+- [Stop Setting Up Your Machine Like It&#39;s 2015](https://dev.to/elpic/stop-setting-up-your-machine-like-its-2015-lmg)
+- [Solana vs Cardano: Real Tradeoffs for 2026 Builders](https://dev.to/juan_diegoisazaa_5362a/solana-vs-cardano-real-tradeoffs-for-2026-builders-2o8c)
+- [Visible-Edge Card Carousel with Swiper &lpar;ArkUI&rpar; — prevMargin/nextMargin + Scale Transition](https://dev.to/harmonyos/visible-edge-card-carousel-with-swiper-arkui-prevmarginnextmargin-scale-transition-51a4)
+- [An agent called my payment API 50,000 times in 90 seconds. Here&#39;s what broke.](https://dev.to/allforscience/an-agent-called-my-payment-api-50000-times-in-90-seconds-heres-what-broke-1g7e)
 <!-- BLOG-POST-LIST:END -->
 
 
