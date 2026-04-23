@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for feedback on a small OpenTofu repo](https://dev.to/dionise/looking-for-feedback-on-a-small-opentofu-repo-13jg)
-- [Día 14: Cambiaste una clase y rompiste 10 más. Efecto dominó.](https://dev.to/alafourcadev/dia-14-cambiaste-una-clase-y-rompiste-10-mas-efecto-domino-3oab)
-- [Día 13: Tu clase tiene 50 métodos. Hace de todo. No hace nada bien.](https://dev.to/alafourcadev/dia-13-tu-clase-tiene-50-metodos-hace-de-todo-no-hace-nada-bien-4928)
-- [Día 12: 5.000 personas hicieron click al mismo tiempo. Tu servidor pidió perdón.](https://dev.to/alafourcadev/dia-12-5000-personas-hicieron-click-al-mismo-tiempo-tu-servidor-pidio-perdon-26ci)
+- [GPT-5.5 vs Anthropic’s Methods Model vs Opus 4.7: What Actually Matters](https://dev.to/damogallagher/gpt-55-vs-anthropics-methods-model-vs-opus-47-what-actually-matters-2ic4)
+- [What&#39;s it like to build for an unreleased OS?](https://dev.to/mosesroth/whats-it-like-to-build-for-an-unreleased-os-1oba)
+- [How I built a tool that actually proves your backups work before you need them](https://dev.to/operadev/how-i-built-a-tool-that-actually-proves-your-backups-work-before-you-need-them-4nol)
+- [Your Virtual Threads Are Leaking: Why ScopedValue is the Only Way Forward](https://dev.to/vishalagg/your-virtual-threads-are-leaking-why-scopedvalue-is-the-only-way-forward-in-2025-pie)
 <!-- BLOG-POST-LIST:END -->
 
 
