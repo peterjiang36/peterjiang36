@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Setting Up Your Machine Like It&#39;s 2015](https://dev.to/elpic/stop-setting-up-your-machine-like-its-2015-lmg)
-- [Solana vs Cardano: Real Tradeoffs for 2026 Builders](https://dev.to/juan_diegoisazaa_5362a/solana-vs-cardano-real-tradeoffs-for-2026-builders-2o8c)
-- [Visible-Edge Card Carousel with Swiper &lpar;ArkUI&rpar; — prevMargin/nextMargin + Scale Transition](https://dev.to/harmonyos/visible-edge-card-carousel-with-swiper-arkui-prevmarginnextmargin-scale-transition-51a4)
-- [An agent called my payment API 50,000 times in 90 seconds. Here&#39;s what broke.](https://dev.to/allforscience/an-agent-called-my-payment-api-50000-times-in-90-seconds-heres-what-broke-1g7e)
+- [Practical Guide: Building an Active-Active Multicloud Cell-Based Architecture](https://dev.to/sertaoseracloud/practical-guide-building-an-active-active-multicloud-cell-based-architecture-bk8)
+- [Add cryptographic authorization to AI agents in 5 minutes](https://dev.to/allforscience/add-cryptographic-authorization-to-ai-agents-in-5-minutes-49p1)
+- [Google Cloud NEXT ’26 Didn’t Feel Like Updates — It Felt Like a Shift &lpar;Tried It + Real Use Case&rpar;](https://dev.to/chaitra12345678/google-cloud-next-26-didnt-feel-like-updates-it-felt-like-a-shift-tried-it-real-use-case-354o)
+- [Building a website with Replit and Vercel](https://dev.to/absterellio/building-a-website-with-replit-and-vercel-4kbj)
 <!-- BLOG-POST-LIST:END -->
 
 
