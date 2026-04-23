@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How MongoDB Executes a find&lpar;&rpar; Query: A Complete Lifecycle Guide](https://dev.to/mongodb/how-mongodb-executes-a-find-query-a-complete-lifecycle-guide-130e)
-- [How ORBIT Solves the Langflow CVE‑2026‑33017 Vulnerability](https://dev.to/highriseliving777/how-orbit-solves-the-langflow-cve-2026-33017-vulnerability-2fgn)
-- [The Hidden Attack Surface of Modern Cloud Apps in the Age of AI](https://dev.to/sreekari_m_eb6e870dcb8699/the-hidden-attack-surface-of-modern-cloud-apps-in-the-age-of-ai-2dj5)
-- [Graph Algorithms for Coding Interviews: When to Use BFS, DFS, or Dijkstra](https://dev.to/expora/graph-algorithms-for-coding-interviews-when-to-use-bfs-dfs-or-dijkstra-5b75)
+- [react-atom-trigger v2: A Scroll Trigger Recipe](https://dev.to/innrvoice/react-atom-trigger-v2-a-scroll-trigger-recipe-19k4)
+- [🚀 Weekly Progress: Building My MERN + Microservices Pizza App &lpar;Learning in Public&rpar;](https://dev.to/rajulamsal124/weekly-progress-building-my-mern-microservices-pizza-app-learning-in-public-35d4)
+- [The Page Order Math Behind Saddle-Stitch Booklets Is Weirder Than You Think. So I Automated It. [Devlog #8]](https://dev.to/hiyoyok/the-page-order-math-behind-saddle-stitch-booklets-is-weirder-than-you-think-so-i-automated-it-43kg)
+- [Moon](https://dev.to/preetha_vaishnavi_2b82358/moon-3gfb)
 <!-- BLOG-POST-LIST:END -->
 
 
