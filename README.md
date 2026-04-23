@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [react-atom-trigger v2: A Scroll Trigger Recipe](https://dev.to/innrvoice/react-atom-trigger-v2-a-scroll-trigger-recipe-19k4)
-- [🚀 Weekly Progress: Building My MERN + Microservices Pizza App &lpar;Learning in Public&rpar;](https://dev.to/rajulamsal124/weekly-progress-building-my-mern-microservices-pizza-app-learning-in-public-35d4)
-- [The Page Order Math Behind Saddle-Stitch Booklets Is Weirder Than You Think. So I Automated It. [Devlog #8]](https://dev.to/hiyoyok/the-page-order-math-behind-saddle-stitch-booklets-is-weirder-than-you-think-so-i-automated-it-43kg)
-- [Moon](https://dev.to/preetha_vaishnavi_2b82358/moon-3gfb)
+- [Optimizing Web Scraping Data to Reduce RAG Token Costs](https://dev.to/alterlab/optimizing-web-scraping-data-to-reduce-rag-token-costs-3ecm)
+- [We Shipped to 3 Platforms With One Merge. Here&#39;s Exactly How.](https://dev.to/ashishxcode/we-shipped-to-3-platforms-with-one-merge-heres-exactly-how-ie2)
+- [How to Add Stripe Subscriptions to an AI-Generated App &lpar;Step by Step&rpar;](https://dev.to/aadesh-kumar/how-to-add-stripe-subscriptions-to-an-ai-generated-app-step-by-step-gea)
+- [Warrior of Code](https://dev.to/andreas_mller_2fd27cf578/warrior-of-code-nkn)
 <!-- BLOG-POST-LIST:END -->
 
 
