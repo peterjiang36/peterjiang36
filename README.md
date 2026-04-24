@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Por Que Desenvolvedores Com Conhecimento Técnico Não Conseguem Vagas?](https://dev.to/talissondev/por-que-desenvolvedores-com-conhecimento-tecnico-nao-conseguem-vagas-32b8)
-- [Tecnologia não é custo. É decisão.](https://dev.to/talissondev/tecnologia-nao-e-custo-e-decisao-55bk)
-- [One-Person AI Companies Are the New Arbitrage](https://dev.to/dambilzerian/one-person-ai-companies-are-the-new-arbitrage-4ple)
-- [A beginner’s guide to Instructor: Get Structured Outputs from LLMs](https://dev.to/srujana_maddula_3b6ab05ff/a-beginners-guide-to-instructor-get-structured-outputs-from-llms-3lco)
+- [This is pretty exciting!
+
+https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl)
+- [How Scammers Use Automation to Scale Attacks Globally](https://dev.to/james_smith_543/how-scammers-use-automation-to-scale-attacks-globally-1ddp)
+- [Meet octoscope — your GitHub profile, at a glance, in your terminal](https://dev.to/undolog/meet-octoscope-your-github-profile-at-a-glance-in-your-terminal-5fa0)
+- [Stdout vs stderr vs stdin](https://dev.to/hosni_zaaraoui/stdout-vs-stderr-vs-stdin-2fkc)
 <!-- BLOG-POST-LIST:END -->
 
 
