@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which AI Coding Tool Should You Choose? 2026 Comprehensive Comparison Guide](https://dev.to/xunxing_mao_fac71e331fd4b/which-ai-coding-tool-should-you-choose-2026-comprehensive-comparison-guide-2i3b)
-- [The AI didn&#39;t break our backend. It just stopped lying for us.](https://dev.to/_jesmoo/the-ai-didnt-break-our-backend-it-just-stopped-lying-for-us-mn3)
-- [I Built a Security Scanner That Audits PDFs Before You Send Them. Here&#39;s How. [Devlog #10]](https://dev.to/hiyoyok/i-built-a-security-scanner-that-audits-pdfs-before-you-send-them-heres-how-devlog-10-4bf3)
-- [Java Serialization: Gizli Təhlükə və Müasir Alternativlər](https://dev.to/hilalhilalli/java-serialization-gizli-thluk-v-muasir-alternativlr-368i)
+- [Derivatives: Understanding Change](https://dev.to/yakhilesh/derivatives-understanding-change-d09)
+- [We built social escrow on-chain: tip anyone on X, Discord, or Telegram with no wallet](https://dev.to/jadeofwallstreet/we-built-social-escrow-on-chain-tip-anyone-on-x-discord-or-telegram-with-no-wallet-4gc9)
+- [I’m building a post-SaaS app catalog on Base, and here’s what that actually means](https://dev.to/itsevilduck/im-building-a-post-saas-app-catalog-on-base-and-heres-what-that-actually-means-5521)
+- [From &quot;Hello World&quot; to &quot;Hello Agents&quot;: The Developer Keynote That Rewired Software Engineering](https://dev.to/ggle_in/from-hello-world-to-hello-agents-the-developer-keynote-that-rewired-software-engineering-2b8k)
 <!-- BLOG-POST-LIST:END -->
 
 
