@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go - Channels and everything you need to know about it!](https://dev.to/luph/go-channels-and-everything-you-need-to-know-about-it-47o2)
-- [Chapter 4: The Bigram Model - Simplest Possible Language Model](https://dev.to/garyljackson/chapter-4-the-bigram-model-simplest-possible-language-model-3i63)
-- [On Things](https://dev.to/les2/on-things-4548)
-- [Anthropic CVP Run 3 — Does Claude&#39;s Safety Stack Scale Down to Haiku 4.5?](https://dev.to/azrollin/anthropic-cvp-run-3-does-claudes-safety-stack-scale-down-to-haiku-45-41he)
+- [I was tired of pulling in 500KB just to retry a HTTP call — so I built my own](https://dev.to/amine_from_laygab/i-was-tired-of-pulling-in-500kb-just-to-retry-a-http-call-so-i-built-my-own-4kn6)
+- [AWS RDS: Optimización de Performance para Database Engineers](https://dev.to/8infinitecloud/aws-rds-optimizacion-de-performance-para-database-engineers-22ij)
+- [How I&#39;d Build a Multi-Tenant Digital Employee Platform: Multi-LLM Routing, Approval Gates, MCP, and SOC2-Ready Audit Trails](https://dev.to/chen115y/how-id-build-a-multi-tenant-digital-employee-platform-multi-llm-routing-approval-gates-mcp-and-3fg0)
+- [Testing MCP Servers: The Five Gates Between Demo and Production](https://dev.to/guyernest/testing-mcp-servers-the-five-gates-between-demo-and-production-2inf)
 <!-- BLOG-POST-LIST:END -->
 
 
