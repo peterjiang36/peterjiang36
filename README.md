@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS isn&#39;t hard](https://dev.to/brendon_oneill__/css-isnt-hard-14aj)
-- [Chargeback vs showback team level cloud cost accountability](https://dev.to/riya_mittal_cdd264250ad45/chargeback-vs-showback-team-level-cloud-cost-accountability-3bo5)
-- [Designing Stable Integration Testing Architectures for Data-Driven Systems By QA Transformation &amp; Integration Architect](https://dev.to/chirag_patel_da672dcd5a8e/designing-stable-integration-testing-architectures-for-data-driven-systems-by-a-qa-transformation--2kml)
-- [Building VidDrop. What I learned about performance and user experience.](https://dev.to/muhammadniazali/building-viddrop-what-i-learned-about-performance-and-user-experience-3nbc)
+- [The Standup Is Not a Meeting. It&#39;s a Handoff.](https://dev.to/kineticgoods/the-standup-is-not-a-meeting-its-a-handoff-nd6)
+- [How VeilShift™ Works — The Protocol That Bypasses DPI Blocking](https://dev.to/veiloravpn/how-veilshift-works-the-protocol-that-bypasses-dpi-blocking-3c27)
+- [&quot;Beyond Linting: A Data-Driven Approach to Suggesting Better Code, Not Just Flagging Bad Code&quot;](https://dev.to/dimitrisk_cyclopt/beyond-linting-a-data-driven-approach-to-suggesting-better-code-not-just-flagging-bad-code-4l2g)
+- [How I Built a Childcare Availability Platform for 38,000 French Nurseries](https://dev.to/julien786534/how-i-built-a-childcare-availability-platform-for-38000-french-nurseries-26fi)
 <!-- BLOG-POST-LIST:END -->
 
 
