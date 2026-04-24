@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI治理最重要的能力：缺乏证据支持时懂得暂停](https://dev.to/senk/aizhi-li-zui-zhong-yao-de-neng-li-hui-ting-xia-er-bu-shi-zhi-wang-qian-chong-1247)
-- [I Built a Chrome Extension That Adds Playback Speed and Picture-in-Picture to Japan&#39;s Free Streaming Service](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-adds-playback-speed-and-picture-in-picture-to-japans-free-5bbo)
-- [I Built a Multi-LLM Debate Engine That Fact-Checks Itself in Real Time](https://dev.to/suat_cad1c7e9617374be97b2/i-built-a-multi-llm-debate-engine-that-fact-checks-itself-in-real-time-3oib)
-- [Why I built a Zero-Trust Proxy for my AI-controlled Robot 为什么我要为我的 AI 控制机器人构建零信任代理](https://dev.to/loopgap/why-i-built-a-zero-trust-proxy-for-my-ai-controlled-robot-wei-shi-yao-wo-yao-wei-wo-de-ai-kong-zhi-ji-qi-ren-gou-jian-ling-xin-ren-dai-li-55oh)
+- [Building Chaos Lab: When Environment Variables Become Laws of Nature](https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia)
+- [Agent Identity Is the New Control Plane. Enterprise Security Just Figured It Out.](https://dev.to/aaron_schnieder_4563d5d33/agent-identity-is-the-new-control-plane-enterprise-security-just-figured-it-out-l3l)
+- [MCP en Producción: Por Qué el Model Context Protocol Va a Rediseñar tu Arquitectura de Agentes &lpar;y Cuánto Te Va a Costar Ignorarlo&rpar;](https://dev.to/aurimasmarkunas/mcp-en-produccion-por-que-el-model-context-protocol-va-a-redisenar-tu-arquitectura-de-agentes-y-4omo)
+- [I benchmarked 10 LLMs on slopsquatting — up to 87% installed fake packages](https://dev.to/depscope/i-benchmarked-10-llms-on-slopsquatting-up-to-87-installed-fake-packages-51e2)
 <!-- BLOG-POST-LIST:END -->
 
 
