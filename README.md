@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [lopdf vs pdfium in Rust — Why I Chose the Smaller One](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-why-i-chose-the-smaller-one-11pa)
-- [IPTV Systems Architecture: The Brutal Realities of Scaling](https://dev.to/jaksontate/iptv-systems-architecture-the-brutal-realities-of-scaling-4dpo)
-- [GPT-5.5 Is Out — What Makes It Different?](https://dev.to/jon_dabb441f4278b2d/gpt-55-is-out-what-makes-it-different-2apj)
-- [GPT-5.5 is here. So is DeepSeek V4. And honestly, I am tired of version numbers.](https://dev.to/theaiobserver/gpt-55-is-here-so-is-deepseek-v4-and-honestly-i-am-tired-of-version-numbers-1jdm)
+- [CSS isn&#39;t hard](https://dev.to/brendon_oneill__/css-isnt-hard-14aj)
+- [Chargeback vs showback team level cloud cost accountability](https://dev.to/riya_mittal_cdd264250ad45/chargeback-vs-showback-team-level-cloud-cost-accountability-3bo5)
+- [Designing Stable Integration Testing Architectures for Data-Driven Systems By QA Transformation &amp; Integration Architect](https://dev.to/chirag_patel_da672dcd5a8e/designing-stable-integration-testing-architectures-for-data-driven-systems-by-a-qa-transformation--2kml)
+- [Building VidDrop. What I learned about performance and user experience.](https://dev.to/muhammadniazali/building-viddrop-what-i-learned-about-performance-and-user-experience-3nbc)
 <!-- BLOG-POST-LIST:END -->
 
 
