@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Derivatives: Understanding Change](https://dev.to/yakhilesh/derivatives-understanding-change-d09)
-- [We built social escrow on-chain: tip anyone on X, Discord, or Telegram with no wallet](https://dev.to/jadeofwallstreet/we-built-social-escrow-on-chain-tip-anyone-on-x-discord-or-telegram-with-no-wallet-4gc9)
-- [I’m building a post-SaaS app catalog on Base, and here’s what that actually means](https://dev.to/itsevilduck/im-building-a-post-saas-app-catalog-on-base-and-heres-what-that-actually-means-5521)
-- [From &quot;Hello World&quot; to &quot;Hello Agents&quot;: The Developer Keynote That Rewired Software Engineering](https://dev.to/ggle_in/from-hello-world-to-hello-agents-the-developer-keynote-that-rewired-software-engineering-2b8k)
+- [keygate: A Fast Pre-Commit Guardrail Against Secret Leaks](https://dev.to/yuichi/keygate-a-fast-pre-commit-guardrail-against-secret-leaks-1i7o)
+- [GPT-5.5 Just Launched: What Changed and Is It Worth It for Indie Hackers?](https://dev.to/devtoolpicks/gpt-55-just-launched-what-changed-and-is-it-worth-it-for-indie-hackers-4590)
+- [Stop Handing Over Your Entire Wallet: DTOs in .NET Explained](https://dev.to/m_orkhan/stop-handing-over-your-entire-wallet-dtos-in-net-explained-1eg8)
+- [Understanding SQL: DDL, DML, and Data Transformation](https://dev.to/victak36lgtm/-understanding-sql-ddl-dml-and-data-transformation-3hkh)
 <!-- BLOG-POST-LIST:END -->
 
 
