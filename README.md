@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Run My AI Content Pipeline on a $20 VPS &lpar;Because My $200 PC Crashed&rpar;](https://dev.to/jonoherrington/i-run-my-ai-content-pipeline-on-a-20-vps-because-my-200-pc-crashed-4e3m)
-- [Building the OpenClaw Smart Finance Tracker - An AI-Powered Expense Parser](https://dev.to/aditya_bhardwaj_101940f22/building-the-openclaw-smart-finance-tracker-an-ai-powered-expense-parser-d23)
-- [Add Loading Indicator for Flutter Web](https://dev.to/hashemm/add-loading-indicator-for-flutter-web-3enl)
-- [Running Slurm on AWS/Azure: Architecture &amp; Pitfalls](https://dev.to/zubairakbar/running-slurm-on-awsazure-architecture-pitfalls-3869)
+- [Stop Chatting With Your AI. Start Scheduling It. A HEARTBEAT.md + Cron Tutorial for OpenClaw](https://dev.to/benjaminsqlserver/stop-chatting-with-your-ai-start-scheduling-it-a-heartbeatmd-cron-tutorial-for-openclaw-4386)
+- [CloudFormation Diagram Generator — Visualize AWS Templates Instantly](https://dev.to/pandey-raghvendra/cloudformation-diagram-generator-visualize-aws-templates-instantly-4038)
+- [Why Your API Calls Are Being Blocked In The Browser &lpar;and How to Fix It in 12 Lines&rpar;](https://dev.to/jordan_sterchele/why-your-api-calls-are-being-blocked-in-the-browser-and-how-to-fix-it-in-12-lines-17ip)
+- [Kotori, strongly typed and modular i18n library for React](https://dev.to/tylim88/kotori-strongly-typed-and-modular-i18n-library-for-react-pip)
 <!-- BLOG-POST-LIST:END -->
 
 
