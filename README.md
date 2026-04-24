@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for Personal: How Edge-Native Agents Bring Data Sovereignty Back to Your Device](https://dev.to/mininglamp/ai-for-personal-how-edge-native-agents-bring-data-sovereignty-back-to-your-device-5882)
-- [The Role of Contextual AI in Document Interpretation](https://dev.to/jakemiller/the-role-of-contextual-ai-in-document-interpretation-i83)
-- [How PayPal Scales Payments: The Architecture of Global Trust](https://dev.to/karan_kumar_f09865ff0efe9/how-paypal-scales-payments-the-architecture-of-global-trust-38ki)
-- [Giving OpenClaw a Body: How I Turned an AI Agent into a Minecraft Survival Expert ⛏️🤖](https://dev.to/prema_ananda/giving-openclaw-a-body-how-i-turned-an-ai-agent-into-a-minecraft-survival-expert-48cc)
+- [lopdf vs pdfium in Rust — Why I Chose the Smaller One](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-why-i-chose-the-smaller-one-11pa)
+- [IPTV Systems Architecture: The Brutal Realities of Scaling](https://dev.to/jaksontate/iptv-systems-architecture-the-brutal-realities-of-scaling-4dpo)
+- [GPT-5.5 Is Out — What Makes It Different?](https://dev.to/jon_dabb441f4278b2d/gpt-55-is-out-what-makes-it-different-2apj)
+- [GPT-5.5 is here. So is DeepSeek V4. And honestly, I am tired of version numbers.](https://dev.to/theaiobserver/gpt-55-is-here-so-is-deepseek-v4-and-honestly-i-am-tired-of-version-numbers-1jdm)
 <!-- BLOG-POST-LIST:END -->
 
 
