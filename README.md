@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I was tired of pulling in 500KB just to retry a HTTP call — so I built my own](https://dev.to/amine_from_laygab/i-was-tired-of-pulling-in-500kb-just-to-retry-a-http-call-so-i-built-my-own-4kn6)
-- [AWS RDS: Optimización de Performance para Database Engineers](https://dev.to/8infinitecloud/aws-rds-optimizacion-de-performance-para-database-engineers-22ij)
-- [How I&#39;d Build a Multi-Tenant Digital Employee Platform: Multi-LLM Routing, Approval Gates, MCP, and SOC2-Ready Audit Trails](https://dev.to/chen115y/how-id-build-a-multi-tenant-digital-employee-platform-multi-llm-routing-approval-gates-mcp-and-3fg0)
-- [Testing MCP Servers: The Five Gates Between Demo and Production](https://dev.to/guyernest/testing-mcp-servers-the-five-gates-between-demo-and-production-2inf)
+- [Which AI Coding Tool Should You Choose? 2026 Comprehensive Comparison Guide](https://dev.to/xunxing_mao_fac71e331fd4b/which-ai-coding-tool-should-you-choose-2026-comprehensive-comparison-guide-2i3b)
+- [The AI didn&#39;t break our backend. It just stopped lying for us.](https://dev.to/_jesmoo/the-ai-didnt-break-our-backend-it-just-stopped-lying-for-us-mn3)
+- [I Built a Security Scanner That Audits PDFs Before You Send Them. Here&#39;s How. [Devlog #10]](https://dev.to/hiyoyok/i-built-a-security-scanner-that-audits-pdfs-before-you-send-them-heres-how-devlog-10-4bf3)
+- [Java Serialization: Gizli Təhlükə və Müasir Alternativlər](https://dev.to/hilalhilalli/java-serialization-gizli-thluk-v-muasir-alternativlr-368i)
 <!-- BLOG-POST-LIST:END -->
 
 
