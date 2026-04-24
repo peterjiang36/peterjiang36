@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Identity Crisis: Feeling Like a Fraud in a World of One-Click Results](https://dev.to/lapusneak/the-ai-identity-crisis-feeling-like-a-fraud-in-a-world-of-one-click-results-5c6a)
-- [Why HVAC Companies Lose Repeat Customers &lpar;And How to Build a Service Agreement Program That Actually Works&rpar;](https://dev.to/bookallleads/why-hvac-companies-lose-repeat-customers-and-how-to-build-a-service-agreement-program-that-210)
-- [Privacy-first mind mapping app. Part 3: Encryption Model - The Heart](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-3-encryption-model-the-heart-43m5)
-- [Migrating a PHP monolith in production: how I think about it](https://dev.to/silvafilipe/migrating-a-php-monolith-in-production-how-i-think-about-it-26k7)
+- [YC CEO Rebuilt a $10M Startup in 3 Weeks: Why Your Agent Framework is Wrong](https://dev.to/hunter_g_50e2ec233acd07b5/yc-ceo-rebuilt-a-10m-startup-in-3-weeks-why-your-agent-framework-is-wrong-250o)
+- [How to Write Prompts When You’re Vibe Coding](https://dev.to/aichannode/how-to-write-prompts-when-youre-vibe-coding-32gb)
+- [NVIDIA Driver Setup on Fedora 43 Workstation](https://dev.to/kalpesh47/nvidia-driver-setup-on-fedora-43-workstation-53m0)
+- [GPU D3cold Power States: How to Brick Your Card Without Trying](https://dev.to/futhgar/gpu-d3cold-power-states-how-to-brick-your-card-without-trying-3bnn)
 <!-- BLOG-POST-LIST:END -->
 
 
