@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 60th Attempt: When Your &quot;Knowledge Management&quot; System Becomes a Self-Fulfilling Prophecy of Mediocrity](https://dev.to/kevinten10/the-60th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-hcp)
-- [плавающее оглавление на solidjs](https://dev.to/scumdograscalhouse/plavaiushchieie-oghlavlieniie-na-solidjs-9ce)
-- [Frontend vs Backend: What Should You Learn First?](https://dev.to/pixel_mosaic/frontend-vs-backend-what-should-you-learn-first-3ahi)
-- [Cost Optimization Strategies for Databricks Workloads](https://dev.to/raghav_sharma_0c5d39f61a9/cost-optimization-strategies-for-databricks-workloads-5cm2)
+- [AI for Personal: How Edge-Native Agents Bring Data Sovereignty Back to Your Device](https://dev.to/mininglamp/ai-for-personal-how-edge-native-agents-bring-data-sovereignty-back-to-your-device-5882)
+- [The Role of Contextual AI in Document Interpretation](https://dev.to/jakemiller/the-role-of-contextual-ai-in-document-interpretation-i83)
+- [How PayPal Scales Payments: The Architecture of Global Trust](https://dev.to/karan_kumar_f09865ff0efe9/how-paypal-scales-payments-the-architecture-of-global-trust-38ki)
+- [Giving OpenClaw a Body: How I Turned an AI Agent into a Minecraft Survival Expert ⛏️🤖](https://dev.to/prema_ananda/giving-openclaw-a-body-how-i-turned-an-ai-agent-into-a-minecraft-survival-expert-48cc)
 <!-- BLOG-POST-LIST:END -->
 
 
