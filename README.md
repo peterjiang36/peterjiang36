@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Chaos Lab: When Environment Variables Become Laws of Nature](https://dev.to/harishkotra/building-chaos-lab-when-environment-variables-become-laws-of-nature-22ia)
-- [Agent Identity Is the New Control Plane. Enterprise Security Just Figured It Out.](https://dev.to/aaron_schnieder_4563d5d33/agent-identity-is-the-new-control-plane-enterprise-security-just-figured-it-out-l3l)
-- [MCP en Producción: Por Qué el Model Context Protocol Va a Rediseñar tu Arquitectura de Agentes &lpar;y Cuánto Te Va a Costar Ignorarlo&rpar;](https://dev.to/aurimasmarkunas/mcp-en-produccion-por-que-el-model-context-protocol-va-a-redisenar-tu-arquitectura-de-agentes-y-4omo)
-- [I benchmarked 10 LLMs on slopsquatting — up to 87% installed fake packages](https://dev.to/depscope/i-benchmarked-10-llms-on-slopsquatting-up-to-87-installed-fake-packages-51e2)
+- [The AI Identity Crisis: Feeling Like a Fraud in a World of One-Click Results](https://dev.to/lapusneak/the-ai-identity-crisis-feeling-like-a-fraud-in-a-world-of-one-click-results-5c6a)
+- [Why HVAC Companies Lose Repeat Customers &lpar;And How to Build a Service Agreement Program That Actually Works&rpar;](https://dev.to/bookallleads/why-hvac-companies-lose-repeat-customers-and-how-to-build-a-service-agreement-program-that-210)
+- [Privacy-first mind mapping app. Part 3: Encryption Model - The Heart](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-3-encryption-model-the-heart-43m5)
+- [Migrating a PHP monolith in production: how I think about it](https://dev.to/silvafilipe/migrating-a-php-monolith-in-production-how-i-think-about-it-26k7)
 <!-- BLOG-POST-LIST:END -->
 
 
