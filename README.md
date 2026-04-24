@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [YC CEO Rebuilt a $10M Startup in 3 Weeks: Why Your Agent Framework is Wrong](https://dev.to/hunter_g_50e2ec233acd07b5/yc-ceo-rebuilt-a-10m-startup-in-3-weeks-why-your-agent-framework-is-wrong-250o)
-- [How to Write Prompts When You’re Vibe Coding](https://dev.to/aichannode/how-to-write-prompts-when-youre-vibe-coding-32gb)
-- [NVIDIA Driver Setup on Fedora 43 Workstation](https://dev.to/kalpesh47/nvidia-driver-setup-on-fedora-43-workstation-53m0)
-- [GPU D3cold Power States: How to Brick Your Card Without Trying](https://dev.to/futhgar/gpu-d3cold-power-states-how-to-brick-your-card-without-trying-3bnn)
+- [Why Your HTTPS Traffic Still Gets Blocked &lpar;and How DPI Evasion Works&rpar;](https://dev.to/alanwest/why-your-https-traffic-still-gets-blocked-and-how-dpi-evasion-works-476l)
+- [Why production AI teams choose Waxell over AGT](https://dev.to/waxell/why-production-ai-teams-choose-waxell-over-agt-4cah)
+- [Why Developers Don&#39;t Contribute to Open Source &lpar;And What We Can Do About It&rpar;](https://dev.to/vigneshh/why-developers-dont-contribute-to-open-source-and-what-we-can-do-about-it-4hgb)
+- [Next.js 16.2 + Turbopack: What Actually Changed &lpar;Beyond the Benchmarks&rpar;](https://dev.to/olucasleitedev/nextjs-162-turbopack-what-actually-changed-beyond-the-benchmarks-9ei)
 <!-- BLOG-POST-LIST:END -->
 
 
