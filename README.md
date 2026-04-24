@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Template Literals in JavaScript: Say Goodbye to String Concatenation Nightmares](https://dev.to/ritam369/mastering-template-literals-in-javascript-13a4)
-- [Mở rộng Khả năng Nhập liệu trên macOS với PinDrop](https://dev.to/stelixx-insider/mo-rong-kha-nang-nhap-lieu-tren-macos-voi-pindrop-1c7e)
-- [React Email 6.0, Vercel got hacked, Prevent flash before hydration, Logging in Next.js, shader-lab, TypeScript 7.0, nextmap](https://dev.to/erfanebrahimnia/react-email-60-vercel-got-hacked-prevent-flash-before-hydration-logging-in-nextjs-shader-lab-3425)
-- [How SNF Detects C2 Beacons on Air-Gapped Networks Without Ever Touching the Internet](https://dev.to/shadownf/how-snf-detects-c2-beacons-on-air-gapped-networks-without-ever-touching-the-internet-504n)
+- [Are we Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-5cbh)
+- [I Built a PDF Toolkit as a Student &lpar;And Deployed It for Free&rpar;](https://dev.to/arhamqureshi/i-built-a-pdf-toolkit-as-a-student-and-deployed-it-for-free-1oel)
+- [How to Audit What Your AI Agent Actually Did After the Session](https://dev.to/sahil_kat/how-to-audit-what-your-ai-agent-actually-did-after-the-session-50n5)
+- [Why Claude Code PreToolUse Hooks Can Still Be Bypassed](https://dev.to/sahil_kat/why-claude-code-pretooluse-hooks-can-still-be-bypassed-3e8i)
 <!-- BLOG-POST-LIST:END -->
 
 
