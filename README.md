@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your HTTPS Traffic Still Gets Blocked &lpar;and How DPI Evasion Works&rpar;](https://dev.to/alanwest/why-your-https-traffic-still-gets-blocked-and-how-dpi-evasion-works-476l)
-- [Why production AI teams choose Waxell over AGT](https://dev.to/waxell/why-production-ai-teams-choose-waxell-over-agt-4cah)
-- [Why Developers Don&#39;t Contribute to Open Source &lpar;And What We Can Do About It&rpar;](https://dev.to/vigneshh/why-developers-dont-contribute-to-open-source-and-what-we-can-do-about-it-4hgb)
-- [Next.js 16.2 + Turbopack: What Actually Changed &lpar;Beyond the Benchmarks&rpar;](https://dev.to/olucasleitedev/nextjs-162-turbopack-what-actually-changed-beyond-the-benchmarks-9ei)
+- [The Hidden Challenge of Multi-LLM Context Management](https://dev.to/backboardio/the-hidden-challenge-of-multi-llm-context-management-1pbh)
+- [Why LLM Reasoning Is Breaking AI Infrastructure &lpar;And How to Fix It&rpar;](https://dev.to/backboardio/why-llm-reasoning-is-breaking-ai-infrastructure-and-how-to-fix-it-2aik)
+- [I Ran a Neural Network in a Browser Tab to Split a Song into Stems](https://dev.to/aralroca/i-ran-a-neural-network-in-a-browser-tab-to-split-a-song-into-stems-10mk)
+- [Why PMI Study Hall Questions Feel Misleading &lpar;And What To Do About It&rpar;](https://dev.to/manou_v/why-pmi-study-hall-questions-feel-misleading-and-what-to-do-about-it-1f4c)
 <!-- BLOG-POST-LIST:END -->
 
 
