@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are we Using AI at the Wrong Scale?](https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-5cbh)
-- [I Built a PDF Toolkit as a Student &lpar;And Deployed It for Free&rpar;](https://dev.to/arhamqureshi/i-built-a-pdf-toolkit-as-a-student-and-deployed-it-for-free-1oel)
-- [How to Audit What Your AI Agent Actually Did After the Session](https://dev.to/sahil_kat/how-to-audit-what-your-ai-agent-actually-did-after-the-session-50n5)
-- [Why Claude Code PreToolUse Hooks Can Still Be Bypassed](https://dev.to/sahil_kat/why-claude-code-pretooluse-hooks-can-still-be-bypassed-3e8i)
+- [Por Que Desenvolvedores Com Conhecimento Técnico Não Conseguem Vagas?](https://dev.to/talissondev/por-que-desenvolvedores-com-conhecimento-tecnico-nao-conseguem-vagas-32b8)
+- [Tecnologia não é custo. É decisão.](https://dev.to/talissondev/tecnologia-nao-e-custo-e-decisao-55bk)
+- [One-Person AI Companies Are the New Arbitrage](https://dev.to/dambilzerian/one-person-ai-companies-are-the-new-arbitrage-4ple)
+- [A beginner’s guide to Instructor: Get Structured Outputs from LLMs](https://dev.to/srujana_maddula_3b6ab05ff/a-beginners-guide-to-instructor-get-structured-outputs-from-llms-3lco)
 <!-- BLOG-POST-LIST:END -->
 
 
