@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is pretty exciting!
-
-https://github.com/matz/spinel](https://dev.to/ben/this-is-pretty-excitinghttpsgithubcommatzspinel-4bjl)
-- [How Scammers Use Automation to Scale Attacks Globally](https://dev.to/james_smith_543/how-scammers-use-automation-to-scale-attacks-globally-1ddp)
-- [Meet octoscope — your GitHub profile, at a glance, in your terminal](https://dev.to/undolog/meet-octoscope-your-github-profile-at-a-glance-in-your-terminal-5fa0)
-- [Stdout vs stderr vs stdin](https://dev.to/hosni_zaaraoui/stdout-vs-stderr-vs-stdin-2fkc)
+- [AI治理最重要的能力：缺乏证据支持时懂得暂停](https://dev.to/senk/aizhi-li-zui-zhong-yao-de-neng-li-hui-ting-xia-er-bu-shi-zhi-wang-qian-chong-1247)
+- [I Built a Chrome Extension That Adds Playback Speed and Picture-in-Picture to Japan&#39;s Free Streaming Service](https://dev.to/_350df62777eb55e1/i-built-a-chrome-extension-that-adds-playback-speed-and-picture-in-picture-to-japans-free-5bbo)
+- [I Built a Multi-LLM Debate Engine That Fact-Checks Itself in Real Time](https://dev.to/suat_cad1c7e9617374be97b2/i-built-a-multi-llm-debate-engine-that-fact-checks-itself-in-real-time-3oib)
+- [Why I built a Zero-Trust Proxy for my AI-controlled Robot 为什么我要为我的 AI 控制机器人构建零信任代理](https://dev.to/loopgap/why-i-built-a-zero-trust-proxy-for-my-ai-controlled-robot-wei-shi-yao-wo-yao-wei-wo-de-ai-kong-zhi-ji-qi-ren-gou-jian-ling-xin-ren-dai-li-55oh)
 <!-- BLOG-POST-LIST:END -->
 
 
