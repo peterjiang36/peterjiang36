@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [keygate: A Fast Pre-Commit Guardrail Against Secret Leaks](https://dev.to/yuichi/keygate-a-fast-pre-commit-guardrail-against-secret-leaks-1i7o)
-- [GPT-5.5 Just Launched: What Changed and Is It Worth It for Indie Hackers?](https://dev.to/devtoolpicks/gpt-55-just-launched-what-changed-and-is-it-worth-it-for-indie-hackers-4590)
-- [Stop Handing Over Your Entire Wallet: DTOs in .NET Explained](https://dev.to/m_orkhan/stop-handing-over-your-entire-wallet-dtos-in-net-explained-1eg8)
-- [Understanding SQL: DDL, DML, and Data Transformation](https://dev.to/victak36lgtm/-understanding-sql-ddl-dml-and-data-transformation-3hkh)
+- [The 60th Attempt: When Your &quot;Knowledge Management&quot; System Becomes a Self-Fulfilling Prophecy of Mediocrity](https://dev.to/kevinten10/the-60th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-hcp)
+- [плавающее оглавление на solidjs](https://dev.to/scumdograscalhouse/plavaiushchieie-oghlavlieniie-na-solidjs-9ce)
+- [Frontend vs Backend: What Should You Learn First?](https://dev.to/pixel_mosaic/frontend-vs-backend-what-should-you-learn-first-3ahi)
+- [Cost Optimization Strategies for Databricks Workloads](https://dev.to/raghav_sharma_0c5d39f61a9/cost-optimization-strategies-for-databricks-workloads-5cm2)
 <!-- BLOG-POST-LIST:END -->
 
 
