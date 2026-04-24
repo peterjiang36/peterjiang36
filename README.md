@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Standup Is Not a Meeting. It&#39;s a Handoff.](https://dev.to/kineticgoods/the-standup-is-not-a-meeting-its-a-handoff-nd6)
-- [How VeilShift™ Works — The Protocol That Bypasses DPI Blocking](https://dev.to/veiloravpn/how-veilshift-works-the-protocol-that-bypasses-dpi-blocking-3c27)
-- [&quot;Beyond Linting: A Data-Driven Approach to Suggesting Better Code, Not Just Flagging Bad Code&quot;](https://dev.to/dimitrisk_cyclopt/beyond-linting-a-data-driven-approach-to-suggesting-better-code-not-just-flagging-bad-code-4l2g)
-- [How I Built a Childcare Availability Platform for 38,000 French Nurseries](https://dev.to/julien786534/how-i-built-a-childcare-availability-platform-for-38000-french-nurseries-26fi)
+- [Mastering Template Literals in JavaScript: Say Goodbye to String Concatenation Nightmares](https://dev.to/ritam369/mastering-template-literals-in-javascript-13a4)
+- [Mở rộng Khả năng Nhập liệu trên macOS với PinDrop](https://dev.to/stelixx-insider/mo-rong-kha-nang-nhap-lieu-tren-macos-voi-pindrop-1c7e)
+- [React Email 6.0, Vercel got hacked, Prevent flash before hydration, Logging in Next.js, shader-lab, TypeScript 7.0, nextmap](https://dev.to/erfanebrahimnia/react-email-60-vercel-got-hacked-prevent-flash-before-hydration-logging-in-nextjs-shader-lab-3425)
+- [How SNF Detects C2 Beacons on Air-Gapped Networks Without Ever Touching the Internet](https://dev.to/shadownf/how-snf-detects-c2-beacons-on-air-gapped-networks-without-ever-touching-the-internet-504n)
 <!-- BLOG-POST-LIST:END -->
 
 
