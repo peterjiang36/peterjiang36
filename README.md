@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [introduction to C: Why the &quot;Latin&quot; of programming Languages still Matters🚀](https://dev.to/aitaj_khudieva_7b6efcecd0/-title-introduction-to-c-why-the-latin-of-programming-languages-still-matters-2mfo)
-- [Process Modeling Using BPMN 2.0 &lpar;Using Visio BPMN Feature&rpar;](https://dev.to/pranay_trivedi_9e2af65696/process-modeling-using-bpmn-20-using-visio-bpmn-feature-kl8)
-- [We scanned 1,764 vibe-coded apps. 453 had critical vulnerabilities. Here&#39;s what we found beyond Supabase RLS.](https://dev.to/stefan_lederer_8b1bbcef01/we-scanned-1764-vibe-coded-apps-453-had-critical-vulnerabilities-heres-what-we-found-beyond-464e)
-- [Adaptadores USB 10 GbE con chip RTL8159: $80 y mitad del tamaño Thunderbolt](https://dev.to/lu1tr0n/adaptadores-usb-10-gbe-con-chip-rtl8159-80-y-mitad-del-tamano-thunderbolt-10pl)
+- [Learn Kubernetes the Manga Way](https://dev.to/aoi/learn-kubernetes-the-manga-way-25of)
+- [AI actually made my tutorial addiction worse](https://dev.to/samareshdas/ai-actually-made-my-tutorial-addiction-worse-5ei7)
+- [Plausible vs Fathom Analytics: Which Fits in 2026?](https://dev.to/juan_diegoisazaa_5362a/plausible-vs-fathom-analytics-which-fits-in-2026-37p4)
+- [N+1 Query Detection and Prevention in Laravel Production Apps](https://dev.to/deploynix/n1-query-detection-and-prevention-in-laravel-production-apps-2lg)
 <!-- BLOG-POST-LIST:END -->
 
 
