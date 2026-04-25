@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Happens When a Query Hits Your WunderGraph Cosmo Supergraph](https://dev.to/jordan_sterchele/what-actually-happens-when-a-query-hits-your-wundergraph-cosmo-supergraph-5fm5)
-- [#1 DevLog Meta-research: I Got Tired of Tab Chaos While Reading Research Papers.](https://dev.to/arhamqureshi/1-devlog-meta-research-i-got-tired-of-tab-chaos-while-reading-research-papers-3alm)
-- [Loading Data From Anywhere &lpar;And Why It Always Breaks the First Time&rpar;](https://dev.to/yakhilesh/loading-data-from-anywhere-and-why-it-always-breaks-the-first-time-5ajo)
-- [Anti-Join in MongoDB](https://dev.to/franckpachot/anti-join-in-mongodb-23eo)
+- [n8n vs Zapier vs Make: Which Automation Tool Should You Actually Use in 2026?](https://dev.to/tariq_osmani/n8n-vs-zapier-vs-make-which-automation-tool-should-you-actually-use-in-2026-531i)
+- [I Made My WhatsApp Predict When My Electricity Will Run Out with Openclaw](https://dev.to/lewisawe/i-made-my-whatsapp-predict-when-my-electricity-will-run-out-with-openclaw-48eh)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-582k)
+- [I Built an Open Source AI Platform to Manage My Diabetes](https://dev.to/jlengelbrecht/i-built-an-open-source-ai-platform-to-manage-my-diabetes-55kg)
 <!-- BLOG-POST-LIST:END -->
 
 
