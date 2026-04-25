@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-hosted CMS with automated SEO, AEO, and browser-based setup](https://dev.to/evgenia_strodt_f8a49a0d71/self-hosted-cms-with-automated-seo-aeo-and-browser-based-setup-1jph)
-- [Escaping Managed Hosting: What Happened When We Migrated a WooCommerce Site to a VPS &lpar;And Got Attacked&rpar;](https://dev.to/muazzami/escaping-managed-hosting-what-happened-when-we-migrated-a-woocommerce-site-to-a-vps-and-got-365m)
-- [Understanding Sizing in CSS Flexbox &lpar;A Practical Guide&rpar;](https://dev.to/topsimpa/understanding-sizing-in-css-flexbox-a-practical-guide-3dk7)
-- [A supervisor-tree library for building predictable and resilient programs](https://dev.to/dilu3100/a-supervisor-tree-library-for-building-predictable-and-resilient-programs-2pm6)
+- [A CNN Grid Encoding for Snake AI That DOUBLES! the Best Published Score](https://dev.to/stat_phantom/a-cnn-grid-encoding-for-snake-ai-that-doubles-the-best-published-score-245p)
+- [Linear Algebra in NumPy: Math With Code](https://dev.to/yakhilesh/linear-algebra-in-numpy-math-with-code-495a)
+- [Anthropic April 23 Postmortem: 3 Confounding Changes Behind Claude Code&#39;s Month-Long Quality Drop](https://dev.to/_46ea277e677b888e0cd13/anthropic-april-23-postmortem-3-confounding-changes-behind-claude-codes-month-long-quality-drop-2pl6)
+- [How to make OpenClaw just work](https://dev.to/angeluz07/how-to-make-openclaw-just-work-2lm1)
 <!-- BLOG-POST-LIST:END -->
 
 
