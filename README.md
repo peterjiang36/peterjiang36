@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Alert Pipeline Dropped Three Weeks of &quot;Unknown&quot; Emails Because a Webhook 403&#39;d](https://dev.to/whoffagents/my-alert-pipeline-dropped-three-weeks-of-unknown-emails-because-a-webhook-403d-48cn)
-- [If You Were in Your Early 20s Again… What Would You Do Differently?](https://dev.to/nish2005karsh/if-you-were-in-your-early-20s-again-what-would-you-do-differently-5402)
-- [Time&#39;s Fingerprint: How AI Finally Learned to Read the Speed of the World](https://dev.to/xoqhdgh1002/times-fingerprint-how-ai-finally-learned-to-read-the-speed-of-the-world-3l0k)
-- [How I built a browser-based IDE as a 12-year-old student &lpar;1 year of work&rpar;](https://dev.to/codingpulse/i-spent-1-year-building-a-fully-featured-online-ide-from-scratch-meet-codingpulse-47gj)
+- [Vercel vs Netlify vs Railway: VPS Hosting Reality](https://dev.to/juan_diegoisazaa_5362a/vercel-vs-netlify-vs-railway-vps-hosting-reality-4e3o)
+- [Transformative AI-Powered Platform Engineering](https://dev.to/luigidifraia/transformative-ai-powered-platform-engineering-2902)
+- [I&#39;m 16 and building a &quot;Chat-to-Edit&quot; AI video tool. Here’s why.](https://dev.to/shivani_1/im-16-and-building-a-chat-to-edit-ai-video-tool-heres-why-agb)
+- [10 Questions Every Non-Technical Founder Should Ask Before Their First Web App Build](https://dev.to/aadesh-kumar/10-questions-every-non-technical-founder-should-ask-before-their-first-web-app-build-34g0)
 <!-- BLOG-POST-LIST:END -->
 
 
