@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent already writes every session to disk. Why isn&#39;t it reading its own archive?](https://dev.to/mcarthey/your-ai-agent-already-writes-every-session-to-disk-why-isnt-it-reading-its-own-archive-2f3h)
-- [A Practical Guide to nylas auth scopes](https://dev.to/qasim157/a-practical-guide-to-nylas-auth-scopes-3fk)
-- [nylas auth token in Practice: Display current API token](https://dev.to/qasim157/nylas-auth-token-in-practice-display-current-api-token-43ph)
-- [Check authentication status — nylas auth status Guide](https://dev.to/qasim157/check-authentication-status-nylas-auth-status-guide-98f)
+- [Self-hosted CMS with automated SEO, AEO, and browser-based setup](https://dev.to/evgenia_strodt_f8a49a0d71/self-hosted-cms-with-automated-seo-aeo-and-browser-based-setup-1jph)
+- [Escaping Managed Hosting: What Happened When We Migrated a WooCommerce Site to a VPS &lpar;And Got Attacked&rpar;](https://dev.to/muazzami/escaping-managed-hosting-what-happened-when-we-migrated-a-woocommerce-site-to-a-vps-and-got-365m)
+- [Understanding Sizing in CSS Flexbox &lpar;A Practical Guide&rpar;](https://dev.to/topsimpa/understanding-sizing-in-css-flexbox-a-practical-guide-3dk7)
+- [A supervisor-tree library for building predictable and resilient programs](https://dev.to/dilu3100/a-supervisor-tree-library-for-building-predictable-and-resilient-programs-2pm6)
 <!-- BLOG-POST-LIST:END -->
 
 
