@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Kubernetes the Manga Way](https://dev.to/aoi/learn-kubernetes-the-manga-way-25of)
-- [AI actually made my tutorial addiction worse](https://dev.to/samareshdas/ai-actually-made-my-tutorial-addiction-worse-5ei7)
-- [Plausible vs Fathom Analytics: Which Fits in 2026?](https://dev.to/juan_diegoisazaa_5362a/plausible-vs-fathom-analytics-which-fits-in-2026-37p4)
-- [N+1 Query Detection and Prevention in Laravel Production Apps](https://dev.to/deploynix/n1-query-detection-and-prevention-in-laravel-production-apps-2lg)
+- [DeepSeek V4 核爆之后：开源 AI 真的在颠覆市场，还是只是泡沫？](https://dev.to/_cbd692d476c5faf3b61bcf/deepseek-v4-he-bao-zhi-hou-kai-yuan-ai-zhen-de-zai-dian-fu-shi-chang-huan-shi-zhi-shi-pao-mo--l4n)
+- [Google Cloud NEXT &#39;26: A FULL STACK Developer’s Take on Cloud Run &amp; AI](https://dev.to/syedahmershah/google-cloud-next-26-a-full-stack-developers-take-on-cloud-run-ai-37fl)
+- [What Is Mascot Engine? A Practical System for Building Interactive AI Mascots in Real Products](https://dev.to/uianimation/what-is-mascot-engine-a-practical-system-for-building-interactive-ai-mascots-in-real-products-26em)
+- [Screening Opportunities](https://dev.to/towernter/screening-opportunities-4g72)
 <!-- BLOG-POST-LIST:END -->
 
 
