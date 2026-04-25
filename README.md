@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Fixed 5 Chained AI Bugs in My Sales Chatbot — Each Solution Revealed the Next Problem](https://dev.to/alimafana/i-fixed-5-chained-ai-bugs-in-my-sales-chatbot-each-solution-revealed-the-next-problem-5fjh)
-- [Showing my Notion onboarding flow; would love feedback](https://dev.to/ahmedateffekt/showing-my-notion-onboarding-flow-would-love-feedback-3o91)
-- [The Future of API Payments: How AI Agents Pay for Services with x402 Protocol](https://dev.to/walletguy/the-future-of-api-payments-how-ai-agents-pay-for-services-with-x402-protocol-48oc)
-- [Detecting Greenwashing at Scale: Building an EU Green Claims Compliance Checker](https://dev.to/julien786534/detecting-greenwashing-at-scale-building-an-eu-green-claims-compliance-checker-1f0i)
+- [How Blade&#39;s @context directive broke our JSON-LD](https://dev.to/gaijinanime_a0c580c5a205f/how-blades-context-directive-broke-our-json-ld-2976)
+- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
+- [MCP + gRPC: The Missing Piece for Production-Ready AI Agents &lpar;No More JSON Pain!&rpar;](https://dev.to/akshitzatakia/mcp-grpc-the-missing-piece-for-production-ready-ai-agents-no-more-json-pain-4gah)
+- [Your Solana Address Is Actually Your SSH Key: Understanding On-Chain Identity](https://dev.to/lymah/your-solana-address-is-actually-your-ssh-key-understanding-on-chain-identity-a7h)
 <!-- BLOG-POST-LIST:END -->
 
 
