@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n vs Zapier vs Make: Which Automation Tool Should You Actually Use in 2026?](https://dev.to/tariq_osmani/n8n-vs-zapier-vs-make-which-automation-tool-should-you-actually-use-in-2026-531i)
-- [I Made My WhatsApp Predict When My Electricity Will Run Out with Openclaw](https://dev.to/lewisawe/i-made-my-whatsapp-predict-when-my-electricity-will-run-out-with-openclaw-48eh)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-582k)
-- [I Built an Open Source AI Platform to Manage My Diabetes](https://dev.to/jlengelbrecht/i-built-an-open-source-ai-platform-to-manage-my-diabetes-55kg)
+- [How to Build a Production-Ready Registration System Without a Backend &lpar;Using HosteDay API&rpar;](https://dev.to/mustafa3max/how-to-build-a-production-ready-registration-system-without-a-backend-using-hosteday-api-30f7)
+- [Code In, Cluster Out: Building Reproducible Edge Kubernetes with NixOS, K3s, and Forgejo](https://dev.to/ces0712/code-in-cluster-out-building-reproducible-edge-kubernetes-with-nixos-k3s-and-forgejo-i08)
+- [AI security monitoring at scale: one LLM call, every dashboard](https://dev.to/heath_mcintyre_dea31db820/ai-security-monitoring-at-scale-one-llm-call-every-dashboard-5fep)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-3ode)
 <!-- BLOG-POST-LIST:END -->
 
 
