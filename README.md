@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming MCPs, Skills, and Agent Chaos with ToolHive](https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e)
-- [Self-Improving Python Scripts with LLMs: My Journey](https://dev.to/rtt_enjoy_321ecb2d475c379/self-improving-python-scripts-with-llms-my-journey-1ma5)
-- [CodeGuard: Open Source AI Security Scanner for Developers and SecOps Teams](https://dev.to/collins73/codeguard-open-source-ai-security-scanner-for-developers-and-secops-teams-4g58)
-- [I built a competitor pricing monitor in 3 days, here&#39;s how it actually works](https://dev.to/erramix01/i-built-a-competitor-pricing-monitor-in-3-days-heres-how-it-actually-works-1mg7)
+- [AI, Language, and the Guilt We Don’t Need](https://dev.to/baddocsbuildbettercareer/ai-language-and-the-guilt-we-dont-need-4c0j)
+- [I built a shields.io alternative that renders badges as shadcn/ui buttons](https://dev.to/jal-co/i-built-a-shieldsio-alternative-that-renders-badges-as-shadcnui-buttons-4bhn)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-4ocn)
+- [Hijacking OpenClaw with Claude](https://dev.to/siren/hijacking-openclaw-with-claude-49dg)
 <!-- BLOG-POST-LIST:END -->
 
 
