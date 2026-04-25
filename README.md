@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TB-500: The &#39;Repair Peptide&#39; That Either Directs Your Cell&#39;s Construction Crew or Sends Them on a Coffee Break](https://dev.to/rapidcore_bio_e9d4eb17684/tb-500-the-repair-peptide-that-either-directs-your-cells-construction-crew-or-sends-them-on-a-1j9f)
-- [🔑 From Usernames to Keypairs: Understanding Identity on Solana](https://dev.to/blackat/from-usernames-to-keypairs-understanding-identity-on-solana-472p)
-- [[EN] Best Practices for Managing Secrets in Kubernetes](https://dev.to/cedon/en-best-practices-for-managing-secrets-in-kubernetes-4g18)
-- [PR Review Time Is Up 441% — The Real Cost of AI-Accelerated Development](https://dev.to/code-board/pr-review-time-is-up-441-the-real-cost-of-ai-accelerated-development-1ho6)
+- [A reader comment made me realise I&#39;d only solved half the problem](https://dev.to/krissv/a-reader-comment-made-me-realise-id-only-solved-half-the-problem-3cpg)
+- [Tian AI Self-Evolution: Code Modification Engine](https://dev.to/3969129510/tian-ai-self-evolution-code-modification-engine-2ig9)
+- [Tian AI Autonomous Agents: Task Scheduling with LLM](https://dev.to/3969129510/tian-ai-autonomous-agents-task-scheduling-with-llm-2mpb)
+- [From JSON to TypeScript: Five Ways to Stop Hand-Writing Interfaces](https://dev.to/helloashish99/from-json-to-typescript-five-ways-to-stop-hand-writing-interfaces-3bm5)
 <!-- BLOG-POST-LIST:END -->
 
 
