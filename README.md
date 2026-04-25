@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Struct is Wasting Memory and You Don&#39;t Know It](https://dev.to/dharrsan-hq/your-struct-is-wasting-memory-and-you-dont-know-it-12m)
-- [How to Use GPT 5.5 for Agentic Coding](https://dev.to/agent-one/how-to-use-gpt-55-for-agentic-coding-2o8e)
-- [The Apify Actor Execution Lifecycle: 8 Decision Engines](https://dev.to/apify_forge/the-apify-actor-execution-lifecycle-8-decision-engines-3dm4)
-- [The Meeting That Tested Your Patience](https://dev.to/kineticgoods/the-meeting-that-tested-your-patience-2j18)
+- [Your AI agent already writes every session to disk. Why isn&#39;t it reading its own archive?](https://dev.to/mcarthey/your-ai-agent-already-writes-every-session-to-disk-why-isnt-it-reading-its-own-archive-2f3h)
+- [A Practical Guide to nylas auth scopes](https://dev.to/qasim157/a-practical-guide-to-nylas-auth-scopes-3fk)
+- [nylas auth token in Practice: Display current API token](https://dev.to/qasim157/nylas-auth-token-in-practice-display-current-api-token-43ph)
+- [Check authentication status — nylas auth status Guide](https://dev.to/qasim157/check-authentication-status-nylas-auth-status-guide-98f)
 <!-- BLOG-POST-LIST:END -->
 
 
