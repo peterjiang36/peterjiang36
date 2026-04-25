@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A CNN Grid Encoding for Snake AI That DOUBLES! the Best Published Score](https://dev.to/stat_phantom/a-cnn-grid-encoding-for-snake-ai-that-doubles-the-best-published-score-245p)
-- [Linear Algebra in NumPy: Math With Code](https://dev.to/yakhilesh/linear-algebra-in-numpy-math-with-code-495a)
-- [Anthropic April 23 Postmortem: 3 Confounding Changes Behind Claude Code&#39;s Month-Long Quality Drop](https://dev.to/_46ea277e677b888e0cd13/anthropic-april-23-postmortem-3-confounding-changes-behind-claude-codes-month-long-quality-drop-2pl6)
-- [How to make OpenClaw just work](https://dev.to/angeluz07/how-to-make-openclaw-just-work-2lm1)
+- [My Alert Pipeline Dropped Three Weeks of &quot;Unknown&quot; Emails Because a Webhook 403&#39;d](https://dev.to/whoffagents/my-alert-pipeline-dropped-three-weeks-of-unknown-emails-because-a-webhook-403d-48cn)
+- [If You Were in Your Early 20s Again… What Would You Do Differently?](https://dev.to/nish2005karsh/if-you-were-in-your-early-20s-again-what-would-you-do-differently-5402)
+- [Time&#39;s Fingerprint: How AI Finally Learned to Read the Speed of the World](https://dev.to/xoqhdgh1002/times-fingerprint-how-ai-finally-learned-to-read-the-speed-of-the-world-3l0k)
+- [How I built a browser-based IDE as a 12-year-old student &lpar;1 year of work&rpar;](https://dev.to/codingpulse/i-spent-1-year-building-a-fully-featured-online-ide-from-scratch-meet-codingpulse-47gj)
 <!-- BLOG-POST-LIST:END -->
 
 
