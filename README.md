@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Production-Ready Registration System Without a Backend &lpar;Using HosteDay API&rpar;](https://dev.to/mustafa3max/how-to-build-a-production-ready-registration-system-without-a-backend-using-hosteday-api-30f7)
-- [Code In, Cluster Out: Building Reproducible Edge Kubernetes with NixOS, K3s, and Forgejo](https://dev.to/ces0712/code-in-cluster-out-building-reproducible-edge-kubernetes-with-nixos-k3s-and-forgejo-i08)
-- [AI security monitoring at scale: one LLM call, every dashboard](https://dev.to/heath_mcintyre_dea31db820/ai-security-monitoring-at-scale-one-llm-call-every-dashboard-5fep)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-3ode)
+- [Saying &quot;No&quot; Is the Hardest Thing for an LLM — FCoP Gives It Grammar](https://dev.to/joinwell52/saying-no-is-the-hardest-thing-for-an-llm-fcop-gives-it-grammar-3ccd)
+- [Launching a Windows Server on AWS EC2](https://dev.to/ikoh_sylva/launching-a-windows-server-on-aws-ec2-1kfj)
+- [Curated list of Dev Events April-May 2026 - Update](https://dev.to/workaccount-devrel-serious/curated-list-of-dev-events-april-may-2026-update-3pep)
+- [AI saved a company $500k. The test suite did the actual work.](https://dev.to/adioof/ai-saved-a-company-500k-the-test-suite-did-the-actual-work-308l)
 <!-- BLOG-POST-LIST:END -->
 
 
