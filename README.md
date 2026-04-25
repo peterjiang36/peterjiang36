@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI, Language, and the Guilt We Don’t Need](https://dev.to/baddocsbuildbettercareer/ai-language-and-the-guilt-we-dont-need-4c0j)
-- [I built a shields.io alternative that renders badges as shadcn/ui buttons](https://dev.to/jal-co/i-built-a-shieldsio-alternative-that-renders-badges-as-shadcnui-buttons-4bhn)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-4ocn)
-- [Hijacking OpenClaw with Claude](https://dev.to/siren/hijacking-openclaw-with-claude-49dg)
+- [Confident and Wrong: We Tested 17 AI Models on Questions a Middle Schooler Could Answer](https://dev.to/samullinsjr/confident-and-wrong-we-tested-17-ai-models-on-questions-a-middle-schooler-could-answer-3in7)
+- [Screenshot Diffing: Pixel-Level Comparison Techniques](https://dev.to/dennis-ddev/screenshot-diffing-pixel-level-comparison-techniques-18k)
+- [From research to innovation: How I used Google AI /Gemini to Design a Zero-Carbon AI Data Center with Sand Battery Storage](https://dev.to/staykova/from-research-to-innovation-how-i-used-google-ai-gemini-to-design-a-zero-carbon-ai-data-center-5a51)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2pd2)
 <!-- BLOG-POST-LIST:END -->
 
 
