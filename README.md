@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Transactional Email Provider: How to Choose](https://dev.to/juan_diegoisazaa_5362a/best-transactional-email-provider-how-to-choose-3749)
-- [AeroCraft: Less CSS, Faster UI Delivery](https://dev.to/john_yaghobieh_8f294091f6/aerocraft-less-css-faster-ui-delivery-3043)
-- [Your Pipeline Is 14.2h Behind: Catching Blockchain Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-142h-behind-catching-blockchain-sentiment-leads-with-pulsebit-hll)
-- [From factory worker to 2,000+ installs - what actually worked](https://dev.to/mahere_marley_25462f7cf9e/from-factory-worker-to-2000-installs-what-actually-worked-4ng3)
+- [TB-500: The &#39;Repair Peptide&#39; That Either Directs Your Cell&#39;s Construction Crew or Sends Them on a Coffee Break](https://dev.to/rapidcore_bio_e9d4eb17684/tb-500-the-repair-peptide-that-either-directs-your-cells-construction-crew-or-sends-them-on-a-1j9f)
+- [🔑 From Usernames to Keypairs: Understanding Identity on Solana](https://dev.to/blackat/from-usernames-to-keypairs-understanding-identity-on-solana-472p)
+- [[EN] Best Practices for Managing Secrets in Kubernetes](https://dev.to/cedon/en-best-practices-for-managing-secrets-in-kubernetes-4g18)
+- [PR Review Time Is Up 441% — The Real Cost of AI-Accelerated Development](https://dev.to/code-board/pr-review-time-is-up-441-the-real-cost-of-ai-accelerated-development-1ho6)
 <!-- BLOG-POST-LIST:END -->
 
 
