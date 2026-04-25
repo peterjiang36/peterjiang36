@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel vs Netlify vs Railway: VPS Hosting Reality](https://dev.to/juan_diegoisazaa_5362a/vercel-vs-netlify-vs-railway-vps-hosting-reality-4e3o)
-- [Transformative AI-Powered Platform Engineering](https://dev.to/luigidifraia/transformative-ai-powered-platform-engineering-2902)
-- [I&#39;m 16 and building a &quot;Chat-to-Edit&quot; AI video tool. Here’s why.](https://dev.to/shivani_1/im-16-and-building-a-chat-to-edit-ai-video-tool-heres-why-agb)
-- [10 Questions Every Non-Technical Founder Should Ask Before Their First Web App Build](https://dev.to/aadesh-kumar/10-questions-every-non-technical-founder-should-ask-before-their-first-web-app-build-34g0)
+- [Why fixing &#39;Direct/None&#39; alone won&#39;t reduce GA4&#39;s &#39;unknown traffic&#39;](https://dev.to/toshihiro_shishido/why-fixing-directnone-alone-wont-reduce-ga4s-unknown-traffic-43cd)
+- [Continuous monitoring caught a credential leak in a published MCP package. Six republishes later, it is still there.](https://dev.to/michael_onyekwere/continuous-monitoring-caught-a-credential-leak-in-a-published-mcp-package-six-republishes-later-3app)
+- [Bypass Netflix&#39;s Household Verification](https://dev.to/hellodevto/bypass-netflixs-household-verification-13cf)
+- [Azure ML Pipelines + Azure DevOps: CI/CD for ML with Terraform 🔁](https://dev.to/suhas_mallesh/azure-ml-pipelines-azure-devops-cicd-for-ml-with-terraform-16oo)
 <!-- BLOG-POST-LIST:END -->
 
 
