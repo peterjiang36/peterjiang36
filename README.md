@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever](https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855)
-- [Silicon Valley Builds for One Time Zone. I Built My Own Way In.](https://dev.to/jaayy213/silicon-valley-builds-for-one-time-zone-i-built-my-own-way-in-3a7l)
-- [Is AI Changing the Future of Developers? &lpar;Spoiler: It’s Not the End It’s the Upgrade&rpar;](https://dev.to/kashafabdullah/is-ai-changing-the-future-of-developers-spoiler-its-not-the-end-its-the-upgrade-809)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-jk0)
+- [Taming MCPs, Skills, and Agent Chaos with ToolHive](https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e)
+- [Self-Improving Python Scripts with LLMs: My Journey](https://dev.to/rtt_enjoy_321ecb2d475c379/self-improving-python-scripts-with-llms-my-journey-1ma5)
+- [CodeGuard: Open Source AI Security Scanner for Developers and SecOps Teams](https://dev.to/collins73/codeguard-open-source-ai-security-scanner-for-developers-and-secops-teams-4g58)
+- [I built a competitor pricing monitor in 3 days, here&#39;s how it actually works](https://dev.to/erramix01/i-built-a-competitor-pricing-monitor-in-3-days-heres-how-it-actually-works-1mg7)
 <!-- BLOG-POST-LIST:END -->
 
 
