@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Blade&#39;s @context directive broke our JSON-LD](https://dev.to/gaijinanime_a0c580c5a205f/how-blades-context-directive-broke-our-json-ld-2976)
-- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
-- [MCP + gRPC: The Missing Piece for Production-Ready AI Agents &lpar;No More JSON Pain!&rpar;](https://dev.to/akshitzatakia/mcp-grpc-the-missing-piece-for-production-ready-ai-agents-no-more-json-pain-4gah)
-- [Your Solana Address Is Actually Your SSH Key: Understanding On-Chain Identity](https://dev.to/lymah/your-solana-address-is-actually-your-ssh-key-understanding-on-chain-identity-a7h)
+- [What Actually Happens When a Query Hits Your WunderGraph Cosmo Supergraph](https://dev.to/jordan_sterchele/what-actually-happens-when-a-query-hits-your-wundergraph-cosmo-supergraph-5fm5)
+- [#1 DevLog Meta-research: I Got Tired of Tab Chaos While Reading Research Papers.](https://dev.to/arhamqureshi/1-devlog-meta-research-i-got-tired-of-tab-chaos-while-reading-research-papers-3alm)
+- [Loading Data From Anywhere &lpar;And Why It Always Breaks the First Time&rpar;](https://dev.to/yakhilesh/loading-data-from-anywhere-and-why-it-always-breaks-the-first-time-5ajo)
+- [Anti-Join in MongoDB](https://dev.to/franckpachot/anti-join-in-mongodb-23eo)
 <!-- BLOG-POST-LIST:END -->
 
 
