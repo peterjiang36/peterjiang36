@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A reader comment made me realise I&#39;d only solved half the problem](https://dev.to/krissv/a-reader-comment-made-me-realise-id-only-solved-half-the-problem-3cpg)
-- [Tian AI Self-Evolution: Code Modification Engine](https://dev.to/3969129510/tian-ai-self-evolution-code-modification-engine-2ig9)
-- [Tian AI Autonomous Agents: Task Scheduling with LLM](https://dev.to/3969129510/tian-ai-autonomous-agents-task-scheduling-with-llm-2mpb)
-- [From JSON to TypeScript: Five Ways to Stop Hand-Writing Interfaces](https://dev.to/helloashish99/from-json-to-typescript-five-ways-to-stop-hand-writing-interfaces-3bm5)
+- [I Fixed 5 Chained AI Bugs in My Sales Chatbot — Each Solution Revealed the Next Problem](https://dev.to/alimafana/i-fixed-5-chained-ai-bugs-in-my-sales-chatbot-each-solution-revealed-the-next-problem-5fjh)
+- [Showing my Notion onboarding flow; would love feedback](https://dev.to/ahmedateffekt/showing-my-notion-onboarding-flow-would-love-feedback-3o91)
+- [The Future of API Payments: How AI Agents Pay for Services with x402 Protocol](https://dev.to/walletguy/the-future-of-api-payments-how-ai-agents-pay-for-services-with-x402-protocol-48oc)
+- [Detecting Greenwashing at Scale: Building an EU Green Claims Compliance Checker](https://dev.to/julien786534/detecting-greenwashing-at-scale-building-an-eu-green-claims-compliance-checker-1f0i)
 <!-- BLOG-POST-LIST:END -->
 
 
