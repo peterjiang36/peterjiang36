@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Saying &quot;No&quot; Is the Hardest Thing for an LLM — FCoP Gives It Grammar](https://dev.to/joinwell52/saying-no-is-the-hardest-thing-for-an-llm-fcop-gives-it-grammar-3ccd)
-- [Launching a Windows Server on AWS EC2](https://dev.to/ikoh_sylva/launching-a-windows-server-on-aws-ec2-1kfj)
-- [Curated list of Dev Events April-May 2026 - Update](https://dev.to/workaccount-devrel-serious/curated-list-of-dev-events-april-may-2026-update-3pep)
-- [AI saved a company $500k. The test suite did the actual work.](https://dev.to/adioof/ai-saved-a-company-500k-the-test-suite-did-the-actual-work-308l)
+- [⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever](https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855)
+- [Silicon Valley Builds for One Time Zone. I Built My Own Way In.](https://dev.to/jaayy213/silicon-valley-builds-for-one-time-zone-i-built-my-own-way-in-3a7l)
+- [Is AI Changing the Future of Developers? &lpar;Spoiler: It’s Not the End It’s the Upgrade&rpar;](https://dev.to/kashafabdullah/is-ai-changing-the-future-of-developers-spoiler-its-not-the-end-its-the-upgrade-809)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-jk0)
 <!-- BLOG-POST-LIST:END -->
 
 
