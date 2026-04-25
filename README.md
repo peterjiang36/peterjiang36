@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 Selenium with Python: A Practical Cheat Sheet for Modern Test Automation](https://dev.to/gaya3bollineni/selenium-with-python-a-practical-cheat-sheet-for-modern-test-automation-57nf)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-29cf)
-- [Giving AI Agents Database Access Is Way Harder Than It Looks](https://dev.to/spencerpauly/giving-ai-agents-database-access-is-way-harder-than-it-looks-5akg)
-- [How Google Cloud NEXT &#39;26 Makes Building Full Stack Apps &lpar;Flutter + AI&rpar; Way Easier](https://dev.to/builddastaan/how-google-cloud-next-26-makes-building-full-stack-apps-flutter-ai-way-easier-3eh3)
+- [Your Struct is Wasting Memory and You Don&#39;t Know It](https://dev.to/dharrsan-hq/your-struct-is-wasting-memory-and-you-dont-know-it-12m)
+- [How to Use GPT 5.5 for Agentic Coding](https://dev.to/agent-one/how-to-use-gpt-55-for-agentic-coding-2o8e)
+- [The Apify Actor Execution Lifecycle: 8 Decision Engines](https://dev.to/apify_forge/the-apify-actor-execution-lifecycle-8-decision-engines-3dm4)
+- [The Meeting That Tested Your Patience](https://dev.to/kineticgoods/the-meeting-that-tested-your-patience-2j18)
 <!-- BLOG-POST-LIST:END -->
 
 
