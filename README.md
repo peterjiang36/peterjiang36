@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [angling text fill](https://dev.to/preetha_vaishnavi_2b82358/angling-text-fill-3ej6)
-- [JWT Auth Middleware in Axum 0.8 — A Beginner&#39;s Guide](https://dev.to/syeedmdtalha/jwt-auth-middleware-in-axum-08-a-beginners-guide-2kc1)
-- [I built ssmctl because AWS SSM deserved a better user experience](https://dev.to/rhysmcneill/i-built-ssmctl-because-aws-ssm-deserved-a-better-user-experience-29e6)
-- [Topaz Video 1.3.1 Cracked for macOS](https://dev.to/nazm_veer_d324fa408cedbd4/topaz-video-131-cracked-for-macos-3k9j)
+- [Invincat: A CLI agent with structured, tiered memory governance for long-term engineering collaboration](https://dev.to/dogqiuqiu_9d49c09779ead05/invincat-a-cli-agent-with-structured-tiered-memory-governance-for-long-term-engineering-328p)
+- [How SSH Works—and How It Breaks &lpar;Part 2&rpar;: Simulating a Man-in-the-Middle Attack](https://dev.to/jodaut/how-ssh-works-and-how-it-breaks-part-2-simulating-a-man-in-the-middle-attack-iod)
+- [🦞 Deploying OpenClaw in 2026: The Complete Security &amp; Privacy Guide &lpar;macOS, Windows, Linux&rpar;](https://dev.to/samir_vaniya_ce9cc284f2f8/deploying-openclaw-in-2026-the-complete-security-privacy-guide-macos-windows-linux-4798)
+- [🕵️‍♂️ How Computers &quot;Hide&quot; a Minus Sign: The 2&#39;s Complement Trick](https://dev.to/laiba_90/how-computers-hide-a-minus-sign-the-2s-complement-trick-38f0)
 <!-- BLOG-POST-LIST:END -->
 
 
