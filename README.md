@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 83 of 100 Days Of Code — CRUD Backend + API Routes in Flask](https://dev.to/m_saad_ahmad/day-83-of-100-days-of-code-crud-backend-api-routes-in-flask-3369)
-- [OpenClaw - Here&#39;s the best setup guide you&#39;ll ever need.](https://dev.to/paimon_573760ccaa1b3492b4/openclaw-heres-the-best-setup-guide-youll-ever-need-23ee)
-- [Your Guide Into the Development World: A Roadmap for Absolute Beginners](https://dev.to/oketch/your-guide-into-the-development-world-a-roadmap-for-absolute-beginners-5fh6)
-- [ROAS 100% is not the breakeven point — what most ad reports get wrong](https://dev.to/toshihiro_shishido/roas-100-is-not-the-breakeven-point-what-most-ad-reports-get-wrong-2oed)
+- [Why Diff Tools Lie: Detecting Hidden File Changes with PowerShell Hash Verification](https://dev.to/shadowstrike/why-diff-tools-lie-detecting-hidden-file-changes-with-powershell-hash-verification-10ak)
+- [Forget Chatbots: The Rise of Autonomous AI Agents is the Real 2026 Breakthrough](https://dev.to/vinodkumarjaipal/forget-chatbots-the-rise-of-autonomous-ai-agents-is-the-real-2026-breakthrough-5gb8)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 5 - Container Scanning with Trivy](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-5-container-scanning-with-1g6a)
+- [AI Told Him to Come Home](https://dev.to/rawveg/ai-told-him-to-come-home-51in)
 <!-- BLOG-POST-LIST:END -->
 
 
