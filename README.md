@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Watched Google Cloud NEXT &#39;26 ~ Here Is What Actually Matters for Developers](https://dev.to/aniruddhaadak/i-watched-google-cloud-next-26-so-you-dont-have-to-here-is-what-actually-matters-for-developers-54h6)
-- [AI agents are opaque. Jaeger v2 + OTel GenAI conventions are the fix.](https://dev.to/thegatewayguy/ai-agents-are-opaque-jaeger-v2-otel-genai-conventions-are-the-fix-48b8)
-- [4 Practical Boto3 Scripts for S3 Every DevOps Engineer Should Know](https://dev.to/zubairakbar/4-practical-boto3-scripts-for-s3-every-devops-engineer-should-know-4m27)
-- [👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API](https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d)
+- [The Bulletproof FastAPI Stack](https://dev.to/sreeraj_sreenivasan_2b932/the-bulletproof-fastapi-stack-52md)
+- [How to Unlock Local Inference in the Google Gemini SDK &lpar;Without Forking&rpar;](https://dev.to/agustinsacco/how-to-unlock-local-inference-in-the-google-gemini-sdk-without-forking-5ago)
+- [Syncing the Real Market: Consuming Brapi and Feeding Redis with Spring Boot](https://dev.to/rvneto/syncing-the-real-market-consuming-brapi-and-feeding-redis-with-spring-boot-1jdm)
+- [OpenClaw on AWS for Beginners: How To Build An AI Agent That Deploys Your WordPress Multisite in Minutes With Just Three Services](https://dev.to/aws-builders/openclaw-on-aws-for-beginners-how-to-build-an-ai-agent-that-deploys-your-wordpress-multisite-in-abm)
 <!-- BLOG-POST-LIST:END -->
 
 
