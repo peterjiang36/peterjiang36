@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Diff Tools Lie: Detecting Hidden File Changes with PowerShell Hash Verification](https://dev.to/shadowstrike/why-diff-tools-lie-detecting-hidden-file-changes-with-powershell-hash-verification-10ak)
-- [Forget Chatbots: The Rise of Autonomous AI Agents is the Real 2026 Breakthrough](https://dev.to/vinodkumarjaipal/forget-chatbots-the-rise-of-autonomous-ai-agents-is-the-real-2026-breakthrough-5gb8)
-- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 5 - Container Scanning with Trivy](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-5-container-scanning-with-1g6a)
-- [AI Told Him to Come Home](https://dev.to/rawveg/ai-told-him-to-come-home-51in)
+- [Building ASSISTLY: Integrating MongoDB into an AI Community Care Platform](https://dev.to/saimanoharigodavarty/building-assistly-integrating-mongodb-into-an-ai-community-care-platform-3ebi)
+- [My Harness Is Not a Cage. It&#39;s an Org Chart.](https://dev.to/synthaicode_commander/my-harness-is-not-a-cage-its-an-org-chart-3gl1)
+- [Micro-frontends with AI - it solves everything](https://dev.to/martindanielson/micro-frontends-with-ai-it-solves-everything-fo8)
+- [From HTTP Chaos to Kafka: How We Fixed Inter-Service Communication in a NestJS Microservices Platform](https://dev.to/riteshmacwan/from-http-chaos-to-kafka-how-we-fixed-inter-service-communication-in-a-nestjs-microservices-c46)
 <!-- BLOG-POST-LIST:END -->
 
 
