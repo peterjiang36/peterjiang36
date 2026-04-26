@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Discord Group Accessed a Restricted AI That Finds Zero-Day Bugs -Here’s How It Happened](https://dev.to/dravidpa7/a-discord-group-accessed-a-restricted-ai-that-finds-zero-day-bugs-heres-how-it-happened-529m)
-- [ntop vs Commercial Traffic Analyzers: When Free Tools Hit Their Limits](https://dev.to/anatraf_482389aa982e/ntop-vs-commercial-traffic-analyzers-when-free-tools-hit-their-limits-34k9)
-- [How a 3-Location Dental Group Doubled Patients, and What It Teaches Us About How to Grow a Restaurant Chain Without a Big Marketing Budget](https://dev.to/__oddmodish/how-a-3-location-dental-group-doubled-patients-and-what-it-teaches-us-about-how-to-grow-a-28fo)
-- [80% of AI Projects in Banks Fail - Here’s Why &lpar;And How We Fixed It&rpar;](https://dev.to/swapneswar_sundarray/80-of-ai-projects-in-banks-fail-heres-why-and-how-we-fixed-it-5bab)
+- [Writing Testable Code: Common Anti-Patterns and How to Fix Them](https://dev.to/markadel/writing-testable-code-common-anti-patterns-and-how-to-fix-them-5aig)
+- [How We Built Agent Observability at 100K Events/Sec](https://dev.to/aishiteru/how-we-built-agent-observability-at-100k-eventssec-pa1)
+- [ORMs: ¿solución o problemas en puerta?](https://dev.to/fabio_sierrocartolano_9f/orms-solucion-o-problemas-en-puerta-24f7)
+- [Whop App vs SaaS vs License Keys — Which Integration Should You Build?](https://dev.to/jordan_sterchele/whop-app-vs-saas-vs-license-keys-which-integration-should-you-build-25ea)
 <!-- BLOG-POST-LIST:END -->
 
 
