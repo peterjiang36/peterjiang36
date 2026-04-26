@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain Deep Research Retriever Pattern](https://dev.to/mario_wu_eeaee9e5d5c942b8/langchain-deep-research-retriever-pattern-33h7)
-- [Second Brain Method Explained for SaaS Productivity](https://dev.to/juan_diegoisazaa_5362a/second-brain-method-explained-for-saas-productivity-6pj)
-- [Cline MCP Search Tutorial](https://dev.to/mario_wu_eeaee9e5d5c942b8/cline-mcp-search-tutorial-144a)
-- [新作パズル「LOOP」をバズらせろ！](https://dev.to/harumasa_matsushita/xin-zuo-pazuruloop-wobazurasero-3623)
+- [Your agent isn&#39;t flaky. You&#39;re blind.](https://dev.to/anshss/your-agent-isnt-flaky-youre-blind-4pk3)
+- [The Best AI Feature for Backend Developers Is a Resolution Loop](https://dev.to/rapidkit/the-best-ai-feature-for-backend-developers-is-a-resolution-loop-4gh3)
+- [The Beginning of the Era of the Knowledge Navigator?](https://dev.to/william_gilreath_16e7ae9c/the-beginning-of-the-era-of-the-knowledge-navigator-oj)
+- [4 live products, $1.85 spent, 1 PayPal termination: Niixo Labs Day 1](https://dev.to/niixolabs/4-live-products-185-spent-1-paypal-termination-niixo-labs-day-1-46ag)
 <!-- BLOG-POST-LIST:END -->
 
 
