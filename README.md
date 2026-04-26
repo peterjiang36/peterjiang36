@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deocstruzione dello Stack Media di Pinterest: Costruire un Motore di Estrazione Asincrono ad Alte Prestazioni](https://dev.to/yqqwe/deocstruzione-dello-stack-media-di-pinterest-costruire-un-motore-di-estrazione-asincrono-ad-alte-1d8e)
-- [Setting Up Docker CI for Rust with cargo-dist](https://dev.to/wheynelau/setting-up-docker-ci-for-rust-with-cargo-dist-36nn)
-- [From Writing Code to Building a QA Mindset](https://dev.to/enayet_rashid_bd/from-writing-code-to-building-a-qa-mindset-2728)
-- [How we use Django and MongoDB in Energy AI - a unified Python web app for adaptive conversational AI](https://dev.to/harshith_varma_k/how-we-use-django-and-mongodb-in-energy-ai-a-unified-python-web-app-for-adaptive-conversational-ai-2545)
+- [I got tired of searching my shell history, so I built QuickRun.](https://dev.to/paraaa/i-got-tired-of-searching-my-shell-history-so-i-built-quickrun-2gn4)
+- [Google Cloud NEXT &#39;26 Shipped a Full Agentic Stack. One Layer Is Missing.](https://dev.to/onchainaiintel/google-cloud-next-26-shipped-a-full-agentic-stack-one-layer-is-missing-ni0)
+- [7 Transaction Types Your AI Agent Can Execute: From Transfers to Contract Deployment](https://dev.to/walletguy/7-transaction-types-your-ai-agent-can-execute-from-transfers-to-contract-deployment-3p7g)
+- [AI Tools Ranked &lpar;Best to Worst&rpar; by Real-World Impact](https://dev.to/swapneswar_sundarray/ai-tools-ranked-best-to-worst-by-real-world-impact-42j0)
 <!-- BLOG-POST-LIST:END -->
 
 
