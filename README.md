@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript: Handling Large Files in the Browser. Part 1/2: Reading Large Files](https://dev.to/alexboyko/javascript-handling-large-files-in-the-browser-part-12-reading-large-files-4077)
-- [SLSA Deep Dive: Securing the Supply Chain Using Verifiable Levels](https://dev.to/kanywst/slsa-deep-dive-securing-the-supply-chain-using-verifiable-levels-klk)
-- [When the AI Learns to See and Think at the Same Time](https://dev.to/xoqhdgh1002/when-the-ai-learns-to-see-and-think-at-the-same-time-235e)
-- [Your Product Data Schema Has the Same Problem TCP/IP Solved in 1974](https://dev.to/bridgecomm_ai_e00a434b33e/your-product-data-schema-has-the-same-problem-tcpip-solved-in-1974-5aea)
+- [LangChain Deep Research Retriever Pattern](https://dev.to/mario_wu_eeaee9e5d5c942b8/langchain-deep-research-retriever-pattern-33h7)
+- [Second Brain Method Explained for SaaS Productivity](https://dev.to/juan_diegoisazaa_5362a/second-brain-method-explained-for-saas-productivity-6pj)
+- [Cline MCP Search Tutorial](https://dev.to/mario_wu_eeaee9e5d5c942b8/cline-mcp-search-tutorial-144a)
+- [新作パズル「LOOP」をバズらせろ！](https://dev.to/harumasa_matsushita/xin-zuo-pazuruloop-wobazurasero-3623)
 <!-- BLOG-POST-LIST:END -->
 
 
