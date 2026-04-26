@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building ASSISTLY: Integrating MongoDB into an AI Community Care Platform](https://dev.to/saimanoharigodavarty/building-assistly-integrating-mongodb-into-an-ai-community-care-platform-3ebi)
-- [My Harness Is Not a Cage. It&#39;s an Org Chart.](https://dev.to/synthaicode_commander/my-harness-is-not-a-cage-its-an-org-chart-3gl1)
-- [Micro-frontends with AI - it solves everything](https://dev.to/martindanielson/micro-frontends-with-ai-it-solves-everything-fo8)
-- [From HTTP Chaos to Kafka: How We Fixed Inter-Service Communication in a NestJS Microservices Platform](https://dev.to/riteshmacwan/from-http-chaos-to-kafka-how-we-fixed-inter-service-communication-in-a-nestjs-microservices-c46)
+- [Deocstruzione dello Stack Media di Pinterest: Costruire un Motore di Estrazione Asincrono ad Alte Prestazioni](https://dev.to/yqqwe/deocstruzione-dello-stack-media-di-pinterest-costruire-un-motore-di-estrazione-asincrono-ad-alte-1d8e)
+- [Setting Up Docker CI for Rust with cargo-dist](https://dev.to/wheynelau/setting-up-docker-ci-for-rust-with-cargo-dist-36nn)
+- [From Writing Code to Building a QA Mindset](https://dev.to/enayet_rashid_bd/from-writing-code-to-building-a-qa-mindset-2728)
+- [How we use Django and MongoDB in Energy AI - a unified Python web app for adaptive conversational AI](https://dev.to/harshith_varma_k/how-we-use-django-and-mongodb-in-energy-ai-a-unified-python-web-app-for-adaptive-conversational-ai-2545)
 <!-- BLOG-POST-LIST:END -->
 
 
