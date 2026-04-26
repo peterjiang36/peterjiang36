@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Testable Code: Common Anti-Patterns and How to Fix Them](https://dev.to/markadel/writing-testable-code-common-anti-patterns-and-how-to-fix-them-5aig)
-- [How We Built Agent Observability at 100K Events/Sec](https://dev.to/aishiteru/how-we-built-agent-observability-at-100k-eventssec-pa1)
-- [ORMs: ¿solución o problemas en puerta?](https://dev.to/fabio_sierrocartolano_9f/orms-solucion-o-problemas-en-puerta-24f7)
-- [Whop App vs SaaS vs License Keys — Which Integration Should You Build?](https://dev.to/jordan_sterchele/whop-app-vs-saas-vs-license-keys-which-integration-should-you-build-25ea)
+- [GHSA-C4QG-J8JG-42Q5: GHSA-C4QG-J8JG-42Q5: Server-Side Request Forgery in OpenClaw QQBot Extension](https://dev.to/cverports/ghsa-c4qg-j8jg-42q5-ghsa-c4qg-j8jg-42q5-server-side-request-forgery-in-openclaw-qqbot-extension-28af)
+- [The Spot Instance That Killed Our Payments Service &lpar;And Why It Took Us 47 Minutes to Find It&rpar;](https://dev.to/peterinfranexis/the-spot-instance-that-killed-our-payments-service-and-why-it-took-us-47-minutes-to-find-it-2ehp)
+- [Part 4: Improving Retrieval Quality with Token-Aware Chunking and HyDE](https://dev.to/sharathkurup/part-4-improving-retrieval-quality-with-token-aware-chunking-and-hyde-4hkp)
+- [I built a multi-agent system without governance. Here&#39;s the 3-layer stack I wish I&#39;d had.](https://dev.to/allforscience/i-built-a-multi-agent-system-without-governance-heres-the-3-layer-stack-i-wish-id-had-264e)
 <!-- BLOG-POST-LIST:END -->
 
 
