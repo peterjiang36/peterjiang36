@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Confident and Wrong: We Tested 17 AI Models on Questions a Middle Schooler Could Answer](https://dev.to/samullinsjr/confident-and-wrong-we-tested-17-ai-models-on-questions-a-middle-schooler-could-answer-3in7)
-- [Screenshot Diffing: Pixel-Level Comparison Techniques](https://dev.to/dennis-ddev/screenshot-diffing-pixel-level-comparison-techniques-18k)
-- [From research to innovation: How I used Google AI /Gemini to Design a Zero-Carbon AI Data Center with Sand Battery Storage](https://dev.to/staykova/from-research-to-innovation-how-i-used-google-ai-gemini-to-design-a-zero-carbon-ai-data-center-5a51)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2pd2)
+- [A Discord Group Accessed a Restricted AI That Finds Zero-Day Bugs -Here’s How It Happened](https://dev.to/dravidpa7/a-discord-group-accessed-a-restricted-ai-that-finds-zero-day-bugs-heres-how-it-happened-529m)
+- [ntop vs Commercial Traffic Analyzers: When Free Tools Hit Their Limits](https://dev.to/anatraf_482389aa982e/ntop-vs-commercial-traffic-analyzers-when-free-tools-hit-their-limits-34k9)
+- [How a 3-Location Dental Group Doubled Patients, and What It Teaches Us About How to Grow a Restaurant Chain Without a Big Marketing Budget](https://dev.to/__oddmodish/how-a-3-location-dental-group-doubled-patients-and-what-it-teaches-us-about-how-to-grow-a-28fo)
+- [80% of AI Projects in Banks Fail - Here’s Why &lpar;And How We Fixed It&rpar;](https://dev.to/swapneswar_sundarray/80-of-ai-projects-in-banks-fail-heres-why-and-how-we-fixed-it-5bab)
 <!-- BLOG-POST-LIST:END -->
 
 
