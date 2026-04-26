@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Robust UDS Diagnostics and Secure ECU Flashing](https://dev.to/beefedai/implementing-robust-uds-diagnostics-and-secure-ecu-flashing-2g73)
-- [I wrote my third XML parser. Here&#39;s why this one was different.](https://dev.to/asm0dey/i-wrote-my-third-xml-parser-heres-why-this-one-was-different-445i)
-- [Mastermind: A Practical Agentic SDLC Workflow for VS Code + Copilot &lpar;Prototype Release&rpar;](https://dev.to/arkadiuszsieracki/mastermind-a-practical-agentic-sdlc-workflow-for-vs-code-copilot-prototype-release-72f)
-- [ConfigCat Alternative: Why Developers Are Switching to Rollgate](https://dev.to/domenico_giordano_e441224/configcat-alternative-why-developers-are-switching-to-rollgate-1ekf)
+- [Persistent JWT Signing Keys with PostgreSQL](https://dev.to/shygyver/persistent-jwt-signing-keys-with-postgresql-1ef6)
+- [I built Monk Mode because blockers kept breaking my workflow](https://dev.to/johns23424234324234/i-built-monk-mode-because-blockers-kept-breaking-my-workflow-1j60)
+- [Mastering Array Flattening in JavaScript: From Nested Chaos to Clean Lists](https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k)
+- [Mastering React useEffect: An AI Agent Skill for Idiomatic Side Effects](https://dev.to/theoklitosbam7/mastering-react-useeffect-an-ai-agent-skill-for-idiomatic-side-effects-27l7)
 <!-- BLOG-POST-LIST:END -->
 
 
