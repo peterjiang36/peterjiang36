@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Chatbots: How AI Is Becoming Enterprise Infrastructure](https://dev.to/abdul_rasith_214847744f50/beyond-chatbots-how-ai-is-becoming-enterprise-infrastructure-2o57)
-- [My Developer Profile](https://dev.to/cleaner-wrasse/my-developer-profile-223g)
-- [5 MCP Servers Every AI Developer Should Know About in 2026](https://dev.to/sapph1re/5-mcp-servers-every-ai-developer-should-know-about-in-2026-17bd)
-- [Your PageSpeed Score Is Someone&#39;s Actual Experience](https://dev.to/hamzamairaj/your-pagespeed-score-is-someones-actual-experience-184p)
+- [angling text fill](https://dev.to/preetha_vaishnavi_2b82358/angling-text-fill-3ej6)
+- [JWT Auth Middleware in Axum 0.8 — A Beginner&#39;s Guide](https://dev.to/syeedmdtalha/jwt-auth-middleware-in-axum-08-a-beginners-guide-2kc1)
+- [I built ssmctl because AWS SSM deserved a better user experience](https://dev.to/rhysmcneill/i-built-ssmctl-because-aws-ssm-deserved-a-better-user-experience-29e6)
+- [Topaz Video 1.3.1 Cracked for macOS](https://dev.to/nazm_veer_d324fa408cedbd4/topaz-video-131-cracked-for-macos-3k9j)
 <!-- BLOG-POST-LIST:END -->
 
 
