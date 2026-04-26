@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
-- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
-- [CrabTrap](https://dev.to/om_shinde_85b36685a779e14/crabtrap-2o20)
-- [From Broke Bots to Streaming Economies: Building the Agent Economy Wallet](https://dev.to/xavier_script/from-broke-bots-to-streaming-economies-building-the-agent-economy-wallet-edb)
+- [Beyond Chatbots: How AI Is Becoming Enterprise Infrastructure](https://dev.to/abdul_rasith_214847744f50/beyond-chatbots-how-ai-is-becoming-enterprise-infrastructure-2o57)
+- [My Developer Profile](https://dev.to/cleaner-wrasse/my-developer-profile-223g)
+- [5 MCP Servers Every AI Developer Should Know About in 2026](https://dev.to/sapph1re/5-mcp-servers-every-ai-developer-should-know-about-in-2026-17bd)
+- [Your PageSpeed Score Is Someone&#39;s Actual Experience](https://dev.to/hamzamairaj/your-pagespeed-score-is-someones-actual-experience-184p)
 <!-- BLOG-POST-LIST:END -->
 
 
