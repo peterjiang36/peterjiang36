@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Combien vaut 91 000 lignes produites avec Claude Code ?](https://dev.to/michelfaure/combien-vaut-91-000-lignes-produites-avec-claude-code--3f0l)
-- [How much are 91,000 lines produced with Claude Code actually worth?](https://dev.to/michelfaure/how-much-are-91000-lines-produced-with-claude-code-actually-worth-3kfn)
-- [I Built Postman for MCP Servers Because Debugging JSON-RPC Shouldn&#39;t Be Hell](https://dev.to/naman_411/i-built-postman-for-mcp-servers-because-debugging-json-rpc-shouldnt-be-hell-44ao)
-- [Mobile Development for US Retailers: Peak Season Readiness and App Performance Guide 2026](https://dev.to/alichherawalla/mobile-development-for-us-retailers-peak-season-readiness-and-app-performance-guide-2026-bpi)
+- [What 221 AI Agents in One Chat Taught Us About Multi-Agent Coordination](https://dev.to/kinthai/what-221-ai-agents-in-one-chat-taught-us-about-multi-agent-coordination-1lfh)
+- [How to Create an EventBridge Scheduler with ActionAfterCompletion in CloudFormation](https://dev.to/aws-builders/how-to-create-an-eventbridge-scheduler-with-actionaftercompletion-in-cloudformation-5a30)
+- [From Static Learning Platforms to Thinking Educational Systems: How Google Cloud NEXT ’26 Is Reshaping EdTech](https://dev.to/ahmed_adelabdulwahab_320/from-static-learning-platforms-to-thinking-educational-systems-how-google-cloud-next-26-is-3ki2)
+- [DDD in Go applied to crypto exchange APIs](https://dev.to/ohugonnot/ddd-in-go-applied-to-crypto-exchange-apis-3on4)
 <!-- BLOG-POST-LIST:END -->
 
 
