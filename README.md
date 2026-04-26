@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What 221 AI Agents in One Chat Taught Us About Multi-Agent Coordination](https://dev.to/kinthai/what-221-ai-agents-in-one-chat-taught-us-about-multi-agent-coordination-1lfh)
-- [How to Create an EventBridge Scheduler with ActionAfterCompletion in CloudFormation](https://dev.to/aws-builders/how-to-create-an-eventbridge-scheduler-with-actionaftercompletion-in-cloudformation-5a30)
-- [From Static Learning Platforms to Thinking Educational Systems: How Google Cloud NEXT ’26 Is Reshaping EdTech](https://dev.to/ahmed_adelabdulwahab_320/from-static-learning-platforms-to-thinking-educational-systems-how-google-cloud-next-26-is-3ki2)
-- [DDD in Go applied to crypto exchange APIs](https://dev.to/ohugonnot/ddd-in-go-applied-to-crypto-exchange-apis-3on4)
+- [Day 83 of 100 Days Of Code — CRUD Backend + API Routes in Flask](https://dev.to/m_saad_ahmad/day-83-of-100-days-of-code-crud-backend-api-routes-in-flask-3369)
+- [OpenClaw - Here&#39;s the best setup guide you&#39;ll ever need.](https://dev.to/paimon_573760ccaa1b3492b4/openclaw-heres-the-best-setup-guide-youll-ever-need-23ee)
+- [Your Guide Into the Development World: A Roadmap for Absolute Beginners](https://dev.to/oketch/your-guide-into-the-development-world-a-roadmap-for-absolute-beginners-5fh6)
+- [ROAS 100% is not the breakeven point — what most ad reports get wrong](https://dev.to/toshihiro_shishido/roas-100-is-not-the-breakeven-point-what-most-ad-reports-get-wrong-2oed)
 <!-- BLOG-POST-LIST:END -->
 
 
