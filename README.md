@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GHSA-C4QG-J8JG-42Q5: GHSA-C4QG-J8JG-42Q5: Server-Side Request Forgery in OpenClaw QQBot Extension](https://dev.to/cverports/ghsa-c4qg-j8jg-42q5-ghsa-c4qg-j8jg-42q5-server-side-request-forgery-in-openclaw-qqbot-extension-28af)
-- [The Spot Instance That Killed Our Payments Service &lpar;And Why It Took Us 47 Minutes to Find It&rpar;](https://dev.to/peterinfranexis/the-spot-instance-that-killed-our-payments-service-and-why-it-took-us-47-minutes-to-find-it-2ehp)
-- [Part 4: Improving Retrieval Quality with Token-Aware Chunking and HyDE](https://dev.to/sharathkurup/part-4-improving-retrieval-quality-with-token-aware-chunking-and-hyde-4hkp)
-- [I built a multi-agent system without governance. Here&#39;s the 3-layer stack I wish I&#39;d had.](https://dev.to/allforscience/i-built-a-multi-agent-system-without-governance-heres-the-3-layer-stack-i-wish-id-had-264e)
+- [JavaScript: Handling Large Files in the Browser. Part 1/2: Reading Large Files](https://dev.to/alexboyko/javascript-handling-large-files-in-the-browser-part-12-reading-large-files-4077)
+- [SLSA Deep Dive: Securing the Supply Chain Using Verifiable Levels](https://dev.to/kanywst/slsa-deep-dive-securing-the-supply-chain-using-verifiable-levels-klk)
+- [When the AI Learns to See and Think at the Same Time](https://dev.to/xoqhdgh1002/when-the-ai-learns-to-see-and-think-at-the-same-time-235e)
+- [Your Product Data Schema Has the Same Problem TCP/IP Solved in 1974](https://dev.to/bridgecomm_ai_e00a434b33e/your-product-data-schema-has-the-same-problem-tcpip-solved-in-1974-5aea)
 <!-- BLOG-POST-LIST:END -->
 
 
