@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of searching my shell history, so I built QuickRun.](https://dev.to/paraaa/i-got-tired-of-searching-my-shell-history-so-i-built-quickrun-2gn4)
-- [Google Cloud NEXT &#39;26 Shipped a Full Agentic Stack. One Layer Is Missing.](https://dev.to/onchainaiintel/google-cloud-next-26-shipped-a-full-agentic-stack-one-layer-is-missing-ni0)
-- [7 Transaction Types Your AI Agent Can Execute: From Transfers to Contract Deployment](https://dev.to/walletguy/7-transaction-types-your-ai-agent-can-execute-from-transfers-to-contract-deployment-3p7g)
-- [AI Tools Ranked &lpar;Best to Worst&rpar; by Real-World Impact](https://dev.to/swapneswar_sundarray/ai-tools-ranked-best-to-worst-by-real-world-impact-42j0)
+- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
+- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
+- [CrabTrap](https://dev.to/om_shinde_85b36685a779e14/crabtrap-2o20)
+- [From Broke Bots to Streaming Economies: Building the Agent Economy Wallet](https://dev.to/xavier_script/from-broke-bots-to-streaming-economies-building-the-agent-economy-wallet-edb)
 <!-- BLOG-POST-LIST:END -->
 
 
