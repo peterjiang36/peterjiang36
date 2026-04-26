@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Turned “It Works, But Users Are Confused” Into a Clear Onboarding Flow](https://dev.to/ezejah_chimkamma_06758a9b/how-i-turned-it-works-but-users-are-confused-into-a-clear-onboarding-flow-35b6)
-- [Chapter 7: The Training Loop and Adam Optimiser](https://dev.to/garyljackson/chapter-7-the-training-loop-and-adam-optimiser-1ca2)
-- [Hangout Planner - fighting cognitive atrophy and full process of making app](https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0)
-- [HOW TO SETUP PERFECTLY BGFX IN SDL2 &lpar;LINUX WAYLAND SUPPORT&rpar;](https://dev.to/pinggdevelop/how-to-setup-perfectly-bgfx-in-sdl2-linux-wayland-support-535b)
+- [I Watched Google Cloud NEXT &#39;26 ~ Here Is What Actually Matters for Developers](https://dev.to/aniruddhaadak/i-watched-google-cloud-next-26-so-you-dont-have-to-here-is-what-actually-matters-for-developers-54h6)
+- [AI agents are opaque. Jaeger v2 + OTel GenAI conventions are the fix.](https://dev.to/thegatewayguy/ai-agents-are-opaque-jaeger-v2-otel-genai-conventions-are-the-fix-48b8)
+- [4 Practical Boto3 Scripts for S3 Every DevOps Engineer Should Know](https://dev.to/zubairakbar/4-practical-boto3-scripts-for-s3-every-devops-engineer-should-know-4m27)
+- [👉 Oreste AI: assistente vocale italiano costruito con JavaScript e Web Speech API](https://dev.to/oreste_dechiara_94b056fb/oreste-ai-assistente-vocale-italiano-costruito-con-javascript-e-web-speech-api-2k7d)
 <!-- BLOG-POST-LIST:END -->
 
 
