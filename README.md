@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your agent isn&#39;t flaky. You&#39;re blind.](https://dev.to/anshss/your-agent-isnt-flaky-youre-blind-4pk3)
-- [The Best AI Feature for Backend Developers Is a Resolution Loop](https://dev.to/rapidkit/the-best-ai-feature-for-backend-developers-is-a-resolution-loop-4gh3)
-- [The Beginning of the Era of the Knowledge Navigator?](https://dev.to/william_gilreath_16e7ae9c/the-beginning-of-the-era-of-the-knowledge-navigator-oj)
-- [4 live products, $1.85 spent, 1 PayPal termination: Niixo Labs Day 1](https://dev.to/niixolabs/4-live-products-185-spent-1-paypal-termination-niixo-labs-day-1-46ag)
+- [Combien vaut 91 000 lignes produites avec Claude Code ?](https://dev.to/michelfaure/combien-vaut-91-000-lignes-produites-avec-claude-code--3f0l)
+- [How much are 91,000 lines produced with Claude Code actually worth?](https://dev.to/michelfaure/how-much-are-91000-lines-produced-with-claude-code-actually-worth-3kfn)
+- [I Built Postman for MCP Servers Because Debugging JSON-RPC Shouldn&#39;t Be Hell](https://dev.to/naman_411/i-built-postman-for-mcp-servers-because-debugging-json-rpc-shouldnt-be-hell-44ao)
+- [Mobile Development for US Retailers: Peak Season Readiness and App Performance Guide 2026](https://dev.to/alichherawalla/mobile-development-for-us-retailers-peak-season-readiness-and-app-performance-guide-2026-bpi)
 <!-- BLOG-POST-LIST:END -->
 
 
