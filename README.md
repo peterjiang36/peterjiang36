@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl)
-- [Building “Project Builder Pro” with Flutter + AI](https://dev.to/m-gaming-studio/building-project-builder-pro-with-flutter-ai-66b)
-- [I Made My Family Dinner AI&#39;s Problem — Part 2: Now the Whole House Is In On It](https://dev.to/pattpjy/i-made-my-family-dinner-ais-problem-part-2-now-the-whole-house-is-in-on-it-2ng9)
-- [How to Build a Production-Ready Secure Python API &lpar;JWT, Rate Limiting, and Caching&rpar;](https://dev.to/praiseordu/how-to-build-a-production-ready-secure-python-api-jwt-rate-limiting-and-caching-2md1)
+- [Making a hello-world program in kernel space](https://dev.to/bogdansandu/making-a-hello-world-program-in-kernel-space-48ph)
+- [How to Test a Mechanical Keyboard for Ghosting and N-Key Rollover &lpar;Without Buying Software&rpar;](https://dev.to/nasirazizawan/how-to-test-a-mechanical-keyboard-for-ghosting-and-n-key-rollover-without-buying-software-340j)
+- [How an Unrelated App Broke Our Nx Deployment](https://dev.to/angojay/how-an-unrelated-app-broke-our-nx-deployment-42j5)
+- [War Story: We Migrated from Hugging Face Inference API to Self-Hosted LLMs and Cut Latency by 60%](https://dev.to/johalputt/war-story-we-migrated-from-hugging-face-inference-api-to-self-hosted-llms-and-cut-latency-by-60-kjb)
 <!-- BLOG-POST-LIST:END -->
 
 
