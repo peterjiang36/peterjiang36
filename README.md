@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a hello-world program in kernel space](https://dev.to/bogdansandu/making-a-hello-world-program-in-kernel-space-48ph)
-- [How to Test a Mechanical Keyboard for Ghosting and N-Key Rollover &lpar;Without Buying Software&rpar;](https://dev.to/nasirazizawan/how-to-test-a-mechanical-keyboard-for-ghosting-and-n-key-rollover-without-buying-software-340j)
-- [How an Unrelated App Broke Our Nx Deployment](https://dev.to/angojay/how-an-unrelated-app-broke-our-nx-deployment-42j5)
-- [War Story: We Migrated from Hugging Face Inference API to Self-Hosted LLMs and Cut Latency by 60%](https://dev.to/johalputt/war-story-we-migrated-from-hugging-face-inference-api-to-self-hosted-llms-and-cut-latency-by-60-kjb)
+- [Why I stopped rebuilding auth from scratch and built a universal trust layer instead](https://dev.to/samuelrecio/why-i-stopped-rebuilding-auth-from-scratch-and-built-a-universal-trust-layer-instead-2fok)
+- [Code Mode for MCP: The Long-Tail Escape Hatch, Not the Front Door](https://dev.to/aws-heroes/code-mode-for-mcp-the-long-tail-escape-hatch-not-the-front-door-40ga)
+- [How Pair Programming and Mob Programming made me a better AI Developer](https://dev.to/lucasrainett/how-pair-programming-and-mob-programming-made-me-a-better-ai-developer-did)
+- [I built a free PDF toolkit that properly handles Arabic documents](https://dev.to/baraahub/i-built-a-free-pdf-toolkit-that-properly-handles-arabic-documents-20fn)
 <!-- BLOG-POST-LIST:END -->
 
 
