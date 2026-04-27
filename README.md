@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I stopped rebuilding auth from scratch and built a universal trust layer instead](https://dev.to/samuelrecio/why-i-stopped-rebuilding-auth-from-scratch-and-built-a-universal-trust-layer-instead-2fok)
-- [Code Mode for MCP: The Long-Tail Escape Hatch, Not the Front Door](https://dev.to/aws-heroes/code-mode-for-mcp-the-long-tail-escape-hatch-not-the-front-door-40ga)
-- [How Pair Programming and Mob Programming made me a better AI Developer](https://dev.to/lucasrainett/how-pair-programming-and-mob-programming-made-me-a-better-ai-developer-did)
-- [I built a free PDF toolkit that properly handles Arabic documents](https://dev.to/baraahub/i-built-a-free-pdf-toolkit-that-properly-handles-arabic-documents-20fn)
+- [Flux - the new programming language is built for speed, easy to read, and familiar.](https://dev.to/kvthweatt/flux-the-new-programming-language-built-for-speed-easy-to-read-and-familiar-378p)
+- [How I Built a 3D Interactive Portfolio with React, Three.js, and Cloudflare Workers](https://dev.to/kgautam/how-i-built-a-3d-interactive-portfolio-with-react-threejs-and-cloudflare-workers-3f9m)
+- [What is Cursor AI’s business model? Asking for a friend.](https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj)
+- [The Wolf Project - Reworking a Real-World Project](https://dev.to/zacharysturman/the-wolf-project-reworking-a-real-world-project-5e3m)
 <!-- BLOG-POST-LIST:END -->
 
 
