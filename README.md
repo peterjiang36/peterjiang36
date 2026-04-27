@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Strangelove or: How I Learned to Stop Worrying and Love Coding with AI](https://dev.to/jeffield/claude-strangelove-or-how-i-learned-to-stop-worrying-and-love-coding-with-ai-43m0)
-- [I added voice messages to my self-hosted AI agent, for free](https://dev.to/lucasnevespereira/i-added-voice-messages-to-my-self-hosted-ai-agent-for-free-7pc)
-- [Best Python Course 2026: How to Choose &lpar;and Win&rpar;](https://dev.to/juan_diegoisazaa_5362a/best-python-course-2026-how-to-choose-and-win-5gf9)
-- [DoorDash Pilots Stablecoin Payouts on Tempo](https://dev.to/tomwangcn/doordash-pilots-stablecoin-payouts-on-tempo-3fl7)
+- [From Figma to Tailwind Without Writing a Single px — A Real Automation Case in Production](https://dev.to/giovanni786/from-figma-to-tailwind-without-writing-a-single-px-a-real-automation-case-in-production-2510)
+- [Designing AI Personality: The What / How / Who Framework](https://dev.to/kanta13jp1/designing-ai-personality-the-what-how-who-framework-1ibp)
+- [Can AI Replace Data Engineers? We Tried It.](https://dev.to/ravikiranpagidi/can-ai-replace-data-engineers-we-tried-it-3i3a)
+- [Surviving Midnight SDK: a 700-line cure for the silent failure problem](https://dev.to/fredsanntana/surviving-midnight-sdk-a-700-line-cure-for-the-silent-failure-problem-57p)
 <!-- BLOG-POST-LIST:END -->
 
 
