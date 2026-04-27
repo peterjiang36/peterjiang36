@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raspberry Pico: USB Hacking Device Programming](https://dev.to/admantium/rasperry-pico-usb-hacking-device-programming-3230)
-- [Most WebRTC Projects Don&#39;t Fail at Scale. They Fail at 300 Users.](https://dev.to/jackmorris10/most-webrtc-projects-dont-fail-at-scale-they-fail-at-300-users-45l3)
-- [The Problem Isn’t AI. It’s How We’re Using It](https://dev.to/jaideepparashar/the-problem-isnt-ai-its-how-were-using-it-2m94)
-- [The Real Problem With AI Writing All Our Code](https://dev.to/canro91/the-real-problem-with-ai-writing-all-our-code-164m)
+- [I Wasn&#39;t Going to Write for the OpenClaw Challenge. Then 2026.4.24 Dropped.](https://dev.to/salimcodes/i-wasnt-going-to-write-for-the-openclaw-challenge-then-2026424-dropped-36oa)
+- [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e)
+- [Olumide: A self-hosted AI nurse for chronic disease, living in WhatsApp](https://dev.to/salimcodes/olumide-a-self-hosted-ai-nurse-for-chronic-disease-living-in-whatsapp-o13)
+- [Skills vs Tools vs Rules vs MCP Tools: Hands-On with Langchain, AWS Bedrock Nova](https://dev.to/aws-builders/skills-vs-tools-vs-rules-vs-mcp-tools-hands-on-with-langchain-aws-bedrock-nova-39ac)
 <!-- BLOG-POST-LIST:END -->
 
 
