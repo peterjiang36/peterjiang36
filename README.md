@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3 LINQ Mistakes That Hurt Backend API Performance in .NET](https://dev.to/a95yman/3-linq-mistakes-that-hurt-backend-api-performance-in-net-415k)
-- [What I Look for When Hiring Remote Full-Stack Developers &lpar;React + Node.js&rpar;](https://dev.to/lucas_rego_213f20f3bd36ed/what-i-look-for-when-hiring-remote-full-stack-developers-react-nodejs-3ihe)
-- [I Built CrabPDF: a Privacy-First PDF Editor That Runs Locally in the Browser](https://dev.to/pucyta/i-built-crabpdf-a-privacy-first-pdf-editor-that-runs-locally-in-the-browser-2973)
-- [Guardrails in AI: Keeping LLMs Safe](https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2njl)
+- [Building “Project Builder Pro” with Flutter + AI](https://dev.to/m-gaming-studio/building-project-builder-pro-with-flutter-ai-66b)
+- [I Made My Family Dinner AI&#39;s Problem — Part 2: Now the Whole House Is In On It](https://dev.to/pattpjy/i-made-my-family-dinner-ais-problem-part-2-now-the-whole-house-is-in-on-it-2ng9)
+- [How to Build a Production-Ready Secure Python API &lpar;JWT, Rate Limiting, and Caching&rpar;](https://dev.to/praiseordu/how-to-build-a-production-ready-secure-python-api-jwt-rate-limiting-and-caching-2md1)
 <!-- BLOG-POST-LIST:END -->
 
 
