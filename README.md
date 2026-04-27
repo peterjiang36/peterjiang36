@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID was written for this moment](https://dev.to/nomad4tech/solid-was-written-for-this-moment-225f)
-- [I Stopped Writing TikTok Scrapers. Five Lines of Python Replaced Them.](https://dev.to/sian-agency/i-stopped-writing-tiktok-scrapers-five-lines-of-python-replaced-them-5824)
-- [WellNest: A Django + MongoDB Powered Family-Centric Wellness Platform](https://dev.to/pippalla_srikiran/wellnest-a-django-mongodb-powered-family-centric-wellness-platform-5848)
-- [Cómo manejar fallos transitorios en .NET con Polly y ResiliencePipelineBuilder](https://dev.to/isaacojeda/como-manejar-fallos-transitorios-en-net-con-polly-y-resiliencepipelinebuilder-4fk4)
+- [Building MedAI — An AI-Powered Disease Prediction &amp; Clinical Decision Support System](https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3)
+- [Stop Redeploying to Update Translations: Granular Edge Cache Invalidation with Cloudflare Purge API](https://dev.to/garyedgekits/stop-redeploying-to-update-translations-granular-edge-cache-invalidation-with-cloudflare-purge-api-2cm7)
+- [Automating Data Workflows with Apache Airflow](https://dev.to/edmund_eryuba/automating-data-workflows-with-apache-airflow-1llg)
+- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
 <!-- BLOG-POST-LIST:END -->
 
 
