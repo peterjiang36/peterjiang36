@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wasn&#39;t Going to Write for the OpenClaw Challenge. Then 2026.4.24 Dropped.](https://dev.to/salimcodes/i-wasnt-going-to-write-for-the-openclaw-challenge-then-2026424-dropped-36oa)
-- [Autism as a catalyst](https://dev.to/raphink/autism-as-a-catalyst-322e)
-- [Olumide: A self-hosted AI nurse for chronic disease, living in WhatsApp](https://dev.to/salimcodes/olumide-a-self-hosted-ai-nurse-for-chronic-disease-living-in-whatsapp-o13)
-- [Skills vs Tools vs Rules vs MCP Tools: Hands-On with Langchain, AWS Bedrock Nova](https://dev.to/aws-builders/skills-vs-tools-vs-rules-vs-mcp-tools-hands-on-with-langchain-aws-bedrock-nova-39ac)
+- [Lessons from building a social events platform - Team Up | Expo &amp; Convex](https://dev.to/thanksboss/lessons-from-building-a-social-events-platform-team-up-expo-convex-4228)
+- [I shipped v1.2.0 of my Chrome extension for intentional website blocking](https://dev.to/gojer16/i-shipped-v120-of-my-chrome-extension-for-intentional-website-blocking-430n)
+- [Identity: A cryptographic tale](https://dev.to/coding-cosmos/identity-a-cryptographic-tale-ja3)
+- [Enforcing Domain Invariants: Ontologic Part 2](https://dev.to/sacha/enforcing-domain-invariants-ontologic-part-2-2ea9)
 <!-- BLOG-POST-LIST:END -->
 
 
