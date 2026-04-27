@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [La importancia de no ser None](https://dev.to/baltasarq/la-importancia-de-no-ser-none-1k99)
-- [From Concept to Code: Building an AI-Based Adverse Drug Reaction Detection System](https://dev.to/rishikachanda/from-concept-to-code-building-an-ai-based-adverse-drug-reaction-detection-system-16bf)
-- [April 2026&#39;s LLM Avalanche: 5 Frontier Drops in 9 Days, ~50% Price Cut, 3 Migrations to Plan Now](https://dev.to/tokenmixai/april-2026s-llm-avalanche-5-frontier-drops-in-9-days-50-price-cut-3-migrations-to-plan-now-4och)
-- [From Inventory Chaos to a Real-Time Command Center](https://dev.to/amin_haiqal_2b12dc1098e18/from-inventory-chaos-to-a-real-time-command-center-12gl)
+- [UTM parameters: how to use them correctly and the 4 patterns that break GA4 channel grouping](https://dev.to/toshihiro_shishido/utm-parameters-how-to-use-them-correctly-and-the-4-patterns-that-break-ga4-channel-grouping-21fp)
+- [I replaced 12 bookmarked tool sites with one I built myself](https://dev.to/anurag_bhattarai_7a4af243/i-replaced-12-bookmarked-tool-sites-with-one-i-built-myself-3c7p)
+- [Notion Custom Agents Paywall Starts Today — A Free Alternative That Runs All 6 Life Departments](https://dev.to/kanta13jp1/notion-custom-agents-paywall-starts-today-a-free-alternative-that-runs-all-6-life-departments-3alm)
+- [How to Build a Tarot Card Reading Widget in JavaScript](https://dev.to/karandesaideveloper/how-to-build-a-tarot-card-reading-widget-in-javascript-2b1b)
 <!-- BLOG-POST-LIST:END -->
 
 
