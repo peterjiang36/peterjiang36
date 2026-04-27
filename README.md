@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bulletproof FastAPI Stack](https://dev.to/sreeraj_sreenivasan_2b932/the-bulletproof-fastapi-stack-52md)
-- [How to Unlock Local Inference in the Google Gemini SDK &lpar;Without Forking&rpar;](https://dev.to/agustinsacco/how-to-unlock-local-inference-in-the-google-gemini-sdk-without-forking-5ago)
-- [Syncing the Real Market: Consuming Brapi and Feeding Redis with Spring Boot](https://dev.to/rvneto/syncing-the-real-market-consuming-brapi-and-feeding-redis-with-spring-boot-1jdm)
-- [OpenClaw on AWS for Beginners: How To Build An AI Agent That Deploys Your WordPress Multisite in Minutes With Just Three Services](https://dev.to/aws-builders/openclaw-on-aws-for-beginners-how-to-build-an-ai-agent-that-deploys-your-wordpress-multisite-in-abm)
+- [The Future of Software Development: How AI Tools Like Claude Are Rewriting the Code](https://dev.to/aman_singh_0007/the-future-of-software-development-how-ai-tools-like-claude-are-rewriting-the-code-5g0e)
+- [chmod 700 My Life: Getting Serious With OpenClaw](https://dev.to/trickell/chmod-700-my-life-getting-serious-with-openclaw-2dob)
+- [Cx Dev Log — 2026-04-26](https://dev.to/commenterthe9/cx-dev-log-2026-04-26-1olh)
+- [Async Transactions for Signals: Batching Updates Across await](https://dev.to/luciano0322/async-transactions-for-signals-batching-updates-across-await-32hj)
 <!-- BLOG-POST-LIST:END -->
 
 
