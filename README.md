@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flux - the new programming language is built for speed, easy to read, and familiar.](https://dev.to/kvthweatt/flux-the-new-programming-language-built-for-speed-easy-to-read-and-familiar-378p)
-- [How I Built a 3D Interactive Portfolio with React, Three.js, and Cloudflare Workers](https://dev.to/kgautam/how-i-built-a-3d-interactive-portfolio-with-react-threejs-and-cloudflare-workers-3f9m)
-- [What is Cursor AI’s business model? Asking for a friend.](https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj)
-- [The Wolf Project - Reworking a Real-World Project](https://dev.to/zacharysturman/the-wolf-project-reworking-a-real-world-project-5e3m)
+- [Claude Strangelove or: How I Learned to Stop Worrying and Love Coding with AI](https://dev.to/jeffield/claude-strangelove-or-how-i-learned-to-stop-worrying-and-love-coding-with-ai-43m0)
+- [I added voice messages to my self-hosted AI agent, for free](https://dev.to/lucasnevespereira/i-added-voice-messages-to-my-self-hosted-ai-agent-for-free-7pc)
+- [Best Python Course 2026: How to Choose &lpar;and Win&rpar;](https://dev.to/juan_diegoisazaa_5362a/best-python-course-2026-how-to-choose-and-win-5gf9)
+- [DoorDash Pilots Stablecoin Payouts on Tempo](https://dev.to/tomwangcn/doordash-pilots-stablecoin-payouts-on-tempo-3fl7)
 <!-- BLOG-POST-LIST:END -->
 
 
