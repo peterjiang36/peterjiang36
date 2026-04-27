@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MedAI — An AI-Powered Disease Prediction &amp; Clinical Decision Support System](https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3)
-- [Stop Redeploying to Update Translations: Granular Edge Cache Invalidation with Cloudflare Purge API](https://dev.to/garyedgekits/stop-redeploying-to-update-translations-granular-edge-cache-invalidation-with-cloudflare-purge-api-2cm7)
-- [Automating Data Workflows with Apache Airflow](https://dev.to/edmund_eryuba/automating-data-workflows-with-apache-airflow-1llg)
-- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
+- [KEIBIDROP: Secure File Transfer!](https://dev.to/mfc_keibisoft/keibidrop-secure-file-transfer-132n)
+- [Why Your Diff Tool Shouldn&#39;t See Your Code](https://dev.to/shivaggw/why-your-diff-tool-shouldnt-see-your-code-o7p)
+- [Exporting WordPress Content to JSON for Headless and Static Sites](https://dev.to/antigymclub/exporting-wordpress-content-to-json-for-headless-and-static-sites-4h2c)
+- [Build a Full eCommerce Store with Next.js + Cartvelly in 10 Minutes](https://dev.to/milton_mahmud/build-a-full-ecommerce-store-with-nextjs-cartvelly-in-10-minutes-34n6)
 <!-- BLOG-POST-LIST:END -->
 
 
