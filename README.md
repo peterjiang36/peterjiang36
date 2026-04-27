@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Software Development: How AI Tools Like Claude Are Rewriting the Code](https://dev.to/aman_singh_0007/the-future-of-software-development-how-ai-tools-like-claude-are-rewriting-the-code-5g0e)
-- [chmod 700 My Life: Getting Serious With OpenClaw](https://dev.to/trickell/chmod-700-my-life-getting-serious-with-openclaw-2dob)
-- [Cx Dev Log — 2026-04-26](https://dev.to/commenterthe9/cx-dev-log-2026-04-26-1olh)
-- [Async Transactions for Signals: Batching Updates Across await](https://dev.to/luciano0322/async-transactions-for-signals-batching-updates-across-await-32hj)
+- [Microsoft 365 Copilot para developers en 2026, lo que de verdad podés construir](https://dev.to/carlosjcastrog/microsoft-365-copilot-para-developers-en-2026-lo-que-de-verdad-podes-construir-1886)
+- [ReactJs Performance ~ Database and API Optimization~](https://dev.to/kkr0423/reactjs-performance-database-and-api-optimization-39j5)
+- [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f)
+- [Dark Mode Website Template: Ultimate Guide 2026](https://dev.to/imran_khan_a3cc224344dbcf/dark-mode-website-template-ultimate-guide-2026-mb9)
 <!-- BLOG-POST-LIST:END -->
 
 
