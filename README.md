@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [UTM parameters: how to use them correctly and the 4 patterns that break GA4 channel grouping](https://dev.to/toshihiro_shishido/utm-parameters-how-to-use-them-correctly-and-the-4-patterns-that-break-ga4-channel-grouping-21fp)
-- [I replaced 12 bookmarked tool sites with one I built myself](https://dev.to/anurag_bhattarai_7a4af243/i-replaced-12-bookmarked-tool-sites-with-one-i-built-myself-3c7p)
-- [Notion Custom Agents Paywall Starts Today — A Free Alternative That Runs All 6 Life Departments](https://dev.to/kanta13jp1/notion-custom-agents-paywall-starts-today-a-free-alternative-that-runs-all-6-life-departments-3alm)
-- [How to Build a Tarot Card Reading Widget in JavaScript](https://dev.to/karandesaideveloper/how-to-build-a-tarot-card-reading-widget-in-javascript-2b1b)
+- [CLI Left, Dashboard Right: How to Layer Interfaces in the Agent Era](https://dev.to/seekdb/cli-left-dashboard-right-how-to-layer-interfaces-in-the-agent-era-2blf)
+- [Cloud Sustainability](https://dev.to/sam_keb_9c0dc14945dc1b9ff/cloud-sustainability-4o3a)
+- [I Tired of Trusting Bash Scripts With My Backups](https://dev.to/nomad4tech/i-tired-of-trusting-bash-scripts-with-my-backups-4ke4)
+- [Pós-instalação do Arch Linux](https://dev.to/natorsc/pos-instalacao-do-arch-linux-4k6g)
 <!-- BLOG-POST-LIST:END -->
 
 
