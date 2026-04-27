@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from building a social events platform - Team Up | Expo &amp; Convex](https://dev.to/thanksboss/lessons-from-building-a-social-events-platform-team-up-expo-convex-4228)
-- [I shipped v1.2.0 of my Chrome extension for intentional website blocking](https://dev.to/gojer16/i-shipped-v120-of-my-chrome-extension-for-intentional-website-blocking-430n)
-- [Identity: A cryptographic tale](https://dev.to/coding-cosmos/identity-a-cryptographic-tale-ja3)
-- [Enforcing Domain Invariants: Ontologic Part 2](https://dev.to/sacha/enforcing-domain-invariants-ontologic-part-2-2ea9)
+- [La importancia de no ser None](https://dev.to/baltasarq/la-importancia-de-no-ser-none-1k99)
+- [From Concept to Code: Building an AI-Based Adverse Drug Reaction Detection System](https://dev.to/rishikachanda/from-concept-to-code-building-an-ai-based-adverse-drug-reaction-detection-system-16bf)
+- [April 2026&#39;s LLM Avalanche: 5 Frontier Drops in 9 Days, ~50% Price Cut, 3 Migrations to Plan Now](https://dev.to/tokenmixai/april-2026s-llm-avalanche-5-frontier-drops-in-9-days-50-price-cut-3-migrations-to-plan-now-4och)
+- [From Inventory Chaos to a Real-Time Command Center](https://dev.to/amin_haiqal_2b12dc1098e18/from-inventory-chaos-to-a-real-time-command-center-12gl)
 <!-- BLOG-POST-LIST:END -->
 
 
