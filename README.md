@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Notion Template Alternatives? You Probably Need Something Else Entirely](https://dev.to/kanta13jp1/looking-for-notion-template-alternatives-you-probably-need-something-else-entirely-2mdn)
-- [Biometric Key Rotation: Securing Tunnels with Real-Time Wearable Entropy](https://dev.to/instatunnel/biometric-key-rotation-securing-tunnels-with-real-time-wearable-entropy-228n)
-- [Rating and Feedback Collector](https://dev.to/codexlancers/rating-and-feedback-collector-46i1)
-- [I Analyzed 5 Famous Hacked Contracts with AI — Here&#39;s What It Found](https://dev.to/pavelespitia/i-analyzed-5-famous-hacked-contracts-with-ai-heres-what-it-found-35ck)
+- [SOLID was written for this moment](https://dev.to/nomad4tech/solid-was-written-for-this-moment-225f)
+- [I Stopped Writing TikTok Scrapers. Five Lines of Python Replaced Them.](https://dev.to/sian-agency/i-stopped-writing-tiktok-scrapers-five-lines-of-python-replaced-them-5824)
+- [WellNest: A Django + MongoDB Powered Family-Centric Wellness Platform](https://dev.to/pippalla_srikiran/wellnest-a-django-mongodb-powered-family-centric-wellness-platform-5848)
+- [Cómo manejar fallos transitorios en .NET con Polly y ResiliencePipelineBuilder](https://dev.to/isaacojeda/como-manejar-fallos-transitorios-en-net-con-polly-y-resiliencepipelinebuilder-4fk4)
 <!-- BLOG-POST-LIST:END -->
 
 
