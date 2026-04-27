@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft 365 Copilot para developers en 2026, lo que de verdad podés construir](https://dev.to/carlosjcastrog/microsoft-365-copilot-para-developers-en-2026-lo-que-de-verdad-podes-construir-1886)
-- [ReactJs Performance ~ Database and API Optimization~](https://dev.to/kkr0423/reactjs-performance-database-and-api-optimization-39j5)
-- [Leadership Micro Katas](https://dev.to/yrizos/leadership-micro-katas-363f)
-- [Dark Mode Website Template: Ultimate Guide 2026](https://dev.to/imran_khan_a3cc224344dbcf/dark-mode-website-template-ultimate-guide-2026-mb9)
+- [Accessibility Testing: Best Practices](https://dev.to/vitalyskadorva/accessibility-testing-best-practices-3li9)
+- [100 Days of Solana — Days 1–4: Keys, Lamports, and My First Browser Wallet](https://dev.to/chus/100-days-of-solana-days-1-4-keys-lamports-and-my-first-browser-wallet-3n8)
+- [Election Educaiton and Assistant app](https://dev.to/risb21/election-educaiton-and-assistant-app-5632)
+- [When Vibe Coding Ships Fast and When It Ships Bugs](https://dev.to/nachiappannk/when-vibe-coding-ships-fast-and-when-it-ships-bugs-7ca)
 <!-- BLOG-POST-LIST:END -->
 
 
