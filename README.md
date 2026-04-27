@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Testing: Best Practices](https://dev.to/vitalyskadorva/accessibility-testing-best-practices-3li9)
-- [100 Days of Solana — Days 1–4: Keys, Lamports, and My First Browser Wallet](https://dev.to/chus/100-days-of-solana-days-1-4-keys-lamports-and-my-first-browser-wallet-3n8)
-- [Election Educaiton and Assistant app](https://dev.to/risb21/election-educaiton-and-assistant-app-5632)
-- [When Vibe Coding Ships Fast and When It Ships Bugs](https://dev.to/nachiappannk/when-vibe-coding-ships-fast-and-when-it-ships-bugs-7ca)
+- [Raspberry Pico: USB Hacking Device Programming](https://dev.to/admantium/rasperry-pico-usb-hacking-device-programming-3230)
+- [Most WebRTC Projects Don&#39;t Fail at Scale. They Fail at 300 Users.](https://dev.to/jackmorris10/most-webrtc-projects-dont-fail-at-scale-they-fail-at-300-users-45l3)
+- [The Problem Isn’t AI. It’s How We’re Using It](https://dev.to/jaideepparashar/the-problem-isnt-ai-its-how-were-using-it-2m94)
+- [The Real Problem With AI Writing All Our Code](https://dev.to/canro91/the-real-problem-with-ai-writing-all-our-code-164m)
 <!-- BLOG-POST-LIST:END -->
 
 
