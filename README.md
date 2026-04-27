@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI Left, Dashboard Right: How to Layer Interfaces in the Agent Era](https://dev.to/seekdb/cli-left-dashboard-right-how-to-layer-interfaces-in-the-agent-era-2blf)
-- [Cloud Sustainability](https://dev.to/sam_keb_9c0dc14945dc1b9ff/cloud-sustainability-4o3a)
-- [I Tired of Trusting Bash Scripts With My Backups](https://dev.to/nomad4tech/i-tired-of-trusting-bash-scripts-with-my-backups-4ke4)
-- [Pós-instalação do Arch Linux](https://dev.to/natorsc/pos-instalacao-do-arch-linux-4k6g)
+- [Looking for Notion Template Alternatives? You Probably Need Something Else Entirely](https://dev.to/kanta13jp1/looking-for-notion-template-alternatives-you-probably-need-something-else-entirely-2mdn)
+- [Biometric Key Rotation: Securing Tunnels with Real-Time Wearable Entropy](https://dev.to/instatunnel/biometric-key-rotation-securing-tunnels-with-real-time-wearable-entropy-228n)
+- [Rating and Feedback Collector](https://dev.to/codexlancers/rating-and-feedback-collector-46i1)
+- [I Analyzed 5 Famous Hacked Contracts with AI — Here&#39;s What It Found](https://dev.to/pavelespitia/i-analyzed-5-famous-hacked-contracts-with-ai-heres-what-it-found-35ck)
 <!-- BLOG-POST-LIST:END -->
 
 
