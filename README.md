@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let Claude Pentest My Own Side Project for $0.43. It Found Three Things in 12 Minutes.](https://dev.to/kielltampubolon/i-let-claude-pentest-my-own-side-project-for-043-it-found-three-things-in-12-minutes-lab)
-- [I built LeetCode for Web3 developers — looking for 20 beta testers](https://dev.to/apeces/i-built-leetcode-for-web3-developers-looking-for-20-beta-testers-169e)
-- [Ilha for Svelte Developers](https://dev.to/rgolawski/ilha-for-svelte-developers-4016)
-- [We Built a POS System That Had to Work Without Internet — Here’s What We Learned](https://dev.to/keyar/we-built-a-pos-system-that-had-to-work-without-internet-heres-what-we-learned-mcg)
+- [3 LINQ Mistakes That Hurt Backend API Performance in .NET](https://dev.to/a95yman/3-linq-mistakes-that-hurt-backend-api-performance-in-net-415k)
+- [What I Look for When Hiring Remote Full-Stack Developers &lpar;React + Node.js&rpar;](https://dev.to/lucas_rego_213f20f3bd36ed/what-i-look-for-when-hiring-remote-full-stack-developers-react-nodejs-3ihe)
+- [I Built CrabPDF: a Privacy-First PDF Editor That Runs Locally in the Browser](https://dev.to/pucyta/i-built-crabpdf-a-privacy-first-pdf-editor-that-runs-locally-in-the-browser-2973)
+- [Guardrails in AI: Keeping LLMs Safe](https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5)
 <!-- BLOG-POST-LIST:END -->
 
 
