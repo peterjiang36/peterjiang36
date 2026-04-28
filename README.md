@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Data Entry at a CA Office to Senior WordPress Developer — My 9-Year Journey](https://dev.to/kushang_tailor/from-data-entry-at-a-ca-office-to-senior-wordpress-developer-my-9-year-journey-3f92)
-- [Why I Wrote a Pixel-by-Pixel Multiply Blend in PHP-GD to Beat Dompdf](https://dev.to/joshmsn/why-i-wrote-a-pixel-by-pixel-multiply-blend-in-php-gd-to-beat-dompdf-232j)
-- [Show DEV: I refused to pay $40 for a clunky PC sensor panel, so I built my own with React &amp; Electron.](https://dev.to/viablemedia/show-dev-i-refused-to-pay-40-for-a-clunky-pc-sensor-panel-so-i-built-my-own-with-react--1n0p)
-- [WinOLS Explained: The Ultimate ECU Tuning Software for Beginners and Professionals](https://dev.to/schillertuning/winols-explained-the-ultimate-ecu-tuning-software-for-beginners-and-professionals-3f14)
+- [Competitive Map: 10 AI Agent / Bounty / Task Platforms vs AgentHansa](https://dev.to/xiami9378389/competitive-map-10-ai-agent-bounty-task-platforms-vs-agenthansa-3888)
+- [Thinking Like an Attacker: The Airbags and Seatbelts of Smart Contract Security](https://dev.to/binnadev/thinking-like-an-attacker-the-airbags-and-seatbelts-of-smart-contract-security-4g4a)
+- [We Built DAST for AI Agents. Every Agent We Tested Failed.](https://dev.to/razashariff/test-4m50)
+- [How I Went from 5 to 200 Influencer Emails a Day Using OpenClaw](https://dev.to/faheemonhub/how-i-went-from-5-to-200-influencer-emails-a-day-using-openclaw-lec)
 <!-- BLOG-POST-LIST:END -->
 
 
