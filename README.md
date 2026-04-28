@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Promises Exist in JavaScript &lpar;The Questions I Had as a Beginner&rpar;](https://dev.to/punavwalke/why-promises-exist-in-javascript-the-questions-i-had-as-a-beginner-je0)
-- [Women in Tech: 25 Years of Data - What are Teams Getting Wrong?](https://dev.to/milla_z/women-in-tech-25-years-of-data-what-are-teams-getting-wrong-41kn)
-- [Star or flag an email from the Command Line](https://dev.to/qasim157/star-or-flag-an-email-from-the-command-line-1525)
-- [Claude API Patterns: Streaming, Tool Use, and Prompt Caching](https://dev.to/kanta13jp1/claude-api-patterns-streaming-tool-use-and-prompt-caching-17eh)
+- [DDD in Go Without the Bureaucracy: Aggregates, Not Abstractions](https://dev.to/gabrielanhaia/ddd-in-go-without-the-bureaucracy-aggregates-not-abstractions-4p2k)
+- [I built Soul, a tiny compiled language that generates ~22KB binaries — here&#39;s what I learned](https://dev.to/robeltdp/i-built-soul-a-tiny-compiled-language-that-generates-22kb-binaries-heres-what-i-learned-4cd5)
+- [TurboQuant on a MacBook Pro: two findings the upstream discussion missed](https://dev.to/defilan/turboquant-on-a-macbook-pro-two-findings-the-upstream-discussion-missed-5ae7)
+- [Everyone Logs Wrong with slog. 7 Patterns for 3 AM](https://dev.to/gabrielanhaia/everyone-logs-wrong-with-slog-7-patterns-for-3-am-2c2l)
 <!-- BLOG-POST-LIST:END -->
 
 
