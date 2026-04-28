@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source Retool Alternative: A Code-First, AI-Native Approach](https://dev.to/tkarwatka/open-source-retool-alternative-a-code-first-ai-native-approach-21di)
-- [My LLM Keeps Failing in Production. Here&#39;s What I Built to Fix It Automatically.](https://dev.to/hadi_askari_7db62a7b9cad4/my-llm-keeps-failing-in-production-heres-what-i-built-to-fix-it-automatically-313e)
-- [Part 5: Closing the Loop &lpar;Git as a Runtime&rpar;](https://dev.to/peng_cao/part-5-closing-the-loop-git-as-a-runtime-36ph)
-- [AI through Visuals - Hardware](https://dev.to/javz/ai-through-visuals-hardware-5ha6)
+- [Understanding Subquery and Common Table Expressions&lpar;CTEs&rpar;](https://dev.to/gabriel_njoroge_5be6652c3/understanding-subquery-and-common-table-expressionsctes-391j)
+- [Why We Replaced Whisper 2.0 with Deepgram 2.0 and Cut Voice Transcription Costs by 45%](https://dev.to/johalputt/why-we-replaced-whisper-20-with-deepgram-20-and-cut-voice-transcription-costs-by-45-3pgg)
+- [How to Write a Perfect README: A Complete Guide for Developers](https://dev.to/aartijangid23/how-to-write-a-perfect-readme-a-complete-guide-for-developers-100p)
+- [How I Governance-Proofed Our Bedrock Agents Across Multiple AWS Accounts](https://dev.to/neziribass/how-i-governance-proofed-our-bedrock-agents-across-multiple-aws-accounts-4fb7)
 <!-- BLOG-POST-LIST:END -->
 
 
