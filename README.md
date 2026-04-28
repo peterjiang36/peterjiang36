@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Subquery and Common Table Expressions&lpar;CTEs&rpar;](https://dev.to/gabriel_njoroge_5be6652c3/understanding-subquery-and-common-table-expressionsctes-391j)
-- [Why We Replaced Whisper 2.0 with Deepgram 2.0 and Cut Voice Transcription Costs by 45%](https://dev.to/johalputt/why-we-replaced-whisper-20-with-deepgram-20-and-cut-voice-transcription-costs-by-45-3pgg)
-- [How to Write a Perfect README: A Complete Guide for Developers](https://dev.to/aartijangid23/how-to-write-a-perfect-readme-a-complete-guide-for-developers-100p)
-- [How I Governance-Proofed Our Bedrock Agents Across Multiple AWS Accounts](https://dev.to/neziribass/how-i-governance-proofed-our-bedrock-agents-across-multiple-aws-accounts-4fb7)
+- [Why Promises Exist in JavaScript &lpar;The Questions I Had as a Beginner&rpar;](https://dev.to/punavwalke/why-promises-exist-in-javascript-the-questions-i-had-as-a-beginner-je0)
+- [Women in Tech: 25 Years of Data - What are Teams Getting Wrong?](https://dev.to/milla_z/women-in-tech-25-years-of-data-what-are-teams-getting-wrong-41kn)
+- [Star or flag an email from the Command Line](https://dev.to/qasim157/star-or-flag-an-email-from-the-command-line-1525)
+- [Claude API Patterns: Streaming, Tool Use, and Prompt Caching](https://dev.to/kanta13jp1/claude-api-patterns-streaming-tool-use-and-prompt-caching-17eh)
 <!-- BLOG-POST-LIST:END -->
 
 
