@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Theory to Practice: Implementing AI Screening for Literature Reviews](https://dev.to/ken_deng_ai/from-theory-to-practice-implementing-ai-screening-for-literature-reviews-19ka)
-- [How Blockchain Development Is Moving Beyond Hype and Becoming Real Infrastructure](https://dev.to/karen_ahangari/how-blockchain-development-is-moving-beyond-hype-and-becoming-real-infrastructure-2mco)
-- [This Free JS Docx Editor Impressed Me](https://dev.to/clangclang/this-free-js-docx-editor-impressed-me-2im7)
-- [Why You Should Use Istio 1.24 for All Production Service Meshes Over Linkerd 2.15](https://dev.to/johalputt/why-you-should-use-istio-124-for-all-production-service-meshes-over-linkerd-215-2l93)
+- [Open Source Retool Alternative: A Code-First, AI-Native Approach](https://dev.to/tkarwatka/open-source-retool-alternative-a-code-first-ai-native-approach-21di)
+- [My LLM Keeps Failing in Production. Here&#39;s What I Built to Fix It Automatically.](https://dev.to/hadi_askari_7db62a7b9cad4/my-llm-keeps-failing-in-production-heres-what-i-built-to-fix-it-automatically-313e)
+- [Part 5: Closing the Loop &lpar;Git as a Runtime&rpar;](https://dev.to/peng_cao/part-5-closing-the-loop-git-as-a-runtime-36ph)
+- [AI through Visuals - Hardware](https://dev.to/javz/ai-through-visuals-hardware-5ha6)
 <!-- BLOG-POST-LIST:END -->
 
 
