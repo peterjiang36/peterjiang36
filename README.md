@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript Survival Guide &lpar;Part 2&rpar;: Start Thinking in TypeScript](https://dev.to/noriuki/typescript-survival-guide-part-2-start-thinking-in-typescript-4l2j)
-- [Designing Demos That Don’t Lie: A Demo Engineer’s Guide](https://dev.to/hugodev/designing-demos-that-dont-lie-a-demo-engineers-guide-ng3)
-- [TypeScript Survival Guide &lpar;Part 1&rpar;: Stop Making These Mistakes](https://dev.to/noriuki/typescript-survival-guide-part-1-stop-making-these-mistakes-45g7)
-- [https://github.blog/news-insights/company-news/an-update-on-github-availability/](https://dev.to/ben/httpsgithubblognews-insightscompany-newsan-update-on-github-availability-1p2m)
+- [How We Built AI Agents Into a Headless CMS](https://dev.to/tonyspiro/how-we-built-ai-agents-into-a-headless-cms-1l3g)
+- [Cross-Site Agent Intelligence: Why We Built the ARP Profile](https://dev.to/uzun/cross-site-agent-intelligence-why-we-built-the-arp-profile-3g52)
+- [Turning Manual Ops Into a 10-Minute Task](https://dev.to/sym/turning-manual-ops-into-a-10-minute-task-4eha)
+- [Sending email from alias via Gmail](https://dev.to/sym/sending-email-from-alias-via-gmail-55pp)
 <!-- BLOG-POST-LIST:END -->
 
 
