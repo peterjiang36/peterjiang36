@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Circuits Are Not Functions. That Confusion Will Break You](https://dev.to/midnight-aliit/circuits-are-not-functions-that-confusion-will-break-you-2do6)
-- [When your safety tool needs a safety review](https://dev.to/tiamatenity/when-your-safety-tool-needs-a-safety-review-i49)
-- [We audited the same codebase twice. The score went down. The audit got better. Here is why.](https://dev.to/intentguard_ole/we-audited-the-same-codebase-twice-the-score-went-down-the-audit-got-better-here-is-why-9jm)
-- [Day 85 of #100DaysOfCode — Building a Mini Flask App: Expense Tracker](https://dev.to/m_saad_ahmad/day-85-of-100daysofcode-building-a-mini-flask-app-expense-tracker-1aoi)
+- [How to Cut Azure Cobalt 100 Costs by 25% with Auto-Scaling and KEDA 2.15](https://dev.to/johalputt/how-to-cut-azure-cobalt-100-costs-by-25-with-auto-scaling-and-keda-215-325c)
+- [Who Says PHP Isn&#39;t Good Enough for OPC UA?](https://dev.to/gianfriaur/who-says-php-isnt-good-enough-for-opc-ua-5ma)
+- [Taming the AI: A Pro&#39;s Guide to Fixing E-Book Formatting Glitches](https://dev.to/ken_deng_ai/taming-the-ai-a-pros-guide-to-fixing-e-book-formatting-glitches-5fe0)
+- [The Best Laravel SaaS Architecture: Scalable Structure for Real-World Projects](https://dev.to/naelawadallah/the-best-laravel-saas-architecture-scalable-structure-for-real-world-projects-41nb)
 <!-- BLOG-POST-LIST:END -->
 
 
