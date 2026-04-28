@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Windows Desktop Apps to Fix My Own Annoying Workflows](https://dev.to/wpzstudio/i-built-windows-desktop-apps-to-fix-my-own-annoying-workflows-1k3g)
-- [How to Convert JSON to TypeScript Types &lpar;Without Writing Them by Hand&rpar;](https://dev.to/pioneer10/how-to-convert-json-to-typescript-types-without-writing-them-by-hand-1b8b)
-- [Step-by-Step Guide to Setting Up Local AI Code Review with Continue.dev 0.9, Ollama 0.5, and ESLint 9](https://dev.to/johalputt/step-by-step-guide-to-setting-up-local-ai-code-review-with-continuedev-09-ollama-05-and-eslint-1op0)
-- [TradingAgents v0.2.4: A Multi-Agent LLM Framework That Simulates an Entire Trading Firm](https://dev.to/_46ea277e677b888e0cd13/tradingagents-v024-a-multi-agent-llm-framework-that-simulates-an-entire-trading-firm-g2e)
+- [Stop Making Dead Charts: Plotly and the World of Interactive Visualization](https://dev.to/yakhilesh/stop-making-dead-charts-plotly-and-the-world-of-interactive-visualization-4imn)
+- [I scanned 5 popular OSS repos in 5 minutes. Here&#39;s what I found.](https://dev.to/depmedicdevbyte/i-scanned-5-popular-oss-repos-in-5-minutes-heres-what-i-found-3f9o)
+- [Pick your shadcn base, your style, your icons](https://dev.to/shadcncraft/pick-your-shadcn-base-your-style-your-icons-23dm)
+- [I built a small tool that generates a resume from a public URL.](https://dev.to/abhijithb/i-built-a-small-tool-that-generates-a-resume-from-a-public-url-46l8)
 <!-- BLOG-POST-LIST:END -->
 
 
