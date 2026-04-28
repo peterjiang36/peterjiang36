@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Figma to Tailwind Without Writing a Single px — A Real Automation Case in Production](https://dev.to/giovanni786/from-figma-to-tailwind-without-writing-a-single-px-a-real-automation-case-in-production-2510)
-- [Designing AI Personality: The What / How / Who Framework](https://dev.to/kanta13jp1/designing-ai-personality-the-what-how-who-framework-1ibp)
-- [Can AI Replace Data Engineers? We Tried It.](https://dev.to/ravikiranpagidi/can-ai-replace-data-engineers-we-tried-it-3i3a)
-- [Surviving Midnight SDK: a 700-line cure for the silent failure problem](https://dev.to/fredsanntana/surviving-midnight-sdk-a-700-line-cure-for-the-silent-failure-problem-57p)
+- [Stop merging vulnerable API code — automate PR security gates with Semgrep + Claude AI](https://dev.to/vorsken/stop-merging-vulnerable-api-code-automate-pr-security-gates-with-semgrep-claude-ai-22ik)
+- [Rich Markdown in Your Tasks — Code, Diagrams, and More](https://dev.to/oatnil/rich-markdown-in-your-tasks-code-diagrams-and-more-4eij)
+- [The SocialCraft AI Rendering Lifecycle: From Prompt to MP4](https://dev.to/dwelvin_morgan_38be4ff3ba/the-socialcraft-ai-rendering-lifecycle-from-prompt-to-mp4-4ka1)
+- [Beyond the Code](https://dev.to/david2am/beyond-the-code-59en)
 <!-- BLOG-POST-LIST:END -->
 
 
