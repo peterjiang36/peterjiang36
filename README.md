@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Making Dead Charts: Plotly and the World of Interactive Visualization](https://dev.to/yakhilesh/stop-making-dead-charts-plotly-and-the-world-of-interactive-visualization-4imn)
-- [I scanned 5 popular OSS repos in 5 minutes. Here&#39;s what I found.](https://dev.to/depmedicdevbyte/i-scanned-5-popular-oss-repos-in-5-minutes-heres-what-i-found-3f9o)
-- [Pick your shadcn base, your style, your icons](https://dev.to/shadcncraft/pick-your-shadcn-base-your-style-your-icons-23dm)
-- [I built a small tool that generates a resume from a public URL.](https://dev.to/abhijithb/i-built-a-small-tool-that-generates-a-resume-from-a-public-url-46l8)
+- [From Data Entry at a CA Office to Senior WordPress Developer — My 9-Year Journey](https://dev.to/kushang_tailor/from-data-entry-at-a-ca-office-to-senior-wordpress-developer-my-9-year-journey-3f92)
+- [Why I Wrote a Pixel-by-Pixel Multiply Blend in PHP-GD to Beat Dompdf](https://dev.to/joshmsn/why-i-wrote-a-pixel-by-pixel-multiply-blend-in-php-gd-to-beat-dompdf-232j)
+- [Show DEV: I refused to pay $40 for a clunky PC sensor panel, so I built my own with React &amp; Electron.](https://dev.to/viablemedia/show-dev-i-refused-to-pay-40-for-a-clunky-pc-sensor-panel-so-i-built-my-own-with-react--1n0p)
+- [WinOLS Explained: The Ultimate ECU Tuning Software for Beginners and Professionals](https://dev.to/schillertuning/winols-explained-the-ultimate-ecu-tuning-software-for-beginners-and-professionals-3f14)
 <!-- BLOG-POST-LIST:END -->
 
 
