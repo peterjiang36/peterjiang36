@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced 2,000 Lines of Go Mocks With 200 Lines of Fakes](https://dev.to/gabrielanhaia/i-replaced-2000-lines-of-go-mocks-with-200-lines-of-fakes-1jak)
-- [Your gRPC Protobuf Types Don&#39;t Belong in Your Domain Layer](https://dev.to/gabrielanhaia/your-grpc-protobuf-types-dont-belong-in-your-domain-layer-494g)
-- [Adaptive Rate Limiting with Redis and Lua](https://dev.to/debjit450/adaptive-rate-limiting-with-redis-and-lua-32fe)
-- [Go&#39;s Implicit Interfaces Are Its Best Architecture Feature](https://dev.to/gabrielanhaia/gos-implicit-interfaces-are-its-best-architecture-feature-2h8p)
+- [🛡️ حل احترافي لثغرة Prototype Pollution في protobufjs](https://dev.to/warrior_bugfinderwarri/hl-htrfy-lthgr-prototype-pollution-fy-protobufjs-5fbk)
+- [Comparison: k9s 0.32.0 vs. Lens 6.0 vs. Octant 0.25.0 for K8s 1.32 Administration](https://dev.to/johalputt/comparison-k9s-0320-vs-lens-60-vs-octant-0250-for-k8s-132-administration-4g55)
+- [GitHub Let a Git Push Hijack Its Servers &lpar;RCE CVE-2026-3854&rpar;](https://dev.to/monkfromearth/github-let-a-git-push-hijack-its-servers-rce-cve-2026-3854-bl8)
+- [EUDAMED goes mandatory May 2026 — a pragmatic checklist for manufacturers](https://dev.to/priya_nair_ree/eudamed-goes-mandatory-may-2026-a-pragmatic-checklist-for-manufacturers-7b8)
 <!-- BLOG-POST-LIST:END -->
 
 
