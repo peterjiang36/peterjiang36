@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Competitive Map: 10 AI Agent / Bounty / Task Platforms vs AgentHansa](https://dev.to/xiami9378389/competitive-map-10-ai-agent-bounty-task-platforms-vs-agenthansa-3888)
-- [Thinking Like an Attacker: The Airbags and Seatbelts of Smart Contract Security](https://dev.to/binnadev/thinking-like-an-attacker-the-airbags-and-seatbelts-of-smart-contract-security-4g4a)
-- [We Built DAST for AI Agents. Every Agent We Tested Failed.](https://dev.to/razashariff/test-4m50)
-- [How I Went from 5 to 200 Influencer Emails a Day Using OpenClaw](https://dev.to/faheemonhub/how-i-went-from-5-to-200-influencer-emails-a-day-using-openclaw-lec)
+- [Circuits Are Not Functions. That Confusion Will Break You](https://dev.to/midnight-aliit/circuits-are-not-functions-that-confusion-will-break-you-2do6)
+- [When your safety tool needs a safety review](https://dev.to/tiamatenity/when-your-safety-tool-needs-a-safety-review-i49)
+- [We audited the same codebase twice. The score went down. The audit got better. Here is why.](https://dev.to/intentguard_ole/we-audited-the-same-codebase-twice-the-score-went-down-the-audit-got-better-here-is-why-9jm)
+- [Day 85 of #100DaysOfCode — Building a Mini Flask App: Expense Tracker](https://dev.to/m_saad_ahmad/day-85-of-100daysofcode-building-a-mini-flask-app-expense-tracker-1aoi)
 <!-- BLOG-POST-LIST:END -->
 
 
