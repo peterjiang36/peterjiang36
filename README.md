@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Cut Azure Cobalt 100 Costs by 25% with Auto-Scaling and KEDA 2.15](https://dev.to/johalputt/how-to-cut-azure-cobalt-100-costs-by-25-with-auto-scaling-and-keda-215-325c)
-- [Who Says PHP Isn&#39;t Good Enough for OPC UA?](https://dev.to/gianfriaur/who-says-php-isnt-good-enough-for-opc-ua-5ma)
-- [Taming the AI: A Pro&#39;s Guide to Fixing E-Book Formatting Glitches](https://dev.to/ken_deng_ai/taming-the-ai-a-pros-guide-to-fixing-e-book-formatting-glitches-5fe0)
-- [The Best Laravel SaaS Architecture: Scalable Structure for Real-World Projects](https://dev.to/naelawadallah/the-best-laravel-saas-architecture-scalable-structure-for-real-world-projects-41nb)
+- [From Theory to Practice: Implementing AI Screening for Literature Reviews](https://dev.to/ken_deng_ai/from-theory-to-practice-implementing-ai-screening-for-literature-reviews-19ka)
+- [How Blockchain Development Is Moving Beyond Hype and Becoming Real Infrastructure](https://dev.to/karen_ahangari/how-blockchain-development-is-moving-beyond-hype-and-becoming-real-infrastructure-2mco)
+- [This Free JS Docx Editor Impressed Me](https://dev.to/clangclang/this-free-js-docx-editor-impressed-me-2im7)
+- [Why You Should Use Istio 1.24 for All Production Service Meshes Over Linkerd 2.15](https://dev.to/johalputt/why-you-should-use-istio-124-for-all-production-service-meshes-over-linkerd-215-2l93)
 <!-- BLOG-POST-LIST:END -->
 
 
