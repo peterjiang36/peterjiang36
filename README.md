@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DDD in Go Without the Bureaucracy: Aggregates, Not Abstractions](https://dev.to/gabrielanhaia/ddd-in-go-without-the-bureaucracy-aggregates-not-abstractions-4p2k)
-- [I built Soul, a tiny compiled language that generates ~22KB binaries — here&#39;s what I learned](https://dev.to/robeltdp/i-built-soul-a-tiny-compiled-language-that-generates-22kb-binaries-heres-what-i-learned-4cd5)
-- [TurboQuant on a MacBook Pro: two findings the upstream discussion missed](https://dev.to/defilan/turboquant-on-a-macbook-pro-two-findings-the-upstream-discussion-missed-5ae7)
-- [Everyone Logs Wrong with slog. 7 Patterns for 3 AM](https://dev.to/gabrielanhaia/everyone-logs-wrong-with-slog-7-patterns-for-3-am-2c2l)
+- [I Replaced 2,000 Lines of Go Mocks With 200 Lines of Fakes](https://dev.to/gabrielanhaia/i-replaced-2000-lines-of-go-mocks-with-200-lines-of-fakes-1jak)
+- [Your gRPC Protobuf Types Don&#39;t Belong in Your Domain Layer](https://dev.to/gabrielanhaia/your-grpc-protobuf-types-dont-belong-in-your-domain-layer-494g)
+- [Adaptive Rate Limiting with Redis and Lua](https://dev.to/debjit450/adaptive-rate-limiting-with-redis-and-lua-32fe)
+- [Go&#39;s Implicit Interfaces Are Its Best Architecture Feature](https://dev.to/gabrielanhaia/gos-implicit-interfaces-are-its-best-architecture-feature-2h8p)
 <!-- BLOG-POST-LIST:END -->
 
 
