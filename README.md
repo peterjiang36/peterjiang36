@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built AI Agents Into a Headless CMS](https://dev.to/tonyspiro/how-we-built-ai-agents-into-a-headless-cms-1l3g)
-- [Cross-Site Agent Intelligence: Why We Built the ARP Profile](https://dev.to/uzun/cross-site-agent-intelligence-why-we-built-the-arp-profile-3g52)
-- [Turning Manual Ops Into a 10-Minute Task](https://dev.to/sym/turning-manual-ops-into-a-10-minute-task-4eha)
-- [Sending email from alias via Gmail](https://dev.to/sym/sending-email-from-alias-via-gmail-55pp)
+- [Vue vs. React: Which JavaScript UI framework is best?](https://dev.to/hugodev/vue-vs-react-which-javascript-ui-framework-is-best-1coc)
+- [Flutter GoRouter Advanced — Nested Navigation, Auth Guards, and Deep Links](https://dev.to/kanta13jp1/flutter-gorouter-advanced-nested-navigation-auth-guards-and-deep-links-138o)
+- [The Small Documentation Mistakes That Turn Good Products Into Frustrating Ones](https://dev.to/ezejah_chimkamma_06758a9b/the-small-documentation-mistakes-that-turn-good-products-into-frustrating-ones-1h7i)
+- [Supabase Stripe — Implement Subscription Billing with Edge Functions](https://dev.to/kanta13jp1/supabase-x-stripe-implement-subscription-billing-with-edge-functions-hah)
 <!-- BLOG-POST-LIST:END -->
 
 
