@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [April 30 - Best of WACV 2026 &lpar;Day 1&rpar;](https://dev.to/voxel51/april-30-best-of-wacv-2026-day-1-l)
-- [I couldn’t find Better Auth in Go, so I built one](https://dev.to/thecodearcher/i-couldnt-find-better-auth-in-go-so-i-built-one-4d75)
-- [How to Track Where Your Form Submissions Are Coming From](https://dev.to/allenarduino/how-to-track-where-your-form-submissions-are-coming-from-3ila)
-- [Introducing the Agent Platform - 40% Complete &lpar;2026-04-28 23:21&rpar;](https://dev.to/gad_ofir_076c468dd15d483b/introducing-the-agent-platform-40-complete-2026-04-28-2321-47ko)
+- [TypeScript Survival Guide &lpar;Part 2&rpar;: Start Thinking in TypeScript](https://dev.to/noriuki/typescript-survival-guide-part-2-start-thinking-in-typescript-4l2j)
+- [Designing Demos That Don’t Lie: A Demo Engineer’s Guide](https://dev.to/hugodev/designing-demos-that-dont-lie-a-demo-engineers-guide-ng3)
+- [TypeScript Survival Guide &lpar;Part 1&rpar;: Stop Making These Mistakes](https://dev.to/noriuki/typescript-survival-guide-part-1-stop-making-these-mistakes-45g7)
+- [https://github.blog/news-insights/company-news/an-update-on-github-availability/](https://dev.to/ben/httpsgithubblognews-insightscompany-newsan-update-on-github-availability-1p2m)
 <!-- BLOG-POST-LIST:END -->
 
 
