@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop merging vulnerable API code — automate PR security gates with Semgrep + Claude AI](https://dev.to/vorsken/stop-merging-vulnerable-api-code-automate-pr-security-gates-with-semgrep-claude-ai-22ik)
-- [Rich Markdown in Your Tasks — Code, Diagrams, and More](https://dev.to/oatnil/rich-markdown-in-your-tasks-code-diagrams-and-more-4eij)
-- [The SocialCraft AI Rendering Lifecycle: From Prompt to MP4](https://dev.to/dwelvin_morgan_38be4ff3ba/the-socialcraft-ai-rendering-lifecycle-from-prompt-to-mp4-4ka1)
-- [Beyond the Code](https://dev.to/david2am/beyond-the-code-59en)
+- [I Built Windows Desktop Apps to Fix My Own Annoying Workflows](https://dev.to/wpzstudio/i-built-windows-desktop-apps-to-fix-my-own-annoying-workflows-1k3g)
+- [How to Convert JSON to TypeScript Types &lpar;Without Writing Them by Hand&rpar;](https://dev.to/pioneer10/how-to-convert-json-to-typescript-types-without-writing-them-by-hand-1b8b)
+- [Step-by-Step Guide to Setting Up Local AI Code Review with Continue.dev 0.9, Ollama 0.5, and ESLint 9](https://dev.to/johalputt/step-by-step-guide-to-setting-up-local-ai-code-review-with-continuedev-09-ollama-05-and-eslint-1op0)
+- [TradingAgents v0.2.4: A Multi-Agent LLM Framework That Simulates an Entire Trading Firm](https://dev.to/_46ea277e677b888e0cd13/tradingagents-v024-a-multi-agent-llm-framework-that-simulates-an-entire-trading-firm-g2e)
 <!-- BLOG-POST-LIST:END -->
 
 
