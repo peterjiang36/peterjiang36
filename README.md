@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeking UI/UX Feedback for INCH-in-cm-umrechner.de – Improving Usability &amp; User Retention](https://dev.to/sahl/seeking-uiux-feedback-for-inch-in-cm-umrechnerde-improving-usability-user-retention-2en7)
-- [Why I&#39;m Not Building Autonomous Job Search AI &lpar;Yet&rpar;](https://dev.to/elenarevicheva/why-im-not-building-autonomous-job-search-ai-yet-208i)
-- [Understanding Transformers Part 15: Scaling and Combining Values in Encoder–Decoder Attention](https://dev.to/rijultp/understanding-transformers-part-15-scaling-and-combining-values-in-encoder-decoder-attention-4dfm)
-- [When GitHub Actions Goes Silent: The Pending-Forever Bug I Hit Shipping My MCP Server to npm](https://dev.to/achiya-automation/when-github-actions-goes-silent-the-pending-forever-bug-i-hit-shipping-my-mcp-server-to-npm-229m)
+- [April 30 - Best of WACV 2026 &lpar;Day 1&rpar;](https://dev.to/voxel51/april-30-best-of-wacv-2026-day-1-l)
+- [I couldn’t find Better Auth in Go, so I built one](https://dev.to/thecodearcher/i-couldnt-find-better-auth-in-go-so-i-built-one-4d75)
+- [How to Track Where Your Form Submissions Are Coming From](https://dev.to/allenarduino/how-to-track-where-your-form-submissions-are-coming-from-3ila)
+- [Introducing the Agent Platform - 40% Complete &lpar;2026-04-28 23:21&rpar;](https://dev.to/gad_ofir_076c468dd15d483b/introducing-the-agent-platform-40-complete-2026-04-28-2321-47ko)
 <!-- BLOG-POST-LIST:END -->
 
 
