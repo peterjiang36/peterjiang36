@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub 星标 18.6 万的工具，90% 的团队用错了：n8n 工作流的 5 个隐藏神技 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/github-xing-biao-186-mo-de-gong-ju-90-de-tuan-dui-yong-cuo-liao-n8n-gong-zuo-liu-de-5-ge-yin-cang-shen-ji-4ced)
-- [n8n&#39;s 5 Hidden Workflow Patterns Nobody Teaches &lpar;186K Stars, But 90% Use It Wrong&rpar;](https://dev.to/_cbd692d476c5faf3b61bcf/n8ns-5-hidden-workflow-patterns-nobody-teaches-186k-stars-but-90-use-it-wrong-1ena)
-- [Idea for Managing Policies Across Nearly 1,000 AWS Organizations — A Reseller&#39;s Perspective](https://dev.to/aws-builders/idea-for-managing-policies-across-nearly-1000-aws-organizations-a-resellers-perspective-2o22)
-- [Cold Starts Are Dead](https://dev.to/aws/cold-starts-are-dead-5fod)
+- [Why We Banned &#39;Within the Realm of...&#39; From Our AI Game Descriptions](https://dev.to/doodoolove/why-we-banned-within-the-realm-of-from-our-ai-game-descriptions-2cb2)
+- [Why Most IoT Visibility Stacks Stall at Level 2 &lpar;And What Climbing to Level 3 Actually Looks Like in Code&rpar;](https://dev.to/applekoiot/why-most-iot-visibility-stacks-stall-at-level-2-and-what-climbing-to-level-3-actually-looks-like-bg0)
+- [How I Revamped a Local Cram School Website Using AI &lpar;Claude, Gemini, and Codex&rpar;](https://dev.to/_02no_oka/how-i-revamped-a-local-cram-school-website-using-ai-claude-gemini-and-codex-38jd)
+- [The Automation Paradox: You Cannot Prompt Your Way Out of an Architecture Problem](https://dev.to/vektor_memory_43f51a32376/the-automation-paradox-you-cannot-prompt-your-way-out-of-an-architecture-problem-1adb)
 <!-- BLOG-POST-LIST:END -->
 
 
