@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Product Engagement Metrics and How to Track Them](https://dev.to/yos/top-product-engagement-metrics-and-how-to-track-them-2de0)
-- [Top Web3 Analytics Tools for Wallet-Level Tracking](https://dev.to/yos/top-web3-analytics-tools-for-wallet-level-tracking-4db2)
-- [The Definitive Guide to Choosing Top Web3 Analytics Companies](https://dev.to/yos/the-definitive-guide-to-choosing-top-web3-analytics-companies-1eg3)
-- [Best Onchain Attribution Providers for Web3 Marketing Analytics](https://dev.to/yos/best-onchain-attribution-providers-for-web3-marketing-analytics-3i29)
+- [AOV alone is misleading - the CVR/RPS trap, and 10 tactics to lift order value](https://dev.to/toshihiro_shishido/aov-alone-is-misleading-the-cvrrps-trap-and-10-tactics-to-lift-order-value-1eni)
+- [8 Open-Source Security Tools Every Developer Should Be Using in 2026](https://dev.to/sonotommy/8-open-source-security-tools-every-developer-should-be-using-in-2026-3ai0)
+- [How to Track Where Your Form Submissions Are Coming From Using Your Own HTML Form](https://dev.to/allenarduino/how-to-track-where-your-form-submissions-are-coming-from-using-your-own-html-form-4k5c)
+- [Idempotency Keys: What Most Tutorials Don&#39;t Tell You](https://dev.to/highflyer910/idempotency-keys-what-most-tutorials-dont-tell-you-1ncc)
 <!-- BLOG-POST-LIST:END -->
 
 
