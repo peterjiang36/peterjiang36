@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Sniffed Xiaohongshu&#39;s Collection API in 90 Seconds — and Why CORS Made Me Rewrite the Whole Approach](https://dev.to/snake_sun/how-i-sniffed-xiaohongshus-collection-api-in-90-seconds-and-why-cors-made-me-rewrite-the-whole-2ebf)
-- [I Let One AI Agent Ship My Entire iOS Portfolio. Here&#39;s What Broke.](https://dev.to/snake_sun/i-let-one-ai-agent-ship-my-entire-ios-portfolio-heres-what-broke-38i)
-- [Training Your Pokémon: My AI Orchestration System](https://dev.to/knmeiss/training-your-pokemon-my-ai-orchestration-system-k7p)
-- [Aggregate Boundaries in Go: One Rule That Beats 90% of DDD Books](https://dev.to/gabrielanhaia/aggregate-boundaries-in-go-one-rule-that-beats-90-of-ddd-books-3m5f)
+- [Claude built me a high-level coding system in 4 European languages](https://dev.to/gtanyware/claude-built-me-a-high-level-coding-system-in-4-european-languages-461a)
+- [How to Compute Zero Trust Effectiveness: Four Metrics That Survive a Breach](https://dev.to/sven_schuchardt_0aa51663a/how-to-compute-zero-trust-effectiveness-four-metrics-that-survive-a-breach-1ghg)
+- [Vibe Code Your First Midnight dApp with AI Agent Skills](https://dev.to/midnight-aliit/vibe-code-your-first-midnight-dapp-with-ai-agent-skills-2ocn)
+- [4 Ways to Keep a Developer Portfolio Current &lpar;Compared Honestly&rpar;](https://dev.to/zansuken/4-ways-to-keep-a-developer-portfolio-current-compared-honestly-89l)
 <!-- BLOG-POST-LIST:END -->
 
 
