@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Building SaaS in 2026](https://dev.to/arunkant/why-im-building-saas-in-2026-55hn)
-- [What &quot;Offline-First&quot; Actually Means When You&#39;re Building a Privacy Tool](https://dev.to/hiyoyok/what-offline-first-actually-means-when-youre-building-a-privacy-tool-1a6e)
-- [Your landing page isn&#39;t converting because of copy, not design](https://dev.to/swiftcopy/your-landing-page-isnt-converting-because-of-copy-not-design-16ka)
-- [Sensory-First Intelligence: An Agent-Driven Approach to Brain-Inspired Neural Architectures](https://dev.to/drrhys_pritchardphdmscbsc/sensory-first-intelligence-an-agent-driven-approach-to-brain-inspired-neural-architectures-354p)
+- [Why ChatGPT will silently lie about your bank statement &lpar;and how to catch it&rpar;](https://dev.to/poskono_99425db14ac67774/why-chatgpt-will-silently-lie-about-your-bank-statement-and-how-to-catch-it-13mb)
+- [The Perils of Agentic Coding: Vigilance Against Cognitive Debt](https://dev.to/dd8888/the-perils-of-agentic-coding-vigilance-against-cognitive-debt-5o1)
+- [BYOD for AI ad-ops — give the agent a CSV, not your refresh token](https://dev.to/yoshinaga/byod-for-ai-ad-ops-give-the-agent-a-csv-not-your-refresh-token-1fnn)
+- [Rendering powerpoint to png files with JBang](https://dev.to/sshaaf/rendering-powerpoint-to-png-files-with-jbang-1nhi)
 <!-- BLOG-POST-LIST:END -->
 
 
