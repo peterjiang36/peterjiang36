@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Same for me at the moment](https://dev.to/ben/same-for-me-at-the-moment-1c2j)
-- [Moving Beyond XAMPP: Why FlyEnv is the Modern Alternative for Web Developers.](https://dev.to/m_azzuhry_0d498eb45514fb0/moving-beyond-xampp-why-flyenv-is-the-modern-alternative-for-web-developers-205j)
-- [My Terminal Setup: Zsh, Oh My Zsh, Powerlevel10k and Tmux](https://dev.to/gsudarshan/my-terminal-setup-zsh-oh-my-zsh-powerlevel10k-and-tmux-o75)
-- [The Lindy Effect: Why Web Standards Are a Safer Financial Investment Than the Latest JS Framework](https://dev.to/campadev/the-lindy-effect-why-web-standards-are-a-safer-financial-investment-than-the-latest-js-framework-pnn)
+- [How I Sniffed Xiaohongshu&#39;s Collection API in 90 Seconds — and Why CORS Made Me Rewrite the Whole Approach](https://dev.to/snake_sun/how-i-sniffed-xiaohongshus-collection-api-in-90-seconds-and-why-cors-made-me-rewrite-the-whole-2ebf)
+- [I Let One AI Agent Ship My Entire iOS Portfolio. Here&#39;s What Broke.](https://dev.to/snake_sun/i-let-one-ai-agent-ship-my-entire-ios-portfolio-heres-what-broke-38i)
+- [Training Your Pokémon: My AI Orchestration System](https://dev.to/knmeiss/training-your-pokemon-my-ai-orchestration-system-k7p)
+- [Aggregate Boundaries in Go: One Rule That Beats 90% of DDD Books](https://dev.to/gabrielanhaia/aggregate-boundaries-in-go-one-rule-that-beats-90-of-ddd-books-3m5f)
 <!-- BLOG-POST-LIST:END -->
 
 
