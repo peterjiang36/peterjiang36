@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Watermark Remover — Here’s What I Actually Learned](https://dev.to/eric_cheung_1030/i-built-a-watermark-remover-heres-what-i-actually-learned-4o86)
-- [CSS Cascade Layers: The Specificity Solution Your Build Tool Can Automate](https://dev.to/shokre/css-cascade-layers-the-specificity-solution-your-build-tool-can-automate-1f6i)
-- [30-Day Cloud &amp; DevOps Challenge: Day 8 — Jenkins: my First CI/CD Pipeline](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-8-jenkins-your-first-cicd-pipeline-311e)
-- [I Tried Thinking Like an AI-Powered Data Analyst After Google Cloud NEXT &#39;26 — Here’s What Changed](https://dev.to/sarthak_gupta_b2b/i-tried-thinking-like-an-ai-powered-data-analyst-after-google-cloud-next-26-heres-what-changed-2hi8)
+- [How We Helped an Agri Company Generate 500+ Documents/Day Without Rebuilding Their System](https://dev.to/templionix/how-we-helped-an-agri-company-generate-500-documentsday-without-rebuilding-their-system-31ni)
+- [Dart Macros — Compile-time Code Generation Without Build Runner](https://dev.to/kanta13jp1/dart-macros-compile-time-code-generation-without-build-runner-1p35)
+- [Rewriting Our Frontend from Angular 17 to Vue 3.5: 40% Smaller Bundles](https://dev.to/johalputt/rewriting-our-frontend-from-angular-17-to-vue-35-40-smaller-bundles-2nmm)
+- [A Simple System to Reduce Price Shocks in Unstable Markets](https://dev.to/farzan_dev13/a-simple-system-to-reduce-price-shocks-in-unstable-markets-4epl)
 <!-- BLOG-POST-LIST:END -->
 
 
