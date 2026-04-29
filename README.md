@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AOV alone is misleading - the CVR/RPS trap, and 10 tactics to lift order value](https://dev.to/toshihiro_shishido/aov-alone-is-misleading-the-cvrrps-trap-and-10-tactics-to-lift-order-value-1eni)
-- [8 Open-Source Security Tools Every Developer Should Be Using in 2026](https://dev.to/sonotommy/8-open-source-security-tools-every-developer-should-be-using-in-2026-3ai0)
-- [How to Track Where Your Form Submissions Are Coming From Using Your Own HTML Form](https://dev.to/allenarduino/how-to-track-where-your-form-submissions-are-coming-from-using-your-own-html-form-4k5c)
-- [Idempotency Keys: What Most Tutorials Don&#39;t Tell You](https://dev.to/highflyer910/idempotency-keys-what-most-tutorials-dont-tell-you-1ncc)
+- [Why I&#39;m Building SaaS in 2026](https://dev.to/arunkant/why-im-building-saas-in-2026-55hn)
+- [What &quot;Offline-First&quot; Actually Means When You&#39;re Building a Privacy Tool](https://dev.to/hiyoyok/what-offline-first-actually-means-when-youre-building-a-privacy-tool-1a6e)
+- [Your landing page isn&#39;t converting because of copy, not design](https://dev.to/swiftcopy/your-landing-page-isnt-converting-because-of-copy-not-design-16ka)
+- [Sensory-First Intelligence: An Agent-Driven Approach to Brain-Inspired Neural Architectures](https://dev.to/drrhys_pritchardphdmscbsc/sensory-first-intelligence-an-agent-driven-approach-to-brain-inspired-neural-architectures-354p)
 <!-- BLOG-POST-LIST:END -->
 
 
