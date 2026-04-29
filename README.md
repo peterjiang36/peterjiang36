@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue vs. React: Which JavaScript UI framework is best?](https://dev.to/hugodev/vue-vs-react-which-javascript-ui-framework-is-best-1coc)
-- [Flutter GoRouter Advanced — Nested Navigation, Auth Guards, and Deep Links](https://dev.to/kanta13jp1/flutter-gorouter-advanced-nested-navigation-auth-guards-and-deep-links-138o)
-- [The Small Documentation Mistakes That Turn Good Products Into Frustrating Ones](https://dev.to/ezejah_chimkamma_06758a9b/the-small-documentation-mistakes-that-turn-good-products-into-frustrating-ones-1h7i)
-- [Supabase Stripe — Implement Subscription Billing with Edge Functions](https://dev.to/kanta13jp1/supabase-x-stripe-implement-subscription-billing-with-edge-functions-hah)
+- [War Story: We Ditched Auth0 9.0 for NextAuth 5.0 and Cut Authentication Costs by 60% for 500k Users](https://dev.to/johalputt/war-story-we-ditched-auth0-90-for-nextauth-50-and-cut-authentication-costs-by-60-for-500k-users-4n3i)
+- [Why I Built a Native Mac App Instead of a Web App — and What I&#39;d Do Differently](https://dev.to/hiyoyok/why-i-built-a-native-mac-app-instead-of-a-web-app-and-what-id-do-differently-47ld)
+- [Free Shopify Alternatives I Actually Set Up for Real Stores &lpar;Not Just Tested in a Sandbox&rpar;](https://dev.to/ericwoooo_kr/free-shopify-alternatives-i-actually-set-up-for-real-stores-not-just-tested-in-a-sandbox-4dbk)
+- [टेलीग्राम मीडिया वितरण का विखंडन &lpar;Deconstruction&rpar;: MTProto और Async I/O के साथ एक उच्च-प्रदर्शन डाउनलोड इंजन का निर्माण](https://dev.to/yqqwe/tteliigraam-miiddiyaa-vitrnn-kaa-vikhnddn-deconstruction-mtproto-aur-async-io-ke-saath-ek-ucc-prdrshn-31lf)
 <!-- BLOG-POST-LIST:END -->
 
 
