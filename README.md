@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TradingGoose-Market: canonical ticker identity across market data providers](https://dev.to/bwj2310/tradinggoose-market-canonical-ticker-identity-across-market-data-providers-31g)
-- [What I Learned Building Real Backend Applications with Java and Spring Boot](https://dev.to/igordevfullstack/what-i-learned-building-real-backend-applications-with-java-and-spring-boot-56go)
-- [I built istempmail.com](https://dev.to/gregor_nobis_b4295c5ee819/i-built-istempmailcom-52gc)
-- [Building a Morpheus Plugin A Practical Walkthrough](https://dev.to/emre_baykal_a4a7a479d48c5/building-a-morpheus-plugin-a-practical-walkthrough-3gbh)
+- [Mapa de Ciberseguridad en AWS: Guía Completa de Servicios](https://dev.to/byron_lainez/mapa-de-ciberseguridad-en-aws-guia-completa-de-servicios-1jh8)
+- [ProGate: A 3-Tier React Server Component Pattern for SaaS Subscriptions](https://dev.to/matthias_studiomeyer/progate-a-3-tier-react-server-component-pattern-for-saas-subscriptions-7gp)
+- [Chapter 10: Multi-Head Attention and the MLP Block](https://dev.to/garyljackson/chapter-10-multi-head-attention-and-the-mlp-block-57cp)
+- [Easily benchmark all your app&#39;s endpoints at once](https://dev.to/mackoverflow/easily-benchmark-all-your-apps-endpoints-at-once-2fod)
 <!-- BLOG-POST-LIST:END -->
 
 
