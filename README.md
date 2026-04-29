@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Banned &#39;Within the Realm of...&#39; From Our AI Game Descriptions](https://dev.to/doodoolove/why-we-banned-within-the-realm-of-from-our-ai-game-descriptions-2cb2)
-- [Why Most IoT Visibility Stacks Stall at Level 2 &lpar;And What Climbing to Level 3 Actually Looks Like in Code&rpar;](https://dev.to/applekoiot/why-most-iot-visibility-stacks-stall-at-level-2-and-what-climbing-to-level-3-actually-looks-like-bg0)
-- [How I Revamped a Local Cram School Website Using AI &lpar;Claude, Gemini, and Codex&rpar;](https://dev.to/_02no_oka/how-i-revamped-a-local-cram-school-website-using-ai-claude-gemini-and-codex-38jd)
-- [The Automation Paradox: You Cannot Prompt Your Way Out of an Architecture Problem](https://dev.to/vektor_memory_43f51a32376/the-automation-paradox-you-cannot-prompt-your-way-out-of-an-architecture-problem-1adb)
+- [I Built a Watermark Remover — Here’s What I Actually Learned](https://dev.to/eric_cheung_1030/i-built-a-watermark-remover-heres-what-i-actually-learned-4o86)
+- [CSS Cascade Layers: The Specificity Solution Your Build Tool Can Automate](https://dev.to/shokre/css-cascade-layers-the-specificity-solution-your-build-tool-can-automate-1f6i)
+- [30-Day Cloud &amp; DevOps Challenge: Day 8 — Jenkins: my First CI/CD Pipeline](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-8-jenkins-your-first-cicd-pipeline-311e)
+- [I Tried Thinking Like an AI-Powered Data Analyst After Google Cloud NEXT &#39;26 — Here’s What Changed](https://dev.to/sarthak_gupta_b2b/i-tried-thinking-like-an-ai-powered-data-analyst-after-google-cloud-next-26-heres-what-changed-2hi8)
 <!-- BLOG-POST-LIST:END -->
 
 
