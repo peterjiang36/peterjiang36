@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Where the Real Difference Between Developers Emerges in the AI Age](https://dev.to/cengizdonmez/where-the-real-difference-between-developers-emerges-in-the-ai-age-2mmk)
-- [Hybrid search inside SurrealDB: one query, vector + keyword + RRF](https://dev.to/atwmarshall/hybrid-search-inside-surrealdb-one-query-vector-keyword-rrf-5ade)
-- [Why I&#39;m Building a Local-First AI Coding Workspace &lpar;And How Behavioral Routing Makes It Work&rpar;](https://dev.to/radadev/why-im-building-a-local-first-ai-coding-workspace-and-how-behavioral-routing-makes-it-work-cg2)
-- [kubectl Hacks That Changed How I Work With Kubernetes](https://dev.to/selmaguedidi/kubectl-hacks-that-changed-how-i-work-with-kubernetes-4p8d)
+- [TradingGoose-Market: canonical ticker identity across market data providers](https://dev.to/bwj2310/tradinggoose-market-canonical-ticker-identity-across-market-data-providers-31g)
+- [What I Learned Building Real Backend Applications with Java and Spring Boot](https://dev.to/igordevfullstack/what-i-learned-building-real-backend-applications-with-java-and-spring-boot-56go)
+- [I built istempmail.com](https://dev.to/gregor_nobis_b4295c5ee819/i-built-istempmailcom-52gc)
+- [Building a Morpheus Plugin A Practical Walkthrough](https://dev.to/emre_baykal_a4a7a479d48c5/building-a-morpheus-plugin-a-practical-walkthrough-3gbh)
 <!-- BLOG-POST-LIST:END -->
 
 
