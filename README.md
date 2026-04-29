@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Helped an Agri Company Generate 500+ Documents/Day Without Rebuilding Their System](https://dev.to/templionix/how-we-helped-an-agri-company-generate-500-documentsday-without-rebuilding-their-system-31ni)
-- [Dart Macros — Compile-time Code Generation Without Build Runner](https://dev.to/kanta13jp1/dart-macros-compile-time-code-generation-without-build-runner-1p35)
-- [Rewriting Our Frontend from Angular 17 to Vue 3.5: 40% Smaller Bundles](https://dev.to/johalputt/rewriting-our-frontend-from-angular-17-to-vue-35-40-smaller-bundles-2nmm)
-- [A Simple System to Reduce Price Shocks in Unstable Markets](https://dev.to/farzan_dev13/a-simple-system-to-reduce-price-shocks-in-unstable-markets-4epl)
+- [User Guide and System Manual of Food Ordering &amp; Delivery System &lpar;Project: Stack-Over-Food&rpar;](https://dev.to/fewlnwza/user-guide-and-system-manual-of-food-ordering-delivery-system-project-stack-over-food-5fbb)
+- [Dart Concurrency Complete Guide — Isolates, compute, Streams, and Mutex Patterns](https://dev.to/kanta13jp1/dart-concurrency-complete-guide-isolates-compute-streams-and-mutex-patterns-2b38)
+- [Complex UIs, Cross-App Workflows, Long Tasks: What GUI Agents Actually Unlock](https://dev.to/mininglamp/complex-uis-cross-app-workflows-long-tasks-what-gui-agents-actually-unlock-40ad)
+- [[Free &amp; Open Source] [Multi-Agent Hands-On] [How to Command Agents]: FCoP-MCP Brings Discipline to AI Teams](https://dev.to/joinwell52/free-open-source-multi-agent-hands-on-how-to-command-agents-fcop-mcp-brings-discipline-to-1j3j)
 <!-- BLOG-POST-LIST:END -->
 
 
