@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [War Story: We Ditched Auth0 9.0 for NextAuth 5.0 and Cut Authentication Costs by 60% for 500k Users](https://dev.to/johalputt/war-story-we-ditched-auth0-90-for-nextauth-50-and-cut-authentication-costs-by-60-for-500k-users-4n3i)
-- [Why I Built a Native Mac App Instead of a Web App — and What I&#39;d Do Differently](https://dev.to/hiyoyok/why-i-built-a-native-mac-app-instead-of-a-web-app-and-what-id-do-differently-47ld)
-- [Free Shopify Alternatives I Actually Set Up for Real Stores &lpar;Not Just Tested in a Sandbox&rpar;](https://dev.to/ericwoooo_kr/free-shopify-alternatives-i-actually-set-up-for-real-stores-not-just-tested-in-a-sandbox-4dbk)
-- [टेलीग्राम मीडिया वितरण का विखंडन &lpar;Deconstruction&rpar;: MTProto और Async I/O के साथ एक उच्च-प्रदर्शन डाउनलोड इंजन का निर्माण](https://dev.to/yqqwe/tteliigraam-miiddiyaa-vitrnn-kaa-vikhnddn-deconstruction-mtproto-aur-async-io-ke-saath-ek-ucc-prdrshn-31lf)
+- [GitHub 星标 18.6 万的工具，90% 的团队用错了：n8n 工作流的 5 个隐藏神技 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/github-xing-biao-186-mo-de-gong-ju-90-de-tuan-dui-yong-cuo-liao-n8n-gong-zuo-liu-de-5-ge-yin-cang-shen-ji-4ced)
+- [n8n&#39;s 5 Hidden Workflow Patterns Nobody Teaches &lpar;186K Stars, But 90% Use It Wrong&rpar;](https://dev.to/_cbd692d476c5faf3b61bcf/n8ns-5-hidden-workflow-patterns-nobody-teaches-186k-stars-but-90-use-it-wrong-1ena)
+- [Idea for Managing Policies Across Nearly 1,000 AWS Organizations — A Reseller&#39;s Perspective](https://dev.to/aws-builders/idea-for-managing-policies-across-nearly-1000-aws-organizations-a-resellers-perspective-2o22)
+- [Cold Starts Are Dead](https://dev.to/aws/cold-starts-are-dead-5fod)
 <!-- BLOG-POST-LIST:END -->
 
 
