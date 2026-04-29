@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 3 APIs to Solve AI Governance -- Here&#39;s How They Work](https://dev.to/json_shotwell/i-built-3-apis-to-solve-ai-governance-heres-how-they-work-4c1f)
-- [AI Agent Platform Data Comparison 2025: Sources, Citations, and What We Cannot Verify](https://dev.to/mio_storksoft/ai-agent-platform-data-comparison-2025-sources-citations-and-what-we-cannot-verify-2fc0)
-- [pktana — High-Performance Linux Packet Analyzer](https://dev.to/omnayak27199/pktana-high-performance-linux-packet-analyzer-1pk3)
-- [How I Used AI to Fix Our E2E Test Architecture](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a)
+- [Where the Real Difference Between Developers Emerges in the AI Age](https://dev.to/cengizdonmez/where-the-real-difference-between-developers-emerges-in-the-ai-age-2mmk)
+- [Hybrid search inside SurrealDB: one query, vector + keyword + RRF](https://dev.to/atwmarshall/hybrid-search-inside-surrealdb-one-query-vector-keyword-rrf-5ade)
+- [Why I&#39;m Building a Local-First AI Coding Workspace &lpar;And How Behavioral Routing Makes It Work&rpar;](https://dev.to/radadev/why-im-building-a-local-first-ai-coding-workspace-and-how-behavioral-routing-makes-it-work-cg2)
+- [kubectl Hacks That Changed How I Work With Kubernetes](https://dev.to/selmaguedidi/kubectl-hacks-that-changed-how-i-work-with-kubernetes-4p8d)
 <!-- BLOG-POST-LIST:END -->
 
 
