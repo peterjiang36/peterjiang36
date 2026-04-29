@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why ChatGPT will silently lie about your bank statement &lpar;and how to catch it&rpar;](https://dev.to/poskono_99425db14ac67774/why-chatgpt-will-silently-lie-about-your-bank-statement-and-how-to-catch-it-13mb)
-- [The Perils of Agentic Coding: Vigilance Against Cognitive Debt](https://dev.to/dd8888/the-perils-of-agentic-coding-vigilance-against-cognitive-debt-5o1)
-- [BYOD for AI ad-ops — give the agent a CSV, not your refresh token](https://dev.to/yoshinaga/byod-for-ai-ad-ops-give-the-agent-a-csv-not-your-refresh-token-1fnn)
-- [Rendering powerpoint to png files with JBang](https://dev.to/sshaaf/rendering-powerpoint-to-png-files-with-jbang-1nhi)
+- [Same for me at the moment](https://dev.to/ben/same-for-me-at-the-moment-1c2j)
+- [Moving Beyond XAMPP: Why FlyEnv is the Modern Alternative for Web Developers.](https://dev.to/m_azzuhry_0d498eb45514fb0/moving-beyond-xampp-why-flyenv-is-the-modern-alternative-for-web-developers-205j)
+- [My Terminal Setup: Zsh, Oh My Zsh, Powerlevel10k and Tmux](https://dev.to/gsudarshan/my-terminal-setup-zsh-oh-my-zsh-powerlevel10k-and-tmux-o75)
+- [The Lindy Effect: Why Web Standards Are a Safer Financial Investment Than the Latest JS Framework](https://dev.to/campadev/the-lindy-effect-why-web-standards-are-a-safer-financial-investment-than-the-latest-js-framework-pnn)
 <!-- BLOG-POST-LIST:END -->
 
 
