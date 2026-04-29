@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why the First Turn in a Coding Agent Can Use So Many Input Tokens — and Why That Gets Better Over Time](https://dev.to/snowflake/why-the-first-turn-in-a-coding-agent-can-use-so-many-input-tokens-and-why-that-gets-better-over-f8b)
-- [Auto-Configuring AI Agents Based on Your Codebase &lpar;AutoSkills&rpar;](https://dev.to/muhammad_usman_dev/auto-configuring-ai-agents-based-on-your-codebase-autoskills-2ilp)
-- [True Parallel PHP is Here: Elegant Parallelism, Worker Pools, Self-Healing Clusters &amp; Fractal Concurrency](https://dev.to/rcalicdan/true-parallel-php-is-here-elegant-parallelism-worker-pools-self-healing-clusters-fractal-369c)
-- [Vanilla JavaScript validators: the algorithms behind Spanish ID documents](https://dev.to/livi_0b80abd86be059e0ba47/vanilla-javascript-validators-the-algorithms-behind-spanish-id-documents-1250)
+- [I Built 3 APIs to Solve AI Governance -- Here&#39;s How They Work](https://dev.to/json_shotwell/i-built-3-apis-to-solve-ai-governance-heres-how-they-work-4c1f)
+- [AI Agent Platform Data Comparison 2025: Sources, Citations, and What We Cannot Verify](https://dev.to/mio_storksoft/ai-agent-platform-data-comparison-2025-sources-citations-and-what-we-cannot-verify-2fc0)
+- [pktana — High-Performance Linux Packet Analyzer](https://dev.to/omnayak27199/pktana-high-performance-linux-packet-analyzer-1pk3)
+- [How I Used AI to Fix Our E2E Test Architecture](https://dev.to/debs_obrien/how-i-used-ai-to-fix-our-e2e-test-architecture-444a)
 <!-- BLOG-POST-LIST:END -->
 
 
