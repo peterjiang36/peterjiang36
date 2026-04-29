@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapa de Ciberseguridad en AWS: Guía Completa de Servicios](https://dev.to/byron_lainez/mapa-de-ciberseguridad-en-aws-guia-completa-de-servicios-1jh8)
-- [ProGate: A 3-Tier React Server Component Pattern for SaaS Subscriptions](https://dev.to/matthias_studiomeyer/progate-a-3-tier-react-server-component-pattern-for-saas-subscriptions-7gp)
-- [Chapter 10: Multi-Head Attention and the MLP Block](https://dev.to/garyljackson/chapter-10-multi-head-attention-and-the-mlp-block-57cp)
-- [Easily benchmark all your app&#39;s endpoints at once](https://dev.to/mackoverflow/easily-benchmark-all-your-apps-endpoints-at-once-2fod)
+- [pyQuejica: because &quot;Synthesizing...&quot; is too dignified](https://dev.to/mmasias/pyquejica-because-synthesizing-is-too-dignified-167f)
+- [From Managing Products to Building Them: My First Month Learning to Code](https://dev.to/lukmanindrop/from-managing-products-to-building-them-my-first-month-learning-to-code-4ckm)
+- [Why I Turned My Portfolio Into a Linux Operating System](https://dev.to/prasadkjose/why-i-turned-my-portfolio-into-a-linux-operating-system-2od5)
+- [On-device or cloud? Building hybrid AI inference into your Android app with Firebase AI Logic](https://dev.to/bolgercarol/on-device-or-cloud-building-hybrid-ai-inference-into-your-android-app-with-firebase-ai-logic-3p1i)
 <!-- BLOG-POST-LIST:END -->
 
 
