@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [pyQuejica: because &quot;Synthesizing...&quot; is too dignified](https://dev.to/mmasias/pyquejica-because-synthesizing-is-too-dignified-167f)
-- [From Managing Products to Building Them: My First Month Learning to Code](https://dev.to/lukmanindrop/from-managing-products-to-building-them-my-first-month-learning-to-code-4ckm)
-- [Why I Turned My Portfolio Into a Linux Operating System](https://dev.to/prasadkjose/why-i-turned-my-portfolio-into-a-linux-operating-system-2od5)
-- [On-device or cloud? Building hybrid AI inference into your Android app with Firebase AI Logic](https://dev.to/bolgercarol/on-device-or-cloud-building-hybrid-ai-inference-into-your-android-app-with-firebase-ai-logic-3p1i)
+- [The Missing Link: Securing Gemini Agents with the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/milton_gardener_f38223d14/the-missing-link-securing-gemini-agents-with-the-model-context-protocol-mcp-12bj)
+- [Spec Driven Development: Build Software That Actually Does What You Promised](https://dev.to/jefferson_rosas/bbdbdb-431)
+- [Teaching Claude to Stop Reaching for git diff — git-prism v0.7.0](https://dev.to/mikelane/teaching-claude-to-stop-reaching-for-git-diff-git-prism-v070-4nel)
+- [Claude Code CLI: Best Practices](https://dev.to/mikhkonkov/claude-code-cli-best-practices-431j)
 <!-- BLOG-POST-LIST:END -->
 
 
