@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Native AA Debate, DES Explores Parallel zkEVM Execution, Affine Metering Targets Higher Throughput, Etherspot Powers Telegram Crypto UX](https://dev.to/etherspot/native-aa-debate-des-explores-parallel-zkevm-execution-affine-metering-targets-higher-throughput-3lbm)
-- [I finally understood compound interest by writing 8 lines of JavaScript](https://dev.to/levent_elik_34b35337d291/i-finally-understood-compound-interest-by-writing-8-lines-of-javascript-3012)
-- [Lambda Multi-tenanted Isolation](https://dev.to/aws-builders/lambda-multi-tenanted-isolation-1ban)
-- [How to Set Up Continuous Profiling for Java 24 Services with Pyroscope 1.0 and OpenTelemetry 1.20](https://dev.to/johalputt/how-to-set-up-continuous-profiling-for-java-24-services-with-pyroscope-10-and-opentelemetry-120-4aa1)
+- [I Did Everything the AI Era Asked. It Still Didn&#39;t Pay My Bills.](https://dev.to/dannwaneri/i-did-everything-the-ai-era-asked-it-still-didnt-pay-my-bills-1a4f)
+- [Platform engineering vs DevOps: the decision most growing startups get backwards](https://dev.to/soniarotglam/platform-engineering-vs-devops-the-decision-most-growing-startups-get-backwards-4cgb)
+- [Case Study: How Stripe Uses Go 1.24 and gRPC 1.60 for High-Throughput Payment APIs](https://dev.to/johalputt/case-study-how-stripe-uses-go-124-and-grpc-160-for-high-throughput-payment-apis-334m)
+- [More Accessible Focus Indicators with Compose](https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4)
 <!-- BLOG-POST-LIST:END -->
 
 
