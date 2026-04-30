@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Did Everything the AI Era Asked. It Still Didn&#39;t Pay My Bills.](https://dev.to/dannwaneri/i-did-everything-the-ai-era-asked-it-still-didnt-pay-my-bills-1a4f)
-- [Platform engineering vs DevOps: the decision most growing startups get backwards](https://dev.to/soniarotglam/platform-engineering-vs-devops-the-decision-most-growing-startups-get-backwards-4cgb)
-- [Case Study: How Stripe Uses Go 1.24 and gRPC 1.60 for High-Throughput Payment APIs](https://dev.to/johalputt/case-study-how-stripe-uses-go-124-and-grpc-160-for-high-throughput-payment-apis-334m)
-- [More Accessible Focus Indicators with Compose](https://dev.to/eevajonnapanula/more-accessible-focus-indicators-with-compose-1ca4)
+- [How to choose between OpenClaw hosting and Hermes Agent hosting in 2026](https://dev.to/eliofbm/how-to-choose-between-openclaw-hosting-and-hermes-agent-hosting-in-2026-25ha)
+- [Async Runtime Internals: How tokio Schedules Your Futures](https://dev.to/dylan_dumont_266378d98367/async-runtime-internals-how-tokio-schedules-your-futures-3kn8)
+- [Bangla Code Runner: Revolutionizing Bangla Programming Language](https://dev.to/anisurrahmanlikhon/bangla-code-runner-revolutionizing-bangla-programming-language-2gp3)
+- [Ghostty Leaves GitHub: What My Usage Logs Say About Devs&#39; Real Dependency on Microsoft Platforms](https://dev.to/jtorchia/ghostty-leaves-github-what-my-usage-logs-say-about-devs-real-dependency-on-microsoft-platforms-44d2)
 <!-- BLOG-POST-LIST:END -->
 
 
