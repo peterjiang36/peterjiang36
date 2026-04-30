@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [eIDAS Summit 2026 Berlin: 5 Takeaways for Merchants](https://dev.to/eidas-pro/eidas-summit-2026-berlin-5-takeaways-for-merchants-3p5j)
-- [The Day ‘Containers Everywhere’ Met a Database – Part 3](https://dev.to/yaddah/the-day-containers-everywhere-met-a-database-part-3-4461)
-- [🛣️ Routing in Backend Development — The Complete Developer&#39;s Guide](https://dev.to/prabhanshtiwari/routing-in-backend-development-the-complete-developers-guide-3mnd)
-- [Building Consistency in DSA: A Science-Backed Guide to Mastery](https://dev.to/shifa_2/building-consistency-in-dsa-a-science-backed-guide-to-mastery-24fm)
+- [I Built a 10-Agent AI Product Team in Claude Code](https://dev.to/mirmajeed1/i-built-a-10-agent-ai-product-team-in-claude-code-1hmm)
+- [Fix MCP Timeouts: Async HandleId Pattern](https://dev.to/aws/fix-mcp-timeouts-async-handleid-pattern-8ek)
+- [The Shift from Determinism to Probabilism Is Bigger Than Analog to Digital](https://dev.to/aralroca/the-shift-from-determinism-to-probabilism-is-bigger-than-analog-to-digital-lim)
+- [Structuring a Go API Like Laravel &lpar;Controller, Service, Repository&rpar;](https://dev.to/ahmedraza_fyntune/structuring-a-go-api-like-laravel-controller-service-repository-31n)
 <!-- BLOG-POST-LIST:END -->
 
 
