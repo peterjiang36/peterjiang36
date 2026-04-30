@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building Nevi, a Rust terminal editor for Vim muscle memory](https://dev.to/anthonyamaro15/im-building-nevi-a-rust-terminal-editor-for-vim-muscle-memory-4kk7)
-- [MDR’s hidden toll: why small medtechs are exiting the EU market](https://dev.to/priya_nair_ree/mdrs-hidden-toll-why-small-medtechs-are-exiting-the-eu-market-1ij3)
-- [Day 24: Real-Time Personalization - AI System Design in Seconds](https://dev.to/matt_frank_usa/day-24-real-time-personalization-ai-system-design-in-seconds-3hbe)
-- [I Found a Free TypeScript &amp; React Quiz with 125 Questions](https://dev.to/a_ts_dev/i-found-a-free-typescript-react-quiz-with-125-questions-43c4)
+- [I spent 5 months building a full-stack e-commerce app from scratch — now I&#39;m selling it for $3,000](https://dev.to/buddhima_ryan_e7a70ea9f83/i-spent-5-months-building-a-full-stack-e-commerce-app-from-scratch-now-im-selling-it-for-3000-fmb)
+- [Letting Claude Code&#39;s Routines continuously tune my CLI&#39;s performance](https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0)
+- [dbtyper: TypeScript for SQL — a Compile-Time SQL Type Checker](https://dev.to/vadzim_zieka_371ae4d8991/dbtyper-typescript-for-sql-a-compile-time-sql-type-checker-2p34)
+- [[AutoBe] Benchmarks on Local LLMs about Backend Generation](https://dev.to/samchon/autobe-benchmarks-on-local-llms-about-backend-generation-3n42)
 <!-- BLOG-POST-LIST:END -->
 
 
