@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [nylas init — Guided setup wizard for first-time Nylas CLI users](https://dev.to/qasim157/nylas-init-guided-setup-wizard-for-first-time-nylas-cli-users-4g96)
-- [We Built a Pure Go System Tray Library Because Every Alternative Requires CGO, GoGPU May 2026](https://dev.to/kolkov/we-built-a-pure-go-system-tray-library-because-every-alternative-requires-cgo-gogpu-may-2026-3h2i)
-- [Forms Aren’t UI: The Architecture Mistake Most React Apps Make](https://dev.to/yanggmtl/forms-arent-ui-the-architecture-mistake-most-react-apps-make-4pk0)
-- [Chapter 11: The Full GPT - Assembling the Model](https://dev.to/garyljackson/chapter-11-the-full-gpt-assembling-the-model-2o0i)
+- [Stop Ranking Ad Channels by Sessions: Use RPS &lpar;Revenue Per Session&rpar; Instead](https://dev.to/toshihiro_shishido/stop-ranking-ad-channels-by-sessions-use-rps-revenue-per-session-instead-4inc)
+- [Building an AI Agent Harness from Scratch: The Architecture Between LLM and Agent](https://dev.to/nebulagg/building-an-ai-agent-harness-from-scratch-the-architecture-between-llm-and-agent-5gg6)
+- [What&#39;s New At Releem  -  WHM/cPanel integration is available](https://dev.to/drupaladmin/whats-new-at-releem-whmcpanel-integration-is-available-1fid)
+- [From Code on Your Laptop to a Universal Box: A Beginner&#39;s Guide to Dockerizing Node.js](https://dev.to/qudratullahdev/from-code-on-your-laptop-to-a-universal-box-a-beginners-guide-to-dockerizing-nodejs-meo)
 <!-- BLOG-POST-LIST:END -->
 
 
