@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Taught My AI Assistant to Remember &lpar;And Saved 99% of Its Brain&rpar;](https://dev.to/k1lgor/i-taught-my-ai-assistant-to-remember-and-saved-99-of-its-brain-4n7l)
-- [O que acontece QUANDO você clica na Internet? Desvendando a mágica!](https://dev.to/kabrau/o-que-acontece-quando-voce-clica-na-internet-desvendando-a-magica-50of)
-- [How I Use Claude Code and Jira MCP to Modernize Legacy Codebases](https://dev.to/strawbang/how-i-use-claude-code-and-jira-mcp-to-modernize-legacy-codebases-3176)
-- [The Day ‘Containers Everywhere’ Met a Database – Part 1](https://dev.to/yaddah/the-day-containers-everywhere-met-a-database-part-1-25g3)
+- [eIDAS Summit 2026 Berlin: 5 Takeaways for Merchants](https://dev.to/eidas-pro/eidas-summit-2026-berlin-5-takeaways-for-merchants-3p5j)
+- [The Day ‘Containers Everywhere’ Met a Database – Part 3](https://dev.to/yaddah/the-day-containers-everywhere-met-a-database-part-3-4461)
+- [🛣️ Routing in Backend Development — The Complete Developer&#39;s Guide](https://dev.to/prabhanshtiwari/routing-in-backend-development-the-complete-developers-guide-3mnd)
+- [Building Consistency in DSA: A Science-Backed Guide to Mastery](https://dev.to/shifa_2/building-consistency-in-dsa-a-science-backed-guide-to-mastery-24fm)
 <!-- BLOG-POST-LIST:END -->
 
 
