@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce Data Engineering Interview Questions](https://dev.to/gowthampotureddi/salesforce-data-engineering-interview-questions-5bo9)
-- [Building a Silent Keylogger Into a USB-C Hub &lpar;For My Own Laptop, Obviously…&rpar;](https://dev.to/numbpill3d/building-a-silent-keylogger-into-a-usb-c-hub-for-my-own-laptop-obviously-1p8b)
-- [The 5 Reasons AI Can&#39;t Touch Java Developers](https://dev.to/abdabughazaleh/the-5-reasons-ai-cant-touch-java-developers-1fbf)
-- [What Google Cloud NEXT &#39;26 Taught Us About Agent Governance](https://dev.to/bridget_amana/what-google-cloud-next-26-taught-us-about-agent-governance-9ma)
+- [Stop Manually Picking Colors — Extract Color Palettes from Images in Seconds](https://dev.to/devpalettes/stop-manually-picking-colors-extract-color-palettes-from-images-in-seconds-4np1)
+- [I Built a Real-Time Deepfake Detector in Python — 9 Signal Layers, Full Architecture, Free to Use&quot;](https://dev.to/abhishek-nine/i-built-a-real-time-deepfake-detector-in-python-9-signal-layers-full-architecture-free-to-use-3nol)
+- [I Built a Real-Time Deepfake Detector in Python — 9 Signal Layers, Full Architecture, Free to Use&quot;](https://dev.to/abhishek-nine/i-built-a-real-time-deepfake-detector-in-python-9-signal-layers-full-architecture-free-to-use-41bb)
+- [I Build Systems, Flip Land, and Drop Trap Music — Meet Tyler Moncrieff aka Father Dust](https://dev.to/fatherdust/i-build-systems-flip-land-and-drop-trap-music-meet-tyler-moncrieff-aka-father-dust-734)
 <!-- BLOG-POST-LIST:END -->
 
 
