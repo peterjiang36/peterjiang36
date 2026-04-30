@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2026 Agentic Era with Gemini Agent Platform: Surviving Cascading Failures and Runaway Cloud Bills.](https://dev.to/fm/the-2026-agentic-era-with-gemini-agent-platform-surviving-cascading-failures-and-runaway-cloud-1gbk)
-- [Extreme Ownership](https://dev.to/apetryla/extreme-ownership-3fl8)
-- [How We Caught Fraud Before the Payment Cleared](https://dev.to/printo_tom/how-we-caught-fraud-before-the-payment-cleared-4jcl)
-- [The 5 AWS charges silently draining your budget &lpar;and how to fix each one&rpar;](https://dev.to/kloudaudit/the-5-aws-charges-silently-draining-your-budget-and-how-to-fix-each-one-249n)
+- [Deconstructing Telegram Media Extraction: Building a High-Performance Downloader with MTProto and Async I/O](https://dev.to/yqqwe/deconstructing-telegram-media-extraction-building-a-high-performance-downloader-with-mtproto-and-4m2c)
+- [Dekonstruktion der Telegram-Media-Extraktion: Aufbau einer Hochleistungs-Download-Engine mit MTProto und Async I/O](https://dev.to/yqqwe/dekonstruktion-der-telegram-media-extraktion-aufbau-einer-hochleistungs-download-engine-mit-3b4p)
+- [Déconstruire l&#39;extraction de médias Telegram : Construire un moteur de téléchargement haute performance avec MTProto et Async I/O](https://dev.to/yqqwe/deconstruire-lextraction-de-medias-telegram-construire-un-moteur-de-telechargement-haute-4294)
+- [เจาะลึกสถาปัตยกรรม Telegram Media Delivery: การสร้าง Engine สกัดไฟล์ประสิทธิภาพสูงด้วย MTProto และ FFmpeg](https://dev.to/yqqwe/ecchaaalueksthaapatykrrm-telegram-media-delivery-kaarsraang-engine-skadaiflprasiththiphaaphsuungdwy-mtproto-aela-128g)
 <!-- BLOG-POST-LIST:END -->
 
 
