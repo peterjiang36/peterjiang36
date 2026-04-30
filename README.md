@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Internet Resilience: Anycast and BGP](https://dev.to/biswasprasana001/internet-resilience-anycast-and-bgp-2m00)
-- [vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet &lpar;With Interactive Tool&rpar;](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k)
-- [Building a Production DevOps Agent: From Slack to Kubernetes](https://dev.to/javieraguilarai/building-a-production-devops-agent-from-slack-to-kubernetes-33d1)
-- [Introducing Signal: documentation that lives in your code](https://dev.to/juststevemcd/introducing-signal-documentation-that-lives-in-your-code-gfg)
+- [Native AA Debate, DES Explores Parallel zkEVM Execution, Affine Metering Targets Higher Throughput, Etherspot Powers Telegram Crypto UX](https://dev.to/etherspot/native-aa-debate-des-explores-parallel-zkevm-execution-affine-metering-targets-higher-throughput-3lbm)
+- [I finally understood compound interest by writing 8 lines of JavaScript](https://dev.to/levent_elik_34b35337d291/i-finally-understood-compound-interest-by-writing-8-lines-of-javascript-3012)
+- [Lambda Multi-tenanted Isolation](https://dev.to/aws-builders/lambda-multi-tenanted-isolation-1ban)
+- [How to Set Up Continuous Profiling for Java 24 Services with Pyroscope 1.0 and OpenTelemetry 1.20](https://dev.to/johalputt/how-to-set-up-continuous-profiling-for-java-24-services-with-pyroscope-10-and-opentelemetry-120-4aa1)
 <!-- BLOG-POST-LIST:END -->
 
 
