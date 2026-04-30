@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent 5 months building a full-stack e-commerce app from scratch — now I&#39;m selling it for $3,000](https://dev.to/buddhima_ryan_e7a70ea9f83/i-spent-5-months-building-a-full-stack-e-commerce-app-from-scratch-now-im-selling-it-for-3000-fmb)
-- [Letting Claude Code&#39;s Routines continuously tune my CLI&#39;s performance](https://dev.to/yamadashy/letting-claude-codes-routines-continuously-tune-my-clis-performance-2kk0)
-- [dbtyper: TypeScript for SQL — a Compile-Time SQL Type Checker](https://dev.to/vadzim_zieka_371ae4d8991/dbtyper-typescript-for-sql-a-compile-time-sql-type-checker-2p34)
-- [[AutoBe] Benchmarks on Local LLMs about Backend Generation](https://dev.to/samchon/autobe-benchmarks-on-local-llms-about-backend-generation-3n42)
+- [Postmortem: How a Tauri 2.0 Update Bug Broke Our Desktop App for 10k Users for 3 Hours](https://dev.to/johalputt/postmortem-how-a-tauri-20-update-bug-broke-our-desktop-app-for-10k-users-for-3-hours-2m2b)
+- [22. EJS &lpar;Embedded JavaScript&rpar;](https://dev.to/avery_/22-ejs-embedded-javascript-2b3g)
+- [Apple&#39;s On-Device Model is Terrible for Chat But Surprisingly Good at Structured Output and Tool Calling](https://dev.to/frr149/apples-on-device-model-is-terrible-for-chat-but-surprisingly-good-at-structured-output-and-tool-21km)
+- [5 Project Reactor Techniques That Turned My Blocking Java Code Into High-Performance Pipelines](https://dev.to/nithinbharathwaj/5-project-reactor-techniques-that-turned-my-blocking-java-code-into-high-performance-pipelines-5dd4)
 <!-- BLOG-POST-LIST:END -->
 
 
