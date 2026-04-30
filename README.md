@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Link: Securing Gemini Agents with the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/milton_gardener_f38223d14/the-missing-link-securing-gemini-agents-with-the-model-context-protocol-mcp-12bj)
-- [Spec Driven Development: Build Software That Actually Does What You Promised](https://dev.to/jefferson_rosas/bbdbdb-431)
-- [Teaching Claude to Stop Reaching for git diff — git-prism v0.7.0](https://dev.to/mikelane/teaching-claude-to-stop-reaching-for-git-diff-git-prism-v070-4nel)
-- [Claude Code CLI: Best Practices](https://dev.to/mikhkonkov/claude-code-cli-best-practices-431j)
+- [Salesforce Data Engineering Interview Questions](https://dev.to/gowthampotureddi/salesforce-data-engineering-interview-questions-5bo9)
+- [Building a Silent Keylogger Into a USB-C Hub &lpar;For My Own Laptop, Obviously…&rpar;](https://dev.to/numbpill3d/building-a-silent-keylogger-into-a-usb-c-hub-for-my-own-laptop-obviously-1p8b)
+- [The 5 Reasons AI Can&#39;t Touch Java Developers](https://dev.to/abdabughazaleh/the-5-reasons-ai-cant-touch-java-developers-1fbf)
+- [What Google Cloud NEXT &#39;26 Taught Us About Agent Governance](https://dev.to/bridget_amana/what-google-cloud-next-26-taught-us-about-agent-governance-9ma)
 <!-- BLOG-POST-LIST:END -->
 
 
