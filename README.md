@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Postmortem: How a Tauri 2.0 Update Bug Broke Our Desktop App for 10k Users for 3 Hours](https://dev.to/johalputt/postmortem-how-a-tauri-20-update-bug-broke-our-desktop-app-for-10k-users-for-3-hours-2m2b)
-- [22. EJS &lpar;Embedded JavaScript&rpar;](https://dev.to/avery_/22-ejs-embedded-javascript-2b3g)
-- [Apple&#39;s On-Device Model is Terrible for Chat But Surprisingly Good at Structured Output and Tool Calling](https://dev.to/frr149/apples-on-device-model-is-terrible-for-chat-but-surprisingly-good-at-structured-output-and-tool-21km)
-- [5 Project Reactor Techniques That Turned My Blocking Java Code Into High-Performance Pipelines](https://dev.to/nithinbharathwaj/5-project-reactor-techniques-that-turned-my-blocking-java-code-into-high-performance-pipelines-5dd4)
+- [Benchmark: 2026 Backup Tools — Velero 2.0 vs. Restic 0.17 vs. Duplicati 2.0 for 1TB Data](https://dev.to/johalputt/benchmark-2026-backup-tools-velero-20-vs-restic-017-vs-duplicati-20-for-1tb-data-22b8)
+- [Stop Slacking your secrets. Use GitHub instead.](https://dev.to/boltenv/stop-slacking-your-secrets-use-github-instead-5706)
+- [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941)
+- [The Guardian: Human-in-the-Loop AI Governance](https://dev.to/kenwalger/the-guardian-human-in-the-loop-ai-governance-jgf)
 <!-- BLOG-POST-LIST:END -->
 
 
