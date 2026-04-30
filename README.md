@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free ACF Alternative &lpar;Wordpress Custom Fields 2026&rpar;](https://dev.to/codeideal/i-built-a-free-acf-alternative-because-open-source-should-stay-free-5bkh)
-- [I built a textile pattern generation API because PatternedAI has no API](https://dev.to/om_prakash_3311f8a4576605/i-built-a-textile-pattern-generation-api-because-patternedai-has-no-api-14n8)
-- [BookBridge Sri Lanka 🇱🇰](https://dev.to/sayuri_kotikawaththa_/bookbridge-sri-lanka-380k)
-- [Auto Lip Sync inside Blender 5 &lpar; 2026 &rpar; for 3D &amp; 2D](https://dev.to/codeideal/auto-lip-sync-inside-blender-5-2026-for-3d-2d-287g)
+- [The 2026 Agentic Era with Gemini Agent Platform: Surviving Cascading Failures and Runaway Cloud Bills.](https://dev.to/fm/the-2026-agentic-era-with-gemini-agent-platform-surviving-cascading-failures-and-runaway-cloud-1gbk)
+- [Extreme Ownership](https://dev.to/apetryla/extreme-ownership-3fl8)
+- [How We Caught Fraud Before the Payment Cleared](https://dev.to/printo_tom/how-we-caught-fraud-before-the-payment-cleared-4jcl)
+- [The 5 AWS charges silently draining your budget &lpar;and how to fix each one&rpar;](https://dev.to/kloudaudit/the-5-aws-charges-silently-draining-your-budget-and-how-to-fix-each-one-249n)
 <!-- BLOG-POST-LIST:END -->
 
 
