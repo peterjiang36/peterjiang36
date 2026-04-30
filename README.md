@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to choose between OpenClaw hosting and Hermes Agent hosting in 2026](https://dev.to/eliofbm/how-to-choose-between-openclaw-hosting-and-hermes-agent-hosting-in-2026-25ha)
-- [Async Runtime Internals: How tokio Schedules Your Futures](https://dev.to/dylan_dumont_266378d98367/async-runtime-internals-how-tokio-schedules-your-futures-3kn8)
-- [Bangla Code Runner: Revolutionizing Bangla Programming Language](https://dev.to/anisurrahmanlikhon/bangla-code-runner-revolutionizing-bangla-programming-language-2gp3)
-- [Ghostty Leaves GitHub: What My Usage Logs Say About Devs&#39; Real Dependency on Microsoft Platforms](https://dev.to/jtorchia/ghostty-leaves-github-what-my-usage-logs-say-about-devs-real-dependency-on-microsoft-platforms-44d2)
+- [I&#39;m building Nevi, a Rust terminal editor for Vim muscle memory](https://dev.to/anthonyamaro15/im-building-nevi-a-rust-terminal-editor-for-vim-muscle-memory-4kk7)
+- [MDR’s hidden toll: why small medtechs are exiting the EU market](https://dev.to/priya_nair_ree/mdrs-hidden-toll-why-small-medtechs-are-exiting-the-eu-market-1ij3)
+- [Day 24: Real-Time Personalization - AI System Design in Seconds](https://dev.to/matt_frank_usa/day-24-real-time-personalization-ai-system-design-in-seconds-3hbe)
+- [I Found a Free TypeScript &amp; React Quiz with 125 Questions](https://dev.to/a_ts_dev/i-found-a-free-typescript-react-quiz-with-125-questions-43c4)
 <!-- BLOG-POST-LIST:END -->
 
 
