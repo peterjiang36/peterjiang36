@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark: 2026 Backup Tools — Velero 2.0 vs. Restic 0.17 vs. Duplicati 2.0 for 1TB Data](https://dev.to/johalputt/benchmark-2026-backup-tools-velero-20-vs-restic-017-vs-duplicati-20-for-1tb-data-22b8)
-- [Stop Slacking your secrets. Use GitHub instead.](https://dev.to/boltenv/stop-slacking-your-secrets-use-github-instead-5706)
-- [Stop Using Your Clipboard to Share Context](https://dev.to/thisisryanswift/stop-using-your-clipboard-to-share-context-3941)
-- [The Guardian: Human-in-the-Loop AI Governance](https://dev.to/kenwalger/the-guardian-human-in-the-loop-ai-governance-jgf)
+- [I Taught My AI Assistant to Remember &lpar;And Saved 99% of Its Brain&rpar;](https://dev.to/k1lgor/i-taught-my-ai-assistant-to-remember-and-saved-99-of-its-brain-4n7l)
+- [O que acontece QUANDO você clica na Internet? Desvendando a mágica!](https://dev.to/kabrau/o-que-acontece-quando-voce-clica-na-internet-desvendando-a-magica-50of)
+- [How I Use Claude Code and Jira MCP to Modernize Legacy Codebases](https://dev.to/strawbang/how-i-use-claude-code-and-jira-mcp-to-modernize-legacy-codebases-3176)
+- [The Day ‘Containers Everywhere’ Met a Database – Part 1](https://dev.to/yaddah/the-day-containers-everywhere-met-a-database-part-1-25g3)
 <!-- BLOG-POST-LIST:END -->
 
 
