@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 10-Agent AI Product Team in Claude Code](https://dev.to/mirmajeed1/i-built-a-10-agent-ai-product-team-in-claude-code-1hmm)
-- [Fix MCP Timeouts: Async HandleId Pattern](https://dev.to/aws/fix-mcp-timeouts-async-handleid-pattern-8ek)
-- [The Shift from Determinism to Probabilism Is Bigger Than Analog to Digital](https://dev.to/aralroca/the-shift-from-determinism-to-probabilism-is-bigger-than-analog-to-digital-lim)
-- [Structuring a Go API Like Laravel &lpar;Controller, Service, Repository&rpar;](https://dev.to/ahmedraza_fyntune/structuring-a-go-api-like-laravel-controller-service-repository-31n)
+- [What Really Happens When You Move Your Mouse?](https://dev.to/karanjain2527/what-really-happens-when-you-move-your-mouse-4nj2)
+- [GhostPilot: GPS-Denied Drone Navigation with Visual SLAM and Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-gps-denied-drone-navigation-with-visual-slam-and-agentic-ai-416l)
+- [Use AI to do ML - vibe forecasting is coming](https://dev.to/mindsdbteam/use-ai-to-do-ml-vibe-forecasting-is-coming-4jkg)
+- [[Boost]](https://dev.to/chriswhong/-28f5)
 <!-- BLOG-POST-LIST:END -->
 
 
