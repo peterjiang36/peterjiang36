@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deconstructing Telegram Media Extraction: Building a High-Performance Downloader with MTProto and Async I/O](https://dev.to/yqqwe/deconstructing-telegram-media-extraction-building-a-high-performance-downloader-with-mtproto-and-4m2c)
-- [Dekonstruktion der Telegram-Media-Extraktion: Aufbau einer Hochleistungs-Download-Engine mit MTProto und Async I/O](https://dev.to/yqqwe/dekonstruktion-der-telegram-media-extraktion-aufbau-einer-hochleistungs-download-engine-mit-3b4p)
-- [Déconstruire l&#39;extraction de médias Telegram : Construire un moteur de téléchargement haute performance avec MTProto et Async I/O](https://dev.to/yqqwe/deconstruire-lextraction-de-medias-telegram-construire-un-moteur-de-telechargement-haute-4294)
-- [เจาะลึกสถาปัตยกรรม Telegram Media Delivery: การสร้าง Engine สกัดไฟล์ประสิทธิภาพสูงด้วย MTProto และ FFmpeg](https://dev.to/yqqwe/ecchaaalueksthaapatykrrm-telegram-media-delivery-kaarsraang-engine-skadaiflprasiththiphaaphsuungdwy-mtproto-aela-128g)
+- [Internet Resilience: Anycast and BGP](https://dev.to/biswasprasana001/internet-resilience-anycast-and-bgp-2m00)
+- [vLLM on Google Cloud TPU: A Model Size vs Chip Cheat Sheet &lpar;With Interactive Tool&rpar;](https://dev.to/1grace/vllm-on-google-cloud-tpu-a-model-size-vs-chip-cheat-sheet-with-interactive-tool-2c3k)
+- [Building a Production DevOps Agent: From Slack to Kubernetes](https://dev.to/javieraguilarai/building-a-production-devops-agent-from-slack-to-kubernetes-33d1)
+- [Introducing Signal: documentation that lives in your code](https://dev.to/juststevemcd/introducing-signal-documentation-that-lives-in-your-code-gfg)
 <!-- BLOG-POST-LIST:END -->
 
 
