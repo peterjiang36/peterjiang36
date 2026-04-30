@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Manually Picking Colors — Extract Color Palettes from Images in Seconds](https://dev.to/devpalettes/stop-manually-picking-colors-extract-color-palettes-from-images-in-seconds-4np1)
-- [I Built a Real-Time Deepfake Detector in Python — 9 Signal Layers, Full Architecture, Free to Use&quot;](https://dev.to/abhishek-nine/i-built-a-real-time-deepfake-detector-in-python-9-signal-layers-full-architecture-free-to-use-3nol)
-- [I Built a Real-Time Deepfake Detector in Python — 9 Signal Layers, Full Architecture, Free to Use&quot;](https://dev.to/abhishek-nine/i-built-a-real-time-deepfake-detector-in-python-9-signal-layers-full-architecture-free-to-use-41bb)
-- [I Build Systems, Flip Land, and Drop Trap Music — Meet Tyler Moncrieff aka Father Dust](https://dev.to/fatherdust/i-build-systems-flip-land-and-drop-trap-music-meet-tyler-moncrieff-aka-father-dust-734)
+- [I Built a Free ACF Alternative &lpar;Wordpress Custom Fields 2026&rpar;](https://dev.to/codeideal/i-built-a-free-acf-alternative-because-open-source-should-stay-free-5bkh)
+- [I built a textile pattern generation API because PatternedAI has no API](https://dev.to/om_prakash_3311f8a4576605/i-built-a-textile-pattern-generation-api-because-patternedai-has-no-api-14n8)
+- [BookBridge Sri Lanka 🇱🇰](https://dev.to/sayuri_kotikawaththa_/bookbridge-sri-lanka-380k)
+- [Auto Lip Sync inside Blender 5 &lpar; 2026 &rpar; for 3D &amp; 2D](https://dev.to/codeideal/auto-lip-sync-inside-blender-5-2026-for-3d-2d-287g)
 <!-- BLOG-POST-LIST:END -->
 
 
