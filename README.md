@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Really Happens When You Move Your Mouse?](https://dev.to/karanjain2527/what-really-happens-when-you-move-your-mouse-4nj2)
-- [GhostPilot: GPS-Denied Drone Navigation with Visual SLAM and Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-gps-denied-drone-navigation-with-visual-slam-and-agentic-ai-416l)
-- [Use AI to do ML - vibe forecasting is coming](https://dev.to/mindsdbteam/use-ai-to-do-ml-vibe-forecasting-is-coming-4jkg)
-- [[Boost]](https://dev.to/chriswhong/-28f5)
+- [nylas init — Guided setup wizard for first-time Nylas CLI users](https://dev.to/qasim157/nylas-init-guided-setup-wizard-for-first-time-nylas-cli-users-4g96)
+- [We Built a Pure Go System Tray Library Because Every Alternative Requires CGO, GoGPU May 2026](https://dev.to/kolkov/we-built-a-pure-go-system-tray-library-because-every-alternative-requires-cgo-gogpu-may-2026-3h2i)
+- [Forms Aren’t UI: The Architecture Mistake Most React Apps Make](https://dev.to/yanggmtl/forms-arent-ui-the-architecture-mistake-most-react-apps-make-4pk0)
+- [Chapter 11: The Full GPT - Assembling the Model](https://dev.to/garyljackson/chapter-11-the-full-gpt-assembling-the-model-2o0i)
 <!-- BLOG-POST-LIST:END -->
 
 
