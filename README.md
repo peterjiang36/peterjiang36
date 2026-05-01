@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Grade Tools for AI Agents: What Works After 100 Deployments](https://dev.to/nebulagg/building-production-grade-tools-for-ai-agents-what-works-after-100-deployments-20om)
-- [I Threw Away My ILIKE Queries and My Search Bar Finally Works - MeiliSearch](https://dev.to/codexam/i-threw-away-my-ilike-queries-and-my-search-bar-finally-works-meilisearch-gg4)
-- [I Built a Full-Stack Invoice App from Scratch. Here&#39;s the Complete Breakdown](https://dev.to/carter254g/i-built-a-full-stack-invoice-app-from-scratch-heres-the-complete-breakdown-2mmb)
-- [Why I&#39;m Learning ROS 2 as a Database Person](https://dev.to/mattstratton/why-im-learning-ros-2-as-a-database-person-3cce)
+- [What we learned building healthcare integrations for the past year](https://dev.to/michael_kronovet_261e3cc1/what-we-learned-building-healthcare-integrations-for-the-past-year-4n94)
+- [1Password, GitHub, and Git CLI with Multiple Users](https://dev.to/hacksore/1password-github-and-git-cli-with-multiple-users-a0j)
+- [me_irl](https://dev.to/ben/meirl-5g6i)
+- [High-Traffic Shopify Architecture Patterns: 8 Systems Every Scaling Store Needs](https://dev.to/asad_abdullah_zafar/high-traffic-shopify-architecture-patterns-8-systems-every-scaling-store-needs-1ng5)
 <!-- BLOG-POST-LIST:END -->
 
 
