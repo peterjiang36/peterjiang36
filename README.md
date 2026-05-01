@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I passed the AZ-900 Exam and what I studied](https://dev.to/cinthiabs/how-i-passed-the-az-900-exam-and-what-i-studied-3p3h)
-- [The Factory Must Grow &lpar;Part II&rpar;: From Spaghetti AI Agent Orchestrator to a Main Bus](https://dev.to/logicalicy/the-factory-must-grow-part-ii-from-spaghetti-ai-agent-orchestrator-to-a-main-bus-25hl)
-- [MiniScript Weekly News — April 30, 2026](https://dev.to/joestrout/miniscript-weekly-news-april-30-2026-6dd)
-- [Why 50% of Developers Use Raycast 2.0 Over Alfred 5.0 in 2026: 300 Mac Developer Survey](https://dev.to/johalputt/why-50-of-developers-use-raycast-20-over-alfred-50-in-2026-300-mac-developer-survey-4f4e)
+- [Stuck in the Birch-muda Triangle! 🪵😵‍💫](https://dev.to/kiwi_tech/stuck-in-the-birch-muda-triangle-eko)
+- [The Missing Layer Between AI and Design Consistency](https://dev.to/beep_boop/the-rise-of-vibe-designing-2g6p)
+- [O uso de Load Balancing para sistemas distribuídos: Escalabilidade e Resiliência](https://dev.to/luan_girotto_dev/o-uso-de-load-balancing-para-sistemas-distribuidos-escalabilidade-e-resiliencia-g20)
+- [LangChain fundamentals: the mental model that makes everything click](https://dev.to/youngtee100/langchain-fundamentals-the-mental-model-that-makes-everything-click-4101)
 <!-- BLOG-POST-LIST:END -->
 
 
