@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Asked AI to &#39;Refactor This Nicely&#39; and Got Unwanted Decimals and Dataclasses](https://dev.to/kenimo49/i-asked-ai-to-refactor-this-nicely-and-got-unwanted-decimals-and-dataclasses-1o77)
-- [Strict Schema Enforcement: The Bedrock of AI Reliability](https://dev.to/tercelyi/strict-schema-enforcement-the-bedrock-of-ai-reliability-1kdb)
-- [How I built multi-model LLM routing on Groq&#39;s free tier](https://dev.to/sathvik_07_4b0ebeb8912c63/how-i-built-multi-model-llm-routing-on-groqs-free-tier-5618)
-- [Big Tech Is Firing Humans to Buy More GPUs](https://dev.to/syedahmershah/big-tech-is-firing-humans-to-buy-more-gpus-48f0)
+- [Sprint Briefing Agent: When Your AI Works While You Sleep](https://dev.to/elenarevicheva/sprint-briefing-agent-when-your-ai-works-while-you-sleep-4hfa)
+- [Don&#39;t Put All Your Code in One Account: Multi-Account Deployments with AWS CodePipeline](https://dev.to/chkso/dont-put-all-your-code-in-one-account-multi-account-deployments-with-aws-codepipeline-326h)
+- [How to monitor Apache Airflow DAGs so you know when they silently fail](https://dev.to/krissv/how-to-monitor-apache-airflow-dags-so-you-know-when-they-silently-fail-3pp0)
+- [CSS property field-sizing: automatic resizing of input fields](https://dev.to/nickbenksim/css-property-field-sizing-automatic-resizing-of-input-fields-b59)
 <!-- BLOG-POST-LIST:END -->
 
 
