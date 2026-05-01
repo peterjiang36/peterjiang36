@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Is Still Better Than tRPC 2.0 for Public APIs: 1-Year Case Study at Stripe](https://dev.to/johalputt/graphql-is-still-better-than-trpc-20-for-public-apis-1-year-case-study-at-stripe-37ce)
-- [My Journey with AI &amp; Fashion MNIST](https://dev.to/codewithurooj/my-journey-with-ai-fashion-mnist-2egj)
-- [Stop Paying the Intercom Tax: When to Build Instead of Buy](https://dev.to/slickrockdev/stop-paying-the-intercom-tax-when-to-build-instead-of-buy-58n4)
-- [notkyc.life - no-KYC swap aggregator .stay anonymous. stay free.](https://dev.to/notkyc_life/notkyclife-no-kyc-swap-aggregatorstay-anonymous-stay-free-1b21)
+- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
+- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
+- [The &#39;Code&#39; was Never the Core: Reimagining the DLC with AI](https://dev.to/dmx/the-code-was-never-the-core-reimagining-the-dlc-with-ai-1i19)
+- [Contrarian View: 2026 Startups Should Skip Vercel for Next.js 15 – Use Cloudflare Pages for 40% Lower Hosting Costs](https://dev.to/johalputt/contrarian-view-2026-startups-should-skip-vercel-for-nextjs-15-use-cloudflare-pages-for-40-5gl4)
 <!-- BLOG-POST-LIST:END -->
 
 
