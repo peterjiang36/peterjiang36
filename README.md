@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Pointers in Go; The Two Runes &lpar;&amp; and *&rpar; of Go](https://dev.to/gr8soln/understanding-pointers-in-go-the-two-runes-and-of-go-1p5e)
-- [Angular 22 @Service vs @Injectable &lpar;What You Need to Know&rpar;&quot;](https://dev.to/brianmtreese/angular-22-service-vs-injectable-what-you-need-to-know-3i9l)
-- [AI as a Junior Platform Engineer: How I &quot;Onboard&quot; Coding Agents](https://dev.to/yogesh_vk/ai-as-a-junior-platform-engineer-how-i-onboard-coding-agents-1nh2)
-- [Prologue - What is Large-scale Processing?](https://dev.to/lukyday007/prologue-what-is-large-scale-processing-ma1)
+- [Custom Likelihoods in PyMC: One-Inflated Beta Regression for Loan Repayment](https://dev.to/berkan_sesen/custom-likelihoods-in-pymc-one-inflated-beta-regression-for-loan-repayment-2k5k)
+- [Announcing the NVIDIA Nemotron 3 Super Build Contest](https://dev.to/ajeetraina/announcing-the-nvidia-nemotron-3-super-build-contest-2d22)
+- [Best Pytest Courses in 2026: A Transparent Review From a Course Creator](https://dev.to/aistranin/best-pytest-courses-in-2026-a-transparent-review-from-a-course-creator-1063)
+- [I Built an AI That Detects Pneumonia From Chest X-Rays Here&#39;s Exactly How I Did It](https://dev.to/gradienninja/i-built-an-ai-that-detects-pneumonia-from-chest-x-rays-heres-exactly-how-i-did-it-52cp)
 <!-- BLOG-POST-LIST:END -->
 
 
