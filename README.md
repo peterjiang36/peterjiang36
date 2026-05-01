@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave Up on AI Search. Here&#39;s What I Do Instead.](https://dev.to/doremi/i-gave-up-on-ai-search-heres-what-i-do-instead-17gd)
-- [Terraform State File Management with Remote Backend](https://dev.to/brian_mengo/terraform-state-file-management-with-remote-backend-4p95)
-- [MCP 的黑暗秘密：99% 开发者不知道的 5 个上下文优化隐藏技巧](https://dev.to/_cbd692d476c5faf3b61bcf/mcp-de-hei-an-mi-mi-99-kai-fa-zhe-bu-zhi-dao-de-5-ge-shang-xia-wen-you-hua-yin-cang-ji-qiao-1nk0)
-- [MCP&#39;s Dark Secret: 5 Hidden Patterns Nobody Teaches You About Context Window Optimization](https://dev.to/_cbd692d476c5faf3b61bcf/mcps-dark-secret-5-hidden-patterns-nobody-teaches-you-about-context-window-optimization-675)
+- [What Goes Around Comes Around: A New Model Every Month and a Half](https://dev.to/skyguan92/what-goes-around-comes-around-a-new-model-every-month-and-a-half-267f)
+- [Cómo limité el acceso SSH a una sola IP en AWS — mi primera implementación de Least Privilege](https://dev.to/jannkee/como-limite-el-acceso-ssh-a-una-sola-ip-en-aws-mi-primera-implementacion-de-least-privilege-3a2k)
+- [Deep Dive: How qBittorrent 4.6&#39;s Sequential Download Works vs. Transmission 4.0&#39;s Peer Selection](https://dev.to/johalputt/deep-dive-how-qbittorrent-46s-sequential-download-works-vs-transmission-40s-peer-selection-dpb)
+- [I Stress-Tested My Own Security Architecture by Writing a Novel About Breaking It. Here&#39;s What I Found.](https://dev.to/leonidasesquire/i-stress-tested-my-own-security-architecture-by-writing-a-novel-about-breaking-it-heres-what-i-3a1d)
 <!-- BLOG-POST-LIST:END -->
 
 
