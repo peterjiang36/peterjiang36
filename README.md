@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Your First Node.js Application Step-by-Step](https://dev.to/ritam369/setting-up-your-first-nodejs-application-step-by-step-h40)
-- [Chuks Language Data Types](https://dev.to/chukwuemekaigbokwe/chuks-language-data-types-281l)
-- [16 Botões, 1 Lâmpada WiFi e um Agente de AI: Projeto de Sexta-Feira](https://dev.to/vsenger/16-botoes-1-lampada-wifi-e-um-agente-de-ai-projeto-de-sexta-feira-52mo)
-- [VirtualJoystick in Godot 4.7: Endlich ein nativer Touchscreen-Stick](https://dev.to/ziva/virtualjoystick-in-godot-47-endlich-ein-nativer-touchscreen-stick-1enb)
+- [People Follow Incentives -Not Instructions](https://dev.to/chandravanshi/people-follow-incentives-not-instructions-4579)
+- [People Don’t Change — Incentives Do](https://dev.to/chandravanshi/people-dont-change-incentives-do-247)
+- [Tenacious-Bench: Building a Sales Domain Evaluation Benchmark When No Dataset Exists](https://dev.to/lidya_dagnew_5d2e8f9a63a3/tenacious-bench-building-a-sales-domain-evaluation-benchmark-when-no-dataset-exists-5cam)
+- [Python Meets SQL: Pandas and Databases Together](https://dev.to/yakhilesh/python-meets-sql-pandas-and-databases-together-1ep3)
 <!-- BLOG-POST-LIST:END -->
 
 
