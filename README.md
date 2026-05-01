@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Moved from Terraform to a Stateless IaC Platform and What I Learned](https://dev.to/matt0135/why-i-moved-from-terraform-to-a-stateless-iac-platform-and-what-i-learned-1bm0)
-- [Beyond SSR vs SSG: Partial Prerendering &lpar;PPR&rpar; Explained with a Real-World Story](https://dev.to/abdullahmubin/beyond-ssr-vs-ssg-partial-prerendering-ppr-explained-with-a-real-world-story-2ibj)
-- [I Added Gemini AI to My Android Logcat Viewer. One Click Diagnoses the Error.](https://dev.to/hiyoyok/i-added-gemini-ai-to-my-android-logcat-viewer-one-click-diagnoses-the-error-bcc)
-- [I Built a Free Browser Piano with Tone.js](https://dev.to/roxyemanuel/i-built-a-free-browser-piano-with-tonejs-3n3a)
+- [Valorisation 4 dimensions : ma méthode](https://dev.to/michelfaure/valorisation-4-dimensions-ma-methode-3nka)
+- [Signal-to-Action in Under 15 Minutes: Our Real-Time Pipeline Architecture](https://dev.to/spuriqai/signal-to-action-in-under-15-minutes-our-real-time-pipeline-architecture-2jnc)
+- [Taste&quot; is the new 10x. Senior devs who can&#39;t curate AI output are cooked.](https://dev.to/adioof/taste-is-the-new-10x-senior-devs-who-cant-curate-ai-output-are-cooked-48ld)
+- [Astro i18n in 2026: The Complete Guide From ui.ts to Edge-Native KV](https://dev.to/garyedgekits/astro-i18n-in-2026-the-complete-guide-from-uits-to-edge-native-kv-1gla)
 <!-- BLOG-POST-LIST:END -->
 
 
