@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Goes Around Comes Around: A New Model Every Month and a Half](https://dev.to/skyguan92/what-goes-around-comes-around-a-new-model-every-month-and-a-half-267f)
-- [Cómo limité el acceso SSH a una sola IP en AWS — mi primera implementación de Least Privilege](https://dev.to/jannkee/como-limite-el-acceso-ssh-a-una-sola-ip-en-aws-mi-primera-implementacion-de-least-privilege-3a2k)
-- [Deep Dive: How qBittorrent 4.6&#39;s Sequential Download Works vs. Transmission 4.0&#39;s Peer Selection](https://dev.to/johalputt/deep-dive-how-qbittorrent-46s-sequential-download-works-vs-transmission-40s-peer-selection-dpb)
-- [I Stress-Tested My Own Security Architecture by Writing a Novel About Breaking It. Here&#39;s What I Found.](https://dev.to/leonidasesquire/i-stress-tested-my-own-security-architecture-by-writing-a-novel-about-breaking-it-heres-what-i-3a1d)
+- [Understanding Pointers in Go; The Two Runes &lpar;&amp; and *&rpar; of Go](https://dev.to/gr8soln/understanding-pointers-in-go-the-two-runes-and-of-go-1p5e)
+- [Angular 22 @Service vs @Injectable &lpar;What You Need to Know&rpar;&quot;](https://dev.to/brianmtreese/angular-22-service-vs-injectable-what-you-need-to-know-3i9l)
+- [AI as a Junior Platform Engineer: How I &quot;Onboard&quot; Coding Agents](https://dev.to/yogesh_vk/ai-as-a-junior-platform-engineer-how-i-onboard-coding-agents-1nh2)
+- [Prologue - What is Large-scale Processing?](https://dev.to/lukyday007/prologue-what-is-large-scale-processing-ma1)
 <!-- BLOG-POST-LIST:END -->
 
 
