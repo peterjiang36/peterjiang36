@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
-- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
-- [The &#39;Code&#39; was Never the Core: Reimagining the DLC with AI](https://dev.to/dmx/the-code-was-never-the-core-reimagining-the-dlc-with-ai-1i19)
-- [Contrarian View: 2026 Startups Should Skip Vercel for Next.js 15 – Use Cloudflare Pages for 40% Lower Hosting Costs](https://dev.to/johalputt/contrarian-view-2026-startups-should-skip-vercel-for-nextjs-15-use-cloudflare-pages-for-40-5gl4)
+- [Setting Up Your First Node.js Application Step-by-Step](https://dev.to/ritam369/setting-up-your-first-nodejs-application-step-by-step-h40)
+- [Chuks Language Data Types](https://dev.to/chukwuemekaigbokwe/chuks-language-data-types-281l)
+- [16 Botões, 1 Lâmpada WiFi e um Agente de AI: Projeto de Sexta-Feira](https://dev.to/vsenger/16-botoes-1-lampada-wifi-e-um-agente-de-ai-projeto-de-sexta-feira-52mo)
+- [VirtualJoystick in Godot 4.7: Endlich ein nativer Touchscreen-Stick](https://dev.to/ziva/virtualjoystick-in-godot-47-endlich-ein-nativer-touchscreen-stick-1enb)
 <!-- BLOG-POST-LIST:END -->
 
 
