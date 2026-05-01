@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Secure File Uploads: Seven Checks and Why Each One Exists](https://dev.to/itxshakil/secure-file-uploads-seven-checks-and-why-each-one-exists-222n)
-- [14 years at one company broke a senior dev&#39;s career. Loyalty is a scam.](https://dev.to/adioof/14-years-at-one-company-broke-a-senior-devs-career-loyalty-is-a-scam-4l2d)
-- [How to Reset Your MySQL Root Password on Ubuntu &lpar;When Nothing Works&rpar;](https://dev.to/edriso/how-to-reset-your-mysql-root-password-on-ubuntu-when-nothing-works-64)
-- [We Blamed Stack Overflow for a Decade. Now It&#39;s AI.](https://dev.to/jonoherrington/we-blamed-stack-overflow-for-a-decade-now-its-ai-472b)
+- [State Management and Chat History](https://dev.to/lukaswalter/state-management-and-chat-history-5a7g)
+- [Turn your OpenWrt router into a quorum device for Proxmox VE cluster](https://dev.to/osag/turn-your-openwrt-router-into-a-quorum-device-for-proxmox-ve-cluster-561m)
+- [Window Functions: SQL&#39;s Most Powerful Feature Nobody Uses](https://dev.to/yakhilesh/window-functions-sqls-most-powerful-feature-nobody-uses-3phc)
+- [15 DeFi Protocols, 631 Tests: Building Reliable Multi-Protocol Trading Infrastructure](https://dev.to/walletguy/15-defi-protocols-631-tests-building-reliable-multi-protocol-trading-infrastructure-3n1c)
 <!-- BLOG-POST-LIST:END -->
 
 
