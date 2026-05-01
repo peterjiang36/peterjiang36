@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Valorisation 4 dimensions : ma méthode](https://dev.to/michelfaure/valorisation-4-dimensions-ma-methode-3nka)
-- [Signal-to-Action in Under 15 Minutes: Our Real-Time Pipeline Architecture](https://dev.to/spuriqai/signal-to-action-in-under-15-minutes-our-real-time-pipeline-architecture-2jnc)
-- [Taste&quot; is the new 10x. Senior devs who can&#39;t curate AI output are cooked.](https://dev.to/adioof/taste-is-the-new-10x-senior-devs-who-cant-curate-ai-output-are-cooked-48ld)
-- [Astro i18n in 2026: The Complete Guide From ui.ts to Edge-Native KV](https://dev.to/garyedgekits/astro-i18n-in-2026-the-complete-guide-from-uits-to-edge-native-kv-1gla)
+- [I Asked AI to &#39;Refactor This Nicely&#39; and Got Unwanted Decimals and Dataclasses](https://dev.to/kenimo49/i-asked-ai-to-refactor-this-nicely-and-got-unwanted-decimals-and-dataclasses-1o77)
+- [Strict Schema Enforcement: The Bedrock of AI Reliability](https://dev.to/tercelyi/strict-schema-enforcement-the-bedrock-of-ai-reliability-1kdb)
+- [How I built multi-model LLM routing on Groq&#39;s free tier](https://dev.to/sathvik_07_4b0ebeb8912c63/how-i-built-multi-model-llm-routing-on-groqs-free-tier-5618)
+- [Big Tech Is Firing Humans to Buy More GPUs](https://dev.to/syedahmershah/big-tech-is-firing-humans-to-buy-more-gpus-48f0)
 <!-- BLOG-POST-LIST:END -->
 
 
