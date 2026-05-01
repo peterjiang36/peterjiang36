@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stuck in the Birch-muda Triangle! 🪵😵‍💫](https://dev.to/kiwi_tech/stuck-in-the-birch-muda-triangle-eko)
-- [The Missing Layer Between AI and Design Consistency](https://dev.to/beep_boop/the-rise-of-vibe-designing-2g6p)
-- [O uso de Load Balancing para sistemas distribuídos: Escalabilidade e Resiliência](https://dev.to/luan_girotto_dev/o-uso-de-load-balancing-para-sistemas-distribuidos-escalabilidade-e-resiliencia-g20)
-- [LangChain fundamentals: the mental model that makes everything click](https://dev.to/youngtee100/langchain-fundamentals-the-mental-model-that-makes-everything-click-4101)
+- [I Gave Up on AI Search. Here&#39;s What I Do Instead.](https://dev.to/doremi/i-gave-up-on-ai-search-heres-what-i-do-instead-17gd)
+- [Terraform State File Management with Remote Backend](https://dev.to/brian_mengo/terraform-state-file-management-with-remote-backend-4p95)
+- [MCP 的黑暗秘密：99% 开发者不知道的 5 个上下文优化隐藏技巧](https://dev.to/_cbd692d476c5faf3b61bcf/mcp-de-hei-an-mi-mi-99-kai-fa-zhe-bu-zhi-dao-de-5-ge-shang-xia-wen-you-hua-yin-cang-ji-qiao-1nk0)
+- [MCP&#39;s Dark Secret: 5 Hidden Patterns Nobody Teaches You About Context Window Optimization](https://dev.to/_cbd692d476c5faf3b61bcf/mcps-dark-secret-5-hidden-patterns-nobody-teaches-you-about-context-window-optimization-675)
 <!-- BLOG-POST-LIST:END -->
 
 
