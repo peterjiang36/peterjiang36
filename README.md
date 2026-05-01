@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Likelihoods in PyMC: One-Inflated Beta Regression for Loan Repayment](https://dev.to/berkan_sesen/custom-likelihoods-in-pymc-one-inflated-beta-regression-for-loan-repayment-2k5k)
-- [Announcing the NVIDIA Nemotron 3 Super Build Contest](https://dev.to/ajeetraina/announcing-the-nvidia-nemotron-3-super-build-contest-2d22)
-- [Best Pytest Courses in 2026: A Transparent Review From a Course Creator](https://dev.to/aistranin/best-pytest-courses-in-2026-a-transparent-review-from-a-course-creator-1063)
-- [I Built an AI That Detects Pneumonia From Chest X-Rays Here&#39;s Exactly How I Did It](https://dev.to/gradienninja/i-built-an-ai-that-detects-pneumonia-from-chest-x-rays-heres-exactly-how-i-did-it-52cp)
+- [Why I Moved from Terraform to a Stateless IaC Platform and What I Learned](https://dev.to/matt0135/why-i-moved-from-terraform-to-a-stateless-iac-platform-and-what-i-learned-1bm0)
+- [Beyond SSR vs SSG: Partial Prerendering &lpar;PPR&rpar; Explained with a Real-World Story](https://dev.to/abdullahmubin/beyond-ssr-vs-ssg-partial-prerendering-ppr-explained-with-a-real-world-story-2ibj)
+- [I Added Gemini AI to My Android Logcat Viewer. One Click Diagnoses the Error.](https://dev.to/hiyoyok/i-added-gemini-ai-to-my-android-logcat-viewer-one-click-diagnoses-the-error-bcc)
+- [I Built a Free Browser Piano with Tone.js](https://dev.to/roxyemanuel/i-built-a-free-browser-piano-with-tonejs-3n3a)
 <!-- BLOG-POST-LIST:END -->
 
 
