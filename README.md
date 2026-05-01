@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sprint Briefing Agent: When Your AI Works While You Sleep](https://dev.to/elenarevicheva/sprint-briefing-agent-when-your-ai-works-while-you-sleep-4hfa)
-- [Don&#39;t Put All Your Code in One Account: Multi-Account Deployments with AWS CodePipeline](https://dev.to/chkso/dont-put-all-your-code-in-one-account-multi-account-deployments-with-aws-codepipeline-326h)
-- [How to monitor Apache Airflow DAGs so you know when they silently fail](https://dev.to/krissv/how-to-monitor-apache-airflow-dags-so-you-know-when-they-silently-fail-3pp0)
-- [CSS property field-sizing: automatic resizing of input fields](https://dev.to/nickbenksim/css-property-field-sizing-automatic-resizing-of-input-fields-b59)
+- [Secure File Uploads: Seven Checks and Why Each One Exists](https://dev.to/itxshakil/secure-file-uploads-seven-checks-and-why-each-one-exists-222n)
+- [14 years at one company broke a senior dev&#39;s career. Loyalty is a scam.](https://dev.to/adioof/14-years-at-one-company-broke-a-senior-devs-career-loyalty-is-a-scam-4l2d)
+- [How to Reset Your MySQL Root Password on Ubuntu &lpar;When Nothing Works&rpar;](https://dev.to/edriso/how-to-reset-your-mysql-root-password-on-ubuntu-when-nothing-works-64)
+- [We Blamed Stack Overflow for a Decade. Now It&#39;s AI.](https://dev.to/jonoherrington/we-blamed-stack-overflow-for-a-decade-now-its-ai-472b)
 <!-- BLOG-POST-LIST:END -->
 
 
