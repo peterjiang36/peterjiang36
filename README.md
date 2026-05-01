@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [State Management and Chat History](https://dev.to/lukaswalter/state-management-and-chat-history-5a7g)
-- [Turn your OpenWrt router into a quorum device for Proxmox VE cluster](https://dev.to/osag/turn-your-openwrt-router-into-a-quorum-device-for-proxmox-ve-cluster-561m)
-- [Window Functions: SQL&#39;s Most Powerful Feature Nobody Uses](https://dev.to/yakhilesh/window-functions-sqls-most-powerful-feature-nobody-uses-3phc)
-- [15 DeFi Protocols, 631 Tests: Building Reliable Multi-Protocol Trading Infrastructure](https://dev.to/walletguy/15-defi-protocols-631-tests-building-reliable-multi-protocol-trading-infrastructure-3n1c)
+- [Designing an AI Diagnosis Overlay — Why I Replaced the Fixed Panel With ESC-to-Close](https://dev.to/hiyoyok/designing-an-ai-diagnosis-overlay-why-i-replaced-the-fixed-panel-with-esc-to-close-5dea)
+- [AIP-C01 last-minute revision: exam traps, memory hooks, and quick notes](https://dev.to/awshuss/aip-c01-last-minute-revision-exam-traps-memory-hooks-and-quick-notes-1m09)
+- [AI Didn’t Kill Developers: It Exposed Bad Architecture](https://dev.to/alesiaalesia/ai-didnt-kill-developers-it-exposed-bad-architecture-2393)
+- [EasyPollVote [Dev Log #4]](https://dev.to/francistrdev/easypollvote-dev-log-4-5a02)
 <!-- BLOG-POST-LIST:END -->
 
 
