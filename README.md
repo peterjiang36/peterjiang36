@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your First Full-Stack App with Appwrite — Auth, Database, Storage, and Functions in One Backend](https://dev.to/jordan_sterchele/your-first-full-stack-app-with-appwrite-auth-database-storage-and-functions-in-one-backend-40dl)
-- [Why I’m killing &quot;Blank Canvas Syndrome&quot; in Database Seeding](https://dev.to/lgpoliveira/why-im-killing-blank-canvas-syndrome-in-database-seeding-5fd7)
-- [War Story: Debugging a Firebase 2026 Real-Time Database Bug That Lost 1k User Messages](https://dev.to/johalputt/war-story-debugging-a-firebase-2026-real-time-database-bug-that-lost-1k-user-messages-2kbh)
-- [What is OpenAI&#39;s Parameter Golf Challenge, and why I spent a month on it](https://dev.to/swapp1990/what-is-parameter-golf-and-why-i-spent-a-month-on-it-4gch)
+- [Taking Notes to Forget — The Idea of Cognitive Offloading &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/taking-notes-to-forget-the-idea-of-cognitive-offloading-bite-size-article-2l96)
+- [Building a Personalized Code Learning Platform with LangChain 0.2 and Next.js 15](https://dev.to/johalputt/building-a-personalized-code-learning-platform-with-langchain-02-and-nextjs-15-5ad6)
+- [Understanding Transformers Part 17: Generating the Output Word](https://dev.to/rijultp/understanding-transformers-part-17-generating-the-output-word-35ol)
+- [Stop Adopting AI. Start Exposing Your Context.](https://dev.to/michaeltuszynski/stop-adopting-ai-start-exposing-your-context-2pog)
 <!-- BLOG-POST-LIST:END -->
 
 
