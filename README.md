@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing an AI Diagnosis Overlay — Why I Replaced the Fixed Panel With ESC-to-Close](https://dev.to/hiyoyok/designing-an-ai-diagnosis-overlay-why-i-replaced-the-fixed-panel-with-esc-to-close-5dea)
-- [AIP-C01 last-minute revision: exam traps, memory hooks, and quick notes](https://dev.to/awshuss/aip-c01-last-minute-revision-exam-traps-memory-hooks-and-quick-notes-1m09)
-- [AI Didn’t Kill Developers: It Exposed Bad Architecture](https://dev.to/alesiaalesia/ai-didnt-kill-developers-it-exposed-bad-architecture-2393)
-- [EasyPollVote [Dev Log #4]](https://dev.to/francistrdev/easypollvote-dev-log-4-5a02)
+- [GraphQL Is Still Better Than tRPC 2.0 for Public APIs: 1-Year Case Study at Stripe](https://dev.to/johalputt/graphql-is-still-better-than-trpc-20-for-public-apis-1-year-case-study-at-stripe-37ce)
+- [My Journey with AI &amp; Fashion MNIST](https://dev.to/codewithurooj/my-journey-with-ai-fashion-mnist-2egj)
+- [Stop Paying the Intercom Tax: When to Build Instead of Buy](https://dev.to/slickrockdev/stop-paying-the-intercom-tax-when-to-build-instead-of-buy-58n4)
+- [notkyc.life - no-KYC swap aggregator .stay anonymous. stay free.](https://dev.to/notkyc_life/notkyclife-no-kyc-swap-aggregatorstay-anonymous-stay-free-1b21)
 <!-- BLOG-POST-LIST:END -->
 
 
