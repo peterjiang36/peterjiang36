@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [People Follow Incentives -Not Instructions](https://dev.to/chandravanshi/people-follow-incentives-not-instructions-4579)
-- [People Don’t Change — Incentives Do](https://dev.to/chandravanshi/people-dont-change-incentives-do-247)
-- [Tenacious-Bench: Building a Sales Domain Evaluation Benchmark When No Dataset Exists](https://dev.to/lidya_dagnew_5d2e8f9a63a3/tenacious-bench-building-a-sales-domain-evaluation-benchmark-when-no-dataset-exists-5cam)
-- [Python Meets SQL: Pandas and Databases Together](https://dev.to/yakhilesh/python-meets-sql-pandas-and-databases-together-1ep3)
+- [Your First Full-Stack App with Appwrite — Auth, Database, Storage, and Functions in One Backend](https://dev.to/jordan_sterchele/your-first-full-stack-app-with-appwrite-auth-database-storage-and-functions-in-one-backend-40dl)
+- [Why I’m killing &quot;Blank Canvas Syndrome&quot; in Database Seeding](https://dev.to/lgpoliveira/why-im-killing-blank-canvas-syndrome-in-database-seeding-5fd7)
+- [War Story: Debugging a Firebase 2026 Real-Time Database Bug That Lost 1k User Messages](https://dev.to/johalputt/war-story-debugging-a-firebase-2026-real-time-database-bug-that-lost-1k-user-messages-2kbh)
+- [What is OpenAI&#39;s Parameter Golf Challenge, and why I spent a month on it](https://dev.to/swapp1990/what-is-parameter-golf-and-why-i-spent-a-month-on-it-4gch)
 <!-- BLOG-POST-LIST:END -->
 
 
