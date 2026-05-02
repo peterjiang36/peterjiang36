@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentes de IA Open Source: A Alternativa Gratuita que Supera o ClaudeCode](https://dev.to/kabrau/agentes-de-ia-open-source-a-alternativa-gratuita-que-supera-o-claudecode-2fgn)
-- [Stuck in the Birch Log Blues 🪵😩](https://dev.to/kiwi_tech/stuck-in-the-birch-log-blues-97h)
-- [Automating Purchase Order and Supplier Invoice Matching with Document AI](https://dev.to/cy_ong_591/automating-purchase-order-and-supplier-invoice-matching-with-document-ai-1d3m)
-- [3 MCP server failure modes that bit us in production, and how we ship around them](https://dev.to/zoetaka38/3-mcp-server-failure-modes-that-bit-us-in-production-and-how-we-ship-around-them-4fc9)
+- [LLM02 Sensitive Information Disclosure — How LLMs Leak PII, Credentials &amp; System Data | AI LLM Hacking Course Day 6](https://dev.to/lucky_lonerusher/llm02-sensitive-information-disclosure-how-llms-leak-pii-credentials-system-data-ai-llm-4jc0)
+- [iOS Privacy Manifest &amp; Required Reasons APIs: A Compliance Checklist](https://dev.to/mrugeshtank/ios-privacy-manifest-required-reasons-apis-a-compliance-checklist-3o86)
+- [Instagram Reel Transcripts in 5 Lines — and Word-Level Timestamps Are Free](https://dev.to/sian-agency/instagram-reel-transcripts-in-5-lines-and-word-level-timestamps-are-free-3d7a)
+- [Using TMUX and tmuxinator for a better docker compose experience](https://dev.to/moofoo/docker-basics-using-tmux-and-tmuxinator-for-a-better-docker-compose-experience-43ma)
 <!-- BLOG-POST-LIST:END -->
 
 
