@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What we learned building healthcare integrations for the past year](https://dev.to/michael_kronovet_261e3cc1/what-we-learned-building-healthcare-integrations-for-the-past-year-4n94)
-- [1Password, GitHub, and Git CLI with Multiple Users](https://dev.to/hacksore/1password-github-and-git-cli-with-multiple-users-a0j)
-- [me_irl](https://dev.to/ben/meirl-5g6i)
-- [High-Traffic Shopify Architecture Patterns: 8 Systems Every Scaling Store Needs](https://dev.to/asad_abdullah_zafar/high-traffic-shopify-architecture-patterns-8-systems-every-scaling-store-needs-1ng5)
+- [Self-Updating Screenshots in Your Docs: How to Stop Doing It by Hand](https://dev.to/ericwoooo_kr/self-updating-screenshots-in-your-docs-how-to-stop-doing-it-by-hand-2bbd)
+- [vitest-fail-on-console: Stop Ignoring console.error in Your Tests](https://dev.to/recca0120/vitest-fail-on-console-stop-ignoring-consoleerror-in-your-tests-1io9)
+- [The Sheet for React Native: A Modular Sheet Framework](https://dev.to/too_dope/the-sheet-for-react-native-a-modular-sheet-framework-1764)
+- [15 Words That Mean Not Actually Remote on a Job Posting &lpar;Beyond Hybrid&rpar;](https://dev.to/charliemorrison/15-words-that-mean-not-actually-remote-on-a-job-posting-beyond-hybrid-3kkc)
 <!-- BLOG-POST-LIST:END -->
 
 
