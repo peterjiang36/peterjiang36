@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/k_ivanow/-5enl)
-- [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl)
-- [The Ultimate Guide to Fixing AppImages on Ubuntu 24.04 LTS](https://dev.to/nileshcodehub/the-ultimate-guide-to-fixing-appimages-on-ubuntu-2404-lts-5g00)
-- [What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS](https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal)
+- [Building a Multi-VPC Architecture on AWS](https://dev.to/ikoh_sylva/building-a-multi-vpc-architecture-on-aws-30m3)
+- [Building VoterAssist: An Intent-Driven AI Election Guide](https://dev.to/sri_ramcharannandigam_8/building-voterassist-an-intent-driven-ai-election-guide-jm6)
+- [I built an image compressor that never sees your images published](https://dev.to/bhowmick773/i-built-an-image-compressor-that-never-sees-your-imagespublished-3p00)
+- [NCT Depth Motif: Exploring Symbolic 3D Motifs for RGB-D Depth Maps](https://dev.to/hanzzel_corp_0003/nct-depth-motif-exploring-symbolic-3d-motifs-for-rgb-d-depth-maps-6kl)
 <!-- BLOG-POST-LIST:END -->
 
 
