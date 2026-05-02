@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I tracked my referral sources for 30 days. AI chatbots are beating Google.](https://dev.to/acewhitmore/i-tracked-my-referral-sources-for-30-days-ai-chatbots-are-beating-google-dkm)
-- [How React Works &lpar;Part 7&rpar;? The Trap of Vibe Coding `useCallback`](https://dev.to/samabaasi/how-react-works-part-7-the-trap-of-vibe-coding-usecallback-25cg)
-- [Building Dynamic Audio with Emotion &amp; Pace: Gemini 3.1 Flash TTS, Angular &amp; Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8)
-- [TextExpander Alternatives for Mac in 2026: An Honest Comparison](https://dev.to/quicopy/textexpander-alternatives-for-mac-in-2026-an-honest-comparison-3cn8)
+- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobuhiko_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
+- [I put Claude inside Blender&#39;s Text Editor](https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo)
+- [Running Caddy on Cloudflare Workers via WebAssembly](https://dev.to/theuargb/running-caddy-on-cloudflare-workers-via-webassembly-4mai)
+- [How I Built an AI Character That Lives on My Desktop and Learns New Expressions](https://dev.to/jakimli/how-i-built-an-ai-character-that-lives-on-my-desktop-and-learns-new-expressions-454j)
 <!-- BLOG-POST-LIST:END -->
 
 
