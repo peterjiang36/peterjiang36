@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Code That&#39;s Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1)
-- [Cilium network policy kubectl‑capture feature replaced our tcpdump sidecars for debugging](https://dev.to/johalputt/cilium-network-policy-kubectl-capture-feature-replaced-our-tcpdump-sidecars-for-debugging-2dle)
-- [How to track API requests in Azure APIM to Table Storage](https://dev.to/samvanhoutte/how-to-track-api-requests-in-azure-apim-to-table-storage-2k3c)
-- [Building Your First AYW Bot: A Step-by-Step Guide](https://dev.to/leo_laish_25120db350ea449/building-your-first-ayw-bot-a-step-by-step-guide-50mo)
+- [Deterministic vs Agentic: The Quiet Architectural Bet Every AI Agent Company Is Making](https://dev.to/waveassist/deterministic-vs-agentic-the-quiet-architectural-bet-every-ai-agent-company-is-making-33p)
+- [47 commits. Zero users. Then 13 days changed the math.](https://dev.to/energetekk/47-commits-zero-users-then-13-days-changed-the-math-jma)
+- [Using PostGIS with Azure Database for PostgreSQL](https://dev.to/samvanhoutte/using-postgis-with-azure-database-for-postgresql-1ck8)
+- [Linux Firewall Configuration with UFW and iptables](https://dev.to/big_mazzy_06d057cc24398c5/linux-firewall-configuration-with-ufw-and-iptables-pa8)
 <!-- BLOG-POST-LIST:END -->
 
 
