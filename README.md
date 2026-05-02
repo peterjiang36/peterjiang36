@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert HEIC to JPG for Free &lpar;Without Uploading Your Photos&rpar;](https://dev.to/ahmerarain/how-to-convert-heic-to-jpg-for-free-without-uploading-your-photos-1ep5)
-- [gni-compression is on npm — What a month of building a domain-adaptive LLM compressor taught me](https://dev.to/atomsrkuul/gni-compression-is-on-npm-what-a-month-of-building-a-domain-adaptive-llm-compressor-taught-me-5cfl)
-- [Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files](https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7)
-- [MCP Tool Poisoning: The AI Supply Chain Attack Nobody Is Talking About](https://dev.to/aevrisai/mcp-tool-poisoning-the-ai-supply-chain-attack-nobody-is-talking-about-44fc)
+- [What is NodeJS? JavaScript on the Server Explained](https://dev.to/ritam369/what-is-nodejs-javascript-on-the-server-explained-441k)
+- [[Boost]](https://dev.to/elizabethfuentes12/-3lai)
+- [Mastering SwiftData: Building Persistent &quot;Memory&quot; for Your Next AI Chatbot](https://dev.to/programmingcentral/mastering-swiftdata-building-persistent-memory-for-your-next-ai-chatbot-4ka9)
+- [I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don&#39;t Require Signup](https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81)
 <!-- BLOG-POST-LIST:END -->
 
 
