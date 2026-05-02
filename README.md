@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is NodeJS? JavaScript on the Server Explained](https://dev.to/ritam369/what-is-nodejs-javascript-on-the-server-explained-441k)
-- [[Boost]](https://dev.to/elizabethfuentes12/-3lai)
-- [Mastering SwiftData: Building Persistent &quot;Memory&quot; for Your Next AI Chatbot](https://dev.to/programmingcentral/mastering-swiftdata-building-persistent-memory-for-your-next-ai-chatbot-4ka9)
-- [I Built a Free Invoice Generator, Resume Builder, and Cover Letter Generator That Don&#39;t Require Signup](https://dev.to/aralroca/i-built-a-free-invoice-generator-resume-builder-and-cover-letter-generator-that-dont-require-5f81)
+- [Architecting Digital Trust: A Relational Deep Dive into the LocalHands Prisma Schema](https://dev.to/tpekins/architecting-digital-trust-a-relational-deep-dive-into-the-localhands-prisma-schema-12dk)
+- [Postmortem: How a LangGraph 0.1 Multi-Agent Bug Broke Our 2026 Customer Support Bot](https://dev.to/johalputt/postmortem-how-a-langgraph-01-multi-agent-bug-broke-our-2026-customer-support-bot-37pp)
+- [TestSprite: Review Teknis Mendalam untuk Developer Indonesia — Termasuk Isu Locale Handling](https://dev.to/bajuriasadrgb/testsprite-review-teknis-mendalam-untuk-developer-indonesia-termasuk-isu-locale-handling-bbn)
+- [Why I&#39;m Building a Database From Scratch in Raw C++ &lpar;And Why I Banned the STL&rpar;](https://dev.to/hari5616/why-im-building-a-database-from-scratch-in-raw-c-and-why-i-banned-the-stl-41p2)
 <!-- BLOG-POST-LIST:END -->
 
 
