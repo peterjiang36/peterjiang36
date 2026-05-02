@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture con c# &lpar;Trabajo en progreso 🚧👷🏽&rpar;](https://dev.to/apoveda25/clean-architecture-con-c-trabajo-en-progreso--3dll)
-- [Beyond Simple Image Recognition: Building a Precise AI Nutritionist with GPT-4o and Segment Anything &lpar;SAM&rpar;](https://dev.to/wellallytech/beyond-simple-image-recognition-building-a-precise-ai-nutritionist-with-gpt-4o-and-segment-29ml)
-- [Ghostty 1.0 vs Warp OSS vs WezTerm: 14 Days of Daily Use — Real Latency, Memory, and Workflow Numbers](https://dev.to/michael_sun_18a5c4c96768d/ghostty-10-vs-warp-oss-vs-wezterm-14-days-of-daily-use-real-latency-memory-and-workflow-3ekp)
-- [分层架构深度指南：构建可维护软件的核心基石](https://dev.to/tianxin/fen-ceng-jia-gou-shen-du-zhi-nan-gou-jian-ke-wei-hu-ruan-jian-de-he-xin-ji-shi-2a9)
+- [Agentes de IA Open Source: A Alternativa Gratuita que Supera o ClaudeCode](https://dev.to/kabrau/agentes-de-ia-open-source-a-alternativa-gratuita-que-supera-o-claudecode-2fgn)
+- [Stuck in the Birch Log Blues 🪵😩](https://dev.to/kiwi_tech/stuck-in-the-birch-log-blues-97h)
+- [Automating Purchase Order and Supplier Invoice Matching with Document AI](https://dev.to/cy_ong_591/automating-purchase-order-and-supplier-invoice-matching-with-document-ai-1d3m)
+- [3 MCP server failure modes that bit us in production, and how we ship around them](https://dev.to/zoetaka38/3-mcp-server-failure-modes-that-bit-us-in-production-and-how-we-ship-around-them-4fc9)
 <!-- BLOG-POST-LIST:END -->
 
 
