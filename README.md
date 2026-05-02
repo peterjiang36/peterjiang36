@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LeafWiki Devlog #10: v0.9.0 – no more broken links, lost edits, or overwritten changes](https://dev.to/perber/leafwiki-devlog-9-v090-no-more-broken-links-lost-edits-or-overwritten-changes-1e35)
-- [Linear Regression: Code &lpar;a&rpar; Line](https://dev.to/the_undefined_architect/linear-regression-code-a-line-1fhh)
-- [Immutable settlement protocols for real-world assets: deployed, ownerless, open templates](https://dev.to/pablochacon/immutable-settlement-protocols-for-real-world-assets-deployed-ownerless-open-templates-bip)
-- [When Generic Benchmarks Fail: Building a Sales-Domain Evaluation Bench from Scratch](https://dev.to/natnael_alemseged/when-generic-benchmarks-fail-building-a-sales-domain-evaluation-bench-from-scratch-1kjf)
+- [How to Convert HEIC to JPG for Free &lpar;Without Uploading Your Photos&rpar;](https://dev.to/ahmerarain/how-to-convert-heic-to-jpg-for-free-without-uploading-your-photos-1ep5)
+- [gni-compression is on npm — What a month of building a domain-adaptive LLM compressor taught me](https://dev.to/atomsrkuul/gni-compression-is-on-npm-what-a-month-of-building-a-domain-adaptive-llm-compressor-taught-me-5cfl)
+- [Why I Built ng-prism — An Angular-Native Storybook Alternative With Zero Story Files](https://dev.to/dyingangel666/why-i-built-ng-prism-an-angular-native-storybook-alternative-with-zero-story-files-1ip7)
+- [MCP Tool Poisoning: The AI Supply Chain Attack Nobody Is Talking About](https://dev.to/aevrisai/mcp-tool-poisoning-the-ai-supply-chain-attack-nobody-is-talking-about-44fc)
 <!-- BLOG-POST-LIST:END -->
 
 
