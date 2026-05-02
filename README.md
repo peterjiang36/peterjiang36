@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TestSprite: Reseña de Desarrollador Localizada &lpar;es-ES&rpar; — Fechas, Caracteres Especiales y Zonas Horarias](https://dev.to/mio_storksoft/testsprite-resena-de-desarrollador-localizada-es-es-fechas-caracteres-especiales-y-zonas-44o5)
-- [State of AI Code Review | April 2026 Recap](https://dev.to/lewiska/state-of-ai-code-review-april-2026-recap-5acb)
-- [Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business](https://dev.to/sauloos/incremental-modernization-architecture-splitting-monoliths-into-microservices-without-breaking-the-2hkk)
-- [Error Handling in Axum](https://dev.to/syeedmdtalha/error-handling-in-axum-31a2)
+- [LeafWiki Devlog #10: v0.9.0 – no more broken links, lost edits, or overwritten changes](https://dev.to/perber/leafwiki-devlog-9-v090-no-more-broken-links-lost-edits-or-overwritten-changes-1e35)
+- [Linear Regression: Code &lpar;a&rpar; Line](https://dev.to/the_undefined_architect/linear-regression-code-a-line-1fhh)
+- [Immutable settlement protocols for real-world assets: deployed, ownerless, open templates](https://dev.to/pablochacon/immutable-settlement-protocols-for-real-world-assets-deployed-ownerless-open-templates-bip)
+- [When Generic Benchmarks Fail: Building a Sales-Domain Evaluation Bench from Scratch](https://dev.to/natnael_alemseged/when-generic-benchmarks-fail-building-a-sales-domain-evaluation-bench-from-scratch-1kjf)
 <!-- BLOG-POST-LIST:END -->
 
 
