@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Updating Screenshots in Your Docs: How to Stop Doing It by Hand](https://dev.to/ericwoooo_kr/self-updating-screenshots-in-your-docs-how-to-stop-doing-it-by-hand-2bbd)
-- [vitest-fail-on-console: Stop Ignoring console.error in Your Tests](https://dev.to/recca0120/vitest-fail-on-console-stop-ignoring-consoleerror-in-your-tests-1io9)
-- [The Sheet for React Native: A Modular Sheet Framework](https://dev.to/too_dope/the-sheet-for-react-native-a-modular-sheet-framework-1764)
-- [15 Words That Mean Not Actually Remote on a Job Posting &lpar;Beyond Hybrid&rpar;](https://dev.to/charliemorrison/15-words-that-mean-not-actually-remote-on-a-job-posting-beyond-hybrid-3kkc)
+- [Clean Architecture con c# &lpar;Trabajo en progreso 🚧👷🏽&rpar;](https://dev.to/apoveda25/clean-architecture-con-c-trabajo-en-progreso--3dll)
+- [Beyond Simple Image Recognition: Building a Precise AI Nutritionist with GPT-4o and Segment Anything &lpar;SAM&rpar;](https://dev.to/wellallytech/beyond-simple-image-recognition-building-a-precise-ai-nutritionist-with-gpt-4o-and-segment-29ml)
+- [Ghostty 1.0 vs Warp OSS vs WezTerm: 14 Days of Daily Use — Real Latency, Memory, and Workflow Numbers](https://dev.to/michael_sun_18a5c4c96768d/ghostty-10-vs-warp-oss-vs-wezterm-14-days-of-daily-use-real-latency-memory-and-workflow-3ekp)
+- [分层架构深度指南：构建可维护软件的核心基石](https://dev.to/tianxin/fen-ceng-jia-gou-shen-du-zhi-nan-gou-jian-ke-wei-hu-ruan-jian-de-he-xin-ji-shi-2a9)
 <!-- BLOG-POST-LIST:END -->
 
 
