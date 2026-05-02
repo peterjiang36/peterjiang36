@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OKX Just Gave AI Agents the Full Commerce Lifecycle. Here&#39;s What&#39;s Still Missing.](https://dev.to/aaron_schnieder_4563d5d33/okx-just-gave-ai-agents-the-full-commerce-lifecycle-heres-whats-still-missing-6am)
-- [VoteSmart: Turning Election Complexity into a Conversational AI Experience!](https://dev.to/srija_bhattacharya_bba37b/votesmart-turning-election-complexity-into-a-conversational-ai-experience-3dp4)
-- [I built a calculator at 14. Then Google rejected my $25 payment 50 times](https://dev.to/origin_empire/i-built-a-calculator-at-14-then-google-rejected-my-25-payment-50-times-4kb0)
-- [Hermes-Backchannel](https://dev.to/cybershield/hermes-backchannel-304o)
+- [TestSprite: Reseña de Desarrollador Localizada &lpar;es-ES&rpar; — Fechas, Caracteres Especiales y Zonas Horarias](https://dev.to/mio_storksoft/testsprite-resena-de-desarrollador-localizada-es-es-fechas-caracteres-especiales-y-zonas-44o5)
+- [State of AI Code Review | April 2026 Recap](https://dev.to/lewiska/state-of-ai-code-review-april-2026-recap-5acb)
+- [Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business](https://dev.to/sauloos/incremental-modernization-architecture-splitting-monoliths-into-microservices-without-breaking-the-2hkk)
+- [Error Handling in Axum](https://dev.to/syeedmdtalha/error-handling-in-axum-31a2)
 <!-- BLOG-POST-LIST:END -->
 
 
