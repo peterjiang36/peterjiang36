@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobuhiko_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
-- [I put Claude inside Blender&#39;s Text Editor](https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo)
-- [Running Caddy on Cloudflare Workers via WebAssembly](https://dev.to/theuargb/running-caddy-on-cloudflare-workers-via-webassembly-4mai)
-- [How I Built an AI Character That Lives on My Desktop and Learns New Expressions](https://dev.to/jakimli/how-i-built-an-ai-character-that-lives-on-my-desktop-and-learns-new-expressions-454j)
+- [OKX Just Gave AI Agents the Full Commerce Lifecycle. Here&#39;s What&#39;s Still Missing.](https://dev.to/aaron_schnieder_4563d5d33/okx-just-gave-ai-agents-the-full-commerce-lifecycle-heres-whats-still-missing-6am)
+- [VoteSmart: Turning Election Complexity into a Conversational AI Experience!](https://dev.to/srija_bhattacharya_bba37b/votesmart-turning-election-complexity-into-a-conversational-ai-experience-3dp4)
+- [I built a calculator at 14. Then Google rejected my $25 payment 50 times](https://dev.to/origin_empire/i-built-a-calculator-at-14-then-google-rejected-my-25-payment-50-times-4kb0)
+- [Hermes-Backchannel](https://dev.to/cybershield/hermes-backchannel-304o)
 <!-- BLOG-POST-LIST:END -->
 
 
