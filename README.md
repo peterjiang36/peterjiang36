@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Jungle Grid: Real AI Workloads You Can Run Without Manually Picking GPUs](https://dev.to/jaguarkyng/building-jungle-grid-real-ai-workloads-you-can-run-without-manually-picking-gpus-eii)
-- [DBX: An Open-Source, 15 MB Database Client for 17+ Databases &lpar;Built with Tauri&rpar;](https://dev.to/t8y2/dbx-an-open-source-15-mb-database-client-for-17-databases-built-with-tauri-45oe)
-- [Hello World of RAG - Day 1](https://dev.to/gokul_kannan_1011/hello-world-of-rag-day-1-15l9)
-- [Building AI Products That People Actually Use](https://dev.to/denis_moroz/building-ai-products-that-people-actually-use-31pp)
+- [Helicone is now in maintenance mode. Here is how to switch to a self-hosted alternative in 5 minutes.](https://dev.to/torrixai/helicone-is-now-in-maintenance-mode-here-is-how-to-switch-to-a-self-hosted-alternative-in-5-4li0)
+- [How React Works &lpar;Part 4&rpar;? The Idea That Makes Suspense Possible](https://dev.to/samabaasi/how-react-works-part-4-the-idea-that-makes-suspense-possible-4gok)
+- [GCP Hands-on: Deploying OpenAB - Building a Gemini ACP Bridge for Telegram on GCE](https://dev.to/gde/gcp-hands-on-deploying-openab-building-a-gemini-acp-bridge-for-telegram-on-gce-1bd)
+- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg)
 <!-- BLOG-POST-LIST:END -->
 
 
