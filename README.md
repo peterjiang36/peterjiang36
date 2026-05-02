@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Helicone is now in maintenance mode. Here is how to switch to a self-hosted alternative in 5 minutes.](https://dev.to/torrixai/helicone-is-now-in-maintenance-mode-here-is-how-to-switch-to-a-self-hosted-alternative-in-5-4li0)
-- [How React Works &lpar;Part 4&rpar;? The Idea That Makes Suspense Possible](https://dev.to/samabaasi/how-react-works-part-4-the-idea-that-makes-suspense-possible-4gok)
-- [GCP Hands-on: Deploying OpenAB - Building a Gemini ACP Bridge for Telegram on GCE](https://dev.to/gde/gcp-hands-on-deploying-openab-building-a-gemini-acp-bridge-for-telegram-on-gce-1bd)
-- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/gde/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1mlg)
+- [Three Tools, Three Layers: Sentry, Langfuse, and LangGraph for Multi-Agent Fleets](https://dev.to/matthias_studiomeyer/three-tools-three-layers-sentry-langfuse-and-langgraph-for-multi-agent-fleets-4c92)
+- [Perpetual Engine Series Part 3: Funding Rates](https://dev.to/sumana10l/perpetual-engine-series-part-3-funding-rates-363m)
+- [Your Codebase Was Always This Bad](https://dev.to/jonoherrington/your-codebase-was-always-this-bad-11oa)
+- [Anonymous Membership Proofs on Midnight: Building Privacy-Preserving Allowlists](https://dev.to/bosschaos/anonymous-membership-proofs-on-midnight-building-privacy-preserving-allowlists-mge)
 <!-- BLOG-POST-LIST:END -->
 
 
