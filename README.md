@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Tools, Three Layers: Sentry, Langfuse, and LangGraph for Multi-Agent Fleets](https://dev.to/matthias_studiomeyer/three-tools-three-layers-sentry-langfuse-and-langgraph-for-multi-agent-fleets-4c92)
-- [Perpetual Engine Series Part 3: Funding Rates](https://dev.to/sumana10l/perpetual-engine-series-part-3-funding-rates-363m)
-- [Your Codebase Was Always This Bad](https://dev.to/jonoherrington/your-codebase-was-always-this-bad-11oa)
-- [Anonymous Membership Proofs on Midnight: Building Privacy-Preserving Allowlists](https://dev.to/bosschaos/anonymous-membership-proofs-on-midnight-building-privacy-preserving-allowlists-mge)
+- [I tracked my referral sources for 30 days. AI chatbots are beating Google.](https://dev.to/acewhitmore/i-tracked-my-referral-sources-for-30-days-ai-chatbots-are-beating-google-dkm)
+- [How React Works &lpar;Part 7&rpar;? The Trap of Vibe Coding `useCallback`](https://dev.to/samabaasi/how-react-works-part-7-the-trap-of-vibe-coding-usecallback-25cg)
+- [Building Dynamic Audio with Emotion &amp; Pace: Gemini 3.1 Flash TTS, Angular &amp; Firebase Cloud Functions [GDE]](https://dev.to/gde/building-dynamic-audio-with-emotion-pace-gemini-31-flash-tts-angular-firebase-cloud-functions-15f8)
+- [TextExpander Alternatives for Mac in 2026: An Honest Comparison](https://dev.to/quicopy/textexpander-alternatives-for-mac-in-2026-an-honest-comparison-3cn8)
 <!-- BLOG-POST-LIST:END -->
 
 
