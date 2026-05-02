@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deterministic vs Agentic: The Quiet Architectural Bet Every AI Agent Company Is Making](https://dev.to/waveassist/deterministic-vs-agentic-the-quiet-architectural-bet-every-ai-agent-company-is-making-33p)
-- [47 commits. Zero users. Then 13 days changed the math.](https://dev.to/energetekk/47-commits-zero-users-then-13-days-changed-the-math-jma)
-- [Using PostGIS with Azure Database for PostgreSQL](https://dev.to/samvanhoutte/using-postgis-with-azure-database-for-postgresql-1ck8)
-- [Linux Firewall Configuration with UFW and iptables](https://dev.to/big_mazzy_06d057cc24398c5/linux-firewall-configuration-with-ufw-and-iptables-pa8)
+- [Multi-Cloud Resilience: The Event-Driven Cellular Architecture Blueprint across AWS and Azure](https://dev.to/sertaoseracloud/multi-cloud-resilience-the-event-driven-cellular-architecture-blueprint-across-aws-and-azure-43li)
+- [I Analyzed How Popular PDF Tools Handle Your Files — Then Built a Privacy-First Alternative](https://dev.to/erkinyagci/i-analyzed-how-popular-pdf-tools-handle-your-files-then-built-a-privacy-first-alternative-54i2)
+- [Déconstruire l&#39;architecture média de VK.com : Construire un moteur d&#39;extraction vidéo haute performance et sans perte](https://dev.to/yqqwe/deconstruire-larchitecture-media-de-vkcom-construire-un-moteur-dextraction-video-haute-2115)
+- [Giải mã kiến trúc truyền thông của VK.com: Xây dựng bộ máy trích xuất video hiệu suất cao và không tổn hao dữ liệu](https://dev.to/yqqwe/giai-ma-kien-truc-truyen-thong-cua-vkcom-xay-dung-bo-may-trich-xuat-video-hieu-suat-cao-va-khong-3690)
 <!-- BLOG-POST-LIST:END -->
 
 
