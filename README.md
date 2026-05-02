@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Digital Trust: A Relational Deep Dive into the LocalHands Prisma Schema](https://dev.to/tpekins/architecting-digital-trust-a-relational-deep-dive-into-the-localhands-prisma-schema-12dk)
-- [Postmortem: How a LangGraph 0.1 Multi-Agent Bug Broke Our 2026 Customer Support Bot](https://dev.to/johalputt/postmortem-how-a-langgraph-01-multi-agent-bug-broke-our-2026-customer-support-bot-37pp)
-- [TestSprite: Review Teknis Mendalam untuk Developer Indonesia — Termasuk Isu Locale Handling](https://dev.to/bajuriasadrgb/testsprite-review-teknis-mendalam-untuk-developer-indonesia-termasuk-isu-locale-handling-bbn)
-- [Why I&#39;m Building a Database From Scratch in Raw C++ &lpar;And Why I Banned the STL&rpar;](https://dev.to/hari5616/why-im-building-a-database-from-scratch-in-raw-c-and-why-i-banned-the-stl-41p2)
+- [This Week In React #279 : Compiler, TSRX, StyleX, XState, Hook Form | SPM, SimCam, Enriched Markdown, Agent Device | pnpm, Aube, Fresh, Node.js](https://dev.to/sebastienlorber/this-week-in-react-279-compiler-tsrx-stylex-xstate-hook-form-spm-simcam-enriched-44g8)
+- [Hosting Public Website Content with Azure Blob Storage](https://dev.to/degreatkhali/hosting-public-website-content-with-azure-blob-storage-45ln)
+- [From &quot;Just Data&quot; to &quot;A Global Database&quot;: My Second Week Learning Solana](https://dev.to/lymah/from-just-data-to-a-global-database-my-second-week-learning-solana-5f4m)
+- [Explaining CSS Specificity Rules](https://dev.to/drprime01/explaining-css-specificity-rules-58i6)
 <!-- BLOG-POST-LIST:END -->
 
 
