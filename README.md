@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM02 Sensitive Information Disclosure — How LLMs Leak PII, Credentials &amp; System Data | AI LLM Hacking Course Day 6](https://dev.to/lucky_lonerusher/llm02-sensitive-information-disclosure-how-llms-leak-pii-credentials-system-data-ai-llm-4jc0)
-- [iOS Privacy Manifest &amp; Required Reasons APIs: A Compliance Checklist](https://dev.to/mrugeshtank/ios-privacy-manifest-required-reasons-apis-a-compliance-checklist-3o86)
-- [Instagram Reel Transcripts in 5 Lines — and Word-Level Timestamps Are Free](https://dev.to/sian-agency/instagram-reel-transcripts-in-5-lines-and-word-level-timestamps-are-free-3d7a)
-- [Using TMUX and tmuxinator for a better docker compose experience](https://dev.to/moofoo/docker-basics-using-tmux-and-tmuxinator-for-a-better-docker-compose-experience-43ma)
+- [[Boost]](https://dev.to/k_ivanow/-5enl)
+- [Porting Libraries to Crystal with AI](https://dev.to/kojix2/porting-libraries-to-crystal-with-ai-1kl)
+- [The Ultimate Guide to Fixing AppImages on Ubuntu 24.04 LTS](https://dev.to/nileshcodehub/the-ultimate-guide-to-fixing-appimages-on-ubuntu-2404-lts-5g00)
+- [What Is Apache Polaris? Why Open Data Catalogs Matter and How to Use Them with AWS](https://dev.to/aws-builders/what-is-apache-polaris-why-open-data-catalogs-matter-and-how-to-use-them-with-aws-5gal)
 <!-- BLOG-POST-LIST:END -->
 
 
