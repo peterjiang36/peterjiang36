@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-VPC Architecture on AWS](https://dev.to/ikoh_sylva/building-a-multi-vpc-architecture-on-aws-30m3)
-- [Building VoterAssist: An Intent-Driven AI Election Guide](https://dev.to/sri_ramcharannandigam_8/building-voterassist-an-intent-driven-ai-election-guide-jm6)
-- [I built an image compressor that never sees your images published](https://dev.to/bhowmick773/i-built-an-image-compressor-that-never-sees-your-imagespublished-3p00)
-- [NCT Depth Motif: Exploring Symbolic 3D Motifs for RGB-D Depth Maps](https://dev.to/hanzzel_corp_0003/nct-depth-motif-exploring-symbolic-3d-motifs-for-rgb-d-depth-maps-6kl)
+- [Write Code That&#39;s Easy to Delete: The Art of Impermanent Software](https://dev.to/adamthedeveloper/write-code-thats-easy-to-delete-the-art-of-impermanent-software-19l1)
+- [Cilium network policy kubectl‑capture feature replaced our tcpdump sidecars for debugging](https://dev.to/johalputt/cilium-network-policy-kubectl-capture-feature-replaced-our-tcpdump-sidecars-for-debugging-2dle)
+- [How to track API requests in Azure APIM to Table Storage](https://dev.to/samvanhoutte/how-to-track-api-requests-in-azure-apim-to-table-storage-2k3c)
+- [Building Your First AYW Bot: A Step-by-Step Guide](https://dev.to/leo_laish_25120db350ea449/building-your-first-ayw-bot-a-step-by-step-guide-50mo)
 <!-- BLOG-POST-LIST:END -->
 
 
