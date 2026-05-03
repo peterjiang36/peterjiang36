@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Broke Git: The Merge Queue Bug That Silently Deleted Your Code](https://dev.to/varshithvhegde/github-broke-git-the-merge-queue-bug-that-silently-deleted-your-code-4f7i)
-- [GROOT: One archive for cluster diagnostics](https://dev.to/hrodrig/groot-one-archive-for-cluster-diagnostics-2d76)
-- [Antigravity, Cursor, VS Code, and Windsurf](https://dev.to/jotafeldmann/antigravity-cursor-vs-code-and-windsurf-4e37)
-- [I Built a Custom App in a Day. That Is Not the Interesting Part.](https://dev.to/jeffreese/i-built-a-custom-app-in-a-day-that-is-not-the-interesting-part-3dgj)
+- [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94)
+- [Your .env file should have one line](https://dev.to/arvin_gopi/your-env-file-should-have-one-line-598)
+- [Network Address Translation &lpar;NAT&rpar;](https://dev.to/hirave_palak/network-address-translation-nat-592m)
+- [I wrote a custom CUDA inference engine to run Qwen3.5-27B on $130 mining cards](https://dev.to/haru-neo/i-wrote-a-custom-cuda-inference-engine-to-run-qwen35-27b-on-130-mining-cards-732)
 <!-- BLOG-POST-LIST:END -->
 
 
