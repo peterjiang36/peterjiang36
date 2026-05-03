@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving an AI agent permission to spawn sub-agents &lpar;without losing control&rpar;](https://dev.to/thegdsks/giving-an-ai-agent-permission-to-spawn-sub-agents-without-losing-control-5901)
-- [Shared vs Distributed Memory – Why It Matters More Than You Think](https://dev.to/zubairakbar/shared-vs-distributed-memory-why-it-matters-more-than-you-think-4al3)
-- [Building a daily AI news brief in 325 lines of Python](https://dev.to/agenticintel/building-a-daily-ai-news-brief-in-325-lines-of-python-egm)
-- [OpenWeatherMap API for Browser Extensions: A Practical Guide](https://dev.to/weatherclockdash/openweathermap-api-for-browser-extensions-a-practical-guide-5m7)
+- [From Visual Studio 2026 to VS Code: Paledev Dark Theme](https://dev.to/jtgmagic/from-visual-studio-2026-to-vs-code-paledev-dark-theme-2j43)
+- [Consistência Eventual em Sistemas Distribuídos](https://dev.to/guilherme_ryu/consistencia-eventual-em-sistemas-distribuidos-26oj)
+- [Why I Used wttr.in Instead of OpenWeatherMap for My Firefox Extension](https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k)
+- [¿Cuánta energía, agua, dinero e infraestructura estamos dispuestos a gastar para sostenerla?](https://dev.to/miigangls/cuanta-energia-agua-dinero-e-infraestructura-estamos-dispuestos-a-gastar-para-sostenerla-57l3)
 <!-- BLOG-POST-LIST:END -->
 
 
