@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Bastion Hosts: The Quite Gatekeepers of Modern Infrastructure](https://dev.to/amin_haiqal_2b12dc1098e18/understanding-bastion-hosts-the-quite-gatekeepers-of-modern-infrastructure-436m)
-- [We Cut 40% of Our Security Incidents Using Trivy 0.50 and Falco 0.40](https://dev.to/johalputt/we-cut-40-of-our-security-incidents-using-trivy-050-and-falco-040-50hg)
-- [AgentFlow — From Agent Code to Production API in Minutes](https://dev.to/10xscale/agentflow-from-agent-code-to-production-api-in-minutes-p3e)
-- [Connect to RDS &lpar;PostgreSQL&rpar; in a Private Subnet via AWS Client VPN](https://dev.to/1515_1c22035d85e1ae3d/connect-to-rds-postgresql-in-a-private-subnet-via-aws-client-vpn-346o)
+- [Workspace 2026 : one USB-C to charge them all](https://dev.to/hexfloor/workspace-2026-one-usb-c-to-charge-them-all-36of)
+- [عملت Chrome Extension يصلح مشكلة النص العربي في البراوزر](https://dev.to/ezzeldin/mlt-chrome-extension-yslh-mshkl-lns-lrby-fy-lbrwzr-31ld)
+- [The AI &quot;Intelligence-Authority&quot; Gap: Why Your Agents Need a Deterministic Handbrake](https://dev.to/dan_evans_1/the-ai-intelligence-authority-gap-why-your-agents-need-a-deterministic-handbrake-ca2)
+- [Vector Search Benchmark: FAISS 1.9 vs. Chroma 0.6 vs. Pinecone 1.6 for 100M Embedding Datasets](https://dev.to/johalputt/vector-search-benchmark-faiss-19-vs-chroma-06-vs-pinecone-16-for-100m-embedding-datasets-4m2d)
 <!-- BLOG-POST-LIST:END -->
 
 
