@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VPN vs Proxy Explained in 5 Minutes](https://dev.to/pawan_natekar_8b1ab344624/vpn-vs-proxy-explained-in-5-minutes-3imi)
-- [Stop Writing `for` Loops in TypeScript. The 2026 Way to Pipeline Data](https://dev.to/gabrielanhaia/stop-writing-for-loops-in-typescript-the-2026-way-to-pipeline-data-57h9)
-- [I Built an AI Chatbot Into My Portfolio Website Using AWS Bedrock — Here&#39;s Exactly How](https://dev.to/prathamesh_gawade_16/i-built-an-ai-chatbot-into-my-portfolio-website-using-aws-bedrock-heres-exactly-how-1hj)
-- [I Finally Understand Why Mobile Tests Keep Breaking — Thanks to This Article by Jay Saadana](https://dev.to/amithamahesh/i-finally-understand-why-mobile-tests-keep-breaking-thanks-to-this-article-by-jay-saadana-3pa8)
+- [I needed a reputation system for AI Agents. Here is what I built instead of a Blockchain.](https://dev.to/artem_a/i-needed-a-reputation-system-for-ai-agents-here-is-what-i-built-instead-of-a-blockchain-47d7)
+- [Selenium for automation testing](https://dev.to/ck_yumna_79d0c6f93da60a72/selenium-for-automation-testing-5e00)
+- [From PCA to Terraform: Provisioning My First GCP VPC with Infrastructure as Code](https://dev.to/abrahamparn/my-first-terraform-managed-gcp-resource-provider-vpc-plan-apply-and-state-57lj)
+- [Built a efficient and fast MRI compression program called KMRI!](https://dev.to/kiamehr_eskandari/built-a-efficient-and-fast-mri-compression-program-called-kmri-5a6p)
 <!-- BLOG-POST-LIST:END -->
 
 
