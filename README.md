@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini API Cheatsheet 2026 — Free Tier Limits, Models, and Endpoints in One Place](https://dev.to/hiyoyok/gemini-api-cheatsheet-2026-free-tier-limits-models-and-endpoints-in-one-place-2god)
-- [Optimizing GBase 8s JDBC with the OPTOFC Parameter](https://dev.to/michaelfv/optimizing-gbase-8s-jdbc-with-the-optofc-parameter-180m)
-- [The Day We Discovered Defer Was Costing Us $78K &lpar;And I Almost Missed It&rpar;](https://dev.to/speed_engineer/the-day-we-discovered-defer-was-costing-us-78k-and-i-almost-missed-it-339a)
-- [Code Is a Commodity. Judgment Is Not.](https://dev.to/sargentjamesa/code-is-a-commodity-judgment-is-not-214a)
+- [SaaS Won&#39;t Die Because of AI](https://dev.to/theinvariant/saas-wont-die-because-of-ai-10d0)
+- [Stop Paying for Vapi/Retell: Run your own AI Voice Agent in Python](https://dev.to/blackdwarf/stop-paying-for-vapiretell-run-your-own-ai-voice-agent-in-python-1n4)
+- [Je lance React Radar, une veille React hebdo](https://dev.to/maxime_morin/je-lance-react-radar-une-veille-react-hebdo-7l2)
+- [My Actual AI Stack for Building Apps in 2026 — All Free](https://dev.to/hiyoyok/my-actual-ai-stack-for-building-apps-in-2026-all-free-570m)
 <!-- BLOG-POST-LIST:END -->
 
 
