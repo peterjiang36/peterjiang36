@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Won&#39;t Die Because of AI](https://dev.to/theinvariant/saas-wont-die-because-of-ai-10d0)
-- [Stop Paying for Vapi/Retell: Run your own AI Voice Agent in Python](https://dev.to/blackdwarf/stop-paying-for-vapiretell-run-your-own-ai-voice-agent-in-python-1n4)
-- [Je lance React Radar, une veille React hebdo](https://dev.to/maxime_morin/je-lance-react-radar-une-veille-react-hebdo-7l2)
-- [My Actual AI Stack for Building Apps in 2026 — All Free](https://dev.to/hiyoyok/my-actual-ai-stack-for-building-apps-in-2026-all-free-570m)
+- [Deep Dive into SwiftWork &lpar;Part 4&rpar;: Data Layer and Services — SwiftData, State Restore, Markdown Rendering](https://dev.to/terryso/deep-dive-into-swiftwork-part-4-data-layer-and-services-swiftdata-state-restore-markdown-1mc5)
+- [Deep Dive into SwiftWork &lpar;Part 3&rpar;: Tool Card — An Extensible Tool Visualization System](https://dev.to/terryso/deep-dive-into-swiftwork-part-3-tool-card-an-extensible-tool-visualization-system-2i5n)
+- [Deep Dive into SwiftWork &lpar;Part 2&rpar;: Event Timeline — Visualizing 18 Event Types](https://dev.to/terryso/deep-dive-into-swiftwork-part-2-event-timeline-visualizing-18-event-types-3602)
+- [Deep Dive into SwiftWork &lpar;Part 1&rpar;: SDK Integration — Bridging AsyncStream to SwiftUI](https://dev.to/terryso/deep-dive-into-swiftwork-part-1-sdk-integration-bridging-asyncstream-to-swiftui-3pdi)
 <!-- BLOG-POST-LIST:END -->
 
 
