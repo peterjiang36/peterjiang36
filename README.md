@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I needed a reputation system for AI Agents. Here is what I built instead of a Blockchain.](https://dev.to/artem_a/i-needed-a-reputation-system-for-ai-agents-here-is-what-i-built-instead-of-a-blockchain-47d7)
-- [Selenium for automation testing](https://dev.to/ck_yumna_79d0c6f93da60a72/selenium-for-automation-testing-5e00)
-- [From PCA to Terraform: Provisioning My First GCP VPC with Infrastructure as Code](https://dev.to/abrahamparn/my-first-terraform-managed-gcp-resource-provider-vpc-plan-apply-and-state-57lj)
-- [Built a efficient and fast MRI compression program called KMRI!](https://dev.to/kiamehr_eskandari/built-a-efficient-and-fast-mri-compression-program-called-kmri-5a6p)
+- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
+- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-1g63)
+- [USB-C for AI Agents](https://dev.to/rawveg/usb-c-for-ai-agents-4f3)
+- [Agenv — A Full IDE for Building, Running, and Monitoring AI Agents](https://dev.to/adibenmati/agenv-a-full-ide-for-building-running-and-monitoring-ai-agents-4dpa)
 <!-- BLOG-POST-LIST:END -->
 
 
