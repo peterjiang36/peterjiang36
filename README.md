@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create an Animated Floating Hearts Effect &lpar;Pure CSS &amp; HTML&rpar;](https://dev.to/ruben_quest/how-to-create-an-animated-floating-hearts-effect-pure-css-html-12a6)
-- [Recon Methodology in Practice: From a Single Credential to Full Schema Reconstruction](https://dev.to/null_saint/recon-methodology-in-practice-from-a-single-credential-to-full-schema-reconstruction-27b7)
-- [I Built a Blazing Fast Website for $0/Month — Here&#39;s the Exact Stack &lpar;Hugo + Cloudflare Pages&rpar;](https://dev.to/laser_expert/i-built-a-blazing-fast-website-for-0month-heres-the-exact-stack-hugo-cloudflare-pages-4en6)
-- [I built a real AI video processing SaaS from Senegal no GPT wrappers, just HuggingFace + OpenCV + YOLO + Detectron2+Medidapie+ Celery](https://dev.to/ratonpeureu/i-built-a-real-ai-video-processing-saas-from-senegal-no-gpt-wrappers-just-huggingface-opencv--1l3i)
+- [GitHub Broke Git: The Merge Queue Bug That Silently Deleted Your Code](https://dev.to/varshithvhegde/github-broke-git-the-merge-queue-bug-that-silently-deleted-your-code-4f7i)
+- [GROOT: One archive for cluster diagnostics](https://dev.to/hrodrig/groot-one-archive-for-cluster-diagnostics-2d76)
+- [Antigravity, Cursor, VS Code, and Windsurf](https://dev.to/jotafeldmann/antigravity-cursor-vs-code-and-windsurf-4e37)
+- [I Built a Custom App in a Day. That Is Not the Interesting Part.](https://dev.to/jeffreese/i-built-a-custom-app-in-a-day-that-is-not-the-interesting-part-3dgj)
 <!-- BLOG-POST-LIST:END -->
 
 
