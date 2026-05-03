@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive into SwiftWork &lpar;Part 4&rpar;: Data Layer and Services — SwiftData, State Restore, Markdown Rendering](https://dev.to/terryso/deep-dive-into-swiftwork-part-4-data-layer-and-services-swiftdata-state-restore-markdown-1mc5)
-- [Deep Dive into SwiftWork &lpar;Part 3&rpar;: Tool Card — An Extensible Tool Visualization System](https://dev.to/terryso/deep-dive-into-swiftwork-part-3-tool-card-an-extensible-tool-visualization-system-2i5n)
-- [Deep Dive into SwiftWork &lpar;Part 2&rpar;: Event Timeline — Visualizing 18 Event Types](https://dev.to/terryso/deep-dive-into-swiftwork-part-2-event-timeline-visualizing-18-event-types-3602)
-- [Deep Dive into SwiftWork &lpar;Part 1&rpar;: SDK Integration — Bridging AsyncStream to SwiftUI](https://dev.to/terryso/deep-dive-into-swiftwork-part-1-sdk-integration-bridging-asyncstream-to-swiftui-3pdi)
+- [Understanding Bastion Hosts: The Quite Gatekeepers of Modern Infrastructure](https://dev.to/amin_haiqal_2b12dc1098e18/understanding-bastion-hosts-the-quite-gatekeepers-of-modern-infrastructure-436m)
+- [We Cut 40% of Our Security Incidents Using Trivy 0.50 and Falco 0.40](https://dev.to/johalputt/we-cut-40-of-our-security-incidents-using-trivy-050-and-falco-040-50hg)
+- [AgentFlow — From Agent Code to Production API in Minutes](https://dev.to/10xscale/agentflow-from-agent-code-to-production-api-in-minutes-p3e)
+- [Connect to RDS &lpar;PostgreSQL&rpar; in a Private Subnet via AWS Client VPN](https://dev.to/1515_1c22035d85e1ae3d/connect-to-rds-postgresql-in-a-private-subnet-via-aws-client-vpn-346o)
 <!-- BLOG-POST-LIST:END -->
 
 
