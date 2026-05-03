@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Repository Knowledge Into Usable Agent Context](https://dev.to/airscript/turning-repository-knowledge-into-usable-agent-context-4pe4)
-- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-1g63)
-- [USB-C for AI Agents](https://dev.to/rawveg/usb-c-for-ai-agents-4f3)
-- [Agenv — A Full IDE for Building, Running, and Monitoring AI Agents](https://dev.to/adibenmati/agenv-a-full-ide-for-building-running-and-monitoring-ai-agents-4dpa)
+- [Generating PDFs shouldn&#39;t be this hard in 2026](https://dev.to/gbor_liktor_5ba6846f550d/generating-pdfs-shouldnt-be-this-hard-in-2026-306m)
+- [GitHub Copilot May 2026 Changes: Sign-Ups Paused, Opus Removed, Rate Limits Visible](https://dev.to/techsifted/github-copilot-may-2026-changes-sign-ups-paused-opus-removed-rate-limits-visible-2ip8)
+- [How I Built an AI Booking Assistant for Small Businesses?](https://dev.to/zoyalatif/how-i-built-an-ai-booking-assistant-for-small-businesses-b67)
+- [I Built Free Tools to Measure Happiness &lpar;No Signup, No Tracking&rpar;](https://dev.to/bonheur_kg_3dc8257328935e/i-built-free-tools-to-measure-happiness-no-signup-no-tracking-1k57)
 <!-- BLOG-POST-LIST:END -->
 
 
