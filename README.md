@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forced to code without AI yesterday](https://dev.to/yousrasd/forced-to-code-without-ai-yesterday-28l4)
-- [Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics](https://dev.to/tutti/evaluating-legal-reasoning-traces-with-legal-issue-tree-rubrics-3gbf)
-- [Pygame Snake, Pt. 4](https://dev.to/paxfeline/pygame-snake-pt-4-31pm)
-- [Jupyter Notebooks: Where Data Science Actually Happens](https://dev.to/yakhilesh/jupyter-notebooks-where-data-science-actually-happens-129p)
+- [From on-prem to the cloud - Lessons Learned](https://dev.to/deathsaber/from-on-prem-to-the-cloud-lessons-learned-4pge)
+- [10 Powerful Tools 90% of Full-Stack Developers Ignore](https://dev.to/developerchandan/10-powerful-tools-90-of-full-stack-developers-ignore-dg1)
+- [ReactJs Performance ~ Web Workers for Heavy Computations ~](https://dev.to/kkr0423/reactjs-performance-web-workers-for-heavy-computations--3m07)
+- [I Built a Mood Ring for the Internet in 24 Hours](https://dev.to/acode123/i-built-a-mood-ring-for-the-internet-in-24-hours-3d5n)
 <!-- BLOG-POST-LIST:END -->
 
 
