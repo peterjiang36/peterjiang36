@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Del DDoS que tiraba exchanges al DDoS que silencia oráculos: cómo Lazarus se llevó $292M de KelpDAO en abril 2026](https://dev.to/lu1tr0n/del-ddos-que-tiraba-exchanges-al-ddos-que-silencia-oraculos-como-lazarus-se-llevo-292m-de-kelpdao-4afi)
-- [TestSprite Review: Localization Testing That Actually Works](https://dev.to/bocobobitch100/testsprite-review-localization-testing-that-actually-works-533o)
-- [Lessons from building a multi-platform social sync pipeline](https://dev.to/autoclaw/lessons-from-building-a-multi-platform-social-sync-pipeline-5f22)
-- [The bug your Typescript compiler and SQL migration both miss](https://dev.to/equality_modehouse_9897e/the-bug-your-typescript-compiler-and-sql-migration-both-miss-5165)
+- [Giving an AI agent permission to spawn sub-agents &lpar;without losing control&rpar;](https://dev.to/thegdsks/giving-an-ai-agent-permission-to-spawn-sub-agents-without-losing-control-5901)
+- [Shared vs Distributed Memory – Why It Matters More Than You Think](https://dev.to/zubairakbar/shared-vs-distributed-memory-why-it-matters-more-than-you-think-4al3)
+- [Building a daily AI news brief in 325 lines of Python](https://dev.to/agenticintel/building-a-daily-ai-news-brief-in-325-lines-of-python-egm)
+- [OpenWeatherMap API for Browser Extensions: A Practical Guide](https://dev.to/weatherclockdash/openweathermap-api-for-browser-extensions-a-practical-guide-5m7)
 <!-- BLOG-POST-LIST:END -->
 
 
