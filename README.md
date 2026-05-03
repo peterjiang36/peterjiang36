@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generating PDFs shouldn&#39;t be this hard in 2026](https://dev.to/gbor_liktor_5ba6846f550d/generating-pdfs-shouldnt-be-this-hard-in-2026-306m)
-- [GitHub Copilot May 2026 Changes: Sign-Ups Paused, Opus Removed, Rate Limits Visible](https://dev.to/techsifted/github-copilot-may-2026-changes-sign-ups-paused-opus-removed-rate-limits-visible-2ip8)
-- [How I Built an AI Booking Assistant for Small Businesses?](https://dev.to/zoyalatif/how-i-built-an-ai-booking-assistant-for-small-businesses-b67)
-- [I Built Free Tools to Measure Happiness &lpar;No Signup, No Tracking&rpar;](https://dev.to/bonheur_kg_3dc8257328935e/i-built-free-tools-to-measure-happiness-no-signup-no-tracking-1k57)
+- [Understanding Markdown: What It Means in Writing and How to Use It Properly](https://dev.to/macarena/understanding-markdown-what-it-means-in-writing-and-how-to-use-it-properly-35i7)
+- [I built JSON Viewer Pro — a fast, privacy-first JSON formatter/validator/minifier](https://dev.to/suma_sri_dev/i-built-json-viewer-pro-a-fast-privacy-first-json-formattervalidatorminifier-2mm1)
+- [Runbooks Don&#39;t Investigate. AWS DevOps Agent Does.](https://dev.to/aws-builders/runbooks-dont-investigate-aws-devops-agent-does-44p8)
+- [React won&#39;t die because AI won&#39;t let it](https://dev.to/adioof/react-wont-die-because-ai-wont-let-it-4ne1)
 <!-- BLOG-POST-LIST:END -->
 
 
