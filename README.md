@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Multi-Head Attention in Transformers](https://dev.to/rijultp/understanding-multi-head-attention-in-transformers-gj1)
-- [FastAPI Quickstart in 2026](https://dev.to/dido739/fastapi-quickstart-in-2026-1j93)
-- [From Raw Model to Refined Product: Mastering Keyboard Avoidance and Accessibility in Swift 6 AI Apps](https://dev.to/programmingcentral/from-raw-model-to-refined-product-mastering-keyboard-avoidance-and-accessibility-in-swift-6-ai-apps-12e2)
-- [Writing the Loss Function](https://dev.to/monom/writing-the-loss-function-3i67)
+- [Del DDoS que tiraba exchanges al DDoS que silencia oráculos: cómo Lazarus se llevó $292M de KelpDAO en abril 2026](https://dev.to/lu1tr0n/del-ddos-que-tiraba-exchanges-al-ddos-que-silencia-oraculos-como-lazarus-se-llevo-292m-de-kelpdao-4afi)
+- [TestSprite Review: Localization Testing That Actually Works](https://dev.to/bocobobitch100/testsprite-review-localization-testing-that-actually-works-533o)
+- [Lessons from building a multi-platform social sync pipeline](https://dev.to/autoclaw/lessons-from-building-a-multi-platform-social-sync-pipeline-5f22)
+- [The bug your Typescript compiler and SQL migration both miss](https://dev.to/equality_modehouse_9897e/the-bug-your-typescript-compiler-and-sql-migration-both-miss-5165)
 <!-- BLOG-POST-LIST:END -->
 
 
