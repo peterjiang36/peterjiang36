@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Clouds: Hosting a Professional Resume on GitHub Pages&lpar;2&rpar;](https://dev.to/rahimah_dev/from-code-to-clouds-hosting-a-professional-resume-on-github-pages2-3poi)
-- [I forgot a domain was auto-renewing. So I built a dashboard for my side projects.](https://dev.to/pigeoncodeur/i-forgot-a-domain-was-auto-renewing-so-i-built-a-dashboard-for-my-side-projects-1f9a)
-- [Deleting the “Nice” Anti-Pattern: A Personal Systems Refactor](https://dev.to/khalisollis/deleting-the-nice-anti-pattern-a-personal-systems-refactor-56k)
-- [GitHub: Put Your Work Where Anyone Can See It](https://dev.to/yakhilesh/github-put-your-work-where-anyone-can-see-it-2fkf)
+- [How to Create an Animated Floating Hearts Effect &lpar;Pure CSS &amp; HTML&rpar;](https://dev.to/ruben_quest/how-to-create-an-animated-floating-hearts-effect-pure-css-html-12a6)
+- [Recon Methodology in Practice: From a Single Credential to Full Schema Reconstruction](https://dev.to/null_saint/recon-methodology-in-practice-from-a-single-credential-to-full-schema-reconstruction-27b7)
+- [I Built a Blazing Fast Website for $0/Month — Here&#39;s the Exact Stack &lpar;Hugo + Cloudflare Pages&rpar;](https://dev.to/laser_expert/i-built-a-blazing-fast-website-for-0month-heres-the-exact-stack-hugo-cloudflare-pages-4en6)
+- [I built a real AI video processing SaaS from Senegal no GPT wrappers, just HuggingFace + OpenCV + YOLO + Detectron2+Medidapie+ Celery](https://dev.to/ratonpeureu/i-built-a-real-ai-video-processing-saas-from-senegal-no-gpt-wrappers-just-huggingface-opencv--1l3i)
 <!-- BLOG-POST-LIST:END -->
 
 
