@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent-as-a-Tool: A New Era of AI Orchestration](https://dev.to/gde/agent-as-a-tool-a-new-era-of-ai-orchestration-n94)
-- [Your .env file should have one line](https://dev.to/arvin_gopi/your-env-file-should-have-one-line-598)
-- [Network Address Translation &lpar;NAT&rpar;](https://dev.to/hirave_palak/network-address-translation-nat-592m)
-- [I wrote a custom CUDA inference engine to run Qwen3.5-27B on $130 mining cards](https://dev.to/haru-neo/i-wrote-a-custom-cuda-inference-engine-to-run-qwen35-27b-on-130-mining-cards-732)
+- [Forced to code without AI yesterday](https://dev.to/yousrasd/forced-to-code-without-ai-yesterday-28l4)
+- [Evaluating Legal Reasoning Traces with Legal Issue Tree Rubrics](https://dev.to/tutti/evaluating-legal-reasoning-traces-with-legal-issue-tree-rubrics-3gbf)
+- [Pygame Snake, Pt. 4](https://dev.to/paxfeline/pygame-snake-pt-4-31pm)
+- [Jupyter Notebooks: Where Data Science Actually Happens](https://dev.to/yakhilesh/jupyter-notebooks-where-data-science-actually-happens-129p)
 <!-- BLOG-POST-LIST:END -->
 
 
