@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Markdown: What It Means in Writing and How to Use It Properly](https://dev.to/macarena/understanding-markdown-what-it-means-in-writing-and-how-to-use-it-properly-35i7)
-- [I built JSON Viewer Pro — a fast, privacy-first JSON formatter/validator/minifier](https://dev.to/suma_sri_dev/i-built-json-viewer-pro-a-fast-privacy-first-json-formattervalidatorminifier-2mm1)
-- [Runbooks Don&#39;t Investigate. AWS DevOps Agent Does.](https://dev.to/aws-builders/runbooks-dont-investigate-aws-devops-agent-does-44p8)
-- [React won&#39;t die because AI won&#39;t let it](https://dev.to/adioof/react-wont-die-because-ai-wont-let-it-4ne1)
+- [Gemini API Cheatsheet 2026 — Free Tier Limits, Models, and Endpoints in One Place](https://dev.to/hiyoyok/gemini-api-cheatsheet-2026-free-tier-limits-models-and-endpoints-in-one-place-2god)
+- [Optimizing GBase 8s JDBC with the OPTOFC Parameter](https://dev.to/michaelfv/optimizing-gbase-8s-jdbc-with-the-optofc-parameter-180m)
+- [The Day We Discovered Defer Was Costing Us $78K &lpar;And I Almost Missed It&rpar;](https://dev.to/speed_engineer/the-day-we-discovered-defer-was-costing-us-78k-and-i-almost-missed-it-339a)
+- [Code Is a Commodity. Judgment Is Not.](https://dev.to/sargentjamesa/code-is-a-commodity-judgment-is-not-214a)
 <!-- BLOG-POST-LIST:END -->
 
 
