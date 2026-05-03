@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Production-Grade Databases on Kubernetes: A Complete Guide](https://dev.to/kalpesh47/running-production-grade-databases-on-kubernetes-a-complete-guide-1f53)
-- [Step-by-Step: Migrating from Node.js 21 to Bun 1.2 for Your Backend APIs](https://dev.to/johalputt/step-by-step-migrating-from-nodejs-21-to-bun-12-for-your-backend-apis-3nb4)
-- [Build Club Week Two: The PRD doesn&#39;t catch everything](https://dev.to/earlgreyhot1701d/build-club-week-two-the-prd-doesnt-catch-everything-459)
-- [Why I&#39;m Moving from Go to C After Building a Load Balancer](https://dev.to/voidhyr/why-im-moving-from-go-to-c-after-building-a-load-balancer-55go)
+- [Understanding Multi-Head Attention in Transformers](https://dev.to/rijultp/understanding-multi-head-attention-in-transformers-gj1)
+- [FastAPI Quickstart in 2026](https://dev.to/dido739/fastapi-quickstart-in-2026-1j93)
+- [From Raw Model to Refined Product: Mastering Keyboard Avoidance and Accessibility in Swift 6 AI Apps](https://dev.to/programmingcentral/from-raw-model-to-refined-product-mastering-keyboard-avoidance-and-accessibility-in-swift-6-ai-apps-12e2)
+- [Writing the Loss Function](https://dev.to/monom/writing-the-loss-function-3i67)
 <!-- BLOG-POST-LIST:END -->
 
 
