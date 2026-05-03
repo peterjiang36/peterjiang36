@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From on-prem to the cloud - Lessons Learned](https://dev.to/deathsaber/from-on-prem-to-the-cloud-lessons-learned-4pge)
-- [10 Powerful Tools 90% of Full-Stack Developers Ignore](https://dev.to/developerchandan/10-powerful-tools-90-of-full-stack-developers-ignore-dg1)
-- [ReactJs Performance ~ Web Workers for Heavy Computations ~](https://dev.to/kkr0423/reactjs-performance-web-workers-for-heavy-computations--3m07)
-- [I Built a Mood Ring for the Internet in 24 Hours](https://dev.to/acode123/i-built-a-mood-ring-for-the-internet-in-24-hours-3d5n)
+- [VPN vs Proxy Explained in 5 Minutes](https://dev.to/pawan_natekar_8b1ab344624/vpn-vs-proxy-explained-in-5-minutes-3imi)
+- [Stop Writing `for` Loops in TypeScript. The 2026 Way to Pipeline Data](https://dev.to/gabrielanhaia/stop-writing-for-loops-in-typescript-the-2026-way-to-pipeline-data-57h9)
+- [I Built an AI Chatbot Into My Portfolio Website Using AWS Bedrock — Here&#39;s Exactly How](https://dev.to/prathamesh_gawade_16/i-built-an-ai-chatbot-into-my-portfolio-website-using-aws-bedrock-heres-exactly-how-1hj)
+- [I Finally Understand Why Mobile Tests Keep Breaking — Thanks to This Article by Jay Saadana](https://dev.to/amithamahesh/i-finally-understand-why-mobile-tests-keep-breaking-thanks-to-this-article-by-jay-saadana-3pa8)
 <!-- BLOG-POST-LIST:END -->
 
 
