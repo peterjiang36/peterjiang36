@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Cleaner Alternative to the GA4 Headache](https://dev.to/talha_zahid_9f5c8003e6696/why-i-built-a-cleaner-alternative-to-the-ga4-headache-3m0i)
-- [Expanding a GBase 8a Cluster: Adding a GNode in Practice](https://dev.to/michaelfv/expanding-a-gbase-8a-cluster-adding-a-gnode-in-practice-jo4)
-- [Nine Search Backends, Nine Different Webs. Why AI Citations Diverge for the Same Query.](https://dev.to/cihangir_bozdogan_76b8c99/nine-search-backends-nine-different-webs-why-ai-citations-diverge-for-the-same-query-5deg)
-- [Understanding Identity on Solana &lpar;A Simple Guide for Web2 Developers&rpar;](https://dev.to/peter_okoh_/understanding-identity-on-solana-a-simple-guide-for-web2-developers-1e00)
+- [Meme Monday](https://dev.to/ben/meme-monday-1lm6)
+- [Elevenwritt: Turning Raw Notes into Platform-Optimized Posts with AI &lpar;My Latest Side Project&rpar;](https://dev.to/kalema_piuscv_28335646/elevenwritt-turning-raw-notes-into-platform-optimized-posts-with-ai-my-latest-side-project-1k7j)
+- [The &quot;Lift-and-Shift to KVM&quot; Fallacy](https://dev.to/ntctech/the-lift-and-shift-to-kvm-fallacy-3i9d)
+- [I built a CLI that tells you where your Kubernetes money burns](https://dev.to/tanrikulu/i-built-a-cli-that-tells-you-where-your-kubernetes-money-burns-4bo9)
 <!-- BLOG-POST-LIST:END -->
 
 
