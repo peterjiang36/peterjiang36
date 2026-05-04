@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [52. The Rule That Prevents You From Cheating Your Own Model](https://dev.to/yakhilesh/52-the-rule-that-prevents-you-from-cheating-your-own-model-2kjb)
-- [OneKey Classic 1S Review &lpar;vs Ledger&rpar; — My Honest Take After 7 Years](https://dev.to/baransel/onekey-classic-1s-review-vs-ledger-my-honest-take-after-7-years-2g0h)
-- [Finance Shields, Local Agents, and Proxies for Safer Code](https://dev.to/anikalp1/finance-shields-local-agents-and-proxies-for-safer-code-1d5p)
-- [Anomaly detection on ESP32 with 24 bytes of RAM — no cloud, no malloc](https://dev.to/antoine005/anomaly-detection-on-esp32-with-24-bytes-of-ram-no-cloud-no-malloc-34p5)
+- [The 90 Day FAANG Prep Plan That Actually Works](https://dev.to/codeintuition/the-90-day-faang-prep-plan-that-actually-works-stop-studying-in-the-wrong-order-4he7)
+- [Skill-Based Sub-Agents with LangGraph4j and Spring AI](https://dev.to/bsorrentino/skill-based-sub-agents-with-langgraph4j-and-spring-ai-52b0)
+- [🎬 &quot;FREE MONEY, THEN WHAT?&quot; A Timeline Nobody Told You About](https://dev.to/ryo_suwito/free-money-then-whata-timeline-nobody-told-you-about-5e6g)
+- [What’s Your Fear Score as a Developer?](https://dev.to/konark_13/whats-your-fear-score-as-a-developer-4p2j)
 <!-- BLOG-POST-LIST:END -->
 
 
