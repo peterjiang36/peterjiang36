@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ALM on Power Platform: ADO + GitHub, the best of both worlds](https://dev.to/_neronotte/alm-on-power-platform-ado-github-the-best-of-both-worlds-5dbh)
-- [Experiment: Does repeated usage influence ChatGPT 5.4 outputs in a RAG-like setup?](https://dev.to/fabio-plugins/experiment-does-repeated-usage-influence-chatgpt-54-outputs-in-a-rag-like-setup-3kao)
-- [Boost dApp Growth with the Best Web3 Analytics Replacement for Google Analytics](https://dev.to/yos/boost-dapp-growth-with-the-best-web3-analytics-replacement-for-google-analytics-4lg2)
-- [When a memorized rule fits your bug too well: a meta-trap of agent workflows](https://dev.to/michelfaure/when-a-memorized-rule-fits-your-bug-too-well-a-meta-trap-of-agent-workflows-2ep9)
+- [Rendershot vs Urlbox: choosing a screenshot API in 2026](https://dev.to/rendershot/rendershot-vs-urlbox-choosing-a-screenshot-api-in-2026-3idn)
+- [WinkTerm: AI That Shares Your Terminal Session &lpar;Not Just Command Suggestions&rpar;](https://dev.to/cznorth/winkterm-ai-that-shares-your-terminal-session-not-just-command-suggestions-8p9)
+- [Top Web3 CRMs of 2026 with Advanced Analytics Features](https://dev.to/yos/top-web3-crms-of-2026-with-advanced-analytics-features-217p)
+- [I Knew Python Syntax But Still Couldn’t Solve Problems Here’s Why](https://dev.to/madhudadi/i-knew-python-syntax-but-still-couldnt-solve-problems-heres-why-4427)
 <!-- BLOG-POST-LIST:END -->
 
 
