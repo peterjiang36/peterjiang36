@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking Your Component’s Secrets: Introducing the KIP Pattern in React](https://dev.to/miladxsar23/stop-leaking-your-components-secrets-introducing-the-kip-pattern-in-react-57ac)
-- [I built an AI lens for my desktop because browser-only AI felt too limited](https://dev.to/ideepakchauhan7/i-built-an-ai-lens-for-my-desktop-because-browser-only-ai-felt-too-limited-2k7a)
-- [The 4 Cognitive Archetypes of Developers Using AI](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n)
-- [Getting Started with Python](https://dev.to/samikshasri/getting-started-with-python-3cnj)
+- [Last when we were exiting the orbit I was so depressed Kai had to teach me scape velocity 🤕 
+
+Feeling same batted today!](https://dev.to/jokatty/last-when-we-were-exiting-the-orbit-i-was-so-depressed-kai-had-to-teach-me-scape-velocity-3jp3)
+- [A11 and AGI: A Structural Approach for Models](https://dev.to/__272d48f2ed/a11-and-agi-a-structural-approach-for-models-3o2j)
+- [Pydantic &amp; Data Validation — Border Control for Python APIs &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/pydantic-data-validation-border-control-for-python-apis-2026-49p1)
+- [Deploy Static Sites in Minutes Using AWS CloudFormation](https://dev.to/diegooosevilla/deploy-static-sites-in-minutes-using-aws-cloudformation-24f2)
 <!-- BLOG-POST-LIST:END -->
 
 
