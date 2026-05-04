@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Last when we were exiting the orbit I was so depressed Kai had to teach me scape velocity 🤕 
-
-Feeling same batted today!](https://dev.to/jokatty/last-when-we-were-exiting-the-orbit-i-was-so-depressed-kai-had-to-teach-me-scape-velocity-3jp3)
-- [A11 and AGI: A Structural Approach for Models](https://dev.to/__272d48f2ed/a11-and-agi-a-structural-approach-for-models-3o2j)
-- [Pydantic &amp; Data Validation — Border Control for Python APIs &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/pydantic-data-validation-border-control-for-python-apis-2026-49p1)
-- [Deploy Static Sites in Minutes Using AWS CloudFormation](https://dev.to/diegooosevilla/deploy-static-sites-in-minutes-using-aws-cloudformation-24f2)
+- [macOS tar destroys files on Linux: I validated it in my real Railway pipeline and documented the 3 cases nobody mentions](https://dev.to/jtorchia/macos-tar-destroys-files-on-linux-i-validated-it-in-my-real-railway-pipeline-and-documented-the-3-1ao)
+- [Tar en macOS destroza archivos en Linux: lo validé en mi pipeline real de Railway y documenté los 3 casos que nadie menciona](https://dev.to/jtorchia/tar-en-macos-destroza-archivos-en-linux-lo-valide-en-mi-pipeline-real-de-railway-y-documente-los-3-2n5e)
+- [Levels of Python type annotations](https://dev.to/aaronmaxwell/levels-of-python-type-annotations-1bd3)
+- [When Would You NOT Use Microservices?](https://dev.to/realnamehidden1_61/when-would-you-not-use-microservices-b4m)
 <!-- BLOG-POST-LIST:END -->
 
 
