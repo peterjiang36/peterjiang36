@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Revocation Without Killing Performance](https://dev.to/akarshan/token-revocation-without-killing-performance-389d)
-- [Authorization at Scale: Access Levels, Roles, and Compact Decisions](https://dev.to/akarshan/authorization-at-scale-access-levels-roles-and-compact-decisions-57ga)
-- [Multi-tenant auth and routing in Kubernetes](https://dev.to/akarshan/multi-tenant-auth-and-routing-in-kubernetes-o85)
-- [Endpoint classification: OPEN, AUTHENTICATED, ACCESS_CONTROLLED](https://dev.to/akarshan/endpoint-classification-open-authenticated-accesscontrolled-561)
+- [52. The Rule That Prevents You From Cheating Your Own Model](https://dev.to/yakhilesh/52-the-rule-that-prevents-you-from-cheating-your-own-model-2kjb)
+- [OneKey Classic 1S Review &lpar;vs Ledger&rpar; — My Honest Take After 7 Years](https://dev.to/baransel/onekey-classic-1s-review-vs-ledger-my-honest-take-after-7-years-2g0h)
+- [Finance Shields, Local Agents, and Proxies for Safer Code](https://dev.to/anikalp1/finance-shields-local-agents-and-proxies-for-safer-code-1d5p)
+- [Anomaly detection on ESP32 with 24 bytes of RAM — no cloud, no malloc](https://dev.to/antoine005/anomaly-detection-on-esp32-with-24-bytes-of-ram-no-cloud-no-malloc-34p5)
 <!-- BLOG-POST-LIST:END -->
 
 
