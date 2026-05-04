@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [macOS tar destroys files on Linux: I validated it in my real Railway pipeline and documented the 3 cases nobody mentions](https://dev.to/jtorchia/macos-tar-destroys-files-on-linux-i-validated-it-in-my-real-railway-pipeline-and-documented-the-3-1ao)
-- [Tar en macOS destroza archivos en Linux: lo validé en mi pipeline real de Railway y documenté los 3 casos que nadie menciona](https://dev.to/jtorchia/tar-en-macos-destroza-archivos-en-linux-lo-valide-en-mi-pipeline-real-de-railway-y-documente-los-3-2n5e)
-- [Levels of Python type annotations](https://dev.to/aaronmaxwell/levels-of-python-type-annotations-1bd3)
-- [When Would You NOT Use Microservices?](https://dev.to/realnamehidden1_61/when-would-you-not-use-microservices-b4m)
+- [How I was introduced to SQL window function](https://dev.to/dhairya_pandya/how-i-was-introduced-to-sql-window-function-292m)
+- [Seeking Testers: Chime Ball](https://dev.to/bertjerred/seeking-testers-chime-ball-59po)
+- [🚀 Bridge to the Cloud: A Tactical Guide to Hybrid Resilience with Nutanix NC2 on AWS](https://dev.to/exegol/bridge-to-the-cloud-a-tactical-guide-to-hybrid-resilience-with-nutanix-nc2-on-aws-5hg8)
+- [60–80% of your CVEs are unreachable. Here&#39;s how to prove it.](https://dev.to/rjonmshka/60-80-of-your-cves-are-unreachable-heres-how-to-prove-it-pd0)
 <!-- BLOG-POST-LIST:END -->
 
 
