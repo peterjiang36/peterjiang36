@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Visual Studio 2026 to VS Code: Paledev Dark Theme](https://dev.to/jtgmagic/from-visual-studio-2026-to-vs-code-paledev-dark-theme-2j43)
-- [Consistência Eventual em Sistemas Distribuídos](https://dev.to/guilherme_ryu/consistencia-eventual-em-sistemas-distribuidos-26oj)
-- [Why I Used wttr.in Instead of OpenWeatherMap for My Firefox Extension](https://dev.to/weatherclockdash/why-i-used-wttrin-instead-of-openweathermap-for-my-firefox-extension-2f0k)
-- [¿Cuánta energía, agua, dinero e infraestructura estamos dispuestos a gastar para sostenerla?](https://dev.to/miigangls/cuanta-energia-agua-dinero-e-infraestructura-estamos-dispuestos-a-gastar-para-sostenerla-57l3)
+- [¿Debería el desarrollo de software tener un control de acceso?](https://dev.to/jose_muoz_7408dd1b5bd4c9/deberia-el-desarrollo-de-software-tener-un-control-de-acceso-3481)
+- [Workspaces: Building a Headless Company OS for API-first Processes and AI Agent Workflows](https://dev.to/schukai/workspaces-building-a-headless-company-os-for-api-first-processes-and-ai-agent-workflows-18ld)
+- [200 Lines in CLAUDE.md Dropped My Code Quality to 79% — Splitting into 3 Files Got It to 96.9%](https://dev.to/yunbow/200-lines-in-claudemd-dropped-my-code-quality-to-79-splitting-into-3-files-got-it-to-969-1glm)
+- [Stop Sending Medical Data to the Cloud: Build a 100% Private Health AI with WebLLM and Transformers.js](https://dev.to/beck_moulton/stop-sending-medical-data-to-the-cloud-build-a-100-private-health-ai-with-webllm-and-1eaj)
 <!-- BLOG-POST-LIST:END -->
 
 
