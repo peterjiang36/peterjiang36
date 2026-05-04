@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Integration, Transforming Workplaces and Employee Futures - SmarterArticles S1E3](https://dev.to/rawveg/ai-integration-transforming-workplaces-and-employee-futures-smarterarticles-s1e3-3a83)
-- [How Ecodomen.ru Helps Save on Domains](https://dev.to/arezvov/how-ecodomenru-helps-save-on-domains-4k0d)
-- [I built an AI that automatically reviews your GitHub PRs](https://dev.to/murtaztahir2ai/i-built-an-ai-that-automatically-reviews-your-github-prs-4cef)
-- [MCP Ecosystem Week 19: Data Intelligence and Safety Tools Lead New Arrivals](https://dev.to/curatedmcp/mcp-ecosystem-week-19-data-intelligence-and-safety-tools-lead-new-arrivals-33kb)
+- [Why I Built a Cleaner Alternative to the GA4 Headache](https://dev.to/talha_zahid_9f5c8003e6696/why-i-built-a-cleaner-alternative-to-the-ga4-headache-3m0i)
+- [Expanding a GBase 8a Cluster: Adding a GNode in Practice](https://dev.to/michaelfv/expanding-a-gbase-8a-cluster-adding-a-gnode-in-practice-jo4)
+- [Nine Search Backends, Nine Different Webs. Why AI Citations Diverge for the Same Query.](https://dev.to/cihangir_bozdogan_76b8c99/nine-search-backends-nine-different-webs-why-ai-citations-diverge-for-the-same-query-5deg)
+- [Understanding Identity on Solana &lpar;A Simple Guide for Web2 Developers&rpar;](https://dev.to/peter_okoh_/understanding-identity-on-solana-a-simple-guide-for-web2-developers-1e00)
 <!-- BLOG-POST-LIST:END -->
 
 
