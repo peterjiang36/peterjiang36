@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 90 Day FAANG Prep Plan That Actually Works](https://dev.to/codeintuition/the-90-day-faang-prep-plan-that-actually-works-stop-studying-in-the-wrong-order-4he7)
-- [Skill-Based Sub-Agents with LangGraph4j and Spring AI](https://dev.to/bsorrentino/skill-based-sub-agents-with-langgraph4j-and-spring-ai-52b0)
-- [🎬 &quot;FREE MONEY, THEN WHAT?&quot; A Timeline Nobody Told You About](https://dev.to/ryo_suwito/free-money-then-whata-timeline-nobody-told-you-about-5e6g)
-- [What’s Your Fear Score as a Developer?](https://dev.to/konark_13/whats-your-fear-score-as-a-developer-4p2j)
+- [🔐 SSL Pinning in Mobile Apps: Android &amp; iOS &lpar;Practical Guide + Trade-offs&rpar; - Part 2](https://dev.to/devpicon/ssl-pinning-in-mobile-apps-android-ios-practical-guide-trade-offs-part-2-3p4m)
+- [Two test runtimes, two coverage reports, one fragile merge](https://dev.to/kevinccbsg/two-test-runtimes-two-coverage-reports-one-fragile-merge-1h2a)
+- [🔐 SSL Pinning in Mobile Apps: Android &amp; iOS &lpar;Practical Guide + Trade-offs&rpar; - Part 1](https://dev.to/devpicon/ssl-pinning-in-mobile-apps-android-ios-practical-guide-trade-offs-2pk2)
+- [Why Most Crypto Bots Get Sandwiched &lpar;And How to Prevent It&rpar;](https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-fc3)
 <!-- BLOG-POST-LIST:END -->
 
 
