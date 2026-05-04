@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Myth of Seamless Figma-to-Production Workflows](https://dev.to/bahubali_magadum_/the-myth-of-seamless-figma-to-production-workflows-bj2)
-- [🚗 I built a Conversational Car Marketplace powered by LLMs](https://dev.to/softdev0129/i-built-a-conversational-car-marketplace-powered-by-llms-4d3n)
-- [What Should Humans Design When AI Can Write Most of the Code?](https://dev.to/kotaroyamame/what-should-humans-design-when-ai-can-write-most-of-the-code-pp7)
-- [Six Accessibility Failures We Keep Finding in WooCommerce Stores &lpar;And the Plugins That Cause Them&rpar;](https://dev.to/agentkit/six-accessibility-failures-we-keep-finding-in-woocommerce-stores-and-the-plugins-that-cause-them-1lpf)
+- [Adding a Trust Boundary to a Haystack Pipeline](https://dev.to/anviren/adding-a-trust-boundary-to-a-haystack-pipeline-1e5d)
+- [Why do you keep starting new things but can&#39;t finish them?](https://dev.to/rifat240510/why-do-you-keep-starting-new-things-but-cant-finish-them-586p)
+- [Building B2B feedback, NPS, and announcements as a drop-in embed &lpar;not another heavy SDK&rpar;](https://dev.to/vipinlahoti/building-b2b-feedback-nps-and-announcements-as-a-drop-in-embed-not-another-heavy-sdk-2pel)
+- [When DynamoDB Global Tables Go Stale: Chaos Testing Replication Lag with AWS FIS](https://dev.to/aws-builders/when-dynamodb-global-tables-go-stale-chaos-testing-replication-lag-with-aws-fis-2ij8)
 <!-- BLOG-POST-LIST:END -->
 
 
