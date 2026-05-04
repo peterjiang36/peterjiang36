@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/ben/meme-monday-1lm6)
-- [Elevenwritt: Turning Raw Notes into Platform-Optimized Posts with AI &lpar;My Latest Side Project&rpar;](https://dev.to/kalema_piuscv_28335646/elevenwritt-turning-raw-notes-into-platform-optimized-posts-with-ai-my-latest-side-project-1k7j)
-- [The &quot;Lift-and-Shift to KVM&quot; Fallacy](https://dev.to/ntctech/the-lift-and-shift-to-kvm-fallacy-3i9d)
-- [I built a CLI that tells you where your Kubernetes money burns](https://dev.to/tanrikulu/i-built-a-cli-that-tells-you-where-your-kubernetes-money-burns-4bo9)
+- [select input - variations](https://dev.to/pjdev2d/select-input-variations-3j78)
+- [From a Single IP to Exfiltrated Passwords in a PNG: My First Freelance Pentest Engagement](https://dev.to/marco_altomare_0e7674642c/from-a-single-ip-to-exfiltrated-passwords-in-a-png-my-first-freelance-pentest-engagement-2ego)
+- [The junior developer pipeline is drying up and nobody&#39;s panicking enough](https://dev.to/adioof/the-junior-developer-pipeline-is-drying-up-and-nobodys-panicking-enough-1hp7)
+- [We Cut Log Costs by 35% Using Vector 0.30 and Loki 3.0: Lessons from a 3-Month Tuning](https://dev.to/johalputt/we-cut-log-costs-by-35-using-vector-030-and-loki-30-lessons-from-a-3-month-tuning-1c32)
 <!-- BLOG-POST-LIST:END -->
 
 
