@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 SSL Pinning in Mobile Apps: Android &amp; iOS &lpar;Practical Guide + Trade-offs&rpar; - Part 2](https://dev.to/devpicon/ssl-pinning-in-mobile-apps-android-ios-practical-guide-trade-offs-part-2-3p4m)
-- [Two test runtimes, two coverage reports, one fragile merge](https://dev.to/kevinccbsg/two-test-runtimes-two-coverage-reports-one-fragile-merge-1h2a)
-- [🔐 SSL Pinning in Mobile Apps: Android &amp; iOS &lpar;Practical Guide + Trade-offs&rpar; - Part 1](https://dev.to/devpicon/ssl-pinning-in-mobile-apps-android-ios-practical-guide-trade-offs-2pk2)
-- [Why Most Crypto Bots Get Sandwiched &lpar;And How to Prevent It&rpar;](https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-fc3)
+- [Building Custom MCP Servers: A Developer&#39;s Guide to Production-Grade AI Agent Tools](https://dev.to/thedailyagent/building-custom-mcp-servers-a-developers-guide-to-production-grade-ai-agent-tools-53ch)
+- [The 2026 Web Dev Playbook: What the Top 1% of Developers Are Building With 🚀](https://dev.to/stackbyujjwal/the-2026-web-dev-playbook-what-the-top-1-of-developers-are-building-with-1pde)
+- [LLM Study Diary #2: Tokenization](https://dev.to/zhu_sofia_015552d01df4321/llm-study-diary-2-tokenization-2f6k)
+- [Auto-generating YouTube thumbnails with ffmpeg inside a CI pipeline](https://dev.to/morinaga/auto-generating-youtube-thumbnails-with-ffmpeg-inside-a-ci-pipeline-53bn)
 <!-- BLOG-POST-LIST:END -->
 
 
