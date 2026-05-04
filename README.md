@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [select input - variations](https://dev.to/pjdev2d/select-input-variations-3j78)
-- [From a Single IP to Exfiltrated Passwords in a PNG: My First Freelance Pentest Engagement](https://dev.to/marco_altomare_0e7674642c/from-a-single-ip-to-exfiltrated-passwords-in-a-png-my-first-freelance-pentest-engagement-2ego)
-- [The junior developer pipeline is drying up and nobody&#39;s panicking enough](https://dev.to/adioof/the-junior-developer-pipeline-is-drying-up-and-nobodys-panicking-enough-1hp7)
-- [We Cut Log Costs by 35% Using Vector 0.30 and Loki 3.0: Lessons from a 3-Month Tuning](https://dev.to/johalputt/we-cut-log-costs-by-35-using-vector-030-and-loki-30-lessons-from-a-3-month-tuning-1c32)
+- [Stop Leaking Your Component’s Secrets: Introducing the KIP Pattern in React](https://dev.to/miladxsar23/stop-leaking-your-components-secrets-introducing-the-kip-pattern-in-react-57ac)
+- [I built an AI lens for my desktop because browser-only AI felt too limited](https://dev.to/ideepakchauhan7/i-built-an-ai-lens-for-my-desktop-because-browser-only-ai-felt-too-limited-2k7a)
+- [The 4 Cognitive Archetypes of Developers Using AI](https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n)
+- [Getting Started with Python](https://dev.to/samikshasri/getting-started-with-python-3cnj)
 <!-- BLOG-POST-LIST:END -->
 
 
