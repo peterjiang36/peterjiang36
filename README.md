@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Custom MCP Servers: A Developer&#39;s Guide to Production-Grade AI Agent Tools](https://dev.to/thedailyagent/building-custom-mcp-servers-a-developers-guide-to-production-grade-ai-agent-tools-53ch)
-- [The 2026 Web Dev Playbook: What the Top 1% of Developers Are Building With 🚀](https://dev.to/stackbyujjwal/the-2026-web-dev-playbook-what-the-top-1-of-developers-are-building-with-1pde)
-- [LLM Study Diary #2: Tokenization](https://dev.to/zhu_sofia_015552d01df4321/llm-study-diary-2-tokenization-2f6k)
-- [Auto-generating YouTube thumbnails with ffmpeg inside a CI pipeline](https://dev.to/morinaga/auto-generating-youtube-thumbnails-with-ffmpeg-inside-a-ci-pipeline-53bn)
+- [I built a CLI that scans, validates and audits your .env files and it works with any stack](https://dev.to/hossiy16/i-built-a-cli-that-scans-validates-and-audits-your-env-files-and-it-works-with-any-stack-2pi4)
+- [Your TypeScript Codebase Is Lying to You. Fallow Will Tell You the Truth.](https://dev.to/walosha/your-typescript-codebase-is-lying-to-you-fallow-will-tell-you-the-truth-17hf)
+- [Why Every AI Agent Needs a Cryptographic Identity](https://dev.to/verisigilai/why-every-ai-agent-needs-a-cryptographic-identity-33kb)
+- [Testing Sagas with Real Failure Scenarios](https://dev.to/pedrop3/testing-sagas-with-real-failure-scenarios-mog)
 <!-- BLOG-POST-LIST:END -->
 
 
