@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I was introduced to SQL window function](https://dev.to/dhairya_pandya/how-i-was-introduced-to-sql-window-function-292m)
-- [Seeking Testers: Chime Ball](https://dev.to/bertjerred/seeking-testers-chime-ball-59po)
-- [🚀 Bridge to the Cloud: A Tactical Guide to Hybrid Resilience with Nutanix NC2 on AWS](https://dev.to/exegol/bridge-to-the-cloud-a-tactical-guide-to-hybrid-resilience-with-nutanix-nc2-on-aws-5hg8)
-- [60–80% of your CVEs are unreachable. Here&#39;s how to prove it.](https://dev.to/rjonmshka/60-80-of-your-cves-are-unreachable-heres-how-to-prove-it-pd0)
+- [Token Revocation Without Killing Performance](https://dev.to/akarshan/token-revocation-without-killing-performance-389d)
+- [Authorization at Scale: Access Levels, Roles, and Compact Decisions](https://dev.to/akarshan/authorization-at-scale-access-levels-roles-and-compact-decisions-57ga)
+- [Multi-tenant auth and routing in Kubernetes](https://dev.to/akarshan/multi-tenant-auth-and-routing-in-kubernetes-o85)
+- [Endpoint classification: OPEN, AUTHENTICATED, ACCESS_CONTROLLED](https://dev.to/akarshan/endpoint-classification-open-authenticated-accesscontrolled-561)
 <!-- BLOG-POST-LIST:END -->
 
 
