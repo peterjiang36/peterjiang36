@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendershot vs Urlbox: choosing a screenshot API in 2026](https://dev.to/rendershot/rendershot-vs-urlbox-choosing-a-screenshot-api-in-2026-3idn)
-- [WinkTerm: AI That Shares Your Terminal Session &lpar;Not Just Command Suggestions&rpar;](https://dev.to/cznorth/winkterm-ai-that-shares-your-terminal-session-not-just-command-suggestions-8p9)
-- [Top Web3 CRMs of 2026 with Advanced Analytics Features](https://dev.to/yos/top-web3-crms-of-2026-with-advanced-analytics-features-217p)
-- [I Knew Python Syntax But Still Couldn’t Solve Problems Here’s Why](https://dev.to/madhudadi/i-knew-python-syntax-but-still-couldnt-solve-problems-heres-why-4427)
+- [AI Integration, Transforming Workplaces and Employee Futures - SmarterArticles S1E3](https://dev.to/rawveg/ai-integration-transforming-workplaces-and-employee-futures-smarterarticles-s1e3-3a83)
+- [How Ecodomen.ru Helps Save on Domains](https://dev.to/arezvov/how-ecodomenru-helps-save-on-domains-4k0d)
+- [I built an AI that automatically reviews your GitHub PRs](https://dev.to/murtaztahir2ai/i-built-an-ai-that-automatically-reviews-your-github-prs-4cef)
+- [MCP Ecosystem Week 19: Data Intelligence and Safety Tools Lead New Arrivals](https://dev.to/curatedmcp/mcp-ecosystem-week-19-data-intelligence-and-safety-tools-lead-new-arrivals-33kb)
 <!-- BLOG-POST-LIST:END -->
 
 
