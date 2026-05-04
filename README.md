@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Website That Tries to Make People Leave Faster](https://dev.to/myfunny/i-built-a-website-that-tries-to-make-people-leave-faster-eng)
-- [Deep Dive: How Nuxt 4.0’s Hybrid Rendering Works with Vue 3.5 and Nitro 2.9](https://dev.to/johalputt/deep-dive-how-nuxt-40s-hybrid-rendering-works-with-vue-35-and-nitro-29-21cj)
-- [Designing a Multicloud Cellular Architecture for Blast Radius Containment](https://dev.to/sertaoseracloud/designing-a-multicloud-cellular-architecture-for-blast-radius-containment-4hao)
-- [State File en Terraform: Qué es y por qué importa](https://dev.to/8infinitecloud/state-file-en-terraform-que-es-y-por-que-importa-32d1)
+- [The Myth of Seamless Figma-to-Production Workflows](https://dev.to/bahubali_magadum_/the-myth-of-seamless-figma-to-production-workflows-bj2)
+- [🚗 I built a Conversational Car Marketplace powered by LLMs](https://dev.to/softdev0129/i-built-a-conversational-car-marketplace-powered-by-llms-4d3n)
+- [What Should Humans Design When AI Can Write Most of the Code?](https://dev.to/kotaroyamame/what-should-humans-design-when-ai-can-write-most-of-the-code-pp7)
+- [Six Accessibility Failures We Keep Finding in WooCommerce Stores &lpar;And the Plugins That Cause Them&rpar;](https://dev.to/agentkit/six-accessibility-failures-we-keep-finding-in-woocommerce-stores-and-the-plugins-that-cause-them-1lpf)
 <!-- BLOG-POST-LIST:END -->
 
 
