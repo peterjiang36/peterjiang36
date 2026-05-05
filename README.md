@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Code: Mentoring the Next Generation of Engineers at Six Flags](https://dev.to/mainuddin_1/beyond-the-code-mentoring-the-next-generation-of-engineers-at-six-flags-58f2)
-- [Demystifying Mapbox Styles](https://dev.to/mapbox/demystifying-mapbox-styles-2igc)
-- [Your Prompts are Legacy Code Now: The Google Cloud Next &#39;26 Developer Breakdown](https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3)
-- [I Built a Job Hunt System for Developers. Here is Why You Need It.](https://dev.to/a95yman/i-built-a-job-hunt-system-for-developers-here-is-why-you-need-it-283c)
+- [What Even Is AI? &lpar;I Took a Break &amp; Had to Relearn Everything&rpar;](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj)
+- [Iniciando a Carreira no SAP](https://dev.to/pedrodecastilho/iniciando-a-carreira-no-sap-3391)
+- [My first custom made AI-skill.](https://dev.to/alan_nobita_6ae61bd68c586/my-first-custom-made-ai-skill-437l)
+- [What is Dremio? The Unified Lakehouse and AI Platform](https://dev.to/alexmercedcoder/what-is-dremio-the-unified-lakehouse-and-ai-platform-1n2g)
 <!-- BLOG-POST-LIST:END -->
 
 
