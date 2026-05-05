@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best React Gantt Chart Libraries for Project Management Apps](https://dev.to/marina_char/best-react-gantt-chart-libraries-for-project-management-apps-4fa0)
-- [I vibe coded a Design System! See it here! https://ice-design-system.vicentereyes.org See the landing page here https://ds.vicentereyes.org](https://dev.to/highcenburg/i-vibe-coded-a-design-system-see-it-here-httpsice-design-systemvicentereyesorg-see-the-3n44)
-- [How I Built a Modern Dashboard for GoatCounter - Rate Limiting, World Maps, and a Single HTML File](https://dev.to/abhishekhsingh/how-i-built-a-modern-dashboard-for-goatcounter-rate-limiting-world-maps-and-a-single-html-file-ifo)
-- [What&#39;s new in Java 26](https://dev.to/pvsdev/whats-new-in-java-26-3anf)
+- [The Hidden Cost of scaling with Istio 1.20 and OpenShift: Benchmark](https://dev.to/johalputt/the-hidden-cost-of-scaling-with-istio-120-and-openshift-benchmark-4j36)
+- [Issue 102: Software Fundamentals Matter More Than Ever, Beyond The Vibe: Code Quality First, Structured Concurrency, Top 10 Web Hacking Techniques](https://dev.to/techtalksweekly/issue-102-software-fundamentals-matter-more-than-ever-beyond-the-vibe-code-quality-first-179o)
+- [SnowFROC 2026: Secure Defaults, Real Trust, and a Better Layer on Top](https://dev.to/gitguardian/snowfroc-2026-secure-defaults-real-trust-and-a-better-layer-on-top-npn)
+- [Dockerfile &amp; Image Build Internals: From Layers to Lightning-Fast Builds](https://dev.to/sreekanth_kuruba_91721e5d/dockerfile-image-build-internals-from-layers-to-lightning-fast-builds-242e)
 <!-- BLOG-POST-LIST:END -->
 
 
