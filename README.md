@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
-- [Claude Managed Agents: The Layer That Disappears, The Layer That Stays — A View from Business Automation Agents](https://dev.to/aws-builders/claude-managed-agents-the-layer-that-disappears-the-layer-that-stays-a-view-from-business-4n0)
-- [`@playwright/cli` Is Not `npx playwright test` — And That Difference Is Costing Your AI Agent Thousands of Tokens](https://dev.to/anirseven/playwrightcli-is-not-npx-playwright-test-and-that-difference-is-costing-your-ai-agent-277f)
-- [After Paddle Rejected My SaaS, I Realized Payments Care More About Flows Than Features](https://dev.to/pavelbuild/after-paddle-rejected-my-saas-i-realized-payments-care-more-about-flows-than-features-2k70)
+- [Postmortem: AI Incident Classifier Failed Due to Biased Training Data and Scikit-Learn 1.5](https://dev.to/johalputt/postmortem-ai-incident-classifier-failed-due-to-biased-training-data-and-scikit-learn-15-opc)
+- [The First Agent-Led Wedge Worth Paying For: Bid Packet Triage for Mid-Market Vendors](https://dev.to/hetty_marin_dc66a1726df08/the-first-agent-led-wedge-worth-paying-for-bid-packet-triage-for-mid-market-vendors-4pei)
+- [I Got Tired of Slow, Ad-Filled Dev Tools — So I Built My Own](https://dev.to/fatima_farooq_67bdb055f97/i-got-tired-of-slow-ad-filled-dev-tools-so-i-built-my-own-3a85)
+- [Why Your Schneider PLC&#39;s Float32 Reads 1.4e-41 Instead of 25.5 C](https://dev.to/philyeh/why-your-schneider-plcs-float32-reads-14e-41-instead-of-255degc-44lg)
 <!-- BLOG-POST-LIST:END -->
 
 
