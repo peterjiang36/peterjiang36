@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Decoder-Only Transformers Part 1: Masked Self-Attention](https://dev.to/rijultp/understanding-decoder-only-transformers-part-1-masked-self-attention-mf8)
-- [AI Search, Image Search, and Category Filters Land in PSRESTful Product Search](https://dev.to/psrestful/ai-search-image-search-and-category-filters-land-in-psrestful-product-search-4cm1)
-- [Rejourney Session Replay Now Open Beta for Swift](https://dev.to/mohammadrrashid/rejourney-session-replay-now-open-beta-for-swift-3m1i)
-- [SEO in the Age of AI: How Answer Engine Optimization Changes Everything](https://dev.to/savage_solutions/seo-in-the-age-of-ai-how-answer-engine-optimization-changes-everything-2p5m)
+- [From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software](https://dev.to/remojansen/from-rigidity-to-explicitness-how-ai-changes-the-role-of-constraints-in-software-5cp5)
+- [Apps That See: Bringing Vision AI to Your Projects](https://dev.to/reka/apps-that-see-bringing-vision-ai-to-your-projects-7l1)
+- [I built a tiny CI tool to keep AI agent configs from drifting in my repo](https://dev.to/ramanpreet_singh_701cac53/i-built-a-tiny-ci-tool-to-keep-ai-agent-configs-from-drifting-in-my-repo-4lod)
+- [🌿 Plant Disease Detection System](https://dev.to/buildwithsomnath/plant-disease-detection-system-20i2)
 <!-- BLOG-POST-LIST:END -->
 
 
