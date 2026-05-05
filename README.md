@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Async Patterns in Tauri — Keeping the UI Responsive While Rust Does Heavy Work](https://dev.to/hiyoyok/rust-async-patterns-in-tauri-keeping-the-ui-responsive-while-rust-does-heavy-work-e9d)
-- [I wrote a .NET assertion library to understand assertion libraries](https://dev.to/spearzy/i-wrote-a-net-assertion-library-to-understand-assertion-libraries-1mmg)
-- [I Trained My Own LLM from Scratch in 2025: What That Viral HN Tutorial Doesn&#39;t Tell You About the Real Cost](https://dev.to/jtorchia/i-trained-my-own-llm-from-scratch-in-2025-what-that-viral-hn-tutorial-doesnt-tell-you-about-the-l66)
-- [Entrené mi propio LLM desde cero en 2025: lo que el tutorial viral de HN no te dice sobre el costo real](https://dev.to/jtorchia/entrene-mi-propio-llm-desde-cero-en-2025-lo-que-el-tutorial-viral-de-hn-no-te-dice-sobre-el-costo-3def)
+- [Beyond the Code: Mentoring the Next Generation of Engineers at Six Flags](https://dev.to/mainuddin_1/beyond-the-code-mentoring-the-next-generation-of-engineers-at-six-flags-58f2)
+- [Demystifying Mapbox Styles](https://dev.to/mapbox/demystifying-mapbox-styles-2igc)
+- [Your Prompts are Legacy Code Now: The Google Cloud Next &#39;26 Developer Breakdown](https://dev.to/gde/your-prompts-are-legacy-code-now-the-google-cloud-next-26-developer-breakdown-hc3)
+- [I Built a Job Hunt System for Developers. Here is Why You Need It.](https://dev.to/a95yman/i-built-a-job-hunt-system-for-developers-here-is-why-you-need-it-283c)
 <!-- BLOG-POST-LIST:END -->
 
 
