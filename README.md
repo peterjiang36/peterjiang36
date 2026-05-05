@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Fine-Tuning Gemma 4 on Your Own Dataset: A Step-by-Step Guide](https://dev.to/mamoor_ahmad/fine-tuning-gemma-4-on-your-own-dataset-a-step-by-step-guide-66a)
-- [The AI Didn&#39;t Delete Your Database. Your Missing Agent Pipeline Did.](https://dev.to/michaeltuszynski/the-ai-didnt-delete-your-database-your-missing-agent-pipeline-did-54ch)
-- [We Need a CatRun for the AI Era](https://dev.to/taekim34/we-need-a-catrun-for-the-ai-era-34a0)
-- [How I built a CLI tool in Rust that uses AI to brief you on your git state](https://dev.to/chronos778/how-i-built-a-cli-tool-in-rust-that-uses-ai-to-brief-you-on-your-git-state-43af)
+- [Rust Async Patterns in Tauri — Keeping the UI Responsive While Rust Does Heavy Work](https://dev.to/hiyoyok/rust-async-patterns-in-tauri-keeping-the-ui-responsive-while-rust-does-heavy-work-e9d)
+- [I wrote a .NET assertion library to understand assertion libraries](https://dev.to/spearzy/i-wrote-a-net-assertion-library-to-understand-assertion-libraries-1mmg)
+- [I Trained My Own LLM from Scratch in 2025: What That Viral HN Tutorial Doesn&#39;t Tell You About the Real Cost](https://dev.to/jtorchia/i-trained-my-own-llm-from-scratch-in-2025-what-that-viral-hn-tutorial-doesnt-tell-you-about-the-l66)
+- [Entrené mi propio LLM desde cero en 2025: lo que el tutorial viral de HN no te dice sobre el costo real](https://dev.to/jtorchia/entrene-mi-propio-llm-desde-cero-en-2025-lo-que-el-tutorial-viral-de-hn-no-te-dice-sobre-el-costo-3def)
 <!-- BLOG-POST-LIST:END -->
 
 
