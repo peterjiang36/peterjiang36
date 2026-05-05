@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tool That Builds My Infrastructure — Here&#39;s How It Went](https://dev.to/hezekiah_umoh/i-built-a-tool-that-builds-my-infrastructure-heres-how-it-went-12om)
-- [How I&#39;ve optimized chunk generation in my Minecraft clone](https://dev.to/mainr/how-ive-optimized-chunk-generation-in-my-minecraft-clone-i78)
-- [The Silent Backdoor in Enterprise Security: Why Unmanaged OAuth Tokens Are the New High-Risk Vector](https://dev.to/alifunk/the-silent-backdoor-in-enterprise-security-why-unmanaged-oauth-tokens-are-the-new-high-risk-vector-phf)
-- [Your API Needs an llms.txt File — Here&#39;s How to Write One and Why Agents Will Read It](https://dev.to/vystartasv/your-api-needs-an-llmstxt-file-heres-how-to-write-one-and-why-agents-will-read-it-5epe)
+- [6 New Moats for AI Agent Infrastructure — Trust Score, Deployment, SLA, Identity, Compliance-as-Code](https://dev.to/vystartasv/6-new-moats-for-ai-agent-infrastructure-trust-score-deployment-sla-identity-compliance-as-code-ikl)
+- [Lithos UI: The Neo-Brutalist React Library &lpar;100% Free &amp; Open Source&rpar;](https://dev.to/incrediblestand/lithos-ui-the-neo-brutalist-react-library-100-free-open-source-fec)
+- [Health checks are integral to website maintenance programmes](https://dev.to/dcentrica/health-checks-are-integral-to-website-maintenance-programmes-210o)
+- [I cut my AWS bill by 93% by ditching Fargate for a single Lightsail VM](https://dev.to/toolmango/i-cut-my-aws-bill-by-93-by-ditching-fargate-for-a-single-lightsail-vm-16lf)
 <!-- BLOG-POST-LIST:END -->
 
 
