@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Distributed Consensus: The Missing Piece in Kubernetes](https://dev.to/david_aronchick_ea415de50/global-distributed-consensus-the-missing-piece-in-kubernetes-2i2g)
-- [Bridging the Gap: Future Directions for Kubernetes and Distributed Systems](https://dev.to/david_aronchick_ea415de50/bridging-the-gap-future-directions-for-kubernetes-and-distributed-systems-f7o)
-- [The 800 Million Weekly ChatGPT Users Who Are Just Getting Started](https://dev.to/david_aronchick_ea415de50/the-800-million-weekly-chatgpt-users-who-are-just-getting-started-9bo)
-- [Stop Your AI Agents From Crashing, Looping, and Burning Through Tokens](https://dev.to/pavelgj/stop-your-ai-agents-from-crashing-looping-and-burning-through-tokens-2g70)
+- [Reading Ruler Update](https://dev.to/codebunny20/reading-ruler-update-2dc2)
+- [LLM-Powered OSINT 2026 — Using AI to Automate Open Source Intelligence Gathering](https://dev.to/lucky_lonerusher/llm-powered-osint-2026-using-ai-to-automate-open-source-intelligence-gathering-15g0)
+- [【5月5日】Coding Agent Harness：99%开发者不知道的AI编程Agent安全护盾 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/5yue-5ri-coding-agent-harness99kai-fa-zhe-bu-zhi-dao-de-aibian-cheng-agentan-quan-hu-dun-nf)
+- [Coding Agent Harness: The Rust Firewall for AI Agents Nobody Told You About](https://dev.to/_cbd692d476c5faf3b61bcf/coding-agent-harness-the-rust-firewall-for-ai-agents-nobody-told-you-about-4ee)
 <!-- BLOG-POST-LIST:END -->
 
 
