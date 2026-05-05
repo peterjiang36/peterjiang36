@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading Ruler Update](https://dev.to/codebunny20/reading-ruler-update-2dc2)
-- [LLM-Powered OSINT 2026 — Using AI to Automate Open Source Intelligence Gathering](https://dev.to/lucky_lonerusher/llm-powered-osint-2026-using-ai-to-automate-open-source-intelligence-gathering-15g0)
-- [【5月5日】Coding Agent Harness：99%开发者不知道的AI编程Agent安全护盾 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/5yue-5ri-coding-agent-harness99kai-fa-zhe-bu-zhi-dao-de-aibian-cheng-agentan-quan-hu-dun-nf)
-- [Coding Agent Harness: The Rust Firewall for AI Agents Nobody Told You About](https://dev.to/_cbd692d476c5faf3b61bcf/coding-agent-harness-the-rust-firewall-for-ai-agents-nobody-told-you-about-4ee)
+- [Why I Stopped Using Raw SQL Date Functions and Switched to Carbon in Laravel](https://dev.to/chrislfallaria/why-i-stopped-using-raw-sql-date-functions-and-switched-to-carbon-in-laravel-2145)
+- [Lavender dbg](https://dev.to/benjamin_fu_172185a01088f/lavender-dbg-56fp)
+- [[Google Cloud Next &#39;26 Recap #4] Live Report from the Two Keynotes](https://dev.to/koichim2/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb)
+- [Core Web Vitals SEO: Why Your React App Is Invisible to Google &lpar;and the Fix&rpar;](https://dev.to/mitudas/core-web-vitals-seo-why-your-react-app-is-invisible-to-google-and-the-fix-1h78)
 <!-- BLOG-POST-LIST:END -->
 
 
