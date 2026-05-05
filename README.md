@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Using Raw SQL Date Functions and Switched to Carbon in Laravel](https://dev.to/chrislfallaria/why-i-stopped-using-raw-sql-date-functions-and-switched-to-carbon-in-laravel-2145)
-- [Lavender dbg](https://dev.to/benjamin_fu_172185a01088f/lavender-dbg-56fp)
-- [[Google Cloud Next &#39;26 Recap #4] Live Report from the Two Keynotes](https://dev.to/koichim2/google-cloud-next-26-recap-4-live-report-from-the-two-keynotes-34nb)
-- [Core Web Vitals SEO: Why Your React App Is Invisible to Google &lpar;and the Fix&rpar;](https://dev.to/mitudas/core-web-vitals-seo-why-your-react-app-is-invisible-to-google-and-the-fix-1h78)
+- [Quizlet is gatekeeping more and more, so i made an extension](https://dev.to/imgajeed76/quizlet-is-gatekeeping-more-and-more-so-i-made-an-extension-4ic6)
+- [Tired of overpaying for emails, I built Senddock: A Self-Hostable Email API and Campaign Platform](https://dev.to/juansesdev/tired-of-overpaying-for-emails-i-built-senddock-a-self-hostable-email-api-and-campaign-platform-37ph)
+- [From REST to Event-Driven Architecture: How Backend Development Is Changing](https://dev.to/eva_clari_289d85ecc68da48/from-rest-to-event-driven-architecture-how-backend-development-is-changing-3fpf)
+- [I asked ChatGPT for free status page tools. It didn&#39;t mention mine. Here&#39;s the Next.js + Supabase build behind that zero.](https://dev.to/edifierxuhao/i-asked-chatgpt-for-free-status-page-tools-it-didnt-mention-mine-heres-the-nextjs-supabase-15ei)
 <!-- BLOG-POST-LIST:END -->
 
 
