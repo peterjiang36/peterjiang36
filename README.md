@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software](https://dev.to/remojansen/from-rigidity-to-explicitness-how-ai-changes-the-role-of-constraints-in-software-5cp5)
-- [Apps That See: Bringing Vision AI to Your Projects](https://dev.to/reka/apps-that-see-bringing-vision-ai-to-your-projects-7l1)
-- [I built a tiny CI tool to keep AI agent configs from drifting in my repo](https://dev.to/ramanpreet_singh_701cac53/i-built-a-tiny-ci-tool-to-keep-ai-agent-configs-from-drifting-in-my-repo-4lod)
-- [🌿 Plant Disease Detection System](https://dev.to/buildwithsomnath/plant-disease-detection-system-20i2)
+- [I Built a Tool That Builds My Infrastructure — Here&#39;s How It Went](https://dev.to/hezekiah_umoh/i-built-a-tool-that-builds-my-infrastructure-heres-how-it-went-12om)
+- [How I&#39;ve optimized chunk generation in my Minecraft clone](https://dev.to/mainr/how-ive-optimized-chunk-generation-in-my-minecraft-clone-i78)
+- [The Silent Backdoor in Enterprise Security: Why Unmanaged OAuth Tokens Are the New High-Risk Vector](https://dev.to/alifunk/the-silent-backdoor-in-enterprise-security-why-unmanaged-oauth-tokens-are-the-new-high-risk-vector-phf)
+- [Your API Needs an llms.txt File — Here&#39;s How to Write One and Why Agents Will Read It](https://dev.to/vystartasv/your-api-needs-an-llmstxt-file-heres-how-to-write-one-and-why-agents-will-read-it-5epe)
 <!-- BLOG-POST-LIST:END -->
 
 
