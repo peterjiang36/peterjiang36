@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trivy deep dive Snyk: The Definitive Guide to container scanning for Engineers](https://dev.to/johalputt/trivy-deep-dive-snyk-the-definitive-guide-to-container-scanning-for-engineers-2k78)
-- [Cross-Zone Load Balancing trên AWS NLB: Bài Học Từ Triển Khai RabbitMQ Trên EKS](https://dev.to/tan_loc/cross-zone-load-balancing-tren-aws-nlb-bai-hoc-tu-trien-khai-rabbitmq-tren-eks-m9m)
-- [How NGB Platform Works: Documents, Posting, Registers, and Reporting](https://dev.to/ngbplatform/how-ngb-platform-works-documents-posting-registers-and-reporting-5f4l)
-- [AI for Security and Security for AI - A deep dive into how AI is transforming cyber defense and why the AI itself urgently needs to be defended.](https://dev.to/soumya_k19/ai-for-security-and-security-for-ai-a-deep-dive-into-how-ai-is-transforming-cyber-defense-and-why-4c3m)
+- [🔥 Fine-Tuning Gemma 4 on Your Own Dataset: A Step-by-Step Guide](https://dev.to/mamoor_ahmad/fine-tuning-gemma-4-on-your-own-dataset-a-step-by-step-guide-66a)
+- [The AI Didn&#39;t Delete Your Database. Your Missing Agent Pipeline Did.](https://dev.to/michaeltuszynski/the-ai-didnt-delete-your-database-your-missing-agent-pipeline-did-54ch)
+- [We Need a CatRun for the AI Era](https://dev.to/taekim34/we-need-a-catrun-for-the-ai-era-34a0)
+- [How I built a CLI tool in Rust that uses AI to brief you on your git state](https://dev.to/chronos778/how-i-built-a-cli-tool-in-rust-that-uses-ai-to-brief-you-on-your-git-state-43af)
 <!-- BLOG-POST-LIST:END -->
 
 
