@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quizlet is gatekeeping more and more, so i made an extension](https://dev.to/imgajeed76/quizlet-is-gatekeeping-more-and-more-so-i-made-an-extension-4ic6)
-- [Tired of overpaying for emails, I built Senddock: A Self-Hostable Email API and Campaign Platform](https://dev.to/juansesdev/tired-of-overpaying-for-emails-i-built-senddock-a-self-hostable-email-api-and-campaign-platform-37ph)
-- [From REST to Event-Driven Architecture: How Backend Development Is Changing](https://dev.to/eva_clari_289d85ecc68da48/from-rest-to-event-driven-architecture-how-backend-development-is-changing-3fpf)
-- [I asked ChatGPT for free status page tools. It didn&#39;t mention mine. Here&#39;s the Next.js + Supabase build behind that zero.](https://dev.to/edifierxuhao/i-asked-chatgpt-for-free-status-page-tools-it-didnt-mention-mine-heres-the-nextjs-supabase-15ei)
+- [Stop Using useEffect Like This: 5 Patterns That Are Silently Breaking Your React App](https://dev.to/gavincettolo/stop-using-useeffect-like-this-5-patterns-that-are-silently-breaking-your-react-app-5e5f)
+- [Claude Managed Agents: The Layer That Disappears, The Layer That Stays — A View from Business Automation Agents](https://dev.to/aws-builders/claude-managed-agents-the-layer-that-disappears-the-layer-that-stays-a-view-from-business-4n0)
+- [`@playwright/cli` Is Not `npx playwright test` — And That Difference Is Costing Your AI Agent Thousands of Tokens](https://dev.to/anirseven/playwrightcli-is-not-npx-playwright-test-and-that-difference-is-costing-your-ai-agent-277f)
+- [After Paddle Rejected My SaaS, I Realized Payments Care More About Flows Than Features](https://dev.to/pavelbuild/after-paddle-rejected-my-saas-i-realized-payments-care-more-about-flows-than-features-2k70)
 <!-- BLOG-POST-LIST:END -->
 
 
