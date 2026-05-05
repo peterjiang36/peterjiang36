@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
-- [I got tired of refreshing Telegram. So I built a bot that does it for me](https://dev.to/nomad4tech/i-got-tired-of-refreshing-telegram-so-i-built-a-bot-that-does-it-for-me-4aem)
-- [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
-- [MCP Is a Great Start — But Multi-Agent Production Needs More](https://dev.to/jovansapfioneer/mcp-is-a-great-start-but-multi-agent-production-needs-more-38la)
+- [Destructuring in JavaScript](https://dev.to/satyasootar/destructuring-in-javascript-5a11)
+- [Map &amp; Set](https://dev.to/satyasootar/map-set-4bfc)
+- [7 CLAUDE.md Rules That Make AI Write Idiomatic Rust &lpar;Not C++ in Disguise&rpar;](https://dev.to/olivia_craft/7-claudemd-rules-that-make-ai-write-idiomatic-rust-not-c-in-disguise-5h0e)
+- [CSV to JSON: How to Convert Tabular Data in Pure JavaScript &lpar;No Libraries&rpar;](https://dev.to/snappy_tools/csv-to-json-how-to-convert-tabular-data-in-pure-javascript-no-libraries-pdn)
 <!-- BLOG-POST-LIST:END -->
 
 
