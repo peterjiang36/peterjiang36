@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Even Is AI? &lpar;I Took a Break &amp; Had to Relearn Everything&rpar;](https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj)
-- [Iniciando a Carreira no SAP](https://dev.to/pedrodecastilho/iniciando-a-carreira-no-sap-3391)
-- [My first custom made AI-skill.](https://dev.to/alan_nobita_6ae61bd68c586/my-first-custom-made-ai-skill-437l)
-- [What is Dremio? The Unified Lakehouse and AI Platform](https://dev.to/alexmercedcoder/what-is-dremio-the-unified-lakehouse-and-ai-platform-1n2g)
+- [Understanding Decoder-Only Transformers Part 1: Masked Self-Attention](https://dev.to/rijultp/understanding-decoder-only-transformers-part-1-masked-self-attention-mf8)
+- [AI Search, Image Search, and Category Filters Land in PSRESTful Product Search](https://dev.to/psrestful/ai-search-image-search-and-category-filters-land-in-psrestful-product-search-4cm1)
+- [Rejourney Session Replay Now Open Beta for Swift](https://dev.to/mohammadrrashid/rejourney-session-replay-now-open-beta-for-swift-3m1i)
+- [SEO in the Age of AI: How Answer Engine Optimization Changes Everything](https://dev.to/savage_solutions/seo-in-the-age-of-ai-how-answer-engine-optimization-changes-everything-2p5m)
 <!-- BLOG-POST-LIST:END -->
 
 
