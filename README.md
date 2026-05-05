@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Destructuring in JavaScript](https://dev.to/satyasootar/destructuring-in-javascript-5a11)
-- [Map &amp; Set](https://dev.to/satyasootar/map-set-4bfc)
-- [7 CLAUDE.md Rules That Make AI Write Idiomatic Rust &lpar;Not C++ in Disguise&rpar;](https://dev.to/olivia_craft/7-claudemd-rules-that-make-ai-write-idiomatic-rust-not-c-in-disguise-5h0e)
-- [CSV to JSON: How to Convert Tabular Data in Pure JavaScript &lpar;No Libraries&rpar;](https://dev.to/snappy_tools/csv-to-json-how-to-convert-tabular-data-in-pure-javascript-no-libraries-pdn)
+- [Best React Gantt Chart Libraries for Project Management Apps](https://dev.to/marina_char/best-react-gantt-chart-libraries-for-project-management-apps-4fa0)
+- [I vibe coded a Design System! See it here! https://ice-design-system.vicentereyes.org See the landing page here https://ds.vicentereyes.org](https://dev.to/highcenburg/i-vibe-coded-a-design-system-see-it-here-httpsice-design-systemvicentereyesorg-see-the-3n44)
+- [How I Built a Modern Dashboard for GoatCounter - Rate Limiting, World Maps, and a Single HTML File](https://dev.to/abhishekhsingh/how-i-built-a-modern-dashboard-for-goatcounter-rate-limiting-world-maps-and-a-single-html-file-ifo)
+- [What&#39;s new in Java 26](https://dev.to/pvsdev/whats-new-in-java-26-3anf)
 <!-- BLOG-POST-LIST:END -->
 
 
