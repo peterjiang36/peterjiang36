@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of scaling with Istio 1.20 and OpenShift: Benchmark](https://dev.to/johalputt/the-hidden-cost-of-scaling-with-istio-120-and-openshift-benchmark-4j36)
-- [Issue 102: Software Fundamentals Matter More Than Ever, Beyond The Vibe: Code Quality First, Structured Concurrency, Top 10 Web Hacking Techniques](https://dev.to/techtalksweekly/issue-102-software-fundamentals-matter-more-than-ever-beyond-the-vibe-code-quality-first-179o)
-- [SnowFROC 2026: Secure Defaults, Real Trust, and a Better Layer on Top](https://dev.to/gitguardian/snowfroc-2026-secure-defaults-real-trust-and-a-better-layer-on-top-npn)
-- [Dockerfile &amp; Image Build Internals: From Layers to Lightning-Fast Builds](https://dev.to/sreekanth_kuruba_91721e5d/dockerfile-image-build-internals-from-layers-to-lightning-fast-builds-242e)
+- [Trivy deep dive Snyk: The Definitive Guide to container scanning for Engineers](https://dev.to/johalputt/trivy-deep-dive-snyk-the-definitive-guide-to-container-scanning-for-engineers-2k78)
+- [Cross-Zone Load Balancing trên AWS NLB: Bài Học Từ Triển Khai RabbitMQ Trên EKS](https://dev.to/tan_loc/cross-zone-load-balancing-tren-aws-nlb-bai-hoc-tu-trien-khai-rabbitmq-tren-eks-m9m)
+- [How NGB Platform Works: Documents, Posting, Registers, and Reporting](https://dev.to/ngbplatform/how-ngb-platform-works-documents-posting-registers-and-reporting-5f4l)
+- [AI for Security and Security for AI - A deep dive into how AI is transforming cyber defense and why the AI itself urgently needs to be defended.](https://dev.to/soumya_k19/ai-for-security-and-security-for-ai-a-deep-dive-into-how-ai-is-transforming-cyber-defense-and-why-4c3m)
 <!-- BLOG-POST-LIST:END -->
 
 
