@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Size, Length e Count: Qual a diferença?](https://dev.to/ewertoncodes/size-length-e-count-qual-a-diferenca-5g54)
-- [Cyber Immunity in the AI Era](https://dev.to/tidefoundation/cyber-immunity-in-the-ai-era-3ble)
-- [Size, Length e Count: Qual a diferença?](https://dev.to/ewertoncodes/size-length-e-count-qual-a-diferenca-3m8a)
-- [I Sent Out 30 Resumes As A Developer. I Heard Back From 2.](https://dev.to/a95yman/i-sent-out-30-resumes-as-a-developer-i-heard-back-from-2-50cd)
+- [Global Distributed Consensus: The Missing Piece in Kubernetes](https://dev.to/david_aronchick_ea415de50/global-distributed-consensus-the-missing-piece-in-kubernetes-2i2g)
+- [Bridging the Gap: Future Directions for Kubernetes and Distributed Systems](https://dev.to/david_aronchick_ea415de50/bridging-the-gap-future-directions-for-kubernetes-and-distributed-systems-f7o)
+- [The 800 Million Weekly ChatGPT Users Who Are Just Getting Started](https://dev.to/david_aronchick_ea415de50/the-800-million-weekly-chatgpt-users-who-are-just-getting-started-9bo)
+- [Stop Your AI Agents From Crashing, Looping, and Burning Through Tokens](https://dev.to/pavelgj/stop-your-ai-agents-from-crashing-looping-and-burning-through-tokens-2g70)
 <!-- BLOG-POST-LIST:END -->
 
 
