@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Postmortem: AI Incident Classifier Failed Due to Biased Training Data and Scikit-Learn 1.5](https://dev.to/johalputt/postmortem-ai-incident-classifier-failed-due-to-biased-training-data-and-scikit-learn-15-opc)
-- [The First Agent-Led Wedge Worth Paying For: Bid Packet Triage for Mid-Market Vendors](https://dev.to/hetty_marin_dc66a1726df08/the-first-agent-led-wedge-worth-paying-for-bid-packet-triage-for-mid-market-vendors-4pei)
-- [I Got Tired of Slow, Ad-Filled Dev Tools — So I Built My Own](https://dev.to/fatima_farooq_67bdb055f97/i-got-tired-of-slow-ad-filled-dev-tools-so-i-built-my-own-3a85)
-- [Why Your Schneider PLC&#39;s Float32 Reads 1.4e-41 Instead of 25.5 C](https://dev.to/philyeh/why-your-schneider-plcs-float32-reads-14e-41-instead-of-255degc-44lg)
+- [Postmortem: How a Corrupted Node Modules Folder Caused 3-Hour Outage for Our CI Pipeline](https://dev.to/johalputt/postmortem-how-a-corrupted-node-modules-folder-caused-3-hour-outage-for-our-ci-pipeline-2fnm)
+- [I got tired of refreshing Telegram. So I built a bot that does it for me](https://dev.to/nomad4tech/i-got-tired-of-refreshing-telegram-so-i-built-a-bot-that-does-it-for-me-4aem)
+- [Day 91 of #100DaysOfCode — DevCollab: Next.js Setup and Authentication](https://dev.to/m_saad_ahmad/day-91-of-100daysofcode-devcollab-nextjs-setup-and-authentication-4plo)
+- [MCP Is a Great Start — But Multi-Agent Production Needs More](https://dev.to/jovansapfioneer/mcp-is-a-great-start-but-multi-agent-production-needs-more-38la)
 <!-- BLOG-POST-LIST:END -->
 
 
