@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI that scans, validates and audits your .env files and it works with any stack](https://dev.to/hossiy16/i-built-a-cli-that-scans-validates-and-audits-your-env-files-and-it-works-with-any-stack-2pi4)
-- [Your TypeScript Codebase Is Lying to You. Fallow Will Tell You the Truth.](https://dev.to/walosha/your-typescript-codebase-is-lying-to-you-fallow-will-tell-you-the-truth-17hf)
-- [Why Every AI Agent Needs a Cryptographic Identity](https://dev.to/verisigilai/why-every-ai-agent-needs-a-cryptographic-identity-33kb)
-- [Testing Sagas with Real Failure Scenarios](https://dev.to/pedrop3/testing-sagas-with-real-failure-scenarios-mog)
+- [Size, Length e Count: Qual a diferença?](https://dev.to/ewertoncodes/size-length-e-count-qual-a-diferenca-5g54)
+- [Cyber Immunity in the AI Era](https://dev.to/tidefoundation/cyber-immunity-in-the-ai-era-3ble)
+- [Size, Length e Count: Qual a diferença?](https://dev.to/ewertoncodes/size-length-e-count-qual-a-diferenca-3m8a)
+- [I Sent Out 30 Resumes As A Developer. I Heard Back From 2.](https://dev.to/a95yman/i-sent-out-30-resumes-as-a-developer-i-heard-back-from-2-50cd)
 <!-- BLOG-POST-LIST:END -->
 
 
