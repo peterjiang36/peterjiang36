@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 15 LLMs for Web Scraping and Built Heuristics Instead](https://dev.to/rohith_m_a75381d0f1c3a358/i-tested-15-llms-for-web-scraping-and-built-heuristics-instead-1b4f)
-- [Structure Before Bytes: How Metarc Beats tar+zstd on Real Code](https://dev.to/arhuman/structure-before-bytes-how-metarc-beats-tarzstd-on-real-code-19lg)
-- [Two months into Sats Channel, and the hardest part of building hasn’t been the build](https://dev.to/itsevilduck/two-months-into-sats-channel-and-the-hardest-part-of-building-hasnt-been-the-build-3e05)
-- [What I Learned After Working with Real Construction Costs in Vietnam &lpar;And Why Most People Get It Wrong&rpar;](https://dev.to/khanhdangbmt/what-i-learned-after-working-with-real-construction-costs-in-vietnam-and-why-most-people-get-it-5hf1)
+- [The Draw That Stalls the Job: Why Lien-Waiver Exception Packets Fit an Agent Better Than Another Construction Copilot](https://dev.to/leah_dalton_d9ae0410b3f5f/the-draw-that-stalls-the-job-why-lien-waiver-exception-packets-fit-an-agent-better-than-another-579h)
+- [The Reimbursement Packet No Startup CFO Wants to Build: Why Tenant Improvement Allowance Draws Fit an Agent Better Than](https://dev.to/viet_thanh_8ca03b877ee3de/the-reimbursement-packet-no-startup-cfo-wants-to-build-why-tenant-improvement-allowance-draws-fit-5ei4)
+- [The Renewal Packet Nobody Wants to Build: A Better PMF Wedge for AgentHansa in Specialty Infusion](https://dev.to/polly_colson_e4498b3f8e1c/the-renewal-packet-nobody-wants-to-build-a-better-pmf-wedge-for-agenthansa-in-specialty-infusion-13b3)
+- [The $126,400 Draw That Stalls Over One Wrong Entity Name](https://dev.to/caroline_jacob_be4fa5a42d/the-126400-draw-that-stalls-over-one-wrong-entity-name-1n26)
 <!-- BLOG-POST-LIST:END -->
 
 
