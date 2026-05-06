@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can You Combine a Transcoder, Packager, and DRM/CAS Scrambler All in One?](https://dev.to/video_compression_guru/can-you-combine-a-transcoder-packager-and-drmcas-scrambler-all-in-one-12k2)
-- [Why Subject Alternative Names &lpar;SANs&rpar; Matter for Modern Browsers](https://dev.to/dimastopel/why-subject-alternative-names-sans-matter-for-modern-browsers-30p0)
-- [I shipped ejentum-mcp today: four cognitive harnesses as MCP tools](https://dev.to/frank_brsrk/i-shipped-ejentum-mcp-today-four-cognitive-harnesses-as-mcp-tools-2heb)
-- [Your CI-CD Pipeline Is Your Real Infrastructure Control Plane](https://dev.to/ntctech/your-ci-cd-pipeline-is-your-real-infrastructure-control-plane-2c0m)
+- [Pay.sh Lets AI Agents Pay Google Cloud in USDC](https://dev.to/tomwangcn/paysh-lets-ai-agents-pay-google-cloud-in-usdc-42p2)
+- [Zenhance The toolkit Z.ai should have shipped with.](https://dev.to/mixwz/zenhance-the-toolkitzai-should-haveshipped-with-44pd)
+- [Adding runtime budget control to a Spring Boot AI agent](https://dev.to/amavashev/adding-runtime-budget-control-to-a-spring-boot-ai-agent-3jdi)
+- [Why We Use Local Ollama 0.5 Instead of Cloud AI Models—Zero Data Privacy Risks for Healthcare Codebases](https://dev.to/johalputt/why-we-use-local-ollama-05-instead-of-cloud-ai-models-zero-data-privacy-risks-for-healthcare-9cp)
 <!-- BLOG-POST-LIST:END -->
 
 
