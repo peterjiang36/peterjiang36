@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forkline: Building AI runners for engineering teams](https://dev.to/pando85/forkline-building-ai-runners-for-engineering-teams-4oea)
-- [LeetCode 819: Most Common Word — Simple Explanation with Carry Logic &lpar;Java&rpar;](https://dev.to/jerin_babu/leetcode-819-most-common-word-simple-explanation-with-carry-logic-java-190e)
-- [Try the MindMapVault FOSS Interactive Canvas &lpar;Privacy‑First, Local‑Only Mind Mapping&rpar;](https://dev.to/kornel_maraz_5e66a3e4e27d/try-the-mindmapvault-foss-interactive-canvas-privacy-first-local-only-mind-mapping-52c2)
-- [Nobody Talks About How Lonely Being a Developer Can Be](https://dev.to/web_dev-usman/nobody-talks-about-how-lonely-being-a-developer-can-be-j3h)
+- [The Room Migration Mistake That Crashed Every User&#39;s App](https://dev.to/suridevs_861b8a311a101be4/the-room-migration-mistake-that-crashed-every-users-app-3b40)
+- [Breaking the &quot;Desk-Lock&quot;: A Linux Veteran’s Blueprint for Walking Programming and Productivity Reconstruction](https://dev.to/lcmd007/breaking-the-desk-lock-a-linux-veterans-blueprint-for-walking-programming-and-productivity-2696)
+- [How I stopped Claude Code from hallucinating 42% of my React Code](https://dev.to/malik_chohra/how-i-stopped-claude-code-from-hallucinating-42-of-my-react-code-41ki)
+- [White Label Capability Framework: Brand Domain](https://dev.to/iwhitelabel/white-label-capability-framework-domain-1-brand-2nb8)
 <!-- BLOG-POST-LIST:END -->
 
 
