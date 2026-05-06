@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Deployed My First Cloudflare Worker — Here&#39;s What I Learned](https://dev.to/kielltampubolon/i-deployed-my-first-cloudflare-worker-heres-what-i-learned-hcf)
-- [Announcing LightningChart JS 8.3: sunburst charts, multithreading, new dashboards](https://dev.to/omar_lightningchart/announcing-lightningchart-js-83-sunburst-charts-multithreading-new-dashboards-1a76)
-- [I Thought I Understood State Management in React. Then a Memory Leak Happened.](https://dev.to/kielltampubolon/i-thought-i-understood-state-management-in-react-then-a-memory-leak-happened-14g3)
-- [When Manual Wins](https://dev.to/chaitanya_burgupalli_9bb1/when-manual-wins-36nf)
+- [Can You Combine a Transcoder, Packager, and DRM/CAS Scrambler All in One?](https://dev.to/video_compression_guru/can-you-combine-a-transcoder-packager-and-drmcas-scrambler-all-in-one-12k2)
+- [Why Subject Alternative Names &lpar;SANs&rpar; Matter for Modern Browsers](https://dev.to/dimastopel/why-subject-alternative-names-sans-matter-for-modern-browsers-30p0)
+- [I shipped ejentum-mcp today: four cognitive harnesses as MCP tools](https://dev.to/frank_brsrk/i-shipped-ejentum-mcp-today-four-cognitive-harnesses-as-mcp-tools-2heb)
+- [Your CI-CD Pipeline Is Your Real Infrastructure Control Plane](https://dev.to/ntctech/your-ci-cd-pipeline-is-your-real-infrastructure-control-plane-2c0m)
 <!-- BLOG-POST-LIST:END -->
 
 
