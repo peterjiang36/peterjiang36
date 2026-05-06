@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pay.sh Lets AI Agents Pay Google Cloud in USDC](https://dev.to/tomwangcn/paysh-lets-ai-agents-pay-google-cloud-in-usdc-42p2)
-- [Zenhance The toolkit Z.ai should have shipped with.](https://dev.to/mixwz/zenhance-the-toolkitzai-should-haveshipped-with-44pd)
-- [Adding runtime budget control to a Spring Boot AI agent](https://dev.to/amavashev/adding-runtime-budget-control-to-a-spring-boot-ai-agent-3jdi)
-- [Why We Use Local Ollama 0.5 Instead of Cloud AI Models—Zero Data Privacy Risks for Healthcare Codebases](https://dev.to/johalputt/why-we-use-local-ollama-05-instead-of-cloud-ai-models-zero-data-privacy-risks-for-healthcare-9cp)
+- [Build Secure Multi-Agent Systems With CrewAI and Descope](https://dev.to/descope/build-secure-multi-agent-systems-with-crewai-and-descope-51e3)
+- [Tools vs Resources in MCP &lpar;A Subtle Difference That Matters&rpar;](https://dev.to/saras_growth_space/tools-vs-resources-in-mcp-a-subtle-difference-that-matters-1ogh)
+- [AgentCore Harness runs your agent. ShapeV2 controls what it&#39;s allowed to do](https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab)
+- [Add Refresh Tokens to Your Hono OIDC Server &lpar;with Token Rotation&rpar;](https://dev.to/shygyver/add-refresh-tokens-to-your-hono-oidc-server-with-token-rotation-4nm9)
 <!-- BLOG-POST-LIST:END -->
 
 
