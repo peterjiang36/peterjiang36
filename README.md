@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is TokenMix? One API Key, 171 AI Models, Zero Platform Fee](https://dev.to/tokenmixai/what-is-tokenmix-one-api-key-171-ai-models-zero-platform-fee-3b7l)
-- [How much can a Front-end Developer learn about Machine Learning using only JavaScript?](https://dev.to/developerrsa/how-much-can-a-front-end-developer-learn-about-machine-learning-using-only-javascript-2lc6)
-- [Como Testar Agentes de IA que Chamam suas APIs Sem Perder Dados](https://dev.to/lucas_ferreira/como-testar-agentes-de-ia-que-chamam-suas-apis-sem-perder-dados-355k)
-- [Understanding React Virtual DOM Internally](https://dev.to/shivam_yadav_8e22bf5bf987/understanding-react-virtual-dom-internally-1hjd)
+- [I Deployed My First Cloudflare Worker — Here&#39;s What I Learned](https://dev.to/kielltampubolon/i-deployed-my-first-cloudflare-worker-heres-what-i-learned-hcf)
+- [Announcing LightningChart JS 8.3: sunburst charts, multithreading, new dashboards](https://dev.to/omar_lightningchart/announcing-lightningchart-js-83-sunburst-charts-multithreading-new-dashboards-1a76)
+- [I Thought I Understood State Management in React. Then a Memory Leak Happened.](https://dev.to/kielltampubolon/i-thought-i-understood-state-management-in-react-then-a-memory-leak-happened-14g3)
+- [When Manual Wins](https://dev.to/chaitanya_burgupalli_9bb1/when-manual-wins-36nf)
 <!-- BLOG-POST-LIST:END -->
 
 
