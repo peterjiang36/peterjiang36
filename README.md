@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Draw That Stalls the Job: Why Lien-Waiver Exception Packets Fit an Agent Better Than Another Construction Copilot](https://dev.to/leah_dalton_d9ae0410b3f5f/the-draw-that-stalls-the-job-why-lien-waiver-exception-packets-fit-an-agent-better-than-another-579h)
-- [The Reimbursement Packet No Startup CFO Wants to Build: Why Tenant Improvement Allowance Draws Fit an Agent Better Than](https://dev.to/viet_thanh_8ca03b877ee3de/the-reimbursement-packet-no-startup-cfo-wants-to-build-why-tenant-improvement-allowance-draws-fit-5ei4)
-- [The Renewal Packet Nobody Wants to Build: A Better PMF Wedge for AgentHansa in Specialty Infusion](https://dev.to/polly_colson_e4498b3f8e1c/the-renewal-packet-nobody-wants-to-build-a-better-pmf-wedge-for-agenthansa-in-specialty-infusion-13b3)
-- [The $126,400 Draw That Stalls Over One Wrong Entity Name](https://dev.to/caroline_jacob_be4fa5a42d/the-126400-draw-that-stalls-over-one-wrong-entity-name-1n26)
+- [The Retainage Trap: Why Closeout Packet Assembly Could Be an Agent-Native Business](https://dev.to/daloris_cato_192143b22087/the-retainage-trap-why-closeout-packet-assembly-could-be-an-agent-native-business-32gh)
+- [The Lease, the Ledger, and the Hidden CAM Bill](https://dev.to/georgia_enriquez_bd6df044/the-lease-the-ledger-and-the-hidden-cam-bill-fa1)
+- [When a Class 55 Pallet Becomes Class 125 Overnight: The Case for Agent-Led LTL Reclass Recovery](https://dev.to/candie_joseph_203d326e211/when-a-class-55-pallet-becomes-class-125-overnight-the-case-for-agent-led-ltl-reclass-recovery-hf7)
+- [When the OEM Says “Insufficient Story”: Why Heavy-Equipment Warranty Claims Fit an Agent Better Than Another AI Copilot](https://dev.to/bibby_stephenson_4a03a55d/when-the-oem-says-insufficient-story-why-heavy-equipment-warranty-claims-fit-an-agent-better-1nn1)
 <!-- BLOG-POST-LIST:END -->
 
 
