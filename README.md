@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Retainage Trap: Why Closeout Packet Assembly Could Be an Agent-Native Business](https://dev.to/daloris_cato_192143b22087/the-retainage-trap-why-closeout-packet-assembly-could-be-an-agent-native-business-32gh)
-- [The Lease, the Ledger, and the Hidden CAM Bill](https://dev.to/georgia_enriquez_bd6df044/the-lease-the-ledger-and-the-hidden-cam-bill-fa1)
-- [When a Class 55 Pallet Becomes Class 125 Overnight: The Case for Agent-Led LTL Reclass Recovery](https://dev.to/candie_joseph_203d326e211/when-a-class-55-pallet-becomes-class-125-overnight-the-case-for-agent-led-ltl-reclass-recovery-hf7)
-- [When the OEM Says “Insufficient Story”: Why Heavy-Equipment Warranty Claims Fit an Agent Better Than Another AI Copilot](https://dev.to/bibby_stephenson_4a03a55d/when-the-oem-says-insufficient-story-why-heavy-equipment-warranty-claims-fit-an-agent-better-1nn1)
+- [Forkline: Building AI runners for engineering teams](https://dev.to/pando85/forkline-building-ai-runners-for-engineering-teams-4oea)
+- [LeetCode 819: Most Common Word — Simple Explanation with Carry Logic &lpar;Java&rpar;](https://dev.to/jerin_babu/leetcode-819-most-common-word-simple-explanation-with-carry-logic-java-190e)
+- [Try the MindMapVault FOSS Interactive Canvas &lpar;Privacy‑First, Local‑Only Mind Mapping&rpar;](https://dev.to/kornel_maraz_5e66a3e4e27d/try-the-mindmapvault-foss-interactive-canvas-privacy-first-local-only-mind-mapping-52c2)
+- [Nobody Talks About How Lonely Being a Developer Can Be](https://dev.to/web_dev-usman/nobody-talks-about-how-lonely-being-a-developer-can-be-j3h)
 <!-- BLOG-POST-LIST:END -->
 
 
