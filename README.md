@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Limit The Number Of Words Or Characters Shown With SFMC&#39;s AMPscript](https://dev.to/ampscript-ninja/how-to-limit-the-number-of-words-or-characters-shown-with-sfmcs-ampscript-3jk2)
-- [Django Ninja Made Simple — 2nd Edition is Now Live](https://dev.to/bensylvester/django-ninja-made-simple-2nd-edition-is-now-live-16aa)
-- [When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬](https://dev.to/shubham_gupta_decf96a6ab2/when-a-simple-streaming-bug-turned-into-a-deep-engineering-lesson-22mi)
-- [Pre GSoC — Finding My Way to CircuitVerse](https://dev.to/magic-peach/pre-gsoc-finding-my-way-to-circuitverse-5045)
+- [SwiftDeploy: Building a Self-Configuring DevOps Engine with Observability, Policy Enforcement &amp; Auditing](https://dev.to/georgeadaba/swiftdeploy-building-a-self-configuring-devops-engine-with-observability-policy-enforcement--1p7n)
+- [Introducing React Dojo - Learn React by Actually Practicing It](https://dev.to/dayanperez/introducing-react-dojo-learn-react-by-actually-practicing-it-4jp5)
+- [Predetermined change-control plans for AI/ML SaMD — how to make them audit-proof](https://dev.to/jwithfield_qa/predetermined-change-control-plans-for-aiml-samd-how-to-make-them-audit-proof-hmm)
+- [Gazing at a Crystal Ball](https://dev.to/ilyakaznacheev/gazing-at-a-crystal-ball-na8)
 <!-- BLOG-POST-LIST:END -->
 
 
