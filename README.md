@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Room Migration Mistake That Crashed Every User&#39;s App](https://dev.to/suridevs_861b8a311a101be4/the-room-migration-mistake-that-crashed-every-users-app-3b40)
-- [Breaking the &quot;Desk-Lock&quot;: A Linux Veteran’s Blueprint for Walking Programming and Productivity Reconstruction](https://dev.to/lcmd007/breaking-the-desk-lock-a-linux-veterans-blueprint-for-walking-programming-and-productivity-2696)
-- [How I stopped Claude Code from hallucinating 42% of my React Code](https://dev.to/malik_chohra/how-i-stopped-claude-code-from-hallucinating-42-of-my-react-code-41ki)
-- [White Label Capability Framework: Brand Domain](https://dev.to/iwhitelabel/white-label-capability-framework-domain-1-brand-2nb8)
+- [Stop prompting Codex like ChatGPT](https://dev.to/joeyouss/stop-prompting-codex-like-chatgpt-5m4)
+- [I trained a sprite model with agents. The data was the bottleneck.](https://dev.to/danfking/i-trained-a-sprite-model-with-agents-the-data-was-the-bottleneck-16k6)
+- [From File-Driven to Multi-Agent Collaboration: A Unified Design for the WiseClaw Medical Agent Harness](https://dev.to/wisediag/from-file-driven-to-multi-agent-collaboration-a-unified-design-for-the-wiseclaw-medical-agent-2kjb)
+- [Sending Your First SOL Transfer &lpar;Devnet, via CLI&rpar;](https://dev.to/blackat/sending-your-first-sol-transfer-devnet-via-cli-1gdi)
 <!-- BLOG-POST-LIST:END -->
 
 
