@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons from Log4Shell: Building a CRA-Ready Log4j](https://dev.to/theasf/lessons-from-log4shell-building-a-cra-ready-log4j-j43)
-- [Generative Simulation Benchmarking for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-during-mission-critical-1ef6)
-- [Stop Credentialing Your AI Agents Like It&#39;s 2019](https://dev.to/t_devonartis_c9f34e5721/stop-credentialing-your-ai-agents-like-its-2019-ec9)
-- [Three Security Issues Specific to Multi-Agent AI Systems &lpar;OWASP Agentic AI Top 10&rpar;](https://dev.to/ashutoshrana/the-owasp-agentic-ai-top-10-three-attacks-that-actually-happen-in-production-with-code-38o7)
+- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
+- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
+- [Introducing Cossmology: a Map of the Commercial OSS Universe](https://dev.to/sabirchinstrap/introducing-cossmology-a-map-of-the-commercial-oss-universe-406n)
+- [[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology](https://dev.to/_d2a1ea24c442526a9777/fabcon-atlanta-2026-report-my-take-on-fabric-iq-ontology-4hp3)
 <!-- BLOG-POST-LIST:END -->
 
 
