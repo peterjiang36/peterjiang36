@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftDeploy: Building a Self-Governing Deployment Tool with OPA, Prometheus, and a Single YAML File](https://dev.to/trojanhorse7/swiftdeploy-building-a-self-governing-deployment-tool-with-opa-prometheus-and-a-single-yaml-file-50cp)
-- [I built a PDF + Image + Invoice API platform — free tier, no card required](https://dev.to/forgelabafrica/i-built-a-pdf-image-invoice-api-platform-free-tier-no-card-required-4le4)
-- [How I Built a Screenshot API That Doesn&#39;t Suck](https://dev.to/namornimash/how-i-built-a-screenshot-api-that-doesnt-suck-7a2)
-- [How I, knowing only IF, vibecoded CivicSurvival: a 158K-line mod for Cities: Skylines II, a RAG server, and 300 analyzers in 3 months](https://dev.to/valentyn_kurchenkohai_7f/how-i-knowing-only-if-vibecoded-civicsurvival-a-158k-line-mod-a-rag-server-and-300-analyzers-375c)
+- [How To Limit The Number Of Words Or Characters Shown With SFMC&#39;s AMPscript](https://dev.to/ampscript-ninja/how-to-limit-the-number-of-words-or-characters-shown-with-sfmcs-ampscript-3jk2)
+- [Django Ninja Made Simple — 2nd Edition is Now Live](https://dev.to/bensylvester/django-ninja-made-simple-2nd-edition-is-now-live-16aa)
+- [When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬](https://dev.to/shubham_gupta_decf96a6ab2/when-a-simple-streaming-bug-turned-into-a-deep-engineering-lesson-22mi)
+- [Pre GSoC — Finding My Way to CircuitVerse](https://dev.to/magic-peach/pre-gsoc-finding-my-way-to-circuitverse-5045)
 <!-- BLOG-POST-LIST:END -->
 
 
