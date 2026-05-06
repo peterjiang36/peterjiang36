@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Secure Multi-Agent Systems With CrewAI and Descope](https://dev.to/descope/build-secure-multi-agent-systems-with-crewai-and-descope-51e3)
-- [Tools vs Resources in MCP &lpar;A Subtle Difference That Matters&rpar;](https://dev.to/saras_growth_space/tools-vs-resources-in-mcp-a-subtle-difference-that-matters-1ogh)
-- [AgentCore Harness runs your agent. ShapeV2 controls what it&#39;s allowed to do](https://dev.to/vidanov/agentcore-harness-runs-your-agent-shapev2-controls-what-its-allowed-to-do-32ab)
-- [Add Refresh Tokens to Your Hono OIDC Server &lpar;with Token Rotation&rpar;](https://dev.to/shygyver/add-refresh-tokens-to-your-hono-oidc-server-with-token-rotation-4nm9)
+- [Stop Letting AI Write Your Database Migrations](https://dev.to/syedahmershah/stop-letting-ai-write-your-database-migrations-2a26)
+- [ChaoSim – A hiring sim for devs who hate LeetCode and resumes](https://dev.to/khadijat_raji_692606b4642/chaosim-a-hiring-sim-for-devs-who-hate-leetcode-and-resumes-5ei)
+- [Async Rust Never Left MVP: I Validated It Against My Real Codebase and Found Exactly the Edge Cases That HN Post Predicted](https://dev.to/jtorchia/async-rust-never-left-mvp-i-validated-it-against-my-real-codebase-and-found-exactly-the-edge-cases-2dod)
+- [Async Rust nunca salió del MVP: lo validé contra mi codebase real y encontré exactamente los edge cases que el post de HN predice](https://dev.to/jtorchia/async-rust-nunca-salio-del-mvp-lo-valide-contra-mi-codebase-real-y-encontre-exactamente-los-edge-1109)
 <!-- BLOG-POST-LIST:END -->
 
 
