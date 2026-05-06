@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI MUSIC APP](https://dev.to/sommyart_academy_864e9132/ai-music-app-232e)
-- [Starting Enterprise-wide Kafka Governance](https://dev.to/prasad_rane_dev/starting-enterprise-wide-kafka-governance-14e2)
-- [The best thing about Copilot - what some executives get wrong about AI](https://dev.to/andreas_mller_2fd27cf578/the-best-thing-about-copilot-what-some-executives-get-wrong-about-ai-4k78)
-- [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073)
+- [SwiftDeploy: Building a Self-Governing Deployment Tool with OPA, Prometheus, and a Single YAML File](https://dev.to/trojanhorse7/swiftdeploy-building-a-self-governing-deployment-tool-with-opa-prometheus-and-a-single-yaml-file-50cp)
+- [I built a PDF + Image + Invoice API platform — free tier, no card required](https://dev.to/forgelabafrica/i-built-a-pdf-image-invoice-api-platform-free-tier-no-card-required-4le4)
+- [How I Built a Screenshot API That Doesn&#39;t Suck](https://dev.to/namornimash/how-i-built-a-screenshot-api-that-doesnt-suck-7a2)
+- [How I, knowing only IF, vibecoded CivicSurvival: a 158K-line mod for Cities: Skylines II, a RAG server, and 300 analyzers in 3 months](https://dev.to/valentyn_kurchenkohai_7f/how-i-knowing-only-if-vibecoded-civicsurvival-a-158k-line-mod-a-rag-server-and-300-analyzers-375c)
 <!-- BLOG-POST-LIST:END -->
 
 
