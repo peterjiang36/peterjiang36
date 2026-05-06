@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [出口 NAT 端口耗尽排查实战：从间歇性超时到根因定位](https://dev.to/anatraf_482389aa982e/chu-kou-nat-duan-kou-hao-jin-pai-cha-shi-zhan-cong-jian-xie-xing-chao-shi-dao-gen-yin-ding-wei-5cgh)
-- [Amazon EKS Hybrid Nodes Gateway Deep Dive: VXLAN, Cilium VTEP, and Lease-Based Leader Election Redefining Hybrid Kubernetes Networking](https://dev.to/x4nent/amazon-eks-hybrid-nodes-gateway-deep-dive-vxlan-cilium-vtep-and-lease-based-leader-election-1mhg)
-- [How to Optimize BigQuery Costs &lpar;Real Techniques That Work&rpar;](https://dev.to/amaranarun/how-to-optimize-bigquery-costs-real-techniques-that-work-1c0h)
-- [Where to Syndicate Your Technical Blog Posts to Reach Developers in 2026 &lpar;What Actually Works&rpar;](https://dev.to/mohos74/where-to-syndicate-your-technical-blog-posts-to-reach-developers-in-2026-what-actually-works-100d)
+- [I Tested 15 LLMs for Web Scraping and Built Heuristics Instead](https://dev.to/rohith_m_a75381d0f1c3a358/i-tested-15-llms-for-web-scraping-and-built-heuristics-instead-1b4f)
+- [Structure Before Bytes: How Metarc Beats tar+zstd on Real Code](https://dev.to/arhuman/structure-before-bytes-how-metarc-beats-tarzstd-on-real-code-19lg)
+- [Two months into Sats Channel, and the hardest part of building hasn’t been the build](https://dev.to/itsevilduck/two-months-into-sats-channel-and-the-hardest-part-of-building-hasnt-been-the-build-3e05)
+- [What I Learned After Working with Real Construction Costs in Vietnam &lpar;And Why Most People Get It Wrong&rpar;](https://dev.to/khanhdangbmt/what-i-learned-after-working-with-real-construction-costs-in-vietnam-and-why-most-people-get-it-5hf1)
 <!-- BLOG-POST-LIST:END -->
 
 
