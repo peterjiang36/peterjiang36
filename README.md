@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftDeploy: Building a Self-Configuring DevOps Engine with Observability, Policy Enforcement &amp; Auditing](https://dev.to/georgeadaba/swiftdeploy-building-a-self-configuring-devops-engine-with-observability-policy-enforcement--1p7n)
-- [Introducing React Dojo - Learn React by Actually Practicing It](https://dev.to/dayanperez/introducing-react-dojo-learn-react-by-actually-practicing-it-4jp5)
-- [Predetermined change-control plans for AI/ML SaMD — how to make them audit-proof](https://dev.to/jwithfield_qa/predetermined-change-control-plans-for-aiml-samd-how-to-make-them-audit-proof-hmm)
-- [Gazing at a Crystal Ball](https://dev.to/ilyakaznacheev/gazing-at-a-crystal-ball-na8)
+- [I Spent a Week Fighting HTML-to-PDF. Here’s What Finally Worked.](https://dev.to/grahamsutton/i-spent-a-week-fighting-html-to-pdf-heres-what-finally-worked-4nfp)
+- [4 Open-Source Security Tools Every Dev Should Know](https://dev.to/lovestaco/4-open-source-security-tools-every-dev-should-know-35om)
+- [ICTPBX Released: White-Label, Multi-Tenant PBX Software Now Available for ITSPs and Service Providers](https://dev.to/tahiralmas/ictpbx-released-white-label-multi-tenant-pbx-software-now-available-for-itsps-and-service-33jj)
+- [Building a Skills Updater Pipeline for AI Platforms](https://dev.to/niclydon/building-a-skills-updater-pipeline-for-ai-platforms-2jan)
 <!-- BLOG-POST-LIST:END -->
 
 
