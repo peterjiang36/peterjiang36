@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an MCP server so AI agents can flash 1,000+ embedded boards](https://dev.to/tonythehacker/i-built-an-mcp-server-so-ai-agents-can-flash-1000-embedded-boards-5bbd)
-- [The Hidden TCO of Self-Hosting Your EC Revenue Dashboard in 2026](https://dev.to/toshihiro_shishido/the-hidden-tco-of-self-hosting-your-ec-revenue-dashboard-in-2026-3d6k)
-- [[Day 3] I Had a Local LLM Analyze a Year of My Credit Card Statements](https://dev.to/peppercorn_llm/day-3-i-had-a-local-llm-analyze-a-year-of-my-credit-card-statements-4eab)
-- [# How to Run Qwen3.6-35B on Your Mac at 77 tok/s](https://dev.to/oreocato/-how-to-run-qwen36-35b-on-your-mac-at-77-toks-49e8)
+- [出口 NAT 端口耗尽排查实战：从间歇性超时到根因定位](https://dev.to/anatraf_482389aa982e/chu-kou-nat-duan-kou-hao-jin-pai-cha-shi-zhan-cong-jian-xie-xing-chao-shi-dao-gen-yin-ding-wei-5cgh)
+- [Amazon EKS Hybrid Nodes Gateway Deep Dive: VXLAN, Cilium VTEP, and Lease-Based Leader Election Redefining Hybrid Kubernetes Networking](https://dev.to/x4nent/amazon-eks-hybrid-nodes-gateway-deep-dive-vxlan-cilium-vtep-and-lease-based-leader-election-1mhg)
+- [How to Optimize BigQuery Costs &lpar;Real Techniques That Work&rpar;](https://dev.to/amaranarun/how-to-optimize-bigquery-costs-real-techniques-that-work-1c0h)
+- [Where to Syndicate Your Technical Blog Posts to Reach Developers in 2026 &lpar;What Actually Works&rpar;](https://dev.to/mohos74/where-to-syndicate-your-technical-blog-posts-to-reach-developers-in-2026-what-actually-works-100d)
 <!-- BLOG-POST-LIST:END -->
 
 
