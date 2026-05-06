@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Letting AI Write Your Database Migrations](https://dev.to/syedahmershah/stop-letting-ai-write-your-database-migrations-2a26)
-- [ChaoSim – A hiring sim for devs who hate LeetCode and resumes](https://dev.to/khadijat_raji_692606b4642/chaosim-a-hiring-sim-for-devs-who-hate-leetcode-and-resumes-5ei)
-- [Async Rust Never Left MVP: I Validated It Against My Real Codebase and Found Exactly the Edge Cases That HN Post Predicted](https://dev.to/jtorchia/async-rust-never-left-mvp-i-validated-it-against-my-real-codebase-and-found-exactly-the-edge-cases-2dod)
-- [Async Rust nunca salió del MVP: lo validé contra mi codebase real y encontré exactamente los edge cases que el post de HN predice](https://dev.to/jtorchia/async-rust-nunca-salio-del-mvp-lo-valide-contra-mi-codebase-real-y-encontre-exactamente-los-edge-1109)
+- [AI MUSIC APP](https://dev.to/sommyart_academy_864e9132/ai-music-app-232e)
+- [Starting Enterprise-wide Kafka Governance](https://dev.to/prasad_rane_dev/starting-enterprise-wide-kafka-governance-14e2)
+- [The best thing about Copilot - what some executives get wrong about AI](https://dev.to/andreas_mller_2fd27cf578/the-best-thing-about-copilot-what-some-executives-get-wrong-about-ai-4k78)
+- [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073)
 <!-- BLOG-POST-LIST:END -->
 
 
