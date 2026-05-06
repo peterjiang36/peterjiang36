@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent a Week Fighting HTML-to-PDF. Here’s What Finally Worked.](https://dev.to/grahamsutton/i-spent-a-week-fighting-html-to-pdf-heres-what-finally-worked-4nfp)
-- [4 Open-Source Security Tools Every Dev Should Know](https://dev.to/lovestaco/4-open-source-security-tools-every-dev-should-know-35om)
-- [ICTPBX Released: White-Label, Multi-Tenant PBX Software Now Available for ITSPs and Service Providers](https://dev.to/tahiralmas/ictpbx-released-white-label-multi-tenant-pbx-software-now-available-for-itsps-and-service-33jj)
-- [Building a Skills Updater Pipeline for AI Platforms](https://dev.to/niclydon/building-a-skills-updater-pipeline-for-ai-platforms-2jan)
+- [Lessons from Log4Shell: Building a CRA-Ready Log4j](https://dev.to/theasf/lessons-from-log4shell-building-a-cra-ready-log4j-j43)
+- [Generative Simulation Benchmarking for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-during-mission-critical-1ef6)
+- [Stop Credentialing Your AI Agents Like It&#39;s 2019](https://dev.to/t_devonartis_c9f34e5721/stop-credentialing-your-ai-agents-like-its-2019-ec9)
+- [Three Security Issues Specific to Multi-Agent AI Systems &lpar;OWASP Agentic AI Top 10&rpar;](https://dev.to/ashutoshrana/the-owasp-agentic-ai-top-10-three-attacks-that-actually-happen-in-production-with-code-38o7)
 <!-- BLOG-POST-LIST:END -->
 
 
