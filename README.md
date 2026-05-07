@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Monitoring: Building AI-Powered Predictive Observability for Retail Data Pipelines published](https://dev.to/amaranarun/beyond-monitoring-building-ai-powered-predictive-observability-for-retail-data-pipelines-published-g43)
-- [Optimize benchmark in Next.js 15 vs Astro 4: What You Need to Know](https://dev.to/johalputt/optimize-benchmark-in-nextjs-15-vs-astro-4-what-you-need-to-know-4o1k)
-- [The dog that didn&#39;t bark: finding security holes in what&#39;s missing, not what&#39;s misconfigured](https://dev.to/bala_paranj_059d338e44e7e/the-dog-that-didnt-bark-finding-security-holes-in-whats-missing-not-whats-misconfigured-3d03)
-- [IaC: Automatización de Start/Stop en instancias EC2](https://dev.to/betzabesp94/iac-automatizacion-de-startstop-en-instancias-ec2-5835)
+- [An AI agent overwrote two of my browser tabs. The fix took three releases.](https://dev.to/achiya-automation/an-ai-agent-overwrote-two-of-my-browser-tabs-the-fix-took-three-releases-l2l)
+- [Short-Lived Credentials in Agentic Systems: A Practical Trade-off Guide](https://dev.to/gitguardian/short-lived-credentials-in-agentic-systems-a-practical-trade-off-guide-569c)
+- [Salesforce TDX 2026: The Rise of the Agentic Enterprise](https://dev.to/pranav_bharti/salesforce-tdx-2026-the-rise-of-the-agentic-enterprise-k0d)
+- [Why I Didn’t Let AI Handle My Scroll Animation: Astro, React, and TypeScript Architecture](https://dev.to/nyaomaru/why-i-didnt-let-ai-handle-my-scroll-animation-astro-react-and-typescript-architecture-37k2)
 <!-- BLOG-POST-LIST:END -->
 
 
