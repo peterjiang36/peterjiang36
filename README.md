@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Skip the RSpec examples you don&#39;t need: rspec-tracer 2.0 in pre-release](https://dev.to/avmnusng/skip-the-rspec-examples-you-dont-need-rspec-tracer-20-in-pre-release-1p7h)
-- [How to Speed Up Phrase Search with bigram_index](https://dev.to/sanikolaev/how-to-speed-up-phrase-search-with-bigramindex-l4f)
-- [Insufficient Requirements: The Surprise Pineapple on Your Software...Pizza](https://dev.to/spirosendgr/insufficient-requirements-the-surprise-pineapple-on-your-softwarepizza-46fi)
-- [29 automations Zapier + Make remplacées en quatre semaines](https://dev.to/michelfaure/29-automations-zapier-make-remplacees-en-quatre-semaines-3o1o)
+- [Hackeando una app para marcadores web](https://dev.to/baltasarq/hackeando-una-app-para-marcadores-web-4afk)
+- [Ansible state:latest Broke Payments for 47 Minutes — What Really Happened and How to Prevent It](https://dev.to/thecodeforge/ansible-statelatest-broke-payments-for-47-minutes-what-really-happened-and-how-to-prevent-it-150j)
+- [Which No-Code Bubble vs SaaS: Which Wins?](https://dev.to/johalputt/which-no-code-bubble-vs-saas-which-wins-43in)
+- [Wolverine + Marten: My random takes and updates](https://dev.to/manhhungtran/wolverine-marten-my-random-takes-and-updates-5e55)
 <!-- BLOG-POST-LIST:END -->
 
 
