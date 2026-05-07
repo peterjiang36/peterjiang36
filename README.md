@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Realtime deepfake software is a SaaS product now](https://dev.to/thoams_aidetection/realtime-deepfake-software-is-a-saas-product-now-13no)
-- [Las mejores herramientas gratuitas de monitoreo de sitios web &lpar;2026&rpar;: Sin tarjeta de crédito, sin rodeos](https://dev.to/guardlabs_team/las-mejores-herramientas-gratuitas-de-monitoreo-de-sitios-web-2026-sin-tarjeta-de-credito-sin-gcn)
-- [DuckLake 1.0: el formato de data lake que mueve el catálogo de archivos a SQL y promete 926 más velocidad que Iceberg](https://dev.to/lu1tr0n/ducklake-10-el-formato-de-data-lake-que-mueve-el-catalogo-de-archivos-a-sql-y-promete-926x-mas-28h2)
-- [From Figma to Functional: Automating Component Scaffolding with Design Tokens for React, Vue, and Svelte](https://dev.to/jasonbiondo/from-figma-to-functional-automating-component-scaffolding-with-design-tokens-for-react-vue-and-34kn)
+- [I Built a Free Firefox New Tab Extension with Live Weather and World Clocks](https://dev.to/wclockdash/i-built-a-free-firefox-new-tab-extension-with-live-weather-and-world-clocks-2bp1)
+- [I was a half-builder](https://dev.to/deeflect/i-was-a-half-builder-47e9)
+- [WordPress / WooCommerce Checkout Anti-Fraud — 9 Production-Tested Defenses &lpar;2026&rpar;](https://dev.to/guardlabs_team/wordpress-woocommerce-checkout-anti-fraud-9-production-tested-defenses-2026-35b6)
+- [How to Make Your Website AI-Agent Readable in 2026 &lpar;llms.txt, MCP Cards, Structured Data&rpar;](https://dev.to/guardlabs_team/how-to-make-your-website-ai-agent-readable-in-2026-llmstxt-mcp-cards-structured-data-m8m)
 <!-- BLOG-POST-LIST:END -->
 
 
