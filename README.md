@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2.45 Billion Requests, 1.2 Million IPs: Why Traditional Rate Limiting Is Dead](https://dev.to/dimitrisk_cyclopt/245-billion-requests-12-million-ips-why-traditional-rate-limiting-is-dead-mjf)
-- [From Hackathon to a Product in a Year](https://dev.to/zerodays/from-hackathon-to-a-product-in-a-year-4ia7)
-- [Docker hardening : durcir un conteneur en profondeur, du Dockerfile au daemon](https://dev.to/hadimouter/docker-hardening-durcir-un-conteneur-en-profondeur-du-dockerfile-au-daemon-3blm)
-- [I got tired of using the terminal to launch emulators, so I built a free system tray GUI to manage them.](https://dev.to/coreyess/how-i-eliminated-the-command-line-from-my-mobile-testing-workflow-2ip8)
+- [Skip the RSpec examples you don&#39;t need: rspec-tracer 2.0 in pre-release](https://dev.to/avmnusng/skip-the-rspec-examples-you-dont-need-rspec-tracer-20-in-pre-release-1p7h)
+- [How to Speed Up Phrase Search with bigram_index](https://dev.to/sanikolaev/how-to-speed-up-phrase-search-with-bigramindex-l4f)
+- [Insufficient Requirements: The Surprise Pineapple on Your Software...Pizza](https://dev.to/spirosendgr/insufficient-requirements-the-surprise-pineapple-on-your-softwarepizza-46fi)
+- [29 automations Zapier + Make remplacées en quatre semaines](https://dev.to/michelfaure/29-automations-zapier-make-remplacees-en-quatre-semaines-3o1o)
 <!-- BLOG-POST-LIST:END -->
 
 
