@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 26B is great at thinking, understands concepts clearly. Very wise in general.](https://dev.to/mekickdemonscreator/gemma-4-26b-is-great-at-thinking-bad-at-coding-and-its-helpfulness-training-fights-the-pinned-4a6g)
-- [Self-similar: a versatile folder pattern for code](https://dev.to/conw_y/self-similar-a-versatile-folder-pattern-for-code-d18)
-- [I Built a Real-Time DDoS Detection Engine from Scratch - Here&#39;s Every Decision I Made](https://dev.to/gbadedata/i-built-a-real-time-ddos-detection-engine-from-scratch-heres-every-decision-i-made-3jl1)
-- [Production AI Agents in Kubernetes: A 7-Control Checklist for Platform Teams](https://dev.to/shamsher_khan/production-ai-agents-in-kubernetes-a-7-control-checklist-for-platform-teams-4jd5)
+- [【2026年05月07日】AI Agent 编排的 5 个血腥教训：90% 的团队用错了安全策略 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/2026nian-05yue-07ri-ai-agent-bian-pai-de-5-ge-xie-xing-jiao-xun-90-de-tuan-dui-yong-cuo-liao-an-quan-ce-lue-3g67)
+- [Building AI Agents That Actually Execute Workflows, Not Just Answer Questions](https://dev.to/tactasai/building-ai-agents-that-actually-execute-workflows-not-just-answer-questions-2559)
+- [Essential JavaScript Skills for Modern Frontend EngineeringEssential JavaScript Skills for Modern Frontend Engineering](https://dev.to/fuadhusnan_f44f3e13/essential-javascript-skills-for-modern-frontend-engineeringessential-javascript-skills-for-modern-69d)
+- [Biometric login on React Native with Keychain](https://dev.to/aoligama/biometric-login-on-react-native-with-keychain-462j)
 <!-- BLOG-POST-LIST:END -->
 
 
