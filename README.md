@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [【2026年05月07日】AI Agent 编排的 5 个血腥教训：90% 的团队用错了安全策略 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/2026nian-05yue-07ri-ai-agent-bian-pai-de-5-ge-xie-xing-jiao-xun-90-de-tuan-dui-yong-cuo-liao-an-quan-ce-lue-3g67)
-- [Building AI Agents That Actually Execute Workflows, Not Just Answer Questions](https://dev.to/tactasai/building-ai-agents-that-actually-execute-workflows-not-just-answer-questions-2559)
-- [Essential JavaScript Skills for Modern Frontend EngineeringEssential JavaScript Skills for Modern Frontend Engineering](https://dev.to/fuadhusnan_f44f3e13/essential-javascript-skills-for-modern-frontend-engineeringessential-javascript-skills-for-modern-69d)
-- [Biometric login on React Native with Keychain](https://dev.to/aoligama/biometric-login-on-react-native-with-keychain-462j)
+- [Stop Letting SSD Performance Rot: Practical `fstrim.timer` on Linux](https://dev.to/lyraalishaikh/stop-letting-ssd-performance-rot-practical-fstrimtimer-on-linux-3ido)
+- [Argo Rollouts in Production: Canary, AnalysisTemplates, and the Gotchas Nobody Documents](https://dev.to/pingtoprod/argo-rollouts-in-production-canary-analysistemplates-and-the-gotchas-nobody-documents-10fi)
+- [Stateless scheduler doubles LLM training speed](https://dev.to/olaughter/stateless-scheduler-doubles-llm-training-speed-nfp)
+- [Google deindexed half of my Next.js site. Here&#39;s the four-phase recovery.](https://dev.to/gaspricecheck/google-deindexed-half-of-my-nextjs-site-heres-the-four-phase-recovery-284j)
 <!-- BLOG-POST-LIST:END -->
 
 
