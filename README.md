@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hackeando una app para marcadores web](https://dev.to/baltasarq/hackeando-una-app-para-marcadores-web-4afk)
-- [Ansible state:latest Broke Payments for 47 Minutes — What Really Happened and How to Prevent It](https://dev.to/thecodeforge/ansible-statelatest-broke-payments-for-47-minutes-what-really-happened-and-how-to-prevent-it-150j)
-- [Which No-Code Bubble vs SaaS: Which Wins?](https://dev.to/johalputt/which-no-code-bubble-vs-saas-which-wins-43in)
-- [Wolverine + Marten: My random takes and updates](https://dev.to/manhhungtran/wolverine-marten-my-random-takes-and-updates-5e55)
+- [Beyond Monitoring: Building AI-Powered Predictive Observability for Retail Data Pipelines published](https://dev.to/amaranarun/beyond-monitoring-building-ai-powered-predictive-observability-for-retail-data-pipelines-published-g43)
+- [Optimize benchmark in Next.js 15 vs Astro 4: What You Need to Know](https://dev.to/johalputt/optimize-benchmark-in-nextjs-15-vs-astro-4-what-you-need-to-know-4o1k)
+- [The dog that didn&#39;t bark: finding security holes in what&#39;s missing, not what&#39;s misconfigured](https://dev.to/bala_paranj_059d338e44e7e/the-dog-that-didnt-bark-finding-security-holes-in-whats-missing-not-whats-misconfigured-3d03)
+- [IaC: Automatización de Start/Stop en instancias EC2](https://dev.to/betzabesp94/iac-automatizacion-de-startstop-en-instancias-ec2-5835)
 <!-- BLOG-POST-LIST:END -->
 
 
