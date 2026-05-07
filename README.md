@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Economics of Self-Hosting vs. Managed Monitoring](https://dev.to/samson_tanimawo/the-economics-of-self-hosting-vs-managed-monitoring-2hl8)
-- [&quot;You Got This Error Last Week&quot; — Building an AI That Remembers Your Past Errors](https://dev.to/hiyoyok/you-got-this-error-last-week-building-an-ai-that-remembers-your-past-errors-1gmp)
-- [Serverless GPUs: Giải Pháp Triển Khai Mô Hình AI &quot;Ngon - Bổ - Rẻ&quot; Cho Developer](https://dev.to/itprepvn/serverless-gpus-giai-phap-trien-khai-mo-hinh-ai-ngon-bo-re-cho-developer-216g)
-- [Vulnerability Scan vs Penetration Test: What Small Teams Actually Need](https://dev.to/stanleya/vulnerability-scan-vs-penetration-test-what-small-teams-actually-need-45mg)
+- [I Built a Free Spanish Math Calculator That Shows Every Step](https://dev.to/faseeh_urrehman_ec82cc2f/i-built-a-free-spanish-math-calculator-that-shows-every-step-2j6b)
+- [How to sync large amounts of contacts from the HubSpot API](https://dev.to/nangohq/how-to-sync-large-amounts-of-contacts-from-the-hubspot-api-2acm)
+- [The Local Eye &lpar;Sovereign Vision&rpar;](https://dev.to/kenwalger/the-local-eye-sovereign-vision-2h4h)
+- [Beyond English: Why AI-Verified Desi Ilaaj is the Unfollowable Moat in Health AI &lpar;Day 13/30&rpar;](https://dev.to/pururva_agarwal_49847572a/beyond-english-why-ai-verified-desi-ilaaj-is-the-unfollowable-moat-in-health-ai-day-1330-4ahp)
 <!-- BLOG-POST-LIST:END -->
 
 
