@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Crypto Bots Get Sandwiched &lpar;And How to Prevent It&rpar;](https://dev.to/apollo_ag/why-most-crypto-bots-get-sandwiched-and-how-to-prevent-it-a2e)
-- [Better Prompts Won&#39;t Fix Your AI Agents — Infrastructure Will](https://dev.to/vystartasv/better-prompts-wont-fix-your-ai-agents-infrastructure-will-543e)
-- [Why Django CBVs Feel Confusing - And How to Stop Fighting Them](https://dev.to/h_coder/why-django-cbvs-feel-confusing-and-how-to-stop-fighting-them-3898)
-- [Building a Local AI SEO Agent with Gemma, Ollama, Docker, and React](https://dev.to/avraham_aminov_542e8309b6/building-a-local-ai-seo-agent-with-gemma-ollama-docker-and-react-303j)
+- [Realtime deepfake software is a SaaS product now](https://dev.to/thoams_aidetection/realtime-deepfake-software-is-a-saas-product-now-13no)
+- [Las mejores herramientas gratuitas de monitoreo de sitios web &lpar;2026&rpar;: Sin tarjeta de crédito, sin rodeos](https://dev.to/guardlabs_team/las-mejores-herramientas-gratuitas-de-monitoreo-de-sitios-web-2026-sin-tarjeta-de-credito-sin-gcn)
+- [DuckLake 1.0: el formato de data lake que mueve el catálogo de archivos a SQL y promete 926 más velocidad que Iceberg](https://dev.to/lu1tr0n/ducklake-10-el-formato-de-data-lake-que-mueve-el-catalogo-de-archivos-a-sql-y-promete-926x-mas-28h2)
+- [From Figma to Functional: Automating Component Scaffolding with Design Tokens for React, Vue, and Svelte](https://dev.to/jasonbiondo/from-figma-to-functional-automating-component-scaffolding-with-design-tokens-for-react-vue-and-34kn)
 <!-- BLOG-POST-LIST:END -->
 
 
