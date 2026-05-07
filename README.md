@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Code Review Keeps Flagging the Wrong Things &lpar;and How to Fix It&rpar;](https://dev.to/martinlepage26bit/why-ai-code-review-keeps-flagging-the-wrong-things-and-how-to-fix-it-4j2e)
-- [Writing Custom SAST Rules for Vulnerabilities Your Scanner Doesn&#39;t Cover](https://dev.to/pgmpofu/writing-custom-sast-rules-for-vulnerabilities-your-scanner-doesnt-cover-5hhi)
-- [I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper](https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo)
-- [Embed These Websites In Your Blog Today](https://dev.to/aws/embed-these-websites-in-your-blog-today-286p)
+- [5 React Native Errors That Cost Me Hours &lpar;And How I Finally Fixed Them&rpar;](https://dev.to/asta_dev/5-react-native-errors-that-cost-me-hours-and-how-i-finally-fixed-them-d21)
+- [How the founder of Elogic Commerce deployed AI agents inside a 200-person ecommerce agency and what actually moved the P&amp;L](https://dev.to/elogic_commerce/how-the-founder-of-elogic-commerce-deployed-ai-agents-inside-a-200-person-ecommerce-agency-and-what-7lh)
+- [I Cut My Claude Code Token Usage by 94% With This Open Source Tool](https://dev.to/rajkumarsakthi/i-cut-my-claude-code-token-usage-by-94-with-this-open-source-tool-h9l)
+- [Computers and upgrades](https://dev.to/unsungnovelty/computers-and-upgrades-3n7f)
 <!-- BLOG-POST-LIST:END -->
 
 
