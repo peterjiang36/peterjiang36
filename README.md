@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG with EF Core and pgvector](https://dev.to/lukaswalter/rag-with-ef-core-and-pgvector-fge)
-- [The Hidden Cost of “Quick Fixes” in Enterprise Systems](https://dev.to/dhruvi_21/the-hidden-cost-of-quick-fixes-in-enterprise-systems-258j)
-- [Cloudflare Tunnel, Traefik, and a Cleaner Self-Hosted Setup](https://dev.to/semiherdogan/cloudflare-tunnel-traefik-and-a-cleaner-self-hosted-setup-546l)
-- [Devbox: The First Nix-Based Tool That Felt Practical](https://dev.to/semiherdogan/devbox-the-first-nix-based-tool-that-felt-practical-4mbb)
+- [The Economics of Self-Hosting vs. Managed Monitoring](https://dev.to/samson_tanimawo/the-economics-of-self-hosting-vs-managed-monitoring-2hl8)
+- [&quot;You Got This Error Last Week&quot; — Building an AI That Remembers Your Past Errors](https://dev.to/hiyoyok/you-got-this-error-last-week-building-an-ai-that-remembers-your-past-errors-1gmp)
+- [Serverless GPUs: Giải Pháp Triển Khai Mô Hình AI &quot;Ngon - Bổ - Rẻ&quot; Cho Developer](https://dev.to/itprepvn/serverless-gpus-giai-phap-trien-khai-mo-hinh-ai-ngon-bo-re-cho-developer-216g)
+- [Vulnerability Scan vs Penetration Test: What Small Teams Actually Need](https://dev.to/stanleya/vulnerability-scan-vs-penetration-test-what-small-teams-actually-need-45mg)
 <!-- BLOG-POST-LIST:END -->
 
 
