@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI agent overwrote two of my browser tabs. The fix took three releases.](https://dev.to/achiya-automation/an-ai-agent-overwrote-two-of-my-browser-tabs-the-fix-took-three-releases-l2l)
-- [Short-Lived Credentials in Agentic Systems: A Practical Trade-off Guide](https://dev.to/gitguardian/short-lived-credentials-in-agentic-systems-a-practical-trade-off-guide-569c)
-- [Salesforce TDX 2026: The Rise of the Agentic Enterprise](https://dev.to/pranav_bharti/salesforce-tdx-2026-the-rise-of-the-agentic-enterprise-k0d)
-- [Why I Didn’t Let AI Handle My Scroll Animation: Astro, React, and TypeScript Architecture](https://dev.to/nyaomaru/why-i-didnt-let-ai-handle-my-scroll-animation-astro-react-and-typescript-architecture-37k2)
+- [RAG with EF Core and pgvector](https://dev.to/lukaswalter/rag-with-ef-core-and-pgvector-fge)
+- [The Hidden Cost of “Quick Fixes” in Enterprise Systems](https://dev.to/dhruvi_21/the-hidden-cost-of-quick-fixes-in-enterprise-systems-258j)
+- [Cloudflare Tunnel, Traefik, and a Cleaner Self-Hosted Setup](https://dev.to/semiherdogan/cloudflare-tunnel-traefik-and-a-cleaner-self-hosted-setup-546l)
+- [Devbox: The First Nix-Based Tool That Felt Practical](https://dev.to/semiherdogan/devbox-the-first-nix-based-tool-that-felt-practical-4mbb)
 <!-- BLOG-POST-LIST:END -->
 
 
