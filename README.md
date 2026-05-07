@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 React Native Errors That Cost Me Hours &lpar;And How I Finally Fixed Them&rpar;](https://dev.to/asta_dev/5-react-native-errors-that-cost-me-hours-and-how-i-finally-fixed-them-d21)
-- [How the founder of Elogic Commerce deployed AI agents inside a 200-person ecommerce agency and what actually moved the P&amp;L](https://dev.to/elogic_commerce/how-the-founder-of-elogic-commerce-deployed-ai-agents-inside-a-200-person-ecommerce-agency-and-what-7lh)
-- [I Cut My Claude Code Token Usage by 94% With This Open Source Tool](https://dev.to/rajkumarsakthi/i-cut-my-claude-code-token-usage-by-94-with-this-open-source-tool-h9l)
-- [Computers and upgrades](https://dev.to/unsungnovelty/computers-and-upgrades-3n7f)
+- [EU AI Act Compliance Checklist for AI Agents &lpar;87 Days Until Enforcement&rpar;](https://dev.to/verisigilai/eu-ai-act-compliance-checklist-for-ai-agents-87-days-until-enforcement-3m1a)
+- [TypeScript strict Mode Is 8 Flags. Turn strictNullChecks On Last.](https://dev.to/gabrielanhaia/typescript-strict-mode-is-8-flags-turn-strictnullchecks-on-last-52mj)
+- [Stop Guessing &#39;chmod&#39; I Built a Free Visual Permissions Builder for Linux](https://dev.to/bashsnippets/stop-guessing-chmod-i-built-a-free-visual-permissions-builder-for-linux-2m1a)
+- [Gemma-4-26B on v6e-4 TPU Benchmarks](https://dev.to/xbill/gemma-4-26b-on-v6e-4-tpu-benchmarks-3cah)
 <!-- BLOG-POST-LIST:END -->
 
 
