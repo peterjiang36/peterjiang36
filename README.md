@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
-- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
-- [Introducing Cossmology: a Map of the Commercial OSS Universe](https://dev.to/sabirchinstrap/introducing-cossmology-a-map-of-the-commercial-oss-universe-406n)
-- [[FabCon Atlanta 2026 Report] My Take on Fabric IQ Ontology](https://dev.to/_d2a1ea24c442526a9777/fabcon-atlanta-2026-report-my-take-on-fabric-iq-ontology-4hp3)
+- [Gemma 4 26B is great at thinking, understands concepts clearly. Very wise in general.](https://dev.to/mekickdemonscreator/gemma-4-26b-is-great-at-thinking-bad-at-coding-and-its-helpfulness-training-fights-the-pinned-4a6g)
+- [Self-similar: a versatile folder pattern for code](https://dev.to/conw_y/self-similar-a-versatile-folder-pattern-for-code-d18)
+- [I Built a Real-Time DDoS Detection Engine from Scratch - Here&#39;s Every Decision I Made](https://dev.to/gbadedata/i-built-a-real-time-ddos-detection-engine-from-scratch-heres-every-decision-i-made-3jl1)
+- [Production AI Agents in Kubernetes: A 7-Control Checklist for Platform Teams](https://dev.to/shamsher_khan/production-ai-agents-in-kubernetes-a-7-control-checklist-for-platform-teams-4jd5)
 <!-- BLOG-POST-LIST:END -->
 
 
