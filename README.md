@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Letting SSD Performance Rot: Practical `fstrim.timer` on Linux](https://dev.to/lyraalishaikh/stop-letting-ssd-performance-rot-practical-fstrimtimer-on-linux-3ido)
-- [Argo Rollouts in Production: Canary, AnalysisTemplates, and the Gotchas Nobody Documents](https://dev.to/pingtoprod/argo-rollouts-in-production-canary-analysistemplates-and-the-gotchas-nobody-documents-10fi)
-- [Stateless scheduler doubles LLM training speed](https://dev.to/olaughter/stateless-scheduler-doubles-llm-training-speed-nfp)
-- [Google deindexed half of my Next.js site. Here&#39;s the four-phase recovery.](https://dev.to/gaspricecheck/google-deindexed-half-of-my-nextjs-site-heres-the-four-phase-recovery-284j)
+- [2.45 Billion Requests, 1.2 Million IPs: Why Traditional Rate Limiting Is Dead](https://dev.to/dimitrisk_cyclopt/245-billion-requests-12-million-ips-why-traditional-rate-limiting-is-dead-mjf)
+- [From Hackathon to a Product in a Year](https://dev.to/zerodays/from-hackathon-to-a-product-in-a-year-4ia7)
+- [Docker hardening : durcir un conteneur en profondeur, du Dockerfile au daemon](https://dev.to/hadimouter/docker-hardening-durcir-un-conteneur-en-profondeur-du-dockerfile-au-daemon-3blm)
+- [I got tired of using the terminal to launch emulators, so I built a free system tray GUI to manage them.](https://dev.to/coreyess/how-i-eliminated-the-command-line-from-my-mobile-testing-workflow-2ip8)
 <!-- BLOG-POST-LIST:END -->
 
 
