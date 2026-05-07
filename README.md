@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Session VS Cookie Vs JWT](https://dev.to/shivam_yadav_8e22bf5bf987/session-vs-cookie-vs-jwt-1449)
-- [FULL STACK DEVELOPMENT DAY - 1](https://dev.to/bhuvanesh_t_b3231eae9dfb0/full-stack-development-day-1-kfe)
-- [The Best LLMs for Agentic Coding in 2026 &lpar;Real-World, Not Just Benchmarks&rpar;](https://dev.to/danishashko/the-best-llms-for-agentic-coding-in-2026-real-world-not-just-benchmarks-96n)
-- [Building AI Systems for Healthcare: My Journey into Applied Machine Learning and Software Engineering](https://dev.to/enochlabs/building-ai-systems-for-healthcare-my-journey-into-applied-machine-learning-and-software-2151)
+- [Why AI Code Review Keeps Flagging the Wrong Things &lpar;and How to Fix It&rpar;](https://dev.to/martinlepage26bit/why-ai-code-review-keeps-flagging-the-wrong-things-and-how-to-fix-it-4j2e)
+- [Writing Custom SAST Rules for Vulnerabilities Your Scanner Doesn&#39;t Cover](https://dev.to/pgmpofu/writing-custom-sast-rules-for-vulnerabilities-your-scanner-doesnt-cover-5hhi)
+- [I Replaced My $500 GPU with a $75 Raspberry Pi: How Gemma 4 Makes Computer Vision 10x Cheaper](https://dev.to/tahosin/i-replaced-my-500-gpu-with-a-75-raspberry-pi-how-gemma-4-makes-computer-vision-10x-cheaper-1gbo)
+- [Embed These Websites In Your Blog Today](https://dev.to/aws/embed-these-websites-in-your-blog-today-286p)
 <!-- BLOG-POST-LIST:END -->
 
 
