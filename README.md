@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Claude Code Harness Engineering Guide &lpar;5 Layers, 8 Deep-Dives&rpar;](https://dev.to/shipwithaiio/the-complete-claude-code-harness-engineering-guide-5-layers-8-deep-dives-3d4j)
-- [Kotlin 2.0 vs Python 3.13: The Definitive Guide to benchmark in Production](https://dev.to/johalputt/kotlin-20-vs-python-313-the-definitive-guide-to-benchmark-in-production-46gj)
-- [🔬 Building Skin Lab Rx: Bringing Clinical AI to the Browser](https://dev.to/jmoncayopursuit/building-skin-lab-rx-bringing-clinical-ai-to-the-browser-kdb)
-- [After the Skill Vault: 3 More Hidden Token Sinks in Claude Code](https://dev.to/pponali/after-the-skill-vault-3-more-hidden-token-sinks-in-claude-code-32ek)
+- [One Open Source Project a Day &lpar;No. 59&rpar;: Claude for Financial Services - Anthropic&#39;s Official AI Agent Suite for Finance](https://dev.to/wonderlab/one-open-source-project-a-day-no-59-claude-for-financial-services-anthropics-official-ai-3k86)
+- [Node.js with AWS SDK v3 – A Complete Integration Guide](https://dev.to/dineshgowdam2610/nodejs-with-aws-sdk-v3-a-complete-integration-guide-263g)
+- [Deep Dive Two-Factor Authentication vs Passkeys: A Head-to-Head](https://dev.to/johalputt/deep-dive-two-factor-authentication-vs-passkeys-a-head-to-head-5bbg)
+- [Implementing Cellular Observability: AWS CloudWatch Cross-Account Observability vs. Azure Monitor Shared Dashboards](https://dev.to/sertaoseracloud/implementing-cellular-observability-aws-cloudwatch-cross-account-observability-vs-azure-monitor-3n2i)
 <!-- BLOG-POST-LIST:END -->
 
 
