@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔬 AI for Scientific Discovery in the Real World: What Gemma 4 Changes The Moment AI Leaves the Chat Window](https://dev.to/muhammad_yasin_f39f26989f/ai-for-scientific-discovery-in-the-real-world-what-gemma-4-changes-the-moment-ai-leaves-the-4aai)
-- [Deterministic Guardrails for Non-Deterministic Agents](https://dev.to/anna_danilec/deterministic-guardrails-for-non-deterministic-agents-127b)
-- [5 types of engineers I met as a Technical Writer](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak)
-- [Most Email Verifiers Lie About Outlook Addresses. Here&#39;s Why.](https://dev.to/pavel_stoletov_21/most-email-verifiers-lie-about-outlook-addresses-heres-why-3pe7)
+- [1minMLOps #2 :Versioning your data with DVC](https://dev.to/goodnight/1minmlops-2-versioning-your-data-with-dvc-2o0d)
+- [Prisma vs Eloquent, how to think about the two](https://dev.to/edriso/prisma-vs-eloquent-how-to-think-about-the-two-3fon)
+- [Finally, I&#39;ve fixed my AI workflow](https://dev.to/arielonoriaga/finally-ive-fixed-my-ai-workflow-1opo)
+- [After the Guardrail That Saved My Infrastructure: My Autonomous Agent Architecture in Production](https://dev.to/jtorchia/after-the-guardrail-that-saved-my-infrastructure-my-autonomous-agent-architecture-in-production-13mn)
 <!-- BLOG-POST-LIST:END -->
 
 
