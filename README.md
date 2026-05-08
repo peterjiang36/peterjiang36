@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Webhooks to x402: A Practical Migration Guide for Developers](https://dev.to/allanmangeni/from-webhooks-to-x402-a-practical-migration-guide-for-developers-114m)
-- [Mnemara v0.10.1 — when asyncio meets a 64 KB pipe buffer](https://dev.to/mekickdemonscreator/mnemara-v0101-when-asyncio-meets-a-64-kb-pipe-buffer-2i2h)
-- [I Thought I Understood AWS - Until I Walked Into a Data Center](https://dev.to/amresh-giri/i-thought-i-understood-aws-until-i-walked-into-a-data-center-48lk)
-- [Master the in demand of salary negotiation and system design: What Fails](https://dev.to/johalputt/master-the-in-demand-of-salary-negotiation-and-system-design-what-fails-354n)
+- [🔬 AI for Scientific Discovery in the Real World: What Gemma 4 Changes The Moment AI Leaves the Chat Window](https://dev.to/muhammad_yasin_f39f26989f/ai-for-scientific-discovery-in-the-real-world-what-gemma-4-changes-the-moment-ai-leaves-the-4aai)
+- [Deterministic Guardrails for Non-Deterministic Agents](https://dev.to/anna_danilec/deterministic-guardrails-for-non-deterministic-agents-127b)
+- [5 types of engineers I met as a Technical Writer](https://dev.to/klaudiagrz/5-types-of-engineers-i-met-as-a-technical-writer-1gak)
+- [Most Email Verifiers Lie About Outlook Addresses. Here&#39;s Why.](https://dev.to/pavel_stoletov_21/most-email-verifiers-lie-about-outlook-addresses-heres-why-3pe7)
 <!-- BLOG-POST-LIST:END -->
 
 
