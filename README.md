@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
-- [Full Stack Authentication in 2026 with Better Auth, Drizzle, Neon, Shadcn UI, and Next.js](https://dev.to/iampandit/full-stack-authentication-in-2026-with-better-auth-drizzle-neon-shadcn-ui-and-nextjs-32nb)
-- [The Protective Legitimacy Score: How to Tell Whether a Trust Claim Is Structural](https://dev.to/crisiscoresystems/the-protective-legitimacy-score-how-to-tell-whether-a-trust-claim-is-structural-1lgm)
-- [The 5 Client Red Flags You&#39;ll Only Spot in the Discovery Call](https://dev.to/lisasakura/the-5-client-red-flags-youll-only-spot-in-the-discovery-call-b89)
+- [Why Higher-Order Engineering Skills May Matter Even More in the Age of AI](https://dev.to/ms_74/why-higher-order-engineering-skills-may-matter-even-more-in-the-age-of-ai-o85)
+- [I Built a Local-First VSCode Code Mentor with Gemma 4 — Your Code Never Leaves Your Machine](https://dev.to/theelmix/i-built-a-local-first-vscode-code-mentor-with-gemma-4-your-code-never-leaves-your-machine-143c)
+- [Zero-Config DNS and Monitoring for Your Traefik Homelab](https://dev.to/wolf361/zero-config-dns-and-monitoring-for-your-traefik-homelab-2ph2)
+- [Is ChatGPT / OpenAi down?](https://dev.to/safdarali25/is-ai-down-today-full-status-report-for-chatgpt-claude-gemini-more-1i4g)
 <!-- BLOG-POST-LIST:END -->
 
 
