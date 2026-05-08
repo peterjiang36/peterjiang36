@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Firefox New Tab Extension with Live Weather and World Clocks](https://dev.to/wclockdash/i-built-a-free-firefox-new-tab-extension-with-live-weather-and-world-clocks-2bp1)
-- [I was a half-builder](https://dev.to/deeflect/i-was-a-half-builder-47e9)
-- [WordPress / WooCommerce Checkout Anti-Fraud — 9 Production-Tested Defenses &lpar;2026&rpar;](https://dev.to/guardlabs_team/wordpress-woocommerce-checkout-anti-fraud-9-production-tested-defenses-2026-35b6)
-- [How to Make Your Website AI-Agent Readable in 2026 &lpar;llms.txt, MCP Cards, Structured Data&rpar;](https://dev.to/guardlabs_team/how-to-make-your-website-ai-agent-readable-in-2026-llmstxt-mcp-cards-structured-data-m8m)
+- [The Complete Claude Code Harness Engineering Guide &lpar;5 Layers, 8 Deep-Dives&rpar;](https://dev.to/shipwithaiio/the-complete-claude-code-harness-engineering-guide-5-layers-8-deep-dives-3d4j)
+- [Kotlin 2.0 vs Python 3.13: The Definitive Guide to benchmark in Production](https://dev.to/johalputt/kotlin-20-vs-python-313-the-definitive-guide-to-benchmark-in-production-46gj)
+- [🔬 Building Skin Lab Rx: Bringing Clinical AI to the Browser](https://dev.to/jmoncayopursuit/building-skin-lab-rx-bringing-clinical-ai-to-the-browser-kdb)
+- [After the Skill Vault: 3 More Hidden Token Sinks in Claude Code](https://dev.to/pponali/after-the-skill-vault-3-more-hidden-token-sinks-in-claude-code-32ek)
 <!-- BLOG-POST-LIST:END -->
 
 
