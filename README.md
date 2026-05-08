@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Open Source Project a Day &lpar;No. 59&rpar;: Claude for Financial Services - Anthropic&#39;s Official AI Agent Suite for Finance](https://dev.to/wonderlab/one-open-source-project-a-day-no-59-claude-for-financial-services-anthropics-official-ai-3k86)
-- [Node.js with AWS SDK v3 – A Complete Integration Guide](https://dev.to/dineshgowdam2610/nodejs-with-aws-sdk-v3-a-complete-integration-guide-263g)
-- [Deep Dive Two-Factor Authentication vs Passkeys: A Head-to-Head](https://dev.to/johalputt/deep-dive-two-factor-authentication-vs-passkeys-a-head-to-head-5bbg)
-- [Implementing Cellular Observability: AWS CloudWatch Cross-Account Observability vs. Azure Monitor Shared Dashboards](https://dev.to/sertaoseracloud/implementing-cellular-observability-aws-cloudwatch-cross-account-observability-vs-azure-monitor-3n2i)
+- [Closed Frontier Cyber AI vs Open Defensive Tools: Real-World Comparison 2026](https://dev.to/bean_bean/closed-frontier-cyber-ai-vs-open-defensive-tools-real-world-comparison-2026-gd)
+- [The Definitive Guide to optimization in React Server Components vs GraphQL: What You Need to Know](https://dev.to/johalputt/the-definitive-guide-to-optimization-in-react-server-components-vs-graphql-what-you-need-to-know-468m)
+- [Physics‑based adaptation slashes edge LLM energy](https://dev.to/olaughter/physics-based-adaptation-slashes-edge-llm-energy-484d)
+- [Mood UI](https://dev.to/agpsalgado/mood-ui-2hpa)
 <!-- BLOG-POST-LIST:END -->
 
 
