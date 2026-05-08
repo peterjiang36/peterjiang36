@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Agent Live on My VPS for Three Weeks](https://dev.to/arthurpro/i-let-an-ai-agent-live-on-my-vps-for-three-weeks-4nj1)
-- [Handling File Uploads in Express with Multer](https://dev.to/shivam_yadav_8e22bf5bf987/handling-file-uploads-in-express-with-multer-4fon)
-- [`setTimeout&lpar;&rpar;` Is NOT Part of JavaScript](https://dev.to/codewithishwar/settimeout-is-not-part-of-javascript-52ef)
-- [Code Review Best Practices: How to Give and Receive Feedback That Actually Improves Code](https://dev.to/_6638a39c349d7e9c85ee20/code-review-best-practices-how-to-give-and-receive-feedback-that-actually-improves-code-1cnf)
+- [From Scripts to Systems: What Learning Kestra Taught Me About Workflow Orchestration](https://dev.to/shogun_the_grt/from-scripts-to-systems-what-learning-kestra-taught-me-about-workflow-orchestration-5575)
+- [Welcome to the DEVengers Organization! A group of Extraordinary Individuals that Influenced Dev.to the platform has ever seen!](https://dev.to/devengers/welcome-to-the-devengers-organization-a-group-of-extraordinary-individuals-that-influenced-devto-4ifb)
+- [I built a free AI Flowchart Studio — just launched today! 🚀](https://dev.to/yuva_kunaal/i-built-a-free-ai-flowchart-studio-just-launched-today-46bl)
+- [Meta needed 50+ AI agents to map their tribal knowledge. The most durable piece of their stack is the part you can build today.](https://dev.to/danielwe/meta-needed-50-ai-agents-to-map-their-tribal-knowledge-the-most-durable-piece-of-their-stack-is-li7)
 <!-- BLOG-POST-LIST:END -->
 
 
