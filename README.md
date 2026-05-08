@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Valentina Studio v17.3 supports new VARIANT field type of DuckDB v1.5](https://dev.to/zasukhin/valentina-studio-v173-supports-new-variant-field-type-of-duckdb-v15-2gc4)
-- [Kubernetes NetworkPolicy: controlando quem fala com quem dentro do cluster 🔐☸️](https://dev.to/deividferraz/kubernetes-networkpolicy-controlando-quem-fala-com-quem-dentro-do-cluster-2l1a)
-- [Gemma 4 Under the Hood: Multimodality, PLE, and the 128K Context Revolution](https://dev.to/vermashaurya/gemma-4-under-the-hood-multimodality-ple-and-the-128k-context-revolution-o97)
-- [dsk++ — I rewrote a forgotten DeepSeek library to be fully async &lpar;and added a bunch of stuff&rpar;](https://dev.to/fundiman/dsk-i-rewrote-a-forgotten-deepseek-library-to-be-fully-async-and-added-a-bunch-of-stuff-4bek)
+- [Clipboard API Fails in TypeScript: The 4 Cases Nobody Documents and How I Found Them in My Own Code](https://dev.to/jtorchia/clipboard-api-fails-in-typescript-the-4-cases-nobody-documents-and-how-i-found-them-in-my-own-code-33m6)
+- [Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código](https://dev.to/jtorchia/clipboard-api-falla-en-typescript-los-4-casos-que-nadie-documenta-y-como-los-encontre-en-mi-codigo-4a4d)
+- [Your parity gate must enforce the number you publish: a testing methodology for porting ML models across runtimes](https://dev.to/nivdvir/your-parity-gate-must-enforce-the-number-you-publish-a-testing-methodology-for-porting-ml-models-j4g)
+- [RFM Segmentation for B2B SaaS: The 11-Segment Model That Changed Our Clients&#39; Retention](https://dev.to/alexboissonneault/rfm-segmentation-for-b2b-saas-the-11-segment-model-that-changed-our-clients-retention-910)
 <!-- BLOG-POST-LIST:END -->
 
 
