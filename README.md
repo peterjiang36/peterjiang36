@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Higher-Order Engineering Skills May Matter Even More in the Age of AI](https://dev.to/ms_74/why-higher-order-engineering-skills-may-matter-even-more-in-the-age-of-ai-o85)
-- [I Built a Local-First VSCode Code Mentor with Gemma 4 — Your Code Never Leaves Your Machine](https://dev.to/theelmix/i-built-a-local-first-vscode-code-mentor-with-gemma-4-your-code-never-leaves-your-machine-143c)
-- [Zero-Config DNS and Monitoring for Your Traefik Homelab](https://dev.to/wolf361/zero-config-dns-and-monitoring-for-your-traefik-homelab-2ph2)
-- [Is ChatGPT / OpenAi down?](https://dev.to/safdarali25/is-ai-down-today-full-status-report-for-chatgpt-claude-gemini-more-1i4g)
+- [Why Most Side Projects Die Before Launch](https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-3jb7)
+- [Off Autopilot #2: human-written articles about agentic coding](https://dev.to/sidkh/off-autopilot-2-human-written-articles-about-agentic-coding-2iab)
+- [Just rebuilt both VEXR Ultra and Sovereign Forge from the ground up. New UI across both platforms — unified blue/purple design language, blacklight purple bubbles, fixed rotating V watermark, identity defense against model overrides, HTML preview panel, 15](https://dev.to/scuradimensions/just-rebuilt-both-vexr-ultra-and-sovereign-forge-from-the-ground-up-new-ui-across-both-platforms--lhd)
 <!-- BLOG-POST-LIST:END -->
 
 
