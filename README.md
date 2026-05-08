@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Adoption Coping Guide Nobody Wrote &lpar;But Everyone Needs&rpar;](https://dev.to/ariauser13/the-ai-adoption-coping-guide-nobody-wrote-but-everyone-needs-40ig)
-- [Primeiro Projeto.](https://dev.to/victorjesus090/primeiro-projeto-f75)
-- [The Mobile Architect: Bridging the AI Gap Without a PC](https://dev.to/joseph_otim_a7d3205ba4abd/the-mobile-architect-bridging-the-ai-gap-without-a-pc-218g)
-- [Your Support Tickets Are a Documentation Backlog in Disguise](https://dev.to/bipin_rimal314/your-support-tickets-are-a-documentation-backlog-in-disguise-ekj)
+- [Valentina Studio v17.3 supports new VARIANT field type of DuckDB v1.5](https://dev.to/zasukhin/valentina-studio-v173-supports-new-variant-field-type-of-duckdb-v15-2gc4)
+- [Kubernetes NetworkPolicy: controlando quem fala com quem dentro do cluster 🔐☸️](https://dev.to/deividferraz/kubernetes-networkpolicy-controlando-quem-fala-com-quem-dentro-do-cluster-2l1a)
+- [Gemma 4 Under the Hood: Multimodality, PLE, and the 128K Context Revolution](https://dev.to/vermashaurya/gemma-4-under-the-hood-multimodality-ple-and-the-128k-context-revolution-o97)
+- [dsk++ — I rewrote a forgotten DeepSeek library to be fully async &lpar;and added a bunch of stuff&rpar;](https://dev.to/fundiman/dsk-i-rewrote-a-forgotten-deepseek-library-to-be-fully-async-and-added-a-bunch-of-stuff-4bek)
 <!-- BLOG-POST-LIST:END -->
 
 
