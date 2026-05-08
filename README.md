@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced Datadog With a 10MB Monitoring Tool &lpar;Here&#39;s What Happened&rpar;](https://dev.to/vikasprogrammer/i-replaced-datadog-with-a-10mb-monitoring-tool-heres-what-happened-471c)
-- [What Your Agent Will Cost You on a Tuesday](https://dev.to/praveen_govi_ai/what-your-agent-will-cost-you-on-a-tuesday-2dk8)
-- [I tried simplifying how people start selling online — here’s what I built](https://dev.to/nelson_macharia_54a2e910f/i-tried-simplifying-how-people-start-selling-online-heres-what-i-built-npj)
-- [Astro 4 and React Server Components: The Unexpected benchmark for Security](https://dev.to/johalputt/astro-4-and-react-server-components-the-unexpected-benchmark-for-security-e5k)
+- [There Is No “Best” LLM in 2026 — Only Context-Driven Choices](https://dev.to/rabia_amaaouch_8b193d7fc4/there-is-no-best-llm-in-2026-only-context-driven-choices-4ecl)
+- [I Built an MD5 Hash Generator Because Checksums Still Show Up Everywhere](https://dev.to/zley_34b5414ca5e486c1c333/i-built-an-md5-hash-generator-because-checksums-still-show-up-everywhere-51eb)
+- [Your VPN Might Be Leaking Your Real IP Through WebRTC](https://dev.to/myip_casa/your-vpn-might-be-leaking-your-real-ip-through-webrtc-46pk)
+- [PHP cURL Web Scraping: The Complete Working Guide](https://dev.to/phpspiderblog/php-curl-web-scraping-the-complete-working-guide-4ikn)
 <!-- BLOG-POST-LIST:END -->
 
 
