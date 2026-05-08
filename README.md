@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Process Hollowing Detection: Your RAM is your treasure!](https://dev.to/reign4eer/process-hollowing-detection-your-ram-is-your-treasure-4fj1)
-- [How We Made a 128-Arm Pattern Match Run 10 Faster](https://dev.to/byebyyanogawa/how-we-made-a-128-arm-pattern-match-run-10-faster-4k7)
-- [Eliminating Android ANRs in Production](https://dev.to/software_mvp-factory/eliminating-android-anrs-in-production-2ni9)
-- [PHP returning 500 HTTP Error on a parked domain](https://dev.to/timadey/php-returning-500-http-error-on-a-parked-domain-1066)
+- [Stop using UUID v4 as your database primary key](https://dev.to/mike_knights_2bd665cff58c/uuid-v7-is-here-why-you-should-stop-using-v4-for-database-primary-keys-l0a)
+- [The AI-First API Gateway: Why Your 2026 Strategy Needs More Than Just &quot;Management](https://dev.to/oshadha_pathiraja/the-ai-first-api-gateway-why-your-2026-strategy-needs-more-than-just-management-1pok)
+- [AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems](https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4)
+- [How to Use Claude API with Python: Complete Beginner&#39;s Guide &lpar;2026&rpar;](https://dev.to/kalyna_pro/how-to-use-claude-api-with-python-complete-beginners-guide-2026-1aeg)
 <!-- BLOG-POST-LIST:END -->
 
 
