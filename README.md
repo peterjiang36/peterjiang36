@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [There Is No “Best” LLM in 2026 — Only Context-Driven Choices](https://dev.to/rabia_amaaouch_8b193d7fc4/there-is-no-best-llm-in-2026-only-context-driven-choices-4ecl)
-- [I Built an MD5 Hash Generator Because Checksums Still Show Up Everywhere](https://dev.to/zley_34b5414ca5e486c1c333/i-built-an-md5-hash-generator-because-checksums-still-show-up-everywhere-51eb)
-- [Your VPN Might Be Leaking Your Real IP Through WebRTC](https://dev.to/myip_casa/your-vpn-might-be-leaking-your-real-ip-through-webrtc-46pk)
-- [PHP cURL Web Scraping: The Complete Working Guide](https://dev.to/phpspiderblog/php-curl-web-scraping-the-complete-working-guide-4ikn)
+- [Process Hollowing Detection: Your RAM is your treasure!](https://dev.to/reign4eer/process-hollowing-detection-your-ram-is-your-treasure-4fj1)
+- [How We Made a 128-Arm Pattern Match Run 10 Faster](https://dev.to/byebyyanogawa/how-we-made-a-128-arm-pattern-match-run-10-faster-4k7)
+- [Eliminating Android ANRs in Production](https://dev.to/software_mvp-factory/eliminating-android-anrs-in-production-2ni9)
+- [PHP returning 500 HTTP Error on a parked domain](https://dev.to/timadey/php-returning-500-http-error-on-a-parked-domain-1066)
 <!-- BLOG-POST-LIST:END -->
 
 
