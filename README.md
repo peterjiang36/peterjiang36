@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a CLI That Writes Its Own Docker Config — Then Taught It to Say No](https://dev.to/kelechi_uba_d8ec694684838/i-built-a-cli-that-writes-its-own-docker-config-then-taught-it-to-say-no-4on7)
-- [There Are Two Gaps. Agents Closed One. The Other Is Yours.](https://dev.to/alonsarias/there-are-two-gaps-agents-closed-one-the-other-is-yours-14fl)
-- [What Is Cursor AI? The Complete Guide to the AI-Native IDE &lpar;2026&rpar;](https://dev.to/sahil_khurana_486f374ecf2/what-is-cursor-ai-the-complete-guide-to-the-ai-native-ide-2026-3748)
-- [What is Prisma Client, and why do I have to keep running prisma generate?](https://dev.to/edriso/what-is-prisma-client-and-why-do-i-have-to-keep-running-prisma-generate-ihb)
+- [The AI Adoption Coping Guide Nobody Wrote &lpar;But Everyone Needs&rpar;](https://dev.to/ariauser13/the-ai-adoption-coping-guide-nobody-wrote-but-everyone-needs-40ig)
+- [Primeiro Projeto.](https://dev.to/victorjesus090/primeiro-projeto-f75)
+- [The Mobile Architect: Bridging the AI Gap Without a PC](https://dev.to/joseph_otim_a7d3205ba4abd/the-mobile-architect-bridging-the-ai-gap-without-a-pc-218g)
+- [Your Support Tickets Are a Documentation Backlog in Disguise](https://dev.to/bipin_rimal314/your-support-tickets-are-a-documentation-backlog-in-disguise-ekj)
 <!-- BLOG-POST-LIST:END -->
 
 
