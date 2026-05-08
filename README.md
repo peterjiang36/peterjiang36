@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clipboard API Fails in TypeScript: The 4 Cases Nobody Documents and How I Found Them in My Own Code](https://dev.to/jtorchia/clipboard-api-fails-in-typescript-the-4-cases-nobody-documents-and-how-i-found-them-in-my-own-code-33m6)
-- [Clipboard API falla en TypeScript: los 4 casos que nadie documenta y cómo los encontré en mi código](https://dev.to/jtorchia/clipboard-api-falla-en-typescript-los-4-casos-que-nadie-documenta-y-como-los-encontre-en-mi-codigo-4a4d)
-- [Your parity gate must enforce the number you publish: a testing methodology for porting ML models across runtimes](https://dev.to/nivdvir/your-parity-gate-must-enforce-the-number-you-publish-a-testing-methodology-for-porting-ml-models-j4g)
-- [RFM Segmentation for B2B SaaS: The 11-Segment Model That Changed Our Clients&#39; Retention](https://dev.to/alexboissonneault/rfm-segmentation-for-b2b-saas-the-11-segment-model-that-changed-our-clients-retention-910)
+- [I Let an AI Agent Live on My VPS for Three Weeks](https://dev.to/arthurpro/i-let-an-ai-agent-live-on-my-vps-for-three-weeks-4nj1)
+- [Handling File Uploads in Express with Multer](https://dev.to/shivam_yadav_8e22bf5bf987/handling-file-uploads-in-express-with-multer-4fon)
+- [`setTimeout&lpar;&rpar;` Is NOT Part of JavaScript](https://dev.to/codewithishwar/settimeout-is-not-part-of-javascript-52ef)
+- [Code Review Best Practices: How to Give and Receive Feedback That Actually Improves Code](https://dev.to/_6638a39c349d7e9c85ee20/code-review-best-practices-how-to-give-and-receive-feedback-that-actually-improves-code-1cnf)
 <!-- BLOG-POST-LIST:END -->
 
 
