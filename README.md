@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Closed Frontier Cyber AI vs Open Defensive Tools: Real-World Comparison 2026](https://dev.to/bean_bean/closed-frontier-cyber-ai-vs-open-defensive-tools-real-world-comparison-2026-gd)
-- [The Definitive Guide to optimization in React Server Components vs GraphQL: What You Need to Know](https://dev.to/johalputt/the-definitive-guide-to-optimization-in-react-server-components-vs-graphql-what-you-need-to-know-468m)
-- [Physics‑based adaptation slashes edge LLM energy](https://dev.to/olaughter/physics-based-adaptation-slashes-edge-llm-energy-484d)
-- [Mood UI](https://dev.to/agpsalgado/mood-ui-2hpa)
+- [I Replaced Datadog With a 10MB Monitoring Tool &lpar;Here&#39;s What Happened&rpar;](https://dev.to/vikasprogrammer/i-replaced-datadog-with-a-10mb-monitoring-tool-heres-what-happened-471c)
+- [What Your Agent Will Cost You on a Tuesday](https://dev.to/praveen_govi_ai/what-your-agent-will-cost-you-on-a-tuesday-2dk8)
+- [I tried simplifying how people start selling online — here’s what I built](https://dev.to/nelson_macharia_54a2e910f/i-tried-simplifying-how-people-start-selling-online-heres-what-i-built-npj)
+- [Astro 4 and React Server Components: The Unexpected benchmark for Security](https://dev.to/johalputt/astro-4-and-react-server-components-the-unexpected-benchmark-for-security-e5k)
 <!-- BLOG-POST-LIST:END -->
 
 
