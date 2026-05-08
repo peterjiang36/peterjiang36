@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Scripts to Systems: What Learning Kestra Taught Me About Workflow Orchestration](https://dev.to/shogun_the_grt/from-scripts-to-systems-what-learning-kestra-taught-me-about-workflow-orchestration-5575)
-- [Welcome to the DEVengers Organization! A group of Extraordinary Individuals that Influenced Dev.to the platform has ever seen!](https://dev.to/devengers/welcome-to-the-devengers-organization-a-group-of-extraordinary-individuals-that-influenced-devto-4ifb)
-- [I built a free AI Flowchart Studio — just launched today! 🚀](https://dev.to/yuva_kunaal/i-built-a-free-ai-flowchart-studio-just-launched-today-46bl)
-- [Meta needed 50+ AI agents to map their tribal knowledge. The most durable piece of their stack is the part you can build today.](https://dev.to/danielwe/meta-needed-50-ai-agents-to-map-their-tribal-knowledge-the-most-durable-piece-of-their-stack-is-li7)
+- [Autonomous Job Search AI: Engineering Ethics Into Multi-Agent Systems](https://dev.to/elenarevicheva/autonomous-job-search-ai-engineering-ethics-into-multi-agent-systems-2f1p)
+- [Error Handling in Go: Stop Panicking, Start Wrapping](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d)
+- [We built an MCP server for employment contracts — remote HTTP, QES/eIDAS, 12 tools](https://dev.to/iparker96/we-built-an-mcp-server-for-employment-contracts-remote-http-qeseidas-12-tools-4gh3)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-552i)
 <!-- BLOG-POST-LIST:END -->
 
 
