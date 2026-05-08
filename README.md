@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1minMLOps #2 :Versioning your data with DVC](https://dev.to/goodnight/1minmlops-2-versioning-your-data-with-dvc-2o0d)
-- [Prisma vs Eloquent, how to think about the two](https://dev.to/edriso/prisma-vs-eloquent-how-to-think-about-the-two-3fon)
-- [Finally, I&#39;ve fixed my AI workflow](https://dev.to/arielonoriaga/finally-ive-fixed-my-ai-workflow-1opo)
-- [After the Guardrail That Saved My Infrastructure: My Autonomous Agent Architecture in Production](https://dev.to/jtorchia/after-the-guardrail-that-saved-my-infrastructure-my-autonomous-agent-architecture-in-production-13mn)
+- [I Built a CLI That Writes Its Own Docker Config — Then Taught It to Say No](https://dev.to/kelechi_uba_d8ec694684838/i-built-a-cli-that-writes-its-own-docker-config-then-taught-it-to-say-no-4on7)
+- [There Are Two Gaps. Agents Closed One. The Other Is Yours.](https://dev.to/alonsarias/there-are-two-gaps-agents-closed-one-the-other-is-yours-14fl)
+- [What Is Cursor AI? The Complete Guide to the AI-Native IDE &lpar;2026&rpar;](https://dev.to/sahil_khurana_486f374ecf2/what-is-cursor-ai-the-complete-guide-to-the-ai-native-ide-2026-3748)
+- [What is Prisma Client, and why do I have to keep running prisma generate?](https://dev.to/edriso/what-is-prisma-client-and-why-do-i-have-to-keep-running-prisma-generate-ihb)
 <!-- BLOG-POST-LIST:END -->
 
 
