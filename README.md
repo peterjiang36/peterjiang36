@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Job Search AI: Engineering Ethics Into Multi-Agent Systems](https://dev.to/elenarevicheva/autonomous-job-search-ai-engineering-ethics-into-multi-agent-systems-2f1p)
-- [Error Handling in Go: Stop Panicking, Start Wrapping](https://dev.to/lovestaco/error-handling-in-go-stop-panicking-start-wrapping-351d)
-- [We built an MCP server for employment contracts — remote HTTP, QES/eIDAS, 12 tools](https://dev.to/iparker96/we-built-an-mcp-server-for-employment-contracts-remote-http-qeseidas-12-tools-4gh3)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-552i)
+- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
+- [Full Stack Authentication in 2026 with Better Auth, Drizzle, Neon, Shadcn UI, and Next.js](https://dev.to/iampandit/full-stack-authentication-in-2026-with-better-auth-drizzle-neon-shadcn-ui-and-nextjs-32nb)
+- [The Protective Legitimacy Score: How to Tell Whether a Trust Claim Is Structural](https://dev.to/crisiscoresystems/the-protective-legitimacy-score-how-to-tell-whether-a-trust-claim-is-structural-1lgm)
+- [The 5 Client Red Flags You&#39;ll Only Spot in the Discovery Call](https://dev.to/lisasakura/the-5-client-red-flags-youll-only-spot-in-the-discovery-call-b89)
 <!-- BLOG-POST-LIST:END -->
 
 
