@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop using UUID v4 as your database primary key](https://dev.to/mike_knights_2bd665cff58c/uuid-v7-is-here-why-you-should-stop-using-v4-for-database-primary-keys-l0a)
-- [The AI-First API Gateway: Why Your 2026 Strategy Needs More Than Just &quot;Management](https://dev.to/oshadha_pathiraja/the-ai-first-api-gateway-why-your-2026-strategy-needs-more-than-just-management-1pok)
-- [AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems](https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4)
-- [How to Use Claude API with Python: Complete Beginner&#39;s Guide &lpar;2026&rpar;](https://dev.to/kalyna_pro/how-to-use-claude-api-with-python-complete-beginners-guide-2026-1aeg)
+- [From Webhooks to x402: A Practical Migration Guide for Developers](https://dev.to/allanmangeni/from-webhooks-to-x402-a-practical-migration-guide-for-developers-114m)
+- [Mnemara v0.10.1 — when asyncio meets a 64 KB pipe buffer](https://dev.to/mekickdemonscreator/mnemara-v0101-when-asyncio-meets-a-64-kb-pipe-buffer-2i2h)
+- [I Thought I Understood AWS - Until I Walked Into a Data Center](https://dev.to/amresh-giri/i-thought-i-understood-aws-until-i-walked-into-a-data-center-48lk)
+- [Master the in demand of salary negotiation and system design: What Fails](https://dev.to/johalputt/master-the-in-demand-of-salary-negotiation-and-system-design-what-fails-354n)
 <!-- BLOG-POST-LIST:END -->
 
 
