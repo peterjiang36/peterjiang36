@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Side Projects Die Before Launch](https://dev.to/georgegoodluck/why-most-side-projects-die-before-launch-322l)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-3jb7)
-- [Off Autopilot #2: human-written articles about agentic coding](https://dev.to/sidkh/off-autopilot-2-human-written-articles-about-agentic-coding-2iab)
-- [Just rebuilt both VEXR Ultra and Sovereign Forge from the ground up. New UI across both platforms — unified blue/purple design language, blacklight purple bubbles, fixed rotating V watermark, identity defense against model overrides, HTML preview panel, 15](https://dev.to/scuradimensions/just-rebuilt-both-vexr-ultra-and-sovereign-forge-from-the-ground-up-new-ui-across-both-platforms--lhd)
+- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
+- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
+- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
+- [Modernizing Legacy Systems Using Agent Harnesses TDD and the Seam Model](https://dev.to/rafaeltedesco/modernizing-legacy-systems-using-agent-harnesses-tdd-and-the-seam-model-1f96)
 <!-- BLOG-POST-LIST:END -->
 
 
