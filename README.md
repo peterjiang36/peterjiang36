@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Character Keeps Breaking Under Pressure &lpar;And What I Built Instead of Yet Another System Prompt&rpar;](https://dev.to/kiro0x/why-your-ai-character-keeps-breaking-under-pressure-and-what-i-built-instead-of-yet-another-system-n4k)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-323d)
-- [Linux User and Group Management | Episode 3](https://dev.to/sunam007/linux-user-and-group-management-episode-3-347b)
-- [How I Use 50 AI Prompts to Save 10+ Hours Every Week as a Developer](https://dev.to/moodpa/how-i-use-50-ai-prompts-to-save-10-hours-every-week-as-a-developer-1j75)
+- [Say It With Flowers: BouqAIs with the Tussie-Mussie Generator](https://dev.to/cloudinary/say-it-with-flowers-bouqais-with-the-tussie-mussie-generator-3do0)
+- [Data Engineer Skills Companies Want in 2026: 6,877-Posting Analysis](https://dev.to/gnana_6392e836fd500a957dc/data-engineer-skills-companies-want-in-2026-6877-posting-analysis-44p9)
+- [Your LLM isn&#39;t lying to you. You just trusted it too much.](https://dev.to/sangam_ganeshbabu_c282d4/your-llm-isnt-lying-to-you-you-just-trusted-it-too-much-20k7)
+- [Yggdrasil Network as an Embedded GO Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
 <!-- BLOG-POST-LIST:END -->
 
 
