@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
-- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
-- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
-- [Modernizing Legacy Systems Using Agent Harnesses TDD and the Seam Model](https://dev.to/rafaeltedesco/modernizing-legacy-systems-using-agent-harnesses-tdd-and-the-seam-model-1f96)
+- [How Engineers Adapt Screen Workflows for Color Blindness: Tools, ICC Profiles, and Beyond](https://dev.to/maddy_404_/how-engineers-adapt-screen-workflows-for-color-blindness-tools-icc-profiles-and-beyond-3e6f)
+- [The Best Resources for Audio Stem Separation in Python &lpar;2026&rpar;](https://dev.to/stevecase430/the-best-resources-for-audio-stem-separation-in-python-2026-i5j)
+- [AI Is Breaking Two Vulnerability Cultures — And Vibe Coders Are About to Get Caught in the Middle](https://dev.to/layzerzero105/ai-is-breaking-two-vulnerability-cultures-and-vibe-coders-are-about-to-get-caught-in-the-middle-2j1e)
+- [AI-Powered Development: Building in Minutes, Not Days](https://dev.to/ranjancse/ai-powered-development-building-in-minutes-not-days-1f5f)
 <!-- BLOG-POST-LIST:END -->
 
 
