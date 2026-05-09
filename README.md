@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DNSSEC: The Developer&#39;s Setup Guide &lpar;2026&rpar;](https://dev.to/rronyecz/dnssec-the-developers-setup-guide-2026-4hlj)
-- [Designing public vs. private state: what goes where and why](https://dev.to/tosin_akinbowa_0f25bbbd6f/-designing-public-vs-private-state-what-goes-where-and-why-bmk)
-- [O que é ACID?](https://dev.to/ewertoncodes/o-que-e-acid-3e23)
-- [&quot;Just shipped a free AI Image Compressor. No login. No nonsense. Drop your image, compress, done.
-Built by me — Rakib Bae 🔥
-Link ai-image-compressor-beige.vercel.app](https://dev.to/rakibbaee/just-shipped-a-free-ai-image-compressor-no-login-no-nonsense-drop-your-image-compress-done-49d5)
+- [FINANCE PRO: PAYTRACK](https://dev.to/daredevil_gotham/finance-pro-paytrack-55na)
+- [How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code](https://dev.to/tidding/how-i-evaluated-an-ai-model-on-aws-without-writing-a-single-line-of-training-code-20o9)
+- [I turned a joke product generator into a real API &lpar;and a CLI, and a faker.js plugin&rpar;](https://dev.to/kafk/i-turned-a-joke-product-generator-into-a-real-api-and-a-cli-and-a-fakerjs-plugin-g42)
+- [Your Team Doesn&#39;t Need a Buddy. It Needs a Coach.](https://dev.to/jonoherrington/your-team-doesnt-need-a-buddy-it-needs-a-coach-jfk)
 <!-- BLOG-POST-LIST:END -->
 
 
