@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Escaping the tutorial trap and starting my ML training arc](https://dev.to/dev-rv/escaping-the-tutorial-trap-and-starting-my-ml-training-arc-90j)
-- [Anthropic plugs into SpaceX&#39;s 220,000-GPU Colossus — and doubles Claude&#39;s rate limits](https://dev.to/thegatewayguy/anthropic-plugs-into-spacexs-220000-gpu-colossus-and-doubles-claudes-rate-limits-228g)
-- [DVRIP/Sofia Protocol Dissector for Wireshark &lpar;Written in Lua&rpar;](https://dev.to/kostasereksonas/dvripsofia-protocol-dissector-for-wireshark-written-in-lua-2mhb)
-- [We are Building Observal](https://dev.to/kandasubbu_rajaecepro0/we-are-building-observal-16k3)
+- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
+- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
+- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
+- [How to Prepare a Legacy Codebase for AI-Assisted Refactoring](https://dev.to/137foundry/how-to-prepare-a-legacy-codebase-for-ai-assisted-refactoring-18k5)
 <!-- BLOG-POST-LIST:END -->
 
 
