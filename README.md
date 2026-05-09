@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Paint by hours, or how I solved for time tracking](https://dev.to/grantshepert/paint-by-hours-or-how-i-solved-for-time-tracking-2h67)
-- [How Much Does It Cost to Build a SaaS in 2026? AI Changed Everything](https://dev.to/nikhilgarg510/how-much-does-it-cost-to-build-a-saas-in-2026-ai-changed-everything-1lhj)
-- [Welcoming My DEV.to Content Generator Agent](https://dev.to/hosni_zaaraoui/wlcoming-my-devto-content-generator-agent-1iod)
-- [How I Made AI Behave Differently Based on Conversation Context &lpar;Multi-Role Prompt Engineering&rpar;](https://dev.to/jesperdeng/how-i-made-ai-behave-differently-based-on-conversation-context-multi-role-prompt-engineering-26o6)
+- [Pathfinding Algorithms [2D simulation : A*, Dijkstra, GBFS]](https://dev.to/memrys/pathfinding-algorithms-2d-simulation-a-dijkstra-gbfs-2c5d)
+- [The Rise of the Swarm: Mastering AI Agent Architectures 🐝](https://dev.to/syed_mehrab_08fb0419feedf/the-rise-of-the-swarm-mastering-ai-agent-architectures-2fc5)
+- [I Built 10 AI Applications in 5 Days as a Beginner — Here&#39;s What Actually Happened](https://dev.to/mohan-01/i-built-10-ai-applications-in-5-days-as-a-beginner-heres-what-actually-happened-19ke)
+- [How I Deployed FastAPI to EC2 with HTTPS Using API Gateway](https://dev.to/blumenbluu/how-i-deployed-fastapi-to-ec2-with-https-using-api-gateway-2gb5)
 <!-- BLOG-POST-LIST:END -->
 
 
