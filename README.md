@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151)
-- [&quot;My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.&quot;](https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm)
-- [I Found LeetCode for Software Design, and It’s Awesome](https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d)
-- [Lab 12 - Telnet and SSH &lpar; I Captured My Own Password in Wireshark — Here&#39;s What Telnet Taught Me About Network Security &rpar;](https://dev.to/almahmudkhalif/lab-12-telnet-and-ssh-i-captured-my-own-password-in-wireshark-heres-what-telnet-taught-me-3dn3)
+- [Paint by hours, or how I solved for time tracking](https://dev.to/grantshepert/paint-by-hours-or-how-i-solved-for-time-tracking-2h67)
+- [How Much Does It Cost to Build a SaaS in 2026? AI Changed Everything](https://dev.to/nikhilgarg510/how-much-does-it-cost-to-build-a-saas-in-2026-ai-changed-everything-1lhj)
+- [Welcoming My DEV.to Content Generator Agent](https://dev.to/hosni_zaaraoui/wlcoming-my-devto-content-generator-agent-1iod)
+- [How I Made AI Behave Differently Based on Conversation Context &lpar;Multi-Role Prompt Engineering&rpar;](https://dev.to/jesperdeng/how-i-made-ai-behave-differently-based-on-conversation-context-multi-role-prompt-engineering-26o6)
 <!-- BLOG-POST-LIST:END -->
 
 
