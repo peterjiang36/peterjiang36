@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pathfinding Algorithms [2D simulation : A*, Dijkstra, GBFS]](https://dev.to/memrys/pathfinding-algorithms-2d-simulation-a-dijkstra-gbfs-2c5d)
-- [The Rise of the Swarm: Mastering AI Agent Architectures 🐝](https://dev.to/syed_mehrab_08fb0419feedf/the-rise-of-the-swarm-mastering-ai-agent-architectures-2fc5)
-- [I Built 10 AI Applications in 5 Days as a Beginner — Here&#39;s What Actually Happened](https://dev.to/mohan-01/i-built-10-ai-applications-in-5-days-as-a-beginner-heres-what-actually-happened-19ke)
-- [How I Deployed FastAPI to EC2 with HTTPS Using API Gateway](https://dev.to/blumenbluu/how-i-deployed-fastapi-to-ec2-with-https-using-api-gateway-2gb5)
+- [Escaping the tutorial trap and starting my ML training arc](https://dev.to/dev-rv/escaping-the-tutorial-trap-and-starting-my-ml-training-arc-90j)
+- [Anthropic plugs into SpaceX&#39;s 220,000-GPU Colossus — and doubles Claude&#39;s rate limits](https://dev.to/thegatewayguy/anthropic-plugs-into-spacexs-220000-gpu-colossus-and-doubles-claudes-rate-limits-228g)
+- [DVRIP/Sofia Protocol Dissector for Wireshark &lpar;Written in Lua&rpar;](https://dev.to/kostasereksonas/dvripsofia-protocol-dissector-for-wireshark-written-in-lua-2mhb)
+- [We are Building Observal](https://dev.to/kandasubbu_rajaecepro0/we-are-building-observal-16k3)
 <!-- BLOG-POST-LIST:END -->
 
 
