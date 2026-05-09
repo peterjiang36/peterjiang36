@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [59. XGBoost: The Algorithm That Wins Competitions](https://dev.to/yakhilesh/59-xgboost-the-algorithm-that-wins-competitions-njd)
-- [Schema Markup JSON-LD for Local Businesses: A Practical Implementation Guide](https://dev.to/sabrielagency/schema-markup-json-ld-for-local-businesses-a-practical-implementation-guide-2n25)
-- [Building an AI-Powered ERP System with Gemma 26B MoE, .NET 8, Python &amp; React](https://dev.to/kheai/building-an-ai-powered-erp-system-with-gemma-26b-moe-net-8-python-react-3noh)
-- [Two SQL primitives for when alert clustering gets it wrong](https://dev.to/stella_lin_82914c71e25769/two-sql-primitives-for-when-alert-clustering-gets-it-wrong-10m5)
+- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151)
+- [&quot;My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.&quot;](https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm)
+- [I Found LeetCode for Software Design, and It’s Awesome](https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d)
+- [Lab 12 - Telnet and SSH &lpar; I Captured My Own Password in Wireshark — Here&#39;s What Telnet Taught Me About Network Security &rpar;](https://dev.to/almahmudkhalif/lab-12-telnet-and-ssh-i-captured-my-own-password-in-wireshark-heres-what-telnet-taught-me-3dn3)
 <!-- BLOG-POST-LIST:END -->
 
 
