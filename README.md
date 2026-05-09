@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IndexNow, libSQL, and three other tools I reached for this week](https://dev.to/morinaga/indexnow-libsql-and-three-other-tools-i-reached-for-this-week-5c4m)
-- [I built the same MVP twice. The autonomous agent wrote 4.6x more tests — none caught two stubbed core methods.](https://dev.to/lutz_leonhardt/i-built-the-same-mvp-twice-the-autonomous-agent-wrote-46x-more-tests-none-caught-two-stubbed-24ho)
-- [I Built an Open Source PHP SDK for Mono — Here&#39;s Why It Was Worth It](https://dev.to/itamelions/i-built-an-open-source-php-sdk-for-mono-heres-why-it-was-worth-it-21m4)
-- [Filling a maintainer&#39;s &quot;Help needed&quot;: shipping a Next.js 16 Redis cache handler](https://dev.to/_a9b502091e5f4cba28f13/filling-a-maintainers-help-needed-shipping-a-nextjs-16-redis-cache-handler-1dbe)
+- [Generation 1 — Standalone Models &lpar;2018–2022&rpar;](https://dev.to/raghavenreddy/generation-1-standalone-models-2018-2022-3mcl)
+- [We built a kitten care app that surfaces today&#39;s task, not a static guide](https://dev.to/niixolabs/we-built-a-kitten-care-app-that-surfaces-todays-task-not-a-static-guide-54h3)
+- [# How to Build a Multi-Step Form Wizard in Next.js with TypeScript](https://dev.to/nnanyelugo/-how-to-build-a-multi-step-form-wizard-in-nextjs-with-typescript-24jg)
+- [Shipped v2 of go-js-array-methods — JS-style Filter, Map, Reduce for Go slices](https://dev.to/gbubemi_attah_8220489db16/shipped-v2-of-go-js-array-methods-js-style-filter-map-reduce-for-go-slices-1k77)
 <!-- BLOG-POST-LIST:END -->
 
 
