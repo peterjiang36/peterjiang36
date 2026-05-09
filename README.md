@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Developers &lpar;Spoiler: It’s 90% Debugging, 10% Pretending We’re Fine&rpar;](https://dev.to/nathan_645b0e68b391e675fc/the-secret-life-of-developers-spoiler-its-90-debugging-10-pretending-were-fine-1a3l)
-- [Coleções Java](https://dev.to/matheusgondra/colecoes-java-47ij)
-- [tierKV: A Distributed KV Cache That Makes Evicted Blocks Faster to Restore Than GPU Cache Hits](https://dev.to/prasanna_kanagasabai_4ae7/tierkv-a-distributed-kv-cache-that-makes-evicted-blocks-faster-to-restore-than-gpu-cache-hits-1ghd)
-- [Hiểu Chuẩn ACID &amp; Transaction: Đừng Để Database Của Bạn &quot;Toang&quot; Vì Lỗi Cơ Bản!](https://dev.to/itprepvn/hieu-chuan-acid-transaction-dung-de-database-cua-ban-toang-vi-loi-co-ban-3jnl)
+- [Compass v0.9 · LongMemEval-S 56.6% · cross-agent memory federation](https://dev.to/chunxiaoxx/compass-v09-longmemeval-s-566-cross-agent-memory-federation-cog)
+- [Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React](https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m)
+- [Why most AI agents fail in production](https://dev.to/xuan_li_sf/why-most-ai-agents-fail-in-production-4jdo)
+- [I Trained an LLM on 75K of My Own Messages So It Would Stop Writing Like a Chatbot](https://dev.to/niclydon/i-trained-an-llm-on-75k-of-my-own-messages-so-it-would-stop-writing-like-a-chatbot-1dpi)
 <!-- BLOG-POST-LIST:END -->
 
 
