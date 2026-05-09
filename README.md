@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FINANCE PRO: PAYTRACK](https://dev.to/daredevil_gotham/finance-pro-paytrack-55na)
-- [How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code](https://dev.to/tidding/how-i-evaluated-an-ai-model-on-aws-without-writing-a-single-line-of-training-code-20o9)
-- [I turned a joke product generator into a real API &lpar;and a CLI, and a faker.js plugin&rpar;](https://dev.to/kafk/i-turned-a-joke-product-generator-into-a-real-api-and-a-cli-and-a-fakerjs-plugin-g42)
-- [Your Team Doesn&#39;t Need a Buddy. It Needs a Coach.](https://dev.to/jonoherrington/your-team-doesnt-need-a-buddy-it-needs-a-coach-jfk)
+- [Python used in Data Analytics](https://dev.to/jaysonjob/python-used-in-data-analytics-31c)
+- [Why I Ditched Helicone for a EU-Hosted LLM Observability Platform &lpar;and Saved €400/month&rpar;](https://dev.to/luxkern/why-i-ditched-helicone-for-a-eu-hosted-llm-observability-platform-and-saved-eu400month-52j0)
+- [AI coding agents made mobile development practical, so I built Redock](https://dev.to/onecookie/ai-coding-agents-made-mobile-development-practical-so-i-built-redock-5ic)
+- [Building a shift schedule generator taught me that scheduling is harder than it looks](https://dev.to/mark_b5f4ffdd8e7cd58/building-a-shift-schedule-generator-taught-me-that-scheduling-is-harder-than-it-looks-5hh6)
 <!-- BLOG-POST-LIST:END -->
 
 
