@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #280 : TanStack, Remotion, React Router | Expo Go, Ease, Screen Transitions, LegendList| Node.js, Datatype, tsz, Astro](https://dev.to/sebastienlorber/this-week-in-react-280-tanstack-remotion-react-router-expo-go-ease-screen-transitions-18mf)
-- [Cheap Dedicated CI/CD Runners for GitLab: Shared vs Self-Hosted vs Rented](https://dev.to/sepcy/cheap-dedicated-cicd-runners-for-gitlab-shared-vs-self-hosted-vs-rented-2a2a)
-- [Building a Unified Korean Entertainment Database from 10 APIs and Web Scrapers](https://dev.to/carasjung/building-a-unified-korean-entertainment-database-from-10-apis-and-web-scrapers-3n91)
-- [NetSuite Integration Guide](https://dev.to/apideck/netsuite-integration-guide-nap)
+- [IndexNow, libSQL, and three other tools I reached for this week](https://dev.to/morinaga/indexnow-libsql-and-three-other-tools-i-reached-for-this-week-5c4m)
+- [I built the same MVP twice. The autonomous agent wrote 4.6x more tests — none caught two stubbed core methods.](https://dev.to/lutz_leonhardt/i-built-the-same-mvp-twice-the-autonomous-agent-wrote-46x-more-tests-none-caught-two-stubbed-24ho)
+- [I Built an Open Source PHP SDK for Mono — Here&#39;s Why It Was Worth It](https://dev.to/itamelions/i-built-an-open-source-php-sdk-for-mono-heres-why-it-was-worth-it-21m4)
+- [Filling a maintainer&#39;s &quot;Help needed&quot;: shipping a Next.js 16 Redis cache handler](https://dev.to/_a9b502091e5f4cba28f13/filling-a-maintainers-help-needed-shipping-a-nextjs-16-redis-cache-handler-1dbe)
 <!-- BLOG-POST-LIST:END -->
 
 
