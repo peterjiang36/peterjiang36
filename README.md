@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transactions on Solana — What Sending and Breaking Them Taught Me](https://dev.to/zoe_lin_0653/transactions-on-solana-what-sending-and-breaking-them-taught-me-1a5p)
-- [Back to React Fundamentals: useEffect, useState, useMemo, useCallback, useReducer](https://dev.to/kensaadi/back-to-react-fundamentals-useeffect-usestate-usememo-usecallback-usereducer-4mk1)
-- [Leaning in](https://dev.to/tech_with_nessah/leaning-in-j9i)
-- [Running Grafana on AWS ECS &lpar;Fargate&rpar;](https://dev.to/ikoh_sylva/running-grafana-on-aws-ecs-fargate-p9g)
+- [This Week In React #280 : TanStack, Remotion, React Router | Expo Go, Ease, Screen Transitions, LegendList| Node.js, Datatype, tsz, Astro](https://dev.to/sebastienlorber/this-week-in-react-280-tanstack-remotion-react-router-expo-go-ease-screen-transitions-18mf)
+- [Cheap Dedicated CI/CD Runners for GitLab: Shared vs Self-Hosted vs Rented](https://dev.to/sepcy/cheap-dedicated-cicd-runners-for-gitlab-shared-vs-self-hosted-vs-rented-2a2a)
+- [Building a Unified Korean Entertainment Database from 10 APIs and Web Scrapers](https://dev.to/carasjung/building-a-unified-korean-entertainment-database-from-10-apis-and-web-scrapers-3n91)
+- [NetSuite Integration Guide](https://dev.to/apideck/netsuite-integration-guide-nap)
 <!-- BLOG-POST-LIST:END -->
 
 
