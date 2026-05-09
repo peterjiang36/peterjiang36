@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
-- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
-- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
-- [How to Prepare a Legacy Codebase for AI-Assisted Refactoring](https://dev.to/137foundry/how-to-prepare-a-legacy-codebase-for-ai-assisted-refactoring-18k5)
+- [DNSSEC: The Developer&#39;s Setup Guide &lpar;2026&rpar;](https://dev.to/rronyecz/dnssec-the-developers-setup-guide-2026-4hlj)
+- [Designing public vs. private state: what goes where and why](https://dev.to/tosin_akinbowa_0f25bbbd6f/-designing-public-vs-private-state-what-goes-where-and-why-bmk)
+- [O que é ACID?](https://dev.to/ewertoncodes/o-que-e-acid-3e23)
+- [&quot;Just shipped a free AI Image Compressor. No login. No nonsense. Drop your image, compress, done.
+Built by me — Rakib Bae 🔥
+Link ai-image-compressor-beige.vercel.app](https://dev.to/rakibbaee/just-shipped-a-free-ai-image-compressor-no-login-no-nonsense-drop-your-image-compress-done-49d5)
 <!-- BLOG-POST-LIST:END -->
 
 
