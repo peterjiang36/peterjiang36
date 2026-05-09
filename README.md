@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-3j6g)
-- [Descomplicando GraphQL](https://dev.to/yuripeixinho/descomplicando-graphql-14i8)
-- [step by step crud operation in motoko - how to store and retrieve data](https://dev.to/abdulsalamamtech/step-by-step-crud-operation-in-motoko-how-to-store-and-retrieve-data-34fp)
-- [Mastering Memory Management: Insights from Bjarne Stroustrup](https://dev.to/dd8888/mastering-memory-management-insights-from-bjarne-stroustrup-3hkd)
+- [Why Your AI Character Keeps Breaking Under Pressure &lpar;And What I Built Instead of Yet Another System Prompt&rpar;](https://dev.to/kiro0x/why-your-ai-character-keeps-breaking-under-pressure-and-what-i-built-instead-of-yet-another-system-n4k)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-323d)
+- [Linux User and Group Management | Episode 3](https://dev.to/sunam007/linux-user-and-group-management-episode-3-347b)
+- [How I Use 50 AI Prompts to Save 10+ Hours Every Week as a Developer](https://dev.to/moodpa/how-i-use-50-ai-prompts-to-save-10-hours-every-week-as-a-developer-1j75)
 <!-- BLOG-POST-LIST:END -->
 
 
