@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python used in Data Analytics](https://dev.to/jaysonjob/python-used-in-data-analytics-31c)
-- [Why I Ditched Helicone for a EU-Hosted LLM Observability Platform &lpar;and Saved €400/month&rpar;](https://dev.to/luxkern/why-i-ditched-helicone-for-a-eu-hosted-llm-observability-platform-and-saved-eu400month-52j0)
-- [AI coding agents made mobile development practical, so I built Redock](https://dev.to/onecookie/ai-coding-agents-made-mobile-development-practical-so-i-built-redock-5ic)
-- [Building a shift schedule generator taught me that scheduling is harder than it looks](https://dev.to/mark_b5f4ffdd8e7cd58/building-a-shift-schedule-generator-taught-me-that-scheduling-is-harder-than-it-looks-5hh6)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-3j6g)
+- [Descomplicando GraphQL](https://dev.to/yuripeixinho/descomplicando-graphql-14i8)
+- [step by step crud operation in motoko - how to store and retrieve data](https://dev.to/abdulsalamamtech/step-by-step-crud-operation-in-motoko-how-to-store-and-retrieve-data-34fp)
+- [Mastering Memory Management: Insights from Bjarne Stroustrup](https://dev.to/dd8888/mastering-memory-management-insights-from-bjarne-stroustrup-3hkd)
 <!-- BLOG-POST-LIST:END -->
 
 
