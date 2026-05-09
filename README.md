@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Engineers Adapt Screen Workflows for Color Blindness: Tools, ICC Profiles, and Beyond](https://dev.to/maddy_404_/how-engineers-adapt-screen-workflows-for-color-blindness-tools-icc-profiles-and-beyond-3e6f)
-- [The Best Resources for Audio Stem Separation in Python &lpar;2026&rpar;](https://dev.to/stevecase430/the-best-resources-for-audio-stem-separation-in-python-2026-i5j)
-- [AI Is Breaking Two Vulnerability Cultures — And Vibe Coders Are About to Get Caught in the Middle](https://dev.to/layzerzero105/ai-is-breaking-two-vulnerability-cultures-and-vibe-coders-are-about-to-get-caught-in-the-middle-2j1e)
-- [AI-Powered Development: Building in Minutes, Not Days](https://dev.to/ranjancse/ai-powered-development-building-in-minutes-not-days-1f5f)
+- [The Secret Life of Developers &lpar;Spoiler: It’s 90% Debugging, 10% Pretending We’re Fine&rpar;](https://dev.to/nathan_645b0e68b391e675fc/the-secret-life-of-developers-spoiler-its-90-debugging-10-pretending-were-fine-1a3l)
+- [Coleções Java](https://dev.to/matheusgondra/colecoes-java-47ij)
+- [tierKV: A Distributed KV Cache That Makes Evicted Blocks Faster to Restore Than GPU Cache Hits](https://dev.to/prasanna_kanagasabai_4ae7/tierkv-a-distributed-kv-cache-that-makes-evicted-blocks-faster-to-restore-than-gpu-cache-hits-1ghd)
+- [Hiểu Chuẩn ACID &amp; Transaction: Đừng Để Database Của Bạn &quot;Toang&quot; Vì Lỗi Cơ Bản!](https://dev.to/itprepvn/hieu-chuan-acid-transaction-dung-de-database-cua-ban-toang-vi-loi-co-ban-3jnl)
 <!-- BLOG-POST-LIST:END -->
 
 
