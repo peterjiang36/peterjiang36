@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Say It With Flowers: BouqAIs with the Tussie-Mussie Generator](https://dev.to/cloudinary/say-it-with-flowers-bouqais-with-the-tussie-mussie-generator-3do0)
-- [Data Engineer Skills Companies Want in 2026: 6,877-Posting Analysis](https://dev.to/gnana_6392e836fd500a957dc/data-engineer-skills-companies-want-in-2026-6877-posting-analysis-44p9)
-- [Your LLM isn&#39;t lying to you. You just trusted it too much.](https://dev.to/sangam_ganeshbabu_c282d4/your-llm-isnt-lying-to-you-you-just-trusted-it-too-much-20k7)
-- [Yggdrasil Network as an Embedded GO Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
+- [Gemma 4 Error Log Simplifier — AI-Powered Debugging Insights from Raw Logs](https://dev.to/zoe_lin_0653/gemma-4-error-log-simplifier-ai-powered-debugging-insights-from-raw-logs-493n)
+- [Scaling Systems: Bigger Machine or More Machines?](https://dev.to/shubhamkant_/scaling-systems-bigger-machine-or-more-machines-59ie)
+- [Why Rust Feels Hard &lpar;And Why That&#39;s Actually the Point&rpar;](https://dev.to/vrannang1/why-rust-feels-hard-and-why-thats-actually-the-point-4ge5)
+- [I Got Tired of Writing CRUD by Hand, So I Built a Go Code Generator from a Database](https://dev.to/alzhi_f93e67fa45b972/i-got-tired-of-writing-crud-by-hand-so-i-built-a-go-code-generator-from-a-database-1h52)
 <!-- BLOG-POST-LIST:END -->
 
 
