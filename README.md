@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Compass v0.9 · LongMemEval-S 56.6% · cross-agent memory federation](https://dev.to/chunxiaoxx/compass-v09-longmemeval-s-566-cross-agent-memory-federation-cog)
-- [Step-by-Step Guide to Connect Google Gemini AI with Spring Boot and React](https://dev.to/abhishek_hulule/step-by-step-guide-to-connect-google-gemini-ai-with-spring-boot-and-react-295m)
-- [Why most AI agents fail in production](https://dev.to/xuan_li_sf/why-most-ai-agents-fail-in-production-4jdo)
-- [I Trained an LLM on 75K of My Own Messages So It Would Stop Writing Like a Chatbot](https://dev.to/niclydon/i-trained-an-llm-on-75k-of-my-own-messages-so-it-would-stop-writing-like-a-chatbot-1dpi)
+- [59. XGBoost: The Algorithm That Wins Competitions](https://dev.to/yakhilesh/59-xgboost-the-algorithm-that-wins-competitions-njd)
+- [Schema Markup JSON-LD for Local Businesses: A Practical Implementation Guide](https://dev.to/sabrielagency/schema-markup-json-ld-for-local-businesses-a-practical-implementation-guide-2n25)
+- [Building an AI-Powered ERP System with Gemma 26B MoE, .NET 8, Python &amp; React](https://dev.to/kheai/building-an-ai-powered-erp-system-with-gemma-26b-moe-net-8-python-react-3noh)
+- [Two SQL primitives for when alert clustering gets it wrong](https://dev.to/stella_lin_82914c71e25769/two-sql-primitives-for-when-alert-clustering-gets-it-wrong-10m5)
 <!-- BLOG-POST-LIST:END -->
 
 
