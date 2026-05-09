@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Spawn to FuturesUnordered: How Community Feedback Reshaped Our Async Design](https://dev.to/sounds-like-lx/from-spawn-to-futuresunordered-how-community-feedback-reshaped-our-async-design-2lpa)
-- [Learning Progress Pt.6](https://dev.to/4ynow/learning-progress-pt4-h0m)
-- [Sowser: Your Browser Tabs Are a Mess. I Fixed It With Gemma 4 and an Infinite Canvas.](https://dev.to/uday_dolas_08/sowser-your-browser-tabs-are-a-mess-i-fixed-it-with-gemma-4-and-an-infinite-canvas-1bl5)
-- [I audited 25 of my open-source repos. Stars lied.](https://dev.to/studiomeyer_io/i-audited-25-of-my-open-source-repos-stars-lied-2ak4)
+- [Transactions on Solana — What Sending and Breaking Them Taught Me](https://dev.to/zoe_lin_0653/transactions-on-solana-what-sending-and-breaking-them-taught-me-1a5p)
+- [Back to React Fundamentals: useEffect, useState, useMemo, useCallback, useReducer](https://dev.to/kensaadi/back-to-react-fundamentals-useeffect-usestate-usememo-usecallback-usereducer-4mk1)
+- [Leaning in](https://dev.to/tech_with_nessah/leaning-in-j9i)
+- [Running Grafana on AWS ECS &lpar;Fargate&rpar;](https://dev.to/ikoh_sylva/running-grafana-on-aws-ecs-fargate-p9g)
 <!-- BLOG-POST-LIST:END -->
 
 
