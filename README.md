@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 Error Log Simplifier — AI-Powered Debugging Insights from Raw Logs](https://dev.to/zoe_lin_0653/gemma-4-error-log-simplifier-ai-powered-debugging-insights-from-raw-logs-493n)
-- [Scaling Systems: Bigger Machine or More Machines?](https://dev.to/shubhamkant_/scaling-systems-bigger-machine-or-more-machines-59ie)
-- [Why Rust Feels Hard &lpar;And Why That&#39;s Actually the Point&rpar;](https://dev.to/vrannang1/why-rust-feels-hard-and-why-thats-actually-the-point-4ge5)
-- [I Got Tired of Writing CRUD by Hand, So I Built a Go Code Generator from a Database](https://dev.to/alzhi_f93e67fa45b972/i-got-tired-of-writing-crud-by-hand-so-i-built-a-go-code-generator-from-a-database-1h52)
+- [From Spawn to FuturesUnordered: How Community Feedback Reshaped Our Async Design](https://dev.to/sounds-like-lx/from-spawn-to-futuresunordered-how-community-feedback-reshaped-our-async-design-2lpa)
+- [Learning Progress Pt.6](https://dev.to/4ynow/learning-progress-pt4-h0m)
+- [Sowser: Your Browser Tabs Are a Mess. I Fixed It With Gemma 4 and an Infinite Canvas.](https://dev.to/uday_dolas_08/sowser-your-browser-tabs-are-a-mess-i-fixed-it-with-gemma-4-and-an-infinite-canvas-1bl5)
+- [I audited 25 of my open-source repos. Stars lied.](https://dev.to/studiomeyer_io/i-audited-25-of-my-open-source-repos-stars-lied-2ak4)
 <!-- BLOG-POST-LIST:END -->
 
 
