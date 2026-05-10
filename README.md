@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Keywords: Mastering HyDE for Smarter Retrieval 🧠](https://dev.to/rushanksavant/beyond-keywords-mastering-hyde-for-smarter-retrieval-3p5c)
-- [An LLM Walks Into General Relativity - Lessons from a Devoxx Talk](https://dev.to/tasenikol/an-llm-walks-into-general-relativity-lessons-from-a-devoxx-talk-133l)
-- [Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked](https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05)
-- [Improve Filament Import UX with Persistent Error CSV Downloads](https://dev.to/filamentmastery/improve-filament-import-ux-with-persistent-error-csv-downloads-54jj)
+- [Task Manager API in FastAPI](https://dev.to/damian_marchewka_bdf5aec2/task-manager-api-in-fastapi-302a)
+- [Your Scrum Isn&#39;t Scrum. The Scrum Guide Is 13 Pages. Your Process Has 300.](https://dev.to/nbouvrette/your-scrum-isnt-scrum-the-scrum-guide-is-13-pages-your-process-has-300-2330)
+- [Flutter Actions &lpar;mutations&rpar;](https://dev.to/guimg/flutter-actions-mutations-125d)
+- [We&#39;re Linear Thinkers in an Exponentially-Changing World](https://dev.to/keithjmackay/were-linear-thinkers-in-an-exponentially-changing-world-53jc)
 <!-- BLOG-POST-LIST:END -->
 
 
