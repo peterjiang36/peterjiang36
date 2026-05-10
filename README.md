@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Task Manager API in FastAPI](https://dev.to/damian_marchewka_bdf5aec2/task-manager-api-in-fastapi-302a)
-- [Your Scrum Isn&#39;t Scrum. The Scrum Guide Is 13 Pages. Your Process Has 300.](https://dev.to/nbouvrette/your-scrum-isnt-scrum-the-scrum-guide-is-13-pages-your-process-has-300-2330)
-- [Flutter Actions &lpar;mutations&rpar;](https://dev.to/guimg/flutter-actions-mutations-125d)
-- [We&#39;re Linear Thinkers in an Exponentially-Changing World](https://dev.to/keithjmackay/were-linear-thinkers-in-an-exponentially-changing-world-53jc)
+- [I built a custom Codex-powered code review bot for GitLab](https://dev.to/sleeyax/i-built-a-custom-codex-powered-code-review-bot-for-gitlab-5eap)
+- [PRD Intelligence: Turn Your Product Ideas into Strategic Reports](https://dev.to/ihssmaheel/prd-intelligence-turn-your-product-ideas-into-strategic-reports-3l1)
+- [Feature Based Clean Architecture. Part 1: How a NestJS Application Evolves Into an Unmaintainable State](https://dev.to/pendulum/feature-based-clean-architecture-part-1-how-a-nestjs-application-evolves-into-an-unmaintainable-8bd)
+- [Client-Side Price Manipulation: Pay Whatever You Want at Checkout](https://dev.to/oopssec-store/client-side-price-manipulation-pay-whatever-you-want-at-checkout-2g6a)
 <!-- BLOG-POST-LIST:END -->
 
 
