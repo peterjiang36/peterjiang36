@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically](https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne)
-- [StarLens: Gemma 4 as Your Personal Planetarium Guide](https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4)
-- [Building in public, week 8: impressions exploded 71% and I think I know why](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-8-impressions-exploded-71-and-i-think-i-know-why-54ab)
-- [OLAP vs OLTP: What&#39;s the Difference and Why Does It Matter?](https://dev.to/robert_njuguna/olap-vs-oltp-whats-the-difference-and-why-does-it-matter-1a22)
+- [Turning Observability into a Search Space](https://dev.to/rraluca07/turning-observability-into-a-search-space-5dhc)
+- [Diagnosis Didn&#39;t Change My Leadership. Ownership Did.](https://dev.to/jonoherrington/diagnosis-didnt-change-my-leadership-ownership-did-3ll5)
+- [IA recria Montezuma&#39;s Revenge: o que aprendi sobre game dev e a máquina](https://dev.to/kabrau/ia-recria-montezumas-revenge-o-que-aprendi-sobre-game-dev-e-a-maquina-1fg9)
+- [From Pydantic Model to AI Agent in 10 Lines of Python](https://dev.to/pessoabuilds/from-pydantic-model-to-ai-agent-in-10-lines-of-python-2kdh)
 <!-- BLOG-POST-LIST:END -->
 
 
