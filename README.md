@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Input Box, Two AI Modes — Detecting Whether the User Wants Error Help or Command Explanation](https://dev.to/hiyoyok/one-input-box-two-ai-modes-detecting-whether-the-user-wants-error-help-or-command-explanation-1ok)
-- [Is Your Claude Code Safe From Base64? Inside 2026 AI Agent Attacks](https://dev.to/akari_iku/is-your-claude-code-safe-from-base64-inside-2026-ai-agent-attacks-13ab)
-- [CORS: Why It Exists, How It Works &amp; How to Fix Common Issues](https://dev.to/akash_shukla/cors-why-it-exists-how-it-works-how-to-fix-common-issues-102c)
-- [66. K-Means Clustering: Find Groups Without Labels](https://dev.to/yakhilesh/66-k-means-clustering-find-groups-without-labels-373a)
+- [Beyond Keywords: Mastering HyDE for Smarter Retrieval 🧠](https://dev.to/rushanksavant/beyond-keywords-mastering-hyde-for-smarter-retrieval-3p5c)
+- [An LLM Walks Into General Relativity - Lessons from a Devoxx Talk](https://dev.to/tasenikol/an-llm-walks-into-general-relativity-lessons-from-a-devoxx-talk-133l)
+- [Building an Enterprise Dashboard : 3 Architecture Lessons That Clicked](https://dev.to/vivekvohra/building-an-enterprise-dashboard-3-architecture-lessons-that-clicked-4m05)
+- [Improve Filament Import UX with Persistent Error CSV Downloads](https://dev.to/filamentmastery/improve-filament-import-ux-with-persistent-error-csv-downloads-54jj)
 <!-- BLOG-POST-LIST:END -->
 
 
