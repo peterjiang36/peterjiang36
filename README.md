@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &#39;Trivial&#39; Tech Travels Across Industries: The 5-Layer Diagonal-Axis Engineer Framework](https://dev.to/_d3709cf9e80fc6babbff/why-trivial-tech-travels-across-industries-the-5-layer-diagonal-axis-engineer-framework-5fcn)
-- [Copilot Studio Architecture Explained](https://dev.to/seenakhan/copilot-studio-architecture-explained-1gi9)
-- [Why not Lannguage Specific SLMs as coding agents](https://dev.to/mainak55512/why-not-lannguage-specific-slms-as-coding-agents-n79)
-- [A small Vite plugin for moving heavy JSX attributes into comments](https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn)
+- [I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me](https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8)
+- [Introduction to python](https://dev.to/gigomkenya/introduction-to-python-2hc3)
+- [How I Built a Complete School ERP System from Scratch](https://dev.to/pavanaiflick/how-i-built-a-complete-school-erp-system-from-scratch-3k6d)
+- [Walking Back Our v1.0 Announcement: Resetting to v0.9.0a1 as the First Build](https://dev.to/offbyonce/walking-back-our-v10-announcement-resetting-to-v090a1-as-the-first-build-al0)
 <!-- BLOG-POST-LIST:END -->
 
 
