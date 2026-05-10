@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generation 1 — Standalone Models &lpar;2018–2022&rpar;](https://dev.to/raghavenreddy/generation-1-standalone-models-2018-2022-3mcl)
-- [We built a kitten care app that surfaces today&#39;s task, not a static guide](https://dev.to/niixolabs/we-built-a-kitten-care-app-that-surfaces-todays-task-not-a-static-guide-54h3)
-- [# How to Build a Multi-Step Form Wizard in Next.js with TypeScript](https://dev.to/nnanyelugo/-how-to-build-a-multi-step-form-wizard-in-nextjs-with-typescript-24jg)
-- [Shipped v2 of go-js-array-methods — JS-style Filter, Map, Reduce for Go slices](https://dev.to/gbubemi_attah_8220489db16/shipped-v2-of-go-js-array-methods-js-style-filter-map-reduce-for-go-slices-1k77)
+- [🚀 Cómo dejar de quemar tokens en tu IDE con AI](https://dev.to/johanfabi/como-dejar-de-quemar-tokens-en-tu-ide-con-ai-4j54)
+- [Your codebase has a new primary reader. And it’s paying 7.5x more.](https://dev.to/jucelinux/your-codebase-has-a-new-primary-reader-and-its-paying-75x-more-3khn)
+- [Who actually has admin access to your GitHub repos? Most teams have no idea](https://dev.to/abhishek_chowdhury_466115/who-actually-has-admin-access-to-your-github-repos-most-teams-have-no-idea-31kj)
+- [I&#39;m a CS student. I built a GitHub App and audited 5 popular repos with it. here&#39;s what I found.](https://dev.to/zaxionhq/im-a-cs-student-i-built-a-github-app-and-audited-5-popular-repos-with-it-heres-what-i-found-3fi)
 <!-- BLOG-POST-LIST:END -->
 
 
