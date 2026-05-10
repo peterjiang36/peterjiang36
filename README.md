@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built openapi-mcp-gateway: Multi-Spec OpenAPI-to-MCP With Real OAuth2 In Python](https://dev.to/_7e886d07966b9c443e1b80d/i-built-openapi-mcp-gateway-multi-spec-openapi-to-mcp-with-real-oauth2-in-python-46d2)
-- [AWS Terraform Type Constarints](https://dev.to/brian_mengo/aws-terraform-type-constarints-gnd)
-- [I Built an Addictive Crypto Timing Game in Pure HTML/JS &lpar;No Dependencies&rpar;](https://dev.to/nova_crypto_90c7ee2ad16e5/i-built-an-addictive-crypto-timing-game-in-pure-htmljs-no-dependencies-50o5)
-- [Polanger RP: A Modern, Lightweight Alternative to TGM Plugin Activation](https://dev.to/polangersoft/polanger-rp-a-modern-lightweight-alternative-to-tgm-plugin-activation-39f2)
+- [One Input Box, Two AI Modes — Detecting Whether the User Wants Error Help or Command Explanation](https://dev.to/hiyoyok/one-input-box-two-ai-modes-detecting-whether-the-user-wants-error-help-or-command-explanation-1ok)
+- [Is Your Claude Code Safe From Base64? Inside 2026 AI Agent Attacks](https://dev.to/akari_iku/is-your-claude-code-safe-from-base64-inside-2026-ai-agent-attacks-13ab)
+- [CORS: Why It Exists, How It Works &amp; How to Fix Common Issues](https://dev.to/akash_shukla/cors-why-it-exists-how-it-works-how-to-fix-common-issues-102c)
+- [66. K-Means Clustering: Find Groups Without Labels](https://dev.to/yakhilesh/66-k-means-clustering-find-groups-without-labels-373a)
 <!-- BLOG-POST-LIST:END -->
 
 
