@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spread vs Rest Operators in JavaScript](https://dev.to/pratham69/spread-vs-rest-operators-in-javascript-59a0)
-- [Building a small fan-made Diablo IV loot filter finder](https://dev.to/robot1996/building-a-small-fan-made-diablo-iv-loot-filter-finder-9ja)
-- [Destructuring in JavaScript](https://dev.to/pratham69/destructuring-in-javascript-221d)
-- [📧 Building an Email System with Aliases, Routing, and AI Assistance &lpar;Wizard Mail&rpar;](https://dev.to/wizard-ecosystem/building-an-email-system-with-aliases-routing-and-ai-assistance-wizard-mail-2ad4)
+- [I built a browser tool that removes small daily frustrations](https://dev.to/shubham_9ea559333065f3f11/i-built-a-browser-tool-that-removes-small-daily-frustrations-1jkm)
+- [Best Crypto APIs for Developers in 2026](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2026-3908)
+- [How I Built and Shipped a Production-Ready AI Recommendation System &lpar;Nomova.ai&rpar;](https://dev.to/austinjm121/how-i-built-and-shipped-a-production-ready-ai-recommendation-system-nomovaai-3pcp)
+- [The AI Cold War Has Started: Why Chinese AI Models Are Destroying US AI on Price](https://dev.to/yash_sonawane25/the-ai-cold-war-has-started-why-chinese-ai-models-are-destroying-us-ai-on-price-1eej)
 <!-- BLOG-POST-LIST:END -->
 
 
