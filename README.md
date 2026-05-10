@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python in Data Analytics](https://dev.to/tom_chege/-introduction-to-python-in-data-analytics-3kl8)
-- [Day 3 - Chunking - RAG](https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19)
-- [Introduction to Python](https://dev.to/enockdata/introduction-to-python-48f7)
-- [I tried to make AI conversations feel less like input/output. Here’s what I learned.](https://dev.to/robert-adrian-knippelberg/i-tried-to-make-ai-conversations-feel-less-like-inputoutput-heres-what-i-learned-200i)
+- [Claude Code: The Complete Setup Guide for macOS, Windows, and Linux](https://dev.to/devdaily_2026/claude-code-the-complete-setup-guide-for-macos-windows-and-linux-3dbl)
+- [How Naver Leads Multimodal AI Search Innovation](https://dev.to/koreaplus-lifes/how-naver-leads-multimodal-ai-search-innovation-22if)
+- [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-under-real-time-c24)
+- [AI-Powered Semantic Job Matching System Using FastAPI, Vector Databases, and Dual Encoders](https://dev.to/ekemini_thompson/dual-encoder-semantic-matching-scalable-intelligent-recruitment-infrastructure-5gpm)
 <!-- BLOG-POST-LIST:END -->
 
 
