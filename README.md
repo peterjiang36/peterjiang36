@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Smarter 20-20-20 App Because Every Other One Annoyed Me](https://dev.to/daksh-gargas/i-built-a-smarter-20-20-20-app-because-every-other-one-annoyed-me-533o)
-- [The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI](https://dev.to/tlnyylmz/the-it-works-on-my-machine-problem-devops-transformation-the-impact-of-ai-43j5)
-- [Conquering Windows Server 2022: How to Manually Sideload Winget &lpar;Without the Microsoft Store&rpar;](https://dev.to/scg/conquering-windows-server-2022-how-to-manually-sideload-winget-without-the-microsoft-store-2pmg)
-- [My Own VPS Crisis: That Moment of Panic During a Client Meeting](https://dev.to/merbayerp/my-own-vps-crisis-that-moment-of-panic-during-a-client-meeting-423e)
+- [API-First with Hono: OpenAPI to Typed Routes Without Lock-in](https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad)
+- [Spring Boot Controllers](https://dev.to/anthonybanion/spring-boot-controllers-1f1d)
+- [Why Visual Workflow Builders Are the Future of AI Agent Development](https://dev.to/omnithium/why-visual-workflow-builders-are-the-future-of-ai-agent-development-31dp)
+- [I Built an AI Agent Orchestrator Where Gemma 4 Only Knows What You Teach It](https://dev.to/bzaid94/gemma-agents-orchestrator-8cm)
 <!-- BLOG-POST-LIST:END -->
 
 
