@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Observability into a Search Space](https://dev.to/rraluca07/turning-observability-into-a-search-space-5dhc)
-- [Diagnosis Didn&#39;t Change My Leadership. Ownership Did.](https://dev.to/jonoherrington/diagnosis-didnt-change-my-leadership-ownership-did-3ll5)
-- [IA recria Montezuma&#39;s Revenge: o que aprendi sobre game dev e a máquina](https://dev.to/kabrau/ia-recria-montezumas-revenge-o-que-aprendi-sobre-game-dev-e-a-maquina-1fg9)
-- [From Pydantic Model to AI Agent in 10 Lines of Python](https://dev.to/pessoabuilds/from-pydantic-model-to-ai-agent-in-10-lines-of-python-2kdh)
+- [How I Got Into Google Summer of Code &lpar;GSoC&rpar; 2026 as a Tier-3 MCA Student](https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017)
+- [Building Kernel Memory Protocol: Navigable Memory for AI Agents](https://dev.to/tirso_garcia/building-kernel-memory-protocol-navigable-memory-for-ai-agents-315j)
+- [Sessions vs JWT vs Cookies: Understanding Authentication Approaches](https://dev.to/satyasootar/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches-1ojo)
+- [What I Finally Understand About Solana Transactions &lpar;After 20 Days of Learning&rpar;](https://dev.to/fachiny17/what-i-finally-understand-about-solana-transactions-after-20-days-of-learning-34k8)
 <!-- BLOG-POST-LIST:END -->
 
 
