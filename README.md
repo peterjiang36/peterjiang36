@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Got Into Google Summer of Code &lpar;GSoC&rpar; 2026 as a Tier-3 MCA Student](https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017)
-- [Building Kernel Memory Protocol: Navigable Memory for AI Agents](https://dev.to/tirso_garcia/building-kernel-memory-protocol-navigable-memory-for-ai-agents-315j)
-- [Sessions vs JWT vs Cookies: Understanding Authentication Approaches](https://dev.to/satyasootar/sessions-vs-jwt-vs-cookies-understanding-authentication-approaches-1ojo)
-- [What I Finally Understand About Solana Transactions &lpar;After 20 Days of Learning&rpar;](https://dev.to/fachiny17/what-i-finally-understand-about-solana-transactions-after-20-days-of-learning-34k8)
+- [I Built openapi-mcp-gateway: Multi-Spec OpenAPI-to-MCP With Real OAuth2 In Python](https://dev.to/_7e886d07966b9c443e1b80d/i-built-openapi-mcp-gateway-multi-spec-openapi-to-mcp-with-real-oauth2-in-python-46d2)
+- [AWS Terraform Type Constarints](https://dev.to/brian_mengo/aws-terraform-type-constarints-gnd)
+- [I Built an Addictive Crypto Timing Game in Pure HTML/JS &lpar;No Dependencies&rpar;](https://dev.to/nova_crypto_90c7ee2ad16e5/i-built-an-addictive-crypto-timing-game-in-pure-htmljs-no-dependencies-50o5)
+- [Polanger RP: A Modern, Lightweight Alternative to TGM Plugin Activation](https://dev.to/polangersoft/polanger-rp-a-modern-lightweight-alternative-to-tgm-plugin-activation-39f2)
 <!-- BLOG-POST-LIST:END -->
 
 
