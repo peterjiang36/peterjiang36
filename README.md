@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code: The Complete Setup Guide for macOS, Windows, and Linux](https://dev.to/devdaily_2026/claude-code-the-complete-setup-guide-for-macos-windows-and-linux-3dbl)
-- [How Naver Leads Multimodal AI Search Innovation](https://dev.to/koreaplus-lifes/how-naver-leads-multimodal-ai-search-innovation-22if)
-- [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-under-real-time-c24)
-- [AI-Powered Semantic Job Matching System Using FastAPI, Vector Databases, and Dual Encoders](https://dev.to/ekemini_thompson/dual-encoder-semantic-matching-scalable-intelligent-recruitment-infrastructure-5gpm)
+- [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://dev.to/pratham69/asyncawait-in-javascript-writing-cleaner-asynchronous-code-39oc)
+- [Stop Guessing Which Weights Your Neural Network Actually Learned: Deterministic Initialization That Tracks Every Change](https://dev.to/ineron/stop-guessing-which-weights-your-neural-network-actually-learned-deterministic-initialization-that-1oip)
+- [JavaScript Promises Explained for Beginners](https://dev.to/pratham69/javascript-promises-explained-for-beginners-4am)
+- [Hermes Voice Control from Your Phone](https://dev.to/rosgluk/hermes-voice-control-from-your-phone-3fm6)
 <!-- BLOG-POST-LIST:END -->
 
 
