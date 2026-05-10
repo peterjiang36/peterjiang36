@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://dev.to/pratham69/asyncawait-in-javascript-writing-cleaner-asynchronous-code-39oc)
-- [Stop Guessing Which Weights Your Neural Network Actually Learned: Deterministic Initialization That Tracks Every Change](https://dev.to/ineron/stop-guessing-which-weights-your-neural-network-actually-learned-deterministic-initialization-that-1oip)
-- [JavaScript Promises Explained for Beginners](https://dev.to/pratham69/javascript-promises-explained-for-beginners-4am)
-- [Hermes Voice Control from Your Phone](https://dev.to/rosgluk/hermes-voice-control-from-your-phone-3fm6)
+- [I built a silent, privacy-first file organizer that lives in your system tray and sorts your Downloads folder automatically](https://dev.to/hsr88/i-built-a-silent-privacy-first-file-organizer-that-lives-in-your-system-tray-and-sorts-your-37ne)
+- [StarLens: Gemma 4 as Your Personal Planetarium Guide](https://dev.to/imjoseangel/starlens-gemma-4-as-your-personal-planetarium-guide-36a4)
+- [Building in public, week 8: impressions exploded 71% and I think I know why](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-8-impressions-exploded-71-and-i-think-i-know-why-54ab)
+- [OLAP vs OLTP: What&#39;s the Difference and Why Does It Matter?](https://dev.to/robert_njuguna/olap-vs-oltp-whats-the-difference-and-why-does-it-matter-1a22)
 <!-- BLOG-POST-LIST:END -->
 
 
