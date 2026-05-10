@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Invisible Wall: Hardening Your BI Infrastructure Against Modern Data Breaches](https://dev.to/dattasable/the-invisible-wall-hardening-your-bi-infrastructure-against-modern-data-breaches-1j5)
-- [It’s Not Just the College Kids](https://dev.to/niclydon/its-not-just-the-college-kids-57ha)
-- [Beyond the SELECT: Mastering Advanced SQL for Surgical BI](https://dev.to/dattasable/beyond-the-select-mastering-advanced-sql-for-surgical-bi-k3g)
-- [Understanding Reinforcement Learning with Neural Networks Part 2: Why Backpropagation Is Not Enough](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-2-why-backpropagation-is-not-enough-2el2)
+- [I Built a Smarter 20-20-20 App Because Every Other One Annoyed Me](https://dev.to/daksh-gargas/i-built-a-smarter-20-20-20-app-because-every-other-one-annoyed-me-533o)
+- [The &quot;It Works on My Machine&quot; Problem: DevOps Transformation &amp; The Impact of AI](https://dev.to/tlnyylmz/the-it-works-on-my-machine-problem-devops-transformation-the-impact-of-ai-43j5)
+- [Conquering Windows Server 2022: How to Manually Sideload Winget &lpar;Without the Microsoft Store&rpar;](https://dev.to/scg/conquering-windows-server-2022-how-to-manually-sideload-winget-without-the-microsoft-store-2pmg)
+- [My Own VPS Crisis: That Moment of Panic During a Client Meeting](https://dev.to/merbayerp/my-own-vps-crisis-that-moment-of-panic-during-a-client-meeting-423e)
 <!-- BLOG-POST-LIST:END -->
 
 
