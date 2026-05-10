@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a browser tool that removes small daily frustrations](https://dev.to/shubham_9ea559333065f3f11/i-built-a-browser-tool-that-removes-small-daily-frustrations-1jkm)
-- [Best Crypto APIs for Developers in 2026](https://dev.to/supratipb/best-crypto-apis-for-developers-in-2026-3908)
-- [How I Built and Shipped a Production-Ready AI Recommendation System &lpar;Nomova.ai&rpar;](https://dev.to/austinjm121/how-i-built-and-shipped-a-production-ready-ai-recommendation-system-nomovaai-3pcp)
-- [The AI Cold War Has Started: Why Chinese AI Models Are Destroying US AI on Price](https://dev.to/yash_sonawane25/the-ai-cold-war-has-started-why-chinese-ai-models-are-destroying-us-ai-on-price-1eej)
+- [Why &#39;Trivial&#39; Tech Travels Across Industries: The 5-Layer Diagonal-Axis Engineer Framework](https://dev.to/_d3709cf9e80fc6babbff/why-trivial-tech-travels-across-industries-the-5-layer-diagonal-axis-engineer-framework-5fcn)
+- [Copilot Studio Architecture Explained](https://dev.to/seenakhan/copilot-studio-architecture-explained-1gi9)
+- [Why not Lannguage Specific SLMs as coding agents](https://dev.to/mainak55512/why-not-lannguage-specific-slms-as-coding-agents-n79)
+- [A small Vite plugin for moving heavy JSX attributes into comments](https://dev.to/vo9312/a-small-vite-plugin-for-moving-heavy-jsx-attributes-into-comments-21dn)
 <!-- BLOG-POST-LIST:END -->
 
 
