@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a custom Codex-powered code review bot for GitLab](https://dev.to/sleeyax/i-built-a-custom-codex-powered-code-review-bot-for-gitlab-5eap)
-- [PRD Intelligence: Turn Your Product Ideas into Strategic Reports](https://dev.to/ihssmaheel/prd-intelligence-turn-your-product-ideas-into-strategic-reports-3l1)
-- [Feature Based Clean Architecture. Part 1: How a NestJS Application Evolves Into an Unmaintainable State](https://dev.to/pendulum/feature-based-clean-architecture-part-1-how-a-nestjs-application-evolves-into-an-unmaintainable-8bd)
-- [Client-Side Price Manipulation: Pay Whatever You Want at Checkout](https://dev.to/oopssec-store/client-side-price-manipulation-pay-whatever-you-want-at-checkout-2g6a)
+- [The Invisible Wall: Hardening Your BI Infrastructure Against Modern Data Breaches](https://dev.to/dattasable/the-invisible-wall-hardening-your-bi-infrastructure-against-modern-data-breaches-1j5)
+- [It’s Not Just the College Kids](https://dev.to/niclydon/its-not-just-the-college-kids-57ha)
+- [Beyond the SELECT: Mastering Advanced SQL for Surgical BI](https://dev.to/dattasable/beyond-the-select-mastering-advanced-sql-for-surgical-bi-k3g)
+- [Understanding Reinforcement Learning with Neural Networks Part 2: Why Backpropagation Is Not Enough](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-2-why-backpropagation-is-not-enough-2el2)
 <!-- BLOG-POST-LIST:END -->
 
 
