@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [API-First with Hono: OpenAPI to Typed Routes Without Lock-in](https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad)
-- [Spring Boot Controllers](https://dev.to/anthonybanion/spring-boot-controllers-1f1d)
-- [Why Visual Workflow Builders Are the Future of AI Agent Development](https://dev.to/omnithium/why-visual-workflow-builders-are-the-future-of-ai-agent-development-31dp)
-- [I Built an AI Agent Orchestrator Where Gemma 4 Only Knows What You Teach It](https://dev.to/bzaid94/gemma-agents-orchestrator-8cm)
+- [Fixing NVIDIA BadTLP PCIe Freezes on Linux - or an ASUS TUF gaming laptop odyssey](https://dev.to/tolvo/fixing-nvidia-badtlp-pcie-freezes-on-linux-or-an-asus-tuf-gaming-laptop-odyssey-hp9)
+- [Install Android SDK Command Line Tools for Flutter &lpar;Without Android Studio&rpar;](https://dev.to/raflizocky_/install-android-sdk-command-line-tools-for-flutter-without-android-studio-25nb)
+- [ADB Wireless Debugging in Android Development](https://dev.to/raflizocky_/adb-wireless-debugging-in-android-development-4je0)
+- [Multiple Sheets Excel Export in Laravel](https://dev.to/raflizocky_/multiple-sheets-excel-export-in-laravel-9od)
 <!-- BLOG-POST-LIST:END -->
 
 
