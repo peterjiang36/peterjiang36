@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me](https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8)
-- [Introduction to python](https://dev.to/gigomkenya/introduction-to-python-2hc3)
-- [How I Built a Complete School ERP System from Scratch](https://dev.to/pavanaiflick/how-i-built-a-complete-school-erp-system-from-scratch-3k6d)
-- [Walking Back Our v1.0 Announcement: Resetting to v0.9.0a1 as the First Build](https://dev.to/offbyonce/walking-back-our-v10-announcement-resetting-to-v090a1-as-the-first-build-al0)
+- [Introduction to Python in Data Analytics](https://dev.to/tom_chege/-introduction-to-python-in-data-analytics-3kl8)
+- [Day 3 - Chunking - RAG](https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19)
+- [Introduction to Python](https://dev.to/enockdata/introduction-to-python-48f7)
+- [I tried to make AI conversations feel less like input/output. Here’s what I learned.](https://dev.to/robert-adrian-knippelberg/i-tried-to-make-ai-conversations-feel-less-like-inputoutput-heres-what-i-learned-200i)
 <!-- BLOG-POST-LIST:END -->
 
 
