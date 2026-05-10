@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Cómo dejar de quemar tokens en tu IDE con AI](https://dev.to/johanfabi/como-dejar-de-quemar-tokens-en-tu-ide-con-ai-4j54)
-- [Your codebase has a new primary reader. And it’s paying 7.5x more.](https://dev.to/jucelinux/your-codebase-has-a-new-primary-reader-and-its-paying-75x-more-3khn)
-- [Who actually has admin access to your GitHub repos? Most teams have no idea](https://dev.to/abhishek_chowdhury_466115/who-actually-has-admin-access-to-your-github-repos-most-teams-have-no-idea-31kj)
-- [I&#39;m a CS student. I built a GitHub App and audited 5 popular repos with it. here&#39;s what I found.](https://dev.to/zaxionhq/im-a-cs-student-i-built-a-github-app-and-audited-5-popular-repos-with-it-heres-what-i-found-3fi)
+- [Spread vs Rest Operators in JavaScript](https://dev.to/pratham69/spread-vs-rest-operators-in-javascript-59a0)
+- [Building a small fan-made Diablo IV loot filter finder](https://dev.to/robot1996/building-a-small-fan-made-diablo-iv-loot-filter-finder-9ja)
+- [Destructuring in JavaScript](https://dev.to/pratham69/destructuring-in-javascript-221d)
+- [📧 Building an Email System with Aliases, Routing, and AI Assistance &lpar;Wizard Mail&rpar;](https://dev.to/wizard-ecosystem/building-an-email-system-with-aliases-routing-and-ai-assistance-wizard-mail-2ad4)
 <!-- BLOG-POST-LIST:END -->
 
 
