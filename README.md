@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Claude Code Improved My LinkedIn Profile Visibility !!](https://dev.to/sanukhandev/how-claude-code-improved-my-linkedin-profile-visibility--390b)
-- [6 years building Planning Poker Online: from a weekend project to 147K users &lpar;and 3 mistakes I had to fix&rpar;](https://dev.to/miquelcdp/6-years-building-planning-poker-online-from-a-weekend-project-to-147k-users-and-3-mistakes-i-had-4a04)
-- [Improving First Byte and Contentful Paint on a Django Website](https://dev.to/djangotricks/improving-first-byte-and-contentful-paint-on-a-django-website-2k4f)
-- [WEEK 3 #100DAYSOFSOLANA: SHARING MY TOOL AND OUTPUT](https://dev.to/peter_okoh_/week-3-100daysofsolana-sharing-my-tool-and-output-4fia)
+- [Building a Dockerized Cryptocurrency ETL Pipeline with Apache Airflow](https://dev.to/karen_langat_299784e2c330/building-a-dockerized-cryptocurrency-etl-pipeline-with-apache-airflow-k08)
+- [I Charged $80/Month for AI Agent Work. A $5,000/Month Guide Said I Should Be Charging $5,000.](https://dev.to/mrclaw207/i-charged-80month-for-ai-agent-work-a-5000month-guide-said-i-should-be-charging-5000-301i)
+- [The Gap Nobody Talks About :Students, Companies &amp; The Technology Pressure](https://dev.to/anushka_shinde_99/the-gap-nobody-talks-about-students-companies-the-technology-pressure-1ll1)
+- [The Game Feature I Keep Redesigning &lpar;And Why I Keep Getting It Wrong&rpar;](https://dev.to/jun_yan_4ab7b07fcf89cbd92/the-game-feature-i-keep-redesigning-and-why-i-keep-getting-it-wrong-2g94)
 <!-- BLOG-POST-LIST:END -->
 
 
