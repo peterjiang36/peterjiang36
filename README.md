@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build shielded token mint, transfer, and burn flows in Compact](https://dev.to/ritwikareddykancharla/build-shielded-token-mint-transfer-and-burn-flows-in-compact-2m8e)
-- [Stop copy-pasting your React route protection. Here&#39;s a better way.](https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o)
-- [I lost my TV remote, so I built one with an Arduino](https://dev.to/ankit_agrawal_40841deea96/i-lost-my-tv-remote-so-i-built-one-with-an-arduino-588c)
-- [How I Built a Programmatic SEO Tool with 126K Pages Indexed in 30 Days &lpar;Built with AI Assistance&rpar;](https://dev.to/themob000/how-i-built-a-programmatic-seo-tool-with-126k-pages-indexed-in-30-days-built-with-ai-assistance-464f)
+- [m0lz.01: Does it make sense to me?](https://dev.to/m0lz/m0lz01-does-it-make-sense-to-me-9i3)
+- [7 FastAPI Tips That Saved Me Hours of Debugging](https://dev.to/suifeng023/7-fastapi-tips-that-saved-me-hours-of-debugging-97o)
+- [Why SaaS Tools Are Dropping the Login Wall in 2026](https://dev.to/nologintools/why-saas-tools-are-dropping-the-login-wall-in-2026-be0)
+- [The London Rental Scam That Nobody Investigates](https://dev.to/blacksun/the-london-rental-scam-that-nobody-investigates-16ab)
 <!-- BLOG-POST-LIST:END -->
 
 
