@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [str&lpar;&rpar; vs repr&lpar;&rpar; vs print&lpar;&rpar; in Python](https://dev.to/samikshasri/str-vs-repr-vs-print-in-python-4p9m)
-- [I Couldn&#39;t Optimize Max Sum Min-Product Until I Flipped the Question](https://dev.to/avinash_tyagi_98/i-couldnt-optimize-max-sum-min-product-until-i-flipped-the-question-4eli)
-- [Reddit&#39;s Karma Score Is a Lie. Here&#39;s the Math Behind It.](https://dev.to/architagr/reddits-karma-score-is-a-lie-heres-the-math-behind-it-14a4)
-- [Frugal Cascade: um padrão de resiliência para arquiteturas com orçamento zero](https://dev.to/albornozrodrigo/frugal-cascade-um-padrao-de-resiliencia-para-arquiteturas-com-orcamento-zero-cpa)
+- [System Design Tradeoffs](https://dev.to/nozibul_islam_113b1d5334f/system-design-tradeoffs-30k9)
+- [REDCAAP Framework for Frontend SD](https://dev.to/nozibul_islam_113b1d5334f/redcaap-framework-for-frontend-sd-40e7)
+- [The Main Advantage Of Coding &quot;The Old Way&quot; Over AI-Assisted Coding](https://dev.to/canro91/the-main-advantage-of-coding-the-old-way-over-ai-assisted-coding-31o9)
+- [MCP Solved Tool Access. Tool Selection Is Still Unsolved](https://dev.to/anmolrajsoni15/mcp-solved-tool-access-tool-selection-is-still-unsolved-2a4f)
 <!-- BLOG-POST-LIST:END -->
 
 
