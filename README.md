@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Wired Claude AI into My SaaS and What Actually Worked vs. What Was Just Hype](https://dev.to/djs2082/how-i-wired-claude-ai-into-my-saas-and-what-actually-worked-vs-what-was-just-hype-47ni)
-- [How to Survive an Infrastructure Meltdown with Meshtastic and MeshCore &lpar;2026&rpar;](https://dev.to/noperai42eng/how-to-survive-an-infrastructure-meltdown-with-meshtastic-and-meshcore-2026-dej)
-- [Building a Minimalist, Ad-Free Inbox for Instant Privacy: Introducing MailFlux](https://dev.to/mahmudul_hasantamim_4fcd/building-a-minimalist-ad-free-inbox-for-instant-privacy-introducing-mailflux-1a8e)
-- [Privacy-first mind mapping app. Part 7: Owning Your Workflow](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-6-owning-your-workflow-26ha)
+- [Build shielded token mint, transfer, and burn flows in Compact](https://dev.to/ritwikareddykancharla/build-shielded-token-mint-transfer-and-burn-flows-in-compact-2m8e)
+- [Stop copy-pasting your React route protection. Here&#39;s a better way.](https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o)
+- [I lost my TV remote, so I built one with an Arduino](https://dev.to/ankit_agrawal_40841deea96/i-lost-my-tv-remote-so-i-built-one-with-an-arduino-588c)
+- [How I Built a Programmatic SEO Tool with 126K Pages Indexed in 30 Days &lpar;Built with AI Assistance&rpar;](https://dev.to/themob000/how-i-built-a-programmatic-seo-tool-with-126k-pages-indexed-in-30-days-built-with-ai-assistance-464f)
 <!-- BLOG-POST-LIST:END -->
 
 
