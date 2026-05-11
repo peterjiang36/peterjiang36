@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4-Way Compute Tradeoff: Reserved vs Spot vs Savings Plan vs On-Demand After 3 Years of FinOps Data](https://dev.to/muskan_8abedcc7e12/the-4-way-compute-tradeoff-reserved-vs-spot-vs-savings-plan-vs-on-demand-after-3-years-of-finops-30nm)
-- [FinOps Right-Sizing Without Vibes: The 5-Number Recipe That Cuts $200k of Idle EC2](https://dev.to/muskan_8abedcc7e12/finops-right-sizing-without-vibes-the-5-number-recipe-that-cuts-200k-of-idle-ec2-8l6)
-- [Closed-Loop SRE for Kubernetes: Auto-Remediating Pod Crashloops Before the On-Call Pages](https://dev.to/muskan_8abedcc7e12/closed-loop-sre-for-kubernetes-auto-remediating-pod-crashloops-before-the-on-call-pages-47gd)
-- [Python 101](https://dev.to/renee_mumbi_w/python-101-km)
+- [How Claude Code Improved My LinkedIn Profile Visibility !!](https://dev.to/sanukhandev/how-claude-code-improved-my-linkedin-profile-visibility--390b)
+- [6 years building Planning Poker Online: from a weekend project to 147K users &lpar;and 3 mistakes I had to fix&rpar;](https://dev.to/miquelcdp/6-years-building-planning-poker-online-from-a-weekend-project-to-147k-users-and-3-mistakes-i-had-4a04)
+- [Improving First Byte and Contentful Paint on a Django Website](https://dev.to/djangotricks/improving-first-byte-and-contentful-paint-on-a-django-website-2k4f)
+- [WEEK 3 #100DAYSOFSOLANA: SHARING MY TOOL AND OUTPUT](https://dev.to/peter_okoh_/week-3-100daysofsolana-sharing-my-tool-and-output-4fia)
 <!-- BLOG-POST-LIST:END -->
 
 
