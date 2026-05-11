@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [m0lz.01: Does it make sense to me?](https://dev.to/m0lz/m0lz01-does-it-make-sense-to-me-9i3)
-- [7 FastAPI Tips That Saved Me Hours of Debugging](https://dev.to/suifeng023/7-fastapi-tips-that-saved-me-hours-of-debugging-97o)
-- [Why SaaS Tools Are Dropping the Login Wall in 2026](https://dev.to/nologintools/why-saas-tools-are-dropping-the-login-wall-in-2026-be0)
-- [The London Rental Scam That Nobody Investigates](https://dev.to/blacksun/the-london-rental-scam-that-nobody-investigates-16ab)
+- [Verifying three custom domains in Google Search Console with Cloudflare DNS](https://dev.to/morinaga/verifying-three-custom-domains-in-google-search-console-with-cloudflare-dns-2jfh)
+- [How I rebuilt Astro slug pages after AdSense flagged three sites for scaled content abuse](https://dev.to/morinaga/how-i-rebuilt-astro-slug-pages-after-adsense-flagged-three-sites-for-scaled-content-abuse-ln8)
+- [Java Questions on Collections](https://dev.to/tapaspal/java-questions-on-collections-d1o)
+- [A Billion Token Lesson: Because You Can You Should](https://dev.to/vystartasv/a-billion-token-lesson-because-you-can-you-should-56op)
 <!-- BLOG-POST-LIST:END -->
 
 
