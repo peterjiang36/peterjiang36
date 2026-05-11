@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [E-mail Temporário.: O que é e porque usar](https://dev.to/rafaelbonilha/e-mail-temporario-o-que-e-e-porque-usar-54g3)
-- [I Built a Fully Autonomous Coding Agent for Under $50/Month — Here&#39;s the Exact Setup](https://dev.to/suifeng023/i-built-a-fully-autonomous-coding-agent-for-under-50month-heres-the-exact-setup-5ep5)
-- [AI Just Erased the Gap Between Idea and Implementation](https://dev.to/rohaan_advani_dfaa5d904d8/ai-just-erased-the-gap-between-idea-and-implementation-3fif)
-- [the CSRF token](https://dev.to/rrouwelng/the-csrf-token-593p)
+- [How I Wired Claude AI into My SaaS and What Actually Worked vs. What Was Just Hype](https://dev.to/djs2082/how-i-wired-claude-ai-into-my-saas-and-what-actually-worked-vs-what-was-just-hype-47ni)
+- [How to Survive an Infrastructure Meltdown with Meshtastic and MeshCore &lpar;2026&rpar;](https://dev.to/noperai42eng/how-to-survive-an-infrastructure-meltdown-with-meshtastic-and-meshcore-2026-dej)
+- [Building a Minimalist, Ad-Free Inbox for Instant Privacy: Introducing MailFlux](https://dev.to/mahmudul_hasantamim_4fcd/building-a-minimalist-ad-free-inbox-for-instant-privacy-introducing-mailflux-1a8e)
+- [Privacy-first mind mapping app. Part 7: Owning Your Workflow](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-6-owning-your-workflow-26ha)
 <!-- BLOG-POST-LIST:END -->
 
 
