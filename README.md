@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing NVIDIA BadTLP PCIe Freezes on Linux - or an ASUS TUF gaming laptop odyssey](https://dev.to/tolvo/fixing-nvidia-badtlp-pcie-freezes-on-linux-or-an-asus-tuf-gaming-laptop-odyssey-hp9)
-- [Install Android SDK Command Line Tools for Flutter &lpar;Without Android Studio&rpar;](https://dev.to/raflizocky_/install-android-sdk-command-line-tools-for-flutter-without-android-studio-25nb)
-- [ADB Wireless Debugging in Android Development](https://dev.to/raflizocky_/adb-wireless-debugging-in-android-development-4je0)
-- [Multiple Sheets Excel Export in Laravel](https://dev.to/raflizocky_/multiple-sheets-excel-export-in-laravel-9od)
+- [# Containerizing a Broken Microservices App and Shipping It with a Full CI/CD Pipeline](https://dev.to/edith_asante_799bd09cf9c1/-containerizing-a-broken-microservices-app-and-shipping-it-with-a-full-cicd-pipeline-407b)
+- [The Illusion of Scale, Part 1: When Your &quot;Scalable&quot; System Isn&#39;t](https://dev.to/anusha_mukka/the-illusion-of-scale-part-1-when-your-scalable-system-isnt-1337)
+- [Building a Signal Scheduler: Sync, Batch, Priority, and Lazy Execution](https://dev.to/luciano0322/building-a-signal-scheduler-sync-batch-priority-and-lazy-execution-2okf)
+- [I Reimplemented Anthropic Dreaming. The First Dream Was Wrong.](https://dev.to/wildeconforce/i-reimplemented-anthropic-dreaming-the-first-dream-was-wrong-1gi6)
 <!-- BLOG-POST-LIST:END -->
 
 
