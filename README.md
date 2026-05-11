@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design Tradeoffs](https://dev.to/nozibul_islam_113b1d5334f/system-design-tradeoffs-30k9)
-- [REDCAAP Framework for Frontend SD](https://dev.to/nozibul_islam_113b1d5334f/redcaap-framework-for-frontend-sd-40e7)
-- [The Main Advantage Of Coding &quot;The Old Way&quot; Over AI-Assisted Coding](https://dev.to/canro91/the-main-advantage-of-coding-the-old-way-over-ai-assisted-coding-31o9)
-- [MCP Solved Tool Access. Tool Selection Is Still Unsolved](https://dev.to/anmolrajsoni15/mcp-solved-tool-access-tool-selection-is-still-unsolved-2a4f)
+- [EP3: Native Kubernetes deployment is officially working in Coolify. But getting there meant wrestling with vicious race conditions.](https://dev.to/drtobbyas/ep3-native-kubernetes-deployment-is-officially-working-in-coolify-but-getting-there-meant-13h2)
+- [Suggix Weekly: Stop Building Everything: Let Users Decide What Matters](https://dev.to/suggix/suggix-weekly-stop-building-everything-let-users-decide-what-matters-cah)
+- [Let’s Talk About Micromanagement....](https://dev.to/anna17/lets-talk-about-micromanagement-3m9)
+- [How I Built 7 AI Systems to Run a Social Media App — Architecture Deep Dive](https://dev.to/bravo24/how-i-built-7-ai-systems-to-run-a-social-media-app-architecture-deep-dive-27fj)
 <!-- BLOG-POST-LIST:END -->
 
 
