@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifying three custom domains in Google Search Console with Cloudflare DNS](https://dev.to/morinaga/verifying-three-custom-domains-in-google-search-console-with-cloudflare-dns-2jfh)
-- [How I rebuilt Astro slug pages after AdSense flagged three sites for scaled content abuse](https://dev.to/morinaga/how-i-rebuilt-astro-slug-pages-after-adsense-flagged-three-sites-for-scaled-content-abuse-ln8)
-- [Java Questions on Collections](https://dev.to/tapaspal/java-questions-on-collections-d1o)
-- [A Billion Token Lesson: Because You Can You Should](https://dev.to/vystartasv/a-billion-token-lesson-because-you-can-you-should-56op)
+- [I Used Codex to Build, Structure, Validate, and Deploy an SEO Glossary](https://dev.to/time20260320/i-used-codex-to-build-structure-validate-and-deploy-an-seo-glossary-71)
+- [The Agent Space Is About to Have Its TCP/IP Moment. Here Is What That Means for Builders.](https://dev.to/artem_a/the-agent-space-is-about-to-have-its-tcpip-moment-here-is-what-that-means-for-builders-1eof)
+- [The ESP32 Has Quietly Become One of the Most Interesting Hacker Devices Alive](https://dev.to/numbpill3d/the-esp32-has-quietly-become-one-of-the-most-interesting-hacker-devices-alive-3fa3)
+- [Embed mruby as a Single Binary That Runs Everywhere](https://dev.to/eldemcan/embed-mruby-as-a-single-binary-that-runs-everywhere-10o0)
 <!-- BLOG-POST-LIST:END -->
 
 
