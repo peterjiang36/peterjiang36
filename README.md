@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [État global 1/4 : comment la blockchain sait &quot;qui possède quoi&quot; ?](https://dev.to/amel_in_tech/etat-global-14-comment-la-blockchain-sait-qui-possede-quoi--2dfp)
-- [Most devs send the whole object and call it a PATCH. RFC 6902 exists for a reason. Here&#39;s what JSON Patch actually does and when it&#39;s worth the switch.](https://dev.to/99tools/most-devs-send-the-whole-object-and-call-it-a-patch-rfc-6902-exists-for-a-reason-heres-what-json-159f)
-- [Stop sending entire objects in your PATCH requests. There&#39;s a better way](https://dev.to/99tools/stop-sending-entire-objects-in-your-patch-requests-theres-a-better-way-411o)
-- [We Wrote a Compiler in the Language It Compiles. It Works.](https://dev.to/artanidos/we-wrote-a-compiler-in-the-language-it-compiles-it-works-46p)
+- [E-mail Temporário.: O que é e porque usar](https://dev.to/rafaelbonilha/e-mail-temporario-o-que-e-e-porque-usar-54g3)
+- [I Built a Fully Autonomous Coding Agent for Under $50/Month — Here&#39;s the Exact Setup](https://dev.to/suifeng023/i-built-a-fully-autonomous-coding-agent-for-under-50month-heres-the-exact-setup-5ep5)
+- [AI Just Erased the Gap Between Idea and Implementation](https://dev.to/rohaan_advani_dfaa5d904d8/ai-just-erased-the-gap-between-idea-and-implementation-3fif)
+- [the CSRF token](https://dev.to/rrouwelng/the-csrf-token-593p)
 <!-- BLOG-POST-LIST:END -->
 
 
