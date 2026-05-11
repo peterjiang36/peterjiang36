@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Containerizing a Broken Microservices App and Shipping It with a Full CI/CD Pipeline](https://dev.to/edith_asante_799bd09cf9c1/-containerizing-a-broken-microservices-app-and-shipping-it-with-a-full-cicd-pipeline-407b)
-- [The Illusion of Scale, Part 1: When Your &quot;Scalable&quot; System Isn&#39;t](https://dev.to/anusha_mukka/the-illusion-of-scale-part-1-when-your-scalable-system-isnt-1337)
-- [Building a Signal Scheduler: Sync, Batch, Priority, and Lazy Execution](https://dev.to/luciano0322/building-a-signal-scheduler-sync-batch-priority-and-lazy-execution-2okf)
-- [I Reimplemented Anthropic Dreaming. The First Dream Was Wrong.](https://dev.to/wildeconforce/i-reimplemented-anthropic-dreaming-the-first-dream-was-wrong-1gi6)
+- [str&lpar;&rpar; vs repr&lpar;&rpar; vs print&lpar;&rpar; in Python](https://dev.to/samikshasri/str-vs-repr-vs-print-in-python-4p9m)
+- [I Couldn&#39;t Optimize Max Sum Min-Product Until I Flipped the Question](https://dev.to/avinash_tyagi_98/i-couldnt-optimize-max-sum-min-product-until-i-flipped-the-question-4eli)
+- [Reddit&#39;s Karma Score Is a Lie. Here&#39;s the Math Behind It.](https://dev.to/architagr/reddits-karma-score-is-a-lie-heres-the-math-behind-it-14a4)
+- [Frugal Cascade: um padrão de resiliência para arquiteturas com orçamento zero](https://dev.to/albornozrodrigo/frugal-cascade-um-padrao-de-resiliencia-para-arquiteturas-com-orcamento-zero-cpa)
 <!-- BLOG-POST-LIST:END -->
 
 
