@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Dockerized Cryptocurrency ETL Pipeline with Apache Airflow](https://dev.to/karen_langat_299784e2c330/building-a-dockerized-cryptocurrency-etl-pipeline-with-apache-airflow-k08)
-- [I Charged $80/Month for AI Agent Work. A $5,000/Month Guide Said I Should Be Charging $5,000.](https://dev.to/mrclaw207/i-charged-80month-for-ai-agent-work-a-5000month-guide-said-i-should-be-charging-5000-301i)
-- [The Gap Nobody Talks About :Students, Companies &amp; The Technology Pressure](https://dev.to/anushka_shinde_99/the-gap-nobody-talks-about-students-companies-the-technology-pressure-1ll1)
-- [The Game Feature I Keep Redesigning &lpar;And Why I Keep Getting It Wrong&rpar;](https://dev.to/jun_yan_4ab7b07fcf89cbd92/the-game-feature-i-keep-redesigning-and-why-i-keep-getting-it-wrong-2g94)
+- [LLD Foundations: What is System Design &lpar;and why it actually matters&rpar;](https://dev.to/saras_growth_space/lld-foundations-what-is-system-design-and-why-it-actually-matters-29d5)
+- [Best subscription billing software for SaaS in 2026: A decision guide](https://dev.to/arnon_shimoni_f734319d79c/best-subscription-billing-software-for-saas-in-2026-a-decision-guide-3fce)
+- [Bubble up - Android 17&#39;s new multitasking feature explained](https://dev.to/tkuenneth/bubble-up-android-17s-new-multitasking-feature-explained-l58)
+- [Why I Shipped Coulomb Counting Before the Hardware Worked](https://dev.to/aliaksandrliapin/why-i-shipped-coulomb-counting-before-the-hardware-worked-5akk)
 <!-- BLOG-POST-LIST:END -->
 
 
