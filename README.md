@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLD Foundations: What is System Design &lpar;and why it actually matters&rpar;](https://dev.to/saras_growth_space/lld-foundations-what-is-system-design-and-why-it-actually-matters-29d5)
-- [Best subscription billing software for SaaS in 2026: A decision guide](https://dev.to/arnon_shimoni_f734319d79c/best-subscription-billing-software-for-saas-in-2026-a-decision-guide-3fce)
-- [Bubble up - Android 17&#39;s new multitasking feature explained](https://dev.to/tkuenneth/bubble-up-android-17s-new-multitasking-feature-explained-l58)
-- [Why I Shipped Coulomb Counting Before the Hardware Worked](https://dev.to/aliaksandrliapin/why-i-shipped-coulomb-counting-before-the-hardware-worked-5akk)
+- [État global 1/4 : comment la blockchain sait &quot;qui possède quoi&quot; ?](https://dev.to/amel_in_tech/etat-global-14-comment-la-blockchain-sait-qui-possede-quoi--2dfp)
+- [Most devs send the whole object and call it a PATCH. RFC 6902 exists for a reason. Here&#39;s what JSON Patch actually does and when it&#39;s worth the switch.](https://dev.to/99tools/most-devs-send-the-whole-object-and-call-it-a-patch-rfc-6902-exists-for-a-reason-heres-what-json-159f)
+- [Stop sending entire objects in your PATCH requests. There&#39;s a better way](https://dev.to/99tools/stop-sending-entire-objects-in-your-patch-requests-theres-a-better-way-411o)
+- [We Wrote a Compiler in the Language It Compiles. It Works.](https://dev.to/artanidos/we-wrote-a-compiler-in-the-language-it-compiles-it-works-46p)
 <!-- BLOG-POST-LIST:END -->
 
 
