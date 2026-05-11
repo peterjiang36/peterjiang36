@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EP3: Native Kubernetes deployment is officially working in Coolify. But getting there meant wrestling with vicious race conditions.](https://dev.to/drtobbyas/ep3-native-kubernetes-deployment-is-officially-working-in-coolify-but-getting-there-meant-13h2)
-- [Suggix Weekly: Stop Building Everything: Let Users Decide What Matters](https://dev.to/suggix/suggix-weekly-stop-building-everything-let-users-decide-what-matters-cah)
-- [Let’s Talk About Micromanagement....](https://dev.to/anna17/lets-talk-about-micromanagement-3m9)
-- [How I Built 7 AI Systems to Run a Social Media App — Architecture Deep Dive](https://dev.to/bravo24/how-i-built-7-ai-systems-to-run-a-social-media-app-architecture-deep-dive-27fj)
+- [The 4-Way Compute Tradeoff: Reserved vs Spot vs Savings Plan vs On-Demand After 3 Years of FinOps Data](https://dev.to/muskan_8abedcc7e12/the-4-way-compute-tradeoff-reserved-vs-spot-vs-savings-plan-vs-on-demand-after-3-years-of-finops-30nm)
+- [FinOps Right-Sizing Without Vibes: The 5-Number Recipe That Cuts $200k of Idle EC2](https://dev.to/muskan_8abedcc7e12/finops-right-sizing-without-vibes-the-5-number-recipe-that-cuts-200k-of-idle-ec2-8l6)
+- [Closed-Loop SRE for Kubernetes: Auto-Remediating Pod Crashloops Before the On-Call Pages](https://dev.to/muskan_8abedcc7e12/closed-loop-sre-for-kubernetes-auto-remediating-pod-crashloops-before-the-on-call-pages-47gd)
+- [Python 101](https://dev.to/renee_mumbi_w/python-101-km)
 <!-- BLOG-POST-LIST:END -->
 
 
