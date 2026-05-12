@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Self Introduction - The beginning](https://dev.to/kabelo_dibakoane/self-introduction-the-beginning-5dp5)
-- [I built a fantasy name generator with real etymology using Next.js and linguistic databases](https://dev.to/lyyluca/i-built-a-fantasy-name-generator-with-real-etymology-using-nextjs-and-linguistic-databases-1k4p)
-- [Docker Volume Backup Strategies on My Own VPS](https://dev.to/merbayerp/docker-volume-backup-strategies-on-my-own-vps-2n3m)
-- [Why Payable Workflows Are Broken &lpar;And How to Fix Them&rpar;](https://dev.to/digitxbooks-official/why-payable-workflows-are-broken-and-how-to-fix-them-5eeb)
+- [From One Prompt to a Full Fantasy Nation Generator — No Code, No Cost](https://dev.to/sreejit_/from-one-prompt-to-a-full-fantasy-nation-generator-no-code-no-cost-5da3)
+- [Compile-time vs runtime: where MCP security actually lives](https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l)
+- [I built a PowerToys Quick Accent alternative for Linux](https://dev.to/maik-0000ff/i-built-a-powertoys-quick-accent-alternative-for-linux-341f)
+- [Best Authentication Architecture for Enterprise React Apps?](https://dev.to/salem_ebrahim_1311/best-authentication-architecture-for-enterprise-react-apps-3n)
 <!-- BLOG-POST-LIST:END -->
 
 
