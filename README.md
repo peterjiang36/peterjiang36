@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install WireGuard VPN on Ubuntu and Configure It as a Server — Using Port 443 to Bypass ISP Throttling](https://dev.to/fatihsennik/how-to-install-wireguard-vpn-on-ubuntu-and-configure-it-as-a-server-using-port-443-to-bypass-isp-17jg)
-- [I Built Rust-Style ADTs in 30 Lines of Python &lpar;Pattern Matching Works&rpar;](https://dev.to/alexander_mia_9/i-built-rust-style-adts-in-30-lines-of-python-pattern-matching-works-41le)
-- [Building an Offline-First Exchange Calculator with Vanilla JavaScript](https://dev.to/seansble/building-an-offline-first-exchange-calculator-with-vanilla-javascript-45co)
-- [10 CLI Tools Every Python Developer Should Know in 2025](https://dev.to/suifeng023/10-cli-tools-every-python-developer-should-know-in-2025-4hn6)
+- [Why Python Still Matters in an AI-Driven Coding World](https://dev.to/blncraft/why-python-still-matters-in-an-ai-driven-coding-world-1812)
+- [I built an AI phone receptionist in 3 weeks. Here&#39;s what nobody tells you.](https://dev.to/abbas_imran_dbc3c8df6447e/i-built-an-ai-phone-receptionist-in-3-weeks-heres-what-nobody-tells-you-32n0)
+- [Automating Creative QA: Using AI to Peer-Review Ad Content Before It Hits the Meta API](https://dev.to/peterslab/automating-creative-qa-using-ai-to-peer-review-ad-content-before-it-hits-the-meta-api-1eh0)
+- [Why Strategy Matters More Than Raw Skill in Competitive Gaming](https://dev.to/astutebetaserverhq/why-strategy-matters-more-than-raw-skill-in-competitive-gaming-2b87)
 <!-- BLOG-POST-LIST:END -->
 
 
