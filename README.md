@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Dinghy: a Swiss-army knife for everyday engineering](https://dev.to/mrduguo/introduction-to-dinghy-a-swiss-army-knife-for-everyday-engineering-20l2)
-- [What Nigeria&#39;s Stock Market Taught Me About System Reliability](https://dev.to/okeke_chukwudubem_5f3bf49/what-nigerias-stock-market-taught-me-about-system-reliability-19n4)
-- [Mini Shai-Hulud: un gusano de cadena de suministro que explotó TanStack y el ecosistema npm.](https://dev.to/bush1dom4koto/mini-shai-hulud-un-gusano-de-cadena-de-suministro-que-exploto-tanstack-y-el-ecosistema-npm-4df7)
-- [The compliance deadline banks aren&#39;t watching for](https://dev.to/albochi/the-compliance-deadline-banks-arent-watching-for-2l3a)
+- [Frankenstein Meeting Room: Three Apps in One Browser Tab](https://dev.to/lutz_leonhardt/frankenstein-meeting-room-three-apps-in-one-browser-tab-igi)
+- [AI made me realise everything is a means to an end!](https://dev.to/itsonlyny/ai-made-me-realise-everything-is-a-means-to-an-end-1mlh)
+- [Async Architectures for Shopify Operations: Patterns That Actually Hold Under Load](https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe)
+- [Encryption Protocols for Secure AI Systems: A Practical Guide](https://dev.to/artem_a/encryption-protocols-for-secure-ai-systems-a-practical-guide-21i2)
 <!-- BLOG-POST-LIST:END -->
 
 
