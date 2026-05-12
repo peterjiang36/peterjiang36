@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used Codex to Build, Structure, Validate, and Deploy an SEO Glossary](https://dev.to/time20260320/i-used-codex-to-build-structure-validate-and-deploy-an-seo-glossary-71)
-- [The Agent Space Is About to Have Its TCP/IP Moment. Here Is What That Means for Builders.](https://dev.to/artem_a/the-agent-space-is-about-to-have-its-tcpip-moment-here-is-what-that-means-for-builders-1eof)
-- [The ESP32 Has Quietly Become One of the Most Interesting Hacker Devices Alive](https://dev.to/numbpill3d/the-esp32-has-quietly-become-one-of-the-most-interesting-hacker-devices-alive-3fa3)
-- [Embed mruby as a Single Binary That Runs Everywhere](https://dev.to/eldemcan/embed-mruby-as-a-single-binary-that-runs-everywhere-10o0)
+- [CONTRACT-Style-Comments: Interface for the Agentic Epoch](https://dev.to/ajaxstardust/contract-style-comments-interface-for-the-agentic-epoch-5kf)
+- [Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product](https://dev.to/arjun-zosma/test-4cff)
+- [QUICKSTART.md &lpar;how to run&rpar;](https://dev.to/ajaxstardust/quickstartmd-how-to-run-2ab6)
+- [Formal Root Invariant Layer: CONTRACT.md](https://dev.to/ajaxstardust/formalize-the-root-invariant-layer-contractmd-567g)
 <!-- BLOG-POST-LIST:END -->
 
 
