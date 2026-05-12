@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Principles for Agent Systems That Don&#39;t Hallucinate](https://dev.to/webramos/six-principles-for-agent-systems-that-dont-hallucinate-14gn)
-- [When &#39;Close to the Hardware&#39; Isn&#39;t Close Enough](https://dev.to/lmilz/when-close-to-the-hardware-isnt-close-enough-46p8)
-- [GPT-5.5 Pro เทียบกับ Instant: คุ้มค่าไหมเมื่อราคาต่าง 6 เท่า](https://dev.to/thanawat_wonchai/gpt-55-pro-ethiiybkab-instant-khumkhaaaihmemuueraakhaataang-6-ethaa-1h7l)
-- [Running Gemma4 for Free on HuggingFace](https://dev.to/ismailisimba/running-gemma4-for-free-on-huggingface-4bfe)
+- [Self Introduction - The beginning](https://dev.to/kabelo_dibakoane/self-introduction-the-beginning-5dp5)
+- [I built a fantasy name generator with real etymology using Next.js and linguistic databases](https://dev.to/lyyluca/i-built-a-fantasy-name-generator-with-real-etymology-using-nextjs-and-linguistic-databases-1k4p)
+- [Docker Volume Backup Strategies on My Own VPS](https://dev.to/merbayerp/docker-volume-backup-strategies-on-my-own-vps-2n3m)
+- [Why Payable Workflows Are Broken &lpar;And How to Fix Them&rpar;](https://dev.to/digitxbooks-official/why-payable-workflows-are-broken-and-how-to-fix-them-5eeb)
 <!-- BLOG-POST-LIST:END -->
 
 
