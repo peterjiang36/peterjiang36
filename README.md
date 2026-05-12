@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📖 Reviewing &#39;Building a Safer Onion&#39; – A Rustacean&#39;s Take on the Tor Rewrite](https://dev.to/knspar/reviewing-building-a-safer-onion-a-rustaceans-take-on-the-tor-rewrite-1n6i)
-- [It seems typing out code is already the old way](https://dev.to/canro91/it-seems-typing-out-code-is-already-the-old-way-3c43)
-- [How I built an Offline-First AI App using LLaMA 3 and React](https://dev.to/amit_mishra_4729/how-i-built-an-offline-first-ai-app-using-llama-3-and-react-49b)
-- [Making repository readiness machine-readable](https://dev.to/faithada/making-repository-readiness-machine-readable-4c8i)
+- [ClickHouse JOINs Aren&#39;t Slow Anymore &lpar;You&#39;re Reading 2020&#39;s Docs&rpar;](https://dev.to/aman_puri_115f49d5ad3612d/clickhouse-joins-arent-slow-anymore-youre-reading-2020s-docs-15fe)
+- [Your CI/CD Pipelines Are Your Largest Unmonitored Attack Surface](https://dev.to/aws-builders/your-cicd-pipelines-are-your-largest-unmonitored-attack-surface-59ck)
+- [Pattern Is All You Need: Why NPC Depth Beats Model Size](https://dev.to/dannygerst/pattern-is-all-you-need-why-npc-depth-beats-model-size-4723)
+- [Built a Modern Web Metrics Dashboard for Real-Time Performance Monitoring](https://dev.to/krrishsr4/built-a-modern-web-metrics-dashboard-for-real-time-performance-monitoring-3ba2)
 <!-- BLOG-POST-LIST:END -->
 
 
