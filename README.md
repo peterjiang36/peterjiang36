@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Frankenstein Meeting Room: Three Apps in One Browser Tab](https://dev.to/lutz_leonhardt/frankenstein-meeting-room-three-apps-in-one-browser-tab-igi)
-- [AI made me realise everything is a means to an end!](https://dev.to/itsonlyny/ai-made-me-realise-everything-is-a-means-to-an-end-1mlh)
-- [Async Architectures for Shopify Operations: Patterns That Actually Hold Under Load](https://dev.to/asad_abdullah_zafar/async-architectures-for-shopify-operations-patterns-that-actually-hold-under-load-4aoe)
-- [Encryption Protocols for Secure AI Systems: A Practical Guide](https://dev.to/artem_a/encryption-protocols-for-secure-ai-systems-a-practical-guide-21i2)
+- [Can you stop attacking #npm packages? I&#39;m scared of installing packages. Now it&#39;s time to switch 100% to PNPM...](https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-1dg9)
+- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-29c9)
+- [How I Designed a 4-Layer i18n Architecture for Minecraft&#39;s Standard UI in Spigot](https://dev.to/m_b_94a69cb4f572c49e856c2/how-i-designed-a-4-layer-i18n-architecture-for-minecrafts-standard-ui-in-spigot-4311)
 <!-- BLOG-POST-LIST:END -->
 
 
