@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Removed Ads from Our Free Tools &lpar;And Put Them Only on Blog Posts&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-we-removed-ads-from-our-free-tools-and-put-them-only-on-blog-posts-2k7j)
-- [How I practice Chinese typing as a developer](https://dev.to/tian_83bd87e21f501544588a/how-i-practice-chinese-typing-as-a-developer-4je9)
-- [Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product](https://dev.to/arjun-zosma/why-we-built-dhara-an-open-protocol-standard-for-ai-agents-not-another-product-4n8i)
-- [SQLite and Concurrency: The Lockout Experienced at islistesi.com](https://dev.to/merbayerp/sqlite-and-concurrency-the-lockout-experienced-at-islistesicom-405o)
+- [SafeReach AI](https://dev.to/pradeep_hebballi_2a02b8b3/safereach-ai-5ekh)
+- [I Built an AI-Powered Dead Code Detector for VS Code &lpar;and It Goes Way Beyond Unused Imports&rpar;](https://dev.to/naimulkarim/i-built-an-ai-powered-dead-code-detector-for-vs-code-and-it-goes-way-beyond-unused-imports-50dc)
+- [这个 44K Stars、6.8M 次安装的命令行 AI 编程工具，90% 的开发者只用了 1% 的功能](https://dev.to/_cbd692d476c5faf3b61bcf/zhe-ge-44k-stars-68m-ci-an-zhuang-de-ming-ling-xing-ai-bian-cheng-gong-ju-90-de-kai-fa-zhe-zhi-yong-liao-1-de-gong-neng-5gao)
+- [How to Use One Forex API for Real-Time US, HK Stocks &amp; Precious Metals](https://dev.to/kalos889/how-to-use-one-forex-api-for-real-time-us-hk-stocks-precious-metals-3adb)
 <!-- BLOG-POST-LIST:END -->
 
 
