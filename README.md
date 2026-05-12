@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Python Still Matters in an AI-Driven Coding World](https://dev.to/blncraft/why-python-still-matters-in-an-ai-driven-coding-world-1812)
-- [I built an AI phone receptionist in 3 weeks. Here&#39;s what nobody tells you.](https://dev.to/abbas_imran_dbc3c8df6447e/i-built-an-ai-phone-receptionist-in-3-weeks-heres-what-nobody-tells-you-32n0)
-- [Automating Creative QA: Using AI to Peer-Review Ad Content Before It Hits the Meta API](https://dev.to/peterslab/automating-creative-qa-using-ai-to-peer-review-ad-content-before-it-hits-the-meta-api-1eh0)
-- [Why Strategy Matters More Than Raw Skill in Competitive Gaming](https://dev.to/astutebetaserverhq/why-strategy-matters-more-than-raw-skill-in-competitive-gaming-2b87)
+- [Analyzing HLS Audio Streams with Web Audio API and hls.js](https://dev.to/andreyburov30/analyzing-hls-audio-streams-with-web-audio-api-and-hlsjs-ffb)
+- [ML fraud detection platform using AI agents](https://dev.to/souptik96/ml-fraud-detection-platform-using-ai-agents-39k8)
+- [LLD Foundations: Understanding Requirements &lpar;the step most people skip&rpar;](https://dev.to/saras_growth_space/lld-foundations-understanding-requirements-the-step-most-people-skip-2f96)
+- [Python para inteligencia artificial, por dónde empezar si sos developer junior](https://dev.to/carlosjcastrog/python-para-inteligencia-artificial-por-donde-empezar-si-sos-developer-junior-3e3m)
 <!-- BLOG-POST-LIST:END -->
 
 
