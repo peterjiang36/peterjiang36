@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you stop attacking #npm packages? I&#39;m scared of installing packages. Now it&#39;s time to switch 100% to PNPM...](https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-1dg9)
-- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-29c9)
-- [How I Designed a 4-Layer i18n Architecture for Minecraft&#39;s Standard UI in Spigot](https://dev.to/m_b_94a69cb4f572c49e856c2/how-i-designed-a-4-layer-i18n-architecture-for-minecrafts-standard-ui-in-spigot-4311)
+- [One Viewer for Every File: A Better Story for React Apps](https://dev.to/naveen_kumar_19/one-viewer-for-every-file-a-better-story-for-react-apps-2cb1)
+- [How to Write a Game Development Brief That Gets Accurate Quotes](https://dev.to/oceanviewgames/how-to-write-a-game-development-brief-that-gets-accurate-quotes-eeb)
+- [WhiteboardIQ: From Blurry Whiteboard Photo to Structured Action Items with Gemma 4 E4B](https://dev.to/sameer_zubair_37ae31f4fb5/whiteboardiq-from-blurry-whiteboard-photo-to-structured-action-items-with-gemma-4-e4b-4ifg)
+- [grep Said 1,202. The Real Answer Was 10. — Introducing colref](https://dev.to/_402ccbd6e5cb02871506/grep-said-1202-the-real-answer-was-10-introducing-colref-2lce)
 <!-- BLOG-POST-LIST:END -->
 
 
