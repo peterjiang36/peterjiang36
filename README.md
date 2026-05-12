@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From One Prompt to a Full Fantasy Nation Generator — No Code, No Cost](https://dev.to/sreejit_/from-one-prompt-to-a-full-fantasy-nation-generator-no-code-no-cost-5da3)
-- [Compile-time vs runtime: where MCP security actually lives](https://dev.to/kcrazy/compile-time-vs-runtime-where-mcp-security-actually-lives-1g6l)
-- [I built a PowerToys Quick Accent alternative for Linux](https://dev.to/maik-0000ff/i-built-a-powertoys-quick-accent-alternative-for-linux-341f)
-- [Best Authentication Architecture for Enterprise React Apps?](https://dev.to/salem_ebrahim_1311/best-authentication-architecture-for-enterprise-react-apps-3n)
+- [Wearables and the Rise of Everyday Bio-Surveillance](https://dev.to/shradha_puri/wearables-and-the-rise-of-everyday-bio-surveillance-jjg)
+- [AI Cannot Continue Like This: Why We Need an Opt-In Model and &quot;Pay-per-Citation&quot; by Law](https://dev.to/jcarlosweb/ai-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-5dme)
+- [How I Locked Down a Static Site with Lambda@Edge and Cognito &lpar;No Backend Required&rpar;](https://dev.to/robertobelotti/how-i-locked-down-a-static-site-with-lambdaedge-and-cognito-no-backend-required-40el)
+- [I built fixnx to catch common website issues &lpar;security/SEO/performance&rpar;](https://dev.to/7t_b92610df62e11cd9c45196/i-built-fixnx-to-catch-common-website-issues-securityseoperformance-42ph)
 <!-- BLOG-POST-LIST:END -->
 
 
