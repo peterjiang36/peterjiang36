@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpacking the WebAIM Million report: The Unfinished Homepage Pandemic](https://dev.to/a11ynews/unpacking-the-webaim-million-report-the-unfinished-homepage-pandemic-3p1f)
-- [Frankenstein Meeting Room: Drei Apps in einem Browser-Tab](https://dev.to/lutz_leonhardt/frankenstein-meeting-room-drei-apps-in-einem-browser-tab-24p7)
-- [Day 23 Building GoDavaii: Why Language Barriers Aren&#39;t Just Translation Problems in Health AI](https://dev.to/godavaii/day-23-building-godavaii-why-language-barriers-arent-just-translation-problems-in-health-ai-2g5e)
-- [OperatorMesh: Incident Triage Without Dashboard Noise](https://dev.to/praveenballari/operatormesh-incident-triage-without-dashboard-noise-15lj)
+- [📖 Reviewing &#39;Building a Safer Onion&#39; – A Rustacean&#39;s Take on the Tor Rewrite](https://dev.to/knspar/reviewing-building-a-safer-onion-a-rustaceans-take-on-the-tor-rewrite-1n6i)
+- [It seems typing out code is already the old way](https://dev.to/canro91/it-seems-typing-out-code-is-already-the-old-way-3c43)
+- [How I built an Offline-First AI App using LLaMA 3 and React](https://dev.to/amit_mishra_4729/how-i-built-an-offline-first-ai-app-using-llama-3-and-react-49b)
+- [Making repository readiness machine-readable](https://dev.to/faithada/making-repository-readiness-machine-readable-4c8i)
 <!-- BLOG-POST-LIST:END -->
 
 
