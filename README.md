@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CONTRACT-Style-Comments: Interface for the Agentic Epoch](https://dev.to/ajaxstardust/contract-style-comments-interface-for-the-agentic-epoch-5kf)
-- [Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product](https://dev.to/arjun-zosma/test-4cff)
-- [QUICKSTART.md &lpar;how to run&rpar;](https://dev.to/ajaxstardust/quickstartmd-how-to-run-2ab6)
-- [Formal Root Invariant Layer: CONTRACT.md](https://dev.to/ajaxstardust/formalize-the-root-invariant-layer-contractmd-567g)
+- [Why We Removed Ads from Our Free Tools &lpar;And Put Them Only on Blog Posts&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/why-we-removed-ads-from-our-free-tools-and-put-them-only-on-blog-posts-2k7j)
+- [How I practice Chinese typing as a developer](https://dev.to/tian_83bd87e21f501544588a/how-i-practice-chinese-typing-as-a-developer-4je9)
+- [Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product](https://dev.to/arjun-zosma/why-we-built-dhara-an-open-protocol-standard-for-ai-agents-not-another-product-4n8i)
+- [SQLite and Concurrency: The Lockout Experienced at islistesi.com](https://dev.to/merbayerp/sqlite-and-concurrency-the-lockout-experienced-at-islistesicom-405o)
 <!-- BLOG-POST-LIST:END -->
 
 
