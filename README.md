@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse JOINs Aren&#39;t Slow Anymore &lpar;You&#39;re Reading 2020&#39;s Docs&rpar;](https://dev.to/aman_puri_115f49d5ad3612d/clickhouse-joins-arent-slow-anymore-youre-reading-2020s-docs-15fe)
-- [Your CI/CD Pipelines Are Your Largest Unmonitored Attack Surface](https://dev.to/aws-builders/your-cicd-pipelines-are-your-largest-unmonitored-attack-surface-59ck)
-- [Pattern Is All You Need: Why NPC Depth Beats Model Size](https://dev.to/dannygerst/pattern-is-all-you-need-why-npc-depth-beats-model-size-4723)
-- [Built a Modern Web Metrics Dashboard for Real-Time Performance Monitoring](https://dev.to/krrishsr4/built-a-modern-web-metrics-dashboard-for-real-time-performance-monitoring-3ba2)
+- [We&#39;re All Juggling 4 AI Tools Now and Pretending That&#39;s Normal](https://dev.to/chrisbuildsonline/were-all-juggling-4-ai-tools-now-and-pretending-thats-normal-25pp)
+- [Termux + Ollama + 2.3B parameters. Offline. Private. Fast.
+
+Wrote a full guide on how to set it up, what works, and what breaks.
+
+If your internet has ever failed you mid-build, this is for you.](https://dev.to/okeke_chukwudubem_5f3bf49/termux-ollama-23b-parameters-offline-private-fast-wrote-a-full-guide-on-how-to-set-it-356e)
+- [🏆 30 Best Distributed Systems Talks of All Time](https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g)
+- [Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?](https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h)
 <!-- BLOG-POST-LIST:END -->
 
 
