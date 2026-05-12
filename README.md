@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re All Juggling 4 AI Tools Now and Pretending That&#39;s Normal](https://dev.to/chrisbuildsonline/were-all-juggling-4-ai-tools-now-and-pretending-thats-normal-25pp)
-- [Termux + Ollama + 2.3B parameters. Offline. Private. Fast.
-
-Wrote a full guide on how to set it up, what works, and what breaks.
-
-If your internet has ever failed you mid-build, this is for you.](https://dev.to/okeke_chukwudubem_5f3bf49/termux-ollama-23b-parameters-offline-private-fast-wrote-a-full-guide-on-how-to-set-it-356e)
-- [🏆 30 Best Distributed Systems Talks of All Time](https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g)
-- [Node.js 18 is a year past EOL and Node.js 20 just hit EOL — is your stack exposed?](https://dev.to/endoflifeai/nodejs-18-is-a-year-past-eol-and-nodejs-20-just-hit-eol-is-your-stack-exposed-394h)
+- [Introduction to Dinghy: a Swiss-army knife for everyday engineering](https://dev.to/mrduguo/introduction-to-dinghy-a-swiss-army-knife-for-everyday-engineering-20l2)
+- [What Nigeria&#39;s Stock Market Taught Me About System Reliability](https://dev.to/okeke_chukwudubem_5f3bf49/what-nigerias-stock-market-taught-me-about-system-reliability-19n4)
+- [Mini Shai-Hulud: un gusano de cadena de suministro que explotó TanStack y el ecosistema npm.](https://dev.to/bush1dom4koto/mini-shai-hulud-un-gusano-de-cadena-de-suministro-que-exploto-tanstack-y-el-ecosistema-npm-4df7)
+- [The compliance deadline banks aren&#39;t watching for](https://dev.to/albochi/the-compliance-deadline-banks-arent-watching-for-2l3a)
 <!-- BLOG-POST-LIST:END -->
 
 
