@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot JWT Authentication: The Complete Setup Most Tutorials Get Wrong](https://dev.to/kharonte/spring-boot-jwt-authentication-the-complete-setup-most-tutorials-get-wrong-2f8d)
-- [POJO in Java](https://dev.to/harini_magesh_fa40041cf8d/pojo-in-java-pgp)
-- [Designing Post-Submit Form Workflows as a State Machine](https://dev.to/lovanaut55/designing-post-submit-form-workflows-as-a-state-machine-1h82)
-- [Learning in 2026 with AI - How I Prepared for and Passed KCNA](https://dev.to/samith_perera/learning-in-2026-with-ai-how-i-prepared-for-and-passed-kcna-2ah8)
+- [Six Principles for Agent Systems That Don&#39;t Hallucinate](https://dev.to/webramos/six-principles-for-agent-systems-that-dont-hallucinate-14gn)
+- [When &#39;Close to the Hardware&#39; Isn&#39;t Close Enough](https://dev.to/lmilz/when-close-to-the-hardware-isnt-close-enough-46p8)
+- [GPT-5.5 Pro เทียบกับ Instant: คุ้มค่าไหมเมื่อราคาต่าง 6 เท่า](https://dev.to/thanawat_wonchai/gpt-55-pro-ethiiybkab-instant-khumkhaaaihmemuueraakhaataang-6-ethaa-1h7l)
+- [Running Gemma4 for Free on HuggingFace](https://dev.to/ismailisimba/running-gemma4-for-free-on-huggingface-4bfe)
 <!-- BLOG-POST-LIST:END -->
 
 
