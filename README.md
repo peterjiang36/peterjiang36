@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing HLS Audio Streams with Web Audio API and hls.js](https://dev.to/andreyburov30/analyzing-hls-audio-streams-with-web-audio-api-and-hlsjs-ffb)
-- [ML fraud detection platform using AI agents](https://dev.to/souptik96/ml-fraud-detection-platform-using-ai-agents-39k8)
-- [LLD Foundations: Understanding Requirements &lpar;the step most people skip&rpar;](https://dev.to/saras_growth_space/lld-foundations-understanding-requirements-the-step-most-people-skip-2f96)
-- [Python para inteligencia artificial, por dónde empezar si sos developer junior](https://dev.to/carlosjcastrog/python-para-inteligencia-artificial-por-donde-empezar-si-sos-developer-junior-3e3m)
+- [Unpacking the WebAIM Million report: The Unfinished Homepage Pandemic](https://dev.to/a11ynews/unpacking-the-webaim-million-report-the-unfinished-homepage-pandemic-3p1f)
+- [Frankenstein Meeting Room: Drei Apps in einem Browser-Tab](https://dev.to/lutz_leonhardt/frankenstein-meeting-room-drei-apps-in-einem-browser-tab-24p7)
+- [Day 23 Building GoDavaii: Why Language Barriers Aren&#39;t Just Translation Problems in Health AI](https://dev.to/godavaii/day-23-building-godavaii-why-language-barriers-arent-just-translation-problems-in-health-ai-2g5e)
+- [OperatorMesh: Incident Triage Without Dashboard Noise](https://dev.to/praveenballari/operatormesh-incident-triage-without-dashboard-noise-15lj)
 <!-- BLOG-POST-LIST:END -->
 
 
