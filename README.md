@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Viewer for Every File: A Better Story for React Apps](https://dev.to/naveen_kumar_19/one-viewer-for-every-file-a-better-story-for-react-apps-2cb1)
-- [How to Write a Game Development Brief That Gets Accurate Quotes](https://dev.to/oceanviewgames/how-to-write-a-game-development-brief-that-gets-accurate-quotes-eeb)
-- [WhiteboardIQ: From Blurry Whiteboard Photo to Structured Action Items with Gemma 4 E4B](https://dev.to/sameer_zubair_37ae31f4fb5/whiteboardiq-from-blurry-whiteboard-photo-to-structured-action-items-with-gemma-4-e4b-4ifg)
-- [grep Said 1,202. The Real Answer Was 10. — Introducing colref](https://dev.to/_402ccbd6e5cb02871506/grep-said-1202-the-real-answer-was-10-introducing-colref-2lce)
+- [Let Your AI Agent Pay for APIs Automatically with x402 + AgenticTrade](https://dev.to/judy_miranttie/let-your-ai-agent-pay-for-apis-automatically-with-x402-agentictrade-1bl4)
+- [Not Enough SEO? Your Content Needs AI Citations in 2026 to Get Traffic](https://dev.to/judy_miranttie/not-enough-seo-your-content-needs-ai-citations-in-2026-to-get-traffic-4afa)
+- [Desconstruindo o Streaming do Reddit: Como Construímos um Downloader de Alta Performance com DASH e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-reddit-como-construimos-um-downloader-de-alta-performance-com-dash-e-17ki)
+- [Décryptage technique : Comment builder un téléchargeur de vidéos Reddit performant &lpar;DASH, HLS &amp; WebAssembly&rpar;](https://dev.to/yqqwe/decryptage-technique-comment-builder-un-telechargeur-de-videos-reddit-performant-dash-hls--49b)
 <!-- BLOG-POST-LIST:END -->
 
 
