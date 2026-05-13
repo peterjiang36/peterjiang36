@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Opened an AI Coding Challenge “Just to Look.” A Few Hours Later, I Was Completely Invested in the Leaderboard.](https://dev.to/sukriti_singh/i-opened-an-ai-coding-challenge-just-to-look-a-few-hours-later-i-was-completely-invested-in-the-2cjp)
-- [It is completely okay to feel stupid reading someone else code](https://dev.to/samareshdas/it-is-completely-okay-to-feel-stupid-reading-someone-else-code-3g19)
-- [Building Travel Copilots with OpenAI&#39;s Assistants API: Function Calling and Persistent Threads](https://dev.to/airtruffle/building-travel-copilots-with-openais-assistants-api-function-calling-and-persistent-threads-285c)
-- [Why I’m Building Xtrape Capsule: A Lightweight Control Plane for Small AI Services](https://dev.to/xtrape/why-im-building-xtrape-capsule-a-lightweight-control-plane-for-small-ai-services-3ha5)
+- [Building a Production-Grade Kubernetes Cluster from Scratch — Part 1: Cluster Setup, Workloads, and a Real App](https://dev.to/otobong_edoho_7796fec1f41/building-a-production-grade-kubernetes-cluster-from-scratch-part-1-cluster-setup-workloads-and-55gb)
+- [What Burnout Actually Feels Like &lpar;Not What Instagram Tells You&rpar;](https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh)
+- [The Next Chapter of Live Streaming: MoQ and SCTE-35 Are Here](https://dev.to/ankush_banyal_708fa19a469/the-next-chapter-of-live-streaming-moq-and-scte-35-are-here-2g5c)
+- [You Can Build AI Features Into Existing SaaS Products Using Next.js Server Actions](https://dev.to/yashvinder_singh_/you-can-build-ai-features-into-existing-saas-products-using-nextjs-server-actions-2d46)
 <!-- BLOG-POST-LIST:END -->
 
 
