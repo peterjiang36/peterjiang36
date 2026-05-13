@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Let Your AI Agent Pay for APIs Automatically with x402 + AgenticTrade](https://dev.to/judy_miranttie/let-your-ai-agent-pay-for-apis-automatically-with-x402-agentictrade-1bl4)
-- [Not Enough SEO? Your Content Needs AI Citations in 2026 to Get Traffic](https://dev.to/judy_miranttie/not-enough-seo-your-content-needs-ai-citations-in-2026-to-get-traffic-4afa)
-- [Desconstruindo o Streaming do Reddit: Como Construímos um Downloader de Alta Performance com DASH e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-reddit-como-construimos-um-downloader-de-alta-performance-com-dash-e-17ki)
-- [Décryptage technique : Comment builder un téléchargeur de vidéos Reddit performant &lpar;DASH, HLS &amp; WebAssembly&rpar;](https://dev.to/yqqwe/decryptage-technique-comment-builder-un-telechargeur-de-videos-reddit-performant-dash-hls--49b)
+- [Why Your Nextjs UI Flickers: TanStack Query vs useEffect](https://dev.to/nishchaldev/why-your-nextjs-ui-flickers-tanstack-query-vs-useeffect-1a2o)
+- [A Python Script for Automatically Switching Themes Based on the Time of Day](https://dev.to/vast-cow/a-python-script-for-automatically-switching-themes-based-on-the-time-of-day-3hmo)
+- [I Was Calling It &#39;Setup&#39; for Six Months. arXiv Has a Better Word: Harness](https://dev.to/kenimo49/i-was-calling-it-setup-for-six-months-arxiv-has-a-better-word-harness-4a64)
+- [Implementing Multicloud Data Sharding with Hexagonal Storage Adapters](https://dev.to/sertaoseracloud/implementing-multicloud-data-sharding-with-hexagonal-storage-adapters-2ad)
 <!-- BLOG-POST-LIST:END -->
 
 
