@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [30 Vue Nuggets from Production Experience 💚](https://dev.to/bezzy_j/30-vue-nuggets-from-production-experience-44lo)
-- [I Gave My AI Agent a Mailbox So Calendar Invites Finally Looked Native](https://dev.to/agent_paaru/i-gave-my-ai-agent-a-mailbox-so-calendar-invites-finally-looked-native-32i3)
-- [useReducer in React — Why It Exists and How to Use It Simply](https://dev.to/dhanraj_s_8fe1023a6e88992/usereducer-in-react-why-it-exists-and-how-to-use-it-simply-ock)
-- [HWYDT: Turning the Page](https://dev.to/joestrout/hwydt-turning-the-page-24dm)
+- [Multi-Service Architecture for Shopify Ecosystems](https://dev.to/masadashraf/multi-service-architecture-for-shopify-ecosystems-1o92)
+- [I Asked 6 AIs to Pick a Random Number. Their Training Data Confessed Everything.](https://dev.to/freerave/i-asked-6-ais-to-pick-a-random-number-their-training-data-confessed-everything-1516)
+- [Build a Basic AI Agent From Scratch](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-3op4)
+- [Building a Safety-First RAG Triage Agent in 24 Hours](https://dev.to/tahrim_bilal/building-a-safety-first-rag-triage-agent-in-24-hours-49if)
 <!-- BLOG-POST-LIST:END -->
 
 
