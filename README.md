@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners](https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba)
-- [What Is AVIF? Why It Became the Default Image Format in 2026](https://dev.to/swapfileio/what-is-avif-why-it-became-the-default-image-format-in-2026-4kf9)
-- [Should you build or buy an MCP runtime for enterprise AI agents in 2026?](https://dev.to/arcade/should-you-build-or-buy-an-mcp-runtime-for-enterprise-ai-agents-in-2026-36jg)
-- [How to Build Dynamic Namaz Vakitleri Pages for Multiple Cities?](https://dev.to/info_deez90/how-to-build-dynamic-namaz-vakitleri-pages-for-multiple-cities-23id)
+- [I kept noticing my overtime paycheck felt wrong, so I built a small calculator](https://dev.to/leviali12/i-kept-noticing-my-overtime-paycheck-felt-wrong-so-i-built-a-small-calculator-3oik)
+- [How to Build a Privacy-First Search Engine in 2026](https://dev.to/james12345000/how-to-build-a-privacy-first-search-engine-in-2026-3735)
+- [Claude Code Stops Pausing Every Turn: /goal, /loop, /batch, /background](https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-3lkm)
+- [How I built an AI reporter for Playwright that explains test failures](https://dev.to/sechavarriar/how-i-built-an-ai-reporter-for-playwright-that-explains-test-failures-5ep)
 <!-- BLOG-POST-LIST:END -->
 
 
