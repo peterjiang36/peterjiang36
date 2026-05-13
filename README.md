@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden Paths That Include Cost Guardrails: A Platform Engineering Playbook](https://dev.to/muskan_8abedcc7e12/golden-paths-that-include-cost-guardrails-a-platform-engineering-playbook-ndm)
-- [Backstage Costs More Than You Budgeted: The Real Platform Engineering ROI Calculation](https://dev.to/muskan_8abedcc7e12/backstage-costs-more-than-you-budgeted-the-real-platform-engineering-roi-calculation-2m8g)
-- [Kubernetes Admission Controllers Block Oversized Pods Before They Drain Your Budget](https://dev.to/muskan_8abedcc7e12/kubernetes-admission-controllers-block-oversized-pods-before-they-drain-your-budget-2igi)
-- [78. Word Embeddings: Words as Numbers That Actually Mean Something](https://dev.to/yakhilesh/78-word-embeddings-words-as-numbers-that-actually-mean-something-392k)
+- [Apostrophe and quotes](https://dev.to/orchidfiles/apostrophe-and-quotes-10o4)
+- [Online Telehealth Services in 2026: What Actually Works &lpar;and What&#39;s Just Marketing&rpar;](https://dev.to/verticomply/online-telehealth-services-in-2026-what-actually-works-and-whats-just-marketing-e57)
+- [Limites de Taxa da API GPT: Níveis, Limites de Uso e Como Testar com Apidog](https://dev.to/lucas_ferreira/limites-de-taxa-da-api-gpt-niveis-limites-de-uso-e-como-testar-com-apidog-4jk8)
+- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
 <!-- BLOG-POST-LIST:END -->
 
 
