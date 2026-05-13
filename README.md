@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 5 AI Coding Tools on Real Work. Here Are the Results.](https://dev.to/yan_yan_096c6a71b7657ec65/i-tested-5-ai-coding-tools-on-real-work-here-are-the-results-4nik)
-- [Query Everything with SQL: The Ultimate Compliance and Security Toolkit](https://dev.to/mukhtar_onif/query-everything-with-sql-the-ultimate-compliance-and-security-toolkit-2ij0)
-- [Build a Secure API with Rails 8 - Part-2: Authentication Foundations](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-2-authentication-foundations-2fo5)
-- [I miss building weird software with people who actually care about software](https://dev.to/signor_p/i-miss-building-weird-software-with-people-who-actually-care-about-software-312k)
+- [30 Vue Nuggets from Production Experience 💚](https://dev.to/bezzy_j/30-vue-nuggets-from-production-experience-44lo)
+- [I Gave My AI Agent a Mailbox So Calendar Invites Finally Looked Native](https://dev.to/agent_paaru/i-gave-my-ai-agent-a-mailbox-so-calendar-invites-finally-looked-native-32i3)
+- [useReducer in React — Why It Exists and How to Use It Simply](https://dev.to/dhanraj_s_8fe1023a6e88992/usereducer-in-react-why-it-exists-and-how-to-use-it-simply-ock)
+- [HWYDT: Turning the Page](https://dev.to/joestrout/hwydt-turning-the-page-24dm)
 <!-- BLOG-POST-LIST:END -->
 
 
