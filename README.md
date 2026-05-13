@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built fintech-fraud-sim: A TypeScript CLI for Synthetic Fraud Testing Data](https://dev.to/oluwatosinolamilekan/i-built-fintech-fraud-sim-a-typescript-cli-for-synthetic-fraud-testing-data-34kj)
-- [We moved daily standups into Slack](https://dev.to/kelly_lewandowski_845215e/we-moved-daily-standups-into-slack-14c6)
-- [How AI and Cursor Are Transforming Product Management: From PM to Builder](https://dev.to/jam_dev_3a18124ce120e7dd9/how-ai-and-cursor-are-transforming-product-management-from-pm-to-builder-k4n)
-- [How I Documented an Entire Product in 4 Days with an AI Agent](https://dev.to/debs_obrien/how-i-documented-an-entire-product-in-4-days-with-an-ai-agent-3338)
+- [GemmaBridge: AI Bridging the Inclusion Gap for Neurodiverse Learners](https://dev.to/gde/gemmabridge-ai-bridging-the-inclusion-gap-for-neurodiverse-learners-48ba)
+- [What Is AVIF? Why It Became the Default Image Format in 2026](https://dev.to/swapfileio/what-is-avif-why-it-became-the-default-image-format-in-2026-4kf9)
+- [Should you build or buy an MCP runtime for enterprise AI agents in 2026?](https://dev.to/arcade/should-you-build-or-buy-an-mcp-runtime-for-enterprise-ai-agents-in-2026-36jg)
+- [How to Build Dynamic Namaz Vakitleri Pages for Multiple Cities?](https://dev.to/info_deez90/how-to-build-dynamic-namaz-vakitleri-pages-for-multiple-cities-23id)
 <!-- BLOG-POST-LIST:END -->
 
 
