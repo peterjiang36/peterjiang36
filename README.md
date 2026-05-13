@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I kept noticing my overtime paycheck felt wrong, so I built a small calculator](https://dev.to/leviali12/i-kept-noticing-my-overtime-paycheck-felt-wrong-so-i-built-a-small-calculator-3oik)
-- [How to Build a Privacy-First Search Engine in 2026](https://dev.to/james12345000/how-to-build-a-privacy-first-search-engine-in-2026-3735)
-- [Claude Code Stops Pausing Every Turn: /goal, /loop, /batch, /background](https://dev.to/jessyt/claude-code-stops-pausing-every-turn-goal-loop-batch-background-3lkm)
-- [How I built an AI reporter for Playwright that explains test failures](https://dev.to/sechavarriar/how-i-built-an-ai-reporter-for-playwright-that-explains-test-failures-5ep)
+- [The Hidden Supply Chain Risk in Your `pip install`](https://dev.to/easterndev/the-hidden-supply-chain-risk-in-your-pip-install-25pc)
+- [PWC 373 Task 2: Let&#39;s Dance to List Division](https://dev.to/boblied/pwc-373-task-2-lets-dance-to-list-division-1e0k)
+- [Emberroad](https://dev.to/cberube_5/emberroad-2lfd)
+- [Healthcare AI that runs where there&#39;s no internet — Gemma 4 on a $150 phone](https://dev.to/brenosalves/healthcare-ai-that-runs-where-theres-no-internet-gemma-4-on-a-150-phone-53p5)
 <!-- BLOG-POST-LIST:END -->
 
 
