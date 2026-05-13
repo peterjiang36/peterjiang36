@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Grade Kubernetes Cluster from Scratch — Part 1: Cluster Setup, Workloads, and a Real App](https://dev.to/otobong_edoho_7796fec1f41/building-a-production-grade-kubernetes-cluster-from-scratch-part-1-cluster-setup-workloads-and-55gb)
-- [What Burnout Actually Feels Like &lpar;Not What Instagram Tells You&rpar;](https://dev.to/harsh2644/what-burnout-actually-feels-like-not-what-instagram-tells-you-3ffh)
-- [The Next Chapter of Live Streaming: MoQ and SCTE-35 Are Here](https://dev.to/ankush_banyal_708fa19a469/the-next-chapter-of-live-streaming-moq-and-scte-35-are-here-2g5c)
-- [You Can Build AI Features Into Existing SaaS Products Using Next.js Server Actions](https://dev.to/yashvinder_singh_/you-can-build-ai-features-into-existing-saas-products-using-nextjs-server-actions-2d46)
+- [Claude Code for Feature Flags: How I Ship Risky Changes Without Losing Sleep](https://dev.to/nextools/claude-code-for-feature-flags-how-i-ship-risky-changes-without-losing-sleep-4he7)
+- [Building DSIE — AI-Powered Disaster Signal Intelligence &amp; Emergency Escalation System with Kestra 🚨](https://dev.to/mohit5upadhyay/building-dsie-ai-powered-disaster-signal-intelligence-emergency-escalation-system-with-kestra-1nl5)
+- [Why JSON.parse&lpar;&rpar; Fails Silently on Truncated LLM Responses &lpar;And What I Did About It&rpar;](https://dev.to/nexadiag_nexa_312a4b5f603/why-jsonparse-fails-silently-on-truncated-llm-responses-and-what-i-did-about-it-3681)
+- [The Story of GoBadge: How It All Started](https://dev.to/cinfinitedev_engine/the-story-of-gobadge-how-it-all-started-1bo9)
 <!-- BLOG-POST-LIST:END -->
 
 
