@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ESP32 + Local AI: Smart Home Without the Cloud](https://dev.to/bittobuild/esp32-local-ai-smart-home-without-the-cloud-4i5m)
-- [Python asyncio](https://dev.to/meroline_lizlent/python-asyncio-49h)
-- [Building a local-first multi-agent orchestration system with autonomous AI workers](https://dev.to/apexforge_dev/building-a-local-first-multi-agent-orchestration-system-with-autonomous-ai-workers-17mb)
-- [Three Things &quot;Set HTTPS_PROXY&quot; Cannot Stop](https://dev.to/luckypipewrench/three-things-set-httpsproxy-cannot-stop-1bge)
+- [How to simulate a game economy before launch](https://dev.to/roberto_mangiafico_5ed1e7/how-to-simulate-a-game-economy-before-launch-4kp6)
+- [Charge 10 sats per CrewAI tool call in one line](https://dev.to/zekebuilds/charge-10-sats-per-crewai-tool-call-in-one-line-29fl)
+- [My Figma frame and my code had a fight. Gemma 4 refereed](https://dev.to/chilupa/my-figma-frame-and-my-code-had-a-fight-gemma-4-refereed-ic3)
+- [Your MCP dependency scan can pass and still miss HIGH vulnerabilities](https://dev.to/oleg_gr_734317a4bae97cee4/your-mcp-dependency-scan-can-pass-and-still-miss-high-vulnerabilities-54m8)
 <!-- BLOG-POST-LIST:END -->
 
 
