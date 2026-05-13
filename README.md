@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apostrophe and quotes](https://dev.to/orchidfiles/apostrophe-and-quotes-10o4)
-- [Online Telehealth Services in 2026: What Actually Works &lpar;and What&#39;s Just Marketing&rpar;](https://dev.to/verticomply/online-telehealth-services-in-2026-what-actually-works-and-whats-just-marketing-e57)
-- [Limites de Taxa da API GPT: Níveis, Limites de Uso e Como Testar com Apidog](https://dev.to/lucas_ferreira/limites-de-taxa-da-api-gpt-niveis-limites-de-uso-e-como-testar-com-apidog-4jk8)
-- [Two DEV Users. Two Countries. One Weird Little Avatar Project.](https://dev.to/itsugo/two-dev-users-two-countries-one-weird-little-avatar-project-3gd3)
+- [I Opened an AI Coding Challenge “Just to Look.” A Few Hours Later, I Was Completely Invested in the Leaderboard.](https://dev.to/sukriti_singh/i-opened-an-ai-coding-challenge-just-to-look-a-few-hours-later-i-was-completely-invested-in-the-2cjp)
+- [It is completely okay to feel stupid reading someone else code](https://dev.to/samareshdas/it-is-completely-okay-to-feel-stupid-reading-someone-else-code-3g19)
+- [Building Travel Copilots with OpenAI&#39;s Assistants API: Function Calling and Persistent Threads](https://dev.to/airtruffle/building-travel-copilots-with-openais-assistants-api-function-calling-and-persistent-threads-285c)
+- [Why I’m Building Xtrape Capsule: A Lightweight Control Plane for Small AI Services](https://dev.to/xtrape/why-im-building-xtrape-capsule-a-lightweight-control-plane-for-small-ai-services-3ha5)
 <!-- BLOG-POST-LIST:END -->
 
 
