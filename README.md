@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Service Architecture for Shopify Ecosystems](https://dev.to/masadashraf/multi-service-architecture-for-shopify-ecosystems-1o92)
-- [I Asked 6 AIs to Pick a Random Number. Their Training Data Confessed Everything.](https://dev.to/freerave/i-asked-6-ais-to-pick-a-random-number-their-training-data-confessed-everything-1516)
-- [Build a Basic AI Agent From Scratch](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-3op4)
-- [Building a Safety-First RAG Triage Agent in 24 Hours](https://dev.to/tahrim_bilal/building-a-safety-first-rag-triage-agent-in-24-hours-49if)
+- [Two days lost to PGRST116: when Supabase RLS hides a successful write](https://dev.to/arvavit/two-days-lost-to-pgrst116-when-supabase-rls-hides-a-successful-write-4nch)
+- [We built an enterprise integration stack for .NET from scratch: EAV + DSL + runtime](https://dev.to/rinat_kozin_d0a2ef43e7824/we-built-an-enterprise-integration-stack-for-net-from-scratch-eav-dsl-runtime-2l16)
+- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
+- [AI + BI Convergence: Engineering the 10M-Row AI BI Agent](https://dev.to/dattasable/ai-bi-convergence-engai-businessintelligence-duckdb-datastrategyineering-the-10m-row-ai-bi-agent-531p)
 <!-- BLOG-POST-LIST:END -->
 
 
