@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Nextjs UI Flickers: TanStack Query vs useEffect](https://dev.to/nishchaldev/why-your-nextjs-ui-flickers-tanstack-query-vs-useeffect-1a2o)
-- [A Python Script for Automatically Switching Themes Based on the Time of Day](https://dev.to/vast-cow/a-python-script-for-automatically-switching-themes-based-on-the-time-of-day-3hmo)
-- [I Was Calling It &#39;Setup&#39; for Six Months. arXiv Has a Better Word: Harness](https://dev.to/kenimo49/i-was-calling-it-setup-for-six-months-arxiv-has-a-better-word-harness-4a64)
-- [Implementing Multicloud Data Sharding with Hexagonal Storage Adapters](https://dev.to/sertaoseracloud/implementing-multicloud-data-sharding-with-hexagonal-storage-adapters-2ad)
+- [Golden Paths That Include Cost Guardrails: A Platform Engineering Playbook](https://dev.to/muskan_8abedcc7e12/golden-paths-that-include-cost-guardrails-a-platform-engineering-playbook-ndm)
+- [Backstage Costs More Than You Budgeted: The Real Platform Engineering ROI Calculation](https://dev.to/muskan_8abedcc7e12/backstage-costs-more-than-you-budgeted-the-real-platform-engineering-roi-calculation-2m8g)
+- [Kubernetes Admission Controllers Block Oversized Pods Before They Drain Your Budget](https://dev.to/muskan_8abedcc7e12/kubernetes-admission-controllers-block-oversized-pods-before-they-drain-your-budget-2igi)
+- [78. Word Embeddings: Words as Numbers That Actually Mean Something](https://dev.to/yakhilesh/78-word-embeddings-words-as-numbers-that-actually-mean-something-392k)
 <!-- BLOG-POST-LIST:END -->
 
 
