@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code for Feature Flags: How I Ship Risky Changes Without Losing Sleep](https://dev.to/nextools/claude-code-for-feature-flags-how-i-ship-risky-changes-without-losing-sleep-4he7)
-- [Building DSIE — AI-Powered Disaster Signal Intelligence &amp; Emergency Escalation System with Kestra 🚨](https://dev.to/mohit5upadhyay/building-dsie-ai-powered-disaster-signal-intelligence-emergency-escalation-system-with-kestra-1nl5)
-- [Why JSON.parse&lpar;&rpar; Fails Silently on Truncated LLM Responses &lpar;And What I Did About It&rpar;](https://dev.to/nexadiag_nexa_312a4b5f603/why-jsonparse-fails-silently-on-truncated-llm-responses-and-what-i-did-about-it-3681)
-- [The Story of GoBadge: How It All Started](https://dev.to/cinfinitedev_engine/the-story-of-gobadge-how-it-all-started-1bo9)
+- [ESP32 + Local AI: Smart Home Without the Cloud](https://dev.to/bittobuild/esp32-local-ai-smart-home-without-the-cloud-4i5m)
+- [Python asyncio](https://dev.to/meroline_lizlent/python-asyncio-49h)
+- [Building a local-first multi-agent orchestration system with autonomous AI workers](https://dev.to/apexforge_dev/building-a-local-first-multi-agent-orchestration-system-with-autonomous-ai-workers-17mb)
+- [Three Things &quot;Set HTTPS_PROXY&quot; Cannot Stop](https://dev.to/luckypipewrench/three-things-set-httpsproxy-cannot-stop-1bge)
 <!-- BLOG-POST-LIST:END -->
 
 
