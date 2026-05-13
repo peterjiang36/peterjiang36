@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to simulate a game economy before launch](https://dev.to/roberto_mangiafico_5ed1e7/how-to-simulate-a-game-economy-before-launch-4kp6)
-- [Charge 10 sats per CrewAI tool call in one line](https://dev.to/zekebuilds/charge-10-sats-per-crewai-tool-call-in-one-line-29fl)
-- [My Figma frame and my code had a fight. Gemma 4 refereed](https://dev.to/chilupa/my-figma-frame-and-my-code-had-a-fight-gemma-4-refereed-ic3)
-- [Your MCP dependency scan can pass and still miss HIGH vulnerabilities](https://dev.to/oleg_gr_734317a4bae97cee4/your-mcp-dependency-scan-can-pass-and-still-miss-high-vulnerabilities-54m8)
+- [CI/CD for Terraform on GCP: Plan on Pull Request, Apply with Approval, No Static Keys](https://dev.to/abrahamparn/cicd-for-terraform-on-gcp-plan-on-pull-request-apply-with-approval-no-static-keys-3kpm)
+- [Untimely feedback as a root cause of tech debt](https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd)
+- [The Production Problem with Async Dual Writes](https://dev.to/rishabh_pahwa_1a2b93e60b0/the-production-problem-with-async-dual-writes-ao4)
+- [LLD Foundations: Thinking in Systems &lpar;Abstraction + Design Flow&rpar;](https://dev.to/saras_growth_space/lld-foundations-abstraction-decomposition-how-to-break-any-system-without-getting-lost-5764)
 <!-- BLOG-POST-LIST:END -->
 
 
