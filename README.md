@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two days lost to PGRST116: when Supabase RLS hides a successful write](https://dev.to/arvavit/two-days-lost-to-pgrst116-when-supabase-rls-hides-a-successful-write-4nch)
-- [We built an enterprise integration stack for .NET from scratch: EAV + DSL + runtime](https://dev.to/rinat_kozin_d0a2ef43e7824/we-built-an-enterprise-integration-stack-for-net-from-scratch-eav-dsl-runtime-2l16)
-- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
-- [AI + BI Convergence: Engineering the 10M-Row AI BI Agent](https://dev.to/dattasable/ai-bi-convergence-engai-businessintelligence-duckdb-datastrategyineering-the-10m-row-ai-bi-agent-531p)
+- [I Built fintech-fraud-sim: A TypeScript CLI for Synthetic Fraud Testing Data](https://dev.to/oluwatosinolamilekan/i-built-fintech-fraud-sim-a-typescript-cli-for-synthetic-fraud-testing-data-34kj)
+- [We moved daily standups into Slack](https://dev.to/kelly_lewandowski_845215e/we-moved-daily-standups-into-slack-14c6)
+- [How AI and Cursor Are Transforming Product Management: From PM to Builder](https://dev.to/jam_dev_3a18124ce120e7dd9/how-ai-and-cursor-are-transforming-product-management-from-pm-to-builder-k4n)
+- [How I Documented an Entire Product in 4 Days with an AI Agent](https://dev.to/debs_obrien/how-i-documented-an-entire-product-in-4-days-with-an-ai-agent-3338)
 <!-- BLOG-POST-LIST:END -->
 
 
