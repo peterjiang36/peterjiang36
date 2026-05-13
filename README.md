@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD for Terraform on GCP: Plan on Pull Request, Apply with Approval, No Static Keys](https://dev.to/abrahamparn/cicd-for-terraform-on-gcp-plan-on-pull-request-apply-with-approval-no-static-keys-3kpm)
-- [Untimely feedback as a root cause of tech debt](https://dev.to/katafrakt/untimely-feedback-as-a-root-cause-of-tech-debt-2ipd)
-- [The Production Problem with Async Dual Writes](https://dev.to/rishabh_pahwa_1a2b93e60b0/the-production-problem-with-async-dual-writes-ao4)
-- [LLD Foundations: Thinking in Systems &lpar;Abstraction + Design Flow&rpar;](https://dev.to/saras_growth_space/lld-foundations-abstraction-decomposition-how-to-break-any-system-without-getting-lost-5764)
+- [I Tested 5 AI Coding Tools on Real Work. Here Are the Results.](https://dev.to/yan_yan_096c6a71b7657ec65/i-tested-5-ai-coding-tools-on-real-work-here-are-the-results-4nik)
+- [Query Everything with SQL: The Ultimate Compliance and Security Toolkit](https://dev.to/mukhtar_onif/query-everything-with-sql-the-ultimate-compliance-and-security-toolkit-2ij0)
+- [Build a Secure API with Rails 8 - Part-2: Authentication Foundations](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-2-authentication-foundations-2fo5)
+- [I miss building weird software with people who actually care about software](https://dev.to/signor_p/i-miss-building-weird-software-with-people-who-actually-care-about-software-312k)
 <!-- BLOG-POST-LIST:END -->
 
 
