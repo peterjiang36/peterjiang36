@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [var, let and const—from Ambiguity to Specificity](https://dev.to/rhieger/var-let-and-const-from-ambiguity-to-specificity-2mdb)
-- [File Watching in Rust with notify-rs — Hot Folders for a Sync App](https://dev.to/hiyoyok/file-watching-in-rust-with-notify-rs-hot-folders-for-a-sync-app-32d8)
-- [Turning OpenAPI Specs into Runtime LLM Tools in Pi](https://dev.to/gtesei/turning-openapi-specs-into-runtime-llm-tools-in-pi-6n9)
-- [The Man Who Summoned Ghosts | Coda: The Next Five to Ten Years](https://dev.to/lhua0420/the-man-who-summoned-ghosts-coda-the-next-five-to-ten-years-fhj)
+- [What ground truth caught that unit tests missed: 3 real bugs in 9 flagship lint rules](https://dev.to/ofri-peretz/what-ground-truth-caught-that-unit-tests-missed-3-real-bugs-in-9-flagship-lint-rules-o0b)
+- [How to Accept Binary Format Files Directly in Oracle Integration Cloud &lpar;OIC&rpar; and Return JSON Response from SFTP](https://dev.to/naveen6735/how-to-accept-binary-format-files-directly-in-oracle-integration-cloud-oic-and-return-json-7jn)
+- [🌍 Generative UI Global Hackathon: Agentic Interfaces](https://dev.to/humbert_dev/generative-ui-global-hackathon-agentic-interfaces-2a59)
+- [When should you stop using Google Sheets as your backend?](https://dev.to/phatysddev/when-should-you-stop-using-google-sheets-as-your-backend-1mek)
 <!-- BLOG-POST-LIST:END -->
 
 
