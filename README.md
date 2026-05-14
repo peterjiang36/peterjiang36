@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ใช้ Apidog สร้าง API ก่อนเขียนโค้ด: Visual Designer ไม่ใช่คนสำคัญคนเดียวอีกต่อไป](https://dev.to/thanawat_wonchai/aich-apidog-sraang-api-knekhiiynokhd-visual-designer-aimaichkhnsamkhaykhnediiywiiktaip-2h6o)
-- [Python vs Zapier: Stop Paying $600/Year for Automation &lpar;Free Scripts Inside&rpar;](https://dev.to/brad_20095bd4959b60ad2335/python-vs-zapier-stop-paying-600year-for-automation-free-scripts-inside-bd3)
-- [Build a Daily Series A/B Funding Tracker from SEC Form D + TechCrunch &lpar;2026&rpar;](https://dev.to/nexgendata/build-a-daily-series-ab-funding-tracker-from-sec-form-d-techcrunch-2026-29h9)
-- [CRXcavator Is Dead — Here&#39;s How to Audit Chrome Extensions in 2026](https://dev.to/nexgendata/crxcavator-is-dead-heres-how-to-audit-chrome-extensions-in-2026-3n7m)
+- [Top Go Libraries for Modern Backend Development in 2026](https://dev.to/tomastomas/top-go-libraries-for-modern-backend-development-in-2026-37k6)
+- [You know way more JavaScript than you think you do](https://dev.to/samareshdas/you-know-way-more-javascript-than-you-think-you-do-4kbc)
+- [Docker + Symfony + WSL2: the 3 first-day problems](https://dev.to/ohugonnot/docker-symfony-wsl2-the-3-first-day-problems-49d1)
+- [so… where do we stand right now?](https://dev.to/casperday11/so-where-do-we-stand-right-now-1om7)
 <!-- BLOG-POST-LIST:END -->
 
 
