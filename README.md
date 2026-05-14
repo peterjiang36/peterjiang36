@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience Using Gemma 4 Compared to ChatGPT](https://dev.to/himanshi_kumari_c878daee7/my-experience-using-gemma-4-compared-to-chatgpt-504e)
-- [Credentials in web applications: how to store them properly](https://dev.to/tacoda/credentials-in-web-applications-how-to-store-them-properly-6oi)
-- [.NET Design Patterns Deep Dive: What Still Matters in 2026](https://dev.to/vikrant_bagal_afae3e25ca7/net-design-patterns-deep-dive-what-still-matters-in-2026-1g52)
-- [10 .NET Open Source Libraries Every Developer Should Know in 2026](https://dev.to/vikrant_bagal_afae3e25ca7/10-net-open-source-libraries-every-developer-should-know-in-2026-1g2h)
+- [I read the 107-comment OpenClaw garlic thread and yeah, the real bug wasn’t garlic](https://dev.to/lars_winstand/i-read-the-107-comment-openclaw-garlic-thread-and-yeah-the-real-bug-wasnt-garlic-1ggo)
+- [2D Level Design by AI](https://dev.to/pierre_igor_zarebski/2d-level-design-by-ai-2oo6)
+- [Your OpenClaw Bill Is Bleeding Tokens. Here’s What We Measured — and How to Fix It.](https://dev.to/seekdb/your-openclaw-bill-is-bleeding-tokens-heres-what-we-measured-and-how-to-fix-it-947)
+- [Open-Bridge: Open-Source Software for Hybrid Photonic-Wetware Computing](https://dev.to/__0f2fcfddf/open-bridge-open-source-software-for-hybrid-photonic-wetware-computing-26n7)
 <!-- BLOG-POST-LIST:END -->
 
 
