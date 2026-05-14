@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ran a Local AI on a 16-Year-Old Windows 7 PC with Only 4GB RAM — And It Actually Works! 🚀](https://dev.to/rexthony/i-ran-a-local-ai-on-a-16-year-old-windows-7-pc-with-only-4gb-ram-and-it-actually-works-14kc)
-- [MineCraft高版本服务端封禁插件！](https://dev.to/ukiyograin/minecraftgao-ban-ben-fu-wu-duan-feng-jin-cha-jian--15hf)
-- [How I Monitor AI Agents: CloudWatch for Infra, Arize Phoenix for Traces and OpenTelemetry, LLM-as-Judge for Quality](https://dev.to/aws-heroes/how-i-monitor-ai-agents-cloudwatch-for-infra-arize-phoenix-for-traces-and-opentelemetry-4iam)
-- [How to dynamically generate a maze using Prim&#39;s algorithm](https://dev.to/frydayfreebie/dynamic-maze-generation-using-prims-algorithm-1o7g)
+- [var, let and const—from Ambiguity to Specificity](https://dev.to/rhieger/var-let-and-const-from-ambiguity-to-specificity-2mdb)
+- [File Watching in Rust with notify-rs — Hot Folders for a Sync App](https://dev.to/hiyoyok/file-watching-in-rust-with-notify-rs-hot-folders-for-a-sync-app-32d8)
+- [Turning OpenAPI Specs into Runtime LLM Tools in Pi](https://dev.to/gtesei/turning-openapi-specs-into-runtime-llm-tools-in-pi-6n9)
+- [The Man Who Summoned Ghosts | Coda: The Next Five to Ten Years](https://dev.to/lhua0420/the-man-who-summoned-ghosts-coda-the-next-five-to-ten-years-fhj)
 <!-- BLOG-POST-LIST:END -->
 
 
