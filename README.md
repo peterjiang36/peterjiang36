@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What &quot;100% of Our Code Is Written by AI&quot; Actually Means](https://dev.to/keithjmackay/what-100-of-our-code-is-written-by-ai-actually-means-1a1c)
-- [How AI Agents Are Transforming Code Review in 2026](https://dev.to/elysiumquill/how-ai-agents-are-transforming-code-review-in-2026-2c01)
-- [How to connect Power BI to a PostgreSQL Database](https://dev.to/gathurum/connecting-power-bi-to-a-postgresql-database-a-practical-guide-4p6i)
-- [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o)
+- [The 4 pillars of a production-grade AI agent &lpar;from a doctor who taught himself to code&rpar;](https://dev.to/kryscekk/the-4-pillars-of-a-production-grade-ai-agent-from-a-doctor-who-taught-himself-to-code-1hle)
+- [Device drivers : The Unsung Heroes of Your Computer](https://dev.to/rrouwelng/device-drivers-the-unsung-heroes-of-your-computer-2gdh)
+- [unable to open port /dev/ttyUSB0 for programmer arduino](https://dev.to/r_chris_owen/unable-to-open-port-devtty4-for-programmer-arduino-3k09)
+- [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc)
 <!-- BLOG-POST-LIST:END -->
 
 
