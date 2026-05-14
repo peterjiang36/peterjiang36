@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The primary reader changed](https://dev.to/jucelinux/the-primary-reader-changed-4glo)
-- [NLP Video Editing Copilot](https://dev.to/nickvalenciatech/nlp-video-editing-copilot-3ama)
-- [What I learned generating OG images for articles with Playwright and zero API cost](https://dev.to/morinaga/what-i-learned-generating-og-images-for-articles-with-playwright-and-zero-api-cost-3c0e)
-- [I Built Rune Because the Internet Started Feeling Disconnected](https://dev.to/ksparth12/i-built-rune-because-the-internet-started-feeling-disconnected-2nbg)
+- [The Cruise Passengers](https://dev.to/ldkrx/the-cruise-passengers-4bno)
+- [Bitcoin’s Secret Math: Modular Arithmetic &amp; Finite Fields](https://dev.to/muhammad_ademola/bitcoins-secret-math-modular-arithmetic-finite-fields-4165)
+- [Open Cowork : A Free, Alternative to claude cowork](https://dev.to/vishal_veerareddy_9cdd17d/open-cowork-lynkr-a-free-local-ai-agent-that-actually-does-the-work-204p)
+- [Teaching My AI Agents to Push Back: Why I Built RoBrain](https://dev.to/a_e9d710dc0b575ff2fb87a3a/teaching-my-ai-agents-to-push-back-why-i-built-robrain-23e)
 <!-- BLOG-POST-LIST:END -->
 
 
