@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [So Does AI Boost Coding Speed Or Not?](https://dev.to/aaronmaxwell/so-does-ai-boost-coding-speed-or-not-oh)
-- [I Ran SERP Feature Detection on 8 Nigerian Creator Queries. Every Single One Had an AI Overview.](https://dev.to/dannwaneri/i-ran-serp-feature-detection-on-8-nigerian-creator-queries-every-single-one-had-an-ai-overview-51ko)
-- [OpenSEO Has 1.7k GitHub Stars. I Built the Same Thing for $0.](https://dev.to/dannwaneri/openseo-has-17k-github-stars-i-built-the-same-thing-for-0-1dip)
-- [Cold Email Automation for Founders: Stop Doing It Wrong](https://dev.to/mrjoelaw1/cold-email-automation-for-founders-stop-doing-it-wrong-23b4)
+- [My Experience Using Gemma 4 Compared to ChatGPT](https://dev.to/himanshi_kumari_c878daee7/my-experience-using-gemma-4-compared-to-chatgpt-504e)
+- [Credentials in web applications: how to store them properly](https://dev.to/tacoda/credentials-in-web-applications-how-to-store-them-properly-6oi)
+- [.NET Design Patterns Deep Dive: What Still Matters in 2026](https://dev.to/vikrant_bagal_afae3e25ca7/net-design-patterns-deep-dive-what-still-matters-in-2026-1g52)
+- [10 .NET Open Source Libraries Every Developer Should Know in 2026](https://dev.to/vikrant_bagal_afae3e25ca7/10-net-open-source-libraries-every-developer-should-know-in-2026-1g2h)
 <!-- BLOG-POST-LIST:END -->
 
 
