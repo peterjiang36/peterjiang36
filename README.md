@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [print&lpar;&quot;hello world&quot;&rpar; the first code and after vibe coding hhhhhh.](https://dev.to/zaza_ziro_25a/printhello-world-the-first-code-and-after-vibe-coding-hhhhhh-2dff)
-- [I kept saying the same five things in every doc review. So I made them defaults.](https://dev.to/wordcaster/i-kept-saying-the-same-five-things-in-every-doc-review-so-i-made-them-defaults-3lo4)
-- [I built &quot;Next.js for the terminal&quot; in TypeScript — here&#39;s the architecture](https://dev.to/omarmusayev/i-built-nextjs-for-the-terminal-in-typescript-heres-the-architecture-53k4)
-- [I Have a Toy for You and You Will Like It: How to Play with the UVerify Sandbox](https://dev.to/uverify/i-have-a-toy-for-you-and-you-will-like-it-how-to-play-with-the-uverify-sandbox-204p)
+- [Code is data. Why do AI coding agents pretend it isn&#39;t?](https://dev.to/ionut_georgianciobanu_08/code-is-data-why-do-ai-coding-agents-pretend-it-isnt-oj9)
+- [MiniScript Weekly News — May 14, 2026](https://dev.to/joestrout/miniscript-weekly-news-may-14-2026-454h)
+- [Agents need a black box recorder, not more memory](https://dev.to/morganlabs/agents-need-a-black-box-recorder-not-more-memory-4hpg)
+- [ETL vs. ELT: Which Approach Should You Use and Why?](https://dev.to/gathurum/etl-vs-elt-which-approach-should-you-use-and-why-386d)
 <!-- BLOG-POST-LIST:END -->
 
 
