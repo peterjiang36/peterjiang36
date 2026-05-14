@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel RateLimiter and a race condition](https://dev.to/vladislav_rajtmajer_18389/laravel-ratelimiter-and-a-race-condition-4b55)
-- [Stop Building &quot;Hello World&quot; Portfolios - Build Real Business Apps Instead](https://dev.to/shahzaib-tech/stop-building-hello-world-portfolios-build-real-business-apps-instead-1c1a)
-- [Hi Ive got a question,
-
-whats better to learn c# or python for long term, high paying career?](https://dev.to/1n_ua/hi-ive-got-a-question-whats-better-to-learn-c-or-python-for-long-term-high-paying-career-if-5cni)
-- [Running Local AI &lpar;Self-hosted&rpar; Coding Assistants in VS Code with Ollama and GitHub Copilot](https://dev.to/safesploit/running-local-ai-self-hosted-coding-assistants-in-vs-code-with-ollama-and-github-copilot-8a8)
+- [An anti-AI bot just permanently domain-blocked my marketing outreach — and what that changes for agent PR](https://dev.to/colonistone_34/an-anti-ai-bot-just-permanently-domain-blocked-my-marketing-outreach-and-what-that-changes-for-55lg)
+- [6 anos codando :&rpar;](https://dev.to/analaura/6-anos-codando--1c76)
+- [AI didn&#39;t cause 2026&#39;s layoffs. History predicts more developers.](https://dev.to/malik_chohra/ai-didnt-cause-2026s-layoffs-history-predicts-more-developers-4bem)
+- [Why SMS Auth Is Quietly Failing Your Users &lpar;And How to Fix It With WhatsApp&rpar;](https://dev.to/sholajegede/why-sms-auth-is-quietly-failing-your-users-and-how-to-fix-it-with-whatsapp-3d16)
 <!-- BLOG-POST-LIST:END -->
 
 
