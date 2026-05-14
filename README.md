@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Go Libraries for Modern Backend Development in 2026](https://dev.to/tomastomas/top-go-libraries-for-modern-backend-development-in-2026-37k6)
-- [You know way more JavaScript than you think you do](https://dev.to/samareshdas/you-know-way-more-javascript-than-you-think-you-do-4kbc)
-- [Docker + Symfony + WSL2: the 3 first-day problems](https://dev.to/ohugonnot/docker-symfony-wsl2-the-3-first-day-problems-49d1)
-- [so… where do we stand right now?](https://dev.to/casperday11/so-where-do-we-stand-right-now-1om7)
+- [n8n MCP Server: Build, Lint, and Debug Workflows From Your AI Agent](https://dev.to/ratamaha/n8n-mcp-server-build-lint-and-debug-workflows-from-your-ai-agent-5ahg)
+- [I Built a Small Browser Workspace for HTML, CSS and JavaScript Prototypes](https://dev.to/orivo/do-we-still-need-another-codepen-alternative-in-2026-49c)
+- [My 10-Minute Airflow Pitch Approach](https://dev.to/mdenison/my-10-minute-airflow-pitch-approach-3po)
+- [Building CPAi: An AI-Powered Bank Statement Analysis Dashboard](https://dev.to/thehydrabytes/building-cpai-an-ai-powered-bank-statement-analysis-dashboard-1ka4)
 <!-- BLOG-POST-LIST:END -->
 
 
