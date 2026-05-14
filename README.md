@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Code is data. Why do AI coding agents pretend it isn&#39;t?](https://dev.to/ionut_georgianciobanu_08/code-is-data-why-do-ai-coding-agents-pretend-it-isnt-oj9)
-- [MiniScript Weekly News — May 14, 2026](https://dev.to/joestrout/miniscript-weekly-news-may-14-2026-454h)
-- [Agents need a black box recorder, not more memory](https://dev.to/morganlabs/agents-need-a-black-box-recorder-not-more-memory-4hpg)
-- [ETL vs. ELT: Which Approach Should You Use and Why?](https://dev.to/gathurum/etl-vs-elt-which-approach-should-you-use-and-why-386d)
+- [Knowledge Base Software for B2B Support: Architecture, API Design, and AI Readiness](https://dev.to/kumarharsh/knowledge-base-software-for-b2b-support-architecture-api-design-and-ai-readiness-3pme)
+- [Security in SQLite: Protecting Data in a Database That Trusts the File System](https://dev.to/lovestaco/security-in-sqlite-protecting-data-in-a-database-that-trusts-the-file-system-57ek)
+- [I built a permission-first CLAUDE.md + agent stack for Claude Code &lpar;free, MIT&rpar;](https://dev.to/sabahattink/i-built-a-permission-first-claudemd-agent-stack-for-claude-code-free-mit-4ep6)
+- [Adding native-feeling haptics to Angular web apps with ng-haptics](https://dev.to/xaconi_94/adding-native-feeling-haptics-to-angular-web-apps-with-ng-haptics-3j3l)
 <!-- BLOG-POST-LIST:END -->
 
 
