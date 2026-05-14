@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n MCP Server: Build, Lint, and Debug Workflows From Your AI Agent](https://dev.to/ratamaha/n8n-mcp-server-build-lint-and-debug-workflows-from-your-ai-agent-5ahg)
-- [I Built a Small Browser Workspace for HTML, CSS and JavaScript Prototypes](https://dev.to/orivo/do-we-still-need-another-codepen-alternative-in-2026-49c)
-- [My 10-Minute Airflow Pitch Approach](https://dev.to/mdenison/my-10-minute-airflow-pitch-approach-3po)
-- [Building CPAi: An AI-Powered Bank Statement Analysis Dashboard](https://dev.to/thehydrabytes/building-cpai-an-ai-powered-bank-statement-analysis-dashboard-1ka4)
+- [Laravel RateLimiter and a race condition](https://dev.to/vladislav_rajtmajer_18389/laravel-ratelimiter-and-a-race-condition-4b55)
+- [Stop Building &quot;Hello World&quot; Portfolios - Build Real Business Apps Instead](https://dev.to/shahzaib-tech/stop-building-hello-world-portfolios-build-real-business-apps-instead-1c1a)
+- [Hi Ive got a question,
+
+whats better to learn c# or python for long term, high paying career?](https://dev.to/1n_ua/hi-ive-got-a-question-whats-better-to-learn-c-or-python-for-long-term-high-paying-career-if-5cni)
+- [Running Local AI &lpar;Self-hosted&rpar; Coding Assistants in VS Code with Ollama and GitHub Copilot](https://dev.to/safesploit/running-local-ai-self-hosted-coding-assistants-in-vs-code-with-ollama-and-github-copilot-8a8)
 <!-- BLOG-POST-LIST:END -->
 
 
