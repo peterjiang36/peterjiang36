@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I read the 107-comment OpenClaw garlic thread and yeah, the real bug wasn’t garlic](https://dev.to/lars_winstand/i-read-the-107-comment-openclaw-garlic-thread-and-yeah-the-real-bug-wasnt-garlic-1ggo)
-- [2D Level Design by AI](https://dev.to/pierre_igor_zarebski/2d-level-design-by-ai-2oo6)
-- [Your OpenClaw Bill Is Bleeding Tokens. Here’s What We Measured — and How to Fix It.](https://dev.to/seekdb/your-openclaw-bill-is-bleeding-tokens-heres-what-we-measured-and-how-to-fix-it-947)
-- [Open-Bridge: Open-Source Software for Hybrid Photonic-Wetware Computing](https://dev.to/__0f2fcfddf/open-bridge-open-source-software-for-hybrid-photonic-wetware-computing-26n7)
+- [What &quot;100% of Our Code Is Written by AI&quot; Actually Means](https://dev.to/keithjmackay/what-100-of-our-code-is-written-by-ai-actually-means-1a1c)
+- [How AI Agents Are Transforming Code Review in 2026](https://dev.to/elysiumquill/how-ai-agents-are-transforming-code-review-in-2026-2c01)
+- [How to connect Power BI to a PostgreSQL Database](https://dev.to/gathurum/connecting-power-bi-to-a-postgresql-database-a-practical-guide-4p6i)
+- [vLLM Gemma4 26B Tuning on v6e-4](https://dev.to/gde/vllm-gemma4-26b-tuning-on-v6e-4-79o)
 <!-- BLOG-POST-LIST:END -->
 
 
