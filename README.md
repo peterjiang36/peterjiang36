@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 4 pillars of a production-grade AI agent &lpar;from a doctor who taught himself to code&rpar;](https://dev.to/kryscekk/the-4-pillars-of-a-production-grade-ai-agent-from-a-doctor-who-taught-himself-to-code-1hle)
-- [Device drivers : The Unsung Heroes of Your Computer](https://dev.to/rrouwelng/device-drivers-the-unsung-heroes-of-your-computer-2gdh)
-- [unable to open port /dev/ttyUSB0 for programmer arduino](https://dev.to/r_chris_owen/unable-to-open-port-devtty4-for-programmer-arduino-3k09)
-- [Unity begone](https://dev.to/sarthakganguly/unity-begone-56kc)
+- [print&lpar;&quot;hello world&quot;&rpar; the first code and after vibe coding hhhhhh.](https://dev.to/zaza_ziro_25a/printhello-world-the-first-code-and-after-vibe-coding-hhhhhh-2dff)
+- [I kept saying the same five things in every doc review. So I made them defaults.](https://dev.to/wordcaster/i-kept-saying-the-same-five-things-in-every-doc-review-so-i-made-them-defaults-3lo4)
+- [I built &quot;Next.js for the terminal&quot; in TypeScript — here&#39;s the architecture](https://dev.to/omarmusayev/i-built-nextjs-for-the-terminal-in-typescript-heres-the-architecture-53k4)
+- [I Have a Toy for You and You Will Like It: How to Play with the UVerify Sandbox](https://dev.to/uverify/i-have-a-toy-for-you-and-you-will-like-it-how-to-play-with-the-uverify-sandbox-204p)
 <!-- BLOG-POST-LIST:END -->
 
 
