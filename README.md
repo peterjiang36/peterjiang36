@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Supply Chain Risk in Your `pip install`](https://dev.to/easterndev/the-hidden-supply-chain-risk-in-your-pip-install-25pc)
-- [PWC 373 Task 2: Let&#39;s Dance to List Division](https://dev.to/boblied/pwc-373-task-2-lets-dance-to-list-division-1e0k)
-- [Emberroad](https://dev.to/cberube_5/emberroad-2lfd)
-- [Healthcare AI that runs where there&#39;s no internet — Gemma 4 on a $150 phone](https://dev.to/brenosalves/healthcare-ai-that-runs-where-theres-no-internet-gemma-4-on-a-150-phone-53p5)
+- [I Ran a Local AI on a 16-Year-Old Windows 7 PC with Only 4GB RAM — And It Actually Works! 🚀](https://dev.to/rexthony/i-ran-a-local-ai-on-a-16-year-old-windows-7-pc-with-only-4gb-ram-and-it-actually-works-14kc)
+- [MineCraft高版本服务端封禁插件！](https://dev.to/ukiyograin/minecraftgao-ban-ben-fu-wu-duan-feng-jin-cha-jian--15hf)
+- [How I Monitor AI Agents: CloudWatch for Infra, Arize Phoenix for Traces and OpenTelemetry, LLM-as-Judge for Quality](https://dev.to/aws-heroes/how-i-monitor-ai-agents-cloudwatch-for-infra-arize-phoenix-for-traces-and-opentelemetry-4iam)
+- [How to dynamically generate a maze using Prim&#39;s algorithm](https://dev.to/frydayfreebie/dynamic-maze-generation-using-prims-algorithm-1o7g)
 <!-- BLOG-POST-LIST:END -->
 
 
