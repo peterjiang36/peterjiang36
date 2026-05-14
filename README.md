@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What ground truth caught that unit tests missed: 3 real bugs in 9 flagship lint rules](https://dev.to/ofri-peretz/what-ground-truth-caught-that-unit-tests-missed-3-real-bugs-in-9-flagship-lint-rules-o0b)
-- [How to Accept Binary Format Files Directly in Oracle Integration Cloud &lpar;OIC&rpar; and Return JSON Response from SFTP](https://dev.to/naveen6735/how-to-accept-binary-format-files-directly-in-oracle-integration-cloud-oic-and-return-json-7jn)
-- [🌍 Generative UI Global Hackathon: Agentic Interfaces](https://dev.to/humbert_dev/generative-ui-global-hackathon-agentic-interfaces-2a59)
-- [When should you stop using Google Sheets as your backend?](https://dev.to/phatysddev/when-should-you-stop-using-google-sheets-as-your-backend-1mek)
+- [ใช้ Apidog สร้าง API ก่อนเขียนโค้ด: Visual Designer ไม่ใช่คนสำคัญคนเดียวอีกต่อไป](https://dev.to/thanawat_wonchai/aich-apidog-sraang-api-knekhiiynokhd-visual-designer-aimaichkhnsamkhaykhnediiywiiktaip-2h6o)
+- [Python vs Zapier: Stop Paying $600/Year for Automation &lpar;Free Scripts Inside&rpar;](https://dev.to/brad_20095bd4959b60ad2335/python-vs-zapier-stop-paying-600year-for-automation-free-scripts-inside-bd3)
+- [Build a Daily Series A/B Funding Tracker from SEC Form D + TechCrunch &lpar;2026&rpar;](https://dev.to/nexgendata/build-a-daily-series-ab-funding-tracker-from-sec-form-d-techcrunch-2026-29h9)
+- [CRXcavator Is Dead — Here&#39;s How to Audit Chrome Extensions in 2026](https://dev.to/nexgendata/crxcavator-is-dead-heres-how-to-audit-chrome-extensions-in-2026-3n7m)
 <!-- BLOG-POST-LIST:END -->
 
 
