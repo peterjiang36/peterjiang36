@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I priced out self-hosted AI agents on a mini PC and realized I was about to spend my weekend, not save money](https://dev.to/lars_winstand/i-priced-out-self-hosted-ai-agents-on-a-mini-pc-and-realized-i-was-about-to-spend-my-weekend-not-367c)
-- [1 RN Thing a Day – Day 13: Redux Thunk](https://dev.to/ola_1313/1-rn-thing-a-day-day-13-redux-thunk-209i)
-- [How to install K8s locally in VirtualBox &lpar;self Lab for Beginner&rpar;](https://dev.to/rodrigomuneralha25/how-to-install-k8s-locally-in-virtualbox-self-lab-for-beginner-4gmh)
-- [I built a supply chain security scanner in Rust — here&#39;s what I learned](https://dev.to/p41n3st/i-built-a-supply-chain-security-scanner-in-rust-heres-what-i-learned-k87)
+- [Introducing Go DB ORM &lpar;v1.0.1&rpar; — A Type-Safe, Fluent ORM for Go](https://dev.to/anik2069/introducing-go-db-orm-v101-a-type-safe-fluent-orm-for-go-48a9)
+- [AWS Cloud Practitioner Exam - The Difficult Parts](https://dev.to/c_claven_03c4a41605f86c8e4/aws-cloud-practitioner-exam-the-difficult-parts-38if)
+- [Solana Account Data — How I Started Making Sense of Owners, Programs, and Raw Bytes](https://dev.to/zoe_lin_0653/solana-account-data-how-i-started-making-sense-of-owners-programs-and-raw-bytes-1fmj)
+- [Coding in the Dark: How Local Gemma 4 Saved My Python Progress During Ukrainian Blackouts](https://dev.to/bymfds/coding-in-the-dark-how-local-gemma-4-saved-my-python-progress-during-ukrainian-blackouts-49be)
 <!-- BLOG-POST-LIST:END -->
 
 
