@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-engineering Kilo&#39;s recent Product Hunt launch](https://dev.to/fmerian/reverse-engineering-kilos-recent-product-hunt-launch-13e4)
-- [Sample dataset analysis: a 100-row snapshot of Sitemap](https://dev.to/can_ylmaz_da7b70586976b3/sample-dataset-analysis-a-100-row-snapshot-of-sitemap-2082)
-- [Claude for Small Business: A Solo Founder&#39;s Honest Take](https://dev.to/maxmendes91/claude-for-small-business-a-solo-founders-honest-take-4i99)
-- [Why AI Tool Chains Break in Production &lpar;And the Patterns That Actually Hold Up&rpar;](https://dev.to/ai_miracle_ai/why-ai-tool-chains-break-in-production-and-the-patterns-that-actually-hold-up-35ei)
+- [Auto-cancel Redundant GitHub Actions — Save 40% Runner Time](https://dev.to/sohanaakbar7/auto-cancel-redundant-github-actions-save-40-runner-time-2pnl)
+- [Building &quot;Sweets Vault&quot; - a multimodal Gemini Agent with physical hardware integration](https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh)
+- [Errors as Infrastructure: Why the first crate in NEXUS wasn&#39;t networking.](https://dev.to/__17fa74fdf/errors-as-infrastructure-why-the-first-crate-in-nexus-wasnt-networking-546m)
+- [The Coding Challenge That Came for Your development Directory: Anatomy of a Job Interview Infostealer](https://dev.to/alex_chen_45b61c234682eb6/the-coding-challenge-that-came-for-your-development-directory-anatomy-of-a-job-interview-fib)
 <!-- BLOG-POST-LIST:END -->
 
 
