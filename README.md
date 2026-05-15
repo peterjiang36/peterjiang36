@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Audited 70 Companies&#39; llms.txt Files. Most Don&#39;t Have One.](https://dev.to/intally/i-audited-70-companies-llmstxt-files-most-dont-have-one-22g2)
-- [🧠 Beyond Chatbots: Understanding Hermes Agent and the Rise of Autonomous AI Systems](https://dev.to/muhammad_yasin_f39f26989f/beyond-chatbots-understanding-hermes-agent-and-the-rise-of-autonomous-ai-systems-3p12)
-- [XGBoost: When Gradient Boosting Meets Regularization](https://dev.to/jacobjerryarackal/xgboost-when-gradient-boosting-meets-regularization-36kk)
-- [Coding Cat Oran S2 Ep6 — The Abstract Table and the Gateway](https://dev.to/syslayer/coding-cat-oran-s2-ep6-the-abstract-table-and-the-gateway-lk5)
+- [[PT-BR] McLovin: o roteador de links multiplataforma](https://dev.to/guilherme44/pt-br-mclovin-o-roteador-de-links-multiplataforma-488o)
+- [Deploying a Node.js App to Production: The Complete 2026 Guide](https://dev.to/armorbreak/deploying-a-nodejs-app-to-production-the-complete-2026-guide-3d29)
+- [McLovin: the cross-platform link router](https://dev.to/guilherme44/mclovin-the-cross-platform-link-router-19ho)
+- [Building a CLI Tool with Node.js: From Zero to npm](https://dev.to/armorbreak/building-a-cli-tool-with-nodejs-from-zero-to-npm-429a)
 <!-- BLOG-POST-LIST:END -->
 
 
