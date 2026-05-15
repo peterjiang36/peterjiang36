@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Logging &amp; Observability Best Practices from Bronto](https://dev.to/bronto_io/logging-observability-best-practices-from-bronto-59hc)
-- [Agent-First Coding Is Here. What It Actually Means for Developers in 2026](https://dev.to/lasisi_ibrahimpelumi_dc0/agent-first-coding-is-here-what-it-actually-means-for-developers-in-2026-50ae)
-- [How to secure your macOS games](https://dev.to/guardingpearsoftware/how-to-secure-your-macos-games-2o87)
-- [Building a Letterboxd Film &amp; Review data pipeline: from raw scrape to first insight](https://dev.to/can_ylmaz_da7b70586976b3/building-a-letterboxd-film-review-data-pipeline-from-raw-scrape-to-first-insight-4bo6)
+- [Computed business rules in Okyline: what JSON Schema cannot validate](https://dev.to/pmb_akwatype/computed-business-rules-in-okyline-what-json-schema-cannot-validate-4eh7)
+- [Software development in the AI era - is vibe coding our future?](https://dev.to/fenrirx22/software-development-in-the-ai-era-is-vibe-coding-our-future-43jc)
+- [An Open-Source Gym-Style Backtesting Framework for Algorithmic Trading in Rust](https://dev.to/len_chapaty/an-open-source-gym-style-backtesting-framework-for-algorithmic-trading-in-rust-53fg)
+- [governance layers for agent wallets: spending caps and approval workflows](https://dev.to/t49qnsx7qtkpanks/governance-layers-for-agent-wallets-spending-caps-and-approval-workflows-3j7p)
 <!-- BLOG-POST-LIST:END -->
 
 
