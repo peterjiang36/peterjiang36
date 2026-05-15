@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forgelab Week 6: $20 MRR, 5 APIs, and the Week I Fixed What You Cannot See](https://dev.to/forgelabafrica/forgelab-week-6-20-mrr-5-apis-and-the-week-i-fixed-what-you-cannot-see-421n)
-- [Magento 2 Database Deadlocks: Causes, Detection &amp; Prevention](https://dev.to/magevanta/magento-2-database-deadlocks-causes-detection-prevention-1856)
-- [Applying RAG Architectures to Travel Knowledge Bases: A Practitioner&#39;s Guide](https://dev.to/airtruffle/applying-rag-architectures-to-travel-knowledge-bases-a-practitioners-guide-1hn6)
-- [5 Things I Learned About AI-Assisted Engineering This Week &lpar;and 1 That Backfired&rpar;](https://dev.to/tal_vardi_d7f3ffe2d1f9cdf/5-things-i-learned-about-ai-assisted-engineering-this-week-and-1-that-backfired-25a0)
+- [To Level Up Your React Workflow: 3 Essential VS Code Basic Extensions Every Web Developer Needs to Use](https://dev.to/kbharath/to-level-up-your-react-workflow-3-essential-vs-code-extensions-every-developer-needs-5838)
+- [Pac-Man: A 16KB Masterpiece Every Dev Should Study](https://dev.to/jeandevbr/pac-man-a-16kb-masterpiece-every-dev-should-study-1hcf)
+- [Building Microfrontends with Svelte: A Modern Approach to Scalable Web Apps](https://dev.to/sravan_kumarvelangi_0653/building-microfrontends-with-svelte-a-modern-approach-to-scalable-web-apps-4b5i)
+- [Your AI Agent Ordered Bananas. Here&#39;s Why.](https://dev.to/kriday_dave_8b7622f44d651/your-ai-agent-ordered-bananas-heres-why-1ke9)
 <!-- BLOG-POST-LIST:END -->
 
 
