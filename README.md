@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Forex Pair Subscription in Python: Stop Spamming Your WebSocket Data Feed](https://dev.to/emily19980210/dynamic-forex-pair-subscription-in-python-stop-spamming-your-websocket-data-feed-62a)
-- [I Built a Tool to Find Out Who&#39;s Not Following You Back on Instagram &lpar;And It Lives in the Browser Console&rpar;](https://dev.to/stanleyowen/i-built-a-tool-to-find-out-whos-not-following-you-back-on-instagram-and-it-lives-in-the-browser-389c)
-- [I Built a 10-Agent AI Code Review System with MiMo — Here&#39;s What I Learned](https://dev.to/jansen003/i-built-a-10-agent-ai-code-review-system-with-mimo-heres-what-i-learned-3g80)
-- [Scaling WebSocket](https://dev.to/mrbprakash06/scaling-websocket-1dfa)
+- [The Terminal Stack That Fixed My Claude Code Workflow](https://dev.to/namish_saxena/the-terminal-stack-that-fixed-my-claude-code-workflow-1ebo)
+- [The Gift Card Loophole: Why Apple&#39;s $200/Month AI Tax Is Actually Your Fault](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-gift-card-loophole-why-apples-200month-ai-tax-is-actually-your-fault-35ck)
+- [The Magento product description that AI can&#39;t read](https://dev.to/angeo/the-magento-product-description-that-ai-cant-read-bm2)
+- [Cost Per Customer for SaaS: The Unit Economics Dashboard That Killed Three Pricing Mistakes](https://dev.to/muskan_8abedcc7e12/cost-per-customer-for-saas-the-unit-economics-dashboard-that-killed-three-pricing-mistakes-9cl)
 <!-- BLOG-POST-LIST:END -->
 
 
