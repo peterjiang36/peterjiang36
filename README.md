@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cruise Passengers](https://dev.to/ldkrx/the-cruise-passengers-4bno)
-- [Bitcoin’s Secret Math: Modular Arithmetic &amp; Finite Fields](https://dev.to/muhammad_ademola/bitcoins-secret-math-modular-arithmetic-finite-fields-4165)
-- [Open Cowork : A Free, Alternative to claude cowork](https://dev.to/vishal_veerareddy_9cdd17d/open-cowork-lynkr-a-free-local-ai-agent-that-actually-does-the-work-204p)
-- [Teaching My AI Agents to Push Back: Why I Built RoBrain](https://dev.to/a_e9d710dc0b575ff2fb87a3a/teaching-my-ai-agents-to-push-back-why-i-built-robrain-23e)
+- [Seeded Universe Recreation Engine: Building a Deterministic Universe Timeline from One Seed](https://dev.to/tizwildin/seeded-universe-recreation-engine-building-a-deterministic-universe-timeline-from-one-seed-3kg2)
+- [React Compiler and and the promise of automated memoization](https://dev.to/dhwang/react-compiler-and-and-the-promise-of-automated-memoization-4g78)
+- [GraphRAG Local Search Text Unit Selection Strategy: Design Trade-offs and Improvement Directions](https://dev.to/eyanpen/graphrag-local-search-text-unit-selection-strategy-design-trade-offs-and-improvement-directions-16c4)
+- [[Workshop][Gemini CLI] Building with AI 2026: Hands-on with Gemini CLI and Official MCP to Launch a Google Drive LINE Bot from Scratch](https://dev.to/evanlin/workshopgemini-cli-building-with-ai-2026-hands-on-with-gemini-cli-and-official-mcp-to-launch-a-296d)
 <!-- BLOG-POST-LIST:END -->
 
 
