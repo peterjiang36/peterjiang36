@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT-BR] McLovin: o roteador de links multiplataforma](https://dev.to/guilherme44/pt-br-mclovin-o-roteador-de-links-multiplataforma-488o)
-- [Deploying a Node.js App to Production: The Complete 2026 Guide](https://dev.to/armorbreak/deploying-a-nodejs-app-to-production-the-complete-2026-guide-3d29)
-- [McLovin: the cross-platform link router](https://dev.to/guilherme44/mclovin-the-cross-platform-link-router-19ho)
-- [Building a CLI Tool with Node.js: From Zero to npm](https://dev.to/armorbreak/building-a-cli-tool-with-nodejs-from-zero-to-npm-429a)
+- [When &#39;Google can read JavaScript now&#39; isn&#39;t enough: a teardown of a React SPA marketing site in 2026](https://dev.to/richardwrobinson/when-google-can-read-javascript-now-isnt-enough-a-teardown-of-a-react-spa-marketing-site-in-2026-1a5m)
+- [MCP &lpar;Model Context Protocol&rpar; for .NET Devs — What It Is and Why You&#39;ll Be Using It Soon](https://dev.to/vikrant_bagal_afae3e25ca7/mcp-model-context-protocol-for-net-devs-what-it-is-and-why-youll-be-using-it-soon-a98)
+- [Vibe Architecture](https://dev.to/davidayres/vibe-architecture-262e)
+- [Topogram’s structured graph: concept and implementation](https://dev.to/attebury/topograms-structured-graph-concept-and-implementation-56lj)
 <!-- BLOG-POST-LIST:END -->
 
 
