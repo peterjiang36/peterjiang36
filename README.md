@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeded Universe Recreation Engine: Building a Deterministic Universe Timeline from One Seed](https://dev.to/tizwildin/seeded-universe-recreation-engine-building-a-deterministic-universe-timeline-from-one-seed-3kg2)
-- [React Compiler and and the promise of automated memoization](https://dev.to/dhwang/react-compiler-and-and-the-promise-of-automated-memoization-4g78)
-- [GraphRAG Local Search Text Unit Selection Strategy: Design Trade-offs and Improvement Directions](https://dev.to/eyanpen/graphrag-local-search-text-unit-selection-strategy-design-trade-offs-and-improvement-directions-16c4)
-- [[Workshop][Gemini CLI] Building with AI 2026: Hands-on with Gemini CLI and Official MCP to Launch a Google Drive LINE Bot from Scratch](https://dev.to/evanlin/workshopgemini-cli-building-with-ai-2026-hands-on-with-gemini-cli-and-official-mcp-to-launch-a-296d)
+- [HikariCP: the p95 that lies to you and how to read the real pool signals](https://dev.to/jtorchia/hikaricp-the-p95-that-lies-to-you-and-how-to-read-the-real-pool-signals-10eo)
+- [HikariCP: el p95 que te miente y cómo leer las señales reales del pool](https://dev.to/jtorchia/hikaricp-el-p95-que-te-miente-y-como-leer-las-senales-reales-del-pool-1da6)
+- [Too Curious to Focus, Too Lost to Grow](https://dev.to/gufvr/too-curious-to-focus-too-lost-to-grow-5ghc)
+- [How I Cut My AI Usage by 60% and Got Better Code](https://dev.to/owenyuwono/how-i-cut-my-ai-usage-by-60-and-got-better-code-1h40)
 <!-- BLOG-POST-LIST:END -->
 
 
