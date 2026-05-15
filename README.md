@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When &#39;Google can read JavaScript now&#39; isn&#39;t enough: a teardown of a React SPA marketing site in 2026](https://dev.to/richardwrobinson/when-google-can-read-javascript-now-isnt-enough-a-teardown-of-a-react-spa-marketing-site-in-2026-1a5m)
-- [MCP &lpar;Model Context Protocol&rpar; for .NET Devs — What It Is and Why You&#39;ll Be Using It Soon](https://dev.to/vikrant_bagal_afae3e25ca7/mcp-model-context-protocol-for-net-devs-what-it-is-and-why-youll-be-using-it-soon-a98)
-- [Vibe Architecture](https://dev.to/davidayres/vibe-architecture-262e)
-- [Topogram’s structured graph: concept and implementation](https://dev.to/attebury/topograms-structured-graph-concept-and-implementation-56lj)
+- [I priced out self-hosted AI agents on a mini PC and realized I was about to spend my weekend, not save money](https://dev.to/lars_winstand/i-priced-out-self-hosted-ai-agents-on-a-mini-pc-and-realized-i-was-about-to-spend-my-weekend-not-367c)
+- [1 RN Thing a Day – Day 13: Redux Thunk](https://dev.to/ola_1313/1-rn-thing-a-day-day-13-redux-thunk-209i)
+- [How to install K8s locally in VirtualBox &lpar;self Lab for Beginner&rpar;](https://dev.to/rodrigomuneralha25/how-to-install-k8s-locally-in-virtualbox-self-lab-for-beginner-4gmh)
+- [I built a supply chain security scanner in Rust — here&#39;s what I learned](https://dev.to/p41n3st/i-built-a-supply-chain-security-scanner-in-rust-heres-what-i-learned-k87)
 <!-- BLOG-POST-LIST:END -->
 
 
