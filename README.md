@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HikariCP: the p95 that lies to you and how to read the real pool signals](https://dev.to/jtorchia/hikaricp-the-p95-that-lies-to-you-and-how-to-read-the-real-pool-signals-10eo)
-- [HikariCP: el p95 que te miente y cómo leer las señales reales del pool](https://dev.to/jtorchia/hikaricp-el-p95-que-te-miente-y-como-leer-las-senales-reales-del-pool-1da6)
-- [Too Curious to Focus, Too Lost to Grow](https://dev.to/gufvr/too-curious-to-focus-too-lost-to-grow-5ghc)
-- [How I Cut My AI Usage by 60% and Got Better Code](https://dev.to/owenyuwono/how-i-cut-my-ai-usage-by-60-and-got-better-code-1h40)
+- [Dynamic Forex Pair Subscription in Python: Stop Spamming Your WebSocket Data Feed](https://dev.to/emily19980210/dynamic-forex-pair-subscription-in-python-stop-spamming-your-websocket-data-feed-62a)
+- [I Built a Tool to Find Out Who&#39;s Not Following You Back on Instagram &lpar;And It Lives in the Browser Console&rpar;](https://dev.to/stanleyowen/i-built-a-tool-to-find-out-whos-not-following-you-back-on-instagram-and-it-lives-in-the-browser-389c)
+- [I Built a 10-Agent AI Code Review System with MiMo — Here&#39;s What I Learned](https://dev.to/jansen003/i-built-a-10-agent-ai-code-review-system-with-mimo-heres-what-i-learned-3g80)
+- [Scaling WebSocket](https://dev.to/mrbprakash06/scaling-websocket-1dfa)
 <!-- BLOG-POST-LIST:END -->
 
 
