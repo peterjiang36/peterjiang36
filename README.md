@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TSI Nexus: An Open-Source Digital Brain Powered by Local Gemma 4 26B and Context Graphs](https://dev.to/satish_ayyaswami_0a47d90a/tsi-nexus-an-open-source-digital-brain-powered-by-local-gemma-4-26b-and-context-graphs-5eac)
-- [The Universe Spoke Back: How a Single LLM Response Made Me a Coder &lpar;And Why Python Was Never created&rpar;](https://dev.to/mazikumadeitww/the-universe-spoke-back-how-a-single-llm-response-made-me-a-coder-and-why-python-was-never-29ka)
-- [I Thought I Understood Bitcoin. I Was Wrong](https://dev.to/hussein_c40aced584b43573b/i-thought-i-understood-bitcoin-i-was-wrong-1b8j)
-- [JD.com&#39;s isJdSelfRun Flag Is the Best Gray-Market Detection Signal in Chinese E-Commerce &lpar;Python Scraper Inside&rpar;](https://dev.to/sami_8858131362756585e4f4/jdcoms-isjdselfrun-flag-is-the-best-gray-market-detection-signal-in-chinese-e-commerce-python-3ib3)
+- [JavaScript String Methods: The Ultimate Cheat Sheet](https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg)
+- [Node.js Streams: The Practical Guide](https://dev.to/armorbreak/nodejs-streams-the-practical-guide-kia)
+- [Designing REST APIs That Developers Love](https://dev.to/armorbreak/designing-rest-apis-that-developers-love-47f)
+- [I Built a Free, Open-Source LeetCode Practice App — Here&#39;s How](https://dev.to/anshullsaxena/i-built-a-free-open-source-leetcode-practice-app-heres-how-44al)
 <!-- BLOG-POST-LIST:END -->
 
 
