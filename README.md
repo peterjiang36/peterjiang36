@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [To Level Up Your React Workflow: 3 Essential VS Code Basic Extensions Every Web Developer Needs to Use](https://dev.to/kbharath/to-level-up-your-react-workflow-3-essential-vs-code-extensions-every-developer-needs-5838)
-- [Pac-Man: A 16KB Masterpiece Every Dev Should Study](https://dev.to/jeandevbr/pac-man-a-16kb-masterpiece-every-dev-should-study-1hcf)
-- [Building Microfrontends with Svelte: A Modern Approach to Scalable Web Apps](https://dev.to/sravan_kumarvelangi_0653/building-microfrontends-with-svelte-a-modern-approach-to-scalable-web-apps-4b5i)
-- [Your AI Agent Ordered Bananas. Here&#39;s Why.](https://dev.to/kriday_dave_8b7622f44d651/your-ai-agent-ordered-bananas-heres-why-1ke9)
+- [Reverse-engineering Kilo&#39;s recent Product Hunt launch](https://dev.to/fmerian/reverse-engineering-kilos-recent-product-hunt-launch-13e4)
+- [Sample dataset analysis: a 100-row snapshot of Sitemap](https://dev.to/can_ylmaz_da7b70586976b3/sample-dataset-analysis-a-100-row-snapshot-of-sitemap-2082)
+- [Claude for Small Business: A Solo Founder&#39;s Honest Take](https://dev.to/maxmendes91/claude-for-small-business-a-solo-founders-honest-take-4i99)
+- [Why AI Tool Chains Break in Production &lpar;And the Patterns That Actually Hold Up&rpar;](https://dev.to/ai_miracle_ai/why-ai-tool-chains-break-in-production-and-the-patterns-that-actually-hold-up-35ei)
 <!-- BLOG-POST-LIST:END -->
 
 
