@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Computed business rules in Okyline: what JSON Schema cannot validate](https://dev.to/pmb_akwatype/computed-business-rules-in-okyline-what-json-schema-cannot-validate-4eh7)
-- [Software development in the AI era - is vibe coding our future?](https://dev.to/fenrirx22/software-development-in-the-ai-era-is-vibe-coding-our-future-43jc)
-- [An Open-Source Gym-Style Backtesting Framework for Algorithmic Trading in Rust](https://dev.to/len_chapaty/an-open-source-gym-style-backtesting-framework-for-algorithmic-trading-in-rust-53fg)
-- [governance layers for agent wallets: spending caps and approval workflows](https://dev.to/t49qnsx7qtkpanks/governance-layers-for-agent-wallets-spending-caps-and-approval-workflows-3j7p)
+- [How to Build a React Blog with Next.js and Cosmic](https://dev.to/tonyspiro/how-to-build-a-react-blog-with-nextjs-and-cosmic-2e63)
+- [Give Your AI Persistent Memory: OpenCode + MemPalace in 10 Minute](https://dev.to/gecojs/give-your-ai-persistent-memory-opencode-mempalace-in-10-minute-dl7)
+- [🚀 Building AnalytIQ: My Journey Creating a Multi-Agent Data Analysis Platform](https://dev.to/yashaswini-v21/building-analytiq-my-journey-creating-a-multi-agent-data-analysis-platform-4e22)
+- [How I turned a Rust book into a multilingual, interactive learning platform](https://dev.to/born1987ir/how-i-turned-a-rust-book-into-a-multilingual-interactive-learning-platform-121o)
 <!-- BLOG-POST-LIST:END -->
 
 
