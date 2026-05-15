@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Terminal Stack That Fixed My Claude Code Workflow](https://dev.to/namish_saxena/the-terminal-stack-that-fixed-my-claude-code-workflow-1ebo)
-- [The Gift Card Loophole: Why Apple&#39;s $200/Month AI Tax Is Actually Your Fault](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-gift-card-loophole-why-apples-200month-ai-tax-is-actually-your-fault-35ck)
-- [The Magento product description that AI can&#39;t read](https://dev.to/angeo/the-magento-product-description-that-ai-cant-read-bm2)
-- [Cost Per Customer for SaaS: The Unit Economics Dashboard That Killed Three Pricing Mistakes](https://dev.to/muskan_8abedcc7e12/cost-per-customer-for-saas-the-unit-economics-dashboard-that-killed-three-pricing-mistakes-9cl)
+- [Forgelab Week 6: $20 MRR, 5 APIs, and the Week I Fixed What You Cannot See](https://dev.to/forgelabafrica/forgelab-week-6-20-mrr-5-apis-and-the-week-i-fixed-what-you-cannot-see-421n)
+- [Magento 2 Database Deadlocks: Causes, Detection &amp; Prevention](https://dev.to/magevanta/magento-2-database-deadlocks-causes-detection-prevention-1856)
+- [Applying RAG Architectures to Travel Knowledge Bases: A Practitioner&#39;s Guide](https://dev.to/airtruffle/applying-rag-architectures-to-travel-knowledge-bases-a-practitioners-guide-1hn6)
+- [5 Things I Learned About AI-Assisted Engineering This Week &lpar;and 1 That Backfired&rpar;](https://dev.to/tal_vardi_d7f3ffe2d1f9cdf/5-things-i-learned-about-ai-assisted-engineering-this-week-and-1-that-backfired-25a0)
 <!-- BLOG-POST-LIST:END -->
 
 
