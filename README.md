@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-cancel Redundant GitHub Actions — Save 40% Runner Time](https://dev.to/sohanaakbar7/auto-cancel-redundant-github-actions-save-40-runner-time-2pnl)
-- [Building &quot;Sweets Vault&quot; - a multimodal Gemini Agent with physical hardware integration](https://dev.to/googleai/building-sweets-vault-a-multimodal-gemini-agent-with-physical-hardware-integration-1nmh)
-- [Errors as Infrastructure: Why the first crate in NEXUS wasn&#39;t networking.](https://dev.to/__17fa74fdf/errors-as-infrastructure-why-the-first-crate-in-nexus-wasnt-networking-546m)
-- [The Coding Challenge That Came for Your development Directory: Anatomy of a Job Interview Infostealer](https://dev.to/alex_chen_45b61c234682eb6/the-coding-challenge-that-came-for-your-development-directory-anatomy-of-a-job-interview-fib)
+- [Logging &amp; Observability Best Practices from Bronto](https://dev.to/bronto_io/logging-observability-best-practices-from-bronto-59hc)
+- [Agent-First Coding Is Here. What It Actually Means for Developers in 2026](https://dev.to/lasisi_ibrahimpelumi_dc0/agent-first-coding-is-here-what-it-actually-means-for-developers-in-2026-50ae)
+- [How to secure your macOS games](https://dev.to/guardingpearsoftware/how-to-secure-your-macos-games-2o87)
+- [Building a Letterboxd Film &amp; Review data pipeline: from raw scrape to first insight](https://dev.to/can_ylmaz_da7b70586976b3/building-a-letterboxd-film-review-data-pipeline-from-raw-scrape-to-first-insight-4bo6)
 <!-- BLOG-POST-LIST:END -->
 
 
