@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Go DB ORM &lpar;v1.0.1&rpar; — A Type-Safe, Fluent ORM for Go](https://dev.to/anik2069/introducing-go-db-orm-v101-a-type-safe-fluent-orm-for-go-48a9)
-- [AWS Cloud Practitioner Exam - The Difficult Parts](https://dev.to/c_claven_03c4a41605f86c8e4/aws-cloud-practitioner-exam-the-difficult-parts-38if)
-- [Solana Account Data — How I Started Making Sense of Owners, Programs, and Raw Bytes](https://dev.to/zoe_lin_0653/solana-account-data-how-i-started-making-sense-of-owners-programs-and-raw-bytes-1fmj)
-- [Coding in the Dark: How Local Gemma 4 Saved My Python Progress During Ukrainian Blackouts](https://dev.to/bymfds/coding-in-the-dark-how-local-gemma-4-saved-my-python-progress-during-ukrainian-blackouts-49be)
+- [TSI Nexus: An Open-Source Digital Brain Powered by Local Gemma 4 26B and Context Graphs](https://dev.to/satish_ayyaswami_0a47d90a/tsi-nexus-an-open-source-digital-brain-powered-by-local-gemma-4-26b-and-context-graphs-5eac)
+- [The Universe Spoke Back: How a Single LLM Response Made Me a Coder &lpar;And Why Python Was Never created&rpar;](https://dev.to/mazikumadeitww/the-universe-spoke-back-how-a-single-llm-response-made-me-a-coder-and-why-python-was-never-29ka)
+- [I Thought I Understood Bitcoin. I Was Wrong](https://dev.to/hussein_c40aced584b43573b/i-thought-i-understood-bitcoin-i-was-wrong-1b8j)
+- [JD.com&#39;s isJdSelfRun Flag Is the Best Gray-Market Detection Signal in Chinese E-Commerce &lpar;Python Scraper Inside&rpar;](https://dev.to/sami_8858131362756585e4f4/jdcoms-isjdselfrun-flag-is-the-best-gray-market-detection-signal-in-chinese-e-commerce-python-3ib3)
 <!-- BLOG-POST-LIST:END -->
 
 
