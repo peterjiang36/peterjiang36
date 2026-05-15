@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a React Blog with Next.js and Cosmic](https://dev.to/tonyspiro/how-to-build-a-react-blog-with-nextjs-and-cosmic-2e63)
-- [Give Your AI Persistent Memory: OpenCode + MemPalace in 10 Minute](https://dev.to/gecojs/give-your-ai-persistent-memory-opencode-mempalace-in-10-minute-dl7)
-- [🚀 Building AnalytIQ: My Journey Creating a Multi-Agent Data Analysis Platform](https://dev.to/yashaswini-v21/building-analytiq-my-journey-creating-a-multi-agent-data-analysis-platform-4e22)
-- [How I turned a Rust book into a multilingual, interactive learning platform](https://dev.to/born1987ir/how-i-turned-a-rust-book-into-a-multilingual-interactive-learning-platform-121o)
+- [Accessibility Guardian — AI-Powered WCAG Auditor That Thinks](https://dev.to/vpodorozh/accessibility-guardian-ai-powered-wcag-auditor-that-thinks-40oh)
+- [Agentic System Architecture: Why Signal and Domain Is the Missing Piece](https://dev.to/waxell/agentic-system-architecture-why-signal-and-domain-is-the-missing-piece-pdi)
+- [Tokens et standard &lpar;ERC-20 / BEP-20&rpar;](https://dev.to/amel_in_tech/tokens-et-standard-erc-20-bep-20-4h1j)
+- [État global 3/3 :Les tokens &amp; smart contracts](https://dev.to/amel_in_tech/etat-global-33-les-tokens-smart-contracts-e6h)
 <!-- BLOG-POST-LIST:END -->
 
 
