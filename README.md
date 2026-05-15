@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessibility Guardian — AI-Powered WCAG Auditor That Thinks](https://dev.to/vpodorozh/accessibility-guardian-ai-powered-wcag-auditor-that-thinks-40oh)
-- [Agentic System Architecture: Why Signal and Domain Is the Missing Piece](https://dev.to/waxell/agentic-system-architecture-why-signal-and-domain-is-the-missing-piece-pdi)
-- [Tokens et standard &lpar;ERC-20 / BEP-20&rpar;](https://dev.to/amel_in_tech/tokens-et-standard-erc-20-bep-20-4h1j)
-- [État global 3/3 :Les tokens &amp; smart contracts](https://dev.to/amel_in_tech/etat-global-33-les-tokens-smart-contracts-e6h)
+- [I Audited 70 Companies&#39; llms.txt Files. Most Don&#39;t Have One.](https://dev.to/intally/i-audited-70-companies-llmstxt-files-most-dont-have-one-22g2)
+- [🧠 Beyond Chatbots: Understanding Hermes Agent and the Rise of Autonomous AI Systems](https://dev.to/muhammad_yasin_f39f26989f/beyond-chatbots-understanding-hermes-agent-and-the-rise-of-autonomous-ai-systems-3p12)
+- [XGBoost: When Gradient Boosting Meets Regularization](https://dev.to/jacobjerryarackal/xgboost-when-gradient-boosting-meets-regularization-36kk)
+- [Coding Cat Oran S2 Ep6 — The Abstract Table and the Gateway](https://dev.to/syslayer/coding-cat-oran-s2-ep6-the-abstract-table-and-the-gateway-lk5)
 <!-- BLOG-POST-LIST:END -->
 
 
