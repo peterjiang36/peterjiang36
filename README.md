@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring a Product Engineering Studio in India in 2026: A Founder&#39;s Checklist](https://dev.to/ujjawal_tyagi_c5a84255da4/hiring-a-product-engineering-studio-in-india-in-2026-a-founders-checklist-14cc)
-- [How a one-person dev studio runs with autonomous AI agents](https://dev.to/baodev-studio/how-a-one-person-dev-studio-runs-with-autonomous-ai-agents-4a7m)
-- [Android 17 Is Here — And Google Finally Did the Thing](https://dev.to/dev-arafat-alim/android-17-is-here-and-google-finally-did-the-thing-59cc)
-- [Building tiny-docker-go in Go: What I Learned from Building a Tiny Docker-like Runtime](https://dev.to/amirsefati/building-tiny-docker-go-in-go-what-i-learned-from-building-a-tiny-docker-like-runtime-57g9)
+- [I built my own VS Code theme from scratch because nothing felt right at 2am](https://dev.to/vinaycodes/i-built-my-own-vs-code-theme-from-scratch-because-nothing-felt-right-at-2am-31on)
+- [System Design: проектируем сервис для хранения и обмена файлами](https://dev.to/nowinterview/system-design-proiektiruiem-siervis-dlia-khranieniia-i-obmiena-failami-bmi)
+- [LLM Model Routing: How to Automatically Pick the Right AI Model for Each Task](https://dev.to/futurmix/llm-model-routing-how-to-automatically-pick-the-right-ai-model-for-each-task-2n56)
+- [MCP Security is Broken — So I Built a Scanner](https://dev.to/freeguy21/mcp-security-is-broken-so-i-built-a-scanner-30ak)
 <!-- BLOG-POST-LIST:END -->
 
 
