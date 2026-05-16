@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things to Find on Solana Explorer That Will Level Up Your On-Chain Intuition](https://dev.to/sammie_/5-things-to-find-on-solana-explorer-that-will-level-up-your-on-chain-intuition-5baj)
-- [What goes into utm_medium for Meta Ads — the GA4 regex that decides Paid Social vs Organic Social](https://dev.to/toshihiro_shishido/what-goes-into-utmmedium-for-meta-ads-the-ga4-regex-that-decides-paid-social-vs-organic-social-1h38)
-- [Backup Photos from Google Photos: A 2026 Guide](https://dev.to/poeck/backup-photos-from-google-photos-a-2026-guide-5d9p)
-- [Building an AI WhatsApp Bot for Business: Lessons from SARA](https://dev.to/alessandrobinda114/building-an-ai-whatsapp-bot-for-business-lessons-from-sara-57j)
+- [OpenClaw: 13 Errors, $1.50/Month, and an AI Team That Doesn’t Need the Cloud](https://dev.to/ianlpaterson/openclaw-13-errors-150month-and-an-ai-team-that-doesnt-need-the-cloud-4256)
+- [Plotting 5 Years of FX in the Browser — Frankfurter API + Hand-Rolled SVG Line Chart](https://dev.to/sendotltd/plotting-5-years-of-fx-in-the-browser-frankfurter-api-hand-rolled-svg-line-chart-ljn)
+- [3rd OOM on the VPS: Parallel Builds and a flock Mutex Story](https://dev.to/merbayerp/3rd-oom-on-the-vps-parallel-builds-and-a-flock-mutex-story-3690)
+- [The Coding Paradox: Why You Need to Learn to Code Precisely Because Everyone Says You Don&#39;t](https://dev.to/ferdinandodhiambo/the-coding-paradox-why-you-need-to-learn-to-code-precisely-because-everyone-says-you-dont-4n70)
 <!-- BLOG-POST-LIST:END -->
 
 
