@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I fixed a 0..1 brightness slider in vdu_controls &lpar;Philips Evnia DDC/CI bug&rpar;](https://dev.to/mammar/how-i-fixed-a-01-brightness-slider-in-vducontrols-philips-evnia-ddcci-bug-4fdg)
-- [Why we treat credits and wallets as first-class billing primitives](https://dev.to/arnon_shimoni_f734319d79c/why-we-treat-credits-and-wallets-as-first-class-billing-primitives-5872)
-- [I see Dead Internet Theory playing out in real-time on DEV](https://dev.to/best_codes/i-see-dead-internet-theory-playing-out-in-real-time-on-dev-2nb6)
-- [CyWire Master Prompts](https://dev.to/topwebworks/cywire-master-prompts-4pil)
+- [5 Things to Find on Solana Explorer That Will Level Up Your On-Chain Intuition](https://dev.to/sammie_/5-things-to-find-on-solana-explorer-that-will-level-up-your-on-chain-intuition-5baj)
+- [What goes into utm_medium for Meta Ads — the GA4 regex that decides Paid Social vs Organic Social](https://dev.to/toshihiro_shishido/what-goes-into-utmmedium-for-meta-ads-the-ga4-regex-that-decides-paid-social-vs-organic-social-1h38)
+- [Backup Photos from Google Photos: A 2026 Guide](https://dev.to/poeck/backup-photos-from-google-photos-a-2026-guide-5d9p)
+- [Building an AI WhatsApp Bot for Business: Lessons from SARA](https://dev.to/alessandrobinda114/building-an-ai-whatsapp-bot-for-business-lessons-from-sara-57j)
 <!-- BLOG-POST-LIST:END -->
 
 
