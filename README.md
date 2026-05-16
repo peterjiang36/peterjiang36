@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit vs Astro 4: The Performance Battle performance in Real-World](https://dev.to/johalputt/sveltekit-vs-astro-4-the-performance-battle-performance-in-real-world-5564)
-- [How I Built a UK Vehicle History API: VIN Decoding, MOT Records &amp; Finance Checks](https://dev.to/driviumnet/how-i-built-a-uk-vehicle-history-api-vin-decoding-mot-records-finance-checks-36k5)
-- [Real-Time Sign Language Translation with MediaPipe, Flutter, and Gemini Nano](https://dev.to/noor_y/real-time-sign-language-translation-with-mediapipe-flutter-and-gemini-nano-21e9)
-- [Rust and Zig Solve the Same Problems Very Differently](https://dev.to/shrsv/rust-and-zig-solve-the-same-problems-very-differently-2m60)
+- [&quot;Spartans-GraphRAG: Token-Efficient Threat Intelligence with TigerGraph&quot;](https://dev.to/indra_20/spartans-graphrag-token-efficient-threat-intelligence-with-tigergraph-4pfk)
+- [My Claude Code setup lived on three machines and none of them agreed](https://dev.to/landb/my-claude-code-setup-lived-on-three-machines-and-none-of-them-agreed-17ok)
+- [ANGULAR DYNAMIC FORMS](https://dev.to/preetha_ss_8da7339634285/angular-dynamic-forms-o3o)
+- [Building AI Agents: A 3-Level Roadmap for Developers](https://dev.to/forgeflows/building-ai-agents-a-3-level-roadmap-for-developers-1d1j)
 <!-- BLOG-POST-LIST:END -->
 
 
