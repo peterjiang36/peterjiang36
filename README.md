@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Uploading My Files to Random Websites &lpar;And Built ToolXZ&rpar;](https://dev.to/fasakak67269/why-i-stopped-uploading-my-files-to-random-websites-and-built-toolxz-4b0d)
-- [The Python Developer Playbook Nobody Teaches How real engineers think, build, and scale systems beyond tutorials](https://dev.to/sa82912045blip/the-python-developer-playbook-nobody-teaches-how-real-engineers-think-build-and-scale-systems-eca)
-- [7 CSS Tools and References Every Frontend Developer Should Know](https://dev.to/137foundry/7-css-tools-and-references-every-frontend-developer-should-know-4ki6)
-- [The Truth About Agent Swarming: What the Gurus Won&#39;t Tell You About Cost, Failure, and Security](https://dev.to/tomtokita/the-truth-about-agent-swarming-what-the-gurus-wont-tell-you-about-cost-failure-and-security-1775)
+- [Chain-of-Thought and Beyond: How LLMs Actually Learn to Reason](https://dev.to/soohan_abbasi/chain-of-thought-and-beyond-how-llms-actually-learn-to-reason-3kk4)
+- [Quark&#39;s Outlines: Python Special Method Names](https://dev.to/mike-vincent/quarks-outlines-python-special-method-names-3470)
+- [Building a Serverless Website on AWS &lpar;and GCP&rpar;](https://dev.to/danphilllips-cloud/building-a-serverless-website-on-aws-and-gcp-5l)
+- [We built a free open source alternative to Wiz for Azure — here is how it works](https://dev.to/vishnu_ajith_98100c5d1c03/we-built-a-free-open-source-alternative-to-wiz-for-azure-here-is-how-it-works-49oo)
 <!-- BLOG-POST-LIST:END -->
 
 
