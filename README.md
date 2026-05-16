@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript String Methods: The Ultimate Cheat Sheet](https://dev.to/armorbreak/javascript-string-methods-the-ultimate-cheat-sheet-3eeg)
-- [Node.js Streams: The Practical Guide](https://dev.to/armorbreak/nodejs-streams-the-practical-guide-kia)
-- [Designing REST APIs That Developers Love](https://dev.to/armorbreak/designing-rest-apis-that-developers-love-47f)
-- [I Built a Free, Open-Source LeetCode Practice App — Here&#39;s How](https://dev.to/anshullsaxena/i-built-a-free-open-source-leetcode-practice-app-heres-how-44al)
+- [How I auto-enrich a brand database with AI on cache miss &lpar;Lovable + Claude API&rpar;](https://dev.to/tokidigital/how-i-auto-enrich-a-brand-database-with-ai-on-cache-miss-lovable-claude-api-1kfd)
+- [Converting LangChain Messages to OpenAI and Amazon Bedrock Converse Formats](https://dev.to/moyarich/converting-langchain-messages-to-openai-and-amazon-bedrock-converse-formats-5445)
+- [Part 7: Testing with Confidence: Mocking and Recap](https://dev.to/matzefriedrich/part-7-testing-with-confidence-mocking-and-recap-49eg)
+- [Part 6: Ensuring Reliability - Validation and Proxies with Parsley](https://dev.to/matzefriedrich/part-6-ensuring-reliability-validation-and-proxies-with-parsley-32fo)
 <!-- BLOG-POST-LIST:END -->
 
 
