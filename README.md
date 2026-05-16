@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your WebSocket says &quot;connected&quot; but stopped sending data. Here&#39;s the bug TCP keepalive can&#39;t catch.](https://dev.to/mixa_dev/your-websocket-says-connected-but-stopped-sending-data-heres-the-bug-tcp-keepalive-cant-catch-5424)
-- [Understanding Importance Derivation](https://dev.to/ganesh-kumar/understanding-importance-derivation-bpe)
-- [What breaks when you ship Next.js on Cloudflare Workers](https://dev.to/m0dus/what-breaks-when-you-ship-nextjs-on-cloudflare-workers-k73)
-- [How I Built a SQL Server From Scratch](https://dev.to/yash_jadhav_cf439de0c2991/how-i-built-a-sql-server-from-scratch-2fm)
+- [Stop letting npm install run untrusted code on your machine — meet np-audit](https://dev.to/koblers/stop-letting-npm-install-run-untrusted-code-on-your-machine-meet-np-audit-3kj4)
+- [Why I Stopped Building Features and Started Shipping Experiments](https://dev.to/potatolab/why-i-stopped-building-features-and-started-shipping-experiments-4hc5)
+- [Organise Before You Stage: Changelists for Git](https://dev.to/bhfock/organise-before-you-stage-changelists-for-git-59ep)
+- [Start with NvChad](https://dev.to/ralvaracode/start-with-nvchad-50ee)
 <!-- BLOG-POST-LIST:END -->
 
 
