@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chain-of-Thought and Beyond: How LLMs Actually Learn to Reason](https://dev.to/soohan_abbasi/chain-of-thought-and-beyond-how-llms-actually-learn-to-reason-3kk4)
-- [Quark&#39;s Outlines: Python Special Method Names](https://dev.to/mike-vincent/quarks-outlines-python-special-method-names-3470)
-- [Building a Serverless Website on AWS &lpar;and GCP&rpar;](https://dev.to/danphilllips-cloud/building-a-serverless-website-on-aws-and-gcp-5l)
-- [We built a free open source alternative to Wiz for Azure — here is how it works](https://dev.to/vishnu_ajith_98100c5d1c03/we-built-a-free-open-source-alternative-to-wiz-for-azure-here-is-how-it-works-49oo)
+- [What Years of WordPress Development Taught Me About Modern Frontend Systems](https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh)
+- [OWASP Mobile Top 10 for React Native Fintech Apps: A Practical Implementation Checklist](https://dev.to/fasthedeveloper/owasp-mobile-top-10-for-react-native-fintech-apps-a-practical-implementation-checklist-3hle)
+- [Local LLMs vs Cloud APIs: Building Offline-First AI Workflows](https://dev.to/binky_6ad02e76335bf0ce709/local-llms-vs-cloud-apis-building-offline-first-ai-workflows-2a0e)
+- [200K Token Context Windows: Practical Workflows That Actually Work](https://dev.to/binky_6ad02e76335bf0ce709/200k-token-context-windows-practical-workflows-that-actually-work-2e0f)
 <!-- BLOG-POST-LIST:END -->
 
 
