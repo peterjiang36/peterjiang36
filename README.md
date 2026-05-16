@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Spartans-GraphRAG: Token-Efficient Threat Intelligence with TigerGraph&quot;](https://dev.to/indra_20/spartans-graphrag-token-efficient-threat-intelligence-with-tigergraph-4pfk)
-- [My Claude Code setup lived on three machines and none of them agreed](https://dev.to/landb/my-claude-code-setup-lived-on-three-machines-and-none-of-them-agreed-17ok)
-- [ANGULAR DYNAMIC FORMS](https://dev.to/preetha_ss_8da7339634285/angular-dynamic-forms-o3o)
-- [Building AI Agents: A 3-Level Roadmap for Developers](https://dev.to/forgeflows/building-ai-agents-a-3-level-roadmap-for-developers-1d1j)
+- [Your WebSocket says &quot;connected&quot; but stopped sending data. Here&#39;s the bug TCP keepalive can&#39;t catch.](https://dev.to/mixa_dev/your-websocket-says-connected-but-stopped-sending-data-heres-the-bug-tcp-keepalive-cant-catch-5424)
+- [Understanding Importance Derivation](https://dev.to/ganesh-kumar/understanding-importance-derivation-bpe)
+- [What breaks when you ship Next.js on Cloudflare Workers](https://dev.to/m0dus/what-breaks-when-you-ship-nextjs-on-cloudflare-workers-k73)
+- [How I Built a SQL Server From Scratch](https://dev.to/yash_jadhav_cf439de0c2991/how-i-built-a-sql-server-from-scratch-2fm)
 <!-- BLOG-POST-LIST:END -->
 
 
