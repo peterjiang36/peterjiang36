@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Science of Zen: Why Ambient Radio is the Ultimate Tool for Stress Relief](https://dev.to/naskovic/the-science-of-zen-why-ambient-radio-is-the-ultimate-tool-for-stress-relief-3i7g)
-- [RLHF in 2026: when to pick PPO, DPO, or verifier-based RL](https://dev.to/saurabh_naik_b213f3bbeafe/rlhf-in-2026-when-to-pick-ppo-dpo-or-verifier-based-rl-542o)
-- [The Human Touch: Why Human-Curated Radio Beats Spotify&#39;s AI Algorithms](https://dev.to/naskovic/the-human-touch-why-human-curated-radio-beats-spotifys-ai-algorithms-3mcm)
-- [My Experience Working at Dr. Homi Bhabha State University, Mumbai](https://dev.to/astradev_2274306c7b7a637e/my-experience-working-at-dr-homi-bhabha-state-university-mumbai-4o1m)
+- [Build Cache Management in CI/CD: 3 Practical Approaches](https://dev.to/merbayerp/build-cache-management-in-cicd-3-practical-approaches-1o88)
+- [How AI Can Help You Recover Your Bitcoin](https://dev.to/auyeungdavid_2847435260/how-ai-can-help-you-recover-your-bitcoin-1j1c)
+- [SLOs, SLIs, and Error Budgets: A Practical Guide for SREs](https://dev.to/clouddevang/slos-slis-and-error-budgets-a-practical-guide-for-sres-5bmc)
+- [OpenTelemetry in Practice: Vendor-Agnostic Observability at Scale](https://dev.to/clouddevang/opentelemetry-in-practice-vendor-agnostic-observability-at-scale-4c4m)
 <!-- BLOG-POST-LIST:END -->
 
 
