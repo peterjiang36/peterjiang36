@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.](https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18)
-- [AtCoder Beginner Contest 458 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-458-can-jia-ji-lu-tojie-da-li-a-dwen-ti--569c)
-- [You Were Trained. But Are You Ready to Serve?](https://dev.to/sreeni5018/you-were-trained-but-are-you-ready-to-serve-10j4)
-- [Introducing AgentRisk Trust Badges for AI Agents](https://dev.to/agentrisk/introducing-agentrisk-trust-badges-for-ai-agents-2274)
+- [Hiring a Product Engineering Studio in India in 2026: A Founder&#39;s Checklist](https://dev.to/ujjawal_tyagi_c5a84255da4/hiring-a-product-engineering-studio-in-india-in-2026-a-founders-checklist-14cc)
+- [How a one-person dev studio runs with autonomous AI agents](https://dev.to/baodev-studio/how-a-one-person-dev-studio-runs-with-autonomous-ai-agents-4a7m)
+- [Android 17 Is Here — And Google Finally Did the Thing](https://dev.to/dev-arafat-alim/android-17-is-here-and-google-finally-did-the-thing-59cc)
+- [Building tiny-docker-go in Go: What I Learned from Building a Tiny Docker-like Runtime](https://dev.to/amirsefati/building-tiny-docker-go-in-go-what-i-learned-from-building-a-tiny-docker-like-runtime-57g9)
 <!-- BLOG-POST-LIST:END -->
 
 
