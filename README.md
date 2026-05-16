@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built real-time Flutter notifications without Firebase](https://dev.to/hamidwakili/how-i-built-real-time-flutter-notifications-without-firebase-29ee)
-- [Beginner&#39;s Guide to Docker: From Zero to Hero](https://dev.to/myogeshchavan97/beginners-guide-to-docker-from-zero-to-hero-4977)
-- [IllusionCode — A Python implementation of Claude Code](https://dev.to/yuntaihua/illusioncode-a-python-implementation-of-claude-code-1el1)
-- [From pnpm&#39;s Cool Feature to npm&#39;s Life jacket: The &lpar;somewhat accidental&rpar; birth of age-install](https://dev.to/cinfinitedev_engine/from-pnpms-cool-feature-to-npms-life-jacket-the-somewhat-accidental-birth-of-age-install-49pe)
+- [I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time](https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd)
+- [Per-feature quota in Apify KeyValueStore — no DB, no cron, no drift](https://dev.to/foxck016077/per-feature-quota-in-apify-keyvaluestore-no-db-no-cron-no-drift-36p4)
+- [The Whitepaper Thunderdome: HAGE vs Storage Is Not Memory](https://dev.to/vektor_memory_43f51a32376/the-whitepaper-thunderdome-hage-vs-storage-is-not-memory-5epd)
+- [How I Built a Unicode Sanitizer to Stop Hidden Prompt Injection Attacks](https://dev.to/jade_duan_603d4020f94e39a/how-i-built-a-unicode-sanitizer-to-stop-hidden-prompt-injection-attacks-3860)
 <!-- BLOG-POST-LIST:END -->
 
 
