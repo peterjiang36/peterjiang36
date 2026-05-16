@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop letting npm install run untrusted code on your machine — meet np-audit](https://dev.to/koblers/stop-letting-npm-install-run-untrusted-code-on-your-machine-meet-np-audit-3kj4)
-- [Why I Stopped Building Features and Started Shipping Experiments](https://dev.to/potatolab/why-i-stopped-building-features-and-started-shipping-experiments-4hc5)
-- [Organise Before You Stage: Changelists for Git](https://dev.to/bhfock/organise-before-you-stage-changelists-for-git-59ep)
-- [Start with NvChad](https://dev.to/ralvaracode/start-with-nvchad-50ee)
+- [How I fixed a 0..1 brightness slider in vdu_controls &lpar;Philips Evnia DDC/CI bug&rpar;](https://dev.to/mammar/how-i-fixed-a-01-brightness-slider-in-vducontrols-philips-evnia-ddcci-bug-4fdg)
+- [Why we treat credits and wallets as first-class billing primitives](https://dev.to/arnon_shimoni_f734319d79c/why-we-treat-credits-and-wallets-as-first-class-billing-primitives-5872)
+- [I see Dead Internet Theory playing out in real-time on DEV](https://dev.to/best_codes/i-see-dead-internet-theory-playing-out-in-real-time-on-dev-2nb6)
+- [CyWire Master Prompts](https://dev.to/topwebworks/cywire-master-prompts-4pil)
 <!-- BLOG-POST-LIST:END -->
 
 
