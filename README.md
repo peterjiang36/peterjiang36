@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I auto-enrich a brand database with AI on cache miss &lpar;Lovable + Claude API&rpar;](https://dev.to/tokidigital/how-i-auto-enrich-a-brand-database-with-ai-on-cache-miss-lovable-claude-api-1kfd)
-- [Converting LangChain Messages to OpenAI and Amazon Bedrock Converse Formats](https://dev.to/moyarich/converting-langchain-messages-to-openai-and-amazon-bedrock-converse-formats-5445)
-- [Part 7: Testing with Confidence: Mocking and Recap](https://dev.to/matzefriedrich/part-7-testing-with-confidence-mocking-and-recap-49eg)
-- [Part 6: Ensuring Reliability - Validation and Proxies with Parsley](https://dev.to/matzefriedrich/part-6-ensuring-reliability-validation-and-proxies-with-parsley-32fo)
+- [Your AI database agent needs dry-run mode](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-database-agent-needs-dry-run-mode-3kdk)
+- [Prisma vs JDBC: the benchmark that almost made me blame the wrong ORM](https://dev.to/jtorchia/prisma-vs-jdbc-the-benchmark-that-almost-made-me-blame-the-wrong-orm-585m)
+- [Prisma vs JDBC: el benchmark que casi me hace culpar al ORM equivocado](https://dev.to/jtorchia/prisma-vs-jdbc-el-benchmark-que-casi-me-hace-culpar-al-orm-equivocado-12hc)
+- [iOS App Store Screenshots and Compliance: The Gotchas After Your Build Succeeds](https://dev.to/anand_rathnas_d5b608cc3de/ios-app-store-screenshots-and-compliance-the-gotchas-after-your-build-succeeds-2aje)
 <!-- BLOG-POST-LIST:END -->
 
 
