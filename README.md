@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built my own VS Code theme from scratch because nothing felt right at 2am](https://dev.to/vinaycodes/i-built-my-own-vs-code-theme-from-scratch-because-nothing-felt-right-at-2am-31on)
-- [System Design: проектируем сервис для хранения и обмена файлами](https://dev.to/nowinterview/system-design-proiektiruiem-siervis-dlia-khranieniia-i-obmiena-failami-bmi)
-- [LLM Model Routing: How to Automatically Pick the Right AI Model for Each Task](https://dev.to/futurmix/llm-model-routing-how-to-automatically-pick-the-right-ai-model-for-each-task-2n56)
-- [MCP Security is Broken — So I Built a Scanner](https://dev.to/freeguy21/mcp-security-is-broken-so-i-built-a-scanner-30ak)
+- [SvelteKit vs Astro 4: The Performance Battle performance in Real-World](https://dev.to/johalputt/sveltekit-vs-astro-4-the-performance-battle-performance-in-real-world-5564)
+- [How I Built a UK Vehicle History API: VIN Decoding, MOT Records &amp; Finance Checks](https://dev.to/driviumnet/how-i-built-a-uk-vehicle-history-api-vin-decoding-mot-records-finance-checks-36k5)
+- [Real-Time Sign Language Translation with MediaPipe, Flutter, and Gemini Nano](https://dev.to/noor_y/real-time-sign-language-translation-with-mediapipe-flutter-and-gemini-nano-21e9)
+- [Rust and Zig Solve the Same Problems Very Differently](https://dev.to/shrsv/rust-and-zig-solve-the-same-problems-very-differently-2m60)
 <!-- BLOG-POST-LIST:END -->
 
 
