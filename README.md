@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI database agent needs dry-run mode](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-database-agent-needs-dry-run-mode-3kdk)
-- [Prisma vs JDBC: the benchmark that almost made me blame the wrong ORM](https://dev.to/jtorchia/prisma-vs-jdbc-the-benchmark-that-almost-made-me-blame-the-wrong-orm-585m)
-- [Prisma vs JDBC: el benchmark que casi me hace culpar al ORM equivocado](https://dev.to/jtorchia/prisma-vs-jdbc-el-benchmark-que-casi-me-hace-culpar-al-orm-equivocado-12hc)
-- [iOS App Store Screenshots and Compliance: The Gotchas After Your Build Succeeds](https://dev.to/anand_rathnas_d5b608cc3de/ios-app-store-screenshots-and-compliance-the-gotchas-after-your-build-succeeds-2aje)
+- [Azure Functions para developers que nunca usaron serverless](https://dev.to/carlosjcastrog/azure-functions-para-developers-que-nunca-usaron-serverless-4j0k)
+- [Quantum Computing: The Walsh-Hadamard Matrix — Backbone of Grover&#39;s Diffusion Operator](https://dev.to/malcolmlow/quantum-computing-the-walsh-hadamard-matrix-backbone-of-grovers-diffusion-operator-4g5l)
+- [Using the github actions to automate monitoring dashboards](https://dev.to/jonasbarros/using-the-github-actions-to-automate-monitoring-dashboards-2koe)
+- [Steam Game Pricing Analysis: 109 Games Tracked Across 30 Data Fields](https://dev.to/richard_r_992de90df63abdf/steam-game-pricing-analysis-109-games-tracked-across-30-data-fields-34i1)
 <!-- BLOG-POST-LIST:END -->
 
 
