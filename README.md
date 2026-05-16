@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time](https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd)
-- [Per-feature quota in Apify KeyValueStore — no DB, no cron, no drift](https://dev.to/foxck016077/per-feature-quota-in-apify-keyvaluestore-no-db-no-cron-no-drift-36p4)
-- [The Whitepaper Thunderdome: HAGE vs Storage Is Not Memory](https://dev.to/vektor_memory_43f51a32376/the-whitepaper-thunderdome-hage-vs-storage-is-not-memory-5epd)
-- [How I Built a Unicode Sanitizer to Stop Hidden Prompt Injection Attacks](https://dev.to/jade_duan_603d4020f94e39a/how-i-built-a-unicode-sanitizer-to-stop-hidden-prompt-injection-attacks-3860)
+- [qqq IDE: Paste Everything into VS Code / Code-OSS / VSCodium](https://dev.to/gh555com/qqq-ide-paste-everything-into-vs-code-code-oss-vscodium-3j3p)
+- [Resolving deletion in AVL trees](https://dev.to/satyaaytas/resolving-deletion-in-avl-trees-117a)
+- [Why ADA Lawsuits Are Now Targeting Small Web Agencies — And What Developers Need to Know](https://dev.to/huzefa/why-ada-lawsuits-are-now-targeting-small-web-agencies-and-what-developers-need-to-know-1fe4)
+- [I Gave Hermes Agent 5 Impossible Tasks](https://dev.to/syedahmershah/i-gave-hermes-agent-5-impossible-tasks-1k16)
 <!-- BLOG-POST-LIST:END -->
 
 
