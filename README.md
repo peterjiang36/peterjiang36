@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Years of WordPress Development Taught Me About Modern Frontend Systems](https://dev.to/kunal_pareek/what-years-of-wordpress-development-taught-me-about-modern-frontend-systems-4koh)
-- [OWASP Mobile Top 10 for React Native Fintech Apps: A Practical Implementation Checklist](https://dev.to/fasthedeveloper/owasp-mobile-top-10-for-react-native-fintech-apps-a-practical-implementation-checklist-3hle)
-- [Local LLMs vs Cloud APIs: Building Offline-First AI Workflows](https://dev.to/binky_6ad02e76335bf0ce709/local-llms-vs-cloud-apis-building-offline-first-ai-workflows-2a0e)
-- [200K Token Context Windows: Practical Workflows That Actually Work](https://dev.to/binky_6ad02e76335bf0ce709/200k-token-context-windows-practical-workflows-that-actually-work-2e0f)
+- [I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.](https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18)
+- [AtCoder Beginner Contest 458 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-458-can-jia-ji-lu-tojie-da-li-a-dwen-ti--569c)
+- [You Were Trained. But Are You Ready to Serve?](https://dev.to/sreeni5018/you-were-trained-but-are-you-ready-to-serve-10j4)
+- [Introducing AgentRisk Trust Badges for AI Agents](https://dev.to/agentrisk/introducing-agentrisk-trust-badges-for-ai-agents-2274)
 <!-- BLOG-POST-LIST:END -->
 
 
