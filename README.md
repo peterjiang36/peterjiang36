@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Functions para developers que nunca usaron serverless](https://dev.to/carlosjcastrog/azure-functions-para-developers-que-nunca-usaron-serverless-4j0k)
-- [Quantum Computing: The Walsh-Hadamard Matrix — Backbone of Grover&#39;s Diffusion Operator](https://dev.to/malcolmlow/quantum-computing-the-walsh-hadamard-matrix-backbone-of-grovers-diffusion-operator-4g5l)
-- [Using the github actions to automate monitoring dashboards](https://dev.to/jonasbarros/using-the-github-actions-to-automate-monitoring-dashboards-2koe)
-- [Steam Game Pricing Analysis: 109 Games Tracked Across 30 Data Fields](https://dev.to/richard_r_992de90df63abdf/steam-game-pricing-analysis-109-games-tracked-across-30-data-fields-34i1)
+- [Maintaining an Agent-Searchable Profile: Public Impressions, Semantic Tags, and Real-Time Refresh](https://dev.to/innovationsiyu/maintaining-an-agent-searchable-profile-public-impressions-semantic-tags-and-real-time-refresh-2je9)
+- [Installing Prowler on Azure – My Hands-On Learning Experience](https://dev.to/octopusshield/installing-prowler-on-azure-my-hands-on-learning-experience-1map)
+- [TIL: Building Agentic Workflows in Chrome with Gemini Skills](https://dev.to/aasteriskz/til-building-agentic-workflows-in-chrome-with-gemini-skills-2eao)
+- [Hidden in Plain Sight: Implementing StegoPNet for Deep Image Steganography 🚀](https://dev.to/anjasfedo/hidden-in-plain-sight-implementing-stegopnet-for-deep-image-steganography-2k8o)
 <!-- BLOG-POST-LIST:END -->
 
 
