@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Cache Management in CI/CD: 3 Practical Approaches](https://dev.to/merbayerp/build-cache-management-in-cicd-3-practical-approaches-1o88)
-- [How AI Can Help You Recover Your Bitcoin](https://dev.to/auyeungdavid_2847435260/how-ai-can-help-you-recover-your-bitcoin-1j1c)
-- [SLOs, SLIs, and Error Budgets: A Practical Guide for SREs](https://dev.to/clouddevang/slos-slis-and-error-budgets-a-practical-guide-for-sres-5bmc)
-- [OpenTelemetry in Practice: Vendor-Agnostic Observability at Scale](https://dev.to/clouddevang/opentelemetry-in-practice-vendor-agnostic-observability-at-scale-4c4m)
+- [Why I Stopped Uploading My Files to Random Websites &lpar;And Built ToolXZ&rpar;](https://dev.to/fasakak67269/why-i-stopped-uploading-my-files-to-random-websites-and-built-toolxz-4b0d)
+- [The Python Developer Playbook Nobody Teaches How real engineers think, build, and scale systems beyond tutorials](https://dev.to/sa82912045blip/the-python-developer-playbook-nobody-teaches-how-real-engineers-think-build-and-scale-systems-eca)
+- [7 CSS Tools and References Every Frontend Developer Should Know](https://dev.to/137foundry/7-css-tools-and-references-every-frontend-developer-should-know-4ki6)
+- [The Truth About Agent Swarming: What the Gurus Won&#39;t Tell You About Cost, Failure, and Security](https://dev.to/tomtokita/the-truth-about-agent-swarming-what-the-gurus-wont-tell-you-about-cost-failure-and-security-1775)
 <!-- BLOG-POST-LIST:END -->
 
 
