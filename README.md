@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Maintaining an Agent-Searchable Profile: Public Impressions, Semantic Tags, and Real-Time Refresh](https://dev.to/innovationsiyu/maintaining-an-agent-searchable-profile-public-impressions-semantic-tags-and-real-time-refresh-2je9)
-- [Installing Prowler on Azure – My Hands-On Learning Experience](https://dev.to/octopusshield/installing-prowler-on-azure-my-hands-on-learning-experience-1map)
-- [TIL: Building Agentic Workflows in Chrome with Gemini Skills](https://dev.to/aasteriskz/til-building-agentic-workflows-in-chrome-with-gemini-skills-2eao)
-- [Hidden in Plain Sight: Implementing StegoPNet for Deep Image Steganography 🚀](https://dev.to/anjasfedo/hidden-in-plain-sight-implementing-stegopnet-for-deep-image-steganography-2k8o)
+- [How I built real-time Flutter notifications without Firebase](https://dev.to/hamidwakili/how-i-built-real-time-flutter-notifications-without-firebase-29ee)
+- [Beginner&#39;s Guide to Docker: From Zero to Hero](https://dev.to/myogeshchavan97/beginners-guide-to-docker-from-zero-to-hero-4977)
+- [IllusionCode — A Python implementation of Claude Code](https://dev.to/yuntaihua/illusioncode-a-python-implementation-of-claude-code-1el1)
+- [From pnpm&#39;s Cool Feature to npm&#39;s Life jacket: The &lpar;somewhat accidental&rpar; birth of age-install](https://dev.to/cinfinitedev_engine/from-pnpms-cool-feature-to-npms-life-jacket-the-somewhat-accidental-birth-of-age-install-49pe)
 <!-- BLOG-POST-LIST:END -->
 
 
