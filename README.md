@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GraphQL Authorization Bypass: A Real CVE Code Review](https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh)
-- [La règle du jour-jeté-à-la-poubelle : lis le code avant de laisser ton IA en écrire](https://dev.to/michelfaure/la-regle-du-jour-jete-a-la-poubelle-lis-le-code-avant-de-laisser-ton-ia-en-ecrire-4col)
-- [The 1-day-thrown-away rule: read the code before letting your AI write new code](https://dev.to/michelfaure/the-1-day-thrown-away-rule-read-the-code-before-letting-your-ai-write-new-code-435a)
-- [KubeCon Amsterdam 2026: The Industrialization of ML - A Deep Dive into Uber’s AI Platform Architecture.](https://dev.to/soumia_g_9dc322fc4404cecd/the-industrialization-of-ml-a-deep-dive-into-ubers-ai-platform-architecture-1hbb)
+- [Training Your Mouse Behavior Clone: Make AI Browser Agents Move Like You](https://dev.to/bing_yu/training-your-mouse-behavior-clone-make-ai-browser-agents-move-like-you-5293)
+- [How I Built a Vedic Panchang Engine in TypeScript — Swiss Ephemeris, Meeus Fallback, Zero External APIs](https://dev.to/krazykrackpot/how-i-built-a-vedic-panchang-engine-in-typescript-swiss-ephemeris-meeus-fallback-zero-external-3n5j)
+- [etcd: mvcc: database space exceeded: full recovery guide for on-prem Kubernetes](https://dev.to/kashishlakhara04/etcd-mvcc-database-space-exceeded-full-recovery-guide-for-on-prem-kubernetes-4pha)
+- [Why Does Google Keep Changing My Language? &lpar;And How to Fix It&rpar;](https://dev.to/samthuku/why-does-google-keep-changing-my-language-and-how-to-fix-it-2ifp)
 <!-- BLOG-POST-LIST:END -->
 
 
