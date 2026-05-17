@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Macchiato Día 1: La Terminal Agentica que Nace de un Café](https://dev.to/guayoyo_tech/macchiato-dia-1-la-terminal-agentica-que-nace-de-un-cafe-77d)
-- [Hermes Skill HQ: a knowledge base that teaches agents when to use skills](https://dev.to/codesigils/hermes-skill-hq-a-knowledge-base-that-teaches-agents-when-to-use-skills-205g)
-- [I built an AI that filters what actually needs your attention — architecture, failures, and what works](https://dev.to/k08200/i-built-an-ai-that-filters-what-actually-needs-your-attention-architecture-failures-and-what-3f08)
-- [My Thoughts on Token-Maxxing: A Call for Learning, Creativity, and Real Impact Instead of Simple Token-Maxxing](https://dev.to/konrad_winnicki/my-thoughts-on-token-maxxing-a-call-for-learning-creativity-and-real-impact-instead-of-simple-3di9)
+- [Building a linter for the bugs AI agents actually make](https://dev.to/c-tonneslan/building-a-linter-for-the-bugs-ai-agents-actually-make-3p59)
+- [What I learned opening my first sixty open source pull requests](https://dev.to/c-tonneslan/what-i-learned-opening-my-first-sixty-open-source-pull-requests-3hic)
+- [The Role of Platform Engineering in a Startup](https://dev.to/samson_tanimawo/the-role-of-platform-engineering-in-a-startup-1me0)
+- [How I Built a Lightweight Kg to Lbs Converter Firefox Extension](https://dev.to/gupta_vikas88/how-i-built-a-lightweight-kg-to-lbs-converter-firefox-extension-kj3)
 <!-- BLOG-POST-LIST:END -->
 
 
