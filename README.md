@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Chat Starter Kit for CMP: ~20 Lines from Empty Screen to ChatGPT-Quality Streaming](https://dev.to/nadeemiqbal/building-an-ai-chat-starter-kit-for-cmp-20-lines-from-empty-screen-to-chatgpt-quality-streaming-3he8)
-- [Building &quot;Captain Cool&quot;](https://dev.to/sarthak-patil/building-captain-cool-4bni)
-- [SpecPeek vs Figma Dev Mode: Share Design Specs Without Paid Developer Seats](https://dev.to/tgospodinov/specpeek-vs-figma-dev-mode-share-design-specs-without-paid-developer-seats-4kmm)
-- [Why I Still Choose Ruby on Rails in the Age of AI](https://dev.to/hulkinpublic/why-i-still-choose-ruby-on-rails-in-the-age-of-ai-m3h)
+- [Offline-First iOS Architecture with Core Data and Sync](https://dev.to/beefedai/offline-first-ios-architecture-with-core-data-and-sync-5kc)
+- [This Week In React #281 : Next.js, TanStack, Security, Redact | Redraw, Expo, Tabs, Screens | TC39, Rolldown, Node](https://dev.to/sebastienlorber/this-week-in-react-281-nextjs-tanstack-security-redact-redraw-expo-tabs-screens-tc39-1m01)
+- [Claude Code Routines: Automate AI Workflows on Autopilot in 2026](https://dev.to/rams901/claude-code-routines-automate-ai-workflows-on-autopilot-in-2026-4ebg)
+- [Boring Is the Feature When Money Is Moving](https://dev.to/jonoherrington/boring-is-the-feature-when-money-is-moving-5be)
 <!-- BLOG-POST-LIST:END -->
 
 
