@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [System Design: Shared Cookie Authentication for Multiple Apps](https://dev.to/forceki/system-design-shared-cookie-authentication-for-multiple-apps-49jn)
-- [How I designed the SDLC state machine for agentic coding](https://dev.to/great_cto/how-i-designed-the-sdlc-state-machine-for-agentic-coding-2pch)
-- [First real shipped feature with this stack — receipts](https://dev.to/great_cto/first-real-shipped-feature-with-this-stack-receipts-45c5)
-- [Why I Built an AI Korean Astrology SaaS as a Solo Founder](https://dev.to/_fc63310e498280508abfb/why-i-built-an-ai-korean-astrology-saas-as-a-solo-founder-ogl)
+- [The Delusion of Infinite Compute: Running Gemma 4 on an i5 CPU](https://dev.to/kaushikcoderpy/the-delusion-of-infinite-compute-running-gemma-4-on-an-i5-cpu-3gip)
+- [MCP Server Token Bloat: 55,000 Tokens Wasted Before Your Agent Runs](https://dev.to/pickuma/mcp-server-token-bloat-55000-tokens-wasted-before-your-agent-runs-13j5)
+- [The Daimon Java SDK: Chat, Stream, and Query Memory from 3 Lines of Java](https://dev.to/sonicboom15/the-daimon-java-sdk-chat-stream-and-query-memory-from-3-lines-of-java-567f)
+- [LLD Foundations: DRY, KISS, YAGNI &lpar;practical rules for everyday design&rpar;](https://dev.to/saras_growth_space/lld-foundations-dry-kiss-yagni-practical-rules-for-everyday-design-53ab)
 <!-- BLOG-POST-LIST:END -->
 
 
