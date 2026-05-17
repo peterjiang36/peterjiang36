@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Design Trends 2026: What Actually Held Up After Six Months](https://dev.to/studiomeyer_io/web-design-trends-2026-what-actually-held-up-after-six-months-23p8)
-- [Anthropic Named Their Models After Poetic Forms. I Think They Accidentally Mapped the Human Brain.](https://dev.to/rahulmranga/anthropic-named-their-models-after-poetic-forms-i-think-they-accidentally-mapped-the-human-brain-2f7o)
-- [10+ Best Free React Admin Dashboard Templates for 2026](https://dev.to/vinishbhaskar/free-react-admin-dashboard-templates-5h62)
-- [660 AI Agents Ran 27,000 Experiments. Their Biggest Discovery Was a 2015 Textbook Result.](https://dev.to/vektor_memory_43f51a32376/660-ai-agents-ran-27000-experiments-their-biggest-discovery-was-a-2015-textbook-result-1bp2)
+- [# Open VSX vs VS Code Marketplace — where should you publish your extension first?](https://dev.to/sidikiconde/-open-vsx-vs-vs-code-marketplace-where-should-you-publish-your-extension-first-2eep)
+- [Im a Nvidia Developer Champion!](https://dev.to/1grace/im-a-nvidia-developer-champion-17a4)
+- [OpenAI GPT 5.5 Event](https://dev.to/1grace/openai-gpt-55-event-pd3)
+- [Build a Type-Safe Next.js 15 + Strapi v5 Blog in 10 Minutes](https://dev.to/dearonski/build-a-type-safe-nextjs-15-strapi-v5-blog-in-10-minutes-2b22)
 <!-- BLOG-POST-LIST:END -->
 
 
