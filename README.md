@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Delusion of Infinite Compute: Running Gemma 4 on an i5 CPU](https://dev.to/kaushikcoderpy/the-delusion-of-infinite-compute-running-gemma-4-on-an-i5-cpu-3gip)
-- [MCP Server Token Bloat: 55,000 Tokens Wasted Before Your Agent Runs](https://dev.to/pickuma/mcp-server-token-bloat-55000-tokens-wasted-before-your-agent-runs-13j5)
-- [The Daimon Java SDK: Chat, Stream, and Query Memory from 3 Lines of Java](https://dev.to/sonicboom15/the-daimon-java-sdk-chat-stream-and-query-memory-from-3-lines-of-java-567f)
-- [LLD Foundations: DRY, KISS, YAGNI &lpar;practical rules for everyday design&rpar;](https://dev.to/saras_growth_space/lld-foundations-dry-kiss-yagni-practical-rules-for-everyday-design-53ab)
+- [Macchiato Día 1: La Terminal Agentica que Nace de un Café](https://dev.to/guayoyo_tech/macchiato-dia-1-la-terminal-agentica-que-nace-de-un-cafe-77d)
+- [Hermes Skill HQ: a knowledge base that teaches agents when to use skills](https://dev.to/codesigils/hermes-skill-hq-a-knowledge-base-that-teaches-agents-when-to-use-skills-205g)
+- [I built an AI that filters what actually needs your attention — architecture, failures, and what works](https://dev.to/k08200/i-built-an-ai-that-filters-what-actually-needs-your-attention-architecture-failures-and-what-3f08)
+- [My Thoughts on Token-Maxxing: A Call for Learning, Creativity, and Real Impact Instead of Simple Token-Maxxing](https://dev.to/konrad_winnicki/my-thoughts-on-token-maxxing-a-call-for-learning-creativity-and-real-impact-instead-of-simple-3di9)
 <!-- BLOG-POST-LIST:END -->
 
 
