@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TechnoHelps Just Released 3 Free Open-Source Python Toolkits for SEO &amp; Web Developers](https://dev.to/technohelpsofficial/technohelps-just-released-3-free-open-source-python-toolkits-for-seo-web-developers-1pil)
-- [Protecting your Node.js project against supply-chain attacks](https://dev.to/douglasdemoura/protecting-your-nodejs-project-against-supply-chain-attacks-5984)
-- [API Authentication: Part III. JWT Tokens](https://dev.to/eugene-zimin/api-authentication-part-iii-jwt-tokens-3c6a)
-- [Google Said It Had Native Function Calling. I Tested It.](https://dev.to/vystartasv/google-said-it-had-native-function-calling-i-tested-it-54i7)
+- [Interim Log: My First Real Mobile Coding Session – Voice, AI Connectors &amp; The Current State of Developer Tooling](https://dev.to/alexrebula/interim-log-my-first-real-mobile-coding-session-voice-ai-connectors-the-current-state-of-2m1d)
+- [The Agent Is 20% of the Work. The Platform Is the Other 80%.](https://dev.to/todd_linnertz_871a076f68e/the-agent-is-20-of-the-work-the-platform-is-the-other-80-4cf8)
+- [Beyond REST: Architecting High-Performance Microservices with gRPC in Go](https://dev.to/murtuza/beyond-rest-architecting-high-performance-microservices-with-grpc-in-go-57e5)
+- [I Stayed Up Until 3 AM to Build a Better Claude Code Guide Than the One With 52,000 Stars — Here&#39;s What I Found](https://dev.to/apples_one_cd174284bffb/i-stayed-up-until-3-am-to-build-a-better-claude-code-guide-than-the-one-with-52000-stars-heres-15cg)
 <!-- BLOG-POST-LIST:END -->
 
 
