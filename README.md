@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Python Data Analytics Handbook: A Guide for Beginners](https://dev.to/grace_wambua/the-python-data-analytics-handbook-a-guide-for-beginners-4n0b)
-- [Understanding Solana&#39;s Account Model: A Web2 Developer&#39;s Guide](https://dev.to/enigma06702/understanding-solanas-account-model-a-web2-developers-guide-5foi)
-- [Seguridad LMS después del incidente del LMS Canvas](https://dev.to/krestomatio/seguridad-lms-despues-del-incidente-del-lms-canvas-jkk)
-- [5 Reasons Your RAG System Will Fail in Production &lpar;And the Patterns I Use to Fix Each One&rpar;](https://dev.to/muazashraf/5-reasons-your-rag-system-will-fail-in-production-and-the-patterns-i-use-to-fix-each-one-34ac)
+- [Encrypting Application Data in .NET - From AES Basics to Keychains, Rotation, and Searchable Trade-offs](https://dev.to/roman-golovanov/encrypting-application-data-in-net-from-aes-basics-to-keychains-rotation-and-searchable-1h6o)
+- [We’re Repeating Dependency Hell — But Now It’s AI Behaviour, Not Code](https://dev.to/vladimirivanov/were-repeating-dependency-hell-but-now-its-ai-behaviour-agents-and-skills-not-code-1d5m)
+- [My MeDo Hackathon Experience](https://dev.to/gbemicodes/my-medo-hackathon-experience-3gj0)
+- [The Browser Was the Engine](https://dev.to/lazarv/the-browser-was-the-engine-58bg)
 <!-- BLOG-POST-LIST:END -->
 
 
