@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Grid: A Beginner-Friendly Breakdown](https://dev.to/johalputt/understanding-grid-a-beginner-friendly-breakdown-2ege)
-- [How we tracked down a mysterious latency issue in our AWS Lambda + RDS Proxy stack, and discovered Prisma was the culprit all along.](https://dev.to/jayesh_shinde/how-we-tracked-down-a-mysterious-latency-issue-in-our-aws-lambda-rds-proxy-stack-and-discovered-4h0i)
-- [I Built an AI Agent Risk Auditor for Agentic Repositories](https://dev.to/james_bridges_5511048e2cf/i-built-an-ai-agent-risk-auditor-for-agentic-repositories-4hli)
-- [How to Auto-Deploy a Laravel App to DigitalOcean Using GitHub Actions](https://dev.to/jenueldev/how-to-auto-deploy-a-laravel-app-to-digitalocean-using-github-actions-3bon)
+- [TechnoHelps Just Released 3 Free Open-Source Python Toolkits for SEO &amp; Web Developers](https://dev.to/technohelpsofficial/technohelps-just-released-3-free-open-source-python-toolkits-for-seo-web-developers-1pil)
+- [Protecting your Node.js project against supply-chain attacks](https://dev.to/douglasdemoura/protecting-your-nodejs-project-against-supply-chain-attacks-5984)
+- [API Authentication: Part III. JWT Tokens](https://dev.to/eugene-zimin/api-authentication-part-iii-jwt-tokens-3c6a)
+- [Google Said It Had Native Function Calling. I Tested It.](https://dev.to/vystartasv/google-said-it-had-native-function-calling-i-tested-it-54i7)
 <!-- BLOG-POST-LIST:END -->
 
 
