@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Interim Log: My First Real Mobile Coding Session – Voice, AI Connectors &amp; The Current State of Developer Tooling](https://dev.to/alexrebula/interim-log-my-first-real-mobile-coding-session-voice-ai-connectors-the-current-state-of-2m1d)
-- [The Agent Is 20% of the Work. The Platform Is the Other 80%.](https://dev.to/todd_linnertz_871a076f68e/the-agent-is-20-of-the-work-the-platform-is-the-other-80-4cf8)
-- [Beyond REST: Architecting High-Performance Microservices with gRPC in Go](https://dev.to/murtuza/beyond-rest-architecting-high-performance-microservices-with-grpc-in-go-57e5)
-- [I Stayed Up Until 3 AM to Build a Better Claude Code Guide Than the One With 52,000 Stars — Here&#39;s What I Found](https://dev.to/apples_one_cd174284bffb/i-stayed-up-until-3-am-to-build-a-better-claude-code-guide-than-the-one-with-52000-stars-heres-15cg)
+- [Everything Is an Account on Solana: A Complete Guide for Web2 Developers](https://dev.to/sammie_/everything-is-an-account-on-solana-a-complete-guide-for-web2-developers-i57)
+- [From 80 Days Around the World to 80 Days in the Dark](https://dev.to/dalirnet/from-80-days-around-the-world-to-80-days-in-the-dark-1bkb)
+- [Build Your Own Container Runtime in Go: From Zero to a Running Isolated Process](https://dev.to/shubham_nainwal_4cf0dbffb/build-your-own-container-runtime-in-go-from-zero-to-a-running-isolated-process-37ej)
+- [Build a Self-Improving AI Agent in Rust with Garudust — Daily Briefing Bot in 10 Minutes](https://dev.to/nisit15/build-a-self-improving-ai-agent-in-rust-with-garudust-daily-briefing-bot-in-10-minutes-ona)
 <!-- BLOG-POST-LIST:END -->
 
 
