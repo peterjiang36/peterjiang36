@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Training Your Mouse Behavior Clone: Make AI Browser Agents Move Like You](https://dev.to/bing_yu/training-your-mouse-behavior-clone-make-ai-browser-agents-move-like-you-5293)
-- [How I Built a Vedic Panchang Engine in TypeScript — Swiss Ephemeris, Meeus Fallback, Zero External APIs](https://dev.to/krazykrackpot/how-i-built-a-vedic-panchang-engine-in-typescript-swiss-ephemeris-meeus-fallback-zero-external-3n5j)
-- [etcd: mvcc: database space exceeded: full recovery guide for on-prem Kubernetes](https://dev.to/kashishlakhara04/etcd-mvcc-database-space-exceeded-full-recovery-guide-for-on-prem-kubernetes-4pha)
-- [Why Does Google Keep Changing My Language? &lpar;And How to Fix It&rpar;](https://dev.to/samthuku/why-does-google-keep-changing-my-language-and-how-to-fix-it-2ifp)
+- [Indexing Solana Programs in Rust: Notes From a Python Backend Engineer](https://dev.to/tyu1996/indexing-solana-programs-in-rust-notes-from-a-python-backend-engineer-58h6)
+- [A Practical Terraform Security Review with Codex and Claude Code](https://dev.to/mike_anderson_d01f52129fb/a-practical-terraform-security-review-with-codex-and-claude-code-4659)
+- [The Hidden Cost of Every Query You Send](https://dev.to/talal_ahm2d/the-hidden-cost-of-every-query-you-send-5cnc)
+- [Laravel Starter Kit Localization Is Surprisingly Painful](https://dev.to/catatsumuri/laravel-starter-kit-localization-is-surprisingly-painful-2ipk)
 <!-- BLOG-POST-LIST:END -->
 
 
