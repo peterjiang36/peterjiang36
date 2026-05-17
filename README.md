@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a linter for the bugs AI agents actually make](https://dev.to/c-tonneslan/building-a-linter-for-the-bugs-ai-agents-actually-make-3p59)
-- [What I learned opening my first sixty open source pull requests](https://dev.to/c-tonneslan/what-i-learned-opening-my-first-sixty-open-source-pull-requests-3hic)
-- [The Role of Platform Engineering in a Startup](https://dev.to/samson_tanimawo/the-role-of-platform-engineering-in-a-startup-1me0)
-- [How I Built a Lightweight Kg to Lbs Converter Firefox Extension](https://dev.to/gupta_vikas88/how-i-built-a-lightweight-kg-to-lbs-converter-firefox-extension-kj3)
+- [Add PoW-skip + Lightning payments to any MCP server in 10 lines](https://dev.to/zekebuilds/add-pow-skip-lightning-payments-to-any-mcp-server-in-10-lines-1nac)
+- [Debugging Multi-Agent Systems in TypeScript: From Flat Logs to Execution Trees](https://dev.to/chintanonweb/debugging-multi-agent-systems-in-typescript-from-flat-logs-to-execution-trees-1foo)
+- [AWS Cloud Practitioner Exam - The Difficult Parts - Part 2: Planning and Costs](https://dev.to/c_claven_03c4a41605f86c8e4/aws-cloud-practitioner-exam-the-difficult-parts-part-2-planning-and-costs-2kdf)
+- [Operational Hardening — Guardrails, Secrets Rotation &amp; SLO — FSx ONTAP S3AP Phase 12](https://dev.to/aws-builders/operational-hardening-guardrails-secrets-rotation-slo-fsx-ontap-s3ap-phase-12-1k4o)
 <!-- BLOG-POST-LIST:END -->
 
 
