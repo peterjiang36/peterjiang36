@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything Is an Account on Solana: A Complete Guide for Web2 Developers](https://dev.to/sammie_/everything-is-an-account-on-solana-a-complete-guide-for-web2-developers-i57)
-- [From 80 Days Around the World to 80 Days in the Dark](https://dev.to/dalirnet/from-80-days-around-the-world-to-80-days-in-the-dark-1bkb)
-- [Build Your Own Container Runtime in Go: From Zero to a Running Isolated Process](https://dev.to/shubham_nainwal_4cf0dbffb/build-your-own-container-runtime-in-go-from-zero-to-a-running-isolated-process-37ej)
-- [Build a Self-Improving AI Agent in Rust with Garudust — Daily Briefing Bot in 10 Minutes](https://dev.to/nisit15/build-a-self-improving-ai-agent-in-rust-with-garudust-daily-briefing-bot-in-10-minutes-ona)
+- [GraphQL Authorization Bypass: A Real CVE Code Review](https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh)
+- [La règle du jour-jeté-à-la-poubelle : lis le code avant de laisser ton IA en écrire](https://dev.to/michelfaure/la-regle-du-jour-jete-a-la-poubelle-lis-le-code-avant-de-laisser-ton-ia-en-ecrire-4col)
+- [The 1-day-thrown-away rule: read the code before letting your AI write new code](https://dev.to/michelfaure/the-1-day-thrown-away-rule-read-the-code-before-letting-your-ai-write-new-code-435a)
+- [KubeCon Amsterdam 2026: The Industrialization of ML - A Deep Dive into Uber’s AI Platform Architecture.](https://dev.to/soumia_g_9dc322fc4404cecd/the-industrialization-of-ml-a-deep-dive-into-ubers-ai-platform-architecture-1hbb)
 <!-- BLOG-POST-LIST:END -->
 
 
