@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot 2026: Why Measuring Only Startup Time Is a Trap](https://dev.to/jtorchia/spring-boot-2026-why-measuring-only-startup-time-is-a-trap-2oa3)
-- [Spring Boot 2026: por qué medir solo startup time es una trampa](https://dev.to/jtorchia/spring-boot-2026-por-que-medir-solo-startup-time-es-una-trampa-2o0h)
-- [Agentic AI Implementation Runs Through Change Control | Focused Labs](https://dev.to/focused_dot_io/agentic-ai-implementation-runs-through-change-control-focused-labs-37pi)
-- [Building a Crypto Funding Rate Data Pipeline with Python](https://dev.to/fundingkai/building-a-crypto-funding-rate-data-pipeline-with-python-2go4)
+- [Web Design Trends 2026: What Actually Held Up After Six Months](https://dev.to/studiomeyer_io/web-design-trends-2026-what-actually-held-up-after-six-months-23p8)
+- [Anthropic Named Their Models After Poetic Forms. I Think They Accidentally Mapped the Human Brain.](https://dev.to/rahulmranga/anthropic-named-their-models-after-poetic-forms-i-think-they-accidentally-mapped-the-human-brain-2f7o)
+- [10+ Best Free React Admin Dashboard Templates for 2026](https://dev.to/vinishbhaskar/free-react-admin-dashboard-templates-5h62)
+- [660 AI Agents Ran 27,000 Experiments. Their Biggest Discovery Was a 2015 Textbook Result.](https://dev.to/vektor_memory_43f51a32376/660-ai-agents-ran-27000-experiments-their-biggest-discovery-was-a-2015-textbook-result-1bp2)
 <!-- BLOG-POST-LIST:END -->
 
 
