@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add PoW-skip + Lightning payments to any MCP server in 10 lines](https://dev.to/zekebuilds/add-pow-skip-lightning-payments-to-any-mcp-server-in-10-lines-1nac)
-- [Debugging Multi-Agent Systems in TypeScript: From Flat Logs to Execution Trees](https://dev.to/chintanonweb/debugging-multi-agent-systems-in-typescript-from-flat-logs-to-execution-trees-1foo)
-- [AWS Cloud Practitioner Exam - The Difficult Parts - Part 2: Planning and Costs](https://dev.to/c_claven_03c4a41605f86c8e4/aws-cloud-practitioner-exam-the-difficult-parts-part-2-planning-and-costs-2kdf)
-- [Operational Hardening — Guardrails, Secrets Rotation &amp; SLO — FSx ONTAP S3AP Phase 12](https://dev.to/aws-builders/operational-hardening-guardrails-secrets-rotation-slo-fsx-ontap-s3ap-phase-12-1k4o)
+- [The Python Data Analytics Handbook: A Guide for Beginners](https://dev.to/grace_wambua/the-python-data-analytics-handbook-a-guide-for-beginners-4n0b)
+- [Understanding Solana&#39;s Account Model: A Web2 Developer&#39;s Guide](https://dev.to/enigma06702/understanding-solanas-account-model-a-web2-developers-guide-5foi)
+- [Seguridad LMS después del incidente del LMS Canvas](https://dev.to/krestomatio/seguridad-lms-despues-del-incidente-del-lms-canvas-jkk)
+- [5 Reasons Your RAG System Will Fail in Production &lpar;And the Patterns I Use to Fix Each One&rpar;](https://dev.to/muazashraf/5-reasons-your-rag-system-will-fail-in-production-and-the-patterns-i-use-to-fix-each-one-34ac)
 <!-- BLOG-POST-LIST:END -->
 
 
