@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Offline-First iOS Architecture with Core Data and Sync](https://dev.to/beefedai/offline-first-ios-architecture-with-core-data-and-sync-5kc)
-- [This Week In React #281 : Next.js, TanStack, Security, Redact | Redraw, Expo, Tabs, Screens | TC39, Rolldown, Node](https://dev.to/sebastienlorber/this-week-in-react-281-nextjs-tanstack-security-redact-redraw-expo-tabs-screens-tc39-1m01)
-- [Claude Code Routines: Automate AI Workflows on Autopilot in 2026](https://dev.to/rams901/claude-code-routines-automate-ai-workflows-on-autopilot-in-2026-4ebg)
-- [Boring Is the Feature When Money Is Moving](https://dev.to/jonoherrington/boring-is-the-feature-when-money-is-moving-5be)
+- [System Design: Shared Cookie Authentication for Multiple Apps](https://dev.to/forceki/system-design-shared-cookie-authentication-for-multiple-apps-49jn)
+- [How I designed the SDLC state machine for agentic coding](https://dev.to/great_cto/how-i-designed-the-sdlc-state-machine-for-agentic-coding-2pch)
+- [First real shipped feature with this stack — receipts](https://dev.to/great_cto/first-real-shipped-feature-with-this-stack-receipts-45c5)
+- [Why I Built an AI Korean Astrology SaaS as a Solo Founder](https://dev.to/_fc63310e498280508abfb/why-i-built-an-ai-korean-astrology-saas-as-a-solo-founder-ogl)
 <!-- BLOG-POST-LIST:END -->
 
 
