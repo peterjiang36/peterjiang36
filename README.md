@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Live on Meet When WhatsApp Popped Up, Here&#39;s What I Built to Make Sure It Never Happens Again](https://dev.to/klajdm/i-was-live-on-meet-when-whatsapp-popped-up-heres-what-i-built-to-make-sure-it-never-happens-again-3lia)
-- [We benchmarked an 84% token reduction. Then we open sourced the protocol.](https://dev.to/mz06/we-benchmarked-an-84-token-reduction-then-we-open-sourced-the-protocol-2j87)
-- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-in-carbon-negative-5ap2)
-- [I Cut My LLM API Bill by 73% — Here&#39;s the Exact Optimization Playbook](https://dev.to/kollittle/i-cut-my-llm-api-bill-by-73-heres-the-exact-optimization-playbook-ei5)
+- [The second-order cost of a&lpar;nother&rpar; layoff year.](https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl)
+- [FMix: пакетный менеджер для Forth](https://dev.to/ua3mqj/fmix-pakietnyi-mieniedzhier-dlia-forth-o3p)
+- [FMix: a package manager for Forth](https://dev.to/ua3mqj/fmix-a-package-manager-for-forth-37ld)
+- [🚀 ForgeZero v1.9.0 — The &quot;Architect&quot; Update: LSP Integration, Cross-Compilation &amp; Industrial-Grade Reliability](https://dev.to/alexvoste/forgezero-v190-the-architect-update-lsp-integration-cross-compilation-industrial-grade-4f44)
 <!-- BLOG-POST-LIST:END -->
 
 
