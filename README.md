@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenHuman: The Open-Source AI Assistant That Wants to Become Your Second Brain](https://dev.to/shubham-kumar-sinha/openhuman-the-open-source-ai-assistant-that-wants-to-become-your-second-brain-23ob)
-- [The Agent&#39;s Word Is Not Enough: External Validation in the Agentic Governance Stack](https://dev.to/anthony_etherealogic/the-agents-word-is-not-enough-external-validation-in-the-agentic-governance-stack-4a1n)
-- [Why I think Component-Driven Development needs a rethink in the Signal era](https://dev.to/dyingangel666/why-i-think-component-driven-development-needs-a-rethink-in-the-signal-era-i91)
-- [Qwen 3.6 enable_thinking — The MoE Pitfall That Broke My Agent JSON Parsing](https://dev.to/sleepyquant/qwen-36-enablethinking-the-moe-pitfall-that-broke-my-agent-json-parsing-71a)
+- [Top AI Tools Every QA Engineer Should Know in 2026](https://dev.to/rim_5303334767f10/top-ai-tools-every-qa-engineer-should-know-in-2026-20kk)
+- [The Real Problems Start After Your MCP Server Works](https://dev.to/madhaviai/the-real-problems-start-after-your-mcp-server-works-2al5)
+- [Developer&#39;s Guide to AI Coding Tools: Claude vs. ChatGPT](https://dev.to/descope/developers-guide-to-ai-coding-tools-claude-vs-chatgpt-p80)
+- [LLD Foundations: Trade-offs Thinking &lpar;how real design decisions are made&rpar;](https://dev.to/saras_growth_space/lld-foundations-trade-offs-thinking-how-real-design-decisions-are-made-4jhm)
 <!-- BLOG-POST-LIST:END -->
 
 
