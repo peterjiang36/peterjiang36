@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Claude Pro Worth $20/Month? A Developer&#39;s Honest Take](https://dev.to/mozes721/is-claude-pro-worth-20month-a-developers-honest-take-2688)
-- [Agentic Analytics: Architecture, Context, and Why the Semantic Layer Does the Heavy Lifting](https://dev.to/jakkie_koekemoer/agentic-analytics-architecture-context-and-why-the-semantic-layer-does-the-heavy-lifting-2508)
-- [Why MTP doesn&#39;t speed up your llama.cpp inference &lpar;and how to actually fix it&rpar;](https://dev.to/alanwest/why-mtp-doesnt-speed-up-your-llamacpp-inference-and-how-to-actually-fix-it-2m2m)
-- [Longest Substring Without Repeating Characters — LeetCode #3 &lpar;Medium&rpar;](https://dev.to/logixydev/longest-substring-without-repeating-characters-leetcode-3-medium-3l61)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd)
+- [Gemma4.0 Made my New App Possible!!!](https://dev.to/neo_dlutu_27/-3cab)
+- [PDF to Text Conversion with Rust on AWS Lambda](https://dev.to/fayismahmood/pdf-to-text-conversion-with-rust-on-aws-lambda-5dbb)
+- [From Youtube.com to Your Screen: How Routers Route Web Traffic](https://dev.to/aditya_madhavi_e99e7007da/from-youtubecom-to-your-screen-how-routers-route-web-traffic-23gh)
 <!-- BLOG-POST-LIST:END -->
 
 
