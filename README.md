@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend HLD: Understanding Different Types of Applications](https://dev.to/paras594/frontend-hld-understanding-different-types-of-applications-ea6)
-- [I Built and Deployed a Production Web Backend in Raw C++20](https://dev.to/apo72a/i-built-and-deployed-a-production-web-backend-in-raw-c20-27ka)
-- [Token Deep Dive #2: The /50 That Did Nothing](https://dev.to/7onic/token-deep-dive-2-the-50-that-did-nothing-3a3e)
-- [How to Extract Buying Signals from Any User Interview Transcript &lpar;Free Method&rpar;](https://dev.to/shahporan_k/how-to-extract-buying-signals-from-any-user-interview-transcript-free-method-3pi3)
+- [LLM Wiki - Compiled Knowledge That RAG Cannot Replace](https://dev.to/rosgluk/llm-wiki-compiled-knowledge-that-rag-cannot-replace-8op)
+- [Retrieval vs Representation in Knowledge Systems](https://dev.to/rosgluk/retrieval-vs-representation-in-knowledge-systems-5e49)
+- [Context is the New Bottleneck: Building Token-Efficient AI Coding Agents with MCP in 2026](https://dev.to/monuminu/context-is-the-new-bottleneck-building-token-efficient-ai-coding-agents-with-mcp-in-2026-5fd0)
+- [Avoid Unnecessary Re-renders in Vue with `v-memo`](https://dev.to/jacobandrewsky/avoid-unnecessary-re-renders-in-vue-with-v-memo-49bo)
 <!-- BLOG-POST-LIST:END -->
 
 
