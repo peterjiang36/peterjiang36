@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Wiki - Compiled Knowledge That RAG Cannot Replace](https://dev.to/rosgluk/llm-wiki-compiled-knowledge-that-rag-cannot-replace-8op)
-- [Retrieval vs Representation in Knowledge Systems](https://dev.to/rosgluk/retrieval-vs-representation-in-knowledge-systems-5e49)
-- [Context is the New Bottleneck: Building Token-Efficient AI Coding Agents with MCP in 2026](https://dev.to/monuminu/context-is-the-new-bottleneck-building-token-efficient-ai-coding-agents-with-mcp-in-2026-5fd0)
-- [Avoid Unnecessary Re-renders in Vue with `v-memo`](https://dev.to/jacobandrewsky/avoid-unnecessary-re-renders-in-vue-with-v-memo-49bo)
+- [Windows Secretly Ate 83GB of My Disk Space — The Hidden .db-wal File Nobody Talks About](https://dev.to/dhaval_upadhyay_30f8292a8/windows-secretly-ate-83gb-of-my-disk-space-the-hidden-db-wal-file-nobody-talks-about-1blb)
+- [DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47)
+- [Auth multi-tenant que prova, não promete: como o GarraIA fecha 110 cenários de RBAC + 81 de RLS antes do beta da Fase 3](https://dev.to/michel_garraia/auth-multi-tenant-que-prova-nao-promete-como-o-garraia-fecha-110-cenarios-de-rbac-81-de-rls-568i)
+- [Your contact form is the only page that touches money](https://dev.to/lukasz_blania_4b7d226fa2a/your-contact-form-is-the-only-page-that-touches-money-5ce9)
 <!-- BLOG-POST-LIST:END -->
 
 
