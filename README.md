@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1obd)
-- [Gemma4.0 Made my New App Possible!!!](https://dev.to/neo_dlutu_27/-3cab)
-- [PDF to Text Conversion with Rust on AWS Lambda](https://dev.to/fayismahmood/pdf-to-text-conversion-with-rust-on-aws-lambda-5dbb)
-- [From Youtube.com to Your Screen: How Routers Route Web Traffic](https://dev.to/aditya_madhavi_e99e7007da/from-youtubecom-to-your-screen-how-routers-route-web-traffic-23gh)
+- [kovax-react 0.6: Pagination, breakpoint hooks, and one source of truth for responsive layout](https://dev.to/mrkamura/kovax-react-06-pagination-breakpoint-hooks-and-one-source-of-truth-for-responsive-layout-3in)
+- [I Built a Free, Modern Alternative to Paid Universal Sign-In for Expo](https://dev.to/sagnik2001/i-built-a-free-modern-alternative-to-paid-universal-sign-in-for-expo-51j2)
+- [The Log Management Cost Trap: Part II — Storage](https://dev.to/bronto_io/the-log-management-cost-trap-part-ii-storage-45la)
+- [Can some one guide me about how to think like a programmer? , How to solve the problem ?](https://dev.to/manoz-code/can-some-one-guide-me-about-how-to-think-like-a-programmer-how-to-solve-the-problem--1de1)
 <!-- BLOG-POST-LIST:END -->
 
 
