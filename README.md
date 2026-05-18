@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [kovax-react 0.6: Pagination, breakpoint hooks, and one source of truth for responsive layout](https://dev.to/mrkamura/kovax-react-06-pagination-breakpoint-hooks-and-one-source-of-truth-for-responsive-layout-3in)
-- [I Built a Free, Modern Alternative to Paid Universal Sign-In for Expo](https://dev.to/sagnik2001/i-built-a-free-modern-alternative-to-paid-universal-sign-in-for-expo-51j2)
-- [The Log Management Cost Trap: Part II — Storage](https://dev.to/bronto_io/the-log-management-cost-trap-part-ii-storage-45la)
-- [Can some one guide me about how to think like a programmer? , How to solve the problem ?](https://dev.to/manoz-code/can-some-one-guide-me-about-how-to-think-like-a-programmer-how-to-solve-the-problem--1de1)
+- [I Was Live on Meet When WhatsApp Popped Up, Here&#39;s What I Built to Make Sure It Never Happens Again](https://dev.to/klajdm/i-was-live-on-meet-when-whatsapp-popped-up-heres-what-i-built-to-make-sure-it-never-happens-again-3lia)
+- [We benchmarked an 84% token reduction. Then we open sourced the protocol.](https://dev.to/mz06/we-benchmarked-an-84-token-reduction-then-we-open-sourced-the-protocol-2j87)
+- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-in-carbon-negative-5ap2)
+- [I Cut My LLM API Bill by 73% — Here&#39;s the Exact Optimization Playbook](https://dev.to/kollittle/i-cut-my-llm-api-bill-by-73-heres-the-exact-optimization-playbook-ei5)
 <!-- BLOG-POST-LIST:END -->
 
 
