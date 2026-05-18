@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Knock a new alternative to Insomnia, postman and more...](https://dev.to/jairofernandez/knock-a-new-alternative-to-insomnia-postman-and-more-1nf9)
-- [When the Canary Sings: CISA Flags Cisco SD-WAN CVE-2026-20182 — Here&#39;s What Your SOC Needs to Do Before Monday](https://dev.to/susilo_harjo_2f997e4a18df/when-the-canary-sings-cisa-flags-cisco-sd-wan-cve-2026-20182-heres-what-your-soc-needs-to-do-3n37)
-- [The AI Coding Agent Reckoning: Why Benchmarks Are Broken and What Senior Architects Should Do Instead](https://dev.to/susilo_harjo_2f997e4a18df/the-ai-coding-agent-reckoning-why-benchmarks-are-broken-and-what-senior-architects-should-do-7d7)
-- [How a LinkedIn Bio Hijacked AI Recruitment Bots with Prompt Injection](https://dev.to/coridev/how-a-linkedin-bio-hijacked-ai-recruitment-bots-with-prompt-injection-3pgf)
+- [Stop Naming Your Healthcare Columns Wrong — ISO-11179 Explained](https://dev.to/season_mudbhary_7856e4083/stop-naming-your-healthcare-columns-wrong-iso-11179-explained-2hnb)
+- [Evaluation: Prove it before you ship it](https://dev.to/halton_chen/evaluation-prove-it-before-you-ship-it-2g9m)
+- [I’ve Given Up on Bun. I’m Removing It from SuperRails](https://dev.to/hulkinpublic/ive-given-up-on-bun-im-removing-it-from-superrails-1pg4)
+- [I Built a Wireless Phone Camera Monitor With Remote Controls](https://dev.to/gaurav_malvi_cc66b7c15601/i-built-a-wireless-phone-camera-monitor-with-remote-controls-3mb1)
 <!-- BLOG-POST-LIST:END -->
 
 
