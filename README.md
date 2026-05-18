@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [transactional-vs-bulk-email-2026.md](https://dev.to/dhiraj_chatpar_e54b46b388/transactional-vs-bulk-email-2026md-3fg)
-- [Migrating 200+ Microsites to a Multi-Tenant CMS: Architecture Patterns That Scale](https://dev.to/anujagrawal4/migrating-200-microsites-to-a-multi-tenant-cms-architecture-patterns-that-scale-2a33)
-- [Firewall: only allow specific application server IPs](https://dev.to/dhiraj_chatpar_e54b46b388/firewall-only-allow-specific-application-server-ips-3lfn)
-- [𝗛𝗼𝘄 𝗱𝗼 𝘆𝗼𝘂 𝗽𝗿𝗲𝘃𝗲𝗻𝘁 𝗨𝗜 𝗹𝗮𝗴 𝘄𝗵𝗲𝗻 𝗿𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗼𝘃𝗲𝗿 𝟭𝟬𝟬 𝗪𝗲𝗯𝗦𝗼𝗰𝗸𝗲𝘁 𝗲𝘃𝗲𝗻𝘁𝘀 𝗽𝗲𝗿 𝘀𝗲𝗰𝗼𝗻𝗱?](https://dev.to/kiransm/-ii5)
+- [From Logic to Code: Understanding the Curry–Howard Correspondence in Lean](https://dev.to/shrsv/from-logic-to-code-understanding-the-curry-howard-correspondence-in-lean-1and)
+- [Internal vs External Load Balancer: Key Differences Explained](https://dev.to/kashafabdullah/internal-vs-external-load-balancer-key-differences-explained-5h2e)
+- [JavaScript Performance: 8 Fixes That Actually Matter &lpar;2026&rpar;](https://dev.to/armorbreak/javascript-performance-8-fixes-that-actually-matter-2026-53f7)
+- [The Best Next.js SaaS Starter Kits with a Built-in CMS &lpar;2026&rpar;](https://dev.to/luciench/the-best-nextjs-saas-starter-kits-with-a-built-in-cms-2026-445h)
 <!-- BLOG-POST-LIST:END -->
 
 
