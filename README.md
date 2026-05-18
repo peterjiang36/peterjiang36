@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Logic to Code: Understanding the Curry–Howard Correspondence in Lean](https://dev.to/shrsv/from-logic-to-code-understanding-the-curry-howard-correspondence-in-lean-1and)
-- [Internal vs External Load Balancer: Key Differences Explained](https://dev.to/kashafabdullah/internal-vs-external-load-balancer-key-differences-explained-5h2e)
-- [JavaScript Performance: 8 Fixes That Actually Matter &lpar;2026&rpar;](https://dev.to/armorbreak/javascript-performance-8-fixes-that-actually-matter-2026-53f7)
-- [The Best Next.js SaaS Starter Kits with a Built-in CMS &lpar;2026&rpar;](https://dev.to/luciench/the-best-nextjs-saas-starter-kits-with-a-built-in-cms-2026-445h)
+- [Is Claude Pro Worth $20/Month? A Developer&#39;s Honest Take](https://dev.to/mozes721/is-claude-pro-worth-20month-a-developers-honest-take-2688)
+- [Agentic Analytics: Architecture, Context, and Why the Semantic Layer Does the Heavy Lifting](https://dev.to/jakkie_koekemoer/agentic-analytics-architecture-context-and-why-the-semantic-layer-does-the-heavy-lifting-2508)
+- [Why MTP doesn&#39;t speed up your llama.cpp inference &lpar;and how to actually fix it&rpar;](https://dev.to/alanwest/why-mtp-doesnt-speed-up-your-llamacpp-inference-and-how-to-actually-fix-it-2m2m)
+- [Longest Substring Without Repeating Characters — LeetCode #3 &lpar;Medium&rpar;](https://dev.to/logixydev/longest-substring-without-repeating-characters-leetcode-3-medium-3l61)
 <!-- BLOG-POST-LIST:END -->
 
 
