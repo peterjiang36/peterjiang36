@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Open VSX vs VS Code Marketplace — where should you publish your extension first?](https://dev.to/sidikiconde/-open-vsx-vs-vs-code-marketplace-where-should-you-publish-your-extension-first-2eep)
-- [Im a Nvidia Developer Champion!](https://dev.to/1grace/im-a-nvidia-developer-champion-17a4)
-- [OpenAI GPT 5.5 Event](https://dev.to/1grace/openai-gpt-55-event-pd3)
-- [Build a Type-Safe Next.js 15 + Strapi v5 Blog in 10 Minutes](https://dev.to/dearonski/build-a-type-safe-nextjs-15-strapi-v5-blog-in-10-minutes-2b22)
+- [Knock a new alternative to Insomnia, postman and more...](https://dev.to/jairofernandez/knock-a-new-alternative-to-insomnia-postman-and-more-1nf9)
+- [When the Canary Sings: CISA Flags Cisco SD-WAN CVE-2026-20182 — Here&#39;s What Your SOC Needs to Do Before Monday](https://dev.to/susilo_harjo_2f997e4a18df/when-the-canary-sings-cisa-flags-cisco-sd-wan-cve-2026-20182-heres-what-your-soc-needs-to-do-3n37)
+- [The AI Coding Agent Reckoning: Why Benchmarks Are Broken and What Senior Architects Should Do Instead](https://dev.to/susilo_harjo_2f997e4a18df/the-ai-coding-agent-reckoning-why-benchmarks-are-broken-and-what-senior-architects-should-do-7d7)
+- [How a LinkedIn Bio Hijacked AI Recruitment Bots with Prompt Injection](https://dev.to/coridev/how-a-linkedin-bio-hijacked-ai-recruitment-bots-with-prompt-injection-3pgf)
 <!-- BLOG-POST-LIST:END -->
 
 
