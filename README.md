@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Naming Your Healthcare Columns Wrong — ISO-11179 Explained](https://dev.to/season_mudbhary_7856e4083/stop-naming-your-healthcare-columns-wrong-iso-11179-explained-2hnb)
-- [Evaluation: Prove it before you ship it](https://dev.to/halton_chen/evaluation-prove-it-before-you-ship-it-2g9m)
-- [I’ve Given Up on Bun. I’m Removing It from SuperRails](https://dev.to/hulkinpublic/ive-given-up-on-bun-im-removing-it-from-superrails-1pg4)
-- [I Built a Wireless Phone Camera Monitor With Remote Controls](https://dev.to/gaurav_malvi_cc66b7c15601/i-built-a-wireless-phone-camera-monitor-with-remote-controls-3mb1)
+- [LearnCurator - I built a YouTube tutorial search engine that filters videos, ranks by AI‑analysed comments](https://dev.to/vyomanshi27/learncurator-i-built-a-youtube-tutorial-search-engine-that-filters-videos-ranks-by-ai-analysed-4aab)
+- [Running Qwen3.6-27B on a 16GB M1 MacBook Pro: A Practical Engineer’s Guide](https://dev.to/mike_anderson_d01f52129fb/running-qwen36-27b-on-a-16gb-m1-macbook-pro-a-practical-engineers-guide-3o49)
+- [I Built a Full AI-Powered Production ready SaaS Platform Using MeDo from a Single Prompt #BuiltWithMeDo](https://dev.to/suvoraj239/i-built-a-full-ai-powered-production-ready-saas-platform-using-medo-from-a-single-prompt-12h0)
+- [Why Your &#39;Added to Cart&#39; Toast Notification Never Reaches Screen Reader Users &lpar;And the Two-Line Fix&rpar;](https://dev.to/agentkit/why-your-added-to-cart-toast-notification-never-reaches-screen-reader-users-and-the-two-line-fix-58en)
 <!-- BLOG-POST-LIST:END -->
 
 
