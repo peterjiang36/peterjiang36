@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top AI Tools Every QA Engineer Should Know in 2026](https://dev.to/rim_5303334767f10/top-ai-tools-every-qa-engineer-should-know-in-2026-20kk)
-- [The Real Problems Start After Your MCP Server Works](https://dev.to/madhaviai/the-real-problems-start-after-your-mcp-server-works-2al5)
-- [Developer&#39;s Guide to AI Coding Tools: Claude vs. ChatGPT](https://dev.to/descope/developers-guide-to-ai-coding-tools-claude-vs-chatgpt-p80)
-- [LLD Foundations: Trade-offs Thinking &lpar;how real design decisions are made&rpar;](https://dev.to/saras_growth_space/lld-foundations-trade-offs-thinking-how-real-design-decisions-are-made-4jhm)
+- [transactional-vs-bulk-email-2026.md](https://dev.to/dhiraj_chatpar_e54b46b388/transactional-vs-bulk-email-2026md-3fg)
+- [Migrating 200+ Microsites to a Multi-Tenant CMS: Architecture Patterns That Scale](https://dev.to/anujagrawal4/migrating-200-microsites-to-a-multi-tenant-cms-architecture-patterns-that-scale-2a33)
+- [Firewall: only allow specific application server IPs](https://dev.to/dhiraj_chatpar_e54b46b388/firewall-only-allow-specific-application-server-ips-3lfn)
+- [𝗛𝗼𝘄 𝗱𝗼 𝘆𝗼𝘂 𝗽𝗿𝗲𝘃𝗲𝗻𝘁 𝗨𝗜 𝗹𝗮𝗴 𝘄𝗵𝗲𝗻 𝗿𝗲𝗰𝗲𝗶𝘃𝗶𝗻𝗴 𝗼𝘃𝗲𝗿 𝟭𝟬𝟬 𝗪𝗲𝗯𝗦𝗼𝗰𝗸𝗲𝘁 𝗲𝘃𝗲𝗻𝘁𝘀 𝗽𝗲𝗿 𝘀𝗲𝗰𝗼𝗻𝗱?](https://dev.to/kiransm/-ii5)
 <!-- BLOG-POST-LIST:END -->
 
 
