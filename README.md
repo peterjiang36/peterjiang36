@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Secretly Ate 83GB of My Disk Space — The Hidden .db-wal File Nobody Talks About](https://dev.to/dhaval_upadhyay_30f8292a8/windows-secretly-ate-83gb-of-my-disk-space-the-hidden-db-wal-file-nobody-talks-about-1blb)
-- [DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You](https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47)
-- [Auth multi-tenant que prova, não promete: como o GarraIA fecha 110 cenários de RBAC + 81 de RLS antes do beta da Fase 3](https://dev.to/michel_garraia/auth-multi-tenant-que-prova-nao-promete-como-o-garraia-fecha-110-cenarios-de-rbac-81-de-rls-568i)
-- [Your contact form is the only page that touches money](https://dev.to/lukasz_blania_4b7d226fa2a/your-contact-form-is-the-only-page-that-touches-money-5ce9)
+- [OpenHuman: The Open-Source AI Assistant That Wants to Become Your Second Brain](https://dev.to/shubham-kumar-sinha/openhuman-the-open-source-ai-assistant-that-wants-to-become-your-second-brain-23ob)
+- [The Agent&#39;s Word Is Not Enough: External Validation in the Agentic Governance Stack](https://dev.to/anthony_etherealogic/the-agents-word-is-not-enough-external-validation-in-the-agentic-governance-stack-4a1n)
+- [Why I think Component-Driven Development needs a rethink in the Signal era](https://dev.to/dyingangel666/why-i-think-component-driven-development-needs-a-rethink-in-the-signal-era-i91)
+- [Qwen 3.6 enable_thinking — The MoE Pitfall That Broke My Agent JSON Parsing](https://dev.to/sleepyquant/qwen-36-enablethinking-the-moe-pitfall-that-broke-my-agent-json-parsing-71a)
 <!-- BLOG-POST-LIST:END -->
 
 
