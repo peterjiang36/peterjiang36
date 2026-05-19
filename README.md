@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Observability, Python Logging for OTel, &amp; PySpark Code Linter](https://dev.to/soytuber/ai-agents-observability-python-logging-for-otel-pyspark-code-linter-548m)
-- [PostgreSQL: New Time-Series Extension &amp; Replication Monitor; DuckDB in Production](https://dev.to/soytuber/postgresql-new-time-series-extension-replication-monitor-duckdb-in-production-5f0e)
-- [Intel Xe3P Leaks 160GB LPDDR5X; FlashAttention-2 in CuTe &amp; Custom CUDA GPT-2 Engine](https://dev.to/soytuber/intel-xe3p-leaks-160gb-lpddr5x-flashattention-2-in-cute-custom-cuda-gpt-2-engine-2hp0)
-- [Turns AI development needs all the same things Human development does](https://dev.to/tony-rowan/turns-ai-development-needs-all-the-same-things-human-development-does-4ng1)
+- [I Built an AI App That Keeps You Consistent &lpar;Not Just Motivated&rpar; 🚀](https://dev.to/parth_bisht227/i-built-an-ai-app-that-keeps-you-consistent-not-just-motivated-pb)
+- [What Nanochon&#39;s Series A Tells Us About the Bio 3D Printing Commercialization Threshold](https://dev.to/eyecontact-3d/what-nanochons-series-a-tells-us-about-the-bio-3d-printing-commercialization-threshold-54kj)
+- [Understanding Solana’s Account Model From a Web2 Perspective](https://dev.to/bettyafolabi/understanding-solanas-account-model-from-a-web2-perspective-1k35)
+- [Why There&#39;s a Tanker in Central Madrid](https://dev.to/vessel_api/why-theres-a-tanker-in-central-madrid-46jk)
 <!-- BLOG-POST-LIST:END -->
 
 
