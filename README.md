@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
-- [Is productivity understood in the same way by managers and developers?](https://dev.to/matiii_faro/is-productivity-understood-in-the-same-way-by-managers-and-developers-168o)
-- [You Got an ADA Demand Letter. Now What?](https://dev.to/lawebe/you-got-an-ada-demand-letter-now-what-3c5p)
-- [BriefOps AI](https://dev.to/hoangndst/briefops-ai-2a40)
+- [Gemma-San — A Teacher in Every Pocket.](https://dev.to/thecodedaniel/gemma-san-a-teacher-in-every-pocket-16g6)
+- [The top 15 developer productivity tools in 2026](https://dev.to/coderabbitai/the-top-15-developer-productivity-tools-in-2026-1nb6)
+- [Mutation Testing as Architecture Enforcement: Infection in 2026](https://dev.to/gabrielanhaia/mutation-testing-as-architecture-enforcement-infection-in-2026-318c)
+- [RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures &lpar;part-2&rpar;](https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-2-23h2)
 <!-- BLOG-POST-LIST:END -->
 
 
