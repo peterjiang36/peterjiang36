@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Infrastructure Code Fails After 6 Months - Even When The Demo Worked](https://dev.to/karan2598/why-ai-infrastructure-code-fails-after-6-months-even-when-the-demo-worked-7d6)
-- [LinkedIn vs Resume: What Should Match, What Should Differ, and Which Matters More?](https://dev.to/manyoffer_career/linkedin-vs-resume-what-should-match-what-should-differ-and-which-matters-more-4c22)
-- [How I Built a WiFi Motion Detection App Using RSSI in Flutter](https://dev.to/md-sazzadul-islam/how-i-built-a-wifi-motion-detection-app-using-rssi-in-flutter-1jp2)
-- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://dev.to/mj16/what-is-infrastructure-as-code-and-why-its-transforming-devops-le9)
+- [Your AI Agent is Stuck in a Loop. Here&#39;s the Memory Layer That Breaks It and Saves You Money](https://dev.to/kike/your-ai-agent-is-stuck-in-a-loop-heres-the-memory-layer-that-breaks-it-and-saves-you-money-5fni)
+- [The Future Of GitHub Actions Security And What You Can Do Right Now](https://dev.to/gitguardian/the-future-of-github-actions-security-and-what-you-can-do-right-now-32nj)
+- [Hermes Just Killed OpenClaw &lpar;Here&#39;s Why&rpar;](https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23)
+- [Why We Stopped Using Row-Level Security After 1M Rows](https://dev.to/canu/why-we-stopped-using-row-level-security-after-1m-rows-4dpb)
 <!-- BLOG-POST-LIST:END -->
 
 
