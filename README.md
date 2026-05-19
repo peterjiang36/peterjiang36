@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Genie: Building a Privacy-First Autonomous Agent That Controls Your Phone, Entirely Offline](https://dev.to/asimie/genie-building-a-privacy-first-autonomous-agent-that-controls-your-phone-entirely-offline-4da2)
-- [Novasas Agent: Building an AI Support System That Actually Remembers Customers](https://dev.to/dhanalakshmibn/novasas-agent-building-an-ai-support-system-that-actually-remembers-customers-1fj8)
-- [Turn Your Email Into a SQL Database](https://dev.to/mukhtar_onif/turn-your-email-into-a-sql-database-1noa)
-- [How i used Gemini to turn my syllabus into a planner, quiz, and mind map within 5 minutes!!!](https://dev.to/keerthana_696356/how-i-used-gemini-to-turn-my-syllabus-into-a-planner-quiz-and-mind-map-within-5-minutes-2iee)
+- [What Happens When You Run `npm run dev`](https://dev.to/lovestaco/what-happens-when-you-run-npm-run-dev-ae9)
+- [Is productivity understood in the same way by managers and developers?](https://dev.to/matiii_faro/is-productivity-understood-in-the-same-way-by-managers-and-developers-168o)
+- [You Got an ADA Demand Letter. Now What?](https://dev.to/lawebe/you-got-an-ada-demand-letter-now-what-3c5p)
+- [BriefOps AI](https://dev.to/hoangndst/briefops-ai-2a40)
 <!-- BLOG-POST-LIST:END -->
 
 
