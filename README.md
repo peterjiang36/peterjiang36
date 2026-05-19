@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [12 Networking Fundamentals](https://dev.to/ashutoshsarangi/12-networking-fundamentals-36k1)
-- [Your benchmarks are lying to you, and your judge is to blame!](https://dev.to/tessl-io/your-benchmarks-are-lying-to-you-and-your-judge-is-to-blame-2k20)
-- [How to Evaluate Vector Databases in 2026](https://dev.to/actiandev/how-to-evaluate-vector-databases-in-2026-213m)
-- [Come estrarre una singola tabella da un file dump MySQL](https://dev.to/minnogit/come-estrarre-una-singola-tabella-da-un-file-dump-mysql-35jm)
+- [Why AI Infrastructure Code Fails After 6 Months - Even When The Demo Worked](https://dev.to/karan2598/why-ai-infrastructure-code-fails-after-6-months-even-when-the-demo-worked-7d6)
+- [LinkedIn vs Resume: What Should Match, What Should Differ, and Which Matters More?](https://dev.to/manyoffer_career/linkedin-vs-resume-what-should-match-what-should-differ-and-which-matters-more-4c22)
+- [How I Built a WiFi Motion Detection App Using RSSI in Flutter](https://dev.to/md-sazzadul-islam/how-i-built-a-wifi-motion-detection-app-using-rssi-in-flutter-1jp2)
+- [What is Infrastructure as Code and Why It’s Transforming DevOps](https://dev.to/mj16/what-is-infrastructure-as-code-and-why-its-transforming-devops-le9)
 <!-- BLOG-POST-LIST:END -->
 
 
