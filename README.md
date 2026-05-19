@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI App That Keeps You Consistent &lpar;Not Just Motivated&rpar; 🚀](https://dev.to/parth_bisht227/i-built-an-ai-app-that-keeps-you-consistent-not-just-motivated-pb)
-- [What Nanochon&#39;s Series A Tells Us About the Bio 3D Printing Commercialization Threshold](https://dev.to/eyecontact-3d/what-nanochons-series-a-tells-us-about-the-bio-3d-printing-commercialization-threshold-54kj)
-- [Understanding Solana’s Account Model From a Web2 Perspective](https://dev.to/bettyafolabi/understanding-solanas-account-model-from-a-web2-perspective-1k35)
-- [Why There&#39;s a Tanker in Central Madrid](https://dev.to/vessel_api/why-theres-a-tanker-in-central-madrid-46jk)
+- [Developers keep pasting JSON into online formatters and leaking secrets — so I built json-explorer](https://dev.to/mumicrotools/developers-keep-pasting-json-into-online-formatters-and-leaking-secrets-so-i-built-json-explorer-43oa)
+- [Different models have different blind spots](https://dev.to/codev_os/different-models-have-different-blind-spots-2n5g)
+- [Stop Hardcoding AI Prompts: A Developer’s Guide to PromptCache](https://dev.to/virajlakshitha/stop-hardcoding-ai-prompts-a-developers-guide-to-promptcache-25b5)
+- [The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch](https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg)
 <!-- BLOG-POST-LIST:END -->
 
 
