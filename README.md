@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent is Stuck in a Loop. Here&#39;s the Memory Layer That Breaks It and Saves You Money](https://dev.to/kike/your-ai-agent-is-stuck-in-a-loop-heres-the-memory-layer-that-breaks-it-and-saves-you-money-5fni)
-- [The Future Of GitHub Actions Security And What You Can Do Right Now](https://dev.to/gitguardian/the-future-of-github-actions-security-and-what-you-can-do-right-now-32nj)
-- [Hermes Just Killed OpenClaw &lpar;Here&#39;s Why&rpar;](https://dev.to/tahosin/hermes-just-killed-openclaw-heres-why-4c23)
-- [Why We Stopped Using Row-Level Security After 1M Rows](https://dev.to/canu/why-we-stopped-using-row-level-security-after-1m-rows-4dpb)
+- [A closer look at partial prerendering](https://dev.to/peterlidee/a-closer-look-at-partial-prerendering-15lb)
+- [Building System: A Modern Multi-Vendor Book Marketplace in Kurdistan](https://dev.to/shad_arf/building-system-a-modern-multi-vendor-book-marketplace-in-kurdistan-24mi)
+- [OpenCode vs Claude Code: Real Threat or Just Another Niche Alternative?](https://dev.to/guayoyo_tech/opencode-vs-claude-code-real-threat-or-just-another-niche-alternative-a31)
+- [I built a programming language to test how well LLM-edited code survives](https://dev.to/o6lvl4/i-built-a-programming-language-to-test-how-well-llm-edited-code-survives-c14)
 <!-- BLOG-POST-LIST:END -->
 
 
