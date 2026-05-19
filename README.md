@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma-San — A Teacher in Every Pocket.](https://dev.to/thecodedaniel/gemma-san-a-teacher-in-every-pocket-16g6)
-- [The top 15 developer productivity tools in 2026](https://dev.to/coderabbitai/the-top-15-developer-productivity-tools-in-2026-1nb6)
-- [Mutation Testing as Architecture Enforcement: Infection in 2026](https://dev.to/gabrielanhaia/mutation-testing-as-architecture-enforcement-infection-in-2026-318c)
-- [RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures &lpar;part-2&rpar;](https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-2-23h2)
+- [Understanding Correlation in PHP: Pearson vs Spearman vs Kendall Tau](https://dev.to/robertobutti/understanding-correlation-in-php-pearson-vs-spearman-vs-kendall-tau-28m1)
+- [What schools get wrong about cybersecurity education?](https://dev.to/romann/what-schools-get-wrong-about-cybersecurity-education-52a4)
+- [Sanity SEO done right: Open Graph, JSON-LD, fallbacks](https://dev.to/jonoroboto/sanity-seo-done-right-open-graph-json-ld-fallbacks-32dg)
+- [Introducing LLM Cost Tracking in Pingoni: See Your OpenAI Spend Per User in 5 Minutes](https://dev.to/silentishim/introducing-llm-cost-tracking-in-pingoni-see-your-openai-spend-per-user-in-5-minutes-43ch)
 <!-- BLOG-POST-LIST:END -->
 
 
