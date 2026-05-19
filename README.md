@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Windows Copilot Spyware? Everything You Need to Know](https://dev.to/iamsamarthmishra/is-windows-copilot-spyware-everything-you-need-to-know-29dk)
-- [Boundary Value Analysis &lpar;BVA&rpar; in Software Testing.](https://dev.to/guru_prasad_06091982/boundary-value-analysis-bva-in-software-testing-4nhm)
-- [Send error event of an Lambda function to SNS Topic](https://dev.to/nghidanh2005/send-error-event-of-an-lambda-function-to-sns-topic-1490)
-- [Healthy Pods, Broken Transactions: What Kubernetes Doesn’t Catch in Banking Systems](https://dev.to/jhabindra_pandey_a2894306/healthy-pods-broken-transactions-what-kubernetes-doesnt-catch-in-banking-systems-39ep)
+- [12 Networking Fundamentals](https://dev.to/ashutoshsarangi/12-networking-fundamentals-36k1)
+- [Your benchmarks are lying to you, and your judge is to blame!](https://dev.to/tessl-io/your-benchmarks-are-lying-to-you-and-your-judge-is-to-blame-2k20)
+- [How to Evaluate Vector Databases in 2026](https://dev.to/actiandev/how-to-evaluate-vector-databases-in-2026-213m)
+- [Come estrarre una singola tabella da un file dump MySQL](https://dev.to/minnogit/come-estrarre-una-singola-tabella-da-un-file-dump-mysql-35jm)
 <!-- BLOG-POST-LIST:END -->
 
 
