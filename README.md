@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Rails to Python: Why Python Classes Feel Simpler in Real Backend Projects](https://dev.to/m_t_ramkrushna/from-rails-to-python-why-python-classes-feel-simpler-in-real-backend-projects-43pa)
-- [Claude Code Is Reading Your .env File Right Now — And You Probably Don&#39;t Know It](https://dev.to/shudiptotrafder/claude-code-is-reading-your-env-file-right-now-and-you-probably-dont-know-it-3ja5)
-- [Why Garry Tan Is Still Coding at 2 AM](https://dev.to/jacob_is_surfing/why-garry-tan-is-still-coding-at-2-am-595c)
-- [Amazon Elastic Container Services &lpar;ECS&rpar; : Express Mode and Custom Mode for Receipt Extraction](https://dev.to/budionosan/amazon-elastic-container-services-ecs-express-mode-and-custom-mode-for-receipt-extraction-2947)
+- [现代化 UI 架构总结：设计主权回归与团队落地](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-zong-jie-she-ji-zhu-quan-hui-gui-yu-tuan-dui-luo-di-5h5j)
+- [SEC EDGAR for Developers: The Free Fundamentals API Hiding in Plain Sight](https://dev.to/pickuma/sec-edgar-for-developers-the-free-fundamentals-api-hiding-in-plain-sight-1cbi)
+- [现代化 UI 架构：Style 层如何系统性消除代码冗余](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-style-ceng-ru-he-xi-tong-xing-xiao-chu-dai-ma-rong-yu-4nmb)
+- [现代化 UI 架构：Drawable 层规范与工程实践](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-drawable-ceng-gui-fan-yu-gong-cheng-shi-jian-16km)
 <!-- BLOG-POST-LIST:END -->
 
 
