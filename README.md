@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Correlation in PHP: Pearson vs Spearman vs Kendall Tau](https://dev.to/robertobutti/understanding-correlation-in-php-pearson-vs-spearman-vs-kendall-tau-28m1)
-- [What schools get wrong about cybersecurity education?](https://dev.to/romann/what-schools-get-wrong-about-cybersecurity-education-52a4)
-- [Sanity SEO done right: Open Graph, JSON-LD, fallbacks](https://dev.to/jonoroboto/sanity-seo-done-right-open-graph-json-ld-fallbacks-32dg)
-- [Introducing LLM Cost Tracking in Pingoni: See Your OpenAI Spend Per User in 5 Minutes](https://dev.to/silentishim/introducing-llm-cost-tracking-in-pingoni-see-your-openai-spend-per-user-in-5-minutes-43ch)
+- [AI Agents Observability, Python Logging for OTel, &amp; PySpark Code Linter](https://dev.to/soytuber/ai-agents-observability-python-logging-for-otel-pyspark-code-linter-548m)
+- [PostgreSQL: New Time-Series Extension &amp; Replication Monitor; DuckDB in Production](https://dev.to/soytuber/postgresql-new-time-series-extension-replication-monitor-duckdb-in-production-5f0e)
+- [Intel Xe3P Leaks 160GB LPDDR5X; FlashAttention-2 in CuTe &amp; Custom CUDA GPT-2 Engine](https://dev.to/soytuber/intel-xe3p-leaks-160gb-lpddr5x-flashattention-2-in-cute-custom-cuda-gpt-2-engine-2hp0)
+- [Turns AI development needs all the same things Human development does](https://dev.to/tony-rowan/turns-ai-development-needs-all-the-same-things-human-development-does-4ng1)
 <!-- BLOG-POST-LIST:END -->
 
 
