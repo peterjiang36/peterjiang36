@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [现代化 UI 架构总结：设计主权回归与团队落地](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-zong-jie-she-ji-zhu-quan-hui-gui-yu-tuan-dui-luo-di-5h5j)
-- [SEC EDGAR for Developers: The Free Fundamentals API Hiding in Plain Sight](https://dev.to/pickuma/sec-edgar-for-developers-the-free-fundamentals-api-hiding-in-plain-sight-1cbi)
-- [现代化 UI 架构：Style 层如何系统性消除代码冗余](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-style-ceng-ru-he-xi-tong-xing-xiao-chu-dai-ma-rong-yu-4nmb)
-- [现代化 UI 架构：Drawable 层规范与工程实践](https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-drawable-ceng-gui-fan-yu-gong-cheng-shi-jian-16km)
+- [Is Windows Copilot Spyware? Everything You Need to Know](https://dev.to/iamsamarthmishra/is-windows-copilot-spyware-everything-you-need-to-know-29dk)
+- [Boundary Value Analysis &lpar;BVA&rpar; in Software Testing.](https://dev.to/guru_prasad_06091982/boundary-value-analysis-bva-in-software-testing-4nhm)
+- [Send error event of an Lambda function to SNS Topic](https://dev.to/nghidanh2005/send-error-event-of-an-lambda-function-to-sns-topic-1490)
+- [Healthy Pods, Broken Transactions: What Kubernetes Doesn’t Catch in Banking Systems](https://dev.to/jhabindra_pandey_a2894306/healthy-pods-broken-transactions-what-kubernetes-doesnt-catch-in-banking-systems-39ep)
 <!-- BLOG-POST-LIST:END -->
 
 
