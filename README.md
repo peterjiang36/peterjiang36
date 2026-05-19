@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The second-order cost of a&lpar;nother&rpar; layoff year.](https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl)
-- [FMix: пакетный менеджер для Forth](https://dev.to/ua3mqj/fmix-pakietnyi-mieniedzhier-dlia-forth-o3p)
-- [FMix: a package manager for Forth](https://dev.to/ua3mqj/fmix-a-package-manager-for-forth-37ld)
-- [🚀 ForgeZero v1.9.0 — The &quot;Architect&quot; Update: LSP Integration, Cross-Compilation &amp; Industrial-Grade Reliability](https://dev.to/alexvoste/forgezero-v190-the-architect-update-lsp-integration-cross-compilation-industrial-grade-4f44)
+- [Brazilian Lawyers Fined R$84,000 for Prompt Injection in Court — Here&#39;s What Caught Them &lpar;and What Didn&#39;t&rpar;](https://dev.to/coridev/brazilian-lawyers-fined-r84000-for-prompt-injection-in-court-heres-what-caught-them-and-what-2agf)
+- [Building Last Message: A Local-First Gemma Emergency Intelligence App](https://dev.to/harishkotra/building-last-message-a-local-first-gemma-emergency-intelligence-app-11bd)
+- [AI coding agents are growing up. Most workflows are not.](https://dev.to/jenueldev/ai-coding-agents-are-growing-up-most-workflows-are-not-4khn)
+- [Hidden Audio Attacks on Voice AI: How Transcription Pipelines Get Hijacked](https://dev.to/coridev/hidden-audio-attacks-on-voice-ai-how-transcription-pipelines-get-hijacked-32nj)
 <!-- BLOG-POST-LIST:END -->
 
 
