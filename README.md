@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A closer look at partial prerendering](https://dev.to/peterlidee/a-closer-look-at-partial-prerendering-15lb)
-- [Building System: A Modern Multi-Vendor Book Marketplace in Kurdistan](https://dev.to/shad_arf/building-system-a-modern-multi-vendor-book-marketplace-in-kurdistan-24mi)
-- [OpenCode vs Claude Code: Real Threat or Just Another Niche Alternative?](https://dev.to/guayoyo_tech/opencode-vs-claude-code-real-threat-or-just-another-niche-alternative-a31)
-- [I built a programming language to test how well LLM-edited code survives](https://dev.to/o6lvl4/i-built-a-programming-language-to-test-how-well-llm-edited-code-survives-c14)
+- [Genie: Building a Privacy-First Autonomous Agent That Controls Your Phone, Entirely Offline](https://dev.to/asimie/genie-building-a-privacy-first-autonomous-agent-that-controls-your-phone-entirely-offline-4da2)
+- [Novasas Agent: Building an AI Support System That Actually Remembers Customers](https://dev.to/dhanalakshmibn/novasas-agent-building-an-ai-support-system-that-actually-remembers-customers-1fj8)
+- [Turn Your Email Into a SQL Database](https://dev.to/mukhtar_onif/turn-your-email-into-a-sql-database-1noa)
+- [How i used Gemini to turn my syllabus into a planner, quiz, and mind map within 5 minutes!!!](https://dev.to/keerthana_696356/how-i-used-gemini-to-turn-my-syllabus-into-a-planner-quiz-and-mind-map-within-5-minutes-2iee)
 <!-- BLOG-POST-LIST:END -->
 
 
