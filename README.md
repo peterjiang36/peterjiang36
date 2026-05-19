@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Brazilian Lawyers Fined R$84,000 for Prompt Injection in Court — Here&#39;s What Caught Them &lpar;and What Didn&#39;t&rpar;](https://dev.to/coridev/brazilian-lawyers-fined-r84000-for-prompt-injection-in-court-heres-what-caught-them-and-what-2agf)
-- [Building Last Message: A Local-First Gemma Emergency Intelligence App](https://dev.to/harishkotra/building-last-message-a-local-first-gemma-emergency-intelligence-app-11bd)
-- [AI coding agents are growing up. Most workflows are not.](https://dev.to/jenueldev/ai-coding-agents-are-growing-up-most-workflows-are-not-4khn)
-- [Hidden Audio Attacks on Voice AI: How Transcription Pipelines Get Hijacked](https://dev.to/coridev/hidden-audio-attacks-on-voice-ai-how-transcription-pipelines-get-hijacked-32nj)
+- [From Rails to Python: Why Python Classes Feel Simpler in Real Backend Projects](https://dev.to/m_t_ramkrushna/from-rails-to-python-why-python-classes-feel-simpler-in-real-backend-projects-43pa)
+- [Claude Code Is Reading Your .env File Right Now — And You Probably Don&#39;t Know It](https://dev.to/shudiptotrafder/claude-code-is-reading-your-env-file-right-now-and-you-probably-dont-know-it-3ja5)
+- [Why Garry Tan Is Still Coding at 2 AM](https://dev.to/jacob_is_surfing/why-garry-tan-is-still-coding-at-2-am-595c)
+- [Amazon Elastic Container Services &lpar;ECS&rpar; : Express Mode and Custom Mode for Receipt Extraction](https://dev.to/budionosan/amazon-elastic-container-services-ecs-express-mode-and-custom-mode-for-receipt-extraction-2947)
 <!-- BLOG-POST-LIST:END -->
 
 
