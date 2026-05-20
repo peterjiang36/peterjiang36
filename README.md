@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right RAG Strategy A Complete Decision Guide to Chunking, Agentic RAG, and GraphRAG](https://dev.to/sreeni5018/choosing-the-right-rag-strategy-a-complete-decision-guide-to-chunking-agentic-rag-and-graphrag-386d)
-- [The Egregious Cost of Compliance: One Platform&#39;s Overly Broad Restrictions](https://dev.to/interface-profit/the-egregious-cost-of-compliance-one-platforms-overly-broad-restrictions-5g2g)
-- [GitHub Breach via VSCode Extension, ZTE Router CVE-2026-34472, &amp; Public Repo Secrets Leaks](https://dev.to/soytuber/github-breach-via-vscode-extension-zte-router-cve-2026-34472-public-repo-secrets-leaks-14c4)
-- [Applied AI: From Agent Orchestration to Workflow Automation &amp; Code Generation](https://dev.to/soytuber/applied-ai-from-agent-orchestration-to-workflow-automation-code-generation-7jl)
+- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
+- [QAOA vs. 75,000 Nodes: Building a Hybrid Architecture to Solve NP-Hard Problems When Quantum Simulators Hit a Wall](https://dev.to/emperoq/qaoa-vs-75000-nodes-building-a-hybrid-architecture-to-solve-np-hard-problems-when-quantum-613)
+- [One Tool That Cuts Token Costs 40-80% for Claude Code, Codex, opencode, and openclaw](https://dev.to/zelys_dfkhelper/one-tool-that-cuts-token-costs-40-80-for-claude-code-codex-opencode-and-openclaw-hh2)
+- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-pg1)
 <!-- BLOG-POST-LIST:END -->
 
 
