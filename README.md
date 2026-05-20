@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are you really doing CI/CD?](https://dev.to/natyoung/are-you-really-doing-cicd-425d)
-- [Turn Any API Into a SQL Database](https://dev.to/mukhtar_onif/turn-any-api-into-a-sql-database-5dg0)
-- [Gemma 4 wrote three summaries in one response. The middle one was a self-disclaimer.](https://dev.to/thehwang/gemma-4-wrote-three-summaries-in-one-response-the-middle-one-was-a-self-disclaimer-3pj9)
-- [Trunk-Based Development with Release Streams: A Real-World Case Study](https://dev.to/ranas7786/trunk-based-development-with-release-streams-a-real-world-case-study-135g)
+- [Choosing the Right RAG Strategy A Complete Decision Guide to Chunking, Agentic RAG, and GraphRAG](https://dev.to/sreeni5018/choosing-the-right-rag-strategy-a-complete-decision-guide-to-chunking-agentic-rag-and-graphrag-386d)
+- [The Egregious Cost of Compliance: One Platform&#39;s Overly Broad Restrictions](https://dev.to/interface-profit/the-egregious-cost-of-compliance-one-platforms-overly-broad-restrictions-5g2g)
+- [GitHub Breach via VSCode Extension, ZTE Router CVE-2026-34472, &amp; Public Repo Secrets Leaks](https://dev.to/soytuber/github-breach-via-vscode-extension-zte-router-cve-2026-34472-public-repo-secrets-leaks-14c4)
+- [Applied AI: From Agent Orchestration to Workflow Automation &amp; Code Generation](https://dev.to/soytuber/applied-ai-from-agent-orchestration-to-workflow-automation-code-generation-7jl)
 <!-- BLOG-POST-LIST:END -->
 
 
