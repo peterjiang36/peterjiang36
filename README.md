@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Inference OS: deterministic-first router for prediction markets](https://dev.to/greymothjp/building-an-inference-os-deterministic-first-router-for-prediction-markets-3g2j)
-- [We&#39;re hiring a DevOps Content Engineer – Remote LATAM](https://dev.to/paula_herreracan/were-hiring-a-devops-content-engineer-remote-latam-581f)
-- [Antigravity is Dead Long Live Antigravity.](https://dev.to/turingsoracle/antigravity-is-dead-long-live-antigravity-186m)
-- [24 horas después de abrir: las primeras consultas, y la primera venta que ya di por perdida](https://dev.to/yoskee/24-horas-despues-de-abrir-las-primeras-consultas-y-la-primera-venta-que-ya-di-por-perdida-3e13)
+- [Google Antigravity 2.0 Is the I/O 2026 Announcement Devs Are Sleeping On](https://dev.to/ashutoshranjan/google-antigravity-20-is-the-io-2026-announcement-devs-are-sleeping-on-2mke)
+- [I Tested KTransformers on My Laptop — 5 Hidden Features That Made 671B Models Actually Work 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/i-tested-ktransformers-on-my-laptop-5-hidden-features-that-made-671b-models-actually-work-2efn)
+- [How Consumer Goods Companies Use 3D Printing to Cut Time-to-Market](https://dev.to/eyecontact-3d/how-consumer-goods-companies-use-3d-printing-to-cut-time-to-market-31kp)
+- [Built an API Fraud Detector After Getting Scammed — Here&#39;s How It Works](https://dev.to/ti_pi_31869d13400cbe9e9a9/built-an-api-fraud-detector-after-getting-scammed-heres-how-it-works-406m)
 <!-- BLOG-POST-LIST:END -->
 
 
