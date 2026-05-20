@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Day 2: Conditions, Loops &amp; Functions — The Engine Behind Every AI App](https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm)
-- [Access Denied: What Every AWS Beginner Gets Wrong About IAM](https://dev.to/jvogel/access-denied-what-every-aws-beginner-gets-wrong-about-iam-9k1)
-- [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom)
-- [OpenGuard AI](https://dev.to/suyashsrivastavadev/openguard-ai-288m)
+- [Are you really doing CI/CD?](https://dev.to/natyoung/are-you-really-doing-cicd-425d)
+- [Turn Any API Into a SQL Database](https://dev.to/mukhtar_onif/turn-any-api-into-a-sql-database-5dg0)
+- [Gemma 4 wrote three summaries in one response. The middle one was a self-disclaimer.](https://dev.to/thehwang/gemma-4-wrote-three-summaries-in-one-response-the-middle-one-was-a-self-disclaimer-3pj9)
+- [Trunk-Based Development with Release Streams: A Real-World Case Study](https://dev.to/ranas7786/trunk-based-development-with-release-streams-a-real-world-case-study-135g)
 <!-- BLOG-POST-LIST:END -->
 
 
