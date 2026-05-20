@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek-V3: The 671B MoE Model You Can Run Locally in 2026](https://dev.to/rams901/deepseek-v3-the-671b-moe-model-you-can-run-locally-in-2026-30o4)
-- [I Audited 30 llms.txt Files in the Wild. 5 Anti-Patterns Are Already Forming.](https://dev.to/kenimo49/i-audited-30-llmstxt-files-in-the-wild-5-anti-patterns-are-already-forming-18h4)
-- [Kubernetes 1.36 Pod-Level Resource Managers: Advanced Resource Optimization in Production](https://dev.to/matthiasbruns/kubernetes-136-pod-level-resource-managers-advanced-resource-optimization-in-production-10fa)
-- [Why I Think Backend Engineers Should Start Paying Attention to Generative AI](https://dev.to/your-sk/why-i-think-backend-engineers-should-start-paying-attention-to-generative-ai-4gpj)
+- [Building a Production Grade AWS Infrastructure Project &lpar;Part 1&rpar;](https://dev.to/trenation/building-a-production-grade-aws-infrastructure-project-part-1-5ceb)
+- [Google just shifted the agent workflow from the cloud to the desktop](https://dev.to/albertomontagnese/google-just-shifted-the-agent-workflow-from-the-cloud-to-the-desktop-39lp)
+- [I built a Claude skill that keeps your AI coding tools from contradicting each other — and I need beta testers](https://dev.to/lmntrix/i-built-a-claude-skill-that-keeps-your-ai-coding-tools-from-contradicting-each-other-and-i-need-49k2)
+- [Google I/O 2026 - Day 1 - Live from the Front Row](https://dev.to/gde/google-io-2026-day-1-live-from-the-front-row-52ji)
 <!-- BLOG-POST-LIST:END -->
 
 
