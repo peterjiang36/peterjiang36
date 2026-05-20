@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Developers keep pasting JSON into online formatters and leaking secrets — so I built json-explorer](https://dev.to/mumicrotools/developers-keep-pasting-json-into-online-formatters-and-leaking-secrets-so-i-built-json-explorer-43oa)
-- [Different models have different blind spots](https://dev.to/codev_os/different-models-have-different-blind-spots-2n5g)
-- [Stop Hardcoding AI Prompts: A Developer’s Guide to PromptCache](https://dev.to/virajlakshitha/stop-hardcoding-ai-prompts-a-developers-guide-to-promptcache-25b5)
-- [The Perfect Zsh Setup: Oh My Zsh on CachyOS/Arch](https://dev.to/zilton7/the-perfect-zsh-setup-oh-my-zsh-on-cachyosarch-1ndg)
+- [Building an Inference OS: deterministic-first router for prediction markets](https://dev.to/greymothjp/building-an-inference-os-deterministic-first-router-for-prediction-markets-3g2j)
+- [We&#39;re hiring a DevOps Content Engineer – Remote LATAM](https://dev.to/paula_herreracan/were-hiring-a-devops-content-engineer-remote-latam-581f)
+- [Antigravity is Dead Long Live Antigravity.](https://dev.to/turingsoracle/antigravity-is-dead-long-live-antigravity-186m)
+- [24 horas después de abrir: las primeras consultas, y la primera venta que ya di por perdida](https://dev.to/yoskee/24-horas-despues-de-abrir-las-primeras-consultas-y-la-primera-venta-que-ya-di-por-perdida-3e13)
 <!-- BLOG-POST-LIST:END -->
 
 
