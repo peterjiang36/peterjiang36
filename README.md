@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub-Synced Portfolio vs. Static Site vs. Notion: Which One Actually Gets Maintained?](https://dev.to/zansuken/github-synced-portfolio-vs-static-site-vs-notion-which-one-actually-gets-maintained-1cec)
-- [I think this is the best place to introduce yourself to a lot of other DEV members.](https://dev.to/shaheryaramin/i-think-this-is-the-best-place-to-introduce-yourself-to-a-lot-of-other-dev-members-12cm)
-- [WEEK 4 #100DaysOfSolana: LAMPORTS IN SOLANA](https://dev.to/peter_okoh_/week-4-100daysofsolana-lamports-in-solana-2mb1)
-- [I Built a Local Gemma 4 Content Radar for Private Editorial Decisions](https://dev.to/k_x_3bdabdd8981a983626896/i-built-a-local-gemma-4-content-radar-for-private-editorial-decisions-1hp8)
+- [How to Create Custom API Documentation in FastAPI](https://dev.to/tunmi_stom/how-to-create-custom-api-documentation-in-fastapi-mdb)
+- [Stop Reading EXPLAIN Plans by Hand: Introducing pgexplain and pgwatch 🐘](https://dev.to/bright98/stop-reading-explain-plans-by-hand-introducing-pgexplain-and-pgwatch-2j97)
+- [5 Proven Strategies to Reduce SaaS Churn in 2026](https://dev.to/_6beafb4ab0de61d30d989/5-proven-strategies-to-reduce-saas-churn-in-2026-3ioo)
+- [Smart transaction routing: turning auth-rate data into routing rules &lpar;without a black box&rpar;](https://dev.to/payneteasy/smart-transaction-routing-turning-auth-rate-data-into-routing-rules-without-a-black-box-3gj7)
 <!-- BLOG-POST-LIST:END -->
 
 
