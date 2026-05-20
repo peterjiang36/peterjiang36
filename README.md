@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art Of Keeping Business Logic Honest](https://dev.to/juststevemcd/the-art-of-keeping-business-logic-honest-254h)
-- [Legal Buddy 🚀 — AI-Powered Legal Chat, Document Review &amp; Drafting with Gemma 4](https://dev.to/sai_22/legal-buddy-ai-powered-legal-chat-document-review-drafting-with-gemma-4-26fp)
-- [I replaced nginx with a reverse proxy I wrote in Go](https://dev.to/niixdan/i-replaced-nginx-with-a-reverse-proxy-i-wrote-in-go-4cj5)
-- [How to Stop Leaking AWS Keys to GitHub &lpar;And What to Do When You Already Did&rpar;](https://dev.to/alanwest/how-to-stop-leaking-aws-keys-to-github-and-what-to-do-when-you-already-did-2e7n)
+- [Python Day 2: Conditions, Loops &amp; Functions — The Engine Behind Every AI App](https://dev.to/tejas_shinkar/python-day-2-conditions-loops-functions-the-engine-behind-every-ai-app-11cm)
+- [Access Denied: What Every AWS Beginner Gets Wrong About IAM](https://dev.to/jvogel/access-denied-what-every-aws-beginner-gets-wrong-about-iam-9k1)
+- [Google I/O 2026: From Consumer to Builder](https://dev.to/michellebuchiokonicha/google-io-2026-from-consumer-to-builder-dom)
+- [OpenGuard AI](https://dev.to/suyashsrivastavadev/openguard-ai-288m)
 <!-- BLOG-POST-LIST:END -->
 
 
