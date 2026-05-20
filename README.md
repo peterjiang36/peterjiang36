@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Custom API Documentation in FastAPI](https://dev.to/tunmi_stom/how-to-create-custom-api-documentation-in-fastapi-mdb)
-- [Stop Reading EXPLAIN Plans by Hand: Introducing pgexplain and pgwatch 🐘](https://dev.to/bright98/stop-reading-explain-plans-by-hand-introducing-pgexplain-and-pgwatch-2j97)
-- [5 Proven Strategies to Reduce SaaS Churn in 2026](https://dev.to/_6beafb4ab0de61d30d989/5-proven-strategies-to-reduce-saas-churn-in-2026-3ioo)
-- [Smart transaction routing: turning auth-rate data into routing rules &lpar;without a black box&rpar;](https://dev.to/payneteasy/smart-transaction-routing-turning-auth-rate-data-into-routing-rules-without-a-black-box-3gj7)
+- [Automate weekly pricing-page PDFs with Zapier + Rendershot](https://dev.to/rendershot/automate-weekly-pricing-page-pdfs-with-zapier-rendershot-11n6)
+- [How to Protect Morning Focus Time With Calendar Blocks](https://dev.to/just_commit/how-to-protect-morning-focus-time-with-calendar-blocks-17d1)
+- [Time Blocking When Your Day Is Full of Meetings](https://dev.to/just_commit/time-blocking-when-your-day-is-full-of-meetings-279l)
+- [Time Blocking vs. To-Do Lists: Which Works Better?](https://dev.to/just_commit/time-blocking-vs-to-do-lists-which-works-better-3fge)
 <!-- BLOG-POST-LIST:END -->
 
 
