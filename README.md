@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Antigravity 2.0 Is the I/O 2026 Announcement Devs Are Sleeping On](https://dev.to/ashutoshranjan/google-antigravity-20-is-the-io-2026-announcement-devs-are-sleeping-on-2mke)
-- [I Tested KTransformers on My Laptop — 5 Hidden Features That Made 671B Models Actually Work 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/i-tested-ktransformers-on-my-laptop-5-hidden-features-that-made-671b-models-actually-work-2efn)
-- [How Consumer Goods Companies Use 3D Printing to Cut Time-to-Market](https://dev.to/eyecontact-3d/how-consumer-goods-companies-use-3d-printing-to-cut-time-to-market-31kp)
-- [Built an API Fraud Detector After Getting Scammed — Here&#39;s How It Works](https://dev.to/ti_pi_31869d13400cbe9e9a9/built-an-api-fraud-detector-after-getting-scammed-heres-how-it-works-406m)
+- [The Hardest Part Of Building A RAG App Wasn’t The AI](https://dev.to/dev-in-progress/the-hardest-part-of-building-a-rag-app-wasnt-the-ai-4a78)
+- [Introduction to LLMs for Developers: Tokens, Prompts, Context Windows, and First AI Apps](https://dev.to/ashutosh_piprode_cb7575e3/introduction-to-llms-for-developers-tokens-prompts-context-windows-and-first-ai-apps-4gi5)
+- [Working With Japanese Clients Humbled Me Faster Than I Expected](https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da)
+- [I Built an AI Mock Trial Platform Because Practicing Law Shouldn&#39;t Require a Full Cast](https://dev.to/jesperdeng/i-built-an-ai-mock-trial-platform-because-practicing-law-shouldnt-require-a-full-cast-2cl5)
 <!-- BLOG-POST-LIST:END -->
 
 
