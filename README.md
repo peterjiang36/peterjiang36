@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Solana Account Data: Three Methods Compared](https://dev.to/lymah/decoding-solana-account-data-three-methods-compared-4356)
-- [MCP Just Landed on Your Phone: What Google AI Edge Gallery Actually Does](https://dev.to/dannwaneri/mcp-just-landed-on-your-phone-what-google-ai-edge-gallery-actually-does-1567)
-- [I Made My Website &quot;Alive&quot; using Physics &lpar;Vanilla JS Experiment Part 2&rpar; 🚀](https://dev.to/naman_sachdeva/i-made-my-website-alive-using-physics-vanilla-js-experiment-part-2-4n4h)
-- [Stop Asking “Which Model?” and Start Fixing Your Team’s AI Supply Chain [Image Test C]](https://dev.to/chrisbuildsonline/stop-asking-which-model-and-start-fixing-your-teams-ai-supply-chain-image-test-c-5ka)
+- [The Art Of Keeping Business Logic Honest](https://dev.to/juststevemcd/the-art-of-keeping-business-logic-honest-254h)
+- [Legal Buddy 🚀 — AI-Powered Legal Chat, Document Review &amp; Drafting with Gemma 4](https://dev.to/sai_22/legal-buddy-ai-powered-legal-chat-document-review-drafting-with-gemma-4-26fp)
+- [I replaced nginx with a reverse proxy I wrote in Go](https://dev.to/niixdan/i-replaced-nginx-with-a-reverse-proxy-i-wrote-in-go-4cj5)
+- [How to Stop Leaking AWS Keys to GitHub &lpar;And What to Do When You Already Did&rpar;](https://dev.to/alanwest/how-to-stop-leaking-aws-keys-to-github-and-what-to-do-when-you-already-did-2e7n)
 <!-- BLOG-POST-LIST:END -->
 
 
