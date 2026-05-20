@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hardest Part Of Building A RAG App Wasn’t The AI](https://dev.to/dev-in-progress/the-hardest-part-of-building-a-rag-app-wasnt-the-ai-4a78)
-- [Introduction to LLMs for Developers: Tokens, Prompts, Context Windows, and First AI Apps](https://dev.to/ashutosh_piprode_cb7575e3/introduction-to-llms-for-developers-tokens-prompts-context-windows-and-first-ai-apps-4gi5)
-- [Working With Japanese Clients Humbled Me Faster Than I Expected](https://dev.to/itsugo/working-with-japanese-clients-humbled-me-faster-than-i-expected-49da)
-- [I Built an AI Mock Trial Platform Because Practicing Law Shouldn&#39;t Require a Full Cast](https://dev.to/jesperdeng/i-built-an-ai-mock-trial-platform-because-practicing-law-shouldnt-require-a-full-cast-2cl5)
+- [GitHub-Synced Portfolio vs. Static Site vs. Notion: Which One Actually Gets Maintained?](https://dev.to/zansuken/github-synced-portfolio-vs-static-site-vs-notion-which-one-actually-gets-maintained-1cec)
+- [I think this is the best place to introduce yourself to a lot of other DEV members.](https://dev.to/shaheryaramin/i-think-this-is-the-best-place-to-introduce-yourself-to-a-lot-of-other-dev-members-12cm)
+- [WEEK 4 #100DaysOfSolana: LAMPORTS IN SOLANA](https://dev.to/peter_okoh_/week-4-100daysofsolana-lamports-in-solana-2mb1)
+- [I Built a Local Gemma 4 Content Radar for Private Editorial Decisions](https://dev.to/k_x_3bdabdd8981a983626896/i-built-a-local-gemma-4-content-radar-for-private-editorial-decisions-1hp8)
 <!-- BLOG-POST-LIST:END -->
 
 
