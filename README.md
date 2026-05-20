@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [92. BERT: The Model That Reads in Both Directions](https://dev.to/yakhilesh/92-bert-the-model-that-reads-in-both-directions-2cga)
-- [QAOA vs. 75,000 Nodes: Building a Hybrid Architecture to Solve NP-Hard Problems When Quantum Simulators Hit a Wall](https://dev.to/emperoq/qaoa-vs-75000-nodes-building-a-hybrid-architecture-to-solve-np-hard-problems-when-quantum-613)
-- [One Tool That Cuts Token Costs 40-80% for Claude Code, Codex, opencode, and openclaw](https://dev.to/zelys_dfkhelper/one-tool-that-cuts-token-costs-40-80-for-claude-code-codex-opencode-and-openclaw-hh2)
-- [Static site search for Astro in 2026: why I picked Pagefind over Algolia and Lunr](https://dev.to/morinaga/static-site-search-for-astro-in-2026-why-i-picked-pagefind-over-algolia-and-lunr-pg1)
+- [Spanish Bank Codes and Postal Codes: Free Lookup Tables for Developers &lpar;2026&rpar;](https://dev.to/night18158/spanish-bank-codes-and-postal-codes-free-lookup-tables-for-developers-2026-1l19)
+- [Raising a Good Junior: What AI Gets Wrong About Knowledge and What It Means for the Next Generation](https://dev.to/andremmfaria/raising-a-good-junior-what-ai-gets-wrong-about-knowledge-and-what-it-means-for-the-next-generation-18ne)
+- [Where in the World Am I?](https://dev.to/joestrout/where-in-the-world-am-i-53bo)
+- [Frontend e Motion](https://dev.to/dellamoraleo/frontend-e-motion-26n3)
 <!-- BLOG-POST-LIST:END -->
 
 
