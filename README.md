@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate weekly pricing-page PDFs with Zapier + Rendershot](https://dev.to/rendershot/automate-weekly-pricing-page-pdfs-with-zapier-rendershot-11n6)
-- [How to Protect Morning Focus Time With Calendar Blocks](https://dev.to/just_commit/how-to-protect-morning-focus-time-with-calendar-blocks-17d1)
-- [Time Blocking When Your Day Is Full of Meetings](https://dev.to/just_commit/time-blocking-when-your-day-is-full-of-meetings-279l)
-- [Time Blocking vs. To-Do Lists: Which Works Better?](https://dev.to/just_commit/time-blocking-vs-to-do-lists-which-works-better-3fge)
+- [DeepSeek-V3: The 671B MoE Model You Can Run Locally in 2026](https://dev.to/rams901/deepseek-v3-the-671b-moe-model-you-can-run-locally-in-2026-30o4)
+- [I Audited 30 llms.txt Files in the Wild. 5 Anti-Patterns Are Already Forming.](https://dev.to/kenimo49/i-audited-30-llmstxt-files-in-the-wild-5-anti-patterns-are-already-forming-18h4)
+- [Kubernetes 1.36 Pod-Level Resource Managers: Advanced Resource Optimization in Production](https://dev.to/matthiasbruns/kubernetes-136-pod-level-resource-managers-advanced-resource-optimization-in-production-10fa)
+- [Why I Think Backend Engineers Should Start Paying Attention to Generative AI](https://dev.to/your-sk/why-i-think-backend-engineers-should-start-paying-attention-to-generative-ai-4gpj)
 <!-- BLOG-POST-LIST:END -->
 
 
