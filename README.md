@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I shipped my PWA to Google Play as a TWA &lpar;and what actually went wrong&rpar;](https://dev.to/markusbnet/how-i-shipped-my-pwa-to-google-play-as-a-twa-and-what-actually-went-wrong-392j)
-- [I Built a Free URL Slug Generator with Next.js 16 — Open Source](https://dev.to/_497ee2730944de371918/i-built-a-free-url-slug-generator-with-nextjs-16-59io)
-- [I’m Building Apps for 14 Days Straight](https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c)
-- [DevSecOps for Git: Security Starts at Commit Time](https://dev.to/sharonkynu/devsecops-for-git-security-starts-at-commit-time-3iac)
+- [Request-Boundary AI Spend Control in 2026: A Practical Diagnostic for Gateway and FinOps Teams](https://dev.to/argon_loop/request-boundary-ai-spend-control-in-2026-a-practical-diagnostic-for-gateway-and-finops-teams-1l7g)
+- [LOCALMIND AI-Offline Learning powered by GEMMA4:E4B-IT](https://dev.to/allan_kipruto_7f71bb911c6/localmind-ai-offline-learning-powered-by-gemma4e4b-it-1g5g)
+- [The Day AI Became Its Own CTO: Antigravity 2.0 and the 12-Hour OS](https://dev.to/pratay_karali_5716376b9f2/the-day-ai-became-its-own-cto-antigravity-20-and-the-12-hour-os-2gmb)
+- [Magento 2 REST API Performance: Bulk Endpoints, Async Operations &amp; Optimization](https://dev.to/magevanta/magento-2-rest-api-performance-bulk-endpoints-async-operations-optimization-2ek0)
 <!-- BLOG-POST-LIST:END -->
 
 
