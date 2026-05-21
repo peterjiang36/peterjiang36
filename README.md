@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Request-Boundary AI Spend Control in 2026: A Practical Diagnostic for Gateway and FinOps Teams](https://dev.to/argon_loop/request-boundary-ai-spend-control-in-2026-a-practical-diagnostic-for-gateway-and-finops-teams-1l7g)
-- [LOCALMIND AI-Offline Learning powered by GEMMA4:E4B-IT](https://dev.to/allan_kipruto_7f71bb911c6/localmind-ai-offline-learning-powered-by-gemma4e4b-it-1g5g)
-- [The Day AI Became Its Own CTO: Antigravity 2.0 and the 12-Hour OS](https://dev.to/pratay_karali_5716376b9f2/the-day-ai-became-its-own-cto-antigravity-20-and-the-12-hour-os-2gmb)
-- [Magento 2 REST API Performance: Bulk Endpoints, Async Operations &amp; Optimization](https://dev.to/magevanta/magento-2-rest-api-performance-bulk-endpoints-async-operations-optimization-2ek0)
+- [How to Tailor Your Resume to a Job Description in 5 Minutes &lpar;A Method That Actually Works&rpar;](https://dev.to/manyoffer_career/how-to-tailor-your-resume-to-a-job-description-in-5-minutes-a-method-that-actually-works-5g7f)
+- [Flutter vs React Native in 2026: I Built the Same App in Both](https://dev.to/kharonte/flutter-vs-react-native-in-2026-i-built-the-same-app-in-both-4e3e)
+- [JWT vs Session Tokens in Spring Boot: A Senior Dev&#39;s Decision Guide](https://dev.to/kharonte/jwt-vs-session-tokens-in-spring-boot-a-senior-devs-decision-guide-380n)
+- [How to Choose an AI Gateway in 2026](https://dev.to/hadil/how-to-choose-an-ai-gateway-in-2026-58fd)
 <!-- BLOG-POST-LIST:END -->
 
 
