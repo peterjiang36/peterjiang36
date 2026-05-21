@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Log Parsing with AI at Bronto](https://dev.to/bronto_io/log-parsing-with-ai-at-bronto-18d2)
-- [How to Choose the Right SaaS Stack for Your Business &lpar;Without Regretting It Later&rpar;](https://dev.to/getsaasright/how-to-choose-the-right-saas-stack-for-your-business-without-regretting-it-later-8ia)
-- [代理模式深度指南：构建控制访问的艺术](https://dev.to/tianxin/dai-li-mo-shi-shen-du-zhi-nan-gou-jian-kong-zhi-fang-wen-de-yi-zhu-1pie)
-- [Anyone looking for an ETL tool that some how morphed into a ETL/Agentic Worlfow tool? I was able to parse a 300 page pdf and upload it to postgres, so thats cool.](https://dev.to/traviticus/anyone-looking-for-a-etl-tool-that-some-how-morphed-into-a-etlagentic-worlfow-tool-i-was-able-to-42ij)
+- [Automated 25 Minutes of My Morning With a Prompt &lpar;Not a Script&rpar;](https://dev.to/pranay_ravi_b88172eac205c/automated-25-minutes-of-my-morning-with-a-prompt-not-a-script-2d4k)
+- [أدوات API ذاتية الاستضافة: هل يجب أن تترك السحابة؟](https://dev.to/yusuf_khalidd/dwt-api-dhty-lstdf-hl-yjb-n-ttrk-lshb-53oa)
+- [Never Use Service Classes in Rails](https://dev.to/hulkinpublic/never-use-service-classes-in-rails-4f75)
+- [How Markus Builds AI Teams That Actually Ship — Not Just Chat](https://dev.to/jsyqrt/how-markus-builds-ai-teams-that-actually-ship-not-just-chat-2dec)
 <!-- BLOG-POST-LIST:END -->
 
 
