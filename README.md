@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Tailor Your Resume to a Job Description in 5 Minutes &lpar;A Method That Actually Works&rpar;](https://dev.to/manyoffer_career/how-to-tailor-your-resume-to-a-job-description-in-5-minutes-a-method-that-actually-works-5g7f)
-- [Flutter vs React Native in 2026: I Built the Same App in Both](https://dev.to/kharonte/flutter-vs-react-native-in-2026-i-built-the-same-app-in-both-4e3e)
-- [JWT vs Session Tokens in Spring Boot: A Senior Dev&#39;s Decision Guide](https://dev.to/kharonte/jwt-vs-session-tokens-in-spring-boot-a-senior-devs-decision-guide-380n)
-- [How to Choose an AI Gateway in 2026](https://dev.to/hadil/how-to-choose-an-ai-gateway-in-2026-58fd)
+- [Resolving inter-service communication issue](https://dev.to/satyaaytas/resolving-inter-service-communication-issue-10bk)
+- [I built an email cleaner. CSV parsing took longer than the actual validators.](https://dev.to/damianfz/i-built-an-email-cleaner-csv-parsing-took-longer-than-the-actual-validators-58jb)
+- [How I Would Learn Full-Stack Development in 2026 If I Started From Zero](https://dev.to/matteodem/how-i-would-learn-full-stack-development-in-2026-if-i-started-from-zero-56d4)
+- [Partition Evolution: Change Your Partitioning Without Rewriting Data](https://dev.to/alexmercedcoder/partition-evolution-change-your-partitioning-without-rewriting-data-4lld)
 <!-- BLOG-POST-LIST:END -->
 
 
