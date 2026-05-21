@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jenkins or GitHub Actions? Deciding the Right CI/CD Tool for Your Workflow](https://dev.to/sanjay_yadav_/jenkins-or-github-actions-deciding-the-right-cicd-tool-for-your-workflow-1cc8)
-- [Lambda Execution Roles Are Quietly Breaking Your Least Privilege Policy](https://dev.to/aws-builders/lambda-execution-roles-are-quietly-breaking-your-least-privilege-policy-2ldi)
-- [In my latest signal article, I explore how priority queues and layered execution can help a scheduler preserve interaction responsiveness while still maximizing performance utilization.](https://dev.to/luciano0322/in-my-latest-signal-kernel-article-i-explore-how-priority-queues-and-layered-execution-can-help-a-51eh)
-- [Building a Smarter Scheduler: Priority Queues and Layered Execution](https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e)
+- [How I shipped my PWA to Google Play as a TWA &lpar;and what actually went wrong&rpar;](https://dev.to/markusbnet/how-i-shipped-my-pwa-to-google-play-as-a-twa-and-what-actually-went-wrong-392j)
+- [I Built a Free URL Slug Generator with Next.js 16 — Open Source](https://dev.to/_497ee2730944de371918/i-built-a-free-url-slug-generator-with-nextjs-16-59io)
+- [I’m Building Apps for 14 Days Straight](https://dev.to/0x2e_tech_72f924b6c3e7557/im-building-apps-for-14-days-straight-2f4c)
+- [DevSecOps for Git: Security Starts at Commit Time](https://dev.to/sharonkynu/devsecops-for-git-security-starts-at-commit-time-3iac)
 <!-- BLOG-POST-LIST:END -->
 
 
