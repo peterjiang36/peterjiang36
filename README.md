@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated 25 Minutes of My Morning With a Prompt &lpar;Not a Script&rpar;](https://dev.to/pranay_ravi_b88172eac205c/automated-25-minutes-of-my-morning-with-a-prompt-not-a-script-2d4k)
-- [أدوات API ذاتية الاستضافة: هل يجب أن تترك السحابة؟](https://dev.to/yusuf_khalidd/dwt-api-dhty-lstdf-hl-yjb-n-ttrk-lshb-53oa)
-- [Never Use Service Classes in Rails](https://dev.to/hulkinpublic/never-use-service-classes-in-rails-4f75)
-- [How Markus Builds AI Teams That Actually Ship — Not Just Chat](https://dev.to/jsyqrt/how-markus-builds-ai-teams-that-actually-ship-not-just-chat-2dec)
+- [Jenkins or GitHub Actions? Deciding the Right CI/CD Tool for Your Workflow](https://dev.to/sanjay_yadav_/jenkins-or-github-actions-deciding-the-right-cicd-tool-for-your-workflow-1cc8)
+- [Lambda Execution Roles Are Quietly Breaking Your Least Privilege Policy](https://dev.to/aws-builders/lambda-execution-roles-are-quietly-breaking-your-least-privilege-policy-2ldi)
+- [In my latest signal article, I explore how priority queues and layered execution can help a scheduler preserve interaction responsiveness while still maximizing performance utilization.](https://dev.to/luciano0322/in-my-latest-signal-kernel-article-i-explore-how-priority-queues-and-layered-execution-can-help-a-51eh)
+- [Building a Smarter Scheduler: Priority Queues and Layered Execution](https://dev.to/luciano0322/building-a-smarter-scheduler-priority-queues-and-layered-execution-3g6e)
 <!-- BLOG-POST-LIST:END -->
 
 
