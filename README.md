@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Warum wir eine eigene KYC-API gebaut haben — und es kostenlos rausgeben](https://dev.to/enjyn_3feb58e98fa3/warum-wir-eine-eigene-kyc-api-gebaut-haben-und-es-kostenlos-rausgeben-2e5a)
-- [The Scoped Singleton DI Bug Your AI Just Suggested](https://dev.to/agentic_standard/the-scoped-singleton-di-bug-your-ai-just-suggested-jo0)
-- [I Built a Private AI Assistant That Queries My Git History and Project Management Data — Using Only Local LLMs](https://dev.to/pouria_zand/i-built-a-private-ai-assistant-that-queries-my-git-history-and-project-management-data-using-only-39mn)
-- [Multica: An Open-Source Platform for Managing AI Coding Agents Like Teammates](https://dev.to/arshtechpro/multica-an-open-source-platform-for-managing-ai-coding-agents-like-teammates-2469)
+- [The Rise of the Forward Deployed Engineer](https://dev.to/onepoint/the-rise-of-the-forward-deployed-engineer-54o4)
+- [How Would I Build a Payment System That Doesn&#39;t Lose Money](https://dev.to/dax-side/how-would-i-build-a-payment-system-that-doesnt-lose-money-2pho)
+- [Building Calendar ToDo: Turning Calendar Events into a Done List with SwiftUI and EventKit](https://dev.to/yuugooku/building-calendar-todo-turning-calendar-events-into-a-done-list-with-swiftui-and-eventkit-1c9b)
+- [AI Basics You MUST Understand Before Building AI Agent](https://dev.to/yisakberhanu/ai-basics-you-must-understand-before-building-ai-agent-2oid)
 <!-- BLOG-POST-LIST:END -->
 
 
