@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your No-Code AI Agent Has a Memory Problem](https://dev.to/vaishnavi_gudur/your-no-code-ai-agent-has-a-memory-problem-7i4)
-- [The Agentic Payment Protocol Wars](https://dev.to/mannyuncharted/-the-agentic-payment-protocol-wars-24eg)
-- [How to Bypass LinkedIn Commercial Use Limit in 2026 &lpar;Without Paying $150/mo&rpar;](https://dev.to/mambaxan/how-to-bypass-linkedin-commercial-use-limit-in-2026-without-paying-150mo-g2c)
-- [We built a statechart hosting platform where two actors in the same state can migrate to different versions — here&#39;s why that matters](https://dev.to/statekeep_ad41bae1c031c53/we-built-a-statechart-hosting-platform-where-two-actors-in-the-same-state-can-migrate-to-different-18n1)
+- [Why We Built a Zero-Knowledge Clipboard Manager for Developers &lpar;And Dropped Native Mobile Apps&rpar;](https://dev.to/nhrdev/why-we-built-a-zero-knowledge-clipboard-manager-for-developers-and-dropped-native-mobile-apps-1nhm)
+- [Add Your Own Component to Bombie in 5 Edits](https://dev.to/amithmoorkoth/add-your-own-component-to-bombie-in-5-edits-4oc6)
+- [Why Your OSS Advocacy Strategy Probably Doesn&#39;t Fit](https://dev.to/thedanicafine/why-your-oss-advocacy-strategy-probably-doesnt-fit-4icc)
+- [Building an MCP server for a Swiss hosting provider &lpar;and what reverse-engineering its manager taught me&rpar;](https://dev.to/mogacode/building-an-mcp-server-for-a-swiss-hosting-provider-and-what-reverse-engineering-its-manager-2fg9)
 <!-- BLOG-POST-LIST:END -->
 
 
