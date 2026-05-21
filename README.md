@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built a Zero-Knowledge Clipboard Manager for Developers &lpar;And Dropped Native Mobile Apps&rpar;](https://dev.to/nhrdev/why-we-built-a-zero-knowledge-clipboard-manager-for-developers-and-dropped-native-mobile-apps-1nhm)
-- [Add Your Own Component to Bombie in 5 Edits](https://dev.to/amithmoorkoth/add-your-own-component-to-bombie-in-5-edits-4oc6)
-- [Why Your OSS Advocacy Strategy Probably Doesn&#39;t Fit](https://dev.to/thedanicafine/why-your-oss-advocacy-strategy-probably-doesnt-fit-4icc)
-- [Building an MCP server for a Swiss hosting provider &lpar;and what reverse-engineering its manager taught me&rpar;](https://dev.to/mogacode/building-an-mcp-server-for-a-swiss-hosting-provider-and-what-reverse-engineering-its-manager-2fg9)
+- [Building the TEYZIX CORE Internship Portal — My Full-Stack Development Journey](https://dev.to/yasirawan4831/building-the-teyzix-core-internship-portal-my-full-stack-development-journey-4him)
+- [PocketCFO: a private personal-finance brain that runs entirely in your browser](https://dev.to/chintanonweb/pocketcfo-a-private-personal-finance-brain-that-runs-entirely-in-your-browser-2aoc)
+- [Go Idioms I Wish I Knew Earlier](https://dev.to/francis_cidney_awuor/go-idioms-i-wish-i-knew-earlier-4jo1)
+- [Hey how are you guys 
+I&#39;m newbie web developer , learning wordpress+elementor 
+Right now I don&#39;t know what to make I don&#39;t know what to write or use what color can you tell me about it ?](https://dev.to/ali_vaghefi_62630965ed737/hey-how-are-you-guys-im-newbie-web-developer-learning-wordpresselementor-right-now-i-dont-2al5)
 <!-- BLOG-POST-LIST:END -->
 
 
