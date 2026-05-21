@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spanish Bank Codes and Postal Codes: Free Lookup Tables for Developers &lpar;2026&rpar;](https://dev.to/night18158/spanish-bank-codes-and-postal-codes-free-lookup-tables-for-developers-2026-1l19)
-- [Raising a Good Junior: What AI Gets Wrong About Knowledge and What It Means for the Next Generation](https://dev.to/andremmfaria/raising-a-good-junior-what-ai-gets-wrong-about-knowledge-and-what-it-means-for-the-next-generation-18ne)
-- [Where in the World Am I?](https://dev.to/joestrout/where-in-the-world-am-i-53bo)
-- [Frontend e Motion](https://dev.to/dellamoraleo/frontend-e-motion-26n3)
+- [Log Parsing with AI at Bronto](https://dev.to/bronto_io/log-parsing-with-ai-at-bronto-18d2)
+- [How to Choose the Right SaaS Stack for Your Business &lpar;Without Regretting It Later&rpar;](https://dev.to/getsaasright/how-to-choose-the-right-saas-stack-for-your-business-without-regretting-it-later-8ia)
+- [代理模式深度指南：构建控制访问的艺术](https://dev.to/tianxin/dai-li-mo-shi-shen-du-zhi-nan-gou-jian-kong-zhi-fang-wen-de-yi-zhu-1pie)
+- [Anyone looking for an ETL tool that some how morphed into a ETL/Agentic Worlfow tool? I was able to parse a 300 page pdf and upload it to postgres, so thats cool.](https://dev.to/traviticus/anyone-looking-for-a-etl-tool-that-some-how-morphed-into-a-etlagentic-worlfow-tool-i-was-able-to-42ij)
 <!-- BLOG-POST-LIST:END -->
 
 
