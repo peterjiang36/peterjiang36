@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka for Beginners: Building Real-Time Streaming Systems with Python](https://dev.to/samwel_sam/apache-kafka-for-beginners-building-real-time-streaming-systems-with-python-1f3k)
-- [Dating the Crawler](https://dev.to/nicohartmann/dating-the-crawler-4o7a)
-- [AI-Assisted Frontend Reviews Using Gemma 4](https://dev.to/naomir/ai-assisted-frontend-reviews-using-gemma-4-567c)
-- [Building Secure Multi-Agent Systems: My Takeaways from Google I/O 2026](https://dev.to/tech-vexy/building-secure-multi-agent-systems-my-takeaways-from-google-io-2026-37af)
+- [400+ Remote Companies Using React in 2026](https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb)
+- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200)
+- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-2nbn)
+- [Grafana &#39;No Data&#39; after migration: 7 reconcilers we had to kill first](https://dev.to/infraforge/grafana-no-data-after-migration-7-reconcilers-we-had-to-kill-first-4gfc)
 <!-- BLOG-POST-LIST:END -->
 
 
