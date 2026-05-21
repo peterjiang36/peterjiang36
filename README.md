@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the TEYZIX CORE Internship Portal — My Full-Stack Development Journey](https://dev.to/yasirawan4831/building-the-teyzix-core-internship-portal-my-full-stack-development-journey-4him)
-- [PocketCFO: a private personal-finance brain that runs entirely in your browser](https://dev.to/chintanonweb/pocketcfo-a-private-personal-finance-brain-that-runs-entirely-in-your-browser-2aoc)
-- [Go Idioms I Wish I Knew Earlier](https://dev.to/francis_cidney_awuor/go-idioms-i-wish-i-knew-earlier-4jo1)
-- [Hey how are you guys 
-I&#39;m newbie web developer , learning wordpress+elementor 
-Right now I don&#39;t know what to make I don&#39;t know what to write or use what color can you tell me about it ?](https://dev.to/ali_vaghefi_62630965ed737/hey-how-are-you-guys-im-newbie-web-developer-learning-wordpresselementor-right-now-i-dont-2al5)
+- [The Vonage Dev Discussion: How AI is transforming software development](https://dev.to/vonagedev/the-vonage-dev-discussion-how-ai-is-transforming-software-development-1pof)
+- [Hermes Agent in the Wild: How I Turned It Into an AI Ops Employee](https://dev.to/samarth28/hermes-agent-in-the-wild-how-i-turned-it-into-an-ai-ops-employee-2l85)
+- [Navigating the Hazy Jungle of Global E-commerce: How We Built a Reliable System for Digital Creators in Tanzania](https://dev.to/on-chain-commerce/navigating-the-hazy-jungle-of-global-e-commerce-how-we-built-a-reliable-system-for-digital-5d43)
+- [The Cost of Cross-Platform Development: Native Module Integration](https://dev.to/merbayerp/the-cost-of-cross-platform-development-native-module-integration-4181)
 <!-- BLOG-POST-LIST:END -->
 
 
