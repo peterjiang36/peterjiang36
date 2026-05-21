@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [400+ Remote Companies Using React in 2026](https://dev.to/remoet/400-remote-companies-using-react-in-2026-58bb)
-- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-200)
-- [Gizmo Guard - Safeguard Bot &lpar;Powered by Gemma4&rpar;](https://dev.to/sasiperi/gizmo-guard-safeguard-bot-powered-by-gemma4-2nbn)
-- [Grafana &#39;No Data&#39; after migration: 7 reconcilers we had to kill first](https://dev.to/infraforge/grafana-no-data-after-migration-7-reconcilers-we-had-to-kill-first-4gfc)
+- [Warum wir eine eigene KYC-API gebaut haben — und es kostenlos rausgeben](https://dev.to/enjyn_3feb58e98fa3/warum-wir-eine-eigene-kyc-api-gebaut-haben-und-es-kostenlos-rausgeben-2e5a)
+- [The Scoped Singleton DI Bug Your AI Just Suggested](https://dev.to/agentic_standard/the-scoped-singleton-di-bug-your-ai-just-suggested-jo0)
+- [I Built a Private AI Assistant That Queries My Git History and Project Management Data — Using Only Local LLMs](https://dev.to/pouria_zand/i-built-a-private-ai-assistant-that-queries-my-git-history-and-project-management-data-using-only-39mn)
+- [Multica: An Open-Source Platform for Managing AI Coding Agents Like Teammates](https://dev.to/arshtechpro/multica-an-open-source-platform-for-managing-ai-coding-agents-like-teammates-2469)
 <!-- BLOG-POST-LIST:END -->
 
 
