@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resolving inter-service communication issue](https://dev.to/satyaaytas/resolving-inter-service-communication-issue-10bk)
-- [I built an email cleaner. CSV parsing took longer than the actual validators.](https://dev.to/damianfz/i-built-an-email-cleaner-csv-parsing-took-longer-than-the-actual-validators-58jb)
-- [How I Would Learn Full-Stack Development in 2026 If I Started From Zero](https://dev.to/matteodem/how-i-would-learn-full-stack-development-in-2026-if-i-started-from-zero-56d4)
-- [Partition Evolution: Change Your Partitioning Without Rewriting Data](https://dev.to/alexmercedcoder/partition-evolution-change-your-partitioning-without-rewriting-data-4lld)
+- [Your No-Code AI Agent Has a Memory Problem](https://dev.to/vaishnavi_gudur/your-no-code-ai-agent-has-a-memory-problem-7i4)
+- [The Agentic Payment Protocol Wars](https://dev.to/mannyuncharted/-the-agentic-payment-protocol-wars-24eg)
+- [How to Bypass LinkedIn Commercial Use Limit in 2026 &lpar;Without Paying $150/mo&rpar;](https://dev.to/mambaxan/how-to-bypass-linkedin-commercial-use-limit-in-2026-without-paying-150mo-g2c)
+- [We built a statechart hosting platform where two actors in the same state can migrate to different versions — here&#39;s why that matters](https://dev.to/statekeep_ad41bae1c031c53/we-built-a-statechart-hosting-platform-where-two-actors-in-the-same-state-can-migrate-to-different-18n1)
 <!-- BLOG-POST-LIST:END -->
 
 
