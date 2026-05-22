@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Generate Optimized GitHub Actions Workflows For Any Stack With This New CLI Tool](https://dev.to/dhanushnehru/auto-generate-optimized-github-actions-workflows-for-any-stack-with-this-new-cli-tool-4olg)
-- [Unchaining the African Creator Economy](https://dev.to/global-creator-lab/unchaining-the-african-creator-economy-2icd)
-- [The Treasure Hunt Engine Gotcha - A Lesson in Constrained Performance](https://dev.to/built-from-africa/the-treasure-hunt-engine-gotcha-a-lesson-in-constrained-performance-5bke)
-- [great_cto v2.17 - no more tambourine dance](https://dev.to/great_cto/greatcto-v217-no-more-tambourine-dance-1p5p)
+- [Building CogniPlan: A Local-First Task Planning System](https://dev.to/karan_singhgurjar_987e79/building-cogniplan-a-local-first-task-planning-system-2c02)
+- [Using Apache Iceberg with Python and MPP Query Engines](https://dev.to/alexmercedcoder/using-apache-iceberg-with-python-and-mpp-query-engines-1d0)
+- [How I Built AegisDesk: A Zero-Token Semantic IT Agent with &lt;5ms Latency](https://dev.to/sitanshukr08/how-i-built-aegisdesk-a-zero-token-semantic-it-agent-with-5ms-latency-3p6p)
+- [I built CodeArchy: an open-source that turns any codebase into a visual, explainable architectural experience, powered by Gemma 4.](https://dev.to/iyinusa/i-built-codearchy-an-open-source-that-turns-any-codebase-into-a-visual-explainable-architectural-cha)
 <!-- BLOG-POST-LIST:END -->
 
 
