@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New Avatar](https://dev.to/yoursunny/new-avatar-59e6)
-- [Anti-Jamming Flight Controllers Compared - ArduPilot Options for EW Environments &lpar;2026&rpar;](https://dev.to/fukushimauav/anti-jamming-flight-controllers-compared-ardupilot-options-for-ew-environments-2026-4ae4)
-- [DepCast: From Research Scripts to a Real Tool — Finishing a Dependency Intelligence Protocol](https://dev.to/ahafarag/depcast-from-research-scripts-to-a-real-tool-finishing-a-dependency-intelligence-protocol-2m8f)
-- [Flame Transition and Air Element Effect on a $40/mo Budget](https://dev.to/savielyamani_videoai/flame-transition-and-air-element-effect-on-a-40mo-budget-250p)
+- [Run Hermes Agent on Any Model — Free, Local, and Cost-Routed](https://dev.to/vishal_veerareddy_9cdd17d/hermes-lynkr-the-self-improving-agent-meets-the-universal-llm-proxy-3n11)
+- [Day 11 - AWS VPC](https://dev.to/17j/-day-11-aws-vpc-3l4m)
+- [Interview Sheet Q2:- 121. Best Time to Buy and Sell Stock](https://dev.to/shipra_shakya_5ebf9808e2a/interview-sheet-q2-1-two-sum-2oe8)
+- [Reviving TruthGuard AI: From Zero History to Full CRUD with GitHub Copilot](https://dev.to/awaisranahmad/reviving-truthguard-ai-from-zero-history-to-full-crud-with-github-copilot-42kl)
 <!-- BLOG-POST-LIST:END -->
 
 
