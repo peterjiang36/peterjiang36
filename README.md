@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Linux 7 to 8 Upgrade Using Leapp: Architecture, Inhibitors, and Enterprise Troubleshooting](https://dev.to/bonthu_durgaprasad_60725/oracle-linux-7-to-8-upgrade-using-leapp-architecture-inhibitors-and-enterprise-troubleshooting-12e5)
-- [Responsive Web Design](https://dev.to/irvirty/responsive-web-design-4km0)
-- [How We Picked Between PayPal and Crypto for a $500K/Year Digital Product Launch](https://dev.to/global-commerce-strategy/how-we-picked-between-paypal-and-crypto-for-a-500kyear-digital-product-launch-5dbo)
-- [Post-Mortem: Why My Blog Cover Images Silently Failed to Restore from S3](https://dev.to/highcenburg/post-mortem-why-my-blog-cover-images-silently-failed-to-restore-from-s3-2mn4)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-dah)
+- [You Are Not Choosing](https://dev.to/rawveg/you-are-not-choosing-4nmm)
+- [CLAUDE.md for Angular: 13 Rules That Make AI Write Idiomatic, Production-Ready Components](https://dev.to/olivia_craft/claudemd-for-angular-13-rules-that-make-ai-write-idiomatic-production-ready-components-5g3g)
+- [I tested 7 vector databases for my RAG stack in 2026, here&#39;s the one nobody is talking about &lpar;yet&rpar;](https://dev.to/adatab/i-tested-7-vector-databases-for-my-rag-stack-in-2026-heres-the-one-nobody-is-talking-about-yet-57a4)
 <!-- BLOG-POST-LIST:END -->
 
 
