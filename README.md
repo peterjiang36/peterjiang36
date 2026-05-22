@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Antigravity 1.0 to 2.0/IDE Quick Migration Guide](https://dev.to/gde/google-antigravity-10-to-20ide-quick-migration-guide-35p5)
-- [Запуск Flux Schnell &lpar;12B&rpar; + LLM на устаревшей AMD RX 580 &lpar;8 ГБ&rpar; через Vulkan — Полное архитектурное руководство [2026]](https://dev.to/aivisionslab/zapusk-flux-schnell-12b-llm-na-ustarievshiei-amd-rx-580-8-gb-chieriez-vulkan-polnoie-arkhitiekturnoie-273d)
-- [I turned my gesture calculator hobby project into a pip package — so you can detect and use hand gestures in your project in just 3 lines of Python code](https://dev.to/dipankar_das/i-turned-my-gesture-calculator-hobby-project-into-a-pip-package-so-you-can-detect-and-use-hand-4ajm)
-- [ISP Didn&#39;t Know What CGNAT Is](https://dev.to/cthjp/isp-didnt-know-what-cgnat-is-4fh2)
+- [The Brilliant Person in Your Pocket](https://dev.to/sadiq_dabs/the-brilliant-person-in-your-pocket-51p8)
+- [Why your Claude API bill is 3x what it should be &lpar;and how to fix it&rpar;](https://dev.to/midrelay/why-your-claude-api-bill-is-3x-what-it-should-be-and-how-to-fix-it-4lfo)
+- [Why I Built My Own AI Project Management Assistant – and What I Learned](https://dev.to/sunishb/why-i-built-my-own-ai-project-management-assistant-and-what-i-learned-5fc6)
+- [What should happen when a repo does not run?](https://dev.to/otaready/what-should-happen-when-a-repo-does-not-run-31ai)
 <!-- BLOG-POST-LIST:END -->
 
 
