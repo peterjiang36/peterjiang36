@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of the Forward Deployed Engineer](https://dev.to/onepoint/the-rise-of-the-forward-deployed-engineer-54o4)
-- [How Would I Build a Payment System That Doesn&#39;t Lose Money](https://dev.to/dax-side/how-would-i-build-a-payment-system-that-doesnt-lose-money-2pho)
-- [Building Calendar ToDo: Turning Calendar Events into a Done List with SwiftUI and EventKit](https://dev.to/yuugooku/building-calendar-todo-turning-calendar-events-into-a-done-list-with-swiftui-and-eventkit-1c9b)
-- [AI Basics You MUST Understand Before Building AI Agent](https://dev.to/yisakberhanu/ai-basics-you-must-understand-before-building-ai-agent-2oid)
+- [How AI Is Changing the QA Engineer Role in 2026: A Data Analysis](https://dev.to/gnana_6392e836fd500a957dc/how-ai-is-changing-the-qa-engineer-role-in-2026-a-data-analysis-4c0o)
+- [I Investigated 986,317 retro cards. Teams aren&#39;t as negative as you think 🤔](https://dev.to/kelly_lewandowski_845215e/i-investigated-986317-retro-cards-teams-arent-as-negative-as-you-think-54ek)
+- [Go Fiber vs Gin vs Echo: what I chose after building a 1,600-article platform](https://dev.to/ayinedjimi-consultants/go-fiber-vs-gin-vs-echo-what-i-chose-after-building-a-1600-article-platform-13eb)
+- [I built a Telegram Twitter auto-poster — here&#39;s what OAuth 1.0a actually requires](https://dev.to/ayinedjimi-consultants/i-built-a-telegram-twitter-auto-poster-heres-what-oauth-10a-actually-requires-1b7m)
 <!-- BLOG-POST-LIST:END -->
 
 
