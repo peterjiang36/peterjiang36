@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built chanprobe Because My Go Queues Were Invisible](https://dev.to/devflex-pro/i-built-chanprobe-because-my-go-queues-were-invisible-3ld9)
-- [Building a Live Solana TPS Meter with OrbitFlare&#39;s TypeScript SDK](https://dev.to/orbitflarerpc/building-a-live-solana-tps-meter-with-orbitflares-typescript-sdk-b66)
-- [Security news weekly round-up - 22nd May 2026](https://dev.to/ziizium/security-news-weekly-round-up-22nd-may-2026-5ak1)
-- [When Stress Disguises Itself as Rational Planning &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-stress-disguises-itself-as-rational-planning-bite-size-article-4m98)
+- [L.E.N.S. — A private photography coach for blind and low-vision artisans](https://dev.to/prasadt1/lens-a-private-photography-coach-for-blind-and-low-vision-artisans-4mj2)
+- [How Developers and Open-Source Communities Work - A Guide for Non-Technical People](https://dev.to/priya_sajja_c336921bbda87/how-developers-and-open-source-communities-work-a-guide-for-non-technical-people-15il)
+- [Running on Fumes](https://dev.to/p4r4n0id/running-on-fumes-obf)
+- [When I Realized We Were Throwing Away Half Our Engine&#39;s Potential](https://dev.to/built-from-africa/when-i-realized-we-were-throwing-away-half-our-engines-potential-1be8)
 <!-- BLOG-POST-LIST:END -->
 
 
