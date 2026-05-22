@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 Is Not Just Another Open Model — It Changes What Developers Can Build Locally](https://dev.to/samarth28/gemma-4-is-not-just-another-open-model-it-changes-what-developers-can-build-locally-1el5)
-- [OpenVibe: An Open-Source AI Coding IDE That Works With Any Model](https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf)
-- [I Inspected the System Program and It Looked Just Like My Wallet](https://dev.to/sammie_/i-inspected-the-system-program-and-it-looked-just-like-my-wallet-16b9)
-- [Hermes vs OpenClaw: The Two Most-Starred AI Agent Frameworks of 2026](https://dev.to/wanjohichristopher/hermes-vs-openclaw-the-two-most-starred-ai-agent-frameworks-of-2026-43pc)
+- [I Built chanprobe Because My Go Queues Were Invisible](https://dev.to/devflex-pro/i-built-chanprobe-because-my-go-queues-were-invisible-3ld9)
+- [Building a Live Solana TPS Meter with OrbitFlare&#39;s TypeScript SDK](https://dev.to/orbitflarerpc/building-a-live-solana-tps-meter-with-orbitflares-typescript-sdk-b66)
+- [Security news weekly round-up - 22nd May 2026](https://dev.to/ziizium/security-news-weekly-round-up-22nd-may-2026-5ak1)
+- [When Stress Disguises Itself as Rational Planning &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-stress-disguises-itself-as-rational-planning-bite-size-article-4m98)
 <!-- BLOG-POST-LIST:END -->
 
 
