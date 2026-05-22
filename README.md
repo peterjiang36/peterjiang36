@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Hermes Agent on Any Model — Free, Local, and Cost-Routed](https://dev.to/vishal_veerareddy_9cdd17d/hermes-lynkr-the-self-improving-agent-meets-the-universal-llm-proxy-3n11)
-- [Day 11 - AWS VPC](https://dev.to/17j/-day-11-aws-vpc-3l4m)
-- [Interview Sheet Q2:- 121. Best Time to Buy and Sell Stock](https://dev.to/shipra_shakya_5ebf9808e2a/interview-sheet-q2-1-two-sum-2oe8)
-- [Reviving TruthGuard AI: From Zero History to Full CRUD with GitHub Copilot](https://dev.to/awaisranahmad/reviving-truthguard-ai-from-zero-history-to-full-crud-with-github-copilot-42kl)
+- [Graph RAG vs Vector RAG: When to Use Each](https://dev.to/recep_ciftci/graph-rag-vs-vector-rag-when-to-use-each-3628)
+- [ما هو Agent2Agent &lpar;A2A&rpar;؟ البروتوكول المفتوح لاتصال وكلاء الذكاء الاصطناعي](https://dev.to/yusuf_khalidd/m-hw-agent2agent-a2a-lbrwtwkwl-lmftwh-ltsl-wkl-ldhk-lstny-5eip)
+- [Rust Concepts: dyn Trait, Custom Iterators, Deref/Drop &amp; Axum REST API &lpar;Part 5&rpar;](https://dev.to/mihir_mohapatra/rust-concepts-dyn-trait-custom-iterators-derefdrop-axum-rest-api-part-5-4fo5)
+- [Image Alt Text: WCAG Rules and Best Practices](https://dev.to/lawebe/image-alt-text-wcag-rules-and-best-practices-49l8)
 <!-- BLOG-POST-LIST:END -->
 
 
