@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Brilliant Person in Your Pocket](https://dev.to/sadiq_dabs/the-brilliant-person-in-your-pocket-51p8)
-- [Why your Claude API bill is 3x what it should be &lpar;and how to fix it&rpar;](https://dev.to/midrelay/why-your-claude-api-bill-is-3x-what-it-should-be-and-how-to-fix-it-4lfo)
-- [Why I Built My Own AI Project Management Assistant – and What I Learned](https://dev.to/sunishb/why-i-built-my-own-ai-project-management-assistant-and-what-i-learned-5fc6)
-- [What should happen when a repo does not run?](https://dev.to/otaready/what-should-happen-when-a-repo-does-not-run-31ai)
+- [Gemma 4 Is Not Just Another Open Model — It Changes What Developers Can Build Locally](https://dev.to/samarth28/gemma-4-is-not-just-another-open-model-it-changes-what-developers-can-build-locally-1el5)
+- [OpenVibe: An Open-Source AI Coding IDE That Works With Any Model](https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf)
+- [I Inspected the System Program and It Looked Just Like My Wallet](https://dev.to/sammie_/i-inspected-the-system-program-and-it-looked-just-like-my-wallet-16b9)
+- [Hermes vs OpenClaw: The Two Most-Starred AI Agent Frameworks of 2026](https://dev.to/wanjohichristopher/hermes-vs-openclaw-the-two-most-starred-ai-agent-frameworks-of-2026-43pc)
 <!-- BLOG-POST-LIST:END -->
 
 
