@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We still don&#39;t have proper CSS frameworks](https://dev.to/slafleche/we-still-dont-have-proper-css-frameworks-18dk)
-- [AWS Billing and Cost Management: A Practical Guide](https://dev.to/aman_singh_414811a9e4168b/aws-billing-and-cost-management-a-practical-guide-5ci8)
-- [CSS Specificity Wars in Shopify Stores: 53 Audits with the data](https://dev.to/jthomas2/css-specificity-wars-in-shopify-stores-53-audits-with-the-data-19d8)
-- [When the Cleanup Code Becomes the Project](https://dev.to/awjudd/when-the-cleanup-code-becomes-the-project-4h1k)
+- [Auto-Generate Optimized GitHub Actions Workflows For Any Stack With This New CLI Tool](https://dev.to/dhanushnehru/auto-generate-optimized-github-actions-workflows-for-any-stack-with-this-new-cli-tool-4olg)
+- [Unchaining the African Creator Economy](https://dev.to/global-creator-lab/unchaining-the-african-creator-economy-2icd)
+- [The Treasure Hunt Engine Gotcha - A Lesson in Constrained Performance](https://dev.to/built-from-africa/the-treasure-hunt-engine-gotcha-a-lesson-in-constrained-performance-5bke)
+- [great_cto v2.17 - no more tambourine dance](https://dev.to/great_cto/greatcto-v217-no-more-tambourine-dance-1p5p)
 <!-- BLOG-POST-LIST:END -->
 
 
