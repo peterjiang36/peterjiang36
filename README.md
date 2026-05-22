@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Is Changing the QA Engineer Role in 2026: A Data Analysis](https://dev.to/gnana_6392e836fd500a957dc/how-ai-is-changing-the-qa-engineer-role-in-2026-a-data-analysis-4c0o)
-- [I Investigated 986,317 retro cards. Teams aren&#39;t as negative as you think 🤔](https://dev.to/kelly_lewandowski_845215e/i-investigated-986317-retro-cards-teams-arent-as-negative-as-you-think-54ek)
-- [Go Fiber vs Gin vs Echo: what I chose after building a 1,600-article platform](https://dev.to/ayinedjimi-consultants/go-fiber-vs-gin-vs-echo-what-i-chose-after-building-a-1600-article-platform-13eb)
-- [I built a Telegram Twitter auto-poster — here&#39;s what OAuth 1.0a actually requires](https://dev.to/ayinedjimi-consultants/i-built-a-telegram-twitter-auto-poster-heres-what-oauth-10a-actually-requires-1b7m)
+- [New Avatar](https://dev.to/yoursunny/new-avatar-59e6)
+- [Anti-Jamming Flight Controllers Compared - ArduPilot Options for EW Environments &lpar;2026&rpar;](https://dev.to/fukushimauav/anti-jamming-flight-controllers-compared-ardupilot-options-for-ew-environments-2026-4ae4)
+- [DepCast: From Research Scripts to a Real Tool — Finishing a Dependency Intelligence Protocol](https://dev.to/ahafarag/depcast-from-research-scripts-to-a-real-tool-finishing-a-dependency-intelligence-protocol-2m8f)
+- [Flame Transition and Air Element Effect on a $40/mo Budget](https://dev.to/savielyamani_videoai/flame-transition-and-air-element-effect-on-a-40mo-budget-250p)
 <!-- BLOG-POST-LIST:END -->
 
 
