@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [L.E.N.S. — A private photography coach for blind and low-vision artisans](https://dev.to/prasadt1/lens-a-private-photography-coach-for-blind-and-low-vision-artisans-4mj2)
-- [How Developers and Open-Source Communities Work - A Guide for Non-Technical People](https://dev.to/priya_sajja_c336921bbda87/how-developers-and-open-source-communities-work-a-guide-for-non-technical-people-15il)
-- [Running on Fumes](https://dev.to/p4r4n0id/running-on-fumes-obf)
-- [When I Realized We Were Throwing Away Half Our Engine&#39;s Potential](https://dev.to/built-from-africa/when-i-realized-we-were-throwing-away-half-our-engines-potential-1be8)
+- [I built a free AI-powered Git CLI that writes your commit messages for you](https://dev.to/david_chinwenmeri_6a0a73f/i-built-a-free-ai-powered-git-cli-that-writes-your-commit-messages-for-you-cca)
+- [OpenLiDARViewer: A Browser-Based LiDAR and Point-Cloud Viewer](https://dev.to/aurtechmx/building-openlidarviewer-a-browser-based-lidar-and-point-cloud-viewer-3dcl)
+- [Why most freelancers undercharge &lpar;and the maths behind fixing it&rpar;](https://dev.to/promptspt/why-most-freelancers-undercharge-and-the-maths-behind-fixing-it-4i60)
+- [We built a mahjong dangerous-tile predictor calibrated on 4.97M real hands](https://dev.to/niixolabs/we-built-a-mahjong-dangerous-tile-predictor-calibrated-on-497m-real-hands-4hm4)
 <!-- BLOG-POST-LIST:END -->
 
 
