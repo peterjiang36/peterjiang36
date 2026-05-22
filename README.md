@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-dah)
-- [You Are Not Choosing](https://dev.to/rawveg/you-are-not-choosing-4nmm)
-- [CLAUDE.md for Angular: 13 Rules That Make AI Write Idiomatic, Production-Ready Components](https://dev.to/olivia_craft/claudemd-for-angular-13-rules-that-make-ai-write-idiomatic-production-ready-components-5g3g)
-- [I tested 7 vector databases for my RAG stack in 2026, here&#39;s the one nobody is talking about &lpar;yet&rpar;](https://dev.to/adatab/i-tested-7-vector-databases-for-my-rag-stack-in-2026-heres-the-one-nobody-is-talking-about-yet-57a4)
+- [We still don&#39;t have proper CSS frameworks](https://dev.to/slafleche/we-still-dont-have-proper-css-frameworks-18dk)
+- [AWS Billing and Cost Management: A Practical Guide](https://dev.to/aman_singh_414811a9e4168b/aws-billing-and-cost-management-a-practical-guide-5ci8)
+- [CSS Specificity Wars in Shopify Stores: 53 Audits with the data](https://dev.to/jthomas2/css-specificity-wars-in-shopify-stores-53-audits-with-the-data-19d8)
+- [When the Cleanup Code Becomes the Project](https://dev.to/awjudd/when-the-cleanup-code-becomes-the-project-4h1k)
 <!-- BLOG-POST-LIST:END -->
 
 
