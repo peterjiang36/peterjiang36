@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CogniPlan: A Local-First Task Planning System](https://dev.to/karan_singhgurjar_987e79/building-cogniplan-a-local-first-task-planning-system-2c02)
-- [Using Apache Iceberg with Python and MPP Query Engines](https://dev.to/alexmercedcoder/using-apache-iceberg-with-python-and-mpp-query-engines-1d0)
-- [How I Built AegisDesk: A Zero-Token Semantic IT Agent with &lt;5ms Latency](https://dev.to/sitanshukr08/how-i-built-aegisdesk-a-zero-token-semantic-it-agent-with-5ms-latency-3p6p)
-- [I built CodeArchy: an open-source that turns any codebase into a visual, explainable architectural experience, powered by Gemma 4.](https://dev.to/iyinusa/i-built-codearchy-an-open-source-that-turns-any-codebase-into-a-visual-explainable-architectural-cha)
+- [Should you use Gemma 4 for your Development? A Multiversal Analysis to Determine if Gemma 4 is Right for You!](https://dev.to/devengers/should-you-use-gemma-4-for-your-development-a-multiversal-analysis-to-determine-if-gemma-4-is-2iol)
+- [The Rising Trend of Creative Interview Questions in Tech](https://dev.to/dd8888/the-rising-trend-of-creative-interview-questions-in-tech-27d6)
+- [It Worked When I Closed the Laptop. I Swear.](https://dev.to/gamedevnotes/it-worked-when-i-closed-the-laptop-i-swear-537p)
+- [We Built an Agent That Flags Fake Internships #kryx](https://dev.to/ryxonix/we-built-an-agent-that-flags-fake-internships-kryx-cm)
 <!-- BLOG-POST-LIST:END -->
 
 
