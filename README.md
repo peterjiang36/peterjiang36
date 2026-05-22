@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Graph RAG vs Vector RAG: When to Use Each](https://dev.to/recep_ciftci/graph-rag-vs-vector-rag-when-to-use-each-3628)
-- [ما هو Agent2Agent &lpar;A2A&rpar;؟ البروتوكول المفتوح لاتصال وكلاء الذكاء الاصطناعي](https://dev.to/yusuf_khalidd/m-hw-agent2agent-a2a-lbrwtwkwl-lmftwh-ltsl-wkl-ldhk-lstny-5eip)
-- [Rust Concepts: dyn Trait, Custom Iterators, Deref/Drop &amp; Axum REST API &lpar;Part 5&rpar;](https://dev.to/mihir_mohapatra/rust-concepts-dyn-trait-custom-iterators-derefdrop-axum-rest-api-part-5-4fo5)
-- [Image Alt Text: WCAG Rules and Best Practices](https://dev.to/lawebe/image-alt-text-wcag-rules-and-best-practices-49l8)
+- [Oracle Linux 7 to 8 Upgrade Using Leapp: Architecture, Inhibitors, and Enterprise Troubleshooting](https://dev.to/bonthu_durgaprasad_60725/oracle-linux-7-to-8-upgrade-using-leapp-architecture-inhibitors-and-enterprise-troubleshooting-12e5)
+- [Responsive Web Design](https://dev.to/irvirty/responsive-web-design-4km0)
+- [How We Picked Between PayPal and Crypto for a $500K/Year Digital Product Launch](https://dev.to/global-commerce-strategy/how-we-picked-between-paypal-and-crypto-for-a-500kyear-digital-product-launch-5dbo)
+- [Post-Mortem: Why My Blog Cover Images Silently Failed to Restore from S3](https://dev.to/highcenburg/post-mortem-why-my-blog-cover-images-silently-failed-to-restore-from-s3-2mn4)
 <!-- BLOG-POST-LIST:END -->
 
 
