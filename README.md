@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Glyph v0.2: the release is the joinery](https://dev.to/earthbound_misfit/glyph-v02-the-release-is-the-joinery-28bj)
-- [The Subconscious Powered by Edge AI](https://dev.to/dih78/remoraai-the-subconscious-social-network-powered-by-edge-ai-oe9)
-- [GPU Utilization Is Becoming the New Cloud Waste Crisis](https://dev.to/ntctech/gpu-utilization-is-becoming-the-new-cloud-waste-crisis-4433)
-- [Cómo solucionar `docker run` con exit code 1 en Raspberry Pi](https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-5cap)
+- [Symfony 8 AWS Secrets Bundle](https://dev.to/nikolastojilj12/symfony-8-aws-secrets-bundle-2nop)
+- [What RepoSignal Surfaced in React — and Why Review Alone Doesn&#39;t Catch Everything](https://dev.to/mrcod77/what-reposignal-surfaced-in-react-and-why-review-alone-doesnt-catch-everything-1m6n)
+- [LeetCode Solution: 1752. Check if Array Is Sorted and Rotated](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-1752-check-if-array-is-sorted-and-rotated-996)
+- [Breaking the Matrix at 15: How I Built a Cyber-Aesthetic AI Assistant Core Powered by Gemma 4](https://dev.to/kashif_hussainshah_1555c/breaking-the-matrix-at-15-how-i-built-a-cyber-aesthetic-ai-assistant-core-powered-by-gemma-4-2k1g)
 <!-- BLOG-POST-LIST:END -->
 
 
