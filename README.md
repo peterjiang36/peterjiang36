@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Fed React&#39;s Entire Hooks Transition History to Gemma 4. Here&#39;s What It Found That We Missed.](https://dev.to/sujal_gupta_3dc0d9052e350/i-fed-reacts-entire-hooks-transition-history-to-gemma-4-heres-what-it-found-that-we-missed-3faf)
-- [Building a Private RAG System: Lessons from a Local-First AI Journal](https://dev.to/rahul_talreja_946a8621542/building-a-private-rag-system-lessons-from-a-local-first-ai-journal-2dol)
-- [CodePulse AI — Reviving an AI-Powered Repository Intelligence Platform](https://dev.to/codedbyasim/codepulse-ai-reviving-an-ai-powered-repository-intelligence-platform-2e43)
-- [Part 1: Taming Asynchronous JavaScript: How to Build a &quot;Mailbox&quot; Queue](https://dev.to/pckrishnadas88/part-1-taming-asynchronous-javascript-how-to-build-a-mailbox-queue-2jok)
+- [E2B vs E4B vs 31B Dense: The Practical Guide to Choosing the Right Gemma 4 Model](https://dev.to/pulkitgovrani/e2b-vs-e4b-vs-31b-dense-the-practical-guide-to-choosing-the-right-gemma-4-model-lhe)
+- [I built an AI app store screenshot generator because Figma made me cry — looking for brutal feedback](https://dev.to/rishbz/i-built-an-ai-app-store-screenshot-generator-because-figma-made-me-cry-looking-for-brutal-feedback-54np)
+- [Hello DEV Community — My Developer Journey Begins](https://dev.to/samia_afzal_04/hello-dev-community-my-developer-journey-begins-28hh)
+- [Adaptable apps on ChromeOS: a post-mortem](https://dev.to/tkuenneth/adaptable-apps-on-chromeos-a-post-mortem-2gl1)
 <!-- BLOG-POST-LIST:END -->
 
 
