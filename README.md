@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Python Traceback Objects](https://dev.to/mike-vincent/quarks-outlines-python-traceback-objects-3970)
-- [Ghost in the Stack &lpar;Part 1&rpar;: Why uninitialized variables remember old data](https://dev.to/sommi/ghost-in-the-stack-part-1-why-uninitialized-variables-remember-old-data-3kjb)
-- [I tested 4 AI agent-governance tools against an open spec - here&#39;s the matrix](https://dev.to/sunilprakash/i-tested-4-ai-agent-governance-tools-against-an-open-spec-heres-the-matrix-4l2a)
-- [zkML Inference Proof: What the Receipt Proves, and What the Model Still Does Not](https://dev.to/aicryptosystems/zkml-inference-proof-what-the-receipt-proves-and-what-the-model-still-does-not-55gc)
+- [Google shipped three Gemini &quot;Flash&quot; models. Picking the wrong one could 6 your AI bill](https://dev.to/chintanonweb/google-shipped-three-gemini-flash-models-picking-the-wrong-one-could-6x-your-ai-bill-48m9)
+- [Building an MCP server so Claude can query my SaaS analytics directly](https://dev.to/zenovay/building-an-mcp-server-so-claude-can-query-my-saas-analytics-directly-49cg)
+- [Google I/O 2026 and the Rise of the AI Ecosystem](https://dev.to/tanush_326k/google-io-2026-and-the-rise-of-the-ai-ecosystem-4jdf)
+- [How do you verify GitHub contributions without trusting self-reported skills?](https://dev.to/warranteng/how-do-you-verify-github-contributions-without-trusting-self-reported-skills-1g1n)
 <!-- BLOG-POST-LIST:END -->
 
 
