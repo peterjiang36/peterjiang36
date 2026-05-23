@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [E2B vs E4B vs 31B Dense: The Practical Guide to Choosing the Right Gemma 4 Model](https://dev.to/pulkitgovrani/e2b-vs-e4b-vs-31b-dense-the-practical-guide-to-choosing-the-right-gemma-4-model-lhe)
-- [I built an AI app store screenshot generator because Figma made me cry — looking for brutal feedback](https://dev.to/rishbz/i-built-an-ai-app-store-screenshot-generator-because-figma-made-me-cry-looking-for-brutal-feedback-54np)
-- [Hello DEV Community — My Developer Journey Begins](https://dev.to/samia_afzal_04/hello-dev-community-my-developer-journey-begins-28hh)
-- [Adaptable apps on ChromeOS: a post-mortem](https://dev.to/tkuenneth/adaptable-apps-on-chromeos-a-post-mortem-2gl1)
+- [Quark&#39;s Outlines: Python Traceback Objects](https://dev.to/mike-vincent/quarks-outlines-python-traceback-objects-3970)
+- [Ghost in the Stack &lpar;Part 1&rpar;: Why uninitialized variables remember old data](https://dev.to/sommi/ghost-in-the-stack-part-1-why-uninitialized-variables-remember-old-data-3kjb)
+- [I tested 4 AI agent-governance tools against an open spec - here&#39;s the matrix](https://dev.to/sunilprakash/i-tested-4-ai-agent-governance-tools-against-an-open-spec-heres-the-matrix-4l2a)
+- [zkML Inference Proof: What the Receipt Proves, and What the Model Still Does Not](https://dev.to/aicryptosystems/zkml-inference-proof-what-the-receipt-proves-and-what-the-model-still-does-not-55gc)
 <!-- BLOG-POST-LIST:END -->
 
 
