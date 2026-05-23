@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How does an AI agent pick from 686 skills in a second?](https://dev.to/klymentiev/how-does-an-ai-agent-pick-from-686-skills-in-a-second-57ne)
-- [MedReport Agent — AI-Powered Medical Report Interpreter](https://dev.to/codedbyasim/medreport-agent-ai-powered-medical-report-interpreter-1g5i)
-- [Writing code got cheap. Being responsible for it didn&#39;t. &lpar;What shipping an AI-generated gem taught me&rpar;](https://dev.to/sergii-khomenko/writing-code-got-cheap-being-responsible-for-it-didnt-what-shipping-an-ai-generated-gem-taught-1fci)
-- [I launched 5 products in one night for $1.55. The next morning I found 7 bugs. Open-sourcing the fix.](https://dev.to/guardlabs_team/i-launched-5-products-in-one-night-for-155-the-next-morning-i-found-7-bugs-open-sourcing-the-5flg)
+- [Stop Letting AI Guess Your Playwright Tests: Use Context7 MCP](https://dev.to/muhammadjon_sanaev/stop-letting-ai-guess-your-playwright-tests-use-context7-mcp-3k0i)
+- [End-to-End &lpar;E2E&rpar; testing pipeline](https://dev.to/kyl67899/end-to-end-e2e-testing-pipeline-dl8)
+- [The AI Coding Assistant Landscape in 2026: Cursor vs GitHub Copilot vs Claude Code vs JetBrains AI](https://dev.to/zny10289/the-ai-coding-assistant-landscape-in-2026-cursor-vs-github-copilot-vs-claude-code-vs-jetbrains-ai-4h59)
+- [Rust and the Reinvention of Operating Systems](https://dev.to/srijan-xi/rust-and-the-reinvention-of-operating-systems-28ef)
 <!-- BLOG-POST-LIST:END -->
 
 
