@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How `shieldcortex audit --deps` Catches the parikhpreyash4 Supply-Chain Attack](https://dev.to/mkdelta221/how-shieldcortex-audit-deps-catches-the-parikhpreyash4-supply-chain-attack-52a5)
-- [LocalFind Gemma — AI-Powered Semantic Search and Chat for Your Local Files](https://dev.to/malik_the_dev/localfind-gemma-ai-powered-semantic-search-and-chat-for-your-local-files-4fi9)
-- [AI-dy: On-Device Emergency First Aid with Gemma 4](https://dev.to/aaliyahjunaid/ai-dy-on-device-emergency-first-aid-with-gemma-4-2j5e)
-- [Datrix: Chat With Your Data Using Gemma 4 — Charts, ML Models, No Code](https://dev.to/nonso_dev_8db441822f32aaa/datrix-chat-with-your-data-using-gemma-4-charts-ml-models-no-code-2b08)
+- [How does an AI agent pick from 686 skills in a second?](https://dev.to/klymentiev/how-does-an-ai-agent-pick-from-686-skills-in-a-second-57ne)
+- [MedReport Agent — AI-Powered Medical Report Interpreter](https://dev.to/codedbyasim/medreport-agent-ai-powered-medical-report-interpreter-1g5i)
+- [Writing code got cheap. Being responsible for it didn&#39;t. &lpar;What shipping an AI-generated gem taught me&rpar;](https://dev.to/sergii-khomenko/writing-code-got-cheap-being-responsible-for-it-didnt-what-shipping-an-ai-generated-gem-taught-1fci)
+- [I launched 5 products in one night for $1.55. The next morning I found 7 bugs. Open-sourcing the fix.](https://dev.to/guardlabs_team/i-launched-5-products-in-one-night-for-155-the-next-morning-i-found-7-bugs-open-sourcing-the-5flg)
 <!-- BLOG-POST-LIST:END -->
 
 
