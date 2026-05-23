@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio Just Changed the Shape of App Development](https://dev.to/kanyingidickson-dev/google-ai-studio-just-changed-the-shape-of-app-development-144d)
-- [If you struggle to learn then this is for you.](https://dev.to/wootcot/if-you-struggle-to-learn-then-this-is-for-you-49d0)
-- [Best AI Agent Security &amp; Guardrails Tools in 2026: LLM Guard vs NeMo vs Guardrails AI](https://dev.to/agdex_ai/best-ai-agent-security-guardrails-tools-in-2026-llm-guard-vs-nemo-vs-guardrails-ai-5e5d)
-- [Building Dynamic RBAC in React 19: From Permission Strings to Component-Level Access Control](https://dev.to/uaslimcreate/building-dynamic-rbac-in-react-19-from-permission-strings-to-component-level-access-control-14j9)
+- [I Fed React&#39;s Entire Hooks Transition History to Gemma 4. Here&#39;s What It Found That We Missed.](https://dev.to/sujal_gupta_3dc0d9052e350/i-fed-reacts-entire-hooks-transition-history-to-gemma-4-heres-what-it-found-that-we-missed-3faf)
+- [Building a Private RAG System: Lessons from a Local-First AI Journal](https://dev.to/rahul_talreja_946a8621542/building-a-private-rag-system-lessons-from-a-local-first-ai-journal-2dol)
+- [CodePulse AI — Reviving an AI-Powered Repository Intelligence Platform](https://dev.to/codedbyasim/codepulse-ai-reviving-an-ai-powered-repository-intelligence-platform-2e43)
+- [Part 1: Taming Asynchronous JavaScript: How to Build a &quot;Mailbox&quot; Queue](https://dev.to/pckrishnadas88/part-1-taming-asynchronous-javascript-how-to-build-a-mailbox-queue-2jok)
 <!-- BLOG-POST-LIST:END -->
 
 
