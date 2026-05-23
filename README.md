@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Boot Auto-Configuration Source Code: Nail This Interview Question](https://dev.to/ym_z_a211847c2518bf442268/spring-boot-auto-configuration-source-code-nail-this-interview-question-1g36)
-- [The Ultimate Guide to Free AI API Keys: 6 Platforms You Need to Know](https://dev.to/yashkapure06/the-ultimate-guide-to-free-ai-api-keys-6-platforms-you-need-to-know-23mi)
-- [Why 91% of AI Agents Fail in Production &lpar;And What the 9% Do Differently&rpar;](https://dev.to/hari_sathwik/why-91-of-ai-agents-fail-in-production-and-what-the-9-do-differently-3c8j)
-- [TryHackMe | Battery | WALKTHROUGH](https://dev.to/kaaayii/tryhackme-battery-walkthrough-4d4d)
+- [Why Zed Is Replacing VS Code in My AI-Augmented Workflow](https://dev.to/numbpill3d/why-zed-is-replacing-vs-code-in-my-ai-augmented-workflow-2m9)
+- [Karpathy&#39;s LLM Wiki? No Code with Claude or Github Copilot!](https://dev.to/rosidotidev/karpathys-llm-wiki-no-code-with-claude-or-github-copilot-5fb0)
+- [Why Platform Governance and Transparency Matter for Developers and Freelancers](https://dev.to/mosbat/why-platform-governance-and-transparency-matter-for-developers-and-freelancers-39ap)
+- [Using an LLM to automate a task that used to take hours by hand](https://dev.to/yahya_saleh_d157cf3d7fe2e/using-an-llm-to-automate-a-task-that-used-to-take-hours-by-hand-16c2)
 <!-- BLOG-POST-LIST:END -->
 
 
