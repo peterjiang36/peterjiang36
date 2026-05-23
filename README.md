@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google shipped three Gemini &quot;Flash&quot; models. Picking the wrong one could 6 your AI bill](https://dev.to/chintanonweb/google-shipped-three-gemini-flash-models-picking-the-wrong-one-could-6x-your-ai-bill-48m9)
-- [Building an MCP server so Claude can query my SaaS analytics directly](https://dev.to/zenovay/building-an-mcp-server-so-claude-can-query-my-saas-analytics-directly-49cg)
-- [Google I/O 2026 and the Rise of the AI Ecosystem](https://dev.to/tanush_326k/google-io-2026-and-the-rise-of-the-ai-ecosystem-4jdf)
-- [How do you verify GitHub contributions without trusting self-reported skills?](https://dev.to/warranteng/how-do-you-verify-github-contributions-without-trusting-self-reported-skills-1g1n)
+- [Spring Boot Auto-Configuration Source Code: Nail This Interview Question](https://dev.to/ym_z_a211847c2518bf442268/spring-boot-auto-configuration-source-code-nail-this-interview-question-1g36)
+- [The Ultimate Guide to Free AI API Keys: 6 Platforms You Need to Know](https://dev.to/yashkapure06/the-ultimate-guide-to-free-ai-api-keys-6-platforms-you-need-to-know-23mi)
+- [Why 91% of AI Agents Fail in Production &lpar;And What the 9% Do Differently&rpar;](https://dev.to/hari_sathwik/why-91-of-ai-agents-fail-in-production-and-what-the-9-do-differently-3c8j)
+- [TryHackMe | Battery | WALKTHROUGH](https://dev.to/kaaayii/tryhackme-battery-walkthrough-4d4d)
 <!-- BLOG-POST-LIST:END -->
 
 
