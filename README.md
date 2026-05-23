@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Run 7 AI Models 24/7: Multi-Agent Architecture in Practice](https://dev.to/judy_miranttie/how-i-run-7-ai-models-247-multi-agent-architecture-in-practice-4k6l)
-- [I Revived a Broken MLOps Platform — Now It&#39;s Self-Service, Policy-Guarded, and Operationally Credible](https://dev.to/sodiqjimoh/i-revived-a-broken-mlops-platform-now-its-self-service-policy-guarded-and-operationally-55nj)
-- [Why DMX Infrastructure is Still Stuck in the 90s](https://dev.to/magnetix/why-dmx-infrastructure-is-still-stuck-in-the-90s-2me1)
-- [Agent Series &lpar;2&rpar;: ReAct — The Most Important Agent Reasoning Paradigm](https://dev.to/wonderlab/agent-series-2-react-the-most-important-agent-reasoning-paradigm-2b7k)
+- [WordPress 7.0 chegou: IA no Core, novo painel e o que muda para sua hospedagem](https://dev.to/letscloud/wordpress-70-chegou-ia-no-core-novo-painel-e-o-que-muda-para-sua-hospedagem-4fd3)
+- [Event Triggers on Garudust](https://dev.to/garudust/event-triggers-on-garudust-5h8b)
+- [WordPress 7.0 is here: AI in Core, a modern dashboard, and what it means for your hosting](https://dev.to/letscloud/wordpress-70-is-here-ai-in-core-a-modern-dashboard-and-what-it-means-for-your-hosting-k39)
+- [The Web Is About to Get a Second Door](https://dev.to/vektor_memory_43f51a32376/the-web-is-about-to-get-a-second-door-2g53)
 <!-- BLOG-POST-LIST:END -->
 
 
