@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m a Front End Web Developer Learning Machine Learning From Scratch](https://dev.to/nasirovelchin/im-a-front-end-web-developer-learning-machine-learning-from-scratch-33n6)
-- [Laravel Waiting Request](https://dev.to/aihimel/laravel-waiting-request-27o4)
-- [Why Google Can&#39;t See Your React Breadcrumbs &lpar;And the 4-Line Fix&rpar;](https://dev.to/mitudas/why-google-cant-see-your-react-breadcrumbs-and-the-4-line-fix-56l3)
-- [AI Travel Assistant Powered by Gemma 4; With Streaming, Image Input, and Visual Recommendation Cards](https://dev.to/developerontravel/ai-travel-assistant-powered-by-gemma-4-with-streaming-image-input-and-visual-recommendation-cards-5hk1)
+- [Visualizing Database Design: From Interactive Canvas to Drizzle, Prisma, and SQL in Real-time](https://dev.to/ishaansharmadev/visualizing-database-design-from-interactive-canvasto-drizzle-prisma-and-sql-in-real-time-2een)
+- [A tool to make your GitHub README impossible to ignore 🚀](https://dev.to/dhanushnehru/a-tool-to-make-your-github-readme-impossible-to-ignore-19ac)
+- [Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate](https://dev.to/aws-builders/zero-downtime-blue-green-and-ip-based-canary-deployments-on-ecs-fargate-4ea8)
+- [I reproduced a Claude Code RCE. The bug pattern is everywhere.](https://dev.to/piyush_gupta005/i-reproduced-a-claude-code-rce-the-bug-pattern-is-everywhere-4jo1)
 <!-- BLOG-POST-LIST:END -->
 
 
