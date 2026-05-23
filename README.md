@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What If AI Didn’t Need the Internet?](https://dev.to/hrishika_malviya_cec808f3/what-if-ai-didnt-need-the-internet-43jf)
-- [You&#39;re Renting Someone Else&#39;s Compute — And It&#39;s Costing You More Than You Think](https://dev.to/xu_xu_b2179aa8fc958d531d1/youre-renting-someone-elses-compute-and-its-costing-you-more-than-you-think-419m)
-- [CSS :has&lpar;&rpar; Selector: The Layout Trick I Wish I Knew 5 Years Ago](https://dev.to/richardlemon/css-has-selector-the-layout-trick-i-wish-i-knew-5-years-ago-4mbh)
-- [Five Clusters. Five Lessons. One Production System.](https://dev.to/crza5/five-clusters-five-lessons-one-production-system-162o)
+- [I’m a Front End Web Developer Learning Machine Learning From Scratch](https://dev.to/nasirovelchin/im-a-front-end-web-developer-learning-machine-learning-from-scratch-33n6)
+- [Laravel Waiting Request](https://dev.to/aihimel/laravel-waiting-request-27o4)
+- [Why Google Can&#39;t See Your React Breadcrumbs &lpar;And the 4-Line Fix&rpar;](https://dev.to/mitudas/why-google-cant-see-your-react-breadcrumbs-and-the-4-line-fix-56l3)
+- [AI Travel Assistant Powered by Gemma 4; With Streaming, Image Input, and Visual Recommendation Cards](https://dev.to/developerontravel/ai-travel-assistant-powered-by-gemma-4-with-streaming-image-input-and-visual-recommendation-cards-5hk1)
 <!-- BLOG-POST-LIST:END -->
 
 
