@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualizing Database Design: From Interactive Canvas to Drizzle, Prisma, and SQL in Real-time](https://dev.to/ishaansharmadev/visualizing-database-design-from-interactive-canvasto-drizzle-prisma-and-sql-in-real-time-2een)
-- [A tool to make your GitHub README impossible to ignore 🚀](https://dev.to/dhanushnehru/a-tool-to-make-your-github-readme-impossible-to-ignore-19ac)
-- [Zero-Downtime Blue-Green and IP-Based Canary Deployments on ECS Fargate](https://dev.to/aws-builders/zero-downtime-blue-green-and-ip-based-canary-deployments-on-ecs-fargate-4ea8)
-- [I reproduced a Claude Code RCE. The bug pattern is everywhere.](https://dev.to/piyush_gupta005/i-reproduced-a-claude-code-rce-the-bug-pattern-is-everywhere-4jo1)
+- [Google AI Studio Just Changed the Shape of App Development](https://dev.to/kanyingidickson-dev/google-ai-studio-just-changed-the-shape-of-app-development-144d)
+- [If you struggle to learn then this is for you.](https://dev.to/wootcot/if-you-struggle-to-learn-then-this-is-for-you-49d0)
+- [Best AI Agent Security &amp; Guardrails Tools in 2026: LLM Guard vs NeMo vs Guardrails AI](https://dev.to/agdex_ai/best-ai-agent-security-guardrails-tools-in-2026-llm-guard-vs-nemo-vs-guardrails-ai-5e5d)
+- [Building Dynamic RBAC in React 19: From Permission Strings to Component-Level Access Control](https://dev.to/uaslimcreate/building-dynamic-rbac-in-react-19-from-permission-strings-to-component-level-access-control-14j9)
 <!-- BLOG-POST-LIST:END -->
 
 
