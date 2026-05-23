@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony 8 AWS Secrets Bundle](https://dev.to/nikolastojilj12/symfony-8-aws-secrets-bundle-2nop)
-- [What RepoSignal Surfaced in React — and Why Review Alone Doesn&#39;t Catch Everything](https://dev.to/mrcod77/what-reposignal-surfaced-in-react-and-why-review-alone-doesnt-catch-everything-1m6n)
-- [LeetCode Solution: 1752. Check if Array Is Sorted and Rotated](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-1752-check-if-array-is-sorted-and-rotated-996)
-- [Breaking the Matrix at 15: How I Built a Cyber-Aesthetic AI Assistant Core Powered by Gemma 4](https://dev.to/kashif_hussainshah_1555c/breaking-the-matrix-at-15-how-i-built-a-cyber-aesthetic-ai-assistant-core-powered-by-gemma-4-2k1g)
+- [How `shieldcortex audit --deps` Catches the parikhpreyash4 Supply-Chain Attack](https://dev.to/mkdelta221/how-shieldcortex-audit-deps-catches-the-parikhpreyash4-supply-chain-attack-52a5)
+- [LocalFind Gemma — AI-Powered Semantic Search and Chat for Your Local Files](https://dev.to/malik_the_dev/localfind-gemma-ai-powered-semantic-search-and-chat-for-your-local-files-4fi9)
+- [AI-dy: On-Device Emergency First Aid with Gemma 4](https://dev.to/aaliyahjunaid/ai-dy-on-device-emergency-first-aid-with-gemma-4-2j5e)
+- [Datrix: Chat With Your Data Using Gemma 4 — Charts, ML Models, No Code](https://dev.to/nonso_dev_8db441822f32aaa/datrix-chat-with-your-data-using-gemma-4-charts-ml-models-no-code-2b08)
 <!-- BLOG-POST-LIST:END -->
 
 
