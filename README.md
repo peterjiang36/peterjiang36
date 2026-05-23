@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress 7.0 chegou: IA no Core, novo painel e o que muda para sua hospedagem](https://dev.to/letscloud/wordpress-70-chegou-ia-no-core-novo-painel-e-o-que-muda-para-sua-hospedagem-4fd3)
-- [Event Triggers on Garudust](https://dev.to/garudust/event-triggers-on-garudust-5h8b)
-- [WordPress 7.0 is here: AI in Core, a modern dashboard, and what it means for your hosting](https://dev.to/letscloud/wordpress-70-is-here-ai-in-core-a-modern-dashboard-and-what-it-means-for-your-hosting-k39)
-- [The Web Is About to Get a Second Door](https://dev.to/vektor_memory_43f51a32376/the-web-is-about-to-get-a-second-door-2g53)
+- [What If AI Didn’t Need the Internet?](https://dev.to/hrishika_malviya_cec808f3/what-if-ai-didnt-need-the-internet-43jf)
+- [You&#39;re Renting Someone Else&#39;s Compute — And It&#39;s Costing You More Than You Think](https://dev.to/xu_xu_b2179aa8fc958d531d1/youre-renting-someone-elses-compute-and-its-costing-you-more-than-you-think-419m)
+- [CSS :has&lpar;&rpar; Selector: The Layout Trick I Wish I Knew 5 Years Ago](https://dev.to/richardlemon/css-has-selector-the-layout-trick-i-wish-i-knew-5-years-ago-4mbh)
+- [Five Clusters. Five Lessons. One Production System.](https://dev.to/crza5/five-clusters-five-lessons-one-production-system-162o)
 <!-- BLOG-POST-LIST:END -->
 
 
