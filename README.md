@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free AI-powered Git CLI that writes your commit messages for you](https://dev.to/david_chinwenmeri_6a0a73f/i-built-a-free-ai-powered-git-cli-that-writes-your-commit-messages-for-you-cca)
-- [OpenLiDARViewer: A Browser-Based LiDAR and Point-Cloud Viewer](https://dev.to/aurtechmx/building-openlidarviewer-a-browser-based-lidar-and-point-cloud-viewer-3dcl)
-- [Why most freelancers undercharge &lpar;and the maths behind fixing it&rpar;](https://dev.to/promptspt/why-most-freelancers-undercharge-and-the-maths-behind-fixing-it-4i60)
-- [We built a mahjong dangerous-tile predictor calibrated on 4.97M real hands](https://dev.to/niixolabs/we-built-a-mahjong-dangerous-tile-predictor-calibrated-on-497m-real-hands-4hm4)
+- [How I Run 7 AI Models 24/7: Multi-Agent Architecture in Practice](https://dev.to/judy_miranttie/how-i-run-7-ai-models-247-multi-agent-architecture-in-practice-4k6l)
+- [I Revived a Broken MLOps Platform — Now It&#39;s Self-Service, Policy-Guarded, and Operationally Credible](https://dev.to/sodiqjimoh/i-revived-a-broken-mlops-platform-now-its-self-service-policy-guarded-and-operationally-55nj)
+- [Why DMX Infrastructure is Still Stuck in the 90s](https://dev.to/magnetix/why-dmx-infrastructure-is-still-stuck-in-the-90s-2me1)
+- [Agent Series &lpar;2&rpar;: ReAct — The Most Important Agent Reasoning Paradigm](https://dev.to/wonderlab/agent-series-2-react-the-most-important-agent-reasoning-paradigm-2b7k)
 <!-- BLOG-POST-LIST:END -->
 
 
