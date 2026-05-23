@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Built TestSmith: The Test Coverage Problem Nobody Talks About](https://dev.to/orieken/why-we-built-testsmith-the-test-coverage-problem-nobody-talks-about-2mjk)
-- [Building a local-first AI tutor for my daughter &lpar;and 10–14 year-olds in Austrian schools&rpar; with Gemma 4](https://dev.to/georgpiwonka/building-a-local-first-ai-tutor-for-my-daughter-and-10-14-year-olds-in-austrian-schools-with-j17)
-- [EC2 SSH Not Connecting? Here Are the 5 Things That Were Wrong &lpar;And How I Fixed Them&rpar;](https://dev.to/pwnjoshi/ec2-ssh-not-connecting-here-are-the-5-things-that-were-wrong-and-how-i-fixed-them-4ccp)
-- [Best AI Tools for HVAC Contractors 2026](https://dev.to/nevermiss/best-ai-tools-for-hvac-contractors-2026-2pbm)
+- [Glyph v0.2: the release is the joinery](https://dev.to/earthbound_misfit/glyph-v02-the-release-is-the-joinery-28bj)
+- [The Subconscious Powered by Edge AI](https://dev.to/dih78/remoraai-the-subconscious-social-network-powered-by-edge-ai-oe9)
+- [GPU Utilization Is Becoming the New Cloud Waste Crisis](https://dev.to/ntctech/gpu-utilization-is-becoming-the-new-cloud-waste-crisis-4433)
+- [Cómo solucionar `docker run` con exit code 1 en Raspberry Pi](https://dev.to/erickeduardoramos03/como-solucionar-docker-run-con-exit-code-1-en-raspberry-pi-5cap)
 <!-- BLOG-POST-LIST:END -->
 
 
