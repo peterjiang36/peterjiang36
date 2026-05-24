@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent vs LangChain vs CrewAI: When to Reach for Each](https://dev.to/pulkitgovrani/hermes-agent-vs-langchain-vs-crewai-when-to-reach-for-each-3ea5)
-- [SparshAI: I Built an Offline AI Tutor for Students Using Gemma 4 — Here&#39;s What Happened](https://dev.to/_prshant01/sparshai-i-built-an-offline-ai-tutor-for-students-using-gemma-4-heres-what-happened-glk)
-- [Building NeuroSense AI: A Human-Centered Stress Insight Assistant Powered by Gemma](https://dev.to/ekram_zafar_f31942cd01173/building-neurosense-ai-a-human-centered-stress-insight-assistant-powered-by-gemma-3aag)
-- [Why I Built a Privacy-First Dev Toolkit](https://dev.to/priyanka_patel_a0f967ebf5/why-i-built-a-privacy-first-dev-toolkit-3jke)
+- [Bootstrapping with AI: Why Gemma 4 is the Micro-SaaS Founder’s Best Friend](https://dev.to/sandman_sh/bootstrapping-with-ai-why-gemma-4-is-the-micro-saas-founders-best-friend-40og)
+- [How Does an AI Agent Actually Buy Something? Google Just Published the Spec.](https://dev.to/lewisawe/how-does-an-ai-agent-actually-buy-something-google-just-published-the-spec-4pb0)
+- [Google I/O 2026 Is One Uncanny F.R.I.E.N.D.S Group Upgrade](https://dev.to/froziepro/google-io-2026-is-one-uncanny-friends-group-upgrade-4cbo)
+- [The &quot;MTTR Is All You Need&quot; Trap](https://dev.to/amar_gupta_53ec13017b6ef1/the-mttr-is-all-you-need-trap-1k2d)
 <!-- BLOG-POST-LIST:END -->
 
 
