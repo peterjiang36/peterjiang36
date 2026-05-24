@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sovereign Entity Educational Report](https://dev.to/dustinn_stroud_fc0916807d/sovereign-entity-educational-report-367d)
-- [How I Built a Personalized Learning Path Generator Using daily.dev + GPT-4o](https://dev.to/barbareshet/how-i-built-a-personalized-learning-path-generator-using-dailydev-gpt-4o-3g5a)
-- [From Cloud Dependence to Device Intelligence: How Gemma 4 is Reshaping Local AI](https://dev.to/akhilesh_warik_8032f0fd9d/from-cloud-dependence-to-device-intelligence-how-gemma-4-is-reshaping-local-ai-5glb)
-- [CLAUDE.md for Express.js: 13 Rules That Stop AI from Breaking Your Middleware Chain](https://dev.to/olivia_craft/claudemd-for-expressjs-13-rules-that-stop-ai-from-breaking-your-middleware-chain-3p5o)
+- [Testing OTP email flows shouldn&#39;t be flaky — meet AssertKit](https://dev.to/aiscenblue/testing-otp-email-flows-shouldnt-be-flaky-meet-assertkit-1kcn)
+- [Firebase AI Logic Is on the Client. Here Are the 4 Security Layers That Keep It Safe.](https://dev.to/nimra_abid_8180c39fb998b6/firebase-ai-logic-is-on-the-client-here-are-the-4-security-layers-that-keep-it-safe-b5n)
+- [The php-fpm Tuning Cheat Sheet: 5 Settings That Decide Your p99](https://dev.to/gabrielanhaia/the-php-fpm-tuning-cheat-sheet-5-settings-that-decide-your-p99-5gp0)
+- [Why I Wrote 475 Tests for a Desktop Accounting App](https://dev.to/rahulgehlot/why-i-wrote-475-tests-for-a-desktop-accounting-app-4laj)
 <!-- BLOG-POST-LIST:END -->
 
 
