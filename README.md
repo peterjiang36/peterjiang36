@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [scrcpy Integration in a Tauri App — Android Screen Mirroring on Mac](https://dev.to/hiyoyok/scrcpy-integration-in-a-tauri-app-android-screen-mirroring-on-mac-27k3)
-- [SimGemma: Democratizing STEM Education with Offline-First AI Simulations](https://dev.to/damodharanj/simgemma-democratizing-stem-education-with-offline-first-ai-simulations-4409)
-- [Diffusion Language Models Are Here: Deep Dive into NVIDIA&#39;s Nemotron-Labs DLM Architecture](https://dev.to/monuminu/diffusion-language-models-are-here-deep-dive-into-nvidias-nemotron-labs-dlm-architecture-2ke2)
-- [[Boost]](https://dev.to/aretasndi/-13e6)
+- [Sovereign Entity Educational Report](https://dev.to/dustinn_stroud_fc0916807d/sovereign-entity-educational-report-367d)
+- [How I Built a Personalized Learning Path Generator Using daily.dev + GPT-4o](https://dev.to/barbareshet/how-i-built-a-personalized-learning-path-generator-using-dailydev-gpt-4o-3g5a)
+- [From Cloud Dependence to Device Intelligence: How Gemma 4 is Reshaping Local AI](https://dev.to/akhilesh_warik_8032f0fd9d/from-cloud-dependence-to-device-intelligence-how-gemma-4-is-reshaping-local-ai-5glb)
+- [CLAUDE.md for Express.js: 13 Rules That Stop AI from Breaking Your Middleware Chain](https://dev.to/olivia_craft/claudemd-for-expressjs-13-rules-that-stop-ai-from-breaking-your-middleware-chain-3p5o)
 <!-- BLOG-POST-LIST:END -->
 
 
