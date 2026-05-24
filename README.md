@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Caching Layers in 2026: CDN, App, DB, Query: What Goes Where](https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m)
-- [Your Inbox Knows Too Much: Parsli for the Privacy Paranoid](https://dev.to/olgabraginskaya/your-inbox-knows-too-much-parsli-for-the-privacy-paranoid-7ah)
-- [I Ran Every Gemma 4 Model on My Home Lab. E4B Crushes E2B. Here&#39;s the Data.](https://dev.to/paper_scratcher_bafb0086c/i-ran-every-gemma-4-model-on-my-home-lab-e4b-crushes-e2b-heres-the-data-18gi)
-- [How Microsoft Azure Ensures Reliability, Scalability, and Business Continuity](https://dev.to/adenugaadeyemi/how-microsoft-azure-ensures-reliability-scalability-and-business-continuity-1eo7)
+- [Tabula vs Camelot vs pdfplumber in 2026: Which Python Library Actually Wins?](https://dev.to/martin_pdfexcel/tabula-vs-camelot-vs-pdfplumber-in-2026-which-python-library-actually-wins-22kn)
+- [Experienced devs are slower with AI and they don&#39;t even know it](https://dev.to/adioof/experienced-devs-are-slower-with-ai-and-they-dont-even-know-it-8g0)
+- [React.lazy + chunk errors: how to recover users stuck after a deploy](https://dev.to/bairescodeai/reactlazy-chunk-errors-how-to-recover-users-stuck-after-a-deploy-2o38)
+- [Building a No-KYC Poker Bot: What I Learned Automating Crypto Tables](https://dev.to/strazi_weekey_9d6671e9aae/building-a-no-kyc-poker-bot-what-i-learned-automating-crypto-tables-4jn4)
 <!-- BLOG-POST-LIST:END -->
 
 
