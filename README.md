@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI assistant is blind to your data. Here&#39;s how to fix that.](https://dev.to/pauloancheta/your-ai-assistant-is-blind-to-your-data-heres-how-to-fix-that-4l5a)
-- [I tried to build a SaaS. I&#39;m shipping tiny libraries instead.](https://dev.to/nuan_xiang_8e56577bde2fad/i-tried-to-build-a-saas-im-shipping-tiny-libraries-instead-1n05)
-- [One Open Source Project per Day #74: ai-engineering-from-scratch - Build AI Full-stack Skills from Ground Up](https://dev.to/wonderlab/one-open-source-project-per-day-73-ai-engineering-from-scratch-build-ai-full-stack-skills-from-355h)
-- [Designing a Reliable Notification System for 1M+ Users &lpar;Push, SMS, Email&rpar;](https://dev.to/ejiro/designing-a-reliable-notification-system-for-1m-users-push-sms-email-2i39)
+- [Introduction to Generative AI](https://dev.to/indumathi__r/introduction-to-generative-ai-6in)
+- [no-cycle finds 0 cycles in next.js &lpar;and other lies caches tell you&rpar;](https://dev.to/ofri-peretz/no-cycle-finds-0-cycles-in-nextjs-and-other-lies-caches-tell-you-3ld8)
+- [Hermes Agent vs Openclaw](https://dev.to/wanjohichristopher/hermes-vs-openclaw-2j4d)
+- [Your Checkout Is Probably Leaking Revenue. The Problem Is You Cannot See Where.](https://dev.to/xiden001/your-checkout-is-probably-leaking-revenue-the-problem-is-you-cannot-see-where-26kh)
 <!-- BLOG-POST-LIST:END -->
 
 
