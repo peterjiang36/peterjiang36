@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dashboard Said the Migration Succeeded](https://dev.to/ntctech/the-dashboard-said-the-migration-succeeded-1896)
-- [Android Views Is Now in Maintenance Mode — Here&#39;s What That Actually Means for Android Devs](https://dev.to/pulkitgovrani/android-views-is-now-in-maintenance-mode-heres-what-that-actually-means-for-android-devs-1pmd)
-- [AI Intelligence vs. Worker Intelligence](https://dev.to/gengyue/ai-intelligence-vs-worker-intelligence-489n)
-- [Jules: Google&#39;s Async AI Coding Agent Actually Changes How I Think About Code Reviews](https://dev.to/pulkitgovrani/jules-googles-async-ai-coding-agent-actually-changes-how-i-think-about-code-reviews-5288)
+- [Building a Real-Time Kafka + Cassandra Pipeline](https://dev.to/geraldm/building-a-real-time-kafka-cassandra-pipeline-moe)
+- [A Beginners guide to Real-time Data Streaming with Apache Kafka](https://dev.to/geraldm/a-beginners-guide-to-real-time-data-streaming-with-apache-kafka-4iaf)
+- [Getting Started with Gemini API Managed Agents — The Quickest Path from Prompt to Deployed Agent](https://dev.to/pulkitgovrani/getting-started-with-gemini-api-managed-agents-the-quickest-path-from-prompt-to-deployed-agent-120h)
+- [🚀 Built a full stack Miro clone with real-time collaboration, infinite canvas, sticky notes, and modern SaaS UI using Next.js, React, TypeScript, Convex, Liveblocks, Clerk, and Tailwind CSS.
+
+Would love feedback from the dev community 🙌](https://dev.to/prem_gaikwad_316d716c3/built-this-project-to-challenge-myself-with-real-time-collaboration-infinite-canvas-rendering-3c7i)
 <!-- BLOG-POST-LIST:END -->
 
 
