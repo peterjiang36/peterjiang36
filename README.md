@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚔️ I Ran the Same Task Through Hermes Agent, LangGraph, and AutoGen — Here&#39;s What Actually Happened](https://dev.to/mamoor_ahmad/i-ran-the-same-task-through-hermes-agent-langgraph-and-autogen-heres-what-actually-happened-d6j)
-- [The Hidden Side of AI Nobody Talks About...](https://dev.to/pandagod001/the-hidden-side-of-ai-nobody-talks-about-45el)
-- [NonSemantic Tags in HTML](https://dev.to/raja_b_0c9d242e2c26cf063b/nonsemantic-tags-in-html-3kae)
-- [How to Build a Persistent AI Agent with Hermes in 15 Minutes](https://dev.to/pulkitgovrani/how-to-build-a-persistent-ai-agent-with-hermes-in-15-minutes-49cl)
+- [Caching Layers in 2026: CDN, App, DB, Query: What Goes Where](https://dev.to/gabrielanhaia/caching-layers-in-2026-cdn-app-db-query-what-goes-where-4p4m)
+- [Your Inbox Knows Too Much: Parsli for the Privacy Paranoid](https://dev.to/olgabraginskaya/your-inbox-knows-too-much-parsli-for-the-privacy-paranoid-7ah)
+- [I Ran Every Gemma 4 Model on My Home Lab. E4B Crushes E2B. Here&#39;s the Data.](https://dev.to/paper_scratcher_bafb0086c/i-ran-every-gemma-4-model-on-my-home-lab-e4b-crushes-e2b-heres-the-data-18gi)
+- [How Microsoft Azure Ensures Reliability, Scalability, and Business Continuity](https://dev.to/adenugaadeyemi/how-microsoft-azure-ensures-reliability-scalability-and-business-continuity-1eo7)
 <!-- BLOG-POST-LIST:END -->
 
 
