@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Tired of Forgetting. So I Built PwnLog.](https://dev.to/toklas495/i-got-tired-of-forgetting-so-i-built-pwnlog-ggp)
-- [Building Production-Ready Semantic Search with Python and Snowflake Cortex](https://dev.to/artemooon/building-production-ready-semantic-search-with-python-and-snowflake-cortex-42a7)
-- [What If a Supplier Could Prove They Qualify For a Deal Without Showing You Their Cards?](https://dev.to/nioomeee/what-if-a-supplier-could-prove-they-qualify-for-a-deal-without-showing-you-their-cards-40kj)
-- [Axomind : planning, encrypted messaging and mind maps. Self-hosted.](https://dev.to/seb_c1a097a/i-built-a-collaborative-platform-alone-it-runs-on-a-100eu-pc-2aai)
+- [The Dashboard Said the Migration Succeeded](https://dev.to/ntctech/the-dashboard-said-the-migration-succeeded-1896)
+- [Android Views Is Now in Maintenance Mode — Here&#39;s What That Actually Means for Android Devs](https://dev.to/pulkitgovrani/android-views-is-now-in-maintenance-mode-heres-what-that-actually-means-for-android-devs-1pmd)
+- [AI Intelligence vs. Worker Intelligence](https://dev.to/gengyue/ai-intelligence-vs-worker-intelligence-489n)
+- [Jules: Google&#39;s Async AI Coding Agent Actually Changes How I Think About Code Reviews](https://dev.to/pulkitgovrani/jules-googles-async-ai-coding-agent-actually-changes-how-i-think-about-code-reviews-5288)
 <!-- BLOG-POST-LIST:END -->
 
 
