@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Smart Ways to Manage Retries in Side Projects](https://dev.to/merbayerp/4-smart-ways-to-manage-retries-in-side-projects-3ime)
-- [Securing Web APIs: A Practical Guide to Authentication &amp; Authorization Methods](https://dev.to/shoumik_chakravarty/securing-web-apis-a-practical-guide-to-authentication-authorization-methods-2had)
-- [Google I/O 2026: AI Built an OS in 12 Hours. I Spent Mine Sorting Screenshots. 🤦](https://dev.to/aabhassao/google-io-2026-ai-built-an-os-in-12-hours-i-spent-mine-sorting-screenshots-3hgf)
-- [Half a Day, Not a Week: One Nix Flake for Three Machines](https://dev.to/dominikbullo/half-a-day-not-a-week-one-nix-flake-for-three-machines-515k)
+- [I built GemmaPod - A truly composable and portable AI agent solution powered by your local LLM](https://dev.to/apprider/i-built-gemmapod-a-truly-composable-and-portable-ai-agent-solution-powered-by-your-local-llm-4430)
+- [Gemma 4 E4B caught three planted fabrications in 50 seconds — on a laptop, no cloud](https://dev.to/arthurpro/gemma-4-e4b-caught-three-planted-fabrications-in-50-seconds-on-a-laptop-no-cloud-1ehh)
+- [How to build an AI-powered content moderation pipeline for user comments](https://dev.to/ayinedjimi-consultants/how-to-build-an-ai-powered-content-moderation-pipeline-for-user-comments-hoa)
+- [Running Gemma 4 on a Modest Machine: Unsloth vs LM Studio vs llama.cpp vs Ollama](https://dev.to/skomfi/running-gemma-4-on-a-modest-machine-unsloth-vs-lm-studio-vs-llamacpp-vs-ollama-11cp)
 <!-- BLOG-POST-LIST:END -->
 
 
