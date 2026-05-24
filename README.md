@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Tip: Benchmarking Multimodal APIs in Under 10 Minutes](https://dev.to/rileykim/quick-tip-benchmarking-multimodal-apis-in-under-10-minutes-25o0)
-- [The Developer&#39;s Guide to Picking the Right AI Code Model in 2026 &lpar;I Spent $500 So You Don’t Have To&rpar;](https://dev.to/eagerspark/the-developers-guide-to-picking-the-right-ai-code-model-in-2026-i-spent-500-so-you-dont-have-to-1da3)
-- [DeepSeek vs Qwen vs Kimi vs GLM: Which AI API Actually Wins in 2026? &lpar;A Cost-Optimizer’s Verdict&rpar;](https://dev.to/truelane/deepseek-vs-qwen-vs-kimi-vs-glm-which-ai-api-actually-wins-in-2026-a-cost-optimizers-verdict-4235)
-- [How do you handle bugs in apps built with AI builders?](https://dev.to/alazo/how-do-you-handle-bugs-in-apps-built-with-ai-builders-3502)
+- [Your AI assistant is blind to your data. Here&#39;s how to fix that.](https://dev.to/pauloancheta/your-ai-assistant-is-blind-to-your-data-heres-how-to-fix-that-4l5a)
+- [I tried to build a SaaS. I&#39;m shipping tiny libraries instead.](https://dev.to/nuan_xiang_8e56577bde2fad/i-tried-to-build-a-saas-im-shipping-tiny-libraries-instead-1n05)
+- [One Open Source Project per Day #74: ai-engineering-from-scratch - Build AI Full-stack Skills from Ground Up](https://dev.to/wonderlab/one-open-source-project-per-day-73-ai-engineering-from-scratch-build-ai-full-stack-skills-from-355h)
+- [Designing a Reliable Notification System for 1M+ Users &lpar;Push, SMS, Email&rpar;](https://dev.to/ejiro/designing-a-reliable-notification-system-for-1m-users-push-sms-email-2i39)
 <!-- BLOG-POST-LIST:END -->
 
 
