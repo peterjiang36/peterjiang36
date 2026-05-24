@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Hermes Agent to Tell Me Which Hackathons to Enter. It Told Me to Enter This One.](https://dev.to/earlgreyhot1701d/i-built-a-hermes-agent-to-tell-me-which-hackathons-to-enter-it-told-me-to-enter-this-one-jh2)
-- [The Five Hooks That Change How You Ship With Claude Code](https://dev.to/michaeltuszynski/the-five-hooks-that-change-how-you-ship-with-claude-code-m2o)
-- [I built a self-hosted CI/CD platform with persistent queue, encrypted secrets, and rollback UI — here&#39;s what I learned](https://dev.to/sabrydawood_79/i-built-a-self-hosted-cicd-platform-with-persistent-queue-encrypted-secrets-and-rollback-ui--2jph)
-- [Antigravity 2.0 and the $1,000 OS: Why &quot;Agent-First&quot; Feels Like the Direction I&#39;ve Been Building Toward Anyway](https://dev.to/skomfi/antigravity-20-and-the-1000-os-why-agent-first-feels-like-the-direction-ive-been-building-1d2i)
+- [4 Smart Ways to Manage Retries in Side Projects](https://dev.to/merbayerp/4-smart-ways-to-manage-retries-in-side-projects-3ime)
+- [Securing Web APIs: A Practical Guide to Authentication &amp; Authorization Methods](https://dev.to/shoumik_chakravarty/securing-web-apis-a-practical-guide-to-authentication-authorization-methods-2had)
+- [Google I/O 2026: AI Built an OS in 12 Hours. I Spent Mine Sorting Screenshots. 🤦](https://dev.to/aabhassao/google-io-2026-ai-built-an-os-in-12-hours-i-spent-mine-sorting-screenshots-3hgf)
+- [Half a Day, Not a Week: One Nix Flake for Three Machines](https://dev.to/dominikbullo/half-a-day-not-a-week-one-nix-flake-for-three-machines-515k)
 <!-- BLOG-POST-LIST:END -->
 
 
