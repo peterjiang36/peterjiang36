@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bootstrapping with AI: Why Gemma 4 is the Micro-SaaS Founder’s Best Friend](https://dev.to/sandman_sh/bootstrapping-with-ai-why-gemma-4-is-the-micro-saas-founders-best-friend-40og)
-- [How Does an AI Agent Actually Buy Something? Google Just Published the Spec.](https://dev.to/lewisawe/how-does-an-ai-agent-actually-buy-something-google-just-published-the-spec-4pb0)
-- [Google I/O 2026 Is One Uncanny F.R.I.E.N.D.S Group Upgrade](https://dev.to/froziepro/google-io-2026-is-one-uncanny-friends-group-upgrade-4cbo)
-- [The &quot;MTTR Is All You Need&quot; Trap](https://dev.to/amar_gupta_53ec13017b6ef1/the-mttr-is-all-you-need-trap-1k2d)
+- [I Built a Hermes Agent to Tell Me Which Hackathons to Enter. It Told Me to Enter This One.](https://dev.to/earlgreyhot1701d/i-built-a-hermes-agent-to-tell-me-which-hackathons-to-enter-it-told-me-to-enter-this-one-jh2)
+- [The Five Hooks That Change How You Ship With Claude Code](https://dev.to/michaeltuszynski/the-five-hooks-that-change-how-you-ship-with-claude-code-m2o)
+- [I built a self-hosted CI/CD platform with persistent queue, encrypted secrets, and rollback UI — here&#39;s what I learned](https://dev.to/sabrydawood_79/i-built-a-self-hosted-cicd-platform-with-persistent-queue-encrypted-secrets-and-rollback-ui--2jph)
+- [Antigravity 2.0 and the $1,000 OS: Why &quot;Agent-First&quot; Feels Like the Direction I&#39;ve Been Building Toward Anyway](https://dev.to/skomfi/antigravity-20-and-the-1000-os-why-agent-first-feels-like-the-direction-ive-been-building-1d2i)
 <!-- BLOG-POST-LIST:END -->
 
 
