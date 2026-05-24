@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing OTP email flows shouldn&#39;t be flaky — meet AssertKit](https://dev.to/aiscenblue/testing-otp-email-flows-shouldnt-be-flaky-meet-assertkit-1kcn)
-- [Firebase AI Logic Is on the Client. Here Are the 4 Security Layers That Keep It Safe.](https://dev.to/nimra_abid_8180c39fb998b6/firebase-ai-logic-is-on-the-client-here-are-the-4-security-layers-that-keep-it-safe-b5n)
-- [The php-fpm Tuning Cheat Sheet: 5 Settings That Decide Your p99](https://dev.to/gabrielanhaia/the-php-fpm-tuning-cheat-sheet-5-settings-that-decide-your-p99-5gp0)
-- [Why I Wrote 475 Tests for a Desktop Accounting App](https://dev.to/rahulgehlot/why-i-wrote-475-tests-for-a-desktop-accounting-app-4laj)
+- [Audience Builder vs Data Filter: Which Segmentation Tool When?](https://dev.to/sapotacorp/audience-builder-vs-data-filter-which-segmentation-tool-when-66k)
+- [IoT data into D365 Supply Chain: the Azure-native pattern](https://dev.to/sapotacorp/iot-data-into-d365-supply-chain-the-azure-native-pattern-593o)
+- [PostgreSQL VACUUM Tuning: A Technical Deep Dive Into Autovacuum Configuration](https://dev.to/pranay_raavi/postgresql-vacuum-tuning-a-technical-deep-dive-into-autovacuum-configuration-3gf0)
+- [Eval Set Drift: How to Know When Your Golden Set Went Stale](https://dev.to/gabrielanhaia/eval-set-drift-how-to-know-when-your-golden-set-went-stale-p8m)
 <!-- BLOG-POST-LIST:END -->
 
 
