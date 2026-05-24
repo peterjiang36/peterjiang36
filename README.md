@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wanted To Build AI. Instead I Met Linear Algebra](https://dev.to/dev-rv/i-wanted-to-build-ai-instead-i-met-linear-algebra-59a)
-- [I Turned npm outdated into a CI Gate — Here&#39;s How](https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o)
-- [Reading Log #8 — Aoashi Finite and Infinite Games Imagined Communities](https://dev.to/machuz/reading-log-8-aoashi-x-finite-and-infinite-games-x-imagined-communities-4jp6)
-- [Software Might Be Becoming Agent-Aware: What if software starts coordinating itself?](https://dev.to/aaastha_singhhh_ad32cd0b3/software-might-be-becoming-agent-aware-what-if-software-starts-coordinating-itself-3dm1)
+- [Hermes Agent vs LangChain vs CrewAI: When to Reach for Each](https://dev.to/pulkitgovrani/hermes-agent-vs-langchain-vs-crewai-when-to-reach-for-each-3ea5)
+- [SparshAI: I Built an Offline AI Tutor for Students Using Gemma 4 — Here&#39;s What Happened](https://dev.to/_prshant01/sparshai-i-built-an-offline-ai-tutor-for-students-using-gemma-4-heres-what-happened-glk)
+- [Building NeuroSense AI: A Human-Centered Stress Insight Assistant Powered by Gemma](https://dev.to/ekram_zafar_f31942cd01173/building-neurosense-ai-a-human-centered-stress-insight-assistant-powered-by-gemma-3aag)
+- [Why I Built a Privacy-First Dev Toolkit](https://dev.to/priyanka_patel_a0f967ebf5/why-i-built-a-privacy-first-dev-toolkit-3jke)
 <!-- BLOG-POST-LIST:END -->
 
 
