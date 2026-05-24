@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Audience Builder vs Data Filter: Which Segmentation Tool When?](https://dev.to/sapotacorp/audience-builder-vs-data-filter-which-segmentation-tool-when-66k)
-- [IoT data into D365 Supply Chain: the Azure-native pattern](https://dev.to/sapotacorp/iot-data-into-d365-supply-chain-the-azure-native-pattern-593o)
-- [PostgreSQL VACUUM Tuning: A Technical Deep Dive Into Autovacuum Configuration](https://dev.to/pranay_raavi/postgresql-vacuum-tuning-a-technical-deep-dive-into-autovacuum-configuration-3gf0)
-- [Eval Set Drift: How to Know When Your Golden Set Went Stale](https://dev.to/gabrielanhaia/eval-set-drift-how-to-know-when-your-golden-set-went-stale-p8m)
+- [The Runtime Was Dead Long Before the Dashboard Noticed](https://dev.to/shiv669/the-runtime-was-dead-long-before-the-dashboard-noticed-854)
+- [hi 👋 i&#39;m Su - girl in tech &amp; art, somewhere in SEA](https://dev.to/suda8866/hi-im-su-girl-in-tech-art-somewhere-in-sea-4pbm)
+- [Historex - AI-Powered Repository Archaeology with Gemma 4](https://dev.to/biplov/historex-ai-powered-repository-archaeology-with-gemma-4-291b)
+- [ORA-00204 오류 원인과 해결 방법 완벽 가이드](https://dev.to/oraerror/ora-00204-oryu-weoningwa-haegyeol-bangbeob-wanbyeog-gaideu-3h7c)
 <!-- BLOG-POST-LIST:END -->
 
 
