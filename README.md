@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Kafka + Cassandra Pipeline](https://dev.to/geraldm/building-a-real-time-kafka-cassandra-pipeline-moe)
-- [A Beginners guide to Real-time Data Streaming with Apache Kafka](https://dev.to/geraldm/a-beginners-guide-to-real-time-data-streaming-with-apache-kafka-4iaf)
-- [Getting Started with Gemini API Managed Agents — The Quickest Path from Prompt to Deployed Agent](https://dev.to/pulkitgovrani/getting-started-with-gemini-api-managed-agents-the-quickest-path-from-prompt-to-deployed-agent-120h)
-- [🚀 Built a full stack Miro clone with real-time collaboration, infinite canvas, sticky notes, and modern SaaS UI using Next.js, React, TypeScript, Convex, Liveblocks, Clerk, and Tailwind CSS.
-
-Would love feedback from the dev community 🙌](https://dev.to/prem_gaikwad_316d716c3/built-this-project-to-challenge-myself-with-real-time-collaboration-infinite-canvas-rendering-3c7i)
+- [⚔️ I Ran the Same Task Through Hermes Agent, LangGraph, and AutoGen — Here&#39;s What Actually Happened](https://dev.to/mamoor_ahmad/i-ran-the-same-task-through-hermes-agent-langgraph-and-autogen-heres-what-actually-happened-d6j)
+- [The Hidden Side of AI Nobody Talks About...](https://dev.to/pandagod001/the-hidden-side-of-ai-nobody-talks-about-45el)
+- [NonSemantic Tags in HTML](https://dev.to/raja_b_0c9d242e2c26cf063b/nonsemantic-tags-in-html-3kae)
+- [How to Build a Persistent AI Agent with Hermes in 15 Minutes](https://dev.to/pulkitgovrani/how-to-build-a-persistent-ai-agent-with-hermes-in-15-minutes-49cl)
 <!-- BLOG-POST-LIST:END -->
 
 
