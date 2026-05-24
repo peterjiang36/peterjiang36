@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tabula vs Camelot vs pdfplumber in 2026: Which Python Library Actually Wins?](https://dev.to/martin_pdfexcel/tabula-vs-camelot-vs-pdfplumber-in-2026-which-python-library-actually-wins-22kn)
-- [Experienced devs are slower with AI and they don&#39;t even know it](https://dev.to/adioof/experienced-devs-are-slower-with-ai-and-they-dont-even-know-it-8g0)
-- [React.lazy + chunk errors: how to recover users stuck after a deploy](https://dev.to/bairescodeai/reactlazy-chunk-errors-how-to-recover-users-stuck-after-a-deploy-2o38)
-- [Building a No-KYC Poker Bot: What I Learned Automating Crypto Tables](https://dev.to/strazi_weekey_9d6671e9aae/building-a-no-kyc-poker-bot-what-i-learned-automating-crypto-tables-4jn4)
+- [I Wanted To Build AI. Instead I Met Linear Algebra](https://dev.to/dev-rv/i-wanted-to-build-ai-instead-i-met-linear-algebra-59a)
+- [I Turned npm outdated into a CI Gate — Here&#39;s How](https://dev.to/sulthonzh/i-turned-npm-outdated-into-a-ci-gate-heres-how-h0o)
+- [Reading Log #8 — Aoashi Finite and Infinite Games Imagined Communities](https://dev.to/machuz/reading-log-8-aoashi-x-finite-and-infinite-games-x-imagined-communities-4jp6)
+- [Software Might Be Becoming Agent-Aware: What if software starts coordinating itself?](https://dev.to/aaastha_singhhh_ad32cd0b3/software-might-be-becoming-agent-aware-what-if-software-starts-coordinating-itself-3dm1)
 <!-- BLOG-POST-LIST:END -->
 
 
