@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Generative AI](https://dev.to/indumathi__r/introduction-to-generative-ai-6in)
-- [no-cycle finds 0 cycles in next.js &lpar;and other lies caches tell you&rpar;](https://dev.to/ofri-peretz/no-cycle-finds-0-cycles-in-nextjs-and-other-lies-caches-tell-you-3ld8)
-- [Hermes Agent vs Openclaw](https://dev.to/wanjohichristopher/hermes-vs-openclaw-2j4d)
-- [Your Checkout Is Probably Leaking Revenue. The Problem Is You Cannot See Where.](https://dev.to/xiden001/your-checkout-is-probably-leaking-revenue-the-problem-is-you-cannot-see-where-26kh)
+- [scrcpy Integration in a Tauri App — Android Screen Mirroring on Mac](https://dev.to/hiyoyok/scrcpy-integration-in-a-tauri-app-android-screen-mirroring-on-mac-27k3)
+- [SimGemma: Democratizing STEM Education with Offline-First AI Simulations](https://dev.to/damodharanj/simgemma-democratizing-stem-education-with-offline-first-ai-simulations-4409)
+- [Diffusion Language Models Are Here: Deep Dive into NVIDIA&#39;s Nemotron-Labs DLM Architecture](https://dev.to/monuminu/diffusion-language-models-are-here-deep-dive-into-nvidias-nemotron-labs-dlm-architecture-2ke2)
+- [[Boost]](https://dev.to/aretasndi/-13e6)
 <!-- BLOG-POST-LIST:END -->
 
 
