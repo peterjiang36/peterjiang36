@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built GemmaPod - A truly composable and portable AI agent solution powered by your local LLM](https://dev.to/apprider/i-built-gemmapod-a-truly-composable-and-portable-ai-agent-solution-powered-by-your-local-llm-4430)
-- [Gemma 4 E4B caught three planted fabrications in 50 seconds — on a laptop, no cloud](https://dev.to/arthurpro/gemma-4-e4b-caught-three-planted-fabrications-in-50-seconds-on-a-laptop-no-cloud-1ehh)
-- [How to build an AI-powered content moderation pipeline for user comments](https://dev.to/ayinedjimi-consultants/how-to-build-an-ai-powered-content-moderation-pipeline-for-user-comments-hoa)
-- [Running Gemma 4 on a Modest Machine: Unsloth vs LM Studio vs llama.cpp vs Ollama](https://dev.to/skomfi/running-gemma-4-on-a-modest-machine-unsloth-vs-lm-studio-vs-llamacpp-vs-ollama-11cp)
+- [Where Did All the Code Playgrounds Go?](https://dev.to/madrigal-a/where-did-all-the-code-playgrounds-go-4lk2)
+- [I built PROOFER - Chrome extension that proofreads your texts using Gemma 4](https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7)
+- [How I use AI agents to turn ideas into public demos](https://dev.to/ai_nikitka93/how-i-use-ai-agents-to-turn-ideas-into-public-demos-i7k)
+- [I Built a Quotation Generator for Kenyan Street Welders Using Gemma 4&#39;s Vision](https://dev.to/lewisawe/i-built-a-quotation-generator-for-kenyan-street-welders-using-gemma-4s-vision-2eb5)
 <!-- BLOG-POST-LIST:END -->
 
 
