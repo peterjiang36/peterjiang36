@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating off Google Analytics: Umami vs Plausible vs Fathom](https://dev.to/alanwest/migrating-off-google-analytics-umami-vs-plausible-vs-fathom-1bnj)
-- [Building a Portfolio That Actually Demonstrates Software Engineering](https://dev.to/andrescasoiglesias/building-a-portfolio-that-actually-demonstrates-software-engineering-4jn2)
-- [Async/Await in JavaScript: From Callbacks to Clean Code &lpar;2026&rpar;](https://dev.to/armorbreak/asyncawait-in-javascript-from-callbacks-to-clean-code-2026-14dh)
-- [Benchmarking LLM Structured Outputs](https://dev.to/david_moores_cbc0233b7447/benchmarking-llm-structured-outputs-1ijc)
+- [How to Detect GPU Waste in a Kubernetes Cluster](https://dev.to/sam_hosseini_4b7dd131c8ee/how-to-detect-gpu-waste-in-a-kubernetes-cluster-594f)
+- [Serverless Mental Models: What They Don&#39;t Tell You Before You Build](https://dev.to/aws-builders/serverless-mental-models-what-they-dont-tell-you-before-you-build-1ajl)
+- [Preventing GPT hallucination in automated content pipelines: how I structure Make.com flows with data injection](https://dev.to/kevinseeberger/preventing-gpt-hallucination-in-automated-content-pipelines-how-i-structure-makecom-flows-with-28o2)
+- [Making Claude Sound Like Optimus Prime](https://dev.to/lovestaco/making-claude-sound-like-optimus-prime-3k8)
 <!-- BLOG-POST-LIST:END -->
 
 
