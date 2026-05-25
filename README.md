@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Phone Is Becoming the New Terminal](https://dev.to/futuresignalbrief/the-phone-is-becoming-the-new-terminal-bfm)
-- [Why Most AI Music Tools Feel Wrong to Developers](https://dev.to/wesley_cd57c0eb0d1c550778/why-most-ai-music-tools-feel-wrong-to-developers-2p7p)
-- [Goroutines vs. Promises: Why Go and JavaScript Look at Concurrency Completely Differently](https://dev.to/juma_evans_34e389ef539266/goroutines-vs-promises-why-go-and-javascript-look-at-concurrency-completely-differently-24ja)
-- [How I Use Antigravity 2.0 to Navigate Open-Source Codebases and Make Better Technical Decisions](https://dev.to/ubayedbinsufian/how-i-use-antigravity-20-to-navigate-open-source-codebases-and-make-better-technical-decisions-2ic3)
+- [5 Things I Wish I Knew Before Building with Hermes Agent](https://dev.to/pulkitgovrani/5-things-i-wish-i-knew-before-building-with-hermes-agent-3ah3)
+- [Thoughts on Codingame 2026 Spring challenge](https://dev.to/epigene/thoughts-on-codingame-2026-spring-challenge-5891)
+- [OUT WITH THE OLD IN WITH THE NEW](https://dev.to/codekuti/out-with-the-old-in-with-the-new-1i6k)
+- [Why are simple 1099 tax calculators online so horribly bloated? So I built my own](https://dev.to/le_le_9861d35588249249a2d/why-are-simple-1099-tax-calculators-online-so-horribly-bloated-so-i-built-my-own-2ekb)
 <!-- BLOG-POST-LIST:END -->
 
 
