@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Run NVIDIA NIM on Your Own GPU — Same API, Different Endpoint](https://dev.to/torkian/run-nvidia-nim-on-your-own-gpu-same-api-different-endpoint-484a)
-- [Webflow SEO Implementation](https://dev.to/joseph_anady_214bacedf939/webflow-seo-implementation-1aa9)
-- [로컬 LLM 셋업 가이드 &lpar;v21&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rokeol-llm-seseob-gaideu-v21-1b7g)
-- [How Logs Travel From Your EKS Pod to Datadog](https://dev.to/diya_r/how-logs-travel-from-your-eks-pod-to-datadog-12an)
+- [Everbench: A document management system with Local Intelligence](https://dev.to/jordanh/everbench-a-document-management-system-with-local-intelligence-5fj8)
+- [The Hidden Features of Claude](https://dev.to/devrikshith/the-hidden-features-of-claude-1e0m)
+- [How I Built an AI News Brief with Next.js, Supabase, Vercel, and GPT-4o-mini](https://dev.to/jacob_chen_6b44c7aa03f8fc/how-i-built-an-ai-news-brief-with-nextjs-supabase-vercel-and-gpt-4o-mini-2ad5)
+- [How We Built a Multi-Agent AI Documentation System &lpar;And What We Learned&rpar;](https://dev.to/madnansultan/how-we-built-a-multi-agent-ai-documentation-system-and-what-we-learned-3mce)
 <!-- BLOG-POST-LIST:END -->
 
 
