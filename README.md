@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add SVGIcons MCP to Claude Code and Find SVG Icons from Your Terminal](https://dev.to/svgicons/add-svgicons-mcp-to-claude-code-and-find-svg-icons-from-your-terminal-2875)
-- [3 CLI Tools You Can Buy with Crypto — No KYC, No Subscriptions](https://dev.to/neuralmint/3-cli-tools-you-can-buy-with-crypto-no-kyc-no-subscriptions-1cce)
-- [COSS Weekly: OpenClaw competitor NanoClaw Raises $12M, Dust Raises $40M, Sonar Acquires Gitar, and more](https://dev.to/sabirchinstrap/coss-weekly-openclaw-competitor-nanoclaw-raises-12m-dust-raises-40m-sonar-acquires-gitar-and-345a)
-- [How to know if you actually need mobile proxies &lpar;without buying any&rpar;](https://dev.to/atheris-ee/how-to-know-if-you-actually-need-mobile-proxies-without-buying-any-1ao4)
+- [Migrating off Google Analytics: Umami vs Plausible vs Fathom](https://dev.to/alanwest/migrating-off-google-analytics-umami-vs-plausible-vs-fathom-1bnj)
+- [Building a Portfolio That Actually Demonstrates Software Engineering](https://dev.to/andrescasoiglesias/building-a-portfolio-that-actually-demonstrates-software-engineering-4jn2)
+- [Async/Await in JavaScript: From Callbacks to Clean Code &lpar;2026&rpar;](https://dev.to/armorbreak/asyncawait-in-javascript-from-callbacks-to-clean-code-2026-14dh)
+- [Benchmarking LLM Structured Outputs](https://dev.to/david_moores_cbc0233b7447/benchmarking-llm-structured-outputs-1ijc)
 <!-- BLOG-POST-LIST:END -->
 
 
