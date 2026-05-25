@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Wish I Knew Before Building with Hermes Agent](https://dev.to/pulkitgovrani/5-things-i-wish-i-knew-before-building-with-hermes-agent-3ah3)
-- [Thoughts on Codingame 2026 Spring challenge](https://dev.to/epigene/thoughts-on-codingame-2026-spring-challenge-5891)
-- [OUT WITH THE OLD IN WITH THE NEW](https://dev.to/codekuti/out-with-the-old-in-with-the-new-1i6k)
-- [Why are simple 1099 tax calculators online so horribly bloated? So I built my own](https://dev.to/le_le_9861d35588249249a2d/why-are-simple-1099-tax-calculators-online-so-horribly-bloated-so-i-built-my-own-2ekb)
+- [Building a Multi-Channel Content Syndication Pipeline with EmDash Plugins](https://dev.to/tuannx/building-a-multi-channel-content-syndication-pipeline-with-emdash-plugins-3934)
+- [Turn Your Phone Into Voice Input for Any React Text Field](https://dev.to/gabor_tatar_2ed46051795f9/turn-your-phone-into-voice-input-for-any-react-text-field-1p52)
+- [Which package is bloating your Docker image?](https://dev.to/mk668a/which-package-is-bloating-your-docker-image-21j6)
+- [Putting Claude Code Under Version Control: Configs Since July, Memory Since April](https://dev.to/heysash/putting-claude-code-under-version-control-configs-since-july-memory-since-april-29b1)
 <!-- BLOG-POST-LIST:END -->
 
 
