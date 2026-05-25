@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sync Supabase via OAuth: No Connection String Needed](https://dev.to/ilshadyx/sync-supabase-via-oauth-no-connection-string-needed-3n9g)
-- [I asked three AI models the same API question. Only one had it right.](https://dev.to/concordance_ai/i-asked-three-ai-models-the-same-api-question-only-one-had-it-right-3lfd)
-- [Implementing Saga Pattern With Lambda Durable Function](https://dev.to/aws-builders/implementing-saga-pattern-with-lambda-durable-function-1co3)
-- [Why does AI forget what you said &lpar;and how to fix it&rpar;](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6)
+- [Building Strong Python Basics – Loops, Functions and Logic](https://dev.to/vinayagam_6a170db9281d526/building-strong-python-basics-loops-functions-and-logic-285j)
+- [How to Choose the Right Tech Stack for Your Project](https://dev.to/akshatjme/how-to-choose-the-right-tech-stack-for-your-project-4cbj)
+- [I built a free multi-tab JSON editor — here&#39;s what I learned](https://dev.to/bhushankumarsingh/i-built-a-free-multi-tab-json-editor-heres-what-i-learned-2ffe)
+- [HTTP Headers Every Developer Should Know &lpar;2026&rpar;](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)
 <!-- BLOG-POST-LIST:END -->
 
 
