@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Detect GPU Waste in a Kubernetes Cluster](https://dev.to/sam_hosseini_4b7dd131c8ee/how-to-detect-gpu-waste-in-a-kubernetes-cluster-594f)
-- [Serverless Mental Models: What They Don&#39;t Tell You Before You Build](https://dev.to/aws-builders/serverless-mental-models-what-they-dont-tell-you-before-you-build-1ajl)
-- [Preventing GPT hallucination in automated content pipelines: how I structure Make.com flows with data injection](https://dev.to/kevinseeberger/preventing-gpt-hallucination-in-automated-content-pipelines-how-i-structure-makecom-flows-with-28o2)
-- [Making Claude Sound Like Optimus Prime](https://dev.to/lovestaco/making-claude-sound-like-optimus-prime-3k8)
+- [The git Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-git-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-2gb8)
+- [Six Levels of MCP Servers](https://dev.to/david_golverdingen_b133a5/six-levels-of-mcp-servers-2b25)
+- [One container to replace Grafana + Loki + Tempo + Prometheus](https://dev.to/adiakys/one-container-to-replace-grafana-loki-tempo-prometheus-1kki)
+- [Creating a Custom Grid Editor tool in Unreal Engine](https://dev.to/cami-dev/creating-a-custom-grid-editor-tool-in-unreal-engine-aoc)
 <!-- BLOG-POST-LIST:END -->
 
 
