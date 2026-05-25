@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Linux Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-linux-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-25bn)
-- [Spec-Driven Development Without an IDE: I Generated NestJS, Go, Spring Boot, Laravel, and Rust Apps From a Single PRD File](https://dev.to/anioko1/spec-driven-development-without-an-ide-i-generated-nestjs-go-spring-boot-laravel-and-rust-3p26)
-- [Components are states](https://dev.to/bryan_maclee/components-are-states-3h0n)
-- [Edge SEO y Middleware: Cómo Interceptar a Googlebot y LLMs antes de llegar a tu Servidor](https://dev.to/carlous1991/edge-seo-y-middleware-como-interceptar-a-googlebot-y-llms-antes-de-llegar-a-tu-servidor-1b8)
+- [Vibe Coding Problems: 7 Visual Bugs AI Code Generators Always Ship](https://dev.to/oqa/vibe-coding-problems-7-visual-bugs-ai-code-generators-always-ship-37mf)
+- [The Quiet AI War Inside Your Browser](https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd)
+- [The 12-Line Anti-Bot Trick That Saved Our Airdrop Snapshot From Sybil Farms](https://dev.to/voltagegpu/the-12-line-anti-bot-trick-that-saved-our-airdrop-snapshot-from-sybil-farms-1gnd)
+- [Building a production-ready SaaS dashboard in Next.js 16 — Recharts, TanStack Table, dark mode, and collapsible sidebar](https://dev.to/juan_maya_6479056cdf0c8d6/building-a-production-ready-saas-dashboard-in-nextjs-16-recharts-tanstack-table-dark-mode-and-2c71)
 <!-- BLOG-POST-LIST:END -->
 
 
