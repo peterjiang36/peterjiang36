@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a VSCode extension that visualises your code navigation as a call tree — made for legacy codebase pain](https://dev.to/breadkrumb/i-built-a-vscode-extension-that-visualises-your-code-navigation-as-a-call-tree-made-for-legacy-2fkb)
-- [Vite predev/prebuild: chaining scripts without losing your mind](https://dev.to/bairescodeai/vite-predevprebuild-chaining-scripts-without-losing-your-mind-4j01)
-- [A website to save you from messy browser tabs](https://dev.to/catssaymeow/a-website-to-save-you-from-messy-browser-tabs-41eo)
-- [Dear Web2 Developer... Solana is here calling](https://dev.to/mudimurtala/dear-web2-developer-solana-is-here-calling-3pmj)
+- [Sync Supabase via OAuth: No Connection String Needed](https://dev.to/ilshadyx/sync-supabase-via-oauth-no-connection-string-needed-3n9g)
+- [I asked three AI models the same API question. Only one had it right.](https://dev.to/concordance_ai/i-asked-three-ai-models-the-same-api-question-only-one-had-it-right-3lfd)
+- [Implementing Saga Pattern With Lambda Durable Function](https://dev.to/aws-builders/implementing-saga-pattern-with-lambda-durable-function-1co3)
+- [Why does AI forget what you said &lpar;and how to fix it&rpar;](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6)
 <!-- BLOG-POST-LIST:END -->
 
 
