@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Strong Python Basics – Loops, Functions and Logic](https://dev.to/vinayagam_6a170db9281d526/building-strong-python-basics-loops-functions-and-logic-285j)
-- [How to Choose the Right Tech Stack for Your Project](https://dev.to/akshatjme/how-to-choose-the-right-tech-stack-for-your-project-4cbj)
-- [I built a free multi-tab JSON editor — here&#39;s what I learned](https://dev.to/bhushankumarsingh/i-built-a-free-multi-tab-json-editor-heres-what-i-learned-2ffe)
-- [HTTP Headers Every Developer Should Know &lpar;2026&rpar;](https://dev.to/armorbreak/http-headers-every-developer-should-know-2026-pj6)
+- [Add SVGIcons MCP to Claude Code and Find SVG Icons from Your Terminal](https://dev.to/svgicons/add-svgicons-mcp-to-claude-code-and-find-svg-icons-from-your-terminal-2875)
+- [3 CLI Tools You Can Buy with Crypto — No KYC, No Subscriptions](https://dev.to/neuralmint/3-cli-tools-you-can-buy-with-crypto-no-kyc-no-subscriptions-1cce)
+- [COSS Weekly: OpenClaw competitor NanoClaw Raises $12M, Dust Raises $40M, Sonar Acquires Gitar, and more](https://dev.to/sabirchinstrap/coss-weekly-openclaw-competitor-nanoclaw-raises-12m-dust-raises-40m-sonar-acquires-gitar-and-345a)
+- [How to know if you actually need mobile proxies &lpar;without buying any&rpar;](https://dev.to/atheris-ee/how-to-know-if-you-actually-need-mobile-proxies-without-buying-any-1ao4)
 <!-- BLOG-POST-LIST:END -->
 
 
