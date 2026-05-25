@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The git Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-git-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-2gb8)
-- [Six Levels of MCP Servers](https://dev.to/david_golverdingen_b133a5/six-levels-of-mcp-servers-2b25)
-- [One container to replace Grafana + Loki + Tempo + Prometheus](https://dev.to/adiakys/one-container-to-replace-grafana-loki-tempo-prometheus-1kki)
-- [Creating a Custom Grid Editor tool in Unreal Engine](https://dev.to/cami-dev/creating-a-custom-grid-editor-tool-in-unreal-engine-aoc)
+- [The Linux Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-linux-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-25bn)
+- [Spec-Driven Development Without an IDE: I Generated NestJS, Go, Spring Boot, Laravel, and Rust Apps From a Single PRD File](https://dev.to/anioko1/spec-driven-development-without-an-ide-i-generated-nestjs-go-spring-boot-laravel-and-rust-3p26)
+- [Components are states](https://dev.to/bryan_maclee/components-are-states-3h0n)
+- [Edge SEO y Middleware: Cómo Interceptar a Googlebot y LLMs antes de llegar a tu Servidor](https://dev.to/carlous1991/edge-seo-y-middleware-como-interceptar-a-googlebot-y-llms-antes-de-llegar-a-tu-servidor-1b8)
 <!-- BLOG-POST-LIST:END -->
 
 
