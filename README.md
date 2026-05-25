@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How an ESP32 Turned a LEGO WALL-E Into a Real Working Robot](https://dev.to/circuitrocks/how-an-esp32-turned-a-lego-wall-e-into-a-real-working-robot-1be8)
-- [The Flawed Promise of Real-Time Event Handling](https://dev.to/on-chain-commerce/the-flawed-promise-of-real-time-event-handling-4j5c)
-- [SSH Login Taking Forever? Check Your DNS Settings](https://dev.to/schiff_heimlich/ssh-login-taking-forever-check-your-dns-settings-gej)
-- [Found 897 Fake Followers on DEV.to. Here&#39;s How I Proved It.](https://dev.to/gnomeman4201/found-897-fake-followers-on-devto-heres-how-i-proved-it-2a1k)
+- [Run NVIDIA NIM on Your Own GPU — Same API, Different Endpoint](https://dev.to/torkian/run-nvidia-nim-on-your-own-gpu-same-api-different-endpoint-484a)
+- [Webflow SEO Implementation](https://dev.to/joseph_anady_214bacedf939/webflow-seo-implementation-1aa9)
+- [로컬 LLM 셋업 가이드 &lpar;v21&rpar;](https://dev.to/matias_yoon_738a24cb1190f/rokeol-llm-seseob-gaideu-v21-1b7g)
+- [How Logs Travel From Your EKS Pod to Datadog](https://dev.to/diya_r/how-logs-travel-from-your-eks-pod-to-datadog-12an)
 <!-- BLOG-POST-LIST:END -->
 
 
