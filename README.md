@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Everbench: A document management system with Local Intelligence](https://dev.to/jordanh/everbench-a-document-management-system-with-local-intelligence-5fj8)
-- [The Hidden Features of Claude](https://dev.to/devrikshith/the-hidden-features-of-claude-1e0m)
-- [How I Built an AI News Brief with Next.js, Supabase, Vercel, and GPT-4o-mini](https://dev.to/jacob_chen_6b44c7aa03f8fc/how-i-built-an-ai-news-brief-with-nextjs-supabase-vercel-and-gpt-4o-mini-2ad5)
-- [How We Built a Multi-Agent AI Documentation System &lpar;And What We Learned&rpar;](https://dev.to/madnansultan/how-we-built-a-multi-agent-ai-documentation-system-and-what-we-learned-3mce)
+- [The Phone Is Becoming the New Terminal](https://dev.to/futuresignalbrief/the-phone-is-becoming-the-new-terminal-bfm)
+- [Why Most AI Music Tools Feel Wrong to Developers](https://dev.to/wesley_cd57c0eb0d1c550778/why-most-ai-music-tools-feel-wrong-to-developers-2p7p)
+- [Goroutines vs. Promises: Why Go and JavaScript Look at Concurrency Completely Differently](https://dev.to/juma_evans_34e389ef539266/goroutines-vs-promises-why-go-and-javascript-look-at-concurrency-completely-differently-24ja)
+- [How I Use Antigravity 2.0 to Navigate Open-Source Codebases and Make Better Technical Decisions](https://dev.to/ubayedbinsufian/how-i-use-antigravity-20-to-navigate-open-source-codebases-and-make-better-technical-decisions-2ic3)
 <!-- BLOG-POST-LIST:END -->
 
 
