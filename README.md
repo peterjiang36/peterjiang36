@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding Problems: 7 Visual Bugs AI Code Generators Always Ship](https://dev.to/oqa/vibe-coding-problems-7-visual-bugs-ai-code-generators-always-ship-37mf)
-- [The Quiet AI War Inside Your Browser](https://dev.to/obetomuniz/the-quiet-ai-war-inside-your-browser-22hd)
-- [The 12-Line Anti-Bot Trick That Saved Our Airdrop Snapshot From Sybil Farms](https://dev.to/voltagegpu/the-12-line-anti-bot-trick-that-saved-our-airdrop-snapshot-from-sybil-farms-1gnd)
-- [Building a production-ready SaaS dashboard in Next.js 16 — Recharts, TanStack Table, dark mode, and collapsible sidebar](https://dev.to/juan_maya_6479056cdf0c8d6/building-a-production-ready-saas-dashboard-in-nextjs-16-recharts-tanstack-table-dark-mode-and-2c71)
+- [My Skills](https://dev.to/gohitx/my-skills-41j9)
+- [How I Use AI as a Senior Engineer](https://dev.to/kengineering/how-i-use-ai-as-a-senior-engineer-35ie)
+- [Construí um motor ATS determinístico porque estava cansado de adivinhar por que meu currículo era rejeitado](https://dev.to/thalisson_damio_8ed19dd6/construi-um-motor-ats-deterministico-porque-estava-cansado-de-adivinhar-por-que-meu-curriculo-era-2e1h)
+- [SCS-Lab1 — CloudTrail: Trail + S3 + KMS + Log Validation](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2)
 <!-- BLOG-POST-LIST:END -->
 
 
