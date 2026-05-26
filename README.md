@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My CKA Cheat Sheet: Commands, Aliases, and Documentation Tricks I Used During the Exam](https://dev.to/shahzadahmad91/my-cka-cheat-sheet-commands-aliases-and-documentation-tricks-i-used-during-the-exam-4p84)
-- [Frontend Engineering Beyond Pixels: The Architecture of Digital Accessibility](https://dev.to/iremide0017/frontend-engineering-beyond-pixels-the-architecture-of-digital-accessibility-5715)
-- [VLA or IL? A Controlled Dataset for Testing Whether Finetuning Turns Your VLA into a Fancy Imitation Learner](https://dev.to/fn8211/vla-or-il-a-controlled-dataset-for-testing-whether-finetuning-turns-your-vla-into-a-fancy-4m6i)
-- [Fabric AI Functions Turn GenAI Into a Data Pipeline Step](https://dev.to/shai_karmani_2521c2f8e837/fabric-ai-functions-turn-genai-into-a-data-pipeline-step-42a0)
+- [How React-Style Time-Slicing Keeps UIs Responsive](https://dev.to/luciano0322/how-react-style-time-slicing-keeps-uis-responsive-2lp0)
+- [这个 Princeton 开源项目让 AI 自己修 Bug，19K Stars 但 90% 的人只用了 1% 功能 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/zhe-ge-princeton-kai-yuan-xiang-mu-rang-ai-zi-ji-xiu-bug19k-stars-dan-90-de-ren-zhi-yong-liao-1-gong-neng-f6b)
+- [SWE-agent&#39;s 5 Hidden Uses Nobody Told You About 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/swe-agents-5-hidden-uses-nobody-told-you-about-2a5p)
+- [Decompiling Serial Number U-36: Python TERCOM Reconstruction, Cryptographic Logistical Forensics, and Swarm Consensus Fault Tolerance](https://dev.to/forensic-archive/decompiling-serial-number-u-36-python-tercom-reconstruction-cryptographic-logistical-forensics-kif)
 <!-- BLOG-POST-LIST:END -->
 
 
