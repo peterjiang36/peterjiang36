@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scale Wars #5 — Twitter: The Fan-out Pattern and the Architecture Behind 140 Characters](https://dev.to/turacthethinker/scale-wars-5-twitter-the-fan-out-pattern-and-the-architecture-behind-140-characters-bpg)
-- [Retrying HTTP Requests in Go Without Making It Worse](https://dev.to/krishankumar01/retrying-http-requests-in-go-without-making-it-worse-48mj)
-- [Building a Vector Search Engine from Scratch: The Math and Mechanics of HNSW](https://dev.to/ebendttl/building-a-vector-search-engine-from-scratch-the-math-and-mechanics-of-hnsw-4om3)
-- [Technical Due Diligence Checklist for Startup Investors &lpar;2026&rpar;](https://dev.to/themuneebh/technical-due-diligence-checklist-for-startup-investors-2026-2akg)
+- [Why flag_shih_tzu is changing its default SQL for bit flags](https://dev.to/galtzo/why-flagshihtzu-is-changing-its-default-sql-for-bit-flags-41l9)
+- [Cómo construí una calculadora de interés compuesto con JavaScript vanilla y por qué todo el mundo debería usar una](https://dev.to/gael_dl2/como-construi-una-calculadora-de-interes-compuesto-con-javascript-vanilla-y-por-que-todo-el-mundo-4h77)
+- [The Hard Part of Building a Realtime Binary Options Platform Was Not the Chart](https://dev.to/funtikdark/the-hard-part-of-building-a-realtime-binary-options-platform-was-not-the-chart-47jp)
+- [When the Runtime Was the Wall: How Rust Broke a 50 ms SLA and Saved the Day](https://dev.to/built-from-africa/when-the-runtime-was-the-wall-how-rust-broke-a-50-ms-sla-and-saved-the-day-3gd)
 <!-- BLOG-POST-LIST:END -->
 
 
