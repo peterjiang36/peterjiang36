@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why flag_shih_tzu is changing its default SQL for bit flags](https://dev.to/galtzo/why-flagshihtzu-is-changing-its-default-sql-for-bit-flags-41l9)
-- [Cómo construí una calculadora de interés compuesto con JavaScript vanilla y por qué todo el mundo debería usar una](https://dev.to/gael_dl2/como-construi-una-calculadora-de-interes-compuesto-con-javascript-vanilla-y-por-que-todo-el-mundo-4h77)
-- [The Hard Part of Building a Realtime Binary Options Platform Was Not the Chart](https://dev.to/funtikdark/the-hard-part-of-building-a-realtime-binary-options-platform-was-not-the-chart-47jp)
-- [When the Runtime Was the Wall: How Rust Broke a 50 ms SLA and Saved the Day](https://dev.to/built-from-africa/when-the-runtime-was-the-wall-how-rust-broke-a-50-ms-sla-and-saved-the-day-3gd)
+- [What will you think of when you read about a neural network!!? Mathematics? 🤔](https://dev.to/_hm/-39k2)
+- [I Built a Free Finance Dashboard as a Solo Dev — Here&#39;s What I Learned](https://dev.to/collectcx/i-built-a-free-finance-dashboard-as-a-solo-dev-heres-what-i-learned-43ek)
+- [Drive JHipster with your AI agent: introducing jhipster-mcp &lpar;v0.0.4&rpar;](https://dev.to/avdev4j/building-a-jhipster-mcp-server-let-ai-agents-scaffold-and-evolve-your-architecture-487e)
+- [Pokemon Battle Simulator Napkin Challenge!](https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db)
 <!-- BLOG-POST-LIST:END -->
 
 
