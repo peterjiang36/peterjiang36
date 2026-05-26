@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Skills](https://dev.to/gohitx/my-skills-41j9)
-- [How I Use AI as a Senior Engineer](https://dev.to/kengineering/how-i-use-ai-as-a-senior-engineer-35ie)
-- [Construí um motor ATS determinístico porque estava cansado de adivinhar por que meu currículo era rejeitado](https://dev.to/thalisson_damio_8ed19dd6/construi-um-motor-ats-deterministico-porque-estava-cansado-de-adivinhar-por-que-meu-curriculo-era-2e1h)
-- [SCS-Lab1 — CloudTrail: Trail + S3 + KMS + Log Validation](https://dev.to/llunarg/scs-lab1-cloudtrail-trail-s3-kms-log-validation-2fj2)
+- [My CKA Cheat Sheet: Commands, Aliases, and Documentation Tricks I Used During the Exam](https://dev.to/shahzadahmad91/my-cka-cheat-sheet-commands-aliases-and-documentation-tricks-i-used-during-the-exam-4p84)
+- [Frontend Engineering Beyond Pixels: The Architecture of Digital Accessibility](https://dev.to/iremide0017/frontend-engineering-beyond-pixels-the-architecture-of-digital-accessibility-5715)
+- [VLA or IL? A Controlled Dataset for Testing Whether Finetuning Turns Your VLA into a Fancy Imitation Learner](https://dev.to/fn8211/vla-or-il-a-controlled-dataset-for-testing-whether-finetuning-turns-your-vla-into-a-fancy-4m6i)
+- [Fabric AI Functions Turn GenAI Into a Data Pipeline Step](https://dev.to/shai_karmani_2521c2f8e837/fabric-ai-functions-turn-genai-into-a-data-pipeline-step-42a0)
 <!-- BLOG-POST-LIST:END -->
 
 
