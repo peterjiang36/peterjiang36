@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clean Architecture in MongoDB + C#: Why is the Repository Pattern Alone Not Enough?](https://dev.to/filipe_neves/clean-architecture-in-mongodb-c-why-is-the-repository-pattern-alone-not-enough-3g2f)
-- [I Tested 10 More Models. Five Brand New Families Debuted. None Scored Below 75%.](https://dev.to/vystartasv/i-tested-10-more-models-five-brand-new-families-debuted-none-scored-below-75-9fj)
-- [I Almost Quit Coding to Become a Welder](https://dev.to/eugene_maiorov/i-almost-quit-coding-to-become-a-welder-38j1)
-- [Understanding Reinforcement Learning with Human Feedback Part 6: How the Reward Model Trains the Original Model](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-6-how-the-reward-model-trains-the-3nl7)
+- [ATR Implements the Detection Layer the NSA Identified as Missing in MCP](https://dev.to/realadam557/atr-implements-the-detection-layer-the-nsa-identified-as-missing-in-mcp-4c24)
+- [I tried both Cursor and Antigravity&lpar;1.20&rpar; - Switching Context - which one is better?](https://dev.to/elementalsilk/i-tried-both-cursor-and-antigravity120-switching-context-which-one-is-better-peg)
+- [Negative Lookups in Bf-Tree: Caching Things That Don&#39;t Exist](https://dev.to/lovestaco/negative-lookups-in-bf-tree-caching-things-that-dont-exist-23l0)
+- [My Struggles as a Software Engineer in 2026](https://dev.to/callmeizzy/my-struggles-as-a-software-engineer-in-2026-1890)
 <!-- BLOG-POST-LIST:END -->
 
 
