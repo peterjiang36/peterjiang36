@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This is a submission for the Hermes Agent Challenge, Autonomous GitHub PR Reviewer with Hermes Agent and Spring Boot](https://dev.to/abraham_airco_9d41538/this-is-a-submission-for-the-hermes-agent-challenge-autonomous-github-pr-reviewer-with-hermes-4kl9)
-- [From Screen Recording to Test Cases in Seconds — Meet ClipCase](https://dev.to/amuthan_chandrasekaran_7f/from-screen-recording-to-test-cases-in-seconds-meet-clipcase-34af)
-- [Gemma 4: AI Masala Engine](https://dev.to/bangadpurva/gemma-4-ai-masala-engine-4keh)
-- [Autocompaction Is Not Memory](https://dev.to/gshevchenko/autocompaction-is-not-memory-4n0a)
+- [Bronto for Fastly: Real-Time CDN Logging That Actually Scales](https://dev.to/bronto_io/bronto-for-fastly-real-time-cdn-logging-that-actually-scales-b1k)
+- [I Built a Local Interview Coach That Learns From Every Submission With Hermes Agent.](https://dev.to/sreejit_/i-built-a-local-interview-coach-that-learns-from-every-submission-with-hermes-agent-1jja)
+- [Genesis-GAL: Multiplatform Core Architecture &lpar;C++, Kotlin, Python&rpar; for CPU Thermal Optimization &amp; Jitter Mitigation](https://dev.to/juan_gonzalez_e91503843aa/genesis-gal-multiplatform-core-architecture-c-kotlin-python-for-cpu-thermal-optimization--1i68)
+- [Why Delta, Iceberg, and Hudi Can&#39;t Write to FSx S3 Access Points — And What Works Instead](https://dev.to/aws-builders/why-delta-iceberg-and-hudi-cant-write-to-fsx-s3-access-points-and-what-works-instead-5be3)
 <!-- BLOG-POST-LIST:END -->
 
 
