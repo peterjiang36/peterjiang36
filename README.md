@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Log Aggregation in .NET 8: Seq vs ELK vs Loki](https://dev.to/anayaupadhyay/log-aggregation-in-net-8-seq-vs-elk-vs-loki-437l)
-- [Using the Terminal in VS Code](https://dev.to/pawper/using-the-terminal-in-vs-code-1f3g)
-- [&quot;My AI Assistant Could Code, But It Couldn&#39;t Operate My Desktop&quot;](https://dev.to/codekingai/my-ai-assistant-could-code-but-it-couldnt-operate-my-desktop-1log)
-- [Google Just Killed the Blue Link: 5 Ways to Survive the AI Search Apocalypse](https://dev.to/kislay/google-just-killed-the-blue-link-5-ways-to-survive-the-ai-search-apocalypse-2kie)
+- [Circuit Breaker Now Supports LangGraph and Vercel AI SDK](https://dev.to/joakim_williamhauge_fa48/circuit-breaker-now-supports-langgraph-and-vercel-ai-sdk-j41)
+- [Where Does the Data Go? A Comprehensive Guide to Databases](https://dev.to/lawrence_murithi/where-does-the-data-go-a-comprehensive-guide-to-databases-333n)
+- [Node.js wants to ban AI-generated code. They should.](https://dev.to/adioof/nodejs-wants-to-ban-ai-generated-code-they-should-488)
+- [07/20: Layer 2 – The Data Link Layer: Frames, MAC Addresses &amp; Switches](https://dev.to/roboticela/0720-layer-2-the-data-link-layer-frames-mac-addresses-switches-3nkd)
 <!-- BLOG-POST-LIST:END -->
 
 
