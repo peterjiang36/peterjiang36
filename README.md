@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Master RAG Systems: Build an End-to-End LangChain Pipeline with Milvus, Reranking &amp; Azure OpenAI 🚀](https://dev.to/sridhar_s_dfc5fa7b6b295f9/master-rag-systems-build-an-end-to-end-langchain-pipeline-with-milvus-reranking-azure-openai-118c)
-- [Turning You Into a Power User: Hybrid Memory, SSH Cloak, and Password Vaulting With VEKTOR](https://dev.to/vektor_memory_43f51a32376/turning-you-into-a-power-user-hybrid-memory-ssh-cloak-and-password-vaulting-with-vektor-338h)
-- [Fixing the session timeouts](https://dev.to/priyadarshu/fixing-the-session-timeouts-14i4)
-- [Beyond Autonomous AI: Understanding Self-Healing Agents in Enterprise AI Systems](https://dev.to/sridhar_s_dfc5fa7b6b295f9/beyond-autonomous-ai-understanding-self-healing-agents-in-enterprise-ai-systems-40e4)
+- [Log Aggregation in .NET 8: Seq vs ELK vs Loki](https://dev.to/anayaupadhyay/log-aggregation-in-net-8-seq-vs-elk-vs-loki-437l)
+- [Using the Terminal in VS Code](https://dev.to/pawper/using-the-terminal-in-vs-code-1f3g)
+- [&quot;My AI Assistant Could Code, But It Couldn&#39;t Operate My Desktop&quot;](https://dev.to/codekingai/my-ai-assistant-could-code-but-it-couldnt-operate-my-desktop-1log)
+- [Google Just Killed the Blue Link: 5 Ways to Survive the AI Search Apocalypse](https://dev.to/kislay/google-just-killed-the-blue-link-5-ways-to-survive-the-ai-search-apocalypse-2kie)
 <!-- BLOG-POST-LIST:END -->
 
 
