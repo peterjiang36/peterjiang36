@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💬 Embedded AI Chatbots vs Popup Bubbles — Which One Creates Better Engagement?](https://dev.to/fabio-plugins/embedded-ai-chatbots-vs-popup-bubbles-which-one-creates-better-engagement-2gga)
-- [Bajándole todos los minutos posibles al CI del backend con mas de 1000 tests](https://dev.to/aws-builders/bajandole-todos-los-minutos-posibles-al-ci-del-backend-con-mas-de-1000-tests-5ecm)
-- [Harness Engineering: Stop Re-Prompting Your Coding Agent Every Session](https://dev.to/baskduf/harness-engineering-stop-re-prompting-your-coding-agent-every-session-4lec)
-- [HTML meta referrer: canonical reference](https://dev.to/joseph_anady_214bacedf939/html-meta-referrer-canonical-reference-57eo)
+- [Master RAG Systems: Build an End-to-End LangChain Pipeline with Milvus, Reranking &amp; Azure OpenAI 🚀](https://dev.to/sridhar_s_dfc5fa7b6b295f9/master-rag-systems-build-an-end-to-end-langchain-pipeline-with-milvus-reranking-azure-openai-118c)
+- [Turning You Into a Power User: Hybrid Memory, SSH Cloak, and Password Vaulting With VEKTOR](https://dev.to/vektor_memory_43f51a32376/turning-you-into-a-power-user-hybrid-memory-ssh-cloak-and-password-vaulting-with-vektor-338h)
+- [Fixing the session timeouts](https://dev.to/priyadarshu/fixing-the-session-timeouts-14i4)
+- [Beyond Autonomous AI: Understanding Self-Healing Agents in Enterprise AI Systems](https://dev.to/sridhar_s_dfc5fa7b6b295f9/beyond-autonomous-ai-understanding-self-healing-agents-in-enterprise-ai-systems-40e4)
 <!-- BLOG-POST-LIST:END -->
 
 
