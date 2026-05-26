@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ATR Implements the Detection Layer the NSA Identified as Missing in MCP](https://dev.to/realadam557/atr-implements-the-detection-layer-the-nsa-identified-as-missing-in-mcp-4c24)
-- [I tried both Cursor and Antigravity&lpar;1.20&rpar; - Switching Context - which one is better?](https://dev.to/elementalsilk/i-tried-both-cursor-and-antigravity120-switching-context-which-one-is-better-peg)
-- [Negative Lookups in Bf-Tree: Caching Things That Don&#39;t Exist](https://dev.to/lovestaco/negative-lookups-in-bf-tree-caching-things-that-dont-exist-23l0)
-- [My Struggles as a Software Engineer in 2026](https://dev.to/callmeizzy/my-struggles-as-a-software-engineer-in-2026-1890)
+- [How I Built Semantic Discussion Clustering Without Embeddings &lpar;and Why It Was Good Enough&rpar;](https://dev.to/mervindublin/how-i-built-semantic-discussion-clustering-without-embeddings-and-why-it-was-good-enough-21dl)
+- [I Built a Real-Time Simulation Game in a Single HTML File &lpar;Without React or Custom JavaScript&rpar;](https://dev.to/idevgames/i-built-a-real-time-simulation-game-in-a-single-html-file-without-react-or-custom-javascript-262p)
+- [I Got Tired of SNMP Dev Hell, So I Built Trishul SNMP Suite](https://dev.to/tosumitdhaka/i-got-tired-of-snmp-dev-hell-so-i-built-trishul-snmp-suite-35jl)
+- [98. RAG: Give Your AI Access to Your Documents](https://dev.to/yakhilesh/98-rag-give-your-ai-access-to-your-documents-f3b)
 <!-- BLOG-POST-LIST:END -->
 
 
