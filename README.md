@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Circuit Breaker Now Supports LangGraph and Vercel AI SDK](https://dev.to/joakim_williamhauge_fa48/circuit-breaker-now-supports-langgraph-and-vercel-ai-sdk-j41)
-- [Where Does the Data Go? A Comprehensive Guide to Databases](https://dev.to/lawrence_murithi/where-does-the-data-go-a-comprehensive-guide-to-databases-333n)
-- [Node.js wants to ban AI-generated code. They should.](https://dev.to/adioof/nodejs-wants-to-ban-ai-generated-code-they-should-488)
-- [07/20: Layer 2 – The Data Link Layer: Frames, MAC Addresses &amp; Switches](https://dev.to/roboticela/0720-layer-2-the-data-link-layer-frames-mac-addresses-switches-3nkd)
+- [This is a submission for the Hermes Agent Challenge, Autonomous GitHub PR Reviewer with Hermes Agent and Spring Boot](https://dev.to/abraham_airco_9d41538/this-is-a-submission-for-the-hermes-agent-challenge-autonomous-github-pr-reviewer-with-hermes-4kl9)
+- [From Screen Recording to Test Cases in Seconds — Meet ClipCase](https://dev.to/amuthan_chandrasekaran_7f/from-screen-recording-to-test-cases-in-seconds-meet-clipcase-34af)
+- [Gemma 4: AI Masala Engine](https://dev.to/bangadpurva/gemma-4-ai-masala-engine-4keh)
+- [Autocompaction Is Not Memory](https://dev.to/gshevchenko/autocompaction-is-not-memory-4n0a)
 <!-- BLOG-POST-LIST:END -->
 
 
