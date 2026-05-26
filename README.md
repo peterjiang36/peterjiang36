@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bronto for Fastly: Real-Time CDN Logging That Actually Scales](https://dev.to/bronto_io/bronto-for-fastly-real-time-cdn-logging-that-actually-scales-b1k)
-- [I Built a Local Interview Coach That Learns From Every Submission With Hermes Agent.](https://dev.to/sreejit_/i-built-a-local-interview-coach-that-learns-from-every-submission-with-hermes-agent-1jja)
-- [Genesis-GAL: Multiplatform Core Architecture &lpar;C++, Kotlin, Python&rpar; for CPU Thermal Optimization &amp; Jitter Mitigation](https://dev.to/juan_gonzalez_e91503843aa/genesis-gal-multiplatform-core-architecture-c-kotlin-python-for-cpu-thermal-optimization--1i68)
-- [Why Delta, Iceberg, and Hudi Can&#39;t Write to FSx S3 Access Points — And What Works Instead](https://dev.to/aws-builders/why-delta-iceberg-and-hudi-cant-write-to-fsx-s3-access-points-and-what-works-instead-5be3)
+- [Clean Architecture in MongoDB + C#: Why is the Repository Pattern Alone Not Enough?](https://dev.to/filipe_neves/clean-architecture-in-mongodb-c-why-is-the-repository-pattern-alone-not-enough-3g2f)
+- [I Tested 10 More Models. Five Brand New Families Debuted. None Scored Below 75%.](https://dev.to/vystartasv/i-tested-10-more-models-five-brand-new-families-debuted-none-scored-below-75-9fj)
+- [I Almost Quit Coding to Become a Welder](https://dev.to/eugene_maiorov/i-almost-quit-coding-to-become-a-welder-38j1)
+- [Understanding Reinforcement Learning with Human Feedback Part 6: How the Reward Model Trains the Original Model](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-6-how-the-reward-model-trains-the-3nl7)
 <!-- BLOG-POST-LIST:END -->
 
 
