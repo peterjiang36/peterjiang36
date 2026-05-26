@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How React-Style Time-Slicing Keeps UIs Responsive](https://dev.to/luciano0322/how-react-style-time-slicing-keeps-uis-responsive-2lp0)
-- [这个 Princeton 开源项目让 AI 自己修 Bug，19K Stars 但 90% 的人只用了 1% 功能 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/zhe-ge-princeton-kai-yuan-xiang-mu-rang-ai-zi-ji-xiu-bug19k-stars-dan-90-de-ren-zhi-yong-liao-1-gong-neng-f6b)
-- [SWE-agent&#39;s 5 Hidden Uses Nobody Told You About 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/swe-agents-5-hidden-uses-nobody-told-you-about-2a5p)
-- [Decompiling Serial Number U-36: Python TERCOM Reconstruction, Cryptographic Logistical Forensics, and Swarm Consensus Fault Tolerance](https://dev.to/forensic-archive/decompiling-serial-number-u-36-python-tercom-reconstruction-cryptographic-logistical-forensics-kif)
+- [💬 Embedded AI Chatbots vs Popup Bubbles — Which One Creates Better Engagement?](https://dev.to/fabio-plugins/embedded-ai-chatbots-vs-popup-bubbles-which-one-creates-better-engagement-2gga)
+- [Bajándole todos los minutos posibles al CI del backend con mas de 1000 tests](https://dev.to/aws-builders/bajandole-todos-los-minutos-posibles-al-ci-del-backend-con-mas-de-1000-tests-5ecm)
+- [Harness Engineering: Stop Re-Prompting Your Coding Agent Every Session](https://dev.to/baskduf/harness-engineering-stop-re-prompting-your-coding-agent-every-session-4lec)
+- [HTML meta referrer: canonical reference](https://dev.to/joseph_anady_214bacedf939/html-meta-referrer-canonical-reference-57eo)
 <!-- BLOG-POST-LIST:END -->
 
 
