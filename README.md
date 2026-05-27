@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Cinematic Scroll Experience with GSAP and ScrollTrigger](https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj)
-- [I Built a Free Spelling Bee Solver and Analysis Tool — Here&#39;s What It Does](https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j)
-- [Stop Over-Engineering Your UI: Material 3 for Blazor &lpar;Without the JS State Management Nightmare&rpar;](https://dev.to/kourosz/stop-over-engineering-your-ui-material-3-for-blazor-without-the-js-state-management-nightmare-3co3)
-- [I just created the best web FullStack framework in Rust language: the Rullst! I did with the help of AI, but my tokens are over, can you help me?](https://dev.to/venelouis/i-just-created-the-best-web-fullstack-framework-in-rust-language-the-rullst-i-did-with-the-help-g74)
+- [🧠 Plano Físico vs Plano Funcional en AWS Networking: cómo los arquitectos senior resuelven lo que otros no ven.](https://dev.to/oscar_gaviria_2b862594738/plano-fisico-vs-plano-funcional-en-aws-networking-como-los-arquitectos-senior-resuelven-lo-que-32f8)
+- [I Accidentally Built an AI Employee Out of Scripts and Bad Sleep Habits](https://dev.to/numbpill3d/i-accidentally-built-an-ai-employee-out-of-scripts-and-bad-sleep-habits-179)
+- [Stop Chasing Shiny Tools: A Minimalist AI Stack That Actually Makes You Money](https://dev.to/numbpill3d/stop-chasing-shiny-tools-a-minimalist-ai-stack-that-actually-makes-you-money-25h1)
+- [Day 7 of trying to get 20 paying customers in 40 days. Currently at 0.](https://dev.to/gthorr/day-7-of-trying-to-get-20-paying-customers-in-40-days-currently-at-0-406d)
 <!-- BLOG-POST-LIST:END -->
 
 
