@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What will you think of when you read about a neural network!!? Mathematics? 🤔](https://dev.to/_hm/-39k2)
-- [I Built a Free Finance Dashboard as a Solo Dev — Here&#39;s What I Learned](https://dev.to/collectcx/i-built-a-free-finance-dashboard-as-a-solo-dev-heres-what-i-learned-43ek)
-- [Drive JHipster with your AI agent: introducing jhipster-mcp &lpar;v0.0.4&rpar;](https://dev.to/avdev4j/building-a-jhipster-mcp-server-let-ai-agents-scaffold-and-evolve-your-architecture-487e)
-- [Pokemon Battle Simulator Napkin Challenge!](https://dev.to/gde/pokemon-battle-simulator-napkin-challenge-38db)
+- [Magnifica Humanitas: How the Pope walked into the room full of AI engineers and said what few else dared to say.](https://dev.to/singarajatech/magnifica-humanitas-how-the-pope-walked-into-the-room-full-of-ai-engineers-and-said-what-few-else-1hnf)
+- [Race-Condition: How a Single SQL Line Eliminated 100 Lines of Retry and Lock Code](https://dev.to/allanbontempo/how-a-single-sql-line-eliminated-100-lines-of-retry-and-lock-code-46a6)
+- [Multi-Line Formatting by Default](https://dev.to/suckup_de/multi-line-formatting-by-default-chi)
+- [AI Agents Also Need ID - When Your AI Assistant Starts Using Your Credit Card](https://dev.to/judy_miranttie/ai-agents-also-need-id-when-your-ai-assistant-starts-using-your-credit-card-4n3)
 <!-- BLOG-POST-LIST:END -->
 
 
