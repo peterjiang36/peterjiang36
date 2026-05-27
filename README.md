@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes](https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7)
-- [When Preprocessing Helps-and When It Hurts: Why Your Image Classification Model&#39;s Accuracy Varies So Much](https://dev.to/rakshath/when-preprocessing-helps-and-when-it-hurts-why-your-image-classification-models-accuracy-varies-4d96)
-- [Treasure Hunt Engine: How We Blew Up the Docs and Built a System That Actually Works](https://dev.to/on-chain-commerce/treasure-hunt-engine-how-we-blew-up-the-docs-and-built-a-system-that-actually-works-27no)
-- [The Blacklist Nightmare: How to Get Off Spam Lists Fast](https://dev.to/rronyecz/the-blacklist-nightmare-how-to-get-off-spam-lists-fast-j9o)
+- [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l)
+- [I built 39 free browser-based dev tools — here&#39;s every decision I made and why](https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3)
+- [BrowserRouter](https://dev.to/mohandassmani/browserrouter-15jl)
+- [You Solved the Hard Technical Problems. Operational Debt Is What&#39;s Going to Kill Your Company.](https://dev.to/aristo_sourcing/you-solved-the-hard-technical-problems-operational-debt-is-whats-going-to-kill-your-company-33gg)
 <!-- BLOG-POST-LIST:END -->
 
 
