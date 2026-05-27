@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Validator Stake Checker CLI — Track Decentralization from Your Terminal](https://dev.to/neuralmint/solana-validator-stake-checker-cli-track-decentralization-from-your-terminal-88e)
-- [Mouse Unlock!—no password, just a secret click pattern](https://dev.to/dixitram/mouse-unlock-no-password-just-a-secret-click-pattern-266b)
-- [Reloading Textures in Blender Is a Pain — I Made a Free Add-on for That](https://dev.to/mitarashi6bear/reloading-textures-in-blender-is-a-pain-i-made-a-free-add-on-for-that-278b)
-- [AI Agents Don&#39;t Log In. That&#39;s Why Your Entire Security Stack Is Flying Blind](https://dev.to/yaseen_tech/ai-agents-dont-log-in-thats-why-your-entire-security-stack-is-flying-blind-27n2)
+- [Serverless Computing](https://dev.to/devrama/serverless-computing-6i1)
+- [Claude Code Hooks vs Skills: When to Use Which](https://dev.to/rikuq/claude-code-hooks-vs-skills-when-to-use-which-ple)
+- [Secure AI API Key Management in Next.js 16: Prevent Key Leaks](https://dev.to/_b21299c93086b1ee8f30b/secure-ai-api-key-management-in-nextjs-16-prevent-key-leaks-paf)
+- [Before Letting AI Write Back into Your Internal System, Define These 3 Boundaries](https://dev.to/shadow_dragon_e6019e67350/before-letting-ai-write-back-into-your-internal-system-define-these-3-boundaries-5h90)
 <!-- BLOG-POST-LIST:END -->
 
 
