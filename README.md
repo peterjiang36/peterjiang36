@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Computing](https://dev.to/devrama/serverless-computing-6i1)
-- [Claude Code Hooks vs Skills: When to Use Which](https://dev.to/rikuq/claude-code-hooks-vs-skills-when-to-use-which-ple)
-- [Secure AI API Key Management in Next.js 16: Prevent Key Leaks](https://dev.to/_b21299c93086b1ee8f30b/secure-ai-api-key-management-in-nextjs-16-prevent-key-leaks-paf)
-- [Before Letting AI Write Back into Your Internal System, Define These 3 Boundaries](https://dev.to/shadow_dragon_e6019e67350/before-letting-ai-write-back-into-your-internal-system-define-these-3-boundaries-5h90)
+- [Polymarket 如何用 Postgres + ClickHouse 扩展数据架构](https://dev.to/nevosaynevo/polymarket-ru-he-yong-postgres-clickhouse-kuo-zhan-shu-ju-jia-gou-3f4h)
+- [My log triage tool is slower than Chainsaw, and I shipped it anyway](https://dev.to/tiltedlunar123/my-log-triage-tool-is-slower-than-chainsaw-and-i-shipped-it-anyway-dd1)
+- [Django Session Cookie vs localStorage JWT Security Comparison](https://dev.to/securitystefan/django-session-cookie-vs-localstorage-jwt-security-comparison-25an)
+- [The Day Our Treasure Hunt Engine Blew Up at 3 AM](https://dev.to/dev-architecture-blog/the-day-our-treasure-hunt-engine-blew-up-at-3-am-4o3k)
 <!-- BLOG-POST-LIST:END -->
 
 
