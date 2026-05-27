@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless Research Paper Intelligence: Docling, Lambda Containers, and Amazon Bedrock](https://dev.to/aws-builders/serverless-research-paper-intelligence-docling-lambda-containers-and-amazon-bedrock-5987)
-- [🇺🇸 Rails Realtime ERD: Visualize Your Rails Schema in Real Time](https://dev.to/videosdeti/rails-realtime-erd-visualize-your-rails-schema-in-real-time-4ha)
-- [RAG for Codebases Is Harder Than It Looks](https://dev.to/mahima_thacker/rag-for-codebases-is-harder-than-it-looks-1nhg)
-- [When Cucumber Grows Too Big: Pain Points, Lessons Learned, and Alternatives](https://dev.to/luiinge/when-cucumber-grows-too-big-pain-points-lessons-learned-and-alternatives-21pm)
+- [AGENTS.md is Not a Junk Drawer](https://dev.to/tacoda/agentsmd-is-not-a-junk-drawer-429j)
+- [KeePass can&#39;t protect you from a stealer. So I built something that can.](https://dev.to/alexsokol31337/keepass-cant-protect-you-from-a-stealer-so-i-built-something-that-can-2n3l)
+- [Anthropic&#39;s New Security Tooling is a Wake-Up Call for Agent Builders](https://dev.to/albertomontagnese/anthropics-new-security-tooling-is-a-wake-up-call-for-agent-builders-5gkf)
+- [TinyPNG vs QuickShrink: Why I Switched to Client-Side Image Compression](https://dev.to/orthogonalinfo/tinypng-vs-quickshrink-why-i-switched-to-client-side-image-compression-56b9)
 <!-- BLOG-POST-LIST:END -->
 
 
