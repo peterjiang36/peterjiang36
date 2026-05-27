@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymarket 如何用 Postgres + ClickHouse 扩展数据架构](https://dev.to/nevosaynevo/polymarket-ru-he-yong-postgres-clickhouse-kuo-zhan-shu-ju-jia-gou-3f4h)
-- [My log triage tool is slower than Chainsaw, and I shipped it anyway](https://dev.to/tiltedlunar123/my-log-triage-tool-is-slower-than-chainsaw-and-i-shipped-it-anyway-dd1)
-- [Django Session Cookie vs localStorage JWT Security Comparison](https://dev.to/securitystefan/django-session-cookie-vs-localstorage-jwt-security-comparison-25an)
-- [The Day Our Treasure Hunt Engine Blew Up at 3 AM](https://dev.to/dev-architecture-blog/the-day-our-treasure-hunt-engine-blew-up-at-3-am-4o3k)
+- [I love MJML — I just didn&#39;t want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10)
+- [Are we still in the Console Era of AI?](https://dev.to/shaheerk/are-we-still-in-the-console-era-of-ai-mpm)
+- [Building a Senior-Level DevOps / SRE / Infrastructure Engineer Terminal Setup &lpar;macOS&rpar;](https://dev.to/saint_vandora/building-a-senior-level-devops-sre-infrastructure-engineer-terminal-setup-macos-3ghp)
+- [Media Queries, Transitions, Positions, and Units &lpar;rem vs em&rpar; Explained](https://dev.to/ezhil_abinayak_e38eec8fb/media-queries-transitions-positions-and-units-rem-vs-em-explained-e87)
 <!-- BLOG-POST-LIST:END -->
 
 
