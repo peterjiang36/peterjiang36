@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Caddy Cert Expired Because systemd-resolved Was Selectively Lying](https://dev.to/schiff_heimlich/a-caddy-cert-expired-because-systemd-resolved-was-selectively-lying-1316)
-- [Remetric: find waste in self-hosted Prometheus, Grafana, and Loki](https://dev.to/cicdteam/remetric-find-waste-in-self-hosted-prometheus-grafana-and-loki-31dn)
-- [Execution-Boundary Governance for AI Coding Agents](https://dev.to/dan_evans_1/execution-boundary-governance-for-ai-coding-agents-4o17)
-- [This is great, taking an oldie-but-goodie and rethinking it](https://dev.to/ben/this-is-great-taking-an-oldie-but-goodie-and-rethinking-it-4cgl)
+- [Build Your First Claude Skill: An Gmail-to-GDrive Receipt Filer in 20 Minutes](https://dev.to/devpato/build-your-first-claude-skill-an-gmail-to-gdrive-receipt-filer-in-20-minutes-2fn7)
+- [When Preprocessing Helps-and When It Hurts: Why Your Image Classification Model&#39;s Accuracy Varies So Much](https://dev.to/rakshath/when-preprocessing-helps-and-when-it-hurts-why-your-image-classification-models-accuracy-varies-4d96)
+- [Treasure Hunt Engine: How We Blew Up the Docs and Built a System That Actually Works](https://dev.to/on-chain-commerce/treasure-hunt-engine-how-we-blew-up-the-docs-and-built-a-system-that-actually-works-27no)
+- [The Blacklist Nightmare: How to Get Off Spam Lists Fast](https://dev.to/rronyecz/the-blacklist-nightmare-how-to-get-off-spam-lists-fast-j9o)
 <!-- BLOG-POST-LIST:END -->
 
 
