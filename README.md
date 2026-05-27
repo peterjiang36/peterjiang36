@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I shipped 29 browser-only image tools. These 5 boring patterns kept the codebase sane](https://dev.to/dngzihng114379/i-shipped-29-browser-only-image-tools-these-5-boring-patterns-kept-the-codebase-sane-29e1)
-- [Your Treasure Hunt Engine Was Probably a Latency Minefield &lpar;And Heres the Postmortem&rpar;](https://dev.to/on-chain-commerce/your-treasure-hunt-engine-was-probably-a-latency-minefield-and-heres-the-postmortem-10k6)
-- [Before You Add More Agents, Design the Control Plane](https://dev.to/doramagic/before-you-add-more-agents-design-the-control-plane-2a0i)
-- [𝗖𝗮𝗰𝗵𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 &lpar;Backend &amp; Frontend Developers&rpar;](https://dev.to/kiransm/backend-frontend-developers-50f7)
+- [Solana Validator Stake Checker CLI — Track Decentralization from Your Terminal](https://dev.to/neuralmint/solana-validator-stake-checker-cli-track-decentralization-from-your-terminal-88e)
+- [Mouse Unlock!—no password, just a secret click pattern](https://dev.to/dixitram/mouse-unlock-no-password-just-a-secret-click-pattern-266b)
+- [Reloading Textures in Blender Is a Pain — I Made a Free Add-on for That](https://dev.to/mitarashi6bear/reloading-textures-in-blender-is-a-pain-i-made-a-free-add-on-for-that-278b)
+- [AI Agents Don&#39;t Log In. That&#39;s Why Your Entire Security Stack Is Flying Blind](https://dev.to/yaseen_tech/ai-agents-dont-log-in-thats-why-your-entire-security-stack-is-flying-blind-27n2)
 <!-- BLOG-POST-LIST:END -->
 
 
