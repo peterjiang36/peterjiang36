@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AGENTS.md is Not a Junk Drawer](https://dev.to/tacoda/agentsmd-is-not-a-junk-drawer-429j)
-- [KeePass can&#39;t protect you from a stealer. So I built something that can.](https://dev.to/alexsokol31337/keepass-cant-protect-you-from-a-stealer-so-i-built-something-that-can-2n3l)
-- [Anthropic&#39;s New Security Tooling is a Wake-Up Call for Agent Builders](https://dev.to/albertomontagnese/anthropics-new-security-tooling-is-a-wake-up-call-for-agent-builders-5gkf)
-- [TinyPNG vs QuickShrink: Why I Switched to Client-Side Image Compression](https://dev.to/orthogonalinfo/tinypng-vs-quickshrink-why-i-switched-to-client-side-image-compression-56b9)
+- [A Caddy Cert Expired Because systemd-resolved Was Selectively Lying](https://dev.to/schiff_heimlich/a-caddy-cert-expired-because-systemd-resolved-was-selectively-lying-1316)
+- [Remetric: find waste in self-hosted Prometheus, Grafana, and Loki](https://dev.to/cicdteam/remetric-find-waste-in-self-hosted-prometheus-grafana-and-loki-31dn)
+- [Execution-Boundary Governance for AI Coding Agents](https://dev.to/dan_evans_1/execution-boundary-governance-for-ai-coding-agents-4o17)
+- [This is great, taking an oldie-but-goodie and rethinking it](https://dev.to/ben/this-is-great-taking-an-oldie-but-goodie-and-rethinking-it-4cgl)
 <!-- BLOG-POST-LIST:END -->
 
 
