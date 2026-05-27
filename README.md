@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l)
-- [I built 39 free browser-based dev tools — here&#39;s every decision I made and why](https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3)
-- [BrowserRouter](https://dev.to/mohandassmani/browserrouter-15jl)
-- [You Solved the Hard Technical Problems. Operational Debt Is What&#39;s Going to Kill Your Company.](https://dev.to/aristo_sourcing/you-solved-the-hard-technical-problems-operational-debt-is-whats-going-to-kill-your-company-33gg)
+- [Stop Duplicating Code! Is &quot;Integration Hell&quot; Just Laziness or a Systemic Architecture Failure?](https://dev.to/yazid_riadhchelmouni/stop-duplicating-code-is-integration-hell-just-laziness-or-a-systemic-architecture-failure-358n)
+- [The Burden of API Versioning: URI or Header?](https://dev.to/merbayerp/the-burden-of-api-versioning-uri-or-header-1meh)
+- [Troubleshooting oracle database replication issues.](https://dev.to/doreen970/troubleshooting-oracle-database-replication-issues-43ie)
+- [Building AI Agents for Compliance Monitoring in Finance: Architecture That Passes Auditors](https://dev.to/dextralabs/building-ai-agents-for-compliance-monitoring-in-finance-architecture-that-passes-auditors-4i9g)
 <!-- BLOG-POST-LIST:END -->
 
 
