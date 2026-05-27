@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to parse configuration files in a type-safe way](https://dev.to/onebitwonder/how-to-parse-configuration-files-in-a-type-safe-way-c5i)
-- [Best MCP Server Directories for Developers](https://dev.to/descope/best-mcp-server-directories-for-developers-502e)
-- [47 Days With Tuck: What Happens When You Stop Being Careful With an AI Agent](https://dev.to/coe0718/47-days-with-tuck-what-happens-when-you-stop-being-careful-with-an-ai-agent-4ba7)
-- [Nine months without a rewrite](https://dev.to/noes_25h/nine-months-without-a-rewrite-2g9g)
+- [How I Built a Cinematic Scroll Experience with GSAP and ScrollTrigger](https://dev.to/jkimdd/how-i-built-a-cinematic-scroll-experience-with-gsap-and-scrolltrigger-11hj)
+- [I Built a Free Spelling Bee Solver and Analysis Tool — Here&#39;s What It Does](https://dev.to/sbsolvers/i-built-a-free-spelling-bee-solver-and-analysis-tool-heres-what-it-does-368j)
+- [Stop Over-Engineering Your UI: Material 3 for Blazor &lpar;Without the JS State Management Nightmare&rpar;](https://dev.to/kourosz/stop-over-engineering-your-ui-material-3-for-blazor-without-the-js-state-management-nightmare-3co3)
+- [I just created the best web FullStack framework in Rust language: the Rullst! I did with the help of AI, but my tokens are over, can you help me?](https://dev.to/venelouis/i-just-created-the-best-web-fullstack-framework-in-rust-language-the-rullst-i-did-with-the-help-g74)
 <!-- BLOG-POST-LIST:END -->
 
 
