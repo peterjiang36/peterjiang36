@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Magnifica Humanitas: How the Pope walked into the room full of AI engineers and said what few else dared to say.](https://dev.to/singarajatech/magnifica-humanitas-how-the-pope-walked-into-the-room-full-of-ai-engineers-and-said-what-few-else-1hnf)
-- [Race-Condition: How a Single SQL Line Eliminated 100 Lines of Retry and Lock Code](https://dev.to/allanbontempo/how-a-single-sql-line-eliminated-100-lines-of-retry-and-lock-code-46a6)
-- [Multi-Line Formatting by Default](https://dev.to/suckup_de/multi-line-formatting-by-default-chi)
-- [AI Agents Also Need ID - When Your AI Assistant Starts Using Your Credit Card](https://dev.to/judy_miranttie/ai-agents-also-need-id-when-your-ai-assistant-starts-using-your-credit-card-4n3)
+- [I shipped 29 browser-only image tools. These 5 boring patterns kept the codebase sane](https://dev.to/dngzihng114379/i-shipped-29-browser-only-image-tools-these-5-boring-patterns-kept-the-codebase-sane-29e1)
+- [Your Treasure Hunt Engine Was Probably a Latency Minefield &lpar;And Heres the Postmortem&rpar;](https://dev.to/on-chain-commerce/your-treasure-hunt-engine-was-probably-a-latency-minefield-and-heres-the-postmortem-10k6)
+- [Before You Add More Agents, Design the Control Plane](https://dev.to/doramagic/before-you-add-more-agents-design-the-control-plane-2a0i)
+- [𝗖𝗮𝗰𝗵𝗶𝗻𝗴 𝗦𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗲𝘀 𝗘𝘅𝗽𝗹𝗮𝗶𝗻𝗲𝗱 &lpar;Backend &amp; Frontend Developers&rpar;](https://dev.to/kiransm/backend-frontend-developers-50f7)
 <!-- BLOG-POST-LIST:END -->
 
 
