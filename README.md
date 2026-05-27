@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Duplicating Code! Is &quot;Integration Hell&quot; Just Laziness or a Systemic Architecture Failure?](https://dev.to/yazid_riadhchelmouni/stop-duplicating-code-is-integration-hell-just-laziness-or-a-systemic-architecture-failure-358n)
-- [The Burden of API Versioning: URI or Header?](https://dev.to/merbayerp/the-burden-of-api-versioning-uri-or-header-1meh)
-- [Troubleshooting oracle database replication issues.](https://dev.to/doreen970/troubleshooting-oracle-database-replication-issues-43ie)
-- [Building AI Agents for Compliance Monitoring in Finance: Architecture That Passes Auditors](https://dev.to/dextralabs/building-ai-agents-for-compliance-monitoring-in-finance-architecture-that-passes-auditors-4i9g)
+- [How to parse configuration files in a type-safe way](https://dev.to/onebitwonder/how-to-parse-configuration-files-in-a-type-safe-way-c5i)
+- [Best MCP Server Directories for Developers](https://dev.to/descope/best-mcp-server-directories-for-developers-502e)
+- [47 Days With Tuck: What Happens When You Stop Being Careful With an AI Agent](https://dev.to/coe0718/47-days-with-tuck-what-happens-when-you-stop-being-careful-with-an-ai-agent-4ba7)
+- [Nine months without a rewrite](https://dev.to/noes_25h/nine-months-without-a-rewrite-2g9g)
 <!-- BLOG-POST-LIST:END -->
 
 
