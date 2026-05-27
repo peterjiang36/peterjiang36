@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I love MJML — I just didn&#39;t want a whole templating engine for two tiny things](https://dev.to/kralik12/i-love-mjml-i-just-didnt-want-a-whole-templating-engine-for-two-tiny-things-5a10)
-- [Are we still in the Console Era of AI?](https://dev.to/shaheerk/are-we-still-in-the-console-era-of-ai-mpm)
-- [Building a Senior-Level DevOps / SRE / Infrastructure Engineer Terminal Setup &lpar;macOS&rpar;](https://dev.to/saint_vandora/building-a-senior-level-devops-sre-infrastructure-engineer-terminal-setup-macos-3ghp)
-- [Media Queries, Transitions, Positions, and Units &lpar;rem vs em&rpar; Explained](https://dev.to/ezhil_abinayak_e38eec8fb/media-queries-transitions-positions-and-units-rem-vs-em-explained-e87)
+- [Serverless Research Paper Intelligence: Docling, Lambda Containers, and Amazon Bedrock](https://dev.to/aws-builders/serverless-research-paper-intelligence-docling-lambda-containers-and-amazon-bedrock-5987)
+- [🇺🇸 Rails Realtime ERD: Visualize Your Rails Schema in Real Time](https://dev.to/videosdeti/rails-realtime-erd-visualize-your-rails-schema-in-real-time-4ha)
+- [RAG for Codebases Is Harder Than It Looks](https://dev.to/mahima_thacker/rag-for-codebases-is-harder-than-it-looks-1nhg)
+- [When Cucumber Grows Too Big: Pain Points, Lessons Learned, and Alternatives](https://dev.to/luiinge/when-cucumber-grows-too-big-pain-points-lessons-learned-and-alternatives-21pm)
 <!-- BLOG-POST-LIST:END -->
 
 
