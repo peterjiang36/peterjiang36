@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 34x Pricing Gap: Why AI Model Selection in 2026 Is a Math Problem, Not a Loyalty Problem](https://dev.to/g_zhao_be7503f16d6708456d/the-34x-pricing-gap-why-ai-model-selection-in-2026-is-a-math-problem-not-a-loyalty-problem-48gl)
-- [I Built an Open-Source Multi-Agent Fact-Checker — Here&#39;s How It Works](https://dev.to/ashg2099/i-built-an-open-source-multi-agent-fact-checker-heres-how-it-works-5eah)
-- [The Sovereign Privacy Illusion: Why GDPR Compliance Doesn’t Equal Data Control](https://dev.to/vektor_memory_43f51a32376/the-sovereign-privacy-illusion-why-gdpr-compliance-doesnt-equal-data-control-3887)
-- [Mastering Azure Entra ID: A Hands-On Guide to User Management and Privileged Roles](https://dev.to/daniel_ugot_8f1e5c3cc3f3c/mastering-azure-entra-id-a-hands-on-guide-to-user-management-and-privileged-roles-pb8)
+- [How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data](https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm)
+- [The Moment the Default Runtime Became the Payload](https://dev.to/built-from-africa/the-moment-the-default-runtime-became-the-payload-11lh)
+- [HoneyCloud — Reviving My Final Year Cybersecurity Project](https://dev.to/ganesh_1234/honeycloud-reviving-my-final-year-cybersecurity-project-57nj)
+- [Rust Kernel Modules, Ready-to-Ship: A cargo-generate Template with Tests, CI, and Zero-Panic…](https://dev.to/speed_engineer/rust-kernel-modules-ready-to-ship-a-cargo-generate-template-with-tests-ci-and-zero-panic-b60)
 <!-- BLOG-POST-LIST:END -->
 
 
