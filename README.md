@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Security Audit API: Scan Your Code in 30 Seconds](https://dev.to/amoussa-eduhub/free-security-audit-api-scan-your-code-in-30-seconds-4o4)
-- [I Built an Uncensored AI Chatbot With a Mystical Sphinx Persona](https://dev.to/kephme/i-built-an-uncensored-ai-chatbot-with-a-mystical-sphinx-persona-4191)
-- [Agent memory poisoning. The 4-stage enterprise damage chain.](https://dev.to/mjmirza/agent-memory-poisoning-the-4-stage-enterprise-damage-chain-20fi)
-- [18 developer tools I use to improve my workflow](https://dev.to/edisonpappi/18-developer-tools-i-use-to-improve-my-workflow-70a)
+- [Claude Opus 4.8: What Developers Need to Know About Anthropic&#39;s New Flagship](https://dev.to/comparedge_com/claude-opus-48-what-developers-need-to-know-about-anthropics-new-flagship-3m37)
+- [Full Stack Developer Looking for Internship Opportunities](https://dev.to/trojanmocx/full-stack-developer-looking-for-internship-opportunities-5amh)
+- [How Microservices Talk to Each Other Using WebClient](https://dev.to/devpabodha/how-microservices-talk-to-each-other-using-webclient-2lpn)
+- [After burning through tens of billions of tokens, I built an Android-like OS that runs entirely in the browser](https://dev.to/rui_hao_9e47ab3e86da7b802/after-burning-through-tens-of-billions-of-tokens-i-built-an-android-like-os-that-runs-entirely-in-3n02)
 <!-- BLOG-POST-LIST:END -->
 
 
