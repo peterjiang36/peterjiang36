@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React is nothing. And that&#39;s the point.](https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b)
-- [Live chain-of-thought in a chatbot: how to actually stream the tool calls &lpar;not just the text&rpar;](https://dev.to/bernarduriza/live-chain-of-thought-in-a-chatbot-how-to-actually-stream-the-tool-calls-not-just-the-text-h0o)
-- [How I Added Live Charts to the Django Admin Without Installing a Single Package](https://dev.to/highcenburg/how-i-added-live-charts-to-the-django-admin-without-installing-a-single-package-41b7)
-- [I Got Tired of LeetCode Trackers Selling My Data, So I Built My Own.](https://dev.to/rtnjt_bot/i-got-tired-of-leetcode-trackers-selling-my-data-so-i-built-my-own-262a)
+- [How I built a fast, client-side puzzle solver suite using Next.js and Web Workers](https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo)
+- [QAT vs PTQ on our edge vision model: 6 months of A/B data](https://dev.to/marcorinaldi_ai/qat-vs-ptq-on-our-edge-vision-model-6-months-of-ab-data-147f)
+- [Tokenmaxxing Is a Symptom. Here&#39;s the Disease Every Enterprise Is Ignoring.](https://dev.to/tomtokita/tokenmaxxing-is-a-symptom-heres-the-disease-every-enterprise-is-ignoring-44f4)
+- [How to Structure a FastAPI Application](https://dev.to/bedram-tamang/how-to-structure-a-fastapi-application-4l40)
 <!-- BLOG-POST-LIST:END -->
 
 
