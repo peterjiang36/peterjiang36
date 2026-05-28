@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize MongoDB on Bare Metal Servers: SRE Playbook](https://dev.to/jaksontate/how-to-optimize-mongodb-on-bare-metal-servers-sre-playbook-lkd)
-- [Kubernetes Is Eating Your Budget: How to Fix EKS Over-Provisioning](https://dev.to/sourabhkapoor/kubernetes-is-eating-your-budget-how-to-fix-eks-over-provisioning-1977)
-- [What Awnings Taught Me About Developer Experience](https://dev.to/linkbenjamin/what-awnings-taught-me-about-developer-experience-13kl)
-- [Tree Traversal: Why the Order You Pick Is a Data Flow Decision](https://dev.to/codeintuition/tree-traversal-why-the-order-you-pick-is-a-data-flow-decision-21li)
+- [A practical checklist for validating software ideas before writing code](https://dev.to/jennifer_lovehewitt_eed96/a-practical-checklist-for-validating-software-ideas-before-writing-code-1ild)
+- [How I built a single iOS app that controls all four Hisense smart-TV platforms](https://dev.to/hisuperdev/how-i-built-a-single-ios-app-that-controls-all-four-hisense-smart-tv-platforms-30ef)
+- [Getting Agent-Ready with Symfony](https://dev.to/tomvdpeet/getting-agent-ready-with-symfony-1a35)
+- [I Built an Accessible React Component Library from Scratch — Here&#39;s What I Learned](https://dev.to/anex_ui/i-built-an-accessible-react-component-library-from-scratch-heres-what-i-learned-4lng)
 <!-- BLOG-POST-LIST:END -->
 
 
