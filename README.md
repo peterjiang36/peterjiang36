@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Plano Físico vs Plano Funcional en AWS Networking: cómo los arquitectos senior resuelven lo que otros no ven.](https://dev.to/oscar_gaviria_2b862594738/plano-fisico-vs-plano-funcional-en-aws-networking-como-los-arquitectos-senior-resuelven-lo-que-32f8)
-- [I Accidentally Built an AI Employee Out of Scripts and Bad Sleep Habits](https://dev.to/numbpill3d/i-accidentally-built-an-ai-employee-out-of-scripts-and-bad-sleep-habits-179)
-- [Stop Chasing Shiny Tools: A Minimalist AI Stack That Actually Makes You Money](https://dev.to/numbpill3d/stop-chasing-shiny-tools-a-minimalist-ai-stack-that-actually-makes-you-money-25h1)
-- [Day 7 of trying to get 20 paying customers in 40 days. Currently at 0.](https://dev.to/gthorr/day-7-of-trying-to-get-20-paying-customers-in-40-days-currently-at-0-406d)
+- [The 34x Pricing Gap: Why AI Model Selection in 2026 Is a Math Problem, Not a Loyalty Problem](https://dev.to/g_zhao_be7503f16d6708456d/the-34x-pricing-gap-why-ai-model-selection-in-2026-is-a-math-problem-not-a-loyalty-problem-48gl)
+- [I Built an Open-Source Multi-Agent Fact-Checker — Here&#39;s How It Works](https://dev.to/ashg2099/i-built-an-open-source-multi-agent-fact-checker-heres-how-it-works-5eah)
+- [The Sovereign Privacy Illusion: Why GDPR Compliance Doesn’t Equal Data Control](https://dev.to/vektor_memory_43f51a32376/the-sovereign-privacy-illusion-why-gdpr-compliance-doesnt-equal-data-control-3887)
+- [Mastering Azure Entra ID: A Hands-On Guide to User Management and Privileged Roles](https://dev.to/daniel_ugot_8f1e5c3cc3f3c/mastering-azure-entra-id-a-hands-on-guide-to-user-management-and-privileged-roles-pb8)
 <!-- BLOG-POST-LIST:END -->
 
 
