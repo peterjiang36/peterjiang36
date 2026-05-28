@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 4.8: What Developers Need to Know About Anthropic&#39;s New Flagship](https://dev.to/comparedge_com/claude-opus-48-what-developers-need-to-know-about-anthropics-new-flagship-3m37)
-- [Full Stack Developer Looking for Internship Opportunities](https://dev.to/trojanmocx/full-stack-developer-looking-for-internship-opportunities-5amh)
-- [How Microservices Talk to Each Other Using WebClient](https://dev.to/devpabodha/how-microservices-talk-to-each-other-using-webclient-2lpn)
-- [After burning through tens of billions of tokens, I built an Android-like OS that runs entirely in the browser](https://dev.to/rui_hao_9e47ab3e86da7b802/after-burning-through-tens-of-billions-of-tokens-i-built-an-android-like-os-that-runs-entirely-in-3n02)
+- [FiXiY - Find X in Y](https://dev.to/xerohero/fixiy-find-x-in-y-49k5)
+- [Appendix: Live System Output](https://dev.to/matthewdipo/appendix-live-system-output-4p3e)
+- [Production DevSecOps Pipeline — The Complete Day-2 Operations Runbook](https://dev.to/matthewdipo/production-devsecops-pipeline-the-complete-day-2-operations-runbook-5bj2)
+- [Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1)
 <!-- BLOG-POST-LIST:END -->
 
 
