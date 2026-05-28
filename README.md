@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Deploy to Docker Swarm from GitHub Actions — Here&#39;s the Setup That Actually Works](https://dev.to/sulthonzh/i-deploy-to-docker-swarm-from-github-actions-heres-the-setup-that-actually-works-1aci)
-- [Voices from the Community: Forewords and Praise for &#39;Docker and Kubernetes Security&#39;](https://dev.to/aerabi/voices-from-the-community-forewords-and-praise-for-docker-and-kubernetes-security-1g55)
-- [I gave up on making my AI builder write good media queries](https://dev.to/pcpranav/i-gave-up-on-making-my-ai-builder-write-good-media-queries-1bl9)
-- [Building software in C#: part 1 - history.](https://dev.to/czmirek/building-software-in-c-part-1-history-1p1i)
+- [I gave my AI agent a 2MB PDF. Here&#39;s what happened to my token count.](https://dev.to/mkturner74/i-gave-my-ai-agent-a-2mb-pdf-heres-what-happened-to-my-token-count-4dd1)
+- [You Don&#39;t Have to Learn Hermes From Scratch — I Brought My Existing Skills In](https://dev.to/yuens1002/you-dont-have-to-learn-hermes-from-scratch-i-brought-my-existing-skills-in-18f0)
+- [GHES Key Rotation, Bug Bounty Program Refocus, AI Agent Permission Fatigue](https://dev.to/soytuber/ghes-key-rotation-bug-bounty-program-refocus-ai-agent-permission-fatigue-d8i)
+- [RAG SOTA, Agent Harnessing, and Langfuse Observability for AI Frameworks](https://dev.to/soytuber/rag-sota-agent-harnessing-and-langfuse-observability-for-ai-frameworks-1ko5)
 <!-- BLOG-POST-LIST:END -->
 
 
