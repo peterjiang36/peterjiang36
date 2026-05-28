@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FiXiY - Find X in Y](https://dev.to/xerohero/fixiy-find-x-in-y-49k5)
-- [Appendix: Live System Output](https://dev.to/matthewdipo/appendix-live-system-output-4p3e)
-- [Production DevSecOps Pipeline — The Complete Day-2 Operations Runbook](https://dev.to/matthewdipo/production-devsecops-pipeline-the-complete-day-2-operations-runbook-5bj2)
-- [Anyone Can Make Software Now. But When Does A Side Project Become Production Ready?](https://dev.to/viktor_koves/anyone-can-make-software-now-but-when-does-a-side-project-become-production-ready-37n1)
+- [I Deploy to Docker Swarm from GitHub Actions — Here&#39;s the Setup That Actually Works](https://dev.to/sulthonzh/i-deploy-to-docker-swarm-from-github-actions-heres-the-setup-that-actually-works-1aci)
+- [Voices from the Community: Forewords and Praise for &#39;Docker and Kubernetes Security&#39;](https://dev.to/aerabi/voices-from-the-community-forewords-and-praise-for-docker-and-kubernetes-security-1g55)
+- [I gave up on making my AI builder write good media queries](https://dev.to/pcpranav/i-gave-up-on-making-my-ai-builder-write-good-media-queries-1bl9)
+- [Building software in C#: part 1 - history.](https://dev.to/czmirek/building-software-in-c-part-1-history-1p1i)
 <!-- BLOG-POST-LIST:END -->
 
 
