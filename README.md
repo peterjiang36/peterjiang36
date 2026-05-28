@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I gave my AI agent a 2MB PDF. Here&#39;s what happened to my token count.](https://dev.to/mkturner74/i-gave-my-ai-agent-a-2mb-pdf-heres-what-happened-to-my-token-count-4dd1)
-- [You Don&#39;t Have to Learn Hermes From Scratch — I Brought My Existing Skills In](https://dev.to/yuens1002/you-dont-have-to-learn-hermes-from-scratch-i-brought-my-existing-skills-in-18f0)
-- [GHES Key Rotation, Bug Bounty Program Refocus, AI Agent Permission Fatigue](https://dev.to/soytuber/ghes-key-rotation-bug-bounty-program-refocus-ai-agent-permission-fatigue-d8i)
-- [RAG SOTA, Agent Harnessing, and Langfuse Observability for AI Frameworks](https://dev.to/soytuber/rag-sota-agent-harnessing-and-langfuse-observability-for-ai-frameworks-1ko5)
+- [How hard can it be to build a CI/CD system?](https://dev.to/xescugc/how-hard-can-it-be-to-build-a-cicd-system-1cnj)
+- [Is it common to crave for a Super Accessible ASI without giving up Human Creativity?](https://dev.to/fm/is-it-common-to-crave-for-a-super-accessible-asi-without-giving-up-human-creativity-54b9)
+- [I Built a Delhi Metro Route Planner In React with GSAP](https://dev.to/biomathcode/i-built-a-delhi-metro-route-planner-in-react-with-gsap-4g9l)
+- [173 Undocumented Security Findings in TerraGoat: What Standard IaC Scanners Miss &lpar;and Why Post-Quantum Matters&rpar;](https://dev.to/mkscorpiosec/173-undocumented-security-findings-in-terragoat-what-standard-iac-scanners-miss-and-why-f62)
 <!-- BLOG-POST-LIST:END -->
 
 
