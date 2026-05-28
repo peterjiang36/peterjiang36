@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A practical checklist for validating software ideas before writing code](https://dev.to/jennifer_lovehewitt_eed96/a-practical-checklist-for-validating-software-ideas-before-writing-code-1ild)
-- [How I built a single iOS app that controls all four Hisense smart-TV platforms](https://dev.to/hisuperdev/how-i-built-a-single-ios-app-that-controls-all-four-hisense-smart-tv-platforms-30ef)
-- [Getting Agent-Ready with Symfony](https://dev.to/tomvdpeet/getting-agent-ready-with-symfony-1a35)
-- [I Built an Accessible React Component Library from Scratch — Here&#39;s What I Learned](https://dev.to/anex_ui/i-built-an-accessible-react-component-library-from-scratch-heres-what-i-learned-4lng)
+- [Free Security Audit API: Scan Your Code in 30 Seconds](https://dev.to/amoussa-eduhub/free-security-audit-api-scan-your-code-in-30-seconds-4o4)
+- [I Built an Uncensored AI Chatbot With a Mystical Sphinx Persona](https://dev.to/kephme/i-built-an-uncensored-ai-chatbot-with-a-mystical-sphinx-persona-4191)
+- [Agent memory poisoning. The 4-stage enterprise damage chain.](https://dev.to/mjmirza/agent-memory-poisoning-the-4-stage-enterprise-damage-chain-20fi)
+- [18 developer tools I use to improve my workflow](https://dev.to/edisonpappi/18-developer-tools-i-use-to-improve-my-workflow-70a)
 <!-- BLOG-POST-LIST:END -->
 
 
