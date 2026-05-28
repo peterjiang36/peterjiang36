@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [label and Input Tag](https://dev.to/raja_b_0c9d242e2c26cf063b/label-and-input-tag-150l)
-- [I Revived Intelliyash: A Local-First AI Builder for Low-End Machines](https://dev.to/fokrulanthro16eng/i-revived-intelliyash-a-local-first-ai-builder-for-low-end-machines-5224)
-- [How I Added dbt Cloud to Coral — My Open Source Hackathon Journey](https://dev.to/gaurang_bhatt_b6d91a19879/how-i-added-dbt-cloud-to-coral-my-open-source-hackathon-journey-4gg3)
-- [vens-action: reranking Trivy/Grype CVEs by real risk in CI](https://dev.to/fahed-dorgaa/vens-action-reranking-trivygrype-cves-by-real-risk-in-ci-1eec)
+- [How to Optimize MongoDB on Bare Metal Servers: SRE Playbook](https://dev.to/jaksontate/how-to-optimize-mongodb-on-bare-metal-servers-sre-playbook-lkd)
+- [Kubernetes Is Eating Your Budget: How to Fix EKS Over-Provisioning](https://dev.to/sourabhkapoor/kubernetes-is-eating-your-budget-how-to-fix-eks-over-provisioning-1977)
+- [What Awnings Taught Me About Developer Experience](https://dev.to/linkbenjamin/what-awnings-taught-me-about-developer-experience-13kl)
+- [Tree Traversal: Why the Order You Pick Is a Data Flow Decision](https://dev.to/codeintuition/tree-traversal-why-the-order-you-pick-is-a-data-flow-decision-21li)
 <!-- BLOG-POST-LIST:END -->
 
 
