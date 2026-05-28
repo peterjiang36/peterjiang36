@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How hard can it be to build a CI/CD system?](https://dev.to/xescugc/how-hard-can-it-be-to-build-a-cicd-system-1cnj)
-- [Is it common to crave for a Super Accessible ASI without giving up Human Creativity?](https://dev.to/fm/is-it-common-to-crave-for-a-super-accessible-asi-without-giving-up-human-creativity-54b9)
-- [I Built a Delhi Metro Route Planner In React with GSAP](https://dev.to/biomathcode/i-built-a-delhi-metro-route-planner-in-react-with-gsap-4g9l)
-- [173 Undocumented Security Findings in TerraGoat: What Standard IaC Scanners Miss &lpar;and Why Post-Quantum Matters&rpar;](https://dev.to/mkscorpiosec/173-undocumented-security-findings-in-terragoat-what-standard-iac-scanners-miss-and-why-f62)
+- [Decoding the Observability Pipeline: A Java Architect&#39;s Guide to Metrics, Logs, and Traces](https://dev.to/mohamadawwaad/decoding-the-observability-pipeline-a-java-architects-guide-to-metrics-logs-and-traces-4e)
+- [Best AI for Code: Top 4 Tools Tested and Ranked](https://dev.to/ilyas_elaissi/best-ai-for-code-top-4-tools-tested-and-ranked-3cha)
+- [Stopping the LLM from calling the same tool twice &lpar;and other things it shouldn&#39;t&rpar;](https://dev.to/ashahin/stopping-the-llm-from-calling-the-same-tool-twice-and-other-things-it-shouldnt-170o)
+- [Why Your Data Lineage Is Still a Spreadsheet &lpar;and How to Fix It in 5 Minutes&rpar;](https://dev.to/amoussa-eduhub/why-your-data-lineage-is-still-a-spreadsheet-and-how-to-fix-it-in-5-minutes-1a2f)
 <!-- BLOG-POST-LIST:END -->
 
 
