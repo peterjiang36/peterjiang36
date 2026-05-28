@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data](https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm)
-- [The Moment the Default Runtime Became the Payload](https://dev.to/built-from-africa/the-moment-the-default-runtime-became-the-payload-11lh)
-- [HoneyCloud — Reviving My Final Year Cybersecurity Project](https://dev.to/ganesh_1234/honeycloud-reviving-my-final-year-cybersecurity-project-57nj)
-- [Rust Kernel Modules, Ready-to-Ship: A cargo-generate Template with Tests, CI, and Zero-Panic…](https://dev.to/speed_engineer/rust-kernel-modules-ready-to-ship-a-cargo-generate-template-with-tests-ci-and-zero-panic-b60)
+- [React is nothing. And that&#39;s the point.](https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b)
+- [Live chain-of-thought in a chatbot: how to actually stream the tool calls &lpar;not just the text&rpar;](https://dev.to/bernarduriza/live-chain-of-thought-in-a-chatbot-how-to-actually-stream-the-tool-calls-not-just-the-text-h0o)
+- [How I Added Live Charts to the Django Admin Without Installing a Single Package](https://dev.to/highcenburg/how-i-added-live-charts-to-the-django-admin-without-installing-a-single-package-41b7)
+- [I Got Tired of LeetCode Trackers Selling My Data, So I Built My Own.](https://dev.to/rtnjt_bot/i-got-tired-of-leetcode-trackers-selling-my-data-so-i-built-my-own-262a)
 <!-- BLOG-POST-LIST:END -->
 
 
