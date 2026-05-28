@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a fast, client-side puzzle solver suite using Next.js and Web Workers](https://dev.to/lyyluca/how-i-built-a-fast-client-side-puzzle-solver-suite-using-nextjs-and-web-workers-4pgo)
-- [QAT vs PTQ on our edge vision model: 6 months of A/B data](https://dev.to/marcorinaldi_ai/qat-vs-ptq-on-our-edge-vision-model-6-months-of-ab-data-147f)
-- [Tokenmaxxing Is a Symptom. Here&#39;s the Disease Every Enterprise Is Ignoring.](https://dev.to/tomtokita/tokenmaxxing-is-a-symptom-heres-the-disease-every-enterprise-is-ignoring-44f4)
-- [How to Structure a FastAPI Application](https://dev.to/bedram-tamang/how-to-structure-a-fastapi-application-4l40)
+- [label and Input Tag](https://dev.to/raja_b_0c9d242e2c26cf063b/label-and-input-tag-150l)
+- [I Revived Intelliyash: A Local-First AI Builder for Low-End Machines](https://dev.to/fokrulanthro16eng/i-revived-intelliyash-a-local-first-ai-builder-for-low-end-machines-5224)
+- [How I Added dbt Cloud to Coral — My Open Source Hackathon Journey](https://dev.to/gaurang_bhatt_b6d91a19879/how-i-added-dbt-cloud-to-coral-my-open-source-hackathon-journey-4gg3)
+- [vens-action: reranking Trivy/Grype CVEs by real risk in CI](https://dev.to/fahed-dorgaa/vens-action-reranking-trivygrype-cves-by-real-risk-in-ci-1eec)
 <!-- BLOG-POST-LIST:END -->
 
 
