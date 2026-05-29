@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How China-focused funds turn Weibo into alt-data &lpar;Python, 2026&rpar;](https://dev.to/sami_8858131362756585e4f4/how-china-focused-funds-turn-weibo-into-alt-data-python-2026-194o)
-- [Stop Using Ad-Heavy Online Text Tools. Build or Use Client-Side Utilities Instead.](https://dev.to/areebshahid25/stop-using-ad-heavy-online-text-tools-build-or-use-client-side-utilities-instead-4i3o)
-- [I Shipped a Multi-Tenant Flutter SaaS Overnight — Without Writing a Single Line of App Code](https://dev.to/morsheded/i-shipped-a-multi-tenant-flutter-saas-overnight-without-writing-a-single-line-of-app-code-184g)
-- [How to use LLMs effectively in your daily work — a practical tutorial](https://dev.to/therizwansaleem/how-to-use-llms-effectively-in-your-daily-work-a-practical-tutorial-3kdn)
+- [I Let an AI Agent Hunt Open Source Bounties for 48 Hours — Here&#39;s What I Learned About the Future of Contributing](https://dev.to/zeroknowledge0x/i-let-an-ai-agent-hunt-open-source-bounties-for-48-hours-heres-what-i-learned-about-the-future-5131)
+- [AI Agents Are the New Microservices &amp; A2A Is Their HTTP&lpar;s&rpar;](https://dev.to/sreeni5018/ai-agents-are-the-new-microservices-a2a-is-their-https-329g)
+- [I Told a Robot to &quot;Clean the Kitchen&quot;, and It Actually Did](https://dev.to/sudee_sim/i-told-a-robot-to-clean-the-kitchen-and-it-actually-did-1d76)
+- [3 Files Every AI-Assisted Project Needs Before You Write a Line of Code](https://dev.to/blncraft/3-files-every-ai-assisted-project-needs-before-you-write-a-line-of-code-4k4d)
 <!-- BLOG-POST-LIST:END -->
 
 
