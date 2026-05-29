@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Reading Interview Tips. Start Practicing With a System.](https://dev.to/manyoffer_career/stop-reading-interview-tips-start-practicing-with-a-system-j73)
-- [Day 22 of 60: I Built a Production Background Task Pipeline That Processes AI Jobs Asynchronously](https://dev.to/mbugua_cessy/day-22-of-60-i-built-a-production-background-task-pipeline-that-processes-ai-jobs-asynchronously-3na3)
-- [How I Built Dayla, a Real‑Time Collaborative Planner for Outdoor Adventures](https://dev.to/andrew123s/how-i-built-dayla-a-real-time-collaborative-planner-for-outdoor-adventures-5cc5)
-- [101. AI Agents: When LLMs Start Taking Actions](https://dev.to/yakhilesh/101-ai-agents-when-llms-start-taking-actions-3pk6)
+- [SQL Window Function &lpar;Simple way&rpar;](https://dev.to/abhi9720/sql-window-function-simple-way-38o3)
+- [How to run Tailscale and Mullvad together on Manjaro Linux](https://dev.to/yulieff/how-to-run-tailscale-and-mullvad-together-on-manjaro-linux-25ke)
+- [Connect Claude to a live options-analytics API over MCP &lpar;the 2-endpoint gotcha&rpar;](https://dev.to/tomasz_dobrowolski_35d32c/connect-claude-to-a-live-options-analytics-api-over-mcp-the-2-endpoint-gotcha-3e00)
+- [From Kernel Scheduler to Python Source Line: Tracing a GPU Stall End to End](https://dev.to/ingero/from-kernel-scheduler-to-python-source-line-tracing-a-gpu-stall-end-to-end-3f7f)
 <!-- BLOG-POST-LIST:END -->
 
 
