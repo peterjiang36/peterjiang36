@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Observability Pipeline: A Java Architect&#39;s Guide to Metrics, Logs, and Traces](https://dev.to/mohamadawwaad/decoding-the-observability-pipeline-a-java-architects-guide-to-metrics-logs-and-traces-4e)
-- [Best AI for Code: Top 4 Tools Tested and Ranked](https://dev.to/ilyas_elaissi/best-ai-for-code-top-4-tools-tested-and-ranked-3cha)
-- [Stopping the LLM from calling the same tool twice &lpar;and other things it shouldn&#39;t&rpar;](https://dev.to/ashahin/stopping-the-llm-from-calling-the-same-tool-twice-and-other-things-it-shouldnt-170o)
-- [Why Your Data Lineage Is Still a Spreadsheet &lpar;and How to Fix It in 5 Minutes&rpar;](https://dev.to/amoussa-eduhub/why-your-data-lineage-is-still-a-spreadsheet-and-how-to-fix-it-in-5-minutes-1a2f)
+- [Stop pasting tokens into random websites: meet SmartDevUtils](https://dev.to/ramcsamal/stop-pasting-tokens-into-random-websites-meet-smartdevutils-3n4)
+- [Circuit Breakers: The Unsung Heroes of Resilient Microservices](https://dev.to/manoir_yantai_f22f01340f0/circuit-breakers-the-unsung-heroes-of-resilient-microservices-c3f)
+- [How I Built a Q&amp;A Bot for My Documentation &lpar;and What I Learned&rpar;](https://dev.to/__c1b9e06dc90a7e0a676b/how-i-built-a-qa-bot-for-my-documentation-and-what-i-learned-3b5k)
+- [The problem with security scanners isn&#39;t the scanning](https://dev.to/wael_matoussi/the-problem-with-security-scanners-isnt-the-scanning-5cgl)
 <!-- BLOG-POST-LIST:END -->
 
 
