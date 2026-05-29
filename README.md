@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Overpaying for Cloud Networking: Build a Single Egress IP over Site-to-Site VPN](https://dev.to/damdev95/stop-overpaying-for-cloud-networking-build-a-single-egress-ip-over-site-to-site-vpn-8ji)
-- [How Notion Lets Everyone Edit the Same Document at Once Without Conflicts](https://dev.to/abdullahmubin/how-notion-lets-everyone-edit-the-same-document-at-once-without-conflicts-2aeb)
-- [Why You&#39;re Getting 30% of Claude Code &lpar;And the 5 Files That Fix It&rpar;](https://dev.to/growthlibrary/why-youre-getting-30-of-claude-code-and-the-5-files-that-fix-it-kld)
-- [I saved myself 27years of tedious editing, no BS!](https://dev.to/mrsdevops/i-saved-myself-27years-of-tedious-editing-no-bs-3k0n)
+- [How I Built an AI Agent That Watches My Logs and Opens Pull Requests While I Sleep 😴🤖](https://dev.to/rajeshbhan82496/how-i-built-an-ai-agent-that-watches-my-logs-and-opens-pull-requests-while-i-sleep-lif)
+- [Bun for AI agents: where the speed actually shows up &lpar;and where it lies&rpar;](https://dev.to/the-hive-collective/bun-for-ai-agents-where-the-speed-actually-shows-up-and-where-it-lies-19g0)
+- [I Built a Simple Web App to Discover the Meaning Behind Names 🚀](https://dev.to/namastra/i-built-a-simple-web-app-to-discover-the-meaning-behind-names-36i7)
+- [fd vs find vs ripgrep: I Created 10,000 Files to Settle This Debate](https://dev.to/fengloulai/fd-vs-find-vs-ripgrep-i-created-10000-files-to-settle-this-debate-1ik4)
 <!-- BLOG-POST-LIST:END -->
 
 
