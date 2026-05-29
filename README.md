@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to turn invisible impact into career growth](https://dev.to/andreabarghigiani/how-to-turn-invisible-impact-into-career-growth-3jik)
-- [From &quot;Who Wrote This?&quot; to &quot;Provenance, Actioned&quot;: Making AI-origin code obvious during review](https://dev.to/pn_28428886923dfc665/from-who-wrote-this-to-provenance-actioned-making-ai-origin-code-obvious-during-review-531a)
-- [A .NET Dinosaur in Web3. Day 16 - ERC-20 Token &amp; ICO](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-16-erc-20-token-ico-1mj)
-- [Decentralized Finance Part 3: The Complete Guide to Stablecoins](https://dev.to/mahima_thacker/decentralized-finance-part-3-the-complete-guide-to-stablecoins-4m60)
+- [Re-Engineering My Portfolio: Moving from No-Code to React &amp; Firebase](https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do)
+- [✨📊 🧠 The Ultimate Visual Guide to Large Language Models &lpar;LLMs&rpar;](https://dev.to/yash_kishan_singh_6t/the-ultimate-visual-guide-to-large-language-models-llms-13ie)
+- [Request for Advice on MCP Integration](https://dev.to/risainfo/request-for-advice-on-mcp-integration-2m46)
+- [How I rescued a RAG assistant from memory leaks and got it running on a 512MB RAM free tier](https://dev.to/shaikhadibbb/how-i-rescued-a-rag-assistant-from-memory-leaks-and-got-it-running-on-a-512mb-ram-free-tier-4co9)
 <!-- BLOG-POST-LIST:END -->
 
 
