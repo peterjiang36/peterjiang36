@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ShadowLab: A Modular C2 Framework Architecture Built with Python for Modern Cybersecurity Research](https://dev.to/mustafa_salihberk_6b5aa4/shadowlab-a-modular-c2-framework-architecture-built-with-python-for-modern-cybersecurity-research-3ebo)
-- [Inside Uber&#39;s Architecture: Engineering Decisions That Power Millions of Rides Every Day](https://dev.to/codetirtho97/inside-ubers-architecture-engineering-decisions-that-power-millions-of-rides-every-day-1kde)
-- [When Vibe Coding Stops Working](https://dev.to/tacoda/when-vibe-coding-stops-working-3nkc)
-- [Why I’m Learning Go and JavaScript Together Instead of Separately](https://dev.to/kev_luciano/why-im-learning-go-and-javascript-together-4ih)
+- [DuckDB 1.5.3 Iceberg updates, PostgreSQL TDE extension &amp; AI index tuning](https://dev.to/soytuber/duckdb-153-iceberg-updates-postgresql-tde-extension-ai-index-tuning-399o)
+- [5 walls I hit shipping an AI reading app from West Africa &lpar;and what I&#39;d tell past-me&rpar;](https://dev.to/limack0/5-walls-i-hit-shipping-an-ai-reading-app-from-west-africa-and-what-id-tell-past-me-published-4ikh)
+- [Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer](https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1)
+- [I Built a Side Project Selling Pine Script Strategies for Prop Traders](https://dev.to/just-a-guy360/i-built-a-side-project-selling-pine-script-strategies-for-prop-traders-55bj)
 <!-- BLOG-POST-LIST:END -->
 
 
