@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Window Function &lpar;Simple way&rpar;](https://dev.to/abhi9720/sql-window-function-simple-way-38o3)
-- [How to run Tailscale and Mullvad together on Manjaro Linux](https://dev.to/yulieff/how-to-run-tailscale-and-mullvad-together-on-manjaro-linux-25ke)
-- [Connect Claude to a live options-analytics API over MCP &lpar;the 2-endpoint gotcha&rpar;](https://dev.to/tomasz_dobrowolski_35d32c/connect-claude-to-a-live-options-analytics-api-over-mcp-the-2-endpoint-gotcha-3e00)
-- [From Kernel Scheduler to Python Source Line: Tracing a GPU Stall End to End](https://dev.to/ingero/from-kernel-scheduler-to-python-source-line-tracing-a-gpu-stall-end-to-end-3f7f)
+- [June 9 - Visual AI in Healthcare: Ground Truth in the Foundation-Model Era](https://dev.to/voxel51/june-9-visual-ai-in-healthcare-ground-truth-in-the-foundation-model-era-4a4)
+- [Handling Failure: The Most Important Part of AI Systems](https://dev.to/siddhartha_reddy/handling-failure-the-most-important-part-of-ai-systems-56io)
+- [Agile Explained Simply for Beginners](https://dev.to/darsh_dev/agile-explained-simply-for-beginners-309d)
+- [Mistral&#39;s Codestral Isn&#39;t Another Generalist Model](https://dev.to/albertomontagnese/mistrals-codestral-isnt-another-generalist-model-4j98)
 <!-- BLOG-POST-LIST:END -->
 
 
