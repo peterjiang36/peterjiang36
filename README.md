@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🔮 Hermes Agent 🤖: A Practical Guide 🔥 — and How It Stacks Up Against OpenClaw &amp; GoClaw 📊](https://dev.to/truongpx396/hermes-agent-a-practical-guide-and-how-it-stacks-up-against-openclaw-goclaw-pgk)
-- [Make my boss occupied by a lot of agentic bots: creating automatic workflows for an emerging charity](https://dev.to/sally_hui_/make-my-boss-occupied-by-a-lot-of-agentic-bots-creating-automatic-workflows-for-an-emerging-charity-37o3)
-- [Most Teams Don&#39;t Move to Amazon RDS for Performance](https://dev.to/sanjay_yadav_/most-teams-dont-move-to-amazon-rds-for-performance-41l8)
-- [A Privacy-First Video Captioner That Runs in Your Browser](https://dev.to/pure_lifetribe/a-privacy-first-video-captioner-that-runs-in-your-browser-2h72)
+- [How to turn invisible impact into career growth](https://dev.to/andreabarghigiani/how-to-turn-invisible-impact-into-career-growth-3jik)
+- [From &quot;Who Wrote This?&quot; to &quot;Provenance, Actioned&quot;: Making AI-origin code obvious during review](https://dev.to/pn_28428886923dfc665/from-who-wrote-this-to-provenance-actioned-making-ai-origin-code-obvious-during-review-531a)
+- [A .NET Dinosaur in Web3. Day 16 - ERC-20 Token &amp; ICO](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-16-erc-20-token-ico-1mj)
+- [Decentralized Finance Part 3: The Complete Guide to Stablecoins](https://dev.to/mahima_thacker/decentralized-finance-part-3-the-complete-guide-to-stablecoins-4m60)
 <!-- BLOG-POST-LIST:END -->
 
 
