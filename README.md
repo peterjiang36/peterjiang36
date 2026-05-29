@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Re-Engineering My Portfolio: Moving from No-Code to React &amp; Firebase](https://dev.to/krbai/re-engineering-my-portfolio-moving-from-no-code-to-react-firebase-19do)
-- [✨📊 🧠 The Ultimate Visual Guide to Large Language Models &lpar;LLMs&rpar;](https://dev.to/yash_kishan_singh_6t/the-ultimate-visual-guide-to-large-language-models-llms-13ie)
-- [Request for Advice on MCP Integration](https://dev.to/risainfo/request-for-advice-on-mcp-integration-2m46)
-- [How I rescued a RAG assistant from memory leaks and got it running on a 512MB RAM free tier](https://dev.to/shaikhadibbb/how-i-rescued-a-rag-assistant-from-memory-leaks-and-got-it-running-on-a-512mb-ram-free-tier-4co9)
+- [Stop Reading Interview Tips. Start Practicing With a System.](https://dev.to/manyoffer_career/stop-reading-interview-tips-start-practicing-with-a-system-j73)
+- [Day 22 of 60: I Built a Production Background Task Pipeline That Processes AI Jobs Asynchronously](https://dev.to/mbugua_cessy/day-22-of-60-i-built-a-production-background-task-pipeline-that-processes-ai-jobs-asynchronously-3na3)
+- [How I Built Dayla, a Real‑Time Collaborative Planner for Outdoor Adventures](https://dev.to/andrew123s/how-i-built-dayla-a-real-time-collaborative-planner-for-outdoor-adventures-5cc5)
+- [101. AI Agents: When LLMs Start Taking Actions](https://dev.to/yakhilesh/101-ai-agents-when-llms-start-taking-actions-3pk6)
 <!-- BLOG-POST-LIST:END -->
 
 
