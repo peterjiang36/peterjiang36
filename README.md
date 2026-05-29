@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [June 9 - Visual AI in Healthcare: Ground Truth in the Foundation-Model Era](https://dev.to/voxel51/june-9-visual-ai-in-healthcare-ground-truth-in-the-foundation-model-era-4a4)
-- [Handling Failure: The Most Important Part of AI Systems](https://dev.to/siddhartha_reddy/handling-failure-the-most-important-part-of-ai-systems-56io)
-- [Agile Explained Simply for Beginners](https://dev.to/darsh_dev/agile-explained-simply-for-beginners-309d)
-- [Mistral&#39;s Codestral Isn&#39;t Another Generalist Model](https://dev.to/albertomontagnese/mistrals-codestral-isnt-another-generalist-model-4j98)
+- [Stop Overpaying for Cloud Networking: Build a Single Egress IP over Site-to-Site VPN](https://dev.to/damdev95/stop-overpaying-for-cloud-networking-build-a-single-egress-ip-over-site-to-site-vpn-8ji)
+- [How Notion Lets Everyone Edit the Same Document at Once Without Conflicts](https://dev.to/abdullahmubin/how-notion-lets-everyone-edit-the-same-document-at-once-without-conflicts-2aeb)
+- [Why You&#39;re Getting 30% of Claude Code &lpar;And the 5 Files That Fix It&rpar;](https://dev.to/growthlibrary/why-youre-getting-30-of-claude-code-and-the-5-files-that-fix-it-kld)
+- [I saved myself 27years of tedious editing, no BS!](https://dev.to/mrsdevops/i-saved-myself-27years-of-tedious-editing-no-bs-3k0n)
 <!-- BLOG-POST-LIST:END -->
 
 
