@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Agent That Watches My Logs and Opens Pull Requests While I Sleep 😴🤖](https://dev.to/rajeshbhan82496/how-i-built-an-ai-agent-that-watches-my-logs-and-opens-pull-requests-while-i-sleep-lif)
-- [Bun for AI agents: where the speed actually shows up &lpar;and where it lies&rpar;](https://dev.to/the-hive-collective/bun-for-ai-agents-where-the-speed-actually-shows-up-and-where-it-lies-19g0)
-- [I Built a Simple Web App to Discover the Meaning Behind Names 🚀](https://dev.to/namastra/i-built-a-simple-web-app-to-discover-the-meaning-behind-names-36i7)
-- [fd vs find vs ripgrep: I Created 10,000 Files to Settle This Debate](https://dev.to/fengloulai/fd-vs-find-vs-ripgrep-i-created-10000-files-to-settle-this-debate-1ik4)
+- [ShadowLab: A Modular C2 Framework Architecture Built with Python for Modern Cybersecurity Research](https://dev.to/mustafa_salihberk_6b5aa4/shadowlab-a-modular-c2-framework-architecture-built-with-python-for-modern-cybersecurity-research-3ebo)
+- [Inside Uber&#39;s Architecture: Engineering Decisions That Power Millions of Rides Every Day](https://dev.to/codetirtho97/inside-ubers-architecture-engineering-decisions-that-power-millions-of-rides-every-day-1kde)
+- [When Vibe Coding Stops Working](https://dev.to/tacoda/when-vibe-coding-stops-working-3nkc)
+- [Why I’m Learning Go and JavaScript Together Instead of Separately](https://dev.to/kev_luciano/why-im-learning-go-and-javascript-together-4ih)
 <!-- BLOG-POST-LIST:END -->
 
 
