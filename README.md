@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Protected My Inbox from Spam Bots While Building Landing Pages](https://dev.to/ysykzheng/how-i-protected-my-inbox-from-spam-bots-while-building-landing-pages-3doh)
-- [Why output-stage PII masking is the wrong protective surface for data exfiltration in RAG](https://dev.to/hashevolution/why-output-stage-pii-masking-is-the-wrong-protective-surface-for-data-exfiltration-in-rag-2obi)
-- [这个 GitHub 开源项目让你的 AI Agent 拥有「工具应用商店」，86K+ Stars 但 90% 的人只用了 1% 的功能](https://dev.to/_cbd692d476c5faf3b61bcf/zhe-ge-github-kai-yuan-xiang-mu-rang-ni-de-ai-agent-yong-you-gong-ju-ying-yong-shang-dian-86k-stars-dan-90-de-ren-zhi-yong-liao-1-de-gong-neng-22co)
-- [MCP Registry&#39;s 5 Hidden Uses Nobody Talks About in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/mcp-registrys-5-hidden-uses-nobody-talks-about-in-2026-1ll)
+- [🔮 Hermes Agent 🤖: A Practical Guide 🔥 — and How It Stacks Up Against OpenClaw &amp; GoClaw 📊](https://dev.to/truongpx396/hermes-agent-a-practical-guide-and-how-it-stacks-up-against-openclaw-goclaw-pgk)
+- [Make my boss occupied by a lot of agentic bots: creating automatic workflows for an emerging charity](https://dev.to/sally_hui_/make-my-boss-occupied-by-a-lot-of-agentic-bots-creating-automatic-workflows-for-an-emerging-charity-37o3)
+- [Most Teams Don&#39;t Move to Amazon RDS for Performance](https://dev.to/sanjay_yadav_/most-teams-dont-move-to-amazon-rds-for-performance-41l8)
+- [A Privacy-First Video Captioner That Runs in Your Browser](https://dev.to/pure_lifetribe/a-privacy-first-video-captioner-that-runs-in-your-browser-2h72)
 <!-- BLOG-POST-LIST:END -->
 
 
