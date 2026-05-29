@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DuckDB 1.5.3 Iceberg updates, PostgreSQL TDE extension &amp; AI index tuning](https://dev.to/soytuber/duckdb-153-iceberg-updates-postgresql-tde-extension-ai-index-tuning-399o)
-- [5 walls I hit shipping an AI reading app from West Africa &lpar;and what I&#39;d tell past-me&rpar;](https://dev.to/limack0/5-walls-i-hit-shipping-an-ai-reading-app-from-west-africa-and-what-id-tell-past-me-published-4ikh)
-- [Dynamic Workflows in Opus 4.8: Build a Self-Verifying PR Reviewer](https://dev.to/turacthethinker/dynamic-workflows-in-opus-48-build-a-self-verifying-pr-reviewer-55b1)
-- [I Built a Side Project Selling Pine Script Strategies for Prop Traders](https://dev.to/just-a-guy360/i-built-a-side-project-selling-pine-script-strategies-for-prop-traders-55bj)
+- [How China-focused funds turn Weibo into alt-data &lpar;Python, 2026&rpar;](https://dev.to/sami_8858131362756585e4f4/how-china-focused-funds-turn-weibo-into-alt-data-python-2026-194o)
+- [Stop Using Ad-Heavy Online Text Tools. Build or Use Client-Side Utilities Instead.](https://dev.to/areebshahid25/stop-using-ad-heavy-online-text-tools-build-or-use-client-side-utilities-instead-4i3o)
+- [I Shipped a Multi-Tenant Flutter SaaS Overnight — Without Writing a Single Line of App Code](https://dev.to/morsheded/i-shipped-a-multi-tenant-flutter-saas-overnight-without-writing-a-single-line-of-app-code-184g)
+- [How to use LLMs effectively in your daily work — a practical tutorial](https://dev.to/therizwansaleem/how-to-use-llms-effectively-in-your-daily-work-a-practical-tutorial-3kdn)
 <!-- BLOG-POST-LIST:END -->
 
 
