@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
-- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
-- [Python pytest: Write Tests That Actually Help You](https://dev.to/german_yamil_e021eef8710d/python-pytest-write-tests-that-actually-help-you-3546)
-- [Next.js SaaS Boilerplate with BetterAuth, RBAC, i18n &amp; Production-Ready Setup](https://dev.to/salmanshahriar/nextjs-saas-boilerplate-with-betterauth-rbac-i18n-production-ready-setup-bao)
+- [How to Build a Kundali App with Free Vedic Astrology API — Step by Step](https://dev.to/astroask/how-to-build-a-kundali-app-with-free-vedic-astrology-api-step-by-step-42l5)
+- [Ideias Valem Muito Menos do Que Você Imagina [PT-BR]](https://dev.to/andredarcie/ideias-valem-muito-menos-do-que-voce-imagina-pt-br-38c9)
+- [cgroups and Namespaces — The Linux Kernel&#39;s Building Blocks Behind Containers](https://dev.to/kobbyprincee/cgroups-and-namespaces-the-fundamental-building-blocks-of-linux-containers-and-orchestration-53e3)
+- [Hermes Blueprint: A Multi-Agent Hedge Fund Morning Briefing System](https://dev.to/skomfi/hermes-blueprint-a-multi-agent-hedge-fund-morning-briefing-system-4ih3)
 <!-- BLOG-POST-LIST:END -->
 
 
