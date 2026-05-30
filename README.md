@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Test Suite Now Mostly Proves the AI Agrees With Itself](https://dev.to/dqa/your-test-suite-now-mostly-proves-the-ai-agrees-with-itself-7mh)
-- [My Journey Through Hackathons &lpar;~₹4L&rpar;](https://dev.to/manan_singhal_880ee46cd84/my-journey-through-hackathons-4l-13p9)
-- [What is Kubernetes? The Technology Behind Modern Cloud Applications](https://dev.to/mohammadshafaquearif/what-is-kubernetes-the-technology-behind-modern-cloud-applications-3i6p)
-- [What If You Need Two ArgoCD Instances in One EKS Cluster?](https://dev.to/aws-builders/what-if-you-need-two-argocd-instances-in-one-eks-cluster-57id)
+- [I Needed to Remove a QR Code from an Image, But Every Solution Was Complicated](https://dev.to/ahmadfarazcrypto/i-needed-to-remove-a-qr-code-from-an-image-but-every-solution-was-complicated-7oa)
+- [How to build a reusable Excel export service in ASP.NET Core](https://dev.to/mirzaleka/how-to-build-a-reusable-excel-export-service-in-aspnet-core-an7)
+- [Accept the Official Hack - Build-Time OpenAPI Detection in .NET 10 Minimal APIs](https://dev.to/nausaf/accept-the-official-hack-build-time-openapi-detection-in-net-10-minimal-apis-25bc)
+- [Coding agents keep losing context between tools, so I built a local-first handoff CLI](https://dev.to/shuo_xiao_c7d1a80c798f8ec/coding-agents-keep-losing-context-between-tools-so-i-built-a-local-first-handoff-cli-4h01)
 <!-- BLOG-POST-LIST:END -->
 
 
