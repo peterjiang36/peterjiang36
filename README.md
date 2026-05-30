@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [## Stop Wasting Time on Dev Setup — I Built a CLI That Automates Everything](https://dev.to/hexanovacore/-stop-wasting-time-on-dev-setup-i-built-a-cli-that-automates-everything-2c93)
-- [I Built a VS Code Extension to Track My Coding Time — And Kept Your Data 100% Local](https://dev.to/kuldipparmar18/i-built-a-vs-code-extension-to-track-my-coding-time-and-kept-your-data-100-local-klj)
-- [The Day I Stopped Thinking Like a Developer and Started Thinking Like an Owner](https://dev.to/kunal_pareek/the-day-i-stopped-thinking-like-a-developer-and-started-thinking-like-an-owner-ic)
-- [How I Built a Cross-Platform Project Management System for AI Agents](https://dev.to/tiger_hu_fcfc8481cccc15af/how-i-built-a-cross-platform-project-management-system-for-ai-agents-5blb)
+- [I built cyberplain with Hermes — here&#39;s what actually went down](https://dev.to/imkarthikeyan/i-built-cyberplain-with-hermes-heres-what-actually-went-down-953)
+- [The Best Form Backend Services in 2026](https://dev.to/wssn/the-best-form-backend-services-in-2026-540a)
+- [Oneconfig: A CLI That Detects Your Stack and Provisions Your Dev Environment](https://dev.to/tha_akr_1b7a6fe8aac1f20b9/oneconfig-a-cli-that-detects-your-stack-and-provisions-your-dev-environment-4djc)
+- [The Real Cost of Building AI Agents: A Brutally Honest Breakdown of Time, Money, and Sanity After 100+ Hours](https://dev.to/zeroknowledge0x/the-real-cost-of-building-ai-agents-a-brutally-honest-breakdown-of-time-money-and-sanity-after-4h84)
 <!-- BLOG-POST-LIST:END -->
 
 
