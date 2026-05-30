@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build your professional network as a developer — authentic strategies](https://dev.to/therizwansaleem/how-to-build-your-professional-network-as-a-developer-authentic-strategies-32dn)
-- [Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation](https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7)
-- [The Reputation Layer: Why Developers Quietly Run Corporate PR](https://dev.to/sonia_bobrik_1939cdddd79d/the-reputation-layer-why-developers-quietly-run-corporate-pr-1g36)
-- [The Last Mile of Software Is a Sentence](https://dev.to/sonia_bobrik_1939cdddd79d/the-last-mile-of-software-is-a-sentence-522h)
+- [Build in public, month 2: 615 of 616 visitors never clicked anything](https://dev.to/ahnhyeongkyu/build-in-public-month-2-615-of-616-visitors-never-clicked-anything-2341)
+- [Someone wrote a fake EULA into Bitcoin. Two hours later they revoked it.](https://dev.to/zekebuilds/someone-wrote-a-fake-eula-into-bitcoin-two-hours-later-they-revoked-it-1745)
+- [Insights of Git &lpar; part : 1 &rpar;](https://dev.to/ste_bhushhan/insights-of-git-part-1--4mo8)
+- [Someone wrote a fake EULA into Bitcoin. Two hours later they revoked it.](https://dev.to/zekebuilds/someone-wrote-a-fake-eula-into-bitcoin-two-hours-later-they-revoked-it-3e42)
 <!-- BLOG-POST-LIST:END -->
 
 
