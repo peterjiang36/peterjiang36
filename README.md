@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Needed to Remove a QR Code from an Image, But Every Solution Was Complicated](https://dev.to/ahmadfarazcrypto/i-needed-to-remove-a-qr-code-from-an-image-but-every-solution-was-complicated-7oa)
-- [How to build a reusable Excel export service in ASP.NET Core](https://dev.to/mirzaleka/how-to-build-a-reusable-excel-export-service-in-aspnet-core-an7)
-- [Accept the Official Hack - Build-Time OpenAPI Detection in .NET 10 Minimal APIs](https://dev.to/nausaf/accept-the-official-hack-build-time-openapi-detection-in-net-10-minimal-apis-25bc)
-- [Coding agents keep losing context between tools, so I built a local-first handoff CLI](https://dev.to/shuo_xiao_c7d1a80c798f8ec/coding-agents-keep-losing-context-between-tools-so-i-built-a-local-first-handoff-cli-4h01)
+- [## Stop Wasting Time on Dev Setup — I Built a CLI That Automates Everything](https://dev.to/hexanovacore/-stop-wasting-time-on-dev-setup-i-built-a-cli-that-automates-everything-2c93)
+- [I Built a VS Code Extension to Track My Coding Time — And Kept Your Data 100% Local](https://dev.to/kuldipparmar18/i-built-a-vs-code-extension-to-track-my-coding-time-and-kept-your-data-100-local-klj)
+- [The Day I Stopped Thinking Like a Developer and Started Thinking Like an Owner](https://dev.to/kunal_pareek/the-day-i-stopped-thinking-like-a-developer-and-started-thinking-like-an-owner-ic)
+- [How I Built a Cross-Platform Project Management System for AI Agents](https://dev.to/tiger_hu_fcfc8481cccc15af/how-i-built-a-cross-platform-project-management-system-for-ai-agents-5blb)
 <!-- BLOG-POST-LIST:END -->
 
 
