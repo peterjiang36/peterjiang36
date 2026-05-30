@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Harness Engineering: The Code Around the Model Is the Hard Part](https://dev.to/turacthethinker/harness-engineering-the-code-around-the-model-is-the-hard-part-2edj)
-- [7 Questions Every eCommerce Brand Owner Should Ask - Before Hiring Shopify Experts](https://dev.to/ecommercebrain/7-questions-every-ecommerce-brand-owner-should-ask-before-hiring-shopify-experts-2h7f)
-- [Hermes Agent vs. LangGraph, CrewAI, and AutoGen: A Technical Comparison for 2026](https://dev.to/harsha_gopalkrishnapuran/hermes-agent-vs-langgraph-crewai-and-autogen-a-technical-comparison-for-2026-2ok8)
-- [为什么使用代理总弹出“安全验证”？深度解析 Cloudflare 拦截机制与避坑指南](https://dev.to/guigenyi/wei-shi-yao-shi-yong-dai-li-zong-dan-chu-an-quan-yan-zheng-shen-du-jie-xi-cloudflare-lan-jie-ji-zhi-yu-bi-keng-zhi-nan-1795)
+- [Your Test Suite Now Mostly Proves the AI Agrees With Itself](https://dev.to/dqa/your-test-suite-now-mostly-proves-the-ai-agrees-with-itself-7mh)
+- [My Journey Through Hackathons &lpar;~₹4L&rpar;](https://dev.to/manan_singhal_880ee46cd84/my-journey-through-hackathons-4l-13p9)
+- [What is Kubernetes? The Technology Behind Modern Cloud Applications](https://dev.to/mohammadshafaquearif/what-is-kubernetes-the-technology-behind-modern-cloud-applications-3i6p)
+- [What If You Need Two ArgoCD Instances in One EKS Cluster?](https://dev.to/aws-builders/what-if-you-need-two-argocd-instances-in-one-eks-cluster-57id)
 <!-- BLOG-POST-LIST:END -->
 
 
