@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What a Frontend Developer Roadmap Actually Contains?](https://dev.to/frontend_carter/what-a-frontend-developer-roadmap-actually-contains-43ek)
-- [BoxAgnts Introduction &lpar;6&rpar; — Agent Multi-Turn Conversation and Tool/Skill Invocation](https://dev.to/guyoung/boxagnts-introduction-6-agent-multi-turn-conversation-and-toolskill-invocation-4pan)
-- [Why ChatGPT Fails as an Interview Tutor &lpar;And How I Built a Better One with Claude Code&rpar;](https://dev.to/guanyi_liu_21a5d7417eb332/why-chatgpt-fails-as-an-interview-tutor-and-how-i-built-a-better-one-with-claude-code-p94)
-- [AI coding assistants are creating mass dependency and we&#39;re pretending it&#39;s productivity](https://dev.to/adioof/ai-coding-assistants-are-creating-mass-dependency-and-were-pretending-its-productivity-53a8)
+- [How to Test if Your Proxy is Leaking DNS: 2026 Setup Guide](https://dev.to/elen_simonian_ed86f624985/how-to-test-if-your-proxy-is-leaking-dns-2026-setup-guide-1joa)
+- [AWS VPC Networking — Public Subnet, Private Subnet ve 3-Tier Mimari](https://dev.to/tahayagizguler/aws-vpc-networking-public-subnet-private-subnet-ve-3-tier-mimari-1p7g)
+- [MediaNote: a note-taking app inside VS code](https://dev.to/norsnoise/medianote-a-note-taking-app-inside-vs-code-767)
+- [ai, deepseek, machinelearning](https://dev.to/_e85ab4244368a4a168fd64/ai-deepseek-machinelearning-1odk)
 <!-- BLOG-POST-LIST:END -->
 
 
