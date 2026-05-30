@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Kundali App with Free Vedic Astrology API — Step by Step](https://dev.to/astroask/how-to-build-a-kundali-app-with-free-vedic-astrology-api-step-by-step-42l5)
-- [Ideias Valem Muito Menos do Que Você Imagina [PT-BR]](https://dev.to/andredarcie/ideias-valem-muito-menos-do-que-voce-imagina-pt-br-38c9)
-- [cgroups and Namespaces — The Linux Kernel&#39;s Building Blocks Behind Containers](https://dev.to/kobbyprincee/cgroups-and-namespaces-the-fundamental-building-blocks-of-linux-containers-and-orchestration-53e3)
-- [Hermes Blueprint: A Multi-Agent Hedge Fund Morning Briefing System](https://dev.to/skomfi/hermes-blueprint-a-multi-agent-hedge-fund-morning-briefing-system-4ih3)
+- [How I Built a 7-Layer NL2SQL Guardrail Stack for a Fortune 500 Enterprise](https://dev.to/soham__11/how-i-built-a-7-layer-nl2sql-guardrail-stack-for-a-fortune-500-enterprise-2jgi)
+- [The Trap of &quot;Perfect&quot; Architecture: What Building a Shopping Cart Taught Me](https://dev.to/engrwithhabeeb/the-trap-of-perfect-architecture-what-building-a-shopping-cart-taught-me-3ice)
+- [I Built a 25-Agent Polish Parliament That Drafts Bills With Real Legal Citations](https://dev.to/msadlok/i-built-a-25-agent-polish-parliament-that-drafts-bills-with-real-legal-citations-45h7)
+- [Claude Code&#39;s workflow docs are a menu.](https://dev.to/mjmirza/claude-codes-workflow-docs-are-a-menu-here-is-what-a-real-solo-founder-orders-2c9e)
 <!-- BLOG-POST-LIST:END -->
 
 
