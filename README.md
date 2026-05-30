@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Needs a Manager, Not a Superhero](https://dev.to/ariefwara/your-ai-agent-needs-a-manager-not-a-superhero-3olf)
-- [I Built CausalLens — A Free, Open-Source Causal Impact Calculator for Time Series &lpar;5 Methods, Zero Setup&rpar;](https://dev.to/sentinelcipher/i-built-causallens-a-free-open-source-causal-impact-calculator-for-time-series-5-methods-zero-3hm5)
-- [How to write good commit messages and pull requests — a team guide](https://dev.to/therizwansaleem/how-to-write-good-commit-messages-and-pull-requests-a-team-guide-57pb)
-- [Cipher: The Jarvis with a Hermes Core](https://dev.to/trickell/cipher-the-jarvis-with-a-hermes-core-1c4o)
+- [Lean4 Might Be the Missing Piece in AI: Why Theorem Provers Are Suddenly Everywhere](https://dev.to/shrsv/lean4-might-be-the-missing-piece-in-ai-why-theorem-provers-are-suddenly-everywhere-3b7l)
+- [The Zero-Drift API Series: Stop Trusting a Green Build You Can&#39;t Explain](https://dev.to/prasadmk/the-zero-drift-api-series-stop-trusting-a-green-build-you-cant-explain-k56)
+- [How I Deployed My First Project on AWS &lpar;And Didn&#39;t Break Everything&rpar;](https://dev.to/anany_dubey/how-i-deployed-my-first-project-on-aws-and-didnt-break-everything-3add)
+- [How I Built a Real-Time Quiz Platform with Next.js, WebSockets, and Learning Science](https://dev.to/mdpixx/how-i-built-a-real-time-quiz-platform-with-nextjs-websockets-and-learning-science-3ae1)
 <!-- BLOG-POST-LIST:END -->
 
 
