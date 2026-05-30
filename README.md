@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built cyberplain with Hermes — here&#39;s what actually went down](https://dev.to/imkarthikeyan/i-built-cyberplain-with-hermes-heres-what-actually-went-down-953)
-- [The Best Form Backend Services in 2026](https://dev.to/wssn/the-best-form-backend-services-in-2026-540a)
-- [Oneconfig: A CLI That Detects Your Stack and Provisions Your Dev Environment](https://dev.to/tha_akr_1b7a6fe8aac1f20b9/oneconfig-a-cli-that-detects-your-stack-and-provisions-your-dev-environment-4djc)
-- [The Real Cost of Building AI Agents: A Brutally Honest Breakdown of Time, Money, and Sanity After 100+ Hours](https://dev.to/zeroknowledge0x/the-real-cost-of-building-ai-agents-a-brutally-honest-breakdown-of-time-money-and-sanity-after-4h84)
+- [Truss Analysis: Solving a Frame One Joint at a Time](https://dev.to/01888927bd0e8aa92caca/truss-analysis-solving-a-frame-one-joint-at-a-time-55c1)
+- [Stop writing useEffect for data fetching. Use Request Strategies instead.](https://dev.to/coderhu/stop-writing-useeffect-for-data-fetching-use-request-strategies-instead-27fn)
+- [his is a submission for the [GitHub Finish-Up-A-Thon Challenge] BY SK MOTALIB](https://dev.to/md_soyall_f6056e9c9dac4e4/his-is-a-submission-for-the-github-finish-up-a-thon-challenge-by-sk-motalib-4no)
+- [What Is DaloyJS? A Beginner-Friendly Tour of a Contract-First TypeScript Framework](https://dev.to/devlinduldulao/what-is-daloyjs-a-beginner-friendly-tour-of-a-contract-first-typescript-framework-clb)
 <!-- BLOG-POST-LIST:END -->
 
 
