@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Agent Hunt Open Source Bounties for 48 Hours — Here&#39;s What I Learned About the Future of Contributing](https://dev.to/zeroknowledge0x/i-let-an-ai-agent-hunt-open-source-bounties-for-48-hours-heres-what-i-learned-about-the-future-5131)
-- [AI Agents Are the New Microservices &amp; A2A Is Their HTTP&lpar;s&rpar;](https://dev.to/sreeni5018/ai-agents-are-the-new-microservices-a2a-is-their-https-329g)
-- [I Told a Robot to &quot;Clean the Kitchen&quot;, and It Actually Did](https://dev.to/sudee_sim/i-told-a-robot-to-clean-the-kitchen-and-it-actually-did-1d76)
-- [3 Files Every AI-Assisted Project Needs Before You Write a Line of Code](https://dev.to/blncraft/3-files-every-ai-assisted-project-needs-before-you-write-a-line-of-code-4k4d)
+- [What Happened in 3 Days of Letting AI Manage My Server](https://dev.to/quolu/what-happened-in-3-days-of-letting-ai-manage-my-server-2ch0)
+- [It&#39;s not too late! Make your AWS Security Agent debut with a code review!](https://dev.to/naoyukifujita/its-not-too-late-make-your-aws-security-agent-debut-with-a-code-review-5egk)
+- [nbwipers: Setup and Troubleshooting](https://dev.to/sanemat/nbwipers-setup-and-troubleshooting-2m33)
+- [I Ran 200+ Website Audits — Here&#39;s What&#39;s Actually Broken in 2026](https://dev.to/webperfdev/i-ran-200-website-audits-heres-whats-actually-broken-in-2026-71l)
 <!-- BLOG-POST-LIST:END -->
 
 
