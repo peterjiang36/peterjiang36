@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ZentriqGuard — Hermes Agent-Powered Zero-Trust Access Auditor](https://dev.to/ashwin_barathelumalai_1ac/zentriqguard-hermes-agent-powered-zero-trust-access-auditor-2j6o)
-- [How I Built and Monetized a Currency Exchange Rate API with FastAPI, Deployed it on Render, and Published it on RapidAPI.](https://dev.to/dhritich20baruah/how-i-built-and-monetized-a-currency-exchange-rate-api-with-fastapi-deployed-it-on-render-and-27ne)
-- [The 7 Best Reddit Scrapers in 2026 &lpar;Free &amp; Paid, Tested&rpar;](https://dev.to/benthepythondev/the-7-best-reddit-scrapers-in-2026-free-paid-tested-32nb)
-- [An AI runs my company. A solo dev vibe-coded $15K in a week — we made $[X]. A cold autopsy.](https://dev.to/ahnhyeongkyu/an-ai-runs-my-company-a-solo-dev-vibe-coded-15k-in-a-week-we-made-x-a-cold-autopsy-4fc2)
+- [Your AI Agent Needs a Manager, Not a Superhero](https://dev.to/ariefwara/your-ai-agent-needs-a-manager-not-a-superhero-3olf)
+- [I Built CausalLens — A Free, Open-Source Causal Impact Calculator for Time Series &lpar;5 Methods, Zero Setup&rpar;](https://dev.to/sentinelcipher/i-built-causallens-a-free-open-source-causal-impact-calculator-for-time-series-5-methods-zero-3hm5)
+- [How to write good commit messages and pull requests — a team guide](https://dev.to/therizwansaleem/how-to-write-good-commit-messages-and-pull-requests-a-team-guide-57pb)
+- [Cipher: The Jarvis with a Hermes Core](https://dev.to/trickell/cipher-the-jarvis-with-a-hermes-core-1c4o)
 <!-- BLOG-POST-LIST:END -->
 
 
