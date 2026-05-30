@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Test if Your Proxy is Leaking DNS: 2026 Setup Guide](https://dev.to/elen_simonian_ed86f624985/how-to-test-if-your-proxy-is-leaking-dns-2026-setup-guide-1joa)
-- [AWS VPC Networking — Public Subnet, Private Subnet ve 3-Tier Mimari](https://dev.to/tahayagizguler/aws-vpc-networking-public-subnet-private-subnet-ve-3-tier-mimari-1p7g)
-- [MediaNote: a note-taking app inside VS code](https://dev.to/norsnoise/medianote-a-note-taking-app-inside-vs-code-767)
-- [ai, deepseek, machinelearning](https://dev.to/_e85ab4244368a4a168fd64/ai-deepseek-machinelearning-1odk)
+- [ZentriqGuard — Hermes Agent-Powered Zero-Trust Access Auditor](https://dev.to/ashwin_barathelumalai_1ac/zentriqguard-hermes-agent-powered-zero-trust-access-auditor-2j6o)
+- [How I Built and Monetized a Currency Exchange Rate API with FastAPI, Deployed it on Render, and Published it on RapidAPI.](https://dev.to/dhritich20baruah/how-i-built-and-monetized-a-currency-exchange-rate-api-with-fastapi-deployed-it-on-render-and-27ne)
+- [The 7 Best Reddit Scrapers in 2026 &lpar;Free &amp; Paid, Tested&rpar;](https://dev.to/benthepythondev/the-7-best-reddit-scrapers-in-2026-free-paid-tested-32nb)
+- [An AI runs my company. A solo dev vibe-coded $15K in a week — we made $[X]. A cold autopsy.](https://dev.to/ahnhyeongkyu/an-ai-runs-my-company-a-solo-dev-vibe-coded-15k-in-a-week-we-made-x-a-cold-autopsy-4fc2)
 <!-- BLOG-POST-LIST:END -->
 
 
