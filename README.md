@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build in public, month 2: 615 of 616 visitors never clicked anything](https://dev.to/ahnhyeongkyu/build-in-public-month-2-615-of-616-visitors-never-clicked-anything-2341)
-- [Someone wrote a fake EULA into Bitcoin. Two hours later they revoked it.](https://dev.to/zekebuilds/someone-wrote-a-fake-eula-into-bitcoin-two-hours-later-they-revoked-it-1745)
-- [Insights of Git &lpar; part : 1 &rpar;](https://dev.to/ste_bhushhan/insights-of-git-part-1--4mo8)
-- [Someone wrote a fake EULA into Bitcoin. Two hours later they revoked it.](https://dev.to/zekebuilds/someone-wrote-a-fake-eula-into-bitcoin-two-hours-later-they-revoked-it-3e42)
+- [We Trusted Auto-Ack. The Queue Agreed. Our Costs Didn&#39;t.](https://dev.to/sansbuilds/we-trusted-auto-ack-the-queue-agreed-our-costs-didnt-3617)
+- [DevOps for Developers: Reducing Cognitive Load and Boosting Transparency](https://dev.to/czmirek/devops-for-developers-reducing-cognitive-load-and-boosting-transparency-103l)
+- [Python pytest: Write Tests That Actually Help You](https://dev.to/german_yamil_e021eef8710d/python-pytest-write-tests-that-actually-help-you-3546)
+- [Next.js SaaS Boilerplate with BetterAuth, RBAC, i18n &amp; Production-Ready Setup](https://dev.to/salmanshahriar/nextjs-saas-boilerplate-with-betterauth-rbac-i18n-production-ready-setup-bao)
 <!-- BLOG-POST-LIST:END -->
 
 
