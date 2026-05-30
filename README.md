@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happened in 3 Days of Letting AI Manage My Server](https://dev.to/quolu/what-happened-in-3-days-of-letting-ai-manage-my-server-2ch0)
-- [It&#39;s not too late! Make your AWS Security Agent debut with a code review!](https://dev.to/naoyukifujita/its-not-too-late-make-your-aws-security-agent-debut-with-a-code-review-5egk)
-- [nbwipers: Setup and Troubleshooting](https://dev.to/sanemat/nbwipers-setup-and-troubleshooting-2m33)
-- [I Ran 200+ Website Audits — Here&#39;s What&#39;s Actually Broken in 2026](https://dev.to/webperfdev/i-ran-200-website-audits-heres-whats-actually-broken-in-2026-71l)
+- [How to use AI in your development workflow without losing your edge](https://dev.to/therizwansaleem/how-to-use-ai-in-your-development-workflow-without-losing-your-edge-cl7)
+- [I built a RAG pipeline from scratch, and one wrong answer made me dive even deeper into AI Engineering](https://dev.to/felipearaujobs/i-built-a-rag-pipeline-from-scratch-and-one-wrong-answer-made-me-dive-even-deeper-into-ai-4npg)
+- [Stop Building Projects That Exist Only to Impress Other Beginners](https://dev.to/guilherme_galanti/stop-building-projects-that-exist-only-to-impress-other-beginners-nl8)
+- [built a stranger chat app from scratch — and what we learned](https://dev.to/king_555/built-a-stranger-chat-app-from-scratch-and-what-we-learned-1h1j)
 <!-- BLOG-POST-LIST:END -->
 
 
