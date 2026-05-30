@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use AI in your development workflow without losing your edge](https://dev.to/therizwansaleem/how-to-use-ai-in-your-development-workflow-without-losing-your-edge-cl7)
-- [I built a RAG pipeline from scratch, and one wrong answer made me dive even deeper into AI Engineering](https://dev.to/felipearaujobs/i-built-a-rag-pipeline-from-scratch-and-one-wrong-answer-made-me-dive-even-deeper-into-ai-4npg)
-- [Stop Building Projects That Exist Only to Impress Other Beginners](https://dev.to/guilherme_galanti/stop-building-projects-that-exist-only-to-impress-other-beginners-nl8)
-- [built a stranger chat app from scratch — and what we learned](https://dev.to/king_555/built-a-stranger-chat-app-from-scratch-and-what-we-learned-1h1j)
+- [My test suite was green. My software was lying to me.](https://dev.to/saint_zero_day/my-test-suite-was-green-my-software-was-lying-to-me-2c7n)
+- [Debugging Playwright CDP Sessions That Lose Cookies and Proxy Context](https://dev.to/zp_4579/debugging-playwright-cdp-sessions-that-lose-cookies-and-proxy-context-1bm6)
+- [How Developers Are Actually Using AI at Work in 2026: A Brutally Honest Analysis of 10,000+ PRs, Real Productivity Data, and What Nobody&#39;s Talking About](https://dev.to/zeroknowledge0x/how-developers-are-actually-using-ai-at-work-in-2026-a-brutally-honest-analysis-of-10000-prs-5fdo)
+- [Apache Tomcat End of Life: Tomcat 9 is EOL — Migration Guide to Tomcat 10/11](https://dev.to/endoflifeai/apache-tomcat-end-of-life-tomcat-9-is-eol-migration-guide-to-tomcat-1011-5hk6)
 <!-- BLOG-POST-LIST:END -->
 
 
