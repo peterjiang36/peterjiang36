@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Truss Analysis: Solving a Frame One Joint at a Time](https://dev.to/01888927bd0e8aa92caca/truss-analysis-solving-a-frame-one-joint-at-a-time-55c1)
-- [Stop writing useEffect for data fetching. Use Request Strategies instead.](https://dev.to/coderhu/stop-writing-useeffect-for-data-fetching-use-request-strategies-instead-27fn)
-- [his is a submission for the [GitHub Finish-Up-A-Thon Challenge] BY SK MOTALIB](https://dev.to/md_soyall_f6056e9c9dac4e4/his-is-a-submission-for-the-github-finish-up-a-thon-challenge-by-sk-motalib-4no)
-- [What Is DaloyJS? A Beginner-Friendly Tour of a Contract-First TypeScript Framework](https://dev.to/devlinduldulao/what-is-daloyjs-a-beginner-friendly-tour-of-a-contract-first-typescript-framework-clb)
+- [What a Frontend Developer Roadmap Actually Contains?](https://dev.to/frontend_carter/what-a-frontend-developer-roadmap-actually-contains-43ek)
+- [BoxAgnts Introduction &lpar;6&rpar; — Agent Multi-Turn Conversation and Tool/Skill Invocation](https://dev.to/guyoung/boxagnts-introduction-6-agent-multi-turn-conversation-and-toolskill-invocation-4pan)
+- [Why ChatGPT Fails as an Interview Tutor &lpar;And How I Built a Better One with Claude Code&rpar;](https://dev.to/guanyi_liu_21a5d7417eb332/why-chatgpt-fails-as-an-interview-tutor-and-how-i-built-a-better-one-with-claude-code-p94)
+- [AI coding assistants are creating mass dependency and we&#39;re pretending it&#39;s productivity](https://dev.to/adioof/ai-coding-assistants-are-creating-mass-dependency-and-were-pretending-its-productivity-53a8)
 <!-- BLOG-POST-LIST:END -->
 
 
