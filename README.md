@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lean4 Might Be the Missing Piece in AI: Why Theorem Provers Are Suddenly Everywhere](https://dev.to/shrsv/lean4-might-be-the-missing-piece-in-ai-why-theorem-provers-are-suddenly-everywhere-3b7l)
-- [The Zero-Drift API Series: Stop Trusting a Green Build You Can&#39;t Explain](https://dev.to/prasadmk/the-zero-drift-api-series-stop-trusting-a-green-build-you-cant-explain-k56)
-- [How I Deployed My First Project on AWS &lpar;And Didn&#39;t Break Everything&rpar;](https://dev.to/anany_dubey/how-i-deployed-my-first-project-on-aws-and-didnt-break-everything-3add)
-- [How I Built a Real-Time Quiz Platform with Next.js, WebSockets, and Learning Science](https://dev.to/mdpixx/how-i-built-a-real-time-quiz-platform-with-nextjs-websockets-and-learning-science-3ae1)
+- [How to build your professional network as a developer — authentic strategies](https://dev.to/therizwansaleem/how-to-build-your-professional-network-as-a-developer-authentic-strategies-32dn)
+- [Building ShouldWeAutomate: A Decision Intelligence Platform for Workflow Automation](https://dev.to/harishkotra/building-shouldweautomate-a-decision-intelligence-platform-for-workflow-automation-3pn7)
+- [The Reputation Layer: Why Developers Quietly Run Corporate PR](https://dev.to/sonia_bobrik_1939cdddd79d/the-reputation-layer-why-developers-quietly-run-corporate-pr-1g36)
+- [The Last Mile of Software Is a Sentence](https://dev.to/sonia_bobrik_1939cdddd79d/the-last-mile-of-software-is-a-sentence-522h)
 <!-- BLOG-POST-LIST:END -->
 
 
