@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a 7-Layer NL2SQL Guardrail Stack for a Fortune 500 Enterprise](https://dev.to/soham__11/how-i-built-a-7-layer-nl2sql-guardrail-stack-for-a-fortune-500-enterprise-2jgi)
-- [The Trap of &quot;Perfect&quot; Architecture: What Building a Shopping Cart Taught Me](https://dev.to/engrwithhabeeb/the-trap-of-perfect-architecture-what-building-a-shopping-cart-taught-me-3ice)
-- [I Built a 25-Agent Polish Parliament That Drafts Bills With Real Legal Citations](https://dev.to/msadlok/i-built-a-25-agent-polish-parliament-that-drafts-bills-with-real-legal-citations-45h7)
-- [Claude Code&#39;s workflow docs are a menu.](https://dev.to/mjmirza/claude-codes-workflow-docs-are-a-menu-here-is-what-a-real-solo-founder-orders-2c9e)
+- [🩺 Inside Med AI: How We Engineered a 100M Token Hyper-Scale Clinical Intelligence Suite 🚀](https://dev.to/lochan_visnu_74dc73274621/inside-med-ai-how-we-engineered-a-100m-token-hyper-scale-clinical-intelligence-suite-4on2)
+- [Session Management, Rate Limiting &amp; Caching using Redis](https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi)
+- [Why Accuracy Is Not Enough: Evaluation Metrics Every AI Engineer Should Understand](https://dev.to/mneetika/why-accuracy-is-not-enough-evaluation-metrics-every-ai-engineer-should-understand-cah)
+- [How I Built One](https://dev.to/arishsingh99/ai-platform-that-turns-your-resume-into-proof-that-you-can-actually-code-k9i)
 <!-- BLOG-POST-LIST:END -->
 
 
