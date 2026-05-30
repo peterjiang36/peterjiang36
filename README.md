@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My test suite was green. My software was lying to me.](https://dev.to/saint_zero_day/my-test-suite-was-green-my-software-was-lying-to-me-2c7n)
-- [Debugging Playwright CDP Sessions That Lose Cookies and Proxy Context](https://dev.to/zp_4579/debugging-playwright-cdp-sessions-that-lose-cookies-and-proxy-context-1bm6)
-- [How Developers Are Actually Using AI at Work in 2026: A Brutally Honest Analysis of 10,000+ PRs, Real Productivity Data, and What Nobody&#39;s Talking About](https://dev.to/zeroknowledge0x/how-developers-are-actually-using-ai-at-work-in-2026-a-brutally-honest-analysis-of-10000-prs-5fdo)
-- [Apache Tomcat End of Life: Tomcat 9 is EOL — Migration Guide to Tomcat 10/11](https://dev.to/endoflifeai/apache-tomcat-end-of-life-tomcat-9-is-eol-migration-guide-to-tomcat-1011-5hk6)
+- [Harness Engineering: The Code Around the Model Is the Hard Part](https://dev.to/turacthethinker/harness-engineering-the-code-around-the-model-is-the-hard-part-2edj)
+- [7 Questions Every eCommerce Brand Owner Should Ask - Before Hiring Shopify Experts](https://dev.to/ecommercebrain/7-questions-every-ecommerce-brand-owner-should-ask-before-hiring-shopify-experts-2h7f)
+- [Hermes Agent vs. LangGraph, CrewAI, and AutoGen: A Technical Comparison for 2026](https://dev.to/harsha_gopalkrishnapuran/hermes-agent-vs-langgraph-crewai-and-autogen-a-technical-comparison-for-2026-2ok8)
+- [为什么使用代理总弹出“安全验证”？深度解析 Cloudflare 拦截机制与避坑指南](https://dev.to/guigenyi/wei-shi-yao-shi-yong-dai-li-zong-dan-chu-an-quan-yan-zheng-shen-du-jie-xi-cloudflare-lan-jie-ji-zhi-yu-bi-keng-zhi-nan-1795)
 <!-- BLOG-POST-LIST:END -->
 
 
