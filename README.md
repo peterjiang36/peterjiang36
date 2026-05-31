@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open-Source Agent War of 2026: Hermes Agent vs AutoGPT vs OpenAI Agents vs CrewAI](https://dev.to/toyaab/the-open-source-agent-war-of-2026-hermes-agent-vs-autogpt-vs-openai-agents-vs-crewai-2kj6)
-- [Why I Ditched Polling and Learned to Love &lpar;and Fear&rpar; WebSockets](https://dev.to/timevolt/why-i-ditched-polling-and-learned-to-love-and-fear-websockets-1lfb)
-- [I Let an AI Agent Interview Me. Then It Wrote a File That Describes How I Think](https://dev.to/freezebrain/i-let-an-ai-agent-interview-me-then-it-wrote-a-file-that-describes-how-i-think-149h)
-- [I Built a Blockchain &amp; Web3 MVP Prototype v1.0](https://dev.to/pnms_dev/i-built-a-blockchain-web3-mvp-prototype-v10-1p41)
+- [AI Smart Contract Review: The Finding Is Not the Audit](https://dev.to/aicryptosystems/ai-smart-contract-review-the-finding-is-not-the-audit-1lmb)
+- [Bing Search API Replacement: scrape SERP results for $1.05/1K](https://dev.to/devil_scrapes/bing-search-api-replacement-scrape-serp-results-for-1051k-6lg)
+- [The Junior Developer Is Disappearing. Here&#39;s What AI Editors Did to the Entry Ramp.](https://dev.to/zyvop/the-junior-developer-is-disappearing-heres-what-ai-editors-did-to-the-entry-ramp-26e6)
+- [ATS Tech Stack Detector: pull company back-end stacks from jobs for $5.05/1K](https://dev.to/devil_scrapes/ats-tech-stack-detector-pull-company-back-end-stacks-from-jobs-for-5051k-1444)
 <!-- BLOG-POST-LIST:END -->
 
 
