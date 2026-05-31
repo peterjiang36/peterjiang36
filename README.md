@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Quant: Zero-Cost Autonomous Equity Research Agent Powered by Hermes 3](https://dev.to/atharva_atal_81ebd973b4ad/hermes-quant-zero-cost-autonomous-equity-research-agent-powered-by-hermes-3-3mn0)
-- [RedBase / redb.Route / redb.Tsak 3.0.0 shipped](https://dev.to/rinat_kozin_d0a2ef43e7824/redbase-redbroute-redbtsak-300-shipped-27pf)
-- [Road To KiwiEngine #5: The Future of SaaS Might Be Operational Ownership](https://dev.to/stinklewinks/road-to-kiwiengine-5the-future-of-saas-might-be-operational-ownership-31k5)
-- [Comparison pages that say where the competition wins Devlog #3](https://dev.to/choicestorystudio/comparison-pages-that-say-where-the-competition-wins-devlog-3-a2f)
+- [A .NET Dinosaur in Web3. Day 18 - Automated Market Maker](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-18-automated-market-maker-5c9k)
+- [How to Build a Power BI Financial Dashboard for Healthcare](https://dev.to/rohit9999/how-to-build-a-power-bi-financial-dashboard-for-healthcare-5h46)
+- [Where Tensor-Parallel Inference Hits the NVLink Wall](https://dev.to/member_2e5ba30f/where-tensor-parallel-inference-hits-the-nvlink-wall-1l8p)
+- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
 <!-- BLOG-POST-LIST:END -->
 
 
