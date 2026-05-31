@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Error: Cannot Set Headers After They Are Sent to the Client](https://dev.to/speaklouder/error-cannot-set-headers-after-they-are-sent-to-the-client-j7a)
-- [pypdf vs PdfPig: Text Extraction at Scale](https://dev.to/milliseconds/pypdf-vs-pdfpig-text-extraction-at-scale-21nd)
-- [NetworkX vs CSR + TensorPrimitives: PageRank on 28M Edges](https://dev.to/milliseconds/networkx-vs-csr-tensorprimitives-pagerank-on-28m-edges-3i8c)
-- [CareSync: A Local Health Memory Agent for Family Caregivers](https://dev.to/naomi_pereira_28531c3d5de/caresync-a-local-health-memory-agent-for-family-caregivers-337c)
+- [prism-mem: Automatic Knowledge Extraction for AI Coding Agents](https://dev.to/rahul_talatala/prism-mem-automatic-knowledge-extraction-for-ai-coding-agents-2bgo)
+- [First Post: A Little Biography](https://dev.to/jay_bdf02574780a91d8de9b7/first-post-a-little-biography-57j5)
+- [GridyPig Quiz Clash: Turning Prompts into Playable Multiplayer Games with Hermes Agent](https://dev.to/cjustinobi/gridypig-quiz-clash-turning-prompts-into-playable-multiplayer-games-with-hermes-agent-3ngc)
+- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
 <!-- BLOG-POST-LIST:END -->
 
 
