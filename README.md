@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CONFIGURING SEMANTIC MODEL IN POWER BI](https://dev.to/atinuke77/configuring-semantic-model-in-power-bi-1kca)
-- [Surviving Global Vendor Outages: Federated Cellular Architecture with EKS, AKS, and Istio](https://dev.to/sertaoseracloud/surviving-global-vendor-outages-federated-cellular-architecture-with-eks-aks-and-istio-583e)
-- [I Built a Cognitive Threat Hunter on Hermes Agent — It Analyzed the Session Where I Built It and Found Three Blind Spots](https://dev.to/tagzauthor/i-built-a-cognitive-threat-hunter-on-hermes-agent-it-analyzed-the-session-where-i-built-it-and-28p1)
-- [Making AI-Generated Code Fail Gracefully](https://dev.to/nickvalenciatech/making-ai-generated-code-fail-gracefully-46cn)
+- [one of the best blogs about hermes agent](https://dev.to/agastya_khati_f72c89077c8/one-of-the-best-blogs-about-hermes-agent-3c22)
+- [Nous Research Hermes Agent: Setup and Tutorial Guide](https://dev.to/paimon_573760ccaa1b3492b4/nous-research-hermes-agent-setup-and-tutorial-guide-2glg)
+- [Day 20 - AWS Lambda](https://dev.to/17j/day-20-aws-lambda-56di)
+- [Spending Hours Designing the UI? Or Just Telling AI the Pain Story?](https://dev.to/cathylai/spending-hours-designing-the-ui-or-just-telling-ai-the-pain-story-58al)
 <!-- BLOG-POST-LIST:END -->
 
 
