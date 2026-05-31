@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I Built a Developer-Only Social Platform — Meet Devand 🛠️&quot;](https://dev.to/nandan_das_369/i-built-a-developer-only-social-platform-meet-devand--33aj)
-- [Digital clock project pro version](https://dev.to/tanishq-mittal/digital-clock-project-pro-version-5303)
-- [วิธีการขอ call sign &lpar;สัญญาณเรียกงาน&rpar; ของนักวิทยุสมัครเล่นแห่งประเทศไทย ฉบับคนที่หมดอายุนานแล้ว &lpar;แบบเกือบจับมือทำ&rpar;](https://dev.to/ph9/withiikaarkh-call-sign-sayyaaneriiykngaan-khngnakwithyusmakhrelnaehngpraethsaithy-chbabkhnthiihmdaayunaanaelw-1f06)
-- [new to dev](https://dev.to/dikshant_mandhania/new-to-dev-3h31)
+- [Why your devcontainer fails on corporate networks &lpar;and how to fix it&rpar;](https://dev.to/ishwar170695/why-your-devcontainer-fails-on-corporate-networks-and-how-to-fix-it-45dh)
+- [The Agent That Lives on a $5 VPS — Why Hermes Changes the Open Source AI Story](https://dev.to/prshant01/the-agent-that-lives-on-a-5-vps-why-hermes-changes-the-open-source-ai-story-2lf8)
+- [Claude Code: I Had 10 Plugins Active at Once — Here&#39;s What It Actually Costs](https://dev.to/ohugonnot/claude-code-i-had-10-plugins-active-at-once-heres-what-it-actually-costs-2ckn)
+- [Stop your app from booting with broken env vars: a type-safe, universal config library](https://dev.to/thekadhikari/stop-your-app-from-booting-with-broken-env-vars-a-type-safe-universal-config-library-321d)
 <!-- BLOG-POST-LIST:END -->
 
 
