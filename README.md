@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🩺 Inside Med AI: How We Engineered a 100M Token Hyper-Scale Clinical Intelligence Suite 🚀](https://dev.to/lochan_visnu_74dc73274621/inside-med-ai-how-we-engineered-a-100m-token-hyper-scale-clinical-intelligence-suite-4on2)
-- [Session Management, Rate Limiting &amp; Caching using Redis](https://dev.to/shieldstring/session-management-rate-limiting-caching-using-redis-4poi)
-- [Why Accuracy Is Not Enough: Evaluation Metrics Every AI Engineer Should Understand](https://dev.to/mneetika/why-accuracy-is-not-enough-evaluation-metrics-every-ai-engineer-should-understand-cah)
-- [How I Built One](https://dev.to/arishsingh99/ai-platform-that-turns-your-resume-into-proof-that-you-can-actually-code-k9i)
+- [Interactive Floor Plans for Real Estate Developers — Why Static PDFs Are Dead](https://dev.to/foudatech/interactive-floor-plans-for-real-estate-developers-why-static-pdfs-are-dead-5f2h)
+- [Vue slot to React: How does VuReact handle it?](https://dev.to/smirk9581/vue-slot-to-react-how-does-vureact-handle-it-1935)
+- [I Found 54 Reliability Issues in My 14-Agent AI System — Here&#39;s What Broke](https://dev.to/suraj_kumar_96bb8767435e2/i-found-54-reliability-issues-in-my-14-agent-ai-system-heres-what-broke-2bj7)
+- [I Built 24 Free Browser Tools in 6 Weeks — Here&#39;s What I&#39;d Do Differently](https://dev.to/xueboyang1985/i-built-24-free-browser-tools-in-6-weeks-heres-what-id-do-differently-5580)
 <!-- BLOG-POST-LIST:END -->
 
 
