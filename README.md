@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [prism-mem: Automatic Knowledge Extraction for AI Coding Agents](https://dev.to/rahul_talatala/prism-mem-automatic-knowledge-extraction-for-ai-coding-agents-2bgo)
-- [First Post: A Little Biography](https://dev.to/jay_bdf02574780a91d8de9b7/first-post-a-little-biography-57j5)
-- [GridyPig Quiz Clash: Turning Prompts into Playable Multiplayer Games with Hermes Agent](https://dev.to/cjustinobi/gridypig-quiz-clash-turning-prompts-into-playable-multiplayer-games-with-hermes-agent-3ngc)
-- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
+- [How to name your project the way naming studios do &lpar;free Claude skill&rpar;](https://dev.to/bazingga08/how-to-name-your-project-the-way-naming-studios-do-free-claude-skill-7n1)
+- [What Is ssh-keygen](https://dev.to/erixero/what-is-ssh-keygen-17dl)
+- [AI Alignment is a Systems Architecture Problem, Not a Prompt Problem](https://dev.to/nelson_amaya_16872e58232b/ai-alignment-is-a-systems-architecture-problem-not-a-prompt-problem-40d4)
+- [Pytorch for Neural Networks Part 2: Initializing Weights and Biases](https://dev.to/rijultp/pytorch-for-neural-networks-part-2-initializing-weights-and-biases-n7i)
 <!-- BLOG-POST-LIST:END -->
 
 
