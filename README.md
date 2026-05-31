@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an agent using coral](https://dev.to/tejaswahinduja/how-to-build-an-agent-using-coral-17lf)
-- [Designing an Open-Source Toolkit for AI Agent Resources](https://dev.to/rookiestar28/designing-an-open-source-toolkit-for-ai-agent-resources-50mg)
-- [Building a Psychological Safety Framework for Engineering Teams](https://dev.to/therizwansaleem/building-a-psychological-safety-framework-for-engineering-teams-4cke)
-- [I built a freelance client + invoice tracker in ~3 hours using Cursor — here&#39;s everything I shipped](https://dev.to/ibrh96prog/i-built-a-freelance-client-invoice-tracker-in-3-hours-using-cursor-heres-everything-i-shipped-36b6)
+- [Error: Cannot Set Headers After They Are Sent to the Client](https://dev.to/speaklouder/error-cannot-set-headers-after-they-are-sent-to-the-client-j7a)
+- [pypdf vs PdfPig: Text Extraction at Scale](https://dev.to/milliseconds/pypdf-vs-pdfpig-text-extraction-at-scale-21nd)
+- [NetworkX vs CSR + TensorPrimitives: PageRank on 28M Edges](https://dev.to/milliseconds/networkx-vs-csr-tensorprimitives-pagerank-on-28m-edges-3i8c)
+- [CareSync: A Local Health Memory Agent for Family Caregivers](https://dev.to/naomi_pereira_28531c3d5de/caresync-a-local-health-memory-agent-for-family-caregivers-337c)
 <!-- BLOG-POST-LIST:END -->
 
 
