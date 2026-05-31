@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A .NET Dinosaur in Web3. Day 18 - Automated Market Maker](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-18-automated-market-maker-5c9k)
-- [How to Build a Power BI Financial Dashboard for Healthcare](https://dev.to/rohit9999/how-to-build-a-power-bi-financial-dashboard-for-healthcare-5h46)
-- [Where Tensor-Parallel Inference Hits the NVLink Wall](https://dev.to/member_2e5ba30f/where-tensor-parallel-inference-hits-the-nvlink-wall-1l8p)
-- [I open-sourced a World Cup 2026 prediction model — and tested it honestly](https://dev.to/jerry_chen_dbaa6838e17336/i-open-sourced-a-world-cup-2026-prediction-model-and-tested-it-honestly-44d1)
+- [How to monitor a brand across 5 Chinese social platforms with Python in 2026 — the cross-platform dedup problem and how to handle it](https://dev.to/sami_8858131362756585e4f4/how-to-monitor-a-brand-across-5-chinese-social-platforms-with-python-in-2026-the-cross-platform-3lif)
+- [The Solo Developer Who Ships What Entire Teams Once Built.](https://dev.to/debajyoti_ghosh/the-solo-developer-who-ships-what-entire-teams-once-built-3o0n)
+- [How I Built VoxCalc — An AI-Inspired Next-Gen Calculator with Flutter, Google ML Kit &amp; Voice NLP](https://dev.to/mdrounaqali/how-i-built-voxcalc-an-ai-inspired-next-gen-calculator-with-flutter-google-ml-kit-voice-nlp-34kb)
+- [Building AutoStack.Identity: A Zero-Dependency .NET 10 Library for SAML 2.0, JWT, and XML Signing](https://dev.to/mishrababhishek/building-autostackidentity-a-zero-dependency-net-10-library-for-saml-20-jwt-and-xml-signing-5992)
 <!-- BLOG-POST-LIST:END -->
 
 
