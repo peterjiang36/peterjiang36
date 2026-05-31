@@ -74,16 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Building an open-source email blast tool — free, self-hosted, no Mailchimp needed.
-
-Looking for contributors to help add:
-📊 Open &amp; click tracking
-🐳 Docker support
- All issues are open. Jump in 👇
-https://github.com/nikhilt101/email-blast-tool](https://dev.to/tech2nikhil_e0c26b10c6113/building-an-open-source-email-blast-tool-free-self-hosted-no-mailchimp-needed-looking-for-1k97)
-- [Progressive Distillation](https://dev.to/neuml/progressive-distillation-341i)
-- [System Design - 6.CAP Theorem &amp; PACELC, CAP Theorem &amp; PACELC: The Most Important Trade-off in Distributed Systems](https://dev.to/rajkiran_389/system-design-6cap-theorem-pacelc-cap-theorem-pacelc-the-most-important-trade-off-in-3cod)
-- [[Boost]](https://dev.to/tech2nikhil_e0c26b10c6113/building-an-open-source-email-blast-tool-free-self-hosted-no-mailchimp-needed-looking-for-4o5l)
+- [How Writing Can Help You Escape AI Delirium](https://dev.to/cwbuilds/how-writing-can-help-you-escape-ai-delirium-4nn6)
+- [Build Cache Strategies: The Operational Burden of Speed](https://dev.to/merbayerp/build-cache-strategies-the-operational-burden-of-speed-1pji)
+- [Inside agent-gov: Architecture of an Agent Cost Governance Platform](https://dev.to/sschelliah/inside-agent-gov-architecture-of-an-agent-cost-governance-platform-27jl)
+- [Why we chose a Rust template engine and Go APIs](https://dev.to/kalenux/why-we-chose-a-rust-template-engine-and-go-apis-390m)
 <!-- BLOG-POST-LIST:END -->
 
 
