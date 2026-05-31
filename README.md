@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to name your project the way naming studios do &lpar;free Claude skill&rpar;](https://dev.to/bazingga08/how-to-name-your-project-the-way-naming-studios-do-free-claude-skill-7n1)
-- [What Is ssh-keygen](https://dev.to/erixero/what-is-ssh-keygen-17dl)
-- [AI Alignment is a Systems Architecture Problem, Not a Prompt Problem](https://dev.to/nelson_amaya_16872e58232b/ai-alignment-is-a-systems-architecture-problem-not-a-prompt-problem-40d4)
-- [Pytorch for Neural Networks Part 2: Initializing Weights and Biases](https://dev.to/rijultp/pytorch-for-neural-networks-part-2-initializing-weights-and-biases-n7i)
+- [UbuCon26 Kenya](https://dev.to/markngugi/ubucon26-2g91)
+- [I built PhysioFlow — clinic software for Indian physiotherapists, solo in a week](https://dev.to/amarguptatech/i-built-physioflow-clinic-software-for-indian-physiotherapists-solo-in-a-week-3k0k)
+- [One month ago I was a cook.,I had an idea.I used AI tools to build it.In 3 days I had working code.63 developers cloned it.750 Reddit views in one hour
+ Constitutional Governance Kernel for AI Agents](https://dev.to/dk_bk_578745a78cdd7574ecb/one-month-ago-i-was-a-cooki-had-an-ideai-used-ai-tools-to-build-itin-3-days-i-had-working-2bf5)
+- [How I Use Kiro: A Teammate, Not an Autopilot](https://dev.to/aws-builders/how-i-use-kiro-a-teammate-not-an-autopilot-3gbd)
 <!-- BLOG-POST-LIST:END -->
 
 
