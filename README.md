@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Floor Plans for Real Estate Developers — Why Static PDFs Are Dead](https://dev.to/foudatech/interactive-floor-plans-for-real-estate-developers-why-static-pdfs-are-dead-5f2h)
-- [Vue slot to React: How does VuReact handle it?](https://dev.to/smirk9581/vue-slot-to-react-how-does-vureact-handle-it-1935)
-- [I Found 54 Reliability Issues in My 14-Agent AI System — Here&#39;s What Broke](https://dev.to/suraj_kumar_96bb8767435e2/i-found-54-reliability-issues-in-my-14-agent-ai-system-heres-what-broke-2bj7)
-- [I Built 24 Free Browser Tools in 6 Weeks — Here&#39;s What I&#39;d Do Differently](https://dev.to/xueboyang1985/i-built-24-free-browser-tools-in-6-weeks-heres-what-id-do-differently-5580)
+- [CONFIGURING SEMANTIC MODEL IN POWER BI](https://dev.to/atinuke77/configuring-semantic-model-in-power-bi-1kca)
+- [Surviving Global Vendor Outages: Federated Cellular Architecture with EKS, AKS, and Istio](https://dev.to/sertaoseracloud/surviving-global-vendor-outages-federated-cellular-architecture-with-eks-aks-and-istio-583e)
+- [I Built a Cognitive Threat Hunter on Hermes Agent — It Analyzed the Session Where I Built It and Found Three Blind Spots](https://dev.to/tagzauthor/i-built-a-cognitive-threat-hunter-on-hermes-agent-it-analyzed-the-session-where-i-built-it-and-28p1)
+- [Making AI-Generated Code Fail Gracefully](https://dev.to/nickvalenciatech/making-ai-generated-code-fail-gracefully-46cn)
 <!-- BLOG-POST-LIST:END -->
 
 
