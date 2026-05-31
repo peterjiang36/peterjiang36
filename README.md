@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [UbuCon26 Kenya](https://dev.to/markngugi/ubucon26-2g91)
-- [I built PhysioFlow — clinic software for Indian physiotherapists, solo in a week](https://dev.to/amarguptatech/i-built-physioflow-clinic-software-for-indian-physiotherapists-solo-in-a-week-3k0k)
-- [One month ago I was a cook.,I had an idea.I used AI tools to build it.In 3 days I had working code.63 developers cloned it.750 Reddit views in one hour
- Constitutional Governance Kernel for AI Agents](https://dev.to/dk_bk_578745a78cdd7574ecb/one-month-ago-i-was-a-cooki-had-an-ideai-used-ai-tools-to-build-itin-3-days-i-had-working-2bf5)
-- [How I Use Kiro: A Teammate, Not an Autopilot](https://dev.to/aws-builders/how-i-use-kiro-a-teammate-not-an-autopilot-3gbd)
+- [Your AI&#39;s tests pass. That doesn&#39;t mean the code works.](https://dev.to/moonrunnerkc/your-ais-tests-pass-that-doesnt-mean-the-code-works-239c)
+- [When Is 100% Vibe Coding OK ?](https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p)
+- [GIT Cheatsheet](https://dev.to/erixero/git-cheatsheet-18gj)
+- [34 malicious packages discovered targeting Solana developers: Steals wallet credentials and SSH keys](https://dev.to/relaysh_aea8bcf38177/34-malicious-packages-discovered-targeting-solana-developers-steals-wallet-credentials-and-ssh-keys-53db)
 <!-- BLOG-POST-LIST:END -->
 
 
