@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI&#39;s tests pass. That doesn&#39;t mean the code works.](https://dev.to/moonrunnerkc/your-ais-tests-pass-that-doesnt-mean-the-code-works-239c)
-- [When Is 100% Vibe Coding OK ?](https://dev.to/realvorl/when-is-100-vibe-coding-ok--38p)
-- [GIT Cheatsheet](https://dev.to/erixero/git-cheatsheet-18gj)
-- [34 malicious packages discovered targeting Solana developers: Steals wallet credentials and SSH keys](https://dev.to/relaysh_aea8bcf38177/34-malicious-packages-discovered-targeting-solana-developers-steals-wallet-credentials-and-ssh-keys-53db)
+- [Frontier Logic at Local Speed: The 2026 Strix Halo Ultimate Benchmark Suite](https://dev.to/agustinsacco/frontier-logic-at-local-speed-the-2026-strix-halo-ultimate-benchmark-suite-2cdf)
+- [Building a PySpark and AWS Glue ETL Pipeline for Search Keyword Revenue Analysis](https://dev.to/naveenayalla1cs50/building-a-pyspark-and-aws-glue-etl-pipeline-for-search-keyword-revenue-analysis-6gp)
+- [Schema.org NewsArticle: A Complete Implementation Guide for Google News in 2026](https://dev.to/mahmut_gndzalp_c736ac4b/schemaorg-newsarticle-a-complete-implementation-guide-for-google-news-in-2026-5e7g)
+- [How to Build a Frontend Developer Portfolio That Stands Out](https://dev.to/safdarali25/how-to-build-a-frontend-developer-portfolio-that-stands-out-4d3k)
 <!-- BLOG-POST-LIST:END -->
 
 
