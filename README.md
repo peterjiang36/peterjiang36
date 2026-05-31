@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [one of the best blogs about hermes agent](https://dev.to/agastya_khati_f72c89077c8/one-of-the-best-blogs-about-hermes-agent-3c22)
-- [Nous Research Hermes Agent: Setup and Tutorial Guide](https://dev.to/paimon_573760ccaa1b3492b4/nous-research-hermes-agent-setup-and-tutorial-guide-2glg)
-- [Day 20 - AWS Lambda](https://dev.to/17j/day-20-aws-lambda-56di)
-- [Spending Hours Designing the UI? Or Just Telling AI the Pain Story?](https://dev.to/cathylai/spending-hours-designing-the-ui-or-just-telling-ai-the-pain-story-58al)
+- [&quot;I Built a Developer-Only Social Platform — Meet Devand 🛠️&quot;](https://dev.to/nandan_das_369/i-built-a-developer-only-social-platform-meet-devand--33aj)
+- [Digital clock project pro version](https://dev.to/tanishq-mittal/digital-clock-project-pro-version-5303)
+- [วิธีการขอ call sign &lpar;สัญญาณเรียกงาน&rpar; ของนักวิทยุสมัครเล่นแห่งประเทศไทย ฉบับคนที่หมดอายุนานแล้ว &lpar;แบบเกือบจับมือทำ&rpar;](https://dev.to/ph9/withiikaarkh-call-sign-sayyaaneriiykngaan-khngnakwithyusmakhrelnaehngpraethsaithy-chbabkhnthiihmdaayunaanaelw-1f06)
+- [new to dev](https://dev.to/dikshant_mandhania/new-to-dev-3h31)
 <!-- BLOG-POST-LIST:END -->
 
 
