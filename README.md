@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your devcontainer fails on corporate networks &lpar;and how to fix it&rpar;](https://dev.to/ishwar170695/why-your-devcontainer-fails-on-corporate-networks-and-how-to-fix-it-45dh)
-- [The Agent That Lives on a $5 VPS — Why Hermes Changes the Open Source AI Story](https://dev.to/prshant01/the-agent-that-lives-on-a-5-vps-why-hermes-changes-the-open-source-ai-story-2lf8)
-- [Claude Code: I Had 10 Plugins Active at Once — Here&#39;s What It Actually Costs](https://dev.to/ohugonnot/claude-code-i-had-10-plugins-active-at-once-heres-what-it-actually-costs-2ckn)
-- [Stop your app from booting with broken env vars: a type-safe, universal config library](https://dev.to/thekadhikari/stop-your-app-from-booting-with-broken-env-vars-a-type-safe-universal-config-library-321d)
+- [The Open-Source Agent War of 2026: Hermes Agent vs AutoGPT vs OpenAI Agents vs CrewAI](https://dev.to/toyaab/the-open-source-agent-war-of-2026-hermes-agent-vs-autogpt-vs-openai-agents-vs-crewai-2kj6)
+- [Why I Ditched Polling and Learned to Love &lpar;and Fear&rpar; WebSockets](https://dev.to/timevolt/why-i-ditched-polling-and-learned-to-love-and-fear-websockets-1lfb)
+- [I Let an AI Agent Interview Me. Then It Wrote a File That Describes How I Think](https://dev.to/freezebrain/i-let-an-ai-agent-interview-me-then-it-wrote-a-file-that-describes-how-i-think-149h)
+- [I Built a Blockchain &amp; Web3 MVP Prototype v1.0](https://dev.to/pnms_dev/i-built-a-blockchain-web3-mvp-prototype-v10-1p41)
 <!-- BLOG-POST-LIST:END -->
 
 
