@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to monitor a brand across 5 Chinese social platforms with Python in 2026 — the cross-platform dedup problem and how to handle it](https://dev.to/sami_8858131362756585e4f4/how-to-monitor-a-brand-across-5-chinese-social-platforms-with-python-in-2026-the-cross-platform-3lif)
-- [The Solo Developer Who Ships What Entire Teams Once Built.](https://dev.to/debajyoti_ghosh/the-solo-developer-who-ships-what-entire-teams-once-built-3o0n)
-- [How I Built VoxCalc — An AI-Inspired Next-Gen Calculator with Flutter, Google ML Kit &amp; Voice NLP](https://dev.to/mdrounaqali/how-i-built-voxcalc-an-ai-inspired-next-gen-calculator-with-flutter-google-ml-kit-voice-nlp-34kb)
-- [Building AutoStack.Identity: A Zero-Dependency .NET 10 Library for SAML 2.0, JWT, and XML Signing](https://dev.to/mishrababhishek/building-autostackidentity-a-zero-dependency-net-10-library-for-saml-20-jwt-and-xml-signing-5992)
+- [How to Build an agent using coral](https://dev.to/tejaswahinduja/how-to-build-an-agent-using-coral-17lf)
+- [Designing an Open-Source Toolkit for AI Agent Resources](https://dev.to/rookiestar28/designing-an-open-source-toolkit-for-ai-agent-resources-50mg)
+- [Building a Psychological Safety Framework for Engineering Teams](https://dev.to/therizwansaleem/building-a-psychological-safety-framework-for-engineering-teams-4cke)
+- [I built a freelance client + invoice tracker in ~3 hours using Cursor — here&#39;s everything I shipped](https://dev.to/ibrh96prog/i-built-a-freelance-client-invoice-tracker-in-3-hours-using-cursor-heres-everything-i-shipped-36b6)
 <!-- BLOG-POST-LIST:END -->
 
 
