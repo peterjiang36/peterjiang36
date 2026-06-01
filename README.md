@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Made My First Dollar with Python Automation - A Practical Guide](https://dev.to/wdsega/how-i-made-my-first-dollar-with-python-automation-a-practical-guide-56be)
-- [How to Find a Prime Number in Python — A Thinking Journey](https://dev.to/kathirvel-s/how-to-find-a-prime-number-in-python-a-thinking-journey-29d)
-- [Our PriceCloud - GitHub Finish-Up-A-Thon Challenge](https://dev.to/kevin_fry_a6a9c0af10aba83/our-pricecloud-github-finish-up-a-thon-challenge-lf3)
-- [Testing JavaScript: A Practical Guide to TDD with Jest &lpar;2026&rpar;](https://dev.to/armorbreak/testing-javascript-a-practical-guide-to-tdd-with-jest-2026-c79)
+- [Transaction Simulation Story: The Dry Run Is Not the Signed Result](https://dev.to/aicryptosystems/transaction-simulation-story-the-dry-run-is-not-the-signed-result-n32)
+- [GitHub Finish-Up-A-Thon Submission: FR-RUST](https://dev.to/sayed_anower_780d008cfd14/github-finish-up-a-thon-submission-fr-rust-35pn)
+- [Understanding useContext in React: A Simple Guide](https://dev.to/jayashree_a84b6eff7bc414e/understanding-usecontext-in-react-a-simple-guide-19ec)
+- [How to get your name recognized by the LLMs &lpar;a practical entity playbook&rpar;](https://dev.to/jbrazy480/how-to-get-your-name-recognized-by-the-llms-a-practical-entity-playbook-1j96)
 <!-- BLOG-POST-LIST:END -->
 
 
