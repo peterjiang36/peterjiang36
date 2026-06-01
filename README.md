@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka without ZooKeeper: My Strimzi HA Playbook on K8s](https://dev.to/dshmatov/kafka-without-zookeeper-my-strimzi-ha-playbook-on-k8s-2m4n)
-- [A real bug you can&#39;t see - and one that fixed itself &lpar;Devlog #4&rpar;](https://dev.to/choicestorystudio/a-real-bug-you-cant-see-and-one-that-fixed-itself-devlog-4-5g69)
-- [Stop Building LLM Wrappers: Domain Knowledge Is the Only AI Moat That Lasts](https://dev.to/whoisibrahimlethy/stop-building-llm-wrappers-domain-knowledge-is-the-only-ai-moat-that-lasts-4inm)
-- [npm Supply Chain Attacks, Pixel/Exynos Zero-Days, and Instagram Account Takeovers](https://dev.to/soytuber/npm-supply-chain-attacks-pixelexynos-zero-days-and-instagram-account-takeovers-glg)
+- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df)
+- [How to add a contact form to a static site without a backend](https://dev.to/vaibhav_jain_3b62a5510248/how-to-add-a-contact-form-to-a-static-site-without-a-backend-3je9)
+- [Interview Q &amp; A Non-technical](https://dev.to/tapaspal/interview-q-a-non-technical-5541)
+- [SAA-Lab1 — Scaling en AWS &lpar;baseline&rpar;: ALB + Auto Scaling + CloudFront](https://dev.to/llunarg/saa-lab1-scaling-en-aws-baseline-alb-auto-scaling-cloudfront-3pc3)
 <!-- BLOG-POST-LIST:END -->
 
 
