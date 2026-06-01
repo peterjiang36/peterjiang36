@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Message Queues: When to Use Kafka vs RabbitMQ vs SQS](https://dev.to/sarvabharan/message-queues-when-to-use-kafka-vs-rabbitmq-vs-sqs-3mic)
-- [Security by obscurity is dead. Three things killed it at the same time.](https://dev.to/leonidbugaev/security-by-obscurity-is-dead-three-things-killed-it-at-the-same-time-2ikf)
-- [UI/UX in Design](https://dev.to/fcharles/uiux-in-design-2273)
-- [Managing Proxies &amp; Browser Fingerprinting for AI Pipelines](https://dev.to/alterlab/managing-proxies-browser-fingerprinting-for-ai-pipelines-3m6h)
+- [Testing Discipline: A Beginner&#39;s Guide](https://dev.to/fcharles/testing-discipline-a-beginners-guide-5ckb)
+- [From vibe coding to clear thinking: what non-technical builders need in the age of AI](https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd)
+- [I built an AI contract review and reader tool for plain-language contract understanding](https://dev.to/casie_ccc532d51744c77745d/i-built-an-ai-contract-review-and-reader-tool-for-plain-language-contract-understanding-1915)
+- [What the 10 Best Mobile Games of 2026 Teach Us About Game Design](https://dev.to/sam_novak_574b07811e18495/what-the-10-best-mobile-games-of-2026-teach-us-about-game-design-191m)
 <!-- BLOG-POST-LIST:END -->
 
 
