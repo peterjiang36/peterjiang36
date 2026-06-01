@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Transaction Simulation Story: The Dry Run Is Not the Signed Result](https://dev.to/aicryptosystems/transaction-simulation-story-the-dry-run-is-not-the-signed-result-n32)
-- [GitHub Finish-Up-A-Thon Submission: FR-RUST](https://dev.to/sayed_anower_780d008cfd14/github-finish-up-a-thon-submission-fr-rust-35pn)
-- [Understanding useContext in React: A Simple Guide](https://dev.to/jayashree_a84b6eff7bc414e/understanding-usecontext-in-react-a-simple-guide-19ec)
-- [How to get your name recognized by the LLMs &lpar;a practical entity playbook&rpar;](https://dev.to/jbrazy480/how-to-get-your-name-recognized-by-the-llms-a-practical-entity-playbook-1j96)
+- [I Built a CV Builder from Scratch — Here&#39;s What I Learned](https://dev.to/madan_dhoundiyal_61ef7c1e/i-built-a-cv-builder-from-scratch-heres-what-i-learned-1kbi)
+- [Building a Form Workflow with Optimistic UI, Validation, and Server Sync](https://dev.to/therizwansaleem/building-a-form-workflow-with-optimistic-ui-validation-and-server-sync-n9l)
+- [I Built My Own Container Runtime from Scratch Using Only Linux &lpar;No Docker, No containerd, No LXC&rpar;](https://dev.to/santhosh_jack/i-built-my-own-container-runtime-from-scratch-using-only-linux-no-docker-no-containerd-no-lxc-3l17)
+- [I built a motion library where the site becomes the preview](https://dev.to/hadil_c/i-built-a-motion-library-where-the-site-becomes-the-preview-3b1n)
 <!-- BLOG-POST-LIST:END -->
 
 
