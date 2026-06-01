@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How infrawise Catches the DynamoDB Scan You Didn&#39;t Know You Were Making](https://dev.to/siddharth_pandey_27/how-infrawise-catches-the-dynamodb-scan-you-didnt-know-you-were-making-40og)
-- [Building a Serverless Life Visualization App with Next.js, AWS Lambda, and DynamoDB Single-Table Design - #01](https://dev.to/randiakm/building-a-serverless-life-visualization-app-with-nextjs-aws-lambda-and-dynamodb-single-table-o)
-- [Automating AWS Well-Architected Reviews with Kiro CLI](https://dev.to/aws-builders/automating-aws-well-architected-reviews-with-kiro-cli-2cme)
-- [Anthropic&#39;s Dynamic Workflows Aren&#39;t Just Another Agent Feature](https://dev.to/albertomontagnese/anthropics-dynamic-workflows-arent-just-another-agent-feature-3mj9)
+- [Web Scraping is a Contract](https://dev.to/ibmendoza/web-scraping-is-a-contract-1k9m)
+- [What I Learned From Building a Data Mesh](https://dev.to/ben_watson_data/what-i-learned-from-running-a-data-mesh-213f)
+- [Your React Pull Requests Take Too Long to Review. The AI Created That Problem.](https://dev.to/avery_code/your-react-pull-requests-take-too-long-to-review-the-ai-created-that-problem-4pfn)
+- [Project Brain: Giving Claude Code a Memory That Actually Works](https://dev.to/slawekluzny/project-brain-giving-claude-code-a-memory-that-actually-works-45mp)
 <!-- BLOG-POST-LIST:END -->
 
 
