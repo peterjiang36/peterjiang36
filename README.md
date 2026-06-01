@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontier Logic at Local Speed: The 2026 Strix Halo Ultimate Benchmark Suite](https://dev.to/agustinsacco/frontier-logic-at-local-speed-the-2026-strix-halo-ultimate-benchmark-suite-2cdf)
-- [Building a PySpark and AWS Glue ETL Pipeline for Search Keyword Revenue Analysis](https://dev.to/naveenayalla1cs50/building-a-pyspark-and-aws-glue-etl-pipeline-for-search-keyword-revenue-analysis-6gp)
-- [Schema.org NewsArticle: A Complete Implementation Guide for Google News in 2026](https://dev.to/mahmut_gndzalp_c736ac4b/schemaorg-newsarticle-a-complete-implementation-guide-for-google-news-in-2026-5e7g)
-- [How to Build a Frontend Developer Portfolio That Stands Out](https://dev.to/safdarali25/how-to-build-a-frontend-developer-portfolio-that-stands-out-4d3k)
+- [The Open Source Money Map: Every Way Developers Are Actually Making Money in 2026 &lpar;With Real Numbers&rpar;](https://dev.to/zeroknowledge0x/the-open-source-money-map-every-way-developers-are-actually-making-money-in-2026-with-real-45ba)
+- [I Spent 3 Days Scraping a Site — Then AI Did It in 10 Minutes](https://dev.to/__c1b9e06dc90a7e0a676b/i-spent-3-days-scraping-a-site-then-ai-did-it-in-10-minutes-2e5p)
+- [Production-Ready Logging: An Agnostic ELK Stack Setup for Node.js &lpar;with a 512MB RAM Local Constraint&rpar;](https://dev.to/paudang/production-ready-logging-an-agnostic-elk-stack-setup-for-nodejs-with-a-512mb-ram-local-49nd)
+- [🚀 JWT sem hash forte de senha é armadilha — Argon2 + .NET fecham o ciclo](https://dev.to/daniloopinheiro/jwt-sem-hash-forte-de-senha-e-armadilha-argon2-net-fecham-o-ciclo-3be6)
 <!-- BLOG-POST-LIST:END -->
 
 
