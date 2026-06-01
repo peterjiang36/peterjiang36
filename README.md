@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Open Source Money Map: Every Way Developers Are Actually Making Money in 2026 &lpar;With Real Numbers&rpar;](https://dev.to/zeroknowledge0x/the-open-source-money-map-every-way-developers-are-actually-making-money-in-2026-with-real-45ba)
-- [I Spent 3 Days Scraping a Site — Then AI Did It in 10 Minutes](https://dev.to/__c1b9e06dc90a7e0a676b/i-spent-3-days-scraping-a-site-then-ai-did-it-in-10-minutes-2e5p)
-- [Production-Ready Logging: An Agnostic ELK Stack Setup for Node.js &lpar;with a 512MB RAM Local Constraint&rpar;](https://dev.to/paudang/production-ready-logging-an-agnostic-elk-stack-setup-for-nodejs-with-a-512mb-ram-local-49nd)
-- [🚀 JWT sem hash forte de senha é armadilha — Argon2 + .NET fecham o ciclo](https://dev.to/daniloopinheiro/jwt-sem-hash-forte-de-senha-e-armadilha-argon2-net-fecham-o-ciclo-3be6)
+- [How I Made My First Dollar with Python Automation - A Practical Guide](https://dev.to/wdsega/how-i-made-my-first-dollar-with-python-automation-a-practical-guide-56be)
+- [How to Find a Prime Number in Python — A Thinking Journey](https://dev.to/kathirvel-s/how-to-find-a-prime-number-in-python-a-thinking-journey-29d)
+- [Our PriceCloud - GitHub Finish-Up-A-Thon Challenge](https://dev.to/kevin_fry_a6a9c0af10aba83/our-pricecloud-github-finish-up-a-thon-challenge-lf3)
+- [Testing JavaScript: A Practical Guide to TDD with Jest &lpar;2026&rpar;](https://dev.to/armorbreak/testing-javascript-a-practical-guide-to-tdd-with-jest-2026-c79)
 <!-- BLOG-POST-LIST:END -->
 
 
