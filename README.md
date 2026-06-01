@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping is a Contract](https://dev.to/ibmendoza/web-scraping-is-a-contract-1k9m)
-- [What I Learned From Building a Data Mesh](https://dev.to/ben_watson_data/what-i-learned-from-running-a-data-mesh-213f)
-- [Your React Pull Requests Take Too Long to Review. The AI Created That Problem.](https://dev.to/avery_code/your-react-pull-requests-take-too-long-to-review-the-ai-created-that-problem-4pfn)
-- [Project Brain: Giving Claude Code a Memory That Actually Works](https://dev.to/slawekluzny/project-brain-giving-claude-code-a-memory-that-actually-works-45mp)
+- [AI Pair Programming Isn&#39;t Autopilot: Scaffolding HandyFEM and Catching What the AI Threw Away](https://dev.to/constanza_diaz_dev/ai-pair-programming-isnt-autopilot-scaffolding-handyfem-and-catching-what-the-ai-threw-away-5p6)
+- [WebRTC Video Call Tutorial with PeerJs Alternative](https://dev.to/aprogrammer22/webrtc-video-call-tutorial-11-video-chat-in-js-with-metered-peer-4m1e)
+- [APEX: Agentic Production Execution](https://dev.to/herbertcuba/apex-agentic-production-execution-4gjh)
+- [AdaEngine 0.1.0: a Swift game engine with ECS, plugins, Metal/WebGPU, and hot asset reloading](https://dev.to/spectraldragon/adaengine-010-a-swift-game-engine-with-ecs-plugins-metalwebgpu-and-hot-asset-reloading-8le)
 <!-- BLOG-POST-LIST:END -->
 
 
