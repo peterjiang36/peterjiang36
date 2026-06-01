@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Pair Programming Isn&#39;t Autopilot: Scaffolding HandyFEM and Catching What the AI Threw Away](https://dev.to/constanza_diaz_dev/ai-pair-programming-isnt-autopilot-scaffolding-handyfem-and-catching-what-the-ai-threw-away-5p6)
-- [WebRTC Video Call Tutorial with PeerJs Alternative](https://dev.to/aprogrammer22/webrtc-video-call-tutorial-11-video-chat-in-js-with-metered-peer-4m1e)
-- [APEX: Agentic Production Execution](https://dev.to/herbertcuba/apex-agentic-production-execution-4gjh)
-- [AdaEngine 0.1.0: a Swift game engine with ECS, plugins, Metal/WebGPU, and hot asset reloading](https://dev.to/spectraldragon/adaengine-010-a-swift-game-engine-with-ecs-plugins-metalwebgpu-and-hot-asset-reloading-8le)
+- [Kafka without ZooKeeper: My Strimzi HA Playbook on K8s](https://dev.to/dshmatov/kafka-without-zookeeper-my-strimzi-ha-playbook-on-k8s-2m4n)
+- [A real bug you can&#39;t see - and one that fixed itself &lpar;Devlog #4&rpar;](https://dev.to/choicestorystudio/a-real-bug-you-cant-see-and-one-that-fixed-itself-devlog-4-5g69)
+- [Stop Building LLM Wrappers: Domain Knowledge Is the Only AI Moat That Lasts](https://dev.to/whoisibrahimlethy/stop-building-llm-wrappers-domain-knowledge-is-the-only-ai-moat-that-lasts-4inm)
+- [npm Supply Chain Attacks, Pixel/Exynos Zero-Days, and Instagram Account Takeovers](https://dev.to/soytuber/npm-supply-chain-attacks-pixelexynos-zero-days-and-instagram-account-takeovers-glg)
 <!-- BLOG-POST-LIST:END -->
 
 
