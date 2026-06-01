@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a CV Builder from Scratch — Here&#39;s What I Learned](https://dev.to/madan_dhoundiyal_61ef7c1e/i-built-a-cv-builder-from-scratch-heres-what-i-learned-1kbi)
-- [Building a Form Workflow with Optimistic UI, Validation, and Server Sync](https://dev.to/therizwansaleem/building-a-form-workflow-with-optimistic-ui-validation-and-server-sync-n9l)
-- [I Built My Own Container Runtime from Scratch Using Only Linux &lpar;No Docker, No containerd, No LXC&rpar;](https://dev.to/santhosh_jack/i-built-my-own-container-runtime-from-scratch-using-only-linux-no-docker-no-containerd-no-lxc-3l17)
-- [I built a motion library where the site becomes the preview](https://dev.to/hadil_c/i-built-a-motion-library-where-the-site-becomes-the-preview-3b1n)
+- [Message Queues: When to Use Kafka vs RabbitMQ vs SQS](https://dev.to/sarvabharan/message-queues-when-to-use-kafka-vs-rabbitmq-vs-sqs-3mic)
+- [Security by obscurity is dead. Three things killed it at the same time.](https://dev.to/leonidbugaev/security-by-obscurity-is-dead-three-things-killed-it-at-the-same-time-2ikf)
+- [UI/UX in Design](https://dev.to/fcharles/uiux-in-design-2273)
+- [Managing Proxies &amp; Browser Fingerprinting for AI Pipelines](https://dev.to/alterlab/managing-proxies-browser-fingerprinting-for-ai-pipelines-3m6h)
 <!-- BLOG-POST-LIST:END -->
 
 
