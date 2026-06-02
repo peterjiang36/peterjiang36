@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM API pricing comparison: one schema across all 7 providers for $5.05/1K](https://dev.to/devil_scrapes/llm-api-pricing-comparison-one-schema-across-all-7-providers-for-5051k-22n3)
-- [How to Self-Host UI-TARS Desktop Without Vendor Lock-In](https://dev.to/lynkr/how-to-self-host-ui-tars-desktop-without-vendor-lock-in-2pie)
-- [I built a browser checklist tool for SEO audits and QA](https://dev.to/gingermanymph/i-built-a-browser-checklist-tool-for-seo-audits-and-qa-413i)
-- [Automate the Boring Stuff: Electron macOS Signing &amp; Notarization in One Git Push](https://dev.to/louis7/automate-the-boring-stuff-electron-macos-signing-notarization-in-one-git-push-493j)
+- [Python Day Four – Tuples, Lockboxes, and Data That Won&#39;t Budge 🔒](https://dev.to/alpha3020/python-day-four-tuples-lockboxes-and-data-that-wont-budge-2622)
+- [Base64 Encoding Explained: When to Use It and Why It Matters](https://dev.to/shuanghu_zhao_d6ead357228/base64-encoding-explained-when-to-use-it-and-why-it-matters-30am)
+- [How to download Youtube Videos &amp; Playlists with yt-dlp &lpar;100% Free&rpar;](https://dev.to/ishanjarwal/how-to-download-youtube-videos-playlists-with-yt-dlp-100-free-1d1k)
+- [Your AI Agent Should Not Have Direct kubectl Access](https://dev.to/mike_anderson_d01f52129fb/your-ai-agent-should-not-have-direct-kubectl-access-b1o)
 <!-- BLOG-POST-LIST:END -->
 
 
