@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Day Four – Tuples, Lockboxes, and Data That Won&#39;t Budge 🔒](https://dev.to/alpha3020/python-day-four-tuples-lockboxes-and-data-that-wont-budge-2622)
-- [Base64 Encoding Explained: When to Use It and Why It Matters](https://dev.to/shuanghu_zhao_d6ead357228/base64-encoding-explained-when-to-use-it-and-why-it-matters-30am)
-- [How to download Youtube Videos &amp; Playlists with yt-dlp &lpar;100% Free&rpar;](https://dev.to/ishanjarwal/how-to-download-youtube-videos-playlists-with-yt-dlp-100-free-1d1k)
-- [Your AI Agent Should Not Have Direct kubectl Access](https://dev.to/mike_anderson_d01f52129fb/your-ai-agent-should-not-have-direct-kubectl-access-b1o)
+- [Stop Memorizing Code: How I Built a Free Speed Trainer for SDE Prep &lpar;InterviewPro&rpar;](https://dev.to/sandeep_dasari_241201f667/stop-memorizing-code-how-i-built-a-free-speed-trainer-for-sde-prep-interviewpro-388f)
+- [Sort Colors &lpar;Dutch National Flag Algorithm&rpar;](https://dev.to/jaspreet_singh_86ae1740ac/sort-colors-dutch-national-flag-algorithm-1cg2)
+- [The toBeEnabled&lpar;&rpar; test that passed and lied to me](https://dev.to/ariless/the-tobeenabled-test-that-passed-and-lied-to-me-6ff)
+- [Harness: Turn a One-Line Prompt Into a Full Agent Team for Claude Code](https://dev.to/arshtechpro/harness-turn-a-one-line-prompt-into-a-full-agent-team-for-claude-code-5eog)
 <!-- BLOG-POST-LIST:END -->
 
 
