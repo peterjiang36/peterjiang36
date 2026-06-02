@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey...](https://dev.to/saitejabandaru/-428f)
-- [WebMCP has 0% adoption. So I generated the tools myself.](https://dev.to/nidhi-singh/webmcp-has-0-adoption-so-i-generated-the-tools-myself-59k7)
-- [google-adk 2.0 Is Now Stable: Workflow Runtimes, Breaking Changes, and How to Migrate](https://dev.to/peytongreen_dev/google-adk-20-is-now-stable-workflow-runtimes-breaking-changes-and-how-to-migrate-4ah8)
-- [Desenvolvendo uma Plataforma em Parceria com a UNICEF: Uma Experiência de Engenharia, Impacto Social e Decisões de Arquitetura em Produção Real](https://dev.to/camilasrody/desenvolvendo-uma-plataforma-em-parceria-com-a-unicef-uma-experiencia-de-engenharia-impacto-2266)
+- [Navigating the AI world order as a Java Dev - 1.0.0](https://dev.to/abhishek_kesiraju/navigating-the-ai-world-order-as-a-java-dev-100-1hjg)
+- [TypeScript: The Practical Guide for JavaScript Developers &lpar;2026&rpar;](https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa)
+- [Cuatro intentos para que una tarea programada se ejecute exactamente una vez: una evolución](https://dev.to/aws-builders/cuatro-intentos-para-que-una-tarea-programada-se-ejecute-exactamente-una-vez-una-evolucion-5c6)
+- [Quick and easy local AI RAG setup with JetBrains IDE integration and browser UI](https://dev.to/nikolastojilj12/quick-and-easy-local-ai-rag-setup-with-jetbrains-ide-integration-and-browser-ui-bh8)
 <!-- BLOG-POST-LIST:END -->
 
 
