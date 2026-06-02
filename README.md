@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How does VuReact optimize Vue 3&#39;s top-level constants and variables for React?](https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-constants-and-variables-for-react-233n)
-- [How to Model Teams Inside a Multi-Tenant Product](https://dev.to/oladele-david/how-to-model-teams-inside-a-multi-tenant-product-1h4i)
-- [The Git &amp; GitHub Guide I Wish I Had Before Losing My University Project](https://dev.to/khadija_sajid/the-git-github-guide-i-wish-i-had-before-losing-my-university-project-285d)
-- [Thinking in Workflows: Balancing agentic, programmatic, and manual steps](https://dev.to/prince_of_pasta/thinking-in-workflows-balancing-agentic-programmatic-and-manual-steps-5hn6)
+- [I Built a Parking Meter for Paragraphs](https://dev.to/brn_slp/i-built-a-parking-meter-for-paragraphs-2mkk)
+- [Tests Verify Behavior. ArchMind Verifies Architecture.](https://dev.to/kidkender/tests-verify-behavior-archmind-verifies-architecture-lpi)
+- [The Web Developer’s Guide to Browser Storage: LocalStorage, SessionStorage, and Cookies](https://dev.to/wandanamaddumage/the-web-developers-guide-to-browser-storage-localstorage-sessionstorage-and-cookies-hk9)
+- [Bigger llm models will no longer be performant](https://dev.to/abhinav-writes/bigger-llm-models-will-no-longer-be-performant-4nip)
 <!-- BLOG-POST-LIST:END -->
 
 
