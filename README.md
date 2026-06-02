@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Memorizing Code: How I Built a Free Speed Trainer for SDE Prep &lpar;InterviewPro&rpar;](https://dev.to/sandeep_dasari_241201f667/stop-memorizing-code-how-i-built-a-free-speed-trainer-for-sde-prep-interviewpro-388f)
-- [Sort Colors &lpar;Dutch National Flag Algorithm&rpar;](https://dev.to/jaspreet_singh_86ae1740ac/sort-colors-dutch-national-flag-algorithm-1cg2)
-- [The toBeEnabled&lpar;&rpar; test that passed and lied to me](https://dev.to/ariless/the-tobeenabled-test-that-passed-and-lied-to-me-6ff)
-- [Harness: Turn a One-Line Prompt Into a Full Agent Team for Claude Code](https://dev.to/arshtechpro/harness-turn-a-one-line-prompt-into-a-full-agent-team-for-claude-code-5eog)
+- [PHP Generics Already Exist: They&#39;re Just Hidden in PHPDoc](https://dev.to/tegos/php-generics-already-exist-theyre-just-hidden-in-phpdoc-2l0c)
+- [Making HTML Artifacts Collaborative for AI Workflows](https://dev.to/bharathnayakt/making-html-artifacts-collaborative-for-ai-workflows-3f20)
+- [可压缩性（Compressibility）is all you need](https://dev.to/cognitalk/ke-ya-suo-xing-compressibilityis-all-you-need-joi)
+- [IPv4 in 2026: Three Practical Positions for RIPE Operators](https://dev.to/kohanevich/ipv4-in-2026-three-practical-positions-for-ripe-operators-n88)
 <!-- BLOG-POST-LIST:END -->
 
 
