@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Parking Meter for Paragraphs](https://dev.to/brn_slp/i-built-a-parking-meter-for-paragraphs-2mkk)
-- [Tests Verify Behavior. ArchMind Verifies Architecture.](https://dev.to/kidkender/tests-verify-behavior-archmind-verifies-architecture-lpi)
-- [The Web Developer’s Guide to Browser Storage: LocalStorage, SessionStorage, and Cookies](https://dev.to/wandanamaddumage/the-web-developers-guide-to-browser-storage-localstorage-sessionstorage-and-cookies-hk9)
-- [Bigger llm models will no longer be performant](https://dev.to/abhinav-writes/bigger-llm-models-will-no-longer-be-performant-4nip)
+- [LLM API pricing comparison: one schema across all 7 providers for $5.05/1K](https://dev.to/devil_scrapes/llm-api-pricing-comparison-one-schema-across-all-7-providers-for-5051k-22n3)
+- [How to Self-Host UI-TARS Desktop Without Vendor Lock-In](https://dev.to/lynkr/how-to-self-host-ui-tars-desktop-without-vendor-lock-in-2pie)
+- [I built a browser checklist tool for SEO audits and QA](https://dev.to/gingermanymph/i-built-a-browser-checklist-tool-for-seo-audits-and-qa-413i)
+- [Automate the Boring Stuff: Electron macOS Signing &amp; Notarization in One Git Push](https://dev.to/louis7/automate-the-boring-stuff-electron-macos-signing-notarization-in-one-git-push-493j)
 <!-- BLOG-POST-LIST:END -->
 
 
