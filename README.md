@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral Small 4 for Local AI in 2026: The 119B MoE Hardware Reality](https://dev.to/jovan_chan_9500711396d4e6/mistral-small-4-for-local-ai-in-2026-the-119b-moe-hardware-reality-16la)
-- [5 SQL queries developers always have to look up &lpar;with copy-paste answers&rpar;](https://dev.to/forglydev/5-sql-queries-developers-always-have-to-look-up-with-copy-paste-answers-2ea2)
-- [Part 3: The Core of Memory Management: Allocation and Residency](https://dev.to/deleon_karen_2216eb5888b3/part-3-the-core-of-memory-management-allocation-and-residency-50bd)
-- [5 Best Local LLM Tools and Models You Should Run in 2026](https://dev.to/moksh/5-best-local-llm-tools-and-models-you-should-run-in-2026-2mbi)
+- [Connecting RooCode to Gemma4-26B-MoE via OpenAI Bridge](https://dev.to/kheai/connecting-roocode-to-gemma4-26b-moe-via-openai-bridge-koi)
+- [Understanding Constructors in Java: A Beginner&#39;s Guide](https://dev.to/arun_kumar_a400c4a77f4b6a/understanding-constructors-in-java-a-beginners-guide-1emk)
+- [How Symbiote Annotated a Python Repository Overnight — Without Breaking Anything](https://dev.to/yehorai/how-symbiote-annotated-a-python-repository-overnight-without-breaking-anything-40g3)
+- [Enterprise AI doesn&#39;t need a better model. It needs smarter agent logic.](https://dev.to/thegatewayguy/enterprise-ai-doesnt-need-a-better-model-it-needs-smarter-agent-logic-46k4)
 <!-- BLOG-POST-LIST:END -->
 
 
