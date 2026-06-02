@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting RooCode to Gemma4-26B-MoE via OpenAI Bridge](https://dev.to/kheai/connecting-roocode-to-gemma4-26b-moe-via-openai-bridge-koi)
-- [Understanding Constructors in Java: A Beginner&#39;s Guide](https://dev.to/arun_kumar_a400c4a77f4b6a/understanding-constructors-in-java-a-beginners-guide-1emk)
-- [How Symbiote Annotated a Python Repository Overnight — Without Breaking Anything](https://dev.to/yehorai/how-symbiote-annotated-a-python-repository-overnight-without-breaking-anything-40g3)
-- [Enterprise AI doesn&#39;t need a better model. It needs smarter agent logic.](https://dev.to/thegatewayguy/enterprise-ai-doesnt-need-a-better-model-it-needs-smarter-agent-logic-46k4)
+- [How to roll out an Agentic Workspace inside a marketing team](https://dev.to/gshevchenko/how-to-roll-out-an-agentic-workspace-inside-a-marketing-team-4iol)
+- [I Audited 14 AI Agent Log Archives for EU AI Act Article 17. 12 Failed.](https://dev.to/milo_antaeus_784320e2f2f9/i-audited-14-ai-agent-log-archives-for-eu-ai-act-article-17-12-failed-30mf)
+- [20 Most Impactful AI Research Papers Right Now — Curated via Neural Search](https://dev.to/rileycraig14/20-most-impactful-ai-research-papers-right-now-curated-via-neural-search-5ab3)
+- [The Postgres Developer&#39;s Guide to Vector Index Tradeoffs](https://dev.to/tigerdata_dev/the-postgres-developers-guide-to-vector-index-tradeoffs-o3h)
 <!-- BLOG-POST-LIST:END -->
 
 
