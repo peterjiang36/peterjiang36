@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the AI world order as a Java Dev - 1.0.0](https://dev.to/abhishek_kesiraju/navigating-the-ai-world-order-as-a-java-dev-100-1hjg)
-- [TypeScript: The Practical Guide for JavaScript Developers &lpar;2026&rpar;](https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa)
-- [Cuatro intentos para que una tarea programada se ejecute exactamente una vez: una evolución](https://dev.to/aws-builders/cuatro-intentos-para-que-una-tarea-programada-se-ejecute-exactamente-una-vez-una-evolucion-5c6)
-- [Quick and easy local AI RAG setup with JetBrains IDE integration and browser UI](https://dev.to/nikolastojilj12/quick-and-easy-local-ai-rag-setup-with-jetbrains-ide-integration-and-browser-ui-bh8)
+- [Run Claude Code For Free &lpar;for Fun and Profit&rpar;](https://dev.to/t7y/run-claude-code-for-free-for-fun-and-profit-42al)
+- [Segment Trees: The “Divide‑and‑Conquer” Trick That Actually Makes Sense](https://dev.to/timevolt/segment-trees-the-divide-and-conquer-trick-that-actually-makes-sense-n1n)
+- [First Post](https://dev.to/incendero_ai/first-post-1gk9)
+- [The AI-Powered Classifieds Stack That Posts in Seconds](https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8)
 <!-- BLOG-POST-LIST:END -->
 
 
