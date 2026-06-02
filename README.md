@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df)
-- [How to add a contact form to a static site without a backend](https://dev.to/vaibhav_jain_3b62a5510248/how-to-add-a-contact-form-to-a-static-site-without-a-backend-3je9)
-- [Interview Q &amp; A Non-technical](https://dev.to/tapaspal/interview-q-a-non-technical-5541)
-- [SAA-Lab1 — Scaling en AWS &lpar;baseline&rpar;: ALB + Auto Scaling + CloudFront](https://dev.to/llunarg/saa-lab1-scaling-en-aws-baseline-alb-auto-scaling-cloudfront-3pc3)
+- [How does VuReact optimize Vue 3&#39;s top-level constants and variables for React?](https://dev.to/smirk9581/how-does-vureact-optimize-vue-3s-top-level-constants-and-variables-for-react-233n)
+- [How to Model Teams Inside a Multi-Tenant Product](https://dev.to/oladele-david/how-to-model-teams-inside-a-multi-tenant-product-1h4i)
+- [The Git &amp; GitHub Guide I Wish I Had Before Losing My University Project](https://dev.to/khadija_sajid/the-git-github-guide-i-wish-i-had-before-losing-my-university-project-285d)
+- [Thinking in Workflows: Balancing agentic, programmatic, and manual steps](https://dev.to/prince_of_pasta/thinking-in-workflows-balancing-agentic-programmatic-and-manual-steps-5hn6)
 <!-- BLOG-POST-LIST:END -->
 
 
