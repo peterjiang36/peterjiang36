@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to roll out an Agentic Workspace inside a marketing team](https://dev.to/gshevchenko/how-to-roll-out-an-agentic-workspace-inside-a-marketing-team-4iol)
-- [I Audited 14 AI Agent Log Archives for EU AI Act Article 17. 12 Failed.](https://dev.to/milo_antaeus_784320e2f2f9/i-audited-14-ai-agent-log-archives-for-eu-ai-act-article-17-12-failed-30mf)
-- [20 Most Impactful AI Research Papers Right Now — Curated via Neural Search](https://dev.to/rileycraig14/20-most-impactful-ai-research-papers-right-now-curated-via-neural-search-5ab3)
-- [The Postgres Developer&#39;s Guide to Vector Index Tradeoffs](https://dev.to/tigerdata_dev/the-postgres-developers-guide-to-vector-index-tradeoffs-o3h)
+- [Hey...](https://dev.to/saitejabandaru/-428f)
+- [WebMCP has 0% adoption. So I generated the tools myself.](https://dev.to/nidhi-singh/webmcp-has-0-adoption-so-i-generated-the-tools-myself-59k7)
+- [google-adk 2.0 Is Now Stable: Workflow Runtimes, Breaking Changes, and How to Migrate](https://dev.to/peytongreen_dev/google-adk-20-is-now-stable-workflow-runtimes-breaking-changes-and-how-to-migrate-4ah8)
+- [Desenvolvendo uma Plataforma em Parceria com a UNICEF: Uma Experiência de Engenharia, Impacto Social e Decisões de Arquitetura em Produção Real](https://dev.to/camilasrody/desenvolvendo-uma-plataforma-em-parceria-com-a-unicef-uma-experiencia-de-engenharia-impacto-2266)
 <!-- BLOG-POST-LIST:END -->
 
 
