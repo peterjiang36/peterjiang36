@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wi-Fi ADB Lies to You: The Silent Disconnect Problem No One Talks About](https://dev.to/hiyoyok/wi-fi-adb-lies-to-you-the-silent-disconnect-problem-no-one-talks-about-ii3)
-- [Trabajando con diferentes versiones de Node](https://dev.to/amilkar/trabajando-con-diferentes-versiones-de-node-43c)
-- [TradingAgents&#39;s 5 Hidden Uses That 90% of Quant Devs Miss in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/tradingagentss-5-hidden-uses-that-90-of-quant-devs-miss-in-2026-2cn4)
-- [The Phantom in the Sandbox: Architecting an Offline AI Coach with React Native and Gemma 4](https://dev.to/subraatakumar/the-phantom-in-the-sandbox-architecting-an-offline-ai-coach-with-react-native-and-gemma-4-4i63)
+- [Paper 145 v0.8 — D-FUMT-8 Phase 4 Quine-McCluskey Simplification + Finding F11 Engineering-Correctable Relaxation Bias on IBM Heron r2](https://dev.to/fc0web/paper-145-v08-d-fumt-8-phase-4-quine-mccluskey-simplification-finding-f11-339m)
+- [Scrapling的5个隐藏用法 90%的开发者不知道 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplingde-5ge-yin-cang-yong-fa-90de-kai-fa-zhe-bu-zhi-dao-54cg)
+- [Scrapling&#39;s 5 Hidden Uses Nobody Talks About in 2026 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplings-5-hidden-uses-nobody-talks-about-in-2026-eap)
+- [Meet the AI Requirement Analyzer: Turning Scattered Brainstorms into Production-Ready Specs](https://dev.to/momen_hq/meet-the-ai-requirement-analyzer-turning-scattered-brainstorms-into-production-ready-specs-37m)
 <!-- BLOG-POST-LIST:END -->
 
 
