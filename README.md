@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Genetic Diversity and Cyber Diversity: Why Monocultures Are Dangerous in Both Worlds](https://dev.to/sujalavnelavai/genetic-diversity-and-cyber-diversity-why-monocultures-are-dangerous-in-both-worlds-e49)
-- [What makes AI API spend chargeback-safe by team/service?](https://dev.to/void_stitch/what-makes-ai-api-spend-chargeback-safe-by-teamservice-3cd4)
-- [Part 5: Display Topology and VidPN Management &lpar;Display Management&rpar;](https://dev.to/deleon_karen_2216eb5888b3/part-5-display-topology-and-vidpn-management-display-management-2g2n)
-- [Authentication vs Authorization: Understanding the Difference in Spring Security](https://dev.to/sonalishahi/authentication-vs-authorization-understanding-the-difference-in-spring-security-4j4c)
+- [Best integration platform for mail and calendar integrations &lpar;2026&rpar;](https://dev.to/sapnesh_naik_ngo/best-integration-platform-for-mail-and-calendar-integrations-2026-2mf0)
+- [Rodei IA de 35B na minha GPU velha e me surpreendi!](https://dev.to/kabrau/rodei-ia-de-35b-na-minha-gpu-velha-e-me-surpreendi-2mh3)
+- [My AI journey](https://dev.to/marcello_h/my-ai-journey-38ag)
+- [Every tool seems to have a coding agent horned in these days..... I don&#39;t think that makes sense.](https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db)
 <!-- BLOG-POST-LIST:END -->
 
 
