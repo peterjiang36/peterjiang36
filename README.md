@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Website Audit That Gives Claude-Ready Fix Prompts &lpar;Here&#39;s the Tech Stack&rpar;](https://dev.to/webperfdev/i-built-a-free-website-audit-that-gives-claude-ready-fix-prompts-heres-the-tech-stack-15m)
-- [Más allá de la fuerza bruta: El razonamiento de la IA como un punto de equilibrio](https://dev.to/johantovar/mas-alla-de-la-fuerza-bruta-el-razonamiento-de-la-ia-como-un-punto-de-equilibrio-40cj)
-- [JWT: the theory before the code](https://dev.to/icryinbed/jwt-the-theory-before-the-code-1p4o)
-- [[Gemini][Agent] Google Managed Agents API](https://dev.to/gde/geminiagent-google-managed-agents-api-4e43)
+- [Wi-Fi ADB Lies to You: The Silent Disconnect Problem No One Talks About](https://dev.to/hiyoyok/wi-fi-adb-lies-to-you-the-silent-disconnect-problem-no-one-talks-about-ii3)
+- [Trabajando con diferentes versiones de Node](https://dev.to/amilkar/trabajando-con-diferentes-versiones-de-node-43c)
+- [TradingAgents&#39;s 5 Hidden Uses That 90% of Quant Devs Miss in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/tradingagentss-5-hidden-uses-that-90-of-quant-devs-miss-in-2026-2cn4)
+- [The Phantom in the Sandbox: Architecting an Offline AI Coach with React Native and Gemma 4](https://dev.to/subraatakumar/the-phantom-in-the-sandbox-architecting-an-offline-ai-coach-with-react-native-and-gemma-4-4i63)
 <!-- BLOG-POST-LIST:END -->
 
 
