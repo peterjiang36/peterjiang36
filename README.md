@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Claude Code For Free &lpar;for Fun and Profit&rpar;](https://dev.to/t7y/run-claude-code-for-free-for-fun-and-profit-42al)
-- [Segment Trees: The “Divide‑and‑Conquer” Trick That Actually Makes Sense](https://dev.to/timevolt/segment-trees-the-divide-and-conquer-trick-that-actually-makes-sense-n1n)
-- [First Post](https://dev.to/incendero_ai/first-post-1gk9)
-- [The AI-Powered Classifieds Stack That Posts in Seconds](https://dev.to/slawekluzny/the-ai-powered-classifieds-stack-that-posts-in-seconds-4dd8)
+- [I Built a Free Website Audit That Gives Claude-Ready Fix Prompts &lpar;Here&#39;s the Tech Stack&rpar;](https://dev.to/webperfdev/i-built-a-free-website-audit-that-gives-claude-ready-fix-prompts-heres-the-tech-stack-15m)
+- [Más allá de la fuerza bruta: El razonamiento de la IA como un punto de equilibrio](https://dev.to/johantovar/mas-alla-de-la-fuerza-bruta-el-razonamiento-de-la-ia-como-un-punto-de-equilibrio-40cj)
+- [JWT: the theory before the code](https://dev.to/icryinbed/jwt-the-theory-before-the-code-1p4o)
+- [[Gemini][Agent] Google Managed Agents API](https://dev.to/gde/geminiagent-google-managed-agents-api-4e43)
 <!-- BLOG-POST-LIST:END -->
 
 
