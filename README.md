@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Malleable Foundation: Exploring the Limitations and Expansive Possibilities of Bitcoin&#39;s Script Language](https://dev.to/ice1121/the-malleable-foundation-exploring-the-limitations-and-expansive-possibilities-of-bitcoins-script-l22)
-- [비트코인 스크립트 언어, 그 투박함 속의 무한한 가능성](https://dev.to/ice1121/biteukoin-seukeuribteu-eoneo-geu-tubagham-sogyi-muhanhan-ganeungseong-5cdn)
-- [From Minikube to AWS EKS: How I Built a Zero-Downtime Blue-Green Deployment Pipeline for ShopSwift](https://dev.to/gbadedata/from-minikube-to-aws-eks-how-i-built-a-zero-downtime-blue-green-deployment-pipeline-for-shopswift-299b)
-- [Surrogate Testing: Building a Robust QA Pipeline with Mutation Testing and Test Doubles](https://dev.to/therizwansaleem/surrogate-testing-building-a-robust-qa-pipeline-with-mutation-testing-and-test-doubles-3e8a)
+- [Can a Tiny Browser Game Make a Website More Engaging?](https://dev.to/gamesiknow/can-a-tiny-browser-game-make-a-website-more-engaging-29m4)
+- [🚀 Amazon Web Services &lpar;AWS&rpar; Summit Ciudad de México 2026 está cada vez más cerca](https://dev.to/ricardo_vallejosanchez_3/amazon-web-services-aws-summit-ciudad-de-mexico-2026-esta-cada-vez-mas-cerca-37n5)
+- [Phase 2 Shipped: 5 Things I Got Wrong About Embedding-Based Routing](https://dev.to/wavebro_c996eee478a5ca541/phase-2-shipped-5-things-i-got-wrong-about-embedding-based-routing-4olg)
+- [How Developers Can Earn Online Beyond a 9–5 Job](https://dev.to/raajaryan/how-developers-can-earn-online-beyond-a-9-5-job-a-practical-guide-for-students-beginners-and-34mc)
 <!-- BLOG-POST-LIST:END -->
 
 
