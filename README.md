@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Not Paying for Code Generation. You&#39;re Paying for Context](https://dev.to/shanky1992/youre-not-paying-for-code-generation-youre-paying-for-context-21l4)
-- [Cross Cloud A2A Agent Benchmarking](https://dev.to/aws-builders/cross-cloud-a2a-agent-benchmarking-4ab7)
-- [You can&#39;t delete an event. GDPR says you must. Crypto-shredding is the truce.](https://dev.to/norbertrosenwinkel/you-cant-delete-an-event-gdpr-says-you-must-crypto-shredding-is-the-truce-26ak)
-- [A Deep Dive into Cleaning Persistent WordPress Malware and Hardening the REST API](https://dev.to/jahidshah/a-deep-dive-into-cleaning-persistent-wordpress-malware-and-hardening-the-rest-api-kok)
+- [Preventing Stockout Crises: Building Automated Inventory Alerts in Google Sheets](https://dev.to/hayrullahkar/preventing-stockout-crises-building-automated-inventory-alerts-in-google-sheets-dp1)
+- [The Harness Has a Token Budget](https://dev.to/tacoda/the-harness-has-a-token-budget-gcn)
+- [SynaptoRoute v0.4.0: Re-Architecting for Massive Concurrency &amp; Zero-Downtime Indexing](https://dev.to/sitanshukr08/synaptoroute-v040-re-architecting-for-massive-concurrency-zero-downtime-indexing-4n3d)
+- [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904)
 <!-- BLOG-POST-LIST:END -->
 
 
