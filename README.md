@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Game Engine with Editor from Nothing - Save and Load Scene](https://dev.to/harry_tanama_51571ebf90b6/making-game-engine-with-editor-from-nothing-save-and-load-scene-6ch)
-- [CtF Submissions for DEF CON 34 are now open.](https://dev.to/secdim/ctf-submissions-for-def-con-34-are-now-open-594g)
-- [Your Team Has 5 CLAUDE.md Files and They All Say Different Things](https://dev.to/olivia_craft/your-team-has-5-claudemd-files-and-they-all-say-different-things-18gg)
-- [Built Log Stripper: A VS Code Extension to Remove Debug Logs Across 23+ Languages](https://dev.to/saurabhzaiswal/built-log-stripper-a-vs-code-extension-to-remove-debug-logs-across-23-languages-g9h)
+- [Building a Real-Time WebSocket-Based Chat Server with Rust and WASM](https://dev.to/therizwansaleem/building-a-real-time-websocket-based-chat-server-with-rust-and-wasm-44d3)
+- [🚀 StudyQuiz v1.1.0 — UX Enhancements, Integration Tests, and Reliability Improvements](https://dev.to/aissalaribi/studyquiz-v110-ux-enhancements-integration-tests-and-reliability-improvements-2e9f)
+- [Day 5 — Entering the World of Classification](https://dev.to/rihhanna/day-5-entering-the-world-of-classification-2f5o)
+- [Why we built nudges before we built the dashboard &lpar;and why you should too&rpar;](https://dev.to/mahadtahir/why-we-built-nudges-before-we-built-the-dashboard-and-why-you-should-too-2koj)
 <!-- BLOG-POST-LIST:END -->
 
 
