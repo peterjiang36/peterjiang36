@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can a Tiny Browser Game Make a Website More Engaging?](https://dev.to/gamesiknow/can-a-tiny-browser-game-make-a-website-more-engaging-29m4)
-- [🚀 Amazon Web Services &lpar;AWS&rpar; Summit Ciudad de México 2026 está cada vez más cerca](https://dev.to/ricardo_vallejosanchez_3/amazon-web-services-aws-summit-ciudad-de-mexico-2026-esta-cada-vez-mas-cerca-37n5)
-- [Phase 2 Shipped: 5 Things I Got Wrong About Embedding-Based Routing](https://dev.to/wavebro_c996eee478a5ca541/phase-2-shipped-5-things-i-got-wrong-about-embedding-based-routing-4olg)
-- [How Developers Can Earn Online Beyond a 9–5 Job](https://dev.to/raajaryan/how-developers-can-earn-online-beyond-a-9-5-job-a-practical-guide-for-students-beginners-and-34mc)
+- [Why AI Agents Keep Breaking Your Code &lpar;And What to Do About It&rpar;](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5bp0)
+- [The Safety Workaround That Worked, Until It Didn&#39;t](https://dev.to/sudee_sim/the-safety-workaround-that-worked-until-it-didnt-4hlb)
+- [I used to guard buildings. Now I guard codebases.](https://dev.to/onfafanutifafa/i-used-to-guard-buildings-now-i-guard-codebases-22p3)
+- [Opendria – Historical AI characters simulating brain, emotional &amp; cognitive states](https://dev.to/opendria/opendria-historical-ai-characters-simulating-brain-emotional-cognitive-states-30mc)
 <!-- BLOG-POST-LIST:END -->
 
 
