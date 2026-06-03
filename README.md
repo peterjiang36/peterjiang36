@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing Stockout Crises: Building Automated Inventory Alerts in Google Sheets](https://dev.to/hayrullahkar/preventing-stockout-crises-building-automated-inventory-alerts-in-google-sheets-dp1)
-- [The Harness Has a Token Budget](https://dev.to/tacoda/the-harness-has-a-token-budget-gcn)
-- [SynaptoRoute v0.4.0: Re-Architecting for Massive Concurrency &amp; Zero-Downtime Indexing](https://dev.to/sitanshukr08/synaptoroute-v040-re-architecting-for-massive-concurrency-zero-downtime-indexing-4n3d)
-- [Am I Becoming Too Slow for the AI World?](https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904)
+- [How We Encrypt X Auth Tokens: AES-256-GCM in Practice](https://dev.to/helperx/how-we-encrypt-x-auth-tokens-aes-256-gcm-in-practice-4g86)
+- [The MCP Rug Pull - When the Tool You Trusted Yesterday Becomes Malicious Today](https://dev.to/node9_ai/the-mcp-rug-pull-when-the-tool-you-trusted-yesterday-becomes-malicious-today-4om)
+- [Operator: cuando responder no basta](https://dev.to/tirsogarcia/operator-cuando-responder-no-basta-2kna)
+- [CSIRT: O Time Que Transforma Incidente Em Controle](https://dev.to/m2hcz/csirt-o-time-que-transforma-incidente-em-controle-1g1k)
 <!-- BLOG-POST-LIST:END -->
 
 
