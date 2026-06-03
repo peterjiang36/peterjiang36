@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time WebSocket-Based Chat Server with Rust and WASM](https://dev.to/therizwansaleem/building-a-real-time-websocket-based-chat-server-with-rust-and-wasm-44d3)
-- [🚀 StudyQuiz v1.1.0 — UX Enhancements, Integration Tests, and Reliability Improvements](https://dev.to/aissalaribi/studyquiz-v110-ux-enhancements-integration-tests-and-reliability-improvements-2e9f)
-- [Day 5 — Entering the World of Classification](https://dev.to/rihhanna/day-5-entering-the-world-of-classification-2f5o)
-- [Why we built nudges before we built the dashboard &lpar;and why you should too&rpar;](https://dev.to/mahadtahir/why-we-built-nudges-before-we-built-the-dashboard-and-why-you-should-too-2koj)
+- [Genetic Diversity and Cyber Diversity: Why Monocultures Are Dangerous in Both Worlds](https://dev.to/sujalavnelavai/genetic-diversity-and-cyber-diversity-why-monocultures-are-dangerous-in-both-worlds-e49)
+- [What makes AI API spend chargeback-safe by team/service?](https://dev.to/void_stitch/what-makes-ai-api-spend-chargeback-safe-by-teamservice-3cd4)
+- [Part 5: Display Topology and VidPN Management &lpar;Display Management&rpar;](https://dev.to/deleon_karen_2216eb5888b3/part-5-display-topology-and-vidpn-management-display-management-2g2n)
+- [Authentication vs Authorization: Understanding the Difference in Spring Security](https://dev.to/sonalishahi/authentication-vs-authorization-understanding-the-difference-in-spring-security-4j4c)
 <!-- BLOG-POST-LIST:END -->
 
 
