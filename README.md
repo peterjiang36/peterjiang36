@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best integration platform for mail and calendar integrations &lpar;2026&rpar;](https://dev.to/sapnesh_naik_ngo/best-integration-platform-for-mail-and-calendar-integrations-2026-2mf0)
-- [Rodei IA de 35B na minha GPU velha e me surpreendi!](https://dev.to/kabrau/rodei-ia-de-35b-na-minha-gpu-velha-e-me-surpreendi-2mh3)
-- [My AI journey](https://dev.to/marcello_h/my-ai-journey-38ag)
-- [Every tool seems to have a coding agent horned in these days..... I don&#39;t think that makes sense.](https://dev.to/ben/every-tool-seems-to-have-a-coding-agent-horned-in-these-days-i-dont-think-that-makes-sense-3db)
+- [You&#39;re Not Paying for Code Generation. You&#39;re Paying for Context](https://dev.to/shanky1992/youre-not-paying-for-code-generation-youre-paying-for-context-21l4)
+- [Cross Cloud A2A Agent Benchmarking](https://dev.to/aws-builders/cross-cloud-a2a-agent-benchmarking-4ab7)
+- [You can&#39;t delete an event. GDPR says you must. Crypto-shredding is the truce.](https://dev.to/norbertrosenwinkel/you-cant-delete-an-event-gdpr-says-you-must-crypto-shredding-is-the-truce-26ak)
+- [A Deep Dive into Cleaning Persistent WordPress Malware and Hardening the REST API](https://dev.to/jahidshah/a-deep-dive-into-cleaning-persistent-wordpress-malware-and-hardening-the-rest-api-kok)
 <!-- BLOG-POST-LIST:END -->
 
 
