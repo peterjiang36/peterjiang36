@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Encrypt X Auth Tokens: AES-256-GCM in Practice](https://dev.to/helperx/how-we-encrypt-x-auth-tokens-aes-256-gcm-in-practice-4g86)
-- [The MCP Rug Pull - When the Tool You Trusted Yesterday Becomes Malicious Today](https://dev.to/node9_ai/the-mcp-rug-pull-when-the-tool-you-trusted-yesterday-becomes-malicious-today-4om)
-- [Operator: cuando responder no basta](https://dev.to/tirsogarcia/operator-cuando-responder-no-basta-2kna)
-- [CSIRT: O Time Que Transforma Incidente Em Controle](https://dev.to/m2hcz/csirt-o-time-que-transforma-incidente-em-controle-1g1k)
+- [The Malleable Foundation: Exploring the Limitations and Expansive Possibilities of Bitcoin&#39;s Script Language](https://dev.to/ice1121/the-malleable-foundation-exploring-the-limitations-and-expansive-possibilities-of-bitcoins-script-l22)
+- [비트코인 스크립트 언어, 그 투박함 속의 무한한 가능성](https://dev.to/ice1121/biteukoin-seukeuribteu-eoneo-geu-tubagham-sogyi-muhanhan-ganeungseong-5cdn)
+- [From Minikube to AWS EKS: How I Built a Zero-Downtime Blue-Green Deployment Pipeline for ShopSwift](https://dev.to/gbadedata/from-minikube-to-aws-eks-how-i-built-a-zero-downtime-blue-green-deployment-pipeline-for-shopswift-299b)
+- [Surrogate Testing: Building a Robust QA Pipeline with Mutation Testing and Test Doubles](https://dev.to/therizwansaleem/surrogate-testing-building-a-robust-qa-pipeline-with-mutation-testing-and-test-doubles-3e8a)
 <!-- BLOG-POST-LIST:END -->
 
 
