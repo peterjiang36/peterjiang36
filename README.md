@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Paper 145 v0.8 — D-FUMT-8 Phase 4 Quine-McCluskey Simplification + Finding F11 Engineering-Correctable Relaxation Bias on IBM Heron r2](https://dev.to/fc0web/paper-145-v08-d-fumt-8-phase-4-quine-mccluskey-simplification-finding-f11-339m)
-- [Scrapling的5个隐藏用法 90%的开发者不知道 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplingde-5ge-yin-cang-yong-fa-90de-kai-fa-zhe-bu-zhi-dao-54cg)
-- [Scrapling&#39;s 5 Hidden Uses Nobody Talks About in 2026 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplings-5-hidden-uses-nobody-talks-about-in-2026-eap)
-- [Meet the AI Requirement Analyzer: Turning Scattered Brainstorms into Production-Ready Specs](https://dev.to/momen_hq/meet-the-ai-requirement-analyzer-turning-scattered-brainstorms-into-production-ready-specs-37m)
+- [Making Game Engine with Editor from Nothing - Save and Load Scene](https://dev.to/harry_tanama_51571ebf90b6/making-game-engine-with-editor-from-nothing-save-and-load-scene-6ch)
+- [CtF Submissions for DEF CON 34 are now open.](https://dev.to/secdim/ctf-submissions-for-def-con-34-are-now-open-594g)
+- [Your Team Has 5 CLAUDE.md Files and They All Say Different Things](https://dev.to/olivia_craft/your-team-has-5-claudemd-files-and-they-all-say-different-things-18gg)
+- [Built Log Stripper: A VS Code Extension to Remove Debug Logs Across 23+ Languages](https://dev.to/saurabhzaiswal/built-log-stripper-a-vs-code-extension-to-remove-debug-logs-across-23-languages-g9h)
 <!-- BLOG-POST-LIST:END -->
 
 
