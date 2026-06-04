@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an API that turns invoices and PDFs into clean JSON automatically](https://dev.to/docapi/i-built-an-api-that-turns-invoices-and-pdfs-into-clean-json-automatically-91b)
-- [I designed a 0.9B Mamba-2 / GLA hybrid LLM — the AI agents wrote the code. An honest build log.](https://dev.to/auraiis/i-designed-a-09b-mamba-2-gla-hybrid-llm-the-ai-agents-wrote-the-code-an-honest-build-log-dnj)
-- [Health Checks in Docker — Why Your Frontend Container Needs Them](https://dev.to/sohanaakbar7/health-checks-in-docker-why-your-frontend-container-needs-them-2pdf)
-- [Sprint 13 Review: Honest build-exe | Review Sprint 13: build-exe honesto](https://dev.to/crabpascal/sprint-13-review-honest-build-exe-review-sprint-13-build-exe-honesto-3p0m)
+- [What is Stablecoin Settlement](https://dev.to/saturnshift/what-is-stablecoin-settlement-51jb)
+- [How Implicit Type Conversion Causes Wrong Filtering and Join Results in GBase 8a](https://dev.to/michaelfv/how-implicit-type-conversion-causes-wrong-filtering-and-join-results-in-gbase-8a-2dcc)
+- [AI API Cost Attribution in 2026: How to Track LLM Spend by Team and Request](https://dev.to/void_stitch/ai-api-cost-attribution-in-2026-how-to-track-llm-spend-by-team-and-request-3h7g)
+- [From CVE Matching to Exploit Validation: How Vulnerability Scanners Are Evolving](https://dev.to/pyshawon/from-cve-matching-to-exploit-validation-how-vulnerability-scanners-are-evolving-3bae)
 <!-- BLOG-POST-LIST:END -->
 
 
