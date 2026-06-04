@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Organization Delegation: The Hardest Trust Problem in the Agent Economy](https://dev.to/chrishood/cross-organization-delegation-the-hardest-trust-problem-in-the-agent-economy-4bfa)
-- [Observability in AI: Why Monitoring Systems Is No Longer Enough](https://dev.to/yash_07/observability-in-ai-why-monitoring-systems-is-no-longer-enough-3oea)
-- [The Junior Developer Resume in 2026: What Gets Past the AI Screeners](https://dev.to/pickuma/the-junior-developer-resume-in-2026-what-gets-past-the-ai-screeners-1n4a)
-- [Agentic Coding in 2026: How Top Engineering Teams Are Restructuring Around AI Agents](https://dev.to/ailoitte_sk/agentic-coding-in-2026-how-top-engineering-teams-are-restructuring-around-ai-agents-3ne1)
+- [How I Built a Custom WhatsApp Cloud Partner App to Slash Marketing Costs](https://dev.to/akashpattnaik/how-i-built-a-custom-whatsapp-cloud-partner-app-to-slash-marketing-costs-4aa1)
+- [Honest Build: No Fake Exception Codegen | Build honesto: sem codegen falso de exceptions](https://dev.to/crabpascal/honest-build-no-fake-exception-codegen-build-honesto-sem-codegen-falso-de-exceptions-3015)
+- [I Tried to Stretch DeepSeek&#39;s 5M Free Tokens to 30 Days. R1 Is the Trap.](https://dev.to/tokenmixai/i-tried-to-stretch-deepseeks-5m-free-tokens-to-30-days-r1-is-the-trap-1ga)
+- [I Tried to Build a Car Listing Website From Scratch. Here&#39;s What Actually Happened.](https://dev.to/viktoriaholikova/i-tried-to-build-a-car-listing-website-from-scratch-heres-what-actually-happened-bn8)
 <!-- BLOG-POST-LIST:END -->
 
 
