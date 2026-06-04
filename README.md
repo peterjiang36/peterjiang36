@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Check out my latest write-up on CoderLegion: &quot;Why Should a Login Screen Be Boring? — Building StreakFlow&quot;
-
-Read the full article here: https://coderlegion.com/19696/why-should-a-login-screen-be-boring-building-streakflow
-
-#DevCommunity #Tech](https://dev.to/the_duchess_of_hackers/check-out-my-latest-write-up-on-coderlegion-why-should-a-login-screen-be-boring-building-3056)
-- [When Clean Code Becomes a Performance Nightmare: The Hidden Cost of ORMs](https://dev.to/saumanarsad/when-clean-code-becomes-a-performance-nightmare-the-hidden-cost-of-orms-23o0)
-- [AI Won&#39;t Replace Developers — But It Is Changing What Senior Engineers Do](https://dev.to/saikrishna_gopannagari_f9/ai-wont-replace-developers-but-it-is-changing-what-senior-engineers-do-3knj)
-- [How I built thredly: a Chrome extension that never lets your AI context window die](https://dev.to/thredly/how-i-built-thredly-a-chrome-extension-that-naiever-lets-your-ai-context-window-die-12hh)
+- [LLM Cost Attribution with OTel, Next.js for AI Agents, LLM Security Testing](https://dev.to/soytuber/llm-cost-attribution-with-otel-nextjs-for-ai-agents-llm-security-testing-38ng)
+- [SQLite Optimizer Deep Dive, Change-Set Internals &amp; Azure PostgreSQL Architecture](https://dev.to/soytuber/sqlite-optimizer-deep-dive-change-set-internals-azure-postgresql-architecture-1hgk)
+- [NousResearch Agent, Open-Source Notebook LM, &amp; Local Multimodal OCR for Consumer GPUs](https://dev.to/soytuber/nousresearch-agent-open-source-notebook-lm-local-multimodal-ocr-for-consumer-gpus-3pjm)
+- [Should AI Help Write the Tests, or Change What You Test?](https://dev.to/randomsquirrel802/should-ai-help-write-the-tests-or-change-what-you-test-5ff7)
 <!-- BLOG-POST-LIST:END -->
 
 
