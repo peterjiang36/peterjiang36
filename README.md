@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool that searches LinkedIn, Indeed, Glassdoor, ZipRecruiter and Google Jobs simultaneously](https://dev.to/jon_71694adde49ae001/i-built-a-free-tool-that-searches-linkedin-indeed-glassdoor-ziprecruiter-and-google-jobs-38o6)
-- [The 20 percent automation cannot close is the part that pays you](https://dev.to/mjmirza/the-20-percent-automation-cannot-close-is-the-part-that-pays-you-3jo0)
-- [I built a programming language from raw assembly — and it beats C by 6.6 on LZ77](https://dev.to/jai_lalawat_84c750c65b525/i-built-a-programming-language-from-raw-assembly-and-it-beats-c-by-66x-on-lz77-4nn4)
-- [Building a Proactive Network Guardian: Deep Dive into Sentinelle &lpar;MIRAGE Project&rpar;](https://dev.to/7bhil/building-a-proactive-network-guardian-deep-dive-into-sentinelle-mirage-project-1cem)
+- [I Made a Battery Admit It Was Only 73% Healthy — On-Device, End to End](https://dev.to/aliaksandrliapin/i-made-a-battery-admit-it-was-only-73-healthy-on-device-end-to-end-1882)
+- [I almost leaked a customer&#39;s data while screen-sharing ChatGPT — here&#39;s what I built to stop it](https://dev.to/mikhailborodin/i-almost-leaked-a-customers-data-while-screen-sharing-chatgpt-heres-what-i-built-to-stop-it-4kn4)
+- [Rust Ownership System Explained for JavaScript Developers](https://dev.to/timevolt/rust-ownership-system-explained-for-javascript-developers-305b)
+- [Bölüm 2: Event Pipeline Tasarımı: Kafka’dan Lakehouse’a Gerçek Zamanlı Veri Yaşam Döngüsü](https://dev.to/tayfun_yalcinkaya_9c29444/bolum-2-event-pipeline-tasarimi-kafkadan-lakehousea-gercek-zamanli-veri-yasam-dongusu-3cbf)
 <!-- BLOG-POST-LIST:END -->
 
 
