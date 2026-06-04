@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-i5m)
-- [AI at the Crossroads: Between the Profitability Mirage and the Reality of Efficiency](https://dev.to/ndabene/ai-at-the-crossroads-between-the-profitability-mirage-and-the-reality-of-efficiency-1m0)
-- [Bridging the Rigidity Gap: Deploying Secure Agentic RAG in Healthcare Governance](https://dev.to/mindy_jen_phd/bridging-the-rigidity-gap-deploying-secure-agentic-rag-in-healthcare-governance-462n)
+- [How to Audit AI API Costs by Team and User in 2026](https://dev.to/void_stitch/how-to-audit-ai-api-costs-by-team-and-user-in-2026-o4a)
+- [The Best Claude Setup &lpar;That Works on Any AI Tool&rpar;](https://dev.to/harshdeepsingh13/the-best-claude-setup-that-works-on-any-ai-tool-5h7i)
+- [Scarab Diagnostic Suite Field Test #011: LangChain Structured Output Streaming Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-011-langchain-structured-output-streaming-boundary-3cc5)
+- [I built a Databricks medallion lakehouse to roast my own YouTube history &lpar;Bronze Silver Gold Existential Dread&rpar;](https://dev.to/shaanalpha/i-built-a-databricks-medallion-lakehouse-to-roast-my-own-youtube-history-bronze-silver-gold--2m9m)
 <!-- BLOG-POST-LIST:END -->
 
 
