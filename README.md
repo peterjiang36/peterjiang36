@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made a Battery Admit It Was Only 73% Healthy — On-Device, End to End](https://dev.to/aliaksandrliapin/i-made-a-battery-admit-it-was-only-73-healthy-on-device-end-to-end-1882)
-- [I almost leaked a customer&#39;s data while screen-sharing ChatGPT — here&#39;s what I built to stop it](https://dev.to/mikhailborodin/i-almost-leaked-a-customers-data-while-screen-sharing-chatgpt-heres-what-i-built-to-stop-it-4kn4)
-- [Rust Ownership System Explained for JavaScript Developers](https://dev.to/timevolt/rust-ownership-system-explained-for-javascript-developers-305b)
-- [Bölüm 2: Event Pipeline Tasarımı: Kafka’dan Lakehouse’a Gerçek Zamanlı Veri Yaşam Döngüsü](https://dev.to/tayfun_yalcinkaya_9c29444/bolum-2-event-pipeline-tasarimi-kafkadan-lakehousea-gercek-zamanli-veri-yasam-dongusu-3cbf)
+- [How to build a blog with TanStack Start and Content Collections](https://dev.to/chocolaterooibos/how-to-build-a-blog-with-tanstack-start-and-content-collections-10fd)
+- [Hosted My First Website](https://dev.to/madfiyin/hosted-my-first-website-19n4)
+- [Automating the Localization Pipeline: Extraction to TMS to CI](https://dev.to/beefedai/automating-the-localization-pipeline-extraction-to-tms-to-ci-4b43)
+- [Running Mixtral 8x7B at 21+ TPS on Pure CPU via io_uring and Predictive Caching](https://dev.to/randyap8wq/running-mixtral-8x7b-at-21-tps-on-pure-cpu-via-iouring-and-predictive-caching-50cd)
 <!-- BLOG-POST-LIST:END -->
 
 
