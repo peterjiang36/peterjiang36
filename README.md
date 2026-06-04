@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a blog with TanStack Start and Content Collections](https://dev.to/chocolaterooibos/how-to-build-a-blog-with-tanstack-start-and-content-collections-10fd)
-- [Hosted My First Website](https://dev.to/madfiyin/hosted-my-first-website-19n4)
-- [Automating the Localization Pipeline: Extraction to TMS to CI](https://dev.to/beefedai/automating-the-localization-pipeline-extraction-to-tms-to-ci-4b43)
-- [Running Mixtral 8x7B at 21+ TPS on Pure CPU via io_uring and Predictive Caching](https://dev.to/randyap8wq/running-mixtral-8x7b-at-21-tps-on-pure-cpu-via-iouring-and-predictive-caching-50cd)
+- [Check out my latest write-up on CoderLegion: &quot;Why Should a Login Screen Be Boring? — Building StreakFlow&quot;
+
+Read the full article here: https://coderlegion.com/19696/why-should-a-login-screen-be-boring-building-streakflow
+
+#DevCommunity #Tech](https://dev.to/the_duchess_of_hackers/check-out-my-latest-write-up-on-coderlegion-why-should-a-login-screen-be-boring-building-3056)
+- [When Clean Code Becomes a Performance Nightmare: The Hidden Cost of ORMs](https://dev.to/saumanarsad/when-clean-code-becomes-a-performance-nightmare-the-hidden-cost-of-orms-23o0)
+- [AI Won&#39;t Replace Developers — But It Is Changing What Senior Engineers Do](https://dev.to/saikrishna_gopannagari_f9/ai-wont-replace-developers-but-it-is-changing-what-senior-engineers-do-3knj)
+- [How I built thredly: a Chrome extension that never lets your AI context window die](https://dev.to/thredly/how-i-built-thredly-a-chrome-extension-that-naiever-lets-your-ai-context-window-die-12hh)
 <!-- BLOG-POST-LIST:END -->
 
 
