@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Cost Attribution with OTel, Next.js for AI Agents, LLM Security Testing](https://dev.to/soytuber/llm-cost-attribution-with-otel-nextjs-for-ai-agents-llm-security-testing-38ng)
-- [SQLite Optimizer Deep Dive, Change-Set Internals &amp; Azure PostgreSQL Architecture](https://dev.to/soytuber/sqlite-optimizer-deep-dive-change-set-internals-azure-postgresql-architecture-1hgk)
-- [NousResearch Agent, Open-Source Notebook LM, &amp; Local Multimodal OCR for Consumer GPUs](https://dev.to/soytuber/nousresearch-agent-open-source-notebook-lm-local-multimodal-ocr-for-consumer-gpus-3pjm)
-- [Should AI Help Write the Tests, or Change What You Test?](https://dev.to/randomsquirrel802/should-ai-help-write-the-tests-or-change-what-you-test-5ff7)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-4mel)
+- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-i5m)
+- [AI at the Crossroads: Between the Profitability Mirage and the Reality of Efficiency](https://dev.to/ndabene/ai-at-the-crossroads-between-the-profitability-mirage-and-the-reality-of-efficiency-1m0)
+- [Bridging the Rigidity Gap: Deploying Secure Agentic RAG in Healthcare Governance](https://dev.to/mindy_jen_phd/bridging-the-rigidity-gap-deploying-secure-agentic-rag-in-healthcare-governance-462n)
 <!-- BLOG-POST-LIST:END -->
 
 
