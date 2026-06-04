@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is Stablecoin Settlement](https://dev.to/saturnshift/what-is-stablecoin-settlement-51jb)
-- [How Implicit Type Conversion Causes Wrong Filtering and Join Results in GBase 8a](https://dev.to/michaelfv/how-implicit-type-conversion-causes-wrong-filtering-and-join-results-in-gbase-8a-2dcc)
-- [AI API Cost Attribution in 2026: How to Track LLM Spend by Team and Request](https://dev.to/void_stitch/ai-api-cost-attribution-in-2026-how-to-track-llm-spend-by-team-and-request-3h7g)
-- [From CVE Matching to Exploit Validation: How Vulnerability Scanners Are Evolving](https://dev.to/pyshawon/from-cve-matching-to-exploit-validation-how-vulnerability-scanners-are-evolving-3bae)
+- [I built a free tool that searches LinkedIn, Indeed, Glassdoor, ZipRecruiter and Google Jobs simultaneously](https://dev.to/jon_71694adde49ae001/i-built-a-free-tool-that-searches-linkedin-indeed-glassdoor-ziprecruiter-and-google-jobs-38o6)
+- [The 20 percent automation cannot close is the part that pays you](https://dev.to/mjmirza/the-20-percent-automation-cannot-close-is-the-part-that-pays-you-3jo0)
+- [I built a programming language from raw assembly — and it beats C by 6.6 on LZ77](https://dev.to/jai_lalawat_84c750c65b525/i-built-a-programming-language-from-raw-assembly-and-it-beats-c-by-66x-on-lz77-4nn4)
+- [Building a Proactive Network Guardian: Deep Dive into Sentinelle &lpar;MIRAGE Project&rpar;](https://dev.to/7bhil/building-a-proactive-network-guardian-deep-dive-into-sentinelle-mirage-project-1cem)
 <!-- BLOG-POST-LIST:END -->
 
 
