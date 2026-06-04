@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Keep Breaking Your Code &lpar;And What to Do About It&rpar;](https://dev.to/artem_kholomyanskiy_9d803/why-ai-agents-keep-breaking-your-code-and-what-to-do-about-it-5bp0)
-- [The Safety Workaround That Worked, Until It Didn&#39;t](https://dev.to/sudee_sim/the-safety-workaround-that-worked-until-it-didnt-4hlb)
-- [I used to guard buildings. Now I guard codebases.](https://dev.to/onfafanutifafa/i-used-to-guard-buildings-now-i-guard-codebases-22p3)
-- [Opendria – Historical AI characters simulating brain, emotional &amp; cognitive states](https://dev.to/opendria/opendria-historical-ai-characters-simulating-brain-emotional-cognitive-states-30mc)
+- [How Token-2022 Changes Token Logic: A Hands-On Experiment with Minting, Transfers, and Burning on Solana](https://dev.to/neocarvajal/how-token-2022-changes-token-logic-a-hands-on-experiment-with-minting-transfers-and-burning-on-3gj8)
+- [Redis Persistence Pitfall: How RDB+AOF Hybrid Persistence Silently Lost Data — I Reproduced 30 Failure Scenarios with pytest + Docker](https://dev.to/_eb7f2a654e97a60ae9f96e/redis-persistence-pitfall-how-rdbaof-hybrid-persistence-silently-lost-data-i-reproduced-30-47c)
+- [87% of My Context Was Garbage: How I Optimized Claude Code Token Usage](https://dev.to/quolu/87-of-my-context-was-garbage-how-i-optimized-claude-code-token-usage-534k)
+- [React.js ~use&lpar;&rpar; hook in a Client Component~](https://dev.to/kkr0423/reactjs-use-hook-in-a-client-component-38hi)
 <!-- BLOG-POST-LIST:END -->
 
 
