@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Geocode Thousands of Addresses for Free](https://dev.to/geoapify-maps-api/how-to-geocode-thousands-of-addresses-for-free-35ka)
-- [Star Voyager Damage System](https://dev.to/bibleclinger/star-voyager-damage-system-59af)
-- [When 8 GPUs Is All You Need](https://dev.to/leaseweb/when-8-gpus-is-all-you-need-a3l)
-- [PostgreSQL Connection Pooling in FastAPI: PgBouncer vs. SQLAlchemy QueuePool vs. Render&#39;s Native Pools](https://dev.to/uaslimcreate/postgresql-connection-pooling-in-fastapi-pgbouncer-vs-sqlalchemy-queuepool-vs-renders-native-2hjo)
+- [I Built Kyro: An Open-Source CLI for React Native Diagnostics and Repair](https://dev.to/sanjay_s_ce1898fb89995396/i-built-kyro-an-open-source-cli-for-react-native-diagnostics-and-repair-3fnl)
+- [What Token Extensions Finally Made Me Understand](https://dev.to/prasiddhnaik/what-token-extensions-finally-made-me-understand-36p7)
+- [LongTracer: Open-Source RAG Hallucination Detection Without LLM-as-a-Judge](https://dev.to/muzammil_endevsols/longtracer-open-source-rag-hallucination-detection-without-llm-as-a-judge-39eg)
+- [Do Claude Code ao Codex — trocar de ambiente para continuar mudando](https://dev.to/yoskee/do-claude-code-ao-codex-trocar-de-ambiente-para-continuar-mudando-10mb)
 <!-- BLOG-POST-LIST:END -->
 
 
