@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Custom WhatsApp Cloud Partner App to Slash Marketing Costs](https://dev.to/akashpattnaik/how-i-built-a-custom-whatsapp-cloud-partner-app-to-slash-marketing-costs-4aa1)
-- [Honest Build: No Fake Exception Codegen | Build honesto: sem codegen falso de exceptions](https://dev.to/crabpascal/honest-build-no-fake-exception-codegen-build-honesto-sem-codegen-falso-de-exceptions-3015)
-- [I Tried to Stretch DeepSeek&#39;s 5M Free Tokens to 30 Days. R1 Is the Trap.](https://dev.to/tokenmixai/i-tried-to-stretch-deepseeks-5m-free-tokens-to-30-days-r1-is-the-trap-1ga)
-- [I Tried to Build a Car Listing Website From Scratch. Here&#39;s What Actually Happened.](https://dev.to/viktoriaholikova/i-tried-to-build-a-car-listing-website-from-scratch-heres-what-actually-happened-bn8)
+- [How to Geocode Thousands of Addresses for Free](https://dev.to/geoapify-maps-api/how-to-geocode-thousands-of-addresses-for-free-35ka)
+- [Star Voyager Damage System](https://dev.to/bibleclinger/star-voyager-damage-system-59af)
+- [When 8 GPUs Is All You Need](https://dev.to/leaseweb/when-8-gpus-is-all-you-need-a3l)
+- [PostgreSQL Connection Pooling in FastAPI: PgBouncer vs. SQLAlchemy QueuePool vs. Render&#39;s Native Pools](https://dev.to/uaslimcreate/postgresql-connection-pooling-in-fastapi-pgbouncer-vs-sqlalchemy-queuepool-vs-renders-native-2hjo)
 <!-- BLOG-POST-LIST:END -->
 
 
