@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Auto-Install the CrabPascal Compiler on Windows | Auto-instalação do compilador no Windows](https://dev.to/crabpascal/auto-install-the-crabpascal-compiler-on-windows-auto-instalacao-do-compilador-no-windows-3m8)
-- [Nvidia DGX Spark shows the future of PCs, but maybe not for normal people](https://dev.to/jenueldev/nvidia-dgx-spark-shows-the-future-of-pcs-but-maybe-not-for-normal-people-35c)
-- [Dealing with bloated PDFs &lpar;without ruining diagram clarity&rpar;](https://dev.to/junjie_lin_42cfaed3aa0be3/dealing-with-bloated-pdfs-without-ruining-diagram-clarity-3kla)
-- [Cryptographic Set-Chemistry](https://dev.to/suign/cryptographic-set-chemistry-30ho)
+- [Cross-Organization Delegation: The Hardest Trust Problem in the Agent Economy](https://dev.to/chrishood/cross-organization-delegation-the-hardest-trust-problem-in-the-agent-economy-4bfa)
+- [Observability in AI: Why Monitoring Systems Is No Longer Enough](https://dev.to/yash_07/observability-in-ai-why-monitoring-systems-is-no-longer-enough-3oea)
+- [The Junior Developer Resume in 2026: What Gets Past the AI Screeners](https://dev.to/pickuma/the-junior-developer-resume-in-2026-what-gets-past-the-ai-screeners-1n4a)
+- [Agentic Coding in 2026: How Top Engineering Teams Are Restructuring Around AI Agents](https://dev.to/ailoitte_sk/agentic-coding-in-2026-how-top-engineering-teams-are-restructuring-around-ai-agents-3ne1)
 <!-- BLOG-POST-LIST:END -->
 
 
