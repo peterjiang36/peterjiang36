@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing t4](https://dev.to/t4/introducing-t4-k9o)
-- [I got tired of writing the same history table boilerplate, so I built a Postgres extension](https://dev.to/laydownpipe_24/i-got-tired-of-writing-the-same-history-table-boilerplate-so-i-built-a-postgres-extension-13m8)
-- [&lt;think&gt;](https://dev.to/eagerspark/-43i6)
-- [Is MCP Dead? When the Model Context Protocol Earns Its Complexity](https://dev.to/contrite42/is-mcp-dead-when-the-model-context-protocol-earns-its-complexity-jmp)
+- [I Finally Shipped FlowDesk — My All-in-One Productivity Dashboard Built with GitHub Copilot ⚡](https://dev.to/red-coder-27/i-finally-shipped-flowdesk-my-all-in-one-productivity-dashboard-built-with-github-copilot-2oie)
+- [Gemma 4 12B: Google&#39;s encoder-free multimodal AI now runs on a laptop](https://dev.to/thegatewayguy/gemma-4-12b-googles-encoder-free-multimodal-ai-now-runs-on-a-laptop-23d5)
+- [I Used Claude Code to Build a Crypto Trading Bot. 94 Sessions Later, Here&#39;s What Works.](https://dev.to/cart0ne/i-used-claude-code-to-build-a-crypto-trading-bot-94-sessions-later-heres-what-works-1i2j)
+- [Three Commands to Make Claude Code Stop Guessing Your Infra](https://dev.to/siddharth_pandey_27/three-commands-to-make-claude-code-stop-guessing-your-infra-2onj)
 <!-- BLOG-POST-LIST:END -->
 
 
