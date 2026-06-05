@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Czech ARES registry: what the official data actually returns](https://dev.to/openregistry/czech-ares-registry-what-the-official-data-actually-returns-42be)
-- [Stop Building AI Features Like This — MCP Changes the Game](https://dev.to/mridudixit15/stop-building-ai-features-like-this-mcp-changes-the-game-4j9e)
-- [The Mental Model That Unlocks All of Go](https://dev.to/altradits/the-mental-model-that-unlocks-all-of-go-lao)
-- [三种选择：当AI面对自己的错误](https://dev.to/guangda88/san-chong-xuan-ze-dang-aimian-dui-zi-ji-de-cuo-wu-163)
+- [Go Beginner Mistake #1: When `log.Println&lpar;&rpar;` Made Me Question `time.Now&lpar;&rpar;.Format&lpar;&rpar;`](https://dev.to/perezodiyo/go-beginner-mistake-1-when-logprintln-made-me-question-timenowformat-3ig0)
+- [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5)
+- [I’m building DevDeck: an open-source developer memory app for tools, snippets, prompts, and shared knowledge](https://dev.to/tiagofur/im-building-devdeck-an-open-source-developer-memory-app-for-tools-snippets-prompts-and-shared-1gk6)
+- [Everything&#39;s Green Cap.](https://dev.to/p4r4n0id/everythings-green-cap-3586)
 <!-- BLOG-POST-LIST:END -->
 
 
