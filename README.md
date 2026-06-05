@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Beginner Mistake #1: When `log.Println&lpar;&rpar;` Made Me Question `time.Now&lpar;&rpar;.Format&lpar;&rpar;`](https://dev.to/perezodiyo/go-beginner-mistake-1-when-logprintln-made-me-question-timenowformat-3ig0)
-- [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://dev.to/googleai/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model-3ge5)
-- [I’m building DevDeck: an open-source developer memory app for tools, snippets, prompts, and shared knowledge](https://dev.to/tiagofur/im-building-devdeck-an-open-source-developer-memory-app-for-tools-snippets-prompts-and-shared-1gk6)
-- [Everything&#39;s Green Cap.](https://dev.to/p4r4n0id/everythings-green-cap-3586)
+- [Introducing t4](https://dev.to/t4/introducing-t4-k9o)
+- [I got tired of writing the same history table boilerplate, so I built a Postgres extension](https://dev.to/laydownpipe_24/i-got-tired-of-writing-the-same-history-table-boilerplate-so-i-built-a-postgres-extension-13m8)
+- [&lt;think&gt;](https://dev.to/eagerspark/-43i6)
+- [Is MCP Dead? When the Model Context Protocol Earns Its Complexity](https://dev.to/contrite42/is-mcp-dead-when-the-model-context-protocol-earns-its-complexity-jmp)
 <!-- BLOG-POST-LIST:END -->
 
 
