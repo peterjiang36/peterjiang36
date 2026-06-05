@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why a Short Task List Can Still Feel Heavy &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-a-short-task-list-can-still-feel-heavy-bite-size-article-43bc)
-- [How to Back Up Your Server Files and Database &lpar;Before You Learn the Hard Way&rpar;](https://dev.to/christophchi/how-to-back-up-your-server-files-and-database-before-you-learn-the-hard-way-2962)
-- [38 Domains, One Session. What the DNS Migration Tools Didn&#39;t Show Me.](https://dev.to/ladiajy2g/38-domains-one-session-what-the-dns-migration-tools-didnt-show-me-12m7)
-- [Charting Twitch Chat Velocity: Hype Curve Analysis for Esports VODs](https://dev.to/devil_scrapes/charting-twitch-chat-velocity-hype-curve-analysis-for-esports-vods-5fbc)
+- [How I Built and Published a .NET NuGet Package for the Giant SMS API](https://dev.to/benaduo/how-i-built-and-published-a-net-nuget-package-for-the-giant-sms-api-44pb)
+- [I Built a Free Open-Source EU AI Act / NIST AI RMF / ISO 42001 Crosswalk Tool - Here Is What I Found](https://dev.to/suhanasayyad/i-built-a-free-open-source-eu-ai-act-nist-ai-rmf-iso-42001-crosswalk-tool-here-is-what-i-3a1p)
+- [Howdy. I built budget controls for AI agents, does this solve a problem you actually have?](https://dev.to/mightbesaad/howdy-i-built-budget-controls-for-ai-agents-does-this-solve-a-problem-you-actually-have-16dj)
+- [Building an AI Short Video Generator: Why the Workflow Needs Skills, Not Just Prompts](https://dev.to/alexshev/building-an-ai-short-video-generator-why-the-workflow-needs-skills-not-just-prompts-36km)
 <!-- BLOG-POST-LIST:END -->
 
 
