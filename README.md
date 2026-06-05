@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Multiple Prettier Plugins for Consistent Code Formatting ?](https://dev.to/sahil_khurana_486f374ecf2/how-to-use-multiple-prettier-plugins-for-consistent-code-formatting--a5j)
-- [Dictée Cloud : Le Prix Qu&#39;on Ne Vous Dit Jamais](https://dev.to/perkysue/dictee-cloud-le-prix-quon-ne-vous-dit-jamais-o8h)
-- [How States Run Criminals Without Ever Touching Them.](https://dev.to/aetherintel/how-states-run-criminals-without-ever-touching-them-3g49)
-- [Subjectivation: A protocol to give LLMs a functional, responsible self](https://dev.to/dake_zhang/subjectivation-a-protocol-to-give-llms-a-functional-responsible-self-29c7)
+- [Introducing BulkSMSOnline: Global SMS API Built by a Small, Developer-First Team](https://dev.to/bulksmsonline/introducing-bulksmsonline-global-sms-api-built-by-a-small-developer-first-team-1p5l)
+- [If the warehouse already has the data, why are we copying it elsewhere?](https://dev.to/krenalis/if-the-warehouse-already-has-the-data-why-are-we-copying-it-elsewhere-550b)
+- [Your Security Scanner Found 7 Missing Headers. Don&#39;t Fix Them Blindly.](https://dev.to/walosha/your-security-scanner-flagged-missing-http-headers-heres-what-actually-matters-37gf)
+- [Would you license your old/dead codebase as AI training data for $10k?](https://dev.to/hansel_hud_gtm_guy/would-you-license-an-olddead-startups-codebase-as-ai-training-data-for-up-to-10k-12jc)
 <!-- BLOG-POST-LIST:END -->
 
 
