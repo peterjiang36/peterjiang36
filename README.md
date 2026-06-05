@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Collections in Java](https://dev.to/harini_magesh_fa40041cf8d/collections-in-java-4nc9)
-- [Most Developers Should Stop Learning Kubernetes](https://dev.to/merbayerp/most-developers-should-stop-learning-kubernetes-4bh5)
-- [The Clock Said Valid. The World Said Otherwise. *CLAIM-24 update — Self-Correcting Systems series*](https://dev.to/zep1997/-the-clock-said-valid-the-world-said-otherwise-claim-24-update-self-correcting-systems-3m2p)
-- [How I built a fast Device Mockup Generator in Vanilla JS](https://dev.to/novustools-dev/how-i-built-a-fast-device-mockup-generator-in-vanilla-js-4on)
+- [How to Use Multiple Prettier Plugins for Consistent Code Formatting ?](https://dev.to/sahil_khurana_486f374ecf2/how-to-use-multiple-prettier-plugins-for-consistent-code-formatting--a5j)
+- [Dictée Cloud : Le Prix Qu&#39;on Ne Vous Dit Jamais](https://dev.to/perkysue/dictee-cloud-le-prix-quon-ne-vous-dit-jamais-o8h)
+- [How States Run Criminals Without Ever Touching Them.](https://dev.to/aetherintel/how-states-run-criminals-without-ever-touching-them-3g49)
+- [Subjectivation: A protocol to give LLMs a functional, responsible self](https://dev.to/dake_zhang/subjectivation-a-protocol-to-give-llms-a-functional-responsible-self-29c7)
 <!-- BLOG-POST-LIST:END -->
 
 
