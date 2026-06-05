@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Servers Are Not the Hard Part](https://dev.to/hefty_69a4c2d631c9dd70724/mcp-servers-are-not-the-hard-part-1e7d)
-- [Your CPE Manufacturer Is Not Building Your Router — Their Sub-Contractor Is. Here is Why That Matters.](https://dev.to/honllytelecom/your-cpe-manufacturer-is-not-building-your-router-their-sub-contractor-is-here-is-why-that-2m51)
-- [Hello DEV Community — Honlly Telecom Joins the Conversation](https://dev.to/honllytelecom/hello-dev-community-honlly-telecom-joins-the-conversation-27cg)
-- [BioQuantum: Leveraging Technology to Solve a Global Health Challenge](https://dev.to/aprajita_singh_0a13f19010/bioquantum-leveraging-technology-to-solve-a-global-health-challenge-2243)
+- [Collections in Java](https://dev.to/harini_magesh_fa40041cf8d/collections-in-java-4nc9)
+- [Most Developers Should Stop Learning Kubernetes](https://dev.to/merbayerp/most-developers-should-stop-learning-kubernetes-4bh5)
+- [The Clock Said Valid. The World Said Otherwise. *CLAIM-24 update — Self-Correcting Systems series*](https://dev.to/zep1997/-the-clock-said-valid-the-world-said-otherwise-claim-24-update-self-correcting-systems-3m2p)
+- [How I built a fast Device Mockup Generator in Vanilla JS](https://dev.to/novustools-dev/how-i-built-a-fast-device-mockup-generator-in-vanilla-js-4on)
 <!-- BLOG-POST-LIST:END -->
 
 
