@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Self-Improving Health Platform: Five AI Agents That Learn Every Week](https://dev.to/holistis/i-built-a-self-improving-health-platform-five-ai-agents-that-learn-every-week-1ci5)
-- [Claude Code PushNotification tool: what it does and how to use it](https://dev.to/gtapps/claude-code-pushnotification-tool-what-it-does-and-how-to-use-it-29p6)
-- [Testing Email Workflows Without Email Server — With Playwright &amp; Mokapi](https://dev.to/marcel_lehmann_31109127df/testing-email-workflows-without-email-server-with-playwright-mokapi-b25)
-- [Why I Bypassed the Cloud Treadmill to Build a 100% Independent Self-Hosted Stack](https://dev.to/ownthestack/why-i-bypassed-the-cloud-treadmill-to-build-a-100-independent-self-hosted-stack-3d1b)
+- [AI agents don&#39;t crash. They fail silently. Here&#39;s how to catch it in Claude Code.](https://dev.to/luffyfanonepiece/ai-agents-dont-crash-they-fail-silently-heres-how-to-catch-it-in-claude-code-13nh)
+- [RubyConf has joined RailsConf &amp; RailsWorld as another exclusive discriminatory unexcellent conference](https://dev.to/andyobtiva/rubyconf-has-joined-railsconf-railsworld-as-another-exclusive-discriminatory-unexcellent-3h65)
+- [From PaaS to VPS: My Roadmap to Self-Hosting My SaaS](https://dev.to/umudabbasli/from-paas-to-vps-my-roadmap-to-self-hosting-my-saas-125)
+- [How I Built Two iOS Games in 3 Months as a Solo Developer](https://dev.to/risola_me_a79eac9d2622b19/how-i-built-two-ios-games-in-3-months-as-a-solo-developer-574f)
 <!-- BLOG-POST-LIST:END -->
 
 
