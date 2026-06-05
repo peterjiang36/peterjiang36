@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent hours writing unit tests – so I made an LLM do it &lpar;and learned what not to do&rpar;](https://dev.to/__c1b9e06dc90a7e0a676b/i-spent-hours-writing-unit-tests-so-i-made-an-llm-do-it-and-learned-what-not-to-do-4d16)
-- [Web Security: OWASP Top 10 and How to Fix Them &lpar;2026&rpar;](https://dev.to/armorbreak/web-security-owasp-top-10-and-how-to-fix-them-2026-3ofa)
-- [Web Security Basics: Every Developer Must Know &lpar;2026&rpar;](https://dev.to/armorbreak/web-security-basics-every-developer-must-know-2026-4dba)
-- [Amazon S3 Doesn&#39;t Hope Hardware Won&#39;t Fail. It Assumes It Already Has.](https://dev.to/walosha/amazon-s3-doesnt-hope-hardware-wont-fail-it-assumes-it-already-has-5alf)
+- [MCP Servers Are Not the Hard Part](https://dev.to/hefty_69a4c2d631c9dd70724/mcp-servers-are-not-the-hard-part-1e7d)
+- [Your CPE Manufacturer Is Not Building Your Router — Their Sub-Contractor Is. Here is Why That Matters.](https://dev.to/honllytelecom/your-cpe-manufacturer-is-not-building-your-router-their-sub-contractor-is-here-is-why-that-2m51)
+- [Hello DEV Community — Honlly Telecom Joins the Conversation](https://dev.to/honllytelecom/hello-dev-community-honlly-telecom-joins-the-conversation-27cg)
+- [BioQuantum: Leveraging Technology to Solve a Global Health Challenge](https://dev.to/aprajita_singh_0a13f19010/bioquantum-leveraging-technology-to-solve-a-global-health-challenge-2243)
 <!-- BLOG-POST-LIST:END -->
 
 
