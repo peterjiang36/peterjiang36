@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I benchmarked Python AI-app security scanners. Here&#39;s what each catches.](https://dev.to/onfafanutifafa/i-benchmarked-python-ai-app-security-scanners-heres-what-each-catches-49je)
-- [200 Accounts: Wiring the Fediverse Registration Coordinator to Disk](https://dev.to/arihantdeva/200-accounts-wiring-the-fediverse-registration-coordinator-to-disk-48b9)
-- [How I Cut Agent Token Usage by 89% Without Touching the Agent](https://dev.to/shouvik12/how-i-cut-agent-token-usage-by-89-without-touching-the-agent-3g7o)
-- [How to Trigger a Mailchimp Drip Sequence from a CF7 Form &lpar;Without a Checkbox&rpar;](https://dev.to/rahul_sharma_15bd129bc69e/how-to-trigger-a-mailchimp-drip-sequence-from-a-cf7-form-without-a-checkbox-44na)
+- [Czech ARES registry: what the official data actually returns](https://dev.to/openregistry/czech-ares-registry-what-the-official-data-actually-returns-42be)
+- [Stop Building AI Features Like This — MCP Changes the Game](https://dev.to/mridudixit15/stop-building-ai-features-like-this-mcp-changes-the-game-4j9e)
+- [The Mental Model That Unlocks All of Go](https://dev.to/altradits/the-mental-model-that-unlocks-all-of-go-lao)
+- [三种选择：当AI面对自己的错误](https://dev.to/guangda88/san-chong-xuan-ze-dang-aimian-dui-zi-ji-de-cuo-wu-163)
 <!-- BLOG-POST-LIST:END -->
 
 
