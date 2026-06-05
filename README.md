@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Audit AI API Costs by Team and User in 2026](https://dev.to/void_stitch/how-to-audit-ai-api-costs-by-team-and-user-in-2026-o4a)
-- [The Best Claude Setup &lpar;That Works on Any AI Tool&rpar;](https://dev.to/harshdeepsingh13/the-best-claude-setup-that-works-on-any-ai-tool-5h7i)
-- [Scarab Diagnostic Suite Field Test #011: LangChain Structured Output Streaming Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-011-langchain-structured-output-streaming-boundary-3cc5)
-- [I built a Databricks medallion lakehouse to roast my own YouTube history &lpar;Bronze Silver Gold Existential Dread&rpar;](https://dev.to/shaanalpha/i-built-a-databricks-medallion-lakehouse-to-roast-my-own-youtube-history-bronze-silver-gold--2m9m)
+- [I spent hours writing unit tests – so I made an LLM do it &lpar;and learned what not to do&rpar;](https://dev.to/__c1b9e06dc90a7e0a676b/i-spent-hours-writing-unit-tests-so-i-made-an-llm-do-it-and-learned-what-not-to-do-4d16)
+- [Web Security: OWASP Top 10 and How to Fix Them &lpar;2026&rpar;](https://dev.to/armorbreak/web-security-owasp-top-10-and-how-to-fix-them-2026-3ofa)
+- [Web Security Basics: Every Developer Must Know &lpar;2026&rpar;](https://dev.to/armorbreak/web-security-basics-every-developer-must-know-2026-4dba)
+- [Amazon S3 Doesn&#39;t Hope Hardware Won&#39;t Fail. It Assumes It Already Has.](https://dev.to/walosha/amazon-s3-doesnt-hope-hardware-wont-fail-it-assumes-it-already-has-5alf)
 <!-- BLOG-POST-LIST:END -->
 
 
