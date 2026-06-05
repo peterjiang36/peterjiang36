@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built and Published a .NET NuGet Package for the Giant SMS API](https://dev.to/benaduo/how-i-built-and-published-a-net-nuget-package-for-the-giant-sms-api-44pb)
-- [I Built a Free Open-Source EU AI Act / NIST AI RMF / ISO 42001 Crosswalk Tool - Here Is What I Found](https://dev.to/suhanasayyad/i-built-a-free-open-source-eu-ai-act-nist-ai-rmf-iso-42001-crosswalk-tool-here-is-what-i-3a1p)
-- [Howdy. I built budget controls for AI agents, does this solve a problem you actually have?](https://dev.to/mightbesaad/howdy-i-built-budget-controls-for-ai-agents-does-this-solve-a-problem-you-actually-have-16dj)
-- [Building an AI Short Video Generator: Why the Workflow Needs Skills, Not Just Prompts](https://dev.to/alexshev/building-an-ai-short-video-generator-why-the-workflow-needs-skills-not-just-prompts-36km)
+- [I Built a Self-Improving Health Platform: Five AI Agents That Learn Every Week](https://dev.to/holistis/i-built-a-self-improving-health-platform-five-ai-agents-that-learn-every-week-1ci5)
+- [Claude Code PushNotification tool: what it does and how to use it](https://dev.to/gtapps/claude-code-pushnotification-tool-what-it-does-and-how-to-use-it-29p6)
+- [Testing Email Workflows Without Email Server — With Playwright &amp; Mokapi](https://dev.to/marcel_lehmann_31109127df/testing-email-workflows-without-email-server-with-playwright-mokapi-b25)
+- [Why I Bypassed the Cloud Treadmill to Build a 100% Independent Self-Hosted Stack](https://dev.to/ownthestack/why-i-bypassed-the-cloud-treadmill-to-build-a-100-independent-self-hosted-stack-3d1b)
 <!-- BLOG-POST-LIST:END -->
 
 
