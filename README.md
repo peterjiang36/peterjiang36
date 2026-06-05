@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing BulkSMSOnline: Global SMS API Built by a Small, Developer-First Team](https://dev.to/bulksmsonline/introducing-bulksmsonline-global-sms-api-built-by-a-small-developer-first-team-1p5l)
-- [If the warehouse already has the data, why are we copying it elsewhere?](https://dev.to/krenalis/if-the-warehouse-already-has-the-data-why-are-we-copying-it-elsewhere-550b)
-- [Your Security Scanner Found 7 Missing Headers. Don&#39;t Fix Them Blindly.](https://dev.to/walosha/your-security-scanner-flagged-missing-http-headers-heres-what-actually-matters-37gf)
-- [Would you license your old/dead codebase as AI training data for $10k?](https://dev.to/hansel_hud_gtm_guy/would-you-license-an-olddead-startups-codebase-as-ai-training-data-for-up-to-10k-12jc)
+- [The One Thing That Actually Got Me Through FAANG Interviews](https://dev.to/timevolt/the-one-thing-that-actually-got-me-through-faang-interviews-360h)
+- [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
+- [GPT-3.5-Turbo drops from 90% accuracy to 50% when the answer sits in the middle of a 20k-token prompt instead of the sta](https://dev.to/a3e_ecosystem/gpt-35-turbo-drops-from-90-accuracy-to-50-when-the-answer-sits-in-the-middle-of-a-20k-token-2ndd)
+- [GitHub NPM Supply Chain Attack - Crypto Wallet Targeting](https://dev.to/qanzhi111/github-npm-supply-chain-attack-crypto-wallet-targeting-m8b)
 <!-- BLOG-POST-LIST:END -->
 
 
