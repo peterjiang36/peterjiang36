@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The One Thing That Actually Got Me Through FAANG Interviews](https://dev.to/timevolt/the-one-thing-that-actually-got-me-through-faang-interviews-360h)
-- [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
-- [GPT-3.5-Turbo drops from 90% accuracy to 50% when the answer sits in the middle of a 20k-token prompt instead of the sta](https://dev.to/a3e_ecosystem/gpt-35-turbo-drops-from-90-accuracy-to-50-when-the-answer-sits-in-the-middle-of-a-20k-token-2ndd)
-- [GitHub NPM Supply Chain Attack - Crypto Wallet Targeting](https://dev.to/qanzhi111/github-npm-supply-chain-attack-crypto-wallet-targeting-m8b)
+- [I benchmarked Python AI-app security scanners. Here&#39;s what each catches.](https://dev.to/onfafanutifafa/i-benchmarked-python-ai-app-security-scanners-heres-what-each-catches-49je)
+- [200 Accounts: Wiring the Fediverse Registration Coordinator to Disk](https://dev.to/arihantdeva/200-accounts-wiring-the-fediverse-registration-coordinator-to-disk-48b9)
+- [How I Cut Agent Token Usage by 89% Without Touching the Agent](https://dev.to/shouvik12/how-i-cut-agent-token-usage-by-89-without-touching-the-agent-3g7o)
+- [How to Trigger a Mailchimp Drip Sequence from a CF7 Form &lpar;Without a Checkbox&rpar;](https://dev.to/rahul_sharma_15bd129bc69e/how-to-trigger-a-mailchimp-drip-sequence-from-a-cf7-form-without-a-checkbox-44na)
 <!-- BLOG-POST-LIST:END -->
 
 
