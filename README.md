@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ParadeDB NPM Package Seeks Feedback on Simplifying Postgres Integration with JavaScript via Drizzle ORM](https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje)
-- [How to Verify Shopify Webhooks Correctly &lpar;And Stop Getting It Wrong&rpar;](https://dev.to/masadashraf/how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong-1mbm)
-- [GitHub, Demystified](https://dev.to/mlh/github-demystified-4mkd)
-- [How to Add Drug Interaction Checking to Your Health App in 5 Minutes](https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8)
+- [Why a Short Task List Can Still Feel Heavy &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/why-a-short-task-list-can-still-feel-heavy-bite-size-article-43bc)
+- [How to Back Up Your Server Files and Database &lpar;Before You Learn the Hard Way&rpar;](https://dev.to/christophchi/how-to-back-up-your-server-files-and-database-before-you-learn-the-hard-way-2962)
+- [38 Domains, One Session. What the DNS Migration Tools Didn&#39;t Show Me.](https://dev.to/ladiajy2g/38-domains-one-session-what-the-dns-migration-tools-didnt-show-me-12m7)
+- [Charting Twitch Chat Velocity: Hype Curve Analysis for Esports VODs](https://dev.to/devil_scrapes/charting-twitch-chat-velocity-hype-curve-analysis-for-esports-vods-5fbc)
 <!-- BLOG-POST-LIST:END -->
 
 
