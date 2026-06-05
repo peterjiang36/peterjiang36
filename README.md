@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Shipped FlowDesk — My All-in-One Productivity Dashboard Built with GitHub Copilot ⚡](https://dev.to/red-coder-27/i-finally-shipped-flowdesk-my-all-in-one-productivity-dashboard-built-with-github-copilot-2oie)
-- [Gemma 4 12B: Google&#39;s encoder-free multimodal AI now runs on a laptop](https://dev.to/thegatewayguy/gemma-4-12b-googles-encoder-free-multimodal-ai-now-runs-on-a-laptop-23d5)
-- [I Used Claude Code to Build a Crypto Trading Bot. 94 Sessions Later, Here&#39;s What Works.](https://dev.to/cart0ne/i-used-claude-code-to-build-a-crypto-trading-bot-94-sessions-later-heres-what-works-1i2j)
-- [Three Commands to Make Claude Code Stop Guessing Your Infra](https://dev.to/siddharth_pandey_27/three-commands-to-make-claude-code-stop-guessing-your-infra-2onj)
+- [ParadeDB NPM Package Seeks Feedback on Simplifying Postgres Integration with JavaScript via Drizzle ORM](https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje)
+- [How to Verify Shopify Webhooks Correctly &lpar;And Stop Getting It Wrong&rpar;](https://dev.to/masadashraf/how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong-1mbm)
+- [GitHub, Demystified](https://dev.to/mlh/github-demystified-4mkd)
+- [How to Add Drug Interaction Checking to Your Health App in 5 Minutes](https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8)
 <!-- BLOG-POST-LIST:END -->
 
 
