@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multicloud Execution Portability: Abstracting AWS DynamoDB and Azure Cosmos DB via Hexagonal Architecture](https://dev.to/sertaoseracloud/multicloud-execution-portability-abstracting-aws-dynamodb-and-azure-cosmos-db-via-hexagonal-3h33)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/melvinkeep/how-excel-is-used-in-real-world-data-analysis-2jcl)
-- [Java for Beginners: Why Learn Java Instead of C, C++, C#, Python, or JavaScript?](https://dev.to/buddingdeveloper/java-for-beginners-why-learn-java-instead-of-c-c-c-python-or-javascript-30fm)
-- [I&#39;m Furqan Akbar - Web Developer and Linux Server Administrator from Kashmir India](https://dev.to/furqanakbar/im-furqan-akbar-web-developer-and-linux-server-administrator-from-kashmir-india-2316)
+- [The 5x Engineering Manager](https://dev.to/solidi/the-5x-engineering-manager-45k7)
+- [Learning Data Science and Data Analytics](https://dev.to/benjamin_ogol_1af8e695c87/learning-data-science-and-data-analytics-163d)
+- [Why I Don’t Let the LLM Decide Issue State](https://dev.to/ahmadhumayun/why-i-dont-let-the-llm-decide-issue-state-dip)
+- [Hello DEV Community 👋 I’m Exploring the Future of SEO + AI Search](https://dev.to/musmanaliseo/hello-dev-community-im-exploring-the-future-of-seo-ai-search-2igc)
 <!-- BLOG-POST-LIST:END -->
 
 
