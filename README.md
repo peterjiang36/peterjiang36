@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built Cryptographic Invoice Signatures for a SaaS Invoicing Platform](https://dev.to/reinvoice/how-we-built-cryptographic-invoice-signatures-for-a-saas-invoicing-platform-1mia)
-- [Getting Started with Genkit in Go: Building Production-Ready AI Applications Without Reinventing the Wheel](https://dev.to/shrsv/getting-started-with-genkit-in-go-building-production-ready-ai-applications-without-reinventing-26lf)
-- [Your Scraper Collected 50 Rows. There Were 4,000.](https://dev.to/0012303/your-scraper-collected-50-rows-there-were-4000-5bo4)
-- [Poker Game Development -Technical Architecture](https://dev.to/stojankojo/poker-game-development-technical-architecture-7kc)
+- [n8n Tutorial: How to Build Your First No-Code Automation Workflow in 2026](https://dev.to/chrismbah/n8n-tutorial-how-to-build-your-first-no-code-automation-workflow-in-2026-3dfi)
+- [AI Slop Is Becoming a Software Engineering Problem](https://dev.to/heavykenny/ai-slop-is-becoming-a-software-engineering-problem-2n00)
+- [Database Index Anatomy: Performance and Resource Management](https://dev.to/merbayerp/database-index-anatomy-performance-and-resource-management-3egb)
+- [Agent Substrate: Building Actors and Workers](https://dev.to/thenjdevopsguy/agent-substrate-building-actors-and-workers-4221)
 <!-- BLOG-POST-LIST:END -->
 
 
