@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent&#39;s skill trust model is a four-repo allowlist](https://dev.to/moltycel/hermes-agents-skill-trust-model-is-a-four-repo-allowlist-di)
-- [How to Automate Repetitive Tasks Without Code &lpar;a Beginner’s Guide&rpar;](https://dev.to/toty_cartooncartoon_c254/how-to-automate-repetitive-tasks-without-code-a-beginners-guide-2idi)
-- [Beat the Oracle](https://dev.to/alanmaizon/beat-the-oracle-nbp)
-- [Vibe Coding Won&#39;t Replace Web Agencies. But It Will Replace Lazy Ones.](https://dev.to/celestia_studio/vibe-coding-wont-replace-web-agencies-but-it-will-replace-lazy-ones-1lfd)
+- [Give your AI coding agent a publish-HTML button &lpar;with MCP&rpar;](https://dev.to/stevysmith/give-your-ai-coding-agent-a-publish-html-button-with-mcp-1ghi)
+- [Reset Windows Are Product Design](https://dev.to/amitrix/reset-windows-are-product-design-17n8)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-7gb)
+- [FadeKey: zero-knowledge, self-destructing secret sharing engine](https://dev.to/juliangn/fadekey-zero-knowledge-self-destructing-secret-sharing-engine-598k)
 <!-- BLOG-POST-LIST:END -->
 
 
