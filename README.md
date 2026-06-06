@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI agents don&#39;t crash. They fail silently. Here&#39;s how to catch it in Claude Code.](https://dev.to/luffyfanonepiece/ai-agents-dont-crash-they-fail-silently-heres-how-to-catch-it-in-claude-code-13nh)
-- [RubyConf has joined RailsConf &amp; RailsWorld as another exclusive discriminatory unexcellent conference](https://dev.to/andyobtiva/rubyconf-has-joined-railsconf-railsworld-as-another-exclusive-discriminatory-unexcellent-3h65)
-- [From PaaS to VPS: My Roadmap to Self-Hosting My SaaS](https://dev.to/umudabbasli/from-paas-to-vps-my-roadmap-to-self-hosting-my-saas-125)
-- [How I Built Two iOS Games in 3 Months as a Solo Developer](https://dev.to/risola_me_a79eac9d2622b19/how-i-built-two-ios-games-in-3-months-as-a-solo-developer-574f)
+- [Two Doors Into the Same Room](https://dev.to/gnomeman4201/two-doors-into-the-same-room-5fd2)
+- [FreeUltraCode: An AI Coding Tool with 20+ Free LLM Channels](https://dev.to/wei_feng_502a1d98012c10be/freeultracode-an-ai-coding-tool-with-20-free-llm-channels-53mi)
+- [Published Throughline to npm: A hook to offload Claude Code tool I/O to SQLite](https://dev.to/quolu/published-throughline-to-npm-a-hook-to-offload-claude-code-tool-io-to-sqlite-13d9)
+- [The Hidden Layer: Why Every Verification System Needs to Check Its Validator First](https://dev.to/lanternproton/the-hidden-layer-why-every-verification-system-needs-to-check-its-validator-first-d33)
 <!-- BLOG-POST-LIST:END -->
 
 
