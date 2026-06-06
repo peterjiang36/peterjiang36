@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A 120B-model laptop, a federal AI bill, and free pro-grade editing: 3 shifts for builders](https://dev.to/danio_dev/a-120b-model-laptop-a-federal-ai-bill-and-free-pro-grade-editing-3-shifts-for-builders-36nb)
-- [LLM-Assisted Deploy: You Save Typing, Not Thinking](https://dev.to/s_a_shkuratov/llm-assisted-deploy-you-save-typing-not-thinking-5h91)
-- [Supabase basics with Node.js](https://dev.to/zsevic/supabase-basics-with-nodejs-31)
-- [How I Added a Razorpay Paywall to My React App in 10 Minutes](https://dev.to/iamadhitya/how-i-added-a-razorpay-paywall-to-my-react-app-in-10-minutes-1ca8)
+- [The Bot That Never Was](https://dev.to/icflorescu/the-bot-that-never-was-2mfp)
+- [We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow — Podscape v4.0](https://dev.to/imajeetyadav/we-built-a-kubernetes-desktop-app-that-actually-replaces-your-entire-workflow-podscape-v40-1od0)
+- [Rethinking Design Systems: When Code Becomes the Source of Truth](https://dev.to/joshjhall/rethinking-design-systems-when-code-becomes-the-source-of-truth-3g28)
+- [Use 1,711 Icons from a Single URL — No Installation, No API Keys](https://dev.to/clix_forbusiness_25e4796/use-1711-icons-from-a-single-url-no-installation-no-api-keys-bij)
 <!-- BLOG-POST-LIST:END -->
 
 
