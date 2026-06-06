@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5x Engineering Manager](https://dev.to/solidi/the-5x-engineering-manager-45k7)
-- [Learning Data Science and Data Analytics](https://dev.to/benjamin_ogol_1af8e695c87/learning-data-science-and-data-analytics-163d)
-- [Why I Don’t Let the LLM Decide Issue State](https://dev.to/ahmadhumayun/why-i-dont-let-the-llm-decide-issue-state-dip)
-- [Hello DEV Community 👋 I’m Exploring the Future of SEO + AI Search](https://dev.to/musmanaliseo/hello-dev-community-im-exploring-the-future-of-seo-ai-search-2igc)
+- [How We Built Cryptographic Invoice Signatures for a SaaS Invoicing Platform](https://dev.to/reinvoice/how-we-built-cryptographic-invoice-signatures-for-a-saas-invoicing-platform-1mia)
+- [Getting Started with Genkit in Go: Building Production-Ready AI Applications Without Reinventing the Wheel](https://dev.to/shrsv/getting-started-with-genkit-in-go-building-production-ready-ai-applications-without-reinventing-26lf)
+- [Your Scraper Collected 50 Rows. There Were 4,000.](https://dev.to/0012303/your-scraper-collected-50-rows-there-were-4000-5bo4)
+- [Poker Game Development -Technical Architecture](https://dev.to/stojankojo/poker-game-development-technical-architecture-7kc)
 <!-- BLOG-POST-LIST:END -->
 
 
