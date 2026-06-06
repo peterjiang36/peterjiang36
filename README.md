@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Vibe Coding to Play-First Programming](https://dev.to/gregthevibecoder/from-vibe-coding-to-play-first-programming-59eh)
-- [What if weather observations could participate in blockchain security?](https://dev.to/kotagit75/what-if-weather-observations-could-participate-in-blockchain-security-4g6b)
-- [Deeper into Dataform 3: Auditing Dataform](https://dev.to/ben_watson_data/deeper-into-dataform-3-auditing-dataform-3koi)
-- [How Senior Engineers Use AI Without Burning Through Token Limits - Reduce AI Token Usage by 60–90%](https://dev.to/parth_sarthisharma_105e7/how-senior-ai-engineers-use-ai-without-burning-through-token-limits-reduce-ai-token-usage-by-4cpl)
+- [A 120B-model laptop, a federal AI bill, and free pro-grade editing: 3 shifts for builders](https://dev.to/danio_dev/a-120b-model-laptop-a-federal-ai-bill-and-free-pro-grade-editing-3-shifts-for-builders-36nb)
+- [LLM-Assisted Deploy: You Save Typing, Not Thinking](https://dev.to/s_a_shkuratov/llm-assisted-deploy-you-save-typing-not-thinking-5h91)
+- [Supabase basics with Node.js](https://dev.to/zsevic/supabase-basics-with-nodejs-31)
+- [How I Added a Razorpay Paywall to My React App in 10 Minutes](https://dev.to/iamadhitya/how-i-added-a-razorpay-paywall-to-my-react-app-in-10-minutes-1ca8)
 <!-- BLOG-POST-LIST:END -->
 
 
