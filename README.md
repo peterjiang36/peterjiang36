@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an all-in-one Social Media Toolkit API — 8 tools in one endpoint set](https://dev.to/manal166/i-built-an-all-in-one-social-media-toolkit-api-8-tools-in-one-endpoint-set-48ip)
-- [7 n8n Mistakes That Will Break Your Workflows in Production · noorflows](https://dev.to/syednoor760dev/7-n8n-mistakes-that-will-break-your-workflows-in-production-noorflows-3p9m)
-- [#javascript #apnacollege #webdev #beginners](https://dev.to/ali_hamza_589ec7b3eb6688d/javascript-apnacollege-webdev-beginners-3hjg)
-- [WDIO vs Playwright — An Honest Comparison from Someone Who Has Used Both](https://dev.to/sshhfaiz/wdio-vs-playwright-an-honest-comparison-from-someone-who-has-used-both-3op0)
+- [The challenges of creating a semantic memory layer on Cloudflare Workers, D1, and Vectorize.](https://dev.to/rahil_pirani_c48446facc8c/the-challenges-of-creating-a-semantic-memory-layer-on-cloudflare-workers-d1-and-vectorize-3c7a)
+- [Building a Self-Hosted Newsletter Setup with n8n &amp; Gemini](https://dev.to/the_peripheral_stack/building-a-self-hosted-newsletter-setup-with-n8n-gemini-10n2)
+- [Presentando Fitz: un lenguaje donde HTTP, Postgres, JWT y WebSockets son parte de la sintaxis](https://dev.to/martin_palopoli/presentando-fitz-un-lenguaje-donde-http-postgres-jwt-y-websockets-son-parte-de-la-sintaxis-3la8)
+- [Building an AI game engine with Three.js](https://dev.to/mario_jgoestarosso_5c91/building-an-ai-game-engine-with-threejs-5162)
 <!-- BLOG-POST-LIST:END -->
 
 
