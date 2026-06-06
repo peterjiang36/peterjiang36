@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Anger Isn&#39;t at the Tool](https://dev.to/konstantinas_mamonas/the-anger-isnt-at-the-tool-1nj2)
-- [Why Chrome Eats Your RAM &amp; How We Built a Manifest V3 Extension to Slash Memory Usage by 95%](https://dev.to/sudeep_snair/why-chrome-eats-your-ram-how-we-built-a-manifest-v3-extension-to-slash-memory-usage-by-95-3261)
-- [&#39;Command not found&#39; — and what&#39;s really blocking WP-CLI](https://dev.to/susumun/command-not-found-and-whats-really-blocking-wp-cli-55o6)
-- [Recently joined a service-based company. Need advice on learning DSA and software development.](https://dev.to/abhitache/recently-joined-a-service-based-company-need-advice-on-learning-dsa-and-software-development-1ijk)
+- [The Meta-Tool Pattern: Teaching Your Agent to Discover Its Own Tools](https://dev.to/amitrix/the-meta-tool-pattern-teaching-your-agent-to-discover-its-own-tools-2a54)
+- [Markdown Is the Operating System. Everything Else Is a Render.](https://dev.to/amitrix/markdown-is-the-operating-system-everything-else-is-a-render-3fca)
+- [Why We Abandoned Backend APIs for a &quot;Sovereign&quot; Client-Side FinTech Engine](https://dev.to/seosiri/why-we-abandoned-backend-apis-for-a-sovereign-client-side-fintech-engine-1oen)
+- [llms.txt — Making Your Site Navigable by Agents](https://dev.to/amitrix/llmstxt-making-your-site-navigable-by-agents-4dd0)
 <!-- BLOG-POST-LIST:END -->
 
 
