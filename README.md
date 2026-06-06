@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Give your AI coding agent a publish-HTML button &lpar;with MCP&rpar;](https://dev.to/stevysmith/give-your-ai-coding-agent-a-publish-html-button-with-mcp-1ghi)
-- [Reset Windows Are Product Design](https://dev.to/amitrix/reset-windows-are-product-design-17n8)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-7gb)
-- [FadeKey: zero-knowledge, self-destructing secret sharing engine](https://dev.to/juliangn/fadekey-zero-knowledge-self-destructing-secret-sharing-engine-598k)
+- [Writers Who Use AI Without a Harness Are One Published Article From Disaster](https://dev.to/keithjmackay/writers-who-use-ai-without-a-harness-are-one-published-article-from-disaster-3gf2)
+- [Your velocity number is a probability wearing a disguise 🥸](https://dev.to/mattlewandowski93/your-velocity-number-is-a-probability-wearing-a-disguise-1ajj)
+- [I stopped talking in my 1-on-1s and they finally got useful 💭](https://dev.to/kelly_lewandowski_845215e/i-stopped-talking-in-my-1-on-1s-and-they-finally-got-useful-56ok)
+- [C#14 The field keyword](https://dev.to/karenpayneoregon/c14-the-field-keyword-4i5j)
 <!-- BLOG-POST-LIST:END -->
 
 
