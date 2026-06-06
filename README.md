@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Meta-Tool Pattern: Teaching Your Agent to Discover Its Own Tools](https://dev.to/amitrix/the-meta-tool-pattern-teaching-your-agent-to-discover-its-own-tools-2a54)
-- [Markdown Is the Operating System. Everything Else Is a Render.](https://dev.to/amitrix/markdown-is-the-operating-system-everything-else-is-a-render-3fca)
-- [Why We Abandoned Backend APIs for a &quot;Sovereign&quot; Client-Side FinTech Engine](https://dev.to/seosiri/why-we-abandoned-backend-apis-for-a-sovereign-client-side-fintech-engine-1oen)
-- [llms.txt — Making Your Site Navigable by Agents](https://dev.to/amitrix/llmstxt-making-your-site-navigable-by-agents-4dd0)
+- [Building a Middle School Quiz App in React: Gamification, Accessibility and Adaptive Questions](https://dev.to/ohugonnot/building-a-middle-school-quiz-app-in-react-gamification-accessibility-and-adaptive-questions-2dd1)
+- [Crucible v1.1.0 — Generate UI components you actually own &lpar;React/Vue/Angular&rpar;](https://dev.to/naveen2070/crucible-v110-generate-ui-components-you-actually-own-reactvueangular-49eo)
+- [Pourquoi votre sub-agent ne charge pas la même mémoire que vous &lpar;et comment il pousse sur main dans votre dos&rpar;](https://dev.to/michelfaure/pourquoi-votre-sub-agent-ne-charge-pas-la-meme-memoire-que-vous-et-comment-il-pousse-sur-main-dans-4p4b)
+- [Why your sub-agent doesn&#39;t load the same memory as you &lpar;and how it commits to main behind your back&rpar;](https://dev.to/michelfaure/why-your-sub-agent-doesnt-load-the-same-memory-as-you-and-how-it-commits-to-main-behind-your-back-cgi)
 <!-- BLOG-POST-LIST:END -->
 
 
