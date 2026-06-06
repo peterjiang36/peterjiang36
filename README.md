@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The challenges of creating a semantic memory layer on Cloudflare Workers, D1, and Vectorize.](https://dev.to/rahil_pirani_c48446facc8c/the-challenges-of-creating-a-semantic-memory-layer-on-cloudflare-workers-d1-and-vectorize-3c7a)
-- [Building a Self-Hosted Newsletter Setup with n8n &amp; Gemini](https://dev.to/the_peripheral_stack/building-a-self-hosted-newsletter-setup-with-n8n-gemini-10n2)
-- [Presentando Fitz: un lenguaje donde HTTP, Postgres, JWT y WebSockets son parte de la sintaxis](https://dev.to/martin_palopoli/presentando-fitz-un-lenguaje-donde-http-postgres-jwt-y-websockets-son-parte-de-la-sintaxis-3la8)
-- [Building an AI game engine with Three.js](https://dev.to/mario_jgoestarosso_5c91/building-an-ai-game-engine-with-threejs-5162)
+- [From Vibe Coding to Play-First Programming](https://dev.to/gregthevibecoder/from-vibe-coding-to-play-first-programming-59eh)
+- [What if weather observations could participate in blockchain security?](https://dev.to/kotagit75/what-if-weather-observations-could-participate-in-blockchain-security-4g6b)
+- [Deeper into Dataform 3: Auditing Dataform](https://dev.to/ben_watson_data/deeper-into-dataform-3-auditing-dataform-3koi)
+- [How Senior Engineers Use AI Without Burning Through Token Limits - Reduce AI Token Usage by 60–90%](https://dev.to/parth_sarthisharma_105e7/how-senior-ai-engineers-use-ai-without-burning-through-token-limits-reduce-ai-token-usage-by-4cpl)
 <!-- BLOG-POST-LIST:END -->
 
 
