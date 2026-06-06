@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [De 6 horas para 40 segundos: como um índice de banco de dados salvou um job crítico de produção](https://dev.to/he4rt/de-6-horas-para-40-segundos-como-um-indice-de-banco-de-dados-salvou-um-job-critico-de-producao-c90)
-- [Your Django App Has Years of Data. Here&#39;s How to Make AI Agents Actually Use It.](https://dev.to/valenchits/your-django-app-has-years-of-data-heres-how-to-make-ai-agents-actually-use-it-200d)
-- [Wyoming firma la orden 2026-03 para regular los centros de datos de IA](https://dev.to/lu1tr0n/wyoming-firma-la-orden-2026-03-para-regular-los-centros-de-datos-de-ia-jj7)
-- [Building a LangGraph RAG Agent from Scratch — with a Live UI That Shows Every Step](https://dev.to/ameya_joshi_68fa01c3a1a16/building-a-langgraph-rag-agent-from-scratch-with-a-live-ui-that-shows-every-step-4nle)
+- [Hermes Agent&#39;s skill trust model is a four-repo allowlist](https://dev.to/moltycel/hermes-agents-skill-trust-model-is-a-four-repo-allowlist-di)
+- [How to Automate Repetitive Tasks Without Code &lpar;a Beginner’s Guide&rpar;](https://dev.to/toty_cartooncartoon_c254/how-to-automate-repetitive-tasks-without-code-a-beginners-guide-2idi)
+- [Beat the Oracle](https://dev.to/alanmaizon/beat-the-oracle-nbp)
+- [Vibe Coding Won&#39;t Replace Web Agencies. But It Will Replace Lazy Ones.](https://dev.to/celestia_studio/vibe-coding-wont-replace-web-agencies-but-it-will-replace-lazy-ones-1lfd)
 <!-- BLOG-POST-LIST:END -->
 
 
