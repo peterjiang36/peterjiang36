@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Accessible Forms in React Native: A Complete Reference Guide](https://dev.to/alexjjackson/accessible-forms-in-react-native-a-complete-reference-guide-115o)
-- [Crack the Code Before the Sun Sets — My June Solstice Game Jam Entry](https://dev.to/gtxoffic/crack-the-code-before-the-sun-sets-my-june-solstice-game-jam-entry-2598)
-- [GBase 8c DDL Change Risks: Object Dependencies and Troubleshooting](https://dev.to/michaelfv/gbase-8c-ddl-change-risks-object-dependencies-and-troubleshooting-2jlb)
-- [The Landscape of Core Banking Developers: Building Financial Systems from Scratch](https://dev.to/vesviet/the-landscape-of-core-banking-developers-building-financial-systems-from-scratch-5118)
+- [Multicloud Execution Portability: Abstracting AWS DynamoDB and Azure Cosmos DB via Hexagonal Architecture](https://dev.to/sertaoseracloud/multicloud-execution-portability-abstracting-aws-dynamodb-and-azure-cosmos-db-via-hexagonal-3h33)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/melvinkeep/how-excel-is-used-in-real-world-data-analysis-2jcl)
+- [Java for Beginners: Why Learn Java Instead of C, C++, C#, Python, or JavaScript?](https://dev.to/buddingdeveloper/java-for-beginners-why-learn-java-instead-of-c-c-c-python-or-javascript-30fm)
+- [I&#39;m Furqan Akbar - Web Developer and Linux Server Administrator from Kashmir India](https://dev.to/furqanakbar/im-furqan-akbar-web-developer-and-linux-server-administrator-from-kashmir-india-2316)
 <!-- BLOG-POST-LIST:END -->
 
 
