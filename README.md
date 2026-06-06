@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Doors Into the Same Room](https://dev.to/gnomeman4201/two-doors-into-the-same-room-5fd2)
-- [FreeUltraCode: An AI Coding Tool with 20+ Free LLM Channels](https://dev.to/wei_feng_502a1d98012c10be/freeultracode-an-ai-coding-tool-with-20-free-llm-channels-53mi)
-- [Published Throughline to npm: A hook to offload Claude Code tool I/O to SQLite](https://dev.to/quolu/published-throughline-to-npm-a-hook-to-offload-claude-code-tool-io-to-sqlite-13d9)
-- [The Hidden Layer: Why Every Verification System Needs to Check Its Validator First](https://dev.to/lanternproton/the-hidden-layer-why-every-verification-system-needs-to-check-its-validator-first-d33)
+- [I built a free SQL practice game where you work at a fictional Singapore bank](https://dev.to/martinl5/i-built-a-free-sql-practice-game-where-you-work-at-a-fictional-singapore-bank-4728)
+- [SpaceX&#39;s IPO Will Make Elon Musk Earth&#39;s First Trillionaire. That&#39;s Not Actually a Finance Story.](https://dev.to/om_shree_0709/spacexs-ipo-will-make-elon-musk-earths-first-trillionaire-thats-not-actually-a-finance-story-4fhi)
+- [What Is Ollama? The Complete Guide to Running LLMs Locally in 2026](https://dev.to/mustafa_ehsan_27a8198830f/what-is-ollama-the-complete-guide-to-running-llms-locally-in-2026-2fe4)
+- [CI/CD Build Cache Management: Time Savings and Infrastructure Costs](https://dev.to/merbayerp/cicd-build-cache-management-time-savings-and-infrastructure-costs-3ap1)
 <!-- BLOG-POST-LIST:END -->
 
 
