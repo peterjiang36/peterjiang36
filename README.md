@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bot That Never Was](https://dev.to/icflorescu/the-bot-that-never-was-2mfp)
-- [We Built a Kubernetes Desktop App That Actually Replaces Your Entire Workflow — Podscape v4.0](https://dev.to/imajeetyadav/we-built-a-kubernetes-desktop-app-that-actually-replaces-your-entire-workflow-podscape-v40-1od0)
-- [Rethinking Design Systems: When Code Becomes the Source of Truth](https://dev.to/joshjhall/rethinking-design-systems-when-code-becomes-the-source-of-truth-3g28)
-- [Use 1,711 Icons from a Single URL — No Installation, No API Keys](https://dev.to/clix_forbusiness_25e4796/use-1711-icons-from-a-single-url-no-installation-no-api-keys-bij)
+- [Accessible Forms in React Native: A Complete Reference Guide](https://dev.to/alexjjackson/accessible-forms-in-react-native-a-complete-reference-guide-115o)
+- [Crack the Code Before the Sun Sets — My June Solstice Game Jam Entry](https://dev.to/gtxoffic/crack-the-code-before-the-sun-sets-my-june-solstice-game-jam-entry-2598)
+- [GBase 8c DDL Change Risks: Object Dependencies and Troubleshooting](https://dev.to/michaelfv/gbase-8c-ddl-change-risks-object-dependencies-and-troubleshooting-2jlb)
+- [The Landscape of Core Banking Developers: Building Financial Systems from Scratch](https://dev.to/vesviet/the-landscape-of-core-banking-developers-building-financial-systems-from-scratch-5118)
 <!-- BLOG-POST-LIST:END -->
 
 
