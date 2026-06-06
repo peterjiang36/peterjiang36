@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n Tutorial: How to Build Your First No-Code Automation Workflow in 2026](https://dev.to/chrismbah/n8n-tutorial-how-to-build-your-first-no-code-automation-workflow-in-2026-3dfi)
-- [AI Slop Is Becoming a Software Engineering Problem](https://dev.to/heavykenny/ai-slop-is-becoming-a-software-engineering-problem-2n00)
-- [Database Index Anatomy: Performance and Resource Management](https://dev.to/merbayerp/database-index-anatomy-performance-and-resource-management-3egb)
-- [Agent Substrate: Building Actors and Workers](https://dev.to/thenjdevopsguy/agent-substrate-building-actors-and-workers-4221)
+- [De 6 horas para 40 segundos: como um índice de banco de dados salvou um job crítico de produção](https://dev.to/he4rt/de-6-horas-para-40-segundos-como-um-indice-de-banco-de-dados-salvou-um-job-critico-de-producao-c90)
+- [Your Django App Has Years of Data. Here&#39;s How to Make AI Agents Actually Use It.](https://dev.to/valenchits/your-django-app-has-years-of-data-heres-how-to-make-ai-agents-actually-use-it-200d)
+- [Wyoming firma la orden 2026-03 para regular los centros de datos de IA](https://dev.to/lu1tr0n/wyoming-firma-la-orden-2026-03-para-regular-los-centros-de-datos-de-ia-jj7)
+- [Building a LangGraph RAG Agent from Scratch — with a Live UI That Shows Every Step](https://dev.to/ameya_joshi_68fa01c3a1a16/building-a-langgraph-rag-agent-from-scratch-with-a-live-ui-that-shows-every-step-4nle)
 <!-- BLOG-POST-LIST:END -->
 
 
