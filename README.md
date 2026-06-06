@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free SQL practice game where you work at a fictional Singapore bank](https://dev.to/martinl5/i-built-a-free-sql-practice-game-where-you-work-at-a-fictional-singapore-bank-4728)
-- [SpaceX&#39;s IPO Will Make Elon Musk Earth&#39;s First Trillionaire. That&#39;s Not Actually a Finance Story.](https://dev.to/om_shree_0709/spacexs-ipo-will-make-elon-musk-earths-first-trillionaire-thats-not-actually-a-finance-story-4fhi)
-- [What Is Ollama? The Complete Guide to Running LLMs Locally in 2026](https://dev.to/mustafa_ehsan_27a8198830f/what-is-ollama-the-complete-guide-to-running-llms-locally-in-2026-2fe4)
-- [CI/CD Build Cache Management: Time Savings and Infrastructure Costs](https://dev.to/merbayerp/cicd-build-cache-management-time-savings-and-infrastructure-costs-3ap1)
+- [The Anger Isn&#39;t at the Tool](https://dev.to/konstantinas_mamonas/the-anger-isnt-at-the-tool-1nj2)
+- [Why Chrome Eats Your RAM &amp; How We Built a Manifest V3 Extension to Slash Memory Usage by 95%](https://dev.to/sudeep_snair/why-chrome-eats-your-ram-how-we-built-a-manifest-v3-extension-to-slash-memory-usage-by-95-3261)
+- [&#39;Command not found&#39; — and what&#39;s really blocking WP-CLI](https://dev.to/susumun/command-not-found-and-whats-really-blocking-wp-cli-55o6)
+- [Recently joined a service-based company. Need advice on learning DSA and software development.](https://dev.to/abhitache/recently-joined-a-service-based-company-need-advice-on-learning-dsa-and-software-development-1ijk)
 <!-- BLOG-POST-LIST:END -->
 
 
