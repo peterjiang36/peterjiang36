@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Middle School Quiz App in React: Gamification, Accessibility and Adaptive Questions](https://dev.to/ohugonnot/building-a-middle-school-quiz-app-in-react-gamification-accessibility-and-adaptive-questions-2dd1)
-- [Crucible v1.1.0 — Generate UI components you actually own &lpar;React/Vue/Angular&rpar;](https://dev.to/naveen2070/crucible-v110-generate-ui-components-you-actually-own-reactvueangular-49eo)
-- [Pourquoi votre sub-agent ne charge pas la même mémoire que vous &lpar;et comment il pousse sur main dans votre dos&rpar;](https://dev.to/michelfaure/pourquoi-votre-sub-agent-ne-charge-pas-la-meme-memoire-que-vous-et-comment-il-pousse-sur-main-dans-4p4b)
-- [Why your sub-agent doesn&#39;t load the same memory as you &lpar;and how it commits to main behind your back&rpar;](https://dev.to/michelfaure/why-your-sub-agent-doesnt-load-the-same-memory-as-you-and-how-it-commits-to-main-behind-your-back-cgi)
+- [I built an all-in-one Social Media Toolkit API — 8 tools in one endpoint set](https://dev.to/manal166/i-built-an-all-in-one-social-media-toolkit-api-8-tools-in-one-endpoint-set-48ip)
+- [7 n8n Mistakes That Will Break Your Workflows in Production · noorflows](https://dev.to/syednoor760dev/7-n8n-mistakes-that-will-break-your-workflows-in-production-noorflows-3p9m)
+- [#javascript #apnacollege #webdev #beginners](https://dev.to/ali_hamza_589ec7b3eb6688d/javascript-apnacollege-webdev-beginners-3hjg)
+- [WDIO vs Playwright — An Honest Comparison from Someone Who Has Used Both](https://dev.to/sshhfaiz/wdio-vs-playwright-an-honest-comparison-from-someone-who-has-used-both-3op0)
 <!-- BLOG-POST-LIST:END -->
 
 
