@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a calculator site with 13 languages and 5,500 static pages in Next.js 15](https://dev.to/youssef_bedoui_b0da8d58b8/how-i-built-a-calculator-site-with-13-languages-and-5500-static-pages-in-nextjs-15-30ai)
-- [Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?](https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj)
-- [How Excel is Used in Real-World Data Analysis](https://dev.to/patrickomondi/-how-excel-is-used-in-real-world-data-analysis-o0)
-- [Six months of AI in 2026, and a whole lot of noise](https://dev.to/jatniel/six-months-of-ai-in-2026-and-a-whole-lot-of-noise-23lg)
+- [The Five Faculties: A Tour of SAFi&#39;s Cognitive Architecture](https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0)
+- [LLM integration with Vercel AI SDK](https://dev.to/zsevic/llm-integration-with-vercel-ai-sdk-5466)
+- [Library Oriented Architecture: The Most Interesting Architecture Pattern You&#39;ve Probably Never Heard About](https://dev.to/jairojr-software-engineer/library-oriented-architecture-the-most-interesting-architecture-pattern-youve-probably-never-4e7i)
+- [How to give GitHub Copilot cross-repo context today](https://dev.to/danielwe/how-to-give-github-copilot-cross-repo-context-today-1o1e)
 <!-- BLOG-POST-LIST:END -->
 
 
