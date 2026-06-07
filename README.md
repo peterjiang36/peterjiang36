@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning DevOps from First Principles: Why Linux and Networking Might Be the Best Place to Start](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-why-linux-and-networking-might-be-the-best-place-to-start-1bnj)
-- [My First Post](https://dev.to/iridiumds/my-first-post-3adb)
-- [AgentUnit: Shipping AI like Software](https://dev.to/angdem/agentunit-shipping-ai-like-software-1e9c)
-- [I ran an fMRI on LLMs: a concept is a direction, not a region](https://dev.to/jskim_7a1f310dceb06a5ebb1/i-ran-an-fmri-on-llms-a-concept-is-a-direction-not-a-region-428b)
+- [Building an MCP server with Node.js](https://dev.to/zsevic/building-an-mcp-server-with-nodejs-55b1)
+- [Migrate Ingress-NGINX to Gateway API Before Retirement](https://dev.to/indra_gustiprasetya_a80a/migrate-ingress-nginx-to-gateway-api-before-retirement-4n37)
+- [I Gave Claude a Stock Screener. Here&#39;s What It Picked](https://dev.to/kevin_menesesgonzlez/i-gave-claude-a-stock-screener-heres-what-it-picked-1d7g)
+- [Claude Code is not a recursive agent. I read the source and checked.](https://dev.to/sfrangulov/claude-code-is-not-a-recursive-agent-i-read-the-source-and-checked-kll)
 <!-- BLOG-POST-LIST:END -->
 
 
