@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Model AI API Routing: Cut Costs Without Sacrificing Quality](https://dev.to/kang_li_7ff78faea5a24bdbb/multi-model-ai-api-routing-cut-costs-without-sacrificing-quality-1keh)
-- [I built one self-hosted boilerplate and now I ship everything on it](https://dev.to/igorbumba/i-built-one-self-hosted-boilerplate-and-now-i-ship-everything-on-it-39o8)
-- [The Hypervisor Is Becoming a Policy Enforcement Point](https://dev.to/ntctech/the-hypervisor-is-becoming-a-policy-enforcement-point-21pl)
-- [AI in SDLC: Why I Stopped Optimizing for Code Generation and Started Optimizing for Alignment](https://dev.to/harshil_kansagara/ai-in-sdlc-why-i-stopped-optimizing-for-code-generation-and-started-optimizing-for-alignment-3d8f)
+- [AI_Memory_Systems_Complete_Guide](https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2)
+- [I wasted 6 weeks on Google Play&#39;s closed testing. Here&#39;s what finally worked.](https://dev.to/chakshusoft/i-wasted-6-weeks-on-google-plays-closed-testing-heres-what-finally-worked-41h8)
+- [PULSE GUARD PROJECT](https://dev.to/sanathkumarp14/pulse-guard-project-3m7b)
+- [AI Agents Don’t Need More Prompts. They Need Execution Boundaries.](https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg)
 <!-- BLOG-POST-LIST:END -->
 
 
