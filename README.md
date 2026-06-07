@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Five Faculties: A Tour of SAFi&#39;s Cognitive Architecture](https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0)
-- [LLM integration with Vercel AI SDK](https://dev.to/zsevic/llm-integration-with-vercel-ai-sdk-5466)
-- [Library Oriented Architecture: The Most Interesting Architecture Pattern You&#39;ve Probably Never Heard About](https://dev.to/jairojr-software-engineer/library-oriented-architecture-the-most-interesting-architecture-pattern-youve-probably-never-4e7i)
-- [How to give GitHub Copilot cross-repo context today](https://dev.to/danielwe/how-to-give-github-copilot-cross-repo-context-today-1o1e)
+- [The Oracle HA Decision Tree: RAC vs Data Guard vs Both](https://dev.to/uptimearchitect/the-oracle-ha-decision-tree-rac-vs-data-guard-vs-both-27ln)
+- [From Zero to Algorithmic Execution: Mastering Authentication, Rate Limits, and SDKs](https://dev.to/mountek/from-zero-to-algorithmic-execution-mastering-authentication-rate-limits-and-sdks-ae7)
+- [I Built My Own Analytics Platform Instead of Paying for PostHog](https://dev.to/nulfacedesigner/i-built-my-own-analytics-platform-instead-of-paying-for-posthog-5fkn)
+- [SignBridge — The Bidirectional ASL Communication Bridge Built to Break Accessibility Barriers](https://dev.to/chijioke_joseph_a1d337534/signbridge-the-bidirectional-asl-communication-bridge-built-to-break-accessibility-barriers-525m)
 <!-- BLOG-POST-LIST:END -->
 
 
