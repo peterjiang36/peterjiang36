@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an MCP server with Node.js](https://dev.to/zsevic/building-an-mcp-server-with-nodejs-55b1)
-- [Migrate Ingress-NGINX to Gateway API Before Retirement](https://dev.to/indra_gustiprasetya_a80a/migrate-ingress-nginx-to-gateway-api-before-retirement-4n37)
-- [I Gave Claude a Stock Screener. Here&#39;s What It Picked](https://dev.to/kevin_menesesgonzlez/i-gave-claude-a-stock-screener-heres-what-it-picked-1d7g)
-- [Claude Code is not a recursive agent. I read the source and checked.](https://dev.to/sfrangulov/claude-code-is-not-a-recursive-agent-i-read-the-source-and-checked-kll)
+- [Multi-Model AI API Routing: Cut Costs Without Sacrificing Quality](https://dev.to/kang_li_7ff78faea5a24bdbb/multi-model-ai-api-routing-cut-costs-without-sacrificing-quality-1keh)
+- [I built one self-hosted boilerplate and now I ship everything on it](https://dev.to/igorbumba/i-built-one-self-hosted-boilerplate-and-now-i-ship-everything-on-it-39o8)
+- [The Hypervisor Is Becoming a Policy Enforcement Point](https://dev.to/ntctech/the-hypervisor-is-becoming-a-policy-enforcement-point-21pl)
+- [AI in SDLC: Why I Stopped Optimizing for Code Generation and Started Optimizing for Alignment](https://dev.to/harshil_kansagara/ai-in-sdlc-why-i-stopped-optimizing-for-code-generation-and-started-optimizing-for-alignment-3d8f)
 <!-- BLOG-POST-LIST:END -->
 
 
