@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Writers Who Use AI Without a Harness Are One Published Article From Disaster](https://dev.to/keithjmackay/writers-who-use-ai-without-a-harness-are-one-published-article-from-disaster-3gf2)
-- [Your velocity number is a probability wearing a disguise 🥸](https://dev.to/mattlewandowski93/your-velocity-number-is-a-probability-wearing-a-disguise-1ajj)
-- [I stopped talking in my 1-on-1s and they finally got useful 💭](https://dev.to/kelly_lewandowski_845215e/i-stopped-talking-in-my-1-on-1s-and-they-finally-got-useful-56ok)
-- [C#14 The field keyword](https://dev.to/karenpayneoregon/c14-the-field-keyword-4i5j)
+- [AI For Security Review In Application Code](https://dev.to/nazar_boyko/ai-for-security-review-in-application-code-j2b)
+- [NfraApp – Completing Event Project App to Solve Nigeria Referees Issues](https://dev.to/oriohac/nfraapp-completing-event-project-app-to-solve-nigeria-referees-issues-2kh5)
+- [IPv6 Transition: A Useless Struggle for the Indie Hacker?](https://dev.to/merbayerp/ipv6-transition-a-useless-struggle-for-the-indie-hacker-2d79)
+- [¿Cómo funciona CORS y por qué protege la seguridad en peticiones HTTP?](https://dev.to/jcmexdev/como-funciona-cors-y-por-que-protege-la-seguridad-en-peticiones-http-3mha)
 <!-- BLOG-POST-LIST:END -->
 
 
