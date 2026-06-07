@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI_Memory_Systems_Complete_Guide](https://dev.to/schrodingcatai/aimemorysystemscompleteguide-30l2)
-- [I wasted 6 weeks on Google Play&#39;s closed testing. Here&#39;s what finally worked.](https://dev.to/chakshusoft/i-wasted-6-weeks-on-google-plays-closed-testing-heres-what-finally-worked-41h8)
-- [PULSE GUARD PROJECT](https://dev.to/sanathkumarp14/pulse-guard-project-3m7b)
-- [AI Agents Don’t Need More Prompts. They Need Execution Boundaries.](https://dev.to/rbuckley_/ai-agents-dont-need-more-prompts-they-need-execution-boundaries-5acg)
+- [Lexers](https://dev.to/pie-314/lexers-622)
+- [How to write a compiler ?](https://dev.to/pie-314/how-to-write-a-compiler--103p)
+- [I Built a 5-Agent AI System That Fixes Kubernetes Clusters Before Your Pager Goes Off](https://dev.to/sodiqjimoh/i-built-a-5-agent-ai-system-that-fixes-kubernetes-clusters-before-your-pager-goes-off-3h10)
+- [Ideogram 4.0 goes open-weight, Claude finds 10k vulns, and Meta&#39;s WhatsApp agent goes global](https://dev.to/danio_dev/ideogram-40-goes-open-weight-claude-finds-10k-vulns-and-metas-whatsapp-agent-goes-global-a6n)
 <!-- BLOG-POST-LIST:END -->
 
 
