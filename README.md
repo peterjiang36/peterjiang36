@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [klag just got a bunch better — here’s what’s new.](https://dev.to/themoah/klag-just-got-a-bunch-better-heres-whats-new-1pl3)
-- [ctxflow — a CLI to scaffold context files for AI coding agents](https://dev.to/powfuu/ctxflow-a-cli-to-scaffold-context-files-for-ai-coding-agents-1l4d)
-- [HOW EXCEL IS USED IN REAL-WORLD DATA ANALYSIS](https://dev.to/rose_odiwuor/how-excel-is-used-in-real-world-data-analysis-2ceh)
-- [How to Convert Webpages into Clean Markdown for LLMs &lpar;in 5ms&rpar;](https://dev.to/amphyfx/how-to-convert-webpages-into-clean-markdown-for-llms-in-5ms-2i98)
+- [How I built a calculator site with 13 languages and 5,500 static pages in Next.js 15](https://dev.to/youssef_bedoui_b0da8d58b8/how-i-built-a-calculator-site-with-13-languages-and-5500-static-pages-in-nextjs-15-30ai)
+- [Azure MANA NIC Rollout: Could It Impact Your Aviatrix Gateways?](https://dev.to/gergovadasz/azure-mana-nic-rollout-could-it-impact-your-aviatrix-gateways-30oj)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/patrickomondi/-how-excel-is-used-in-real-world-data-analysis-o0)
+- [Six months of AI in 2026, and a whole lot of noise](https://dev.to/jatniel/six-months-of-ai-in-2026-and-a-whole-lot-of-noise-23lg)
 <!-- BLOG-POST-LIST:END -->
 
 
