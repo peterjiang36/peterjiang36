@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Fuzzy Logic: Automatic Rule Discovery Through Differentiable Circuits](https://dev.to/queelius/learning-fuzzy-logic-automatic-rule-discovery-through-differentiable-circuits-2p5e)
-- [SLUUG Talk: Demystifying Large Language Models on Linux](https://dev.to/queelius/sluug-talk-demystifying-large-language-models-on-linux-4bin)
-- [Demystifying Solana Mints and Token Extensions: A Web2 Developer’s Perspective](https://dev.to/akeempalmer/demystifying-solana-mints-and-token-extensions-a-web2-developers-perspective-41g8)
-- [The Policy: Deceptive Alignment in Practice](https://dev.to/queelius/the-policy-deceptive-alignment-in-practice-bha)
+- [Introducing SocketIO4j: A Modern, Actively Maintained Socket.IO Server for Java](https://dev.to/santhosh_mohan/introducing-socketio4j-a-modern-actively-maintained-socketio-server-for-java-ok3)
+- [Stop Wasting Hours on MERN Setup &lpar;Free Auth Boilerplate&rpar;](https://dev.to/sahilmansuri15/stop-wasting-hours-on-mern-setup-free-auth-boilerplate-22a9)
+- [Fluency Became the Tell](https://dev.to/paifamily/fluency-became-the-tell-5cca)
+- [Mr.PERFECT---TO PERFORM AGENTIC TASKS USING LOCAL LLM](https://dev.to/rajab_baig_a3929cefc3758b/mrperfect-to-perform-agentic-tasks-using-local-llm-21lj)
 <!-- BLOG-POST-LIST:END -->
 
 
