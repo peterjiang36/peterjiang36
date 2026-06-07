@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Roast my portfolio](https://dev.to/waliimran/roast-my-portfolio-fop)
-- [I Thought Harmonics Were a Grid Problem, Then I Realized They Were Everywhere](https://dev.to/salma_aga/i-thought-harmonics-were-a-grid-problem-then-i-realized-they-were-everywhere-4emf)
-- [Detecting PII in Real-World Text](https://dev.to/bspann/detecting-pii-in-real-world-text-310p)
-- [Starting with Excel: How it transforms data to insights.](https://dev.to/charleen_bakhita/starting-with-excel-how-it-transforms-data-to-insights-3g24)
+- [klag just got a bunch better — here’s what’s new.](https://dev.to/themoah/klag-just-got-a-bunch-better-heres-whats-new-1pl3)
+- [ctxflow — a CLI to scaffold context files for AI coding agents](https://dev.to/powfuu/ctxflow-a-cli-to-scaffold-context-files-for-ai-coding-agents-1l4d)
+- [HOW EXCEL IS USED IN REAL-WORLD DATA ANALYSIS](https://dev.to/rose_odiwuor/how-excel-is-used-in-real-world-data-analysis-2ceh)
+- [How to Convert Webpages into Clean Markdown for LLMs &lpar;in 5ms&rpar;](https://dev.to/amphyfx/how-to-convert-webpages-into-clean-markdown-for-llms-in-5ms-2i98)
 <!-- BLOG-POST-LIST:END -->
 
 
