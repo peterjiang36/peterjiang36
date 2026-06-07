@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for Ambitious Developers, Engineers, and Builders to Create Something Big 🚀](https://dev.to/nish2005karsh/looking-for-ambitious-developers-engineers-and-builders-to-create-something-big-fim)
-- [Every &quot;autonomous AI agent&quot; is a customer-support ticket waiting to happen](https://dev.to/k08200/klorn-the-approval-layer-for-ai-agents-builder-log-1o8m)
-- [Building Hybrid Search with PostgreSQL, pgvector, and Citus](https://dev.to/amirsefati/building-hybrid-search-with-postgresql-pgvector-and-citus-299b)
-- [I&#39;ve Been Building an LMS for a Year. Finish-Up-A-Thon Made Me Actually Finish It.](https://dev.to/promiselxg/ive-been-building-an-lms-for-a-year-finish-up-a-thon-made-me-actually-finish-it-192c)
+- [Trivya AI – Voice Assistant with Gemini Integration](https://dev.to/shalini_tiwari_b48d181054/trivya-ai-voice-assistant-with-gemini-integration-29l2)
+- [Code smell or not - useEffect with extra dependecies?](https://dev.to/arikaturika/code-smell-or-not-useeffect-with-extra-dependecies-4a05)
+- [How OLED &amp; LTPO Enable Always-On Displays](https://dev.to/doogal/how-oled-ltpo-enable-always-on-displays-3e3h)
+- [Bringing Razorpay to InsForge: Building a Production-Grade Payment Flow](https://dev.to/hemanth_reddy_koduru/bringing-razorpay-to-insforge-building-a-production-grade-payment-flow-n9o)
 <!-- BLOG-POST-LIST:END -->
 
 
