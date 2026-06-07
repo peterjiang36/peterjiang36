@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI For Security Review In Application Code](https://dev.to/nazar_boyko/ai-for-security-review-in-application-code-j2b)
-- [NfraApp – Completing Event Project App to Solve Nigeria Referees Issues](https://dev.to/oriohac/nfraapp-completing-event-project-app-to-solve-nigeria-referees-issues-2kh5)
-- [IPv6 Transition: A Useless Struggle for the Indie Hacker?](https://dev.to/merbayerp/ipv6-transition-a-useless-struggle-for-the-indie-hacker-2d79)
-- [¿Cómo funciona CORS y por qué protege la seguridad en peticiones HTTP?](https://dev.to/jcmexdev/como-funciona-cors-y-por-que-protege-la-seguridad-en-peticiones-http-3mha)
+- [Learning Fuzzy Logic: Automatic Rule Discovery Through Differentiable Circuits](https://dev.to/queelius/learning-fuzzy-logic-automatic-rule-discovery-through-differentiable-circuits-2p5e)
+- [SLUUG Talk: Demystifying Large Language Models on Linux](https://dev.to/queelius/sluug-talk-demystifying-large-language-models-on-linux-4bin)
+- [Demystifying Solana Mints and Token Extensions: A Web2 Developer’s Perspective](https://dev.to/akeempalmer/demystifying-solana-mints-and-token-extensions-a-web2-developers-perspective-41g8)
+- [The Policy: Deceptive Alignment in Practice](https://dev.to/queelius/the-policy-deceptive-alignment-in-practice-bha)
 <!-- BLOG-POST-LIST:END -->
 
 
