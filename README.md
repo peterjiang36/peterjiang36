@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Maintainer Trap: What the jqwik Incident Reveals About Trusting Your Dependencies](https://dev.to/toniantunovic/the-maintainer-trap-what-the-jqwik-incident-reveals-about-trusting-your-dependencies-41kd)
-- [Is Copilot Making Us Worse Developers?](https://dev.to/dhanushnehru/is-copilot-making-us-worse-developers-5h10)
-- [Add an onboarding tour to any React/Next.js app in 5 minutes](https://dev.to/raj_chavan524/add-an-onboarding-tour-to-any-reactnextjs-app-in-5-minutes-2i70)
-- [How to Write a Cold Email to Investors That Gets Replies](https://dev.to/sclaydon/how-to-write-a-cold-email-to-investors-that-gets-replies-i9d)
+- [Looking for Ambitious Developers, Engineers, and Builders to Create Something Big 🚀](https://dev.to/nish2005karsh/looking-for-ambitious-developers-engineers-and-builders-to-create-something-big-fim)
+- [Every &quot;autonomous AI agent&quot; is a customer-support ticket waiting to happen](https://dev.to/k08200/klorn-the-approval-layer-for-ai-agents-builder-log-1o8m)
+- [Building Hybrid Search with PostgreSQL, pgvector, and Citus](https://dev.to/amirsefati/building-hybrid-search-with-postgresql-pgvector-and-citus-299b)
+- [I&#39;ve Been Building an LMS for a Year. Finish-Up-A-Thon Made Me Actually Finish It.](https://dev.to/promiselxg/ive-been-building-an-lms-for-a-year-finish-up-a-thon-made-me-actually-finish-it-192c)
 <!-- BLOG-POST-LIST:END -->
 
 
