@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing SocketIO4j: A Modern, Actively Maintained Socket.IO Server for Java](https://dev.to/santhosh_mohan/introducing-socketio4j-a-modern-actively-maintained-socketio-server-for-java-ok3)
-- [Stop Wasting Hours on MERN Setup &lpar;Free Auth Boilerplate&rpar;](https://dev.to/sahilmansuri15/stop-wasting-hours-on-mern-setup-free-auth-boilerplate-22a9)
-- [Fluency Became the Tell](https://dev.to/paifamily/fluency-became-the-tell-5cca)
-- [Mr.PERFECT---TO PERFORM AGENTIC TASKS USING LOCAL LLM](https://dev.to/rajab_baig_a3929cefc3758b/mrperfect-to-perform-agentic-tasks-using-local-llm-21lj)
+- [🚀 Why I Love Building Modern Web Apps with Django + HTMX + Alpine.js](https://dev.to/merdas369/why-i-love-building-modern-web-apps-with-django-htmx-alpinejs-26mo)
+- [How we cut INP from 480ms to under 200ms on a legacy site &lpar;no rewrite&rpar;](https://dev.to/sgbp/how-we-cut-inp-from-480ms-to-under-200ms-on-a-legacy-site-no-rewrite-2f0e)
+- [I built a tiny, zero-dependency React hook for keyboard shortcuts](https://dev.to/dhruvil_shah_2f33e185caad/i-built-a-tiny-zero-dependency-react-hook-for-keyboard-shortcuts-4ha0)
+- [ZeroPNG - From a single image compressor to 12 browser-native tools](https://dev.to/azayshrestha/zeropng-from-a-single-image-compressor-to-12-browser-native-tools-962)
 <!-- BLOG-POST-LIST:END -->
 
 
