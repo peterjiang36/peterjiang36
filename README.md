@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Why I Love Building Modern Web Apps with Django + HTMX + Alpine.js](https://dev.to/merdas369/why-i-love-building-modern-web-apps-with-django-htmx-alpinejs-26mo)
-- [How we cut INP from 480ms to under 200ms on a legacy site &lpar;no rewrite&rpar;](https://dev.to/sgbp/how-we-cut-inp-from-480ms-to-under-200ms-on-a-legacy-site-no-rewrite-2f0e)
-- [I built a tiny, zero-dependency React hook for keyboard shortcuts](https://dev.to/dhruvil_shah_2f33e185caad/i-built-a-tiny-zero-dependency-react-hook-for-keyboard-shortcuts-4ha0)
-- [ZeroPNG - From a single image compressor to 12 browser-native tools](https://dev.to/azayshrestha/zeropng-from-a-single-image-compressor-to-12-browser-native-tools-962)
+- [9 silent-row-loss fixes in 7 days across 7 OSS databases](https://dev.to/sravan27/9-silent-row-loss-fixes-in-7-days-across-7-oss-databases-2nd-draft-56da)
+- [Migrating to TypeScript Without a Bundler: The Radar College Story](https://dev.to/ohugonnot/migrating-to-typescript-without-a-bundler-the-radar-college-story-21mc)
+- [From brief to launch — how I built a high-converting landing page for Leaderforma &lpar;as both AMOA&lpar;project manager&rpar; and developer&rpar;](https://dev.to/alexmerveille/from-brief-to-launch-how-i-built-a-high-converting-landing-page-for-leaderforma-as-both-agn)
+- [Great Stack to Doesn&#39;t Work Bonus: 10 Advanced Git Commands You&#39;ll Actually Use](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-10-advanced-git-commands-youll-actually-use-2cdn)
 <!-- BLOG-POST-LIST:END -->
 
 
