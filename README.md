@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lexers](https://dev.to/pie-314/lexers-622)
-- [How to write a compiler ?](https://dev.to/pie-314/how-to-write-a-compiler--103p)
-- [I Built a 5-Agent AI System That Fixes Kubernetes Clusters Before Your Pager Goes Off](https://dev.to/sodiqjimoh/i-built-a-5-agent-ai-system-that-fixes-kubernetes-clusters-before-your-pager-goes-off-3h10)
-- [Ideogram 4.0 goes open-weight, Claude finds 10k vulns, and Meta&#39;s WhatsApp agent goes global](https://dev.to/danio_dev/ideogram-40-goes-open-weight-claude-finds-10k-vulns-and-metas-whatsapp-agent-goes-global-a6n)
+- [The Maintainer Trap: What the jqwik Incident Reveals About Trusting Your Dependencies](https://dev.to/toniantunovic/the-maintainer-trap-what-the-jqwik-incident-reveals-about-trusting-your-dependencies-41kd)
+- [Is Copilot Making Us Worse Developers?](https://dev.to/dhanushnehru/is-copilot-making-us-worse-developers-5h10)
+- [Add an onboarding tour to any React/Next.js app in 5 minutes](https://dev.to/raj_chavan524/add-an-onboarding-tour-to-any-reactnextjs-app-in-5-minutes-2i70)
+- [How to Write a Cold Email to Investors That Gets Replies](https://dev.to/sclaydon/how-to-write-a-cold-email-to-investors-that-gets-replies-i9d)
 <!-- BLOG-POST-LIST:END -->
 
 
