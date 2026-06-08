@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Replacing five Figma files with one HTML renderer for our content brand](https://dev.to/accreditly/replacing-five-figma-files-with-one-html-renderer-for-our-content-brand-47ej)
-- [Why Developer Onboarding Should Be Contract-First](https://dev.to/otaready/why-developer-onboarding-should-be-contract-first-7l0)
-- [Taming Compose Multiplatform Image Decoding on iOS](https://dev.to/software_mvp-factory/taming-compose-multiplatform-image-decoding-on-ios-53h2)
-- [Multilanguage good practices.](https://dev.to/constanza_diaz_dev/multilanguage-good-practices-3io1)
+- [How to Record Your Screen and Upload to YouTube &lpar;Quick Guide&rpar;](https://dev.to/elearner/how-to-record-your-screen-and-upload-to-youtube-quick-guide-kad)
+- [Everyone is talking about AI Agents... but what exactly are they?](https://dev.to/diksha_sharma_fd962aae329/everyone-is-talking-about-ai-agents-but-what-exactly-are-they-23hk)
+- [Worker vs Test Scope &amp; the Layer Rules &lpar;Playwright + TypeScript, Ch.10&rpar;](https://dev.to/aktibaba/worker-vs-test-scope-the-layer-rules-playwright-typescript-ch10-12dd)
+- [Building a Last-Entry Probability Capture Trading Bot on Polymarket with TypeScript](https://dev.to/roswelly/building-a-last-entry-probability-capture-bot-on-polymarket-3dn9)
 <!-- BLOG-POST-LIST:END -->
 
 
