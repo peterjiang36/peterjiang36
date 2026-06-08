@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Power Users Push Back on AI - and What That Tells You](https://dev.to/basavaraj_sh_1ea7d95f0f2e/why-power-users-push-back-on-ai-and-what-that-tells-you-2g37)
-- [Why Your Next AI Tool Might Be Bottlenecked by the Wrong Chip](https://dev.to/basavaraj_sh_1ea7d95f0f2e/why-your-next-ai-tool-might-be-bottlenecked-by-the-wrong-chip-4kml)
-- [Building a 3-second medicine verifier with Gemini vision + pg_trgm fuzzy matching](https://dev.to/aman_sachan_126d19c4a2773/building-a-3-second-medicine-verifier-with-gemini-vision-pgtrgm-fuzzy-matching-54da)
-- [Hallucination Detection Is Not a Model Problem—It&#39;s an Infrastructure Problem](https://dev.to/saurav_bhattacharya/hallucination-detection-is-not-a-model-problem-its-an-infrastructure-problem-2a74)
+- [Learning DevOps from First Principles: What an EC2 Instance Actually Is](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-what-an-ec2-instance-actually-is-55dp)
+- [Same Hardware, Different Experience: Why Linux Feels Faster](https://dev.to/micheal_angelo_41cea4e81a/same-hardware-different-experience-why-linux-feels-faster-hih)
+- [Learning DevOps from First Principles: MAC Addresses vs IP Addresses — The Difference Finally Clicked](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-mac-addresses-vs-ip-addresses-the-difference-finally-3aef)
+- [The Actual Cost of Dead Air: What 20 Years of Station Outages Taught Us About Broadcast Economics](https://dev.to/qua_lekuch_8b2a126c50c656/the-actual-cost-of-dead-air-what-20-years-of-station-outages-taught-us-about-broadcast-economics-5cjm)
 <!-- BLOG-POST-LIST:END -->
 
 
