@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Cloud Gateway WebFlux 4.0.6](https://dev.to/afloreshn/spring-cloud-gateway-webflu-406-2ld9)
-- [Github &quot;Finish-Up-A-Thon&quot; Challenge Winner Announcement Delayed &amp; General Challenge Timeline Updates](https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk)
-- [Building Custom Recognizers](https://dev.to/bspann/building-custom-recognizers-5goe)
-- [Advanced: Network Mocking, Visual &amp; Accessibility &lpar;Playwright + TypeScript, Ch.22&rpar;](https://dev.to/aktibaba/advanced-network-mocking-visual-accessibility-playwright-typescript-ch22-5eb2)
+- [I built a hardware-inspired UI component library in pure Vanilla JS — here&#39;s how](https://dev.to/prince_4rvin/i-built-a-hardware-inspired-ui-component-library-in-pure-vanilla-js-heres-how-2hcn)
+- [Automating Myself Away… Almost](https://dev.to/er_dward/automating-myself-away-almost-5f79)
+- [We Replayed the Nomad Hack. Our Tool Fired at Block 15259101 Zero Minutes In.](https://dev.to/moorebrett0/we-replayed-the-nomad-hack-our-tool-fired-at-block-15259101-zero-minutes-in-57o0)
+- [Reporting: Custom Reporters &amp; Result Visibility &lpar;Playwright + TypeScript, Ch.25&rpar;](https://dev.to/aktibaba/reporting-custom-reporters-result-visibility-playwright-typescript-ch25-2c4f)
 <!-- BLOG-POST-LIST:END -->
 
 
