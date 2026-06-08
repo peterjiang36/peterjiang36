@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing AI Systems: Red Teaming, Prompt Injection, and Adversarial Testing](https://dev.to/abhi_chatterjee_979801/securing-ai-systems-red-teaming-prompt-injection-and-adversarial-testing-3gb6)
-- [I Tested 9 Serverless GPU Providers for AI Inference in 2026. Here&#39;s What I&#39;d Actually Use](https://dev.to/heckno/i-tested-9-serverless-gpu-providers-for-ai-inference-in-2026-heres-what-id-actually-use-4cf4)
-- [As a System Architect, I Wish I Had Learned This Sooner](https://dev.to/merbayerp/as-a-system-architect-i-wish-i-had-learned-this-sooner-286f)
-- [Unleashing Agentic Coding Tools](https://dev.to/levchenkod/unleashing-agentic-coding-tools-38n0)
+- [Spring Cloud Gateway WebFlux 4.0.6](https://dev.to/afloreshn/spring-cloud-gateway-webflu-406-2ld9)
+- [Github &quot;Finish-Up-A-Thon&quot; Challenge Winner Announcement Delayed &amp; General Challenge Timeline Updates](https://dev.to/devteam/github-finish-up-a-thon-challenge-winner-announcement-delayed-general-challenge-timeline-updates-ckk)
+- [Building Custom Recognizers](https://dev.to/bspann/building-custom-recognizers-5goe)
+- [Advanced: Network Mocking, Visual &amp; Accessibility &lpar;Playwright + TypeScript, Ch.22&rpar;](https://dev.to/aktibaba/advanced-network-mocking-visual-accessibility-playwright-typescript-ch22-5eb2)
 <!-- BLOG-POST-LIST:END -->
 
 
