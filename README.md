@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Blinkers Nigeria Is Solving Lagos&#39; Used Car Market Problem With a Classified Marketplace](https://dev.to/jaystar/how-blinkers-nigeria-is-solving-lagos-used-car-market-problem-with-a-classified-marketplace-2ga)
-- [Arc 5 Catch-Up: Solana Token Fundamentals Explained for Web2 Developers](https://dev.to/100daysofsolana/arc-5-catch-up-solana-token-fundamentals-explained-for-web2-developers-3hfn)
-- [Practical Journey of Integrating Pi Agent into HagiCode](https://dev.to/newbe36524/practical-journey-of-integrating-pi-agent-into-hagicode-58l0)
-- [I Built 5 AI Writing Tools in a Weekend — Here&#39;s What I Learned](https://dev.to/aivadesk/i-built-5-ai-writing-tools-in-a-weekend-heres-what-i-learned-nfp)
+- [Replacing five Figma files with one HTML renderer for our content brand](https://dev.to/accreditly/replacing-five-figma-files-with-one-html-renderer-for-our-content-brand-47ej)
+- [Why Developer Onboarding Should Be Contract-First](https://dev.to/otaready/why-developer-onboarding-should-be-contract-first-7l0)
+- [Taming Compose Multiplatform Image Decoding on iOS](https://dev.to/software_mvp-factory/taming-compose-multiplatform-image-decoding-on-ios-53h2)
+- [Multilanguage good practices.](https://dev.to/constanza_diaz_dev/multilanguage-good-practices-3io1)
 <!-- BLOG-POST-LIST:END -->
 
 
