@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Oracle HA Decision Tree: RAC vs Data Guard vs Both](https://dev.to/uptimearchitect/the-oracle-ha-decision-tree-rac-vs-data-guard-vs-both-27ln)
-- [From Zero to Algorithmic Execution: Mastering Authentication, Rate Limits, and SDKs](https://dev.to/mountek/from-zero-to-algorithmic-execution-mastering-authentication-rate-limits-and-sdks-ae7)
-- [I Built My Own Analytics Platform Instead of Paying for PostHog](https://dev.to/nulfacedesigner/i-built-my-own-analytics-platform-instead-of-paying-for-posthog-5fkn)
-- [SignBridge — The Bidirectional ASL Communication Bridge Built to Break Accessibility Barriers](https://dev.to/chijioke_joseph_a1d337534/signbridge-the-bidirectional-asl-communication-bridge-built-to-break-accessibility-barriers-525m)
+- [Why Power Users Push Back on AI - and What That Tells You](https://dev.to/basavaraj_sh_1ea7d95f0f2e/why-power-users-push-back-on-ai-and-what-that-tells-you-2g37)
+- [Why Your Next AI Tool Might Be Bottlenecked by the Wrong Chip](https://dev.to/basavaraj_sh_1ea7d95f0f2e/why-your-next-ai-tool-might-be-bottlenecked-by-the-wrong-chip-4kml)
+- [Building a 3-second medicine verifier with Gemini vision + pg_trgm fuzzy matching](https://dev.to/aman_sachan_126d19c4a2773/building-a-3-second-medicine-verifier-with-gemini-vision-pgtrgm-fuzzy-matching-54da)
+- [Hallucination Detection Is Not a Model Problem—It&#39;s an Infrastructure Problem](https://dev.to/saurav_bhattacharya/hallucination-detection-is-not-a-model-problem-its-an-infrastructure-problem-2a74)
 <!-- BLOG-POST-LIST:END -->
 
 
