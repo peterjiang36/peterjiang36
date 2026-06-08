@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Financial Data with Python: Stocks, Crypto &amp; Market Intelligence &lpar;2026&rpar;](https://dev.to/zyvop/scraping-financial-data-with-python-stocks-crypto-market-intelligence-2026-ic4)
-- [Web3 Broke My Brain &lpar;In a Good Way&rpar;](https://dev.to/codemuggle/web3-broke-my-brain-in-a-good-way-2994)
-- [Volatility Relative-Value Trading: The Complete Guide](https://dev.to/tomasz_dobrowolski_35d32c/volatility-relative-value-trading-the-complete-guide-421g)
-- [Flutter Icon Generation: One Codebase, Every Platform](https://dev.to/roboticela/flutter-icon-generation-one-codebase-every-platform-1bd4)
+- [Designing a Broadcast Overnight Music Rotation That Doesn&#39;t Sound Like a Playlist](https://dev.to/qua_lekuch_8b2a126c50c656/designing-a-broadcast-overnight-music-rotation-that-doesnt-sound-like-a-playlist-3d4g)
+- [When AI Hosts Hallucinate: Failure Modes and How Three-Tier Review Catches Them](https://dev.to/qua_lekuch_8b2a126c50c656/when-ai-hosts-hallucinate-failure-modes-and-how-three-tier-review-catches-them-2cf4)
+- [Meta’s AI Support Hack Is a Warning for Every Team Automating User Access](https://dev.to/sunychoudhary/metas-ai-support-hack-is-a-warning-for-every-team-automating-user-access-8mp)
+- [What Actually Breaks in a Broadcast Audio Codec Pipeline &lpar;and How to Design Around It&rpar;](https://dev.to/qua_lekuch_8b2a126c50c656/what-actually-breaks-in-a-broadcast-audio-codec-pipeline-and-how-to-design-around-it-25jf)
 <!-- BLOG-POST-LIST:END -->
 
 
