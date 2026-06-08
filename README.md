@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLVM #6 — Compiling to Object Code.](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-6-compiling-to-object-code-1a47)
-- [I deleted my app&#39;s admin panel. The AI agent runs the backend now.](https://dev.to/favcrm/i-deleted-my-apps-admin-panel-the-ai-agent-runs-the-backend-now-551b)
-- [Make Your WooCommerce Store Visible to AI Assistants &lpar;ChatGPT, Claude, Gemini&rpar;](https://dev.to/athenalion/make-your-woocommerce-store-visible-to-ai-assistants-chatgpt-claude-gemini-5h3c)
-- [What is llms.txt? Why Every WooCommerce Store Needs It](https://dev.to/athenalion/what-is-llmstxt-why-every-woocommerce-store-needs-it-987)
+- [Scraping Financial Data with Python: Stocks, Crypto &amp; Market Intelligence &lpar;2026&rpar;](https://dev.to/zyvop/scraping-financial-data-with-python-stocks-crypto-market-intelligence-2026-ic4)
+- [Web3 Broke My Brain &lpar;In a Good Way&rpar;](https://dev.to/codemuggle/web3-broke-my-brain-in-a-good-way-2994)
+- [Volatility Relative-Value Trading: The Complete Guide](https://dev.to/tomasz_dobrowolski_35d32c/volatility-relative-value-trading-the-complete-guide-421g)
+- [Flutter Icon Generation: One Codebase, Every Platform](https://dev.to/roboticela/flutter-icon-generation-one-codebase-every-platform-1bd4)
 <!-- BLOG-POST-LIST:END -->
 
 
