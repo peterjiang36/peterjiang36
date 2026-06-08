@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Record Your Screen and Upload to YouTube &lpar;Quick Guide&rpar;](https://dev.to/elearner/how-to-record-your-screen-and-upload-to-youtube-quick-guide-kad)
-- [Everyone is talking about AI Agents... but what exactly are they?](https://dev.to/diksha_sharma_fd962aae329/everyone-is-talking-about-ai-agents-but-what-exactly-are-they-23hk)
-- [Worker vs Test Scope &amp; the Layer Rules &lpar;Playwright + TypeScript, Ch.10&rpar;](https://dev.to/aktibaba/worker-vs-test-scope-the-layer-rules-playwright-typescript-ch10-12dd)
-- [Building a Last-Entry Probability Capture Trading Bot on Polymarket with TypeScript](https://dev.to/roswelly/building-a-last-entry-probability-capture-bot-on-polymarket-3dn9)
+- [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg)
+- [65 million Brazilian companies — public data you can use right now](https://dev.to/rodrigo_dasilva_c90c2024/65-million-brazilian-companies-public-data-you-can-use-right-now-jo1)
+- [A Platform Where Messages Self-Destruct After a Minute, Yeah I Made That :&rpar;](https://dev.to/deffslayer/a-platform-where-messages-self-destruct-after-a-minute-yeah-i-made-that--55ob)
+- [CI/CD with GitHub Actions &amp; Sharding &lpar;Playwright + TypeScript, Ch.21&rpar;](https://dev.to/aktibaba/cicd-with-github-actions-sharding-playwright-typescript-ch21-3f7m)
 <!-- BLOG-POST-LIST:END -->
 
 
