@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning DevOps from First Principles: What an EC2 Instance Actually Is](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-what-an-ec2-instance-actually-is-55dp)
-- [Same Hardware, Different Experience: Why Linux Feels Faster](https://dev.to/micheal_angelo_41cea4e81a/same-hardware-different-experience-why-linux-feels-faster-hih)
-- [Learning DevOps from First Principles: MAC Addresses vs IP Addresses — The Difference Finally Clicked](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-mac-addresses-vs-ip-addresses-the-difference-finally-3aef)
-- [The Actual Cost of Dead Air: What 20 Years of Station Outages Taught Us About Broadcast Economics](https://dev.to/qua_lekuch_8b2a126c50c656/the-actual-cost-of-dead-air-what-20-years-of-station-outages-taught-us-about-broadcast-economics-5cjm)
+- [LLVM #6 — Compiling to Object Code.](https://dev.to/lahari_tenneti_4a8a082e9c/llvm-6-compiling-to-object-code-1a47)
+- [I deleted my app&#39;s admin panel. The AI agent runs the backend now.](https://dev.to/favcrm/i-deleted-my-apps-admin-panel-the-ai-agent-runs-the-backend-now-551b)
+- [Make Your WooCommerce Store Visible to AI Assistants &lpar;ChatGPT, Claude, Gemini&rpar;](https://dev.to/athenalion/make-your-woocommerce-store-visible-to-ai-assistants-chatgpt-claude-gemini-5h3c)
+- [What is llms.txt? Why Every WooCommerce Store Needs It](https://dev.to/athenalion/what-is-llmstxt-why-every-woocommerce-store-needs-it-987)
 <!-- BLOG-POST-LIST:END -->
 
 
