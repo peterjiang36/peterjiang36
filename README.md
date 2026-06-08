@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reverse Engineered a Popular AI Extension](https://dev.to/nixon-h/how-i-reverse-engineered-a-popular-ai-extension-1f7o)
-- [Architecture Drift Detection: Keep Your Code Aligned with Design](https://dev.to/eko/architecture-drift-detection-keep-your-code-aligned-with-design-kae)
-- [How to test email verification flows in Playwright &lpar;Mailpit, MailHog, and a no-setup alternative&rpar;](https://dev.to/zerodrop/how-to-test-email-verification-flows-in-playwright-mailpit-mailhog-and-a-no-setup-alternative-2444)
-- [Errors, traces, logs, metrics: when to reach for what](https://dev.to/sentry/errors-traces-logs-metrics-when-to-reach-for-what-3j5f)
+- [Securing AI Systems: Red Teaming, Prompt Injection, and Adversarial Testing](https://dev.to/abhi_chatterjee_979801/securing-ai-systems-red-teaming-prompt-injection-and-adversarial-testing-3gb6)
+- [I Tested 9 Serverless GPU Providers for AI Inference in 2026. Here&#39;s What I&#39;d Actually Use](https://dev.to/heckno/i-tested-9-serverless-gpu-providers-for-ai-inference-in-2026-heres-what-id-actually-use-4cf4)
+- [As a System Architect, I Wish I Had Learned This Sooner](https://dev.to/merbayerp/as-a-system-architect-i-wish-i-had-learned-this-sooner-286f)
+- [Unleashing Agentic Coding Tools](https://dev.to/levchenkod/unleashing-agentic-coding-tools-38n0)
 <!-- BLOG-POST-LIST:END -->
 
 
