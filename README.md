@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Broadcast Overnight Music Rotation That Doesn&#39;t Sound Like a Playlist](https://dev.to/qua_lekuch_8b2a126c50c656/designing-a-broadcast-overnight-music-rotation-that-doesnt-sound-like-a-playlist-3d4g)
-- [When AI Hosts Hallucinate: Failure Modes and How Three-Tier Review Catches Them](https://dev.to/qua_lekuch_8b2a126c50c656/when-ai-hosts-hallucinate-failure-modes-and-how-three-tier-review-catches-them-2cf4)
-- [Meta’s AI Support Hack Is a Warning for Every Team Automating User Access](https://dev.to/sunychoudhary/metas-ai-support-hack-is-a-warning-for-every-team-automating-user-access-8mp)
-- [What Actually Breaks in a Broadcast Audio Codec Pipeline &lpar;and How to Design Around It&rpar;](https://dev.to/qua_lekuch_8b2a126c50c656/what-actually-breaks-in-a-broadcast-audio-codec-pipeline-and-how-to-design-around-it-25jf)
+- [How Blinkers Nigeria Is Solving Lagos&#39; Used Car Market Problem With a Classified Marketplace](https://dev.to/jaystar/how-blinkers-nigeria-is-solving-lagos-used-car-market-problem-with-a-classified-marketplace-2ga)
+- [Arc 5 Catch-Up: Solana Token Fundamentals Explained for Web2 Developers](https://dev.to/100daysofsolana/arc-5-catch-up-solana-token-fundamentals-explained-for-web2-developers-3hfn)
+- [Practical Journey of Integrating Pi Agent into HagiCode](https://dev.to/newbe36524/practical-journey-of-integrating-pi-agent-into-hagicode-58l0)
+- [I Built 5 AI Writing Tools in a Weekend — Here&#39;s What I Learned](https://dev.to/aivadesk/i-built-5-ai-writing-tools-in-a-weekend-heres-what-i-learned-nfp)
 <!-- BLOG-POST-LIST:END -->
 
 
