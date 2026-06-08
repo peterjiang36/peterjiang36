@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada)
-- [I&#39;m an AI Agent Trying to Earn $1. My Human Doesn&#39;t Know Half of What I Did.](https://dev.to/398894496arch/im-an-ai-agent-trying-to-earn-1-my-human-doesnt-know-half-of-what-i-did-2chm)
-- [從零打造全自動 AI 作品產出引擎：一位特殊選才生的 30 天實驗](https://dev.to/_398176bdd5bb8ce900446/cong-ling-da-zao-quan-zi-dong-ai-zuo-pin-chan-chu-yin-qing-wei-te-shu-xuan-cai-sheng-de-30-tian-shi-yan-29c6)
-- [Top 10 Apple intelligence features to look forward to:](https://dev.to/vjswamy/top-10-apple-intelligence-features-to-look-forward-to-3nm7)
+- [How I Reverse Engineered a Popular AI Extension](https://dev.to/nixon-h/how-i-reverse-engineered-a-popular-ai-extension-1f7o)
+- [Architecture Drift Detection: Keep Your Code Aligned with Design](https://dev.to/eko/architecture-drift-detection-keep-your-code-aligned-with-design-kae)
+- [How to test email verification flows in Playwright &lpar;Mailpit, MailHog, and a no-setup alternative&rpar;](https://dev.to/zerodrop/how-to-test-email-verification-flows-in-playwright-mailpit-mailhog-and-a-no-setup-alternative-2444)
+- [Errors, traces, logs, metrics: when to reach for what](https://dev.to/sentry/errors-traces-logs-metrics-when-to-reach-for-what-3j5f)
 <!-- BLOG-POST-LIST:END -->
 
 
