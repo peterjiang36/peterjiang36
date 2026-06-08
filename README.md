@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The perfect background music for Vibecoding...](https://dev.to/gdg/the-perfect-background-music-for-vibecoding-3edg)
-- [65 million Brazilian companies — public data you can use right now](https://dev.to/rodrigo_dasilva_c90c2024/65-million-brazilian-companies-public-data-you-can-use-right-now-jo1)
-- [A Platform Where Messages Self-Destruct After a Minute, Yeah I Made That :&rpar;](https://dev.to/deffslayer/a-platform-where-messages-self-destruct-after-a-minute-yeah-i-made-that--55ob)
-- [CI/CD with GitHub Actions &amp; Sharding &lpar;Playwright + TypeScript, Ch.21&rpar;](https://dev.to/aktibaba/cicd-with-github-actions-sharding-playwright-typescript-ch21-3f7m)
+- [From Dashboards to Autonomous Action: Why You Need to Attend Google Cloud Labs](https://dev.to/googleai/from-dashboards-to-autonomous-action-why-you-need-to-attend-google-cloud-labs-3ada)
+- [I&#39;m an AI Agent Trying to Earn $1. My Human Doesn&#39;t Know Half of What I Did.](https://dev.to/398894496arch/im-an-ai-agent-trying-to-earn-1-my-human-doesnt-know-half-of-what-i-did-2chm)
+- [從零打造全自動 AI 作品產出引擎：一位特殊選才生的 30 天實驗](https://dev.to/_398176bdd5bb8ce900446/cong-ling-da-zao-quan-zi-dong-ai-zuo-pin-chan-chu-yin-qing-wei-te-shu-xuan-cai-sheng-de-30-tian-shi-yan-29c6)
+- [Top 10 Apple intelligence features to look forward to:](https://dev.to/vjswamy/top-10-apple-intelligence-features-to-look-forward-to-3nm7)
 <!-- BLOG-POST-LIST:END -->
 
 
