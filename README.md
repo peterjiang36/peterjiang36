@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog)
-- [Andy&#39;s Laws of AI in Software Engineering](https://dev.to/andyobtiva/andys-laws-of-ai-in-software-engineering-2f23)
-- [SQL Formatting Best Practices: A Practical Guide for Engineers](https://dev.to/moksh/sql-formatting-best-practices-a-practical-guide-for-engineers-k60)
-- [Implementing Token Bucket Rate Limiting for High-Volume Inventory APIs](https://dev.to/hridyasimon_dev/decoupling-microservices-with-event-driven-sqs-pipelines-for-high-volume-fulfillment-5dil)
+- [How to Get Rid of Microsoft Edge&#39;s Rounded Borders After the Latest Update](https://dev.to/samirmishra27/how-to-get-rid-of-microsoft-edges-rounded-borders-after-the-latest-update-1cpe)
+- [How to actually learn data structures and algorithms](https://dev.to/iwtlp/how-to-actually-learn-data-structures-and-algorithms-130i)
+- [How I Implemented a Local-First, E2EE Architecture with Sync in My App](https://dev.to/ilirans/how-i-implemented-a-local-first-e2ee-architecture-with-sync-in-my-app-4c28)
+- [I built a Jira CLI for my AI agents. My team thinks I should have used MCP](https://dev.to/aaen/i-built-a-jira-cli-for-my-ai-agents-my-team-thinks-i-should-have-used-mcp-3ja9)
 <!-- BLOG-POST-LIST:END -->
 
 
