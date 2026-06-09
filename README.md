@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSparrow v2.7 – Enhanced RAG, rebuilt admin UI, and Automations &lpar;beta&rpar;](https://dev.to/wrobeltomasz/opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta-438d)
-- [How To Reduce Digital Distractions While Working](https://dev.to/_606814433ed422522fed/how-to-reduce-digital-distractions-while-working-35a)
-- [AI Prompt Security: Is the Same Protection Necessary for Every](https://dev.to/merbayerp/ai-prompt-security-is-the-same-protection-necessary-for-every-40dn)
-- [Class 9-10 CBSE Cracker](https://dev.to/rikmakershub/class-9-10-cbse-cracker-2ip9)
+- [useMemo Hook in React](https://dev.to/deva_i_932c8869ada96d4c9f/usememo-hook-in-react-4f8i)
+- [5 JavaScript SEO Pitfalls That Are Quietly Killing Your Rankings](https://dev.to/mhaconsulting/5-javascript-seo-pitfalls-that-are-quietly-killing-your-rankings-fjn)
+- [Day 6: Set Up Code Quality Tools for ML Code](https://dev.to/thukhakyawe_cloud/day-6-set-up-code-quality-tools-for-ml-code-e7b)
+- [🧩LOGIC SOLSTICE CIPHER - A Code-Breaking Ode to Alan Turing](https://dev.to/minhlong2605/solstice-cipher-a-code-breaking-ode-to-alan-turing-44f2)
 <!-- BLOG-POST-LIST:END -->
 
 
