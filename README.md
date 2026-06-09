@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Added Caching to Your Code — And Quietly Polluted Your Business Logic](https://dev.to/recca0120/ai-added-caching-to-your-code-and-quietly-polluted-your-business-logic-58e5)
-- [Add a Regime Filter to Any Freqtrade Strategy in 10 Minutes](https://dev.to/gunnarthorderson/add-a-regime-filter-to-any-freqtrade-strategy-in-10-minutes-b8e)
-- [Crypto Market Regime Detection: A Practical Guide to Bull, Bear, and Chop](https://dev.to/gunnarthorderson/crypto-market-regime-detection-a-practical-guide-to-bull-bear-and-chop-3h9l)
-- [Building Video Recommendations With SurrealDB Graph Traversal Queries](https://dev.to/ahmet_gedik778845/building-video-recommendations-with-surrealdb-graph-traversal-queries-2ck6)
+- [The 2026 AI Coding Conversation Has Moved Past Cursor vs Claude Code](https://dev.to/ninghonggang/the-2026-ai-coding-conversation-has-moved-past-cursor-vs-claude-code-47ig)
+- [My first Chrome extension puts an anime girl on every tab, here&#39;s what I learned building it](https://dev.to/halle2525/my-first-chrome-extension-puts-an-anime-girl-on-every-tab-heres-what-i-learned-building-it-2pai)
+- [My First Step into DEV Community](https://dev.to/syedzahidvoice/hello-dev-community-4801)
+- [My AI Code Was Fine. My Initial Plan Was a Mess.](https://dev.to/stkremen/my-ai-code-was-fine-my-initial-plan-was-a-mess-58m7)
 <!-- BLOG-POST-LIST:END -->
 
 
