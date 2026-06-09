@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Visualizer](https://dev.to/member_29cf5563/data-visualizer-4j27)
-- [FastAPI for AI Engineers - Part 4: Stop Bad Data Before It Breaks Your API &lpar;Pydantic and Data Validation&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-4-stop-bad-data-before-it-breaks-your-api-pydantic-and-data-1l35)
-- [What is the Purpose of the @Autowired Annotation in Spring Boot?](https://dev.to/realnamehidden1_61/what-is-the-purpose-of-the-autowired-annotation-in-spring-boot-2he7)
-- [Linux Process Management Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-process-management-explained-simply-45f5)
+- [A torrent search engine,for actually active torrents!](https://dev.to/isaac6000/a-torrent-search-enginefor-actually-active-torrents-2pgk)
+- [ChatGPT Always Said &#39;Great!&#39; – So I Built an Interview Teacher with Claude Code](https://dev.to/guanyi_liu_21a5d7417eb332/chatgpt-always-said-great-so-i-built-an-interview-teacher-with-claude-code-opl)
+- [Use Claude long enough and you&#39;ll end up with Karpathy&#39;s LLM Wiki without doing much.](https://dev.to/ankushchadha/use-claude-long-enough-and-youll-end-up-with-karpathys-llm-wiki-without-doing-much-3cmo)
+- [Update record using JooqTemplate](https://dev.to/javaer/update-record-using-jooqtemplate-5880)
 <!-- BLOG-POST-LIST:END -->
 
 
