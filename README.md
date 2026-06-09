@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Machinery Behind Background Jobs](https://dev.to/adamthedeveloper/the-hidden-machinery-behind-background-jobs-1g5a)
-- [AI Coding Agent Accuracy: Opus 4.7 vs 4.8](https://dev.to/tessl-io/ai-coding-agent-accuracy-opus-47-vs-48-3051)
-- [LLM Spend Audit: The 45-Minute Diagnostic for Startups](https://dev.to/friendofasandwich/llm-spend-audit-the-45-minute-diagnostic-for-startups-35f7)
-- [Breaking the 100k Row Limit: Building High-Performance Dynamic Grids with VyncCanvasScroll in Vue 3](https://dev.to/_80a1fa98d19e605032996/breaking-the-100k-row-limit-building-high-performance-dynamic-grids-with-vynccanvasscroll-in-vue-3-2701)
+- [AI Added Caching to Your Code — And Quietly Polluted Your Business Logic](https://dev.to/recca0120/ai-added-caching-to-your-code-and-quietly-polluted-your-business-logic-58e5)
+- [Add a Regime Filter to Any Freqtrade Strategy in 10 Minutes](https://dev.to/gunnarthorderson/add-a-regime-filter-to-any-freqtrade-strategy-in-10-minutes-b8e)
+- [Crypto Market Regime Detection: A Practical Guide to Bull, Bear, and Chop](https://dev.to/gunnarthorderson/crypto-market-regime-detection-a-practical-guide-to-bull-bear-and-chop-3h9l)
+- [Building Video Recommendations With SurrealDB Graph Traversal Queries](https://dev.to/ahmet_gedik778845/building-video-recommendations-with-surrealdb-graph-traversal-queries-2ck6)
 <!-- BLOG-POST-LIST:END -->
 
 
