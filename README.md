@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hallucination Detection Is Not a Model Problem—It&#39;s an Architecture Problem](https://dev.to/saurav_bhattacharya/hallucination-detection-is-not-a-model-problem-its-an-architecture-problem-53la)
-- [Lawyers, Marketers, Product Managers—Xiaomi&#39;s Breakthrough Agent Product SoloEngine: Everyone Is a Creator](https://dev.to/fikacx/lawyers-marketers-product-managers-xiaomis-breakthrough-agent-product-soloengine-everyone-is-a-4b12)
-- [I Got Tired of Claude Code Guessing Wrong, So I Built an MCP Toolkit](https://dev.to/naveenayalla1cs50/i-got-tired-of-claude-code-guessing-wrong-so-i-built-an-mcp-toolkit-49bf)
-- [Learnings about authentication and authorization.](https://dev.to/jmnovelovargas/learnings-about-authentication-and-authorization-hjb)
+- [Data Visualizer](https://dev.to/member_29cf5563/data-visualizer-4j27)
+- [FastAPI for AI Engineers - Part 4: Stop Bad Data Before It Breaks Your API &lpar;Pydantic and Data Validation&rpar;](https://dev.to/zeroshotanu/fastapi-for-ai-engineers-part-4-stop-bad-data-before-it-breaks-your-api-pydantic-and-data-1l35)
+- [What is the Purpose of the @Autowired Annotation in Spring Boot?](https://dev.to/realnamehidden1_61/what-is-the-purpose-of-the-autowired-annotation-in-spring-boot-2he7)
+- [Linux Process Management Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-process-management-explained-simply-45f5)
 <!-- BLOG-POST-LIST:END -->
 
 
