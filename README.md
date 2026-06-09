@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI image generation with OpenAI API](https://dev.to/zsevic/ai-image-generation-with-openai-api-48mb)
-- [Field Test #020b — Next.js Root Ownership Refinement](https://dev.to/scarab-systems/field-test-020b-nextjs-root-ownership-refinement-2pfo)
-- [I Was Tired of Writing Commits Like &quot;final_final_v7_ACTUAL_FINAL&quot;](https://dev.to/trojanmocx/i-was-tired-of-writing-commits-like-finalfinalv7actualfinal-93m)
-- [How I built a three-tier content quality ladder for programmatic directory ETL](https://dev.to/morinaga/how-i-built-a-three-tier-content-quality-ladder-for-programmatic-directory-etl-30b2)
+- [Claude Fable 5 Is Here. Here&#39;s What Actually Matters for Developers 👨🏾‍💻](https://dev.to/chrismbah/claude-fable-5-is-here-heres-what-actually-matters-for-developers-29ko)
+- [Common Nmap Parameters](https://dev.to/excalibra/common-nmap-parameters-1815)
+- [I wrote a read-only scanner for MCP / agent-gateway production-readiness](https://dev.to/willianpinho/i-wrote-a-read-only-scanner-for-mcp-agent-gateway-production-readiness-4jbh)
+- [Biome v1, Go 1.26, and the Quiet Modernization of Developer Tooling](https://dev.to/devsignal/biome-v1-go-126-and-the-quiet-modernization-of-developer-tooling-gek)
 <!-- BLOG-POST-LIST:END -->
 
 
