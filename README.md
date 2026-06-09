@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A torrent search engine,for actually active torrents!](https://dev.to/isaac6000/a-torrent-search-enginefor-actually-active-torrents-2pgk)
-- [ChatGPT Always Said &#39;Great!&#39; – So I Built an Interview Teacher with Claude Code](https://dev.to/guanyi_liu_21a5d7417eb332/chatgpt-always-said-great-so-i-built-an-interview-teacher-with-claude-code-opl)
-- [Use Claude long enough and you&#39;ll end up with Karpathy&#39;s LLM Wiki without doing much.](https://dev.to/ankushchadha/use-claude-long-enough-and-youll-end-up-with-karpathys-llm-wiki-without-doing-much-3cmo)
-- [Update record using JooqTemplate](https://dev.to/javaer/update-record-using-jooqtemplate-5880)
+- [The Hidden Machinery Behind Background Jobs](https://dev.to/adamthedeveloper/the-hidden-machinery-behind-background-jobs-1g5a)
+- [AI Coding Agent Accuracy: Opus 4.7 vs 4.8](https://dev.to/tessl-io/ai-coding-agent-accuracy-opus-47-vs-48-3051)
+- [LLM Spend Audit: The 45-Minute Diagnostic for Startups](https://dev.to/friendofasandwich/llm-spend-audit-the-45-minute-diagnostic-for-startups-35f7)
+- [Breaking the 100k Row Limit: Building High-Performance Dynamic Grids with VyncCanvasScroll in Vue 3](https://dev.to/_80a1fa98d19e605032996/breaking-the-100k-row-limit-building-high-performance-dynamic-grids-with-vynccanvasscroll-in-vue-3-2701)
 <!-- BLOG-POST-LIST:END -->
 
 
