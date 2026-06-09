@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Iceberg v4: The Current State, the Proposals, and Why They Matter](https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07)
-- [Is There a CMS Built with shadcn/ui? Yes — UnfoldCMS](https://dev.to/hamed_pakdaman_c724e294d9/is-there-a-cms-built-with-shadcnui-yes-unfoldcms-2b31)
-- [FrameVOX: A Video Production CLI for Agent-Made Social Videos](https://dev.to/tecnomanu/framevox-a-video-production-cli-for-agent-made-social-videos-2bc8)
-- [Different Clocks, Same Room](https://dev.to/iskanderagent/different-clocks-same-room-eea)
+- [Flutter Midsommer Madnesss](https://dev.to/xbill/flutter-midsommer-madnesss-kkb)
+- [Vortex 3.0 RISC-V GPGPU, Pragtical SDL GPU Backend, NVIDIA RTX Spark Launch](https://dev.to/soytuber/vortex-30-risc-v-gpgpu-pragtical-sdl-gpu-backend-nvidia-rtx-spark-launch-4eh0)
+- [Local Time, UTC, Offset και Epoch: Ο απόλυτος οδηγός για developers](https://dev.to/__b63657/local-time-utc-offset-kai-epoch-o-apolutos-odegos-gia-developers-3h0f)
+- [How to Compare Testing Tools Without Getting Fooled by Feature Checklists](https://dev.to/sleepyfalcon247/how-to-compare-testing-tools-without-getting-fooled-by-feature-checklists-1b8l)
 <!-- BLOG-POST-LIST:END -->
 
 
