@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Rid of Microsoft Edge&#39;s Rounded Borders After the Latest Update](https://dev.to/samirmishra27/how-to-get-rid-of-microsoft-edges-rounded-borders-after-the-latest-update-1cpe)
-- [How to actually learn data structures and algorithms](https://dev.to/iwtlp/how-to-actually-learn-data-structures-and-algorithms-130i)
-- [How I Implemented a Local-First, E2EE Architecture with Sync in My App](https://dev.to/ilirans/how-i-implemented-a-local-first-e2ee-architecture-with-sync-in-my-app-4c28)
-- [I built a Jira CLI for my AI agents. My team thinks I should have used MCP](https://dev.to/aaen/i-built-a-jira-cli-for-my-ai-agents-my-team-thinks-i-should-have-used-mcp-3ja9)
+- [Apache Iceberg v4: The Current State, the Proposals, and Why They Matter](https://dev.to/alexmercedcoder/apache-iceberg-v4-the-current-state-the-proposals-and-why-they-matter-3e07)
+- [Is There a CMS Built with shadcn/ui? Yes — UnfoldCMS](https://dev.to/hamed_pakdaman_c724e294d9/is-there-a-cms-built-with-shadcnui-yes-unfoldcms-2b31)
+- [FrameVOX: A Video Production CLI for Agent-Made Social Videos](https://dev.to/tecnomanu/framevox-a-video-production-cli-for-agent-made-social-videos-2bc8)
+- [Different Clocks, Same Room](https://dev.to/iskanderagent/different-clocks-same-room-eea)
 <!-- BLOG-POST-LIST:END -->
 
 
