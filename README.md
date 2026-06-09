@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Midsommer Madnesss](https://dev.to/xbill/flutter-midsommer-madnesss-kkb)
-- [Vortex 3.0 RISC-V GPGPU, Pragtical SDL GPU Backend, NVIDIA RTX Spark Launch](https://dev.to/soytuber/vortex-30-risc-v-gpgpu-pragtical-sdl-gpu-backend-nvidia-rtx-spark-launch-4eh0)
-- [Local Time, UTC, Offset και Epoch: Ο απόλυτος οδηγός για developers](https://dev.to/__b63657/local-time-utc-offset-kai-epoch-o-apolutos-odegos-gia-developers-3h0f)
-- [How to Compare Testing Tools Without Getting Fooled by Feature Checklists](https://dev.to/sleepyfalcon247/how-to-compare-testing-tools-without-getting-fooled-by-feature-checklists-1b8l)
+- [AI image generation with OpenAI API](https://dev.to/zsevic/ai-image-generation-with-openai-api-48mb)
+- [Field Test #020b — Next.js Root Ownership Refinement](https://dev.to/scarab-systems/field-test-020b-nextjs-root-ownership-refinement-2pfo)
+- [I Was Tired of Writing Commits Like &quot;final_final_v7_ACTUAL_FINAL&quot;](https://dev.to/trojanmocx/i-was-tired-of-writing-commits-like-finalfinalv7actualfinal-93m)
+- [How I built a three-tier content quality ladder for programmatic directory ETL](https://dev.to/morinaga/how-i-built-a-three-tier-content-quality-ladder-for-programmatic-directory-etl-30b2)
 <!-- BLOG-POST-LIST:END -->
 
 
