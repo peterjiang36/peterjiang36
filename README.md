@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2026 AI Coding Conversation Has Moved Past Cursor vs Claude Code](https://dev.to/ninghonggang/the-2026-ai-coding-conversation-has-moved-past-cursor-vs-claude-code-47ig)
-- [My first Chrome extension puts an anime girl on every tab, here&#39;s what I learned building it](https://dev.to/halle2525/my-first-chrome-extension-puts-an-anime-girl-on-every-tab-heres-what-i-learned-building-it-2pai)
-- [My First Step into DEV Community](https://dev.to/syedzahidvoice/hello-dev-community-4801)
-- [My AI Code Was Fine. My Initial Plan Was a Mess.](https://dev.to/stkremen/my-ai-code-was-fine-my-initial-plan-was-a-mess-58m7)
+- [School management system](https://dev.to/mo_biru/school-management-system-4i0)
+- [Audit logging for n8n workflows that call MCP tools](https://dev.to/marras0914/audit-logging-for-n8n-workflows-that-call-mcp-tools-12f9)
+- [Why CRUD Is Not Enough for Serious Business Apps](https://dev.to/ngbplatform/why-crud-is-not-enough-for-serious-business-apps-5agf)
+- [Cordova Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/cordova-live-updates-a-complete-guide-to-ota-updates-576e)
 <!-- BLOG-POST-LIST:END -->
 
 
