@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [School management system](https://dev.to/mo_biru/school-management-system-4i0)
-- [Audit logging for n8n workflows that call MCP tools](https://dev.to/marras0914/audit-logging-for-n8n-workflows-that-call-mcp-tools-12f9)
-- [Why CRUD Is Not Enough for Serious Business Apps](https://dev.to/ngbplatform/why-crud-is-not-enough-for-serious-business-apps-5agf)
-- [Cordova Live Updates: A Complete Guide to OTA Updates](https://dev.to/capawesome/cordova-live-updates-a-complete-guide-to-ota-updates-576e)
+- [OpenSparrow v2.7 – Enhanced RAG, rebuilt admin UI, and Automations &lpar;beta&rpar;](https://dev.to/wrobeltomasz/opensparrow-v27-enhanced-rag-rebuilt-admin-ui-and-automations-beta-438d)
+- [How To Reduce Digital Distractions While Working](https://dev.to/_606814433ed422522fed/how-to-reduce-digital-distractions-while-working-35a)
+- [AI Prompt Security: Is the Same Protection Necessary for Every](https://dev.to/merbayerp/ai-prompt-security-is-the-same-protection-necessary-for-every-40dn)
+- [Class 9-10 CBSE Cracker](https://dev.to/rikmakershub/class-9-10-cbse-cracker-2ip9)
 <!-- BLOG-POST-LIST:END -->
 
 
