@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [useMemo Hook in React](https://dev.to/deva_i_932c8869ada96d4c9f/usememo-hook-in-react-4f8i)
-- [5 JavaScript SEO Pitfalls That Are Quietly Killing Your Rankings](https://dev.to/mhaconsulting/5-javascript-seo-pitfalls-that-are-quietly-killing-your-rankings-fjn)
-- [Day 6: Set Up Code Quality Tools for ML Code](https://dev.to/thukhakyawe_cloud/day-6-set-up-code-quality-tools-for-ml-code-e7b)
-- [🧩LOGIC SOLSTICE CIPHER - A Code-Breaking Ode to Alan Turing](https://dev.to/minhlong2605/solstice-cipher-a-code-breaking-ode-to-alan-turing-44f2)
+- [Claude Fable 5 is Now Generally Available on Google Cloud! 🚀](https://dev.to/googleai/claude-fable-5-is-now-generally-available-on-google-cloud-3gog)
+- [Andy&#39;s Laws of AI in Software Engineering](https://dev.to/andyobtiva/andys-laws-of-ai-in-software-engineering-2f23)
+- [SQL Formatting Best Practices: A Practical Guide for Engineers](https://dev.to/moksh/sql-formatting-best-practices-a-practical-guide-for-engineers-k60)
+- [Implementing Token Bucket Rate Limiting for High-Volume Inventory APIs](https://dev.to/hridyasimon_dev/decoupling-microservices-with-event-driven-sqs-pipelines-for-high-volume-fulfillment-5dil)
 <!-- BLOG-POST-LIST:END -->
 
 
