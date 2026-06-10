@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Someone Decided What Millions Would Think Next Week](https://dev.to/aetherintel/someone-decided-what-millions-would-think-next-week-1ci3)
-- [Best Free Hosting Platforms for Developers and Side Projects](https://dev.to/ome_devlycan/best-free-hosting-platforms-for-developers-and-side-projects-3i47)
-- [C# Compiler Lowering Explained: What Happens at Build Time - Part 1 of the &quot;The Anatomy of Compiler Lowering&quot; series](https://dev.to/itplamen/c-compiler-lowering-explained-what-happens-at-build-time-part-1-of-the-the-anatomy-of-compiler-2g50)
-- [ACPI Table Authoring for Modern Platforms: Power, Thermal and OS Compatibility](https://dev.to/beefedai/acpi-table-authoring-for-modern-platforms-power-thermal-and-os-compatibility-pl)
+- [I built 50+ developer tools that run entirely in your browser — here&#39;s why privacy matters and how I did it](https://dev.to/hanuman226/i-built-50-developer-tools-that-run-entirely-in-your-browser-heres-why-privacy-matters-and-how-1g8g)
+- [Upstash Redis + Next.js: The Complete Guide &lpar;2026&rpar;](https://dev.to/stacknotice/upstash-redis-nextjs-the-complete-guide-2026-4pep)
+- [Delete Node in a Linked List](https://dev.to/jaspreet_singh_86ae1740ac/delete-node-in-a-linked-list-27d3)
+- [Are we becoming developers of .md files?](https://dev.to/brunofpinheiro/are-we-becoming-developers-of-md-files-2i71)
 <!-- BLOG-POST-LIST:END -->
 
 
