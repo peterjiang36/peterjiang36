@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [tabs UI](https://dev.to/marius_lancha/tabs-ui-mj7)
-- [The Real AI Coding Breakthrough Is Not More Context. It Is Better Diagnostics.](https://dev.to/scarab-systems/the-real-ai-coding-breakthrough-is-not-more-context-it-is-better-diagnostics-1b3d)
-- [Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04](https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4)
-- [I love vibecoding](https://dev.to/irina64/i-love-vibecoding-in2)
+- [Clifford’s &lpar;aka, Claire’s&rpar; Device in C and C++](https://dev.to/pauljlucas/cliffords-aka-claires-device-in-c-and-c-2p33)
+- [How to Get Hermes Agent to Use AgentMail &lpar;And Why It&#39;s Harder Than It Should Be&rpar;](https://dev.to/saintchris_21/how-to-get-hermes-agent-to-use-agentmail-and-why-its-harder-than-it-should-be-1f4n)
+- [Don&#39;t Build That RAG Knowledge Base — Seven Reasons It Will Fail, and What to Build Instead](https://dev.to/chen115y/dont-build-that-rag-knowledge-base-seven-reasons-it-will-fail-and-what-to-build-instead-2c3g)
+- [I Generated a Full LMS in Under 10 Minutes with Rust! 🦀](https://dev.to/venelouis/i-generated-a-full-lms-in-under-10-minutes-with-rust-1php)
 <!-- BLOG-POST-LIST:END -->
 
 
