@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reset, revert, and reflog: the ultimate guide to undoing commits without losing your repo](https://dev.to/cristian_jonhsonalvarez_/reset-revert-and-reflog-the-ultimate-guide-to-undoing-commits-without-losing-your-repo-3dp8)
-- [Chega de &quot;Lista de Tarefas&quot;: Como criei uma automação para receber emails sobre tecnologia](https://dev.to/cavalcantiraissa/chega-de-lista-de-tarefas-como-criei-uma-automacao-para-receber-emails-sobre-tecnologia-113h)
-- [Why Your AI-Connected ERP Will Fail in Production And How to Fix It Before It Does](https://dev.to/muhammad_gharis_fe079470a/why-your-ai-connected-erp-will-fail-in-production-and-how-to-fix-it-before-it-does-306o)
-- [Learning to Code in the AI Era Feels Broken. And Nobody Talks About It.](https://dev.to/josaphatstar/learning-to-code-in-the-ai-era-feels-broken-and-nobody-talks-about-it-1911)
+- [How to Make Coding Agents Remember Past Solutions](https://dev.to/entire/how-to-make-coding-agents-remember-past-solutions-4a71)
+- [SQLite `ON CONFLICT DO SELECT` Proposal, PostgreSQL 19 Features &amp; SQLite Critical Bug](https://dev.to/soytuber/sqlite-on-conflict-do-select-proposal-postgresql-19-features-sqlite-critical-bug-53b1)
+- [Rust Crate &#39;onering&#39; Compromised: Malicious Code Exfiltration Risk Mitigated with Updated Version](https://dev.to/serbyte/rust-crate-onering-compromised-malicious-code-exfiltration-risk-mitigated-with-updated-version-108j)
+- [CUDA for AMD Lemonade, Intel Arc Pro Linux Gains, XPU Manager 2.0](https://dev.to/soytuber/cuda-for-amd-lemonade-intel-arc-pro-linux-gains-xpu-manager-20-3ke7)
 <!-- BLOG-POST-LIST:END -->
 
 
