@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Add drawing tools, indicators and replay to Lightweight Charts without stitching six repos together](https://dev.to/rohanbeingsocial/add-drawing-tools-indicators-and-replay-to-lightweight-charts-without-stitching-six-repos-together-51ad)
-- [Why I Stopped Paying for Tunnels and Built My Own &lpar;in 500 Lines of Rust&rpar;.](https://dev.to/dhinesh_krishnan/why-i-stopped-paying-for-tunnels-and-built-my-own-in-500-lines-of-rust-3b3o)
-- [MCP Explained for JavaScript Developers: The USB-C of AI Apps](https://dev.to/aggarwal_gaurav_1012/mcp-explained-for-javascript-developers-the-usb-c-of-ai-apps-425d)
-- [How Does Amazon Stop Two People from Booking the Same Seat?](https://dev.to/kavya1205/how-does-amazon-stop-two-people-from-booking-the-same-seat-54pe)
+- [Someone Decided What Millions Would Think Next Week](https://dev.to/aetherintel/someone-decided-what-millions-would-think-next-week-1ci3)
+- [Best Free Hosting Platforms for Developers and Side Projects](https://dev.to/ome_devlycan/best-free-hosting-platforms-for-developers-and-side-projects-3i47)
+- [C# Compiler Lowering Explained: What Happens at Build Time - Part 1 of the &quot;The Anatomy of Compiler Lowering&quot; series](https://dev.to/itplamen/c-compiler-lowering-explained-what-happens-at-build-time-part-1-of-the-the-anatomy-of-compiler-2g50)
+- [ACPI Table Authoring for Modern Platforms: Power, Thermal and OS Compatibility](https://dev.to/beefedai/acpi-table-authoring-for-modern-platforms-power-thermal-and-os-compatibility-pl)
 <!-- BLOG-POST-LIST:END -->
 
 
