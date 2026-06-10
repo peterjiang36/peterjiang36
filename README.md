@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue3 重点难点全解析：这些坑你踩过几个？](https://dev.to/_80a1fa98d19e605032996/vue3-zhong-dian-nan-dian-quan-jie-xi-zhe-xie-keng-ni-cai-guo-ji-ge--3ekj)
-- [How we built AIventure, an AI-Powered Retro Dungeon](https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54)
-- [Addy Osmani&#39;s Agent Skills: 5 Hidden Uses in 49K Stars of Workflow Magic](https://dev.to/_cbd692d476c5faf3b61bcf/addy-osmanis-agent-skills-5-hidden-uses-in-49k-stars-of-workflow-magic-37c8)
-- [Addy Osmani 的 agent-skills：49K 星工作流魔法里没人提的 5 个隐藏用法](https://dev.to/_cbd692d476c5faf3b61bcf/addy-osmani-de-agent-skills49k-xing-gong-zuo-liu-mo-fa-li-mei-ren-ti-de-5-ge-yin-cang-yong-fa-45c4)
+- [Add drawing tools, indicators and replay to Lightweight Charts without stitching six repos together](https://dev.to/rohanbeingsocial/add-drawing-tools-indicators-and-replay-to-lightweight-charts-without-stitching-six-repos-together-51ad)
+- [Why I Stopped Paying for Tunnels and Built My Own &lpar;in 500 Lines of Rust&rpar;.](https://dev.to/dhinesh_krishnan/why-i-stopped-paying-for-tunnels-and-built-my-own-in-500-lines-of-rust-3b3o)
+- [MCP Explained for JavaScript Developers: The USB-C of AI Apps](https://dev.to/aggarwal_gaurav_1012/mcp-explained-for-javascript-developers-the-usb-c-of-ai-apps-425d)
+- [How Does Amazon Stop Two People from Booking the Same Seat?](https://dev.to/kavya1205/how-does-amazon-stop-two-people-from-booking-the-same-seat-54pe)
 <!-- BLOG-POST-LIST:END -->
 
 
