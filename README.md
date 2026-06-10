@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anonymization Strategies](https://dev.to/bspann/anonymization-strategies-4l91)
-- [Scarab Field Test #022 — Playwright Worker Response Header Hang](https://dev.to/scarab-systems/scarab-field-test-022-playwright-worker-response-header-hang-2cmj)
-- [I built a pay-per-record data marketplace for AI agents on x402 - On the CDP Bazaar](https://dev.to/onefreeman1337/i-built-a-pay-per-record-data-marketplace-for-ai-agents-on-x402-on-the-cdp-bazaar-1a8j)
-- [The first review loop I use before I trust an AI-generated MVP](https://dev.to/vivian_chi_5018aa69d5ef43/the-first-review-loop-i-use-before-i-trust-an-ai-generated-mvp-2ln5)
+- [Vue3 重点难点全解析：这些坑你踩过几个？](https://dev.to/_80a1fa98d19e605032996/vue3-zhong-dian-nan-dian-quan-jie-xi-zhe-xie-keng-ni-cai-guo-ji-ge--3ekj)
+- [How we built AIventure, an AI-Powered Retro Dungeon](https://dev.to/googleai/how-we-built-aiventure-an-ai-powered-retro-dungeon-2f54)
+- [Addy Osmani&#39;s Agent Skills: 5 Hidden Uses in 49K Stars of Workflow Magic](https://dev.to/_cbd692d476c5faf3b61bcf/addy-osmanis-agent-skills-5-hidden-uses-in-49k-stars-of-workflow-magic-37c8)
+- [Addy Osmani 的 agent-skills：49K 星工作流魔法里没人提的 5 个隐藏用法](https://dev.to/_cbd692d476c5faf3b61bcf/addy-osmani-de-agent-skills49k-xing-gong-zuo-liu-mo-fa-li-mei-ren-ti-de-5-ge-yin-cang-yong-fa-45c4)
 <!-- BLOG-POST-LIST:END -->
 
 
