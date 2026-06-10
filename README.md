@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ran Polymarket BTC 5-Minute Bots and Hit ~45% Weekly ROI: Strategy Breakdown + Lessons Learned](https://dev.to/fatherson/i-ran-polymarket-btc-5-minute-bots-and-hit-45-weekly-roi-strategy-breakdown-lessons-learned-205n)
-- [From an Empty Workspace to a Running Robot in One Prompt](https://dev.to/godrift_ai/from-an-empty-workspace-to-a-running-robot-in-one-prompt-3p40)
-- [Most repos hit by the Shai-Hulud worm are still infected a week later, and the obvious fix punishes the victims.](https://dev.to/icflorescu/most-repos-hit-by-the-shai-hulud-worm-are-still-infected-a-week-later-and-the-obvious-fix-punishes-2m6o)
-- [Debugging the Google Maps Duplicate Loading Bug in React](https://dev.to/atayeroclinton/debugging-the-google-maps-duplicate-loading-bug-in-react-1i69)
+- [Reset, revert, and reflog: the ultimate guide to undoing commits without losing your repo](https://dev.to/cristian_jonhsonalvarez_/reset-revert-and-reflog-the-ultimate-guide-to-undoing-commits-without-losing-your-repo-3dp8)
+- [Chega de &quot;Lista de Tarefas&quot;: Como criei uma automação para receber emails sobre tecnologia](https://dev.to/cavalcantiraissa/chega-de-lista-de-tarefas-como-criei-uma-automacao-para-receber-emails-sobre-tecnologia-113h)
+- [Why Your AI-Connected ERP Will Fail in Production And How to Fix It Before It Does](https://dev.to/muhammad_gharis_fe079470a/why-your-ai-connected-erp-will-fail-in-production-and-how-to-fix-it-before-it-does-306o)
+- [Learning to Code in the AI Era Feels Broken. And Nobody Talks About It.](https://dev.to/josaphatstar/learning-to-code-in-the-ai-era-feels-broken-and-nobody-talks-about-it-1911)
 <!-- BLOG-POST-LIST:END -->
 
 
