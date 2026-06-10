@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built 50+ developer tools that run entirely in your browser — here&#39;s why privacy matters and how I did it](https://dev.to/hanuman226/i-built-50-developer-tools-that-run-entirely-in-your-browser-heres-why-privacy-matters-and-how-1g8g)
-- [Upstash Redis + Next.js: The Complete Guide &lpar;2026&rpar;](https://dev.to/stacknotice/upstash-redis-nextjs-the-complete-guide-2026-4pep)
-- [Delete Node in a Linked List](https://dev.to/jaspreet_singh_86ae1740ac/delete-node-in-a-linked-list-27d3)
-- [Are we becoming developers of .md files?](https://dev.to/brunofpinheiro/are-we-becoming-developers-of-md-files-2i71)
+- [How I revived a 128MB RAM NAS by building my own control panel](https://dev.to/itprogresscorp/how-i-revived-a-128mb-ram-nas-by-building-my-own-control-panel-3keg)
+- [Flash Attention: what it does and why it matters](https://dev.to/tech_nuggets/flash-attention-what-it-does-and-why-it-matters-59b8)
+- [Technical SEO: A Simple Introduction](https://dev.to/gopuadks/technical-seo-a-simple-introduction-man)
+- [When Prompt Batching Made My LLM App More Expensive](https://dev.to/ahikmah/when-prompt-batching-made-my-llm-app-more-expensive-5gf5)
 <!-- BLOG-POST-LIST:END -->
 
 
