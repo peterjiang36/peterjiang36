@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Evals, Explained: How We Actually Know Our AI Is Any Good](https://dev.to/mrviduus/ai-evals-explained-how-we-actually-know-our-ai-is-any-good-23hj)
-- [Intercom vs Zendesk: what I actually learned after using both](https://dev.to/owen_zhang_e9c74da15a9fed/intercom-vs-zendesk-what-i-actually-learned-after-using-both-1akd)
-- [Addressing Function Argument Explosion](https://dev.to/lorishu/addressing-function-argument-explosion-2h0a)
-- [The distribution problem OSS tools have that isn&#39;t about code quality](https://dev.to/palo_alto_ai/the-distribution-problem-oss-tools-have-that-isnt-about-code-quality-5bde)
+- [I Added a Local Audio Compressor to My Browser Extension](https://dev.to/hungrykoala/i-added-a-local-audio-compressor-to-my-browser-extension-5f8g)
+- [Practical AI Integration Belongs Inside Workflows](https://dev.to/webmasterid/practical-ai-integration-belongs-inside-workflows-11g2)
+- [Konsey: a multi-LLM council where a model can&#39;t verify its own output](https://dev.to/emediquality/konsey-a-multi-llm-council-where-a-model-cant-verify-its-own-output-3ccp)
+- [Stop Losing API Responses: Save and Switch Between Multiple JSON Datasets Instantly](https://dev.to/toolaska/stop-losing-api-responses-save-and-switch-between-multiple-json-datasets-instantly-5ddm)
 <!-- BLOG-POST-LIST:END -->
 
 
