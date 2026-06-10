@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [As the developer of the Screenshot Bro, I approve :&rpar;](https://dev.to/tarasosiris/as-the-developer-of-the-screenshot-bro-i-approve--3jnh)
-- [Experienced devs are 19% slower with AI tools. Nobody wants to believe it.](https://dev.to/adioof/experienced-devs-are-19-slower-with-ai-tools-nobody-wants-to-believe-it-2o3h)
-- [Expo Router v56 Ships SSR and Breaks Free from React Navigation](https://dev.to/expo/expo-router-v56-ships-ssr-and-breaks-free-from-react-navigation-4pfb)
-- [Stop Treating Your Database Like an Afterthought: The True Path to Scalability](https://dev.to/prabashanadev/stop-treating-your-database-like-an-afterthought-the-true-path-to-scalability-37bd)
+- [AI Evals, Explained: How We Actually Know Our AI Is Any Good](https://dev.to/mrviduus/ai-evals-explained-how-we-actually-know-our-ai-is-any-good-23hj)
+- [Intercom vs Zendesk: what I actually learned after using both](https://dev.to/owen_zhang_e9c74da15a9fed/intercom-vs-zendesk-what-i-actually-learned-after-using-both-1akd)
+- [Addressing Function Argument Explosion](https://dev.to/lorishu/addressing-function-argument-explosion-2h0a)
+- [The distribution problem OSS tools have that isn&#39;t about code quality](https://dev.to/palo_alto_ai/the-distribution-problem-oss-tools-have-that-isnt-about-code-quality-5bde)
 <!-- BLOG-POST-LIST:END -->
 
 
