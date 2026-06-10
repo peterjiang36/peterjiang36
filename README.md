@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Added a Local Audio Compressor to My Browser Extension](https://dev.to/hungrykoala/i-added-a-local-audio-compressor-to-my-browser-extension-5f8g)
-- [Practical AI Integration Belongs Inside Workflows](https://dev.to/webmasterid/practical-ai-integration-belongs-inside-workflows-11g2)
-- [Konsey: a multi-LLM council where a model can&#39;t verify its own output](https://dev.to/emediquality/konsey-a-multi-llm-council-where-a-model-cant-verify-its-own-output-3ccp)
-- [Stop Losing API Responses: Save and Switch Between Multiple JSON Datasets Instantly](https://dev.to/toolaska/stop-losing-api-responses-save-and-switch-between-multiple-json-datasets-instantly-5ddm)
+- [I Ran Polymarket BTC 5-Minute Bots and Hit ~45% Weekly ROI: Strategy Breakdown + Lessons Learned](https://dev.to/fatherson/i-ran-polymarket-btc-5-minute-bots-and-hit-45-weekly-roi-strategy-breakdown-lessons-learned-205n)
+- [From an Empty Workspace to a Running Robot in One Prompt](https://dev.to/godrift_ai/from-an-empty-workspace-to-a-running-robot-in-one-prompt-3p40)
+- [Most repos hit by the Shai-Hulud worm are still infected a week later, and the obvious fix punishes the victims.](https://dev.to/icflorescu/most-repos-hit-by-the-shai-hulud-worm-are-still-infected-a-week-later-and-the-obvious-fix-punishes-2m6o)
+- [Debugging the Google Maps Duplicate Loading Bug in React](https://dev.to/atayeroclinton/debugging-the-google-maps-duplicate-loading-bug-in-react-1i69)
 <!-- BLOG-POST-LIST:END -->
 
 
