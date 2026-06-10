@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Coding Agents Remember Past Solutions](https://dev.to/entire/how-to-make-coding-agents-remember-past-solutions-4a71)
-- [SQLite `ON CONFLICT DO SELECT` Proposal, PostgreSQL 19 Features &amp; SQLite Critical Bug](https://dev.to/soytuber/sqlite-on-conflict-do-select-proposal-postgresql-19-features-sqlite-critical-bug-53b1)
-- [Rust Crate &#39;onering&#39; Compromised: Malicious Code Exfiltration Risk Mitigated with Updated Version](https://dev.to/serbyte/rust-crate-onering-compromised-malicious-code-exfiltration-risk-mitigated-with-updated-version-108j)
-- [CUDA for AMD Lemonade, Intel Arc Pro Linux Gains, XPU Manager 2.0](https://dev.to/soytuber/cuda-for-amd-lemonade-intel-arc-pro-linux-gains-xpu-manager-20-3ke7)
+- [tabs UI](https://dev.to/marius_lancha/tabs-ui-mj7)
+- [The Real AI Coding Breakthrough Is Not More Context. It Is Better Diagnostics.](https://dev.to/scarab-systems/the-real-ai-coding-breakthrough-is-not-more-context-it-is-better-diagnostics-1b3d)
+- [Deploying Vector High-Performance Observability Data Pipeline on Ubuntu 24.04](https://dev.to/vultr/deploying-vector-high-performance-observability-data-pipeline-on-ubuntu-2404-id4)
+- [I love vibecoding](https://dev.to/irina64/i-love-vibecoding-in2)
 <!-- BLOG-POST-LIST:END -->
 
 
