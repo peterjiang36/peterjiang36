@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Fable 5 Is Here. Here&#39;s What Actually Matters for Developers 👨🏾‍💻](https://dev.to/chrismbah/claude-fable-5-is-here-heres-what-actually-matters-for-developers-29ko)
-- [Common Nmap Parameters](https://dev.to/excalibra/common-nmap-parameters-1815)
-- [I wrote a read-only scanner for MCP / agent-gateway production-readiness](https://dev.to/willianpinho/i-wrote-a-read-only-scanner-for-mcp-agent-gateway-production-readiness-4jbh)
-- [Biome v1, Go 1.26, and the Quiet Modernization of Developer Tooling](https://dev.to/devsignal/biome-v1-go-126-and-the-quiet-modernization-of-developer-tooling-gek)
+- [Anonymization Strategies](https://dev.to/bspann/anonymization-strategies-4l91)
+- [Scarab Field Test #022 — Playwright Worker Response Header Hang](https://dev.to/scarab-systems/scarab-field-test-022-playwright-worker-response-header-hang-2cmj)
+- [I built a pay-per-record data marketplace for AI agents on x402 - On the CDP Bazaar](https://dev.to/onefreeman1337/i-built-a-pay-per-record-data-marketplace-for-ai-agents-on-x402-on-the-cdp-bazaar-1a8j)
+- [The first review loop I use before I trust an AI-generated MVP](https://dev.to/vivian_chi_5018aa69d5ef43/the-first-review-loop-i-use-before-i-trust-an-ai-generated-mvp-2ln5)
 <!-- BLOG-POST-LIST:END -->
 
 
