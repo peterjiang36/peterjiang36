@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I revived a 128MB RAM NAS by building my own control panel](https://dev.to/itprogresscorp/how-i-revived-a-128mb-ram-nas-by-building-my-own-control-panel-3keg)
-- [Flash Attention: what it does and why it matters](https://dev.to/tech_nuggets/flash-attention-what-it-does-and-why-it-matters-59b8)
-- [Technical SEO: A Simple Introduction](https://dev.to/gopuadks/technical-seo-a-simple-introduction-man)
-- [When Prompt Batching Made My LLM App More Expensive](https://dev.to/ahikmah/when-prompt-batching-made-my-llm-app-more-expensive-5gf5)
+- [As the developer of the Screenshot Bro, I approve :&rpar;](https://dev.to/tarasosiris/as-the-developer-of-the-screenshot-bro-i-approve--3jnh)
+- [Experienced devs are 19% slower with AI tools. Nobody wants to believe it.](https://dev.to/adioof/experienced-devs-are-19-slower-with-ai-tools-nobody-wants-to-believe-it-2o3h)
+- [Expo Router v56 Ships SSR and Breaks Free from React Navigation](https://dev.to/expo/expo-router-v56-ships-ssr-and-breaks-free-from-react-navigation-4pfb)
+- [Stop Treating Your Database Like an Afterthought: The True Path to Scalability](https://dev.to/prabashanadev/stop-treating-your-database-like-an-afterthought-the-true-path-to-scalability-37bd)
 <!-- BLOG-POST-LIST:END -->
 
 
