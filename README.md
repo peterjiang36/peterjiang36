@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Am Building Rudhra as an Agent Operating Platform](https://dev.to/natarajan_murugesan_b00c4/why-i-am-building-rudhra-as-an-agent-operating-platform-34og)
-- [MCP Apps vs OpenAI Apps SDK: are they competing standards?](https://dev.to/muhammad_moeed/mcp-apps-vs-openai-apps-sdk-are-they-competing-standards-3ao4)
-- [How I Replaced 4 Heavy WooCommerce Plugins with a 15KB Vanilla JS Solution 🚀](https://dev.to/tophivetheme/how-i-replaced-4-heavy-woocommerce-plugins-with-a-15kb-vanilla-js-solution-42dg)
-- [Parse, Don’t Guess](https://dev.to/eitamos_ring_0508146ca448/parse-dont-guess-3710)
+- [I trained a neural network to break my own encrypted search. It learned nothing.](https://dev.to/zahraarmantech/i-trained-a-neural-network-to-break-my-own-encrypted-search-it-learned-nothing-55f3)
+- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
+- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
+- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
 <!-- BLOG-POST-LIST:END -->
 
 
