@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got Suspended on X, IP-Banned on Reddit and Quora. Here&#39;s What&#39;s Still Working.](https://dev.to/osakasaul/i-got-suspended-on-x-ip-banned-on-reddit-and-quora-heres-whats-still-working-5g5k)
-- [🚀 AWS VPC Project: Build a Production-Ready Architecture with EC2, ALB, ASG &amp; Bastion Host](https://dev.to/kadhamvj23/aws-vpc-project-build-a-production-ready-architecture-with-ec2-alb-asg-bastion-host-57i2)
-- [Laravel Overlapping Scheduled Tasks: The Production Problem Nobody Talks About](https://dev.to/eg-mohamed/laravel-overlapping-scheduled-tasks-the-production-problem-nobody-talks-about-1a3e)
-- [Load a single record using JooqTemplate](https://dev.to/javaer/load-a-single-record-using-jooqtemplate-i6m)
+- [Flowork Agent: Self-Hosted AI Agents in a Single Go Binary](https://dev.to/alya_mahalini_f05d9953cfa/flowork-agent-self-hosted-ai-agents-in-a-single-go-binary-5c3k)
+- [A GPL dep can quietly poison your closed-source product. I built a tiny offline tool that catches it.](https://dev.to/_06a3df6b50aec966668fb/a-gpl-dep-can-quietly-poison-your-closed-source-product-i-built-a-tiny-offline-tool-that-catches-468d)
+- [Every TODO in your codebase is lying about its age. So I built a CLI that blames them.](https://dev.to/_06a3df6b50aec966668fb/every-todo-in-your-codebase-is-lying-about-its-age-so-i-built-a-cli-that-blames-them-h84)
+- [git branch -d is fine — until the day you delete the wrong one](https://dev.to/_06a3df6b50aec966668fb/git-branch-d-is-fine-until-the-day-you-delete-the-wrong-one-4641)
 <!-- BLOG-POST-LIST:END -->
 
 
