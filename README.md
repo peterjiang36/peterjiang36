@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Agentic AI? — One Article to Walk You Through It](https://dev.to/dufrence/what-is-agentic-ai-one-article-to-walk-you-through-it-1lp)
-- [Part 5 &lpar;&quot;The Author Doesn&#39;t Have to Be an Engineer&quot;&rpar; has been generating sharp comments.
-Worth a read for the thread alone.](https://dev.to/ryantsuji/part-5-the-author-doesnt-have-to-be-an-engineer-has-been-generating-sharp-comments-worth-a-1pao)
-- [From 100 Logins to 1: Cut E2E Test Time by 78%](https://dev.to/_eb7f2a654e97a60ae9f96e/from-100-logins-to-1-cut-e2e-test-time-by-78-3090)
-- [How We Sourced a 12-Part Tech Investigation So Every Claim Survives a Hostile Fact-Check](https://dev.to/tmdlrg/how-we-sourced-a-12-part-tech-investigation-so-every-claim-survives-a-hostile-fact-check-22ec)
+- [How to Write a High-Converting SaaS Landing Page as a Solo Founder &lpar;No Copywriter Needed&rpar;](https://dev.to/unfairhq/how-to-write-a-high-converting-saas-landing-page-as-a-solo-founder-no-copywriter-needed-5g8m)
+- [How to Deploy a Static Website to GitHub Pages &lpar;The Basics + What No One Tells You&rpar;](https://dev.to/backrun/how-to-deploy-a-static-website-to-github-pages-the-basics-what-no-one-tells-you-5ahi)
+- [66% of devs say AI generates &#39;almost right&#39; code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67)
+- [DeepClaude&#39;s 5 Hidden Uses: 17x Cheaper Claude Code Without Changing Your Workflow](https://dev.to/_cbd692d476c5faf3b61bcf/deepclaudes-5-hidden-uses-17x-cheaper-claude-code-without-changing-your-workflow-o1c)
 <!-- BLOG-POST-LIST:END -->
 
 
