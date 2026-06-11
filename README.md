@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flowork Agent: Self-Hosted AI Agents in a Single Go Binary](https://dev.to/alya_mahalini_f05d9953cfa/flowork-agent-self-hosted-ai-agents-in-a-single-go-binary-5c3k)
-- [A GPL dep can quietly poison your closed-source product. I built a tiny offline tool that catches it.](https://dev.to/_06a3df6b50aec966668fb/a-gpl-dep-can-quietly-poison-your-closed-source-product-i-built-a-tiny-offline-tool-that-catches-468d)
-- [Every TODO in your codebase is lying about its age. So I built a CLI that blames them.](https://dev.to/_06a3df6b50aec966668fb/every-todo-in-your-codebase-is-lying-about-its-age-so-i-built-a-cli-that-blames-them-h84)
-- [git branch -d is fine — until the day you delete the wrong one](https://dev.to/_06a3df6b50aec966668fb/git-branch-d-is-fine-until-the-day-you-delete-the-wrong-one-4641)
+- [If your agent touches health data, do the boring part first](https://dev.to/lars_winstand/if-your-agent-touches-health-data-do-the-boring-part-first-3h6f)
+- [I built an AI chat over my CV on a zero-pound inference budget](https://dev.to/hiten_patel_35ea71d4d2007/i-built-an-ai-chat-over-my-cv-on-a-zero-pound-inference-budget-km3)
+- [33+ Free Developer Tools That Never Send Your Data](https://dev.to/lidevtools/33-free-developer-tools-that-never-send-your-data-1in2)
+- [🚀 I built ClipFour: A Zero-Login Wireless Clipboard to Share Text Between Devices Instantly](https://dev.to/khan_rja_41639e48e4777b0b/i-built-clipfour-a-zero-login-wireless-clipboard-to-share-text-between-devices-instantly-1fjb)
 <!-- BLOG-POST-LIST:END -->
 
 
