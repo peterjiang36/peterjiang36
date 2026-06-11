@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Testing for SCORM E-Learning Packages Using Playwright — A Step-by-Step Guide](https://dev.to/aditya_learnai/automated-testing-for-scorm-e-learning-packages-using-playwright-a-step-by-step-guide-1fh)
-- [AMD RCE Ignored, GitHub Boosts Secret Scanning with LLMs, AUR Supply Chain Attack](https://dev.to/soytuber/amd-rce-ignored-github-boosts-secret-scanning-with-llms-aur-supply-chain-attack-49l)
-- [Why SCORM Refuses to Die — And What AI Finally Changes About That](https://dev.to/aditya_learnai/why-scorm-refuses-to-die-and-what-ai-finally-changes-about-that-2bbd)
-- [AI Agent Security, Open-Source Code Generation, and Frontier Models on Bedrock](https://dev.to/soytuber/ai-agent-security-open-source-code-generation-and-frontier-models-on-bedrock-1d40)
+- [Why I Am Building Rudhra as an Agent Operating Platform](https://dev.to/natarajan_murugesan_b00c4/why-i-am-building-rudhra-as-an-agent-operating-platform-34og)
+- [MCP Apps vs OpenAI Apps SDK: are they competing standards?](https://dev.to/muhammad_moeed/mcp-apps-vs-openai-apps-sdk-are-they-competing-standards-3ao4)
+- [How I Replaced 4 Heavy WooCommerce Plugins with a 15KB Vanilla JS Solution 🚀](https://dev.to/tophivetheme/how-i-replaced-4-heavy-woocommerce-plugins-with-a-15kb-vanilla-js-solution-42dg)
+- [Parse, Don’t Guess](https://dev.to/eitamos_ring_0508146ca448/parse-dont-guess-3710)
 <!-- BLOG-POST-LIST:END -->
 
 
