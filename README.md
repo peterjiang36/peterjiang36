@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [rabbitholes: inline explanations with no server in the middle](https://dev.to/palo_alto_ai/rabbitholes-inline-explanations-with-no-server-in-the-middle-4c2o)
-- [Why VALORANT Can&#39;t Come to Mac — And Why It Doesn&#39;t Have to Stay That Way](https://dev.to/justice_montgomerywalkup_/why-valorant-cant-come-to-mac-and-why-it-doesnt-have-to-stay-that-way-4972)
-- [Managing context across Claude is a mess. Here&#39;s what fixed it for me.](https://dev.to/sf1997-spec/managing-context-across-claude-is-a-mess-heres-what-fixed-it-for-me-3c4j)
-- [Ktav: I got fed up with every config format, so I built one with no quotes, no commas, no indentation hell](https://dev.to/phpcraftdream/ktav-i-got-fed-up-with-every-config-format-so-i-built-one-with-no-quotes-no-commas-no-54an)
+- [Why I split a single color across two ANSI slots](https://dev.to/palo_alto_ai/why-i-split-a-single-color-across-two-ansi-slots-4o7p)
+- [My React App Froze on Every Keystroke. I Fixed It by Stealing Python&#39;s #1 Rule About Scope.](https://dev.to/tahosin/my-react-app-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-rule-about-scope-a5o)
+- [How I stopped re-resolving dependencies without rewriting pip](https://dev.to/jonas1015/how-i-stopped-re-resolving-dependencies-without-rewriting-pip-1jkp)
+- [Prompt Engineering Is Systems Design, Not a User Skill](https://dev.to/alaikrm/prompt-engineering-is-systems-design-not-a-user-skill-143)
 <!-- BLOG-POST-LIST:END -->
 
 
