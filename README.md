@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Nodes in K-Group](https://dev.to/jaspreet_singh_86ae1740ac/reverse-nodes-in-k-group-i0j)
-- [Expo&#39;s MCP Server is Now Free - Connect Your AI Assistant to Expo Projects](https://dev.to/expo/expos-mcp-server-is-now-free-connect-your-ai-assistant-to-expo-projects-3dd2)
-- [20 free dev tools — which ones actually got used last week](https://dev.to/linanxi12/20-free-dev-tools-which-ones-actually-got-used-last-week-1jgd)
-- [Linked List Cycle Detection](https://dev.to/jaspreet_singh_86ae1740ac/linked-list-cycle-detection-3gdk)
+- [rabbitholes: inline explanations with no server in the middle](https://dev.to/palo_alto_ai/rabbitholes-inline-explanations-with-no-server-in-the-middle-4c2o)
+- [Why VALORANT Can&#39;t Come to Mac — And Why It Doesn&#39;t Have to Stay That Way](https://dev.to/justice_montgomerywalkup_/why-valorant-cant-come-to-mac-and-why-it-doesnt-have-to-stay-that-way-4972)
+- [Managing context across Claude is a mess. Here&#39;s what fixed it for me.](https://dev.to/sf1997-spec/managing-context-across-claude-is-a-mess-heres-what-fixed-it-for-me-3c4j)
+- [Ktav: I got fed up with every config format, so I built one with no quotes, no commas, no indentation hell](https://dev.to/phpcraftdream/ktav-i-got-fed-up-with-every-config-format-so-i-built-one-with-no-quotes-no-commas-no-54an)
 <!-- BLOG-POST-LIST:END -->
 
 
