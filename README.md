@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If your agent touches health data, do the boring part first](https://dev.to/lars_winstand/if-your-agent-touches-health-data-do-the-boring-part-first-3h6f)
-- [I built an AI chat over my CV on a zero-pound inference budget](https://dev.to/hiten_patel_35ea71d4d2007/i-built-an-ai-chat-over-my-cv-on-a-zero-pound-inference-budget-km3)
-- [33+ Free Developer Tools That Never Send Your Data](https://dev.to/lidevtools/33-free-developer-tools-that-never-send-your-data-1in2)
-- [🚀 I built ClipFour: A Zero-Login Wireless Clipboard to Share Text Between Devices Instantly](https://dev.to/khan_rja_41639e48e4777b0b/i-built-clipfour-a-zero-login-wireless-clipboard-to-share-text-between-devices-instantly-1fjb)
+- [Making post-quantum the default in a file format, not a toggle](https://dev.to/chogarcia/making-post-quantum-the-default-in-a-file-format-not-a-toggle-59c0)
+- [You have been zigged &lpar;series&rpar; : Run a child process](https://dev.to/black_tornado/you-have-been-zigged-series-run-a-child-process-4df9)
+- [Identity Verification Platform Development: Solving the Hard Engineering Problems](https://dev.to/alexhadley/how-to-build-a-scalable-identity-verification-platform-engineering-lessons-from-real-kyc-projects-20f3)
+- [&quot;It Works&quot; Has Never Been Good Enough](https://dev.to/linkbenjamin/it-works-has-never-been-good-enough-1hc0)
 <!-- BLOG-POST-LIST:END -->
 
 
