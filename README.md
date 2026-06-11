@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I split a single color across two ANSI slots](https://dev.to/palo_alto_ai/why-i-split-a-single-color-across-two-ansi-slots-4o7p)
-- [My React App Froze on Every Keystroke. I Fixed It by Stealing Python&#39;s #1 Rule About Scope.](https://dev.to/tahosin/my-react-app-froze-on-every-keystroke-i-fixed-it-by-stealing-pythons-1-rule-about-scope-a5o)
-- [How I stopped re-resolving dependencies without rewriting pip](https://dev.to/jonas1015/how-i-stopped-re-resolving-dependencies-without-rewriting-pip-1jkp)
-- [Prompt Engineering Is Systems Design, Not a User Skill](https://dev.to/alaikrm/prompt-engineering-is-systems-design-not-a-user-skill-143)
+- [Cloud Savant: Turning AWS Cloud Signals into Clear Next Steps](https://dev.to/ronflax/cloud-savant-turning-aws-cloud-signals-into-clear-next-steps-3hi4)
+- [How to Ace Behavioral Interview Questions Using the STAR Method](https://dev.to/interviewace/how-to-ace-behavioral-interview-questions-using-the-star-method-2jnh)
+- [Transactional Outbox with Kafka: How to Stop Losing Events When Syncing Databases](https://dev.to/denis_toropov_41dbbe80185/transactional-outbox-with-kafka-how-to-stop-losing-events-when-syncing-databases-4nbm)
+- [Athenas — My Meeting Assistant](https://dev.to/juansev/athenas-my-meeting-assistant-2c50)
 <!-- BLOG-POST-LIST:END -->
 
 
