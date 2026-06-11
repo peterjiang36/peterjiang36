@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Savant: Turning AWS Cloud Signals into Clear Next Steps](https://dev.to/ronflax/cloud-savant-turning-aws-cloud-signals-into-clear-next-steps-3hi4)
-- [How to Ace Behavioral Interview Questions Using the STAR Method](https://dev.to/interviewace/how-to-ace-behavioral-interview-questions-using-the-star-method-2jnh)
-- [Transactional Outbox with Kafka: How to Stop Losing Events When Syncing Databases](https://dev.to/denis_toropov_41dbbe80185/transactional-outbox-with-kafka-how-to-stop-losing-events-when-syncing-databases-4nbm)
-- [Athenas — My Meeting Assistant](https://dev.to/juansev/athenas-my-meeting-assistant-2c50)
+- [Wanaku 0.1.1: Bringing Apache Camel Integration Capabilities to AI Agents via MCP](https://dev.to/orpiske/wanaku-011-bringing-apache-camel-integration-capabilities-to-ai-agents-via-mcp-1od5)
+- [Why Chasing Every New Frontier Model is Breaking Your Focus](https://dev.to/elenarevicheva/why-chasing-every-new-frontier-model-is-breaking-your-focus-15ei)
+- [Testing Kotlin Multiplatform: A Suite That Runs Mostly Without a Device](https://dev.to/theaxcode/testing-kotlin-multiplatform-a-suite-that-runs-mostly-without-a-device-2cbh)
+- [Testing JavaScript: Practical Guide to Confident Code &lpar;2026&rpar;](https://dev.to/armorbreak/testing-javascript-practical-guide-to-confident-code-2026-1487)
 <!-- BLOG-POST-LIST:END -->
 
 
