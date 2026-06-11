@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Clifford’s &lpar;aka, Claire’s&rpar; Device in C and C++](https://dev.to/pauljlucas/cliffords-aka-claires-device-in-c-and-c-2p33)
-- [How to Get Hermes Agent to Use AgentMail &lpar;And Why It&#39;s Harder Than It Should Be&rpar;](https://dev.to/saintchris_21/how-to-get-hermes-agent-to-use-agentmail-and-why-its-harder-than-it-should-be-1f4n)
-- [Don&#39;t Build That RAG Knowledge Base — Seven Reasons It Will Fail, and What to Build Instead](https://dev.to/chen115y/dont-build-that-rag-knowledge-base-seven-reasons-it-will-fail-and-what-to-build-instead-2c3g)
-- [I Generated a Full LMS in Under 10 Minutes with Rust! 🦀](https://dev.to/venelouis/i-generated-a-full-lms-in-under-10-minutes-with-rust-1php)
+- [What Is Agentic AI? — One Article to Walk You Through It](https://dev.to/dufrence/what-is-agentic-ai-one-article-to-walk-you-through-it-1lp)
+- [Part 5 &lpar;&quot;The Author Doesn&#39;t Have to Be an Engineer&quot;&rpar; has been generating sharp comments.
+Worth a read for the thread alone.](https://dev.to/ryantsuji/part-5-the-author-doesnt-have-to-be-an-engineer-has-been-generating-sharp-comments-worth-a-1pao)
+- [From 100 Logins to 1: Cut E2E Test Time by 78%](https://dev.to/_eb7f2a654e97a60ae9f96e/from-100-logins-to-1-cut-e2e-test-time-by-78-3090)
+- [How We Sourced a 12-Part Tech Investigation So Every Claim Survives a Hostile Fact-Check](https://dev.to/tmdlrg/how-we-sourced-a-12-part-tech-investigation-so-every-claim-survives-a-hostile-fact-check-22ec)
 <!-- BLOG-POST-LIST:END -->
 
 
