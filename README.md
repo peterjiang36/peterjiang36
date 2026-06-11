@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a High-Converting SaaS Landing Page as a Solo Founder &lpar;No Copywriter Needed&rpar;](https://dev.to/unfairhq/how-to-write-a-high-converting-saas-landing-page-as-a-solo-founder-no-copywriter-needed-5g8m)
-- [How to Deploy a Static Website to GitHub Pages &lpar;The Basics + What No One Tells You&rpar;](https://dev.to/backrun/how-to-deploy-a-static-website-to-github-pages-the-basics-what-no-one-tells-you-5ahi)
-- [66% of devs say AI generates &#39;almost right&#39; code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67)
-- [DeepClaude&#39;s 5 Hidden Uses: 17x Cheaper Claude Code Without Changing Your Workflow](https://dev.to/_cbd692d476c5faf3b61bcf/deepclaudes-5-hidden-uses-17x-cheaper-claude-code-without-changing-your-workflow-o1c)
+- [I Got Suspended on X, IP-Banned on Reddit and Quora. Here&#39;s What&#39;s Still Working.](https://dev.to/osakasaul/i-got-suspended-on-x-ip-banned-on-reddit-and-quora-heres-whats-still-working-5g5k)
+- [🚀 AWS VPC Project: Build a Production-Ready Architecture with EC2, ALB, ASG &amp; Bastion Host](https://dev.to/kadhamvj23/aws-vpc-project-build-a-production-ready-architecture-with-ec2-alb-asg-bastion-host-57i2)
+- [Laravel Overlapping Scheduled Tasks: The Production Problem Nobody Talks About](https://dev.to/eg-mohamed/laravel-overlapping-scheduled-tasks-the-production-problem-nobody-talks-about-1a3e)
+- [Load a single record using JooqTemplate](https://dev.to/javaer/load-a-single-record-using-jooqtemplate-i6m)
 <!-- BLOG-POST-LIST:END -->
 
 
