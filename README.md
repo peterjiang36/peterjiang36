@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making post-quantum the default in a file format, not a toggle](https://dev.to/chogarcia/making-post-quantum-the-default-in-a-file-format-not-a-toggle-59c0)
-- [You have been zigged &lpar;series&rpar; : Run a child process](https://dev.to/black_tornado/you-have-been-zigged-series-run-a-child-process-4df9)
-- [Identity Verification Platform Development: Solving the Hard Engineering Problems](https://dev.to/alexhadley/how-to-build-a-scalable-identity-verification-platform-engineering-lessons-from-real-kyc-projects-20f3)
-- [&quot;It Works&quot; Has Never Been Good Enough](https://dev.to/linkbenjamin/it-works-has-never-been-good-enough-1hc0)
+- [Reverse Nodes in K-Group](https://dev.to/jaspreet_singh_86ae1740ac/reverse-nodes-in-k-group-i0j)
+- [Expo&#39;s MCP Server is Now Free - Connect Your AI Assistant to Expo Projects](https://dev.to/expo/expos-mcp-server-is-now-free-connect-your-ai-assistant-to-expo-projects-3dd2)
+- [20 free dev tools — which ones actually got used last week](https://dev.to/linanxi12/20-free-dev-tools-which-ones-actually-got-used-last-week-1jgd)
+- [Linked List Cycle Detection](https://dev.to/jaspreet_singh_86ae1740ac/linked-list-cycle-detection-3gdk)
 <!-- BLOG-POST-LIST:END -->
 
 
