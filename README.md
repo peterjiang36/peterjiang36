@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wanaku 0.1.1: Bringing Apache Camel Integration Capabilities to AI Agents via MCP](https://dev.to/orpiske/wanaku-011-bringing-apache-camel-integration-capabilities-to-ai-agents-via-mcp-1od5)
-- [Why Chasing Every New Frontier Model is Breaking Your Focus](https://dev.to/elenarevicheva/why-chasing-every-new-frontier-model-is-breaking-your-focus-15ei)
-- [Testing Kotlin Multiplatform: A Suite That Runs Mostly Without a Device](https://dev.to/theaxcode/testing-kotlin-multiplatform-a-suite-that-runs-mostly-without-a-device-2cbh)
-- [Testing JavaScript: Practical Guide to Confident Code &lpar;2026&rpar;](https://dev.to/armorbreak/testing-javascript-practical-guide-to-confident-code-2026-1487)
+- [Automated Testing for SCORM E-Learning Packages Using Playwright — A Step-by-Step Guide](https://dev.to/aditya_learnai/automated-testing-for-scorm-e-learning-packages-using-playwright-a-step-by-step-guide-1fh)
+- [AMD RCE Ignored, GitHub Boosts Secret Scanning with LLMs, AUR Supply Chain Attack](https://dev.to/soytuber/amd-rce-ignored-github-boosts-secret-scanning-with-llms-aur-supply-chain-attack-49l)
+- [Why SCORM Refuses to Die — And What AI Finally Changes About That](https://dev.to/aditya_learnai/why-scorm-refuses-to-die-and-what-ai-finally-changes-about-that-2bbd)
+- [AI Agent Security, Open-Source Code Generation, and Frontier Models on Bedrock](https://dev.to/soytuber/ai-agent-security-open-source-code-generation-and-frontier-models-on-bedrock-1d40)
 <!-- BLOG-POST-LIST:END -->
 
 
