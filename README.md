@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [UUIDv4 vs UUIDv7 in PostgreSQL: A B-Tree Index Performance Deep Dive](https://dev.to/adil_khan_35649a2ba914bfb/uuidv4-vs-uuidv7-in-postgresql-a-b-tree-index-performance-deep-dive-3f0g)
-- [Where Claude Code Tokens Actually Go &lpar;and How to Cut the Waste&rpar;](https://dev.to/ludoonus/where-claude-code-tokens-actually-go-and-how-to-cut-the-waste-284m)
-- [I got tired of SSH and Loki for four containers, so I built DockLog](https://dev.to/saurav_saini/i-got-tired-of-ssh-and-loki-for-four-containers-so-i-built-docklog-1e94)
-- [¿Deuda Técnica Estratégica o Negligencia? Cómo no autodestruir tu código](https://dev.to/jcmexdev/deuda-tecnica-estrategica-o-negligencia-como-no-autodestruir-tu-codigo-53jf)
+- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound](https://dev.to/gopichand_dev/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-2b5k)
+- [Demystifying Node.js Architecture: V8, libuv, and the Hidden C++ Bridge](https://dev.to/aabiskar/demystifying-nodejs-architecture-v8-libuv-and-the-hidden-c-bridge-728)
+- [How to Automate A/B Testing Without a Data Scientist: 5 AI Tools for Lean SaaS Teams in 2026](https://dev.to/hellyeahai/how-to-automate-ab-testing-without-a-data-scientist-5-ai-tools-for-lean-saas-teams-in-2026-4l99)
+- [LLM-powered extraction kept silently corrupting my database. Here&#39;s what I built to fix it. tags: node, llm, opensource, api](https://dev.to/joyal_seejo_3ce82377c9324/llm-powered-extraction-kept-silently-corrupting-my-database-heres-what-i-built-to-fix-it-tags-57pj)
 <!-- BLOG-POST-LIST:END -->
 
 
