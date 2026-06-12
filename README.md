@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Fluency for Software Engineers: A Practical Playbook Beyond Prompting](https://dev.to/natarajan_murugesan_b00c4/ai-fluency-for-software-engineers-a-practical-playbook-beyond-prompting-37n1)
-- [LLM KV Cache Optimization, Open Model Evaluation, &amp; Agent Engineering Skills for Local Deployment](https://dev.to/soytuber/llm-kv-cache-optimization-open-model-evaluation-agent-engineering-skills-for-local-deployment-5el4)
-- [The First Message Sent Over the Internet Was &#39;LO&#39;](https://dev.to/fluidwire/the-first-message-sent-over-the-internet-was-lo-3032)
-- [What We Learned Scanning Netflix Atlas](https://dev.to/clearcodeintel/what-we-learned-scanning-netflix-atlas-38i)
+- [The Remote Already Exists: What &quot;Click&quot; Got Right About Agentic AI](https://dev.to/alexmercedcoder/the-remote-already-exists-what-click-got-right-about-agentic-ai-1d97)
+- [Your MCP server will drift from your app. Here&#39;s a build gate that stops it.](https://dev.to/alimaherofficial/your-mcp-server-will-drift-from-your-app-heres-a-build-gate-that-stops-it-454m)
+- [Astro 5 content collections as an editorial layer in a programmatic site](https://dev.to/morinaga/astro-5-content-collections-as-an-editorial-layer-in-a-programmatic-site-14ik)
+- [The Agent Gets the API Key. You Get the Guinea Pig Seat.](https://dev.to/zep1997/the-agent-gets-the-api-key-you-get-the-guinea-pig-seat-3mii)
 <!-- BLOG-POST-LIST:END -->
 
 
