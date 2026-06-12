@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 11 vs .NET 10: We Benchmarked Both on a Real Production App &lpar;Should You Upgrade?&rpar;](https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh)
-- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
-- [Web Testing in 2026 Is Less About Tools and More About Trust](https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3)
-- [I Built an AI Symptom Tracker That Generates Doctor-Ready Reports](https://dev.to/kyisaiah47/i-built-an-ai-symptom-tracker-that-generates-doctor-ready-reports-3o26)
+- [HorizonDB preview: automate a reproducible lab with ARM](https://dev.to/franckpachot/horizondb-preview-automate-a-reproducible-lab-with-arm-2515)
+- [Security news weekly round-up - 12th June 2026](https://dev.to/ziizium/security-news-weekly-round-up-12th-june-2026-15ck)
+- [What We Learned Scanning Google&#39;s Public zx Repository](https://dev.to/clearcodeintel/what-we-learned-scanning-googles-public-zx-repository-4965)
+- [AI is Everywhere and Every Developer is using it. What Could Possibly Go Wrong?](https://dev.to/francistrdev/ai-is-everywhere-and-every-developer-is-using-it-what-could-possibly-go-wrong-1o54)
 <!-- BLOG-POST-LIST:END -->
 
 
