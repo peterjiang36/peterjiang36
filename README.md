@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HorizonDB preview: automate a reproducible lab with ARM](https://dev.to/franckpachot/horizondb-preview-automate-a-reproducible-lab-with-arm-2515)
-- [Security news weekly round-up - 12th June 2026](https://dev.to/ziizium/security-news-weekly-round-up-12th-june-2026-15ck)
-- [What We Learned Scanning Google&#39;s Public zx Repository](https://dev.to/clearcodeintel/what-we-learned-scanning-googles-public-zx-repository-4965)
-- [AI is Everywhere and Every Developer is using it. What Could Possibly Go Wrong?](https://dev.to/francistrdev/ai-is-everywhere-and-every-developer-is-using-it-what-could-possibly-go-wrong-1o54)
+- [AI Fluency for Software Engineers: A Practical Playbook Beyond Prompting](https://dev.to/natarajan_murugesan_b00c4/ai-fluency-for-software-engineers-a-practical-playbook-beyond-prompting-37n1)
+- [LLM KV Cache Optimization, Open Model Evaluation, &amp; Agent Engineering Skills for Local Deployment](https://dev.to/soytuber/llm-kv-cache-optimization-open-model-evaluation-agent-engineering-skills-for-local-deployment-5el4)
+- [The First Message Sent Over the Internet Was &#39;LO&#39;](https://dev.to/fluidwire/the-first-message-sent-over-the-internet-was-lo-3032)
+- [What We Learned Scanning Netflix Atlas](https://dev.to/clearcodeintel/what-we-learned-scanning-netflix-atlas-38i)
 <!-- BLOG-POST-LIST:END -->
 
 
