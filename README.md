@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How HTML WYSIWYG Editors Work Under the Hood](https://dev.to/froala_e3824d66439393cbce/how-html-wysiwyg-editors-work-under-the-hood-3ffo)
-- [Persistent Memory for AI Agents: Running a Memory Sidecar Without Touching Internals](https://dev.to/manoir_yantai_f22f01340f0/persistent-memory-for-ai-agents-running-a-memory-sidecar-without-touching-internals-39hk)
-- [You Don&#39;t Need Another AI Tool—Here&#39;s How to Chain Your Existing Ones](https://dev.to/learnairesource/you-dont-need-another-ai-tool-heres-how-to-chain-your-existing-ones-1fde)
-- [Reading typed config from .env in TypeScript](https://dev.to/materwelondhruv/reading-typed-config-from-env-in-typescript-34cb)
+- [Road To KiwiEngine #16: Why KiwiEngine Is Becoming An Ecosystem](https://dev.to/stinklewinks/road-to-kiwiengine-16-why-kiwiengine-is-becoming-an-ecosystem-92m)
+- [Single Responsibility Principle for AI Sub-Agents](https://dev.to/doogal/single-responsibility-principle-for-ai-sub-agents-17md)
+- [I got tired of feeding my expense tracker, so I spent years building one that feeds itself](https://dev.to/vityah1/i-got-tired-of-feeding-my-expense-tracker-so-i-spent-years-building-one-that-feeds-itself-146d)
+- [37/60 Days System Design Interview Questions](https://dev.to/thejoud1997/3760-days-system-design-interview-questions-41o5)
 <!-- BLOG-POST-LIST:END -->
 
 
