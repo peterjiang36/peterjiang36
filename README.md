@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound](https://dev.to/gopichand_dev/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-2b5k)
-- [Demystifying Node.js Architecture: V8, libuv, and the Hidden C++ Bridge](https://dev.to/aabiskar/demystifying-nodejs-architecture-v8-libuv-and-the-hidden-c-bridge-728)
-- [How to Automate A/B Testing Without a Data Scientist: 5 AI Tools for Lean SaaS Teams in 2026](https://dev.to/hellyeahai/how-to-automate-ab-testing-without-a-data-scientist-5-ai-tools-for-lean-saas-teams-in-2026-4l99)
-- [LLM-powered extraction kept silently corrupting my database. Here&#39;s what I built to fix it. tags: node, llm, opensource, api](https://dev.to/joyal_seejo_3ce82377c9324/llm-powered-extraction-kept-silently-corrupting-my-database-heres-what-i-built-to-fix-it-tags-57pj)
+- [Build a tiny MCP server in JavaScript -Claude, Codex friendly](https://dev.to/gaurav101/build-a-tiny-mcp-server-in-javascript-claude-codex-friendly-pbh)
+- [The Places Where the World Becomes Quiet](https://dev.to/admin-forestritium/the-places-where-the-world-becomes-quiet-bj8)
+- [⚡ I Built a Tool That Saves Me 5 Minutes Every Morning](https://dev.to/ihssmaheel/i-built-a-tool-that-saves-me-5-minutes-every-morning-20hb)
+- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-24dm)
 <!-- BLOG-POST-LIST:END -->
 
 
