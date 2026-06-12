@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Asserting Equality: How to Test Agents When Every Run Is Different](https://dev.to/saurav_bhattacharya/stop-asserting-equality-how-to-test-agents-when-every-run-is-different-3024)
-- [One Agent Identity Per Customer: Multi-Tenant Email](https://dev.to/qasim157/one-agent-identity-per-customer-multi-tenant-email-2m4m)
-- [Voice Agents That Follow Up by Email](https://dev.to/qasim157/voice-agents-that-follow-up-by-email-5ej6)
-- [How an AI Agent Can Sign Up for a Service on Its Own](https://dev.to/qasim157/how-an-ai-agent-can-sign-up-for-a-service-on-its-own-53eb)
+- [KTransformers的5个隐藏用法，17K Star的MoE推理框架背后没写在README里的能力](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformersde-5ge-yin-cang-yong-fa-17k-starde-moetui-li-kuang-jia-bei-hou-mei-xie-zai-readmeli-de-neng-li-1cap)
+- [KTransformers: 5 Hidden Uses of the 17K-Star MoE Inference Stack from Tsinghua That 90% of AI Infra Teams Miss in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformers-5-hidden-uses-of-the-17k-star-moe-inference-stack-from-tsinghua-that-90-of-ai-infra-4l87)
+- [The Dev Tools I Actually Use as a Solo Rust + Tauri Developer in 2026](https://dev.to/hiyoyok/the-dev-tools-i-actually-use-as-a-solo-rust-tauri-developer-in-2026-1j3j)
+- [Navigating Schema Shifts: Keeping Your Streaming Pipeline Smooth for Everyone](https://dev.to/aniketsoni/navigating-schema-shifts-keeping-your-streaming-pipeline-smooth-for-everyone-42op)
 <!-- BLOG-POST-LIST:END -->
 
 
