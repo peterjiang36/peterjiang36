@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [KTransformers的5个隐藏用法，17K Star的MoE推理框架背后没写在README里的能力](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformersde-5ge-yin-cang-yong-fa-17k-starde-moetui-li-kuang-jia-bei-hou-mei-xie-zai-readmeli-de-neng-li-1cap)
-- [KTransformers: 5 Hidden Uses of the 17K-Star MoE Inference Stack from Tsinghua That 90% of AI Infra Teams Miss in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformers-5-hidden-uses-of-the-17k-star-moe-inference-stack-from-tsinghua-that-90-of-ai-infra-4l87)
-- [The Dev Tools I Actually Use as a Solo Rust + Tauri Developer in 2026](https://dev.to/hiyoyok/the-dev-tools-i-actually-use-as-a-solo-rust-tauri-developer-in-2026-1j3j)
-- [Navigating Schema Shifts: Keeping Your Streaming Pipeline Smooth for Everyone](https://dev.to/aniketsoni/navigating-schema-shifts-keeping-your-streaming-pipeline-smooth-for-everyone-42op)
+- [Why 60% of Enterprises Are Shipping Untested Code in 2026 &lpar;And How Agentic QA Fixes It&rpar;](https://dev.to/ailoitte_sk/why-60-of-enterprises-are-shipping-untested-code-in-2026-and-how-agentic-qa-fixes-it-53h0)
+- [I built an AI code review GitHub App that tracks your team&#39;s mistake patterns, here&#39;s how](https://dev.to/ahmadmustafa/i-built-an-ai-code-review-github-app-that-tracks-your-teams-mistake-patterns-heres-how-1ni)
+- [Day 23 of Leaning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-23-of-leaning-mern-stack-5f8k)
+- [Why Abstractions Leak](https://dev.to/amrishkhan05/why-abstractions-leak-8ba)
 <!-- BLOG-POST-LIST:END -->
 
 
