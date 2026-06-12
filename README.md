@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a tiny MCP server in JavaScript -Claude, Codex friendly](https://dev.to/gaurav101/build-a-tiny-mcp-server-in-javascript-claude-codex-friendly-pbh)
-- [The Places Where the World Becomes Quiet](https://dev.to/admin-forestritium/the-places-where-the-world-becomes-quiet-bj8)
-- [⚡ I Built a Tool That Saves Me 5 Minutes Every Morning](https://dev.to/ihssmaheel/i-built-a-tool-that-saves-me-5-minutes-every-morning-20hb)
-- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-24dm)
+- [DoorDash&#39;s AI chatbot is a lesson in conversational search](https://dev.to/induwara_ashinsana_9e4d5b/doordashs-ai-chatbot-is-a-lesson-in-conversational-search-n7k)
+- [Streaming Responses with Claude API in Python &lpar;2026&rpar;](https://dev.to/kalyna_pro/streaming-responses-with-claude-api-in-python-2026-44la)
+- [Idle Game Economy Design: What Your Currency Sinks Actually Eat](https://dev.to/sam_novak_574b07811e18495/idle-game-economy-design-what-your-currency-sinks-actually-eat-1non)
+- [Stop Merging Blind: How I Use @code-reviewer Before Every PR](https://dev.to/panditabhis/stop-merging-blind-how-i-use-code-reviewer-before-every-pr-2eji)
 <!-- BLOG-POST-LIST:END -->
 
 
