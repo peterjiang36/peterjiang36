@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why 60% of Enterprises Are Shipping Untested Code in 2026 &lpar;And How Agentic QA Fixes It&rpar;](https://dev.to/ailoitte_sk/why-60-of-enterprises-are-shipping-untested-code-in-2026-and-how-agentic-qa-fixes-it-53h0)
-- [I built an AI code review GitHub App that tracks your team&#39;s mistake patterns, here&#39;s how](https://dev.to/ahmadmustafa/i-built-an-ai-code-review-github-app-that-tracks-your-teams-mistake-patterns-heres-how-1ni)
-- [Day 23 of Leaning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-23-of-leaning-mern-stack-5f8k)
-- [Why Abstractions Leak](https://dev.to/amrishkhan05/why-abstractions-leak-8ba)
+- [UUIDv4 vs UUIDv7 in PostgreSQL: A B-Tree Index Performance Deep Dive](https://dev.to/adil_khan_35649a2ba914bfb/uuidv4-vs-uuidv7-in-postgresql-a-b-tree-index-performance-deep-dive-3f0g)
+- [Where Claude Code Tokens Actually Go &lpar;and How to Cut the Waste&rpar;](https://dev.to/ludoonus/where-claude-code-tokens-actually-go-and-how-to-cut-the-waste-284m)
+- [I got tired of SSH and Loki for four containers, so I built DockLog](https://dev.to/saurav_saini/i-got-tired-of-ssh-and-loki-for-four-containers-so-i-built-docklog-1e94)
+- [¿Deuda Técnica Estratégica o Negligencia? Cómo no autodestruir tu código](https://dev.to/jcmexdev/deuda-tecnica-estrategica-o-negligencia-como-no-autodestruir-tu-codigo-53jf)
 <!-- BLOG-POST-LIST:END -->
 
 
