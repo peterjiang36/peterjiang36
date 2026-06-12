@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DoorDash&#39;s AI chatbot is a lesson in conversational search](https://dev.to/induwara_ashinsana_9e4d5b/doordashs-ai-chatbot-is-a-lesson-in-conversational-search-n7k)
-- [Streaming Responses with Claude API in Python &lpar;2026&rpar;](https://dev.to/kalyna_pro/streaming-responses-with-claude-api-in-python-2026-44la)
-- [Idle Game Economy Design: What Your Currency Sinks Actually Eat](https://dev.to/sam_novak_574b07811e18495/idle-game-economy-design-what-your-currency-sinks-actually-eat-1non)
-- [Stop Merging Blind: How I Use @code-reviewer Before Every PR](https://dev.to/panditabhis/stop-merging-blind-how-i-use-code-reviewer-before-every-pr-2eji)
+- [How HTML WYSIWYG Editors Work Under the Hood](https://dev.to/froala_e3824d66439393cbce/how-html-wysiwyg-editors-work-under-the-hood-3ffo)
+- [Persistent Memory for AI Agents: Running a Memory Sidecar Without Touching Internals](https://dev.to/manoir_yantai_f22f01340f0/persistent-memory-for-ai-agents-running-a-memory-sidecar-without-touching-internals-39hk)
+- [You Don&#39;t Need Another AI Tool—Here&#39;s How to Chain Your Existing Ones](https://dev.to/learnairesource/you-dont-need-another-ai-tool-heres-how-to-chain-your-existing-ones-1fde)
+- [Reading typed config from .env in TypeScript](https://dev.to/materwelondhruv/reading-typed-config-from-env-in-typescript-34cb)
 <!-- BLOG-POST-LIST:END -->
 
 
