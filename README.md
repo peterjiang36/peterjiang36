@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I trained a neural network to break my own encrypted search. It learned nothing.](https://dev.to/zahraarmantech/i-trained-a-neural-network-to-break-my-own-encrypted-search-it-learned-nothing-55f3)
-- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
-- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
-- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
+- [Stop Asserting Equality: How to Test Agents When Every Run Is Different](https://dev.to/saurav_bhattacharya/stop-asserting-equality-how-to-test-agents-when-every-run-is-different-3024)
+- [One Agent Identity Per Customer: Multi-Tenant Email](https://dev.to/qasim157/one-agent-identity-per-customer-multi-tenant-email-2m4m)
+- [Voice Agents That Follow Up by Email](https://dev.to/qasim157/voice-agents-that-follow-up-by-email-5ej6)
+- [How an AI Agent Can Sign Up for a Service on Its Own](https://dev.to/qasim157/how-an-ai-agent-can-sign-up-for-a-service-on-its-own-53eb)
 <!-- BLOG-POST-LIST:END -->
 
 
