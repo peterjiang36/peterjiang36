@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Remote Already Exists: What &quot;Click&quot; Got Right About Agentic AI](https://dev.to/alexmercedcoder/the-remote-already-exists-what-click-got-right-about-agentic-ai-1d97)
-- [Your MCP server will drift from your app. Here&#39;s a build gate that stops it.](https://dev.to/alimaherofficial/your-mcp-server-will-drift-from-your-app-heres-a-build-gate-that-stops-it-454m)
-- [Astro 5 content collections as an editorial layer in a programmatic site](https://dev.to/morinaga/astro-5-content-collections-as-an-editorial-layer-in-a-programmatic-site-14ik)
-- [The Agent Gets the API Key. You Get the Guinea Pig Seat.](https://dev.to/zep1997/the-agent-gets-the-api-key-you-get-the-guinea-pig-seat-3mii)
+- [skillscore: a CLI that scores your AI agent&#39;s SKILL.md 0–100](https://dev.to/sayed_ali_alkamel/skillscore-a-cli-that-scores-your-ai-agents-skillmd-0-100-48l1)
+- [Perfect Is the Enemy of Done — and I Learned That the Hard Way](https://dev.to/928builds/perfect-is-the-enemy-of-done-and-i-learned-that-the-hard-way-2pa)
+- [DynamoDB and SQS containers with Docker Compose](https://dev.to/zsevic/dynamodb-and-sqs-containers-with-docker-compose-4a95)
+- [&quot;Can we just add login?&quot; — a 4-way system for client change requests that don&#39;t eat your margin](https://dev.to/projectnomad/can-we-just-add-login-a-4-way-system-for-client-change-requests-that-dont-eat-your-margin-2n6b)
 <!-- BLOG-POST-LIST:END -->
 
 
