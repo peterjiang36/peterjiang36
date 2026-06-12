@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML-First Websites Are Quietly Winning Again in 2026](https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0)
-- [Rebuilding the Hull at Sea](https://dev.to/p4r4n0id/rebuilding-the-hull-at-sea-13ek)
-- [Blazor SSR Gets Client-Side Validation in .NET 11 Preview 5 — No More Round-Trips Just to Show a Red Border](https://dev.to/vikrant_bagal_afae3e25ca7/blazor-ssr-gets-client-side-validation-in-net-11-preview-5-no-more-round-trips-just-to-show-a-5mp)
-- [DiffusionGemma: How Google&#39;s New Open LLM Hits 1,000 Tokens/sec and Changes Inference Economics](https://dev.to/sayed_ali_alkamel/diffusiongemma-how-googles-new-open-llm-hits-1000-tokenssec-and-changes-inference-economics-4587)
+- [.NET 11 vs .NET 10: We Benchmarked Both on a Real Production App &lpar;Should You Upgrade?&rpar;](https://dev.to/kirandeepjassalcrypto/net-11-vs-net-10-we-benchmarked-both-on-a-real-production-app-should-you-upgrade-5goh)
+- [Most beginners misuse these Git branch commands: main, checkout -b, switch -c, and push -u explained](https://dev.to/cristian-jonhson/stop-using-git-branch-commands-blindly-main-checkout-b-switch-c-and-push-u-explained-1kol)
+- [Web Testing in 2026 Is Less About Tools and More About Trust](https://dev.to/orbitpickle307/web-testing-in-2026-is-less-about-tools-and-more-about-trust-7a3)
+- [I Built an AI Symptom Tracker That Generates Doctor-Ready Reports](https://dev.to/kyisaiah47/i-built-an-ai-symptom-tracker-that-generates-doctor-ready-reports-3o26)
 <!-- BLOG-POST-LIST:END -->
 
 
