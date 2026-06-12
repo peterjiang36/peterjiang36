@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Road To KiwiEngine #16: Why KiwiEngine Is Becoming An Ecosystem](https://dev.to/stinklewinks/road-to-kiwiengine-16-why-kiwiengine-is-becoming-an-ecosystem-92m)
-- [Single Responsibility Principle for AI Sub-Agents](https://dev.to/doogal/single-responsibility-principle-for-ai-sub-agents-17md)
-- [I got tired of feeding my expense tracker, so I spent years building one that feeds itself](https://dev.to/vityah1/i-got-tired-of-feeding-my-expense-tracker-so-i-spent-years-building-one-that-feeds-itself-146d)
-- [37/60 Days System Design Interview Questions](https://dev.to/thejoud1997/3760-days-system-design-interview-questions-41o5)
+- [HTML-First Websites Are Quietly Winning Again in 2026](https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0)
+- [Rebuilding the Hull at Sea](https://dev.to/p4r4n0id/rebuilding-the-hull-at-sea-13ek)
+- [Blazor SSR Gets Client-Side Validation in .NET 11 Preview 5 — No More Round-Trips Just to Show a Red Border](https://dev.to/vikrant_bagal_afae3e25ca7/blazor-ssr-gets-client-side-validation-in-net-11-preview-5-no-more-round-trips-just-to-show-a-5mp)
+- [DiffusionGemma: How Google&#39;s New Open LLM Hits 1,000 Tokens/sec and Changes Inference Economics](https://dev.to/sayed_ali_alkamel/diffusiongemma-how-googles-new-open-llm-hits-1000-tokenssec-and-changes-inference-economics-4587)
 <!-- BLOG-POST-LIST:END -->
 
 
