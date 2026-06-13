@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mixture of Experts &lpar;MoE&rpar;: what it actually does under the hood, and when it pays off](https://dev.to/tech_nuggets/mixture-of-experts-moe-what-it-actually-does-under-the-hood-and-when-it-pays-off-alb)
-- [Tauri v2 Cheatsheet — The Commands I Use on Every Project](https://dev.to/hiyoyok/tauri-v2-cheatsheet-the-commands-i-use-on-every-project-2o88)
-- [No Suggest - distraction-free YouTube client](https://dev.to/vj_2_108/no-suggest-distraction-free-youtube-client-9p7)
-- [Run a script every day at a set time with Apps Script](https://dev.to/bulldo_gs/run-a-script-every-day-at-a-set-time-with-apps-script-3kp9)
+- [一個很小但很好用的 zsh 技巧：修改上一個指令](https://dev.to/kennethlum/ge-hen-xiao-dan-hen-hao-yong-de-zsh-ji-qiao-xiu-gai-shang-ge-zhi-ling-3iei)
+- [A Tiny zsh Trick: Modify Your Last Command](https://dev.to/kennethlum/a-tiny-zsh-trick-modify-your-last-command-4lic)
+- [AI supply-chain alert: US export controls disable Claude Fable 5 &amp; Mythos 5 globally](https://dev.to/etairos/ai-supply-chain-alert-us-export-controls-disable-claude-fable-5-mythos-5-globally-3njf)
+- [I Checked Why Claude Fable 5 Was Suspended 4 Days After Launch. This Is Not an Outage.](https://dev.to/tokenmixai/i-checked-why-claude-fable-5-was-suspended-4-days-after-launch-this-is-not-an-outage-54f2)
 <!-- BLOG-POST-LIST:END -->
 
 
