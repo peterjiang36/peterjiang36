@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Bugs That Taught Me More Than Any Tutorial](https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7)
-- [KeepAI: a local, open-source API hub that lets AI agents use your apps safely](https://dev.to/keepai/keepai-a-local-open-source-api-hub-that-lets-ai-agents-use-your-apps-safely-a6i)
-- [From idea to paying customers: building an AI changelog tool with Angular 21](https://dev.to/harrypt4/from-idea-to-paying-customers-building-an-ai-changelog-tool-with-angular-21-19cm)
-- [Iterative Security Audit: 45 Probes, 0 Critical, 6 Regression Tests Kept](https://dev.to/ohugonnot/iterative-security-audit-45-probes-0-critical-6-regression-tests-kept-3j2g)
+- [JSON or XML Tags for LLM Output: The Format That Holds Under Pressure](https://dev.to/gabrielanhaia/json-or-xml-tags-for-llm-output-the-format-that-holds-under-pressure-3ki8)
+- [MediaPipe Hand Tracking &amp; Face Detection in JavaScript](https://dev.to/metsander/mediapipe-hand-tracking-face-detection-in-javascript-47oh)
+- [Agentic AI for the EU AI Act 🇪🇺](https://dev.to/f2010126/agentic-ai-for-the-eu-ai-act-1e1i)
+- [[System Design] GPS Location Ingestion at Scale: gRPC Streaming, MQTT &amp; Kalman Filter in Ride-Hailing](https://dev.to/vesviet/system-design-gps-location-ingestion-at-scale-grpc-streaming-mqtt-kalman-filter-in-3pm)
 <!-- BLOG-POST-LIST:END -->
 
 
