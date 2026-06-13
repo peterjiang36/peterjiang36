@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The case for deterministic PDF filling](https://dev.to/pdfops/the-case-for-deterministic-pdf-filling-2oo0)
-- [How I built a flash-sale engine that can&#39;t oversell](https://dev.to/m_rayhankhan_71c3f2ed50c/how-i-built-a-flash-sale-engine-that-cant-oversell-even-at-1000-concurrent-buyers-34p5)
-- [Three decisions behind a music-to-curator matching score](https://dev.to/satoshi_and_claude/three-decisions-behind-a-music-to-curator-matching-score-4903)
-- [TryHackMe - VulnNet Writeup](https://dev.to/exploitnotes/tryhackme-vulnnet-writeup-5e2g)
+- [The Most Expensive Bug in Software Development Is Poor Communication](https://dev.to/adarshinternx/the-most-expensive-bug-in-software-development-is-poor-communication-3gk6)
+- [Magento AI Brand Visibility: Does ChatGPT Recommend Your Store?](https://dev.to/angeo/magento-ai-brand-visibility-does-chatgpt-recommend-your-store-4j10)
+- [Demystifying Go Concurrency: What Real-Time Strategy Games Taught Me About Goroutines](https://dev.to/enzora/demystifying-go-concurrency-what-real-time-strategy-games-taught-me-about-goroutines-5hmg)
+- [I Built a Free Sleep Calculator in Pure HTML/CSS/JS — No Frameworks, No Libraries, 98 Desktop Speed](https://dev.to/ramesh_sah_288c57352f1451/i-built-a-free-sleep-calculator-in-pure-htmlcssjs-no-frameworks-no-libraries-98-desktop-speed-37ka)
 <!-- BLOG-POST-LIST:END -->
 
 
