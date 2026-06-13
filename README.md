@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Most Expensive Bug in Software Development Is Poor Communication](https://dev.to/adarshinternx/the-most-expensive-bug-in-software-development-is-poor-communication-3gk6)
-- [Magento AI Brand Visibility: Does ChatGPT Recommend Your Store?](https://dev.to/angeo/magento-ai-brand-visibility-does-chatgpt-recommend-your-store-4j10)
-- [Demystifying Go Concurrency: What Real-Time Strategy Games Taught Me About Goroutines](https://dev.to/enzora/demystifying-go-concurrency-what-real-time-strategy-games-taught-me-about-goroutines-5hmg)
-- [I Built a Free Sleep Calculator in Pure HTML/CSS/JS — No Frameworks, No Libraries, 98 Desktop Speed](https://dev.to/ramesh_sah_288c57352f1451/i-built-a-free-sleep-calculator-in-pure-htmlcssjs-no-frameworks-no-libraries-98-desktop-speed-37ka)
+- [Two Bugs That Taught Me More Than Any Tutorial](https://dev.to/clinztouch/two-bugs-that-taught-me-more-than-any-tutorial-2jh7)
+- [KeepAI: a local, open-source API hub that lets AI agents use your apps safely](https://dev.to/keepai/keepai-a-local-open-source-api-hub-that-lets-ai-agents-use-your-apps-safely-a6i)
+- [From idea to paying customers: building an AI changelog tool with Angular 21](https://dev.to/harrypt4/from-idea-to-paying-customers-building-an-ai-changelog-tool-with-angular-21-19cm)
+- [Iterative Security Audit: 45 Probes, 0 Critical, 6 Regression Tests Kept](https://dev.to/ohugonnot/iterative-security-audit-45-probes-0-critical-6-regression-tests-kept-3j2g)
 <!-- BLOG-POST-LIST:END -->
 
 
