@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [skillscore: a CLI that scores your AI agent&#39;s SKILL.md 0–100](https://dev.to/sayed_ali_alkamel/skillscore-a-cli-that-scores-your-ai-agents-skillmd-0-100-48l1)
-- [Perfect Is the Enemy of Done — and I Learned That the Hard Way](https://dev.to/928builds/perfect-is-the-enemy-of-done-and-i-learned-that-the-hard-way-2pa)
-- [DynamoDB and SQS containers with Docker Compose](https://dev.to/zsevic/dynamodb-and-sqs-containers-with-docker-compose-4a95)
-- [&quot;Can we just add login?&quot; — a 4-way system for client change requests that don&#39;t eat your margin](https://dev.to/projectnomad/can-we-just-add-login-a-4-way-system-for-client-change-requests-that-dont-eat-your-margin-2n6b)
+- [Mixture of Experts &lpar;MoE&rpar;: what it actually does under the hood, and when it pays off](https://dev.to/tech_nuggets/mixture-of-experts-moe-what-it-actually-does-under-the-hood-and-when-it-pays-off-alb)
+- [Tauri v2 Cheatsheet — The Commands I Use on Every Project](https://dev.to/hiyoyok/tauri-v2-cheatsheet-the-commands-i-use-on-every-project-2o88)
+- [No Suggest - distraction-free YouTube client](https://dev.to/vj_2_108/no-suggest-distraction-free-youtube-client-9p7)
+- [Run a script every day at a set time with Apps Script](https://dev.to/bulldo_gs/run-a-script-every-day-at-a-set-time-with-apps-script-3kp9)
 <!-- BLOG-POST-LIST:END -->
 
 
