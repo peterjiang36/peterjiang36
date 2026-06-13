@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cookie That Never Expires](https://dev.to/wadco/the-cookie-that-never-expires-4677)
-- [x64 Windows Assembly Fundamentals Part 2: Learning the Language](https://dev.to/mirrai/x64-windows-assembly-fundamentals-part-2-learning-the-language-c9c)
-- [Astrophysics &amp; AI with Python: The Ultimate Guide to Julian Dates and Sidereal Time](https://dev.to/programmingcentral/astrophysics-ai-with-python-the-ultimate-guide-to-julian-dates-and-sidereal-time-4c21)
-- [Best Monitoring Tools for Startups in 2026: From Side Project to Series A](https://dev.to/devhelm/best-monitoring-tools-for-startups-in-2026-from-side-project-to-series-a-1647)
+- [TypeScript: Interfaces](https://dev.to/yuripeixinho/typescript-interfaces-482g)
+- [Translate Infrastructure Errors at the Adapter, Not in Your Domain](https://dev.to/gabrielanhaia/translate-infrastructure-errors-at-the-adapter-not-in-your-domain-5224)
+- [Install last30days-skill Research the Last 30 Days of the Internet: Installing last30days on Hermes Agent](https://dev.to/0xkoji/install-last30days-skill-research-the-last-30-days-of-the-internet-installing-last30days-on-hermes-51j6)
+- [I Built 135 Free Browser Tools — No Ads, No Sign-Up, No Tracking](https://dev.to/jorresss/i-built-135-free-browser-tools-no-ads-no-sign-up-no-tracking-32d)
 <!-- BLOG-POST-LIST:END -->
 
 
