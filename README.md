@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON or XML Tags for LLM Output: The Format That Holds Under Pressure](https://dev.to/gabrielanhaia/json-or-xml-tags-for-llm-output-the-format-that-holds-under-pressure-3ki8)
-- [MediaPipe Hand Tracking &amp; Face Detection in JavaScript](https://dev.to/metsander/mediapipe-hand-tracking-face-detection-in-javascript-47oh)
-- [Agentic AI for the EU AI Act 🇪🇺](https://dev.to/f2010126/agentic-ai-for-the-eu-ai-act-1e1i)
-- [[System Design] GPS Location Ingestion at Scale: gRPC Streaming, MQTT &amp; Kalman Filter in Ride-Hailing](https://dev.to/vesviet/system-design-gps-location-ingestion-at-scale-grpc-streaming-mqtt-kalman-filter-in-3pm)
+- [Support Threads That Span Days: Agent Memory via Email](https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj)
+- [I Shipped One Messy Python Script. Here&#39;s the 10-Point Checklist That Got It There.](https://dev.to/2glitch/i-shipped-one-messy-python-script-heres-the-10-point-checklist-that-got-it-there-58jo)
+- [Event Reminders From an Agent&#39;s Calendar](https://dev.to/qasim157/event-reminders-from-an-agents-calendar-5b6c)
+- [Meeting Follow-Ups Without a Human in the Loop](https://dev.to/qasim157/meeting-follow-ups-without-a-human-in-the-loop-1m84)
 <!-- BLOG-POST-LIST:END -->
 
 
