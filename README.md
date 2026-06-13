@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JSONata Explained: Query and Transform JSON Without the Boilerplate](https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8)
-- [Wiring the Guardrails](https://dev.to/diyaburman/wiring-the-guardrails-3l45)
-- [3 Finance-Themed UI Concepts I Built Recently &lpar;Free to Use&rpar;](https://dev.to/puzzleheaded67/3-finance-themed-ui-concepts-i-built-recently-free-to-use-592j)
-- [Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit](https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85)
+- [Automating Code Reviews with GitHub Actions and OpenAI](https://dev.to/farukh/automating-code-reviews-with-github-actions-and-openai-3h29)
+- [The $47K Mistake: What Your Fractional CTO Should Audit Before Lock-In](https://dev.to/elenarevicheva/the-47k-mistake-what-your-fractional-cto-should-audit-before-lock-in-1kbe)
+- [How to Choose the Right DevOps as a Service Provider](https://dev.to/devopsaitoolkit/how-to-choose-the-right-devops-as-a-service-provider-466l)
+- [Building a Multi-Source Threat Intelligence Correlation Engine in Python](https://dev.to/platinum2high/building-a-multi-source-threat-intelligence-correlation-engine-in-python-4e2g)
 <!-- BLOG-POST-LIST:END -->
 
 
