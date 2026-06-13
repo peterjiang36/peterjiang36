@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip](https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1)
-- [CRM Enrichment From an Agent-Owned Inbox](https://dev.to/qasim157/crm-enrichment-from-an-agent-owned-inbox-3k66)
-- [E-Commerce Order Support With an Agent Mailbox](https://dev.to/qasim157/e-commerce-order-support-with-an-agent-mailbox-1gjk)
-- [Monitor a Support Inbox and Open Tickets Automatically](https://dev.to/qasim157/monitor-a-support-inbox-and-open-tickets-automatically-2k3n)
+- [The Data Scientist&#39;s Guide to AI Summarization in 2026](https://dev.to/gentlenode/the-data-scientists-guide-to-ai-summarization-in-2026-f4j)
+- [Securing Financial APIs in 2026: Implementing Global Request Interceptors and Automated Audit Trails in Spring Boot](https://dev.to/apeh1706/securing-financial-apis-in-2026-implementing-global-request-interceptors-and-automated-audit-4g26)
+- [Hice un centro de búsqueda de empleo local-first — sin nube, sin telemetría](https://dev.to/sergey_emelyanov/hice-un-centro-de-busqueda-de-empleo-local-first-sin-nube-sin-telemetria-2ji8)
+- [A Scatter-Plot Explorer for World Statistics — Log Scales and Hand-Rolled Pearson Correlation](https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m)
 <!-- BLOG-POST-LIST:END -->
 
 
