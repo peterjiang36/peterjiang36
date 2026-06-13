@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [一個很小但很好用的 zsh 技巧：修改上一個指令](https://dev.to/kennethlum/ge-hen-xiao-dan-hen-hao-yong-de-zsh-ji-qiao-xiu-gai-shang-ge-zhi-ling-3iei)
-- [A Tiny zsh Trick: Modify Your Last Command](https://dev.to/kennethlum/a-tiny-zsh-trick-modify-your-last-command-4lic)
-- [AI supply-chain alert: US export controls disable Claude Fable 5 &amp; Mythos 5 globally](https://dev.to/etairos/ai-supply-chain-alert-us-export-controls-disable-claude-fable-5-mythos-5-globally-3njf)
-- [I Checked Why Claude Fable 5 Was Suspended 4 Days After Launch. This Is Not an Outage.](https://dev.to/tokenmixai/i-checked-why-claude-fable-5-was-suspended-4-days-after-launch-this-is-not-an-outage-54f2)
+- [The case for deterministic PDF filling](https://dev.to/pdfops/the-case-for-deterministic-pdf-filling-2oo0)
+- [How I built a flash-sale engine that can&#39;t oversell](https://dev.to/m_rayhankhan_71c3f2ed50c/how-i-built-a-flash-sale-engine-that-cant-oversell-even-at-1000-concurrent-buyers-34p5)
+- [Three decisions behind a music-to-curator matching score](https://dev.to/satoshi_and_claude/three-decisions-behind-a-music-to-curator-matching-score-4903)
+- [TryHackMe - VulnNet Writeup](https://dev.to/exploitnotes/tryhackme-vulnnet-writeup-5e2g)
 <!-- BLOG-POST-LIST:END -->
 
 
