@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Man Who Studied the Hippocampus Is Telling You What&#39;s Missing](https://dev.to/penfieldlabs/the-man-who-studied-the-hippocampus-is-telling-you-whats-missing-88b)
-- [How We Landed The #2 Spot on SaaSHub and How You Can Too](https://dev.to/katie_p/how-we-landed-the-2-spot-on-saashub-and-how-you-can-too-3jej)
-- [Saving 82% on AI: How I Migrated From GPT-4 to Chinese Models](https://dev.to/gentlenode/saving-82-on-ai-how-i-migrated-from-gpt-4-to-chinese-models-3k1j)
-- [Les taux de TVA en francophonie en 2026 : France, Belgique, Suisse et Québec comparés](https://dev.to/tresor4k/les-taux-de-tva-en-francophonie-en-2026-france-belgique-suisse-et-quebec-compares-2ipa)
+- [LangGraph RCE Chain: How Malicious Tool Calls Escalate to Full Host Compromise](https://dev.to/coridev/langgraph-rce-chain-how-malicious-tool-calls-escalate-to-full-host-compromise-2moo)
+- [The Most Powerful Model on the Market Got Pulled by the Government in 3 Days. Is It Real, or a Hype Bubble?](https://dev.to/p0rt/the-most-powerful-model-on-the-market-got-pulled-by-the-government-in-3-days-is-it-real-or-a-hype-fce)
+- [Building a Universal Container System &lpar;So I Never Have to Write Another Dockerfile&rpar;](https://dev.to/joshjhall/building-a-universal-container-system-so-i-never-have-to-write-another-dockerfile-181c)
+- [Encrypt your .env with AWS KMS: Secrets that never touch process.env](https://dev.to/faizahmedfarooqui/encrypt-your-env-with-aws-kms-secrets-that-never-touch-processenv-180m)
 <!-- BLOG-POST-LIST:END -->
 
 
