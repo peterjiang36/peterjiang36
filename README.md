@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Which sentence on your SaaS homepage is hardest to write?](https://dev.to/mt211211/which-sentence-on-your-saas-homepage-is-hardest-to-write-1dgl)
-- [Teach Your Agent to Forget &lpar;On Purpose&rpar;](https://dev.to/lovestaco/teach-your-agent-to-forget-on-purpose-38dh)
-- [Java Solution - LeetCode Problem 1 Two Sum](https://dev.to/vkrishna2090/java-solution-leetcode-problem-1-two-sum-5enk)
-- [Fable 5 and Mythos 5 Are Gone: What Developers Should Do Right Now](https://dev.to/tonyspiro/fable-5-and-mythos-5-are-gone-what-developers-should-do-right-now-650)
+- [JSONata Explained: Query and Transform JSON Without the Boilerplate](https://dev.to/moksh/jsonata-explained-query-and-transform-json-without-the-boilerplate-50g8)
+- [Wiring the Guardrails](https://dev.to/diyaburman/wiring-the-guardrails-3l45)
+- [3 Finance-Themed UI Concepts I Built Recently &lpar;Free to Use&rpar;](https://dev.to/puzzleheaded67/3-finance-themed-ui-concepts-i-built-recently-free-to-use-592j)
+- [Stop Over-Engineering React State: When to Choose Zustand Over Redux Toolkit](https://dev.to/digitalinnovations/stop-over-engineering-react-state-when-to-choose-zustand-over-redux-toolkit-3o85)
 <!-- BLOG-POST-LIST:END -->
 
 
