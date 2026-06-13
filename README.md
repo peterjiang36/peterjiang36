@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Support Threads That Span Days: Agent Memory via Email](https://dev.to/qasim157/support-threads-that-span-days-agent-memory-via-email-29oj)
-- [I Shipped One Messy Python Script. Here&#39;s the 10-Point Checklist That Got It There.](https://dev.to/2glitch/i-shipped-one-messy-python-script-heres-the-10-point-checklist-that-got-it-there-58jo)
-- [Event Reminders From an Agent&#39;s Calendar](https://dev.to/qasim157/event-reminders-from-an-agents-calendar-5b6c)
-- [Meeting Follow-Ups Without a Human in the Loop](https://dev.to/qasim157/meeting-follow-ups-without-a-human-in-the-loop-1m84)
+- [⚠️ The Kotlin Multiplatform division-by-zero trap](https://dev.to/kotools/the-kotlin-multiplatform-division-by-zero-trap-4jpn)
+- [SELECT FINAL and OPTIMIZE FINAL Are Not the Same Thing](https://dev.to/mohhddhassan/select-final-and-optimize-final-are-not-the-same-thing-7ak)
+- [System Prompt Leakage vs Prompt Injection in Spring Boot AI](https://dev.to/securitystefan/system-prompt-leakage-vs-prompt-injection-in-spring-boot-ai-56eh)
+- [Is it possible overload a AI as a Service with multiples requests ?](https://dev.to/sc0v0ne/is-it-possible-overload-a-ai-as-a-service-with-multiples-requests--2imd)
 <!-- BLOG-POST-LIST:END -->
 
 
