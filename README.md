@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LangGraph RCE Chain: How Malicious Tool Calls Escalate to Full Host Compromise](https://dev.to/coridev/langgraph-rce-chain-how-malicious-tool-calls-escalate-to-full-host-compromise-2moo)
-- [The Most Powerful Model on the Market Got Pulled by the Government in 3 Days. Is It Real, or a Hype Bubble?](https://dev.to/p0rt/the-most-powerful-model-on-the-market-got-pulled-by-the-government-in-3-days-is-it-real-or-a-hype-fce)
-- [Building a Universal Container System &lpar;So I Never Have to Write Another Dockerfile&rpar;](https://dev.to/joshjhall/building-a-universal-container-system-so-i-never-have-to-write-another-dockerfile-181c)
-- [Encrypt your .env with AWS KMS: Secrets that never touch process.env](https://dev.to/faizahmedfarooqui/encrypt-your-env-with-aws-kms-secrets-that-never-touch-processenv-180m)
+- [An Itty Bitty Aster Plotter problem...](https://dev.to/dotdashnotdot/an-itty-bitty-aster-plotter-problem-23dk)
+- [Azure Application Insights: Monitoring, KQL Queries and Observability in Production](https://dev.to/manoharij/azure-application-insights-monitoring-kql-queries-and-observability-in-production-2nac)
+- [Truthful AI Under Pressure: What Kradle.AI Might Reveal About Fable 5](https://dev.to/jula-markova/truthful-ai-under-pressure-what-kradleai-might-reveal-about-fable-5-97h)
+- [SQLite in a Tauri v2 App — Simple, Reliable, Zero Regrets](https://dev.to/hiyoyok/sqlite-in-a-tauri-v2-app-simple-reliable-zero-regrets-391h)
 <!-- BLOG-POST-LIST:END -->
 
 
