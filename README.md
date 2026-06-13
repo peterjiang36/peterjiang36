@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An Itty Bitty Aster Plotter problem...](https://dev.to/dotdashnotdot/an-itty-bitty-aster-plotter-problem-23dk)
-- [Azure Application Insights: Monitoring, KQL Queries and Observability in Production](https://dev.to/manoharij/azure-application-insights-monitoring-kql-queries-and-observability-in-production-2nac)
-- [Truthful AI Under Pressure: What Kradle.AI Might Reveal About Fable 5](https://dev.to/jula-markova/truthful-ai-under-pressure-what-kradleai-might-reveal-about-fable-5-97h)
-- [SQLite in a Tauri v2 App — Simple, Reliable, Zero Regrets](https://dev.to/hiyoyok/sqlite-in-a-tauri-v2-app-simple-reliable-zero-regrets-391h)
+- [A Meal Planner &amp; Grocery Shopping Agent in Typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/a-meal-planner-grocery-shopping-agent-in-typescript-with-hazeljs-43b1)
+- [How to Build a LinkedIn Profile Scraper: The Honest Technical Guide](https://dev.to/odeeb/how-to-build-a-linkedin-profile-scraper-the-honest-technical-guide-3dhf)
+- [The SEC EDGAR API: A Practical Guide to Free Filing Data in Python](https://dev.to/odeeb/the-sec-edgar-api-a-practical-guide-to-free-filing-data-in-python-15b)
+- [Building a Global Career Opportunity Simulator Using World Bank and ESCO Data](https://dev.to/futureforge2026/building-a-global-career-opportunity-simulator-using-world-bank-and-esco-data-fmo)
 <!-- BLOG-POST-LIST:END -->
 
 
