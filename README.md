@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Code Reviews with GitHub Actions and OpenAI](https://dev.to/farukh/automating-code-reviews-with-github-actions-and-openai-3h29)
-- [The $47K Mistake: What Your Fractional CTO Should Audit Before Lock-In](https://dev.to/elenarevicheva/the-47k-mistake-what-your-fractional-cto-should-audit-before-lock-in-1kbe)
-- [How to Choose the Right DevOps as a Service Provider](https://dev.to/devopsaitoolkit/how-to-choose-the-right-devops-as-a-service-provider-466l)
-- [Building a Multi-Source Threat Intelligence Correlation Engine in Python](https://dev.to/platinum2high/building-a-multi-source-threat-intelligence-correlation-engine-in-python-4e2g)
+- [The Cookie That Never Expires](https://dev.to/wadco/the-cookie-that-never-expires-4677)
+- [x64 Windows Assembly Fundamentals Part 2: Learning the Language](https://dev.to/mirrai/x64-windows-assembly-fundamentals-part-2-learning-the-language-c9c)
+- [Astrophysics &amp; AI with Python: The Ultimate Guide to Julian Dates and Sidereal Time](https://dev.to/programmingcentral/astrophysics-ai-with-python-the-ultimate-guide-to-julian-dates-and-sidereal-time-4c21)
+- [Best Monitoring Tools for Startups in 2026: From Side Project to Series A](https://dev.to/devhelm/best-monitoring-tools-for-startups-in-2026-from-side-project-to-series-a-1647)
 <!-- BLOG-POST-LIST:END -->
 
 
