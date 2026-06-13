@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [⚠️ The Kotlin Multiplatform division-by-zero trap](https://dev.to/kotools/the-kotlin-multiplatform-division-by-zero-trap-4jpn)
-- [SELECT FINAL and OPTIMIZE FINAL Are Not the Same Thing](https://dev.to/mohhddhassan/select-final-and-optimize-final-are-not-the-same-thing-7ak)
-- [System Prompt Leakage vs Prompt Injection in Spring Boot AI](https://dev.to/securitystefan/system-prompt-leakage-vs-prompt-injection-in-spring-boot-ai-56eh)
-- [Is it possible overload a AI as a Service with multiples requests ?](https://dev.to/sc0v0ne/is-it-possible-overload-a-ai-as-a-service-with-multiples-requests--2imd)
+- [The Man Who Studied the Hippocampus Is Telling You What&#39;s Missing](https://dev.to/penfieldlabs/the-man-who-studied-the-hippocampus-is-telling-you-whats-missing-88b)
+- [How We Landed The #2 Spot on SaaSHub and How You Can Too](https://dev.to/katie_p/how-we-landed-the-2-spot-on-saashub-and-how-you-can-too-3jej)
+- [Saving 82% on AI: How I Migrated From GPT-4 to Chinese Models](https://dev.to/gentlenode/saving-82-on-ai-how-i-migrated-from-gpt-4-to-chinese-models-3k1j)
+- [Les taux de TVA en francophonie en 2026 : France, Belgique, Suisse et Québec comparés](https://dev.to/tresor4k/les-taux-de-tva-en-francophonie-en-2026-france-belgique-suisse-et-quebec-compares-2ipa)
 <!-- BLOG-POST-LIST:END -->
 
 
