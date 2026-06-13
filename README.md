@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript: Interfaces](https://dev.to/yuripeixinho/typescript-interfaces-482g)
-- [Translate Infrastructure Errors at the Adapter, Not in Your Domain](https://dev.to/gabrielanhaia/translate-infrastructure-errors-at-the-adapter-not-in-your-domain-5224)
-- [Install last30days-skill Research the Last 30 Days of the Internet: Installing last30days on Hermes Agent](https://dev.to/0xkoji/install-last30days-skill-research-the-last-30-days-of-the-internet-installing-last30days-on-hermes-51j6)
-- [I Built 135 Free Browser Tools — No Ads, No Sign-Up, No Tracking](https://dev.to/jorresss/i-built-135-free-browser-tools-no-ads-no-sign-up-no-tracking-32d)
+- [Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip](https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1)
+- [CRM Enrichment From an Agent-Owned Inbox](https://dev.to/qasim157/crm-enrichment-from-an-agent-owned-inbox-3k66)
+- [E-Commerce Order Support With an Agent Mailbox](https://dev.to/qasim157/e-commerce-order-support-with-an-agent-mailbox-1gjk)
+- [Monitor a Support Inbox and Open Tickets Automatically](https://dev.to/qasim157/monitor-a-support-inbox-and-open-tickets-automatically-2k3n)
 <!-- BLOG-POST-LIST:END -->
 
 
