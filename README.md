@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to give Claude &lpar;or Cursor&rpar; access to your Rails app&#39;s activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)
-- [Your senior engineer just gave notice. Most of what they knew was in the repos all along.](https://dev.to/danielwe/your-senior-engineer-just-gave-notice-most-of-what-they-knew-was-in-the-repos-all-along-l52)
-- [CQRS+ES: The Pubsub Bridge for Command Outcomes and Atomic Audit Logging](https://dev.to/ohugonnot/cqrses-the-pubsub-bridge-for-command-outcomes-and-atomic-audit-logging-5dgi)
-- [Great Stack to Doesn&#39;t Work #9 — Distributed Tracing: &quot;Why Does This Request Take 3 Seconds?&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-9-distributed-tracing-why-does-this-request-take-3-seconds-47ch)
+- [Decoding Hoisting in JS](https://dev.to/annapoo/decoding-hoisting-in-js-gkp)
+- [More about function in JS](https://dev.to/annapoo/more-about-function-in-js-5b19)
+- [I Built an AI System Design Coach — Clone It, Try It, Break It](https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b)
+- [A Docker Build Failure That Had Nothing to Do With Docker](https://dev.to/urmajesty516/a-docker-build-failure-that-had-nothing-to-do-with-docker-4o24)
 <!-- BLOG-POST-LIST:END -->
 
 
