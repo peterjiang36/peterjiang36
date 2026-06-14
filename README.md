@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a fleet of self-hosted LLM agents trustworthy](https://dev.to/defilan/making-a-fleet-of-self-hosted-llm-agents-trustworthy-49e4)
-- [How to Choose the Right Color Palette for UI/UX Design](https://dev.to/pasindu_tsx/how-to-choose-the-right-color-palette-for-uiux-design-3p30)
-- [Cognitive Debt: The Hidden Cost of Letting AI Write Your Code](https://dev.to/moksh/cognitive-debt-the-hidden-cost-of-letting-ai-write-your-code-5d5c)
-- [Blast Radius of an AI Agent&#39;s API Key: Score It in 40 Lines](https://dev.to/alex_spinov/blast-radius-of-an-ai-agents-api-key-score-it-in-40-lines-3b)
+- [Starting My LFX Mentorship Journey: Building Contributor Identity Verification for Hiero](https://dev.to/darshit2308/starting-my-lfx-mentorship-journey-building-contributor-identity-verification-for-hiero-583)
+- [I stopped telling ChatGPT to &#39;fix it.&#39; Here&#39;s the 4-part prompt I use instead.](https://dev.to/gidschge/i-stopped-telling-chatgpt-to-fix-it-heres-the-4-part-prompt-i-use-instead-2he5)
+- [The Rule Held. The Boundary Moved Up. AI Memory Judgment, CLAIM-31: Verified Carryover Across Closes](https://dev.to/zep1997/the-rule-held-the-boundary-moved-up-ai-memory-judgment-claim-31-verified-carryover-11if)
+- [Microsoft AI Agent Architecture in 2026: A Decision Framework for Copilot Studio, Foundry, Agent Framework, and Logic Apps](https://dev.to/shakti_mishra_308e9f36b5d/microsoft-ai-agent-architecture-in-2026-a-decision-framework-for-copilot-studio-foundry-agent-582h)
 <!-- BLOG-POST-LIST:END -->
 
 
