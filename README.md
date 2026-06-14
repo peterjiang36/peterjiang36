@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Responding to a Compromised AWS Access Key](https://dev.to/mariogongora/responding-to-a-compromised-aws-access-key-1ji3)
-- [LifeLine Loop — AI-Powered Food Rescue Platform](https://dev.to/suhanayadav4/lifeline-loop-ai-powered-food-rescue-platform-3j65)
-- [AR4 Mark 5: This Open-Source 6-Axis Robot Arm Is Finally Done](https://dev.to/circuitrocks/ar4-mark-5-this-open-source-6-axis-robot-arm-is-finally-done-44jm)
-- [AI Pair Programming in Your Terminal with Aider and Ollama](https://dev.to/everylocalai/ai-pair-programming-in-your-terminal-with-aider-and-ollama-4hdi)
+- [How Solana&#39;s Account Model Differs from Ethereum — and Why It Matters for DeFi Developers](https://dev.to/hektorh/how-solanas-account-model-differs-from-ethereum-and-why-it-matters-for-defi-developers-1e2p)
+- [Optimistic concurrency is the whole design: event sourcing on Aurora DSQL](https://dev.to/hocmemini/optimistic-concurrency-is-the-whole-design-event-sourcing-on-aurora-dsql-m63)
+- [I built a region-survivable system by directing an AI agent. An append-only decision log kept it coherent.](https://dev.to/hocmemini/i-built-a-region-survivable-system-by-directing-an-ai-agent-an-append-only-decision-log-kept-it-2bkg)
+- [How to Design a Mobile App With AI: The Full Workflow &lpar;Start to Finish&rpar;](https://dev.to/rsalimx/how-to-design-a-mobile-app-with-ai-the-full-workflow-start-to-finish-3h19)
 <!-- BLOG-POST-LIST:END -->
 
 
