@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From STTM to Snowflake SQL: Building a Metadata-Driven Data Engineering Copilot](https://dev.to/amising6/from-sttm-to-snowflake-sql-building-a-metadata-driven-data-engineering-copilot-n4)
-- [SAGA Made Microservices Reliable. Agent Harness Makes AI Agents Reliable.](https://dev.to/sreeni5018/saga-made-microservices-reliable-agent-harness-makes-ai-agents-reliable-3d1k)
-- [Day 17 of #100DaysOfClickHouse: Mastering Data Filtering for Faster ClickHouse Queries](https://dev.to/kanishga_subramani_49ad73/day-17-of-100daysofclickhouse-mastering-data-filtering-for-faster-clickhouse-queries-10i7)
-- [&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;](https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225)
+- [5 AI Tools Every &quot;Vibe Coder&quot; Needs in Their Bookmarks &lpar;2026 Edition&rpar;](https://dev.to/aswini-sm/5-ai-tools-every-vibe-coder-needs-in-their-bookmarks-2026-edition-3jn5)
+- [I gave 8 AI agents an island and watched a society emerge — wars, gossip, grudges, and peace](https://dev.to/dhrupo/i-gave-8-ai-agents-an-island-and-watched-a-society-emerge-wars-gossip-grudges-and-peace-2edj)
+- [I got tired of Googling &quot;resize,compress ,optimize image online &quot; so I built a CLI for it](https://dev.to/kushal1o1/i-got-tired-of-googling-resizecompress-optimize-image-online-so-i-built-a-cli-for-it-3lle)
+- [OOP - Make Your Code More Scalable](https://dev.to/mdhemalakhand1999/oop-make-your-code-more-scalable-37gd)
 <!-- BLOG-POST-LIST:END -->
 
 
