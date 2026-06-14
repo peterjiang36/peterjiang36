@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic&#39;s IPO and the 40% Cost-Savings Gap: Why Your Spend Cap Matters More Now](https://dev.to/pat9000/anthropics-ipo-and-the-40-cost-savings-gap-why-your-spend-cap-matters-more-now-3o45)
-- [The Developer&#39;s Guide to AI Code Review Tools That Don&#39;t Lock You In](https://dev.to/truelane/the-developers-guide-to-ai-code-review-tools-that-dont-lock-you-in-1ca1)
-- [HLD Fundamentals #3: Monolithic vs Microservices Architecture](https://dev.to/jaspreet_singh_86ae1740ac/hld-fundamentals-3-monolithic-vs-microservices-architecture-2dbj)
-- [Where have the bottlenecks gone?](https://dev.to/tony_clarke999_6797e3c61/where-have-the-bottlenecks-gone-1f9)
+- [My safety guard protected 2 tools and trusted the other 20](https://dev.to/achiya-automation/my-safety-guard-protected-2-tools-and-trusted-the-other-20-5890)
+- [I’m 17, and I’m teaching 6,000+ students to build apps without getting stuck in syntax hell](https://dev.to/yashwardhan_sharma/im-17-and-im-teaching-6000-students-to-build-apps-without-getting-stuck-in-syntax-hell-3f1h)
+- [Building a focused 2026 World Cup schedule tracker](https://dev.to/justlovemaki/building-a-focused-2026-world-cup-schedule-tracker-1nn3)
+- [How WSO2 API Manager Transforms API Analytics &amp; Monitoring](https://dev.to/chamath_gunawardhana_e13e/how-wso2-api-manager-transforms-api-analytics-monitoring-2aof)
 <!-- BLOG-POST-LIST:END -->
 
 
