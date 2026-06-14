@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting My LFX Mentorship Journey: Building Contributor Identity Verification for Hiero](https://dev.to/darshit2308/starting-my-lfx-mentorship-journey-building-contributor-identity-verification-for-hiero-583)
-- [I stopped telling ChatGPT to &#39;fix it.&#39; Here&#39;s the 4-part prompt I use instead.](https://dev.to/gidschge/i-stopped-telling-chatgpt-to-fix-it-heres-the-4-part-prompt-i-use-instead-2he5)
-- [The Rule Held. The Boundary Moved Up. AI Memory Judgment, CLAIM-31: Verified Carryover Across Closes](https://dev.to/zep1997/the-rule-held-the-boundary-moved-up-ai-memory-judgment-claim-31-verified-carryover-11if)
-- [Microsoft AI Agent Architecture in 2026: A Decision Framework for Copilot Studio, Foundry, Agent Framework, and Logic Apps](https://dev.to/shakti_mishra_308e9f36b5d/microsoft-ai-agent-architecture-in-2026-a-decision-framework-for-copilot-studio-foundry-agent-582h)
+- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
+- [How to Build One Web App That Works on iOS, Android, and Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)
+- [@hazeljs/agent 1.0.1: Production Hardening for Real Deployments](https://dev.to/arslan_mecom/hazeljsagent-101-production-hardening-for-real-deployments-1j18)
+- [Indexing: The Force Awakens in My Rate Limiter Quest](https://dev.to/timevolt/indexing-the-force-awakens-in-my-rate-limiter-quest-1dc8)
 <!-- BLOG-POST-LIST:END -->
 
 
