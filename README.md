@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My safety guard protected 2 tools and trusted the other 20](https://dev.to/achiya-automation/my-safety-guard-protected-2-tools-and-trusted-the-other-20-5890)
-- [I’m 17, and I’m teaching 6,000+ students to build apps without getting stuck in syntax hell](https://dev.to/yashwardhan_sharma/im-17-and-im-teaching-6000-students-to-build-apps-without-getting-stuck-in-syntax-hell-3f1h)
-- [Building a focused 2026 World Cup schedule tracker](https://dev.to/justlovemaki/building-a-focused-2026-world-cup-schedule-tracker-1nn3)
-- [How WSO2 API Manager Transforms API Analytics &amp; Monitoring](https://dev.to/chamath_gunawardhana_e13e/how-wso2-api-manager-transforms-api-analytics-monitoring-2aof)
+- [If you can decode it, it was never encryption: untangling encoding, hashing, and encryption for Security+](https://dev.to/tiltedlunar123/if-you-can-decode-it-it-was-never-encryption-untangling-encoding-hashing-and-encryption-for-384k)
+- [Environment and Config Management in Node.js: The System That Scales Past One Server](https://dev.to/zyvop/environment-and-config-management-in-nodejs-the-system-that-scales-past-one-server-378i)
+- [Vite 8 Plus Rolldown: Migrating Your Project to the Rust-Powered Bundler and What Breaks](https://dev.to/jsmanifest/vite-8-plus-rolldown-migrating-your-project-to-the-rust-powered-bundler-and-what-breaks-155f)
+- [Passkeys: Enterprise Adaptation and Individual Use Cases](https://dev.to/merbayerp/passkeys-enterprise-adaptation-and-individual-use-cases-g4)
 <!-- BLOG-POST-LIST:END -->
 
 
