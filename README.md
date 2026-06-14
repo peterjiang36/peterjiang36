@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Minesweeper in ~50 Lines — the Only Hard Part Is Flood-Fill](https://dev.to/dev48v/i-built-minesweeper-in-50-lines-the-only-hard-part-is-flood-fill-1an8)
-- [Why I Built Haggl: Making Price Comparison Across Europe Easier](https://dev.to/haggl/why-i-built-haggl-making-price-comparison-across-europe-easier-41aa)
-- [I Built a 4-Sided Plot Area Calculator with 2D &amp; 3D Visualization](https://dev.to/premiumconverters/i-built-a-4-sided-plot-area-calculator-with-2d-3d-visualization-1gkd)
-- [I Built &#39;Chat With Your Docs&#39; From Scratch — Supabase + pgvector + a Free Local Embedder](https://dev.to/dev48v/i-built-chat-with-your-docs-from-scratch-supabase-pgvector-a-free-local-embedder-3lgk)
+- [APK Install and App Manager in Rust + Tauri — Building ADB Tools](https://dev.to/hiyoyok/apk-install-and-app-manager-in-rust-tauri-building-adb-tools-3l4g)
+- [I built a tool that formats messy developer notes into clean GitHub Markdown](https://dev.to/taniy8/i-built-a-tool-that-formats-messy-developer-notes-into-clean-github-markdown-4kbc)
+- [I built Reclaim: an AI tool that finds medical billing errors and writes your appeal letters](https://dev.to/kyisaiah47/i-built-reclaim-an-ai-tool-that-finds-medical-billing-errors-and-writes-your-appeal-letters-43ph)
+- [n8n: Fix HTTP Request Node Returning Success With No Data &lpar;+ Execution Timeout Guide&rpar;](https://dev.to/trigger-workflow/n8n-fix-http-request-node-returning-success-with-no-data-execution-timeout-guide-495d)
 <!-- BLOG-POST-LIST:END -->
 
 
