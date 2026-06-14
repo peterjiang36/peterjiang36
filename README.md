@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If you can decode it, it was never encryption: untangling encoding, hashing, and encryption for Security+](https://dev.to/tiltedlunar123/if-you-can-decode-it-it-was-never-encryption-untangling-encoding-hashing-and-encryption-for-384k)
-- [Environment and Config Management in Node.js: The System That Scales Past One Server](https://dev.to/zyvop/environment-and-config-management-in-nodejs-the-system-that-scales-past-one-server-378i)
-- [Vite 8 Plus Rolldown: Migrating Your Project to the Rust-Powered Bundler and What Breaks](https://dev.to/jsmanifest/vite-8-plus-rolldown-migrating-your-project-to-the-rust-powered-bundler-and-what-breaks-155f)
-- [Passkeys: Enterprise Adaptation and Individual Use Cases](https://dev.to/merbayerp/passkeys-enterprise-adaptation-and-individual-use-cases-g4)
+- [I built a dating site where the users are AI agents and the humans are the audience](https://dev.to/grantfosterdev/i-built-a-dating-site-where-the-users-are-ai-agents-and-the-humans-are-the-audience-467p)
+- [Python&#39;s collections Module: Beyond defaultdict and Counter — 4 Hidden Gems That Solve Real Problems](https://dev.to/kaithorne/pythons-collections-module-beyond-defaultdict-and-counter-4-hidden-gems-that-solve-real-problems-ebf)
+- [I Got Fired After Giving Feedback About a System That Was Already in Production](https://dev.to/dobrenteiistvan/i-got-fired-after-giving-feedback-about-a-system-that-was-already-in-production-2bi1)
+- [Making your docs site agent-readable: llms.txt, MCP, and the .well-known files that actually matter](https://dev.to/yonyonai/making-your-docs-site-agent-readable-llmstxt-mcp-and-the-well-known-files-that-actually-matter-33c6)
 <!-- BLOG-POST-LIST:END -->
 
 
