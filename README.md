@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Tools Every &quot;Vibe Coder&quot; Needs in Their Bookmarks &lpar;2026 Edition&rpar;](https://dev.to/aswini-sm/5-ai-tools-every-vibe-coder-needs-in-their-bookmarks-2026-edition-3jn5)
-- [I gave 8 AI agents an island and watched a society emerge — wars, gossip, grudges, and peace](https://dev.to/dhrupo/i-gave-8-ai-agents-an-island-and-watched-a-society-emerge-wars-gossip-grudges-and-peace-2edj)
-- [I got tired of Googling &quot;resize,compress ,optimize image online &quot; so I built a CLI for it](https://dev.to/kushal1o1/i-got-tired-of-googling-resizecompress-optimize-image-online-so-i-built-a-cli-for-it-3lle)
-- [OOP - Make Your Code More Scalable](https://dev.to/mdhemalakhand1999/oop-make-your-code-more-scalable-37gd)
+- [How to give Claude &lpar;or Cursor&rpar; access to your Rails app&#39;s activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)
+- [Your senior engineer just gave notice. Most of what they knew was in the repos all along.](https://dev.to/danielwe/your-senior-engineer-just-gave-notice-most-of-what-they-knew-was-in-the-repos-all-along-l52)
+- [CQRS+ES: The Pubsub Bridge for Command Outcomes and Atomic Audit Logging](https://dev.to/ohugonnot/cqrses-the-pubsub-bridge-for-command-outcomes-and-atomic-audit-logging-5dgi)
+- [Great Stack to Doesn&#39;t Work #9 — Distributed Tracing: &quot;Why Does This Request Take 3 Seconds?&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-9-distributed-tracing-why-does-this-request-take-3-seconds-47ch)
 <!-- BLOG-POST-LIST:END -->
 
 
