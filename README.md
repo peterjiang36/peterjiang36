@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a dating site where the users are AI agents and the humans are the audience](https://dev.to/grantfosterdev/i-built-a-dating-site-where-the-users-are-ai-agents-and-the-humans-are-the-audience-467p)
-- [Python&#39;s collections Module: Beyond defaultdict and Counter — 4 Hidden Gems That Solve Real Problems](https://dev.to/kaithorne/pythons-collections-module-beyond-defaultdict-and-counter-4-hidden-gems-that-solve-real-problems-ebf)
-- [I Got Fired After Giving Feedback About a System That Was Already in Production](https://dev.to/dobrenteiistvan/i-got-fired-after-giving-feedback-about-a-system-that-was-already-in-production-2bi1)
-- [Making your docs site agent-readable: llms.txt, MCP, and the .well-known files that actually matter](https://dev.to/yonyonai/making-your-docs-site-agent-readable-llmstxt-mcp-and-the-well-known-files-that-actually-matter-33c6)
+- [Making a fleet of self-hosted LLM agents trustworthy](https://dev.to/defilan/making-a-fleet-of-self-hosted-llm-agents-trustworthy-49e4)
+- [How to Choose the Right Color Palette for UI/UX Design](https://dev.to/pasindu_tsx/how-to-choose-the-right-color-palette-for-uiux-design-3p30)
+- [Cognitive Debt: The Hidden Cost of Letting AI Write Your Code](https://dev.to/moksh/cognitive-debt-the-hidden-cost-of-letting-ai-write-your-code-5d5c)
+- [Blast Radius of an AI Agent&#39;s API Key: Score It in 40 Lines](https://dev.to/alex_spinov/blast-radius-of-an-ai-agents-api-key-score-it-in-40-lines-3b)
 <!-- BLOG-POST-LIST:END -->
 
 
