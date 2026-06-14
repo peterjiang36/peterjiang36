@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [APK Install and App Manager in Rust + Tauri — Building ADB Tools](https://dev.to/hiyoyok/apk-install-and-app-manager-in-rust-tauri-building-adb-tools-3l4g)
-- [I built a tool that formats messy developer notes into clean GitHub Markdown](https://dev.to/taniy8/i-built-a-tool-that-formats-messy-developer-notes-into-clean-github-markdown-4kbc)
-- [I built Reclaim: an AI tool that finds medical billing errors and writes your appeal letters](https://dev.to/kyisaiah47/i-built-reclaim-an-ai-tool-that-finds-medical-billing-errors-and-writes-your-appeal-letters-43ph)
-- [n8n: Fix HTTP Request Node Returning Success With No Data &lpar;+ Execution Timeout Guide&rpar;](https://dev.to/trigger-workflow/n8n-fix-http-request-node-returning-success-with-no-data-execution-timeout-guide-495d)
+- [Anthropic&#39;s IPO and the 40% Cost-Savings Gap: Why Your Spend Cap Matters More Now](https://dev.to/pat9000/anthropics-ipo-and-the-40-cost-savings-gap-why-your-spend-cap-matters-more-now-3o45)
+- [The Developer&#39;s Guide to AI Code Review Tools That Don&#39;t Lock You In](https://dev.to/truelane/the-developers-guide-to-ai-code-review-tools-that-dont-lock-you-in-1ca1)
+- [HLD Fundamentals #3: Monolithic vs Microservices Architecture](https://dev.to/jaspreet_singh_86ae1740ac/hld-fundamentals-3-monolithic-vs-microservices-architecture-2dbj)
+- [Where have the bottlenecks gone?](https://dev.to/tony_clarke999_6797e3c61/where-have-the-bottlenecks-gone-1f9)
 <!-- BLOG-POST-LIST:END -->
 
 
