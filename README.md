@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Hoisting in JS](https://dev.to/annapoo/decoding-hoisting-in-js-gkp)
-- [More about function in JS](https://dev.to/annapoo/more-about-function-in-js-5b19)
-- [I Built an AI System Design Coach — Clone It, Try It, Break It](https://dev.to/nithiin7/i-built-an-ai-system-design-coach-clone-it-try-it-break-it-1j4b)
-- [A Docker Build Failure That Had Nothing to Do With Docker](https://dev.to/urmajesty516/a-docker-build-failure-that-had-nothing-to-do-with-docker-4o24)
+- [I Built Minesweeper in ~50 Lines — the Only Hard Part Is Flood-Fill](https://dev.to/dev48v/i-built-minesweeper-in-50-lines-the-only-hard-part-is-flood-fill-1an8)
+- [Why I Built Haggl: Making Price Comparison Across Europe Easier](https://dev.to/haggl/why-i-built-haggl-making-price-comparison-across-europe-easier-41aa)
+- [I Built a 4-Sided Plot Area Calculator with 2D &amp; 3D Visualization](https://dev.to/premiumconverters/i-built-a-4-sided-plot-area-calculator-with-2d-3d-visualization-1gkd)
+- [I Built &#39;Chat With Your Docs&#39; From Scratch — Supabase + pgvector + a Free Local Embedder](https://dev.to/dev48v/i-built-chat-with-your-docs-from-scratch-supabase-pgvector-a-free-local-embedder-3lgk)
 <!-- BLOG-POST-LIST:END -->
 
 
