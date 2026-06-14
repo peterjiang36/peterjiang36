@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Data Scientist&#39;s Guide to AI Summarization in 2026](https://dev.to/gentlenode/the-data-scientists-guide-to-ai-summarization-in-2026-f4j)
-- [Securing Financial APIs in 2026: Implementing Global Request Interceptors and Automated Audit Trails in Spring Boot](https://dev.to/apeh1706/securing-financial-apis-in-2026-implementing-global-request-interceptors-and-automated-audit-4g26)
-- [Hice un centro de búsqueda de empleo local-first — sin nube, sin telemetría](https://dev.to/sergey_emelyanov/hice-un-centro-de-busqueda-de-empleo-local-first-sin-nube-sin-telemetria-2ji8)
-- [A Scatter-Plot Explorer for World Statistics — Log Scales and Hand-Rolled Pearson Correlation](https://dev.to/sendotltd/a-scatter-plot-explorer-for-world-statistics-log-scales-and-hand-rolled-pearson-correlation-2l5m)
+- [Scaling AI Code Review to 99.9% Uptime Across Regions](https://dev.to/fiercedash/scaling-ai-code-review-to-999-uptime-across-regions-cjh)
+- [The React Hooks Adventure: How I Turned `useState` and `useEffect` Into My Jedi Powers](https://dev.to/timevolt/the-react-hooks-adventure-how-i-turned-usestate-and-useeffect-into-my-jedi-powers-nm7)
+- [Ditch Electron: Building a Local-First Sync Engine with Turso &amp; SQLModel](https://dev.to/_553af38aefbe6c8b9dbc9/ditch-electron-building-a-local-first-sync-engine-with-turso-sqlmodel-bl)
+- [I built an AI-assisted, serverless web application called Memory Efficiency Trainer](https://dev.to/sreekanthmm/i-built-an-ai-assisted-serverless-web-application-called-memory-efficiency-trainer-5deh)
 <!-- BLOG-POST-LIST:END -->
 
 
