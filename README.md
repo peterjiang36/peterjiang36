@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Claude to Troubleshoot Linux Servers](https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe)
-- [A Cognitive Benchmark for Code-RAG Retrieval: Part 2 — Why Model Rankings Depend on the Pipeline](https://dev.to/miftakhov/a-cognitive-benchmark-for-code-rag-retrieval-part-2-why-model-rankings-depend-on-the-pipeline-12a4)
-- [5 LLM APIs Tested for Latency: Real Data [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/5-llm-apis-tested-for-latency-real-data-2026-3e4o)
-- [Prompt Injection in 2026: Still OWASP&#39;s Number One LLM Vulnerability](https://dev.to/kunal_d6a8fea2309e1571ee7/prompt-injection-in-2026-still-owasps-number-one-llm-vulnerability-5f31)
+- [Responding to a Compromised AWS Access Key](https://dev.to/mariogongora/responding-to-a-compromised-aws-access-key-1ji3)
+- [LifeLine Loop — AI-Powered Food Rescue Platform](https://dev.to/suhanayadav4/lifeline-loop-ai-powered-food-rescue-platform-3j65)
+- [AR4 Mark 5: This Open-Source 6-Axis Robot Arm Is Finally Done](https://dev.to/circuitrocks/ar4-mark-5-this-open-source-6-axis-robot-arm-is-finally-done-44jm)
+- [AI Pair Programming in Your Terminal with Aider and Ollama](https://dev.to/everylocalai/ai-pair-programming-in-your-terminal-with-aider-and-ollama-4hdi)
 <!-- BLOG-POST-LIST:END -->
 
 
