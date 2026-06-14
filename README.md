@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
-- [How to Build One Web App That Works on iOS, Android, and Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)
-- [@hazeljs/agent 1.0.1: Production Hardening for Real Deployments](https://dev.to/arslan_mecom/hazeljsagent-101-production-hardening-for-real-deployments-1j18)
-- [Indexing: The Force Awakens in My Rate Limiter Quest](https://dev.to/timevolt/indexing-the-force-awakens-in-my-rate-limiter-quest-1dc8)
+- [How to Use Claude to Troubleshoot Linux Servers](https://dev.to/devopsaitoolkit/how-to-use-claude-to-troubleshoot-linux-servers-1fhe)
+- [A Cognitive Benchmark for Code-RAG Retrieval: Part 2 — Why Model Rankings Depend on the Pipeline](https://dev.to/miftakhov/a-cognitive-benchmark-for-code-rag-retrieval-part-2-why-model-rankings-depend-on-the-pipeline-12a4)
+- [5 LLM APIs Tested for Latency: Real Data [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/5-llm-apis-tested-for-latency-real-data-2026-3e4o)
+- [Prompt Injection in 2026: Still OWASP&#39;s Number One LLM Vulnerability](https://dev.to/kunal_d6a8fea2309e1571ee7/prompt-injection-in-2026-still-owasps-number-one-llm-vulnerability-5f31)
 <!-- BLOG-POST-LIST:END -->
 
 
