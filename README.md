@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling AI Code Review to 99.9% Uptime Across Regions](https://dev.to/fiercedash/scaling-ai-code-review-to-999-uptime-across-regions-cjh)
-- [The React Hooks Adventure: How I Turned `useState` and `useEffect` Into My Jedi Powers](https://dev.to/timevolt/the-react-hooks-adventure-how-i-turned-usestate-and-useeffect-into-my-jedi-powers-nm7)
-- [Ditch Electron: Building a Local-First Sync Engine with Turso &amp; SQLModel](https://dev.to/_553af38aefbe6c8b9dbc9/ditch-electron-building-a-local-first-sync-engine-with-turso-sqlmodel-bl)
-- [I built an AI-assisted, serverless web application called Memory Efficiency Trainer](https://dev.to/sreekanthmm/i-built-an-ai-assisted-serverless-web-application-called-memory-efficiency-trainer-5deh)
+- [I Built a Web App That Finds the Fairest Meeting Spot for Any Group &lpar;and It&#39;s Free&rpar;](https://dev.to/gde/i-built-a-web-app-that-finds-the-fairest-meeting-spot-for-any-group-and-its-free-157j)
+- [Your RAG App Is Broken Because You&#39;re Still Parsing PDFs Like It&#39;s 2023](https://dev.to/hefty_69a4c2d631c9dd70724/your-rag-app-is-broken-because-youre-still-parsing-pdfs-like-its-2023-5mn)
+- [Why Prompts Fail in Production &lpar;and the 4 Failure Vectors&rpar;](https://dev.to/toshanthistack/why-prompts-fail-in-production-and-the-4-failure-vectors-3adg)
+- [Microsoft&#39;s Intelligent Terminal brings AI agents to the command line with familiar experience](https://dev.to/davekurian/microsofts-intelligent-terminal-brings-ai-agents-to-the-command-line-with-familiar-experience-5aa8)
 <!-- BLOG-POST-LIST:END -->
 
 
