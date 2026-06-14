@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Web App That Finds the Fairest Meeting Spot for Any Group &lpar;and It&#39;s Free&rpar;](https://dev.to/gde/i-built-a-web-app-that-finds-the-fairest-meeting-spot-for-any-group-and-its-free-157j)
-- [Your RAG App Is Broken Because You&#39;re Still Parsing PDFs Like It&#39;s 2023](https://dev.to/hefty_69a4c2d631c9dd70724/your-rag-app-is-broken-because-youre-still-parsing-pdfs-like-its-2023-5mn)
-- [Why Prompts Fail in Production &lpar;and the 4 Failure Vectors&rpar;](https://dev.to/toshanthistack/why-prompts-fail-in-production-and-the-4-failure-vectors-3adg)
-- [Microsoft&#39;s Intelligent Terminal brings AI agents to the command line with familiar experience](https://dev.to/davekurian/microsofts-intelligent-terminal-brings-ai-agents-to-the-command-line-with-familiar-experience-5aa8)
+- [From STTM to Snowflake SQL: Building a Metadata-Driven Data Engineering Copilot](https://dev.to/amising6/from-sttm-to-snowflake-sql-building-a-metadata-driven-data-engineering-copilot-n4)
+- [SAGA Made Microservices Reliable. Agent Harness Makes AI Agents Reliable.](https://dev.to/sreeni5018/saga-made-microservices-reliable-agent-harness-makes-ai-agents-reliable-3d1k)
+- [Day 17 of #100DaysOfClickHouse: Mastering Data Filtering for Faster ClickHouse Queries](https://dev.to/kanishga_subramani_49ad73/day-17-of-100daysofclickhouse-mastering-data-filtering-for-faster-clickhouse-queries-10i7)
+- [&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;](https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225)
 <!-- BLOG-POST-LIST:END -->
 
 
