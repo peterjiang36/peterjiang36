@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Solana&#39;s Account Model Differs from Ethereum — and Why It Matters for DeFi Developers](https://dev.to/hektorh/how-solanas-account-model-differs-from-ethereum-and-why-it-matters-for-defi-developers-1e2p)
-- [Optimistic concurrency is the whole design: event sourcing on Aurora DSQL](https://dev.to/hocmemini/optimistic-concurrency-is-the-whole-design-event-sourcing-on-aurora-dsql-m63)
-- [I built a region-survivable system by directing an AI agent. An append-only decision log kept it coherent.](https://dev.to/hocmemini/i-built-a-region-survivable-system-by-directing-an-ai-agent-an-append-only-decision-log-kept-it-2bkg)
-- [How to Design a Mobile App With AI: The Full Workflow &lpar;Start to Finish&rpar;](https://dev.to/rsalimx/how-to-design-a-mobile-app-with-ai-the-full-workflow-start-to-finish-3h19)
+- [Memory Leaks in Python and How to Overcome Them](https://dev.to/alton_zheng_15fb4bf0d73a3/memory-leaks-in-python-and-how-to-overcome-them-1nf8)
+- [Your AI agent has amnesia. Here&#39;s the file architecture I use to fix it.](https://dev.to/01_a125211d8c3da3fdcfd/your-ai-agent-has-amnesia-heres-the-file-architecture-i-use-to-fix-it-558e)
+- [Building Loom &lpar;Part 3&rpar;: Real-Time Browser UI with SSE, Goroutines, and Channels](https://dev.to/joshuabvarghese/building-loom-part-3-real-time-browser-ui-with-sse-goroutines-and-channels-3e8c)
+- [Extracting structured data from messy text: what worked for me](https://dev.to/__c1b9e06dc90a7e0a676b/extracting-structured-data-from-messy-text-what-worked-for-me-5896)
 <!-- BLOG-POST-LIST:END -->
 
 
