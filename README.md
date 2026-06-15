@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a JS/TS runtime in Rust where nothing runs without your permission](https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-4efp)
-- [I built a 1:1 solar system with Fable 5 in the days before it was pulled offline](https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni)
-- [I built a JS/TS runtime in Rust where nothing runs without your permission](https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-b6b)
-- [I got tired of switching tabs to compare AIs, so I built a Consensus Engine](https://dev.to/aiverdict/i-got-tired-of-switching-tabs-to-compare-ais-so-i-built-a-consensus-engine-4cnp)
+- [AI Model Beating GPT-4o That Nobody Is Talking About](https://dev.to/gowtham21/ai-model-beating-gpt-4o-that-nobody-is-talking-about-4i6c)
+- [Project-FB login Page](https://dev.to/sraghul_fe17c80d6b8c8023e/project-fb-login-page-5dad)
+- [Your .env file is probably already in your Git history. The 15-minute audit &lpar;and the 5 habits that stop new leaks for good&rpar;.](https://dev.to/chalom_ellezam_5989bce65e/your-env-file-is-probably-already-in-your-git-history-the-15-minute-audit-and-the-5-habits-that-5dkg)
+- [El problema no era que olvidara cosas. Era que las aprendía dos veces.](https://dev.to/david_naviovillaquiran_c/el-problema-no-era-que-olvidara-cosas-era-que-las-aprendia-dos-veces-4784)
 <!-- BLOG-POST-LIST:END -->
 
 
