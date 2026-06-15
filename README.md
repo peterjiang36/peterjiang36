@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Leaks in Python and How to Overcome Them](https://dev.to/alton_zheng_15fb4bf0d73a3/memory-leaks-in-python-and-how-to-overcome-them-1nf8)
-- [Your AI agent has amnesia. Here&#39;s the file architecture I use to fix it.](https://dev.to/01_a125211d8c3da3fdcfd/your-ai-agent-has-amnesia-heres-the-file-architecture-i-use-to-fix-it-558e)
-- [Building Loom &lpar;Part 3&rpar;: Real-Time Browser UI with SSE, Goroutines, and Channels](https://dev.to/joshuabvarghese/building-loom-part-3-real-time-browser-ui-with-sse-goroutines-and-channels-3e8c)
-- [Extracting structured data from messy text: what worked for me](https://dev.to/__c1b9e06dc90a7e0a676b/extracting-structured-data-from-messy-text-what-worked-for-me-5896)
+- [I scraped Chrome Web Store reviews to find abandoned extensions that still have 100k+ users](https://dev.to/babyfox1306/i-scraped-chrome-web-store-reviews-to-find-abandoned-extensions-that-still-have-100k-users-3ikl)
+- [How to Automate Publishing to CSDN and WeChat MP Using Playwright &lpar;When APIs Fail&rpar;](https://dev.to/quarktimes/how-to-automate-publishing-to-csdn-and-wechat-mp-using-playwright-when-apis-fail-4g01)
+- [When Code Takes a Break: What Engineers Think About on Silent Days](https://dev.to/quarktimes/when-code-takes-a-break-what-engineers-think-about-on-silent-days-34hh)
+- [I Stopped Fighting Prompts: Locking Down Markdown with Jinja2](https://dev.to/quarktimes/i-stopped-fighting-prompts-locking-down-markdown-with-jinja2-2951)
 <!-- BLOG-POST-LIST:END -->
 
 
