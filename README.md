@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Model Beating GPT-4o That Nobody Is Talking About](https://dev.to/gowtham21/ai-model-beating-gpt-4o-that-nobody-is-talking-about-4i6c)
-- [Project-FB login Page](https://dev.to/sraghul_fe17c80d6b8c8023e/project-fb-login-page-5dad)
-- [Your .env file is probably already in your Git history. The 15-minute audit &lpar;and the 5 habits that stop new leaks for good&rpar;.](https://dev.to/chalom_ellezam_5989bce65e/your-env-file-is-probably-already-in-your-git-history-the-15-minute-audit-and-the-5-habits-that-5dkg)
-- [El problema no era que olvidara cosas. Era que las aprendía dos veces.](https://dev.to/david_naviovillaquiran_c/el-problema-no-era-que-olvidara-cosas-era-que-las-aprendia-dos-veces-4784)
+- [The CLI-First Way to Manage Agent Accounts](https://dev.to/qasim157/the-cli-first-way-to-manage-agent-accounts-3hp9)
+- [Email Tools for Claude: Tool Use With an Agent Mailbox](https://dev.to/qasim157/email-tools-for-claude-tool-use-with-an-agent-mailbox-4ckp)
+- [Give a LangChain Agent a Real Inbox](https://dev.to/qasim157/give-a-langchain-agent-a-real-inbox-2bbd)
+- [4- AWS Serverless: Event-Driven Design: SQS, SNS, and EventBridge](https://dev.to/hash01/aws-event-driven-design-sqs-sns-and-eventbridge-42j)
 <!-- BLOG-POST-LIST:END -->
 
 
