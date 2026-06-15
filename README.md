@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The CLI-First Way to Manage Agent Accounts](https://dev.to/qasim157/the-cli-first-way-to-manage-agent-accounts-3hp9)
-- [Email Tools for Claude: Tool Use With an Agent Mailbox](https://dev.to/qasim157/email-tools-for-claude-tool-use-with-an-agent-mailbox-4ckp)
-- [Give a LangChain Agent a Real Inbox](https://dev.to/qasim157/give-a-langchain-agent-a-real-inbox-2bbd)
-- [4- AWS Serverless: Event-Driven Design: SQS, SNS, and EventBridge](https://dev.to/hash01/aws-event-driven-design-sqs-sns-and-eventbridge-42j)
+- [Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)
+- [Building Perri: A Comic Strip Generator](https://dev.to/meemeealm/building-perri-a-comic-strip-generator-5a91)
+- [Quando o Pomodoro não funciona: organização realista para TDAH em burnout](https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c)
+- [PyPI Supply Chain, OWASP LLM Top 10, &amp; eBPF Cloud-Native Security](https://dev.to/soytuber/pypi-supply-chain-owasp-llm-top-10-ebpf-cloud-native-security-9i0)
 <!-- BLOG-POST-LIST:END -->
 
 
