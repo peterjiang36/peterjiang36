@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Lightning Network: Bitcoin, But Fast](https://dev.to/kahenda/the-lightning-network-bitcoin-but-fast-1nmm)
-- [Your git history is already your changelog — I built a zero-dep CLI to extract it](https://dev.to/_06a3df6b50aec966668fb/your-git-history-is-already-your-changelog-i-built-a-zero-dep-cli-to-extract-it-4np)
-- [How to Translate Your Next.js App with React Intl + i18.dev &lpar;In Under 1 Minute&rpar;](https://dev.to/sacsand_sandaruvan_b1edba/how-to-translate-your-nextjs-app-with-react-intl-i18dev-in-under-1-minute-5am2)
-- [Deploying an infrastructure for a macOS app distribution for the price of a restaurant meal per month](https://dev.to/maethik/deploying-an-infrastructure-for-a-macos-app-distribution-for-the-price-of-a-restaurant-meal-per-41l0)
+- [Activate the Window for the Specified HWND](https://dev.to/vast-cow/activate-the-window-for-the-specified-hwnd-i7d)
+- [Why I Built Open Source Civil Defense — A Safe Space for Attacked Maintainers](https://dev.to/magopredator/why-i-built-open-source-civil-defense-a-safe-space-for-attacked-maintainers-2jcf)
+- [The right sizing trap why P95 CPU is the wrong signal for EC2 downsizing](https://dev.to/muskan_8abedcc7e12/the-right-sizing-trap-why-p95-cpu-is-the-wrong-signal-for-ec2-downsizing-5eao)
+- [Troubleshooting Kubernetes Events with TKE and Tencent Cloud CLS](https://dev.to/tencentcloud-cls/troubleshooting-kubernetes-events-with-tke-and-tencent-cloud-cls-1ncl)
 <!-- BLOG-POST-LIST:END -->
 
 
