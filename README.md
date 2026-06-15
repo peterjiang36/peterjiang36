@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Activate the Window for the Specified HWND](https://dev.to/vast-cow/activate-the-window-for-the-specified-hwnd-i7d)
-- [Why I Built Open Source Civil Defense — A Safe Space for Attacked Maintainers](https://dev.to/magopredator/why-i-built-open-source-civil-defense-a-safe-space-for-attacked-maintainers-2jcf)
-- [The right sizing trap why P95 CPU is the wrong signal for EC2 downsizing](https://dev.to/muskan_8abedcc7e12/the-right-sizing-trap-why-p95-cpu-is-the-wrong-signal-for-ec2-downsizing-5eao)
-- [Troubleshooting Kubernetes Events with TKE and Tencent Cloud CLS](https://dev.to/tencentcloud-cls/troubleshooting-kubernetes-events-with-tke-and-tencent-cloud-cls-1ncl)
+- [Build vs. buy in 2026: how a solo dev replaced 6 SaaS tools with ~$100/mo of AI](https://dev.to/jfreal/build-vs-buy-in-2026-how-a-solo-dev-replaced-6-saas-tools-with-100mo-of-ai-3c06)
+- [Decoding error 1010 on Midnight: What &quot;Invalid Transaction&quot; actually means](https://dev.to/cobra1/decoding-error-1010-on-midnight-what-invalid-transaction-actually-means-5ecc)
+- [Emergence AI 的疯狂实验——涌现世界](https://dev.to/cognitalk/emergence-ai-de-feng-kuang-shi-yan-yong-xian-shi-jie-58g2)
+- [PWA in 2026: Why Progressive Web Apps Still Matter](https://dev.to/riteshkokam/pwa-in-2026-why-progressive-web-apps-still-matter-1hn9)
 <!-- BLOG-POST-LIST:END -->
 
 
