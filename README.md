@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I scraped Chrome Web Store reviews to find abandoned extensions that still have 100k+ users](https://dev.to/babyfox1306/i-scraped-chrome-web-store-reviews-to-find-abandoned-extensions-that-still-have-100k-users-3ikl)
-- [How to Automate Publishing to CSDN and WeChat MP Using Playwright &lpar;When APIs Fail&rpar;](https://dev.to/quarktimes/how-to-automate-publishing-to-csdn-and-wechat-mp-using-playwright-when-apis-fail-4g01)
-- [When Code Takes a Break: What Engineers Think About on Silent Days](https://dev.to/quarktimes/when-code-takes-a-break-what-engineers-think-about-on-silent-days-34hh)
-- [I Stopped Fighting Prompts: Locking Down Markdown with Jinja2](https://dev.to/quarktimes/i-stopped-fighting-prompts-locking-down-markdown-with-jinja2-2951)
+- [What Medicine Taught Me About Continuous Learning and Career Growth](https://dev.to/elhamneisanisamani/what-medicine-taught-me-about-continuous-learning-and-career-growth-1g2d)
+- [Python Kurulumu, VS Code Kurulumu ve İlk Python Uygulaması](https://dev.to/vebendeakademi/python-kurulumu-vs-code-kurulumu-ve-ilk-python-uygulamasi-309e)
+- [Engineering Post: Locking the public surface before writing a single feature](https://dev.to/ernestohs/locking-the-public-surface-before-writing-a-single-feature-i7b)
+- [Dev Log: deleting code and breaking the build on purpose](https://dev.to/ernestohs/day-one-deleting-code-and-breaking-the-build-on-purpose-4lib)
 <!-- BLOG-POST-LIST:END -->
 
 
