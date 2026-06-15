@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)
-- [Building Perri: A Comic Strip Generator](https://dev.to/meemeealm/building-perri-a-comic-strip-generator-5a91)
-- [Quando o Pomodoro não funciona: organização realista para TDAH em burnout](https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c)
-- [PyPI Supply Chain, OWASP LLM Top 10, &amp; eBPF Cloud-Native Security](https://dev.to/soytuber/pypi-supply-chain-owasp-llm-top-10-ebpf-cloud-native-security-9i0)
+- [Google&#39;s Open Knowledge Format is just Markdown in folders &lpar;and that&#39;s the point&rpar;](https://dev.to/hjarni/googles-open-knowledge-format-is-just-markdown-in-folders-and-thats-the-point-4gnc)
+- [Status updates that write themselves from your git activity](https://dev.to/aidan_urbina/status-updates-that-write-themselves-from-your-git-activity-13pe)
+- [🎯 The STAR Quest: Level‑Up Your Behavioral Interview Like Neo Seeing the Code](https://dev.to/timevolt/the-star-quest-level-up-your-behavioral-interview-like-neo-seeing-the-code-1n9)
+- [I shipped 35 bugs in my AI chatbot. The scariest one was on the output side.](https://dev.to/rapls/i-shipped-35-bugs-in-my-ai-chatbot-the-scariest-one-was-on-the-output-side-hjg)
 <!-- BLOG-POST-LIST:END -->
 
 
