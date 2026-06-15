@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Open Knowledge Format is just Markdown in folders &lpar;and that&#39;s the point&rpar;](https://dev.to/hjarni/googles-open-knowledge-format-is-just-markdown-in-folders-and-thats-the-point-4gnc)
-- [Status updates that write themselves from your git activity](https://dev.to/aidan_urbina/status-updates-that-write-themselves-from-your-git-activity-13pe)
-- [🎯 The STAR Quest: Level‑Up Your Behavioral Interview Like Neo Seeing the Code](https://dev.to/timevolt/the-star-quest-level-up-your-behavioral-interview-like-neo-seeing-the-code-1n9)
-- [I shipped 35 bugs in my AI chatbot. The scariest one was on the output side.](https://dev.to/rapls/i-shipped-35-bugs-in-my-ai-chatbot-the-scariest-one-was-on-the-output-side-hjg)
+- [Building Correct Payment Infrastructure: Webhooks, Reconciliation, and Records](https://dev.to/naresh_paturi_fintec/building-correct-payment-infrastructure-webhooks-reconciliation-and-records-2ooe)
+- [Building M31A: A Terminal-Native AI Coding Agent That Ships, Not Just Suggests](https://dev.to/eshanized/building-m31a-a-terminal-native-ai-coding-agent-that-ships-not-just-suggests-2p0m)
+- [Supabase Authentication &amp; Authorization Patterns](https://dev.to/mahdi_benrhouma_fe1c6005/supabase-authentication-authorization-patterns-3a44)
+- [Your Trending Repos Script Broke. Again.](https://dev.to/tracepilot_2841f1db6718a1/your-trending-repos-script-broke-again-42a)
 <!-- BLOG-POST-LIST:END -->
 
 
