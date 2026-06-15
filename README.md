@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Medicine Taught Me About Continuous Learning and Career Growth](https://dev.to/elhamneisanisamani/what-medicine-taught-me-about-continuous-learning-and-career-growth-1g2d)
-- [Python Kurulumu, VS Code Kurulumu ve İlk Python Uygulaması](https://dev.to/vebendeakademi/python-kurulumu-vs-code-kurulumu-ve-ilk-python-uygulamasi-309e)
-- [Engineering Post: Locking the public surface before writing a single feature](https://dev.to/ernestohs/locking-the-public-surface-before-writing-a-single-feature-i7b)
-- [Dev Log: deleting code and breaking the build on purpose](https://dev.to/ernestohs/day-one-deleting-code-and-breaking-the-build-on-purpose-4lib)
+- [The Lightning Network: Bitcoin, But Fast](https://dev.to/kahenda/the-lightning-network-bitcoin-but-fast-1nmm)
+- [Your git history is already your changelog — I built a zero-dep CLI to extract it](https://dev.to/_06a3df6b50aec966668fb/your-git-history-is-already-your-changelog-i-built-a-zero-dep-cli-to-extract-it-4np)
+- [How to Translate Your Next.js App with React Intl + i18.dev &lpar;In Under 1 Minute&rpar;](https://dev.to/sacsand_sandaruvan_b1edba/how-to-translate-your-nextjs-app-with-react-intl-i18dev-in-under-1-minute-5am2)
+- [Deploying an infrastructure for a macOS app distribution for the price of a restaurant meal per month](https://dev.to/maethik/deploying-an-infrastructure-for-a-macos-app-distribution-for-the-price-of-a-restaurant-meal-per-41l0)
 <!-- BLOG-POST-LIST:END -->
 
 
