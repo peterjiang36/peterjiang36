@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build vs. buy in 2026: how a solo dev replaced 6 SaaS tools with ~$100/mo of AI](https://dev.to/jfreal/build-vs-buy-in-2026-how-a-solo-dev-replaced-6-saas-tools-with-100mo-of-ai-3c06)
-- [Decoding error 1010 on Midnight: What &quot;Invalid Transaction&quot; actually means](https://dev.to/cobra1/decoding-error-1010-on-midnight-what-invalid-transaction-actually-means-5ecc)
-- [Emergence AI 的疯狂实验——涌现世界](https://dev.to/cognitalk/emergence-ai-de-feng-kuang-shi-yan-yong-xian-shi-jie-58g2)
-- [PWA in 2026: Why Progressive Web Apps Still Matter](https://dev.to/riteshkokam/pwa-in-2026-why-progressive-web-apps-still-matter-1hn9)
+- [I built a JS/TS runtime in Rust where nothing runs without your permission](https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-4efp)
+- [I built a 1:1 solar system with Fable 5 in the days before it was pulled offline](https://dev.to/eric_he/i-built-a-11-solar-system-with-fable-5-in-the-days-before-it-was-pulled-offline-2kni)
+- [I built a JS/TS runtime in Rust where nothing runs without your permission](https://dev.to/edgar_misalcanodomngu/i-built-a-jsts-runtime-in-rust-where-nothing-runs-without-your-permission-b6b)
+- [I got tired of switching tabs to compare AIs, so I built a Consensus Engine](https://dev.to/aiverdict/i-got-tired-of-switching-tabs-to-compare-ais-so-i-built-a-consensus-engine-4cnp)
 <!-- BLOG-POST-LIST:END -->
 
 
