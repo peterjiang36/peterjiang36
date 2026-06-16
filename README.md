@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/jean_leon_12/-242f)
-- [Developer take on: Running local models is good now](https://dev.to/kelvin_kariuki_20f4bec616/developer-take-on-running-local-models-is-good-now-3a8o)
-- [Fair Value Sweep Strategy for Polymarket Trading Bot &lpar;5-Min Up/Down&rpar; – Taker Edge That Exploits CEX Lead](https://dev.to/fatherson/fair-value-sweep-strategy-for-polymarket-trading-bot-5-min-updown-taker-edge-that-exploits-cex-10mn)
-- [SpaceX Is Buying Cursor for $60B: What Developers Should Know Right Now](https://dev.to/tonyspiro/spacex-is-buying-cursor-for-60b-what-developers-should-know-right-now-4en2)
+- [Stop letting the prompt be your state machine](https://dev.to/mudassirworks/stop-letting-the-prompt-be-your-state-machine-52pn)
+- [What Recruiters Can&#39;t See On My GitHub](https://dev.to/ashb4/what-recruiters-cant-see-on-my-github-1f41)
+- [Stop refunding payments you should never have charged](https://dev.to/jguillaumesio/stop-refunding-payments-you-should-never-have-charged-4d7m)
+- [The webhook inbox pattern: stop writing this controller by hand](https://dev.to/jibranusman95/the-webhook-inbox-pattern-stop-writing-this-controller-by-hand-17an)
 <!-- BLOG-POST-LIST:END -->
 
 
