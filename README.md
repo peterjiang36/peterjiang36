@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Security Profiles for Container Permission Management](https://dev.to/shizuku_198411/introducing-security-profiles-for-container-permission-management-47np)
-- [AI Workflows vs AI Agent Coordination: Why You Need Both](https://dev.to/jovansapfioneer/ai-workflows-vs-ai-agent-coordination-why-you-need-both-15dm)
-- [How to Copy Math Equations from Claude into Word Without Breaking the Formatting](https://dev.to/backrun/how-to-copy-math-equations-from-claude-into-word-without-breaking-the-formatting-3l0h)
-- [Your CEP Owns Your In-App UI. Here&#39;s What That&#39;s Costing You.](https://dev.to/digia_studio/your-cep-owns-your-in-app-ui-heres-what-thats-costing-you-14p7)
+- [Accessibility-First Web Development: A Practical Framework](https://dev.to/amara_wallis_2f533953a6ac/accessibility-first-web-development-a-practical-framework-5hng)
+- [How I Built Production-Grade AI Systems While Still a Student](https://dev.to/nader_alshawki_116fa06b4/how-i-built-production-grade-ai-systems-while-still-a-student-5g03)
+- [I cleaned India&#39;s Census 2011 data so you never have to](https://dev.to/iam-ansuman/i-cleaned-indias-census-2011-data-so-you-never-have-to-4g2m)
+- [Luck == Opportunity Meets Preparation](https://dev.to/towernter/luck-opportunity-meets-preparation-58g9)
 <!-- BLOG-POST-LIST:END -->
 
 
