@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Correct Payment Infrastructure: Webhooks, Reconciliation, and Records](https://dev.to/naresh_paturi_fintec/building-correct-payment-infrastructure-webhooks-reconciliation-and-records-2ooe)
-- [Building M31A: A Terminal-Native AI Coding Agent That Ships, Not Just Suggests](https://dev.to/eshanized/building-m31a-a-terminal-native-ai-coding-agent-that-ships-not-just-suggests-2p0m)
-- [Supabase Authentication &amp; Authorization Patterns](https://dev.to/mahdi_benrhouma_fe1c6005/supabase-authentication-authorization-patterns-3a44)
-- [Your Trending Repos Script Broke. Again.](https://dev.to/tracepilot_2841f1db6718a1/your-trending-repos-script-broke-again-42a)
+- [[Boost]](https://dev.to/acamikuro/-3468)
+- [PostgreSQL on Kubernetes — Complete Setup Guide with CloudNativePG](https://dev.to/amareswer/postgresql-on-kubernetes-complete-setup-guide-with-cloudnativepg-4k9e)
+- [When Your AI API Goes Down: A Real-World Fallback Strategy](https://dev.to/__c1b9e06dc90a7e0a676b/when-your-ai-api-goes-down-a-real-world-fallback-strategy-p91)
+- [Livewire Polling, Events, and Lazy Loading: A Practical Guide to Real-Time UX Without WebSockets](https://dev.to/emongmarcc/livewire-polling-events-and-lazy-loading-a-practical-guide-to-real-time-ux-without-websockets-3lm5)
 <!-- BLOG-POST-LIST:END -->
 
 
