@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/acamikuro/-3468)
-- [PostgreSQL on Kubernetes — Complete Setup Guide with CloudNativePG](https://dev.to/amareswer/postgresql-on-kubernetes-complete-setup-guide-with-cloudnativepg-4k9e)
-- [When Your AI API Goes Down: A Real-World Fallback Strategy](https://dev.to/__c1b9e06dc90a7e0a676b/when-your-ai-api-goes-down-a-real-world-fallback-strategy-p91)
-- [Livewire Polling, Events, and Lazy Loading: A Practical Guide to Real-Time UX Without WebSockets](https://dev.to/emongmarcc/livewire-polling-events-and-lazy-loading-a-practical-guide-to-real-time-ux-without-websockets-3lm5)
+- [If you&#39;re a software developer just starting out and you&#39;ve ever wondered how senior devs think while they build, this is for you.](https://dev.to/oluwaseyivibex/if-youre-a-software-developer-just-starting-out-and-youve-ever-wondered-how-senior-devs-think-2m9d)
+- [Hardware Video Compression in Rust on macOS — ffmpeg with VideoToolbox](https://dev.to/hiyoyok/hardware-video-compression-in-rust-on-macos-ffmpeg-with-videotoolbox-4jpm)
+- [Even Anthropic didn&#39;t notice Claude got worse for weeks — AI quality is invisible, and that&#39;s the enterprise problem](https://dev.to/cpengc1984/even-anthropic-didnt-notice-claude-got-worse-for-weeks-ai-quality-is-invisible-and-thats-the-5hn9)
+- [TypeScript 6.0 launches strict mode by default and drops ES5 support](https://dev.to/davekurian/typescript-60-launches-strict-mode-by-default-and-drops-es5-support-n31)
 <!-- BLOG-POST-LIST:END -->
 
 
