@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I pointed the OpenAI SDK at one base URL and got Claude, GPT and Gemini](https://dev.to/airforceapi/i-pointed-the-openai-sdk-at-one-base-url-and-got-claude-gpt-and-gemini-38mf)
-- [Astrophysics &amp; AI with Python: Simulating Planetary Orbits with Kepler&#39;s Laws](https://dev.to/programmingcentral/astrophysics-ai-with-python-simulating-planetary-orbits-with-keplers-laws-15ho)
-- [Go Concurrency: The Jedi’s Guide to Goroutines &amp; Channels &lpar;May the Fork Be With You&rpar;](https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79)
-- [Deploying vLLM on OKE with NVIDIA A10 GPUs: The 20-Minute Setup Nobody Talks About](https://dev.to/pavan_madduri/deploying-vllm-on-oke-with-nvidia-a10-gpus-the-20-minute-setup-nobody-talks-about-3je7)
+- [The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella&#39;s Warning on AI](https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel)
+- [15 perguntas de segurança para quem está praticando vibe coding](https://dev.to/marciofrayze/15-perguntas-de-seguranca-para-quem-esta-praticando-vibe-coding-1h7j)
+- [The Babysitting is Over: A New Plan for AI Coding](https://dev.to/braingrid/the-babysitting-is-over-a-new-plan-for-ai-coding-5ca4)
+- [Email Triage Taxonomies for LLM Classification](https://dev.to/qasim157/email-triage-taxonomies-for-llm-classification-3o1j)
 <!-- BLOG-POST-LIST:END -->
 
 
