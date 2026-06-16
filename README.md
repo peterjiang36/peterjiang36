@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Developers Never Finish Their Projects](https://dev.to/motionmind2007/why-most-developers-never-finish-their-projects-7nn)
-- [Your PHP Logs are Lying to You](https://dev.to/georgeff/your-php-logs-are-lying-to-you-4g72)
-- [Why the Fable 5 Crisis Proves Your AI Context Layer Can&#39;t Live Inside the Model](https://dev.to/jon_at_backboardio/why-the-fable-5-crisis-proves-your-ai-context-layer-cant-live-inside-the-model-2n6d)
-- [git reflog: Recover Commits You Thought Were Gone Forever](https://dev.to/sysemperor/git-reflog-recover-commits-you-thought-were-gone-forever-4il1)
+- [[Boost]](https://dev.to/jean_leon_12/-242f)
+- [Developer take on: Running local models is good now](https://dev.to/kelvin_kariuki_20f4bec616/developer-take-on-running-local-models-is-good-now-3a8o)
+- [Fair Value Sweep Strategy for Polymarket Trading Bot &lpar;5-Min Up/Down&rpar; – Taker Edge That Exploits CEX Lead](https://dev.to/fatherson/fair-value-sweep-strategy-for-polymarket-trading-bot-5-min-updown-taker-edge-that-exploits-cex-10mn)
+- [SpaceX Is Buying Cursor for $60B: What Developers Should Know Right Now](https://dev.to/tonyspiro/spacex-is-buying-cursor-for-60b-what-developers-should-know-right-now-4en2)
 <!-- BLOG-POST-LIST:END -->
 
 
