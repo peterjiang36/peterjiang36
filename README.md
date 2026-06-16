@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying For Retrieval Latency On Chunks You Never Use In The Prompt](https://dev.to/siddharth_pandey_27/stop-paying-for-retrieval-latency-on-chunks-you-never-use-in-the-prompt-4kh5)
-- [AI Detectors Are Failing Students — Here&#39;s What Universities Actually Know](https://dev.to/jamilxt/ai-detectors-are-failing-students-heres-what-universities-actually-know-dg3)
-- [كيفية تشغيل اختبارات API بدون إعدادات YAML النمطية لـ Tavern](https://dev.to/yusuf_khalidd/kyfy-tshgyl-khtbrt-api-bdwn-ddt-yaml-lnmty-l-tavern-55k9)
-- [I got tired of bad mobile puzzle games, so I built my own; here&#39;s what I learned](https://dev.to/xelabyte/i-got-tired-of-bad-mobile-puzzle-games-so-i-built-my-own-heres-what-i-learned-2ejh)
+- [Introducing Security Profiles for Container Permission Management](https://dev.to/shizuku_198411/introducing-security-profiles-for-container-permission-management-47np)
+- [AI Workflows vs AI Agent Coordination: Why You Need Both](https://dev.to/jovansapfioneer/ai-workflows-vs-ai-agent-coordination-why-you-need-both-15dm)
+- [How to Copy Math Equations from Claude into Word Without Breaking the Formatting](https://dev.to/backrun/how-to-copy-math-equations-from-claude-into-word-without-breaking-the-formatting-3l0h)
+- [Your CEP Owns Your In-App UI. Here&#39;s What That&#39;s Costing You.](https://dev.to/digia_studio/your-cep-owns-your-in-app-ui-heres-what-thats-costing-you-14p7)
 <!-- BLOG-POST-LIST:END -->
 
 
