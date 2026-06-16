@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Dark Matter: The Invisible Crisis in Your AI Stack](https://dev.to/ryohoshi/agent-dark-matter-the-invisible-crisis-in-your-ai-stack-lph)
-- [The Smart Contract That Handles Your Money. No Bank Needed](https://dev.to/srashti_a3904fc69ca75e7dd/the-smart-contract-that-handles-your-money-no-bank-needed-1jkg)
-- [package.json vs go.mod: Where Did the Version Field Go?](https://dev.to/dalirnet/packagejson-vs-gomod-where-did-the-version-field-go-3301)
-- [Caching in System Design - The Secret to High Performance](https://dev.to/imsushant12/caching-in-system-design-the-secret-to-high-performance-1pj1)
+- [Stop Paying For Retrieval Latency On Chunks You Never Use In The Prompt](https://dev.to/siddharth_pandey_27/stop-paying-for-retrieval-latency-on-chunks-you-never-use-in-the-prompt-4kh5)
+- [AI Detectors Are Failing Students — Here&#39;s What Universities Actually Know](https://dev.to/jamilxt/ai-detectors-are-failing-students-heres-what-universities-actually-know-dg3)
+- [كيفية تشغيل اختبارات API بدون إعدادات YAML النمطية لـ Tavern](https://dev.to/yusuf_khalidd/kyfy-tshgyl-khtbrt-api-bdwn-ddt-yaml-lnmty-l-tavern-55k9)
+- [I got tired of bad mobile puzzle games, so I built my own; here&#39;s what I learned](https://dev.to/xelabyte/i-got-tired-of-bad-mobile-puzzle-games-so-i-built-my-own-heres-what-i-learned-2ejh)
 <!-- BLOG-POST-LIST:END -->
 
 
