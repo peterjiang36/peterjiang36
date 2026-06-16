@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [If you&#39;re a software developer just starting out and you&#39;ve ever wondered how senior devs think while they build, this is for you.](https://dev.to/oluwaseyivibex/if-youre-a-software-developer-just-starting-out-and-youve-ever-wondered-how-senior-devs-think-2m9d)
-- [Hardware Video Compression in Rust on macOS — ffmpeg with VideoToolbox](https://dev.to/hiyoyok/hardware-video-compression-in-rust-on-macos-ffmpeg-with-videotoolbox-4jpm)
-- [Even Anthropic didn&#39;t notice Claude got worse for weeks — AI quality is invisible, and that&#39;s the enterprise problem](https://dev.to/cpengc1984/even-anthropic-didnt-notice-claude-got-worse-for-weeks-ai-quality-is-invisible-and-thats-the-5hn9)
-- [TypeScript 6.0 launches strict mode by default and drops ES5 support](https://dev.to/davekurian/typescript-60-launches-strict-mode-by-default-and-drops-es5-support-n31)
+- [Agent Dark Matter: The Invisible Crisis in Your AI Stack](https://dev.to/ryohoshi/agent-dark-matter-the-invisible-crisis-in-your-ai-stack-lph)
+- [The Smart Contract That Handles Your Money. No Bank Needed](https://dev.to/srashti_a3904fc69ca75e7dd/the-smart-contract-that-handles-your-money-no-bank-needed-1jkg)
+- [package.json vs go.mod: Where Did the Version Field Go?](https://dev.to/dalirnet/packagejson-vs-gomod-where-did-the-version-field-go-3301)
+- [Caching in System Design - The Secret to High Performance](https://dev.to/imsushant12/caching-in-system-design-the-secret-to-high-performance-1pj1)
 <!-- BLOG-POST-LIST:END -->
 
 
