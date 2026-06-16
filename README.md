@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop letting the prompt be your state machine](https://dev.to/mudassirworks/stop-letting-the-prompt-be-your-state-machine-52pn)
-- [What Recruiters Can&#39;t See On My GitHub](https://dev.to/ashb4/what-recruiters-cant-see-on-my-github-1f41)
-- [Stop refunding payments you should never have charged](https://dev.to/jguillaumesio/stop-refunding-payments-you-should-never-have-charged-4d7m)
-- [The webhook inbox pattern: stop writing this controller by hand](https://dev.to/jibranusman95/the-webhook-inbox-pattern-stop-writing-this-controller-by-hand-17an)
+- [I pointed the OpenAI SDK at one base URL and got Claude, GPT and Gemini](https://dev.to/airforceapi/i-pointed-the-openai-sdk-at-one-base-url-and-got-claude-gpt-and-gemini-38mf)
+- [Astrophysics &amp; AI with Python: Simulating Planetary Orbits with Kepler&#39;s Laws](https://dev.to/programmingcentral/astrophysics-ai-with-python-simulating-planetary-orbits-with-keplers-laws-15ho)
+- [Go Concurrency: The Jedi’s Guide to Goroutines &amp; Channels &lpar;May the Fork Be With You&rpar;](https://dev.to/timevolt/go-concurrency-the-jedis-guide-to-goroutines-channels-may-the-fork-be-with-you-2g79)
+- [Deploying vLLM on OKE with NVIDIA A10 GPUs: The 20-Minute Setup Nobody Talks About](https://dev.to/pavan_madduri/deploying-vllm-on-oke-with-nvidia-a10-gpus-the-20-minute-setup-nobody-talks-about-3je7)
 <!-- BLOG-POST-LIST:END -->
 
 
