@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Risk of Losing Your Know-how and Identity: Microsoft Satya Nadella&#39;s Warning on AI](https://dev.to/leolanese/the-risk-of-losing-your-know-how-and-identity-microsoft-satya-nadellas-warning-on-ai-eel)
-- [15 perguntas de segurança para quem está praticando vibe coding](https://dev.to/marciofrayze/15-perguntas-de-seguranca-para-quem-esta-praticando-vibe-coding-1h7j)
-- [The Babysitting is Over: A New Plan for AI Coding](https://dev.to/braingrid/the-babysitting-is-over-a-new-plan-for-ai-coding-5ca4)
-- [Email Triage Taxonomies for LLM Classification](https://dev.to/qasim157/email-triage-taxonomies-for-llm-classification-3o1j)
+- [Preview Auth0 Changes Safely with Deploy CLI Dry Run](https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn)
+- [How are you handling financial controls for autonomous AI agents?](https://dev.to/billionaire664/how-are-you-handling-financial-controls-for-autonomous-ai-agents-2op2)
+- [x402 hit 119M transactions — here&#39;s the layer that still isn&#39;t built](https://dev.to/t49qnsx7qtkpanks/x402-hit-119m-transactions-heres-the-layer-that-still-isnt-built-d0b)
+- [Open Graph Image Sizes and Dimensions: The Complete 2026 Guide](https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16)
 <!-- BLOG-POST-LIST:END -->
 
 
