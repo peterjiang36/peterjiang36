@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using LLM for Dialogue Management](https://dev.to/shashank_ms_6a35baa4be138/using-llm-for-dialogue-management-1lgk)
-- [WIP - Glossário DevOps #1](https://dev.to/joaovictor6/wip-glossario-devops-1-171e)
-- [FIFA Hack Authentication Flaw, Chrome Ad Blocker End, AI Supply Chain Security](https://dev.to/soytuber/fifa-hack-authentication-flaw-chrome-ad-blocker-end-ai-supply-chain-security-4nme)
-- [LLM Fallback in Production, Agentic eCommerce, and GitHub Copilot for Parallel Agents](https://dev.to/soytuber/llm-fallback-in-production-agentic-ecommerce-and-github-copilot-for-parallel-agents-1pap)
+- [Engenharia de Plataforma - Como justificar](https://dev.to/joaovictor6/engenharia-de-plataforma-como-justificar-uma-plataforma-5cb9)
+- [The Real AI Privacy Problem Isn&#39;t What You Tell AI — It&#39;s What AI Infers](https://dev.to/sewyed/the-real-ai-privacy-problem-isnt-what-you-tell-ai-its-what-ai-infers-32o)
+- [Deploy Activepieces on Google Cloud Run with Production Guardrails Built In](https://dev.to/shiyghan_navti_a4d6e1ad0b/deploy-activepieces-on-google-cloud-run-with-production-guardrails-built-in-1cff)
+- [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
 <!-- BLOG-POST-LIST:END -->
 
 
