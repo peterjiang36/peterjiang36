@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Loading Your Entire Instruction System Into Every Session](https://dev.to/ben-witt/significantly-fewer-context-tokens-through-a-modular-instruction-architecture-2g70)
-- [You Don&#39;t Need Docker Desktop on Linux](https://dev.to/nyagah/you-dont-need-docker-desktop-on-linux-1n8b)
-- [Arguments Parsing in Dart](https://dev.to/niamtokik/arguments-parsing-in-dart-jc1)
-- [I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c)
+- [I built a simple date calculator toolkit for deadlines and business days](https://dev.to/kejie1/i-built-a-simple-date-calculator-toolkit-for-deadlines-and-business-days-mmh)
+- [How to Connect Contact Form 7 to Monday.com CRM](https://dev.to/rahul_sharma_15bd129bc69e/how-to-connect-contact-form-7-to-mondaycom-crm-47dn)
+- [Binance + Polymarket Latency Arbitrage: How Bots Exploit Micro-Delays in Prediction Markets](https://dev.to/pmtraderadam/binance-polymarket-latency-arbitrage-how-bots-exploit-micro-delays-in-prediction-markets-2naf)
+- [Lean Teams, AI Agents: How Software Gets Built Without a Full Team](https://dev.to/8080_ai/lean-teams-ai-agents-how-software-gets-built-without-a-full-team-f6f)
 <!-- BLOG-POST-LIST:END -->
 
 
