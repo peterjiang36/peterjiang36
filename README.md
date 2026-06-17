@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Complete Guide to Enterprise Application Testing: Types, Process &amp; Best Practices](https://dev.to/irniaqa/a-complete-guide-to-enterprise-application-testing-types-process-best-practices-nb0)
-- [Stop Passing Files Between Agents With Local Paths](https://dev.to/jnakano/stop-passing-files-between-agents-with-local-paths-oop)
-- [The Digital Nomad’s Dilemma: Escaping VPN Blocks with a Zero-Config Residential Gateway](https://dev.to/homegrid_vpn/the-digital-nomads-dilemma-escaping-vpn-blocks-with-a-zero-config-residential-gateway-5h6d)
-- [Devlog #2: Stop Managing Tasks. Start Owning the &quot;Now.&quot;](https://dev.to/novascientist/devlog-2-stop-managing-tasks-start-owning-the-now-5405)
+- [Where Engineering Begins](https://dev.to/brady_vitrano/where-engineering-begins-4jia)
+- [Get $10 Free API Credit: Try the P4P 3D Packing API for Cartonization, Palletization, and Truck Loading](https://dev.to/fazeel_khalid/get-10-free-api-credit-try-the-p4p-3d-packing-api-for-cartonization-palletization-and-truck-15ok)
+- [Open-Weights Long-Horizon Coding LLMs: India&#39;s AI Future 2026](https://dev.to/meghroop_tech/open-weights-long-horizon-coding-llms-indias-ai-future-2026-2aap)
+- [Cutting AI Costs with a Single Line: Anthropic Tool Caching in AI SDK v5](https://dev.to/braingrid/cutting-ai-costs-with-a-single-line-anthropic-tool-caching-in-ai-sdk-v5-2o07)
 <!-- BLOG-POST-LIST:END -->
 
 
