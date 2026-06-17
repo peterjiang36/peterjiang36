@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Architect&#39;s 2026 Guide to Cheaper, Faster LLM Inference](https://dev.to/eagerspark/cloud-architects-2026-guide-to-cheaper-faster-llm-inference-5enh)
-- [Qtractor Usage Bible - Summary](https://dev.to/suntong/qtractor-bible-summary-4g0p)
-- [Foundation vs. Instruct vs. Chat Models: One Question, Three Answers](https://dev.to/vishalmysore/foundation-vs-instruct-vs-chat-models-one-question-three-answers-3gi)
-- [Zero Variance: Proving COBOL-to-Java Semantic Equivalence with a Live Mainframe Emulator on AWS](https://dev.to/banuap/zero-variance-proving-cobol-to-java-semantic-equivalence-with-a-live-mainframe-emulator-on-aws-1ani)
+- [Why I Don&#39;t Chase Every Invoice — Recoverflow Dev Diary Day 1](https://dev.to/judy_miranttie/why-i-dont-chase-every-invoice-recoverflow-dev-diary-day-1-26a2)
+- [The Data Refinery: How JSON Quietly Became the Language AI Agents Speak](https://dev.to/genildocs/the-data-refinery-how-json-quietly-became-the-language-ai-agents-speak-mc1)
+- [How I Cut Costs 65% Migrating LangChain to DeepSeek](https://dev.to/gentlenode/how-i-cut-costs-65-migrating-langchain-to-deepseek-3epg)
+- [Agentic Data Engineering in 2026: How to Build Pipelines That AI Agents Can Actually Use](https://dev.to/gabrielhca/agentic-data-engineering-in-2026-how-to-build-pipelines-that-ai-agents-can-actually-use-4kgg)
 <!-- BLOG-POST-LIST:END -->
 
 
