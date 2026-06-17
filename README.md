@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wind 1.1.0: a Flutter text field with no MaterialApp](https://dev.to/fluttersdk/wind-110-a-flutter-text-field-with-no-materialapp-39d9)
-- [What&#39;s Actually Tested on AZ-305](https://dev.to/nerdexam/whats-actually-tested-on-az-305-43m7)
-- [Understanding Audit Logs: Implementing a Read-Only Trace of System Changes](https://dev.to/alya_mahalini_f05d9953cfa/understanding-audit-logs-implementing-a-read-only-trace-of-system-changes-2ff4)
-- [I Tried to Assign Tasks to an AI. Turns Out I Didn&#39;t Know What It Could Do.](https://dev.to/icophy/i-tried-to-assign-tasks-to-an-ai-turns-out-i-didnt-know-what-it-could-do-4ocg)
+- [A Complete Guide to Enterprise Application Testing: Types, Process &amp; Best Practices](https://dev.to/irniaqa/a-complete-guide-to-enterprise-application-testing-types-process-best-practices-nb0)
+- [Stop Passing Files Between Agents With Local Paths](https://dev.to/jnakano/stop-passing-files-between-agents-with-local-paths-oop)
+- [The Digital Nomad’s Dilemma: Escaping VPN Blocks with a Zero-Config Residential Gateway](https://dev.to/homegrid_vpn/the-digital-nomads-dilemma-escaping-vpn-blocks-with-a-zero-config-residential-gateway-5h6d)
+- [Devlog #2: Stop Managing Tasks. Start Owning the &quot;Now.&quot;](https://dev.to/novascientist/devlog-2-stop-managing-tasks-start-owning-the-now-5405)
 <!-- BLOG-POST-LIST:END -->
 
 
