@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Neural Networks with PyTorch and Lightning AI Part 3: Moving Training Logic into Lightning](https://dev.to/rijultp/neural-networks-with-pytorch-and-lightning-ai-part-3-moving-training-logic-into-lightning-1lc7)
-- [The Real Cost of App Switching &lpar;and How to Shrink Your Tool Stack&rpar;](https://dev.to/maxunbearable/the-real-cost-of-app-switching-and-how-to-shrink-your-tool-stack-52oj)
-- [Consultar infracciones de tránsito en Argentina con una sola API &lpar;JSON, 33 jurisdicciones&rpar;](https://dev.to/ba_gestora_3939d7114a08a/consultar-infracciones-de-transito-en-argentina-con-una-sola-api-json-33-jurisdicciones-hnk)
-- [I had real backend auth. The browser just walked around it.](https://dev.to/arvavit/i-had-real-backend-auth-the-browser-just-walked-around-it-58kj)
+- [Building the Frontend of POS Lite with React, Next.js and Material UI](https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8)
+- [Why Your AI Transformation Is Stalling at Middle Management](https://dev.to/keithjmackay/why-your-ai-transformation-is-stalling-at-middle-management-1lh)
+- [Your Frontend Changes Every Sprint. Your Tests Should Know What Matters.](https://dev.to/sleepyfalcon247/your-frontend-changes-every-sprint-your-tests-should-know-what-matters-o6g)
+- [The Browser Test Failed. Can You Actually Prove Why?](https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd)
 <!-- BLOG-POST-LIST:END -->
 
 
