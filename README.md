@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Frontend of POS Lite with React, Next.js and Material UI](https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8)
-- [Why Your AI Transformation Is Stalling at Middle Management](https://dev.to/keithjmackay/why-your-ai-transformation-is-stalling-at-middle-management-1lh)
-- [Your Frontend Changes Every Sprint. Your Tests Should Know What Matters.](https://dev.to/sleepyfalcon247/your-frontend-changes-every-sprint-your-tests-should-know-what-matters-o6g)
-- [The Browser Test Failed. Can You Actually Prove Why?](https://dev.to/randomsquirrel802/the-browser-test-failed-can-you-actually-prove-why-16fd)
+- [Using LLM for Dialogue Management](https://dev.to/shashank_ms_6a35baa4be138/using-llm-for-dialogue-management-1lgk)
+- [WIP - Glossário DevOps #1](https://dev.to/joaovictor6/wip-glossario-devops-1-171e)
+- [FIFA Hack Authentication Flaw, Chrome Ad Blocker End, AI Supply Chain Security](https://dev.to/soytuber/fifa-hack-authentication-flaw-chrome-ad-blocker-end-ai-supply-chain-security-4nme)
+- [LLM Fallback in Production, Agentic eCommerce, and GitHub Copilot for Parallel Agents](https://dev.to/soytuber/llm-fallback-in-production-agentic-ecommerce-and-github-copilot-for-parallel-agents-1pap)
 <!-- BLOG-POST-LIST:END -->
 
 
