@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Don&#39;t Chase Every Invoice — Recoverflow Dev Diary Day 1](https://dev.to/judy_miranttie/why-i-dont-chase-every-invoice-recoverflow-dev-diary-day-1-26a2)
-- [The Data Refinery: How JSON Quietly Became the Language AI Agents Speak](https://dev.to/genildocs/the-data-refinery-how-json-quietly-became-the-language-ai-agents-speak-mc1)
-- [How I Cut Costs 65% Migrating LangChain to DeepSeek](https://dev.to/gentlenode/how-i-cut-costs-65-migrating-langchain-to-deepseek-3epg)
-- [Agentic Data Engineering in 2026: How to Build Pipelines That AI Agents Can Actually Use](https://dev.to/gabrielhca/agentic-data-engineering-in-2026-how-to-build-pipelines-that-ai-agents-can-actually-use-4kgg)
+- [IA en Admisión](https://dev.to/leojulieta/ia-en-admision-51cj)
+- [Subtítulos con Python](https://dev.to/leojulieta/subtitulos-con-python-mo6)
+- [Optimiza IA](https://dev.to/leojulieta/optimiza-ia-1doe)
+- [Linux Disk Usage Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-disk-usage-explained-simply-46l2)
 <!-- BLOG-POST-LIST:END -->
 
 
