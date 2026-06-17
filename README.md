@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Engenharia de Plataforma - Como justificar](https://dev.to/joaovictor6/engenharia-de-plataforma-como-justificar-uma-plataforma-5cb9)
-- [The Real AI Privacy Problem Isn&#39;t What You Tell AI — It&#39;s What AI Infers](https://dev.to/sewyed/the-real-ai-privacy-problem-isnt-what-you-tell-ai-its-what-ai-infers-32o)
-- [Deploy Activepieces on Google Cloud Run with Production Guardrails Built In](https://dev.to/shiyghan_navti_a4d6e1ad0b/deploy-activepieces-on-google-cloud-run-with-production-guardrails-built-in-1cff)
-- [Agentp: Turn OpenCode Into a Headless AI Engine for Your Editor, Terminal, and Telegram](https://dev.to/bitifet/agentp-turn-opencode-into-a-headless-ai-engine-for-your-editor-terminal-and-telegram-14gj)
+- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
+- [The Binary Trap: Why Scaling Output Requires a New Org Chart](https://dev.to/social_antrome/the-binary-trap-why-scaling-output-requires-a-new-org-chart-1p47)
+- [Chrome Put a 4GB AI Model on Your Computer: What Gemini Nano Means for Privacy](https://dev.to/mrtd/chrome-put-a-4gb-ai-model-on-your-computer-what-gemini-nano-means-for-privacy-2n4i)
+- [Setting Up the Codehabits MCP Server in Cursor &lpar;5 Minutes&rpar;](https://dev.to/sriram7/setting-up-the-codehabits-mcp-server-in-cursor-5-minutes-4h42)
 <!-- BLOG-POST-LIST:END -->
 
 
