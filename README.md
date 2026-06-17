@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IA en Admisión](https://dev.to/leojulieta/ia-en-admision-51cj)
-- [Subtítulos con Python](https://dev.to/leojulieta/subtitulos-con-python-mo6)
-- [Optimiza IA](https://dev.to/leojulieta/optimiza-ia-1doe)
-- [Linux Disk Usage Explained Simply](https://dev.to/sreekanth_kuruba_91721e5d/linux-disk-usage-explained-simply-46l2)
+- [We&#39;ve all pressed Ctrl+C a million times. Linux solved this in the 1980s — the rest of us didn&#39;t.](https://dev.to/parth_dixit/weve-all-pressed-ctrlc-a-million-times-linux-solved-this-in-the-1980s-the-rest-of-us-didnt-5bd9)
+- [Introduction to LLMs for Beginners](https://dev.to/shashank_ms_6a35baa4be138/introduction-to-llms-for-beginners-197a)
+- [Building and Deploying Spring Petclinic Microservices on AWS: My Experience as Co-Project Lead and App &amp; Docker Lead](https://dev.to/ebelechukwu_lucyokafor/building-and-deploying-spring-petclinic-microservices-on-aws-my-experience-as-co-project-lead-and-402f)
+- [CBC Bit Flipping Explained: Why Encryption Alone Doesn&#39;t Guarantee Integrity](https://dev.to/arashad_dodhiya_0e4bdba5a/cbc-bit-flipping-explained-why-encryption-alone-doesnt-guarantee-integrity-5aje)
 <!-- BLOG-POST-LIST:END -->
 
 
