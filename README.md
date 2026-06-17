@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DBD Cornucopia is now available to play online!](https://dev.to/owasp/dbd-cornucopia-is-now-available-to-play-online-4f83)
-- [Studiul Princeton pe 10.000 de căutări: de ce conținutul structurat dominează răspunsurile AI](https://dev.to/flashship_ro/studiul-princeton-pe-10000-de-cautari-de-ce-continutul-structurat-domineaza-raspunsurile-ai-3jhn)
-- [Building BetLogic with Next.js: AI Football Previews, Bet Slip Checks and Automated Content](https://dev.to/tudor_ioan_435ea724ac081f/building-betlogic-with-nextjs-ai-football-previews-bet-slip-checks-and-automated-content-3nb1)
-- [The difference between &quot;this shouldn&#39;t happen&quot; and &quot;this cannot happen&quot; in AI content pipelines](https://dev.to/chadtdyar/the-difference-between-this-shouldnt-happen-and-this-cannot-happen-in-ai-content-pipelines-1g0p)
+- [Wind 1.1.0: a Flutter text field with no MaterialApp](https://dev.to/fluttersdk/wind-110-a-flutter-text-field-with-no-materialapp-39d9)
+- [What&#39;s Actually Tested on AZ-305](https://dev.to/nerdexam/whats-actually-tested-on-az-305-43m7)
+- [Understanding Audit Logs: Implementing a Read-Only Trace of System Changes](https://dev.to/alya_mahalini_f05d9953cfa/understanding-audit-logs-implementing-a-read-only-trace-of-system-changes-2ff4)
+- [I Tried to Assign Tasks to an AI. Turns Out I Didn&#39;t Know What It Could Do.](https://dev.to/icophy/i-tried-to-assign-tasks-to-an-ai-turns-out-i-didnt-know-what-it-could-do-4ocg)
 <!-- BLOG-POST-LIST:END -->
 
 
