@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Engineering Begins](https://dev.to/brady_vitrano/where-engineering-begins-4jia)
-- [Get $10 Free API Credit: Try the P4P 3D Packing API for Cartonization, Palletization, and Truck Loading](https://dev.to/fazeel_khalid/get-10-free-api-credit-try-the-p4p-3d-packing-api-for-cartonization-palletization-and-truck-15ok)
-- [Open-Weights Long-Horizon Coding LLMs: India&#39;s AI Future 2026](https://dev.to/meghroop_tech/open-weights-long-horizon-coding-llms-indias-ai-future-2026-2aap)
-- [Cutting AI Costs with a Single Line: Anthropic Tool Caching in AI SDK v5](https://dev.to/braingrid/cutting-ai-costs-with-a-single-line-anthropic-tool-caching-in-ai-sdk-v5-2o07)
+- [Neural Networks with PyTorch and Lightning AI Part 3: Moving Training Logic into Lightning](https://dev.to/rijultp/neural-networks-with-pytorch-and-lightning-ai-part-3-moving-training-logic-into-lightning-1lc7)
+- [The Real Cost of App Switching &lpar;and How to Shrink Your Tool Stack&rpar;](https://dev.to/maxunbearable/the-real-cost-of-app-switching-and-how-to-shrink-your-tool-stack-52oj)
+- [Consultar infracciones de tránsito en Argentina con una sola API &lpar;JSON, 33 jurisdicciones&rpar;](https://dev.to/ba_gestora_3939d7114a08a/consultar-infracciones-de-transito-en-argentina-con-una-sola-api-json-33-jurisdicciones-hnk)
+- [I had real backend auth. The browser just walked around it.](https://dev.to/arvavit/i-had-real-backend-auth-the-browser-just-walked-around-it-58kj)
 <!-- BLOG-POST-LIST:END -->
 
 
