@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;ve all pressed Ctrl+C a million times. Linux solved this in the 1980s — the rest of us didn&#39;t.](https://dev.to/parth_dixit/weve-all-pressed-ctrlc-a-million-times-linux-solved-this-in-the-1980s-the-rest-of-us-didnt-5bd9)
-- [Introduction to LLMs for Beginners](https://dev.to/shashank_ms_6a35baa4be138/introduction-to-llms-for-beginners-197a)
-- [Building and Deploying Spring Petclinic Microservices on AWS: My Experience as Co-Project Lead and App &amp; Docker Lead](https://dev.to/ebelechukwu_lucyokafor/building-and-deploying-spring-petclinic-microservices-on-aws-my-experience-as-co-project-lead-and-402f)
-- [CBC Bit Flipping Explained: Why Encryption Alone Doesn&#39;t Guarantee Integrity](https://dev.to/arashad_dodhiya_0e4bdba5a/cbc-bit-flipping-explained-why-encryption-alone-doesnt-guarantee-integrity-5aje)
+- [Stop Loading Your Entire Instruction System Into Every Session](https://dev.to/ben-witt/significantly-fewer-context-tokens-through-a-modular-instruction-architecture-2g70)
+- [You Don&#39;t Need Docker Desktop on Linux](https://dev.to/nyagah/you-dont-need-docker-desktop-on-linux-1n8b)
+- [Arguments Parsing in Dart](https://dev.to/niamtokik/arguments-parsing-in-dart-jc1)
+- [I Got the proxy.ts Matcher Wrong for Three Projects Before I Understood Why](https://dev.to/shubhradev/i-got-the-proxyts-matcher-wrong-for-three-projects-before-i-understood-why-4e5c)
 <!-- BLOG-POST-LIST:END -->
 
 
