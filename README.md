@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a simple date calculator toolkit for deadlines and business days](https://dev.to/kejie1/i-built-a-simple-date-calculator-toolkit-for-deadlines-and-business-days-mmh)
-- [How to Connect Contact Form 7 to Monday.com CRM](https://dev.to/rahul_sharma_15bd129bc69e/how-to-connect-contact-form-7-to-mondaycom-crm-47dn)
-- [Binance + Polymarket Latency Arbitrage: How Bots Exploit Micro-Delays in Prediction Markets](https://dev.to/pmtraderadam/binance-polymarket-latency-arbitrage-how-bots-exploit-micro-delays-in-prediction-markets-2naf)
-- [Lean Teams, AI Agents: How Software Gets Built Without a Full Team](https://dev.to/8080_ai/lean-teams-ai-agents-how-software-gets-built-without-a-full-team-f6f)
+- [DBD Cornucopia is now available to play online!](https://dev.to/owasp/dbd-cornucopia-is-now-available-to-play-online-4f83)
+- [Studiul Princeton pe 10.000 de căutări: de ce conținutul structurat dominează răspunsurile AI](https://dev.to/flashship_ro/studiul-princeton-pe-10000-de-cautari-de-ce-continutul-structurat-domineaza-raspunsurile-ai-3jhn)
+- [Building BetLogic with Next.js: AI Football Previews, Bet Slip Checks and Automated Content](https://dev.to/tudor_ioan_435ea724ac081f/building-betlogic-with-nextjs-ai-football-previews-bet-slip-checks-and-automated-content-3nb1)
+- [The difference between &quot;this shouldn&#39;t happen&quot; and &quot;this cannot happen&quot; in AI content pipelines](https://dev.to/chadtdyar/the-difference-between-this-shouldnt-happen-and-this-cannot-happen-in-ai-content-pipelines-1g0p)
 <!-- BLOG-POST-LIST:END -->
 
 
