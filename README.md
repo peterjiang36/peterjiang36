@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding CoALA: A Cognitive Architecture for Language Agents &lpar;2023&rpar;](https://dev.to/ponmiledaniel/understanding-coala-a-cognitive-architecture-for-language-agents-2023-33mh)
-- [Python Geliştiricileri İçin Temel Linux Komut Seti ve Uygulamalı Rehber](https://dev.to/vebendeakademi/python-gelistiricileri-icin-temel-linux-komut-seti-ve-uygulamali-rehber-5884)
-- [Best Lightweight Code Editors for Low-End PCs in 2026 &lpar;Under 4GB RAM&rpar;](https://dev.to/kyle_rhodelander_d9e843b4/best-lightweight-code-editors-for-low-end-pcs-in-2026-under-4gb-ram-4ndc)
-- [Harness Engineering 101: Prompt Engineering wasn&#39;t enough. Neither was context. The harness was.](https://dev.to/malik_chohra/harness-engineering-101-prompt-engineering-wasnt-enough-neither-was-context-the-harness-was-f3a)
+- [I Built an Inbox Cleaner That&#39;s 88% Greener Than Cloud Alternatives. Here&#39;s How.](https://dev.to/martin_dobson_c9b43ad1379/i-built-an-inbox-cleaner-thats-88-greener-than-cloud-alternatives-heres-how-7f7)
+- [Next.js 15 Error Handling: error.tsx, Server Actions, and Sentry &lpar;2026&rpar;](https://dev.to/stacknotice/nextjs-15-error-handling-errortsx-server-actions-and-sentry-2026-ej1)
+- [Lem-in: Shortest Path Isn&#39;t Always the Goal](https://dev.to/kahenda/lem-in-shortest-path-isnt-always-the-goal-570)
+- [The `epsActual` That Wasn&#39;t: 15% of an LLM Backtest&#39;s Trades Were Decided on Data That Didn&#39;t Exist Yet](https://dev.to/lizhuojunx86/the-epsactual-that-wasnt-15-of-an-llm-backtests-trades-were-decided-on-data-that-didnt-exist-17k3)
 <!-- BLOG-POST-LIST:END -->
 
 
