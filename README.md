@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent memory is not a database](https://dev.to/izgorodin/agent-memory-is-not-a-database-4m29)
-- [🚀 Hermes Agent Just Released a Desktop App And It Changes Everything About Using AI Agents](https://dev.to/vivek_shetye/hermes-agent-just-released-a-desktop-app-and-it-changes-everything-about-using-ai-agents-2aei)
-- [React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production](https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1)
-- [Turing&#39;s Dawn — race the dark before the longest day runs out](https://dev.to/pooja_bhavani/turings-dawn-race-the-dark-before-the-longest-day-runs-out-25fb)
+- [WWDC 2026 - WidgetKit Foundations: A Practical Guide for Developers](https://dev.to/arshtechpro/wwdc-2026-widgetkit-foundations-a-practical-guide-for-developers-2o8d)
+- [How to implement field-level AES-256-GCM encryption in Spring Boot &lpar;and why we packaged it into one annotation&rpar;](https://dev.to/clinvio/how-to-implement-field-level-aes-256-gcm-encryption-in-spring-boot-and-why-we-packaged-it-into-one-304d)
+- [DuckDB 1.4.5 LTS, pgEdge ColdFront Beta, and SQLite&#39;s FCNTL_PDB Internals](https://dev.to/soytuber/duckdb-145-lts-pgedge-coldfront-beta-and-sqlites-fcntlpdb-internals-4dcl)
+- [Pointers and Tuning and Loops! Oh My!](https://dev.to/pauljlucas/pointers-and-tuning-and-loops-oh-my-5e09)
 <!-- BLOG-POST-LIST:END -->
 
 
