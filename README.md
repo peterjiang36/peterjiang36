@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc)
-- [You Click &quot;Add to Story&quot; and Instagram Does Way More Than You Think](https://dev.to/ankit_rattan/you-click-add-to-story-and-instagram-does-way-more-than-you-think-13n2)
-- [Cosmic as Agent Memory: Structured, Versioned, and Queryable](https://dev.to/tonyspiro/cosmic-as-agent-memory-structured-versioned-and-queryable-2ng)
-- [Kotlin Compiler Plugin Cuts Android Startup Time by 30% in Expo SDK 56](https://dev.to/expo/kotlin-compiler-plugin-cuts-android-startup-time-by-30-in-expo-sdk-56-2nje)
+- [PWA with React + Leaflet: lessons from a 31-city map app](https://dev.to/tarofortune/pwa-with-react-leaflet-lessons-from-a-31-city-map-app-27j2)
+- [Building lavanderia-crm — 2026-06-17](https://dev.to/zaerohell/building-lavanderia-crm-2026-06-17-244b)
+- [My Turing Solstice Project: A Narrative Puzzle Game Powered by Gemini AI](https://dev.to/rajab_baig_a3929cefc3758b/my-turing-solstice-project-a-narrative-puzzle-game-powered-by-gemini-ai-24mi)
+- [What Is an MCP Proxy - And When Do You Actually Need a Gateway Instead?](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-proxy-and-when-do-you-actually-need-a-gateway-instead-kpg)
 <!-- BLOG-POST-LIST:END -->
 
 
