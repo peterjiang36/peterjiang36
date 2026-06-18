@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PWA with React + Leaflet: lessons from a 31-city map app](https://dev.to/tarofortune/pwa-with-react-leaflet-lessons-from-a-31-city-map-app-27j2)
-- [Building lavanderia-crm — 2026-06-17](https://dev.to/zaerohell/building-lavanderia-crm-2026-06-17-244b)
-- [My Turing Solstice Project: A Narrative Puzzle Game Powered by Gemini AI](https://dev.to/rajab_baig_a3929cefc3758b/my-turing-solstice-project-a-narrative-puzzle-game-powered-by-gemini-ai-24mi)
-- [What Is an MCP Proxy - And When Do You Actually Need a Gateway Instead?](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-proxy-and-when-do-you-actually-need-a-gateway-instead-kpg)
+- [Agent memory is not a database](https://dev.to/izgorodin/agent-memory-is-not-a-database-4m29)
+- [🚀 Hermes Agent Just Released a Desktop App And It Changes Everything About Using AI Agents](https://dev.to/vivek_shetye/hermes-agent-just-released-a-desktop-app-and-it-changes-everything-about-using-ai-agents-2aei)
+- [React 19 Concurrent Rendering Deep Dive: Actions, Transitions, and Suspense in Production](https://dev.to/jsmanifest/react-19-concurrent-rendering-deep-dive-actions-transitions-and-suspense-in-production-4kc1)
+- [Turing&#39;s Dawn — race the dark before the longest day runs out](https://dev.to/pooja_bhavani/turings-dawn-race-the-dark-before-the-longest-day-runs-out-25fb)
 <!-- BLOG-POST-LIST:END -->
 
 
