@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting Python for Webhooks: Why Node.js is Optimal for Cloud Function Signatures](https://dev.to/ahura_mazda/stop-fighting-python-for-webhooks-why-nodejs-is-optimal-for-cloud-function-signatures-4pi7)
-- [Cognee AI 记忆平台的 5 个隐藏用法：让 Agent 拥有跨会话的持久记忆](https://dev.to/_cbd692d476c5faf3b61bcf/cognee-ai-ji-yi-ping-tai-de-5-ge-yin-cang-yong-fa-rang-agent-yong-you-kua-hui-hua-de-chi-jiu-ji-yi-243b)
-- [Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step](https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p)
-- [I shipped an AI cartoon generator from Timor-Leste in 2 weeks — here&#39;s how](https://dev.to/ajitonelson/i-shipped-an-ai-cartoon-generator-from-timor-leste-in-2-weeks-heres-how-1lec)
+- [Vibe Coding 101: Catatan Seorang Developer yang Capek Nulis Kode Manual](https://dev.to/disann/vibe-coding-101-catatan-seorang-developer-yang-capek-nulis-kode-manual-1e4l)
+- [10 Things I Wish I Knew Before Building a Social Network](https://dev.to/tauseedzaman/10-things-i-wish-i-knew-before-building-a-social-network-4cii)
+- [Integrating LLM with Other Machine Learning Models](https://dev.to/shashank_ms_6a35baa4be138/integrating-llm-with-other-machine-learning-models-c0o)
+- [Node.js vs Bun vs Deno 2 in 2026: Which JavaScript Runtime Should You Actually Use?](https://dev.to/moksh/nodejs-vs-bun-vs-deno-2-in-2026-which-javascript-runtime-should-you-actually-use-260e)
 <!-- BLOG-POST-LIST:END -->
 
 
