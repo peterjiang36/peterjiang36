@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The STCO Framework: Why Structured Prompts Beat &#39;Just Ask the AI&#39;](https://dev.to/lukefryer4/the-stco-framework-why-structured-prompts-beat-just-ask-the-ai-1djn)
-- [What Is an AI Agent Wallet?](https://dev.to/sylvia_here/what-is-an-ai-agent-wallet-12of)
-- [State Drift in a Polymarket Trading System Using Event Sourcing](https://dev.to/adelan/state-drift-in-a-polymarket-trading-system-using-event-sourcing-1gk8)
-- [CRDT vs OT: Choosing the Right Collaboration Algorithm](https://dev.to/beefedai/crdt-vs-ot-choosing-the-right-collaboration-algorithm-50io)
+- [Understanding CoALA: A Cognitive Architecture for Language Agents &lpar;2023&rpar;](https://dev.to/ponmiledaniel/understanding-coala-a-cognitive-architecture-for-language-agents-2023-33mh)
+- [Python Geliştiricileri İçin Temel Linux Komut Seti ve Uygulamalı Rehber](https://dev.to/vebendeakademi/python-gelistiricileri-icin-temel-linux-komut-seti-ve-uygulamali-rehber-5884)
+- [Best Lightweight Code Editors for Low-End PCs in 2026 &lpar;Under 4GB RAM&rpar;](https://dev.to/kyle_rhodelander_d9e843b4/best-lightweight-code-editors-for-low-end-pcs-in-2026-under-4gb-ram-4ndc)
+- [Harness Engineering 101: Prompt Engineering wasn&#39;t enough. Neither was context. The harness was.](https://dev.to/malik_chohra/harness-engineering-101-prompt-engineering-wasnt-enough-neither-was-context-the-harness-was-f3a)
 <!-- BLOG-POST-LIST:END -->
 
 
