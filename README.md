@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Inbox Cleaner That&#39;s 88% Greener Than Cloud Alternatives. Here&#39;s How.](https://dev.to/martin_dobson_c9b43ad1379/i-built-an-inbox-cleaner-thats-88-greener-than-cloud-alternatives-heres-how-7f7)
-- [Next.js 15 Error Handling: error.tsx, Server Actions, and Sentry &lpar;2026&rpar;](https://dev.to/stacknotice/nextjs-15-error-handling-errortsx-server-actions-and-sentry-2026-ej1)
-- [Lem-in: Shortest Path Isn&#39;t Always the Goal](https://dev.to/kahenda/lem-in-shortest-path-isnt-always-the-goal-570)
-- [The `epsActual` That Wasn&#39;t: 15% of an LLM Backtest&#39;s Trades Were Decided on Data That Didn&#39;t Exist Yet](https://dev.to/lizhuojunx86/the-epsactual-that-wasnt-15-of-an-llm-backtests-trades-were-decided-on-data-that-didnt-exist-17k3)
+- [Reference Registers in NGB Platform: Effective Business State Over Time](https://dev.to/ngbplatform/reference-registers-in-ngb-platform-effective-business-state-over-time-3n4b)
+- [Mengapa Network Engineer Modern Harus Mulai Belajar Programmability?](https://dev.to/arfa_dygta_72145e63b43bff/mengapa-network-engineer-modern-harus-mulai-belajar-programmability-3aba)
+- [The Blameless Postmortem That Still Blames You](https://dev.to/omieee_24/the-blameless-postmortem-that-still-blames-you-3bdc)
+- [Gaussian Elimination: the algorithm hiding inside NumPy that I was doing by hand](https://dev.to/felipearaujobs/gaussian-elimination-the-algorithm-hiding-inside-numpy-that-i-was-doing-by-hand-1ahn)
 <!-- BLOG-POST-LIST:END -->
 
 
