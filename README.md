@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reference Registers in NGB Platform: Effective Business State Over Time](https://dev.to/ngbplatform/reference-registers-in-ngb-platform-effective-business-state-over-time-3n4b)
-- [Mengapa Network Engineer Modern Harus Mulai Belajar Programmability?](https://dev.to/arfa_dygta_72145e63b43bff/mengapa-network-engineer-modern-harus-mulai-belajar-programmability-3aba)
-- [The Blameless Postmortem That Still Blames You](https://dev.to/omieee_24/the-blameless-postmortem-that-still-blames-you-3bdc)
-- [Gaussian Elimination: the algorithm hiding inside NumPy that I was doing by hand](https://dev.to/felipearaujobs/gaussian-elimination-the-algorithm-hiding-inside-numpy-that-i-was-doing-by-hand-1ahn)
+- [How Attackers Find Vulnerable Applications — And How to Stay One Step Ahead](https://dev.to/vulert_official/how-attackers-find-vulnerable-applications-and-how-to-stay-one-step-ahead-52oc)
+- [Flibustier: Why We Built a Container Security Auditor in Pure Bash](https://dev.to/toxy4ny/flibustier-why-we-built-a-container-security-auditor-in-pure-bash-1ilh)
+- [Querying Russia’s EGRUL registry: what the FNS actually exposes](https://dev.to/openregistry/querying-russias-egrul-registry-what-the-fns-actually-exposes-3nd8)
+- [The context your agents don&#39;t have](https://dev.to/imacto/the-context-your-agents-dont-have-22ol)
 <!-- BLOG-POST-LIST:END -->
 
 
