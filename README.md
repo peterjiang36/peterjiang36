@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Many Are Building Cathedrals on Quicksand](https://dev.to/keithjmackay/many-are-building-cathedrals-on-quicksand-1geo)
-- [I Built a Web-Based Code Editor for SA-MP Scripting](https://dev.to/akun_digital_69f354512772/i-built-a-web-based-code-editor-for-sa-mp-scripting-3e53)
-- [A complete tour of Qeli: a self-hosted, post-quantum VPN in Rust](https://dev.to/alexandr_litvinov/a-complete-tour-of-qeli-a-self-hosted-post-quantum-vpn-in-rust-2681)
-- [A green test suite proves less than you think](https://dev.to/praveenlavu/a-green-test-suite-proves-less-than-you-think-59cg)
+- [I Cancelled My $240/Year ChatGPT Subscription. 30 Days Later, My Laptop Knows Me Better Than GPT-4 Ever Did.](https://dev.to/theonaiao/i-cancelled-my-240year-chatgpt-subscription-30-days-later-my-laptop-knows-me-better-than-gpt-4-3cal)
+- [Renaming a site without losing its data — separating display name from a stable identifier](https://dev.to/susumun/renaming-a-site-without-losing-its-data-separating-display-name-from-a-stable-identifier-gpb)
+- [Spring Security 7: MFA, Modular Config, and What Breaks](https://dev.to/jamilxt/spring-security-7-mfa-modular-config-and-what-breaks-l1b)
+- [Demo Is Not the Product](https://dev.to/lavkeshdwivedi/demo-is-not-the-product-205d)
 <!-- BLOG-POST-LIST:END -->
 
 
