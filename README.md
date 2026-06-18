@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [r4b1t_h0l3](https://dev.to/gnomeman4201/r4b1th0l3-5aa3)
-- [Beyond &quot;Update All&quot; — selecting plugins across sites while keeping every safety mechanism on](https://dev.to/susumun/beyond-update-all-selecting-plugins-across-sites-while-keeping-every-safety-mechanism-on-8a)
-- [AgentGraph Update](https://dev.to/agentgraph/agentgraph-update-32ll)
-- [Tired of the YouTube Doomscroll? Meet NoSuggest – A Quiet Act of Resistance](https://dev.to/vj_2_108/tired-of-the-youtube-doomscroll-meet-nosuggest-a-quiet-act-of-resistance-5a2d)
+- [Stop Fighting Python for Webhooks: Why Node.js is Optimal for Cloud Function Signatures](https://dev.to/ahura_mazda/stop-fighting-python-for-webhooks-why-nodejs-is-optimal-for-cloud-function-signatures-4pi7)
+- [Cognee AI 记忆平台的 5 个隐藏用法：让 Agent 拥有跨会话的持久记忆](https://dev.to/_cbd692d476c5faf3b61bcf/cognee-ai-ji-yi-ping-tai-de-5-ge-yin-cang-yong-fa-rang-agent-yong-you-kua-hui-hua-de-chi-jiu-ji-yi-243b)
+- [Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step](https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p)
+- [I shipped an AI cartoon generator from Timor-Leste in 2 weeks — here&#39;s how](https://dev.to/ajitonelson/i-shipped-an-ai-cartoon-generator-from-timor-leste-in-2-weeks-heres-how-1lec)
 <!-- BLOG-POST-LIST:END -->
 
 
