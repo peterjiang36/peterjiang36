@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WWDC 2026 - WidgetKit Foundations: A Practical Guide for Developers](https://dev.to/arshtechpro/wwdc-2026-widgetkit-foundations-a-practical-guide-for-developers-2o8d)
-- [How to implement field-level AES-256-GCM encryption in Spring Boot &lpar;and why we packaged it into one annotation&rpar;](https://dev.to/clinvio/how-to-implement-field-level-aes-256-gcm-encryption-in-spring-boot-and-why-we-packaged-it-into-one-304d)
-- [DuckDB 1.4.5 LTS, pgEdge ColdFront Beta, and SQLite&#39;s FCNTL_PDB Internals](https://dev.to/soytuber/duckdb-145-lts-pgedge-coldfront-beta-and-sqlites-fcntlpdb-internals-4dcl)
-- [Pointers and Tuning and Loops! Oh My!](https://dev.to/pauljlucas/pointers-and-tuning-and-loops-oh-my-5e09)
+- [Many Are Building Cathedrals on Quicksand](https://dev.to/keithjmackay/many-are-building-cathedrals-on-quicksand-1geo)
+- [I Built a Web-Based Code Editor for SA-MP Scripting](https://dev.to/akun_digital_69f354512772/i-built-a-web-based-code-editor-for-sa-mp-scripting-3e53)
+- [A complete tour of Qeli: a self-hosted, post-quantum VPN in Rust](https://dev.to/alexandr_litvinov/a-complete-tour-of-qeli-a-self-hosted-post-quantum-vpn-in-rust-2681)
+- [A green test suite proves less than you think](https://dev.to/praveenlavu/a-green-test-suite-proves-less-than-you-think-59cg)
 <!-- BLOG-POST-LIST:END -->
 
 
