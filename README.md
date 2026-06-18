@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Além da Ditação: Como Extrair Inteligência Real de Conversas a partir de Áudio em Segundos](https://dev.to/njc-ia/alem-da-ditacao-como-extrair-inteligencia-real-de-conversas-a-partir-de-audio-em-segundos-3kff)
-- [The Binary Trap: Why Scaling Output Requires a New Org Chart](https://dev.to/social_antrome/the-binary-trap-why-scaling-output-requires-a-new-org-chart-1p47)
-- [Chrome Put a 4GB AI Model on Your Computer: What Gemini Nano Means for Privacy](https://dev.to/mrtd/chrome-put-a-4gb-ai-model-on-your-computer-what-gemini-nano-means-for-privacy-2n4i)
-- [Setting Up the Codehabits MCP Server in Cursor &lpar;5 Minutes&rpar;](https://dev.to/sriram7/setting-up-the-codehabits-mcp-server-in-cursor-5-minutes-4h42)
+- [r4b1t_h0l3](https://dev.to/gnomeman4201/r4b1th0l3-5aa3)
+- [Beyond &quot;Update All&quot; — selecting plugins across sites while keeping every safety mechanism on](https://dev.to/susumun/beyond-update-all-selecting-plugins-across-sites-while-keeping-every-safety-mechanism-on-8a)
+- [AgentGraph Update](https://dev.to/agentgraph/agentgraph-update-32ll)
+- [Tired of the YouTube Doomscroll? Meet NoSuggest – A Quiet Act of Resistance](https://dev.to/vj_2_108/tired-of-the-youtube-doomscroll-meet-nosuggest-a-quiet-act-of-resistance-5a2d)
 <!-- BLOG-POST-LIST:END -->
 
 
