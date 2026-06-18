@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding 101: Catatan Seorang Developer yang Capek Nulis Kode Manual](https://dev.to/disann/vibe-coding-101-catatan-seorang-developer-yang-capek-nulis-kode-manual-1e4l)
-- [10 Things I Wish I Knew Before Building a Social Network](https://dev.to/tauseedzaman/10-things-i-wish-i-knew-before-building-a-social-network-4cii)
-- [Integrating LLM with Other Machine Learning Models](https://dev.to/shashank_ms_6a35baa4be138/integrating-llm-with-other-machine-learning-models-c0o)
-- [Node.js vs Bun vs Deno 2 in 2026: Which JavaScript Runtime Should You Actually Use?](https://dev.to/moksh/nodejs-vs-bun-vs-deno-2-in-2026-which-javascript-runtime-should-you-actually-use-260e)
+- [The STCO Framework: Why Structured Prompts Beat &#39;Just Ask the AI&#39;](https://dev.to/lukefryer4/the-stco-framework-why-structured-prompts-beat-just-ask-the-ai-1djn)
+- [What Is an AI Agent Wallet?](https://dev.to/sylvia_here/what-is-an-ai-agent-wallet-12of)
+- [State Drift in a Polymarket Trading System Using Event Sourcing](https://dev.to/adelan/state-drift-in-a-polymarket-trading-system-using-event-sourcing-1gk8)
+- [CRDT vs OT: Choosing the Right Collaboration Algorithm](https://dev.to/beefedai/crdt-vs-ot-choosing-the-right-collaboration-algorithm-50io)
 <!-- BLOG-POST-LIST:END -->
 
 
