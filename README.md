@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Attackers Find Vulnerable Applications — And How to Stay One Step Ahead](https://dev.to/vulert_official/how-attackers-find-vulnerable-applications-and-how-to-stay-one-step-ahead-52oc)
-- [Flibustier: Why We Built a Container Security Auditor in Pure Bash](https://dev.to/toxy4ny/flibustier-why-we-built-a-container-security-auditor-in-pure-bash-1ilh)
-- [Querying Russia’s EGRUL registry: what the FNS actually exposes](https://dev.to/openregistry/querying-russias-egrul-registry-what-the-fns-actually-exposes-3nd8)
-- [The context your agents don&#39;t have](https://dev.to/imacto/the-context-your-agents-dont-have-22ol)
+- [One &quot;Fix This Code&quot; Prompt Away from a Production Incident](https://dev.to/toniantunovic/one-fix-this-code-prompt-away-from-a-production-incident-2138)
+- [Is Your Unity Game Still Choking on a Single Thread?](https://dev.to/prabashanadev/is-your-unity-game-still-choking-on-a-single-thread-500f)
+- [The Model Doesn&#39;t Remember. You Do](https://dev.to/marcochavezco/the-model-doesnt-remember-you-do-3mmk)
+- [Batch-converting documents to markdown with Microsoft&#39;s markitdown](https://dev.to/schiff_heimlich/batch-converting-documents-to-markdown-with-microsofts-markitdown-kbi)
 <!-- BLOG-POST-LIST:END -->
 
 
