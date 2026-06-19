@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Strangler Fig: migrare il legacy un pezzo alla volta](https://dev.to/dev_iadicola/strangler-fig-migrare-il-legacy-un-pezzo-alla-volta-3eg9)
-- [The PostgreSQL mental model that finally clicked for me](https://dev.to/goitsemodimo_phaks_04f738/the-postgresql-mental-model-that-finally-clicked-for-me-3kle)
-- [When adding a feature broke a dozen classes](https://dev.to/lavkeshdwivedi/when-adding-a-feature-broke-a-dozen-classes-fk6)
-- [Last Light: The Demon Lord Awaits at Dawn](https://dev.to/reet_singh_ee97da2986538e/last-light-the-demon-lord-awaits-at-dawn-44ob)
+- [My API Responded in 4 ms, but Navigation Still Felt Slow](https://dev.to/ahikmah/my-api-responded-in-4-ms-but-navigation-still-felt-slow-1hk8)
+- [No user verification leading to subscription bypass and pre-register](https://dev.to/bijan53c/no-user-verification-leading-to-subscription-bypass-and-pre-register-3dje)
+- [Metadata Routing](https://dev.to/akshay_devkarama_414c087/metadata-routing-4ld2)
+- [Pro File Uploads in Rails 8: Speed and Scalability with Direct Uploads](https://dev.to/zilton7/pro-file-uploads-in-rails-8-speed-and-scalability-with-direct-uploads-116c)
 <!-- BLOG-POST-LIST:END -->
 
 
