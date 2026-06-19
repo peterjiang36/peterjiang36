@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m a high-school student and I built a free app to stop forgetting everything over the summer](https://dev.to/samot428/im-a-high-school-student-and-i-built-a-free-app-to-stop-forgetting-everything-over-the-summer-249b)
-- [How to Access 50+ Chinese AI Models Through One API](https://dev.to/aiwave/how-to-access-50-chinese-ai-models-through-one-api-2hbn)
-- [I&#39;m a high-school student and I built a free app to stop forgetting everything over the summer](https://dev.to/samot428/im-a-high-school-student-and-i-built-a-free-app-to-stop-forgetting-everything-over-the-summer-3dfk)
-- [Building AI Agents, Breaking Code, and the Quest for &quot;Zero-Slop&quot; Engineering](https://dev.to/acmezone/building-ai-agents-breaking-code-and-the-quest-for-zero-slop-engineering-29gn)
+- [Humanizing Artificial Intelligence in DevOps Documentation: Making Runbooks Easier to Create and Use](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-in-devops-documentation-making-runbooks-easier-to-create-and-use-4fl7)
+- [Migrating Ekehi from Vanilla JS to a TypeScript Stack](https://dev.to/aj1732/migrating-ekehi-from-vanilla-js-to-a-typescript-stack-16nm)
+- [Building SyncCanvas: An AI-Powered Real-Time Collaborative Whiteboard](https://dev.to/rishibyte/building-synccanvas-an-ai-powered-real-time-collaborative-whiteboard-4f24)
+- [AI news today: agent pricing, rare disease diagnosis, and China&#39;s local-model push](https://dev.to/damogallagher/ai-news-today-agent-pricing-rare-disease-diagnosis-and-chinas-local-model-push-42c0)
 <!-- BLOG-POST-LIST:END -->
 
 
