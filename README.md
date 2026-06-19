@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 24 of 100 Days of ClickHouse: Working with the ClickHouse HTTP API](https://dev.to/kanishga_subramani_49ad73/day-24-of-100-days-of-clickhouse-working-with-the-clickhouse-http-api-45bi)
-- [The Dual-Binary Deployment Stack: Managed Cloud Ergonomics on Bare Metal](https://dev.to/oluwaferanmi/the-dual-binary-deployment-stack-managed-cloud-ergonomics-on-bare-metal-42ag)
-- [How I Turned Claude Code into My Personal Operating System](https://dev.to/guanyi_liu_21a5d7417eb332/how-i-turned-claude-code-into-my-personal-operating-system-95a)
-- [Dev Log: The first public API, and the type graph that wouldn&#39;t stay small](https://dev.to/ernestohs/dev-log-the-first-public-api-and-the-type-graph-that-wouldnt-stay-small-4h74)
+- [DiffusionGemma 26B 挑戰 GH200 效能極限](https://dev.to/jh5_pulse/diffusiongemma-26b-tiao-zhan-gh200-xiao-neng-ji-xian-1b24)
+- [Workflow การพัฒนา Software ด้วย AI อย่างมืออาชีพ](https://dev.to/11_thanyathonr1ack__b2/workflow-kaarphathnaa-software-dwy-ai-yaangmuueaachiiph-25mp)
+- [Part 10: Plugin System Architecture - Extensibility by Design](https://dev.to/homolibere/part-10-plugin-system-architecture-extensibility-by-design-5035)
+- [YouTube&#39;s AI Video Summaries Mean Something Big for Enterprises](https://dev.to/lavkeshdwivedi/youtubes-ai-video-summaries-mean-something-big-for-enterprises-4bf1)
 <!-- BLOG-POST-LIST:END -->
 
 
