@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Test AI Guide — Zero Hallucination, Cross-Stack Standard](https://dev.to/bhaumik-viitor/unit-test-ai-guide-zero-hallucination-cross-stack-standard-4mb2)
-- [How to Reduce Your JavaScript Bundle Size by 70% in 10 Steps](https://dev.to/kui_luo/how-to-reduce-your-javascript-bundle-size-by-70-in-10-steps-3j1g)
-- [Why Security Engineers Need to Think Beyond Code](https://dev.to/max-b-grc/why-security-engineers-need-to-think-beyond-code-3fn5)
-- [Listening to the Heartbeat of Your Database: Understanding Change Data Capture &lpar;CDC&rpar;](https://dev.to/calligra/listening-to-the-heartbeat-of-your-database-understanding-change-data-capture-cdc-4kib)
+- [Gartner Says 40% of AI Agents Will Be Decommissioned by 2027. The Kill Switch Is Why.](https://dev.to/kavinkimcreator/gartner-says-40-of-ai-agents-will-be-decommissioned-by-2027-the-kill-switch-is-why-2do9)
+- [Code Challenge of the Day — Leap year &lpar;easy&rpar;](https://dev.to/iwtlp/code-challenge-of-the-day-leap-year-easy-4ijo)
+- [Build your own git from scratch, and watch its hashes match the real thing](https://dev.to/iwtlp/build-your-own-git-from-scratch-and-watch-its-hashes-match-the-real-thing-49i)
+- [Placeholder Maintenance with Sitecore Content SDK](https://dev.to/kmac23va/placeholder-maintenance-with-sitecore-content-sdk-20m3)
 <!-- BLOG-POST-LIST:END -->
 
 
