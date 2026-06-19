@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My API Responded in 4 ms, but Navigation Still Felt Slow](https://dev.to/ahikmah/my-api-responded-in-4-ms-but-navigation-still-felt-slow-1hk8)
-- [No user verification leading to subscription bypass and pre-register](https://dev.to/bijan53c/no-user-verification-leading-to-subscription-bypass-and-pre-register-3dje)
-- [Metadata Routing](https://dev.to/akshay_devkarama_414c087/metadata-routing-4ld2)
-- [Pro File Uploads in Rails 8: Speed and Scalability with Direct Uploads](https://dev.to/zilton7/pro-file-uploads-in-rails-8-speed-and-scalability-with-direct-uploads-116c)
+- [AI Is Exposing Technical Debt We Learned to Ignore](https://dev.to/orashus/ai-is-exposing-technical-debt-we-learned-to-ignore-3nfa)
+- [Prepare for behavioral interviews](https://dev.to/lavkeshdwivedi/prepare-for-behavioral-interviews-3h7b)
+- [Devs say AI killed their joy. The rot started before ChatGPT.](https://dev.to/adioof/devs-say-ai-killed-their-joy-the-rot-started-before-chatgpt-4856)
+- [Self-Evolving AI Agents: The Optimizer Is the Easy Part](https://dev.to/studiomeyer_io/self-evolving-ai-agents-the-optimizer-is-the-easy-part-3i84)
 <!-- BLOG-POST-LIST:END -->
 
 
