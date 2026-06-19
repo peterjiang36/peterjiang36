@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a real-time multiplayer 3D IDE with WebRTC voice chat and AI generation from scratch 🚀](https://dev.to/andmd555/i-built-a-real-time-multiplayer-3d-ide-with-webrtc-voice-chat-and-ai-generation-from-scratch-4l5k)
-- [Agentic RAG Isn&#39;t Just Fancy Autocomplete. It&#39;s a Whole New Infrastructure Problem.](https://dev.to/venu_varma/agentic-rag-isnt-just-fancy-autocomplete-its-a-whole-new-infrastructure-problem-4d9i)
-- [Most JSON-to-Schema tools over-fit one example. mkschema merges many samples.](https://dev.to/_06a3df6b50aec966668fb/most-json-to-schema-tools-over-fit-one-example-mkschema-merges-many-samples-51lg)
-- [How to Download TikTok Captions, Hashtags, and Metadata — The Complete Data Export Guide](https://dev.to/bulkdl/how-to-download-tiktok-captions-hashtags-and-metadata-the-complete-data-export-guide-37md)
+- [Day 24 of 100 Days of ClickHouse: Working with the ClickHouse HTTP API](https://dev.to/kanishga_subramani_49ad73/day-24-of-100-days-of-clickhouse-working-with-the-clickhouse-http-api-45bi)
+- [The Dual-Binary Deployment Stack: Managed Cloud Ergonomics on Bare Metal](https://dev.to/oluwaferanmi/the-dual-binary-deployment-stack-managed-cloud-ergonomics-on-bare-metal-42ag)
+- [How I Turned Claude Code into My Personal Operating System](https://dev.to/guanyi_liu_21a5d7417eb332/how-i-turned-claude-code-into-my-personal-operating-system-95a)
+- [Dev Log: The first public API, and the type graph that wouldn&#39;t stay small](https://dev.to/ernestohs/dev-log-the-first-public-api-and-the-type-graph-that-wouldnt-stay-small-4h74)
 <!-- BLOG-POST-LIST:END -->
 
 
