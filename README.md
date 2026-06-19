@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is AWS Blocks? How it differs from Amplify and App Studio, and what each one is aiming for](https://dev.to/aws-builders/what-is-aws-blocks-how-it-differs-from-amplify-and-app-studio-and-what-each-one-is-aiming-for-2kn0)
-- [CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”](https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k)
-- [We&#39;re One Script Away From 30% Cheaper Groceries, Stop Asking AI, Start Asking Why](https://dev.to/djowda/were-one-script-away-from-30-cheaper-groceries-stop-asking-ai-start-asking-why-3g12)
-- [Why Your Adobe Commerce Recommendation Engine Is Leaving Revenue on the Table And How to Fix It](https://dev.to/jagadeesh_s/why-your-adobe-commerce-recommendation-engine-is-leaving-revenue-on-the-table-and-how-to-fix-it-17ll)
+- [Docker Compose overview](https://dev.to/zsevic/docker-compose-overview-32h9)
+- [Alan&#39;s Garden: a puzzle game where flowers are tiny programs](https://dev.to/thehwang/alans-garden-a-puzzle-game-where-flowers-are-tiny-programs-32hg)
+- [Git e Github](https://dev.to/joaopedrov0/git-e-github-2iam)
+- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
 <!-- BLOG-POST-LIST:END -->
 
 
