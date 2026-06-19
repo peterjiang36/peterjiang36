@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I stopped reading my own backlog.md &lpar;and what I read instead&rpar;](https://dev.to/michelfaure/why-i-stopped-reading-my-own-backlogmd-and-what-i-read-instead-3gke)
-- [Ship an AI agent without a kill switch and you are the incident](https://dev.to/mjmirza/ship-an-ai-agent-without-a-kill-switch-and-you-are-the-incident-34k4)
-- [How I Got a $340 AWS Bill from a Side Project &lpar;And What I Built to Prevent It&rpar;](https://dev.to/muhammed_aliceylan_db433/how-i-got-a-340-aws-bill-from-a-side-project-and-what-i-built-to-prevent-it-gi3)
-- [Lo que aprendí cuando dejé de pensar solo en código y empecé a pensar en arquitectura](https://dev.to/santiagobrahim/lo-que-aprendi-cuando-deje-de-pensar-solo-en-codigo-y-empece-a-pensar-en-arquitectura-4fnm)
+- [Strangler Fig: migrare il legacy un pezzo alla volta](https://dev.to/dev_iadicola/strangler-fig-migrare-il-legacy-un-pezzo-alla-volta-3eg9)
+- [The PostgreSQL mental model that finally clicked for me](https://dev.to/goitsemodimo_phaks_04f738/the-postgresql-mental-model-that-finally-clicked-for-me-3kle)
+- [When adding a feature broke a dozen classes](https://dev.to/lavkeshdwivedi/when-adding-a-feature-broke-a-dozen-classes-fk6)
+- [Last Light: The Demon Lord Awaits at Dawn](https://dev.to/reet_singh_ee97da2986538e/last-light-the-demon-lord-awaits-at-dawn-44ob)
 <!-- BLOG-POST-LIST:END -->
 
 
