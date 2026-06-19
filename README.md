@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Humanizing Artificial Intelligence in DevOps Documentation: Making Runbooks Easier to Create and Use](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-in-devops-documentation-making-runbooks-easier-to-create-and-use-4fl7)
-- [Migrating Ekehi from Vanilla JS to a TypeScript Stack](https://dev.to/aj1732/migrating-ekehi-from-vanilla-js-to-a-typescript-stack-16nm)
-- [Building SyncCanvas: An AI-Powered Real-Time Collaborative Whiteboard](https://dev.to/rishibyte/building-synccanvas-an-ai-powered-real-time-collaborative-whiteboard-4f24)
-- [AI news today: agent pricing, rare disease diagnosis, and China&#39;s local-model push](https://dev.to/damogallagher/ai-news-today-agent-pricing-rare-disease-diagnosis-and-chinas-local-model-push-42c0)
+- [What is AWS Blocks? How it differs from Amplify and App Studio, and what each one is aiming for](https://dev.to/aws-builders/what-is-aws-blocks-how-it-differs-from-amplify-and-app-studio-and-what-each-one-is-aiming-for-2kn0)
+- [CI/CD Pipelines That Actually Work: From “Why Is This Broken?” to “I Feel Like Neo”](https://dev.to/timevolt/cicd-pipelines-that-actually-work-from-why-is-this-broken-to-i-feel-like-neo-l2k)
+- [We&#39;re One Script Away From 30% Cheaper Groceries, Stop Asking AI, Start Asking Why](https://dev.to/djowda/were-one-script-away-from-30-cheaper-groceries-stop-asking-ai-start-asking-why-3g12)
+- [Why Your Adobe Commerce Recommendation Engine Is Leaving Revenue on the Table And How to Fix It](https://dev.to/jagadeesh_s/why-your-adobe-commerce-recommendation-engine-is-leaving-revenue-on-the-table-and-how-to-fix-it-17ll)
 <!-- BLOG-POST-LIST:END -->
 
 
