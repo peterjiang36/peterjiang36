@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Cancelled My $240/Year ChatGPT Subscription. 30 Days Later, My Laptop Knows Me Better Than GPT-4 Ever Did.](https://dev.to/theonaiao/i-cancelled-my-240year-chatgpt-subscription-30-days-later-my-laptop-knows-me-better-than-gpt-4-3cal)
-- [Renaming a site without losing its data — separating display name from a stable identifier](https://dev.to/susumun/renaming-a-site-without-losing-its-data-separating-display-name-from-a-stable-identifier-gpb)
-- [Spring Security 7: MFA, Modular Config, and What Breaks](https://dev.to/jamilxt/spring-security-7-mfa-modular-config-and-what-breaks-l1b)
-- [Demo Is Not the Product](https://dev.to/lavkeshdwivedi/demo-is-not-the-product-205d)
+- [Real User Monitoring: Measuring Web Performance in Production](https://dev.to/feidou/real-user-monitoring-measuring-web-performance-in-production-32b6)
+- [Conflict Resolution in a Bidirectional Sync App — How I Handle the Hard Cases](https://dev.to/hiyoyok/conflict-resolution-in-a-bidirectional-sync-app-how-i-handle-the-hard-cases-5e24)
+- [[System Design] GraphHopper Distance Matrix: Self-Host OSRM vs Haversine for Route Optimization](https://dev.to/vesviet/system-design-graphhopper-distance-matrix-self-host-osrm-vs-haversine-for-route-optimization-2cpg)
+- [Most of the web is touch. We still don&#39;t save handedness.](https://dev.to/slafleche/most-of-the-web-is-touch-we-still-dont-save-handedness-5ea0)
 <!-- BLOG-POST-LIST:END -->
 
 
