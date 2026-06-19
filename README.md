@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gartner Says 40% of AI Agents Will Be Decommissioned by 2027. The Kill Switch Is Why.](https://dev.to/kavinkimcreator/gartner-says-40-of-ai-agents-will-be-decommissioned-by-2027-the-kill-switch-is-why-2do9)
-- [Code Challenge of the Day — Leap year &lpar;easy&rpar;](https://dev.to/iwtlp/code-challenge-of-the-day-leap-year-easy-4ijo)
-- [Build your own git from scratch, and watch its hashes match the real thing](https://dev.to/iwtlp/build-your-own-git-from-scratch-and-watch-its-hashes-match-the-real-thing-49i)
-- [Placeholder Maintenance with Sitecore Content SDK](https://dev.to/kmac23va/placeholder-maintenance-with-sitecore-content-sdk-20m3)
+- [Why I stopped reading my own backlog.md &lpar;and what I read instead&rpar;](https://dev.to/michelfaure/why-i-stopped-reading-my-own-backlogmd-and-what-i-read-instead-3gke)
+- [Ship an AI agent without a kill switch and you are the incident](https://dev.to/mjmirza/ship-an-ai-agent-without-a-kill-switch-and-you-are-the-incident-34k4)
+- [How I Got a $340 AWS Bill from a Side Project &lpar;And What I Built to Prevent It&rpar;](https://dev.to/muhammed_aliceylan_db433/how-i-got-a-340-aws-bill-from-a-side-project-and-what-i-built-to-prevent-it-gi3)
+- [Lo que aprendí cuando dejé de pensar solo en código y empecé a pensar en arquitectura](https://dev.to/santiagobrahim/lo-que-aprendi-cuando-deje-de-pensar-solo-en-codigo-y-empece-a-pensar-en-arquitectura-4fnm)
 <!-- BLOG-POST-LIST:END -->
 
 
