@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Certification in 2026: Everything You Need to Know Before You Start](https://dev.to/olivia_49ea689da1a2bc7f87/aws-devops-certification-in-2026-everything-you-need-to-know-before-you-start-2bgd)
-- [Azure Functions introduces serverless agents runtime with markdown-first AI agents](https://dev.to/davekurian/azure-functions-introduces-serverless-agents-runtime-with-markdown-first-ai-agents-3md7)
-- [What DIY web scraping really costs &lpar;2026 TCO breakdown&rpar;](https://dev.to/promptcloud_services/what-diy-web-scraping-really-costs-2026-tco-breakdown-4406)
-- [MCP Is Not Just a Developer Thing. Your Product Team Needs to Understand It Too.](https://dev.to/daviefano/mcp-is-not-just-a-developer-thing-your-product-team-needs-to-understand-it-too-3abm)
+- [Unit Test AI Guide — Zero Hallucination, Cross-Stack Standard](https://dev.to/bhaumik-viitor/unit-test-ai-guide-zero-hallucination-cross-stack-standard-4mb2)
+- [How to Reduce Your JavaScript Bundle Size by 70% in 10 Steps](https://dev.to/kui_luo/how-to-reduce-your-javascript-bundle-size-by-70-in-10-steps-3j1g)
+- [Why Security Engineers Need to Think Beyond Code](https://dev.to/max-b-grc/why-security-engineers-need-to-think-beyond-code-3fn5)
+- [Listening to the Heartbeat of Your Database: Understanding Change Data Capture &lpar;CDC&rpar;](https://dev.to/calligra/listening-to-the-heartbeat-of-your-database-understanding-change-data-capture-cdc-4kib)
 <!-- BLOG-POST-LIST:END -->
 
 
