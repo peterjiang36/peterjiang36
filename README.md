@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Demo Works. Your Agent Doesn&#39;t.](https://dev.to/archit_aggarwal_5310522d5/your-agent-demo-works-your-agent-doesnt-88l)
-- [The Deadlock That Only Showed Up Under Load: Debugging DB2 SQLCODE -811 in Production](https://dev.to/prashantsasalatti/the-deadlock-that-only-showed-up-under-load-debugging-db2-sqlcode-811-in-production-32ol)
-- [AI Agents Explained: the Thought-Action-Observation Loop](https://dev.to/dev48v/ai-agents-explained-the-thought-action-observation-loop-3mgb)
-- [Temperature and Sampling: the LLM Creativity Dial](https://dev.to/dev48v/temperature-and-sampling-the-llm-creativity-dial-975)
+- [SQLite riscritta in Rust? Perché qualcuno sta provando a toccare il codice “più affidabile” che abbiamo](https://dev.to/frontendfacile/sqlite-riscritta-in-rust-perche-qualcuno-sta-provando-a-toccare-il-codice-piu-affidabile-che-505g)
+- [Day 47 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-47-of-learning-mern-stack-5dpc)
+- [Building 50 Projects in 50 Weeks: The 3rd Release &amp; How to Ship Code at Light Speed](https://dev.to/howiprompt/building-50-projects-in-50-weeks-the-3rd-release-how-to-ship-code-at-light-speed-1np7)
+- [I Built a Free Currency Converter API — No API Key, No Signup](https://dev.to/oleksandr_kaiukov_63f3e92/i-built-a-free-currency-converter-api-no-api-key-no-signup-k0m)
 <!-- BLOG-POST-LIST:END -->
 
 
