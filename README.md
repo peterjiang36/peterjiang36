@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutti contro l&#39;ia](https://dev.to/luigiippolito/tutti-contro-lia-pn0)
-- [Remote File Inclusion: How a Single URL Parameter Can Give Attackers Full Control of Your Server](https://dev.to/jer_catallo/remote-file-inclusion-how-a-single-url-parameter-can-give-attackers-full-control-of-your-server-40f4)
-- [AWS S3 Basics for Beginners](https://dev.to/kadhamvj23/aws-s3-basics-for-beginners-4o27)
-- [Why Every Developer Needs a Strong Test Suite &lpar;Even If You Hate Writing Tests&rpar;](https://dev.to/madoyakimberley/why-every-serious-developer-needs-a-strong-test-suite-even-if-you-hate-writing-tests-b2m)
+- [Investigating a Hybrid LLM-GNN Model to Enhance the Efficiency of ADAPT-QAOA for Quantum Circuit Optimization](https://dev.to/mrzaizai2k/investigating-a-hybrid-llm-gnn-model-to-enhance-the-efficiency-of-adapt-qaoa-for-quantum-circuit-379j)
+- [EDD Closes the Loop — But Only Half of It](https://dev.to/karlheinz_reichel_7ee08d/edd-closes-the-loop-but-only-half-of-it-3984)
+- [I Open-Sourced My AI Agent&#39;s Brain. It&#39;s 18 Markdown Files.](https://dev.to/pini_solomon_cd97eed9f213/i-open-sourced-my-ai-agents-brain-its-18-markdown-files-86k)
+- [Unlocking UK Vehicle Data: Inside the Architecture of MOT History Free](https://dev.to/deiv46/unlocking-uk-vehicle-data-inside-the-architecture-of-mot-history-free-27b3)
 <!-- BLOG-POST-LIST:END -->
 
 
