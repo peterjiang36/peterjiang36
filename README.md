@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge your web app with free AI that runs in your users&#39; browser](https://dev.to/petr_patek_12/supercharge-your-web-app-with-free-ai-that-runs-in-your-users-browser-2l2m)
-- [Chaos Engineering for Node.js Without the Infrastructure](https://dev.to/aarnxvvv/chaos-engineering-for-nodejs-without-the-infrastructure-286f)
-- [From the factory floor to AI developer: tools that run in my own plant](https://dev.to/maurice_putinas_bc9141cbc/from-the-factory-floor-to-ai-developer-tools-that-run-in-my-own-plant-1f58)
-- [Project Log #9: My AI Agent Works on My Phone. But What About Yours?](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-9-my-ai-agent-works-on-my-phone-but-what-about-yours-2mng)
+- [Your agent takes orders from the web pages it reads](https://dev.to/mjmirza/your-agent-takes-orders-from-the-web-pages-it-reads-43ep)
+- [Build Financial Analysis into Your Hermes AI Agent with the FMP Skill](https://dev.to/robinberaud/build-financial-analysis-into-your-hermes-ai-agent-with-the-fmp-skill-2bj6)
+- [Agentic AI: Who&#39;s responsible? The AI? Or the developer?](https://dev.to/bennyarevalo/agentic-ai-whos-responsible-the-ai-or-the-developer-44j7)
+- [Stop Making Your AI Coding Agent Grep Your Whole Repo — Try codebase-memory-mcp](https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l)
 <!-- BLOG-POST-LIST:END -->
 
 
