@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeForge: Cracking the Code of Your Own Typing Mistakes](https://dev.to/shogun444/typeforge-cracking-the-code-of-your-own-typing-mistakes-2m9g)
-- [How I Built a Real-Time Bounty Marketplace with Supabase and 14-Layer Security at the Edge](https://dev.to/kevan_baptiste/how-i-built-a-real-time-bounty-marketplace-with-supabase-and-14-layer-security-at-the-edge-1i58)
-- [Fix N+1 Trigger Patterns Where Lambda Functions Hammer the Same DynamoDB Partition Key](https://dev.to/siddharth_pandey_27/fix-n1-trigger-patterns-where-lambda-functions-hammer-the-same-dynamodb-partition-key-1m60)
-- [Ultimate Guide to System and Network Adminstration 🌐 🛠️](https://dev.to/riyahal/ultimate-guide-to-system-and-network-adminstration-2m61)
+- [Juneteenth: 1865 — Sail. Decode. Reunite.](https://dev.to/nitin_8d767ad88637719caf8/juneteenth-1865-sail-decode-reunite-159h)
+- [GPS Seguro](https://dev.to/leojulieta/gps-seguro-27ek)
+- [AGENTIC TEAMS](https://dev.to/the_sandersmanagementgr/agentic-teams-o0l)
+- [AI productivity gains vanish when you measure them honestly](https://dev.to/adioof/ai-productivity-gains-vanish-when-you-measure-them-honestly-4a3a)
 <!-- BLOG-POST-LIST:END -->
 
 
