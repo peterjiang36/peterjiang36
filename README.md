@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for Beginners — Part 1: Getting Started &amp; Syntax](https://dev.to/ramesh_s_a8f0867d239e927c/python-for-beginners-part-1-getting-started-syntax-42ho)
-- [Solstice Assassin](https://dev.to/jonadab_6a88b773be1a01a77/solstice-assassin-5bla)
-- [I built an open-source MCP server that gives any AI assistant live NSE + BSE stock data](https://dev.to/govind_sisara/i-built-an-open-source-mcp-server-that-gives-any-ai-assistant-live-nse-bse-stock-data-5f8h)
-- [What&#39;s the Most Annoying Part of Incident Response? I Built 5 AI Tools Trying to Solve It](https://dev.to/praveenballari/whats-the-most-annoying-part-of-incident-response-i-built-5-ai-tools-trying-to-solve-it-27gi)
+- [Dev Log: When the design contradicts itself, stop typing](https://dev.to/ernestohs/dev-log-when-the-design-contradicts-itself-stop-typing-9dj)
+- [The Rule Hierarchy Trap: How AI Agent Meta-Patterns Are Quietly Eating Your Team&#39;s Cognitive Budget](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-rule-hierarchy-trap-how-ai-agent-meta-patterns-are-quietly-eating-your-teams-cognitive-budget-1e4n)
+- [How Japan’s Research Labs Are Building RAG Systems That Actually Work — And What Western Teams Keep Getting Wrong](https://dev.to/xu_xu_b2179aa8fc958d531d1/how-japans-research-labs-are-building-rag-systems-that-actually-work-and-what-western-teams-keep-21b2)
+- [Customer-Facing Analytics: What Your SaaS App Is Missing &lpar;And How to Add It&rpar;](https://dev.to/vivekdraxlr/customer-facing-analytics-what-your-saas-app-is-missing-and-how-to-add-it-1500)
 <!-- BLOG-POST-LIST:END -->
 
 
