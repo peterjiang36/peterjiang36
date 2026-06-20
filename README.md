@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI priority inbox for GitHub pull requests — and went BYOK instead of running my own AI backend](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij)
-- [Contro il Jobs Act e il merito liquido](https://dev.to/luigiippolito/contro-il-jobs-act-e-il-merito-liquido-1ged)
-- [La biblioteca di Borges:digitale.](https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f)
-- [Built a portfolio creator website, looking for feedback](https://dev.to/lorisgamer/built-a-portfolio-creator-website-looking-for-feedback-16d0)
+- [Bash Script Guide](https://dev.to/atomicwave88/bash-script-guide-51oh)
+- [My homescreen was chaos. Not anymore.](https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m)
+- [Disposable code is a psyop by people who don&#39;t maintain anything](https://dev.to/adioof/disposable-code-is-a-psyop-by-people-who-dont-maintain-anything-33kg)
+- [Why Idempotency Is Critical in Modern SaaS Architectures](https://dev.to/sergey_3c52385cf547dee766/why-idempotency-is-critical-in-modern-saas-architectures-25cd)
 <!-- BLOG-POST-LIST:END -->
 
 
