@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The First QA Checklist I Would Run On Any AI-Built App In 2026](https://dev.to/marcusykim/the-first-qa-checklist-i-would-run-on-any-ai-built-app-in-2026-3p3g)
-- [I built a distributed job queue in Go to understand how they actually work](https://dev.to/uthman_dev/i-built-a-distributed-job-queue-in-go-to-understand-how-they-actually-work-fhk)
-- [Replacing Electron with .NET 10: Writing a zero-latency, SIMD-accelerated IDE](https://dev.to/iancowley/replacing-electron-with-net-10-writing-a-zero-latency-simd-accelerated-ide-322j)
-- [You Know Zero-Shot, One-Shot &amp; CoT Prompting. But Do You Know ReAct?](https://dev.to/lovestaco/you-know-zero-shot-one-shot-cot-prompting-but-do-you-know-react-6bj)
+- [TypeForge: Cracking the Code of Your Own Typing Mistakes](https://dev.to/shogun444/typeforge-cracking-the-code-of-your-own-typing-mistakes-2m9g)
+- [How I Built a Real-Time Bounty Marketplace with Supabase and 14-Layer Security at the Edge](https://dev.to/kevan_baptiste/how-i-built-a-real-time-bounty-marketplace-with-supabase-and-14-layer-security-at-the-edge-1i58)
+- [Fix N+1 Trigger Patterns Where Lambda Functions Hammer the Same DynamoDB Partition Key](https://dev.to/siddharth_pandey_27/fix-n1-trigger-patterns-where-lambda-functions-hammer-the-same-dynamodb-partition-key-1m60)
+- [Ultimate Guide to System and Network Adminstration 🌐 🛠️](https://dev.to/riyahal/ultimate-guide-to-system-and-network-adminstration-2m61)
 <!-- BLOG-POST-LIST:END -->
 
 
