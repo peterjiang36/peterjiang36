@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Juneteenth: 1865 — Sail. Decode. Reunite.](https://dev.to/nitin_8d767ad88637719caf8/juneteenth-1865-sail-decode-reunite-159h)
-- [GPS Seguro](https://dev.to/leojulieta/gps-seguro-27ek)
-- [AGENTIC TEAMS](https://dev.to/the_sandersmanagementgr/agentic-teams-o0l)
-- [AI productivity gains vanish when you measure them honestly](https://dev.to/adioof/ai-productivity-gains-vanish-when-you-measure-them-honestly-4a3a)
+- [Dev Log: The milestone where Build&lpar;&rpar; stops lying](https://dev.to/ernestohs/dev-log-the-milestone-where-build-stops-lying-1b2o)
+- [I Built a CLI to Stop Missing Env Vars from Breaking Deployments](https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke)
+- [How to Create Custom Pet Merchandise Designs Using AI](https://dev.to/jakub_inithouse/how-to-create-custom-pet-merchandise-designs-using-ai-4hoo)
+- [Everything Was Green. Production Was Failing.](https://dev.to/pavanbhatia/everything-was-green-production-was-failing-ddh)
 <!-- BLOG-POST-LIST:END -->
 
 
