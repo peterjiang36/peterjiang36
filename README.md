@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bash Script Guide](https://dev.to/atomicwave88/bash-script-guide-51oh)
-- [My homescreen was chaos. Not anymore.](https://dev.to/niluved/my-homescreen-was-chaos-not-anymore-5a8m)
-- [Disposable code is a psyop by people who don&#39;t maintain anything](https://dev.to/adioof/disposable-code-is-a-psyop-by-people-who-dont-maintain-anything-33kg)
-- [Why Idempotency Is Critical in Modern SaaS Architectures](https://dev.to/sergey_3c52385cf547dee766/why-idempotency-is-critical-in-modern-saas-architectures-25cd)
+- [The First QA Checklist I Would Run On Any AI-Built App In 2026](https://dev.to/marcusykim/the-first-qa-checklist-i-would-run-on-any-ai-built-app-in-2026-3p3g)
+- [I built a distributed job queue in Go to understand how they actually work](https://dev.to/uthman_dev/i-built-a-distributed-job-queue-in-go-to-understand-how-they-actually-work-fhk)
+- [Replacing Electron with .NET 10: Writing a zero-latency, SIMD-accelerated IDE](https://dev.to/iancowley/replacing-electron-with-net-10-writing-a-zero-latency-simd-accelerated-ide-322j)
+- [You Know Zero-Shot, One-Shot &amp; CoT Prompting. But Do You Know ReAct?](https://dev.to/lovestaco/you-know-zero-shot-one-shot-cot-prompting-but-do-you-know-react-6bj)
 <!-- BLOG-POST-LIST:END -->
 
 
