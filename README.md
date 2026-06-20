@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your agent takes orders from the web pages it reads](https://dev.to/mjmirza/your-agent-takes-orders-from-the-web-pages-it-reads-43ep)
-- [Build Financial Analysis into Your Hermes AI Agent with the FMP Skill](https://dev.to/robinberaud/build-financial-analysis-into-your-hermes-ai-agent-with-the-fmp-skill-2bj6)
-- [Agentic AI: Who&#39;s responsible? The AI? Or the developer?](https://dev.to/bennyarevalo/agentic-ai-whos-responsible-the-ai-or-the-developer-44j7)
-- [Stop Making Your AI Coding Agent Grep Your Whole Repo — Try codebase-memory-mcp](https://dev.to/arshtechpro/stop-making-your-ai-coding-agent-grep-your-whole-repo-try-codebase-memory-mcp-4g8l)
+- [Mounting Your First Application](https://dev.to/tengxgfyrz67s/mounting-your-first-application-kl6)
+- [North Korean Hackers Poisoned 140+ npm Packages in an AI Dev Tooling Attack. Here&#39;s What Would Have Caught It.](https://dev.to/coridev/north-korean-hackers-poisoned-140-npm-packages-in-an-ai-dev-tooling-attack-heres-what-would-have-4c25)
+- [How to Write a Software Request So the Developer Builds It Right the First Time](https://dev.to/928builds/how-to-write-a-software-request-so-the-developer-builds-it-right-the-first-time-oia)
+- [How to Read Constraints and Immediately Know the Algorithm: A Jedi&#39;s Guide](https://dev.to/timevolt/how-to-read-constraints-and-immediately-know-the-algorithm-a-jedis-guide-1ad7)
 <!-- BLOG-POST-LIST:END -->
 
 
