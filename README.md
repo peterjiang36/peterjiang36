@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Step Learning Rate Schedulers in LLM Training: Why Some Teams Are Moving Beyond Cosine Decay](https://dev.to/shrsv/multi-step-learning-rate-schedulers-in-llm-training-why-some-teams-are-moving-beyond-cosine-decay-3nef)
-- [I Built a Production AI Pipeline for a UK FinTech — Here&#39;s What Actually Happened](https://dev.to/fouzi_oukacha/i-built-a-production-ai-pipeline-for-a-uk-fintech-heres-what-actually-happened-3gfg)
-- [The Hidden Side of Bitcoin](https://dev.to/jtonny490/the-hidden-side-of-bitcoin-3817)
-- [Anvil](https://dev.to/anthonyhumphreys/anvil-20nk)
+- [Tutti contro l&#39;ia](https://dev.to/luigiippolito/tutti-contro-lia-pn0)
+- [Remote File Inclusion: How a Single URL Parameter Can Give Attackers Full Control of Your Server](https://dev.to/jer_catallo/remote-file-inclusion-how-a-single-url-parameter-can-give-attackers-full-control-of-your-server-40f4)
+- [AWS S3 Basics for Beginners](https://dev.to/kadhamvj23/aws-s3-basics-for-beginners-4o27)
+- [Why Every Developer Needs a Strong Test Suite &lpar;Even If You Hate Writing Tests&rpar;](https://dev.to/madoyakimberley/why-every-serious-developer-needs-a-strong-test-suite-even-if-you-hate-writing-tests-b2m)
 <!-- BLOG-POST-LIST:END -->
 
 
