@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made Claude Code Think Before It Codes. Then I Gave It a Team.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-then-i-gave-it-a-team-2bl8)
-- [Why This System Looks the Way It Does — Recoverflow&#39;s 6-Day Design Journey](https://dev.to/judy_miranttie/why-this-system-looks-the-way-it-does-recoverflows-6-day-design-journey-5a7o)
-- [AI Called Me Back — Recoverflow Dev Diary Day 2: Two Hours with the Voice Agent](https://dev.to/judy_miranttie/ai-called-me-back-recoverflow-dev-diary-day-2-two-hours-with-the-voice-agent-4ko8)
-- [How to Design an Effective Referral Reward System: A Complete Technical Guide for SaaS](https://dev.to/feidou/how-to-design-an-effective-referral-reward-system-a-complete-technical-guide-for-saas-h63)
+- [Python for Beginners — Part 1: Getting Started &amp; Syntax](https://dev.to/ramesh_s_a8f0867d239e927c/python-for-beginners-part-1-getting-started-syntax-42ho)
+- [Solstice Assassin](https://dev.to/jonadab_6a88b773be1a01a77/solstice-assassin-5bla)
+- [I built an open-source MCP server that gives any AI assistant live NSE + BSE stock data](https://dev.to/govind_sisara/i-built-an-open-source-mcp-server-that-gives-any-ai-assistant-live-nse-bse-stock-data-5f8h)
+- [What&#39;s the Most Annoying Part of Incident Response? I Built 5 AI Tools Trying to Solve It](https://dev.to/praveenballari/whats-the-most-annoying-part-of-incident-response-i-built-5-ai-tools-trying-to-solve-it-27gi)
 <!-- BLOG-POST-LIST:END -->
 
 
