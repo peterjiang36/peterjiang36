@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How DNS Actually Works: Resolution Hierarchy, Caching, and Production Failure Modes](https://dev.to/sai_ram_0000/how-dns-actually-works-resolution-hierarchy-caching-and-production-failure-modes-195h)
-- [How I Traced One Browser Request from Keystroke to Rendered Page](https://dev.to/sai_ram_0000/how-i-traced-one-browser-request-from-keystroke-to-rendered-page-1fpp)
-- [How I stopped building Postman collections by hand &lpar;Claude + Postman MCP&rpar;](https://dev.to/antonkirilchuk/how-i-stopped-building-postman-collections-by-hand-claude-postman-mcp-41f9)
-- [RAG Pipeline: Complete Node.js Implementation Guide](https://dev.to/surajrkhonde/rag-pipeline-complete-nodejs-implementation-guide-1n54)
+- [Multi-Step Learning Rate Schedulers in LLM Training: Why Some Teams Are Moving Beyond Cosine Decay](https://dev.to/shrsv/multi-step-learning-rate-schedulers-in-llm-training-why-some-teams-are-moving-beyond-cosine-decay-3nef)
+- [I Built a Production AI Pipeline for a UK FinTech — Here&#39;s What Actually Happened](https://dev.to/fouzi_oukacha/i-built-a-production-ai-pipeline-for-a-uk-fintech-heres-what-actually-happened-3gfg)
+- [The Hidden Side of Bitcoin](https://dev.to/jtonny490/the-hidden-side-of-bitcoin-3817)
+- [Anvil](https://dev.to/anthonyhumphreys/anvil-20nk)
 <!-- BLOG-POST-LIST:END -->
 
 
