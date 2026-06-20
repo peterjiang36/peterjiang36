@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: When the design contradicts itself, stop typing](https://dev.to/ernestohs/dev-log-when-the-design-contradicts-itself-stop-typing-9dj)
-- [The Rule Hierarchy Trap: How AI Agent Meta-Patterns Are Quietly Eating Your Team&#39;s Cognitive Budget](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-rule-hierarchy-trap-how-ai-agent-meta-patterns-are-quietly-eating-your-teams-cognitive-budget-1e4n)
-- [How Japan’s Research Labs Are Building RAG Systems That Actually Work — And What Western Teams Keep Getting Wrong](https://dev.to/xu_xu_b2179aa8fc958d531d1/how-japans-research-labs-are-building-rag-systems-that-actually-work-and-what-western-teams-keep-21b2)
-- [Customer-Facing Analytics: What Your SaaS App Is Missing &lpar;And How to Add It&rpar;](https://dev.to/vivekdraxlr/customer-facing-analytics-what-your-saas-app-is-missing-and-how-to-add-it-1500)
+- [Your Agent Demo Works. Your Agent Doesn&#39;t.](https://dev.to/archit_aggarwal_5310522d5/your-agent-demo-works-your-agent-doesnt-88l)
+- [The Deadlock That Only Showed Up Under Load: Debugging DB2 SQLCODE -811 in Production](https://dev.to/prashantsasalatti/the-deadlock-that-only-showed-up-under-load-debugging-db2-sqlcode-811-in-production-32ol)
+- [AI Agents Explained: the Thought-Action-Observation Loop](https://dev.to/dev48v/ai-agents-explained-the-thought-action-observation-loop-3mgb)
+- [Temperature and Sampling: the LLM Creativity Dial](https://dev.to/dev48v/temperature-and-sampling-the-llm-creativity-dial-975)
 <!-- BLOG-POST-LIST:END -->
 
 
