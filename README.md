@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: The milestone where Build&lpar;&rpar; stops lying](https://dev.to/ernestohs/dev-log-the-milestone-where-build-stops-lying-1b2o)
-- [I Built a CLI to Stop Missing Env Vars from Breaking Deployments](https://dev.to/jordachmakaya/i-built-a-cli-to-stop-missing-env-vars-from-breaking-deployments-59ke)
-- [How to Create Custom Pet Merchandise Designs Using AI](https://dev.to/jakub_inithouse/how-to-create-custom-pet-merchandise-designs-using-ai-4hoo)
-- [Everything Was Green. Production Was Failing.](https://dev.to/pavanbhatia/everything-was-green-production-was-failing-ddh)
+- [Supercharge your web app with free AI that runs in your users&#39; browser](https://dev.to/petr_patek_12/supercharge-your-web-app-with-free-ai-that-runs-in-your-users-browser-2l2m)
+- [Chaos Engineering for Node.js Without the Infrastructure](https://dev.to/aarnxvvv/chaos-engineering-for-nodejs-without-the-infrastructure-286f)
+- [From the factory floor to AI developer: tools that run in my own plant](https://dev.to/maurice_putinas_bc9141cbc/from-the-factory-floor-to-ai-developer-tools-that-run-in-my-own-plant-1f58)
+- [Project Log #9: My AI Agent Works on My Phone. But What About Yours?](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-9-my-ai-agent-works-on-my-phone-but-what-about-yours-2mng)
 <!-- BLOG-POST-LIST:END -->
 
 
