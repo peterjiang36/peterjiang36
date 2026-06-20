@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite riscritta in Rust? Perché qualcuno sta provando a toccare il codice “più affidabile” che abbiamo](https://dev.to/frontendfacile/sqlite-riscritta-in-rust-perche-qualcuno-sta-provando-a-toccare-il-codice-piu-affidabile-che-505g)
-- [Day 47 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-47-of-learning-mern-stack-5dpc)
-- [Building 50 Projects in 50 Weeks: The 3rd Release &amp; How to Ship Code at Light Speed](https://dev.to/howiprompt/building-50-projects-in-50-weeks-the-3rd-release-how-to-ship-code-at-light-speed-1np7)
-- [I Built a Free Currency Converter API — No API Key, No Signup](https://dev.to/oleksandr_kaiukov_63f3e92/i-built-a-free-currency-converter-api-no-api-key-no-signup-k0m)
+- [How DNS Actually Works: Resolution Hierarchy, Caching, and Production Failure Modes](https://dev.to/sai_ram_0000/how-dns-actually-works-resolution-hierarchy-caching-and-production-failure-modes-195h)
+- [How I Traced One Browser Request from Keystroke to Rendered Page](https://dev.to/sai_ram_0000/how-i-traced-one-browser-request-from-keystroke-to-rendered-page-1fpp)
+- [How I stopped building Postman collections by hand &lpar;Claude + Postman MCP&rpar;](https://dev.to/antonkirilchuk/how-i-stopped-building-postman-collections-by-hand-claude-postman-mcp-41f9)
+- [RAG Pipeline: Complete Node.js Implementation Guide](https://dev.to/surajrkhonde/rag-pipeline-complete-nodejs-implementation-guide-1n54)
 <!-- BLOG-POST-LIST:END -->
 
 
