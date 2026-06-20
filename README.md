@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Making GBase 8c Auditing Work: Traceable, Retainable, and Queryable](https://dev.to/michaelfv/making-gbase-8c-auditing-work-traceable-retainable-and-queryable-202m)
-- [I built a self-hosted DPI-resistant tunnel over TLS + WebSocket in Rust](https://dev.to/__bf699f275acc/i-built-a-self-hosted-dpi-resistant-tunnel-over-tls-websocket-in-rust-3abd)
-- [The Law of Leaky Abstractions in the Angular Ecosystem](https://dev.to/duskoperic/the-law-of-leaky-abstractions-in-the-angular-ecosystem-59da)
-- [SIP Telephony Monitoring with eBPF: Full Observability for VoIP Infrastructure](https://dev.to/aibudaevv/sip-telephony-monitoring-with-ebpf-full-observability-for-voip-infrastructure-2h0)
+- [I built an AI priority inbox for GitHub pull requests — and went BYOK instead of running my own AI backend](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij)
+- [Contro il Jobs Act e il merito liquido](https://dev.to/luigiippolito/contro-il-jobs-act-e-il-merito-liquido-1ged)
+- [La biblioteca di Borges:digitale.](https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f)
+- [Built a portfolio creator website, looking for feedback](https://dev.to/lorisgamer/built-a-portfolio-creator-website-looking-for-feedback-16d0)
 <!-- BLOG-POST-LIST:END -->
 
 
