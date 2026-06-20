@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Investigating a Hybrid LLM-GNN Model to Enhance the Efficiency of ADAPT-QAOA for Quantum Circuit Optimization](https://dev.to/mrzaizai2k/investigating-a-hybrid-llm-gnn-model-to-enhance-the-efficiency-of-adapt-qaoa-for-quantum-circuit-379j)
-- [EDD Closes the Loop — But Only Half of It](https://dev.to/karlheinz_reichel_7ee08d/edd-closes-the-loop-but-only-half-of-it-3984)
-- [I Open-Sourced My AI Agent&#39;s Brain. It&#39;s 18 Markdown Files.](https://dev.to/pini_solomon_cd97eed9f213/i-open-sourced-my-ai-agents-brain-its-18-markdown-files-86k)
-- [Unlocking UK Vehicle Data: Inside the Architecture of MOT History Free](https://dev.to/deiv46/unlocking-uk-vehicle-data-inside-the-architecture-of-mot-history-free-27b3)
+- [Making GBase 8c Auditing Work: Traceable, Retainable, and Queryable](https://dev.to/michaelfv/making-gbase-8c-auditing-work-traceable-retainable-and-queryable-202m)
+- [I built a self-hosted DPI-resistant tunnel over TLS + WebSocket in Rust](https://dev.to/__bf699f275acc/i-built-a-self-hosted-dpi-resistant-tunnel-over-tls-websocket-in-rust-3abd)
+- [The Law of Leaky Abstractions in the Angular Ecosystem](https://dev.to/duskoperic/the-law-of-leaky-abstractions-in-the-angular-ecosystem-59da)
+- [SIP Telephony Monitoring with eBPF: Full Observability for VoIP Infrastructure](https://dev.to/aibudaevv/sip-telephony-monitoring-with-ebpf-full-observability-for-voip-infrastructure-2h0)
 <!-- BLOG-POST-LIST:END -->
 
 
