@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 13. I built a software company. Here&#39;s everything I learned in 1 months.](https://dev.to/akhourianmolkumar/im-13-i-built-a-software-company-heres-everything-i-learned-in-2-months-22kf)
-- [The Code I Shared: Reflections on my best 29+ Merged Pull Requests in Open Source](https://dev.to/aniruddhaadak/the-code-i-shared-reflections-on-359-merged-pull-requests-in-open-source-gk2)
-- [Software Development Process: From Idea to Successful Product](https://dev.to/asif_foysal_682ed1f242ce4/software-development-process-from-idea-to-successful-product-bp2)
-- [Stop Wasting LLM Budgets: High-Performance Semantic Caching with Spring AI and pgvector](https://dev.to/machinecodingmaster/stop-wasting-llm-budgets-high-performance-semantic-caching-with-spring-ai-and-pgvector-2n1o)
+- [Stop Hitting Yourself: The Quiet Lie in Function Signatures](https://dev.to/samuel_ochaba_eb9c875fa89/stop-hitting-yourself-the-quiet-lie-in-function-signatures-d6m)
+- [Closing Chapter 1: From Query to Data](https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb)
+- [1.5.3 Join Nodes: NestLoop, HashJoin, MergeJoin](https://dev.to/joonghyukshin/153-join-nodes-nestloop-hashjoin-mergejoin-2fek)
+- [I Fixed the &quot;AI Commit Messages&quot; Problem in 20 Lines of Python](https://dev.to/enjoy_kumawat/i-fixed-the-ai-commit-messages-problem-in-50-lines-of-python-3a5a)
 <!-- BLOG-POST-LIST:END -->
 
 
