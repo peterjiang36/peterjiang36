@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [BITCOIN HACKATHON](https://dev.to/michaelochieng0/bitcoin-hackathon-1hke)
-- [Precision Loss and Rounding Exploits in Financial Smart Contracts](https://dev.to/stablenaira/precision-loss-and-rounding-exploits-in-financial-smart-contracts-4c93)
-- [Building LSTMs with PyTorch and Lightning AI Part 1: First Steps with LSTMs](https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-1-first-steps-with-lstms-3hem)
-- [The Imitation Game: Most people think they can spot an AI. Are you sure?](https://dev.to/quantumweb/the-imitation-game-most-people-think-they-can-spot-an-ai-are-you-sure-3h4b)
+- [Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos](https://dev.to/vanichitkara/ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos-4mo2)
+- [Why Rate Limits Kill Your AI Agents in Production &lpar;And the Patterns That Actually Work&rpar;](https://dev.to/mudassirworks/why-rate-limits-kill-your-ai-agents-in-production-and-the-patterns-that-actually-work-20n6)
+- [Building a 3D Game in the Browser Humbled Me. Here&#39;s Everything That Fought Back.](https://dev.to/arya_koste_5845807df94776/building-a-3d-game-in-the-browser-humbled-me-heres-everything-that-fought-back-4mmg)
+- [Self-Taught, Final Year, and Honestly Asking for Guidance](https://dev.to/cobra_kai_/self-taught-final-year-and-honestly-asking-for-guidance-52jm)
 <!-- BLOG-POST-LIST:END -->
 
 
