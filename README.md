@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is an Agent Loop? How AI Agents Reason, Act, and Iterate](https://dev.to/rish_poddar/what-is-an-agent-loop-how-ai-agents-reason-act-and-iterate-1675)
-- [How AI engines actually decide what to cite &lpar;ChatGPT, Perplexity, Gemini, AI Overviews&rpar;](https://dev.to/nitishyadav/how-ai-engines-actually-decide-what-to-cite-chatgpt-perplexity-gemini-ai-overviews-6bh)
-- [DNS is weird inside k8s on AWS](https://dev.to/harishteens/dns-is-weird-inside-k8s-on-aws-570c)
-- [Vector Databases Compared: pgvector, Qdrant, Pinecone, Weaviate](https://dev.to/nazar_boyko/vector-databases-compared-pgvector-qdrant-pinecone-weaviate-57an)
+- [I&#39;m 13. I built a software company. Here&#39;s everything I learned in 1 months.](https://dev.to/akhourianmolkumar/im-13-i-built-a-software-company-heres-everything-i-learned-in-2-months-22kf)
+- [The Code I Shared: Reflections on my best 29+ Merged Pull Requests in Open Source](https://dev.to/aniruddhaadak/the-code-i-shared-reflections-on-359-merged-pull-requests-in-open-source-gk2)
+- [Software Development Process: From Idea to Successful Product](https://dev.to/asif_foysal_682ed1f242ce4/software-development-process-from-idea-to-successful-product-bp2)
+- [Stop Wasting LLM Budgets: High-Performance Semantic Caching with Spring AI and pgvector](https://dev.to/machinecodingmaster/stop-wasting-llm-budgets-high-performance-semantic-caching-with-spring-ai-and-pgvector-2n1o)
 <!-- BLOG-POST-LIST:END -->
 
 
