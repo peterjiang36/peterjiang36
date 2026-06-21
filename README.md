@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mounting Your First Application](https://dev.to/tengxgfyrz67s/mounting-your-first-application-kl6)
-- [North Korean Hackers Poisoned 140+ npm Packages in an AI Dev Tooling Attack. Here&#39;s What Would Have Caught It.](https://dev.to/coridev/north-korean-hackers-poisoned-140-npm-packages-in-an-ai-dev-tooling-attack-heres-what-would-have-4c25)
-- [How to Write a Software Request So the Developer Builds It Right the First Time](https://dev.to/928builds/how-to-write-a-software-request-so-the-developer-builds-it-right-the-first-time-oia)
-- [How to Read Constraints and Immediately Know the Algorithm: A Jedi&#39;s Guide](https://dev.to/timevolt/how-to-read-constraints-and-immediately-know-the-algorithm-a-jedis-guide-1ad7)
+- [CI gates for AI-generated PRs need re-derivable evidence](https://dev.to/sjh9714/ci-gates-for-ai-generated-prs-need-re-derivable-evidence-2g4e)
+- [React.js ~useState Antipatterns~](https://dev.to/kkr0423/reactjs-usestate-antipatterns-58i9)
+- [Output is cheap. Judgment is the job.](https://dev.to/kayashaolu/output-is-cheap-judgment-is-the-job-1mm3)
+- [Struggling with Slow AI Responses: Building a Streaming Chat UI with SSE](https://dev.to/__c1b9e06dc90a7e0a676b/struggling-with-slow-ai-responses-building-a-streaming-chat-ui-with-sse-n1g)
 <!-- BLOG-POST-LIST:END -->
 
 
