@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Migrated From GPT-4o to DeepSeek — A Backend Engineer&#39;s Notes](https://dev.to/swift-logic-io218/why-i-migrated-from-gpt-4o-to-deepseek-a-backend-engineers-notes-18md)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-408k)
-- [What is a CVE and Why Does It Matter?](https://dev.to/nara_naghi/what-is-a-cve-and-why-does-it-matter-3602)
-- [If you knew how hard It was, would you still start?](https://dev.to/neilton_rocha_dev/if-you-knew-how-hard-it-was-would-you-still-start-40fn)
+- [Taming Error Handling in Laravel with Custom Exceptions](https://dev.to/gavinsykes/taming-error-handling-in-laravel-with-custom-exceptions-54ag)
+- [Bash: Brace expansion](https://dev.to/mesaquen/bash-brace-expansion-1gka)
+- [When SuSiE Says &#39;95% Confident&#39;, Is It?](https://dev.to/gbadedata/when-susie-says-95-confident-is-it-benchmarking-the-honesty-of-fine-mapping-credible-sets-206o)
+- [NOONFALL: A Solstice Game About a City Where the Sun Forgot to Set](https://dev.to/anaykushwaha/noonfall-a-solstice-game-about-a-city-where-the-sun-forgot-to-set-3cc1)
 <!-- BLOG-POST-LIST:END -->
 
 
