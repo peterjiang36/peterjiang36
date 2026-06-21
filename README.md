@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse engineering a DJI Mavic Pro remote: meeting the DUML protocol](https://dev.to/oliopti/reverse-engineering-a-dji-mavic-pro-remote-meeting-the-duml-protocol-3j5e)
-- [React State Management Without Redux or Zustand](https://dev.to/ctrotech/react-state-management-without-redux-or-zustand-3oc7)
-- [The Cheapest SMS API for Uganda and East Africa — UGX 20/SMS, Pay with Mobile Money](https://dev.to/yoolasms/the-cheapest-sms-api-for-uganda-and-east-africa-ugx-20sms-pay-with-mobile-money-5a3k)
-- [Aggressive Cows](https://dev.to/jaspreet_singh_86ae1740ac/aggressive-cows-5gcl)
+- [Why wp_mail&lpar;&rpar; silently eats your form notifications — and how to fix it for free](https://dev.to/mrpsiho/why-wpmail-silently-eats-your-form-notifications-and-how-to-fix-it-for-free-5ckl)
+- [Turing&#39;s Last Cipher — decrypt a message no one ever actually wrote](https://dev.to/georgpiwonka/turings-last-cipher-decrypt-a-message-no-one-ever-actually-wrote-506a)
+- [Every agent passport layer is grading its own exam](https://dev.to/mspro3210/every-agent-passport-layer-is-grading-its-own-exam-20do)
+- [How to Pass AWS SAA-C03 in 30 Days: The Study Plan I Wish I Had](https://dev.to/glenmiracle18/how-to-pass-aws-saa-c03-in-30-days-the-study-plan-i-wish-i-had-4bb6)
 <!-- BLOG-POST-LIST:END -->
 
 
