@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why wp_mail&lpar;&rpar; silently eats your form notifications — and how to fix it for free](https://dev.to/mrpsiho/why-wpmail-silently-eats-your-form-notifications-and-how-to-fix-it-for-free-5ckl)
-- [Turing&#39;s Last Cipher — decrypt a message no one ever actually wrote](https://dev.to/georgpiwonka/turings-last-cipher-decrypt-a-message-no-one-ever-actually-wrote-506a)
-- [Every agent passport layer is grading its own exam](https://dev.to/mspro3210/every-agent-passport-layer-is-grading-its-own-exam-20do)
-- [How to Pass AWS SAA-C03 in 30 Days: The Study Plan I Wish I Had](https://dev.to/glenmiracle18/how-to-pass-aws-saa-c03-in-30-days-the-study-plan-i-wish-i-had-4bb6)
+- [BITCOIN HACKATHON](https://dev.to/michaelochieng0/bitcoin-hackathon-1hke)
+- [Precision Loss and Rounding Exploits in Financial Smart Contracts](https://dev.to/stablenaira/precision-loss-and-rounding-exploits-in-financial-smart-contracts-4c93)
+- [Building LSTMs with PyTorch and Lightning AI Part 1: First Steps with LSTMs](https://dev.to/rijultp/building-lstms-with-pytorch-and-lightning-ai-part-1-first-steps-with-lstms-3hem)
+- [The Imitation Game: Most people think they can spot an AI. Are you sure?](https://dev.to/quantumweb/the-imitation-game-most-people-think-they-can-spot-an-ai-are-you-sure-3h4b)
 <!-- BLOG-POST-LIST:END -->
 
 
