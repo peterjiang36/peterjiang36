@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ending the 2 AM Nightmare: How My Backtrace Agent and GitLab Orbit Tame On-Call Chaos](https://dev.to/vanichitkara/ending-the-2-am-nightmare-how-my-backtrace-agent-and-gitlab-orbit-tame-on-call-chaos-4mo2)
-- [Why Rate Limits Kill Your AI Agents in Production &lpar;And the Patterns That Actually Work&rpar;](https://dev.to/mudassirworks/why-rate-limits-kill-your-ai-agents-in-production-and-the-patterns-that-actually-work-20n6)
-- [Building a 3D Game in the Browser Humbled Me. Here&#39;s Everything That Fought Back.](https://dev.to/arya_koste_5845807df94776/building-a-3d-game-in-the-browser-humbled-me-heres-everything-that-fought-back-4mmg)
-- [Self-Taught, Final Year, and Honestly Asking for Guidance](https://dev.to/cobra_kai_/self-taught-final-year-and-honestly-asking-for-guidance-52jm)
+- [You Shipped It. Nobody Saw It. Here&#39;s How to Fix That.](https://dev.to/nezbuilds/you-shipped-it-nobody-saw-it-heres-how-to-fix-that-ln3)
+- [Hit GitHub Actions limits too many times so I self hosted the CI in my living room](https://dev.to/ianqqu/hit-github-actions-limits-too-many-times-so-i-self-hosted-the-ci-in-my-living-room-5gob)
+- [Astrophysics &amp; AI with Python: The Ancient Art of Measuring Starlight](https://dev.to/programmingcentral/astrophysics-ai-with-python-the-ancient-art-of-measuring-starlight-596l)
+- [SOLS-RUNNER: My first educational game with AI to learn about Summer Solstice](https://dev.to/hung_hoang_a9067d2f773137/sols-runner-my-first-educational-game-with-ai-to-learn-about-summer-solstice-4ilh)
 <!-- BLOG-POST-LIST:END -->
 
 
