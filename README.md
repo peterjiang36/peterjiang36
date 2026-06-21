@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hitting Yourself: The Quiet Lie in Function Signatures](https://dev.to/samuel_ochaba_eb9c875fa89/stop-hitting-yourself-the-quiet-lie-in-function-signatures-d6m)
-- [Closing Chapter 1: From Query to Data](https://dev.to/joonghyukshin/closing-chapter-1-from-query-to-data-33nb)
-- [1.5.3 Join Nodes: NestLoop, HashJoin, MergeJoin](https://dev.to/joonghyukshin/153-join-nodes-nestloop-hashjoin-mergejoin-2fek)
-- [I Fixed the &quot;AI Commit Messages&quot; Problem in 20 Lines of Python](https://dev.to/enjoy_kumawat/i-fixed-the-ai-commit-messages-problem-in-50-lines-of-python-3a5a)
+- [Blackbox Monitoring vs Internal Metrics - The Gap Between &quot;Healthy&quot; and &quot;Working&quot;](https://dev.to/mrinal_narang_13a3d00eb37/blackbox-monitoring-vs-internal-metrics-the-gap-between-healthy-and-working-15ed)
+- [Your Body, Their Data](https://dev.to/rawveg/your-body-their-data-32bk)
+- [Prompt injection and LLM security for SaaS](https://dev.to/amit_nabarro_6e9ee3016c65/prompt-injection-and-llm-security-for-saas-458n)
+- [Kubernetes and Cloud Native Associate &lpar;KCNA&rpar; Study Notes](https://dev.to/bassyc/kubernetes-and-cloud-native-associate-kcna-study-notes-1ccj)
 <!-- BLOG-POST-LIST:END -->
 
 
