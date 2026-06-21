@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Claude-Generated Code Works But Feels Wrong &lpar;And What to Do About It&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-generated-code-works-but-feels-wrong-and-what-to-do-about-it-4407)
-- [What Is an Array, Really? I&#39;m Writing a Book to Find Out](https://dev.to/m__mdy__m/what-is-an-array-really-im-writing-a-book-to-find-out-pf1)
-- [Making digital content court-admissible: eIDAS timestamps and e-signatures](https://dev.to/instantprooflegal/making-digital-content-court-admissible-eidas-timestamps-and-e-signatures-3338)
-- [Petit pipeline LangGraph + Mistral AI](https://dev.to/hadil_trabelsi_d63a2f8104/petit-pipeline-langgraph-mistral-ai-mej)
+- [𝗪𝗵𝗮𝘁 𝗶𝗳 𝐫𝐞𝐥𝐢𝐚𝐛𝐥𝐲 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝐭𝐚𝐬𝐤𝐬 𝘄𝗮𝘀 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝘄𝗶𝘁𝗵𝗶𝗻 𝗿𝗲𝗮𝗰𝗵?!](https://dev.to/f4roukb/-55n5)
+- [&quot;Bro we should open a bar&quot;, don&#39;t be this guy](https://dev.to/erintomorri/bro-we-should-open-a-bar-dont-be-this-guy-3fmb)
+- [The Hidden Machinery of Quantum Reality](https://dev.to/ibmendoza/the-hidden-machinery-of-quantum-reality-2g85)
+- [How I Chose My Web Development Path as a Beginner](https://dev.to/teeteate/how-i-chose-my-web-development-path-as-a-beginner-kdo)
 <!-- BLOG-POST-LIST:END -->
 
 
