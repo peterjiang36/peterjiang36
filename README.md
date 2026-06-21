@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗪𝗵𝗮𝘁 𝗶𝗳 𝐫𝐞𝐥𝐢𝐚𝐛𝐥𝐲 𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗻𝗴 𝘆𝗼𝘂𝗿 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲 𝐭𝐚𝐬𝐤𝐬 𝘄𝗮𝘀 𝐟𝐢𝐧𝐚𝐥𝐥𝐲 𝘄𝗶𝘁𝗵𝗶𝗻 𝗿𝗲𝗮𝗰𝗵?!](https://dev.to/f4roukb/-55n5)
-- [&quot;Bro we should open a bar&quot;, don&#39;t be this guy](https://dev.to/erintomorri/bro-we-should-open-a-bar-dont-be-this-guy-3fmb)
-- [The Hidden Machinery of Quantum Reality](https://dev.to/ibmendoza/the-hidden-machinery-of-quantum-reality-2g85)
-- [How I Chose My Web Development Path as a Beginner](https://dev.to/teeteate/how-i-chose-my-web-development-path-as-a-beginner-kdo)
+- [Reverse engineering a DJI Mavic Pro remote: meeting the DUML protocol](https://dev.to/oliopti/reverse-engineering-a-dji-mavic-pro-remote-meeting-the-duml-protocol-3j5e)
+- [React State Management Without Redux or Zustand](https://dev.to/ctrotech/react-state-management-without-redux-or-zustand-3oc7)
+- [The Cheapest SMS API for Uganda and East Africa — UGX 20/SMS, Pay with Mobile Money](https://dev.to/yoolasms/the-cheapest-sms-api-for-uganda-and-east-africa-ugx-20sms-pay-with-mobile-money-5a3k)
+- [Aggressive Cows](https://dev.to/jaspreet_singh_86ae1740ac/aggressive-cows-5gcl)
 <!-- BLOG-POST-LIST:END -->
 
 
