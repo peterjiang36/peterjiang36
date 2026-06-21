@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Shipped It. Nobody Saw It. Here&#39;s How to Fix That.](https://dev.to/nezbuilds/you-shipped-it-nobody-saw-it-heres-how-to-fix-that-ln3)
-- [Hit GitHub Actions limits too many times so I self hosted the CI in my living room](https://dev.to/ianqqu/hit-github-actions-limits-too-many-times-so-i-self-hosted-the-ci-in-my-living-room-5gob)
-- [Astrophysics &amp; AI with Python: The Ancient Art of Measuring Starlight](https://dev.to/programmingcentral/astrophysics-ai-with-python-the-ancient-art-of-measuring-starlight-596l)
-- [SOLS-RUNNER: My first educational game with AI to learn about Summer Solstice](https://dev.to/hung_hoang_a9067d2f773137/sols-runner-my-first-educational-game-with-ai-to-learn-about-summer-solstice-4ilh)
+- [Sync and manage contacts across providers: Nylas Contacts API](https://dev.to/mqasimca/sync-and-manage-contacts-across-providers-nylas-contacts-api-3nne)
+- [Record and transcribe meetings with the Nylas Notetaker API](https://dev.to/mqasimca/record-and-transcribe-meetings-with-the-nylas-notetaker-api-2emk)
+- [Stop polling: real-time email and calendar webhooks with Nylas](https://dev.to/mqasimca/stop-polling-real-time-email-and-calendar-webhooks-with-nylas-534i)
+- [One calendar API for Google, Microsoft, and beyond: Nylas Calendar](https://dev.to/mqasimca/one-calendar-api-for-google-microsoft-and-beyond-nylas-calendar-46kk)
 <!-- BLOG-POST-LIST:END -->
 
 
