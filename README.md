@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i)
-- [RxJS in Angular — Chapter 7 | Combining Observables — `forkJoin`, `combineLatest`, `zip` &amp; More](https://dev.to/jps27cse/rxjs-in-angular-chapter-7-combining-observables-forkjoin-combinelatest-zip-more-25b)
-- [The Playwright Playbook — Bonus: Refactoring Schema Validation with Zod](https://dev.to/sshhfaiz/the-playwright-playbook-bonus-refactoring-schema-validation-with-zod-3400)
-- [Why I Switched from Cursor to Antigravity 🖥](https://dev.to/itzzsvr_tech74/why-i-switched-from-cursor-to-antigravity-400m)
+- [Why Your Claude-Generated Code Works But Feels Wrong &lpar;And What to Do About It&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-generated-code-works-but-feels-wrong-and-what-to-do-about-it-4407)
+- [What Is an Array, Really? I&#39;m Writing a Book to Find Out](https://dev.to/m__mdy__m/what-is-an-array-really-im-writing-a-book-to-find-out-pf1)
+- [Making digital content court-admissible: eIDAS timestamps and e-signatures](https://dev.to/instantprooflegal/making-digital-content-court-admissible-eidas-timestamps-and-e-signatures-3338)
+- [Petit pipeline LangGraph + Mistral AI](https://dev.to/hadil_trabelsi_d63a2f8104/petit-pipeline-langgraph-mistral-ai-mej)
 <!-- BLOG-POST-LIST:END -->
 
 
