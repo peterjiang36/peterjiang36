@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI gates for AI-generated PRs need re-derivable evidence](https://dev.to/sjh9714/ci-gates-for-ai-generated-prs-need-re-derivable-evidence-2g4e)
-- [React.js ~useState Antipatterns~](https://dev.to/kkr0423/reactjs-usestate-antipatterns-58i9)
-- [Output is cheap. Judgment is the job.](https://dev.to/kayashaolu/output-is-cheap-judgment-is-the-job-1mm3)
-- [Struggling with Slow AI Responses: Building a Streaming Chat UI with SSE](https://dev.to/__c1b9e06dc90a7e0a676b/struggling-with-slow-ai-responses-building-a-streaming-chat-ui-with-sse-n1g)
+- [lopdf vs pdfium in Rust — What I Learned Building a PDF App](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-what-i-learned-building-a-pdf-app-233b)
+- [I built a VAD that beats Silero, Pyannote, and WebRTC on noisy audio — here&#39;s how](https://dev.to/m_m_ce8454e07d6b8ffa6af4b/i-built-a-vad-that-beats-silero-pyannote-and-webrtc-on-noisy-audio-heres-how-4lmj)
+- [Kotlin](https://dev.to/vijayhiremath/kotlin-51he)
+- [Building a Transparent Digital SAT Score Estimator Without Pretending It Is Exact](https://dev.to/_258cd27a94f80dc3fcdac/building-a-transparent-digital-sat-score-estimator-without-pretending-it-is-exact-171i)
 <!-- BLOG-POST-LIST:END -->
 
 
