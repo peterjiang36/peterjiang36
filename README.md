@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Perfect AI SEO Playbook &lpar;And Why You Shouldn&#39;t Follow It&rpar;](https://dev.to/hammermei/the-perfect-ai-seo-playbook-and-why-you-shouldnt-follow-it-360i)
-- [My Agentic Engineering Workflow](https://dev.to/wynandpieters/my-agentic-engineering-workflow-2ocm)
-- [Shopify App Store Ranking: What Day 14 of a New Compliance App Launch Actually Looks Like](https://dev.to/lawebe/shopify-app-store-ranking-what-day-14-of-a-new-compliance-app-launch-actually-looks-like-li4)
-- [Building Real-Time Dashboards in Angular with WebSockets — A Complete Guide](https://dev.to/rigole/building-real-time-dashboards-in-angular-with-websockets-a-complete-guide-10he)
+- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i)
+- [RxJS in Angular — Chapter 7 | Combining Observables — `forkJoin`, `combineLatest`, `zip` &amp; More](https://dev.to/jps27cse/rxjs-in-angular-chapter-7-combining-observables-forkjoin-combinelatest-zip-more-25b)
+- [The Playwright Playbook — Bonus: Refactoring Schema Validation with Zod](https://dev.to/sshhfaiz/the-playwright-playbook-bonus-refactoring-schema-validation-with-zod-3400)
+- [Why I Switched from Cursor to Antigravity 🖥](https://dev.to/itzzsvr_tech74/why-i-switched-from-cursor-to-antigravity-400m)
 <!-- BLOG-POST-LIST:END -->
 
 
