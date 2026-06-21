@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sync and manage contacts across providers: Nylas Contacts API](https://dev.to/mqasimca/sync-and-manage-contacts-across-providers-nylas-contacts-api-3nne)
-- [Record and transcribe meetings with the Nylas Notetaker API](https://dev.to/mqasimca/record-and-transcribe-meetings-with-the-nylas-notetaker-api-2emk)
-- [Stop polling: real-time email and calendar webhooks with Nylas](https://dev.to/mqasimca/stop-polling-real-time-email-and-calendar-webhooks-with-nylas-534i)
-- [One calendar API for Google, Microsoft, and beyond: Nylas Calendar](https://dev.to/mqasimca/one-calendar-api-for-google-microsoft-and-beyond-nylas-calendar-46kk)
+- [Why I Migrated From GPT-4o to DeepSeek — A Backend Engineer&#39;s Notes](https://dev.to/swift-logic-io218/why-i-migrated-from-gpt-4o-to-deepseek-a-backend-engineers-notes-18md)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-408k)
+- [What is a CVE and Why Does It Matter?](https://dev.to/nara_naghi/what-is-a-cve-and-why-does-it-matter-3602)
+- [If you knew how hard It was, would you still start?](https://dev.to/neilton_rocha_dev/if-you-knew-how-hard-it-was-would-you-still-start-40fn)
 <!-- BLOG-POST-LIST:END -->
 
 
