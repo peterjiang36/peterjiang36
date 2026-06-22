@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Have a Git Problem. You Have a Context Problem.](https://dev.to/kandeepa_sundaram/you-dont-have-a-git-problem-you-have-a-context-problem-1co2)
-- [Linus Torvalds is Right: AI is a Compiler, Not a Coder &lpar;And Why &quot;Vibe Coding&quot; Won&#39;t Survive Production&rpar;](https://dev.to/itzzsvr_tech74/linus-torvalds-is-right-ai-is-a-compiler-not-a-coder-and-why-vibe-coding-wont-survive-41eb)
-- [Are We Ignoring Cryptography&#39;s Golden Age?](https://dev.to/prabashanadev/are-we-ignoring-cryptographys-golden-age-5h)
-- [Azure DevOps issuer in WIF service connections heads for July 2027 retirement](https://dev.to/leobaniak/azure-devops-issuer-in-wif-service-connections-heads-for-july-2027-retirement-4al5)
+- [Designing a privacy-first quiz page for instant scoring](https://dev.to/code280fox/designing-a-privacy-first-quiz-page-for-instant-scoring-2inj)
+- [I built a free traffic exchange for indie founders &lpar;and why nobody else did&rpar;](https://dev.to/danielabinav16/i-built-a-free-traffic-exchange-for-indie-founders-and-why-nobody-else-did-529j)
+- [Understanding OpenID Connect Federation for Seamless Cross-Organization SSO](https://dev.to/iamdevbox/understanding-openid-connect-federation-for-seamless-cross-organization-sso-38k3)
+- [Building Digester: A Cloud-Native Knowledge Concierge](https://dev.to/disha_sethi_6d9d0a8679733/building-digester-a-cloud-native-knowledge-concierge-212h)
 <!-- BLOG-POST-LIST:END -->
 
 
