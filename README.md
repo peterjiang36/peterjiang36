@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java To A Native Windows EXE: No JVM, 5MB, x64 And Arm](https://dev.to/codenameone/java-to-a-native-windows-exe-no-jvm-5mb-x64-and-arm-4fel)
-- [A year of the EAA — does your component library&#39;s CI catch a11y violations yet?](https://dev.to/dyingangel666/a-year-of-the-eaa-does-your-component-librarys-ci-catch-a11y-violations-yet-34kb)
-- [Governed AI You Own: Why the Next Era of Shopify Support Isn&#39;t More Autonomy](https://dev.to/syednoor760dev/governed-ai-you-own-why-the-next-era-of-shopify-support-isnt-more-autonomy-30g)
-- [I Built a Tool That Turns YouTube Videos Into Notion Pages — Here’s How](https://dev.to/ibnh/i-built-a-tool-that-turns-youtube-videos-into-notion-pages-heres-how-42ag)
+- [You Don&#39;t Have a Git Problem. You Have a Context Problem.](https://dev.to/kandeepa_sundaram/you-dont-have-a-git-problem-you-have-a-context-problem-1co2)
+- [Linus Torvalds is Right: AI is a Compiler, Not a Coder &lpar;And Why &quot;Vibe Coding&quot; Won&#39;t Survive Production&rpar;](https://dev.to/itzzsvr_tech74/linus-torvalds-is-right-ai-is-a-compiler-not-a-coder-and-why-vibe-coding-wont-survive-41eb)
+- [Are We Ignoring Cryptography&#39;s Golden Age?](https://dev.to/prabashanadev/are-we-ignoring-cryptographys-golden-age-5h)
+- [Azure DevOps issuer in WIF service connections heads for July 2027 retirement](https://dev.to/leobaniak/azure-devops-issuer-in-wif-service-connections-heads-for-july-2027-retirement-4al5)
 <!-- BLOG-POST-LIST:END -->
 
 
