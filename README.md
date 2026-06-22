@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A laptop, a folder, and a 5:21 PM email](https://dev.to/alisterbaroi/a-laptop-a-folder-and-a-521-pm-email-54bp)
-- [[Boost]](https://dev.to/nawab_kumar_sarraf/-34fd)
-- [How to Generate Unit Tests from a Function Using AI](https://dev.to/leveragenotes/how-to-generate-unit-tests-from-a-function-using-ai-173m)
-- [Payload v4: every block gets its own TypeScript interface &lpar;hashed on collision&rpar;](https://dev.to/zawoj/payload-v4-every-block-gets-its-own-typescript-interface-hashed-on-collision-1dld)
+- [Introducing kazi-mcp: Labor Market Coordination for Kenya&#39;s 15 Million Informal Workers](https://dev.to/gabrielmahia/introducing-kazi-mcp-labor-market-coordination-for-kenyas-15-million-informal-workers-37mm)
+- [Como uso IA para produzir conteúdo com identidade visual consistente sem equipe](https://dev.to/nauitermaster/como-uso-ia-para-produzir-conteudo-com-identidade-visual-consistente-sem-equipe-36ml)
+- [I Built a Policy Enforcement Layer for Vercel&#39;s Eve Agent Framework. Here&#39;s What I Learned About AI Governance the Hard Way.](https://dev.to/omotayojayone/i-built-a-policy-enforcement-layer-for-vercels-eve-agent-framework-heres-what-i-learned-about-ai-1758)
+- [Wearable Data vs Medical Data: What Developers Must Understand](https://dev.to/shradha_puri/wearable-data-vs-medical-data-what-developers-must-understand-40n8)
 <!-- BLOG-POST-LIST:END -->
 
 
