@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Logic Board Diagnostics: How to Track Down a Shorted Power Rail on a MacBook Motherboard](https://dev.to/danish_b623e2281a7915ce30/advanced-logic-board-diagnostics-how-to-track-down-a-shorted-power-rail-on-a-macbook-motherboard-27mb)
-- [The Role of CWE in Software Development](https://dev.to/nara_naghi/the-role-of-cwe-in-software-development-go3)
-- [Nvidia wants enterprises to run agents safely. NemoClaw is how.](https://dev.to/thegatewayguy/nvidia-wants-enterprises-to-run-agents-safely-nemoclaw-is-how-4ad6)
-- [Penpot for Developers: The Open-Source Design Tool That Speaks Your Language](https://dev.to/arshtechpro/penpot-for-developers-the-open-source-design-tool-that-speaks-your-language-47p)
+- [CtroEnv vs Zod, envalid, t3-env, Which Env Validator Should You Use?](https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln)
+- [how do you get real-world experience before your first job?](https://dev.to/arianna/how-do-you-get-real-world-experience-before-your-first-job-59eg)
+- [Running Async Python Inside Celery Is Harder Than You Think.](https://dev.to/akoladefaj/running-async-python-inside-celery-is-harder-than-you-think-2046)
+- [Building a Design System Without Recreating CSS](https://dev.to/stinklewinks/building-a-design-system-without-recreating-css-1a41)
 <!-- BLOG-POST-LIST:END -->
 
 
