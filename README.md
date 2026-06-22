@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a fully local AI assistant at 16 — no cloud, no API keys, runs on your GPU](https://dev.to/shriisoot/i-built-a-fully-local-ai-assistant-at-16-no-cloud-no-api-keys-runs-on-your-gpu-am4)
-- [Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context](https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08)
-- [DuckDB 1.5.2, PostgreSQL Internal Stats, and SQLite Virtual Table xUpdate Deep Dive](https://dev.to/soytuber/duckdb-152-postgresql-internal-stats-and-sqlite-virtual-table-xupdate-deep-dive-ll1)
-- [Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.](https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi)
+- [Advanced Logic Board Diagnostics: How to Track Down a Shorted Power Rail on a MacBook Motherboard](https://dev.to/danish_b623e2281a7915ce30/advanced-logic-board-diagnostics-how-to-track-down-a-shorted-power-rail-on-a-macbook-motherboard-27mb)
+- [The Role of CWE in Software Development](https://dev.to/nara_naghi/the-role-of-cwe-in-software-development-go3)
+- [Nvidia wants enterprises to run agents safely. NemoClaw is how.](https://dev.to/thegatewayguy/nvidia-wants-enterprises-to-run-agents-safely-nemoclaw-is-how-4ad6)
+- [Penpot for Developers: The Open-Source Design Tool That Speaks Your Language](https://dev.to/arshtechpro/penpot-for-developers-the-open-source-design-tool-that-speaks-your-language-47p)
 <!-- BLOG-POST-LIST:END -->
 
 
