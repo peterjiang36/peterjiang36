@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enum Type Safety in C](https://dev.to/jphutchins/enum-type-safety-in-c-1no)
-- [Shopify&#39;s UCP makes your catalog agent-buyable. The rest of your storefront still isn&#39;t — here&#39;s where WebMCP fits.](https://dev.to/r0bertini/shopifys-ucp-makes-your-catalog-agent-buyable-the-rest-of-your-storefront-still-isnt-heres-pi9)
-- [Check out my latest write-up on CoderLegion: &quot;How I’m Building My Cybersecurity Learning Routine &lpar;Without Getting Overwhelmed&rpar;&quot;
-
-Read the full article here: https://coderlegion.com/21094/how-im-building-my-cybersecurity-learning-routine-without-getting-](https://dev.to/the_duchess_of_hackers/check-out-my-latest-write-up-on-coderlegion-how-im-building-my-cybersecurity-learning-routine-4npf)
-- [여러 에이전트가 협업하는 업무 자동화 시스템 설계 방법](https://dev.to/treesoop_537fb02f65507c5e/yeoreo-eijeonteuga-hyeobeobhaneun-eobmu-jadonghwa-siseutem-seolgye-bangbeob-hik)
+- [[Rust Guide] 13.4. Capturing the Environment With Closures](https://dev.to/someb1oody/rust-guide-134-capturing-the-environment-with-closures-2l97)
+- [Heliograph — carry the light through the longest night, and finish a message a machine could never end](https://dev.to/knightrider2070/heliograph-carry-the-light-through-the-longest-night-and-finish-a-message-a-machine-could-never-35cj)
+- [The Invisible Duct Tape of the Internet: Backend Tools You Hear About But Never Fully Get](https://dev.to/mursalfk/the-invisible-duct-tape-of-the-internet-backend-tools-you-hear-about-but-never-fully-get-3f0f)
+- [GitHub Copilot is usage-based now. Here&#39;s what that changes for terminal users.](https://dev.to/rapls/github-copilot-is-usage-based-now-heres-what-that-changes-for-terminal-users-3c2p)
 <!-- BLOG-POST-LIST:END -->
 
 
