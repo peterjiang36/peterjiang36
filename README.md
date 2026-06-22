@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Error Handling in Laravel with Custom Exceptions](https://dev.to/gavinsykes/taming-error-handling-in-laravel-with-custom-exceptions-54ag)
-- [Bash: Brace expansion](https://dev.to/mesaquen/bash-brace-expansion-1gka)
-- [When SuSiE Says &#39;95% Confident&#39;, Is It?](https://dev.to/gbadedata/when-susie-says-95-confident-is-it-benchmarking-the-honesty-of-fine-mapping-credible-sets-206o)
-- [NOONFALL: A Solstice Game About a City Where the Sun Forgot to Set](https://dev.to/anaykushwaha/noonfall-a-solstice-game-about-a-city-where-the-sun-forgot-to-set-3cc1)
+- [Enum Type Safety in C](https://dev.to/jphutchins/enum-type-safety-in-c-1no)
+- [Shopify&#39;s UCP makes your catalog agent-buyable. The rest of your storefront still isn&#39;t — here&#39;s where WebMCP fits.](https://dev.to/r0bertini/shopifys-ucp-makes-your-catalog-agent-buyable-the-rest-of-your-storefront-still-isnt-heres-pi9)
+- [Check out my latest write-up on CoderLegion: &quot;How I’m Building My Cybersecurity Learning Routine &lpar;Without Getting Overwhelmed&rpar;&quot;
+
+Read the full article here: https://coderlegion.com/21094/how-im-building-my-cybersecurity-learning-routine-without-getting-](https://dev.to/the_duchess_of_hackers/check-out-my-latest-write-up-on-coderlegion-how-im-building-my-cybersecurity-learning-routine-4npf)
+- [여러 에이전트가 협업하는 업무 자동화 시스템 설계 방법](https://dev.to/treesoop_537fb02f65507c5e/yeoreo-eijeonteuga-hyeobeobhaneun-eobmu-jadonghwa-siseutem-seolgye-bangbeob-hik)
 <!-- BLOG-POST-LIST:END -->
 
 
