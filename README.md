@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing kazi-mcp: Labor Market Coordination for Kenya&#39;s 15 Million Informal Workers](https://dev.to/gabrielmahia/introducing-kazi-mcp-labor-market-coordination-for-kenyas-15-million-informal-workers-37mm)
-- [Como uso IA para produzir conteúdo com identidade visual consistente sem equipe](https://dev.to/nauitermaster/como-uso-ia-para-produzir-conteudo-com-identidade-visual-consistente-sem-equipe-36ml)
-- [I Built a Policy Enforcement Layer for Vercel&#39;s Eve Agent Framework. Here&#39;s What I Learned About AI Governance the Hard Way.](https://dev.to/omotayojayone/i-built-a-policy-enforcement-layer-for-vercels-eve-agent-framework-heres-what-i-learned-about-ai-1758)
-- [Wearable Data vs Medical Data: What Developers Must Understand](https://dev.to/shradha_puri/wearable-data-vs-medical-data-what-developers-must-understand-40n8)
+- [Java To A Native Windows EXE: No JVM, 5MB, x64 And Arm](https://dev.to/codenameone/java-to-a-native-windows-exe-no-jvm-5mb-x64-and-arm-4fel)
+- [A year of the EAA — does your component library&#39;s CI catch a11y violations yet?](https://dev.to/dyingangel666/a-year-of-the-eaa-does-your-component-librarys-ci-catch-a11y-violations-yet-34kb)
+- [Governed AI You Own: Why the Next Era of Shopify Support Isn&#39;t More Autonomy](https://dev.to/syednoor760dev/governed-ai-you-own-why-the-next-era-of-shopify-support-isnt-more-autonomy-30g)
+- [I Built a Tool That Turns YouTube Videos Into Notion Pages — Here’s How](https://dev.to/ibnh/i-built-a-tool-that-turns-youtube-videos-into-notion-pages-heres-how-42ag)
 <!-- BLOG-POST-LIST:END -->
 
 
