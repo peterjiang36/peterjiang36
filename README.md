@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I tracked down a 36GB memory leak in a Claude Code memory server](https://dev.to/jazzmax/how-i-tracked-down-a-36gb-memory-leak-in-a-claude-code-memory-server-27bo)
-- [AI agents shouldn&#39;t be dumping diagrams on humans](https://dev.to/naor_sabag/ai-agents-shouldnt-be-dumping-diagrams-on-humans-26ki)
-- [Why Your Prompt Is Only 5% of What the Model Sees](https://dev.to/abhii07/why-your-prompt-is-only-5-of-what-the-model-sees-38n9)
-- [I Built a Personal Intelligence System That Curates GitHub and News for Me — Here&#39;s How It Works](https://dev.to/mediblacksand_f0ea36c53fb/i-built-a-personal-intelligence-system-that-curates-github-and-news-for-me-heres-how-it-works-5fd4)
+- [A laptop, a folder, and a 5:21 PM email](https://dev.to/alisterbaroi/a-laptop-a-folder-and-a-521-pm-email-54bp)
+- [[Boost]](https://dev.to/nawab_kumar_sarraf/-34fd)
+- [How to Generate Unit Tests from a Function Using AI](https://dev.to/leveragenotes/how-to-generate-unit-tests-from-a-function-using-ai-173m)
+- [Payload v4: every block gets its own TypeScript interface &lpar;hashed on collision&rpar;](https://dev.to/zawoj/payload-v4-every-block-gets-its-own-typescript-interface-hashed-on-collision-1dld)
 <!-- BLOG-POST-LIST:END -->
 
 
