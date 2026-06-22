@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You can&#39;t be your own second view: four AI failures from one day of operator work](https://dev.to/jugeni/you-cant-be-your-own-second-view-four-ai-failures-from-one-day-of-operator-work-2e5o)
-- [Agenvoy, Hermes, Pi — An AI Agent Platform Comparison](https://dev.to/pardnchiu/agenvoy-hermes-pi-an-ai-agent-platform-comparison-3p7p)
-- [Astrophysics &amp; AI with Python: Unlocking the Secrets of Spectral Lines and Redshift](https://dev.to/programmingcentral/astrophysics-ai-with-python-unlocking-the-secrets-of-spectral-lines-and-redshift-4fg9)
-- [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm)
+- [I built a fully local AI assistant at 16 — no cloud, no API keys, runs on your GPU](https://dev.to/shriisoot/i-built-a-fully-local-ai-assistant-at-16-no-cloud-no-api-keys-runs-on-your-gpu-am4)
+- [Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context](https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08)
+- [DuckDB 1.5.2, PostgreSQL Internal Stats, and SQLite Virtual Table xUpdate Deep Dive](https://dev.to/soytuber/duckdb-152-postgresql-internal-stats-and-sqlite-virtual-table-xupdate-deep-dive-ll1)
+- [Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.](https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi)
 <!-- BLOG-POST-LIST:END -->
 
 
