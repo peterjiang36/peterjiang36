@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a privacy-first quiz page for instant scoring](https://dev.to/code280fox/designing-a-privacy-first-quiz-page-for-instant-scoring-2inj)
-- [I built a free traffic exchange for indie founders &lpar;and why nobody else did&rpar;](https://dev.to/danielabinav16/i-built-a-free-traffic-exchange-for-indie-founders-and-why-nobody-else-did-529j)
-- [Understanding OpenID Connect Federation for Seamless Cross-Organization SSO](https://dev.to/iamdevbox/understanding-openid-connect-federation-for-seamless-cross-organization-sso-38k3)
-- [Building Digester: A Cloud-Native Knowledge Concierge](https://dev.to/disha_sethi_6d9d0a8679733/building-digester-a-cloud-native-knowledge-concierge-212h)
+- [You can&#39;t be your own second view: four AI failures from one day of operator work](https://dev.to/jugeni/you-cant-be-your-own-second-view-four-ai-failures-from-one-day-of-operator-work-2e5o)
+- [Agenvoy, Hermes, Pi — An AI Agent Platform Comparison](https://dev.to/pardnchiu/agenvoy-hermes-pi-an-ai-agent-platform-comparison-3p7p)
+- [Astrophysics &amp; AI with Python: Unlocking the Secrets of Spectral Lines and Redshift](https://dev.to/programmingcentral/astrophysics-ai-with-python-unlocking-the-secrets-of-spectral-lines-and-redshift-4fg9)
+- [Coding an Extension that Summarises Web Pages with HTML, CSS, and JS](https://dev.to/hr21don/coding-an-extension-that-summarises-web-pages-with-html-css-and-js-opm)
 <!-- BLOG-POST-LIST:END -->
 
 
