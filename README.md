@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Rust Guide] 13.4. Capturing the Environment With Closures](https://dev.to/someb1oody/rust-guide-134-capturing-the-environment-with-closures-2l97)
-- [Heliograph — carry the light through the longest night, and finish a message a machine could never end](https://dev.to/knightrider2070/heliograph-carry-the-light-through-the-longest-night-and-finish-a-message-a-machine-could-never-35cj)
-- [The Invisible Duct Tape of the Internet: Backend Tools You Hear About But Never Fully Get](https://dev.to/mursalfk/the-invisible-duct-tape-of-the-internet-backend-tools-you-hear-about-but-never-fully-get-3f0f)
-- [GitHub Copilot is usage-based now. Here&#39;s what that changes for terminal users.](https://dev.to/rapls/github-copilot-is-usage-based-now-heres-what-that-changes-for-terminal-users-3c2p)
+- [How I tracked down a 36GB memory leak in a Claude Code memory server](https://dev.to/jazzmax/how-i-tracked-down-a-36gb-memory-leak-in-a-claude-code-memory-server-27bo)
+- [AI agents shouldn&#39;t be dumping diagrams on humans](https://dev.to/naor_sabag/ai-agents-shouldnt-be-dumping-diagrams-on-humans-26ki)
+- [Why Your Prompt Is Only 5% of What the Model Sees](https://dev.to/abhii07/why-your-prompt-is-only-5-of-what-the-model-sees-38n9)
+- [I Built a Personal Intelligence System That Curates GitHub and News for Me — Here&#39;s How It Works](https://dev.to/mediblacksand_f0ea36c53fb/i-built-a-personal-intelligence-system-that-curates-github-and-news-for-me-heres-how-it-works-5fd4)
 <!-- BLOG-POST-LIST:END -->
 
 
