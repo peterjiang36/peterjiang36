@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fetch YouTube Transcripts for AI Summarization and RAG](https://dev.to/walnutserv/how-to-fetch-youtube-transcripts-for-ai-summarization-and-rag-4137)
-- [Complete Guide to Mobile Device Management Testing: Process, Challenges &amp; Solutions](https://dev.to/irniaqa/complete-guide-to-mobile-device-management-testing-process-challenges-solutions-8a0)
-- [91% pass rate. Gate green. Shipped. Worst regression we had all quarter.](https://dev.to/ethanwritesai/91-pass-rate-gate-green-shipped-worst-regression-we-had-all-quarter-4dfn)
-- [Building an interactive tarot card component in React: flip animations, state machines, and 78 lazy-loaded images](https://dev.to/jakub_inithouse/building-an-interactive-tarot-card-component-in-react-flip-animations-state-machines-and-78-3a6)
+- [Simple Python Calculator](https://dev.to/mu54mm4d/simple-python-calculator-58pe)
+- [Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh)
+- [Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04](https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn)
+- [Deploying Qdrant Open-Source Vector Database for AI Applications on Ubuntu 24.04](https://dev.to/vultr/deploying-qdrant-open-source-vector-database-for-ai-applications-on-ubuntu-2404-5235)
 <!-- BLOG-POST-LIST:END -->
 
 
