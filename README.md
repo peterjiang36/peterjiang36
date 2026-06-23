@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Humanoid Robots built 30,000 BMWs and cleaned Airport Terminals for $15,400. Here&#39;s why the Pilot Era is over.](https://dev.to/xberry-tech/humanoid-robots-built-30000-bmws-and-cleaned-airport-terminals-for-15400-heres-why-the-pilot-480p)
-- [How to Create a GitHub Pull Request from the Terminal](https://dev.to/tahsin000/how-to-create-a-github-pull-request-from-the-terminal-3a0g)
-- [I&#39;m moving house🏡 - What gadgets, furniture and whatnot do I need for The Ultimate Setup™? 🚀](https://dev.to/thormeier/im-moving-house-what-gadgets-furniture-and-whatnot-do-i-need-for-the-ultimate-setup-5bp9)
-- [Building an AI Scoring Pipeline for 10,000+ Listings a Day](https://dev.to/abdul___rehman/building-an-ai-scoring-pipeline-for-10000-listings-a-day-1a5g)
+- [I thought 200 people visited my site. It was 11.](https://dev.to/azaanaliraza/i-thought-200-people-visited-my-site-it-was-11-50ic)
+- [The Governance Crisis](https://dev.to/rawveg/the-governance-crisis-l11)
+- [I&#39;m Building a Code Security Analyzer. A Security Tool Found a Critical In It.](https://dev.to/stkremen/im-building-a-code-security-analyzer-a-security-tool-found-a-critical-in-it-4b77)
+- [Synchronous Executors – Completing the Pub/Sub Picture](https://dev.to/artstesh/synchronous-executors-completing-the-pubsub-picture-1pd4)
 <!-- BLOG-POST-LIST:END -->
 
 
