@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Store Is a Shared Dependency — Why Scoped State Ownership Wins](https://dev.to/sdux-vault/global-store-is-a-shared-dependency-why-scoped-state-ownership-wins-3g06)
-- [How Solid Queue Became the Rails 8 default, and More on Open Source Maintainership](https://dev.to/auth0/how-solid-queue-became-the-rails-8-default-and-more-on-open-source-maintainership-2859)
-- [TPU Developer Hub: A Technical Review of a High-Performance AI Platform](https://dev.to/fernando_azevedo_6844e930/tpu-developer-hub-a-technical-review-of-a-high-performance-ai-platform-2b6k)
-- [Pixels to Planning: Geospatial Data Platforms on AWS](https://dev.to/fernando_azevedo_6844e930/pixels-to-planning-geospatial-data-platforms-on-aws-1kmb)
+- [Want AI to work in parallel? First give each one its own workspace](https://dev.to/kanfu-panda/want-ai-to-work-in-parallel-first-give-each-one-its-own-workspace-40ch)
+- [Running a LangGraph ReAct Agent in Production: OpenAI-Compatible API + Multi-Model Gateway + One-Line Tracing](https://dev.to/javaking1129/running-a-langgraph-react-agent-in-production-openai-compatible-api-multi-model-gateway--emi)
+- [The SaaS Churn Rate Formula: 3 Calculations That Expose Your Real Runway Risk](https://dev.to/saasdev11/the-saas-churn-rate-formula-3-calculations-that-expose-your-real-runway-risk-30bb)
+- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
 <!-- BLOG-POST-LIST:END -->
 
 
