@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [User Roles &amp; Permissions for Business](https://dev.to/ngbplatform/user-roles-permissions-for-business-3g9p)
-- [AI Work Doesn&#39;t Fail All At Once. It Drifts](https://dev.to/lweiss01/ai-work-doesnt-fail-all-at-once-it-drifts-332b)
-- [RecursiveMAS Playground: Browser-Native Implementation of Recursive Multi-Agent Systems](https://dev.to/vishalmysore/recursivemas-playground-browser-native-implementation-of-recursive-multi-agent-systems-2eck)
-- [The Real Architecture Behind AI Entertainment: Latency, Provenance, and Cost-Per-Minute](https://dev.to/sauvast/the-real-architecture-behind-ai-entertainment-latency-provenance-and-cost-per-minute-bg9)
+- [Running Claude Code and Codex Together Instead of Choosing One](https://dev.to/prithvi_bharadwaj_d1c875e/running-claude-code-and-codex-together-instead-of-choosing-one-3pa8)
+- [How to Structure Production-Ready CI/CD Pipelines at Scale](https://dev.to/thevwathrey/how-to-structure-production-ready-cicd-pipelines-at-scale-4l0g)
+- [When your agent does something bad, can you tell which agent did it?](https://dev.to/brennhill/when-your-agent-does-something-bad-can-you-tell-which-agent-did-it-37a2)
+- [After an agent deleted a production database, I mapped what actually stops these failures](https://dev.to/brennhill/after-an-agent-deleted-a-production-database-i-mapped-what-actually-stops-these-failures-5bfl)
 <!-- BLOG-POST-LIST:END -->
 
 
