@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Automation in 2026: The Hard Part Is No Longer Writing the First Test](https://dev.to/randomsquirrel802/test-automation-in-2026-the-hard-part-is-no-longer-writing-the-first-test-eci)
-- [The First Integrated Circuit Was Built in 1958](https://dev.to/fluidwire/the-first-integrated-circuit-was-built-in-1958-5cfl)
-- [The Monotonic Stack: Like Gandalf&#39;s Staff for Array Problems](https://dev.to/timevolt/the-monotonic-stack-like-gandalfs-staff-for-array-problems-2ghb)
-- [Your Data Engineering Take-Home Is Now 20 Hours of Free Work](https://dev.to/datadriven/your-data-engineering-take-home-is-now-20-hours-of-free-work-10l4)
+- [Global Store Is a Shared Dependency — Why Scoped State Ownership Wins](https://dev.to/sdux-vault/global-store-is-a-shared-dependency-why-scoped-state-ownership-wins-3g06)
+- [How Solid Queue Became the Rails 8 default, and More on Open Source Maintainership](https://dev.to/auth0/how-solid-queue-became-the-rails-8-default-and-more-on-open-source-maintainership-2859)
+- [TPU Developer Hub: A Technical Review of a High-Performance AI Platform](https://dev.to/fernando_azevedo_6844e930/tpu-developer-hub-a-technical-review-of-a-high-performance-ai-platform-2b6k)
+- [Pixels to Planning: Geospatial Data Platforms on AWS](https://dev.to/fernando_azevedo_6844e930/pixels-to-planning-geospatial-data-platforms-on-aws-1kmb)
 <!-- BLOG-POST-LIST:END -->
 
 
