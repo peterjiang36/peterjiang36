@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing and Bitcoin: What the 2031 Federal Deadline Means for Developers](https://dev.to/harvey_the_dev/quantum-computing-and-bitcoin-what-the-2031-federal-deadline-means-for-developers-27m0)
-- [Agent memory v2 — seven rules after the poisoning](https://dev.to/israelhen153/agent-memory-v2-seven-rules-after-the-poisoning-2d9h)
-- [Talking about the &quot;design-code roundtrip that isn&#39;t&quot; at AIE World&#39;s Fair](https://dev.to/gojongo/talking-about-the-design-code-roundtrip-that-isnt-at-aie-worlds-fair-12e0)
-- [Eval-Driven Agent Development: How I Stopped Tuning Prompts on Vibes](https://dev.to/rickjms/eval-driven-agent-development-how-i-stopped-tuning-prompts-on-vibes-1189)
+- [How to Fetch YouTube Transcripts for AI Summarization and RAG](https://dev.to/walnutserv/how-to-fetch-youtube-transcripts-for-ai-summarization-and-rag-4137)
+- [Complete Guide to Mobile Device Management Testing: Process, Challenges &amp; Solutions](https://dev.to/irniaqa/complete-guide-to-mobile-device-management-testing-process-challenges-solutions-8a0)
+- [91% pass rate. Gate green. Shipped. Worst regression we had all quarter.](https://dev.to/ethanwritesai/91-pass-rate-gate-green-shipped-worst-regression-we-had-all-quarter-4dfn)
+- [Building an interactive tarot card component in React: flip animations, state machines, and 78 lazy-loaded images](https://dev.to/jakub_inithouse/building-an-interactive-tarot-card-component-in-react-flip-animations-state-machines-and-78-3a6)
 <!-- BLOG-POST-LIST:END -->
 
 
