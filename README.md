@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebalancing a portfolio with only your next deposit &lpar;no selling&rpar;](https://dev.to/diegocard117/rebalancing-a-portfolio-with-only-your-next-deposit-no-selling-3ma6)
-- [Infrastructure as Code with OpenTofu/Terraform](https://dev.to/mrduguo/infrastructure-as-code-with-opentofuterraform-1i58)
-- [The AI agent habit that was quietly wasting my time and tokens](https://dev.to/kstoyanovai/the-ai-agent-habit-that-was-quietly-wasting-my-time-and-tokens-2jmi)
-- [Too cheap to be good? Think again.](https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0)
+- [Test Automation in 2026: The Hard Part Is No Longer Writing the First Test](https://dev.to/randomsquirrel802/test-automation-in-2026-the-hard-part-is-no-longer-writing-the-first-test-eci)
+- [The First Integrated Circuit Was Built in 1958](https://dev.to/fluidwire/the-first-integrated-circuit-was-built-in-1958-5cfl)
+- [The Monotonic Stack: Like Gandalf&#39;s Staff for Array Problems](https://dev.to/timevolt/the-monotonic-stack-like-gandalfs-staff-for-array-problems-2ghb)
+- [Your Data Engineering Take-Home Is Now 20 Hours of Free Work](https://dev.to/datadriven/your-data-engineering-take-home-is-now-20-hours-of-free-work-10l4)
 <!-- BLOG-POST-LIST:END -->
 
 
