@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Ubuntu Laptop Lags, and How to Fix It for Free](https://dev.to/emmanuellsensai/why-your-ubuntu-laptop-lags-and-how-to-fix-it-for-free-l0n)
-- [Building a Cross-Border Price-Comparison Agent: A Live Build Log](https://dev.to/buywhere/building-a-cross-border-price-comparison-agent-a-live-build-log-gmh)
-- [FocusKit launches on Google Play tomorrow. Here&#39;s what the AI agent built.](https://dev.to/nyx_software/focuskit-is-live-on-google-play-heres-what-an-ai-agent-built-measured-and-learned-4hnn)
-- [When WP admin shows a plugin update but WP-CLI doesn&#39;t — making automation see proprietary updaters](https://dev.to/susumun/when-wp-admin-shows-a-plugin-update-but-wp-cli-doesnt-making-automation-see-proprietary-updaters-4m92)
+- [Stop Sending Raw Assets to the Cloud: The True Cost of Remote Image Upscaling](https://dev.to/will_indie/stop-sending-raw-assets-to-the-cloud-the-true-cost-of-remote-image-upscaling-3l6e)
+- [TypeScript Environment Variables: The Complete Guide](https://dev.to/ctrotech/typescript-environment-variables-the-complete-guide-kg9)
+- [Using PostHog in Your React App: Integration Guide and Benefits](https://dev.to/deepakjaiswal/using-posthog-in-your-react-app-integration-guide-and-benefits-3fcj)
+- [Build a Screen Sharing App Using noVNC &lpar;Like AnyDesk&rpar;](https://dev.to/deepakjaiswal/build-a-screen-sharing-app-using-novnc-like-anydesk-e4b)
 <!-- BLOG-POST-LIST:END -->
 
 
