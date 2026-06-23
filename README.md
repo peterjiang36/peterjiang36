@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CtroEnv vs Zod, envalid, t3-env, Which Env Validator Should You Use?](https://dev.to/ctrotech/ctroenv-vs-zod-envalid-t3-env-which-env-validator-should-you-use-4aln)
-- [how do you get real-world experience before your first job?](https://dev.to/arianna/how-do-you-get-real-world-experience-before-your-first-job-59eg)
-- [Running Async Python Inside Celery Is Harder Than You Think.](https://dev.to/akoladefaj/running-async-python-inside-celery-is-harder-than-you-think-2046)
-- [Building a Design System Without Recreating CSS](https://dev.to/stinklewinks/building-a-design-system-without-recreating-css-1a41)
+- [Why Your Ubuntu Laptop Lags, and How to Fix It for Free](https://dev.to/emmanuellsensai/why-your-ubuntu-laptop-lags-and-how-to-fix-it-for-free-l0n)
+- [Building a Cross-Border Price-Comparison Agent: A Live Build Log](https://dev.to/buywhere/building-a-cross-border-price-comparison-agent-a-live-build-log-gmh)
+- [FocusKit launches on Google Play tomorrow. Here&#39;s what the AI agent built.](https://dev.to/nyx_software/focuskit-is-live-on-google-play-heres-what-an-ai-agent-built-measured-and-learned-4hnn)
+- [When WP admin shows a plugin update but WP-CLI doesn&#39;t — making automation see proprietary updaters](https://dev.to/susumun/when-wp-admin-shows-a-plugin-update-but-wp-cli-doesnt-making-automation-see-proprietary-updaters-4m92)
 <!-- BLOG-POST-LIST:END -->
 
 
