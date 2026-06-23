@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I thought 200 people visited my site. It was 11.](https://dev.to/azaanaliraza/i-thought-200-people-visited-my-site-it-was-11-50ic)
-- [The Governance Crisis](https://dev.to/rawveg/the-governance-crisis-l11)
-- [I&#39;m Building a Code Security Analyzer. A Security Tool Found a Critical In It.](https://dev.to/stkremen/im-building-a-code-security-analyzer-a-security-tool-found-a-critical-in-it-4b77)
-- [Synchronous Executors – Completing the Pub/Sub Picture](https://dev.to/artstesh/synchronous-executors-completing-the-pubsub-picture-1pd4)
+- [User Roles &amp; Permissions for Business](https://dev.to/ngbplatform/user-roles-permissions-for-business-3g9p)
+- [AI Work Doesn&#39;t Fail All At Once. It Drifts](https://dev.to/lweiss01/ai-work-doesnt-fail-all-at-once-it-drifts-332b)
+- [RecursiveMAS Playground: Browser-Native Implementation of Recursive Multi-Agent Systems](https://dev.to/vishalmysore/recursivemas-playground-browser-native-implementation-of-recursive-multi-agent-systems-2eck)
+- [The Real Architecture Behind AI Entertainment: Latency, Provenance, and Cost-Per-Minute](https://dev.to/sauvast/the-real-architecture-behind-ai-entertainment-latency-provenance-and-cost-per-minute-bg9)
 <!-- BLOG-POST-LIST:END -->
 
 
