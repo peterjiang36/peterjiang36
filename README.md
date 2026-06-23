@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Sending Raw Assets to the Cloud: The True Cost of Remote Image Upscaling](https://dev.to/will_indie/stop-sending-raw-assets-to-the-cloud-the-true-cost-of-remote-image-upscaling-3l6e)
-- [TypeScript Environment Variables: The Complete Guide](https://dev.to/ctrotech/typescript-environment-variables-the-complete-guide-kg9)
-- [Using PostHog in Your React App: Integration Guide and Benefits](https://dev.to/deepakjaiswal/using-posthog-in-your-react-app-integration-guide-and-benefits-3fcj)
-- [Build a Screen Sharing App Using noVNC &lpar;Like AnyDesk&rpar;](https://dev.to/deepakjaiswal/build-a-screen-sharing-app-using-novnc-like-anydesk-e4b)
+- [An AI Built My WordPress Theme. Then I Found the Performance Bugs It Left Behind.](https://dev.to/serdiniakos/an-ai-built-my-wordpress-theme-then-i-found-the-performance-bugs-it-left-behind-59hg)
+- [Linux Networking Basics for Beginners](https://dev.to/sreekanth_kuruba_91721e5d/linux-networking-basics-for-beginners-3e2e)
+- [Mastering 1A2B &lpar;Bulls and Cows&rpar;: Strategy, Algorithms, and Deduction](https://dev.to/puzzlepk/mastering-1a2b-bulls-and-cows-strategy-algorithms-and-deduction-15ob)
+- [I Traced 1000 Lines of Python Without Running It. Here Is What I Learned.](https://dev.to/ameer_abdullah_68d48c8496/i-traced-1000-lines-of-python-without-running-it-here-is-what-i-learned-5dge)
 <!-- BLOG-POST-LIST:END -->
 
 
