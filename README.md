@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Measured MCP vs Direct API Calls: The Token Math No One Tells You](https://dev.to/mudassirworks/i-measured-mcp-vs-direct-api-calls-the-token-math-no-one-tells-you-371p)
-- [Porque o PostgreSQL é tão queridinho?](https://dev.to/matheusdsilva01/porque-o-postgresql-e-tao-queridinho-3eh0)
-- [My Journey from Electronics Student to Embedded Hardware Engineer](https://dev.to/vishal_kumarsahni/my-journey-from-electronics-student-to-embedded-hardware-engineer-67c)
-- [🚀 I Built an AI Team That Finds Leads, Decision Makers &amp; Writes Outreach While I Sleep](https://dev.to/vivek_shetye/i-built-an-ai-team-that-finds-leads-decision-makers-writes-outreach-while-i-sleep-2hkj)
+- [Rebalancing a portfolio with only your next deposit &lpar;no selling&rpar;](https://dev.to/diegocard117/rebalancing-a-portfolio-with-only-your-next-deposit-no-selling-3ma6)
+- [Infrastructure as Code with OpenTofu/Terraform](https://dev.to/mrduguo/infrastructure-as-code-with-opentofuterraform-1i58)
+- [The AI agent habit that was quietly wasting my time and tokens](https://dev.to/kstoyanovai/the-ai-agent-habit-that-was-quietly-wasting-my-time-and-tokens-2jmi)
+- [Too cheap to be good? Think again.](https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0)
 <!-- BLOG-POST-LIST:END -->
 
 
