@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Claude Code and Codex Together Instead of Choosing One](https://dev.to/prithvi_bharadwaj_d1c875e/running-claude-code-and-codex-together-instead-of-choosing-one-3pa8)
-- [How to Structure Production-Ready CI/CD Pipelines at Scale](https://dev.to/thevwathrey/how-to-structure-production-ready-cicd-pipelines-at-scale-4l0g)
-- [When your agent does something bad, can you tell which agent did it?](https://dev.to/brennhill/when-your-agent-does-something-bad-can-you-tell-which-agent-did-it-37a2)
-- [After an agent deleted a production database, I mapped what actually stops these failures](https://dev.to/brennhill/after-an-agent-deleted-a-production-database-i-mapped-what-actually-stops-these-failures-5bfl)
+- [Quantum Computing and Bitcoin: What the 2031 Federal Deadline Means for Developers](https://dev.to/harvey_the_dev/quantum-computing-and-bitcoin-what-the-2031-federal-deadline-means-for-developers-27m0)
+- [Agent memory v2 — seven rules after the poisoning](https://dev.to/israelhen153/agent-memory-v2-seven-rules-after-the-poisoning-2d9h)
+- [Talking about the &quot;design-code roundtrip that isn&#39;t&quot; at AIE World&#39;s Fair](https://dev.to/gojongo/talking-about-the-design-code-roundtrip-that-isnt-at-aie-worlds-fair-12e0)
+- [Eval-Driven Agent Development: How I Stopped Tuning Prompts on Vibes](https://dev.to/rickjms/eval-driven-agent-development-how-i-stopped-tuning-prompts-on-vibes-1189)
 <!-- BLOG-POST-LIST:END -->
 
 
