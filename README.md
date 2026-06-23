@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple Python Calculator](https://dev.to/mu54mm4d/simple-python-calculator-58pe)
-- [Deploying Zabbix Open-Source Monitoring Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-zabbix-open-source-monitoring-platform-on-ubuntu-2404-3coh)
-- [Deploying SeaweedFS, an Open-Source S3 Storage Alternative to MinIO, on Ubuntu 24.04](https://dev.to/vultr/deploying-seaweedfs-an-open-source-s3-storage-alternative-to-minio-on-ubuntu-2404-jpn)
-- [Deploying Qdrant Open-Source Vector Database for AI Applications on Ubuntu 24.04](https://dev.to/vultr/deploying-qdrant-open-source-vector-database-for-ai-applications-on-ubuntu-2404-5235)
+- [I Measured MCP vs Direct API Calls: The Token Math No One Tells You](https://dev.to/mudassirworks/i-measured-mcp-vs-direct-api-calls-the-token-math-no-one-tells-you-371p)
+- [Porque o PostgreSQL é tão queridinho?](https://dev.to/matheusdsilva01/porque-o-postgresql-e-tao-queridinho-3eh0)
+- [My Journey from Electronics Student to Embedded Hardware Engineer](https://dev.to/vishal_kumarsahni/my-journey-from-electronics-student-to-embedded-hardware-engineer-67c)
+- [🚀 I Built an AI Team That Finds Leads, Decision Makers &amp; Writes Outreach While I Sleep](https://dev.to/vivek_shetye/i-built-an-ai-team-that-finds-leads-decision-makers-writes-outreach-while-i-sleep-2hkj)
 <!-- BLOG-POST-LIST:END -->
 
 
