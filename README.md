@@ -74,14 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hey everyone,
-
-I built NOVA-VAD, a lightweight explainable Voice Activity Detector that outperforms every major open source VAD on real-world noisy audio.
-
-GitHub: https://github.com/monishmal3375/nova-vad](https://dev.to/m_m_ce8454e07d6b8ffa6af4b/hey-everyone-i-built-nova-vad-a-lightweight-explainable-voice-activity-detector-that-1fnk)
-- [Real-Time Gesture Controlled Invisibility Cloak in Python &lpar;MediaPipe &amp; OpenCV&rpar;](https://dev.to/chando0185/real-time-gesture-controlled-invisibility-cloak-in-python-mediapipe-opencv-1goj)
-- [How I Built a WhatsApp AI Bot in 2026 Without the Lock-In](https://dev.to/fiercedash/how-i-built-a-whatsapp-ai-bot-in-2026-without-the-lock-in-4h5)
-- [How We Built a Robust EPUB Parsing and Rebuilding Pipeline in Python](https://dev.to/jacob_gong/how-we-built-a-robust-epub-parsing-and-rebuilding-pipeline-in-python-29f9)
+- [The Skeleton Implementation Trap: Why Your n8n Workflows Look Simple But Cost You Dearly in Production](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-skeleton-implementation-trap-why-your-n8n-workflows-look-simple-but-cost-you-dearly-in-585c)
+- [The Local AI Assistant Trap: Why Running Your Own Costs More Than You Think](https://dev.to/xu_xu_b2179aa8fc958d531d1/the-local-ai-assistant-trap-why-running-your-own-costs-more-than-you-think-4imh)
+- [Building ArtifactX: product-ready apt/yum repos in Rust](https://dev.to/jamesarc/building-artifactx-product-ready-aptyum-repos-in-rust-5839)
+- [The Physical Laws of AI Migrations: Architecting an LLM Orchestrator that Survives Reality](https://dev.to/_mh/the-physical-laws-of-ai-migrations-architecting-an-llm-orchestrator-that-survives-reality-5co8)
 <!-- BLOG-POST-LIST:END -->
 
 
