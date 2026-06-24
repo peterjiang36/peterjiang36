@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Motivational Light: What Stage Lighting Teaches UX Designers](https://dev.to/vibeagentmaking/motivational-light-what-stage-lighting-teaches-ux-designers-2bdo)
-- [Spring and its Features](https://dev.to/harini_magesh_fa40041cf8d/spring-and-its-features-1ebh)
-- [FOREGROUND_SERVICE_TYPE_CAMERA: Keeping a Camera Alive With the Screen Off on Android 14+](https://dev.to/superfunicular/foregroundservicetypecamera-keeping-a-camera-alive-with-the-screen-off-on-android-14-2mcf)
-- [AI Agent Safety in Production: Why Trust and Safety Infrastructure Isn&#39;t Optional Anymore](https://dev.to/shrinithi_v/ai-agent-safety-in-production-why-trust-and-safety-infrastructure-isnt-optional-anymore-26f7)
+- [Google Lost the Transformer&#39;s Co-Author. Then AlphaFold. Same Week.](https://dev.to/peremptory/google-lost-the-transformers-co-author-then-alphafold-same-week-4fhl)
+- [Superhuman Buys GPTZero: What AI Detection Means for SL Students](https://dev.to/induwara_ashinsana_9e4d5b/superhuman-buys-gptzero-what-ai-detection-means-for-sl-students-45dh)
+- [Governance and Detection Tell You What Happened. Design Determines Whether It Matters.](https://dev.to/ndegwaduncan/governance-and-detection-tell-you-what-happened-design-determines-whether-it-matters-5g3b)
+- [From Confusion to Running My First Bittensor Miner: My Learning Journey Through HackQuest Co-Learning Camp #21](https://dev.to/roan911/from-confusion-to-running-my-first-bittensor-miner-my-learning-journey-through-hackquest-2307)
 <!-- BLOG-POST-LIST:END -->
 
 
