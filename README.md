@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hand-Designing Open Graph Images: Automate Link Previews for Every Page](https://dev.to/toolkitonline/stop-hand-designing-open-graph-images-automate-link-previews-for-every-page-ic8)
-- [[](https://dev.to/palo_alto_ai/-2og5)
-- [How I built a Minecraft server list that ranks by real player votes &lpar;not bots&rpar;](https://dev.to/hugomsl/how-i-built-a-minecraft-server-list-that-ranks-by-real-player-votes-not-bots-fcm)
-- [Your structured data is probably broken, and your crawler isn&#39;t telling you](https://dev.to/toolkitonline/your-structured-data-is-probably-broken-and-your-crawler-isnt-telling-you-20k)
+- [Refactoring Without Breaking Production: A Practical Guide for Modern Software Teams](https://dev.to/ufomadu_nnaemeka_89/refactoring-without-breaking-production-a-practical-guide-for-modern-software-teams-3883)
+- [Self-Hosted Hermes Agent on iOS: Cloudflare Tunnel + Access Service Tokens + Hermex](https://dev.to/mosesman831/self-hosted-hermes-agent-on-ios-cloudflare-tunnel-access-service-tokens-hermex-103e)
+- [How to implement per-user AI cost limits in your app &lpar;without rebuilding it every time&rpar;](https://dev.to/seanmcc22/how-to-implement-per-user-ai-cost-limits-in-your-app-without-rebuilding-it-every-time-36ca)
+- [How I Used Automated Red Teaming To Take My AI Agent from 6/9 Breaches to Zero](https://dev.to/morganwilliscloud/red-team-your-ai-agents-before-someone-else-does-o4i)
 <!-- BLOG-POST-LIST:END -->
 
 
