@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Lost the Transformer&#39;s Co-Author. Then AlphaFold. Same Week.](https://dev.to/peremptory/google-lost-the-transformers-co-author-then-alphafold-same-week-4fhl)
-- [Superhuman Buys GPTZero: What AI Detection Means for SL Students](https://dev.to/induwara_ashinsana_9e4d5b/superhuman-buys-gptzero-what-ai-detection-means-for-sl-students-45dh)
-- [Governance and Detection Tell You What Happened. Design Determines Whether It Matters.](https://dev.to/ndegwaduncan/governance-and-detection-tell-you-what-happened-design-determines-whether-it-matters-5g3b)
-- [From Confusion to Running My First Bittensor Miner: My Learning Journey Through HackQuest Co-Learning Camp #21](https://dev.to/roan911/from-confusion-to-running-my-first-bittensor-miner-my-learning-journey-through-hackquest-2307)
+- [From 47 to 75 Commits: How a Single _headers File Broke My Brain &lpar;and My App&rpar; for 8 Hours](https://dev.to/chazchege/from-47-to-75-commits-how-a-single-headers-file-broke-my-brain-and-my-app-for-8-hours-59hi)
+- [Quantum Teleportation, and Why It Isn&#39;t Cloning](https://dev.to/malcolmlow/quantum-teleportation-and-why-it-isnt-cloning-1fdl)
+- [Dashboard Design for Incident Response](https://dev.to/mrinal_narang_13a3d00eb37/dashboard-design-for-incident-response-24i7)
+- [Who Wins the Variable Fight in Terraform?](https://dev.to/aws-builders/who-wins-the-variable-fight-in-terraform-2e6f)
 <!-- BLOG-POST-LIST:END -->
 
 
