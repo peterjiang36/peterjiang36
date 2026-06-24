@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your @EventListener Fires Before the Transaction Commits⚙️](https://dev.to/code_with_kyryl/your-eventlistener-fires-before-the-transaction-commits-286m)
-- [Building a Real-Time World Cup 2026 Bracket Predictor with Vanilla JS and GitHub Actions](https://dev.to/ryo_kurita_1a64dfc9182ff0/building-a-real-time-world-cup-2026-bracket-predictor-with-vanilla-js-and-github-actions-5fln)
-- [How Be Recommended by Inithouse Scores AI Visibility 0 to 100 Across ChatGPT, Perplexity, Claude and Gemini](https://dev.to/jakub_inithouse/how-be-recommended-by-inithouse-scores-ai-visibility-0-to-100-across-chatgpt-perplexity-claude-36ob)
-- [I Built a Messenger That Works Without the Internet — And It Changed How I Think About Privacy](https://dev.to/6arshid/i-built-a-messenger-that-works-without-the-internet-and-it-changed-how-i-think-about-privacy-4aid)
+- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-ethical-2co7)
+- [MapleStory Worlds Announces Global Creator Challenge](https://dev.to/elvia_jazminmendez_b7afb/maplestory-worlds-announces-global-creator-challenge-3588)
+- [Cli-Modelarium 0.1.4: 10 LLM providers now, with Qwen and GLM](https://dev.to/lavellehatcherjr/cli-modelarium-014-10-llm-providers-now-with-qwen-and-glm-dg5)
+- [I made the database compute everything: building an SLA-credit system of record on Aurora PostgreSQL + Vercel](https://dev.to/quietmoose/i-made-the-database-compute-everything-building-an-sla-credit-system-of-record-on-aurora-290d)
 <!-- BLOG-POST-LIST:END -->
 
 
