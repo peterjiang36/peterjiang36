@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From 47 to 75 Commits: How a Single _headers File Broke My Brain &lpar;and My App&rpar; for 8 Hours](https://dev.to/chazchege/from-47-to-75-commits-how-a-single-headers-file-broke-my-brain-and-my-app-for-8-hours-59hi)
-- [Quantum Teleportation, and Why It Isn&#39;t Cloning](https://dev.to/malcolmlow/quantum-teleportation-and-why-it-isnt-cloning-1fdl)
-- [Dashboard Design for Incident Response](https://dev.to/mrinal_narang_13a3d00eb37/dashboard-design-for-incident-response-24i7)
-- [Who Wins the Variable Fight in Terraform?](https://dev.to/aws-builders/who-wins-the-variable-fight-in-terraform-2e6f)
+- [What Developers Underestimate About Long-Running Workflows](https://dev.to/dhruvi_21/what-developers-underestimate-about-long-running-workflows-4009)
+- [Git com múltiplas contas: configure trabalho e pessoal no mesmo computador](https://dev.to/moreiraandre/git-com-multiplas-contas-configure-trabalho-e-pessoal-no-mesmo-computador-p98)
+- [AI Gateway vs API Gateway: They Solve Different Problems &lpar;We Confused Them for Six Months&rpar;](https://dev.to/sahajmeet_kaur_/ai-gateway-vs-api-gateway-they-solve-different-problems-we-confused-them-for-six-months-61a)
+- [fulgur-chart: deterministic SVG/PNG from Chart.js JSON, without JavaScript](https://dev.to/mitsuru/fulgur-chart-deterministic-svgpng-from-chartjs-json-without-javascript-2lmk)
 <!-- BLOG-POST-LIST:END -->
 
 
