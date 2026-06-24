@@ -74,10 +74,14 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You don&#39;t need Vercel Pro. You need your stack to sleep.](https://dev.to/keqiang/you-dont-need-vercel-pro-you-need-your-stack-to-sleep-3lph)
-- [How to Stop AI Agents from Writing Legacy Angular Code &lpar;The Angular 22 Guardrail&rpar;](https://dev.to/pavananguluri/how-to-stop-ai-agents-from-writing-legacy-angular-code-the-angular-22-guardrail-3cm2)
-- [The Big Lie in Mobile Privacy &lpar;And How We Fixed It&rpar;](https://dev.to/samir_moukhliss_24c034050/the-big-lie-in-mobile-privacy-and-how-we-fixed-it-3af5)
-- [Playwright versus WordPress&#39;s &quot;admin email confirmation&quot; screen — how automation can clear the 6-month gate](https://dev.to/susumun/playwright-versus-wordpresss-admin-email-confirmation-screen-how-automation-can-clear-the-3fpe)
+- [Hey everyone,
+
+I built NOVA-VAD, a lightweight explainable Voice Activity Detector that outperforms every major open source VAD on real-world noisy audio.
+
+GitHub: https://github.com/monishmal3375/nova-vad](https://dev.to/m_m_ce8454e07d6b8ffa6af4b/hey-everyone-i-built-nova-vad-a-lightweight-explainable-voice-activity-detector-that-1fnk)
+- [Real-Time Gesture Controlled Invisibility Cloak in Python &lpar;MediaPipe &amp; OpenCV&rpar;](https://dev.to/chando0185/real-time-gesture-controlled-invisibility-cloak-in-python-mediapipe-opencv-1goj)
+- [How I Built a WhatsApp AI Bot in 2026 Without the Lock-In](https://dev.to/fiercedash/how-i-built-a-whatsapp-ai-bot-in-2026-without-the-lock-in-4h5)
+- [How We Built a Robust EPUB Parsing and Rebuilding Pipeline in Python](https://dev.to/jacob_gong/how-we-built-a-robust-epub-parsing-and-rebuilding-pipeline-in-python-29f9)
 <!-- BLOG-POST-LIST:END -->
 
 
