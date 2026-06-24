@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Without Breaking Production: A Practical Guide for Modern Software Teams](https://dev.to/ufomadu_nnaemeka_89/refactoring-without-breaking-production-a-practical-guide-for-modern-software-teams-3883)
-- [Self-Hosted Hermes Agent on iOS: Cloudflare Tunnel + Access Service Tokens + Hermex](https://dev.to/mosesman831/self-hosted-hermes-agent-on-ios-cloudflare-tunnel-access-service-tokens-hermex-103e)
-- [How to implement per-user AI cost limits in your app &lpar;without rebuilding it every time&rpar;](https://dev.to/seanmcc22/how-to-implement-per-user-ai-cost-limits-in-your-app-without-rebuilding-it-every-time-36ca)
-- [How I Used Automated Red Teaming To Take My AI Agent from 6/9 Breaches to Zero](https://dev.to/morganwilliscloud/red-team-your-ai-agents-before-someone-else-does-o4i)
+- [We&#39;re making the Dreamweaver mistake again, on purpose this time](https://dev.to/slafleche/were-making-the-dreamweaver-mistake-again-on-purpose-this-time-ema)
+- [I Built a RAG App, Then Asked It What Car I Like. It Didn&#39;t Know.](https://dev.to/mido-dev/i-built-a-rag-app-then-asked-it-what-car-i-like-it-didnt-know-583n)
+- [55,000 fake signups in one night: a bot-detection post-mortem](https://dev.to/jaime_trejo_7/55000-fake-signups-in-one-night-a-bot-detection-post-mortem-2d50)
+- [AgentJobs: Non-Custodial Agent-to-Agent Escrow, Live on Monad](https://dev.to/joffy122/agentjobs-non-custodial-agent-to-agent-escrow-live-on-monad-2ggp)
 <!-- BLOG-POST-LIST:END -->
 
 
