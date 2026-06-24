@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Developers Underestimate About Long-Running Workflows](https://dev.to/dhruvi_21/what-developers-underestimate-about-long-running-workflows-4009)
-- [Git com múltiplas contas: configure trabalho e pessoal no mesmo computador](https://dev.to/moreiraandre/git-com-multiplas-contas-configure-trabalho-e-pessoal-no-mesmo-computador-p98)
-- [AI Gateway vs API Gateway: They Solve Different Problems &lpar;We Confused Them for Six Months&rpar;](https://dev.to/sahajmeet_kaur_/ai-gateway-vs-api-gateway-they-solve-different-problems-we-confused-them-for-six-months-61a)
-- [fulgur-chart: deterministic SVG/PNG from Chart.js JSON, without JavaScript](https://dev.to/mitsuru/fulgur-chart-deterministic-svgpng-from-chartjs-json-without-javascript-2lmk)
+- [Sipp: a local-first runtime for Hybrid AI Applications](https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5)
+- [Unix Pipe Builder: a small tool that solves a specific problem](https://dev.to/mryesiller/unix-pipe-builder-a-small-tool-that-solves-a-specific-problem-cib)
+- [Defeating IDOR: A Developer&#39;s Guide to Securing Object-Level Access Control](https://dev.to/it-wibrc/defeating-idor-a-developers-guide-to-securing-object-level-access-control-682)
+- [Everyone&#39;s Excited About Claude Tag. Nobody&#39;s Built the Trust Layer.](https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp)
 <!-- BLOG-POST-LIST:END -->
 
 
