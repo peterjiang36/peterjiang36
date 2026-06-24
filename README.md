@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Want AI to work in parallel? First give each one its own workspace](https://dev.to/kanfu-panda/want-ai-to-work-in-parallel-first-give-each-one-its-own-workspace-40ch)
-- [Running a LangGraph ReAct Agent in Production: OpenAI-Compatible API + Multi-Model Gateway + One-Line Tracing](https://dev.to/javaking1129/running-a-langgraph-react-agent-in-production-openai-compatible-api-multi-model-gateway--emi)
-- [The SaaS Churn Rate Formula: 3 Calculations That Expose Your Real Runway Risk](https://dev.to/saasdev11/the-saas-churn-rate-formula-3-calculations-that-expose-your-real-runway-risk-30bb)
-- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
+- [You don&#39;t need Vercel Pro. You need your stack to sleep.](https://dev.to/keqiang/you-dont-need-vercel-pro-you-need-your-stack-to-sleep-3lph)
+- [How to Stop AI Agents from Writing Legacy Angular Code &lpar;The Angular 22 Guardrail&rpar;](https://dev.to/pavananguluri/how-to-stop-ai-agents-from-writing-legacy-angular-code-the-angular-22-guardrail-3cm2)
+- [The Big Lie in Mobile Privacy &lpar;And How We Fixed It&rpar;](https://dev.to/samir_moukhliss_24c034050/the-big-lie-in-mobile-privacy-and-how-we-fixed-it-3af5)
+- [Playwright versus WordPress&#39;s &quot;admin email confirmation&quot; screen — how automation can clear the 6-month gate](https://dev.to/susumun/playwright-versus-wordpresss-admin-email-confirmation-screen-how-automation-can-clear-the-3fpe)
 <!-- BLOG-POST-LIST:END -->
 
 
