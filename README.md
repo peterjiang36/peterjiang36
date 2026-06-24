@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗠𝗼𝘀𝘁 𝗖𝗦𝗦 𝘀𝗽𝗮𝗰𝗶𝗻𝗴 𝗯𝘂𝗴𝘀 𝘀𝘁𝗮𝗿𝘁 𝘄𝗶𝘁𝗵 𝗼𝗻𝗲 𝗯𝗮𝘀𝗶𝗰 𝗰𝗼𝗻𝗳𝘂𝘀𝗶𝗼𝗻: 𝗽𝗮𝗱𝗱𝗶𝗻𝗴 𝘃𝘀 𝗺𝗮𝗿𝗴𝗶𝗻.](https://dev.to/hardik_kuwar_7caa4626bb16/--1k2h)
-- [Three packages claim &#39;SkillsGuard&#39;. One shipped malware.](https://dev.to/creeta/three-packages-claim-skillsguard-one-shipped-malware-4fgc)
-- [Klein Blue scores Lc -12 as text — here&#39;s the two-slot fix](https://dev.to/palo_alto_ai/klein-blue-scores-lc-12-as-text-heres-the-two-slot-fix-576l)
-- [How I Use AI Councils to Solve Ambiguous Engineering Problems](https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii)
+- [So what is an agent?](https://dev.to/lovestaco/so-what-is-an-agent-4763)
+- [Next.js 16 Server Actions Security: The Auth Check Most Developers Miss](https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1)
+- [The ISO 27001 Statement of Applicability, explained for engineers](https://dev.to/compliancedocs/the-iso-27001-statement-of-applicability-explained-for-engineers-2ble)
+- [SoulForge: Build AI Companions with Emotional Bonds, Not Rules](https://dev.to/zhangshuno1/soulforge-build-ai-companions-with-emotional-bonds-not-rules-15g1)
 <!-- BLOG-POST-LIST:END -->
 
 
