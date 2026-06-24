@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [So what is an agent?](https://dev.to/lovestaco/so-what-is-an-agent-4763)
-- [Next.js 16 Server Actions Security: The Auth Check Most Developers Miss](https://dev.to/shubhradev/nextjs-16-server-actions-security-the-auth-check-most-developers-miss-1ei1)
-- [The ISO 27001 Statement of Applicability, explained for engineers](https://dev.to/compliancedocs/the-iso-27001-statement-of-applicability-explained-for-engineers-2ble)
-- [SoulForge: Build AI Companions with Emotional Bonds, Not Rules](https://dev.to/zhangshuno1/soulforge-build-ai-companions-with-emotional-bonds-not-rules-15g1)
+- [Stop Hand-Designing Open Graph Images: Automate Link Previews for Every Page](https://dev.to/toolkitonline/stop-hand-designing-open-graph-images-automate-link-previews-for-every-page-ic8)
+- [[](https://dev.to/palo_alto_ai/-2og5)
+- [How I built a Minecraft server list that ranks by real player votes &lpar;not bots&rpar;](https://dev.to/hugomsl/how-i-built-a-minecraft-server-list-that-ranks-by-real-player-votes-not-bots-fcm)
+- [Your structured data is probably broken, and your crawler isn&#39;t telling you](https://dev.to/toolkitonline/your-structured-data-is-probably-broken-and-your-crawler-isnt-telling-you-20k)
 <!-- BLOG-POST-LIST:END -->
 
 
