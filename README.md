@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sipp: a local-first runtime for Hybrid AI Applications](https://dev.to/constant_chen_/sipp-a-local-first-runtime-for-hybrid-ai-applications-2ce5)
-- [Unix Pipe Builder: a small tool that solves a specific problem](https://dev.to/mryesiller/unix-pipe-builder-a-small-tool-that-solves-a-specific-problem-cib)
-- [Defeating IDOR: A Developer&#39;s Guide to Securing Object-Level Access Control](https://dev.to/it-wibrc/defeating-idor-a-developers-guide-to-securing-object-level-access-control-682)
-- [Everyone&#39;s Excited About Claude Tag. Nobody&#39;s Built the Trust Layer.](https://dev.to/dannwaneri/everyones-excited-about-claude-tag-nobodys-built-the-trust-layer-1ohp)
+- [I Built an AI Presentation Platform That Generates Real PowerPoint Files](https://dev.to/izhan0102/i-built-an-ai-presentation-platform-that-generates-real-powerpoint-files-ep3)
+- [When pandas runs out of RAM, I change one import line](https://dev.to/herbze/when-pandas-runs-out-of-ram-i-change-one-import-line-35k0)
+- [Running Local LLMs for Coding: No API Keys, Full Control](https://dev.to/learnairesource/running-local-llms-for-coding-no-api-keys-full-control-48cj)
+- [How to move from an LLM demo to a production-ready healthcare AI agent](https://dev.to/kajol_shah/how-to-move-from-an-llm-demo-to-a-production-ready-healthcare-ai-agent-33d1)
 <!-- BLOG-POST-LIST:END -->
 
 
