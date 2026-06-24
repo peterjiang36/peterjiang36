@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-ethical-2co7)
-- [MapleStory Worlds Announces Global Creator Challenge](https://dev.to/elvia_jazminmendez_b7afb/maplestory-worlds-announces-global-creator-challenge-3588)
-- [Cli-Modelarium 0.1.4: 10 LLM providers now, with Qwen and GLM](https://dev.to/lavellehatcherjr/cli-modelarium-014-10-llm-providers-now-with-qwen-and-glm-dg5)
-- [I made the database compute everything: building an SLA-credit system of record on Aurora PostgreSQL + Vercel](https://dev.to/quietmoose/i-made-the-database-compute-everything-building-an-sla-credit-system-of-record-on-aurora-290d)
+- [Sync a mailbox into your own database with Nylas](https://dev.to/mqasimca/sync-a-mailbox-into-your-own-database-with-nylas-1mhe)
+- [Correlation IDs in ASP.NET Core: A Practical Guide for Backend Engineers](https://dev.to/momenqasim/correlation-ids-in-aspnet-core-a-practical-guide-for-backend-engineers-3708)
+- [I&#39;m 18, Self-Taught, and I Built an AI Study App for Nigerian Students — Here&#39;s How](https://dev.to/geocodehub/im-18-self-taught-and-i-built-an-ai-study-app-for-nigerian-students-heres-how-1958)
+- [超越沙箱：为 AI Agent 构建持久化运行时](https://dev.to/cognitalk/chao-yue-sha-xiang-wei-ai-agent-gou-jian-chi-jiu-hua-yun-xing-shi-2i9i)
 <!-- BLOG-POST-LIST:END -->
 
 
