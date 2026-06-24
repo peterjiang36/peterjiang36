@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Presentation Platform That Generates Real PowerPoint Files](https://dev.to/izhan0102/i-built-an-ai-presentation-platform-that-generates-real-powerpoint-files-ep3)
-- [When pandas runs out of RAM, I change one import line](https://dev.to/herbze/when-pandas-runs-out-of-ram-i-change-one-import-line-35k0)
-- [Running Local LLMs for Coding: No API Keys, Full Control](https://dev.to/learnairesource/running-local-llms-for-coding-no-api-keys-full-control-48cj)
-- [How to move from an LLM demo to a production-ready healthcare AI agent](https://dev.to/kajol_shah/how-to-move-from-an-llm-demo-to-a-production-ready-healthcare-ai-agent-33d1)
+- [𝗠𝗼𝘀𝘁 𝗖𝗦𝗦 𝘀𝗽𝗮𝗰𝗶𝗻𝗴 𝗯𝘂𝗴𝘀 𝘀𝘁𝗮𝗿𝘁 𝘄𝗶𝘁𝗵 𝗼𝗻𝗲 𝗯𝗮𝘀𝗶𝗰 𝗰𝗼𝗻𝗳𝘂𝘀𝗶𝗼𝗻: 𝗽𝗮𝗱𝗱𝗶𝗻𝗴 𝘃𝘀 𝗺𝗮𝗿𝗴𝗶𝗻.](https://dev.to/hardik_kuwar_7caa4626bb16/--1k2h)
+- [Three packages claim &#39;SkillsGuard&#39;. One shipped malware.](https://dev.to/creeta/three-packages-claim-skillsguard-one-shipped-malware-4fgc)
+- [Klein Blue scores Lc -12 as text — here&#39;s the two-slot fix](https://dev.to/palo_alto_ai/klein-blue-scores-lc-12-as-text-heres-the-two-slot-fix-576l)
+- [How I Use AI Councils to Solve Ambiguous Engineering Problems](https://dev.to/j3nnning/how-i-use-ai-councils-to-solve-ambiguous-engineering-problems-4dii)
 <!-- BLOG-POST-LIST:END -->
 
 
