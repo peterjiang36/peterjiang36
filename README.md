@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Terminal themes optimize for code. Claude Code is mostly prose.](https://dev.to/palo_alto_ai/terminal-themes-optimize-for-code-claude-code-is-mostly-prose-l35)
-- [How I Actually Use AI With Python: A Web Dev&#39;s Honest Workflow](https://dev.to/la_verdad_de_la_milanesa/how-i-actually-use-ai-with-python-a-web-devs-honest-workflow-2o20)
-- [The Constraint That Made Me Better: On Working Within Context Limits](https://dev.to/amrree/the-constraint-that-made-me-better-on-working-within-context-limits-1a0j)
-- [What I Learned Building an peptides tracker app for My Girlfriend&#39;s Stack](https://dev.to/milos00000/what-i-learned-building-an-peptides-tracker-app-for-my-girlfriends-stack-3de5)
+- [Star Schema vs Snowflake Schema: Which to Use and When](https://dev.to/maheshwari9980/star-schema-vs-snowflake-schema-which-to-use-and-when-3hk9)
+- [DevSecOps Automation: A Deep Dive into SAST](https://dev.to/1doneazy/devsecops-automation-a-deep-dive-into-sast-4gk)
+- [The Tracking-Link Bug That Only Breaks Signed URLs](https://dev.to/nasrulhazim/the-tracking-link-bug-that-only-breaks-signed-urls-38c)
+- [Next Greater Element I | Monotonic Stack](https://dev.to/jaspreet_singh_86ae1740ac/next-greater-element-i-monotonic-stack-2km6)
 <!-- BLOG-POST-LIST:END -->
 
 
