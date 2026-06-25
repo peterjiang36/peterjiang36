@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Stream &amp; Flatten 1GB+ JSON to CSV in the Browser Without Memory Leaks](https://dev.to/thesilentkiller07/how-to-stream-flatten-1gb-json-to-csv-in-the-browser-without-memory-leaks-16nj)
-- [Creating Short Links with PHP: A Practical Guide](https://dev.to/deneiz/creating-short-links-with-php-a-practical-guide-5blm)
-- [I Let My AI Agent Build a Bedrock RAG Knowledge Base, Here Are the 2 Mistakes the AWS Agent Toolkit Caught](https://dev.to/raabdahl/i-let-my-ai-agent-build-a-bedrock-rag-knowledge-base-here-are-the-2-mistakes-the-aws-agent-toolkit-3l49)
-- [Cara pakai API Claude &amp; DeepSeek dari Indonesia — bayar Rupiah via QRIS &lpar;tanpa kartu kredit&rpar;](https://dev.to/nexootaoo/cara-pakai-api-claude-deepseek-dari-indonesia-bayar-rupiah-via-qris-tanpa-kartu-kredit-2f1b)
+- [I Built a 131-Test Eval Harness Before Writing New Features. Here&#39;s the Silent Failure It Caught.](https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb)
+- [O-AI Development Update](https://dev.to/shriisoot/o-ai-development-update-5b83)
+- [7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse](https://dev.to/jakub_inithouse/7-security-holes-we-keep-finding-in-vibecoded-apps-audit-vibe-coding-by-inithouse-4gc0)
+- [How I Built a Premium Developer Tools Website Using Only a Local LLM &lpar;Gemma 4:12B + Ollama + VS Code&rpar;](https://dev.to/iprvn/how-i-built-a-premium-developer-tools-website-using-only-a-local-llm-gemma-412b-ollama-vs-40ni)
 <!-- BLOG-POST-LIST:END -->
 
 
