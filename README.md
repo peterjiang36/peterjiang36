@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma Motion Feels Like It Was Vibe-Coded](https://dev.to/codeideal/figma-motion-feels-like-it-was-vibe-coded-40bl)
-- [Top Open Source Coding Agents to Replace Claude Code in 2026](https://dev.to/moksh/top-open-source-coding-agents-to-replace-claude-code-in-2026-10f7)
-- [The Real Reason Prompt Engineering Isn&#39;t Going Away](https://dev.to/jaideepparashar/the-real-reason-prompt-engineering-isnt-going-away-2koo)
-- [OpenCode&#39;s 5 Hidden Uses: The 178K-Star Terminal AI Agent That Swaps Providers Mid-Session](https://dev.to/_cbd692d476c5faf3b61bcf/opencodes-5-hidden-uses-the-178k-star-terminal-ai-agent-that-swaps-providers-mid-session-2e55)
+- [&quot;From Bar Runner to AI Solopreneur: My Honest Struggles, Failures, and How AI Saved Me&quot;](https://dev.to/naoanao/from-bar-runner-to-ai-solopreneur-my-honest-struggles-failures-and-how-ai-saved-me-1m41)
+- [How to Run Voice-to-Text Locally on Your Desktop &lpar;Whisper, Offline Dictation&rpar;](https://dev.to/alichherawalla/how-to-run-voice-to-text-locally-on-your-desktop-whisper-offline-dictation-349p)
+- [Building Spatial Memory Part 4: Launching a Side Project — What I Learned After 3 Weeks of User Testing](https://dev.to/kevinten10/building-spatial-memory-part-4-launching-a-side-project-what-i-learned-after-3-weeks-of-user-1g20)
+- [How to Transcribe Meetings Locally in 2026 &lpar;Whisper, On-Device&rpar;](https://dev.to/alichherawalla/how-to-transcribe-meetings-locally-in-2026-whisper-on-device-2ak7)
 <!-- BLOG-POST-LIST:END -->
 
 
