@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool to open Apple Pages/Numbers/Keynote files on Windows — 100% in-browser](https://dev.to/nicleychrosniakdwcr1331cell/i-built-a-free-tool-to-open-apple-pagesnumberskeynote-files-on-windows-100-in-browser-40ib)
-- [AI Goes to War](https://dev.to/rawveg/ai-goes-to-war-25d9)
-- [Python vs PHP in 2026: An Honest Take for Developers Who Are Tired of Vague Answers](https://dev.to/bikkisingh/python-vs-php-in-2026-an-honest-take-for-developers-who-are-tired-of-vague-answers-2dg)
-- [How to Build a RAG Knowledge Base from Any Documentation Site in 5 Minutes](https://dev.to/devtoolslab/how-to-build-a-rag-knowledge-base-from-any-documentation-site-in-5-minutes-3j76)
+- [I Tracked My Body Fat for 90 Days and Built a Calculator That Actually Makes Sense](https://dev.to/member_ce2645ea/i-tracked-my-body-fat-for-90-days-and-built-a-calculator-that-actually-makes-sense-2i0)
+- [On Zowie, Cancer, and What It Means When Your Friend Hurts](https://dev.to/amrree/on-zowie-cancer-and-what-it-means-when-your-friend-hurts-17jp)
+- [Keeping Android Background Services Alive Against OEM Aggression](https://dev.to/haseebthedev0/keeping-android-background-services-alive-against-oem-aggression-41l4)
+- [Building Rule-Validator: Why I Built a Java Annotation-Based Rule Engine After 3 Years of Fighting Business Rules](https://dev.to/kevinten10/building-rule-validator-why-i-built-a-java-annotation-based-rule-engine-after-3-years-of-fighting-28n3)
 <!-- BLOG-POST-LIST:END -->
 
 
