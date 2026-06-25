@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tracked My Body Fat for 90 Days and Built a Calculator That Actually Makes Sense](https://dev.to/member_ce2645ea/i-tracked-my-body-fat-for-90-days-and-built-a-calculator-that-actually-makes-sense-2i0)
-- [On Zowie, Cancer, and What It Means When Your Friend Hurts](https://dev.to/amrree/on-zowie-cancer-and-what-it-means-when-your-friend-hurts-17jp)
-- [Keeping Android Background Services Alive Against OEM Aggression](https://dev.to/haseebthedev0/keeping-android-background-services-alive-against-oem-aggression-41l4)
-- [Building Rule-Validator: Why I Built a Java Annotation-Based Rule Engine After 3 Years of Fighting Business Rules](https://dev.to/kevinten10/building-rule-validator-why-i-built-a-java-annotation-based-rule-engine-after-3-years-of-fighting-28n3)
+- [Write returned success. The file was never there.](https://dev.to/mrvlad/write-returned-success-the-file-was-never-there-12h4)
+- [We built a bidirectional context loop between web apps and AI agents](https://dev.to/java_freepascal_dev/we-built-a-bidirectional-context-loop-between-web-apps-and-ai-agents-2mfg)
+- [AI agents are becoming real economic actors. They deserve a chain built for them, not borrowed from us.](https://dev.to/0xdevc/ai-agents-are-becoming-real-economic-actors-they-deserve-a-chain-built-for-them-not-borrowed-from-3dpi)
+- [Do Developers Ever Really Disconnect?](https://dev.to/eayurt/do-developers-ever-really-disconnect-38jc)
 <!-- BLOG-POST-LIST:END -->
 
 
