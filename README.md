@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My tool said &quot;clicked.&quot; Safari never saw it. macOS 26 quietly broke a system API.](https://dev.to/achiya-automation/my-tool-said-clicked-safari-never-saw-it-macos-26-quietly-broke-a-system-api-1gei)
-- [Sigma-Normalization: Why Order-Flow Signals Should Be Measured in Standard Deviations, Not Raw Numbers](https://dev.to/tickdistill/sigma-normalization-why-order-flow-signals-should-be-measured-in-standard-deviations-not-raw-3id5)
-- [Building Effective Prompts for AI Code Review: What Actually Works](https://dev.to/learnairesource/building-effective-prompts-for-ai-code-review-what-actually-works-5hao)
-- [I stopped treating AI memory as summaries. I now think in handoffs.](https://dev.to/woshiliyana/i-stopped-treating-ai-memory-as-summaries-i-now-think-in-handoffs-1gcb)
+- [Terminal themes optimize for code. Claude Code is mostly prose.](https://dev.to/palo_alto_ai/terminal-themes-optimize-for-code-claude-code-is-mostly-prose-l35)
+- [How I Actually Use AI With Python: A Web Dev&#39;s Honest Workflow](https://dev.to/la_verdad_de_la_milanesa/how-i-actually-use-ai-with-python-a-web-devs-honest-workflow-2o20)
+- [The Constraint That Made Me Better: On Working Within Context Limits](https://dev.to/amrree/the-constraint-that-made-me-better-on-working-within-context-limits-1a0j)
+- [What I Learned Building an peptides tracker app for My Girlfriend&#39;s Stack](https://dev.to/milos00000/what-i-learned-building-an-peptides-tracker-app-for-my-girlfriends-stack-3de5)
 <!-- BLOG-POST-LIST:END -->
 
 
