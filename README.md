@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 131-Test Eval Harness Before Writing New Features. Here&#39;s the Silent Failure It Caught.](https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb)
-- [O-AI Development Update](https://dev.to/shriisoot/o-ai-development-update-5b83)
-- [7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse](https://dev.to/jakub_inithouse/7-security-holes-we-keep-finding-in-vibecoded-apps-audit-vibe-coding-by-inithouse-4gc0)
-- [How I Built a Premium Developer Tools Website Using Only a Local LLM &lpar;Gemma 4:12B + Ollama + VS Code&rpar;](https://dev.to/iprvn/how-i-built-a-premium-developer-tools-website-using-only-a-local-llm-gemma-412b-ollama-vs-40ni)
+- [Implementing Bins - Phase 7 Mini Malloc](https://dev.to/moonlitpath1/implementing-bins-phase-7-mini-malloc-1g75)
+- [Build a RAG System with Claude &amp; ChatGPT APIs](https://dev.to/gateofai/build-a-rag-system-with-claude-chatgpt-apis-nao)
+- [How to move a Python service from a Docker Image -DHI without breaking package installs, root permissions?](https://dev.to/sivolko/how-to-move-a-python-service-from-a-docker-image-dhi-without-breaking-package-installs-root-22nm)
+- [I Built a Free Grade Calculator for Students — No Sign-Up Needed](https://dev.to/digiwik_d0b9bfc04a6c3ac31/i-built-a-free-grade-calculator-for-students-no-sign-up-needed-9hl)
 <!-- BLOG-POST-LIST:END -->
 
 
