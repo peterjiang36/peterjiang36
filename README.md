@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌍 Exposing Your Hermes Agent to the Internet with Tailscale Funnel &lpar;Safely&rpar;](https://dev.to/charan_gutti_cf60c6185074/exposing-your-hermes-agent-to-the-internet-with-tailscale-funnel-safely-3m7h)
-- [Java Revision](https://dev.to/_bhupeshk_/java-revision-36nf)
-- [Why Your Browser Should Do the Heavy Lifting: A Guide to Local Data Sanitization](https://dev.to/will_indie/why-your-browser-should-do-the-heavy-lifting-a-guide-to-local-data-sanitization-1k02)
-- [Demystifying SVG to React Component: Stop Breaking Your Build Pipelines](https://dev.to/will_indie/demystifying-svg-to-react-component-stop-breaking-your-build-pipelines-31dc)
+- [Localizzare in massa la scheda App Store con ASC CLI &lpar;e perché conviene davvero&rpar;](https://dev.to/frontendfacile/localizzare-in-massa-la-scheda-app-store-con-asc-cli-e-perche-conviene-davvero-4220)
+- [Self-host n8n on a VPS with Docker](https://dev.to/eqvps/self-host-n8n-on-a-vps-with-docker-5ep3)
+- [How to Pass the AWS Certified Cloud Practitioner &lpar;CLF-C02&rpar; Exam on Your First Attempt in 2026](https://dev.to/azizfarid_fahmy_ab6b5f061/how-to-pass-the-aws-certified-cloud-practitioner-clf-c02-exam-on-your-first-attempt-in-2026-24gl)
+- [Beyond Vibe Coding: Top AI Builders for Real Data and Workflows](https://dev.to/momen_hq/beyond-vibe-coding-top-ai-builders-for-real-data-and-workflows-nl1)
 <!-- BLOG-POST-LIST:END -->
 
 
