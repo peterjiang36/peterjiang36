@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Bins - Phase 7 Mini Malloc](https://dev.to/moonlitpath1/implementing-bins-phase-7-mini-malloc-1g75)
-- [Build a RAG System with Claude &amp; ChatGPT APIs](https://dev.to/gateofai/build-a-rag-system-with-claude-chatgpt-apis-nao)
-- [How to move a Python service from a Docker Image -DHI without breaking package installs, root permissions?](https://dev.to/sivolko/how-to-move-a-python-service-from-a-docker-image-dhi-without-breaking-package-installs-root-22nm)
-- [I Built a Free Grade Calculator for Students — No Sign-Up Needed](https://dev.to/digiwik_d0b9bfc04a6c3ac31/i-built-a-free-grade-calculator-for-students-no-sign-up-needed-9hl)
+- [Unit Prices Are Falling, So Why Are the Bills Going Up? Tokenomics for AI Platform Owners](https://dev.to/aws-builders/unit-prices-are-falling-so-why-are-the-bills-going-up-tokenomics-for-ai-platform-owners-2cfl)
+- [Building Autonomous AI Agents in the Enterprise](https://dev.to/fartur/building-autonomous-ai-agents-in-the-enterprise-4j61)
+- [Repricing of Software Engineering Labor](https://dev.to/grandimam/repricing-of-software-engineering-labor-1fnd)
+- [OmniIDE 1.0.5 Released](https://dev.to/omninodeco/omniide-105-released-3h6n)
 <!-- BLOG-POST-LIST:END -->
 
 
