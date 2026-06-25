@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;From Bar Runner to AI Solopreneur: My Honest Struggles, Failures, and How AI Saved Me&quot;](https://dev.to/naoanao/from-bar-runner-to-ai-solopreneur-my-honest-struggles-failures-and-how-ai-saved-me-1m41)
-- [How to Run Voice-to-Text Locally on Your Desktop &lpar;Whisper, Offline Dictation&rpar;](https://dev.to/alichherawalla/how-to-run-voice-to-text-locally-on-your-desktop-whisper-offline-dictation-349p)
-- [Building Spatial Memory Part 4: Launching a Side Project — What I Learned After 3 Weeks of User Testing](https://dev.to/kevinten10/building-spatial-memory-part-4-launching-a-side-project-what-i-learned-after-3-weeks-of-user-1g20)
-- [How to Transcribe Meetings Locally in 2026 &lpar;Whisper, On-Device&rpar;](https://dev.to/alichherawalla/how-to-transcribe-meetings-locally-in-2026-whisper-on-device-2ak7)
+- [🌍 Exposing Your Hermes Agent to the Internet with Tailscale Funnel &lpar;Safely&rpar;](https://dev.to/charan_gutti_cf60c6185074/exposing-your-hermes-agent-to-the-internet-with-tailscale-funnel-safely-3m7h)
+- [Java Revision](https://dev.to/_bhupeshk_/java-revision-36nf)
+- [Why Your Browser Should Do the Heavy Lifting: A Guide to Local Data Sanitization](https://dev.to/will_indie/why-your-browser-should-do-the-heavy-lifting-a-guide-to-local-data-sanitization-1k02)
+- [Demystifying SVG to React Component: Stop Breaking Your Build Pipelines](https://dev.to/will_indie/demystifying-svg-to-react-component-stop-breaking-your-build-pipelines-31dc)
 <!-- BLOG-POST-LIST:END -->
 
 
