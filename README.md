@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Write returned success. The file was never there.](https://dev.to/mrvlad/write-returned-success-the-file-was-never-there-12h4)
-- [We built a bidirectional context loop between web apps and AI agents](https://dev.to/java_freepascal_dev/we-built-a-bidirectional-context-loop-between-web-apps-and-ai-agents-2mfg)
-- [AI agents are becoming real economic actors. They deserve a chain built for them, not borrowed from us.](https://dev.to/0xdevc/ai-agents-are-becoming-real-economic-actors-they-deserve-a-chain-built-for-them-not-borrowed-from-3dpi)
-- [Do Developers Ever Really Disconnect?](https://dev.to/eayurt/do-developers-ever-really-disconnect-38jc)
+- [My tool said &quot;clicked.&quot; Safari never saw it. macOS 26 quietly broke a system API.](https://dev.to/achiya-automation/my-tool-said-clicked-safari-never-saw-it-macos-26-quietly-broke-a-system-api-1gei)
+- [Sigma-Normalization: Why Order-Flow Signals Should Be Measured in Standard Deviations, Not Raw Numbers](https://dev.to/tickdistill/sigma-normalization-why-order-flow-signals-should-be-measured-in-standard-deviations-not-raw-3id5)
+- [Building Effective Prompts for AI Code Review: What Actually Works](https://dev.to/learnairesource/building-effective-prompts-for-ai-code-review-what-actually-works-5hao)
+- [I stopped treating AI memory as summaries. I now think in handoffs.](https://dev.to/woshiliyana/i-stopped-treating-ai-memory-as-summaries-i-now-think-in-handoffs-1gcb)
 <!-- BLOG-POST-LIST:END -->
 
 
