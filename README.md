@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Schema vs Snowflake Schema: Which to Use and When](https://dev.to/maheshwari9980/star-schema-vs-snowflake-schema-which-to-use-and-when-3hk9)
-- [DevSecOps Automation: A Deep Dive into SAST](https://dev.to/1doneazy/devsecops-automation-a-deep-dive-into-sast-4gk)
-- [The Tracking-Link Bug That Only Breaks Signed URLs](https://dev.to/nasrulhazim/the-tracking-link-bug-that-only-breaks-signed-urls-38c)
-- [Next Greater Element I | Monotonic Stack](https://dev.to/jaspreet_singh_86ae1740ac/next-greater-element-i-monotonic-stack-2km6)
+- [How to Stream &amp; Flatten 1GB+ JSON to CSV in the Browser Without Memory Leaks](https://dev.to/thesilentkiller07/how-to-stream-flatten-1gb-json-to-csv-in-the-browser-without-memory-leaks-16nj)
+- [Creating Short Links with PHP: A Practical Guide](https://dev.to/deneiz/creating-short-links-with-php-a-practical-guide-5blm)
+- [I Let My AI Agent Build a Bedrock RAG Knowledge Base, Here Are the 2 Mistakes the AWS Agent Toolkit Caught](https://dev.to/raabdahl/i-let-my-ai-agent-build-a-bedrock-rag-knowledge-base-here-are-the-2-mistakes-the-aws-agent-toolkit-3l49)
+- [Cara pakai API Claude &amp; DeepSeek dari Indonesia — bayar Rupiah via QRIS &lpar;tanpa kartu kredit&rpar;](https://dev.to/nexootaoo/cara-pakai-api-claude-deepseek-dari-indonesia-bayar-rupiah-via-qris-tanpa-kartu-kredit-2f1b)
 <!-- BLOG-POST-LIST:END -->
 
 
