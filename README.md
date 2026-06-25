@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Scanned 1,200 MCP Configs From GitHub. Here&#39;s What I Found.](https://dev.to/ad_0846/i-scanned-1200-mcp-configs-from-github-heres-what-i-found-45b3)
-- [How I built a YouTube performance classifier that adjusts tomorrow&#39;s video script bias](https://dev.to/morinaga/how-i-built-a-youtube-performance-classifier-that-adjusts-tomorrows-video-script-bias-19ba)
-- [Notable releases I&#39;m watching: Deno 2.8, Models.dev, DeepSeek V4 Pro permanent pricing](https://dev.to/morinaga/notable-releases-im-watching-deno-28-modelsdev-deepseek-v4-pro-permanent-pricing-2g26)
-- [Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets](https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d)
+- [Don&#39;t let your engineering brain rot in the age of AI](https://dev.to/djordje_petrovic_f7295eb4/dont-let-your-engineering-brain-rot-in-the-age-of-ai-5d6m)
+- [Typical SaaS Churn Rate: How Bootstrapped Founders Can Benchmark and Protect Their Runway](https://dev.to/saasdev11/typical-saas-churn-rate-how-bootstrapped-founders-can-benchmark-and-protect-their-runway-1o0l)
+- [How TF do you get paying SaaS customers?](https://dev.to/arielf/how-tf-do-you-get-paying-saas-customers-395h)
+- [The Empire Strikes Back: Mastering Database Backups &amp; Disaster Recovery](https://dev.to/timevolt/the-empire-strikes-back-mastering-database-backups-disaster-recovery-fib)
 <!-- BLOG-POST-LIST:END -->
 
 
