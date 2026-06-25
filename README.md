@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sync a mailbox into your own database with Nylas](https://dev.to/mqasimca/sync-a-mailbox-into-your-own-database-with-nylas-1mhe)
-- [Correlation IDs in ASP.NET Core: A Practical Guide for Backend Engineers](https://dev.to/momenqasim/correlation-ids-in-aspnet-core-a-practical-guide-for-backend-engineers-3708)
-- [I&#39;m 18, Self-Taught, and I Built an AI Study App for Nigerian Students — Here&#39;s How](https://dev.to/geocodehub/im-18-self-taught-and-i-built-an-ai-study-app-for-nigerian-students-heres-how-1958)
-- [超越沙箱：为 AI Agent 构建持久化运行时](https://dev.to/cognitalk/chao-yue-sha-xiang-wei-ai-agent-gou-jian-chi-jiu-hua-yun-xing-shi-2i9i)
+- [MCP server for repo behavior indexing — entrypoints, impact, context packs before the agent edits &lpar;FlowIndex&rpar;](https://dev.to/aditi_chatterji_acb54593a/mcp-server-for-repo-behavior-indexing-entrypoints-impact-context-packs-before-the-agent-edits-bk7)
+- [Giving an AI agent the keys without giving it the building: RBAC + org-scoped MCP tools in Laravel](https://dev.to/nasrulhazim/giving-an-ai-agent-the-keys-without-giving-it-the-building-rbac-org-scoped-mcp-tools-in-laravel-43oi)
+- [I Built a Telegram-Inspired Messaging App Out of Boredom — Meet IGram](https://dev.to/krrish_jagbandhu_eca8db9d/i-built-a-telegram-inspired-messaging-app-out-of-boredom-meet-igram-1odh)
+- [GitHub ships a one-click self-revoke for users whose credentials just leaked](https://dev.to/leobaniak/github-ships-a-one-click-self-revoke-for-users-whose-credentials-just-leaked-4aa2)
 <!-- BLOG-POST-LIST:END -->
 
 
