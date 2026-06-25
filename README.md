@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP server for repo behavior indexing — entrypoints, impact, context packs before the agent edits &lpar;FlowIndex&rpar;](https://dev.to/aditi_chatterji_acb54593a/mcp-server-for-repo-behavior-indexing-entrypoints-impact-context-packs-before-the-agent-edits-bk7)
-- [Giving an AI agent the keys without giving it the building: RBAC + org-scoped MCP tools in Laravel](https://dev.to/nasrulhazim/giving-an-ai-agent-the-keys-without-giving-it-the-building-rbac-org-scoped-mcp-tools-in-laravel-43oi)
-- [I Built a Telegram-Inspired Messaging App Out of Boredom — Meet IGram](https://dev.to/krrish_jagbandhu_eca8db9d/i-built-a-telegram-inspired-messaging-app-out-of-boredom-meet-igram-1odh)
-- [GitHub ships a one-click self-revoke for users whose credentials just leaked](https://dev.to/leobaniak/github-ships-a-one-click-self-revoke-for-users-whose-credentials-just-leaked-4aa2)
+- [Figma Motion Feels Like It Was Vibe-Coded](https://dev.to/codeideal/figma-motion-feels-like-it-was-vibe-coded-40bl)
+- [Top Open Source Coding Agents to Replace Claude Code in 2026](https://dev.to/moksh/top-open-source-coding-agents-to-replace-claude-code-in-2026-10f7)
+- [The Real Reason Prompt Engineering Isn&#39;t Going Away](https://dev.to/jaideepparashar/the-real-reason-prompt-engineering-isnt-going-away-2koo)
+- [OpenCode&#39;s 5 Hidden Uses: The 178K-Star Terminal AI Agent That Swaps Providers Mid-Session](https://dev.to/_cbd692d476c5faf3b61bcf/opencodes-5-hidden-uses-the-178k-star-terminal-ai-agent-that-swaps-providers-mid-session-2e55)
 <!-- BLOG-POST-LIST:END -->
 
 
