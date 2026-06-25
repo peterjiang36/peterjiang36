@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Localizzare in massa la scheda App Store con ASC CLI &lpar;e perché conviene davvero&rpar;](https://dev.to/frontendfacile/localizzare-in-massa-la-scheda-app-store-con-asc-cli-e-perche-conviene-davvero-4220)
-- [Self-host n8n on a VPS with Docker](https://dev.to/eqvps/self-host-n8n-on-a-vps-with-docker-5ep3)
-- [How to Pass the AWS Certified Cloud Practitioner &lpar;CLF-C02&rpar; Exam on Your First Attempt in 2026](https://dev.to/azizfarid_fahmy_ab6b5f061/how-to-pass-the-aws-certified-cloud-practitioner-clf-c02-exam-on-your-first-attempt-in-2026-24gl)
-- [Beyond Vibe Coding: Top AI Builders for Real Data and Workflows](https://dev.to/momen_hq/beyond-vibe-coding-top-ai-builders-for-real-data-and-workflows-nl1)
+- [I built a free tool to open Apple Pages/Numbers/Keynote files on Windows — 100% in-browser](https://dev.to/nicleychrosniakdwcr1331cell/i-built-a-free-tool-to-open-apple-pagesnumberskeynote-files-on-windows-100-in-browser-40ib)
+- [AI Goes to War](https://dev.to/rawveg/ai-goes-to-war-25d9)
+- [Python vs PHP in 2026: An Honest Take for Developers Who Are Tired of Vague Answers](https://dev.to/bikkisingh/python-vs-php-in-2026-an-honest-take-for-developers-who-are-tired-of-vague-answers-2dg)
+- [How to Build a RAG Knowledge Base from Any Documentation Site in 5 Minutes](https://dev.to/devtoolslab/how-to-build-a-rag-knowledge-base-from-any-documentation-site-in-5-minutes-3j76)
 <!-- BLOG-POST-LIST:END -->
 
 
