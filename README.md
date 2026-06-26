@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free Online PDF Converter with Next.js: What I Learned](https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c)
-- [SoloEngine: The Best Practice for Loop Engineering, Building Your First Autonomous AI Loop from Scratch](https://dev.to/sh4rlock/soloengine-the-best-practice-for-loop-engineering-building-your-first-autonomous-ai-loop-from-4592)
-- [I Don&#39;t Understand Embedded. I Was Still the Only One Who Could Ship It.](https://dev.to/antonio_zhu_e726fd856cd86/i-dont-understand-embedded-i-was-still-the-only-one-who-could-ship-it-24c2)
-- [How to stop overthinking at night](https://dev.to/solace_wellness/how-to-stop-overthinking-at-night-33on)
+- [What Building an AI Detector Taught Me About Machine Learning](https://dev.to/naturalmelo/what-building-an-ai-detector-taught-me-about-machine-learning-1igh)
+- [We Saved 6 Hours of QA Time This Week Using AI — Here&#39;s the Breakdown &lpar;Week 7 Roundup&rpar;](https://dev.to/leveragenotes/we-saved-6-hours-of-qa-time-this-week-using-ai-heres-the-breakdown-week-7-roundup-4nm4)
+- [Payload v4: the MCP plugin exposes your collections to LLMs — and it&#39;s opt-out](https://dev.to/zawoj/payload-v4-the-mcp-plugin-exposes-your-collections-to-llms-and-its-opt-out-2nlg)
+- [Website pricing in Besançon 2026: 4 quotes, 10x gap, what to actually look at](https://dev.to/ohugonnot/website-pricing-in-besancon-2026-4-quotes-10x-gap-what-to-actually-look-at-41df)
 <!-- BLOG-POST-LIST:END -->
 
 
