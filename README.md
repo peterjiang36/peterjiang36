@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ollama&#39;s Chinese Model Support Is Real — But Running Kimi and DeepSeek Locally Has a Hidden Cost](https://dev.to/xu_xu_b2179aa8fc958d531d1/ollamas-chinese-model-support-is-real-but-running-kimi-and-deepseek-locally-has-a-hidden-cost-1e8n)
-- [Adding one field to our CAPI payload moved match rate from 66% to 79% overnight](https://dev.to/riversea/adding-one-field-to-our-capi-payload-moved-match-rate-from-66-to-79-overnight-22mo)
-- [Fan-Out/Fan-In and the Async HTTP Pattern](https://dev.to/martin_oehlert/fan-outfan-in-and-the-async-http-pattern-194j)
-- [When Your Coding Agent Needs a Scribe, Not a Memory Engine](https://dev.to/timetxt/when-your-coding-agent-needs-a-scribe-not-a-memory-engine-3bj)
+- [Building a Free Online PDF Converter with Next.js: What I Learned](https://dev.to/basit_chingisi/building-a-free-online-pdf-converter-with-nextjs-what-i-learned-3i0c)
+- [SoloEngine: The Best Practice for Loop Engineering, Building Your First Autonomous AI Loop from Scratch](https://dev.to/sh4rlock/soloengine-the-best-practice-for-loop-engineering-building-your-first-autonomous-ai-loop-from-4592)
+- [I Don&#39;t Understand Embedded. I Was Still the Only One Who Could Ship It.](https://dev.to/antonio_zhu_e726fd856cd86/i-dont-understand-embedded-i-was-still-the-only-one-who-could-ship-it-24c2)
+- [How to stop overthinking at night](https://dev.to/solace_wellness/how-to-stop-overthinking-at-night-33on)
 <!-- BLOG-POST-LIST:END -->
 
 
