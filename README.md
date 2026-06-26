@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Zero-Leak Postgres MCP Gateway in Go](https://dev.to/khalidelokiely/building-a-zero-leak-postgres-mcp-gateway-in-go-3be6)
-- [I built a lightweight jQuery Tree Select plugin 🌳](https://dev.to/umair_ashraf_3fc3dabc723d/i-built-a-lightweight-jquery-tree-select-plugin-4b9c)
-- [Vibe Coding Is Not Software Development — And It&#39;s Starting to Show](https://dev.to/vmsfigueredo/vibe-coding-is-not-software-development-and-its-starting-to-show-2mfc)
-- [Never forget to enter the Stern Grove lottery again!](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5)
+- [Left of the Loop: The Ever-Agreeing Genie](https://dev.to/aepfli/left-of-the-loop-the-ever-agreeing-genie-5cgj)
+- [How We Actually Measure Whether an LLM&#39;s Output Is Good - BLEU, COMET and BLEURT](https://dev.to/shrsv/how-we-actually-measure-whether-an-llms-output-is-good-bleu-comet-and-bleurt-3c0f)
+- [Left of the Loop: The End of the Craftsman?](https://dev.to/aepfli/the-end-of-the-craftsman-1b2n)
+- [Left of the Loop: A Fool with a Tool is Still a Fool](https://dev.to/aepfli/left-of-the-loop-a-fool-with-a-tool-is-still-a-fool-5eop)
 <!-- BLOG-POST-LIST:END -->
 
 
