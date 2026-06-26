@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing OmniCore: A Neural Brain for Your Game’s NPCs](https://dev.to/ahad_progamer_2aea1ee468/introducing-omnicore-a-neural-brain-for-your-games-npcs-2nam)
-- [Native Linux, Apple Watch, A Game Builder And Crash Protection](https://dev.to/codenameone/native-linux-apple-watch-a-game-builder-and-crash-protection-2i4c)
-- [Build your API, not your boilerplate.](https://dev.to/setahirbaloch/build-your-api-not-your-boilerplate-15j4)
-- [Testing Webhooks: The Pattern I Keep Reaching For](https://dev.to/rishi_gaurav/testing-webhooks-the-pattern-i-keep-reaching-for-3cg)
+- [Virtual Threads and the Myth of “Easy Async”: Why Java’s New Concurrency Model Still Needs Discipline](https://dev.to/tpmsh/virtual-threads-and-the-myth-of-easy-async-why-javas-new-concurrency-model-still-needs-2974)
+- [Why generating code isn’t the same as code intelligence](https://dev.to/codeqa/why-generating-code-isnt-the-same-as-code-intelligence-2agc)
+- [SQL window functions: what separates a mid-level from a senior developer](https://dev.to/lbraun7/sql-window-functions-what-separates-a-mid-level-from-a-senior-developer-2mf3)
+- [I don&#39;t write my language by hand — an organism grows it &lpar;Day 5&rpar;](https://dev.to/umbraaeternaa/i-dont-write-my-language-by-hand-an-organism-grows-it-day-5published-true-4lmi)
 <!-- BLOG-POST-LIST:END -->
 
 
