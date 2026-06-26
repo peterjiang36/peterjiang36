@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Left of the Loop: The Ever-Agreeing Genie](https://dev.to/aepfli/left-of-the-loop-the-ever-agreeing-genie-5cgj)
-- [How We Actually Measure Whether an LLM&#39;s Output Is Good - BLEU, COMET and BLEURT](https://dev.to/shrsv/how-we-actually-measure-whether-an-llms-output-is-good-bleu-comet-and-bleurt-3c0f)
-- [Left of the Loop: The End of the Craftsman?](https://dev.to/aepfli/the-end-of-the-craftsman-1b2n)
-- [Left of the Loop: A Fool with a Tool is Still a Fool](https://dev.to/aepfli/left-of-the-loop-a-fool-with-a-tool-is-still-a-fool-5eop)
+- [How We Migrated Bloom After from Vanilla JS to Next.js + TypeScript](https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl)
+- [How a .NET dev built an AI assistant](https://dev.to/manhhungtran/how-a-net-dev-built-an-ai-assistant-36cm)
+- [iOS App Icon Sizes in 2026: The Complete Reference](https://dev.to/presidentty/ios-app-icon-sizes-in-2026-the-complete-reference-fk6)
+- [Cutting our LLM bill ~80% with model routing: the actual cost math](https://dev.to/dhruv_kapadia_703eadaa762/cutting-our-llm-bill-80-with-model-routing-the-actual-cost-math-mfk)
 <!-- BLOG-POST-LIST:END -->
 
 
