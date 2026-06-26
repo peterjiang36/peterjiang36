@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Reverse Engineered a Closed-Format App. Everything Was in SQLite.](https://dev.to/antonio_zhu_e726fd856cd86/i-reverse-engineered-a-closed-format-app-everything-was-in-sqlite-340g)
-- [How I Built a Hyperlocal Coupon Platform with Next.js Firebase for Small-Town India](https://dev.to/i_sakthi_7/how-i-built-a-hyperlocal-coupon-platform-with-nextjs-14-firebase-for-small-town-india-4pdc)
-- [6 checks before merging AI-agent generated code](https://dev.to/marcin_brzozka_ff45b1ccb6/6-checks-before-merging-ai-agent-generated-code-dmg)
-- [Cilium publishes its CI hardening playbook, gaps and all](https://dev.to/leobaniak/cilium-publishes-its-ci-hardening-playbook-gaps-and-all-1n1p)
+- [Building a Zero-Leak Postgres MCP Gateway in Go](https://dev.to/khalidelokiely/building-a-zero-leak-postgres-mcp-gateway-in-go-3be6)
+- [I built a lightweight jQuery Tree Select plugin 🌳](https://dev.to/umair_ashraf_3fc3dabc723d/i-built-a-lightweight-jquery-tree-select-plugin-4b9c)
+- [Vibe Coding Is Not Software Development — And It&#39;s Starting to Show](https://dev.to/vmsfigueredo/vibe-coding-is-not-software-development-and-its-starting-to-show-2mfc)
+- [Never forget to enter the Stern Grove lottery again!](https://dev.to/entire/never-forget-to-enter-the-stern-grove-lottery-again-31i5)
 <!-- BLOG-POST-LIST:END -->
 
 
