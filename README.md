@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Building an AI Detector Taught Me About Machine Learning](https://dev.to/naturalmelo/what-building-an-ai-detector-taught-me-about-machine-learning-1igh)
-- [We Saved 6 Hours of QA Time This Week Using AI — Here&#39;s the Breakdown &lpar;Week 7 Roundup&rpar;](https://dev.to/leveragenotes/we-saved-6-hours-of-qa-time-this-week-using-ai-heres-the-breakdown-week-7-roundup-4nm4)
-- [Payload v4: the MCP plugin exposes your collections to LLMs — and it&#39;s opt-out](https://dev.to/zawoj/payload-v4-the-mcp-plugin-exposes-your-collections-to-llms-and-its-opt-out-2nlg)
-- [Website pricing in Besançon 2026: 4 quotes, 10x gap, what to actually look at](https://dev.to/ohugonnot/website-pricing-in-besancon-2026-4-quotes-10x-gap-what-to-actually-look-at-41df)
+- [Building Structured Inter-Agent Communication: A Practical Guide](https://dev.to/albert_zhang_f468830cf0e6/building-structured-inter-agent-communication-a-practical-guide-m6)
+- [You shipped an MCP server. Nobody found it. Here&#39;s the fix.](https://dev.to/palo_alto_ai/you-shipped-an-mcp-server-nobody-found-it-heres-the-fix-10b9)
+- [Three Years in Four Weeks](https://dev.to/rawveg/three-years-in-four-weeks-51b6)
+- [How to Choose the Right Keywords for Different Geographic Markets](https://dev.to/kevincarroll85/how-to-choose-the-right-keywords-for-different-geographic-markets-4i3p)
 <!-- BLOG-POST-LIST:END -->
 
 
