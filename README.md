@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Server Auth: The API Is the Real Boundary](https://dev.to/jeremy_longshore/mcp-server-auth-the-api-is-the-real-boundary-2jhl)
-- [When --cap-drop ALL Broke the Gate Socket](https://dev.to/jeremy_longshore/when-cap-drop-all-broke-the-gate-socket-1p6h)
-- [2026 PDF Generation API Comprehensive Comparison Review: 13 Mainstream Solutions Benchmarked &lpar;HTML to PDF&rpar;](https://dev.to/derek-compdf/2026-pdf-generation-api-comprehensive-comparison-review-13-mainstream-solutions-benchmarked-html-2l38)
-- [🚀 Join the Omnia Community — Contributors Wanted](https://dev.to/thpunisher/join-the-omnia-community-contributors-wanted-416g)
+- [Ollama&#39;s Chinese Model Support Is Real — But Running Kimi and DeepSeek Locally Has a Hidden Cost](https://dev.to/xu_xu_b2179aa8fc958d531d1/ollamas-chinese-model-support-is-real-but-running-kimi-and-deepseek-locally-has-a-hidden-cost-1e8n)
+- [Adding one field to our CAPI payload moved match rate from 66% to 79% overnight](https://dev.to/riversea/adding-one-field-to-our-capi-payload-moved-match-rate-from-66-to-79-overnight-22mo)
+- [Fan-Out/Fan-In and the Async HTTP Pattern](https://dev.to/martin_oehlert/fan-outfan-in-and-the-async-http-pattern-194j)
+- [When Your Coding Agent Needs a Scribe, Not a Memory Engine](https://dev.to/timetxt/when-your-coding-agent-needs-a-scribe-not-a-memory-engine-3bj)
 <!-- BLOG-POST-LIST:END -->
 
 
