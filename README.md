@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Migrated Bloom After from Vanilla JS to Next.js + TypeScript](https://dev.to/chijioke_uzodinma_d6ae6ef/how-we-migrated-bloom-after-from-vanilla-js-to-nextjs-typescript-ggl)
-- [How a .NET dev built an AI assistant](https://dev.to/manhhungtran/how-a-net-dev-built-an-ai-assistant-36cm)
-- [iOS App Icon Sizes in 2026: The Complete Reference](https://dev.to/presidentty/ios-app-icon-sizes-in-2026-the-complete-reference-fk6)
-- [Cutting our LLM bill ~80% with model routing: the actual cost math](https://dev.to/dhruv_kapadia_703eadaa762/cutting-our-llm-bill-80-with-model-routing-the-actual-cost-math-mfk)
+- [Built a Full-Stack AI Chatbot using AWS Bedrock + JavaScript](https://dev.to/sundus/built-a-full-stack-ai-chatbot-using-aws-bedrock-javascript-2el7)
+- [Four Bugs Stood Between Me amd &quot;Sign in with Google&quot;](https://dev.to/mido-dev/four-bugs-stood-between-me-sign-in-with-google-2ajn)
+- [SuperCompress is now on PyPI! pip install supercompress in 1 line](https://dev.to/arjunkshah/supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line-20ja)
+- [I Let 24 Famous Engineers Review My Methodology. Here&#39;s What Happened.](https://dev.to/yuhaolin2005/i-let-24-famous-engineers-review-my-methodology-heres-what-happened-31k4)
 <!-- BLOG-POST-LIST:END -->
 
 
