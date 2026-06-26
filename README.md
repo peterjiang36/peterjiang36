@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Financial Services to Full-Stack Dev: My First 3 Months](https://dev.to/keysstarks/from-financial-services-to-full-stack-dev-my-first-3-months-jip)
-- [Distributed Tracing in .NET Core and Azure](https://dev.to/hossein_esmati/distributed-tracing-in-net-core-and-azure-4ni5)
-- [React.js ~The best practice for conditional statement~](https://dev.to/kkr0423/reactjs-the-best-practice-for-conditional-statement-4ma2)
-- [GitHub Actions adds a background marker, and the linear job stops being the only shape](https://dev.to/leobaniak/github-actions-adds-a-background-marker-and-the-linear-job-stops-being-the-only-shape-1f5l)
+- [MCP Server Auth: The API Is the Real Boundary](https://dev.to/jeremy_longshore/mcp-server-auth-the-api-is-the-real-boundary-2jhl)
+- [When --cap-drop ALL Broke the Gate Socket](https://dev.to/jeremy_longshore/when-cap-drop-all-broke-the-gate-socket-1p6h)
+- [2026 PDF Generation API Comprehensive Comparison Review: 13 Mainstream Solutions Benchmarked &lpar;HTML to PDF&rpar;](https://dev.to/derek-compdf/2026-pdf-generation-api-comprehensive-comparison-review-13-mainstream-solutions-benchmarked-html-2l38)
+- [🚀 Join the Omnia Community — Contributors Wanted](https://dev.to/thpunisher/join-the-omnia-community-contributors-wanted-416g)
 <!-- BLOG-POST-LIST:END -->
 
 
