@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Databricks AI Agent with No Custom Tables &lpar;OpenAI Agents SDK + Gradio&rpar;](https://dev.to/dipayan_das/how-i-built-a-databricks-ai-agent-with-no-custom-tables-openai-agents-sdk-gradio-351m)
-- [How Malicious MCP Configs in Amazon Q Developer Could Execute Arbitrary Code — and How to Stop It](https://dev.to/coridev/how-malicious-mcp-configs-in-amazon-q-developer-could-execute-arbitrary-code-and-how-to-stop-it-36mg)
-- [Build a Simple RAG App with Telnyx AI Inference](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-simple-rag-app-with-telnyx-ai-inference-mfl)
-- [Extract Structured JSON from Messy Text with Telnyx AI Inference](https://dev.to/sonam_50a41a4ced7e6b4f3fa/extract-structured-json-from-messy-text-with-telnyx-ai-inference-57ib)
+- [Sandboxing Reality: How to Spoof iPhone Locations for Advanced Penetration Testing](https://dev.to/numbpill3d/sandboxing-reality-how-to-spoof-iphone-locations-for-advanced-penetration-testing-5dpg)
+- [I Built Chromium in the Cloud in 2 Hours for $2 — What If Google Made This a One-Click Setup?](https://dev.to/semih702/i-built-chromium-in-the-cloud-in-2-hours-for-2-what-if-google-made-this-a-one-click-setup-23hp)
+- [Approval-driven server ops: how I let contractors restart nginx without ever giving them SSH](https://dev.to/lamas51/approval-driven-server-ops-how-i-let-contractors-restart-nginx-without-ever-giving-them-ssh-2fdm)
+- [Instrument AI Agent Decision Tracing with OpenTelemetry](https://dev.to/toxsec/instrument-ai-agent-decision-tracing-with-opentelemetry-5b2k)
 <!-- BLOG-POST-LIST:END -->
 
 
