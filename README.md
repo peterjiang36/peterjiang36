@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Thread Safety — .NET core-centric](https://dev.to/hossein_esmati/ensuring-thread-safety-net-core-centric-g3k)
-- [Synchronous vs asynchronous in .NET core - how decide](https://dev.to/hossein_esmati/synchronous-vs-asynchronous-in-net-core-how-decide-5aml)
-- [MQTT to ThingsBoard Setting Up Device Telemetry from Scratch](https://dev.to/promeraki-developments/mqtt-to-thingsboard-setting-up-device-telemetry-from-scratch-34kp)
-- [RAG Is Not a Chatbot Feature. It Is Production AI Infrastructure.](https://dev.to/rajiv_gupta_00c1f07d3c79b/rag-is-not-a-chatbot-feature-it-is-production-ai-infrastructure-49m8)
+- [Introducing OmniCore: A Neural Brain for Your Game’s NPCs](https://dev.to/ahad_progamer_2aea1ee468/introducing-omnicore-a-neural-brain-for-your-games-npcs-2nam)
+- [Native Linux, Apple Watch, A Game Builder And Crash Protection](https://dev.to/codenameone/native-linux-apple-watch-a-game-builder-and-crash-protection-2i4c)
+- [Build your API, not your boilerplate.](https://dev.to/setahirbaloch/build-your-api-not-your-boilerplate-15j4)
+- [Testing Webhooks: The Pattern I Keep Reaching For](https://dev.to/rishi_gaurav/testing-webhooks-the-pattern-i-keep-reaching-for-3cg)
 <!-- BLOG-POST-LIST:END -->
 
 
