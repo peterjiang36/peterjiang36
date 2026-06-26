@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Threads and the Myth of “Easy Async”: Why Java’s New Concurrency Model Still Needs Discipline](https://dev.to/tpmsh/virtual-threads-and-the-myth-of-easy-async-why-javas-new-concurrency-model-still-needs-2974)
-- [Why generating code isn’t the same as code intelligence](https://dev.to/codeqa/why-generating-code-isnt-the-same-as-code-intelligence-2agc)
-- [SQL window functions: what separates a mid-level from a senior developer](https://dev.to/lbraun7/sql-window-functions-what-separates-a-mid-level-from-a-senior-developer-2mf3)
-- [I don&#39;t write my language by hand — an organism grows it &lpar;Day 5&rpar;](https://dev.to/umbraaeternaa/i-dont-write-my-language-by-hand-an-organism-grows-it-day-5published-true-4lmi)
+- [I Reverse Engineered a Closed-Format App. Everything Was in SQLite.](https://dev.to/antonio_zhu_e726fd856cd86/i-reverse-engineered-a-closed-format-app-everything-was-in-sqlite-340g)
+- [How I Built a Hyperlocal Coupon Platform with Next.js Firebase for Small-Town India](https://dev.to/i_sakthi_7/how-i-built-a-hyperlocal-coupon-platform-with-nextjs-14-firebase-for-small-town-india-4pdc)
+- [6 checks before merging AI-agent generated code](https://dev.to/marcin_brzozka_ff45b1ccb6/6-checks-before-merging-ai-agent-generated-code-dmg)
+- [Cilium publishes its CI hardening playbook, gaps and all](https://dev.to/leobaniak/cilium-publishes-its-ci-hardening-playbook-gaps-and-all-1n1p)
 <!-- BLOG-POST-LIST:END -->
 
 
