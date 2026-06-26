@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t let your engineering brain rot in the age of AI](https://dev.to/djordje_petrovic_f7295eb4/dont-let-your-engineering-brain-rot-in-the-age-of-ai-5d6m)
-- [Typical SaaS Churn Rate: How Bootstrapped Founders Can Benchmark and Protect Their Runway](https://dev.to/saasdev11/typical-saas-churn-rate-how-bootstrapped-founders-can-benchmark-and-protect-their-runway-1o0l)
-- [How TF do you get paying SaaS customers?](https://dev.to/arielf/how-tf-do-you-get-paying-saas-customers-395h)
-- [The Empire Strikes Back: Mastering Database Backups &amp; Disaster Recovery](https://dev.to/timevolt/the-empire-strikes-back-mastering-database-backups-disaster-recovery-fib)
+- [From Financial Services to Full-Stack Dev: My First 3 Months](https://dev.to/keysstarks/from-financial-services-to-full-stack-dev-my-first-3-months-jip)
+- [Distributed Tracing in .NET Core and Azure](https://dev.to/hossein_esmati/distributed-tracing-in-net-core-and-azure-4ni5)
+- [React.js ~The best practice for conditional statement~](https://dev.to/kkr0423/reactjs-the-best-practice-for-conditional-statement-4ma2)
+- [GitHub Actions adds a background marker, and the linear job stops being the only shape](https://dev.to/leobaniak/github-actions-adds-a-background-marker-and-the-linear-job-stops-being-the-only-shape-1f5l)
 <!-- BLOG-POST-LIST:END -->
 
 
