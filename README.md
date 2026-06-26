@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a Full-Stack AI Chatbot using AWS Bedrock + JavaScript](https://dev.to/sundus/built-a-full-stack-ai-chatbot-using-aws-bedrock-javascript-2el7)
-- [Four Bugs Stood Between Me amd &quot;Sign in with Google&quot;](https://dev.to/mido-dev/four-bugs-stood-between-me-sign-in-with-google-2ajn)
-- [SuperCompress is now on PyPI! pip install supercompress in 1 line](https://dev.to/arjunkshah/supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line-20ja)
-- [I Let 24 Famous Engineers Review My Methodology. Here&#39;s What Happened.](https://dev.to/yuhaolin2005/i-let-24-famous-engineers-review-my-methodology-heres-what-happened-31k4)
+- [Your cloud keys should not exist](https://dev.to/b0gy/your-cloud-keys-should-not-exist-4phk)
+- [Day 6: my language now compiles to WebAssembly — and I emit the bytes by hand](https://dev.to/umbraaeternaa/day-6-my-language-now-compiles-to-webassembly-and-i-emit-the-bytes-by-hand-c0o)
+- [Manage Sensitive Data In Application Code | 🏗️ Build A Secure Configuration Service](https://dev.to/aws-builders/manage-sensitive-data-in-application-code-build-a-secure-configuration-service-3mlb)
+- [JavaScript Closures: How They Actually Work](https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g)
 <!-- BLOG-POST-LIST:END -->
 
 
