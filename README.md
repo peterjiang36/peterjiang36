@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your cloud keys should not exist](https://dev.to/b0gy/your-cloud-keys-should-not-exist-4phk)
-- [Day 6: my language now compiles to WebAssembly — and I emit the bytes by hand](https://dev.to/umbraaeternaa/day-6-my-language-now-compiles-to-webassembly-and-i-emit-the-bytes-by-hand-c0o)
-- [Manage Sensitive Data In Application Code | 🏗️ Build A Secure Configuration Service](https://dev.to/aws-builders/manage-sensitive-data-in-application-code-build-a-secure-configuration-service-3mlb)
-- [JavaScript Closures: How They Actually Work](https://dev.to/sanuranjan/javascript-closures-how-they-actually-work-376g)
+- [How I Built a Databricks AI Agent with No Custom Tables &lpar;OpenAI Agents SDK + Gradio&rpar;](https://dev.to/dipayan_das/how-i-built-a-databricks-ai-agent-with-no-custom-tables-openai-agents-sdk-gradio-351m)
+- [How Malicious MCP Configs in Amazon Q Developer Could Execute Arbitrary Code — and How to Stop It](https://dev.to/coridev/how-malicious-mcp-configs-in-amazon-q-developer-could-execute-arbitrary-code-and-how-to-stop-it-36mg)
+- [Build a Simple RAG App with Telnyx AI Inference](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-simple-rag-app-with-telnyx-ai-inference-mfl)
+- [Extract Structured JSON from Messy Text with Telnyx AI Inference](https://dev.to/sonam_50a41a4ced7e6b4f3fa/extract-structured-json-from-messy-text-with-telnyx-ai-inference-57ib)
 <!-- BLOG-POST-LIST:END -->
 
 
