@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Doesn&#39;t Need to Be Smarter. It Needs to Be Idempotent](https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736)
-- [Humanizing Artificial Intelligence for Log Analysis: Turning Raw Server Logs Into Clear DevOps Answers](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-log-analysis-turning-raw-server-logs-into-clear-devops-2dnm)
-- [We Didn&#39;t Need Another AI Tool. We Needed Better Processes.](https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254)
-- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound Tokens](https://dev.to/neocarvajal/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-tokens-j4j)
+- [We Built a Better Mutual Fund Screener for India](https://dev.to/dhanik_3e79e065189c6e7aaa/i-built-a-better-mutual-fund-screener-for-india-e9b)
+- [Lode Runner, Ultima, and a Samsung Tape Drive](https://dev.to/chaesang/lode-runner-ultima-and-a-samsung-tape-drive-2ef6)
+- [PAL: Giving AI Agents Hands in the Physical World](https://dev.to/hanasite/pal-giving-ai-agents-hands-in-the-physical-world-48mj)
+- [Building FailureDNA: an agent memory that knows when not to trust itself](https://dev.to/prabhakaranjm/building-failuredna-an-agent-memory-that-knows-when-not-to-trust-itself-fbn)
 <!-- BLOG-POST-LIST:END -->
 
 
