@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Polling Agents in AI Assistants: 11 Implementation Patterns](https://dev.to/rosgluk/polling-agents-in-ai-assistants-11-implementation-patterns-2dc2)
-- [Choreography of validation: how to make your auth form seamless and usable](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm)
-- [WAFER Deep Crawler: 8-Layer Stealth Architecture - Fingerprint Layer](https://dev.to/chex0210crypto/wafer-deep-crawler-8-layer-stealth-architecture-fingerprint-layer-5bjg)
-- [The Linear CLI Linear never shipped: driving your tracker from the terminal](https://dev.to/radial/the-linear-cli-linear-never-shipped-driving-your-tracker-from-the-terminal-29mb)
+- [I Built the Same Event App With Five AI Coding Tools and Only Two Didn&#39;t Embarrass Me](https://dev.to/damilaredev/i-built-the-same-event-app-with-five-ai-coding-tools-and-only-two-didnt-embarrass-me-1ep2)
+- [How letting go of expectations makes us better](https://dev.to/andreas_mller_2fd27cf578/how-letting-go-of-expectations-makes-us-better-12eo)
+- [LLD:15-Order Management System](https://dev.to/_noob/lld15-order-management-system-1i17)
+- [The Developer&#39;s Guide to Trimming AI API Costs Without Crying](https://dev.to/swift-logic-io218/the-developers-guide-to-trimming-ai-api-costs-without-crying-12c2)
 <!-- BLOG-POST-LIST:END -->
 
 
