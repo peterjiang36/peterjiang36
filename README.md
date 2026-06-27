@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Your Freelance Day Rate as a Developer &lpar;With a Free Calculator&rpar;](https://dev.to/paycalctools/how-to-set-your-freelance-day-rate-as-a-developer-with-a-free-calculator-fj0)
-- [How to Detect Which Font Is Actually Rendering in a Browser &lpar;Not Just the CSS Stack&rpar;](https://dev.to/ktg0215/how-to-detect-which-font-is-actually-rendering-in-a-browser-not-just-the-css-stack-12cd)
-- [How To Prepare For A Golang Interview: A Practical Guide For Mid &amp; Senior Engineers](https://dev.to/nazar_boyko/how-to-prepare-for-a-golang-interview-a-practical-guide-for-mid-senior-engineers-200p)
-- [My First Python Project: Lessons Learned While Building a Number Guessing Game](https://dev.to/xdk0d3r/my-first-python-project-lessons-learned-while-building-a-number-guessing-game-559i)
+- [I analyzed 500 Upwork proposals with a 95% win rate. Here&#39;s the one pattern that decided everything.](https://dev.to/yaaver/i-analyzed-500-upwork-proposals-with-a-95-win-rate-heres-the-one-pattern-that-decided-everything-2leh)
+- [Why I still use NGINX over everything else](https://dev.to/mishansavy/why-i-still-use-nginx-over-everything-else-24hj)
+- [📝 Caso de Estudio: Cómo construir un SaaS Multi-tenant con Next.js 16, NestJS 11 y PostgreSQL RLS](https://dev.to/aomalejandrodev/caso-de-estudio-como-construir-un-saas-multi-tenant-con-nextjs-16-nestjs-11-y-postgresql-rls-25hk)
+- [The Future of SEO Has Nothing to Do With Search](https://dev.to/kenwalger/the-future-of-seo-has-nothing-to-do-with-search-2eke)
 <!-- BLOG-POST-LIST:END -->
 
 
