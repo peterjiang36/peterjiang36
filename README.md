@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What happens when companies become too AI-pilled?](https://dev.to/judy_miranttie/what-happens-when-companies-become-too-ai-pilled-27fo)
-- [Why Enterprise AI Needs Structured Dissent, Not Just More Agents](https://dev.to/amising6/why-enterprise-ai-needs-structured-dissent-not-just-more-agents-5cn)
-- [I wanted a Go networking engine that gets out of the way, so I built one &lpar;Breeze&rpar;.](https://dev.to/nelthaarion/i-wanted-a-go-networking-engine-that-gets-out-of-the-way-so-i-built-one-breeze-3jc)
-- [Mastering the &quot;Quantified Self&quot;: Building a Blazing-Fast Heart Rate Dashboard with DuckDB and Streamlit](https://dev.to/beck_moulton/mastering-the-quantified-self-building-a-blazing-fast-heart-rate-dashboard-with-duckdb-and-1eed)
+- [Building a Local-First Voice Copilot for the Shell with HoldSpeak and Ollama](https://dev.to/philgrayphilgray/building-a-local-first-voice-copilot-for-the-shell-with-holdspeak-and-ollama-57lm)
+- [Three Months with Java 26: My Thoughts After Using the Latest Release](https://dev.to/deividas-strole/three-months-with-java-26-my-thoughts-after-using-the-latest-release-61c)
+- [I should I start cyber security from scratch I am new in this field I more curious about how this work I some know of programming languages like C, python](https://dev.to/hunt_rao_71adfe7d5122d4e7/i-should-i-start-cyber-security-from-scratch-i-am-new-in-this-field-i-more-curious-about-how-this-1f75)
+- [DeepSeek&#39;s Response API Isn&#39;t OpenAI Responses. That One Parser Mistake Drops the Reasoning.](https://dev.to/tokenmixai/deepseeks-response-api-isnt-openai-responses-that-one-parser-mistake-drops-the-reasoning-2818)
 <!-- BLOG-POST-LIST:END -->
 
 
