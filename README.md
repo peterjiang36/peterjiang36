@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift Structs — Building Your Own Custom Types 🏗️](https://dev.to/gamya_m/swift-structs-building-your-own-custom-types-391m)
-- [AI Helps Us Write Code Faster. So Why Aren’t Projects Moving Faster?](https://dev.to/swrzalek/ai-helps-us-write-code-faster-so-why-arent-projects-moving-faster-49jo)
-- [Why current balance is a weak UX primitive for everyday banking](https://dev.to/darca/why-current-balance-is-a-weak-ux-primitive-for-everyday-banking-5gkh)
-- [Handling ISO Currency Codes in Software](https://dev.to/doogal/handling-iso-currency-codes-in-software-37hi)
+- [A Quick Checklist for Making Web Pages Easier to Read on Small Screens](https://dev.to/ansel_boa_a519a094d7e920b/a-quick-checklist-for-making-web-pages-easier-to-read-on-small-screens-3fgb)
+- [I Built Two AI Desktop Tools with Python — No API Keys, No Cloud Costs](https://dev.to/alirezarg/i-built-two-ai-desktop-tools-with-python-no-api-keys-no-cloud-costs-48km)
+- [Distributed Scheduled Job Locking with Redis](https://dev.to/fathma/distributed-scheduled-job-locking-with-redis-3e39)
+- [Embeddings Magic](https://dev.to/tahaboussaden/embeddings-magic-2hlb)
 <!-- BLOG-POST-LIST:END -->
 
 
