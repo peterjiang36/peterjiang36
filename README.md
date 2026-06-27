@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG System from Scratch — Wrap-up and What Comes Next](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-wrap-up-and-what-comes-next-2821)
-- [Scaffold - Microservice&#39;s generator](https://dev.to/said_olano/scaffold-microservices-generator-18a2)
-- [Building a RAG System from Scratch — Tool Use: Let the LLM Search Autonomously](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-tool-use-let-the-llm-search-autonomously-29ho)
-- [Building a RAG System from Scratch — Design Decisions Explained](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-design-decisions-explained-40hd)
+- [React 19 Unstable Features: Update or Ignore ESLint Rules?](https://dev.to/paradane/react-19-unstable-features-update-or-ignore-eslint-rules-151h)
+- [AI Governance as a Database Primitive: Building FarmOps Desk on Aurora + pgvector + Bedrock](https://dev.to/captjay98/ai-governance-as-a-database-primitive-building-farmops-desk-on-aurora-pgvector-bedrock-44j0)
+- [Videollamadas 1:1 en ~180 líneas de backend a $0.20 por sesión, no necesitas más](https://dev.to/aws-builders/videollamadas-11-en-180-lineas-de-backend-a-020-por-sesion-no-necesitas-mas-35he)
+- [Building FoilSuite: A Privacy-First Security Toolkit for Browser and IoT Security](https://dev.to/nikolap994/building-foilsuite-a-privacy-first-security-toolkit-for-browser-and-iot-security-o4j)
 <!-- BLOG-POST-LIST:END -->
 
 
