@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a daily Linux command-line quiz because I kept forgetting flags](https://dev.to/getchowned/i-built-a-daily-linux-command-line-quiz-because-i-kept-forgetting-flags-56nd)
-- [We Run 9 AI Agents on 2 CPU Cores and 3.6GB RAM: The Engineering Memoir](https://dev.to/zwiserfit/we-run-9-ai-agents-on-2-cpu-cores-and-36gb-ram-the-engineering-memoir-3ad7)
-- [Organize your team, project and life.](https://dev.to/machadomichael/organize-your-team-project-and-life-lgf)
-- [Agent-Ready Commerce, Part 1: Building a Platform for the AI Era](https://dev.to/dmsfiris/agent-ready-commerce-part-1-building-a-platform-for-the-ai-era-32nc)
+- [Building a RAG System from Scratch — Wrap-up and What Comes Next](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-wrap-up-and-what-comes-next-2821)
+- [Scaffold - Microservice&#39;s generator](https://dev.to/said_olano/scaffold-microservices-generator-18a2)
+- [Building a RAG System from Scratch — Tool Use: Let the LLM Search Autonomously](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-tool-use-let-the-llm-search-autonomously-29ho)
+- [Building a RAG System from Scratch — Design Decisions Explained](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-design-decisions-explained-40hd)
 <!-- BLOG-POST-LIST:END -->
 
 
