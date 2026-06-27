@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I analyzed 500 Upwork proposals with a 95% win rate. Here&#39;s the one pattern that decided everything.](https://dev.to/yaaver/i-analyzed-500-upwork-proposals-with-a-95-win-rate-heres-the-one-pattern-that-decided-everything-2leh)
-- [Why I still use NGINX over everything else](https://dev.to/mishansavy/why-i-still-use-nginx-over-everything-else-24hj)
-- [📝 Caso de Estudio: Cómo construir un SaaS Multi-tenant con Next.js 16, NestJS 11 y PostgreSQL RLS](https://dev.to/aomalejandrodev/caso-de-estudio-como-construir-un-saas-multi-tenant-con-nextjs-16-nestjs-11-y-postgresql-rls-25hk)
-- [The Future of SEO Has Nothing to Do With Search](https://dev.to/kenwalger/the-future-of-seo-has-nothing-to-do-with-search-2eke)
+- [Building an AI-Powered CRM System: A Practical Overview](https://dev.to/karishmadigital_2abfac046/building-an-ai-powered-crm-system-a-practical-overview-42ko)
+- [How to Build a Compliant Fintech App in the UAE](https://dev.to/anas_kanafani/how-to-build-a-compliant-fintech-app-in-the-uae-5ffj)
+- [How we architect a real-time fleet tracking platform](https://dev.to/anas_kanafani/how-we-architect-a-real-time-fleet-tracking-platform-35m)
+- [BRD vs SRS vs SDD: which document do you actually need?](https://dev.to/anas_kanafani/brd-vs-srs-vs-sdd-which-document-do-you-actually-need-5gop)
 <!-- BLOG-POST-LIST:END -->
 
 
