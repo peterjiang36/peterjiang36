@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving IP Endianness in x64 Assembly: A Single-Pass Algorithm](https://dev.to/jm00nj/solving-ip-endianness-in-x64-assembly-a-single-pass-algorithm-3n9b)
-- [Sharp Money vs Public Money: What Betting Line Movement Data Reveals](https://dev.to/edgelab/sharp-money-vs-public-money-what-betting-line-movement-data-reveals-4c4n)
-- [StatsBomb Open Data Reveals: Late Goals Aren&#39;t Random](https://dev.to/edgelab/statsbomb-open-data-reveals-late-goals-arent-random-32cg)
-- [I&#39;m shipping the best work of my career. None of it feels like mine.](https://dev.to/abdullahsaad5/im-shipping-the-best-work-of-my-career-none-of-it-feels-like-mine-4ehn)
+- [Polling Agents in AI Assistants: 11 Implementation Patterns](https://dev.to/rosgluk/polling-agents-in-ai-assistants-11-implementation-patterns-2dc2)
+- [Choreography of validation: how to make your auth form seamless and usable](https://dev.to/a-dev/choreography-of-validation-how-to-make-your-auth-form-seamless-and-usable-1dpm)
+- [WAFER Deep Crawler: 8-Layer Stealth Architecture - Fingerprint Layer](https://dev.to/chex0210crypto/wafer-deep-crawler-8-layer-stealth-architecture-fingerprint-layer-5bjg)
+- [The Linear CLI Linear never shipped: driving your tracker from the terminal](https://dev.to/radial/the-linear-cli-linear-never-shipped-driving-your-tracker-from-the-terminal-29mb)
 <!-- BLOG-POST-LIST:END -->
 
 
