@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I open-sourced high-performance Solana copy-trading bot written in Rust](https://dev.to/soulcrancerdev/i-open-sourced-high-performance-solana-copy-trading-bot-written-in-rust-5ep5)
-- [Eight kids, eight chairs, one rule: explaining FIFA&#39;s best-thirds draw to my 8-year-old](https://dev.to/apostopher/eight-kids-eight-chairs-one-rule-explaining-fifas-best-thirds-draw-to-my-8-year-old-3am0)
-- [Meet DocuShark: The Dawn of the Document Hub](https://dev.to/devjp/meet-docushark-the-dawn-of-the-document-hub-2lck)
-- [Orchestrate Saga Compensation Timeouts in Real Time &lpar;Kiponos Java SDK&rpar;](https://dev.to/kiponos/orchestrate-saga-compensation-timeouts-in-real-time-kiponos-java-sdk-4phn)
+- [Your AI Agent Doesn&#39;t Need to Be Smarter. It Needs to Be Idempotent](https://dev.to/gs_sanjana_3e822112e14f8/your-ai-agent-doesnt-need-to-be-smarter-it-needs-to-be-idempotent-2736)
+- [Humanizing Artificial Intelligence for Log Analysis: Turning Raw Server Logs Into Clear DevOps Answers](https://dev.to/jjoyneriv/humanizing-artificial-intelligence-for-log-analysis-turning-raw-server-logs-into-clear-devops-2dnm)
+- [We Didn&#39;t Need Another AI Tool. We Needed Better Processes.](https://dev.to/saifuddin_tipu_ba2d0355b0/we-didnt-need-another-ai-tool-we-needed-better-processes-254)
+- [Three Token-2022 Mints in One Week: Fees, Yield, and Soul-Bound Tokens](https://dev.to/neocarvajal/three-token-2022-mints-in-one-week-fees-yield-and-soul-bound-tokens-j4j)
 <!-- BLOG-POST-LIST:END -->
 
 
