@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Better Mutual Fund Screener for India](https://dev.to/dhanik_3e79e065189c6e7aaa/i-built-a-better-mutual-fund-screener-for-india-e9b)
-- [Lode Runner, Ultima, and a Samsung Tape Drive](https://dev.to/chaesang/lode-runner-ultima-and-a-samsung-tape-drive-2ef6)
-- [PAL: Giving AI Agents Hands in the Physical World](https://dev.to/hanasite/pal-giving-ai-agents-hands-in-the-physical-world-48mj)
-- [Building FailureDNA: an agent memory that knows when not to trust itself](https://dev.to/prabhakaranjm/building-failuredna-an-agent-memory-that-knows-when-not-to-trust-itself-fbn)
+- [I built a daily Linux command-line quiz because I kept forgetting flags](https://dev.to/getchowned/i-built-a-daily-linux-command-line-quiz-because-i-kept-forgetting-flags-56nd)
+- [We Run 9 AI Agents on 2 CPU Cores and 3.6GB RAM: The Engineering Memoir](https://dev.to/zwiserfit/we-run-9-ai-agents-on-2-cpu-cores-and-36gb-ram-the-engineering-memoir-3ad7)
+- [Organize your team, project and life.](https://dev.to/machadomichael/organize-your-team-project-and-life-lgf)
+- [Agent-Ready Commerce, Part 1: Building a Platform for the AI Era](https://dev.to/dmsfiris/agent-ready-commerce-part-1-building-a-platform-for-the-ai-era-32nc)
 <!-- BLOG-POST-LIST:END -->
 
 
