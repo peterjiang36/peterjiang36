@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Persistent memory for Ollama, in about five minutes](https://dev.to/azard_tennant-hosein/persistent-memory-for-ollama-in-about-five-minutes-4co5)
-- [The ChatGPT Invisibility Bug: Why High-Quality Content Fails to Index in LLM Search](https://dev.to/aeogeoai/the-chatgpt-invisibility-bug-why-high-quality-content-fails-to-index-in-llm-search-p7b)
-- [Fix GitHub Copilot Terraform Security Risks Before They Hit Prod](https://dev.to/oleksandr_kuryzhev_42873f/fix-github-copilot-terraform-security-risks-before-they-hit-prod-1f6j)
-- [I Tracked Every API Dollar Across 184 Models: Here&#39;s The Data](https://dev.to/truelane/i-tracked-every-api-dollar-across-184-models-heres-the-data-4e8g)
+- [Swift Structs — Building Your Own Custom Types 🏗️](https://dev.to/gamya_m/swift-structs-building-your-own-custom-types-391m)
+- [AI Helps Us Write Code Faster. So Why Aren’t Projects Moving Faster?](https://dev.to/swrzalek/ai-helps-us-write-code-faster-so-why-arent-projects-moving-faster-49jo)
+- [Why current balance is a weak UX primitive for everyday banking](https://dev.to/darca/why-current-balance-is-a-weak-ux-primitive-for-everyday-banking-5gkh)
+- [Handling ISO Currency Codes in Software](https://dev.to/doogal/handling-iso-currency-codes-in-software-37hi)
 <!-- BLOG-POST-LIST:END -->
 
 
