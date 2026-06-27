@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Quick Checklist for Making Web Pages Easier to Read on Small Screens](https://dev.to/ansel_boa_a519a094d7e920b/a-quick-checklist-for-making-web-pages-easier-to-read-on-small-screens-3fgb)
-- [I Built Two AI Desktop Tools with Python — No API Keys, No Cloud Costs](https://dev.to/alirezarg/i-built-two-ai-desktop-tools-with-python-no-api-keys-no-cloud-costs-48km)
-- [Distributed Scheduled Job Locking with Redis](https://dev.to/fathma/distributed-scheduled-job-locking-with-redis-3e39)
-- [Embeddings Magic](https://dev.to/tahaboussaden/embeddings-magic-2hlb)
+- [Heyo DEV Crowd!👋 I&#39;m Sorin, the maker, and this is Tamadoggo.](https://dev.to/sorvas/heyo-dev-crowd-im-sorin-the-maker-and-this-is-tamadoggo-4mn5)
+- [🧠 AI Context Engineering — Why Great AI Systems Need More Than Great Prompts &lpar;Part 1&rpar;](https://dev.to/fazal_mansuri_/ai-context-engineering-why-great-ai-systems-need-more-than-great-prompts-part-1-25dd)
+- [Voilaa! — Turning Any YouTube Video into an Interactive Learning App with Google Gemini](https://dev.to/miii/voilaa-turning-any-youtube-video-into-an-interactive-learning-app-with-google-gemini-2kl5)
+- [From Source Control to Supplier Control: Building TPRM Through a Developer Lens](https://dev.to/max-b-grc/from-source-control-to-supplier-control-building-tprm-through-a-developer-lens-468i)
 <!-- BLOG-POST-LIST:END -->
 
 
