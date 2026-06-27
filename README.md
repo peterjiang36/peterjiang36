@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a cache-first dashboard — explicit fetch and a &quot;closes-but-keeps-running&quot; notice](https://dev.to/susumun/building-a-cache-first-dashboard-explicit-fetch-and-a-closes-but-keeps-running-notice-4l60)
-- [How to Match Orders in 100 Lines of Ruby](https://dev.to/buhrmi/how-to-match-orders-in-100-lines-of-ruby-4el7)
-- [MemStrata Beats RAG comprehensively on mutating code content - http://arxiv.org/abs/2606.26511](https://dev.to/yadu989/memstrata-beats-rag-comprehensively-on-mutating-code-content-httparxivorgabs260626511-1md4)
-- [How I auto-generate 800+ App Store screenshots across 39 languages and 3 devices](https://dev.to/netflowers/how-i-auto-generate-800-app-store-screenshots-across-39-languages-and-3-devices-1em7)
+- [Persistent memory for Ollama, in about five minutes](https://dev.to/azard_tennant-hosein/persistent-memory-for-ollama-in-about-five-minutes-4co5)
+- [The ChatGPT Invisibility Bug: Why High-Quality Content Fails to Index in LLM Search](https://dev.to/aeogeoai/the-chatgpt-invisibility-bug-why-high-quality-content-fails-to-index-in-llm-search-p7b)
+- [Fix GitHub Copilot Terraform Security Risks Before They Hit Prod](https://dev.to/oleksandr_kuryzhev_42873f/fix-github-copilot-terraform-security-risks-before-they-hit-prod-1f6j)
+- [I Tracked Every API Dollar Across 184 Models: Here&#39;s The Data](https://dev.to/truelane/i-tracked-every-api-dollar-across-184-models-heres-the-data-4e8g)
 <!-- BLOG-POST-LIST:END -->
 
 
