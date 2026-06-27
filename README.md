@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Same Event App With Five AI Coding Tools and Only Two Didn&#39;t Embarrass Me](https://dev.to/damilaredev/i-built-the-same-event-app-with-five-ai-coding-tools-and-only-two-didnt-embarrass-me-1ep2)
-- [How letting go of expectations makes us better](https://dev.to/andreas_mller_2fd27cf578/how-letting-go-of-expectations-makes-us-better-12eo)
-- [LLD:15-Order Management System](https://dev.to/_noob/lld15-order-management-system-1i17)
-- [The Developer&#39;s Guide to Trimming AI API Costs Without Crying](https://dev.to/swift-logic-io218/the-developers-guide-to-trimming-ai-api-costs-without-crying-12c2)
+- [How to Set Your Freelance Day Rate as a Developer &lpar;With a Free Calculator&rpar;](https://dev.to/paycalctools/how-to-set-your-freelance-day-rate-as-a-developer-with-a-free-calculator-fj0)
+- [How to Detect Which Font Is Actually Rendering in a Browser &lpar;Not Just the CSS Stack&rpar;](https://dev.to/ktg0215/how-to-detect-which-font-is-actually-rendering-in-a-browser-not-just-the-css-stack-12cd)
+- [How To Prepare For A Golang Interview: A Practical Guide For Mid &amp; Senior Engineers](https://dev.to/nazar_boyko/how-to-prepare-for-a-golang-interview-a-practical-guide-for-mid-senior-engineers-200p)
+- [My First Python Project: Lessons Learned While Building a Number Guessing Game](https://dev.to/xdk0d3r/my-first-python-project-lessons-learned-while-building-a-number-guessing-game-559i)
 <!-- BLOG-POST-LIST:END -->
 
 
