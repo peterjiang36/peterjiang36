@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI-Powered CRM System: A Practical Overview](https://dev.to/karishmadigital_2abfac046/building-an-ai-powered-crm-system-a-practical-overview-42ko)
-- [How to Build a Compliant Fintech App in the UAE](https://dev.to/anas_kanafani/how-to-build-a-compliant-fintech-app-in-the-uae-5ffj)
-- [How we architect a real-time fleet tracking platform](https://dev.to/anas_kanafani/how-we-architect-a-real-time-fleet-tracking-platform-35m)
-- [BRD vs SRS vs SDD: which document do you actually need?](https://dev.to/anas_kanafani/brd-vs-srs-vs-sdd-which-document-do-you-actually-need-5gop)
+- [I open-sourced high-performance Solana copy-trading bot written in Rust](https://dev.to/soulcrancerdev/i-open-sourced-high-performance-solana-copy-trading-bot-written-in-rust-5ep5)
+- [Eight kids, eight chairs, one rule: explaining FIFA&#39;s best-thirds draw to my 8-year-old](https://dev.to/apostopher/eight-kids-eight-chairs-one-rule-explaining-fifas-best-thirds-draw-to-my-8-year-old-3am0)
+- [Meet DocuShark: The Dawn of the Document Hub](https://dev.to/devjp/meet-docushark-the-dawn-of-the-document-hub-2lck)
+- [Orchestrate Saga Compensation Timeouts in Real Time &lpar;Kiponos Java SDK&rpar;](https://dev.to/kiponos/orchestrate-saga-compensation-timeouts-in-real-time-kiponos-java-sdk-4phn)
 <!-- BLOG-POST-LIST:END -->
 
 
