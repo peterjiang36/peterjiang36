@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Heyo DEV Crowd!👋 I&#39;m Sorin, the maker, and this is Tamadoggo.](https://dev.to/sorvas/heyo-dev-crowd-im-sorin-the-maker-and-this-is-tamadoggo-4mn5)
-- [🧠 AI Context Engineering — Why Great AI Systems Need More Than Great Prompts &lpar;Part 1&rpar;](https://dev.to/fazal_mansuri_/ai-context-engineering-why-great-ai-systems-need-more-than-great-prompts-part-1-25dd)
-- [Voilaa! — Turning Any YouTube Video into an Interactive Learning App with Google Gemini](https://dev.to/miii/voilaa-turning-any-youtube-video-into-an-interactive-learning-app-with-google-gemini-2kl5)
-- [From Source Control to Supplier Control: Building TPRM Through a Developer Lens](https://dev.to/max-b-grc/from-source-control-to-supplier-control-building-tprm-through-a-developer-lens-468i)
+- [Solving IP Endianness in x64 Assembly: A Single-Pass Algorithm](https://dev.to/jm00nj/solving-ip-endianness-in-x64-assembly-a-single-pass-algorithm-3n9b)
+- [Sharp Money vs Public Money: What Betting Line Movement Data Reveals](https://dev.to/edgelab/sharp-money-vs-public-money-what-betting-line-movement-data-reveals-4c4n)
+- [StatsBomb Open Data Reveals: Late Goals Aren&#39;t Random](https://dev.to/edgelab/statsbomb-open-data-reveals-late-goals-arent-random-32cg)
+- [I&#39;m shipping the best work of my career. None of it feels like mine.](https://dev.to/abdullahsaad5/im-shipping-the-best-work-of-my-career-none-of-it-feels-like-mine-4ehn)
 <!-- BLOG-POST-LIST:END -->
 
 
