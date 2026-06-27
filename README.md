@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local-First Voice Copilot for the Shell with HoldSpeak and Ollama](https://dev.to/philgrayphilgray/building-a-local-first-voice-copilot-for-the-shell-with-holdspeak-and-ollama-57lm)
-- [Three Months with Java 26: My Thoughts After Using the Latest Release](https://dev.to/deividas-strole/three-months-with-java-26-my-thoughts-after-using-the-latest-release-61c)
-- [I should I start cyber security from scratch I am new in this field I more curious about how this work I some know of programming languages like C, python](https://dev.to/hunt_rao_71adfe7d5122d4e7/i-should-i-start-cyber-security-from-scratch-i-am-new-in-this-field-i-more-curious-about-how-this-1f75)
-- [DeepSeek&#39;s Response API Isn&#39;t OpenAI Responses. That One Parser Mistake Drops the Reasoning.](https://dev.to/tokenmixai/deepseeks-response-api-isnt-openai-responses-that-one-parser-mistake-drops-the-reasoning-2818)
+- [Building a cache-first dashboard — explicit fetch and a &quot;closes-but-keeps-running&quot; notice](https://dev.to/susumun/building-a-cache-first-dashboard-explicit-fetch-and-a-closes-but-keeps-running-notice-4l60)
+- [How to Match Orders in 100 Lines of Ruby](https://dev.to/buhrmi/how-to-match-orders-in-100-lines-of-ruby-4el7)
+- [MemStrata Beats RAG comprehensively on mutating code content - http://arxiv.org/abs/2606.26511](https://dev.to/yadu989/memstrata-beats-rag-comprehensively-on-mutating-code-content-httparxivorgabs260626511-1md4)
+- [How I auto-generate 800+ App Store screenshots across 39 languages and 3 devices](https://dev.to/netflowers/how-i-auto-generate-800-app-store-screenshots-across-39-languages-and-3-devices-1em7)
 <!-- BLOG-POST-LIST:END -->
 
 
