@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [V.E.L.O.C.I.T.Y.-OS: Swarms, Headless Streaming &amp; RCU Hot-Patching &lpar;Part 11&rpar;](https://dev.to/unitbuilds_cc/velocity-os-swarms-headless-streaming-rcu-hot-patching-part-11-6e5)
-- [Multi-Agent Systems in Production: When One Agent Isn&#39;t Enough and How We Coordinate Them](https://dev.to/lycore/multi-agent-systems-in-production-when-one-agent-isnt-enough-and-how-we-coordinate-them-2m20)
-- [The standard way to score AI agent monitors is gameable a coin flip scores F1 0.88](https://dev.to/alkur_jaswanth_ce4f9fc791/the-standard-way-to-score-ai-agent-monitors-is-gameable-a-coin-flip-scores-f1-088-3om6)
-- [V.E.L.O.C.I.T.Y.-OS: The Synaptic Canvas GUI &amp; V-NCE GPU &lpar;Part 10&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-synaptic-canvas-gui-v-nce-gpu-part-10-3om8)
+- [One query language for SQL, Mongo, and the browser: the case for Forge](https://dev.to/johnsonfash/one-query-language-for-sql-mongo-and-the-browser-the-case-for-forge-247o)
+- [Agent-Ready Commerce, Part 3: Why “Available” Is Not Enough for AI Agents](https://dev.to/dmsfiris/agent-ready-commerce-part-3-why-available-is-not-enough-for-ai-agents-35mg)
+- [The End of &quot;One-Shot AI&quot;: Why Context Engineering Is Replacing Prompt Engineering](https://dev.to/blobxiaoyao/the-end-of-one-shot-ai-why-context-engineering-is-replacing-prompt-engineering-4kac)
+- [Nobody talks about the aftermath of closing a brutal ticket](https://dev.to/shannonianthe/nobody-talks-about-the-aftermath-of-closing-a-brutal-ticket-2b37)
 <!-- BLOG-POST-LIST:END -->
 
 
