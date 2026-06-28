@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ten Levels of AI Skill Construction - From Prompt to Business Closure System](https://dev.to/__b01666abd57fb7bb91f9/the-ten-levels-of-ai-skill-construction-from-prompt-to-business-closure-system-25e7)
-- [MemoCode AI – Building an Enterprise AI Agent with Persistent Memory](https://dev.to/ashwak_shaik_hack/memocode-ai-building-an-enterprise-ai-agent-with-persistent-memory-5a82)
-- [Spec-Driven Development: From Zero to Kiro](https://dev.to/luca_daddeo/spec-driven-development-from-zero-to-kiro-49c7)
-- [The AI Automation Tool Index &lpar;2026&rpar;](https://dev.to/srijan_paudel_d9837a5d8fd/the-ai-automation-tool-index-2026-79l)
+- [V.E.L.O.C.I.T.Y.-OS: Swarms, Headless Streaming &amp; RCU Hot-Patching &lpar;Part 11&rpar;](https://dev.to/unitbuilds_cc/velocity-os-swarms-headless-streaming-rcu-hot-patching-part-11-6e5)
+- [Multi-Agent Systems in Production: When One Agent Isn&#39;t Enough and How We Coordinate Them](https://dev.to/lycore/multi-agent-systems-in-production-when-one-agent-isnt-enough-and-how-we-coordinate-them-2m20)
+- [The standard way to score AI agent monitors is gameable a coin flip scores F1 0.88](https://dev.to/alkur_jaswanth_ce4f9fc791/the-standard-way-to-score-ai-agent-monitors-is-gameable-a-coin-flip-scores-f1-088-3om6)
+- [V.E.L.O.C.I.T.Y.-OS: The Synaptic Canvas GUI &amp; V-NCE GPU &lpar;Part 10&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-synaptic-canvas-gui-v-nce-gpu-part-10-3om8)
 <!-- BLOG-POST-LIST:END -->
 
 
