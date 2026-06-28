@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e)
-- [Why your AI coding agent ships confident, slightly-wrong code &lpar;and why rewording the prompt never fixes it&rpar;](https://dev.to/anisa_agenticai/why-your-ai-coding-agent-ships-confident-slightly-wrong-code-and-why-rewording-the-prompt-never-4i9a)
-- [Can retrieval agents like ChatGPT and Perplexity read your website? Agentis Lux sees what they see.](https://dev.to/earlgreyhot1701d/can-retrieval-agents-like-chatgpt-and-perplexity-read-your-website-agentis-lux-sees-what-they-see-5cac)
-- [I Built a Searchable HTTP Status Reference With the Exact Spring Way to Return Each](https://dev.to/dev48v/i-built-a-searchable-http-status-reference-with-the-exact-spring-way-to-return-each-2jke)
+- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
+- [Every Dream Has a Limit](https://dev.to/landb/every-dream-has-a-limit-5718)
+- [Building a Production Grade Authentication System with NestJS](https://dev.to/peacemelodi/building-a-production-grade-authentication-system-with-nestjs-3iem)
+- [Slack or Telegram for solo founder alerts? I was asking the wrong question.](https://dev.to/manolito99/slack-or-telegram-for-solo-founder-alerts-i-was-asking-the-wrong-question-1bp8)
 <!-- BLOG-POST-LIST:END -->
 
 
