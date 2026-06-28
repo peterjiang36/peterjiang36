@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Design Document vs a Design Chain](https://dev.to/zxpmail/a-design-document-vs-a-design-chain-295f)
-- [Mission-Critical Cyber-Physical Control Loop for T1D Management](https://dev.to/omer5592/mission-critical-cyber-physical-control-loop-for-t1d-management-2ioj)
-- [AI Agents Won’t Replace Humans — But a Bad Agent Can Break Production](https://dev.to/ghazy001/ai-agents-wont-replace-humans-but-a-bad-agent-can-break-production-1mk1)
-- [ngx-ink: The Angular Version of Ink, A Component-Based Revolution for Terminal UI](https://dev.to/wszgrcy/ngx-ink-the-angular-version-of-ink-a-component-based-revolution-for-terminal-ui-1k8i)
+- [Update on Zen — we now have a package ecosystem](https://dev.to/jishith_mp_82b1b8f25ca17e/update-on-zen-we-now-have-a-package-ecosystem-68)
+- [A minimal, in-process event bus for Go](https://dev.to/f2077/a-minimal-in-process-event-bus-for-go-2hh3)
+- [Mem0 Memory Layer: 5 Hidden Uses of the 60K-Star Agent Memory Engine](https://dev.to/_cbd692d476c5faf3b61bcf/mem0-memory-layer-5-hidden-uses-of-the-60k-star-agent-memory-engine-4g9p)
+- [I built Sentinel: A blazing fast, regex-free secret scanner in Go 🛡️](https://dev.to/muslimkh09/i-built-sentinel-a-blazing-fast-regex-free-secret-scanner-in-go-3amm)
 <!-- BLOG-POST-LIST:END -->
 
 
