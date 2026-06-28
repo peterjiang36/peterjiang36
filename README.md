@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a production ready auth scaffold with Nuxt and Supabase](https://dev.to/theosucksatcode/i-made-a-production-ready-auth-scaffold-with-nuxt-and-supabase-35m2)
-- [Power BI Finally Started Clicking&lpar;Schemas, Relationships &amp; Joins&rpar;](https://dev.to/sndili/power-bi-finally-started-clickingschemas-relationships-joins-22ej)
-- [How I synced BLE firmware with React Native](https://dev.to/ask_rabab_zahra/how-i-synced-ble-firmware-with-react-native-71p)
-- [How I Built a Persona Chat Agent and Fought Hallucination — A RAG Story](https://dev.to/abdullahmubin/how-i-built-a-persona-chat-agent-and-fought-hallucination-a-rag-story-22hf)
+- [Google is the next Apple and you know it.](https://dev.to/romantictinkerer/google-is-the-next-apple-and-you-know-it-1ain)
+- [What to check before adding crypto checkout to a merchant app](https://dev.to/ethan_carter_new_yor/what-to-check-before-adding-crypto-checkout-to-a-merchant-app-11h0)
+- [Como fiz meu site pessoal gratuitamente](https://dev.to/alberttocastro/como-fiz-meu-site-pessoal-gratuitamente-3alk)
+- [8 days. Meta&#39;s Threads web app. Now a responsive website.](https://dev.to/iamnotshifu/8-days-metas-threads-mobile-app-now-a-responsive-website-4aok)
 <!-- BLOG-POST-LIST:END -->
 
 
