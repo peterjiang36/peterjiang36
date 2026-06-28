@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Analyzing and Troubleshooting Bottlenecks in FastAPI: Optimizing Auth Flow, Cryptography, and Data Serialization](https://dev.to/bizoxe/analyzing-and-troubleshooting-bottlenecks-in-fastapi-optimizing-auth-flow-cryptography-and-data-41li)
-- [Knowledge and Memory Management v0.0.2: Portable Knowledge Collection](https://dev.to/manoir_yantai_f22f01340f0/knowledge-and-memory-management-v002-portable-knowledge-collection-2jdj)
-- [Top AI Papers on Hugging Face - 2026-06-28](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-28-2eg)
-- [Why using strconv instead of fmt for converting typical data types to string](https://dev.to/sdh0x/why-using-strconv-instead-of-fmt-for-converting-typical-data-types-to-string-58bj)
+- [V.E.L.O.C.I.T.Y.-OS: Ditching the Web Stack &amp; The 30MB Standalone IDE &lpar;Part 3&rpar;](https://dev.to/unitbuilds/velocity-os-ditching-the-web-stack-the-30mb-standalone-ide-part-3-3ia2)
+- [Just Watch](https://dev.to/codenameone/just-watch-13j9)
+- [n8n Airtable Node: Read, Create, Update, and Delete Records &lpar;Free JSON&rpar;](https://dev.to/pirateprentice/n8n-airtable-node-read-create-update-and-delete-records-free-json-5462)
+- [Hardcoded System Prompts: An Anti-Pattern in Production](https://dev.to/epicivo/hardcoded-system-prompts-an-anti-pattern-in-production-25ec)
 <!-- BLOG-POST-LIST:END -->
 
 
