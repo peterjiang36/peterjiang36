@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Update on Zen — we now have a package ecosystem](https://dev.to/jishith_mp_82b1b8f25ca17e/update-on-zen-we-now-have-a-package-ecosystem-68)
-- [A minimal, in-process event bus for Go](https://dev.to/f2077/a-minimal-in-process-event-bus-for-go-2hh3)
-- [Mem0 Memory Layer: 5 Hidden Uses of the 60K-Star Agent Memory Engine](https://dev.to/_cbd692d476c5faf3b61bcf/mem0-memory-layer-5-hidden-uses-of-the-60k-star-agent-memory-engine-4g9p)
-- [I built Sentinel: A blazing fast, regex-free secret scanner in Go 🛡️](https://dev.to/muslimkh09/i-built-sentinel-a-blazing-fast-regex-free-secret-scanner-in-go-3amm)
+- [Is It Actually Worth Enforcing Privacy Consent On-Device in Android?](https://dev.to/samir_moukhliss_24c034050/is-it-actually-worth-enforcing-privacy-consent-on-device-in-android-44hd)
+- [I Built a Browser-Only JSON Schema Validator — Draft-07, $ref, allOf/anyOf/oneOf, if/then/else, 173 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-schema-validator-draft-07-ref-allofanyofoneof-ifthenelse-173-3pnm)
+- [How to Identify Workflows That Are Ready for AI Automation](https://dev.to/dhruvjoshi9/how-to-identify-workflows-that-are-ready-for-ai-automation-14fo)
+- [Custom e-commerce on Firebase: catalog, atomic orders and admin panel](https://dev.to/androve2k/custom-e-commerce-on-firebase-catalog-atomic-orders-and-admin-panel-42ec)
 <!-- BLOG-POST-LIST:END -->
 
 
