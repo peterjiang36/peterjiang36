@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Yes-Man Swap](https://dev.to/casperday11/the-yes-man-swap-32gh)
-- [The Mirror That Doesn&#39;t Tell You What to Write Introducing /text-lens — a Claude Skill that reflects your text instead of rewriting it.](https://dev.to/zjh4712/the-mirror-that-doesnt-tell-you-what-to-write-introducing-text-lens-a-claude-skill-that-237o)
-- [MCP &lpar;Model Context Protocol&rpar;: The Standard That Wants to Be the USB of Artificial Intelligence](https://dev.to/datalaria/mcp-model-context-protocol-the-standard-that-wants-to-be-the-usb-of-artificial-intelligence-57e6)
-- [The Lord of the Rings: Secrets, SSL, and Firewalls – A Developer&#39;s Quest](https://dev.to/timevolt/the-lord-of-the-rings-secrets-ssl-and-firewalls-a-developers-quest-21k3)
+- [Project AEGIS: Building India’s First AI Crisis Command System With Hindsight Memory](https://dev.to/zubair-03222006/project-aegis-building-indias-first-ai-crisis-command-system-with-hindsight-memory-33m5)
+- [Building a Countdown Timer CLI in Python — time, finally, mock, and Testing Exceptions](https://dev.to/uya0526design/building-a-countdown-timer-cli-in-python-time-finally-mock-and-testing-exceptions-da4)
+- [n8n Notion Node: Read, Create, Update, and Search Database Pages &lpar;+ Free JSON&rpar;](https://dev.to/pirateprentice/n8n-notion-node-read-create-update-and-search-database-pages-free-json-1ho3)
+- [Stable Screenshot Tests and Flow Benchmarks in KMP](https://dev.to/theaxcode/stable-screenshot-tests-and-flow-benchmarks-in-kmp-20pb)
 <!-- BLOG-POST-LIST:END -->
 
 
