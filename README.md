@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [React 19 Unstable Features: Update or Ignore ESLint Rules?](https://dev.to/paradane/react-19-unstable-features-update-or-ignore-eslint-rules-151h)
-- [AI Governance as a Database Primitive: Building FarmOps Desk on Aurora + pgvector + Bedrock](https://dev.to/captjay98/ai-governance-as-a-database-primitive-building-farmops-desk-on-aurora-pgvector-bedrock-44j0)
-- [Videollamadas 1:1 en ~180 líneas de backend a $0.20 por sesión, no necesitas más](https://dev.to/aws-builders/videollamadas-11-en-180-lineas-de-backend-a-020-por-sesion-no-necesitas-mas-35he)
-- [Building FoilSuite: A Privacy-First Security Toolkit for Browser and IoT Security](https://dev.to/nikolap994/building-foilsuite-a-privacy-first-security-toolkit-for-browser-and-iot-security-o4j)
+- [A Design Document vs a Design Chain](https://dev.to/zxpmail/a-design-document-vs-a-design-chain-295f)
+- [Mission-Critical Cyber-Physical Control Loop for T1D Management](https://dev.to/omer5592/mission-critical-cyber-physical-control-loop-for-t1d-management-2ioj)
+- [AI Agents Won’t Replace Humans — But a Bad Agent Can Break Production](https://dev.to/ghazy001/ai-agents-wont-replace-humans-but-a-bad-agent-can-break-production-1mk1)
+- [ngx-ink: The Angular Version of Ink, A Component-Based Revolution for Terminal UI](https://dev.to/wszgrcy/ngx-ink-the-angular-version-of-ink-a-component-based-revolution-for-terminal-ui-1k8i)
 <!-- BLOG-POST-LIST:END -->
 
 
