@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a remote skin engine for Flutter](https://dev.to/koukibadr/i-built-a-remote-skin-engine-for-flutter-3b43)
-- [NVIDIA&#39;s LocateAnything-3B: The AI Vision Model That Could Redefine Object Detection](https://dev.to/hamza4600/nvidias-locateanything-3b-the-ai-vision-model-that-could-redefine-object-detection-6me)
-- [Understanding Microsoft Entra ID Authentication in ASP.NET Core](https://dev.to/gaurav-nandankar/understanding-microsoft-entra-id-authentication-in-aspnet-core-4g1n)
-- [After a long journey, I&#39;ve reached a deep burnout](https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b)
+- [The Yes-Man Swap](https://dev.to/casperday11/the-yes-man-swap-32gh)
+- [The Mirror That Doesn&#39;t Tell You What to Write Introducing /text-lens — a Claude Skill that reflects your text instead of rewriting it.](https://dev.to/zjh4712/the-mirror-that-doesnt-tell-you-what-to-write-introducing-text-lens-a-claude-skill-that-237o)
+- [MCP &lpar;Model Context Protocol&rpar;: The Standard That Wants to Be the USB of Artificial Intelligence](https://dev.to/datalaria/mcp-model-context-protocol-the-standard-that-wants-to-be-the-usb-of-artificial-intelligence-57e6)
+- [The Lord of the Rings: Secrets, SSL, and Firewalls – A Developer&#39;s Quest](https://dev.to/timevolt/the-lord-of-the-rings-secrets-ssl-and-firewalls-a-developers-quest-21k3)
 <!-- BLOG-POST-LIST:END -->
 
 
