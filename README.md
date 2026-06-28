@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
-- [Every Dream Has a Limit](https://dev.to/landb/every-dream-has-a-limit-5718)
-- [Building a Production Grade Authentication System with NestJS](https://dev.to/peacemelodi/building-a-production-grade-authentication-system-with-nestjs-3iem)
-- [Slack or Telegram for solo founder alerts? I was asking the wrong question.](https://dev.to/manolito99/slack-or-telegram-for-solo-founder-alerts-i-was-asking-the-wrong-question-1bp8)
+- [7 AI Prompts That Save Me 10+ Hours Every Week as a Developer &lpar;Copy-Paste Ready&rpar;](https://dev.to/the_aiproducer_5ec354687/7-ai-prompts-that-save-me-10-hours-every-week-as-a-developer-copy-paste-ready-14gp)
+- [WHOIS Is Broken in 2026. Here&#39;s the RDAP-First Drop-In That Actually Returns JSON](https://dev.to/nexgendata/whois-is-broken-in-2026-heres-the-rdap-first-drop-in-that-actually-returns-json-55d9)
+- [Why End-to-End Encryption is a Lie &lpar;And How I Weaponized Golang to Fix It&rpar;](https://dev.to/seif_cyber/why-end-to-end-encryption-is-a-lie-and-how-i-weaponized-golang-to-fix-it-21f5)
+- [Building CIS-Hardened, SBOM-Attested CentOS 9 Golden Images with Packer, QEMU and PingAccess - entirely on WSL2](https://dev.to/darkedges/uilding-cis-hardened-sbom-attested-centos-9-golden-images-with-packer-qemu-and-pingaccess--348n)
 <!-- BLOG-POST-LIST:END -->
 
 
