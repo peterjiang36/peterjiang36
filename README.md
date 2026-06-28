@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a RAG System Over more than 100 USCIS Administrative Appeals Office Decisions with Gemini](https://dev.to/heartlinmachado/how-i-built-a-rag-system-over-more-than-100-uscis-administrative-appeals-office-decisions-with-1gl8)
-- [Ignore All Previous Instructions: A Dev&#39;s Guide to Prompt Injection](https://dev.to/lovestaco/ignore-all-previous-instructions-a-devs-guide-to-prompt-injection-1naj)
-- [Power BI](https://dev.to/pragnesh_pomal/power-bi-4e0m)
-- [Kubernetes 1.36: 8 Features Worth Your Attention](https://dev.to/azizzoaib786/kubernetes-136-8-features-worth-your-attention-1kkb)
+- [How Stylish Text Generators Work: Understanding Unicode Fonts](https://dev.to/fontedeletra_13ad9616eacf/how-stylish-text-generators-work-understanding-unicode-fonts-3e11)
+- [The Story of Building Stulo: One Student, Hundreds of Bugs](https://dev.to/sarvesh_katkar_a371e178dc/the-story-of-building-stulo-one-student-hundreds-of-bugs-1glm)
+- [7 Features of C Programming Every Developer Should Know](https://dev.to/moksh57/7-features-of-c-programming-every-developer-should-know-2632)
+- [On-Device AI Just Got Real](https://dev.to/aiexplore369zoho/on-device-ai-just-got-real-397i)
 <!-- BLOG-POST-LIST:END -->
 
 
