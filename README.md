@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [V.E.L.O.C.I.T.Y.-OS: Ditching the Web Stack &amp; The 30MB Standalone IDE &lpar;Part 3&rpar;](https://dev.to/unitbuilds/velocity-os-ditching-the-web-stack-the-30mb-standalone-ide-part-3-3ia2)
-- [Just Watch](https://dev.to/codenameone/just-watch-13j9)
-- [n8n Airtable Node: Read, Create, Update, and Delete Records &lpar;Free JSON&rpar;](https://dev.to/pirateprentice/n8n-airtable-node-read-create-update-and-delete-records-free-json-5462)
-- [Hardcoded System Prompts: An Anti-Pattern in Production](https://dev.to/epicivo/hardcoded-system-prompts-an-anti-pattern-in-production-25ec)
+- [The Ten Levels of AI Skill Construction - From Prompt to Business Closure System](https://dev.to/__b01666abd57fb7bb91f9/the-ten-levels-of-ai-skill-construction-from-prompt-to-business-closure-system-25e7)
+- [MemoCode AI – Building an Enterprise AI Agent with Persistent Memory](https://dev.to/ashwak_shaik_hack/memocode-ai-building-an-enterprise-ai-agent-with-persistent-memory-5a82)
+- [Spec-Driven Development: From Zero to Kiro](https://dev.to/luca_daddeo/spec-driven-development-from-zero-to-kiro-49c7)
+- [The AI Automation Tool Index &lpar;2026&rpar;](https://dev.to/srijan_paudel_d9837a5d8fd/the-ai-automation-tool-index-2026-79l)
 <!-- BLOG-POST-LIST:END -->
 
 
