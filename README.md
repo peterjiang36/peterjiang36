@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It Actually Worth Enforcing Privacy Consent On-Device in Android?](https://dev.to/samir_moukhliss_24c034050/is-it-actually-worth-enforcing-privacy-consent-on-device-in-android-44hd)
-- [I Built a Browser-Only JSON Schema Validator — Draft-07, $ref, allOf/anyOf/oneOf, if/then/else, 173 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-json-schema-validator-draft-07-ref-allofanyofoneof-ifthenelse-173-3pnm)
-- [How to Identify Workflows That Are Ready for AI Automation](https://dev.to/dhruvjoshi9/how-to-identify-workflows-that-are-ready-for-ai-automation-14fo)
-- [Custom e-commerce on Firebase: catalog, atomic orders and admin panel](https://dev.to/androve2k/custom-e-commerce-on-firebase-catalog-atomic-orders-and-admin-panel-42ec)
+- [Building a Type-Safe API Layer in Next.js App Router With Zod and Server Actions](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-type-safe-api-layer-in-nextjs-app-router-with-zod-and-server-actions-ma2)
+- [80 Impressions. Every Visible One Is for a Company I Invented in a TypeScript File.](https://dev.to/aimiten/80-impressions-every-visible-one-is-for-a-company-i-invented-in-a-typescript-file-3bl)
+- [free-for-dev: The Productivity Tool Developers Rely On](https://dev.to/newzlet_news/free-for-dev-the-productivity-tool-developers-rely-on-1igf)
+- [I Built a Browser-Only Timestamp Converter — Epoch ↔ Date, 30+ Timezones, DST-Aware, 124 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-timestamp-converter-epoch-date-30-timezones-dst-aware-124-tests-54cg)
 <!-- BLOG-POST-LIST:END -->
 
 
