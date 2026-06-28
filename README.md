@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Project AEGIS: Building India’s First AI Crisis Command System With Hindsight Memory](https://dev.to/zubair-03222006/project-aegis-building-indias-first-ai-crisis-command-system-with-hindsight-memory-33m5)
-- [Building a Countdown Timer CLI in Python — time, finally, mock, and Testing Exceptions](https://dev.to/uya0526design/building-a-countdown-timer-cli-in-python-time-finally-mock-and-testing-exceptions-da4)
-- [n8n Notion Node: Read, Create, Update, and Search Database Pages &lpar;+ Free JSON&rpar;](https://dev.to/pirateprentice/n8n-notion-node-read-create-update-and-search-database-pages-free-json-1ho3)
-- [Stable Screenshot Tests and Flow Benchmarks in KMP](https://dev.to/theaxcode/stable-screenshot-tests-and-flow-benchmarks-in-kmp-20pb)
+- [Analyzing and Troubleshooting Bottlenecks in FastAPI: Optimizing Auth Flow, Cryptography, and Data Serialization](https://dev.to/bizoxe/analyzing-and-troubleshooting-bottlenecks-in-fastapi-optimizing-auth-flow-cryptography-and-data-41li)
+- [Knowledge and Memory Management v0.0.2: Portable Knowledge Collection](https://dev.to/manoir_yantai_f22f01340f0/knowledge-and-memory-management-v002-portable-knowledge-collection-2jdj)
+- [Top AI Papers on Hugging Face - 2026-06-28](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-28-2eg)
+- [Why using strconv instead of fmt for converting typical data types to string](https://dev.to/sdh0x/why-using-strconv-instead-of-fmt-for-converting-typical-data-types-to-string-58bj)
 <!-- BLOG-POST-LIST:END -->
 
 
