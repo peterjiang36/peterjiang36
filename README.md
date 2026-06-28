@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One query language for SQL, Mongo, and the browser: the case for Forge](https://dev.to/johnsonfash/one-query-language-for-sql-mongo-and-the-browser-the-case-for-forge-247o)
-- [Agent-Ready Commerce, Part 3: Why “Available” Is Not Enough for AI Agents](https://dev.to/dmsfiris/agent-ready-commerce-part-3-why-available-is-not-enough-for-ai-agents-35mg)
-- [The End of &quot;One-Shot AI&quot;: Why Context Engineering Is Replacing Prompt Engineering](https://dev.to/blobxiaoyao/the-end-of-one-shot-ai-why-context-engineering-is-replacing-prompt-engineering-4kac)
-- [Nobody talks about the aftermath of closing a brutal ticket](https://dev.to/shannonianthe/nobody-talks-about-the-aftermath-of-closing-a-brutal-ticket-2b37)
+- [How I Built a RAG System Over more than 100 USCIS Administrative Appeals Office Decisions with Gemini](https://dev.to/heartlinmachado/how-i-built-a-rag-system-over-more-than-100-uscis-administrative-appeals-office-decisions-with-1gl8)
+- [Ignore All Previous Instructions: A Dev&#39;s Guide to Prompt Injection](https://dev.to/lovestaco/ignore-all-previous-instructions-a-devs-guide-to-prompt-injection-1naj)
+- [Power BI](https://dev.to/pragnesh_pomal/power-bi-4e0m)
+- [Kubernetes 1.36: 8 Features Worth Your Attention](https://dev.to/azizzoaib786/kubernetes-136-8-features-worth-your-attention-1kkb)
 <!-- BLOG-POST-LIST:END -->
 
 
