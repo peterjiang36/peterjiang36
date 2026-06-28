@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google is the next Apple and you know it.](https://dev.to/romantictinkerer/google-is-the-next-apple-and-you-know-it-1ain)
-- [What to check before adding crypto checkout to a merchant app](https://dev.to/ethan_carter_new_yor/what-to-check-before-adding-crypto-checkout-to-a-merchant-app-11h0)
-- [Como fiz meu site pessoal gratuitamente](https://dev.to/alberttocastro/como-fiz-meu-site-pessoal-gratuitamente-3alk)
-- [8 days. Meta&#39;s Threads web app. Now a responsive website.](https://dev.to/iamnotshifu/8-days-metas-threads-mobile-app-now-a-responsive-website-4aok)
+- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e)
+- [Why your AI coding agent ships confident, slightly-wrong code &lpar;and why rewording the prompt never fixes it&rpar;](https://dev.to/anisa_agenticai/why-your-ai-coding-agent-ships-confident-slightly-wrong-code-and-why-rewording-the-prompt-never-4i9a)
+- [Can retrieval agents like ChatGPT and Perplexity read your website? Agentis Lux sees what they see.](https://dev.to/earlgreyhot1701d/can-retrieval-agents-like-chatgpt-and-perplexity-read-your-website-agentis-lux-sees-what-they-see-5cac)
+- [I Built a Searchable HTTP Status Reference With the Exact Spring Way to Return Each](https://dev.to/dev48v/i-built-a-searchable-http-status-reference-with-the-exact-spring-way-to-return-each-2jke)
 <!-- BLOG-POST-LIST:END -->
 
 
