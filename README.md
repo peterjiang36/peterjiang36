@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Stylish Text Generators Work: Understanding Unicode Fonts](https://dev.to/fontedeletra_13ad9616eacf/how-stylish-text-generators-work-understanding-unicode-fonts-3e11)
-- [The Story of Building Stulo: One Student, Hundreds of Bugs](https://dev.to/sarvesh_katkar_a371e178dc/the-story-of-building-stulo-one-student-hundreds-of-bugs-1glm)
-- [7 Features of C Programming Every Developer Should Know](https://dev.to/moksh57/7-features-of-c-programming-every-developer-should-know-2632)
-- [On-Device AI Just Got Real](https://dev.to/aiexplore369zoho/on-device-ai-just-got-real-397i)
+- [I made a production ready auth scaffold with Nuxt and Supabase](https://dev.to/theosucksatcode/i-made-a-production-ready-auth-scaffold-with-nuxt-and-supabase-35m2)
+- [Power BI Finally Started Clicking&lpar;Schemas, Relationships &amp; Joins&rpar;](https://dev.to/sndili/power-bi-finally-started-clickingschemas-relationships-joins-22ej)
+- [How I synced BLE firmware with React Native](https://dev.to/ask_rabab_zahra/how-i-synced-ble-firmware-with-react-native-71p)
+- [How I Built a Persona Chat Agent and Fought Hallucination — A RAG Story](https://dev.to/abdullahmubin/how-i-built-a-persona-chat-agent-and-fought-hallucination-a-rag-story-22hf)
 <!-- BLOG-POST-LIST:END -->
 
 
