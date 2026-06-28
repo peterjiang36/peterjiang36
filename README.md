@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Type-Safe API Layer in Next.js App Router With Zod and Server Actions](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-type-safe-api-layer-in-nextjs-app-router-with-zod-and-server-actions-ma2)
-- [80 Impressions. Every Visible One Is for a Company I Invented in a TypeScript File.](https://dev.to/aimiten/80-impressions-every-visible-one-is-for-a-company-i-invented-in-a-typescript-file-3bl)
-- [free-for-dev: The Productivity Tool Developers Rely On](https://dev.to/newzlet_news/free-for-dev-the-productivity-tool-developers-rely-on-1igf)
-- [I Built a Browser-Only Timestamp Converter — Epoch ↔ Date, 30+ Timezones, DST-Aware, 124 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-timestamp-converter-epoch-date-30-timezones-dst-aware-124-tests-54cg)
+- [I built a remote skin engine for Flutter](https://dev.to/koukibadr/i-built-a-remote-skin-engine-for-flutter-3b43)
+- [NVIDIA&#39;s LocateAnything-3B: The AI Vision Model That Could Redefine Object Detection](https://dev.to/hamza4600/nvidias-locateanything-3b-the-ai-vision-model-that-could-redefine-object-detection-6me)
+- [Understanding Microsoft Entra ID Authentication in ASP.NET Core](https://dev.to/gaurav-nandankar/understanding-microsoft-entra-id-authentication-in-aspnet-core-4g1n)
+- [After a long journey, I&#39;ve reached a deep burnout](https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b)
 <!-- BLOG-POST-LIST:END -->
 
 
