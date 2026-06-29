@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Firebase Security Rules: Why They Matter and how to Write Them](https://dev.to/codexlancers/the-complete-guide-to-firebase-security-rules-why-they-matter-and-how-to-write-them-2cbf)
-- [Togel, Mimpi, dan Angka: Sebuah Budaya yang Lebih Dalam dari Sekadar Judi](https://dev.to/pewarisgroup/togel-mimpi-dan-angka-sebuah-budaya-yang-lebih-dalam-dari-sekadar-judi-3fej)
-- [Kenapa Kami Pilih Bangun Produk Nyata di Industri yang Penuh Jalan Pintas](https://dev.to/pewarisgroup/kenapa-kami-pilih-bangun-produk-nyata-di-industri-yang-penuh-jalan-pintas-1jbi)
-- [Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e)
+- [Want AI Agents That Don&#39;t Spill Secrets? Don&#39;t Give Them Secrets](https://dev.to/auth0/want-ai-agents-that-dont-spill-secrets-dont-give-them-secrets-35pg)
+- [I asked four AI models which database to use in 2026. Neon already won. Four challengers are invisible.](https://dev.to/bersyn/i-asked-four-ai-models-which-database-to-use-in-2026-neon-already-won-four-challengers-are-533g)
+- [Request Scoped Context – How I Stopped Passing Arguments Everywhere](https://dev.to/neel-vekariya/request-scoped-context-how-i-stopped-passing-arguments-everywhere-gm)
+- [Perl 🐪 Weekly #779 - LinkedIn and the Perl Weekly](https://dev.to/szabgab/perl-weekly-779-linkedin-and-the-perl-weekly-62l)
 <!-- BLOG-POST-LIST:END -->
 
 
