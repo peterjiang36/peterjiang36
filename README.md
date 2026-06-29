@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Want AI Agents That Don&#39;t Spill Secrets? Don&#39;t Give Them Secrets](https://dev.to/auth0/want-ai-agents-that-dont-spill-secrets-dont-give-them-secrets-35pg)
-- [I asked four AI models which database to use in 2026. Neon already won. Four challengers are invisible.](https://dev.to/bersyn/i-asked-four-ai-models-which-database-to-use-in-2026-neon-already-won-four-challengers-are-533g)
-- [Request Scoped Context – How I Stopped Passing Arguments Everywhere](https://dev.to/neel-vekariya/request-scoped-context-how-i-stopped-passing-arguments-everywhere-gm)
-- [Perl 🐪 Weekly #779 - LinkedIn and the Perl Weekly](https://dev.to/szabgab/perl-weekly-779-linkedin-and-the-perl-weekly-62l)
+- [GPT-5.6 changed the AI integration boundary, not just the model menu](https://dev.to/ascentinnovate/gpt-56-changed-the-ai-integration-boundary-not-just-the-model-menu-530f)
+- [One Stack Machine, Two Runtimes: Cross-Validating Scala and Perl with a Shared JSON IR](https://dev.to/p_pumulo/one-stack-machine-two-runtimes-cross-validating-scala-and-perl-with-a-shared-json-ir-29jc)
+- [A Green Frontend Pipeline Is Not the Same as a Safe Release](https://dev.to/mellowthunder735/a-green-frontend-pipeline-is-not-the-same-as-a-safe-release-3i4g)
+- [Build Your First MCP Server in 30 Minutes](https://dev.to/kalpesh_parihar/build-your-first-mcp-server-in-30-minutes-2o3o)
 <!-- BLOG-POST-LIST:END -->
 
 
