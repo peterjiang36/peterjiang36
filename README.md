@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I got 570k Reddit impressions for my side project using data journalism posts](https://dev.to/iluvdata/how-i-got-570k-reddit-impressions-for-my-side-project-using-data-journalism-posts-19nc)
-- [How We Prevented Magento Checkout Deadlocks for a Big Retailer During Traffic Surges](https://dev.to/rave_digital_99348371ae2e/how-we-prevented-magento-checkout-deadlocks-for-a-big-retailer-during-traffic-surges-3m19)
-- [Buscando 5 beta testers para FitzWatch — el status page que construí en Fitz](https://dev.to/martin_palopoli/buscando-5-beta-testers-para-fitzwatch-el-status-page-que-construi-en-fitz-22j2)
-- [Route Phone Calls to an AI Agent With the Telnyx Voice API](https://dev.to/harpreetseehra/route-phone-calls-to-an-ai-agent-with-the-telnyx-voice-api-11ej)
+- [I thought pause/resume was a basic feature. Turns out it&#39;s our main differentiator](https://dev.to/eugene_vo/i-thought-pauseresume-was-a-basic-feature-turns-out-its-our-main-differentiator-4hp2)
+- [Modeling seasonal cash flow in a SaaS product for trades businesses](https://dev.to/tcarter/modeling-seasonal-cash-flow-in-a-saas-product-for-trades-businesses-2ggi)
+- [How a Checkout Change Increased Our Sales by 22%](https://dev.to/dcerverizzo/how-a-checkout-change-increased-our-sales-by-22-29ol)
+- [Testing Qwen-AgentWorld-35B-A3B: A New Benchmark for Agentic Reasoning?](https://dev.to/o96a/testing-qwen-agentworld-35b-a3b-a-new-benchmark-for-agentic-reasoning-1nce)
 <!-- BLOG-POST-LIST:END -->
 
 
