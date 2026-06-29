@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Civic Traffic App on DynamoDB + Vercel — ChowkChakra &lpar;#H0Hackathon&rpar;](https://dev.to/omkar598/how-i-built-a-civic-traffic-app-on-dynamodb-vercel-chowkchakra-h0hackathon-3oon)
-- [Why Most AI Trading Bots Fail &lpar;And What Ours Did Wrong Too&rpar;](https://dev.to/cart0ne/why-most-ai-trading-bots-fail-and-what-ours-did-wrong-too-57j6)
-- [100k lines of TypeScript to Rust with zero Rust experience. That&#39;s not engineering.](https://dev.to/adioof/100k-lines-of-typescript-to-rust-with-zero-rust-experience-thats-not-engineering-3ii4)
-- [Why Most AI Automation Projects Fail Before Development Starts](https://dev.to/vaibhav_jain_ai/why-most-ai-automation-projects-fail-before-development-starts-4hla)
+- [Vue.js vs Next.js: Modal Routing — A Side-by-Side Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1)
+- [GLM 5.2 isn&#39;t free: not even my US$4,000 Spark can run it](https://dev.to/cristiantalasanchez/glm-52-isnt-free-not-even-my-us4000-spark-can-run-it-3464)
+- [matten とは: ファミリーカー式テンソルライブラリ — Rust 言語](https://dev.to/nabbisen/matten-toha-huamirikashi-tensoruraiburari-rust-yan-yu-2if8)
+- [Charge per API call in USDC — and give buyers a receipt they can verify](https://dev.to/0rkz/charge-per-api-call-in-usdc-and-give-buyers-a-receipt-they-can-verify-59nc)
 <!-- BLOG-POST-LIST:END -->
 
 
