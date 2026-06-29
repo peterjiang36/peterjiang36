@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue.js vs Next.js: Modal Routing — A Side-by-Side Breakdown](https://dev.to/heba_allah/parallel-and-intercepted-routes-between-vue-and-next-1cf1)
-- [GLM 5.2 isn&#39;t free: not even my US$4,000 Spark can run it](https://dev.to/cristiantalasanchez/glm-52-isnt-free-not-even-my-us4000-spark-can-run-it-3464)
-- [matten とは: ファミリーカー式テンソルライブラリ — Rust 言語](https://dev.to/nabbisen/matten-toha-huamirikashi-tensoruraiburari-rust-yan-yu-2if8)
-- [Charge per API call in USDC — and give buyers a receipt they can verify](https://dev.to/0rkz/charge-per-api-call-in-usdc-and-give-buyers-a-receipt-they-can-verify-59nc)
+- [Abandoning Abstractions: Manually Crafting EtherNet/IP Packets Almost Broke Me](https://dev.to/null_saint/abandoning-abstractions-manually-crafting-ethernetip-packets-almost-broke-me-1b2k)
+- [More Watts, Less Light](https://dev.to/vystartasv/more-watts-less-light-53ne)
+- [How Microsoft Excel Quietly Breaks Your JSON Imports &lpar;And How to Fix It&rpar;](https://dev.to/atqiyanabila01/how-microsoft-excel-quietly-breaks-your-json-imports-and-how-to-fix-it-1ci0)
+- [Modeling a Creator SaaS in a Single DynamoDB Table](https://dev.to/jwambui/exploring-single-h38)
 <!-- BLOG-POST-LIST:END -->
 
 
