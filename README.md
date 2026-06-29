@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GPT-5.6 changed the AI integration boundary, not just the model menu](https://dev.to/ascentinnovate/gpt-56-changed-the-ai-integration-boundary-not-just-the-model-menu-530f)
-- [One Stack Machine, Two Runtimes: Cross-Validating Scala and Perl with a Shared JSON IR](https://dev.to/p_pumulo/one-stack-machine-two-runtimes-cross-validating-scala-and-perl-with-a-shared-json-ir-29jc)
-- [A Green Frontend Pipeline Is Not the Same as a Safe Release](https://dev.to/mellowthunder735/a-green-frontend-pipeline-is-not-the-same-as-a-safe-release-3i4g)
-- [Build Your First MCP Server in 30 Minutes](https://dev.to/kalpesh_parihar/build-your-first-mcp-server-in-30-minutes-2o3o)
+- [How I got 570k Reddit impressions for my side project using data journalism posts](https://dev.to/iluvdata/how-i-got-570k-reddit-impressions-for-my-side-project-using-data-journalism-posts-19nc)
+- [How We Prevented Magento Checkout Deadlocks for a Big Retailer During Traffic Surges](https://dev.to/rave_digital_99348371ae2e/how-we-prevented-magento-checkout-deadlocks-for-a-big-retailer-during-traffic-surges-3m19)
+- [Buscando 5 beta testers para FitzWatch — el status page que construí en Fitz](https://dev.to/martin_palopoli/buscando-5-beta-testers-para-fitzwatch-el-status-page-que-construi-en-fitz-22j2)
+- [Route Phone Calls to an AI Agent With the Telnyx Voice API](https://dev.to/harpreetseehra/route-phone-calls-to-an-ai-agent-with-the-telnyx-voice-api-11ej)
 <!-- BLOG-POST-LIST:END -->
 
 
