@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 AI Prompts That Save Me 10+ Hours Every Week as a Developer &lpar;Copy-Paste Ready&rpar;](https://dev.to/the_aiproducer_5ec354687/7-ai-prompts-that-save-me-10-hours-every-week-as-a-developer-copy-paste-ready-14gp)
-- [WHOIS Is Broken in 2026. Here&#39;s the RDAP-First Drop-In That Actually Returns JSON](https://dev.to/nexgendata/whois-is-broken-in-2026-heres-the-rdap-first-drop-in-that-actually-returns-json-55d9)
-- [Why End-to-End Encryption is a Lie &lpar;And How I Weaponized Golang to Fix It&rpar;](https://dev.to/seif_cyber/why-end-to-end-encryption-is-a-lie-and-how-i-weaponized-golang-to-fix-it-21f5)
-- [Building CIS-Hardened, SBOM-Attested CentOS 9 Golden Images with Packer, QEMU and PingAccess - entirely on WSL2](https://dev.to/darkedges/uilding-cis-hardened-sbom-attested-centos-9-golden-images-with-packer-qemu-and-pingaccess--348n)
+- [Sweeping i18n leaks with four parallel AI agents — from 300 candidates down to 60 real bugs](https://dev.to/susumun/sweeping-i18n-leaks-with-four-parallel-ai-agents-from-300-candidates-down-to-60-real-bugs-4mgc)
+- [How I Built Roomful: Zero-Backend Collaboration Primitives for Frontend Apps](https://dev.to/erayates/how-i-built-roomful-zero-backend-collaboration-primitives-for-frontend-apps-3gia)
+- [How to Set Up Claude So You Never Write the Same Prompt Twice &lpar;Full Course&rpar;](https://dev.to/aniruddhaadak/how-to-set-up-claude-so-you-never-write-the-same-prompt-twice-full-course-8l1)
+- [AI Is Not Replacing Developers. It Is Replacing the On-Ramp.](https://dev.to/komo/ai-is-not-replacing-developers-it-is-replacing-the-on-ramp-19l6)
 <!-- BLOG-POST-LIST:END -->
 
 
