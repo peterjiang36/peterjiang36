@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find $100k+ Jobs Without Losing Your Mind Checking 10 Sites Every Morning](https://dev.to/harun_mahmud_88/how-to-find-100k-jobs-without-losing-your-mind-checking-10-sites-every-morning-2o60)
-- [Blameless Postmortems in Practice](https://dev.to/mrinal_narang_13a3d00eb37/blameless-postmortems-in-practice-3ie5)
-- [I Realized My Head Was Empty After Asking AI Everything](https://dev.to/4armsxlr8/i-realized-my-head-was-empty-after-asking-ai-everything-kbp)
-- [請問這裡是一個什麼樣的社群呀？](https://dev.to/_3a44527f6c8e4cf7824c02/qing-wen-zhe-li-shi-ge-shi-mo-yang-de-she-qun-ya--4hhj)
+- [The Complete Guide to Firebase Security Rules: Why They Matter and how to Write Them](https://dev.to/codexlancers/the-complete-guide-to-firebase-security-rules-why-they-matter-and-how-to-write-them-2cbf)
+- [Togel, Mimpi, dan Angka: Sebuah Budaya yang Lebih Dalam dari Sekadar Judi](https://dev.to/pewarisgroup/togel-mimpi-dan-angka-sebuah-budaya-yang-lebih-dalam-dari-sekadar-judi-3fej)
+- [Kenapa Kami Pilih Bangun Produk Nyata di Industri yang Penuh Jalan Pintas](https://dev.to/pewarisgroup/kenapa-kami-pilih-bangun-produk-nyata-di-industri-yang-penuh-jalan-pintas-1jbi)
+- [Fix Web Performance Issues Faster with Modern Web Guidance and Chrome DevTools for AI Agents](https://dev.to/jacobandrewsky/fix-web-performance-issues-faster-with-modern-web-guidance-and-chrome-devtools-for-ai-agents-2e7e)
 <!-- BLOG-POST-LIST:END -->
 
 
