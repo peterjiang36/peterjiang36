@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NextFLow !!! King WorkFlow](https://dev.to/minh_le_b4d8d987f1ef7616e/nextflow-king-workflow-18o1)
-- [AccessiBe Alternative: Why I Preferred TestGrid for Automated Accessibility Testing](https://dev.to/jamescantor38/accessibe-alternative-why-i-preferred-testgrid-for-automated-accessibility-testing-2mbk)
-- [What AutoGPT ships in 2026: a low-code platform for continuous AI agents](https://dev.to/renolu/what-autogpt-ships-in-2026-a-low-code-platform-for-continuous-ai-agents-3lc7)
-- [A Banking API Is Not Just CRUD: What Building a Money-Movement Ledger Taught Me](https://dev.to/turboline_ai_/a-banking-api-is-not-just-crud-what-building-a-money-movement-ledger-taught-me-11gc)
+- [Why Your LLM Applications Crash in Production &lpar;and How to Fix It Under 15 Microseconds&rpar;](https://dev.to/girisai/why-your-llm-applications-crash-in-production-and-how-to-fix-it-under-15-microseconds-ca9)
+- [Enhance your CSS Reset with your Design System](https://dev.to/stuffbreaker/enhance-your-css-reset-with-your-design-system-g6n)
+- [Making Human Approvals Trustworthy](https://dev.to/madebyaman/making-human-approvals-trustworthy-4855)
+- [Prioritizing Abstractions Over Complexity: Addressing Illusions in Distributed Systems Platform Design](https://dev.to/kornilovconstru/prioritizing-abstractions-over-complexity-addressing-illusions-in-distributed-systems-platform-6og)
 <!-- BLOG-POST-LIST:END -->
 
 
