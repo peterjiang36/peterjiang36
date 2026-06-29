@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sweeping i18n leaks with four parallel AI agents — from 300 candidates down to 60 real bugs](https://dev.to/susumun/sweeping-i18n-leaks-with-four-parallel-ai-agents-from-300-candidates-down-to-60-real-bugs-4mgc)
-- [How I Built Roomful: Zero-Backend Collaboration Primitives for Frontend Apps](https://dev.to/erayates/how-i-built-roomful-zero-backend-collaboration-primitives-for-frontend-apps-3gia)
-- [How to Set Up Claude So You Never Write the Same Prompt Twice &lpar;Full Course&rpar;](https://dev.to/aniruddhaadak/how-to-set-up-claude-so-you-never-write-the-same-prompt-twice-full-course-8l1)
-- [AI Is Not Replacing Developers. It Is Replacing the On-Ramp.](https://dev.to/komo/ai-is-not-replacing-developers-it-is-replacing-the-on-ramp-19l6)
+- [How to Find $100k+ Jobs Without Losing Your Mind Checking 10 Sites Every Morning](https://dev.to/harun_mahmud_88/how-to-find-100k-jobs-without-losing-your-mind-checking-10-sites-every-morning-2o60)
+- [Blameless Postmortems in Practice](https://dev.to/mrinal_narang_13a3d00eb37/blameless-postmortems-in-practice-3ie5)
+- [I Realized My Head Was Empty After Asking AI Everything](https://dev.to/4armsxlr8/i-realized-my-head-was-empty-after-asking-ai-everything-kbp)
+- [請問這裡是一個什麼樣的社群呀？](https://dev.to/_3a44527f6c8e4cf7824c02/qing-wen-zhe-li-shi-ge-shi-mo-yang-de-she-qun-ya--4hhj)
 <!-- BLOG-POST-LIST:END -->
 
 
