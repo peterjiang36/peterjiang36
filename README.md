@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Global Opinion Platform in 72 Hours — Here Is What Actually Went Wrong](https://dev.to/hafiz_muhammadsalman_f28/i-built-a-global-opinion-platform-in-72-hours-here-is-what-actually-went-wrong-40b6)
-- [I built a Python ORM with a Rust engine — here&#39;s how the GIL, PyO3, and asyncio actually cooperate](https://dev.to/vsdudakov/i-built-a-python-orm-with-a-rust-engine-heres-how-the-gil-pyo3-and-asyncio-actually-cooperate-4fkj)
-- [How we parse Apache Airflow DAGs without importing Airflow](https://dev.to/neochaotic/how-we-parse-apache-airflow-dags-without-importing-airflow-9d)
-- [100 Days of DevOps, Day 4: Permissions That Actually Matter and Why S3 Versioning Shouldn&#39;t Be Optional](https://dev.to/ndcodes/100-days-of-devops-day-4-permissions-that-actually-matter-and-why-s3-versioning-shouldnt-be-2b7k)
+- [How to Write Content That AI Search Engines Actually Cite](https://dev.to/mariaramos_seo/how-to-write-content-that-ai-search-engines-actually-cite-3g0d)
+- [Eu decidi — de novo — me dedicar aos jogos.](https://dev.to/the_owl_game_dev/eu-decidi-de-novo-me-dedicar-aos-jogos-1l6g)
+- [Approval Queues Are the Runtime for Agentic AI Workflows | Focused Labs](https://dev.to/focused_dot_io/approval-queues-are-the-runtime-for-agentic-ai-workflows-focused-labs-1hbp)
+- [I replaced hooking libraries with one rust crate](https://dev.to/ambiguitydev/i-replaced-hooking-libraries-with-one-rust-crate-j4k)
 <!-- BLOG-POST-LIST:END -->
 
 
