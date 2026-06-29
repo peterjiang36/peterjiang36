@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I thought pause/resume was a basic feature. Turns out it&#39;s our main differentiator](https://dev.to/eugene_vo/i-thought-pauseresume-was-a-basic-feature-turns-out-its-our-main-differentiator-4hp2)
-- [Modeling seasonal cash flow in a SaaS product for trades businesses](https://dev.to/tcarter/modeling-seasonal-cash-flow-in-a-saas-product-for-trades-businesses-2ggi)
-- [How a Checkout Change Increased Our Sales by 22%](https://dev.to/dcerverizzo/how-a-checkout-change-increased-our-sales-by-22-29ol)
-- [Testing Qwen-AgentWorld-35B-A3B: A New Benchmark for Agentic Reasoning?](https://dev.to/o96a/testing-qwen-agentworld-35b-a3b-a-new-benchmark-for-agentic-reasoning-1nce)
+- [The API Stack Every Modern Developer Should Understand in 2026](https://dev.to/apives_ecosystem/the-api-stack-every-modern-developer-should-understand-in-2026-10g1)
+- [Egress problems and where to find them](https://dev.to/planetscale/egress-problems-and-where-to-find-them-l50)
+- [Prometheus Alerting Rules That Don&#39;t Cry Wolf](https://dev.to/futhgar/prometheus-alerting-rules-that-dont-cry-wolf-5jj)
+- [ToolFesto Color Converter](https://dev.to/nethra_jagadish/toolfesto-color-converter-1fh5)
 <!-- BLOG-POST-LIST:END -->
 
 
