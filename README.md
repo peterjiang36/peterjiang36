@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The API Stack Every Modern Developer Should Understand in 2026](https://dev.to/apives_ecosystem/the-api-stack-every-modern-developer-should-understand-in-2026-10g1)
-- [Egress problems and where to find them](https://dev.to/planetscale/egress-problems-and-where-to-find-them-l50)
-- [Prometheus Alerting Rules That Don&#39;t Cry Wolf](https://dev.to/futhgar/prometheus-alerting-rules-that-dont-cry-wolf-5jj)
-- [ToolFesto Color Converter](https://dev.to/nethra_jagadish/toolfesto-color-converter-1fh5)
+- [NextFLow !!! King WorkFlow](https://dev.to/minh_le_b4d8d987f1ef7616e/nextflow-king-workflow-18o1)
+- [AccessiBe Alternative: Why I Preferred TestGrid for Automated Accessibility Testing](https://dev.to/jamescantor38/accessibe-alternative-why-i-preferred-testgrid-for-automated-accessibility-testing-2mbk)
+- [What AutoGPT ships in 2026: a low-code platform for continuous AI agents](https://dev.to/renolu/what-autogpt-ships-in-2026-a-low-code-platform-for-continuous-ai-agents-3lc7)
+- [A Banking API Is Not Just CRUD: What Building a Money-Movement Ledger Taught Me](https://dev.to/turboline_ai_/a-banking-api-is-not-just-crud-what-building-a-money-movement-ledger-taught-me-11gc)
 <!-- BLOG-POST-LIST:END -->
 
 
