@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inventory Display and Messaging Strategy](https://dev.to/barancevik/inventory-display-and-messaging-strategy-2emj)
-- [Building an OpenShift 4.18 Cluster from Scratch: Part 1 – The Network Foundation &amp; Utilities Server](https://dev.to/vilan011/building-an-openshift-418-cluster-from-scratch-part-1-the-network-foundation-utilities-server-5g92)
-- [Common Next.js Errors &lpar;and How I Solved Them&rpar;](https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o)
-- [What Really Happens When You Write x = 10](https://dev.to/storvus/what-really-happens-when-you-write-x-10-p0b)
+- [Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here&#39;s the Playbook](https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4)
+- [I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.](https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd)
+- [The State of Startups 2026: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4)
+- [Building Phinq: How a Cronjob Failure Forced Me to Redesign Agent Governance From Scratch](https://dev.to/hythamh/building-phinq-how-a-cronjob-failure-forced-me-to-redesign-agent-governance-from-scratch-47og)
 <!-- BLOG-POST-LIST:END -->
 
 
