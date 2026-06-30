@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Entra extensibility is a gift. It is also Control Plane.](https://dev.to/astaykov/microsoft-entra-extensibility-is-a-gift-it-is-also-control-plane-4egn)
-- [Mininglamp Open-Sources Octo: Designing the Collaboration Layer for Multi-Agent Teams](https://dev.to/mininglamp/mininglamp-open-sources-octo-designing-the-collaboration-layer-for-multi-agent-teams-2o04)
-- [Docker on WSL2: Why I Ditched Docker Desktop for a Linux &quot;Sandbox&quot;](https://dev.to/bumbulik0/docker-on-wsl2-why-i-ditched-docker-desktop-for-a-linux-sandbox-3a39)
-- [I Built an AI Pipeline for 10,000 Daily Listings. Here&#39;s What Broke at Scale.](https://dev.to/abdul___rehman/i-built-an-ai-pipeline-for-10000-daily-listings-heres-what-broke-at-scale-58ch)
+- [That 200 OK From Your LLM Gateway Probably Means Nothing](https://dev.to/correctover/that-200-ok-from-your-llm-gateway-probably-means-nothing-4ok1)
+- [Your AI Gateway&#39;s 200 OK Is Lying to You — A Practical Guide to Response Validation](https://dev.to/correctover/your-ai-gateways-200-ok-is-lying-to-you-a-practical-guide-to-response-validation-5adb)
+- [⚙️ Under the Hood: How Databases Handle Multiple Users Concurrently](https://dev.to/charan_gutti_cf60c6185074/under-the-hood-how-databases-handle-multiple-users-concurrently-lja)
+- [I built an autonomous AI agent to fix my PR comments &lpar;so I don&#39;t have to&rpar;](https://dev.to/harishrsk/i-built-an-autonomous-ai-agent-to-fix-my-pr-comments-so-i-dont-have-to-436h)
 <!-- BLOG-POST-LIST:END -->
 
 
