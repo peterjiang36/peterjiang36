@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with OAuth in your Web Apps](https://dev.to/intersystems/getting-started-with-oauth-in-your-web-apps-2g76)
-- [Breaking the Tables – My Journey from Relational Databases to MongoDB](https://dev.to/scalingdiaries/breaking-the-tables-my-journey-from-relational-databases-to-mongodb-2p6b)
-- [AI Won’t Replace You—Here’s What Will](https://dev.to/ujasdhami/ai-wont-replace-you-heres-what-will-53g6)
-- [I built a budget app that never sees your money](https://dev.to/hitesh_m_c864380a9c70c417/i-built-a-budget-app-that-never-sees-your-money-2kdm)
+- [Drive SaaS trial lifecycle emails with an agent](https://dev.to/mqasimca/drive-saas-trial-lifecycle-emails-with-an-agent-kf9)
+- [Scheduled and delayed messages:Routing with TTL and dead-letter exchange in RabbitMQ](https://dev.to/wesleyskap/scheduled-and-delayed-messagesrouting-with-ttl-and-dead-letter-exchange-in-rabbitmq-7dg)
+- [I Spent $50K on AI APIs Last Year — Here&#39;s What I&#39;d Do Differently as a...](https://dev.to/swift-logic-io218/i-spent-50k-on-ai-apis-last-year-heres-what-id-do-differently-as-a-3kno)
+- [A Practical CSS Variable Setup for Light/Dark Mode Without Theme Flash](https://dev.to/hasansarwer/a-practical-css-variable-setup-for-lightdark-mode-without-theme-flash-2gbl)
 <!-- BLOG-POST-LIST:END -->
 
 
