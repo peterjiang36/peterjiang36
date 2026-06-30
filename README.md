@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I tracked which AI models people actually use for a month. The top 5 are all Chinese or open-weight.](https://dev.to/codelong888/i-tracked-which-ai-models-people-actually-use-for-a-month-the-top-5-are-all-chinese-or-open-weight-4ckf)
-- [Exporting BibTeX to CSV/Excel/JSON/HTML](https://dev.to/saurabh_shah/exporting-bibtex-to-csvexceljsonhtml-1ng)
-- [How a long-running AI agent survives being interrupted every few minutes](https://dev.to/alice_31281c3fed5d0305db5/how-a-long-running-ai-agent-survives-being-interrupted-every-few-minutes-1j37)
-- [Building NetZero: Automated Zero-Trust K8s Network Policies Using Go and eBPF](https://dev.to/augustin_ven/building-netzero-automated-zero-trust-k8s-network-policies-using-go-and-ebpf-1epi)
+- [Beam Up: CLI to deploy static sites](https://dev.to/railsdesigner/beam-up-cli-to-deploy-static-sites-2gjo)
+- [Why Do AI Projects Struggle to Take Root in Enterprises?](https://dev.to/dufrence/why-do-ai-projects-struggle-to-take-root-in-enterprises-2f74)
+- [Aider — Pair Programming จริงจังกับ AI ใน Terminal](https://dev.to/gophernment/aider-pair-programming-cchringcchangkab-ai-ain-terminal-27a2)
+- [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
 <!-- BLOG-POST-LIST:END -->
 
 
