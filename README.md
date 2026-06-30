@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One EXE. No Python. No Docker. 120 Windows automation tools written in Go.](https://dev.to/coff33ninja/one-exe-no-python-no-docker-120-windows-automation-tools-written-in-go-i4m)
-- [The Modern MVP Is Not Just a Smaller App, It Is a Validated Workflow](https://dev.to/6sensehq/the-modern-mvp-is-not-just-a-smaller-app-it-is-a-validated-workflow-1kh5)
-- [Generative Simulation Benchmarking for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-with-embodied-2p1l)
-- [[GCD] Dispatch Queue: cola FIFO, prioridad y tipos de colas](https://dev.to/david_goyes_a488f58a17a53/gcd-dispatch-queue-cola-fifo-prioridad-y-tipos-de-colas-963)
+- [reCAPTCHA v2 vs v3 vs Enterprise — how to tell which one you&#39;re fighting &lpar;and how to solve each&rpar;](https://dev.to/bshahin/recaptcha-v2-vs-v3-vs-enterprise-how-to-tell-which-one-youre-fighting-and-how-to-solve-each-4bpo)
+- [How I Built and Secured a Self-Hosted Stack](https://dev.to/vegan-morpheus/how-i-built-and-secured-a-self-hosted-stack-32bm)
+- [Engineering a Cross-Platform Face Recognition Pipeline with Anti-Spoofing](https://dev.to/erwin_wilsonceniza2_adf9/engineering-a-cross-platform-face-recognition-pipeline-with-anti-spoofing-2457)
+- [Build a Remittance App with the Afriex Business API](https://dev.to/afriex/build-a-remittance-app-with-the-afriex-business-api-1adg)
 <!-- BLOG-POST-LIST:END -->
 
 
