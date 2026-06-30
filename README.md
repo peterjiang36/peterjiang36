@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building High-Performance Product Catalogs in SitecoreAI &lpar;XM Cloud&rpar; Without Creating Millions of Items](https://dev.to/roshan_ravaliya_c84c08f79/building-high-performance-product-catalogs-in-sitecoreai-xm-cloud-without-creating-millions-of-23f5)
-- [DATA MODELLING RELATIONSHIPS AND SCHEMAS IN POWER BI](https://dev.to/ndinda515/data-modelling-relationships-and-schemas-in-power-bi-1mhj)
-- [A Life in 150 Words, with AI](https://dev.to/aigal/a-life-in-150-words-with-ai-14jh)
-- [Stop Chunking Documents: The Open Knowledge Format &lpar;OKF&rpar; for Enterprise AI](https://dev.to/kirandeepjassalcrypto/stop-chunking-documents-the-open-knowledge-format-okf-for-enterprise-ai-39i4)
+- [Inventory Display and Messaging Strategy](https://dev.to/barancevik/inventory-display-and-messaging-strategy-2emj)
+- [Building an OpenShift 4.18 Cluster from Scratch: Part 1 – The Network Foundation &amp; Utilities Server](https://dev.to/vilan011/building-an-openshift-418-cluster-from-scratch-part-1-the-network-foundation-utilities-server-5g92)
+- [Common Next.js Errors &lpar;and How I Solved Them&rpar;](https://dev.to/gary_killen37/common-nextjs-errors-and-how-i-solved-them-193o)
+- [What Really Happens When You Write x = 10](https://dev.to/storvus/what-really-happens-when-you-write-x-10-p0b)
 <!-- BLOG-POST-LIST:END -->
 
 
