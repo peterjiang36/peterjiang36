@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Confront, Don&#39;t Assert](https://dev.to/devanomaly/confront-dont-assert-313n)
-- [The Spec Was Never the Good Part](https://dev.to/anchildress1/the-spec-was-never-the-good-part-45i4)
-- [GLM 5.2 Has a 1M Token Context Window. Here&#39;s What That Does to Your API Bill.](https://dev.to/tokoscope/glm-52-has-a-1m-token-context-window-heres-what-that-does-to-your-api-bill-2fjp)
-- [Try This: Use Your AI Agent to Activate Your &quot;Weak Ties&quot;](https://dev.to/innovationsiyu/try-this-use-your-ai-agent-to-activate-your-weak-ties-33hm)
+- [I tracked which AI models people actually use for a month. The top 5 are all Chinese or open-weight.](https://dev.to/codelong888/i-tracked-which-ai-models-people-actually-use-for-a-month-the-top-5-are-all-chinese-or-open-weight-4ckf)
+- [Exporting BibTeX to CSV/Excel/JSON/HTML](https://dev.to/saurabh_shah/exporting-bibtex-to-csvexceljsonhtml-1ng)
+- [How a long-running AI agent survives being interrupted every few minutes](https://dev.to/alice_31281c3fed5d0305db5/how-a-long-running-ai-agent-survives-being-interrupted-every-few-minutes-1j37)
+- [Building NetZero: Automated Zero-Trust K8s Network Policies Using Go and eBPF](https://dev.to/augustin_ven/building-netzero-automated-zero-trust-k8s-network-policies-using-go-and-ebpf-1epi)
 <!-- BLOG-POST-LIST:END -->
 
 
