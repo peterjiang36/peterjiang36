@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9)
-- [Upsun Dispatch™ is now open for prerelease 🎉](https://dev.to/florabrandao/upsun-dispatch-is-now-open-for-prerelease-n2j)
-- [Splitting a Terraform Monolith into Smaller States](https://dev.to/karlschriek/splitting-a-terraform-monolith-into-smaller-states-4b5a)
-- [The Problem with Large Terraform States](https://dev.to/karlschriek/the-problem-with-large-terraform-states-a2o)
+- [Getting started with OAuth in your Web Apps](https://dev.to/intersystems/getting-started-with-oauth-in-your-web-apps-2g76)
+- [Breaking the Tables – My Journey from Relational Databases to MongoDB](https://dev.to/scalingdiaries/breaking-the-tables-my-journey-from-relational-databases-to-mongodb-2p6b)
+- [AI Won’t Replace You—Here’s What Will](https://dev.to/ujasdhami/ai-wont-replace-you-heres-what-will-53g6)
+- [I built a budget app that never sees your money](https://dev.to/hitesh_m_c864380a9c70c417/i-built-a-budget-app-that-never-sees-your-money-2kdm)
 <!-- BLOG-POST-LIST:END -->
 
 
