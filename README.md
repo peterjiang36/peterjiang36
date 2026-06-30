@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Rack #1 : Notes from Rebuilding Rails by Noah Gibbs](https://dev.to/shroukabozeid/understanding-rack-1-notes-from-rebuilding-rails-by-noah-gibbs-ma8)
-- [I checked my OpenAI and Anthropic dashboards every morning for a month. Then I stopped.](https://dev.to/manolito99/i-checked-my-openai-and-anthropic-dashboards-every-morning-for-a-month-then-i-stopped-mbo)
-- [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl)
-- [The Future Of AI Is Local And Open](https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c)
+- [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://dev.to/googleai/fluid-natural-voice-translation-with-gemini-35-live-translate-27n9)
+- [Upsun Dispatch™ is now open for prerelease 🎉](https://dev.to/florabrandao/upsun-dispatch-is-now-open-for-prerelease-n2j)
+- [Splitting a Terraform Monolith into Smaller States](https://dev.to/karlschriek/splitting-a-terraform-monolith-into-smaller-states-4b5a)
+- [The Problem with Large Terraform States](https://dev.to/karlschriek/the-problem-with-large-terraform-states-a2o)
 <!-- BLOG-POST-LIST:END -->
 
 
