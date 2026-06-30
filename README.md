@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write Content That AI Search Engines Actually Cite](https://dev.to/mariaramos_seo/how-to-write-content-that-ai-search-engines-actually-cite-3g0d)
-- [Eu decidi — de novo — me dedicar aos jogos.](https://dev.to/the_owl_game_dev/eu-decidi-de-novo-me-dedicar-aos-jogos-1l6g)
-- [Approval Queues Are the Runtime for Agentic AI Workflows | Focused Labs](https://dev.to/focused_dot_io/approval-queues-are-the-runtime-for-agentic-ai-workflows-focused-labs-1hbp)
-- [I replaced hooking libraries with one rust crate](https://dev.to/ambiguitydev/i-replaced-hooking-libraries-with-one-rust-crate-j4k)
+- [Technical SEO Audit Checklist for Modern Web Applications: What Crawlers Actually See](https://dev.to/emongmarcc/technical-seo-audit-checklist-for-modern-web-applications-what-crawlers-actually-see-4fbi)
+- [I built a Next.js 16 store starter for perfume &amp; cosmetics &lpar;and learned a few things&rpar;](https://dev.to/maegamidev/i-built-a-nextjs-16-store-starter-for-perfume-cosmetics-and-learned-a-few-things-fgg)
+- [Platform Engineering: Building an Internal Developer Platform That Teams Actually Use](https://dev.to/samson_tanimawo/platform-engineering-building-an-internal-developer-platform-that-teams-actually-use-bgn)
+- [The Upwork Proposal Opening Line That Wins &lpar;and the One That Kills Your Chances&rpar;](https://dev.to/yaaver/the-upwork-proposal-opening-line-that-wins-and-the-one-that-kills-your-chances-5a04)
 <!-- BLOG-POST-LIST:END -->
 
 
