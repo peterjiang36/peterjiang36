@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Gets Paid for Knowing Syntax. They Get Paid for Solving Problems.](https://dev.to/astonishbuddy/nobody-gets-paid-for-knowing-syntax-they-get-paid-for-solving-problems-46ff)
-- [Cutting Idle Agent Costs by 90% with Agent Substrate](https://dev.to/thenjdevopsguy/cutting-idle-agent-costs-by-90-with-agent-substrate-18en)
-- [From one blocking accept&lpar;&rpar; to epoll: a C TCP server up the I/O ladder, measured](https://dev.to/valentynkit/from-one-blocking-accept-to-epoll-a-c-tcp-server-up-the-io-ladder-measured-3bi9)
-- [Shifting Left: How TDD Became the Foundation of SokoFlow&#39;s Core Engine](https://dev.to/paulmurithi/shifting-left-how-tdd-became-the-foundation-of-sokoflows-core-engine-485f)
+- [We wanted a simple forms API, so I built my own library](https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248)
+- [The Codename One Game Builder: Draw The Level, Code The Rules](https://dev.to/codenameone/the-codename-one-game-builder-draw-the-level-code-the-rules-19gl)
+- [AI Won&#39;t Make You a Better Developer](https://dev.to/johnnickell/ai-wont-make-you-a-better-developer-495i)
+- [I built an AI that predicts football matches before kickoff — and forces it to stay honest](https://dev.to/kristjan_vinderslev_95824/i-built-an-ai-that-predicts-football-matches-before-kickoff-and-forces-it-to-stay-honest-265l)
 <!-- BLOG-POST-LIST:END -->
 
 
