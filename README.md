@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We wanted a simple forms API, so I built my own library](https://dev.to/n3lix/we-wanted-a-simple-forms-api-so-i-built-my-own-library-2248)
-- [The Codename One Game Builder: Draw The Level, Code The Rules](https://dev.to/codenameone/the-codename-one-game-builder-draw-the-level-code-the-rules-19gl)
-- [AI Won&#39;t Make You a Better Developer](https://dev.to/johnnickell/ai-wont-make-you-a-better-developer-495i)
-- [I built an AI that predicts football matches before kickoff — and forces it to stay honest](https://dev.to/kristjan_vinderslev_95824/i-built-an-ai-that-predicts-football-matches-before-kickoff-and-forces-it-to-stay-honest-265l)
+- [Understanding Rack #1 : Notes from Rebuilding Rails by Noah Gibbs](https://dev.to/shroukabozeid/understanding-rack-1-notes-from-rebuilding-rails-by-noah-gibbs-ma8)
+- [I checked my OpenAI and Anthropic dashboards every morning for a month. Then I stopped.](https://dev.to/manolito99/i-checked-my-openai-and-anthropic-dashboards-every-morning-for-a-month-then-i-stopped-mbo)
+- [Hackathon Winners Scoop $35,000 In Cash And Credits](https://dev.to/dailycontext/hackathon-winners-scoop-35000-in-cash-and-credits-2ddl)
+- [The Future Of AI Is Local And Open](https://dev.to/dailycontext/the-future-of-ai-is-local-and-open-522c)
 <!-- BLOG-POST-LIST:END -->
 
 
