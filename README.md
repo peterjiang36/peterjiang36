@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here&#39;s the Playbook](https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4)
-- [I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.](https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd)
-- [The State of Startups 2026: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4)
-- [Building Phinq: How a Cronjob Failure Forced Me to Redesign Agent Governance From Scratch](https://dev.to/hythamh/building-phinq-how-a-cronjob-failure-forced-me-to-redesign-agent-governance-from-scratch-47og)
+- [Can you build observability ingestion on S3 alone — no Kafka, no disks, no coordination layer?](https://dev.to/prosvirnin/can-you-build-observability-ingestion-on-s3-alone-no-kafka-no-disks-no-coordination-layer-11ib)
+- [How to Learn System Design From Scratch &lpar;With No Distributed Systems Experience&rpar;](https://dev.to/arslan_ah/how-to-learn-system-design-from-scratch-with-no-distributed-systems-experience-1591)
+- [How I Built an AI Tattoo Design Generator &lpar;and What I Learned&rpar;](https://dev.to/aitattoo_gen/how-i-built-an-ai-tattoo-design-generator-and-what-i-learned-2j68)
+- [Someone asked me if I knew of an alternative project management tool, so I developed one in about 24 hours.](https://dev.to/olympstack/someone-asked-me-if-i-knew-of-an-alternative-project-management-tool-so-i-developed-one-in-about-30p4)
 <!-- BLOG-POST-LIST:END -->
 
 
