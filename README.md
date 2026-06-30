@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beam Up: CLI to deploy static sites](https://dev.to/railsdesigner/beam-up-cli-to-deploy-static-sites-2gjo)
-- [Why Do AI Projects Struggle to Take Root in Enterprises?](https://dev.to/dufrence/why-do-ai-projects-struggle-to-take-root-in-enterprises-2f74)
-- [Aider — Pair Programming จริงจังกับ AI ใน Terminal](https://dev.to/gophernment/aider-pair-programming-cchringcchangkab-ai-ain-terminal-27a2)
-- [Someone Else Pays for Your AI Access](https://dev.to/dannwaneri/someone-else-pays-for-your-ai-access-5149)
+- [Microsoft Entra extensibility is a gift. It is also Control Plane.](https://dev.to/astaykov/microsoft-entra-extensibility-is-a-gift-it-is-also-control-plane-4egn)
+- [Mininglamp Open-Sources Octo: Designing the Collaboration Layer for Multi-Agent Teams](https://dev.to/mininglamp/mininglamp-open-sources-octo-designing-the-collaboration-layer-for-multi-agent-teams-2o04)
+- [Docker on WSL2: Why I Ditched Docker Desktop for a Linux &quot;Sandbox&quot;](https://dev.to/bumbulik0/docker-on-wsl2-why-i-ditched-docker-desktop-for-a-linux-sandbox-3a39)
+- [I Built an AI Pipeline for 10,000 Daily Listings. Here&#39;s What Broke at Scale.](https://dev.to/abdul___rehman/i-built-an-ai-pipeline-for-10000-daily-listings-heres-what-broke-at-scale-58ch)
 <!-- BLOG-POST-LIST:END -->
 
 
