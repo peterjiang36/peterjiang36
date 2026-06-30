@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Drive SaaS trial lifecycle emails with an agent](https://dev.to/mqasimca/drive-saas-trial-lifecycle-emails-with-an-agent-kf9)
-- [Scheduled and delayed messages:Routing with TTL and dead-letter exchange in RabbitMQ](https://dev.to/wesleyskap/scheduled-and-delayed-messagesrouting-with-ttl-and-dead-letter-exchange-in-rabbitmq-7dg)
-- [I Spent $50K on AI APIs Last Year — Here&#39;s What I&#39;d Do Differently as a...](https://dev.to/swift-logic-io218/i-spent-50k-on-ai-apis-last-year-heres-what-id-do-differently-as-a-3kno)
-- [A Practical CSS Variable Setup for Light/Dark Mode Without Theme Flash](https://dev.to/hasansarwer/a-practical-css-variable-setup-for-lightdark-mode-without-theme-flash-2gbl)
+- [Building High-Performance Product Catalogs in SitecoreAI &lpar;XM Cloud&rpar; Without Creating Millions of Items](https://dev.to/roshan_ravaliya_c84c08f79/building-high-performance-product-catalogs-in-sitecoreai-xm-cloud-without-creating-millions-of-23f5)
+- [DATA MODELLING RELATIONSHIPS AND SCHEMAS IN POWER BI](https://dev.to/ndinda515/data-modelling-relationships-and-schemas-in-power-bi-1mhj)
+- [A Life in 150 Words, with AI](https://dev.to/aigal/a-life-in-150-words-with-ai-14jh)
+- [Stop Chunking Documents: The Open Knowledge Format &lpar;OKF&rpar; for Enterprise AI](https://dev.to/kirandeepjassalcrypto/stop-chunking-documents-the-open-knowledge-format-okf-for-enterprise-ai-39i4)
 <!-- BLOG-POST-LIST:END -->
 
 
