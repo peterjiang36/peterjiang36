@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can you build observability ingestion on S3 alone — no Kafka, no disks, no coordination layer?](https://dev.to/prosvirnin/can-you-build-observability-ingestion-on-s3-alone-no-kafka-no-disks-no-coordination-layer-11ib)
-- [How to Learn System Design From Scratch &lpar;With No Distributed Systems Experience&rpar;](https://dev.to/arslan_ah/how-to-learn-system-design-from-scratch-with-no-distributed-systems-experience-1591)
-- [How I Built an AI Tattoo Design Generator &lpar;and What I Learned&rpar;](https://dev.to/aitattoo_gen/how-i-built-an-ai-tattoo-design-generator-and-what-i-learned-2j68)
-- [Someone asked me if I knew of an alternative project management tool, so I developed one in about 24 hours.](https://dev.to/olympstack/someone-asked-me-if-i-knew-of-an-alternative-project-management-tool-so-i-developed-one-in-about-30p4)
+- [One EXE. No Python. No Docker. 120 Windows automation tools written in Go.](https://dev.to/coff33ninja/one-exe-no-python-no-docker-120-windows-automation-tools-written-in-go-i4m)
+- [The Modern MVP Is Not Just a Smaller App, It Is a Validated Workflow](https://dev.to/6sensehq/the-modern-mvp-is-not-just-a-smaller-app-it-is-a-validated-workflow-1kh5)
+- [Generative Simulation Benchmarking for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-with-embodied-2p1l)
+- [[GCD] Dispatch Queue: cola FIFO, prioridad y tipos de colas](https://dev.to/david_goyes_a488f58a17a53/gcd-dispatch-queue-cola-fifo-prioridad-y-tipos-de-colas-963)
 <!-- BLOG-POST-LIST:END -->
 
 
