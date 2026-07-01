@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [reCAPTCHA v2 vs v3 vs Enterprise — how to tell which one you&#39;re fighting &lpar;and how to solve each&rpar;](https://dev.to/bshahin/recaptcha-v2-vs-v3-vs-enterprise-how-to-tell-which-one-youre-fighting-and-how-to-solve-each-4bpo)
-- [How I Built and Secured a Self-Hosted Stack](https://dev.to/vegan-morpheus/how-i-built-and-secured-a-self-hosted-stack-32bm)
-- [Engineering a Cross-Platform Face Recognition Pipeline with Anti-Spoofing](https://dev.to/erwin_wilsonceniza2_adf9/engineering-a-cross-platform-face-recognition-pipeline-with-anti-spoofing-2457)
-- [Build a Remittance App with the Afriex Business API](https://dev.to/afriex/build-a-remittance-app-with-the-afriex-business-api-1adg)
+- [Nobody Is Coming to Save Your Privacy. Build the Tools Yourself](https://dev.to/numbpill3d/nobody-is-coming-to-save-your-privacy-build-the-tools-yourself-4ie)
+- [Maintaining WordPress sites behind HTTP Basic auth — Playwright, urllib, and encrypted credentials](https://dev.to/susumun/maintaining-wordpress-sites-behind-http-basic-auth-playwright-urllib-and-encrypted-credentials-5f2f)
+- [I built an AI-powered QA platform because manual testing tools haven&#39;t kept up — launching on Product Hunt today](https://dev.to/programmer4web/i-built-an-ai-powered-qa-platform-because-manual-testing-tools-havent-kept-up-launching-on-3h64)
+- [A FalkorDB Vector Search Gotcha: Why Won&#39;t db.idx.vector.queryNodes Work?](https://dev.to/eyanpen/a-falkordb-vector-search-gotcha-why-wont-dbidxvectorquerynodes-work-1bio)
 <!-- BLOG-POST-LIST:END -->
 
 
