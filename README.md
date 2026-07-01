@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# MCP and A2A in Agentic BFSI Systems: The Complete Implementation Guide](https://dev.to/nikhil_ramank_152ca48266/-mcp-and-a2a-in-agentic-bfsi-systems-the-complete-implementation-guide-1egp)
-- [Z Function](https://dev.to/jaspreet_singh_86ae1740ac/z-function-1f5a)
-- [An AI agent design that refuses to act on what it merely assumes](https://dev.to/breachprotocol/an-ai-agent-design-that-refuses-to-act-on-what-it-merely-assumes-haa)
-- [Strict Types Won&#39;t Fix Your Lack of Understanding](https://dev.to/psypher1/strict-types-wont-fix-your-lack-of-understanding-533h)
+- [We benchmarked React data grids with 50,000 rows. The winner was not the whole story.](https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj)
+- [CodeTrace-AI v1.0.1: AI-Powered Code Intelligence with SHA-256 Delta Sync &amp; Interactive Code Graphs](https://dev.to/viraj465/codetrace-ai-v101-ai-powered-code-intelligence-with-sha-256-delta-sync-interactive-code-graphs-257i)
+- [DeepSeek&#39;s new open models give everyone a million-word memory by default](https://dev.to/breachprotocol/deepseeks-new-open-models-give-everyone-a-million-word-memory-by-default-5390)
+- [How I built a 35-bot trading fleet with an AI pair-programmer](https://dev.to/christian_faro_70d81c0d16/how-i-built-a-35-bot-trading-fleet-with-an-ai-pair-programmer-or-35-trading-bots-one-postgres-16ba)
 <!-- BLOG-POST-LIST:END -->
 
 
