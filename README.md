@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Search Every SEC Filing by Keyword With the Keyless EDGAR Full Text API](https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22)
-- [How to split 10GB JSON files in seconds without hitting RAM limits](https://dev.to/ihar_ivanuto/how-to-split-10gb-json-files-in-seconds-without-hitting-ram-limits-obk)
-- [Build software that heals itself in the agentic era](https://dev.to/bucabay/build-software-that-heals-itself-in-the-agentic-era-540p)
-- [Docker Security Dispatch — Issue 4: Miasma, Phantom Gyp, and AI Routing 🪱️](https://dev.to/docker/docker-security-dispatch-issue-4-miasma-phantom-gyp-and-ai-routing-4n6h)
+- [The quiet race to turn messy documents into AI-ready text](https://dev.to/breachprotocol/the-quiet-race-to-turn-messy-documents-into-ai-ready-text-2h5k)
+- [The Most Dangerous Code in Your Repo Is the Behavior Nobody Can Prove](https://dev.to/shakargy/the-most-dangerous-code-in-your-repo-is-the-behavior-nobody-can-prove-98j)
+- [An AI wrote a working operating-system kernel from scratch in 38 minutes](https://dev.to/breachprotocol/an-ai-wrote-a-working-operating-system-kernel-from-scratch-in-38-minutes-2m2h)
+- [Stripped the best feature out of Google Antigravity and made it open source](https://dev.to/dharu_namikaze/stripped-the-best-feature-out-of-google-antigravity-and-made-it-open-source-3oo)
 <!-- BLOG-POST-LIST:END -->
 
 
