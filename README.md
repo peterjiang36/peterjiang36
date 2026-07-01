@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Free Online Image &amp; PDF Processing Platform with Vue 3 + FastAPI](https://dev.to/iamuu/how-i-built-a-free-online-image-pdf-processing-platform-with-vue-3-fastapi-4p4o)
-- [How to Write a Pull Request Description with AI](https://dev.to/leveragenotes/how-to-write-a-pull-request-description-with-ai-24ma)
-- [Free AI Gateway for Developers: A Game Changer for Coding Productivity](https://dev.to/frank_signorini/free-ai-gateway-for-developers-a-game-changer-for-coding-productivity-51i)
-- [Learn PHP with Claude in 2026: build real skills, not AI dependency](https://dev.to/ohugonnot/learn-php-with-claude-in-2026-build-real-skills-not-ai-dependency-1c81)
+- [I Benchmarked DeepSeek, Qwen, Kimi &amp; GLM for 30 Days — The Numbers](https://dev.to/rarenode/i-benchmarked-deepseek-qwen-kimi-glm-for-30-days-the-numbers-5je)
+- [Optimizing Mobile Web Apps for Low-Bandwidth Networks](https://dev.to/emrysunleashed/optimizing-mobile-web-apps-for-low-bandwidth-networks-5693)
+- [Building with mini, Part 4/9: The main loop — next plan do done](https://dev.to/stkremen/building-with-mini-part-4-the-main-loop-next-plan-do-done-344a)
+- [Fake Praise, Real Money](https://dev.to/rawveg/fake-praise-real-money-5hj4)
 <!-- BLOG-POST-LIST:END -->
 
 
