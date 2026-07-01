@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory Chips](https://dev.to/hknova/memory-chips-4am)
-- [Shielded Token Contracts on Midnight: Real Errors, Real Fixes](https://dev.to/codebigint_01/shielded-token-contracts-on-midnight-real-errors-real-fixes-4fc7)
-- [Web Scraping with Python in 2026: Best Libraries and Anti-Bot Strategies](https://dev.to/etriti00_19/web-scraping-with-python-in-2026-best-libraries-and-anti-bot-strategies-4p62)
-- [I found 10 bugs in my own security scanner. Here&#39;s what they taught me about false positives.](https://dev.to/zein_saleh_866d073614f017/i-found-10-bugs-in-my-own-security-scanner-heres-what-they-taught-me-about-false-positives-4o8m)
+- [Notes: Memory, Context, and Large Language Models &lpar;LLMs&rpar;](https://dev.to/vladimirpanov/notes-memory-context-and-large-language-models-llms-4m67)
+- [Built a suite of client-side dev tools to fix the &quot;production data&quot; privacy gap](https://dev.to/rayanahmax/built-a-suite-of-client-side-dev-tools-to-fix-the-production-data-privacy-gap-1p47)
+- [GuardFall: When Decades-Old Shell Injection Tricks Beat Modern AI Safety Guardrails](https://dev.to/coridev/guardfall-when-decades-old-shell-injection-tricks-beat-modern-ai-safety-guardrails-1lh1)
+- [The same 5 signals that preceded every major attack wave since 2012 are all active right now](https://dev.to/aetherintel/the-same-5-signals-that-preceded-every-major-attack-wave-since-2012-are-all-active-right-now-302n)
 <!-- BLOG-POST-LIST:END -->
 
 
