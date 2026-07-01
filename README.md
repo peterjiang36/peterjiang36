@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Notes: Memory, Context, and Large Language Models &lpar;LLMs&rpar;](https://dev.to/vladimirpanov/notes-memory-context-and-large-language-models-llms-4m67)
-- [Built a suite of client-side dev tools to fix the &quot;production data&quot; privacy gap](https://dev.to/rayanahmax/built-a-suite-of-client-side-dev-tools-to-fix-the-production-data-privacy-gap-1p47)
-- [GuardFall: When Decades-Old Shell Injection Tricks Beat Modern AI Safety Guardrails](https://dev.to/coridev/guardfall-when-decades-old-shell-injection-tricks-beat-modern-ai-safety-guardrails-1lh1)
-- [The same 5 signals that preceded every major attack wave since 2012 are all active right now](https://dev.to/aetherintel/the-same-5-signals-that-preceded-every-major-attack-wave-since-2012-are-all-active-right-now-302n)
+- [Multi-Agent Systems in Production: When One Agent Isn&#39;t Enough and How We Coordinate Them](https://dev.to/lycore/multi-agent-systems-in-production-when-one-agent-isnt-enough-and-how-we-coordinate-them-12di)
+- [What Is an MCP Registry? &lpar;And the NxM Problem It Solves&rpar;](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-registry-and-the-nxm-problem-it-solves-4ogm)
+- [2+ Years as a .NET Developer in Chennai — What I Learned the Hard Way](https://dev.to/imran_tech/2-years-as-a-net-developer-in-chennai-what-i-learned-the-hard-way-2gaf)
+- [Building a 2D Physics Engine From Scratch: SAT Collision Detection in C++ and SDL2](https://dev.to/whomi928/building-a-2d-physics-engine-from-scratch-sat-collision-detection-in-c-and-sdl2-5dd)
 <!-- BLOG-POST-LIST:END -->
 
 
