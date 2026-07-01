@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We benchmarked React data grids with 50,000 rows. The winner was not the whole story.](https://dev.to/vitalii_shevchuk_de4862c7/we-benchmarked-react-data-grids-with-50000-rows-the-winner-was-not-the-whole-story-2eaj)
-- [CodeTrace-AI v1.0.1: AI-Powered Code Intelligence with SHA-256 Delta Sync &amp; Interactive Code Graphs](https://dev.to/viraj465/codetrace-ai-v101-ai-powered-code-intelligence-with-sha-256-delta-sync-interactive-code-graphs-257i)
-- [DeepSeek&#39;s new open models give everyone a million-word memory by default](https://dev.to/breachprotocol/deepseeks-new-open-models-give-everyone-a-million-word-memory-by-default-5390)
-- [How I built a 35-bot trading fleet with an AI pair-programmer](https://dev.to/christian_faro_70d81c0d16/how-i-built-a-35-bot-trading-fleet-with-an-ai-pair-programmer-or-35-trading-bots-one-postgres-16ba)
+- [Why Juice Generates CSS Instead of Owning It](https://dev.to/stinklewinks/why-juice-generates-css-instead-of-owning-it-gk)
+- [Your AI Isn&#39;t Racist, It Just Read a Lot of Bad History](https://dev.to/lovestaco/your-ai-isnt-racist-it-just-read-a-lot-of-bad-history-4l5b)
+- [Faster AI training by quietly cloning the model](https://dev.to/breachprotocol/faster-ai-training-by-quietly-cloning-the-model-1nb3)
+- [I Built an AI Security Scanner — Then Found a Bug in My Own Detector](https://dev.to/nar1frames/i-built-an-ai-security-scanner-then-found-a-bug-in-my-own-detector-4jeb)
 <!-- BLOG-POST-LIST:END -->
 
 
