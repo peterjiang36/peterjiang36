@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Juice Generates CSS Instead of Owning It](https://dev.to/stinklewinks/why-juice-generates-css-instead-of-owning-it-gk)
-- [Your AI Isn&#39;t Racist, It Just Read a Lot of Bad History](https://dev.to/lovestaco/your-ai-isnt-racist-it-just-read-a-lot-of-bad-history-4l5b)
-- [Faster AI training by quietly cloning the model](https://dev.to/breachprotocol/faster-ai-training-by-quietly-cloning-the-model-1nb3)
-- [I Built an AI Security Scanner — Then Found a Bug in My Own Detector](https://dev.to/nar1frames/i-built-an-ai-security-scanner-then-found-a-bug-in-my-own-detector-4jeb)
+- [How to Actually Cap AI Spend for Your Users: 3 Edge Cases Everyone Misses](https://dev.to/cjcummings/how-to-actually-cap-ai-spend-for-your-users-3-edge-cases-everyone-misses-2d42)
+- [Fallacies of distributed computing](https://dev.to/sebs/fallacies-of-distributed-computing-41fb)
+- [Nano Banana 2 Lite with Kiro](https://dev.to/gde/nano-banana-2-lite-with-kiro-3d3n)
+- [A senator says a banned AI broke into nearly all NSA systems in hours](https://dev.to/breachprotocol/a-senator-says-a-banned-ai-broke-into-nearly-all-nsa-systems-in-hours-47ii)
 <!-- BLOG-POST-LIST:END -->
 
 
