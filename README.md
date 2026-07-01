@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Is Coming to Save Your Privacy. Build the Tools Yourself](https://dev.to/numbpill3d/nobody-is-coming-to-save-your-privacy-build-the-tools-yourself-4ie)
-- [Maintaining WordPress sites behind HTTP Basic auth — Playwright, urllib, and encrypted credentials](https://dev.to/susumun/maintaining-wordpress-sites-behind-http-basic-auth-playwright-urllib-and-encrypted-credentials-5f2f)
-- [I built an AI-powered QA platform because manual testing tools haven&#39;t kept up — launching on Product Hunt today](https://dev.to/programmer4web/i-built-an-ai-powered-qa-platform-because-manual-testing-tools-havent-kept-up-launching-on-3h64)
-- [A FalkorDB Vector Search Gotcha: Why Won&#39;t db.idx.vector.queryNodes Work?](https://dev.to/eyanpen/a-falkordb-vector-search-gotcha-why-wont-dbidxvectorquerynodes-work-1bio)
+- [Memory Chips](https://dev.to/hknova/memory-chips-4am)
+- [Shielded Token Contracts on Midnight: Real Errors, Real Fixes](https://dev.to/codebigint_01/shielded-token-contracts-on-midnight-real-errors-real-fixes-4fc7)
+- [Web Scraping with Python in 2026: Best Libraries and Anti-Bot Strategies](https://dev.to/etriti00_19/web-scraping-with-python-in-2026-best-libraries-and-anti-bot-strategies-4p62)
+- [I found 10 bugs in my own security scanner. Here&#39;s what they taught me about false positives.](https://dev.to/zein_saleh_866d073614f017/i-found-10-bugs-in-my-own-security-scanner-heres-what-they-taught-me-about-false-positives-4o8m)
 <!-- BLOG-POST-LIST:END -->
 
 
