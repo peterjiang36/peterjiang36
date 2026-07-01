@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WhatsApp, Signal, Telegram: Which One Is Truly Secure?](https://dev.to/merbayerp/whatsapp-signal-telegram-which-one-is-truly-secure-444e)
-- [How Prathyusha Ramanjaneyulu at Celonis Eliminated Dev Environment Overhead for 600 Engineers](https://dev.to/metalbear/how-prathyusha-ramanjaneyulu-at-celonis-eliminated-dev-environment-overhead-for-600-engineers-5h19)
-- [Your AI Agent Said &#39;Done.&#39; Here&#39;s How I Found Out It Actually Failed Three Hours Later.](https://dev.to/mrclaw207/your-ai-agent-said-done-heres-how-i-found-out-it-actually-failed-three-hours-later-5b74)
-- [Hiring SREs: What I Look For After Interviewing 100+ Candidates](https://dev.to/samson_tanimawo/hiring-sres-what-i-look-for-after-interviewing-100-candidates-35ff)
+- [AGENTS.md in a monorepo: nested files and precedence](https://dev.to/promptmaster/agentsmd-in-a-monorepo-nested-files-and-precedence-1b7d)
+- [Google released Nano Banana 2 Lite](https://dev.to/alexgetmancom/google-released-nano-banana-2-lite-43l0)
+- [One AGENTS.md, every tool: the Claude Code symlink pattern](https://dev.to/promptmaster/one-agentsmd-every-tool-the-claude-code-symlink-pattern-n8l)
+- [Zero-downtime deploys and one-click rollback for self-hosted apps — no Kubernetes](https://dev.to/huangchengsir/zero-downtime-deploys-and-one-click-rollback-for-self-hosted-apps-no-kubernetes-1em0)
 <!-- BLOG-POST-LIST:END -->
 
 
