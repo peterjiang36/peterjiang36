@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Benchmarked DeepSeek, Qwen, Kimi &amp; GLM for 30 Days — The Numbers](https://dev.to/rarenode/i-benchmarked-deepseek-qwen-kimi-glm-for-30-days-the-numbers-5je)
-- [Optimizing Mobile Web Apps for Low-Bandwidth Networks](https://dev.to/emrysunleashed/optimizing-mobile-web-apps-for-low-bandwidth-networks-5693)
-- [Building with mini, Part 4/9: The main loop — next plan do done](https://dev.to/stkremen/building-with-mini-part-4-the-main-loop-next-plan-do-done-344a)
-- [Fake Praise, Real Money](https://dev.to/rawveg/fake-praise-real-money-5hj4)
+- [WhatsApp, Signal, Telegram: Which One Is Truly Secure?](https://dev.to/merbayerp/whatsapp-signal-telegram-which-one-is-truly-secure-444e)
+- [How Prathyusha Ramanjaneyulu at Celonis Eliminated Dev Environment Overhead for 600 Engineers](https://dev.to/metalbear/how-prathyusha-ramanjaneyulu-at-celonis-eliminated-dev-environment-overhead-for-600-engineers-5h19)
+- [Your AI Agent Said &#39;Done.&#39; Here&#39;s How I Found Out It Actually Failed Three Hours Later.](https://dev.to/mrclaw207/your-ai-agent-said-done-heres-how-i-found-out-it-actually-failed-three-hours-later-5b74)
+- [Hiring SREs: What I Look For After Interviewing 100+ Candidates](https://dev.to/samson_tanimawo/hiring-sres-what-i-look-for-after-interviewing-100-candidates-35ff)
 <!-- BLOG-POST-LIST:END -->
 
 
