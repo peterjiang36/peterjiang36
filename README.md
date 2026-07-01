@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent Systems in Production: When One Agent Isn&#39;t Enough and How We Coordinate Them](https://dev.to/lycore/multi-agent-systems-in-production-when-one-agent-isnt-enough-and-how-we-coordinate-them-12di)
-- [What Is an MCP Registry? &lpar;And the NxM Problem It Solves&rpar;](https://dev.to/sahajmeet_kaur_/what-is-an-mcp-registry-and-the-nxm-problem-it-solves-4ogm)
-- [2+ Years as a .NET Developer in Chennai — What I Learned the Hard Way](https://dev.to/imran_tech/2-years-as-a-net-developer-in-chennai-what-i-learned-the-hard-way-2gaf)
-- [Building a 2D Physics Engine From Scratch: SAT Collision Detection in C++ and SDL2](https://dev.to/whomi928/building-a-2d-physics-engine-from-scratch-sat-collision-detection-in-c-and-sdl2-5dd)
+- [How I Built a Free Online Image &amp; PDF Processing Platform with Vue 3 + FastAPI](https://dev.to/iamuu/how-i-built-a-free-online-image-pdf-processing-platform-with-vue-3-fastapi-4p4o)
+- [How to Write a Pull Request Description with AI](https://dev.to/leveragenotes/how-to-write-a-pull-request-description-with-ai-24ma)
+- [Free AI Gateway for Developers: A Game Changer for Coding Productivity](https://dev.to/frank_signorini/free-ai-gateway-for-developers-a-game-changer-for-coding-productivity-51i)
+- [Learn PHP with Claude in 2026: build real skills, not AI dependency](https://dev.to/ohugonnot/learn-php-with-claude-in-2026-build-real-skills-not-ai-dependency-1c81)
 <!-- BLOG-POST-LIST:END -->
 
 
