@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AGENTS.md in a monorepo: nested files and precedence](https://dev.to/promptmaster/agentsmd-in-a-monorepo-nested-files-and-precedence-1b7d)
-- [Google released Nano Banana 2 Lite](https://dev.to/alexgetmancom/google-released-nano-banana-2-lite-43l0)
-- [One AGENTS.md, every tool: the Claude Code symlink pattern](https://dev.to/promptmaster/one-agentsmd-every-tool-the-claude-code-symlink-pattern-n8l)
-- [Zero-downtime deploys and one-click rollback for self-hosted apps — no Kubernetes](https://dev.to/huangchengsir/zero-downtime-deploys-and-one-click-rollback-for-self-hosted-apps-no-kubernetes-1em0)
+- [Acronyms and Jargon in Development and Open Source](https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9)
+- [A Classic Efficiency Trick Just Moved Into a New Part of the AI](https://dev.to/breachprotocol/a-classic-efficiency-trick-just-moved-into-a-new-part-of-the-ai-2nlo)
+- [I built a browser-based Markdown Previewer with KaTeX, Mermaid and PDF export](https://dev.to/akshit_shekhawat/i-built-a-browser-based-markdown-previewer-with-katex-mermaid-and-pdf-export-3dhp)
+- [It took almost a year to create a React component for the famous Liquid Glass... but it has flaws.](https://dev.to/lucas_lopes_e0bf62a3486da/it-took-almost-a-year-to-create-a-react-component-for-the-famous-liquid-glass-but-it-has-flaws-2jgc)
 <!-- BLOG-POST-LIST:END -->
 
 
