@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Acronyms and Jargon in Development and Open Source](https://dev.to/thomasbnt/acronyms-and-jargon-in-development-and-open-source-45m9)
-- [A Classic Efficiency Trick Just Moved Into a New Part of the AI](https://dev.to/breachprotocol/a-classic-efficiency-trick-just-moved-into-a-new-part-of-the-ai-2nlo)
-- [I built a browser-based Markdown Previewer with KaTeX, Mermaid and PDF export](https://dev.to/akshit_shekhawat/i-built-a-browser-based-markdown-previewer-with-katex-mermaid-and-pdf-export-3dhp)
-- [It took almost a year to create a React component for the famous Liquid Glass... but it has flaws.](https://dev.to/lucas_lopes_e0bf62a3486da/it-took-almost-a-year-to-create-a-react-component-for-the-famous-liquid-glass-but-it-has-flaws-2jgc)
+- [# MCP and A2A in Agentic BFSI Systems: The Complete Implementation Guide](https://dev.to/nikhil_ramank_152ca48266/-mcp-and-a2a-in-agentic-bfsi-systems-the-complete-implementation-guide-1egp)
+- [Z Function](https://dev.to/jaspreet_singh_86ae1740ac/z-function-1f5a)
+- [An AI agent design that refuses to act on what it merely assumes](https://dev.to/breachprotocol/an-ai-agent-design-that-refuses-to-act-on-what-it-merely-assumes-haa)
+- [Strict Types Won&#39;t Fix Your Lack of Understanding](https://dev.to/psypher1/strict-types-wont-fix-your-lack-of-understanding-533h)
 <!-- BLOG-POST-LIST:END -->
 
 
