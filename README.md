@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Markdown File That Beat a $50M Vector Database: Separating Storage and Search in Agent Memory](https://dev.to/codingsimba/the-markdown-file-that-beat-a-50m-vector-database-separating-storage-and-search-in-agent-memory-3d14)
-- [Keeping Your Mac Dev Environment From Rotting](https://dev.to/sonupreetam/keeping-your-mac-dev-environment-from-rotting-43ah)
-- [Suddenly, downloadable AI models look like an insurance policy](https://dev.to/breachprotocol/suddenly-downloadable-ai-models-look-like-an-insurance-policy-1f2o)
-- [How I Built a Real-Time Multiplayer Prediction Game with Next.js, Node, and BigInt Suffix Scaling](https://dev.to/alexdegerman/how-i-built-a-real-time-multiplayer-prediction-game-with-nextjs-node-and-bigint-suffix-scaling-2pa3)
+- [Search Every SEC Filing by Keyword With the Keyless EDGAR Full Text API](https://dev.to/scrapemint/search-every-sec-filing-by-keyword-with-the-keyless-edgar-full-text-api-1j22)
+- [How to split 10GB JSON files in seconds without hitting RAM limits](https://dev.to/ihar_ivanuto/how-to-split-10gb-json-files-in-seconds-without-hitting-ram-limits-obk)
+- [Build software that heals itself in the agentic era](https://dev.to/bucabay/build-software-that-heals-itself-in-the-agentic-era-540p)
+- [Docker Security Dispatch — Issue 4: Miasma, Phantom Gyp, and AI Routing 🪱️](https://dev.to/docker/docker-security-dispatch-issue-4-miasma-phantom-gyp-and-ai-routing-4n6h)
 <!-- BLOG-POST-LIST:END -->
 
 
