@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The quiet race to turn messy documents into AI-ready text](https://dev.to/breachprotocol/the-quiet-race-to-turn-messy-documents-into-ai-ready-text-2h5k)
-- [The Most Dangerous Code in Your Repo Is the Behavior Nobody Can Prove](https://dev.to/shakargy/the-most-dangerous-code-in-your-repo-is-the-behavior-nobody-can-prove-98j)
-- [An AI wrote a working operating-system kernel from scratch in 38 minutes](https://dev.to/breachprotocol/an-ai-wrote-a-working-operating-system-kernel-from-scratch-in-38-minutes-2m2h)
-- [Stripped the best feature out of Google Antigravity and made it open source](https://dev.to/dharu_namikaze/stripped-the-best-feature-out-of-google-antigravity-and-made-it-open-source-3oo)
+- [GitHub Trending Digest — 2026-07-02](https://dev.to/muildev/github-trending-digest-2026-07-02-2bao)
+- [Will AI Replace Developers? Here&#39;s What I Think](https://dev.to/alton_zheng_15fb4bf0d73a3/will-ai-replace-developers-heres-what-i-think-4kg)
+- [How I Built an Ultra-Fast Bilingual Dictionary Handling 293,000+ Words on the Edge](https://dev.to/naruttam/how-i-built-an-ultra-fast-bilingual-dictionary-handling-293000-words-on-the-edge-3mlb)
+- [CVE-2026-8037: Critical RCE Vulnerability in Progress Kemp LoadMaster Requires Immediate Patching](https://dev.to/kserude/cve-2026-8037-critical-rce-vulnerability-in-progress-kemp-loadmaster-requires-immediate-patching-1bgk)
 <!-- BLOG-POST-LIST:END -->
 
 
