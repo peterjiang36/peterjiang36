@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Logic-Graph Verification System](https://dev.to/ryo_suwito/logic-graph-verification-system-1n63)
-- [EAA w polskim e-commerce: Dlaczego „div-soup” to teraz ryzyko biznesowe i jak semantyka HTML ratuje Twój budżet](https://dev.to/piotr_wisniewski/eaa-w-polskim-e-commerce-dlaczego-div-soup-to-teraz-ryzyko-biznesowe-i-jak-semantyka-html-ratuje-4o4l)
-- [Google SRE Review - Cheat Sheet](https://dev.to/limacon23/google-sre-review-cheat-sheet-2hih)
-- [Apple shipped an official Safari MCP. I read all 17 tools — here&#39;s why I&#39;m keeping mine.](https://dev.to/achiya-automation/apple-shipped-an-official-safari-mcp-i-read-all-17-tools-heres-why-im-keeping-mine-32l3)
+- [High-Frequency Trading: Like a Boss in Dark Souls](https://dev.to/timevolt/high-frequency-trading-like-a-boss-in-dark-souls-1ol1)
+- [Fable 5 Changed What I Expect From an AI Agent. So I Built ClawBase Premium Around It.](https://dev.to/clawbase/fable-5-changed-what-i-expect-from-an-ai-agent-so-i-built-clawbase-premium-around-it-2oba)
+- [Shipping Reusable Env Schemas](https://dev.to/ctrotech/shipping-reusable-env-schemas-5dj5)
+- [Securing the code that decides who Entra trusts: a Function App and a Logic App, end to end](https://dev.to/astaykov/securing-the-code-that-decides-who-entra-trusts-a-function-app-and-a-logic-app-end-to-end-1bi0)
 <!-- BLOG-POST-LIST:END -->
 
 
