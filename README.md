@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Symfony: Validating &amp; Secure your API Requests](https://dev.to/johndivam/symfony-validating-secure-your-api-requests-45i8)
-- [Your AI agent just took an action in production. Can you answer five questions about it?](https://dev.to/sirinivask/your-ai-agent-just-took-an-action-in-production-can-you-answer-five-questions-about-it-17dp)
-- [I built a no-code portfolio builder so devs can skip the weekend Next.js build](https://dev.to/oasadiq/i-built-a-no-code-portfolio-builder-so-devs-can-skip-the-weekend-nextjs-build-4092)
-- [Freelance Proposal Strategy: How to Write Winning Proposals That Actually Get Replies in 2026](https://dev.to/alcora-marketplace/i-tried-scaling-freelance-work-with-ai-automation-and-heres-what-actually-changed-jdj)
+- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h)
+- [I built a production risk scanner in one day, here&#39;s what it caught](https://dev.to/mk_c/i-built-a-production-risk-scanner-in-one-day-heres-what-it-caught-1ad1)
+- [You Are Wasting Too Many Tokens on Claude](https://dev.to/imamabubakar/you-are-wasting-too-many-tokens-on-claude-1nk2)
+- [Claude Fable 5 Feels Different. But Should Developers Trust It?](https://dev.to/jenueldev/claude-fable-5-feels-different-but-should-developers-trust-it-36dp)
 <!-- BLOG-POST-LIST:END -->
 
 
