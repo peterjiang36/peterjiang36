@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Sitemap Bug That Blocked Google From Indexing My Sites](https://dev.to/gavinbuilds/the-silent-sitemap-bug-that-blocked-google-from-indexing-my-sites-3lhi)
-- [AI-Powered IDEs Face Critical Prompt Injection Risks](https://dev.to/davekurian/ai-powered-ides-face-critical-prompt-injection-risks-4a97)
-- [Operations Blueprint: a plan and a starter repo for the small manufacturers software forgot](https://dev.to/damian_kao/operations-blueprint-a-plan-and-a-starter-repo-for-the-small-manufacturers-software-forgot-54ed)
-- [Writing a JSON Parser in Javascript](https://dev.to/kaizengrowth/writing-a-json-parser-in-javascript-4jk1)
+- [Logic-Graph Verification System](https://dev.to/ryo_suwito/logic-graph-verification-system-1n63)
+- [EAA w polskim e-commerce: Dlaczego „div-soup” to teraz ryzyko biznesowe i jak semantyka HTML ratuje Twój budżet](https://dev.to/piotr_wisniewski/eaa-w-polskim-e-commerce-dlaczego-div-soup-to-teraz-ryzyko-biznesowe-i-jak-semantyka-html-ratuje-4o4l)
+- [Google SRE Review - Cheat Sheet](https://dev.to/limacon23/google-sre-review-cheat-sheet-2hih)
+- [Apple shipped an official Safari MCP. I read all 17 tools — here&#39;s why I&#39;m keeping mine.](https://dev.to/achiya-automation/apple-shipped-an-official-safari-mcp-i-read-all-17-tools-heres-why-im-keeping-mine-32l3)
 <!-- BLOG-POST-LIST:END -->
 
 
