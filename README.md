@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Unplanned Work &lpar;And How to Protect Your Sprint&rpar;](https://dev.to/muhammad_azhar_3826652565/the-hidden-cost-of-unplanned-work-and-how-to-protect-your-sprint-3fge)
-- [How I Built an n8n Scraper That Saved Me Hours Every Week](https://dev.to/informertech/how-i-built-an-n8n-scraper-that-saved-me-hours-every-week-56d8)
-- [Every Requirement Gets a Verdict. I Had Been Reviewing Without One.](https://dev.to/jeelvankhede/every-requirement-gets-a-verdict-i-had-been-reviewing-without-one-5dgi)
-- [Can FlutterFlow Build a Better Dev.to App?](https://dev.to/konark_13/can-flutterflow-build-a-better-devto-app-45g6)
+- [Symfony: Validating &amp; Secure your API Requests](https://dev.to/johndivam/symfony-validating-secure-your-api-requests-45i8)
+- [Your AI agent just took an action in production. Can you answer five questions about it?](https://dev.to/sirinivask/your-ai-agent-just-took-an-action-in-production-can-you-answer-five-questions-about-it-17dp)
+- [I built a no-code portfolio builder so devs can skip the weekend Next.js build](https://dev.to/oasadiq/i-built-a-no-code-portfolio-builder-so-devs-can-skip-the-weekend-nextjs-build-4092)
+- [Freelance Proposal Strategy: How to Write Winning Proposals That Actually Get Replies in 2026](https://dev.to/alcora-marketplace/i-tried-scaling-freelance-work-with-ai-automation-and-heres-what-actually-changed-jdj)
 <!-- BLOG-POST-LIST:END -->
 
 
