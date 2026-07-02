@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs amplify whatever architecture you bring them. Including none.](https://dev.to/arthurpro/llms-amplify-whatever-architecture-you-bring-them-including-none-1l6b)
-- [Migrating a SQLite Schema in Production Without Locking Writers](https://dev.to/helperx/migrating-a-sqlite-schema-in-production-without-locking-writers-15o1)
-- [You&#39;re Writing Paper Commands Wrong](https://dev.to/eande171/youre-writing-paper-commands-wrong-2o8i)
-- [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico)
+- [The Hidden Cost of Unplanned Work &lpar;And How to Protect Your Sprint&rpar;](https://dev.to/muhammad_azhar_3826652565/the-hidden-cost-of-unplanned-work-and-how-to-protect-your-sprint-3fge)
+- [How I Built an n8n Scraper That Saved Me Hours Every Week](https://dev.to/informertech/how-i-built-an-n8n-scraper-that-saved-me-hours-every-week-56d8)
+- [Every Requirement Gets a Verdict. I Had Been Reviewing Without One.](https://dev.to/jeelvankhede/every-requirement-gets-a-verdict-i-had-been-reviewing-without-one-5dgi)
+- [Can FlutterFlow Build a Better Dev.to App?](https://dev.to/konark_13/can-flutterflow-build-a-better-devto-app-45g6)
 <!-- BLOG-POST-LIST:END -->
 
 
