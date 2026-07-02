@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Frequency Trading: Like a Boss in Dark Souls](https://dev.to/timevolt/high-frequency-trading-like-a-boss-in-dark-souls-1ol1)
-- [Fable 5 Changed What I Expect From an AI Agent. So I Built ClawBase Premium Around It.](https://dev.to/clawbase/fable-5-changed-what-i-expect-from-an-ai-agent-so-i-built-clawbase-premium-around-it-2oba)
-- [Shipping Reusable Env Schemas](https://dev.to/ctrotech/shipping-reusable-env-schemas-5dj5)
-- [Securing the code that decides who Entra trusts: a Function App and a Logic App, end to end](https://dev.to/astaykov/securing-the-code-that-decides-who-entra-trusts-a-function-app-and-a-logic-app-end-to-end-1bi0)
+- [Imposter Game: A Browser-Based Social Deduction Party Game](https://dev.to/fei_yun_991beceab8cb0ce4b/imposter-game-a-browser-based-social-deduction-party-game-36im)
+- [Building Apps with a Conscience: A Developer&#39;s Reflection](https://dev.to/scot_gardner_7fd0617670bb/building-apps-with-a-conscience-a-developers-reflection-3h7l)
+- [Claude won&#39;t kill junior engineering jobs](https://dev.to/alextongme/claude-wont-kill-junior-engineering-jobs-3606)
+- [Stop Writing Cron Jobs. Use a systemd Timer.](https://dev.to/arthurpro/stop-writing-cron-jobs-use-a-systemd-timer-384j)
 <!-- BLOG-POST-LIST:END -->
 
 
