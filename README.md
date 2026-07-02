@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Imposter Game: A Browser-Based Social Deduction Party Game](https://dev.to/fei_yun_991beceab8cb0ce4b/imposter-game-a-browser-based-social-deduction-party-game-36im)
-- [Building Apps with a Conscience: A Developer&#39;s Reflection](https://dev.to/scot_gardner_7fd0617670bb/building-apps-with-a-conscience-a-developers-reflection-3h7l)
-- [Claude won&#39;t kill junior engineering jobs](https://dev.to/alextongme/claude-wont-kill-junior-engineering-jobs-3606)
-- [Stop Writing Cron Jobs. Use a systemd Timer.](https://dev.to/arthurpro/stop-writing-cron-jobs-use-a-systemd-timer-384j)
+- [LLMs amplify whatever architecture you bring them. Including none.](https://dev.to/arthurpro/llms-amplify-whatever-architecture-you-bring-them-including-none-1l6b)
+- [Migrating a SQLite Schema in Production Without Locking Writers](https://dev.to/helperx/migrating-a-sqlite-schema-in-production-without-locking-writers-15o1)
+- [You&#39;re Writing Paper Commands Wrong](https://dev.to/eande171/youre-writing-paper-commands-wrong-2o8i)
+- [Let Us Be Free](https://dev.to/dailycontext/let-us-be-free-2ico)
 <!-- BLOG-POST-LIST:END -->
 
 
