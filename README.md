@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Will your codebase fit in the context window? How to measure it &lpar;and trim to fit&rpar;](https://dev.to/cu_thinvreview_b2/will-your-codebase-fit-in-the-context-window-how-to-measure-it-and-trim-to-fit-5bn8)
-- [Just another set up guide for a 4GB ram potato](https://dev.to/obvaiguy69420/just-another-set-up-guide-for-a-4gb-ram-potato-k5f)
-- [29. Authentication and Security – Handling Credentials &amp; Designing a Secure Login](https://dev.to/avery_/29-authentication-and-security-handling-credentials-designing-a-secure-login-4a0e)
-- [Linux Screen Recording: A C++ GUI or 26 Lines of Bash?](https://dev.to/tekk73/linux-screen-recording-a-c-gui-or-26-lines-of-bash-10ka)
+- [Send shipment updates from a logistics email agent](https://dev.to/mqasimca/send-shipment-updates-from-a-logistics-email-agent-41aa)
+- [Cursor Was Using 50GB of Memory - The Cause Was a Nested `.cursor` Folder](https://dev.to/ttibbs/cursor-was-using-50gb-of-memory-the-cause-was-a-nested-cursor-folder-275o)
+- [We&#39;re building AI-native developer infrastructure, in public](https://dev.to/developerzai/were-building-ai-native-developer-infrastructure-in-public-5dke)
+- [ML Mindset](https://dev.to/venu_varma/ml-mindset-hl)
 <!-- BLOG-POST-LIST:END -->
 
 
