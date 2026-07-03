@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Congrats to the GitHub Finish-Up-A-Thon Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h)
-- [I built a production risk scanner in one day, here&#39;s what it caught](https://dev.to/mk_c/i-built-a-production-risk-scanner-in-one-day-heres-what-it-caught-1ad1)
-- [You Are Wasting Too Many Tokens on Claude](https://dev.to/imamabubakar/you-are-wasting-too-many-tokens-on-claude-1nk2)
-- [Claude Fable 5 Feels Different. But Should Developers Trust It?](https://dev.to/jenueldev/claude-fable-5-feels-different-but-should-developers-trust-it-36dp)
+- [We Nearly Published &#39;140+ GitHub Stars.&#39; The Real Number Was 5. Here&#39;s How We Caught It.](https://dev.to/zwiserfit/we-nearly-published-140-github-stars-the-real-number-was-5-heres-how-we-caught-it-fde)
+- [7 Days, 0 Stars — The Honest Open Source Launch Diary](https://dev.to/zwiserfit/7-days-0-stars-the-honest-open-source-launch-diary-3p92)
+- [The Unit of Work Boundary in PHP: One Transaction Per Use Case](https://dev.to/gabrielanhaia/the-unit-of-work-boundary-in-php-one-transaction-per-use-case-32e0)
+- [9 AI Agents, 2 CPU Cores, One Gym: The 3-Layer Architecture](https://dev.to/zwiserfit/9-ai-agents-2-cpu-cores-one-gym-the-3-layer-architecture-177a)
 <!-- BLOG-POST-LIST:END -->
 
 
