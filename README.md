@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Object References vs. C Pointers: Clarifying Memory Address and Copying Differences](https://dev.to/pavkode/javascript-object-references-vs-c-pointers-clarifying-memory-address-and-copying-differences-26mm)
-- [Your AI Agent Is Leaking Data Right Now — And Every Tool Call Looks Safe](https://dev.to/msabhishek0820prog/your-ai-agent-is-leaking-data-right-now-and-every-tool-call-looks-safe-44de)
-- [Frontend Development in 2026: What Skills Are Becoming Obsolete?](https://dev.to/uiuxsatyam/frontend-development-in-2026-what-skills-are-becoming-obsolete-2b25)
-- [Running Local AI Models in .NET with Ollama &lpar;Step-by-Step Guide&rpar;](https://dev.to/codexlancers/building-ai-powered-net-applications-without-learning-python-2m3o)
+- [Your React Native build is done. Now your whole team can test it in the browser.](https://dev.to/joduchan/your-react-native-build-is-done-now-your-whole-team-can-test-it-in-the-browser-1jpo)
+- [The MCP server that provisions a full backend your AI agent can deploy, and you can walk away](https://dev.to/oscdev/the-mcp-server-that-provisions-a-full-backend-your-ai-agent-can-deploy-and-you-can-walk-away-1pba)
+- [[Boost]](https://dev.to/anthonymax/-2m9l)
+- [Fix: Load Memory Sidecar Modules from Runtime Scripts](https://dev.to/mage0535/fix-load-memory-sidecar-modules-from-runtime-scripts-10ne)
 <!-- BLOG-POST-LIST:END -->
 
 
