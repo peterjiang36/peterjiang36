@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Send shipment updates from a logistics email agent](https://dev.to/mqasimca/send-shipment-updates-from-a-logistics-email-agent-41aa)
-- [Cursor Was Using 50GB of Memory - The Cause Was a Nested `.cursor` Folder](https://dev.to/ttibbs/cursor-was-using-50gb-of-memory-the-cause-was-a-nested-cursor-folder-275o)
-- [We&#39;re building AI-native developer infrastructure, in public](https://dev.to/developerzai/were-building-ai-native-developer-infrastructure-in-public-5dke)
-- [ML Mindset](https://dev.to/venu_varma/ml-mindset-hl)
+- [Beyond the .tflite File: Mastering High-Performance Edge AI with MediaPipe Tasks and AICore](https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e)
+- [Software Development Changed. Good Engineering Didn’t.](https://dev.to/techbarsw/software-development-changed-good-engineering-didnt-2g7)
+- [Small open-source fixes are a better signal than a big portfolio claim](https://dev.to/morganlabs/small-open-source-fixes-are-a-better-signal-than-a-big-portfolio-claim-507d)
+- [Waymap v7.2.1: Thread-Safe Results, Hardened Security, and a Dozen Bug Fixes](https://dev.to/trixsec/waymap-v721-thread-safe-results-hardened-security-and-a-dozen-bug-fixes-548a)
 <!-- BLOG-POST-LIST:END -->
 
 
