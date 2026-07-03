@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the .tflite File: Mastering High-Performance Edge AI with MediaPipe Tasks and AICore](https://dev.to/programmingcentral/beyond-the-tflite-file-mastering-high-performance-edge-ai-with-mediapipe-tasks-and-aicore-44e)
-- [Software Development Changed. Good Engineering Didn’t.](https://dev.to/techbarsw/software-development-changed-good-engineering-didnt-2g7)
-- [Small open-source fixes are a better signal than a big portfolio claim](https://dev.to/morganlabs/small-open-source-fixes-are-a-better-signal-than-a-big-portfolio-claim-507d)
-- [Waymap v7.2.1: Thread-Safe Results, Hardened Security, and a Dozen Bug Fixes](https://dev.to/trixsec/waymap-v721-thread-safe-results-hardened-security-and-a-dozen-bug-fixes-548a)
+- [The dual-write problem in NestJS, solved with Drizzle: a transactional outbox + idempotent inbox](https://dev.to/rodrigobnogueira/the-dual-write-problem-in-nestjs-solved-with-drizzle-a-transactional-outbox-idempotent-inbox-462l)
+- [Not many know which part of the process needs AI!](https://dev.to/yadu989/ai-context-and-memory-management-chapter-2-3ihn)
+- [How We Vectorize 33.7M Ukrainian Court Decisions via Voyage AI](https://dev.to/overthelex/how-we-vectorize-337m-ukrainian-court-decisions-via-voyage-ai-3hlc)
+- [2 TB of Ukrainian Law + DeepSeek V3 860B on GCP: What We&#39;d Get](https://dev.to/overthelex/2-tb-of-ukrainian-law-deepseek-v3-860b-on-gcp-what-wed-get-2jj5)
 <!-- BLOG-POST-LIST:END -->
 
 
