@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Nearly Published &#39;140+ GitHub Stars.&#39; The Real Number Was 5. Here&#39;s How We Caught It.](https://dev.to/zwiserfit/we-nearly-published-140-github-stars-the-real-number-was-5-heres-how-we-caught-it-fde)
-- [7 Days, 0 Stars — The Honest Open Source Launch Diary](https://dev.to/zwiserfit/7-days-0-stars-the-honest-open-source-launch-diary-3p92)
-- [The Unit of Work Boundary in PHP: One Transaction Per Use Case](https://dev.to/gabrielanhaia/the-unit-of-work-boundary-in-php-one-transaction-per-use-case-32e0)
-- [9 AI Agents, 2 CPU Cores, One Gym: The 3-Layer Architecture](https://dev.to/zwiserfit/9-ai-agents-2-cpu-cores-one-gym-the-3-layer-architecture-177a)
+- [JavaScript Object References vs. C Pointers: Clarifying Memory Address and Copying Differences](https://dev.to/pavkode/javascript-object-references-vs-c-pointers-clarifying-memory-address-and-copying-differences-26mm)
+- [Your AI Agent Is Leaking Data Right Now — And Every Tool Call Looks Safe](https://dev.to/msabhishek0820prog/your-ai-agent-is-leaking-data-right-now-and-every-tool-call-looks-safe-44de)
+- [Frontend Development in 2026: What Skills Are Becoming Obsolete?](https://dev.to/uiuxsatyam/frontend-development-in-2026-what-skills-are-becoming-obsolete-2b25)
+- [Running Local AI Models in .NET with Ollama &lpar;Step-by-Step Guide&rpar;](https://dev.to/codexlancers/building-ai-powered-net-applications-without-learning-python-2m3o)
 <!-- BLOG-POST-LIST:END -->
 
 
