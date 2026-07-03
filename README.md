@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your React Native build is done. Now your whole team can test it in the browser.](https://dev.to/joduchan/your-react-native-build-is-done-now-your-whole-team-can-test-it-in-the-browser-1jpo)
-- [The MCP server that provisions a full backend your AI agent can deploy, and you can walk away](https://dev.to/oscdev/the-mcp-server-that-provisions-a-full-backend-your-ai-agent-can-deploy-and-you-can-walk-away-1pba)
-- [[Boost]](https://dev.to/anthonymax/-2m9l)
-- [Fix: Load Memory Sidecar Modules from Runtime Scripts](https://dev.to/mage0535/fix-load-memory-sidecar-modules-from-runtime-scripts-10ne)
+- [Running untrusted, AI-generated code: why we built CreateOS Sandbox on Firecracker](https://dev.to/pratikbin/running-untrusted-ai-generated-code-why-we-built-createos-sandbox-on-firecracker-dld)
+- [HTTP QUERY Method: The Missing Piece Finally Added to HTTP](https://dev.to/tharindufdo/http-query-method-the-missing-piece-finally-added-to-http-5c6a)
+- [Something I wish someone had told me five years earlier:](https://dev.to/neeraja_khanapure_4a33a5f/something-i-wish-someone-had-told-me-five-years-earlier-3c2b)
+- [Local LLM vs Claude: Benchmarking qwen3-coder:30b as a Production Agent Backend](https://dev.to/sikamikanikobg/local-llm-vs-claude-benchmarking-qwen3-coder30b-as-a-production-agent-backend-482b)
 <!-- BLOG-POST-LIST:END -->
 
 
