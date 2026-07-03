@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Watch your grammar with AI, it may cost you — Understanding BPE Tokenizers 🍓🔡](https://dev.to/unitbuilds_cc/day-3-watch-your-grammar-with-ai-it-may-cost-you-understanding-bpe-tokenizers-54j)
-- [You Have More Power Than You Think: EU Consumer Complaints Explained](https://dev.to/wendygostudio/you-have-more-power-than-you-think-eu-consumer-complaints-explained-8c0)
-- [The 3-Second Rule of Web Performance — And How to Beat It](https://dev.to/utkarshbansal01/the-3-second-rule-of-web-performance-and-how-to-beat-it-1he1)
-- [Microsoft Azure DevOps Engineer &lpar;AZ-400&rpar;: What&#39;s Actually Tested](https://dev.to/nerdexam/microsoft-azure-devops-engineer-az-400-whats-actually-tested-53e6)
+- [Will your codebase fit in the context window? How to measure it &lpar;and trim to fit&rpar;](https://dev.to/cu_thinvreview_b2/will-your-codebase-fit-in-the-context-window-how-to-measure-it-and-trim-to-fit-5bn8)
+- [Just another set up guide for a 4GB ram potato](https://dev.to/obvaiguy69420/just-another-set-up-guide-for-a-4gb-ram-potato-k5f)
+- [29. Authentication and Security – Handling Credentials &amp; Designing a Secure Login](https://dev.to/avery_/29-authentication-and-security-handling-credentials-designing-a-secure-login-4a0e)
+- [Linux Screen Recording: A C++ GUI or 26 Lines of Bash?](https://dev.to/tekk73/linux-screen-recording-a-c-gui-or-26-lines-of-bash-10ka)
 <!-- BLOG-POST-LIST:END -->
 
 
