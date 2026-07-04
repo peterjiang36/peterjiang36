@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Calculate Quarterly Estimated Taxes When You&#39;re Newly Self-Employed &lpar;Without an Accountant&rpar;](https://dev.to/olubunminelson/how-to-calculate-quarterly-estimated-taxes-when-youre-newly-self-employed-without-an-accountant-3n45)
-- [kubernetes upgrades needed rollback more than another checklist](https://dev.to/pvgomes/kubernetes-upgrades-needed-rollback-more-than-another-checklist-52ic)
-- [Memory Sidecar v3.5.1: Operational Hardening for Agent-Agnostic Memory](https://dev.to/mage0535/memory-sidecar-v351-operational-hardening-for-agent-agnostic-memory-3a33)
-- [Mastering Local Deployment of SOTA LLMs: Jamesob’s Guide to Overcoming Resource Constraints](https://dev.to/tamizuddin/mastering-local-deployment-of-sota-llms-jamesobs-guide-to-overcoming-resource-constraints-4ldf)
+- [Scale React Teams: Micro-Frontends via Module Federation ⚡](https://dev.to/iprajapatiparesh/scale-react-teams-micro-frontends-via-module-federation-5781)
+- [Smart Node: the Self-Hosted AI Crew I&#39;ve Been Building](https://dev.to/klymentiev/smart-node-the-self-hosted-ai-crew-ive-been-building-2m0m)
+- [KENSAT: A Home-Built CubeSat Running a TinyLlama LLM in Orbit](https://dev.to/circuitrocks/kensat-a-home-built-cubesat-running-a-tinyllama-llm-in-orbit-3i59)
+- [How to Validate a Product Idea Without Writing a Single Line of Code](https://dev.to/ao_wang_c7e69eec7b4e6fd78/how-to-validate-a-product-idea-without-writing-a-single-line-of-code-5c7i)
 <!-- BLOG-POST-LIST:END -->
 
 
