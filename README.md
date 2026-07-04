@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scale React Teams: Micro-Frontends via Module Federation ⚡](https://dev.to/iprajapatiparesh/scale-react-teams-micro-frontends-via-module-federation-5781)
-- [Smart Node: the Self-Hosted AI Crew I&#39;ve Been Building](https://dev.to/klymentiev/smart-node-the-self-hosted-ai-crew-ive-been-building-2m0m)
-- [KENSAT: A Home-Built CubeSat Running a TinyLlama LLM in Orbit](https://dev.to/circuitrocks/kensat-a-home-built-cubesat-running-a-tinyllama-llm-in-orbit-3i59)
-- [How to Validate a Product Idea Without Writing a Single Line of Code](https://dev.to/ao_wang_c7e69eec7b4e6fd78/how-to-validate-a-product-idea-without-writing-a-single-line-of-code-5c7i)
+- [Claude Code vs Cursor AI: Which One Actually Earns Its Subscription in 2026?](https://dev.to/ail_akram_dcc5063c428734b/claude-code-vs-cursor-ai-which-one-actually-earns-its-subscription-in-2026-4f9i)
+- [Airflow Implicit Xcom vs Explicit Xcom](https://dev.to/abdiomari/airflow-implicit-xcom-vs-explicit-xcom-8e8)
+- [The Visible Checklist Pattern — Enforcing Multi-Step Pipeline Compliance in LLM Agents](https://dev.to/wharsojo/the-visible-checklist-pattern-enforcing-multi-step-pipeline-compliance-in-llm-agents-j30)
+- [From GitHub Repo to Live App: What Can Go Wrong](https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i)
 <!-- BLOG-POST-LIST:END -->
 
 
