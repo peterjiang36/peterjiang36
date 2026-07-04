@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The True Classification of AI](https://dev.to/claireg/the-true-classification-of-ai-3e39)
-- [Building a Browser-Based Image Resizer with Step-Down Scaling and Crop](https://dev.to/arhan_ahmad_a67ef7bd2b992/building-a-browser-based-image-resizer-with-step-down-scaling-and-crop-15ik)
-- [OpenClaw: 210K Stars in 4 Months — Local-First AI Agent Deep Dive](https://dev.to/akaranjkar08/openclaw-210k-stars-in-4-months-local-first-ai-agent-deep-dive-4982)
-- [How I Built a Free Financial Calculator for 5 Countries &lpar;and what I learned about personal finance along the way&rpar;](https://dev.to/abhishekzack91/how-i-built-a-free-financial-calculator-for-5-countries-and-what-i-learned-about-personal-finance-1p5j)
+- [Turn Any Job Description Into a Mock Interview Pack With 70 Lines of Node.js](https://dev.to/karuha/turn-any-job-description-into-a-mock-interview-pack-with-70-lines-of-nodejs-4695)
+- [Multi-Agent — Implementing the Orchestrator Worker Pattern](https://dev.to/hiroki-kameyama/multi-agent-implementing-the-orchestrator-x-worker-pattern-38gd)
+- [Hermes Memory Installer Fix: Loading Sidecar Modules from Runtime Scripts](https://dev.to/mage0535/hermes-memory-installer-fix-loading-sidecar-modules-from-runtime-scripts-1m98)
+- [Top AI Papers on Hugging Face - 2026-07-04](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-04-4lnm)
 <!-- BLOG-POST-LIST:END -->
 
 
