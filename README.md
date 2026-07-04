@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Any Job Description Into a Mock Interview Pack With 70 Lines of Node.js](https://dev.to/karuha/turn-any-job-description-into-a-mock-interview-pack-with-70-lines-of-nodejs-4695)
-- [Multi-Agent — Implementing the Orchestrator Worker Pattern](https://dev.to/hiroki-kameyama/multi-agent-implementing-the-orchestrator-x-worker-pattern-38gd)
-- [Hermes Memory Installer Fix: Loading Sidecar Modules from Runtime Scripts](https://dev.to/mage0535/hermes-memory-installer-fix-loading-sidecar-modules-from-runtime-scripts-1m98)
-- [Top AI Papers on Hugging Face - 2026-07-04](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-04-4lnm)
+- [Agentic AI Security: Risks, OWASP Agentic Top 10, and Defensive Patterns &lpar;2026&rpar;](https://dev.to/securecodinghub/agentic-ai-security-risks-owasp-agentic-top-10-and-defensive-patterns-2026-4a2a)
+- [Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD &lpar;2026&rpar;](https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm)
+- [Web Components vs. Iframes: A Hard Lesson in DOM Isolation Barriers](https://dev.to/bonzai2carn/web-components-vs-iframes-a-hard-lesson-in-dom-isolation-barriers-1icm)
+- [Open Banking for Small Businesses: A Open Banking for Small Businesses: A Practical 2026 GuidePractical 2026 Guide](https://dev.to/johnfrandsen/open-banking-for-small-businesses-a-open-banking-for-small-businesses-a-practical-2026-1ldi)
 <!-- BLOG-POST-LIST:END -->
 
 
