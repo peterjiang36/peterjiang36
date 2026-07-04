@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The dual-write problem in NestJS, solved with Drizzle: a transactional outbox + idempotent inbox](https://dev.to/rodrigobnogueira/the-dual-write-problem-in-nestjs-solved-with-drizzle-a-transactional-outbox-idempotent-inbox-462l)
-- [Not many know which part of the process needs AI!](https://dev.to/yadu989/ai-context-and-memory-management-chapter-2-3ihn)
-- [How We Vectorize 33.7M Ukrainian Court Decisions via Voyage AI](https://dev.to/overthelex/how-we-vectorize-337m-ukrainian-court-decisions-via-voyage-ai-3hlc)
-- [2 TB of Ukrainian Law + DeepSeek V3 860B on GCP: What We&#39;d Get](https://dev.to/overthelex/2-tb-of-ukrainian-law-deepseek-v3-860b-on-gcp-what-wed-get-2jj5)
+- [How to Calculate Quarterly Estimated Taxes When You&#39;re Newly Self-Employed &lpar;Without an Accountant&rpar;](https://dev.to/olubunminelson/how-to-calculate-quarterly-estimated-taxes-when-youre-newly-self-employed-without-an-accountant-3n45)
+- [kubernetes upgrades needed rollback more than another checklist](https://dev.to/pvgomes/kubernetes-upgrades-needed-rollback-more-than-another-checklist-52ic)
+- [Memory Sidecar v3.5.1: Operational Hardening for Agent-Agnostic Memory](https://dev.to/mage0535/memory-sidecar-v351-operational-hardening-for-agent-agnostic-memory-3a33)
+- [Mastering Local Deployment of SOTA LLMs: Jamesob’s Guide to Overcoming Resource Constraints](https://dev.to/tamizuddin/mastering-local-deployment-of-sota-llms-jamesobs-guide-to-overcoming-resource-constraints-4ldf)
 <!-- BLOG-POST-LIST:END -->
 
 
