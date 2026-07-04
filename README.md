@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code vs Cursor AI: Which One Actually Earns Its Subscription in 2026?](https://dev.to/ail_akram_dcc5063c428734b/claude-code-vs-cursor-ai-which-one-actually-earns-its-subscription-in-2026-4f9i)
-- [Airflow Implicit Xcom vs Explicit Xcom](https://dev.to/abdiomari/airflow-implicit-xcom-vs-explicit-xcom-8e8)
-- [The Visible Checklist Pattern — Enforcing Multi-Step Pipeline Compliance in LLM Agents](https://dev.to/wharsojo/the-visible-checklist-pattern-enforcing-multi-step-pipeline-compliance-in-llm-agents-j30)
-- [From GitHub Repo to Live App: What Can Go Wrong](https://dev.to/nikitababenko/from-github-repo-to-live-app-what-can-go-wrong-456i)
+- [The True Classification of AI](https://dev.to/claireg/the-true-classification-of-ai-3e39)
+- [Building a Browser-Based Image Resizer with Step-Down Scaling and Crop](https://dev.to/arhan_ahmad_a67ef7bd2b992/building-a-browser-based-image-resizer-with-step-down-scaling-and-crop-15ik)
+- [OpenClaw: 210K Stars in 4 Months — Local-First AI Agent Deep Dive](https://dev.to/akaranjkar08/openclaw-210k-stars-in-4-months-local-first-ai-agent-deep-dive-4982)
+- [How I Built a Free Financial Calculator for 5 Countries &lpar;and what I learned about personal finance along the way&rpar;](https://dev.to/abhishekzack91/how-i-built-a-free-financial-calculator-for-5-countries-and-what-i-learned-about-personal-finance-1p5j)
 <!-- BLOG-POST-LIST:END -->
 
 
