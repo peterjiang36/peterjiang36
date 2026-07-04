@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Security: Risks, OWASP Agentic Top 10, and Defensive Patterns &lpar;2026&rpar;](https://dev.to/securecodinghub/agentic-ai-security-risks-owasp-agentic-top-10-and-defensive-patterns-2026-4a2a)
-- [Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD &lpar;2026&rpar;](https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm)
-- [Web Components vs. Iframes: A Hard Lesson in DOM Isolation Barriers](https://dev.to/bonzai2carn/web-components-vs-iframes-a-hard-lesson-in-dom-isolation-barriers-1icm)
-- [Open Banking for Small Businesses: A Open Banking for Small Businesses: A Practical 2026 GuidePractical 2026 Guide](https://dev.to/johnfrandsen/open-banking-for-small-businesses-a-open-banking-for-small-businesses-a-practical-2026-1ldi)
+- [Stratagems #6: Alex Walked Into an AI Compliance War Room. Every Director Watched the Dashboard. He Watched the Pipeline.](https://dev.to/xulingfeng/stratagems-6-alex-walked-into-an-ai-compliance-war-room-every-director-watched-the-dashboard-he-o99)
+- [Why 88% of Agent Pilots Die: The Infrastructure Readiness Gap Nobody Talks About](https://dev.to/paultwist/why-88-of-agent-pilots-die-the-infrastructure-readiness-gap-nobody-talks-about-mnk)
+- [Structuring a Senior Data Scientist Resume After a Chinese SOE Tenure](https://dev.to/prismresume/structuring-a-senior-data-scientist-resume-after-a-chinese-soe-tenure-596j)
+- [Hey Everyone!](https://dev.to/mujnuu/hey-everyone-1g99)
 <!-- BLOG-POST-LIST:END -->
 
 
