@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stratagems #6: Alex Walked Into an AI Compliance War Room. Every Director Watched the Dashboard. He Watched the Pipeline.](https://dev.to/xulingfeng/stratagems-6-alex-walked-into-an-ai-compliance-war-room-every-director-watched-the-dashboard-he-o99)
-- [Why 88% of Agent Pilots Die: The Infrastructure Readiness Gap Nobody Talks About](https://dev.to/paultwist/why-88-of-agent-pilots-die-the-infrastructure-readiness-gap-nobody-talks-about-mnk)
-- [Structuring a Senior Data Scientist Resume After a Chinese SOE Tenure](https://dev.to/prismresume/structuring-a-senior-data-scientist-resume-after-a-chinese-soe-tenure-596j)
-- [Hey Everyone!](https://dev.to/mujnuu/hey-everyone-1g99)
+- [Why Browser Automation is Broken - and How AI Agents Change Everything](https://dev.to/kloakd/why-browser-automation-is-broken-and-how-ai-agents-change-everything-2b48)
+- [Building a B+ Tree Storage Engine &lpar;Part 1&rpar;: Why Order Stops Making Sense on Disk](https://dev.to/thopl0/building-a-b-tree-storage-engine-part-1-why-order-stops-making-sense-on-disk-59b)
+- [Transformers — The Architecture That Changed AI &lpar;Part 1 of 3&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/transformers-the-architecture-that-changed-ai-part-1-of-3-29ac)
+- [pseudoroot, fakeroost, hakoniwa... How to deal with unpriviledge packaging?](https://dev.to/luzero/pseudoroot-fakeroost-hakoniwa-how-to-deal-with-unpriviledge-packaging-h)
 <!-- BLOG-POST-LIST:END -->
 
 
