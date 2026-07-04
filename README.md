@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Browser Automation is Broken - and How AI Agents Change Everything](https://dev.to/kloakd/why-browser-automation-is-broken-and-how-ai-agents-change-everything-2b48)
-- [Building a B+ Tree Storage Engine &lpar;Part 1&rpar;: Why Order Stops Making Sense on Disk](https://dev.to/thopl0/building-a-b-tree-storage-engine-part-1-why-order-stops-making-sense-on-disk-59b)
-- [Transformers — The Architecture That Changed AI &lpar;Part 1 of 3&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/transformers-the-architecture-that-changed-ai-part-1-of-3-29ac)
-- [pseudoroot, fakeroost, hakoniwa... How to deal with unpriviledge packaging?](https://dev.to/luzero/pseudoroot-fakeroost-hakoniwa-how-to-deal-with-unpriviledge-packaging-h)
+- [Stop Guessing, Start Profiling: Mastering Edge AI Performance and Power on Android](https://dev.to/programmingcentral/stop-guessing-start-profiling-mastering-edge-ai-performance-and-power-on-android-2p4i)
+- [Wanted a quick way to find working MTProto proxies for Teleg](https://dev.to/humja_jaan_fca09049ae97d5/wanted-a-quick-way-to-find-working-mtproto-proxies-for-teleg-23le)
+- [A API pública de catálogo da VTEX &lpar;que quase ninguém usa&rpar;](https://dev.to/antonio_fernandorincond/a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa-40li)
+- [We open-sourced our security audit. Here&#39;s what we found &lpar;and fixed&rpar;.](https://dev.to/edison_flores_6d2cd381b13/we-open-sourced-our-security-audit-heres-what-we-found-and-fixed-3ne5)
 <!-- BLOG-POST-LIST:END -->
 
 
