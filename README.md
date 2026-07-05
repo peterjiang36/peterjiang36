@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js App Router Caching: What Actually Gets Cached &lpar;and What Doesn&#39;t&rpar;](https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej)
-- [Token Factory: Understanding the pipeline](https://dev.to/unitbuilds_cc/token-factory-understanding-the-pipeline-1fcg)
-- [Pub/Sub for AI Agents in Node.js](https://dev.to/timalam01/pubsub-for-ai-agents-in-nodejs-31ea)
-- [How to Generate Dummy Data for Excel Spreadsheets Using FakerForge &lpar;Free CSV Export&rpar;](https://dev.to/kwasii/how-to-generate-dummy-data-for-excel-spreadsheets-using-fakerforge-free-csv-export-a1j)
+- [Behind the Curtain: APE-QIL QUANTUM SUPREME OCTOPUS and the 3-Tier Sovereign Auth Pipeline](https://dev.to/blacknobilityenterprisellcarch/behind-the-curtain-ape-qil-quantum-supreme-octopus-and-the-3-tier-sovereign-auth-pipeline-545p)
+- [10 Website Performance Optimization Tips Every Developer Should Know](https://dev.to/hwttechy/10-website-performance-optimization-tips-every-developer-should-know-48nl)
+- [Docker vs Kubernetes: Do You Actually Need an Orchestrator Yet?](https://dev.to/jjoyneriv/docker-vs-kubernetes-do-you-actually-need-an-orchestrator-yet-57k0)
+- [From Docker Compose to Kubernetes: What Actually Changes](https://dev.to/jjoyneriv/from-docker-compose-to-kubernetes-what-actually-changes-4ga9)
 <!-- BLOG-POST-LIST:END -->
 
 
