@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Governance — EU AI Act Compliance, Risk Assessment, and Audit Logging](https://dev.to/hiroki-kameyama/ai-governance-eu-ai-act-compliance-risk-assessment-and-audit-logging-big)
-- [I Thought I Understood Containers. Then I Tried Building One.](https://dev.to/henryosei/i-thought-i-understood-containers-then-i-tried-building-one-5a80)
-- [Quieting PHP 8.2+ deprecated noise from older WP-CLI — three layers to keep JSON parse clean](https://dev.to/susumun/quieting-php-82-deprecated-noise-from-older-wp-cli-three-layers-to-keep-json-parse-clean-10e6)
-- [Identity Is the New Perimeter: Why AI Agents Break Zero Trust](https://dev.to/alifunk/identity-is-the-new-perimeter-why-ai-agents-break-zero-trust-20h)
+- [CI/CD Testing Tools Compared: the Same Pipeline in GitHub Actions, GitLab CI and Jenkins](https://dev.to/dayan_elvisjahuirapilco/cicd-testing-tools-compared-the-same-pipeline-in-github-actions-gitlab-ci-and-jenkins-53)
+- [The Safari MCP Server Could Change How Developers Debug Websites](https://dev.to/ksparth12/the-safari-mcp-server-could-change-how-developers-debug-websites-223g)
+- [Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov &lpar;IaC SAST&rpar;](https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk)
+- [Agentic Software Development Explained: A Frontend Developer&#39;s Learning Journey](https://dev.to/kalpick_sharma_d32ace423a/agentic-software-development-explained-a-frontend-developers-learning-journey-28a1)
 <!-- BLOG-POST-LIST:END -->
 
 
