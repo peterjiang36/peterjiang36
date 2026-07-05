@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Answer &#39;where&#39;s my order?&#39; emails with an agent that has its own inbox](https://dev.to/mqasimca/answer-wheres-my-order-emails-with-an-agent-that-has-its-own-inbox-51d0)
-- [At Last, I clasp: Escaping the G&#39;s Apps Script Copy-Paste Gauntlet](https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd)
-- [You hardened your origin and your CDN. Your DNS is still one provider away from going dark.](https://dev.to/blackneuron/you-hardened-your-origin-and-your-cdn-your-dns-is-still-one-provider-away-from-going-dark-3abk)
-- [Backtesting Trading Strategies: From Theory to Execution – A Quest Like in *The Matrix*](https://dev.to/timevolt/backtesting-trading-strategies-from-theory-to-execution-a-quest-like-in-the-matrix-1if2)
+- [Next.js App Router Caching: What Actually Gets Cached &lpar;and What Doesn&#39;t&rpar;](https://dev.to/mudassirworks/nextjs-app-router-caching-what-actually-gets-cached-and-what-doesnt-6ej)
+- [Token Factory: Understanding the pipeline](https://dev.to/unitbuilds_cc/token-factory-understanding-the-pipeline-1fcg)
+- [Pub/Sub for AI Agents in Node.js](https://dev.to/timalam01/pubsub-for-ai-agents-in-nodejs-31ea)
+- [How to Generate Dummy Data for Excel Spreadsheets Using FakerForge &lpar;Free CSV Export&rpar;](https://dev.to/kwasii/how-to-generate-dummy-data-for-excel-spreadsheets-using-fakerforge-free-csv-export-a1j)
 <!-- BLOG-POST-LIST:END -->
 
 
