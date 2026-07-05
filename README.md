@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments](https://dev.to/az365ai/in-preview-public-preview-azure-migrate-github-copilot-modernization-integration-for-at-scale-2dec)
-- [Your UCP agent passes conformance. It still pays the wrong amount.](https://dev.to/katyalai/your-ucp-agent-passes-conformance-it-still-pays-the-wrong-amount-f20)
-- [How to derive data classes for any API](https://dev.to/itsaalaa7/how-to-derive-data-classes-for-any-api-144o)
-- [I Built a CLI for Reusable AI-Agent Workflows](https://dev.to/1997roylee/i-built-a-cli-for-reusable-ai-agent-workflows-2j4d)
+- [Answer &#39;where&#39;s my order?&#39; emails with an agent that has its own inbox](https://dev.to/mqasimca/answer-wheres-my-order-emails-with-an-agent-that-has-its-own-inbox-51d0)
+- [At Last, I clasp: Escaping the G&#39;s Apps Script Copy-Paste Gauntlet](https://dev.to/lovestaco/at-last-i-clasp-escaping-the-gs-apps-script-copy-paste-gauntlet-23jd)
+- [You hardened your origin and your CDN. Your DNS is still one provider away from going dark.](https://dev.to/blackneuron/you-hardened-your-origin-and-your-cdn-your-dns-is-still-one-provider-away-from-going-dark-3abk)
+- [Backtesting Trading Strategies: From Theory to Execution – A Quest Like in *The Matrix*](https://dev.to/timevolt/backtesting-trading-strategies-from-theory-to-execution-a-quest-like-in-the-matrix-1if2)
 <!-- BLOG-POST-LIST:END -->
 
 
