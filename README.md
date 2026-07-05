@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The HTTP QUERY method &lpar;RFC 10008&rpar; is here — and caching it correctly is harder than it looks](https://dev.to/hardikgoel/the-http-query-method-rfc-10008-is-here-and-caching-it-correctly-is-harder-than-it-looks-2he6)
-- [SQL AI Database Solutions: Talking to Databases with Artificial Intelligence](https://dev.to/hashiravc/sql-ai-database-solutions-talking-to-databases-with-artificial-intelligence-12ec)
-- [Operant Conditioning: Rewards, Punishments, and Behavior](https://dev.to/extinctsion/operant-conditioning-rewards-punishments-and-behavior-4n89)
-- [ByteDance ค้นพบ Scaling Law ใหม่ — AI Agent ยิ่งใช้งานจริงยิ่งฉลาด](https://dev.to/sarantoon/bytedance-khnphb-scaling-law-aihm-ai-agent-yingaichngaancchringyingchlaad-3mk0)
+- [5 mistakes I made building an AI Chrome extension — and the readers who caught them](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64)
+- [How Small Businesses Lose Money From a Backend They Didn&#39;t Know Was Weak](https://dev.to/peacemelodi/how-small-businesses-lose-money-from-a-backend-they-didnt-know-was-weak-1opj)
+- [Why Every Developer Should Understand HTTP &lpar;Even If You Don&#39;t Build APIs&rpar;](https://dev.to/the_pragmatic_coder/why-every-developer-should-understand-http-even-if-you-dont-build-apis-2n92)
+- [Apprendre le CSS : la méthode qui évite la frustration &lpar;2026&rpar;](https://dev.to/ohugonnot/apprendre-le-css-la-methode-qui-evite-la-frustration-2026-1kj8)
 <!-- BLOG-POST-LIST:END -->
 
 
