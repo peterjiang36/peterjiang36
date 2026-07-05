@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a dental insurance claim verifier using Cognee&#39;s GraphRAG — with session memory](https://dev.to/rushanksavant/i-built-a-dental-insurance-claim-verifier-using-cognees-graphrag-with-session-memory-329g)
-- [Halo Is Going Multi-Agent: Splitting One Brain Into Five](https://dev.to/xenocoregiger31/halo-is-going-multi-agent-splitting-one-brain-into-five-2ae7)
-- [From Manual Deployments to Infrastructure as Code with Azure ARM Templates &lpar;Part 2&rpar;](https://dev.to/smarty_joy/from-manual-deployments-to-infrastructure-as-code-with-azure-arm-templates-part-2-2de6)
-- [Debugging Containers From the Terminal: A Practical Docker CLI Workflow](https://dev.to/jjoyneriv/debugging-containers-from-the-terminal-a-practical-docker-cli-workflow-d18)
+- [[In preview] Public Preview: Azure Migrate – GitHub Copilot Modernization integration for at scale code assessments](https://dev.to/az365ai/in-preview-public-preview-azure-migrate-github-copilot-modernization-integration-for-at-scale-2dec)
+- [Your UCP agent passes conformance. It still pays the wrong amount.](https://dev.to/katyalai/your-ucp-agent-passes-conformance-it-still-pays-the-wrong-amount-f20)
+- [How to derive data classes for any API](https://dev.to/itsaalaa7/how-to-derive-data-classes-for-any-api-144o)
+- [I Built a CLI for Reusable AI-Agent Workflows](https://dev.to/1997roylee/i-built-a-cli-for-reusable-ai-agent-workflows-2j4d)
 <!-- BLOG-POST-LIST:END -->
 
 
