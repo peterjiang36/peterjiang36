@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built trelix Because I Was Tired of Grepping My Way Through Codebases](https://dev.to/sai_ram_0000/i-built-trelix-because-i-was-tired-of-grepping-my-way-through-codebases-1f3b)
-- [Beta and Production Builds in Expo - Fully Local, No EAS Required](https://dev.to/vanenshi/beta-and-production-builds-in-expo-fully-local-no-eas-required-3mo5)
-- [Why I built MediaShed](https://dev.to/sriharshagangisetty/why-i-built-mediashed-jd6)
-- [Node.js Email Verification Tests with PostgreSQL](https://dev.to/kevindev27/nodejs-email-verification-tests-with-postgresql-3p7m)
+- [I built a dental insurance claim verifier using Cognee&#39;s GraphRAG — with session memory](https://dev.to/rushanksavant/i-built-a-dental-insurance-claim-verifier-using-cognees-graphrag-with-session-memory-329g)
+- [Halo Is Going Multi-Agent: Splitting One Brain Into Five](https://dev.to/xenocoregiger31/halo-is-going-multi-agent-splitting-one-brain-into-five-2ae7)
+- [From Manual Deployments to Infrastructure as Code with Azure ARM Templates &lpar;Part 2&rpar;](https://dev.to/smarty_joy/from-manual-deployments-to-infrastructure-as-code-with-azure-arm-templates-part-2-2de6)
+- [Debugging Containers From the Terminal: A Practical Docker CLI Workflow](https://dev.to/jjoyneriv/debugging-containers-from-the-terminal-a-practical-docker-cli-workflow-d18)
 <!-- BLOG-POST-LIST:END -->
 
 
