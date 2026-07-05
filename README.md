@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 mistakes I made building an AI Chrome extension — and the readers who caught them](https://dev.to/projekta2/i-built-a-chrome-extension-used-daily-for-pr-review-5-decisions-id-make-differently-4o64)
-- [How Small Businesses Lose Money From a Backend They Didn&#39;t Know Was Weak](https://dev.to/peacemelodi/how-small-businesses-lose-money-from-a-backend-they-didnt-know-was-weak-1opj)
-- [Why Every Developer Should Understand HTTP &lpar;Even If You Don&#39;t Build APIs&rpar;](https://dev.to/the_pragmatic_coder/why-every-developer-should-understand-http-even-if-you-dont-build-apis-2n92)
-- [Apprendre le CSS : la méthode qui évite la frustration &lpar;2026&rpar;](https://dev.to/ohugonnot/apprendre-le-css-la-methode-qui-evite-la-frustration-2026-1kj8)
+- [I Built trelix Because I Was Tired of Grepping My Way Through Codebases](https://dev.to/sai_ram_0000/i-built-trelix-because-i-was-tired-of-grepping-my-way-through-codebases-1f3b)
+- [Beta and Production Builds in Expo - Fully Local, No EAS Required](https://dev.to/vanenshi/beta-and-production-builds-in-expo-fully-local-no-eas-required-3mo5)
+- [Why I built MediaShed](https://dev.to/sriharshagangisetty/why-i-built-mediashed-jd6)
+- [Node.js Email Verification Tests with PostgreSQL](https://dev.to/kevindev27/nodejs-email-verification-tests-with-postgresql-3p7m)
 <!-- BLOG-POST-LIST:END -->
 
 
