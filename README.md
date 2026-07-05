@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Behind the Curtain: APE-QIL QUANTUM SUPREME OCTOPUS and the 3-Tier Sovereign Auth Pipeline](https://dev.to/blacknobilityenterprisellcarch/behind-the-curtain-ape-qil-quantum-supreme-octopus-and-the-3-tier-sovereign-auth-pipeline-545p)
-- [10 Website Performance Optimization Tips Every Developer Should Know](https://dev.to/hwttechy/10-website-performance-optimization-tips-every-developer-should-know-48nl)
-- [Docker vs Kubernetes: Do You Actually Need an Orchestrator Yet?](https://dev.to/jjoyneriv/docker-vs-kubernetes-do-you-actually-need-an-orchestrator-yet-57k0)
-- [From Docker Compose to Kubernetes: What Actually Changes](https://dev.to/jjoyneriv/from-docker-compose-to-kubernetes-what-actually-changes-4ga9)
+- [How we built Dirora — an e-commerce platform that puts the add-ons back in the box](https://dev.to/dirora/how-we-built-dirora-an-e-commerce-platform-that-puts-the-add-ons-back-in-the-box-5j3)
+- [EKS Security Deep Dive: IRSA vs. EKS Pod Identity](https://dev.to/himaatluri/eks-security-deep-dive-irsa-vs-eks-pod-identity-4562)
+- [built a self-deploying DNS Firewall Appliance for ISPs &lpar;ISO + 3D Dashboard&rpar;](https://dev.to/devair_fernandes_0051b209/built-a-self-deploying-dns-firewall-appliance-for-isps-iso-3d-dashboard-3b36)
+- [The day my GitHub token stopped being mine](https://dev.to/codedibia/the-day-my-github-token-stopped-being-mine-ga0)
 <!-- BLOG-POST-LIST:END -->
 
 
