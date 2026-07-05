@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Testing Tools Compared: the Same Pipeline in GitHub Actions, GitLab CI and Jenkins](https://dev.to/dayan_elvisjahuirapilco/cicd-testing-tools-compared-the-same-pipeline-in-github-actions-gitlab-ci-and-jenkins-53)
-- [The Safari MCP Server Could Change How Developers Debug Websites](https://dev.to/ksparth12/the-safari-mcp-server-could-change-how-developers-debug-websites-223g)
-- [Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov &lpar;IaC SAST&rpar;](https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk)
-- [Agentic Software Development Explained: A Frontend Developer&#39;s Learning Journey](https://dev.to/kalpick_sharma_d32ace423a/agentic-software-development-explained-a-frontend-developers-learning-journey-28a1)
+- [The HTTP QUERY method &lpar;RFC 10008&rpar; is here — and caching it correctly is harder than it looks](https://dev.to/hardikgoel/the-http-query-method-rfc-10008-is-here-and-caching-it-correctly-is-harder-than-it-looks-2he6)
+- [SQL AI Database Solutions: Talking to Databases with Artificial Intelligence](https://dev.to/hashiravc/sql-ai-database-solutions-talking-to-databases-with-artificial-intelligence-12ec)
+- [Operant Conditioning: Rewards, Punishments, and Behavior](https://dev.to/extinctsion/operant-conditioning-rewards-punishments-and-behavior-4n89)
+- [ByteDance ค้นพบ Scaling Law ใหม่ — AI Agent ยิ่งใช้งานจริงยิ่งฉลาด](https://dev.to/sarantoon/bytedance-khnphb-scaling-law-aihm-ai-agent-yingaichngaancchringyingchlaad-3mk0)
 <!-- BLOG-POST-LIST:END -->
 
 
