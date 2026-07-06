@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Synapse: a deterministic-first, open-source SCA and evidence platform](https://dev.to/nghiadaulau/introducing-synapse-a-deterministic-first-open-source-sca-and-evidence-platform-1k0i)
-- [JSON, YAML, CSV, and TOML: When to Use Each Data Format](https://dev.to/bitran/json-yaml-csv-and-toml-when-to-use-each-data-format-368e)
-- [Rebuilding my C Redis clone in Rust taught me more Rust than any tutorial](https://dev.to/valentynkit/rebuilding-my-c-redis-clone-in-rust-taught-me-more-rust-than-any-tutorial-3mpg)
-- [Hard Object References: Stable Object References for Mutable Application State](https://dev.to/alexander-nenashev/hard-object-references-stable-object-references-for-mutable-application-state-6el)
+- [Your ChatGPT Traffic Is Hiding in &#39;Direct&#39; — How to Track AI Search Referrals in Magento 2](https://dev.to/angeo/your-chatgpt-traffic-is-hiding-in-direct-how-to-track-ai-search-referrals-in-magento-2-54eg)
+- [Hermes — AI-assisted repairs for broken WooCommerce stores](https://dev.to/adam_kostka_e82133b705d11/hermes-ai-assisted-repairs-for-broken-woocommerce-stores-27ij)
+- [I wanted a better way to code with ChatGPT, so I built SVI](https://dev.to/raaleksandr/i-wanted-a-better-way-to-code-with-chatgpt-so-i-built-svi-4aah)
+- [Why Event-Driven Architecture Isn’t About Speed &lpar;and When You Actually Need It&rpar;](https://dev.to/alialp/why-event-driven-architecture-isnt-about-speed-and-when-you-actually-need-it-2pol)
 <!-- BLOG-POST-LIST:END -->
 
 
