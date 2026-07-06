@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Rust Guide] 13.7. Using Closures to Capture the Environment With Iterators](https://dev.to/someb1oody/rust-guide-137-using-closures-to-capture-the-environment-with-iterators-1ia9)
-- [3 Free AI Tools I Use to Save Hours Every Week](https://dev.to/hari_haran_144973263df174/3-free-ai-tools-i-use-to-save-hours-every-week-kn6)
-- [🤖 How I Used AI to Build and Deploy My First Website — 6 Exact Prompts That Worked](https://dev.to/_b70278078078f44982f07/how-i-used-ai-to-build-and-deploy-my-first-website-6-exact-prompts-that-worked-1mcn)
-- [I&#39;ve Been Trying to Write AI Video Prompts for Months. They All Sucked Until I Found a Formula.](https://dev.to/zackzhang/ive-been-trying-to-write-ai-video-prompts-for-months-they-all-sucked-until-i-found-a-formula-4c54)
+- [Stop Prop Drilling: Architecting React Context ⚡](https://dev.to/iprajapatiparesh/stop-prop-drilling-architecting-react-context-mjg)
+- [Grounding and citations: making LLM answers you can actually verify](https://dev.to/dev48v/grounding-and-citations-making-llm-answers-you-can-actually-verify-255i)
+- [GRU: the streamlined LSTM with just two gates](https://dev.to/dev48v/gru-the-streamlined-lstm-with-just-two-gates-411a)
+- [Flipper Zero&#39;s Future: What&#39;s Coming Next in 2026](https://dev.to/onsen/flipper-zeros-future-whats-coming-next-in-2026-cne)
 <!-- BLOG-POST-LIST:END -->
 
 
