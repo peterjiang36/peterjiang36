@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does the Model Really Need to Stream JSON?](https://dev.to/miinhho/does-the-model-really-need-to-stream-json-1ilk)
-- [Payment Systems Architecture — From Laravel Integrator to Staff-Level Architect](https://dev.to/ali_algmass/payment-systems-architecture-from-laravel-integrator-to-staff-level-architect-hgl)
-- [Container Security for SREs: The Practical Checklist](https://dev.to/samson_tanimawo/container-security-for-sres-the-practical-checklist-5hm3)
-- [How to Test Slack Webhooks Locally](https://dev.to/anonymilyhq/how-to-test-slack-webhooks-locally-3pj1)
+- [Orasort Patent Expiration Boosts Open-Source Databases and Cloud Services with 5x Faster Sorting](https://dev.to/kornilovconstru/orasort-patent-expiration-boosts-open-source-databases-and-cloud-services-with-5x-faster-sorting-1pdl)
+- [Building Quorra: An Android Decision-Intelligence Platform That Actually Explains Itself](https://dev.to/alfinohatta/building-quorra-an-android-decision-intelligence-platform-that-actually-explains-itself-1m12)
+- [Balanced Binary Tree](https://dev.to/jaspreet_singh_86ae1740ac/balanced-binary-tree-43f4)
+- [Run your docker-compose.yml on Apple&#39;s container runtime](https://dev.to/suruseas/run-your-docker-composeyml-on-apples-container-runtime-10o3)
 <!-- BLOG-POST-LIST:END -->
 
 
