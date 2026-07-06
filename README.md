@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Prop Drilling: Architecting React Context ⚡](https://dev.to/iprajapatiparesh/stop-prop-drilling-architecting-react-context-mjg)
-- [Grounding and citations: making LLM answers you can actually verify](https://dev.to/dev48v/grounding-and-citations-making-llm-answers-you-can-actually-verify-255i)
-- [GRU: the streamlined LSTM with just two gates](https://dev.to/dev48v/gru-the-streamlined-lstm-with-just-two-gates-411a)
-- [Flipper Zero&#39;s Future: What&#39;s Coming Next in 2026](https://dev.to/onsen/flipper-zeros-future-whats-coming-next-in-2026-cne)
+- [Does the Model Really Need to Stream JSON?](https://dev.to/miinhho/does-the-model-really-need-to-stream-json-1ilk)
+- [Payment Systems Architecture — From Laravel Integrator to Staff-Level Architect](https://dev.to/ali_algmass/payment-systems-architecture-from-laravel-integrator-to-staff-level-architect-hgl)
+- [Container Security for SREs: The Practical Checklist](https://dev.to/samson_tanimawo/container-security-for-sres-the-practical-checklist-5hm3)
+- [How to Test Slack Webhooks Locally](https://dev.to/anonymilyhq/how-to-test-slack-webhooks-locally-3pj1)
 <!-- BLOG-POST-LIST:END -->
 
 
