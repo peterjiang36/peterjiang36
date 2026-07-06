@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How we built Dirora — an e-commerce platform that puts the add-ons back in the box](https://dev.to/dirora/how-we-built-dirora-an-e-commerce-platform-that-puts-the-add-ons-back-in-the-box-5j3)
-- [EKS Security Deep Dive: IRSA vs. EKS Pod Identity](https://dev.to/himaatluri/eks-security-deep-dive-irsa-vs-eks-pod-identity-4562)
-- [built a self-deploying DNS Firewall Appliance for ISPs &lpar;ISO + 3D Dashboard&rpar;](https://dev.to/devair_fernandes_0051b209/built-a-self-deploying-dns-firewall-appliance-for-isps-iso-3d-dashboard-3b36)
-- [The day my GitHub token stopped being mine](https://dev.to/codedibia/the-day-my-github-token-stopped-being-mine-ga0)
+- [[Rust Guide] 13.7. Using Closures to Capture the Environment With Iterators](https://dev.to/someb1oody/rust-guide-137-using-closures-to-capture-the-environment-with-iterators-1ia9)
+- [3 Free AI Tools I Use to Save Hours Every Week](https://dev.to/hari_haran_144973263df174/3-free-ai-tools-i-use-to-save-hours-every-week-kn6)
+- [🤖 How I Used AI to Build and Deploy My First Website — 6 Exact Prompts That Worked](https://dev.to/_b70278078078f44982f07/how-i-used-ai-to-build-and-deploy-my-first-website-6-exact-prompts-that-worked-1mcn)
+- [I&#39;ve Been Trying to Write AI Video Prompts for Months. They All Sucked Until I Found a Formula.](https://dev.to/zackzhang/ive-been-trying-to-write-ai-video-prompts-for-months-they-all-sucked-until-i-found-a-formula-4c54)
 <!-- BLOG-POST-LIST:END -->
 
 
