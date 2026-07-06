@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Orasort Patent Expiration Boosts Open-Source Databases and Cloud Services with 5x Faster Sorting](https://dev.to/kornilovconstru/orasort-patent-expiration-boosts-open-source-databases-and-cloud-services-with-5x-faster-sorting-1pdl)
-- [Building Quorra: An Android Decision-Intelligence Platform That Actually Explains Itself](https://dev.to/alfinohatta/building-quorra-an-android-decision-intelligence-platform-that-actually-explains-itself-1m12)
-- [Balanced Binary Tree](https://dev.to/jaspreet_singh_86ae1740ac/balanced-binary-tree-43f4)
-- [Run your docker-compose.yml on Apple&#39;s container runtime](https://dev.to/suruseas/run-your-docker-composeyml-on-apples-container-runtime-10o3)
+- [Introducing Synapse: a deterministic-first, open-source SCA and evidence platform](https://dev.to/nghiadaulau/introducing-synapse-a-deterministic-first-open-source-sca-and-evidence-platform-1k0i)
+- [JSON, YAML, CSV, and TOML: When to Use Each Data Format](https://dev.to/bitran/json-yaml-csv-and-toml-when-to-use-each-data-format-368e)
+- [Rebuilding my C Redis clone in Rust taught me more Rust than any tutorial](https://dev.to/valentynkit/rebuilding-my-c-redis-clone-in-rust-taught-me-more-rust-than-any-tutorial-3mpg)
+- [Hard Object References: Stable Object References for Mutable Application State](https://dev.to/alexander-nenashev/hard-object-references-stable-object-references-for-mutable-application-state-6el)
 <!-- BLOG-POST-LIST:END -->
 
 
