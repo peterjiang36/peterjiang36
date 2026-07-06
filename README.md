@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your ChatGPT Traffic Is Hiding in &#39;Direct&#39; — How to Track AI Search Referrals in Magento 2](https://dev.to/angeo/your-chatgpt-traffic-is-hiding-in-direct-how-to-track-ai-search-referrals-in-magento-2-54eg)
-- [Hermes — AI-assisted repairs for broken WooCommerce stores](https://dev.to/adam_kostka_e82133b705d11/hermes-ai-assisted-repairs-for-broken-woocommerce-stores-27ij)
-- [I wanted a better way to code with ChatGPT, so I built SVI](https://dev.to/raaleksandr/i-wanted-a-better-way-to-code-with-chatgpt-so-i-built-svi-4aah)
-- [Why Event-Driven Architecture Isn’t About Speed &lpar;and When You Actually Need It&rpar;](https://dev.to/alialp/why-event-driven-architecture-isnt-about-speed-and-when-you-actually-need-it-2pol)
+- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
+- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
+- [Soft Deletes no Laravel: apague sem apagar de verdade](https://dev.to/denisgusto1/soft-deletes-no-laravel-apague-sem-apagar-de-verdade-3po)
+- [Want to keep using Fable 5? Teach Opus and Sonnet to &quot;behave&quot; like it.](https://dev.to/toffy/want-to-keep-using-fable-5-teach-opus-and-sonnet-to-behave-like-it-4kl0)
 <!-- BLOG-POST-LIST:END -->
 
 
