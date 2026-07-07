@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Illusion of Enterprise AI: Why 95% of Current Solutions Will Fail Your Security Audit &lpar;And How DeepTech Solves It&rpar;](https://dev.to/binaryjack/the-illusion-of-enterprise-ai-why-95-of-current-solutions-will-fail-your-security-audit-and-how-38e0)
-- [Shipping Docs, Rust Tooling, and a Week of Deep Reviews](https://dev.to/yashksaini/shipping-docs-rust-tooling-and-a-week-of-deep-reviews-9i6)
-- [Running Code Review with Local AI &lpar;No Cloud, No Waiting&rpar;](https://dev.to/learnairesource/running-code-review-with-local-ai-no-cloud-no-waiting-265n)
-- [We read the source of 16 sandbox SDKs before writing ours](https://dev.to/pratikbin/we-read-the-source-of-16-sandbox-sdks-before-writing-ours-4gig)
+- [I Built a Persistent Memory Sidecar for My OpenClaw Agent. Here&#39;s the Code That Finally Made It Stick](https://dev.to/mrclaw207/i-built-a-persistent-memory-sidecar-for-my-openclaw-agent-heres-the-code-that-finally-made-it-nd2)
+- [Shopify App Store Submission — 14 Things I Wish I Knew Before My First Submit](https://dev.to/sukhmeet_singh/shopify-app-store-submission-14-things-i-wish-i-knew-before-my-first-submit-2oj6)
+- [Building a GUI from scratch in Rust — how IONA OS does compositing, widgets, and applications](https://dev.to/ionablokchain/building-a-gui-from-scratch-in-rust-how-iona-os-does-compositing-widgets-and-applications-3mk0)
+- [Stop Thinking of LLMs as AI Models. Start Thinking of Them as Distributed Systems.](https://dev.to/vibudhsharma24/stop-thinking-of-llms-as-ai-models-start-thinking-of-them-as-distributed-systems-1p11)
 <!-- BLOG-POST-LIST:END -->
 
 
