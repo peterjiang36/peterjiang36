@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Building an Indian Database: The Story Behind LioranDB](https://dev.to/ultrontheai/why-im-building-an-indian-database-the-story-behind-liorandb-17n5)
-- [TerraUSD Collapsed With $18B in Circulation. Chainlink Proof of Reserve Would Have Caught It Earlier](https://dev.to/0xramprasad/terrausd-collapsed-with-18b-in-circulation-chainlink-proof-of-reserve-would-have-caught-it-earlier-4n3j)
-- [I built a free Azure naming tool that knows every resource type&#39;s rules](https://dev.to/tusharrverma/i-built-a-free-azure-naming-tool-that-knows-every-resource-types-rules-23kf)
-- [Autonomous Robots: With A11 vs Without A11](https://dev.to/__272d48f2ed/autonomous-robots-with-a11-vs-without-a11-6hj)
+- [The Illusion of Enterprise AI: Why 95% of Current Solutions Will Fail Your Security Audit &lpar;And How DeepTech Solves It&rpar;](https://dev.to/binaryjack/the-illusion-of-enterprise-ai-why-95-of-current-solutions-will-fail-your-security-audit-and-how-38e0)
+- [Shipping Docs, Rust Tooling, and a Week of Deep Reviews](https://dev.to/yashksaini/shipping-docs-rust-tooling-and-a-week-of-deep-reviews-9i6)
+- [Running Code Review with Local AI &lpar;No Cloud, No Waiting&rpar;](https://dev.to/learnairesource/running-code-review-with-local-ai-no-cloud-no-waiting-265n)
+- [We read the source of 16 sandbox SDKs before writing ours](https://dev.to/pratikbin/we-read-the-source-of-16-sandbox-sdks-before-writing-ours-4gig)
 <!-- BLOG-POST-LIST:END -->
 
 
