@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Persistent Memory Sidecar for My OpenClaw Agent. Here&#39;s the Code That Finally Made It Stick](https://dev.to/mrclaw207/i-built-a-persistent-memory-sidecar-for-my-openclaw-agent-heres-the-code-that-finally-made-it-nd2)
-- [Shopify App Store Submission — 14 Things I Wish I Knew Before My First Submit](https://dev.to/sukhmeet_singh/shopify-app-store-submission-14-things-i-wish-i-knew-before-my-first-submit-2oj6)
-- [Building a GUI from scratch in Rust — how IONA OS does compositing, widgets, and applications](https://dev.to/ionablokchain/building-a-gui-from-scratch-in-rust-how-iona-os-does-compositing-widgets-and-applications-3mk0)
-- [Stop Thinking of LLMs as AI Models. Start Thinking of Them as Distributed Systems.](https://dev.to/vibudhsharma24/stop-thinking-of-llms-as-ai-models-start-thinking-of-them-as-distributed-systems-1p11)
+- [Moon Code: The AI Coding IDE That Actually Works With You](https://dev.to/anikrouth/moon-code-the-ai-coding-ide-that-actually-works-with-you-720)
+- [Tokenmining: How the Token Became the Unit of Production of the AI Economy &lpar;2026 2030&rpar;](https://dev.to/soumia_g_9dc322fc4404cecd/tokenmining-how-the-token-became-the-unit-of-production-of-the-ai-economy-2026-2030-519l)
+- [llms.txt: what it is and how to add one](https://dev.to/mitrasish/llmstxt-what-it-is-and-how-to-add-one-4g3k)
+- [How a 48‑hour PDF rabbit hole taught me to stop guessing and build a repeatable research flow](https://dev.to/jamesdev4123/how-a-48-hour-pdf-rabbit-hole-taught-me-to-stop-guessing-and-build-a-repeatable-research-flow-6f)
 <!-- BLOG-POST-LIST:END -->
 
 
