@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Kill a Great Product with 100 Good Ideas](https://dev.to/nahamaalochi/how-to-kill-a-great-product-with-100-good-ideas-4ec9)
-- [A Small Node.js Wrapper for LLM API Retries, Timeouts, and Logging](https://dev.to/plasma_01/a-small-nodejs-wrapper-for-llm-api-retries-timeouts-and-logging-ff4)
-- [I didn&#39;t write my n8n node&#39;s 323 operations. I scraped the docs and generated them.](https://dev.to/srcanton/i-didnt-write-my-n8n-nodes-323-operations-i-scraped-the-docs-and-generated-them-1pjn)
-- [2 Bugs That Made Me Question My Life Choices &lpar;And What They Actually Were&rpar;](https://dev.to/kahenda/2-bugs-that-made-me-question-my-life-choices-and-what-they-actually-were-12jc)
+- [Why I&#39;m Building an Indian Database: The Story Behind LioranDB](https://dev.to/ultrontheai/why-im-building-an-indian-database-the-story-behind-liorandb-17n5)
+- [TerraUSD Collapsed With $18B in Circulation. Chainlink Proof of Reserve Would Have Caught It Earlier](https://dev.to/0xramprasad/terrausd-collapsed-with-18b-in-circulation-chainlink-proof-of-reserve-would-have-caught-it-earlier-4n3j)
+- [I built a free Azure naming tool that knows every resource type&#39;s rules](https://dev.to/tusharrverma/i-built-a-free-azure-naming-tool-that-knows-every-resource-types-rules-23kf)
+- [Autonomous Robots: With A11 vs Without A11](https://dev.to/__272d48f2ed/autonomous-robots-with-a11-vs-without-a11-6hj)
 <!-- BLOG-POST-LIST:END -->
 
 
