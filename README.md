@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Moon Code: The AI Coding IDE That Actually Works With You](https://dev.to/anikrouth/moon-code-the-ai-coding-ide-that-actually-works-with-you-720)
-- [Tokenmining: How the Token Became the Unit of Production of the AI Economy &lpar;2026 2030&rpar;](https://dev.to/soumia_g_9dc322fc4404cecd/tokenmining-how-the-token-became-the-unit-of-production-of-the-ai-economy-2026-2030-519l)
-- [llms.txt: what it is and how to add one](https://dev.to/mitrasish/llmstxt-what-it-is-and-how-to-add-one-4g3k)
-- [How a 48‑hour PDF rabbit hole taught me to stop guessing and build a repeatable research flow](https://dev.to/jamesdev4123/how-a-48-hour-pdf-rabbit-hole-taught-me-to-stop-guessing-and-build-a-repeatable-research-flow-6f)
+- [Pre-allocate Like a Pro](https://dev.to/ssukhpinder/day-2-pre-allocate-like-a-pro-121l)
+- [What I learned building a compliance answer engine that refuses to make things up](https://dev.to/adi_cch/what-i-learned-building-a-compliance-answer-engine-that-refuses-to-make-things-up-42mp)
+- [Coinbase Advanced Trade API vs Kraken API for a Python Trading Bot](https://dev.to/fillbench/coinbase-advanced-trade-api-vs-kraken-api-for-a-python-trading-bot-eeb)
+- [Dev Log: 2026-07-07](https://dev.to/nasrulhazim/dev-log-2026-07-07-3jc2)
 <!-- BLOG-POST-LIST:END -->
 
 
