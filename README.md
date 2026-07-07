@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev log #10 Kanagawa Dreams and Test Suites: A Week of Refactoring my Neovim and Hardening the Backend](https://dev.to/yashksaini/dev-log-11-kanagawa-dreams-and-test-suites-a-week-of-refactoring-my-neovim-and-hardening-the-nb3)
-- [Fable 5 just left your Claude subscription. Here&#39;s how I keep Opus at that tier.](https://dev.to/clomia_d9be33fb6dacd82fa1/fable-5-just-left-your-claude-subscription-heres-how-i-keep-opus-at-that-tier-3b3j)
-- [What Makes a Residential Proxy Actually &quot;Enterprise-Grade&quot; &lpar;A Technical Buyer&#39;s Checklist&rpar;](https://dev.to/danielk_automat/what-makes-a-residential-proxy-actually-enterprise-grade-a-technical-buyers-checklist-3h9)
-- [Stop Auth Flickers: Edge Middleware in Next.js ⚡](https://dev.to/iprajapatiparesh/stop-auth-flickers-edge-middleware-in-nextjs-5dcb)
+- [How to Kill a Great Product with 100 Good Ideas](https://dev.to/nahamaalochi/how-to-kill-a-great-product-with-100-good-ideas-4ec9)
+- [A Small Node.js Wrapper for LLM API Retries, Timeouts, and Logging](https://dev.to/plasma_01/a-small-nodejs-wrapper-for-llm-api-retries-timeouts-and-logging-ff4)
+- [I didn&#39;t write my n8n node&#39;s 323 operations. I scraped the docs and generated them.](https://dev.to/srcanton/i-didnt-write-my-n8n-nodes-323-operations-i-scraped-the-docs-and-generated-them-1pjn)
+- [2 Bugs That Made Me Question My Life Choices &lpar;And What They Actually Were&rpar;](https://dev.to/kahenda/2-bugs-that-made-me-question-my-life-choices-and-what-they-actually-were-12jc)
 <!-- BLOG-POST-LIST:END -->
 
 
