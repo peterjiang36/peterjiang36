@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;My AI Assistant Could See the Screenshot. Feishu Still Got No Image&quot;](https://dev.to/codekingai/my-ai-assistant-could-see-the-screenshot-feishu-still-got-no-image-2pej)
-- [Old Reddit Users Face Inaccessible World Cup Post; Redirect Link Offers Full Content Access](https://dev.to/jerryskins/old-reddit-users-face-inaccessible-world-cup-post-redirect-link-offers-full-content-access-45d0)
-- [Piscine Survival Guide: What I&#39;d Tell Myself Before Day 1](https://dev.to/kahenda/piscine-survival-guide-what-id-tell-myself-before-day-1-pa2)
-- [The Complete Guide to yait_aichain&#39;s Model Registry](https://dev.to/yait/the-complete-guide-to-yaitaichains-model-registry-2mgc)
+- [I am 13. I reverse-engineered why every Windows lock app fails. Then I fixed it.](https://dev.to/akhourianmolkumar/i-am-13-i-reverse-engineered-why-every-windows-lock-app-fails-then-i-fixed-it-nn0)
+- [7 Lessons Every New Software Developer Learns the Hard Way](https://dev.to/jerrysharon/7-lessons-every-new-software-developer-learns-the-hard-way-2jog)
+- [Stop Writing Prompts. Start Writing Loops.](https://dev.to/mininglamp/stop-writing-prompts-start-writing-loops-416o)
+- [Why MCP Is Becoming the Standard Layer for AI Integrations &lpar;And Why Your Team Will Eventually Use It&rpar;](https://dev.to/damir-karimov/why-mcp-is-becoming-the-standard-layer-for-ai-integrations-and-why-your-team-will-eventually-use-2pn7)
 <!-- BLOG-POST-LIST:END -->
 
 
