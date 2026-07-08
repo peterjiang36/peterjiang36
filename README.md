@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [shiibar-cc: a tiny &quot;your turn&quot; indicator for Claude Code + iTerm2](https://dev.to/bufferings/shiibar-cc-a-tiny-your-turn-indicator-for-claude-code-iterm2-5261)
-- [Functional Programming in Java: A Complete Guide to Lambdas and Streams](https://dev.to/abhi9720/functional-programming-in-java-a-complete-guide-to-lambdas-and-streams-3a3a)
-- [Ownership: do &quot;temos um rojão na mão&quot; até &quot;não precisa mais pensar nisso&quot;](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7)
-- [I tried to obfuscate my Java code before sending it to AI — here&#39;s what broke](https://dev.to/genevieve_breton_cb795f52/i-tried-to-obfuscate-my-java-code-before-sending-it-to-ai-heres-what-broke-5615)
+- [Designing B2B SaaS onboarding that converts](https://dev.to/agenyc/designing-b2b-saas-onboarding-that-converts-28eh)
+- [What is a Transient Prop?](https://dev.to/usama_dev/what-is-a-transient-prop-2pkj)
+- [I Rolled Back My MCP Skills Experiment. Here&#39;s What I Learned](https://dev.to/neithergalax/i-rolled-back-my-mcp-skills-experiment-heres-what-i-learned-gje)
+- [Fragment API SDK for Telegram Apps and Bots: A Practical Guide &lpar;Node.js &amp; Python&rpar;](https://dev.to/mystarstg/fragment-api-sdk-for-telegram-apps-and-bots-a-practical-guide-nodejs-python-3bk2)
 <!-- BLOG-POST-LIST:END -->
 
 
