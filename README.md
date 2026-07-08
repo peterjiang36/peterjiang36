@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Escalation Policies: How to Route Alerts Without Waking Everyone](https://dev.to/devhelm/escalation-policies-how-to-route-alerts-without-waking-everyone-1en7)
-- [On-Call Engineer Burnout: How to Build Sustainable Rotations](https://dev.to/devhelm/on-call-engineer-burnout-how-to-build-sustainable-rotations-51m)
-- [Best Cloud Monitoring Tools in 2026: A Developer&#39;s Honest Comparison](https://dev.to/devhelm/best-cloud-monitoring-tools-in-2026-a-developers-honest-comparison-2dn1)
-- [Device Integrity And App Review: RASP, Attestation, And Asking For Ratings Right](https://dev.to/codenameone/device-integrity-and-app-review-rasp-attestation-and-asking-for-ratings-right-2n1j)
+- [shiibar-cc: a tiny &quot;your turn&quot; indicator for Claude Code + iTerm2](https://dev.to/bufferings/shiibar-cc-a-tiny-your-turn-indicator-for-claude-code-iterm2-5261)
+- [Functional Programming in Java: A Complete Guide to Lambdas and Streams](https://dev.to/abhi9720/functional-programming-in-java-a-complete-guide-to-lambdas-and-streams-3a3a)
+- [Ownership: do &quot;temos um rojão na mão&quot; até &quot;não precisa mais pensar nisso&quot;](https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7)
+- [I tried to obfuscate my Java code before sending it to AI — here&#39;s what broke](https://dev.to/genevieve_breton_cb795f52/i-tried-to-obfuscate-my-java-code-before-sending-it-to-ai-heres-what-broke-5615)
 <!-- BLOG-POST-LIST:END -->
 
 
