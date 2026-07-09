@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I made an app to improve the desktop experience, boost the productivity and keep instant access to our most important content](https://dev.to/tufik2/i-made-an-app-to-improve-the-desktop-experience-boost-the-productivity-and-keep-instant-access-to-4do)
-- [The Skill Level Of Young Developers Is Dropping. And Barely Anyone Wants To Admit It.](https://dev.to/josaphatstar/the-skill-level-of-young-developers-is-dropping-and-barely-anyone-wants-to-admit-it-1ff)
-- [Ophis: an intent-based DEX aggregator for humans and AI agents](https://dev.to/san-npm/ophis-an-intent-based-dex-aggregator-for-humans-and-ai-agents-4bda)
-- [Quick reminder: Stop putting heavy logic in Unity&#39;s Update&lpar;&rpar;](https://dev.to/carlosmaemo/quick-reminder-stop-putting-heavy-logic-in-unitys-update-ih5)
+- [[Boost]](https://dev.to/anthonymax/-eg1)
+- [Guarding the till while autonomous data agents do the digging](https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi)
+- [Multi-Tenancy And The Concepts Behind It.](https://dev.to/bolaji_shittu_f5da73c3916/multi-tenancy-and-the-concepts-behind-it-2425)
+- [Return on Attention: Why AI Code Reviews Are Wearing Us Out](https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0)
 <!-- BLOG-POST-LIST:END -->
 
 
