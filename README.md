@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Better Front-End Code with Modern Web Guidance](https://dev.to/tipusultandev/building-better-front-end-code-with-modern-web-guidance-2jj2)
-- [Why Your ChatGPT Answers Feel Generic &lpar;It&#39;s Not the Model&#39;s Fault&rpar;](https://dev.to/kaelctu3/why-your-chatgpt-answers-feel-generic-its-not-the-models-fault-3mcf)
-- [用 FROST 五维元模型构建可治理的多 Agent 系统：从零到一的代码教程](https://dev.to/llimage/yong-frost-wu-wei-yuan-mo-xing-gou-jian-ke-zhi-li-de-duo-agent-xi-tong-cong-ling-dao-de-dai-ma-jiao-cheng-5f42)
-- [Deciding to Appear: One Year of Shifting into Development](https://dev.to/andrs_ricardofloresvel/deciding-to-appear-one-year-of-shifting-into-development-40dm)
+- [I&#39;m About to Deploy My Go + React App for the First Time — Wish Me Luck](https://dev.to/kahenda/im-about-to-deploy-my-go-react-app-for-the-first-time-wish-me-luck-228p)
+- [Flawed humans, perfect machines: A new era of self-awareness.](https://dev.to/dimitrisgiannopoulos/flawed-humans-perfect-machines-a-new-era-of-self-awareness-59fp)
+- [Why Every ASP.NET Core Developer Should Learn Clean Architecture](https://dev.to/mian_usman_khalid/why-every-aspnet-core-developer-should-learn-clean-architecture-ho8)
+- [Your Hand-Typed Slop Isn&#39;t Honest. It&#39;s Just Slower.](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei)
 <!-- BLOG-POST-LIST:END -->
 
 
