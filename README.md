@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose for Local Development: Complete Setup &lpar;2026&rpar;](https://dev.to/stacknotice/docker-compose-for-local-development-complete-setup-2026-2gid)
-- [Go To Do Rust](https://dev.to/andreimerlescu/go-to-do-rust-1m7c)
-- [Monitor risky agents and keep agent governance current](https://dev.to/stepbysteptocloud/monitor-risky-agents-and-keep-agent-governance-current-4568)
-- [Installing GBase 8a Cluster with a Non‑Default SSH Port](https://dev.to/michaelfv/installing-gbase-8a-cluster-with-a-non-default-ssh-port-293l)
+- [Golden Images com Packer + Ansible: como automatizamos provisionamento e centralizamos configurações](https://dev.to/kevinfinalboss/golden-images-com-packer-ansible-como-automatizamos-provisionamento-e-centralizamos-configuracoes-4689)
+- [The 3 Types of AI Users Dominating the Software Engineering Landscape](https://dev.to/konark_13/the-3-types-of-ai-users-dominating-the-software-engineering-landscape-3go5)
+- [Why Most AI Prompts for Developers Don&#39;t Work &lpar;and How to Fix Them&rpar;](https://dev.to/marcgil_dev/why-most-ai-prompts-for-developers-dont-work-and-how-to-fix-them-5a9)
+- [Day 1 - Basics of HTML &amp; CSS](https://dev.to/abimanyu_p_9e75124634d2a4/day-1-basics-of-html-css-3cai)
 <!-- BLOG-POST-LIST:END -->
 
 
