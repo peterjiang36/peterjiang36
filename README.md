@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden Images com Packer + Ansible: como automatizamos provisionamento e centralizamos configurações](https://dev.to/kevinfinalboss/golden-images-com-packer-ansible-como-automatizamos-provisionamento-e-centralizamos-configuracoes-4689)
-- [The 3 Types of AI Users Dominating the Software Engineering Landscape](https://dev.to/konark_13/the-3-types-of-ai-users-dominating-the-software-engineering-landscape-3go5)
-- [Why Most AI Prompts for Developers Don&#39;t Work &lpar;and How to Fix Them&rpar;](https://dev.to/marcgil_dev/why-most-ai-prompts-for-developers-dont-work-and-how-to-fix-them-5a9)
-- [Day 1 - Basics of HTML &amp; CSS](https://dev.to/abimanyu_p_9e75124634d2a4/day-1-basics-of-html-css-3cai)
+- [I made an app to improve the desktop experience, boost the productivity and keep instant access to our most important content](https://dev.to/tufik2/i-made-an-app-to-improve-the-desktop-experience-boost-the-productivity-and-keep-instant-access-to-4do)
+- [The Skill Level Of Young Developers Is Dropping. And Barely Anyone Wants To Admit It.](https://dev.to/josaphatstar/the-skill-level-of-young-developers-is-dropping-and-barely-anyone-wants-to-admit-it-1ff)
+- [Ophis: an intent-based DEX aggregator for humans and AI agents](https://dev.to/san-npm/ophis-an-intent-based-dex-aggregator-for-humans-and-ai-agents-4bda)
+- [Quick reminder: Stop putting heavy logic in Unity&#39;s Update&lpar;&rpar;](https://dev.to/carlosmaemo/quick-reminder-stop-putting-heavy-logic-in-unitys-update-ih5)
 <!-- BLOG-POST-LIST:END -->
 
 
