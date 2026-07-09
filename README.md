@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m About to Deploy My Go + React App for the First Time — Wish Me Luck](https://dev.to/kahenda/im-about-to-deploy-my-go-react-app-for-the-first-time-wish-me-luck-228p)
-- [Flawed humans, perfect machines: A new era of self-awareness.](https://dev.to/dimitrisgiannopoulos/flawed-humans-perfect-machines-a-new-era-of-self-awareness-59fp)
-- [Why Every ASP.NET Core Developer Should Learn Clean Architecture](https://dev.to/mian_usman_khalid/why-every-aspnet-core-developer-should-learn-clean-architecture-ho8)
-- [Your Hand-Typed Slop Isn&#39;t Honest. It&#39;s Just Slower.](https://dev.to/dannwaneri/your-hand-typed-slop-isnt-honest-its-just-slower-36ei)
+- [Building MOC-Compliant Event APIs for Saudi Arabia: QR, WhatsApp &amp; Real-Time Analytics](https://dev.to/stampiq/building-moc-compliant-event-apis-for-saudi-arabia-qr-whatsapp-real-time-analytics-3ea4)
+- [Math Duel](https://dev.to/aadit_dahiya/math-duel-hf5)
+- [Python Operators: A Complete Beginner&#39;s Guide &lpar;Arithmetic, Comparison, Logical &amp; More&rpar;](https://dev.to/sahil003/python-operators-a-complete-beginners-guide-arithmetic-comparison-logical-more-12eb)
+- [A Reproducible Result Can Still Be a Lie](https://dev.to/anp2network/a-reproducible-result-can-still-be-a-lie-4208)
 <!-- BLOG-POST-LIST:END -->
 
 
