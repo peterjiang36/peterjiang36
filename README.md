@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building MOC-Compliant Event APIs for Saudi Arabia: QR, WhatsApp &amp; Real-Time Analytics](https://dev.to/stampiq/building-moc-compliant-event-apis-for-saudi-arabia-qr-whatsapp-real-time-analytics-3ea4)
-- [Math Duel](https://dev.to/aadit_dahiya/math-duel-hf5)
-- [Python Operators: A Complete Beginner&#39;s Guide &lpar;Arithmetic, Comparison, Logical &amp; More&rpar;](https://dev.to/sahil003/python-operators-a-complete-beginners-guide-arithmetic-comparison-logical-more-12eb)
-- [A Reproducible Result Can Still Be a Lie](https://dev.to/anp2network/a-reproducible-result-can-still-be-a-lie-4208)
+- [Docker Compose for Local Development: Complete Setup &lpar;2026&rpar;](https://dev.to/stacknotice/docker-compose-for-local-development-complete-setup-2026-2gid)
+- [Go To Do Rust](https://dev.to/andreimerlescu/go-to-do-rust-1m7c)
+- [Monitor risky agents and keep agent governance current](https://dev.to/stepbysteptocloud/monitor-risky-agents-and-keep-agent-governance-current-4568)
+- [Installing GBase 8a Cluster with a Non‑Default SSH Port](https://dev.to/michaelfv/installing-gbase-8a-cluster-with-a-non-default-ssh-port-293l)
 <!-- BLOG-POST-LIST:END -->
 
 
