@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Focus in Angular: Dialogs, Drawers and Route Changes Without Stranding Your Users](https://dev.to/duncanfaulkner/managing-focus-in-angular-dialogs-drawers-and-route-changes-without-stranding-your-users-4agf)
-- [The Agent That Couldn&#39;t Rewrite Its Own History &lpar;Once We Made That True&rpar;](https://dev.to/artemmatviychuk/the-agent-that-couldnt-rewrite-its-own-history-once-we-made-that-true-3i5c)
-- [Give Your Auditor AWS Access — Without Sharing a Single Credential](https://dev.to/upstood/give-your-auditor-aws-access-without-sharing-a-single-credential-140k)
-- [E‑‑: The middle ground between English and Python](https://dev.to/oded_fuhrmann_86130c99a67/e-the-middle-ground-between-english-and-python-5eal)
+- [How We Test an AI Product Without Burning Credit](https://dev.to/debs_obrien/how-we-test-an-ai-product-without-burning-credit-4c5p)
+- [From Prompt Files to Agent Skills: How I Unified My Content Automation](https://dev.to/debs_obrien/from-prompt-files-to-agent-skills-how-i-unified-my-content-automation-3h9k)
+- [I built an open-source internship tracker that polls 3,593 company career feeds](https://dev.to/shahzainsahir/i-built-an-open-source-internship-tracker-that-polls-3593-company-career-feeds-1g9e)
+- [I Built an AI That Calls Candidates and Scores Them So Recruiters Don&#39;t Have To](https://dev.to/botoclock/i-built-an-ai-that-calls-candidates-and-scores-them-so-recruiters-dont-have-to-3863)
 <!-- BLOG-POST-LIST:END -->
 
 
