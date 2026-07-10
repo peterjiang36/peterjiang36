@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Coding Agents Fail on Large Repos: The Stateless Context Problem](https://dev.to/manan_822e7/why-ai-coding-agents-fail-on-large-repos-the-stateless-context-problem-p0g)
-- [RLS fails silently. Here&#39;s how to actually test your Supabase policies.](https://dev.to/munaf-khatri/rls-fails-silently-heres-how-to-actually-test-your-supabase-policies-p6m)
-- [I built a CLI that catches shadow APIs in Express.js repos before they merge to production](https://dev.to/darkmaster0345/i-built-a-cli-that-catches-shadow-apis-in-expressjs-repos-before-they-merge-to-production-e0k)
-- [Before You Renew Your AI Contract, Do This First](https://dev.to/sumaskeller/before-you-renew-your-ai-contract-do-this-first-25lk)
+- [The AI Design Stack: Three Skills and a Workflow That Stops the Slop](https://dev.to/stevengonsalvez/the-ai-design-stack-three-skills-and-a-workflow-that-stops-the-slop-5a07)
+- [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://dev.to/codenameone/more-surfaces-same-deal-cars-sensors-commerce-video-and-builds-29pg)
+- [Building a React Native SDK Inside a Super-App with 800K Daily Users](https://dev.to/beksnotfound/building-a-react-native-sdk-inside-a-super-app-with-800k-daily-users-46mm)
+- [Opus vs GPT on Real Ops, Part 2: One Drove, One Was Driven](https://dev.to/stevengonsalvez/opus-vs-gpt-on-real-ops-part-2-one-drove-one-was-driven-1i4j)
 <!-- BLOG-POST-LIST:END -->
 
 
