@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Design Stack: Three Skills and a Workflow That Stops the Slop](https://dev.to/stevengonsalvez/the-ai-design-stack-three-skills-and-a-workflow-that-stops-the-slop-5a07)
-- [More Surfaces, Same Deal: Cars, Sensors, Commerce, Video And Builds](https://dev.to/codenameone/more-surfaces-same-deal-cars-sensors-commerce-video-and-builds-29pg)
-- [Building a React Native SDK Inside a Super-App with 800K Daily Users](https://dev.to/beksnotfound/building-a-react-native-sdk-inside-a-super-app-with-800k-daily-users-46mm)
-- [Opus vs GPT on Real Ops, Part 2: One Drove, One Was Driven](https://dev.to/stevengonsalvez/opus-vs-gpt-on-real-ops-part-2-one-drove-one-was-driven-1i4j)
+- [Your AGENTS.md Is Already Stale — And Your Agent Trusts It Completely](https://dev.to/wolfejam/your-agentsmd-is-already-stale-and-your-agent-trusts-it-completely-2nfh)
+- [How to Get Startup Grants: A First-Time Founder&#39;s Guide](https://dev.to/sclaydon/how-to-get-startup-grants-a-first-time-founders-guide-28o7)
+- [Your AI Quotas Reset Tonight. What Will You Do With Them?](https://dev.to/jula-markova/your-ai-quotas-reset-tonight-what-will-you-do-with-them-1gcc)
+- [Stop retyping your API. Turn cURL into docs instantly.](https://dev.to/jkballa/stop-retyping-your-api-turn-curl-into-docs-instantly-38kb)
 <!-- BLOG-POST-LIST:END -->
 
 
