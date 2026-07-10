@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Test an AI Product Without Burning Credit](https://dev.to/debs_obrien/how-we-test-an-ai-product-without-burning-credit-4c5p)
-- [From Prompt Files to Agent Skills: How I Unified My Content Automation](https://dev.to/debs_obrien/from-prompt-files-to-agent-skills-how-i-unified-my-content-automation-3h9k)
-- [I built an open-source internship tracker that polls 3,593 company career feeds](https://dev.to/shahzainsahir/i-built-an-open-source-internship-tracker-that-polls-3593-company-career-feeds-1g9e)
-- [I Built an AI That Calls Candidates and Scores Them So Recruiters Don&#39;t Have To](https://dev.to/botoclock/i-built-an-ai-that-calls-candidates-and-scores-them-so-recruiters-dont-have-to-3863)
+- [De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM](https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j)
+- [I Built an RFP Compliance Checker in One Session — Here&#39;s the Exact Stack](https://dev.to/vystartasv/i-built-an-rfp-compliance-checker-in-one-session-heres-the-exact-stack-3kbe)
+- [How to Change the Date of an Old Git Commit](https://dev.to/giteditdatecom/how-to-change-the-date-of-an-old-git-commit-2e8a)
+- [Why Git Has Two Dates: Author Date vs Commit Date](https://dev.to/giteditdatecom/why-git-has-two-dates-author-date-vs-commit-date-pca)
 <!-- BLOG-POST-LIST:END -->
 
 
