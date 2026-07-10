@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is It Ethical to Post and Ask About Circuits on Dev.to?](https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg)
-- [Delivered but Unbilled: Your AI Stream Logged Zero Tokens](https://dev.to/alex_spinov/delivered-but-unbilled-your-ai-stream-logged-zero-tokens-3c99)
-- [Deploy a Dockerfile on Vercel](https://dev.to/pradumnasaraf/deploy-a-dockerfile-on-vercel-5abn)
-- [I scanned 200 blockchain npm packages for quantum-vulnerable cryptography. Here&#39;s what I found.](https://dev.to/takundanashebmuchenapixel/i-scanned-200-blockchain-npm-packages-for-quantum-vulnerable-cryptography-heres-what-i-found-3oe1)
+- [How to Approach a Python Technical Interview If You Have Not Coded in 6 Months](https://dev.to/ameer_abdullah_68d48c8496/how-to-approach-a-python-technical-interview-if-you-have-not-coded-in-6-months-2d71)
+- [Execution Latency in My Polymarket Trading Bot - Sub-Second Trade Execution System Design](https://dev.to/lkto1m/execution-latency-in-my-polymarket-trading-bot-sub-second-trade-execution-system-design-1d33)
+- [Engineering Beyond the Keystroke: Why the Future Belongs to Systems Thinkers](https://dev.to/nahamaalochi/engineering-beyond-the-keystroke-why-the-future-belongs-to-systems-thinkers-542h)
+- [Versiona acciones de correo en agentes LLM](https://dev.to/silviutech/versiona-acciones-de-correo-en-agentes-llm-63d)
 <!-- BLOG-POST-LIST:END -->
 
 
