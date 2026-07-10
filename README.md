@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Small Prototype for Cost-Aware Bug Investigation](https://dev.to/ty215/a-small-prototype-for-cost-aware-bug-investigation-43p3)
-- [I&#39;m bad at discipline, so I built a tool that does it](https://dev.to/moui72/im-bad-at-discipline-so-i-built-a-tool-that-does-it-241g)
-- [Knowledge-and-Memory-Management v0.0.2: Clean Release with Portable Agent Home](https://dev.to/mage0535/knowledge-and-memory-management-v002-clean-release-with-portable-agent-home-jcg)
-- [&quot;A Fair Coin Isn&#39;t Enough: When a Perfectly Randomized Experiment Is Impossible to Analyze&quot;](https://dev.to/hexisteme/a-fair-coin-isnt-enough-when-a-perfectly-randomized-experiment-is-impossible-to-analyze-29cb)
+- [Is It Ethical to Post and Ask About Circuits on Dev.to?](https://dev.to/codebunny20/is-it-ethical-to-post-and-ask-about-circuits-on-devto-34fg)
+- [Delivered but Unbilled: Your AI Stream Logged Zero Tokens](https://dev.to/alex_spinov/delivered-but-unbilled-your-ai-stream-logged-zero-tokens-3c99)
+- [Deploy a Dockerfile on Vercel](https://dev.to/pradumnasaraf/deploy-a-dockerfile-on-vercel-5abn)
+- [I scanned 200 blockchain npm packages for quantum-vulnerable cryptography. Here&#39;s what I found.](https://dev.to/takundanashebmuchenapixel/i-scanned-200-blockchain-npm-packages-for-quantum-vulnerable-cryptography-heres-what-i-found-3oe1)
 <!-- BLOG-POST-LIST:END -->
 
 
