@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-eg1)
-- [Guarding the till while autonomous data agents do the digging](https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi)
-- [Multi-Tenancy And The Concepts Behind It.](https://dev.to/bolaji_shittu_f5da73c3916/multi-tenancy-and-the-concepts-behind-it-2425)
-- [Return on Attention: Why AI Code Reviews Are Wearing Us Out](https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0)
+- [A Small Prototype for Cost-Aware Bug Investigation](https://dev.to/ty215/a-small-prototype-for-cost-aware-bug-investigation-43p3)
+- [I&#39;m bad at discipline, so I built a tool that does it](https://dev.to/moui72/im-bad-at-discipline-so-i-built-a-tool-that-does-it-241g)
+- [Knowledge-and-Memory-Management v0.0.2: Clean Release with Portable Agent Home](https://dev.to/mage0535/knowledge-and-memory-management-v002-clean-release-with-portable-agent-home-jcg)
+- [&quot;A Fair Coin Isn&#39;t Enough: When a Perfectly Randomized Experiment Is Impossible to Analyze&quot;](https://dev.to/hexisteme/a-fair-coin-isnt-enough-when-a-perfectly-randomized-experiment-is-impossible-to-analyze-29cb)
 <!-- BLOG-POST-LIST:END -->
 
 
