@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Approach a Python Technical Interview If You Have Not Coded in 6 Months](https://dev.to/ameer_abdullah_68d48c8496/how-to-approach-a-python-technical-interview-if-you-have-not-coded-in-6-months-2d71)
-- [Execution Latency in My Polymarket Trading Bot - Sub-Second Trade Execution System Design](https://dev.to/lkto1m/execution-latency-in-my-polymarket-trading-bot-sub-second-trade-execution-system-design-1d33)
-- [Engineering Beyond the Keystroke: Why the Future Belongs to Systems Thinkers](https://dev.to/nahamaalochi/engineering-beyond-the-keystroke-why-the-future-belongs-to-systems-thinkers-542h)
-- [Versiona acciones de correo en agentes LLM](https://dev.to/silviutech/versiona-acciones-de-correo-en-agentes-llm-63d)
+- [Why AI Coding Agents Fail on Large Repos: The Stateless Context Problem](https://dev.to/manan_822e7/why-ai-coding-agents-fail-on-large-repos-the-stateless-context-problem-p0g)
+- [RLS fails silently. Here&#39;s how to actually test your Supabase policies.](https://dev.to/munaf-khatri/rls-fails-silently-heres-how-to-actually-test-your-supabase-policies-p6m)
+- [I built a CLI that catches shadow APIs in Express.js repos before they merge to production](https://dev.to/darkmaster0345/i-built-a-cli-that-catches-shadow-apis-in-expressjs-repos-before-they-merge-to-production-e0k)
+- [Before You Renew Your AI Contract, Do This First](https://dev.to/sumaskeller/before-you-renew-your-ai-contract-do-this-first-25lk)
 <!-- BLOG-POST-LIST:END -->
 
 
