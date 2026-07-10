@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AGENTS.md Is Already Stale — And Your Agent Trusts It Completely](https://dev.to/wolfejam/your-agentsmd-is-already-stale-and-your-agent-trusts-it-completely-2nfh)
-- [How to Get Startup Grants: A First-Time Founder&#39;s Guide](https://dev.to/sclaydon/how-to-get-startup-grants-a-first-time-founders-guide-28o7)
-- [Your AI Quotas Reset Tonight. What Will You Do With Them?](https://dev.to/jula-markova/your-ai-quotas-reset-tonight-what-will-you-do-with-them-1gcc)
-- [Stop retyping your API. Turn cURL into docs instantly.](https://dev.to/jkballa/stop-retyping-your-api-turn-curl-into-docs-instantly-38kb)
+- [Managing Focus in Angular: Dialogs, Drawers and Route Changes Without Stranding Your Users](https://dev.to/duncanfaulkner/managing-focus-in-angular-dialogs-drawers-and-route-changes-without-stranding-your-users-4agf)
+- [The Agent That Couldn&#39;t Rewrite Its Own History &lpar;Once We Made That True&rpar;](https://dev.to/artemmatviychuk/the-agent-that-couldnt-rewrite-its-own-history-once-we-made-that-true-3i5c)
+- [Give Your Auditor AWS Access — Without Sharing a Single Credential](https://dev.to/upstood/give-your-auditor-aws-access-without-sharing-a-single-credential-140k)
+- [E‑‑: The middle ground between English and Python](https://dev.to/oded_fuhrmann_86130c99a67/e-the-middle-ground-between-english-and-python-5eal)
 <!-- BLOG-POST-LIST:END -->
 
 
