@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture of On-Chain AI Agent Execution: Beyond Smart Contracts](https://dev.to/claudia-ve/the-architecture-of-on-chain-ai-agent-execution-beyond-smart-contracts-4jlj)
-- [Claude Code&#39;s Mid-Year AI Boost: Enhanced Workflows and New Features](https://dev.to/davekurian/claude-codes-mid-year-ai-boost-enhanced-workflows-and-new-features-1e21)
-- [I built a prompt engineering game — here&#39;s why I think learning by doing beats every tutorial](https://dev.to/git_blame_nobody/i-built-a-prompt-engineering-game-heres-why-i-think-learning-by-doing-beats-every-tutorial-1gki)
-- [CSP Builder: a small tool that solves a specific problem](https://dev.to/mryesiller/csp-builder-a-small-tool-that-solves-a-specific-problem-55ld)
+- [CreatorFlow AI — The Ultimate Hub for Passionate YouTubers &amp; Affiliate Marketers](https://dev.to/darshanraval/creatorflow-ai-the-ultimate-hub-for-passionate-youtubers-affiliate-marketers-2c2l)
+- [I Built WebPilot Pro — An All-in-One Chrome Extension for SEO, Developers &amp; Website Analysis](https://dev.to/adeelnode/i-built-webpilot-pro-an-all-in-one-chrome-extension-for-seo-developers-website-analysis-3b02)
+- [I built ckdn so coding agents never have to guess whether checks passed](https://dev.to/orenlab/i-built-ckdn-so-coding-agents-never-have-to-guess-whether-checks-passed-2ffa)
+- [OmniVoice Studio: Open-Source ElevenLabs Alternative for macOS](https://dev.to/sarantoon/omnivoice-studio-open-source-elevenlabs-alternative-for-macos-41m8)
 <!-- BLOG-POST-LIST:END -->
 
 
