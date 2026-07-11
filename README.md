@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CreatorFlow AI — The Ultimate Hub for Passionate YouTubers &amp; Affiliate Marketers](https://dev.to/darshanraval/creatorflow-ai-the-ultimate-hub-for-passionate-youtubers-affiliate-marketers-2c2l)
-- [I Built WebPilot Pro — An All-in-One Chrome Extension for SEO, Developers &amp; Website Analysis](https://dev.to/adeelnode/i-built-webpilot-pro-an-all-in-one-chrome-extension-for-seo-developers-website-analysis-3b02)
-- [I built ckdn so coding agents never have to guess whether checks passed](https://dev.to/orenlab/i-built-ckdn-so-coding-agents-never-have-to-guess-whether-checks-passed-2ffa)
-- [OmniVoice Studio: Open-Source ElevenLabs Alternative for macOS](https://dev.to/sarantoon/omnivoice-studio-open-source-elevenlabs-alternative-for-macos-41m8)
+- [Taming the Python and VS Code Workspace Environment](https://dev.to/nextbigcreative/taming-the-python-and-vs-code-workspace-environment-23po)
+- [# I built 62 free browser tools in one website — no uploads, no sign-ups, works offline](https://dev.to/sophia_anjum_0509b2bb7049/-i-built-62-free-browser-tools-in-one-website-no-uploads-no-sign-ups-works-offline-3cia)
+- [Will your tracker still exist next year? Switching-cost anxiety, and the one-command exit](https://dev.to/radial/will-your-tracker-still-exist-next-year-switching-cost-anxiety-and-the-one-command-exit-1e5e)
+- [[BLOG] Most AI brand names fail one boring test](https://dev.to/nat_rattanasak_d4c9fc56/blog-most-ai-brand-names-fail-one-boring-test-2nnl)
 <!-- BLOG-POST-LIST:END -->
 
 
