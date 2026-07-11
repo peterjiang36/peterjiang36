@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Football Fan Time](https://dev.to/timi-g/football-fan-time-4kg4)
-- [From API to GPU, Week 1: Understanding NVIDIA DGX Spark Environment](https://dev.to/dinesh_kumarramasamy_f6a/from-api-to-gpu-week-1-understanding-nvidia-dgx-spark-environment-1aol)
-- [MLH x DigitalOcean Hackathon: Jury Duty, Explained](https://dev.to/earlgreyhot1701d/mlh-x-digitalocean-hackathon-jury-duty-explained-1e8p)
-- [From API to GPU, Week 1: Understanding My NVIDIA DGX Spark Environment](https://dev.to/dinesh_kumarramasamy_f6a/from-api-to-gpu-week-1-understanding-my-nvidia-dgx-spark-environment-51c)
+- [I built a file-grounded continuity system for my AI German teacher—what am I overcomplicating?](https://dev.to/nr7whfms97/i-built-a-file-grounded-continuity-system-for-my-ai-german-teacher-what-am-i-overcomplicating-i32)
+- [AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement](https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao)
+- [Stop Paying AWS Just to Test Your Code Locally](https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die)
+- [Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali](https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l)
 <!-- BLOG-POST-LIST:END -->
 
 
