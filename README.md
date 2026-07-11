@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Practice Real-World Testing Scenarios for QA: Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-2-data-grid-validation-and-crud-operations-50oc)
-- [Most Evals Measure the Wrong Thing](https://dev.to/o96a/most-evals-measure-the-wrong-thing-c76)
-- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
-- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
+- [EL RELATOR - your life, narrated like a World Cup goal &lpar;in two languages&rpar;](https://dev.to/terrizoaguimor/el-relator-your-life-narrated-like-a-world-cup-goal-in-two-languages-9b9)
+- [Every Sports App Resets Your Streak Eventually. Mine Can&#39;t. 🔒⚡](https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-hln)
+- [How I made my Astro site secure by default &lpar;strict CSP, self-hosted fonts, zero trackers&rpar;](https://dev.to/auric/how-i-made-my-astro-site-secure-by-default-strict-csp-self-hosted-fonts-zero-trackers-1ceh)
+- [Scope of Variables in JavaScript](https://dev.to/pranay_7424/scope-of-variables-in-javascript-3bdm)
 <!-- BLOG-POST-LIST:END -->
 
 
