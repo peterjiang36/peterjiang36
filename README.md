@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming the Python and VS Code Workspace Environment](https://dev.to/nextbigcreative/taming-the-python-and-vs-code-workspace-environment-23po)
-- [# I built 62 free browser tools in one website — no uploads, no sign-ups, works offline](https://dev.to/sophia_anjum_0509b2bb7049/-i-built-62-free-browser-tools-in-one-website-no-uploads-no-sign-ups-works-offline-3cia)
-- [Will your tracker still exist next year? Switching-cost anxiety, and the one-command exit](https://dev.to/radial/will-your-tracker-still-exist-next-year-switching-cost-anxiety-and-the-one-command-exit-1e5e)
-- [[BLOG] Most AI brand names fail one boring test](https://dev.to/nat_rattanasak_d4c9fc56/blog-most-ai-brand-names-fail-one-boring-test-2nnl)
+- [Practice Real-World Testing Scenarios for QA: Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-2-data-grid-validation-and-crud-operations-50oc)
+- [Most Evals Measure the Wrong Thing](https://dev.to/o96a/most-evals-measure-the-wrong-thing-c76)
+- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
+- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
 <!-- BLOG-POST-LIST:END -->
 
 
