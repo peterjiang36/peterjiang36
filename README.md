@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [EL RELATOR - your life, narrated like a World Cup goal &lpar;in two languages&rpar;](https://dev.to/terrizoaguimor/el-relator-your-life-narrated-like-a-world-cup-goal-in-two-languages-9b9)
-- [Every Sports App Resets Your Streak Eventually. Mine Can&#39;t. 🔒⚡](https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-hln)
-- [How I made my Astro site secure by default &lpar;strict CSP, self-hosted fonts, zero trackers&rpar;](https://dev.to/auric/how-i-made-my-astro-site-secure-by-default-strict-csp-self-hosted-fonts-zero-trackers-1ceh)
-- [Scope of Variables in JavaScript](https://dev.to/pranay_7424/scope-of-variables-in-javascript-3bdm)
+- [Password Managers: 3 Key Differences for a Secure Choice](https://dev.to/merbayerp/password-managers-3-key-differences-for-a-secure-choice-46b8)
+- [Why iPhone Videos Fail as Telegram Avatars and How I Fixed It](https://dev.to/liveavabot/why-iphone-videos-fail-as-telegram-avatars-and-how-i-fixed-it-22do)
+- [Model Kombat: The LLM Fighting Game!](https://dev.to/unitbuilds_cc/model-kombat-the-llm-fighting-game-2lof)
+- [I got tired of GitHub deleting my traffic stats after 14 days, so I built a local-first alternative 🚀](https://dev.to/rakkunn/i-got-tired-of-github-deleting-my-traffic-stats-after-14-days-so-i-built-a-local-first-alternative-307h)
 <!-- BLOG-POST-LIST:END -->
 
 
