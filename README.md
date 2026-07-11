@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [String - JS](https://dev.to/siyamala_g/string-js-441g)
-- [I put my fan streak on Solana so nobody could reset it](https://dev.to/ishantgupta/i-put-my-fan-streak-on-solana-so-nobody-could-reset-it-5dg9)
-- [Building Intuition for Big-O by Tracing Code Line by Line](https://dev.to/ameer_abdullah_68d48c8496/building-intuition-for-big-o-by-tracing-code-line-by-line-17d1)
-- [Cómo revisar cohortes de activación por email](https://dev.to/hannahdev56/como-revisar-cohortes-de-activacion-por-email-292i)
+- [The Architecture of On-Chain AI Agent Execution: Beyond Smart Contracts](https://dev.to/claudia-ve/the-architecture-of-on-chain-ai-agent-execution-beyond-smart-contracts-4jlj)
+- [Claude Code&#39;s Mid-Year AI Boost: Enhanced Workflows and New Features](https://dev.to/davekurian/claude-codes-mid-year-ai-boost-enhanced-workflows-and-new-features-1e21)
+- [I built a prompt engineering game — here&#39;s why I think learning by doing beats every tutorial](https://dev.to/git_blame_nobody/i-built-a-prompt-engineering-game-heres-why-i-think-learning-by-doing-beats-every-tutorial-1gki)
+- [CSP Builder: a small tool that solves a specific problem](https://dev.to/mryesiller/csp-builder-a-small-tool-that-solves-a-specific-problem-55ld)
 <!-- BLOG-POST-LIST:END -->
 
 
