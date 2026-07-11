@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Currency Is Tokens - How to save Tokens](https://dev.to/akdevcraft/the-new-currency-is-tokens-how-to-save-tokens-4o0j)
-- [I think AI coding assistants need an &quot;npm&quot; for reusable skills. I&#39;m building one.](https://dev.to/harsh_singh_2f42f847185ce/i-think-ai-coding-assistants-need-an-npm-for-reusable-skills-im-building-one-15gf)
-- [# AI 内容管线实测：从 SERP 预检到 GEO 评分的完整自动化链路 &gt; 一套真正在每天凌晨运行的 AI 内容管线，从关键词调研到多平台发布全程自动化。](https://dev.to/manoir_yantai_f22f01340f0/-ai-nei-rong-guan-xian-shi-ce-cong-serp-yu-jian-dao-geo-ping-fen-de-wan-zheng-zi-dong-hua-lian-lu-tao-zhen-zheng-zai-mei-tian-ling-chen-yun-xing-de-ai-nei-rong-guan-xian-cong-guan-jian-ci-diao-yan-dao-duo-ping-tai-fa-bu-quan-cheng-zi-dong-hua--388m)
-- [Demystifying Invisible Engineering: How iroh&#39;s Smart Fan Reimagines Developer Tooling for Embedded Systems](https://dev.to/tamizuddin/demystifying-invisible-engineering-how-irohs-smart-fan-reimagines-developer-tooling-for-embedded-2hc9)
+- [String - JS](https://dev.to/siyamala_g/string-js-441g)
+- [I put my fan streak on Solana so nobody could reset it](https://dev.to/ishantgupta/i-put-my-fan-streak-on-solana-so-nobody-could-reset-it-5dg9)
+- [Building Intuition for Big-O by Tracing Code Line by Line](https://dev.to/ameer_abdullah_68d48c8496/building-intuition-for-big-o-by-tracing-code-line-by-line-17d1)
+- [Cómo revisar cohortes de activación por email](https://dev.to/hannahdev56/como-revisar-cohortes-de-activacion-por-email-292i)
 <!-- BLOG-POST-LIST:END -->
 
 
