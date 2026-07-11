@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Abandoned Cricket Kit Confronted Me. So I Built It a Voice](https://dev.to/himanshu_748/my-abandoned-cricket-kit-confronted-me-so-i-built-it-a-voice-ph1)
-- [Planting a Future Breaking Change Today: A launchd Timer Job That Deletes Itself When Done](https://dev.to/bokuwalily/planting-a-future-breaking-change-today-a-launchd-timer-job-that-deletes-itself-when-done-53li)
-- [Kill the Server: Why Holepunch Threw Away Node.js and Built &#39;Bare&#39;](https://dev.to/aniket_misra_e47d1564ab7b/kill-the-server-why-holepunch-threw-away-nodejs-and-built-bare-3gdi)
-- [Measure, Don&#39;t Estimate: Labeling Speakers Without a Gated Model](https://dev.to/dimastatz/measure-dont-estimate-labeling-speakers-without-a-gated-model-3pgm)
+- [The New Currency Is Tokens - How to save Tokens](https://dev.to/akdevcraft/the-new-currency-is-tokens-how-to-save-tokens-4o0j)
+- [I think AI coding assistants need an &quot;npm&quot; for reusable skills. I&#39;m building one.](https://dev.to/harsh_singh_2f42f847185ce/i-think-ai-coding-assistants-need-an-npm-for-reusable-skills-im-building-one-15gf)
+- [# AI 内容管线实测：从 SERP 预检到 GEO 评分的完整自动化链路 &gt; 一套真正在每天凌晨运行的 AI 内容管线，从关键词调研到多平台发布全程自动化。](https://dev.to/manoir_yantai_f22f01340f0/-ai-nei-rong-guan-xian-shi-ce-cong-serp-yu-jian-dao-geo-ping-fen-de-wan-zheng-zi-dong-hua-lian-lu-tao-zhen-zheng-zai-mei-tian-ling-chen-yun-xing-de-ai-nei-rong-guan-xian-cong-guan-jian-ci-diao-yan-dao-duo-ping-tai-fa-bu-quan-cheng-zi-dong-hua--388m)
+- [Demystifying Invisible Engineering: How iroh&#39;s Smart Fan Reimagines Developer Tooling for Embedded Systems](https://dev.to/tamizuddin/demystifying-invisible-engineering-how-irohs-smart-fan-reimagines-developer-tooling-for-embedded-2hc9)
 <!-- BLOG-POST-LIST:END -->
 
 
