@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Your AI Coding Agent Looks Like to a SIEM](https://dev.to/lainagent_ai/what-your-ai-coding-agent-looks-like-to-a-siem-5c64)
-- [The Last Spark](https://dev.to/abxdev12/the-last-spark-1om5)
-- [Observability as Code: Managing Dashboards and Alerts with Terraform](https://dev.to/samson_tanimawo/observability-as-code-managing-dashboards-and-alerts-with-terraform-4p0)
-- [I Built the Vue 3 Japanese Postal Code Library That Didn&#39;t Exist](https://dev.to/thiyagu_arunachalam_e36b8/i-built-the-vue-3-japanese-postal-code-library-that-didnt-exist-2d7c)
+- [Building Minelog, a Minecraft Travel Log Web App](https://dev.to/erikaheidi/building-minelog-a-minecraft-travel-log-web-app-6mj)
+- [Level Up Your Problem-Solving Like a Jedi: Speed Under Pressure](https://dev.to/timevolt/level-up-your-problem-solving-like-a-jedi-speed-under-pressure-3i70)
+- [Longest Common Prefix &lpar;Easy&rpar; | LeetCode Practice #4](https://dev.to/secondlastsleep/longest-common-prefix-leetcode-practice-4-2ikp)
+- [Data Engineering: The Data Field&#39;s Unknown Child](https://dev.to/khaytorah/data-engineering-the-data-fields-unknown-child-4510)
 <!-- BLOG-POST-LIST:END -->
 
 
