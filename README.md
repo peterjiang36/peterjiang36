@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The honest limits of crypto escrow &lpar;and when it isn&#39;t worth the fee&rpar;](https://dev.to/vaultion/the-honest-limits-of-crypto-escrow-and-when-it-isnt-worth-the-fee-2hm5)
-- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn&#39;t Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2)
-- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
-- [AI can&#39;t run your company yet. Here&#39;s the math, and what to automate instead.](https://dev.to/threadotter/ai-cant-run-your-company-yet-heres-the-math-and-what-to-automate-instead-89c)
+- [Your uptime SLA means nothing when the physical process can&#39;t wait for your rollback](https://dev.to/mariusgjerd/your-uptime-sla-means-nothing-when-the-physical-process-cant-wait-for-your-rollback-12i2)
+- [Why this blog exists](https://dev.to/mariusgjerd/why-this-blog-exists-47dc)
+- [CodeForge AI — Turning Passion for Programming into a Smarter Learning Journey.](https://dev.to/sunnyspencer/codeforge-ai-turning-passion-for-programming-into-a-smarter-learning-journey-38nh)
+- [I Read Too Much and Forgot Everything So I Built a Tool That Turns My Annotations Into Something I&#39;ll Actually Reread.](https://dev.to/dynn_f/i-read-too-much-and-forgot-everything-so-i-built-a-tool-that-turns-my-highlights-into-something-2d5k)
 <!-- BLOG-POST-LIST:END -->
 
 
