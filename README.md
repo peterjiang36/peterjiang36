@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Minelog, a Minecraft Travel Log Web App](https://dev.to/erikaheidi/building-minelog-a-minecraft-travel-log-web-app-6mj)
-- [Level Up Your Problem-Solving Like a Jedi: Speed Under Pressure](https://dev.to/timevolt/level-up-your-problem-solving-like-a-jedi-speed-under-pressure-3i70)
-- [Longest Common Prefix &lpar;Easy&rpar; | LeetCode Practice #4](https://dev.to/secondlastsleep/longest-common-prefix-leetcode-practice-4-2ikp)
-- [Data Engineering: The Data Field&#39;s Unknown Child](https://dev.to/khaytorah/data-engineering-the-data-fields-unknown-child-4510)
+- [📝 Caso de Estudio: Si Presto! — De cuadernos de notas a una arquitectura Offline-First en Flutter](https://dev.to/aomalejandrodev/caso-de-estudio-si-presto-de-cuadernos-de-notas-a-una-arquitectura-offline-first-en-flutter-32bb)
+- [BronoCTF : LEts a GO Writeup](https://dev.to/exploitnotes/bronoctf-lets-a-go-writeup-3hal)
+- [BroncoCTF : Atomic Substitution Theory Writeup](https://dev.to/exploitnotes/broncoctf-atomic-substitution-theory-writeup-1ckd)
+- [NGB Platform v1.3.1: CRM Demo Built with NuGet and npm Packages](https://dev.to/ngbplatform/ngb-platform-v131-crm-demo-built-with-nuget-and-npm-packages-5bfc)
 <!-- BLOG-POST-LIST:END -->
 
 
