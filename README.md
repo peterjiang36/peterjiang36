@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Caso de Estudio: Si Presto! — De cuadernos de notas a una arquitectura Offline-First en Flutter](https://dev.to/aomalejandrodev/caso-de-estudio-si-presto-de-cuadernos-de-notas-a-una-arquitectura-offline-first-en-flutter-32bb)
-- [BronoCTF : LEts a GO Writeup](https://dev.to/exploitnotes/bronoctf-lets-a-go-writeup-3hal)
-- [BroncoCTF : Atomic Substitution Theory Writeup](https://dev.to/exploitnotes/broncoctf-atomic-substitution-theory-writeup-1ckd)
-- [NGB Platform v1.3.1: CRM Demo Built with NuGet and npm Packages](https://dev.to/ngbplatform/ngb-platform-v131-crm-demo-built-with-nuget-and-npm-packages-5bfc)
+- [The honest limits of crypto escrow &lpar;and when it isn&#39;t worth the fee&rpar;](https://dev.to/vaultion/the-honest-limits-of-crypto-escrow-and-when-it-isnt-worth-the-fee-2hm5)
+- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn&#39;t Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2)
+- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
+- [AI can&#39;t run your company yet. Here&#39;s the math, and what to automate instead.](https://dev.to/threadotter/ai-cant-run-your-company-yet-heres-the-math-and-what-to-automate-instead-89c)
 <!-- BLOG-POST-LIST:END -->
 
 
