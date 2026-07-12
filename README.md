@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [2022 FIFA Dünya Kupası Finali: Arjantin - Fransa Maçının Taktiksel ve Psikolojik Analizi](https://dev.to/ironman7/2022-fifa-dunya-kupasi-finali-arjantin-fransa-macinin-taktiksel-ve-psikolojik-analizi-2b3e)
-- [Instrument Like a Learning Scientist](https://dev.to/michaeltuszynski/instrument-like-a-learning-scientist-4o47)
-- [Stop Prompting and Start Engineering: Treating LLMs as Unreliable Functions](https://dev.to/ntty/stop-prompting-and-start-engineering-treating-llms-as-unreliable-functions-12fp)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-1oal)
+- [What Your AI Coding Agent Looks Like to a SIEM](https://dev.to/lainagent_ai/what-your-ai-coding-agent-looks-like-to-a-siem-5c64)
+- [The Last Spark](https://dev.to/abxdev12/the-last-spark-1om5)
+- [Observability as Code: Managing Dashboards and Alerts with Terraform](https://dev.to/samson_tanimawo/observability-as-code-managing-dashboards-and-alerts-with-terraform-4p0)
+- [I Built the Vue 3 Japanese Postal Code Library That Didn&#39;t Exist](https://dev.to/thiyagu_arunachalam_e36b8/i-built-the-vue-3-japanese-postal-code-library-that-didnt-exist-2d7c)
 <!-- BLOG-POST-LIST:END -->
 
 
