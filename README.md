@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Fundamentals - Part 4: Building Real AI Applications](https://dev.to/vishdevwork/ai-fundamentals-part-4-building-real-ai-applications-56h6)
-- [AI Fundamentals - Part 3: Giving AI Knowledge Beyond Its Training](https://dev.to/vishdevwork/ai-fundamentals-part-3-giving-ai-knowledge-beyond-its-training-54f5)
-- [EU AI Act compliance as API calls](https://dev.to/moltycel/eu-ai-act-compliance-as-api-calls-43d7)
-- [How to Debug AI API Failures Across Multiple Models](https://dev.to/ye_allen_/how-to-debug-ai-api-failures-across-multiple-models-2cal)
+- [&quot;The price table most AI cost tools multiply by has one automated test: jq empty](https://dev.to/solomonic/the-price-table-most-ai-cost-tools-multiply-by-has-one-automated-test-jq-empty-3468)
+- [Colibri — รัน GLM-5.2 &lpar;744B MoE&rpar; บนเครื่อง 25GB RAM ด้วย Pure C ไฟล์เดียว](https://dev.to/sarantoon/colibri-ran-glm-52-744b-moe-bnekhruueng-25gb-ram-dwy-pure-c-aiflediiyw-3ae9)
+- [Go Middleware Best Practices in Production &lpar;2026&rpar;](https://dev.to/ohugonnot/go-middleware-best-practices-in-production-2026-1ekj)
+- [Leveling Up My MERN Stack Observability with SigNoz](https://dev.to/sujal_arse/leveling-up-my-mern-stack-observability-with-signoz-19nb)
 <!-- BLOG-POST-LIST:END -->
 
 
