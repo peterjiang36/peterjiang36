@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your uptime SLA means nothing when the physical process can&#39;t wait for your rollback](https://dev.to/mariusgjerd/your-uptime-sla-means-nothing-when-the-physical-process-cant-wait-for-your-rollback-12i2)
-- [Why this blog exists](https://dev.to/mariusgjerd/why-this-blog-exists-47dc)
-- [CodeForge AI — Turning Passion for Programming into a Smarter Learning Journey.](https://dev.to/sunnyspencer/codeforge-ai-turning-passion-for-programming-into-a-smarter-learning-journey-38nh)
-- [I Read Too Much and Forgot Everything So I Built a Tool That Turns My Annotations Into Something I&#39;ll Actually Reread.](https://dev.to/dynn_f/i-read-too-much-and-forgot-everything-so-i-built-a-tool-that-turns-my-highlights-into-something-2d5k)
+- [Mi INSERT tardaba 25 minutos y no era culpa de los datos: construyendo un Data Warehouse de e-commerce con PostgreSQL](https://dev.to/dnarram/mi-insert-tardaba-25-minutos-y-no-era-culpa-de-los-datos-construyendo-un-data-warehouse-de-4e14)
+- [Architecting Kubernetes Deployments with Python](https://dev.to/joachim8675309/architecting-kubernetes-deployments-with-python-4jhe)
+- [Using WebSockets to Convert BTC to USD and Reais &lpar;BRL&rpar;](https://dev.to/rubemfsv/using-websockets-to-convert-btc-to-usd-and-reais-brl-30j0)
+- [RAG - Meta Filtering and Reranking](https://dev.to/ramya_perumal_e93721ef2fa/rag-meta-filtering-and-reranking-22i1)
 <!-- BLOG-POST-LIST:END -->
 
 
