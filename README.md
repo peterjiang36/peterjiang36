@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecta si tu modelo de materiales hace trampa con la &#39;huella bibliográfica&#39;](https://dev.to/magopredator/detecta-si-tu-modelo-de-materiales-hace-trampa-con-la-huella-bibliografica-301a)
-- [Image-to-Video Is a Constraint Problem: A Practical Seedance 2.0 Workflow](https://dev.to/mamadou_hurbourg_797b27d3/image-to-video-is-a-constraint-problem-a-practical-seedance-20-workflow-28ck)
-- [Architecting Location-Based Automation Without Killing the Battery](https://dev.to/haseebthedev0/architecting-location-based-automation-without-killing-the-battery-362i)
-- [I built a Rofi assistant so my mom could stop calling me for Linux help](https://dev.to/rapacuy-dev/i-built-a-rofi-assistant-so-my-mom-could-stop-calling-me-for-linux-help-j48)
+- [AI Fundamentals - Part 4: Building Real AI Applications](https://dev.to/vishdevwork/ai-fundamentals-part-4-building-real-ai-applications-56h6)
+- [AI Fundamentals - Part 3: Giving AI Knowledge Beyond Its Training](https://dev.to/vishdevwork/ai-fundamentals-part-3-giving-ai-knowledge-beyond-its-training-54f5)
+- [EU AI Act compliance as API calls](https://dev.to/moltycel/eu-ai-act-compliance-as-api-calls-43d7)
+- [How to Debug AI API Failures Across Multiple Models](https://dev.to/ye_allen_/how-to-debug-ai-api-failures-across-multiple-models-2cal)
 <!-- BLOG-POST-LIST:END -->
 
 
