@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NIS2 e le PMI: chi è obbligato davvero, e la parte software che ti chiederà il cliente](https://dev.to/custralis/nis2-e-le-pmi-chi-e-obbligato-davvero-e-la-parte-software-che-ti-chiedera-il-cliente-46fd)
-- [A Backend Engineer&#39;s Field Notes on Cheap AI APIs in 2026](https://dev.to/truelane/a-backend-engineers-field-notes-on-cheap-ai-apis-in-2026-1pop)
-- [Day 15: My AI agent just completed its first multi-app task. It copied my bank balance from my banking app and sent it to Mom on WhatsApp. Two apps. One task. Fully autonomous. Task memory is the key.
-
-👉 github.com/Dexter2344/phone-agent](https://dev.to/okeke_chukwudubem_5f3bf49/day-15-my-ai-agent-just-completed-its-first-multi-app-task-it-copied-my-bank-balance-from-my-4eid)
-- [Project Log #15: My AI Agent Just Completed Its First Multi-App Task](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-15-my-ai-agent-just-completed-its-first-multi-app-task-38n7)
+- [Detecta si tu modelo de materiales hace trampa con la &#39;huella bibliográfica&#39;](https://dev.to/magopredator/detecta-si-tu-modelo-de-materiales-hace-trampa-con-la-huella-bibliografica-301a)
+- [Image-to-Video Is a Constraint Problem: A Practical Seedance 2.0 Workflow](https://dev.to/mamadou_hurbourg_797b27d3/image-to-video-is-a-constraint-problem-a-practical-seedance-20-workflow-28ck)
+- [Architecting Location-Based Automation Without Killing the Battery](https://dev.to/haseebthedev0/architecting-location-based-automation-without-killing-the-battery-362i)
+- [I built a Rofi assistant so my mom could stop calling me for Linux help](https://dev.to/rapacuy-dev/i-built-a-rofi-assistant-so-my-mom-could-stop-calling-me-for-linux-help-j48)
 <!-- BLOG-POST-LIST:END -->
 
 
