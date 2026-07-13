@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mi INSERT tardaba 25 minutos y no era culpa de los datos: construyendo un Data Warehouse de e-commerce con PostgreSQL](https://dev.to/dnarram/mi-insert-tardaba-25-minutos-y-no-era-culpa-de-los-datos-construyendo-un-data-warehouse-de-4e14)
-- [Architecting Kubernetes Deployments with Python](https://dev.to/joachim8675309/architecting-kubernetes-deployments-with-python-4jhe)
-- [Using WebSockets to Convert BTC to USD and Reais &lpar;BRL&rpar;](https://dev.to/rubemfsv/using-websockets-to-convert-btc-to-usd-and-reais-brl-30j0)
-- [RAG - Meta Filtering and Reranking](https://dev.to/ramya_perumal_e93721ef2fa/rag-meta-filtering-and-reranking-22i1)
+- [DesiDash: Celebrating the Passion of Indian Festivals on Solana!✨](https://dev.to/aayushi_goel_56f2e6e461f6/desidash-celebrating-the-passion-of-indian-festivals-on-solana-72e)
+- [Do We Actually Need Fable 5? A Reality Check on Frontier AI](https://dev.to/agentic_architect/do-we-actually-need-fable-5-a-reality-check-on-frontier-ai-2434)
+- [SQL: Normalização e Formas Normais](https://dev.to/yuripeixinho/sql-normalizacao-e-formas-normais-3e5j)
+- [Data Manipulation Language &lpar;DML&rpar;](https://dev.to/yuripeixinho/data-manipulation-language-dml-2eh6)
 <!-- BLOG-POST-LIST:END -->
 
 
