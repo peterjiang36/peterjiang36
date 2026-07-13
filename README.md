@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ModHeader was flagged as malware and pulled from Edge — here&#39;s how to audit any header-editing extension before you trust it](https://dev.to/hsb/modheader-was-flagged-as-malware-and-pulled-from-edge-heres-how-to-audit-any-header-editing-3ofl)
-- [Rhumb — static user-journey maps from your frontend source](https://dev.to/satnam_sandhu/rhumb-static-user-journey-maps-from-your-frontend-source-1pkc)
-- [The authority boundary problem in agent tool calls: who decides what &#39;no results&#39; means](https://dev.to/aloya/the-authority-boundary-problem-in-agent-tool-calls-who-decides-what-no-results-means-55d3)
-- [How I Built a Paper Ranking Engine That Saved Me 4 Hours a Week](https://dev.to/leozhang8285/how-i-built-a-paper-ranking-engine-that-saved-me-4-hours-a-week-4p1a)
+- [My payment processor rejected my product for calling it a &quot;service&quot;](https://dev.to/hakeemify/my-payment-processor-rejected-my-product-for-calling-it-a-service-5fff)
+- [Building a Transpiler to Migrate over 4,000 Tests to Playwright](https://dev.to/serhiy1/building-a-transpiler-to-migrate-over-4000-tests-to-playwright-4di)
+- [&quot;Make me an offer&quot; is how pre-revenue apps die on marketplaces](https://dev.to/jason_01kk/make-me-an-offer-is-how-pre-revenue-apps-die-on-marketplaces-4c7)
+- [enabling AI&#39;s Full Potential: Bridging the Gap from Sandbox to Production](https://dev.to/davekurian/enabling-ais-full-potential-bridging-the-gap-from-sandbox-to-production-4l94)
 <!-- BLOG-POST-LIST:END -->
 
 
