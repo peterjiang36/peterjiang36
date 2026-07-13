@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering JSON-Driven Popups in a Shopify Theme App Extension Without React 🤖](https://dev.to/sazzad90/rendering-json-driven-popups-in-a-shopify-theme-app-extension-without-react-2co0)
-- [SMTP outbound as a first-class citizen: send emails without pip install yagmail](https://dev.to/martin_palopoli/smtp-outbound-as-a-first-class-citizen-send-emails-without-pip-install-yagmail-46dd)
-- [SMTP outbound como ciudadano de primera clase: mandá emails sin pip install yagmail](https://dev.to/martin_palopoli/smtp-outbound-como-ciudadano-de-primera-clase-manda-emails-sin-pip-install-yagmail-1nfa)
-- [Great API docs don&#39;t lead with a parameter table](https://dev.to/jkballa/great-api-docs-dont-lead-with-a-parameter-table-5a43)
+- [Why Large Product Images Are Killing Your Store&#39;s Core Web Vitals &lpar;And How to Automate the Fix&rpar;](https://dev.to/muhayminbinmehmood/why-large-product-images-are-killing-your-stores-core-web-vitals-and-how-to-automate-the-fix-148c)
+- [France&#39;s e-invoicing mandate lands 1 September 2026. The developer&#39;s playbook.](https://dev.to/zerolooplabs/frances-e-invoicing-mandate-lands-1-september-2026-the-developers-playbook-36eb)
+- [I built MargIQ to learn which AI workflows actually need expensive models](https://dev.to/margiq_3063eb0afd34356f75/i-built-margiq-to-learn-which-ai-workflows-actually-need-expensive-models-1fbn)
+- [Top 10 Java Questions on Strings and Arrays](https://dev.to/tayjava/top-10-java-questions-on-strings-and-arrays-5d9m)
 <!-- BLOG-POST-LIST:END -->
 
 
