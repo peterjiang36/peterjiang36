@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Large Product Images Are Killing Your Store&#39;s Core Web Vitals &lpar;And How to Automate the Fix&rpar;](https://dev.to/muhayminbinmehmood/why-large-product-images-are-killing-your-stores-core-web-vitals-and-how-to-automate-the-fix-148c)
-- [France&#39;s e-invoicing mandate lands 1 September 2026. The developer&#39;s playbook.](https://dev.to/zerolooplabs/frances-e-invoicing-mandate-lands-1-september-2026-the-developers-playbook-36eb)
-- [I built MargIQ to learn which AI workflows actually need expensive models](https://dev.to/margiq_3063eb0afd34356f75/i-built-margiq-to-learn-which-ai-workflows-actually-need-expensive-models-1fbn)
-- [Top 10 Java Questions on Strings and Arrays](https://dev.to/tayjava/top-10-java-questions-on-strings-and-arrays-5d9m)
+- [Bumblebee: Perplexity AI Open-Sources a Safe Supply-Chain Scanner](https://dev.to/terminalchai/bumblebee-perplexity-ai-open-sources-a-safe-supply-chain-scanner-ief)
+- [Backend/Domain foundation](https://dev.to/lksvn/backenddomain-foundation-24hl)
+- [14 Browser Testing Articles That Changed How I Think About Release Confidence](https://dev.to/mellowthunder735/14-browser-testing-articles-that-changed-how-i-think-about-release-confidence-2a2o)
+- [How a mesh of peer AI workspaces catches what any single agent misses](https://dev.to/soulentheo/how-a-mesh-of-peer-ai-workspaces-catches-what-any-single-agent-misses-2ffh)
 <!-- BLOG-POST-LIST:END -->
 
 
