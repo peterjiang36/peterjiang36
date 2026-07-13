@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DesiDash: Celebrating the Passion of Indian Festivals on Solana!✨](https://dev.to/aayushi_goel_56f2e6e461f6/desidash-celebrating-the-passion-of-indian-festivals-on-solana-72e)
-- [Do We Actually Need Fable 5? A Reality Check on Frontier AI](https://dev.to/agentic_architect/do-we-actually-need-fable-5-a-reality-check-on-frontier-ai-2434)
-- [SQL: Normalização e Formas Normais](https://dev.to/yuripeixinho/sql-normalizacao-e-formas-normais-3e5j)
-- [Data Manipulation Language &lpar;DML&rpar;](https://dev.to/yuripeixinho/data-manipulation-language-dml-2eh6)
+- [ModHeader was flagged as malware and pulled from Edge — here&#39;s how to audit any header-editing extension before you trust it](https://dev.to/hsb/modheader-was-flagged-as-malware-and-pulled-from-edge-heres-how-to-audit-any-header-editing-3ofl)
+- [Rhumb — static user-journey maps from your frontend source](https://dev.to/satnam_sandhu/rhumb-static-user-journey-maps-from-your-frontend-source-1pkc)
+- [The authority boundary problem in agent tool calls: who decides what &#39;no results&#39; means](https://dev.to/aloya/the-authority-boundary-problem-in-agent-tool-calls-who-decides-what-no-results-means-55d3)
+- [How I Built a Paper Ranking Engine That Saved Me 4 Hours a Week](https://dev.to/leozhang8285/how-i-built-a-paper-ranking-engine-that-saved-me-4-hours-a-week-4p1a)
 <!-- BLOG-POST-LIST:END -->
 
 
