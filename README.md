@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My payment processor rejected my product for calling it a &quot;service&quot;](https://dev.to/hakeemify/my-payment-processor-rejected-my-product-for-calling-it-a-service-5fff)
-- [Building a Transpiler to Migrate over 4,000 Tests to Playwright](https://dev.to/serhiy1/building-a-transpiler-to-migrate-over-4000-tests-to-playwright-4di)
-- [&quot;Make me an offer&quot; is how pre-revenue apps die on marketplaces](https://dev.to/jason_01kk/make-me-an-offer-is-how-pre-revenue-apps-die-on-marketplaces-4c7)
-- [enabling AI&#39;s Full Potential: Bridging the Gap from Sandbox to Production](https://dev.to/davekurian/enabling-ais-full-potential-bridging-the-gap-from-sandbox-to-production-4l94)
+- [How to Actually Evaluate an AI Engineer in 2026 &lpar;7-Point Framework&rpar;](https://dev.to/krunal_groovy/how-to-actually-evaluate-an-ai-engineer-in-2026-7-point-framework-1hjd)
+- [Project Config Should Travel With APC](https://dev.to/agentprojectcontext/project-config-should-travel-with-apc-1g20)
+- [How We Built a Faster TeraBox Downloader: The Architecture Behind the Tool](https://dev.to/rishabjay_36/how-we-built-a-faster-terabox-downloader-the-architecture-behind-the-tool-4kc0)
+- [Top AI Papers on Hugging Face - 2026-07-13](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-13-39a0)
 <!-- BLOG-POST-LIST:END -->
 
 
