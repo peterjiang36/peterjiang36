@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [3 Claude Bugs That Anthropic Still Hasn&#39;t Fixed](https://dev.to/heyradcode/3-claude-bugs-that-anthropic-still-hasnt-fixed-2dpp)
-- [The Unspoken Grief of Switching From a Language You Loved](https://dev.to/_boweii/the-unspoken-grief-of-switching-from-a-language-you-loved-2o3k)
-- [Stratagems #13: P Posted a Question on a Public Forum. 24 Hours Later, Their Sales Team Called.](https://dev.to/xulingfeng/stratagems-13-p-posted-a-question-on-a-public-forum-24-hours-later-their-sales-team-called-29h1)
-- [8 Azure Interview Questions That Reveal Who&#39;s Actually Run a Subscription](https://dev.to/maheshbandaru_ba8cc2/8-azure-interview-questions-that-reveal-whos-actually-run-a-subscription-13fm)
+- [I built a HEIC to JPG converter that never uploads your photos &lpar;WebAssembly + libheif&rpar;](https://dev.to/ritusmoikaushik/i-built-a-heic-to-jpg-converter-that-never-uploads-your-photos-webassembly-libheif-291m)
+- [# Production Patterns for AI Agent Tool Calling: 8 Lessons from 6 Months of 24/7](https://dev.to/manoir_yantai_f22f01340f0/-production-patterns-for-ai-agent-tool-calling-8-lessons-from-6-months-of-247-3e5l)
+- [Hello, RocheDB! A Nim Database Built Around Data Locality](https://dev.to/puffball1567/hello-rochedb-a-nim-database-built-around-data-locality-22co)
+- [We graded 13 famous trading strategies on 6 years of data. All 13 failed.](https://dev.to/tessen/we-graded-13-famous-trading-strategies-on-6-years-of-data-all-13-failed-26o4)
 <!-- BLOG-POST-LIST:END -->
 
 
