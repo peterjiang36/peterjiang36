@@ -74,10 +74,11 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ran 10 AI Coding Models Through 5 Tasks: A Data Scientist&#39;s Take](https://dev.to/swift-logic-io218/i-ran-10-ai-coding-models-through-5-tasks-a-data-scientists-take-2e78)
-- [Adaptive Thinking Killed My Token Budget Code: Migrating Off budget_tokens](https://dev.to/pavelespitia/adaptive-thinking-killed-my-token-budget-code-migrating-off-budgettokens-2f49)
-- [Cybersecurity 101 : Windows Notifications](https://dev.to/hexfloor/cybersecurity-101-windows-notifications-5afn)
-- [I Built Free Browser-Based Validators for YAML, Kubernetes and Terraform &lpar;No Upload, No Signup&rpar;](https://dev.to/devopsaitoolkit/i-built-free-browser-based-validators-for-yaml-kubernetes-and-terraform-no-upload-no-signup-57ka)
+- [Hi everyone! 👋
+I&#39;m on a journey to become a DevOps engineer, and my goal is to land my first DevOps role by this time next year. I&#39;m committed to learning and growing every day. Any words of encouragement or advice would mean a lot. 🙏](https://dev.to/ozigis_abdulbaaqi_a3fc299/hi-everyone-im-on-a-journey-to-become-a-devops-engineer-and-my-goal-is-to-land-my-first-devops-5bhn)
+- [I wasted a weekend on WSL2 browser automation so you don’t have to](https://dev.to/lars_winstand/i-wasted-a-weekend-on-wsl2-browser-automation-so-you-dont-have-to-303a)
+- [AI Can Migrate Your COBOL to Java. It Can&#39;t Prove It Didn&#39;t Break Anything. We Built the Part That Does.](https://dev.to/vaibhav_tech4biz/ai-can-migrate-your-cobol-to-java-it-cant-prove-it-didnt-break-anything-we-built-the-part-that-4ohg)
+- [You Don&#39;t Need Perfect Code - You Need a Safety Net That Talks Back](https://dev.to/dobybaxter127/you-dont-need-perfect-code-you-need-a-safety-net-that-talks-back-3nl7)
 <!-- BLOG-POST-LIST:END -->
 
 
