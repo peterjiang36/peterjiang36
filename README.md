@@ -74,11 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi everyone! 👋
-I&#39;m on a journey to become a DevOps engineer, and my goal is to land my first DevOps role by this time next year. I&#39;m committed to learning and growing every day. Any words of encouragement or advice would mean a lot. 🙏](https://dev.to/ozigis_abdulbaaqi_a3fc299/hi-everyone-im-on-a-journey-to-become-a-devops-engineer-and-my-goal-is-to-land-my-first-devops-5bhn)
-- [I wasted a weekend on WSL2 browser automation so you don’t have to](https://dev.to/lars_winstand/i-wasted-a-weekend-on-wsl2-browser-automation-so-you-dont-have-to-303a)
-- [AI Can Migrate Your COBOL to Java. It Can&#39;t Prove It Didn&#39;t Break Anything. We Built the Part That Does.](https://dev.to/vaibhav_tech4biz/ai-can-migrate-your-cobol-to-java-it-cant-prove-it-didnt-break-anything-we-built-the-part-that-4ohg)
-- [You Don&#39;t Need Perfect Code - You Need a Safety Net That Talks Back](https://dev.to/dobybaxter127/you-dont-need-perfect-code-you-need-a-safety-net-that-talks-back-3nl7)
+- [Building an Event Planning Coordinator Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-an-event-planning-coordinator-agent-in-typescript-with-hazeljs-2jn1)
+- [Building a Home Maintenance Scheduler Agent in typescript with HazelJS](https://dev.to/nisa_fatima_bcd75fa085b76/building-a-home-maintenance-scheduler-agent-in-typescript-with-hazeljs-5c3f)
+- [Your email passes SPF and DKIM but still fails DMARC. Here&#39;s why](https://dev.to/vadimivanov/your-email-passes-spf-and-dkim-but-still-fails-dmarc-heres-why-58ca)
+- [EDR Tool Limits Linux Distro Choice on Developer Laptops: Exploring Solutions for Flexibility and Productivity](https://dev.to/maricode/edr-tool-limits-linux-distro-choice-on-developer-laptops-exploring-solutions-for-flexibility-and-2ndp)
 <!-- BLOG-POST-LIST:END -->
 
 
