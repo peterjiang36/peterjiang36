@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Best alternatives to Heroku in 2026](https://dev.to/sparrowhawk705/7-heroku-alternatives-worth-considering-in-2026-4hnh)
-- [I built 42 landing page templates as single HTML files &lpar;no npm, no build step&rpar;](https://dev.to/segcam_spa_2fcbb0882f9697/i-built-42-landing-page-templates-as-sini-built-42-landing-page-templates-as-single-html-files-no-42kd)
-- [Linux Kernel Modules That Explain How Podman Really Works](https://dev.to/sergioarmgpl/linux-kernel-modules-that-explain-how-podman-really-works-22c3)
-- [Logging workouts is solved. I&#39;m building what comes after.](https://dev.to/arqamwd/logging-workouts-is-solved-im-building-what-comes-after-36cc)
+- [3 Claude Bugs That Anthropic Still Hasn&#39;t Fixed](https://dev.to/heyradcode/3-claude-bugs-that-anthropic-still-hasnt-fixed-2dpp)
+- [The Unspoken Grief of Switching From a Language You Loved](https://dev.to/_boweii/the-unspoken-grief-of-switching-from-a-language-you-loved-2o3k)
+- [Stratagems #13: P Posted a Question on a Public Forum. 24 Hours Later, Their Sales Team Called.](https://dev.to/xulingfeng/stratagems-13-p-posted-a-question-on-a-public-forum-24-hours-later-their-sales-team-called-29h1)
+- [8 Azure Interview Questions That Reveal Who&#39;s Actually Run a Subscription](https://dev.to/maheshbandaru_ba8cc2/8-azure-interview-questions-that-reveal-whos-actually-run-a-subscription-13fm)
 <!-- BLOG-POST-LIST:END -->
 
 
