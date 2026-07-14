@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a HEIC to JPG converter that never uploads your photos &lpar;WebAssembly + libheif&rpar;](https://dev.to/ritusmoikaushik/i-built-a-heic-to-jpg-converter-that-never-uploads-your-photos-webassembly-libheif-291m)
-- [# Production Patterns for AI Agent Tool Calling: 8 Lessons from 6 Months of 24/7](https://dev.to/manoir_yantai_f22f01340f0/-production-patterns-for-ai-agent-tool-calling-8-lessons-from-6-months-of-247-3e5l)
-- [Hello, RocheDB! A Nim Database Built Around Data Locality](https://dev.to/puffball1567/hello-rochedb-a-nim-database-built-around-data-locality-22co)
-- [We graded 13 famous trading strategies on 6 years of data. All 13 failed.](https://dev.to/tessen/we-graded-13-famous-trading-strategies-on-6-years-of-data-all-13-failed-26o4)
+- [How to Build AI Agents That Won&#39;t Delete Your Database](https://dev.to/abdul___rehman/how-to-build-ai-agents-that-wont-delete-your-database-pi5)
+- [How Fast Should Your AI Voice Agent Respond?](https://dev.to/pykero/how-fast-should-your-ai-voice-agent-respond-4o68)
+- [Switching to GPT-5.6 in production: it&#39;s a schema, cache, and harness problem — not a model swap](https://dev.to/thegatewayguy/switching-to-gpt-56-in-production-its-a-schema-cache-and-harness-problem-not-a-model-swap-2hjn)
+- [How to Size Crypto Trading Bot Positions by Market Regime](https://dev.to/gunnarthorderson/how-to-size-crypto-trading-bot-positions-by-market-regime-41gl)
 <!-- BLOG-POST-LIST:END -->
 
 
