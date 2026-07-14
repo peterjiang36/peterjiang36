@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build AI Agents That Won&#39;t Delete Your Database](https://dev.to/abdul___rehman/how-to-build-ai-agents-that-wont-delete-your-database-pi5)
-- [How Fast Should Your AI Voice Agent Respond?](https://dev.to/pykero/how-fast-should-your-ai-voice-agent-respond-4o68)
-- [Switching to GPT-5.6 in production: it&#39;s a schema, cache, and harness problem — not a model swap](https://dev.to/thegatewayguy/switching-to-gpt-56-in-production-its-a-schema-cache-and-harness-problem-not-a-model-swap-2hjn)
-- [How to Size Crypto Trading Bot Positions by Market Regime](https://dev.to/gunnarthorderson/how-to-size-crypto-trading-bot-positions-by-market-regime-41gl)
+- [Skip the Ops: When a Managed AI Dev Platform Beats Running Your Own](https://dev.to/odd_background_328/skip-the-ops-when-a-managed-ai-dev-platform-beats-running-your-own-4bag)
+- [Loop Engineering: Fine-Tuning the Guardrail That Fired Wrong](https://dev.to/reporails/loop-engineering-fine-tuning-the-guardrail-that-fired-wrong-3cbc)
+- [What a Hosted AI Coding Platform Should Get Right in the UI](https://dev.to/babycat/what-a-hosted-ai-coding-platform-should-get-right-in-the-ui-3kei)
+- [Understanding the credentials Option in the Fetch API](https://dev.to/alireza_hassankhani_b8401/understanding-the-credentials-option-in-the-fetch-api-550)
 <!-- BLOG-POST-LIST:END -->
 
 
