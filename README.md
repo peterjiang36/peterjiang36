@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Skip the Ops: When a Managed AI Dev Platform Beats Running Your Own](https://dev.to/odd_background_328/skip-the-ops-when-a-managed-ai-dev-platform-beats-running-your-own-4bag)
-- [Loop Engineering: Fine-Tuning the Guardrail That Fired Wrong](https://dev.to/reporails/loop-engineering-fine-tuning-the-guardrail-that-fired-wrong-3cbc)
-- [What a Hosted AI Coding Platform Should Get Right in the UI](https://dev.to/babycat/what-a-hosted-ai-coding-platform-should-get-right-in-the-ui-3kei)
-- [Understanding the credentials Option in the Fetch API](https://dev.to/alireza_hassankhani_b8401/understanding-the-credentials-option-in-the-fetch-api-550)
+- [Mastering FastAPI Background Tasks: Real‑World Patterns, Testing, and When to Reach for Celery](https://dev.to/ayush_kumar_085a0f2c54e3f/mastering-fastapi-background-tasks-real-world-patterns-testing-and-when-to-reach-for-celery-22o8)
+- [Auto-Tag Your Music Library — With Confidence Scores](https://dev.to/birrings/auto-tag-your-music-library-with-confidence-scores-17d)
+- [Mixed In Key vs Rekordbox vs Serato: Why DJ Platforms Disagree on Key 60% of the Time](https://dev.to/birrings/mixed-in-key-vs-rekordbox-vs-serato-why-dj-platforms-disagree-on-key-60-of-the-time-22fj)
+- [Testing Laravel Events and Listeners: Ensuring Reliable Asynchronous Workflows](https://dev.to/codecraft_diary_3d13677fb/testing-laravel-events-and-listeners-ensuring-reliable-asynchronous-workflows-4gi0)
 <!-- BLOG-POST-LIST:END -->
 
 
