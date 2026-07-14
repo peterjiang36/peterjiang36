@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering FastAPI Background Tasks: Real‑World Patterns, Testing, and When to Reach for Celery](https://dev.to/ayush_kumar_085a0f2c54e3f/mastering-fastapi-background-tasks-real-world-patterns-testing-and-when-to-reach-for-celery-22o8)
-- [Auto-Tag Your Music Library — With Confidence Scores](https://dev.to/birrings/auto-tag-your-music-library-with-confidence-scores-17d)
-- [Mixed In Key vs Rekordbox vs Serato: Why DJ Platforms Disagree on Key 60% of the Time](https://dev.to/birrings/mixed-in-key-vs-rekordbox-vs-serato-why-dj-platforms-disagree-on-key-60-of-the-time-22fj)
-- [Testing Laravel Events and Listeners: Ensuring Reliable Asynchronous Workflows](https://dev.to/codecraft_diary_3d13677fb/testing-laravel-events-and-listeners-ensuring-reliable-asynchronous-workflows-4gi0)
+- [I Ran 10 AI Coding Models Through 5 Tasks: A Data Scientist&#39;s Take](https://dev.to/swift-logic-io218/i-ran-10-ai-coding-models-through-5-tasks-a-data-scientists-take-2e78)
+- [Adaptive Thinking Killed My Token Budget Code: Migrating Off budget_tokens](https://dev.to/pavelespitia/adaptive-thinking-killed-my-token-budget-code-migrating-off-budgettokens-2f49)
+- [Cybersecurity 101 : Windows Notifications](https://dev.to/hexfloor/cybersecurity-101-windows-notifications-5afn)
+- [I Built Free Browser-Based Validators for YAML, Kubernetes and Terraform &lpar;No Upload, No Signup&rpar;](https://dev.to/devopsaitoolkit/i-built-free-browser-based-validators-for-yaml-kubernetes-and-terraform-no-upload-no-signup-57ka)
 <!-- BLOG-POST-LIST:END -->
 
 
