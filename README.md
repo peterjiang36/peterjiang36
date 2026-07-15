@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MikroTik QoS CAKE Optimization, ESP32 IoT Smart Key, and Self-Hosted Server Infrastructure](https://dev.to/biburrahman/mikrotik-qos-cake-optimization-esp32-iot-smart-key-and-self-hosted-server-infrastructure-g2j)
-- [Dev Log: 2026-07-14](https://dev.to/nasrulhazim/dev-log-2026-07-14-232e)
-- [The Reconciler Pattern: When a Queued Job Simply Never Runs](https://dev.to/nasrulhazim/the-reconciler-pattern-when-a-queued-job-simply-never-runs-1k29)
-- [Migrating from LocalStorage to Native FS in Tauri: Repo-rter v0.4.1 Technical Deep Dive](https://dev.to/rakkunn/migrating-from-localstorage-to-native-fs-in-tauri-repo-rter-v041-technical-deep-dive-5hja)
+- [Synchronous TurboModules Are Not Automatically Fast](https://dev.to/subraatakumar/synchronous-turbomodules-are-not-automatically-fast-1fb6)
+- [A Practical Guide to Editing Images with GPT-Image-2 over an OpenAI-Compatible API](https://dev.to/germey/a-practical-guide-to-editing-images-with-gpt-image-2-over-an-openai-compatible-api-508a)
+- [I built a full IAM system in Spring Boot — here&#39;s what broke when I put it on the internet](https://dev.to/tharvbytes/i-built-a-full-iam-system-in-spring-boot-heres-what-broke-when-i-put-it-on-the-internet-3n8l)
+- [Stop giving your LLM Admin rights: Why surgical MCP servers are the only way to automate WordPress](https://dev.to/renato_marinho/stop-giving-your-llm-admin-rights-why-surgical-mcp-servers-are-the-only-way-to-automate-wordpress-14hf)
 <!-- BLOG-POST-LIST:END -->
 
 
