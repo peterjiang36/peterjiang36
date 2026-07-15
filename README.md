@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Federal Reform Picks AI‑Native Outcome Integrators](https://dev.to/greg_godbout_e3521d702581/why-federal-reform-picks-ai-native-outcome-integrators-4m01)
-- [How I Used Spec-Driven Development to Build a Game](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
-- [I graded my own ML option forecasts. Here&#39;s the Brier score.](https://dev.to/connerlambden/i-graded-my-own-ml-option-forecasts-heres-the-brier-score-20fp)
-- [Fix: &quot;new row violates row-level security policy&quot; in Supabase &lpar;it&#39;s not what you think&rpar;](https://dev.to/mateuszingano/fix-new-row-violates-row-level-security-policy-in-supabase-its-not-what-you-think-2g08)
+- [MikroTik QoS CAKE Optimization, ESP32 IoT Smart Key, and Self-Hosted Server Infrastructure](https://dev.to/biburrahman/mikrotik-qos-cake-optimization-esp32-iot-smart-key-and-self-hosted-server-infrastructure-g2j)
+- [Dev Log: 2026-07-14](https://dev.to/nasrulhazim/dev-log-2026-07-14-232e)
+- [The Reconciler Pattern: When a Queued Job Simply Never Runs](https://dev.to/nasrulhazim/the-reconciler-pattern-when-a-queued-job-simply-never-runs-1k29)
+- [Migrating from LocalStorage to Native FS in Tauri: Repo-rter v0.4.1 Technical Deep Dive](https://dev.to/rakkunn/migrating-from-localstorage-to-native-fs-in-tauri-repo-rter-v041-technical-deep-dive-5hja)
 <!-- BLOG-POST-LIST:END -->
 
 
