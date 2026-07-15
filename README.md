@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronous TurboModules Are Not Automatically Fast](https://dev.to/subraatakumar/synchronous-turbomodules-are-not-automatically-fast-1fb6)
-- [A Practical Guide to Editing Images with GPT-Image-2 over an OpenAI-Compatible API](https://dev.to/germey/a-practical-guide-to-editing-images-with-gpt-image-2-over-an-openai-compatible-api-508a)
-- [I built a full IAM system in Spring Boot — here&#39;s what broke when I put it on the internet](https://dev.to/tharvbytes/i-built-a-full-iam-system-in-spring-boot-heres-what-broke-when-i-put-it-on-the-internet-3n8l)
-- [Stop giving your LLM Admin rights: Why surgical MCP servers are the only way to automate WordPress](https://dev.to/renato_marinho/stop-giving-your-llm-admin-rights-why-surgical-mcp-servers-are-the-only-way-to-automate-wordpress-14hf)
+- [What Makes Healthcare App Testing Different from Every Other App Category](https://dev.to/drizzdev/what-makes-healthcare-app-testing-different-from-every-other-app-category-4ibn)
+- [If You Can&#39;t Run It Local, You&#39;re Not Ready to Deploy](https://dev.to/shiva_kadiri/if-you-cant-run-it-local-youre-not-ready-to-deploy-506n)
+- [NH:STA S01E06 Reproducible Builds](https://dev.to/neighbourhoodie/nhsta-s01e06-reproducible-builds-12o2)
+- [MCP Design Patterns: 6 Architectures for Your AI Tools](https://dev.to/ben-witt/mcp-design-patterns-6-architectures-for-your-ai-tools-1d02)
 <!-- BLOG-POST-LIST:END -->
 
 
