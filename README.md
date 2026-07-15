@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes Healthcare App Testing Different from Every Other App Category](https://dev.to/drizzdev/what-makes-healthcare-app-testing-different-from-every-other-app-category-4ibn)
-- [If You Can&#39;t Run It Local, You&#39;re Not Ready to Deploy](https://dev.to/shiva_kadiri/if-you-cant-run-it-local-youre-not-ready-to-deploy-506n)
-- [NH:STA S01E06 Reproducible Builds](https://dev.to/neighbourhoodie/nhsta-s01e06-reproducible-builds-12o2)
-- [MCP Design Patterns: 6 Architectures for Your AI Tools](https://dev.to/ben-witt/mcp-design-patterns-6-architectures-for-your-ai-tools-1d02)
+- [What&#39;s New in Laravel 13.15: Typed Translations and More](https://dev.to/hafiz619/whats-new-in-laravel-1315-typed-translations-and-more-4764)
+- [Build a Crypto Payment Reconciliation Tool for Merchants](https://dev.to/kevins1988/build-a-crypto-payment-reconciliation-tool-for-merchants-1eo)
+- [Kysely: Type-Safe SQL Query Builder for Node.js &lpar;2026&rpar;](https://dev.to/stacknotice/kysely-type-safe-sql-query-builder-for-nodejs-2026-2kmj)
+- [&quot;Why I Build Serverless, Client-Side Utilities: The Architecture of QuickQR and ARTRES&quot;](https://dev.to/md_tharik_4dfe8c4b8ab8caf/why-i-build-serverless-client-side-utilities-the-architecture-of-quickqr-and-artres-1kj)
 <!-- BLOG-POST-LIST:END -->
 
 
