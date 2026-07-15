@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What&#39;s New in Laravel 13.15: Typed Translations and More](https://dev.to/hafiz619/whats-new-in-laravel-1315-typed-translations-and-more-4764)
-- [Build a Crypto Payment Reconciliation Tool for Merchants](https://dev.to/kevins1988/build-a-crypto-payment-reconciliation-tool-for-merchants-1eo)
-- [Kysely: Type-Safe SQL Query Builder for Node.js &lpar;2026&rpar;](https://dev.to/stacknotice/kysely-type-safe-sql-query-builder-for-nodejs-2026-2kmj)
-- [&quot;Why I Build Serverless, Client-Side Utilities: The Architecture of QuickQR and ARTRES&quot;](https://dev.to/md_tharik_4dfe8c4b8ab8caf/why-i-build-serverless-client-side-utilities-the-architecture-of-quickqr-and-artres-1kj)
+- [Building a Research-Grade AI Project as a Solo Developer: My Stack, Tools, and Workflow](https://dev.to/george_panos_607e125c9161/building-a-research-grade-ai-project-as-a-solo-developer-my-stack-tools-and-workflow-2oaj)
+- [Building a production MCP server: How we made GoodBarber agent-ready &lpar;without the glue code&rpar;](https://dev.to/pierrelaurentmedori/building-a-production-mcp-server-how-we-made-goodbarber-agent-ready-without-the-glue-code-4co6)
+- [Building AI That People Actually Use: Lessons Beyond the Hype](https://dev.to/katul1512/building-ai-that-people-actually-use-lessons-beyond-the-hype-3dde)
+- [I Built a Tool to Visualize DSA. Let’s Learn Together! &lpar;DSA View View 👀👀&rpar;](https://dev.to/nyaomaru/i-built-a-tool-to-visualize-dsa-lets-learn-together-dsa-view-view--djo)
 <!-- BLOG-POST-LIST:END -->
 
 
