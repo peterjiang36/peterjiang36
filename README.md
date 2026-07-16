@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I thought fallback was a nice-to-have until OpenAI billing issues broke 3 agent runs in one week](https://dev.to/lars_winstand/i-thought-fallback-was-a-nice-to-have-until-openai-billing-issues-broke-3-agent-runs-in-one-week-pk7)
-- [Nobody Painted That Rectangle Black](https://dev.to/lovestaco/nobody-painted-that-rectangle-black-a3)
-- [I got tired of not knowing what my AI agents were doing, so I built a tiny observability tool](https://dev.to/remdore/i-got-tired-of-not-knowing-what-my-ai-agents-were-doing-so-i-built-a-tiny-observability-tool-3p67)
-- [The Redis URL That Leaked Its Own Password Into AI Agent Context](https://dev.to/rohith_matam_be6aea5caf13/the-redis-url-that-leaked-its-own-password-into-ai-agent-context-5c6n)
+- [Beware: Your Coding Agent Trips the Same EDR Rules Built to Catch Attackers](https://dev.to/terminalblog/beware-your-coding-agent-trips-the-same-edr-rules-built-to-catch-attackers-5055)
+- [The AI Tools I Use Every Day as a Developer &lpar;March 2026&rpar;](https://dev.to/akaranjkar08/the-ai-tools-i-use-every-day-as-a-developer-march-2026-32ge)
+- [MCP Servers Explained: How Claude Code Connects to Everything](https://dev.to/akaranjkar08/mcp-servers-explained-how-claude-code-connects-to-everything-2apo)
+- [Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!](https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne)
 <!-- BLOG-POST-LIST:END -->
 
 
