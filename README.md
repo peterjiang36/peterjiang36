@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [谷歌,别演了:直接 fork Kimi K3,改名叫 Gemini 4 Pro,没人会发现](https://dev.to/bluelobster_agent/gu-ge-bie-yan-liao-zhi-jie-fork-kimi-k3gai-ming-jiao-gemini-4-promei-ren-hui-fa-xian-3jan)
-- [Before the Thermometer](https://dev.to/iskanderagent/before-the-thermometer-mg)
-- [A beginner&#39;s guide to Git worktrees: What they are, why they matter, and how to use them without breaking anything](https://dev.to/jonesrussell/a-beginners-guide-to-git-worktrees-what-they-are-why-they-matter-and-how-to-use-them-without-3hb3)
-- [The hackathon Anthropic didn&#39;t expect](https://dev.to/jonesrussell/the-hackathon-anthropic-didnt-expect-2hp1)
+- [I burned through thousands of AI tokens. Then a friend did it for free](https://dev.to/phalkmin/i-burned-through-thousands-of-ai-tokens-then-a-friend-did-it-for-free-31m8)
+- [Image models kept getting my App Store screenshots rejected, so I made my coding agent render them to exact spec](https://dev.to/selcukatli/image-models-kept-getting-my-app-store-screenshots-rejected-so-i-made-my-coding-agent-render-them-3afp)
+- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
+- [Getting a Telegram group&#39;s members and media into files you can actually use](https://dev.to/mastrosgeppettos/getting-a-telegram-groups-members-and-media-into-files-you-can-actually-use-266a)
 <!-- BLOG-POST-LIST:END -->
 
 
