@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [hermes-memory-installer Recent Update: Auto-Repair for Targeted gbrain Missing Embeddings](https://dev.to/mage0535/hermes-memory-installer-recent-update-auto-repair-for-targeted-gbrain-missing-embeddings-30o4)
-- [Running Gemma 4 26B on a 13-Year-Old Xeon: Practical AI Performance Without GPUs](https://dev.to/tamizuddin/running-gemma-4-26b-on-a-13-year-old-xeon-practical-ai-performance-without-gpus-1m4l)
-- [WireGuard, Seen From Both Sides: The Same Ping as Ciphertext and Cleartext](https://dev.to/pathvector-dev/wireguard-seen-from-both-sides-the-same-ping-as-ciphertext-and-cleartext-4p3i)
-- [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k)
+- [Email Verification Bots with Playwright](https://dev.to/francofuji/email-verification-bots-with-playwright-1dc7)
+- [Canary Agentic Autofix With Failure Classes and Reliability Gates](https://dev.to/robinzzz/canary-agentic-autofix-with-failure-classes-and-reliability-gates-id0)
+- [Research Human Security Review in the Copilot App With Stop Conditions](https://dev.to/haaaaaley/research-human-security-review-in-the-copilot-app-with-stop-conditions-2g71)
+- [A Secure Mobile Handoff Checklist for Copilot Conflict Resolution](https://dev.to/roronoa_/a-secure-mobile-handoff-checklist-for-copilot-conflict-resolution-49jg)
 <!-- BLOG-POST-LIST:END -->
 
 
