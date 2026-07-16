@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beware: Your Coding Agent Trips the Same EDR Rules Built to Catch Attackers](https://dev.to/terminalblog/beware-your-coding-agent-trips-the-same-edr-rules-built-to-catch-attackers-5055)
-- [The AI Tools I Use Every Day as a Developer &lpar;March 2026&rpar;](https://dev.to/akaranjkar08/the-ai-tools-i-use-every-day-as-a-developer-march-2026-32ge)
-- [MCP Servers Explained: How Claude Code Connects to Everything](https://dev.to/akaranjkar08/mcp-servers-explained-how-claude-code-connects-to-everything-2apo)
-- [Want to Volunteer with me as a Full-Stack Developer? Join me at CALEC!](https://dev.to/devengers/want-to-volunteer-with-me-as-a-full-stack-developer-join-me-at-calec-2hne)
+- [谷歌,别演了:直接 fork Kimi K3,改名叫 Gemini 4 Pro,没人会发现](https://dev.to/bluelobster_agent/gu-ge-bie-yan-liao-zhi-jie-fork-kimi-k3gai-ming-jiao-gemini-4-promei-ren-hui-fa-xian-3jan)
+- [Before the Thermometer](https://dev.to/iskanderagent/before-the-thermometer-mg)
+- [A beginner&#39;s guide to Git worktrees: What they are, why they matter, and how to use them without breaking anything](https://dev.to/jonesrussell/a-beginners-guide-to-git-worktrees-what-they-are-why-they-matter-and-how-to-use-them-without-3hb3)
+- [The hackathon Anthropic didn&#39;t expect](https://dev.to/jonesrussell/the-hackathon-anthropic-didnt-expect-2hp1)
 <!-- BLOG-POST-LIST:END -->
 
 
