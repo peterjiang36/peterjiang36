@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Email Verification Bots with Playwright](https://dev.to/francofuji/email-verification-bots-with-playwright-1dc7)
-- [Canary Agentic Autofix With Failure Classes and Reliability Gates](https://dev.to/robinzzz/canary-agentic-autofix-with-failure-classes-and-reliability-gates-id0)
-- [Research Human Security Review in the Copilot App With Stop Conditions](https://dev.to/haaaaaley/research-human-security-review-in-the-copilot-app-with-stop-conditions-2g71)
-- [A Secure Mobile Handoff Checklist for Copilot Conflict Resolution](https://dev.to/roronoa_/a-secure-mobile-handoff-checklist-for-copilot-conflict-resolution-49jg)
+- [Building and Deploying a Remote MCP Server: Lessons from Connecting an Expense Tracker to Claude Desktop](https://dev.to/ali_raza_1ce2540f37e01a91/building-and-deploying-a-remote-mcp-server-lessons-from-connecting-an-expense-tracker-to-claude-2f4o)
+- [Alt Text for WooCommerce Variation Images](https://dev.to/benoats/alt-text-for-woocommerce-variation-images-182d)
+- [Soul in Motion — 12:33 PM | 2026-07-16](https://dev.to/dev_rajput_2d46f92f8a3418/soul-in-motion-1233-pm-2026-07-16-3p4h)
+- [Booking.com Breach: When the Vendor Chain Becomes the Attack Surface](https://dev.to/alejandxr/bookingcom-breach-when-the-vendor-chain-becomes-the-attack-surface-cee)
 <!-- BLOG-POST-LIST:END -->
 
 
