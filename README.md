@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Converting HTML to WordPress and Elementor Is Still Hard in 2026](https://dev.to/dmitry_hans_db5eae0801980/why-converting-html-to-wordpress-and-elementor-is-still-hard-in-2026-13lc)
-- [Fleet-Scale Robotics: Reliable USB Device Binding on NVIDIA Jetson Orin](https://dev.to/shaifurcodes/fleet-scale-robotics-reliable-usb-device-binding-on-nvidia-jetson-orin-3gei)
-- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
-- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
+- [hermes-memory-installer Recent Update: Auto-Repair for Targeted gbrain Missing Embeddings](https://dev.to/mage0535/hermes-memory-installer-recent-update-auto-repair-for-targeted-gbrain-missing-embeddings-30o4)
+- [Running Gemma 4 26B on a 13-Year-Old Xeon: Practical AI Performance Without GPUs](https://dev.to/tamizuddin/running-gemma-4-26b-on-a-13-year-old-xeon-practical-ai-performance-without-gpus-1m4l)
+- [WireGuard, Seen From Both Sides: The Same Ping as Ciphertext and Cleartext](https://dev.to/pathvector-dev/wireguard-seen-from-both-sides-the-same-ping-as-ciphertext-and-cleartext-4p3i)
+- [Smash Story: The Demo Script That Out-Debugged My Test Suite](https://dev.to/gde/smash-story-the-demo-script-that-out-debugged-my-test-suite-430k)
 <!-- BLOG-POST-LIST:END -->
 
 
