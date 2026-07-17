@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel AI SDK vs calling model APIs directly: what you actually gain](https://dev.to/mudassirworks/vercel-ai-sdk-vs-calling-model-apis-directly-what-you-actually-gain-83h)
-- [A todo.txt shared by a human and AI agents: why plain text beat a SaaS board for my workflow](https://dev.to/hideyukimori/a-todotxt-shared-by-a-human-and-ai-agents-why-plain-text-beat-a-saas-board-for-my-workflow-5dbh)
-- [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://dev.to/orca_forge/kurezitutokadobu-yao-deshi-eruwu-liao-llm-apipurobaidamatome2026nian-ban--4cdk)
-- [From Legos to Referees: A Brief History of How Online Games Actually Work](https://dev.to/derek_kahre/from-legos-to-referees-a-brief-history-of-how-online-games-actually-work-1e6o)
+- [Video Commerce with Medusa v2 &amp; MeiliSearch: Smart Product Matching](https://dev.to/firevibe/video-commerce-with-medusa-v2-meilisearch-smart-product-matching-j45)
+- [A Two-Stage Workflow to Detect Data Leakage.](https://dev.to/apoorvtripathi1999/a-two-stage-workflow-to-detect-data-leakage-4f2b)
+- [Colibri: Running a 744B AI Model on Your Laptop](https://dev.to/jamilxt/colibri-running-a-744b-ai-model-on-your-laptop-4l6g)
+- [Neden LIWICODE&#39;u Geliştirdim? Hafif Kod Analiz Aracı ve Dev Visual Studio Karşılaştırması](https://dev.to/liwiunxdo/neden-liwicodeu-gelistirdim-hafif-siklet-kod-analiz-araci-ve-dev-visual-studio-karsilastirmasi-c1l)
 <!-- BLOG-POST-LIST:END -->
 
 
