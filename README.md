@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Curiosity to Community: Why I Started Omnikon](https://dev.to/rishibyte/from-curiosity-to-community-why-i-started-omnikon-16kg)
-- [I Built an Open-Source Seller Earnings Calculator for Software Marketplaces](https://dev.to/esde_site/i-built-an-open-source-seller-earnings-calculator-for-software-marketplaces-4d09)
-- [Dev Opportunity Radar #8: OpenAI Build Week, AIAF Fellowship, The Residency &amp; AI Dev Tools Zoomcamp](https://dev.to/devengers/dev-opportunity-radar-8-openai-build-week-aiaf-fellowship-the-residency-ai-dev-tools-zoomcamp-5bpc)
-- [Contribute to Omnikon in GSSoC 2026](https://dev.to/rishibyte/contribute-to-omnikon-in-gssoc-2026-1occ)
+- [Vercel AI SDK vs calling model APIs directly: what you actually gain](https://dev.to/mudassirworks/vercel-ai-sdk-vs-calling-model-apis-directly-what-you-actually-gain-83h)
+- [A todo.txt shared by a human and AI agents: why plain text beat a SaaS board for my workflow](https://dev.to/hideyukimori/a-todotxt-shared-by-a-human-and-ai-agents-why-plain-text-beat-a-saas-board-for-my-workflow-5dbh)
+- [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://dev.to/orca_forge/kurezitutokadobu-yao-deshi-eruwu-liao-llm-apipurobaidamatome2026nian-ban--4cdk)
+- [From Legos to Referees: A Brief History of How Online Games Actually Work](https://dev.to/derek_kahre/from-legos-to-referees-a-brief-history-of-how-online-games-actually-work-1e6o)
 <!-- BLOG-POST-LIST:END -->
 
 
