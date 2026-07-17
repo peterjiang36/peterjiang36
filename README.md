@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI agent python ollama: Build, Test, Deploy with FastAPI](https://dev.to/ayush_kumar_085a0f2c54e3f/ai-agent-python-ollama-build-test-deploy-with-fastapi-3ho2)
-- [Magento 2 Peak Traffic Preparation: Scaling for Black Friday and High-Events](https://dev.to/magevanta/magento-2-peak-traffic-preparation-scaling-for-black-friday-and-high-events-4l64)
-- [719 React Native Interview Questions and Answers — 2026 Edition](https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9)
-- [How to Build a Crypto Trading Bot in 2026 &lpar;Complete Guide&rpar;](https://dev.to/gunnarthorderson/how-to-build-a-crypto-trading-bot-in-2026-complete-guide-2b9a)
+- [# What Did You Take?](https://dev.to/rjeff-sudo/-what-did-you-take-56b6)
+- [Node.js Internals — An Uncle-Nephew Conversation &lpar;Hindi&rpar;🍵](https://dev.to/surajrkhonde/nodejs-internals-an-uncle-nephew-conversation-hindi-7n0)
+- [Under the hood of, JavaScript&#39;s Type Conversion](https://dev.to/d32ssv/under-the-hood-of-javascripts-type-conversion-2epc)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-706)
 <!-- BLOG-POST-LIST:END -->
 
 
