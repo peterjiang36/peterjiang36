@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# What Did You Take?](https://dev.to/rjeff-sudo/-what-did-you-take-56b6)
-- [Node.js Internals — An Uncle-Nephew Conversation &lpar;Hindi&rpar;🍵](https://dev.to/surajrkhonde/nodejs-internals-an-uncle-nephew-conversation-hindi-7n0)
-- [Under the hood of, JavaScript&#39;s Type Conversion](https://dev.to/d32ssv/under-the-hood-of-javascripts-type-conversion-2epc)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-706)
+- [Five Gemma-4 models, one accelerator: what porting E2B 31B to AWS Inferentia2 taught me](https://dev.to/gde/five-gemma-4-models-one-accelerator-what-porting-e2b-31b-to-aws-inferentia2-taught-me-2gf5)
+- [Show DEV: I built a lightweight, extensible Web Page Builder using React 🚀](https://dev.to/ebrahim_elmwafy_5d64d93ce/show-dev-i-built-a-lightweight-extensible-web-page-builder-using-react-6b6)
+- [HackTheBox : Void Whispers Writeup](https://dev.to/exploitnotes/hackthebox-void-whispers-writeup-bh5)
+- [Generator Internals: Why They Are Lazy and What That Actually Means](https://dev.to/ameer_abdullah_68d48c8496/generator-internals-why-they-are-lazy-and-what-that-actually-means-1eh1)
 <!-- BLOG-POST-LIST:END -->
 
 
