@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Content Publishing Workflow That Actually Holds Together](https://dev.to/ahmet_saridag_9232a4f1a24/building-an-ai-content-publishing-workflow-that-actually-holds-together-3o6m)
-- [How to catch breaking OpenAPI changes before they reach production](https://dev.to/apicontractguard/how-to-catch-breaking-openapi-changes-before-they-reach-production-44jj)
-- [Grok Walks Off With Your Repo? When the &quot;Smartest Assistant&quot; Becomes the Most Dangerous Tool](https://dev.to/dufrence/grok-walks-off-with-your-repo-when-the-smartest-assistant-becomes-the-most-dangerous-tool-5bdl)
-- [LSPS Specifications: What Lightning Service Providers Are Standardizing and Why It Matters](https://dev.to/aturo_phil/lsps-specifications-what-lightning-service-providers-are-standardizing-and-why-it-matters-2nng)
+- [AI agent python ollama: Build, Test, Deploy with FastAPI](https://dev.to/ayush_kumar_085a0f2c54e3f/ai-agent-python-ollama-build-test-deploy-with-fastapi-3ho2)
+- [Magento 2 Peak Traffic Preparation: Scaling for Black Friday and High-Events](https://dev.to/magevanta/magento-2-peak-traffic-preparation-scaling-for-black-friday-and-high-events-4l64)
+- [719 React Native Interview Questions and Answers — 2026 Edition](https://dev.to/amitkumar13/719-react-native-interview-questions-and-answers-2026-edition-31d9)
+- [How to Build a Crypto Trading Bot in 2026 &lpar;Complete Guide&rpar;](https://dev.to/gunnarthorderson/how-to-build-a-crypto-trading-bot-in-2026-complete-guide-2b9a)
 <!-- BLOG-POST-LIST:END -->
 
 
