@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop hiding behind Code &lpar;Comfort Zone&rpar;](https://dev.to/codisfy/stop-hiding-behind-code-comfort-zone-bph)
-- [Vector Databases, Deep Indexing &amp; Token Economics: The Complete Story &lpar;phase 3&rpar;](https://dev.to/surajrkhonde/vector-databases-deep-indexing-token-economics-the-complete-story-phase-3-4n60)
-- [I Did the Math on Kimi K3. The $15 Output Price Isn&#39;t the Whole Cost Story.](https://dev.to/tokenmixai/i-did-the-math-on-kimi-k3-the-15-output-price-isnt-the-whole-cost-story-3b21)
-- [What Makes a Software Engineer: The Essence of the Job](https://dev.to/shayesta/what-makes-a-software-engineer-the-essence-of-the-job-6p8)
+- [Building an AI Content Publishing Workflow That Actually Holds Together](https://dev.to/ahmet_saridag_9232a4f1a24/building-an-ai-content-publishing-workflow-that-actually-holds-together-3o6m)
+- [How to catch breaking OpenAPI changes before they reach production](https://dev.to/apicontractguard/how-to-catch-breaking-openapi-changes-before-they-reach-production-44jj)
+- [Grok Walks Off With Your Repo? When the &quot;Smartest Assistant&quot; Becomes the Most Dangerous Tool](https://dev.to/dufrence/grok-walks-off-with-your-repo-when-the-smartest-assistant-becomes-the-most-dangerous-tool-5bdl)
+- [LSPS Specifications: What Lightning Service Providers Are Standardizing and Why It Matters](https://dev.to/aturo_phil/lsps-specifications-what-lightning-service-providers-are-standardizing-and-why-it-matters-2nng)
 <!-- BLOG-POST-LIST:END -->
 
 
