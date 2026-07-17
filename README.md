@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Video Commerce with Medusa v2 &amp; MeiliSearch: Smart Product Matching](https://dev.to/firevibe/video-commerce-with-medusa-v2-meilisearch-smart-product-matching-j45)
-- [A Two-Stage Workflow to Detect Data Leakage.](https://dev.to/apoorvtripathi1999/a-two-stage-workflow-to-detect-data-leakage-4f2b)
-- [Colibri: Running a 744B AI Model on Your Laptop](https://dev.to/jamilxt/colibri-running-a-744b-ai-model-on-your-laptop-4l6g)
-- [Neden LIWICODE&#39;u Geliştirdim? Hafif Kod Analiz Aracı ve Dev Visual Studio Karşılaştırması](https://dev.to/liwiunxdo/neden-liwicodeu-gelistirdim-hafif-siklet-kod-analiz-araci-ve-dev-visual-studio-karsilastirmasi-c1l)
+- [Security news weekly round-up - 17th July 2026](https://dev.to/ziizium/security-news-weekly-round-up-17th-july-2026-2a1l)
+- [AI Worked Both Sides of the Security Ledger This Week. Here&#39;s What to Actually Run](https://dev.to/kkierii/ai-worked-both-sides-of-the-security-ledger-this-week-heres-what-to-actually-run-2071)
+- [Project Idea: On-the-fly preset switching between different plugins inside Pro Tools &lpar;Workflow Tool&rpar;](https://dev.to/ach_vibe-code/project-idea-on-the-fly-preset-switching-between-different-plugins-inside-pro-tools-workflow-tool-52c9)
+- [Anxious About the Tech Market? Try Digging a New Hole](https://dev.to/theoriginalbpc/anxious-about-the-tech-market-try-digging-a-new-hole-1c5)
 <!-- BLOG-POST-LIST:END -->
 
 
