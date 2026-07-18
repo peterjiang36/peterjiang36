@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [M2M Connectivity: What It Is and How to Build a Business Around It](https://dev.to/telecomhub/m2m-connectivity-what-it-is-and-how-to-build-a-business-around-it-bfd)
-- [Stray: Keep Your Discord Account Online 24/7](https://dev.to/badcmdname/stray-keep-your-discord-account-online-247-1eeo)
-- [The Agentic Harness: The Part That Actually Keeps Agents Reliable](https://dev.to/keerat_rashid/the-agentic-harness-the-part-that-actually-keeps-agents-reliable-34fh)
-- [Creating a Sudoku Solver Using Backtracking in JavaScript](https://dev.to/mayaramyadav/creating-a-sudoku-solver-using-backtracking-in-javascript-4638)
+- [Give your agent mailbox a vacation auto-responder](https://dev.to/mqasimca/give-your-agent-mailbox-a-vacation-auto-responder-3cm0)
+- [Collect NPS and survey replies in an agent inbox](https://dev.to/mqasimca/collect-nps-and-survey-replies-in-an-agent-inbox-9nf)
+- [Collect onboarding documents with an email agent](https://dev.to/mqasimca/collect-onboarding-documents-with-an-email-agent-4oo)
+- [A clinic reminder agent that can actually move the appointment](https://dev.to/mqasimca/a-clinic-reminder-agent-that-can-actually-move-the-appointment-4ikm)
 <!-- BLOG-POST-LIST:END -->
 
 
