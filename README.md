@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly: MCP Goes Stateless, Kimi K3, TSMC Records](https://dev.to/alexmercedcoder/ai-weekly-mcp-goes-stateless-kimi-k3-tsmc-records-3doo)
-- [I Built a Password Strength Checker That Actually Works &lpar;Here&#39;s Why Most Fail&rpar;](https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj)
-- [Apache Data Lakehouse Weekly: July 11 to July 18, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-11-to-july-18-2026-3f1p)
-- [geomap-engine: fusing AR pose + object detections into a 2D map, in Rust](https://dev.to/bibek_ghimire_aa80c2f89f9/geomap-engine-fusing-ar-pose-object-detections-into-a-2d-map-in-rust-47nb)
+- [Yandex Search API: How to Scrape Yandex SERPs as Structured JSON in 2026](https://dev.to/trufflepig/yandex-search-api-how-to-scrape-yandex-serps-as-structured-json-in-2026-2bej)
+- [Why I Stopped Copy-Pasting Repositories and Started Building My Own Starter CLI](https://dev.to/sanjaysah/why-i-stopped-copy-pasting-repositories-and-started-building-my-own-starter-cli-246j)
+- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo)
+- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m)
 <!-- BLOG-POST-LIST:END -->
 
 
