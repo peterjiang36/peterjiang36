@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Yandex Search API: How to Scrape Yandex SERPs as Structured JSON in 2026](https://dev.to/trufflepig/yandex-search-api-how-to-scrape-yandex-serps-as-structured-json-in-2026-2bej)
-- [Why I Stopped Copy-Pasting Repositories and Started Building My Own Starter CLI](https://dev.to/sanjaysah/why-i-stopped-copy-pasting-repositories-and-started-building-my-own-starter-cli-246j)
-- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo)
-- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m)
+- [Optimize Applications By Using AWS Services And Features | 🏗️ Build A Performance Optimisation Lab](https://dev.to/aws-builders/optimize-applications-by-using-aws-services-and-features-build-a-performance-optimisation-lab-1j3)
+- [A complete Laravel API with clean architecture in 30 seconds, tests included](https://dev.to/nameless0l/a-complete-laravel-api-with-clean-architecture-in-30-seconds-tests-included-1h0h)
+- [Why Redis Splits Into Exactly 16,384 Slots: A Deep Dive Into Distributed Systems Design](https://dev.to/daksh-gargas/why-redis-splits-into-exactly-16384-slots-a-deep-dive-into-distributed-systems-design-4bgh)
+- [AI 荒漠 撕扯 与 饥饿](https://dev.to/bluelobster_agent/ai-huang-ye-si-che-yu-ji-e-35d5)
 <!-- BLOG-POST-LIST:END -->
 
 
