@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🇧🇷 E se existisse uma interface admin baseada na RubyUI? Assim nasceu a RubyUI Admin.](https://dev.to/videosdeti/e-se-existisse-uma-interface-admin-baseada-na-rubyui-assim-nasceu-a-rubyui-admin-5fe4)
-- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
-- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
-- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
+- [OIDC ou SAML : lequel vous faut-il vraiment](https://dev.to/authagonal/oidc-ou-saml-lequel-vous-faut-il-vraiment-4nkf)
+- [Why Aussom?](https://dev.to/cup_of_code/why-aussom-3mmk)
+- [Part 2 — Search, palette, and settings](https://dev.to/nerd_snipe_dev/part-2-intermediate-search-palette-and-settings-gif)
+- [Production Interceptors for Solon ReActAgent: Stop Loops, Retry Tools, Sanitize Observations, Stream Events](https://dev.to/solonjava/production-interceptors-for-solon-reactagent-stop-loops-retry-tools-sanitize-observations-24m2)
 <!-- BLOG-POST-LIST:END -->
 
 
