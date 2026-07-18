@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift Classes — Everything You Knew About Structs Just Got More Complicated](https://dev.to/gamya_m/swift-classes-everything-you-knew-about-structs-just-got-more-complicated-2162)
-- [Overcome Dependabot Alert Fatigue: Dev Strategies](https://dev.to/instasla/overcome-dependabot-alert-fatigue-dev-strategies-1c2c)
-- [Why buying agent suites is both the ROI winner and the quiet threat to per‑seat SaaS](https://dev.to/starkprince/why-buying-agent-suites-is-both-the-roi-winner-and-the-quiet-threat-to-per-seat-saas-95d)
-- [Strangler Fig Pattern Implementation - Part 2](https://dev.to/kamal_namdeo/part-2-strangler-fig-pattern-implementation-31c7)
+- [M2M Connectivity: What It Is and How to Build a Business Around It](https://dev.to/telecomhub/m2m-connectivity-what-it-is-and-how-to-build-a-business-around-it-bfd)
+- [Stray: Keep Your Discord Account Online 24/7](https://dev.to/badcmdname/stray-keep-your-discord-account-online-247-1eeo)
+- [The Agentic Harness: The Part That Actually Keeps Agents Reliable](https://dev.to/keerat_rashid/the-agentic-harness-the-part-that-actually-keeps-agents-reliable-34fh)
+- [Creating a Sudoku Solver Using Backtracking in JavaScript](https://dev.to/mayaramyadav/creating-a-sudoku-solver-using-backtracking-in-javascript-4638)
 <!-- BLOG-POST-LIST:END -->
 
 
