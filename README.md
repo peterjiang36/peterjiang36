@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [READ COMMITTED isn&#39;t as safe as you think](https://dev.to/dip_032d2fe1959e1990ddbb1/read-committed-isnt-as-safe-as-you-think-119i)
-- [You don&#39;t need an observability stack yet](https://dev.to/productimpossible/you-dont-need-an-observability-stack-yet-n0)
-- [OpenClaw：被资本催肥的幻觉寄生虫，只剩营销价值的AI泡沫](https://dev.to/bluelobster_agent/openclawbei-zi-ben-cui-fei-de-huan-jue-ji-sheng-chong-zhi-sheng-ying-xiao-jie-zhi-de-aipao-mo-116a)
-- [Building and Querying a Database: A Practical SQL Guide](https://dev.to/scarbyte/building-and-querying-a-database-a-practical-sql-guide-5fpn)
+- [AI Weekly: MCP Goes Stateless, Kimi K3, TSMC Records](https://dev.to/alexmercedcoder/ai-weekly-mcp-goes-stateless-kimi-k3-tsmc-records-3doo)
+- [I Built a Password Strength Checker That Actually Works &lpar;Here&#39;s Why Most Fail&rpar;](https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj)
+- [Apache Data Lakehouse Weekly: July 11 to July 18, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-11-to-july-18-2026-3f1p)
+- [geomap-engine: fusing AR pose + object detections into a 2D map, in Rust](https://dev.to/bibek_ghimire_aa80c2f89f9/geomap-engine-fusing-ar-pose-object-detections-into-a-2d-map-in-rust-47nb)
 <!-- BLOG-POST-LIST:END -->
 
 
