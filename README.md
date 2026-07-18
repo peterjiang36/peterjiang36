@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Give your agent mailbox a vacation auto-responder](https://dev.to/mqasimca/give-your-agent-mailbox-a-vacation-auto-responder-3cm0)
-- [Collect NPS and survey replies in an agent inbox](https://dev.to/mqasimca/collect-nps-and-survey-replies-in-an-agent-inbox-9nf)
-- [Collect onboarding documents with an email agent](https://dev.to/mqasimca/collect-onboarding-documents-with-an-email-agent-4oo)
-- [A clinic reminder agent that can actually move the appointment](https://dev.to/mqasimca/a-clinic-reminder-agent-that-can-actually-move-the-appointment-4ikm)
+- [Shipping With No Analytics](https://dev.to/grommash9/shipping-with-no-analytics-4ba8)
+- [The Art of Digital Minimalism: How to Stay Focused in a World of Noise](https://dev.to/pargati_hub_0705c4e214ebe/the-art-of-digital-minimalism-how-to-stay-focused-in-a-world-of-noise-183g)
+- [Architecting lean LLM caching: how to drop a 20M-row table without losing your AI memory](https://dev.to/wondadav/architecting-lean-llm-caching-how-to-drop-a-20m-row-table-without-losing-your-ai-memory-3g2n)
+- [Don’t Use console.log for Logging: What Vercel’s Founder Warned About](https://dev.to/biomathcode/dont-use-consolelog-for-logging-what-vercels-founder-warned-about-1n46)
 <!-- BLOG-POST-LIST:END -->
 
 
