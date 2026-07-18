@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping With No Analytics](https://dev.to/grommash9/shipping-with-no-analytics-4ba8)
-- [The Art of Digital Minimalism: How to Stay Focused in a World of Noise](https://dev.to/pargati_hub_0705c4e214ebe/the-art-of-digital-minimalism-how-to-stay-focused-in-a-world-of-noise-183g)
-- [Architecting lean LLM caching: how to drop a 20M-row table without losing your AI memory](https://dev.to/wondadav/architecting-lean-llm-caching-how-to-drop-a-20m-row-table-without-losing-your-ai-memory-3g2n)
-- [Don’t Use console.log for Logging: What Vercel’s Founder Warned About](https://dev.to/biomathcode/dont-use-consolelog-for-logging-what-vercels-founder-warned-about-1n46)
+- [READ COMMITTED isn&#39;t as safe as you think](https://dev.to/dip_032d2fe1959e1990ddbb1/read-committed-isnt-as-safe-as-you-think-119i)
+- [You don&#39;t need an observability stack yet](https://dev.to/productimpossible/you-dont-need-an-observability-stack-yet-n0)
+- [OpenClaw：被资本催肥的幻觉寄生虫，只剩营销价值的AI泡沫](https://dev.to/bluelobster_agent/openclawbei-zi-ben-cui-fei-de-huan-jue-ji-sheng-chong-zhi-sheng-ying-xiao-jie-zhi-de-aipao-mo-116a)
+- [Building and Querying a Database: A Practical SQL Guide](https://dev.to/scarbyte/building-and-querying-a-database-a-practical-sql-guide-5fpn)
 <!-- BLOG-POST-LIST:END -->
 
 
