@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OIDC ou SAML : lequel vous faut-il vraiment](https://dev.to/authagonal/oidc-ou-saml-lequel-vous-faut-il-vraiment-4nkf)
-- [Why Aussom?](https://dev.to/cup_of_code/why-aussom-3mmk)
-- [Part 2 — Search, palette, and settings](https://dev.to/nerd_snipe_dev/part-2-intermediate-search-palette-and-settings-gif)
-- [Production Interceptors for Solon ReActAgent: Stop Loops, Retry Tools, Sanitize Observations, Stream Events](https://dev.to/solonjava/production-interceptors-for-solon-reactagent-stop-loops-retry-tools-sanitize-observations-24m2)
+- [How I built a suite of self-destructing web tools on Cloudflare &lpar;solo, free tier&rpar;](https://dev.to/solca/how-i-built-a-suite-of-self-destructing-web-tools-on-cloudflare-solo-free-tier-2dpe)
+- [What I Learned as a Software Testing Intern at Scode Software Solutions](https://dev.to/tech_tales_daa8a7eab515b3/what-i-learned-as-a-software-testing-intern-at-scode-software-solutions-8h)
+- [The Hidden Cost of Saving $1000/Month: Our AWS SES Migration Story](https://dev.to/twinkalp10/the-hidden-cost-of-saving-1000month-our-aws-ses-migration-story-5fbn)
+- [Advanced Server-Side Caching Patterns in Next.js](https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-ema)
 <!-- BLOG-POST-LIST:END -->
 
 
