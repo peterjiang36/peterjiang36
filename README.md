@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer Becomes a Pipeliner](https://dev.to/casamia918/the-developer-becomes-a-pipeliner-5875)
-- [Contract Testing a Nutrition API with Millions of Messy Records](https://dev.to/dietly/contract-testing-a-nutrition-api-with-millions-of-messy-records-6bc)
-- [What ODbL Means for Commercial Nutrition Apps](https://dev.to/dietly/what-odbl-means-for-commercial-nutrition-apps-4hl7)
-- [Building Reliable Barcode Lookup for a Nutrition App](https://dev.to/dietly/building-reliable-barcode-lookup-for-a-nutrition-app-5926)
+- [Hookbox: a self-hosted webhook inbox with HMAC verification and replay](https://dev.to/heisenberg_blue/hookbox-a-self-hosted-webhook-inbox-with-hmac-verification-and-replay-3h80)
+- [Why Your Git History Isn&#39;t Enough as Proof](https://dev.to/vesmot_dev/why-your-git-history-isnt-enough-as-proof-58m7)
+- [How to Build Consistent UTM Links for Marketing Campaigns](https://dev.to/tool_mint_05313cff538fa82/how-to-build-consistent-utm-links-for-marketing-campaigns-323)
+- [🚑 Creating a Self-Healing Automation Framework with Playwright](https://dev.to/aswani25/creating-a-self-healing-automation-framework-with-playwright-26k0)
 <!-- BLOG-POST-LIST:END -->
 
 
