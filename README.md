@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hookbox: a self-hosted webhook inbox with HMAC verification and replay](https://dev.to/heisenberg_blue/hookbox-a-self-hosted-webhook-inbox-with-hmac-verification-and-replay-3h80)
-- [Why Your Git History Isn&#39;t Enough as Proof](https://dev.to/vesmot_dev/why-your-git-history-isnt-enough-as-proof-58m7)
-- [How to Build Consistent UTM Links for Marketing Campaigns](https://dev.to/tool_mint_05313cff538fa82/how-to-build-consistent-utm-links-for-marketing-campaigns-323)
-- [🚑 Creating a Self-Healing Automation Framework with Playwright](https://dev.to/aswani25/creating-a-self-healing-automation-framework-with-playwright-26k0)
+- [How to Validate an App Idea Before Building It &lpar;The Cheap, Honest Way&rpar;](https://dev.to/assindo/how-to-validate-an-app-idea-before-building-it-the-cheap-honest-way-51f6)
+- [How AI Agents Actually Work](https://dev.to/paulcrinigan/how-ai-agents-actually-work-1ljd)
+- [A One-Second Static Check for E2E Selector Drift](https://dev.to/cydavid/a-one-second-static-check-for-e2e-selector-drift-21gf)
+- [How We Distribute Video Events Across Regions With NATS JetStream](https://dev.to/ahmet_gedik778845/how-we-distribute-video-events-across-regions-with-nats-jetstream-oam)
 <!-- BLOG-POST-LIST:END -->
 
 
