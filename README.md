@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Safe API Boundaries for a Multi-Pair Spot Trading Bot](https://dev.to/weekendly/designing-safe-api-boundaries-for-a-multi-pair-spot-trading-bot-3cho)
-- [Browser OS Redefined: The Desktop Metaphor Doesn&#39;t Quite Fit a 5&quot; Screen Browser](https://dev.to/edmundsparrow/browser-os-redefined-the-desktop-metaphor-doesnt-quite-fit-a-5-screen-browser-4hg1)
-- [Stop promising people outcomes. Give them one.](https://dev.to/fast2future/stop-promising-people-outcomes-give-them-one-4dn2)
-- [The dual-write bug you probably have in production &lpar;and the outbox pattern that fixes it&rpar;](https://dev.to/sklinkert/the-dual-write-bug-you-probably-have-in-production-and-the-outbox-pattern-that-fixes-it-53ee)
+- [The Developer Becomes a Pipeliner](https://dev.to/casamia918/the-developer-becomes-a-pipeliner-5875)
+- [Contract Testing a Nutrition API with Millions of Messy Records](https://dev.to/dietly/contract-testing-a-nutrition-api-with-millions-of-messy-records-6bc)
+- [What ODbL Means for Commercial Nutrition Apps](https://dev.to/dietly/what-odbl-means-for-commercial-nutrition-apps-4hl7)
+- [Building Reliable Barcode Lookup for a Nutrition App](https://dev.to/dietly/building-reliable-barcode-lookup-for-a-nutrition-app-5926)
 <!-- BLOG-POST-LIST:END -->
 
 
