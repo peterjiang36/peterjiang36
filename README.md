@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Deep Learning Framework from Scratch in C++ and CUDA &lpar;And Beat PyTorch&#39;s Speed Multiple Run&rpar;](https://dev.to/aarav_aggarwal/i-built-a-deep-learning-framework-from-scratch-in-c-and-cuda-and-beat-pytorchs-speed-multiple-1eh3)
-- [I was hired before I could speak German, and that CV would be filtered out today](https://dev.to/mjmirza/i-was-hired-before-i-could-speak-german-and-that-cv-would-be-filtered-out-today-lah)
-- [n8n Salesforce Node: Automate CRM Records, Leads, and Opportunities &lpar;Free Workflow JSON&rpar;](https://dev.to/pirateprentice/n8n-salesforce-node-automate-crm-records-leads-and-opportunities-free-workflow-json-4lag)
-- [How to Use Shadcn ui in a Next.js App ?](https://dev.to/esrafil_d3d24607b2/how-to-use-shadcn-ui-in-a-nextjs-app--34kc)
+- [The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah)
+- [Everyone Says Bitcoin Has Been Decentralized Since Block Zero. Block 74638 Says Otherwise.](https://dev.to/bitcoin_devto/everyone-says-bitcoin-has-been-decentralized-since-block-zero-block-74638-says-otherwise-6oc)
+- [My Solana Program Launch Checklist &lpar;Written the Day After I Actually Did It&rpar;](https://dev.to/lymah/my-solana-program-launch-checklist-written-the-day-after-i-actually-did-it-1f2d)
+- [Teaching Agents to Slow Down Where It Matters](https://dev.to/mjodeh/teaching-agents-to-slow-down-where-it-matters-39fa)
 <!-- BLOG-POST-LIST:END -->
 
 
