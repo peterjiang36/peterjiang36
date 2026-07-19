@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Bot That Hunts GitHub Bounties While I Sleep](https://dev.to/jackke88/i-built-a-bot-that-hunts-github-bounties-while-i-sleep-376k)
-- [I hit a wall so I built AppKeep for product lifecycle management and more](https://dev.to/mobius29er/i-hit-a-wall-so-i-built-appkeep-for-product-lifecycle-management-and-more-3aee)
-- [An AI agent exported a patient record. Your logs can&#39;t say who told it to.](https://dev.to/alexlaguardia/an-ai-agent-exported-a-patient-record-your-logs-cant-say-who-told-it-to-1al8)
-- [Make your codebase safe for AI agents in one command](https://dev.to/sneg55/make-your-codebase-safe-for-ai-agents-in-one-command-854)
+- [Is your agent&#39;s grep tool a shell command?](https://dev.to/vdalal/is-your-agents-grep-tool-a-shell-command-4002)
+- [Testing Keycloak SPIs with Testcontainers — the part every tutorial skips](https://dev.to/jihedbfrart/testing-keycloak-spis-with-testcontainers-the-part-every-tutorial-skips-4loe)
+- [Your Keycloak roles aren&#39;t working in Spring Security. Here&#39;s the actual reason.](https://dev.to/jihedbfrart/your-keycloak-roles-arent-working-in-spring-security-heres-the-actual-reason-8fo)
+- [Build a Pear Protocol DeFi trading agent with MCP](https://dev.to/marvelcodes/build-a-pear-protocol-defi-trading-agent-with-mcp-499o)
 <!-- BLOG-POST-LIST:END -->
 
 
