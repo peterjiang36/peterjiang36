@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reliability Math Behind a Green n8n Workflow: Multiply, Don&#39;t Average](https://dev.to/moonshot_1341/the-reliability-math-behind-a-green-n8n-workflow-multiply-dont-average-2602)
-- [A Git Cleanup Left Me With an Application I No Longer Recognized](https://dev.to/victor_perez_6bdfe6303843/une-mauvaise-gestion-de-git-a-ramene-mon-application-dans-un-etat-que-je-ne-reconnaissais-plus-39ph)
-- [What Does `unsqueeze` Do in PyTorch? &lpar;And Why Your Model Keeps Asking For It&rpar;](https://dev.to/pytorchfromgroundup/what-does-unsqueeze-do-in-pytorch-and-why-your-model-keeps-asking-for-it-181a)
-- [Multi-Account / Landing Zone Strategy &amp; Governance](https://dev.to/sri2614/multi-account-landing-zone-strategy-governance-5d3o)
+- [Designing Safe API Boundaries for a Multi-Pair Spot Trading Bot](https://dev.to/weekendly/designing-safe-api-boundaries-for-a-multi-pair-spot-trading-bot-3cho)
+- [Browser OS Redefined: The Desktop Metaphor Doesn&#39;t Quite Fit a 5&quot; Screen Browser](https://dev.to/edmundsparrow/browser-os-redefined-the-desktop-metaphor-doesnt-quite-fit-a-5-screen-browser-4hg1)
+- [Stop promising people outcomes. Give them one.](https://dev.to/fast2future/stop-promising-people-outcomes-give-them-one-4dn2)
+- [The dual-write bug you probably have in production &lpar;and the outbox pattern that fixes it&rpar;](https://dev.to/sklinkert/the-dual-write-bug-you-probably-have-in-production-and-the-outbox-pattern-that-fixes-it-53ee)
 <!-- BLOG-POST-LIST:END -->
 
 
