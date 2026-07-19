@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is your agent&#39;s grep tool a shell command?](https://dev.to/vdalal/is-your-agents-grep-tool-a-shell-command-4002)
-- [Testing Keycloak SPIs with Testcontainers — the part every tutorial skips](https://dev.to/jihedbfrart/testing-keycloak-spis-with-testcontainers-the-part-every-tutorial-skips-4loe)
-- [Your Keycloak roles aren&#39;t working in Spring Security. Here&#39;s the actual reason.](https://dev.to/jihedbfrart/your-keycloak-roles-arent-working-in-spring-security-heres-the-actual-reason-8fo)
-- [Build a Pear Protocol DeFi trading agent with MCP](https://dev.to/marvelcodes/build-a-pear-protocol-defi-trading-agent-with-mcp-499o)
+- [Coupons and affiliate commissions on Stripe: what do you actually pay?](https://dev.to/mihirkanzariya/coupons-and-affiliate-commissions-on-stripe-what-do-you-actually-pay-180g)
+- [GPT-5.6 Closed a 30-Year Math Gap. Nobody Noticed.](https://dev.to/max_quimby/gpt-56-closed-a-30-year-math-gap-nobody-noticed-173b)
+- [I Built an Interactive 3D Tilt Card with Canvas Particles &lpar;No Libraries&rpar;](https://dev.to/easywise/i-built-an-interactive-3d-tilt-card-with-canvas-particles-no-libraries-23id)
+- [Thread-Based Circuits Sew Health Monitoring Into Your Clothes](https://dev.to/circuitrocks/thread-based-circuits-sew-health-monitoring-into-your-clothes-5dpj)
 <!-- BLOG-POST-LIST:END -->
 
 
