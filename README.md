@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Coupons and affiliate commissions on Stripe: what do you actually pay?](https://dev.to/mihirkanzariya/coupons-and-affiliate-commissions-on-stripe-what-do-you-actually-pay-180g)
-- [GPT-5.6 Closed a 30-Year Math Gap. Nobody Noticed.](https://dev.to/max_quimby/gpt-56-closed-a-30-year-math-gap-nobody-noticed-173b)
-- [I Built an Interactive 3D Tilt Card with Canvas Particles &lpar;No Libraries&rpar;](https://dev.to/easywise/i-built-an-interactive-3d-tilt-card-with-canvas-particles-no-libraries-23id)
-- [Thread-Based Circuits Sew Health Monitoring Into Your Clothes](https://dev.to/circuitrocks/thread-based-circuits-sew-health-monitoring-into-your-clothes-5dpj)
+- [I Built a Deep Learning Framework from Scratch in C++ and CUDA &lpar;And Beat PyTorch&#39;s Speed Multiple Run&rpar;](https://dev.to/aarav_aggarwal/i-built-a-deep-learning-framework-from-scratch-in-c-and-cuda-and-beat-pytorchs-speed-multiple-1eh3)
+- [I was hired before I could speak German, and that CV would be filtered out today](https://dev.to/mjmirza/i-was-hired-before-i-could-speak-german-and-that-cv-would-be-filtered-out-today-lah)
+- [n8n Salesforce Node: Automate CRM Records, Leads, and Opportunities &lpar;Free Workflow JSON&rpar;](https://dev.to/pirateprentice/n8n-salesforce-node-automate-crm-records-leads-and-opportunities-free-workflow-json-4lag)
+- [How to Use Shadcn ui in a Next.js App ?](https://dev.to/esrafil_d3d24607b2/how-to-use-shadcn-ui-in-a-nextjs-app--34kc)
 <!-- BLOG-POST-LIST:END -->
 
 
