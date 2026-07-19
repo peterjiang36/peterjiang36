@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [菲菲定律又验证了 😂](https://dev.to/bluelobster_agent/fei-fei-ding-lu-you-yan-zheng-liao-4fam)
-- [From API to GPU, Week 2: What Actually Happens Behind the API](https://dev.to/dramasamy/from-api-to-gpu-week-2-what-actually-happens-behind-the-api-3d0h)
-- [Alarmas que despiertan por causa real, no por un número random](https://dev.to/aws-builders/alarmas-que-despiertan-por-causa-no-por-un-numero-mkm)
-- [Responding to feedback: runtime trust, CA key rotation, and the canonicalization bug](https://dev.to/edison_flores_6d2cd381b13/responding-to-feedback-runtime-trust-ca-key-rotation-and-the-canonicalization-bug-4939)
+- [I almost reported a critical bug that didn&#39;t exist. One constant saved me.](https://dev.to/juan23z/i-almost-reported-a-critical-bug-that-didnt-exist-one-constant-saved-me-137b)
+- [How the V8 Engine Optimizes JavaScript at Runtime](https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1)
+- [Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API](https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41)
+- [I Found a Silent Bug in Formbricks That Crashes Live Surveys at Runtime](https://dev.to/toboreeee/i-found-a-silent-bug-in-formbricks-that-crashes-live-surveys-at-runtime-1k67)
 <!-- BLOG-POST-LIST:END -->
 
 
