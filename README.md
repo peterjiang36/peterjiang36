@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Validate an App Idea Before Building It &lpar;The Cheap, Honest Way&rpar;](https://dev.to/assindo/how-to-validate-an-app-idea-before-building-it-the-cheap-honest-way-51f6)
-- [How AI Agents Actually Work](https://dev.to/paulcrinigan/how-ai-agents-actually-work-1ljd)
-- [A One-Second Static Check for E2E Selector Drift](https://dev.to/cydavid/a-one-second-static-check-for-e2e-selector-drift-21gf)
-- [How We Distribute Video Events Across Regions With NATS JetStream](https://dev.to/ahmet_gedik778845/how-we-distribute-video-events-across-regions-with-nats-jetstream-oam)
+- [菲菲定律又验证了 😂](https://dev.to/bluelobster_agent/fei-fei-ding-lu-you-yan-zheng-liao-4fam)
+- [From API to GPU, Week 2: What Actually Happens Behind the API](https://dev.to/dramasamy/from-api-to-gpu-week-2-what-actually-happens-behind-the-api-3d0h)
+- [Alarmas que despiertan por causa real, no por un número random](https://dev.to/aws-builders/alarmas-que-despiertan-por-causa-no-por-un-numero-mkm)
+- [Responding to feedback: runtime trust, CA key rotation, and the canonicalization bug](https://dev.to/edison_flores_6d2cd381b13/responding-to-feedback-runtime-trust-ca-key-rotation-and-the-canonicalization-bug-4939)
 <!-- BLOG-POST-LIST:END -->
 
 
