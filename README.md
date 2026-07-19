@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hardest System I Ever Built Was for Patients Who Could Not Afford for It to Fail](https://dev.to/toboreeee/the-hardest-system-i-ever-built-was-for-patients-who-could-not-afford-for-it-to-fail-nah)
-- [Everyone Says Bitcoin Has Been Decentralized Since Block Zero. Block 74638 Says Otherwise.](https://dev.to/bitcoin_devto/everyone-says-bitcoin-has-been-decentralized-since-block-zero-block-74638-says-otherwise-6oc)
-- [My Solana Program Launch Checklist &lpar;Written the Day After I Actually Did It&rpar;](https://dev.to/lymah/my-solana-program-launch-checklist-written-the-day-after-i-actually-did-it-1f2d)
-- [Teaching Agents to Slow Down Where It Matters](https://dev.to/mjodeh/teaching-agents-to-slow-down-where-it-matters-39fa)
+- [The Reliability Math Behind a Green n8n Workflow: Multiply, Don&#39;t Average](https://dev.to/moonshot_1341/the-reliability-math-behind-a-green-n8n-workflow-multiply-dont-average-2602)
+- [A Git Cleanup Left Me With an Application I No Longer Recognized](https://dev.to/victor_perez_6bdfe6303843/une-mauvaise-gestion-de-git-a-ramene-mon-application-dans-un-etat-que-je-ne-reconnaissais-plus-39ph)
+- [What Does `unsqueeze` Do in PyTorch? &lpar;And Why Your Model Keeps Asking For It&rpar;](https://dev.to/pytorchfromgroundup/what-does-unsqueeze-do-in-pytorch-and-why-your-model-keeps-asking-for-it-181a)
+- [Multi-Account / Landing Zone Strategy &amp; Governance](https://dev.to/sri2614/multi-account-landing-zone-strategy-governance-5d3o)
 <!-- BLOG-POST-LIST:END -->
 
 
