@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three checks that lied to me while building a content extraction API](https://dev.to/mariuska01/three-checks-that-lied-to-me-while-building-a-content-extraction-api-4n0p)
-- [How ATLOCK v4 actually Locks Files at the OS level &lpar;A technical breakdown&rpar;](https://dev.to/akhourianmolkumar/how-atlock-v4-actually-locks-files-at-the-os-level-a-technical-breakdown-3n89)
-- [How to Calculate Your True Freelance Hourly Rate &lpar;Taxes &amp; Overhead Included&rpar;](https://dev.to/rex_saas_idea/how-to-calculate-your-true-freelance-hourly-rate-taxes-overhead-included-4ci)
-- [Mnemo for the Global AI Hackathon with Qwen Cloud — Track 1: MemoryAgent](https://dev.to/destinationbubul/mnemo-for-the-global-ai-hackathon-with-qwen-cloud-track-1-memoryagent-5fp2)
+- [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)
+- [How to tell if a smart-contract audit is worth paying for — a founder&#39;s checklist](https://dev.to/juan23z/how-to-tell-if-a-smart-contract-audit-is-worth-paying-for-a-founders-checklist-3d03)
+- [Build a WhatsApp Storefront in Google Sheets with OpenAI Function Calling &lpar;No Website&rpar;](https://dev.to/hayrullahkar/build-a-whatsapp-storefront-in-google-sheets-with-openai-function-calling-no-website-4hmk)
+- [Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge](https://dev.to/aws-builders/squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-3bhg)
 <!-- BLOG-POST-LIST:END -->
 
 
