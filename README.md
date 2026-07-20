@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We built one AI tutor for five completely different subjects — here&#39;s the routing layer that keeps it from falling over](https://dev.to/devadath_hk/we-built-one-ai-tutor-for-five-completely-different-subjects-heres-the-routing-layer-that-keeps-15f4)
-- [I Built an AI Memory Agent That Forgets on Purpose — Then Spent Two Days Proving It Actually Works](https://dev.to/_boweii/i-built-an-ai-memory-agent-that-forgets-on-purpose-then-spent-two-days-proving-it-actually-works-2b87)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4d8i)
-- [Data Is the Real Model: Governance, Lineage, and Provenance](https://dev.to/anusha_mukka/data-is-the-real-model-governance-lineage-and-provenance-1eo3)
+- [I built a test lab to measure SSG vs SSR vs ISR on real WordPress, here&#39;s what I found](https://dev.to/nimajafari/i-built-a-test-lab-to-measure-ssg-vs-ssr-vs-isr-on-real-wordpress-heres-what-i-found-7p)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-30oh)
+- [Your Application Is Ready... According to Whom?](https://dev.to/agiloop_ai/your-application-is-readyaccording-to-whom-5467)
+- [Uma Máquina, Duas Contas Claude, Zero Estado Compartilhado](https://dev.to/ogoul4rt/uma-maquina-dois-claudes-zero-estado-compartilhado-5f74)
 <!-- BLOG-POST-LIST:END -->
 
 
