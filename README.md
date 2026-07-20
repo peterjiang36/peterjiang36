@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I almost reported a critical bug that didn&#39;t exist. One constant saved me.](https://dev.to/juan23z/i-almost-reported-a-critical-bug-that-didnt-exist-one-constant-saved-me-137b)
-- [How the V8 Engine Optimizes JavaScript at Runtime](https://dev.to/doogal/how-the-v8-engine-optimizes-javascript-at-runtime-4kf1)
-- [Building Zero-Reload Web Forms: Master Modern Async/Await JavaScript Fetch API](https://dev.to/ouiam_budagiah_d44d996622/building-zero-reload-web-forms-master-modern-asyncawait-javascript-fetch-api-4m41)
-- [I Found a Silent Bug in Formbricks That Crashes Live Surveys at Runtime](https://dev.to/toboreeee/i-found-a-silent-bug-in-formbricks-that-crashes-live-surveys-at-runtime-1k67)
+- [Solidity vs. Rust: o que aprendi construindo nos dois, não lendo sobre os dois](https://dev.to/eduprogrammer/solidity-vs-rust-o-que-aprendi-construindo-nos-dois-nao-lendo-sobre-os-dois-31d1)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-a11)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-51id)
+- [Gateway Talents in Solon AI: OpenAPI, Tool, and MCP Surfaces That Scale Without Context Blow-Up](https://dev.to/solonjava/gateway-talents-in-solon-ai-openapi-tool-and-mcp-surfaces-that-scale-without-context-blow-up-36ca)
 <!-- BLOG-POST-LIST:END -->
 
 
