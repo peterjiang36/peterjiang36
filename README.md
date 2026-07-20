@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with AceKit for Coding Agents](https://dev.to/germey/getting-started-with-acekit-for-coding-agents-42kb)
-- [&quot;Get Married First&quot; I Booked a One-Way Flight for My Career Instead](https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje)
-- [The Test Pyramid Was an Economic Argument](https://dev.to/tmfrisinger/the-test-pyramid-was-an-economic-argument-40na)
-- [The Harness Is Everything That Survives When the Context Forgets](https://dev.to/xinandeq/the-harness-is-everything-that-survives-when-the-context-forgets-4o4)
+- [We Built an AI Assistant for Word That Actually Formats Your Documents &lpar;And Runs Locally&rpar;](https://dev.to/jaa_799/w-built-an-ai-assistant-for-word-that-actually-formats-your-documents-and-runs-locally-4ia1)
+- [Pressure-testing Ota on Open WebUI: proof cleanup ownership, bootstrap truth, and native vs Compose runtime boundaries](https://dev.to/otaready/pressure-testing-ota-on-open-webui-proof-cleanup-ownership-bootstrap-truth-and-native-vs-compose-2ff4)
+- [Golang in Hinglish](https://dev.to/csm18/golang-in-hinglish-1058)
+- [PowerToys Hosts File Editor alternative &lpar;when you need more than an edit box&rpar;](https://dev.to/locahl_9bd77121e3d366f72f/powertoys-hosts-file-editor-alternative-when-you-need-more-than-an-edit-box-3kd3)
 <!-- BLOG-POST-LIST:END -->
 
 
