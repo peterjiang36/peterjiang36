@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solidity vs. Rust: o que aprendi construindo nos dois, não lendo sobre os dois](https://dev.to/eduprogrammer/solidity-vs-rust-o-que-aprendi-construindo-nos-dois-nao-lendo-sobre-os-dois-31d1)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-a11)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-51id)
-- [Gateway Talents in Solon AI: OpenAPI, Tool, and MCP Surfaces That Scale Without Context Blow-Up](https://dev.to/solonjava/gateway-talents-in-solon-ai-openapi-tool-and-mcp-surfaces-that-scale-without-context-blow-up-36ca)
+- [AgentGrove v0.1.42: a DBeaver-style database tree inside your agent workspace](https://dev.to/arnab_karmakar_41f6ef02ca/agentgrove-v0142-a-dbeaver-style-database-tree-inside-your-agent-workspace-23pf)
+- [VIDRAFT Releases Aether-7B-5Attn: A Fully Open Foundation Model with Training Recipes, Logs, and Checkpoints](https://dev.to/ai_openfree_b23025ef075cf/vidraft-releases-aether-7b-5attn-a-fully-open-foundation-model-with-training-recipes-logs-and-18f7)
+- [Building an AWS Architecture Card Game with Kiro: When the AI Deserves the Credit 😄](https://dev.to/kavashgar/building-an-aws-architecture-card-game-with-kiro-when-the-ai-deserves-the-credit-fai)
+- [Building SaarDB, Part 3: Compaction](https://dev.to/gagandeepahuja09/building-saardb-part-3-compaction-2fhc)
 <!-- BLOG-POST-LIST:END -->
 
 
