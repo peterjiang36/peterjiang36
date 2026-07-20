@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma4 DevOps In Action](https://dev.to/gde/gemma4-devops-in-action-10bl)
-- [How to tell if a smart-contract audit is worth paying for — a founder&#39;s checklist](https://dev.to/juan23z/how-to-tell-if-a-smart-contract-audit-is-worth-paying-for-a-founders-checklist-3d03)
-- [Build a WhatsApp Storefront in Google Sheets with OpenAI Function Calling &lpar;No Website&rpar;](https://dev.to/hayrullahkar/build-a-whatsapp-storefront-in-google-sheets-with-openai-function-calling-no-website-4hmk)
-- [Squeezing a 26B MoE onto the *cheapest* Inferentia box — from a $6.49/hr 24xlarge to a $0.76/hr inf2.xlarge](https://dev.to/aws-builders/squeezing-a-26b-moe-onto-the-cheapest-inferentia-box-from-a-649hr-24xlarge-to-a-076hr-3bhg)
+- [Getting Started with AceKit for Coding Agents](https://dev.to/germey/getting-started-with-acekit-for-coding-agents-42kb)
+- [&quot;Get Married First&quot; I Booked a One-Way Flight for My Career Instead](https://dev.to/aws/get-married-first-i-booked-a-one-way-flight-for-my-career-instead-2nje)
+- [The Test Pyramid Was an Economic Argument](https://dev.to/tmfrisinger/the-test-pyramid-was-an-economic-argument-40na)
+- [The Harness Is Everything That Survives When the Context Forgets](https://dev.to/xinandeq/the-harness-is-everything-that-survives-when-the-context-forgets-4o4)
 <!-- BLOG-POST-LIST:END -->
 
 
