@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AgentGrove v0.1.42: a DBeaver-style database tree inside your agent workspace](https://dev.to/arnab_karmakar_41f6ef02ca/agentgrove-v0142-a-dbeaver-style-database-tree-inside-your-agent-workspace-23pf)
-- [VIDRAFT Releases Aether-7B-5Attn: A Fully Open Foundation Model with Training Recipes, Logs, and Checkpoints](https://dev.to/ai_openfree_b23025ef075cf/vidraft-releases-aether-7b-5attn-a-fully-open-foundation-model-with-training-recipes-logs-and-18f7)
-- [Building an AWS Architecture Card Game with Kiro: When the AI Deserves the Credit 😄](https://dev.to/kavashgar/building-an-aws-architecture-card-game-with-kiro-when-the-ai-deserves-the-credit-fai)
-- [Building SaarDB, Part 3: Compaction](https://dev.to/gagandeepahuja09/building-saardb-part-3-compaction-2fhc)
+- [Digit Tokenization: Why Commas Fix LLM Arithmetic](https://dev.to/ji_ai/digit-tokenization-why-commas-fix-llm-arithmetic-e05)
+- [Mackerel&#39;s Log Feature Just Opened in Beta — Here&#39;s What It Takes to Wire It Into an OTLP Pipeline](https://dev.to/aws-builders/mackerels-log-feature-just-opened-in-beta-heres-what-it-takes-to-wire-it-into-an-otlp-pipeline-888)
+- [Why Corporate Security Rules Kill Local LLMs, and How &quot;kinako-llama-cpp&quot; Saves Lonely IT Departments](https://dev.to/sakurai-kinako/why-corporate-security-rules-kill-local-llms-and-how-kinako-llama-cpp-saves-lonely-it-departments-3ac8)
+- [How Many Endpoints Does It Take to Ask &#39;How Was Your Experience?&#39;](https://dev.to/david_moores_cbc0233b7447/how-many-endpoints-does-it-take-to-ask-how-was-your-experience-55bk)
 <!-- BLOG-POST-LIST:END -->
 
 
