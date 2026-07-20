@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Digit Tokenization: Why Commas Fix LLM Arithmetic](https://dev.to/ji_ai/digit-tokenization-why-commas-fix-llm-arithmetic-e05)
-- [Mackerel&#39;s Log Feature Just Opened in Beta — Here&#39;s What It Takes to Wire It Into an OTLP Pipeline](https://dev.to/aws-builders/mackerels-log-feature-just-opened-in-beta-heres-what-it-takes-to-wire-it-into-an-otlp-pipeline-888)
-- [Why Corporate Security Rules Kill Local LLMs, and How &quot;kinako-llama-cpp&quot; Saves Lonely IT Departments](https://dev.to/sakurai-kinako/why-corporate-security-rules-kill-local-llms-and-how-kinako-llama-cpp-saves-lonely-it-departments-3ac8)
-- [How Many Endpoints Does It Take to Ask &#39;How Was Your Experience?&#39;](https://dev.to/david_moores_cbc0233b7447/how-many-endpoints-does-it-take-to-ask-how-was-your-experience-55bk)
+- [Three checks that lied to me while building a content extraction API](https://dev.to/mariuska01/three-checks-that-lied-to-me-while-building-a-content-extraction-api-4n0p)
+- [How ATLOCK v4 actually Locks Files at the OS level &lpar;A technical breakdown&rpar;](https://dev.to/akhourianmolkumar/how-atlock-v4-actually-locks-files-at-the-os-level-a-technical-breakdown-3n89)
+- [How to Calculate Your True Freelance Hourly Rate &lpar;Taxes &amp; Overhead Included&rpar;](https://dev.to/rex_saas_idea/how-to-calculate-your-true-freelance-hourly-rate-taxes-overhead-included-4ci)
+- [Mnemo for the Global AI Hackathon with Qwen Cloud — Track 1: MemoryAgent](https://dev.to/destinationbubul/mnemo-for-the-global-ai-hackathon-with-qwen-cloud-track-1-memoryagent-5fp2)
 <!-- BLOG-POST-LIST:END -->
 
 
