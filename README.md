@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FutureX · Physical AI Daily — Issue 65 &lpar;07/22&rpar;](https://dev.to/future_x/futurex-physical-ai-daily-issue-65-0722-4664)
-- [I Ran From EJB2 to Spring. Then I Went Back. Here&#39;s What I Found.](https://dev.to/ykpraveen/i-ran-from-ejb2-to-spring-then-i-went-back-heres-what-i-found-3n7f)
-- [StockPulse: 100% Local-First Sales Analytics &amp; Niche Radar Extension for Adobe Stock &amp; Shutterstock](https://dev.to/stockpulse/stockpulse-100-local-first-sales-analytics-niche-radar-extension-for-adobe-stock-shutterstock-1p0l)
-- [Argus: Reviewing Defense Contracts in Hours, With Every Verdict Backed by Evidence](https://dev.to/avirabino/argus-reviewing-defense-contracts-in-hours-with-every-verdict-backed-by-evidence-2i2p)
+- [Introducing Agent-Up: run multiple agent-built versions of your web app at once](https://dev.to/themassiveone/introducing-agent-up-run-multiple-agent-built-versions-of-your-web-app-at-once-1nb4)
+- [Ruby Shipped the Fix for SleeperGem 45 Days Before It Happened](https://dev.to/svyatov/ruby-shipped-the-fix-for-sleepergem-45-days-before-it-happened-19dh)
+- [It&#39;s OK to Get Lucky](https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf)
+- [I read the 17-comment Reddit fight about trying Kimi K3 and the answer is way less exciting than people want](https://dev.to/lars_winstand/i-read-the-17-comment-reddit-fight-about-trying-kimi-k3-and-the-answer-is-way-less-exciting-than-bdp)
 <!-- BLOG-POST-LIST:END -->
 
 
