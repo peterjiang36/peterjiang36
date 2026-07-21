@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Tried Building Another AI Resume Builder. It Failed. So We Built Autonomous Career Agents Instead.](https://dev.to/aman_gupta_f59907469f5b3c/we-tried-building-another-ai-resume-builder-it-failed-so-we-built-autonomous-career-agents-32fp)
-- [Why a Second Dock Fails: A Debugging Guide for USB-C, Thunderbolt, and DisplayLink](https://dev.to/wixom/why-a-second-dock-fails-a-debugging-guide-for-usb-c-thunderbolt-and-displaylink-ill)
-- [The Optimistic UI Race Condition That Only Showed Up on the Fifth Click](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55)
-- [The keystroke-counting RTO metric is a confession, not a policy](https://dev.to/adioof/the-keystroke-counting-rto-metric-is-a-confession-not-a-policy-g01)
+- [Kimi K3 Paused New Subscriptions in 48 Hours-Design Your AI Onboarding for That Day](https://dev.to/haaaaaley/kimi-k3-paused-new-subscriptions-in-48-hours-design-your-ai-onboarding-for-that-day-n18)
+- [The empty-database problem: realistic test data in one command](https://dev.to/sara_mo/the-empty-database-problem-realistic-test-data-in-one-command-4hda)
+- [I rebuilt my 2021 React Native image gallery in 2026 — every library I used is dead](https://dev.to/naderalfakesh/i-rebuilt-my-2021-react-native-image-gallery-in-2026-every-library-i-used-is-dead-4ffl)
+- [The Terrapin Attack: How a Few Deleted Packets Weaken SSH](https://dev.to/havenmessenger/the-terrapin-attack-how-a-few-deleted-packets-weaken-ssh-439i)
 <!-- BLOG-POST-LIST:END -->
 
 
