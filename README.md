@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing PyTorch 2.13 MPS FlexAttention on M1 Max: Up to 7.83x Faster for Sparse Attention](https://dev.to/kiarina/testing-pytorch-213-mps-flexattention-on-m1-max-up-to-783x-faster-for-sparse-attention-1p7d)
-- [The one-page contract I make every autonomous AI agent sign &lpar;template inside&rpar;](https://dev.to/moonshot_1341/the-one-page-contract-i-make-every-autonomous-ai-agent-sign-template-inside-4lk6)
-- [Distributed Move Protocol](https://dev.to/ai_cloud_data_handling/the-hidden-complexity-of-moving-state-in-distributed-systems-2p7i)
-- [Hello, Dev.to! 👋](https://dev.to/gus-gus/hello-devto-27m6)
+- [Why Google Translate Crashes Your React App &lpar;and How to Fix It&rpar;](https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391)
+- [Building explicit data-flow graphs in TypeScript: Introducing Transferum](https://dev.to/smoren/building-explicit-data-flow-graphs-in-typescript-introducing-transferum-3f23)
+- [Refactoring Legacy Code: The Matrix of Clean Code](https://dev.to/timevolt/refactoring-legacy-code-the-matrix-of-clean-code-4fb7)
+- [Your Agent&#39;s Bill Jumped 40%. It Never Errored Once.](https://dev.to/opsveritas/your-agents-bill-jumped-40-it-never-errored-once-34p2)
 <!-- BLOG-POST-LIST:END -->
 
 
