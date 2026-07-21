@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jump into Junior Engr.: Your Web Development Journey with ReactJS &lpar;AI-Augmented Edition&rpar;](https://dev.to/adetayo_taiwo_c03b763c329/jump-into-junior-engr-your-web-development-journey-with-reactjs-ai-augmented-edition-4ccp)
-- [&quot;The Night the Sovereign Cloud Almost Died: A Tale of Latency, AI, and Kubernetes Survival&quot;](https://dev.to/__fd2/the-night-the-sovereign-cloud-almost-died-a-tale-of-latency-ai-and-kubernetes-survival-1ccg)
-- [Prompt Injection Isn&#39;t Fixed by a Filter. It&#39;s Fixed by Architecture](https://dev.to/eullrich/prompt-injection-isnt-fixed-by-a-filter-its-fixed-by-architecture-nll)
-- [Building a Secure Infrastructure Dashboard with React 18, Tailwind v4, and Local Sovereign LLMs](https://dev.to/__fd2/building-a-secure-infrastructure-dashboard-with-react-18-tailwind-v4-and-local-sovereign-llms-5djb)
+- [How I stopped fighting print lines and started covering them instead](https://dev.to/josh_green_dev/how-i-stopped-fighting-print-lines-and-started-covering-them-instead-2ljf)
+- [I Shipped My First Rust Release, and CI Turned Red Twice in 20 Minutes](https://dev.to/wahib_el_khadiri_0/i-shipped-my-first-rust-release-and-ci-turned-red-twice-in-20-minutes-31hp)
+- [Kimi K3 vs Claude Fable 5 and Opus 4.8: a benchmark you can run yourself](https://dev.to/dsplce-co/kimi-k3-vs-claude-fable-5-and-opus-48-a-benchmark-you-can-run-yourself-4b15)
+- [Kdrant: an idiomatic, coroutine-first Kotlin client for Qdrant](https://dev.to/tonytonycoder11/kdrant-an-idiomatic-coroutine-first-kotlin-client-for-qdrant-4i49)
 <!-- BLOG-POST-LIST:END -->
 
 
