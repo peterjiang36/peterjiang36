@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Google Translate Crashes Your React App &lpar;and How to Fix It&rpar;](https://dev.to/nirazanbasnet/why-google-translate-crashes-your-react-app-and-how-to-fix-it-391)
-- [Building explicit data-flow graphs in TypeScript: Introducing Transferum](https://dev.to/smoren/building-explicit-data-flow-graphs-in-typescript-introducing-transferum-3f23)
-- [Refactoring Legacy Code: The Matrix of Clean Code](https://dev.to/timevolt/refactoring-legacy-code-the-matrix-of-clean-code-4fb7)
-- [Your Agent&#39;s Bill Jumped 40%. It Never Errored Once.](https://dev.to/opsveritas/your-agents-bill-jumped-40-it-never-errored-once-34p2)
+- [We Tried Building Another AI Resume Builder. It Failed. So We Built Autonomous Career Agents Instead.](https://dev.to/aman_gupta_f59907469f5b3c/we-tried-building-another-ai-resume-builder-it-failed-so-we-built-autonomous-career-agents-32fp)
+- [Why a Second Dock Fails: A Debugging Guide for USB-C, Thunderbolt, and DisplayLink](https://dev.to/wixom/why-a-second-dock-fails-a-debugging-guide-for-usb-c-thunderbolt-and-displaylink-ill)
+- [The Optimistic UI Race Condition That Only Showed Up on the Fifth Click](https://dev.to/shubhradev/the-optimistic-ui-race-condition-that-only-showed-up-on-the-fifth-click-5a55)
+- [The keystroke-counting RTO metric is a confession, not a policy](https://dev.to/adioof/the-keystroke-counting-rto-metric-is-a-confession-not-a-policy-g01)
 <!-- BLOG-POST-LIST:END -->
 
 
