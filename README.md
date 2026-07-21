@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local-Only Chrome Extension That Autofills Job Application Forms](https://dev.to/bokuwalily/building-a-local-only-chrome-extension-that-autofills-job-application-forms-4f8a)
-- [AI-native isn&#39;t a chatbot. It&#39;s an MCP server.](https://dev.to/brthls/ai-native-isnt-a-chatbot-its-an-mcp-server-2ipg)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-59ia)
-- [A Dart regex that cannot be made to hang](https://dev.to/yusufihsangorgel/a-dart-regex-that-cannot-be-made-to-hang-1pl4)
+- [Testing PyTorch 2.13 MPS FlexAttention on M1 Max: Up to 7.83x Faster for Sparse Attention](https://dev.to/kiarina/testing-pytorch-213-mps-flexattention-on-m1-max-up-to-783x-faster-for-sparse-attention-1p7d)
+- [The one-page contract I make every autonomous AI agent sign &lpar;template inside&rpar;](https://dev.to/moonshot_1341/the-one-page-contract-i-make-every-autonomous-ai-agent-sign-template-inside-4lk6)
+- [Distributed Move Protocol](https://dev.to/ai_cloud_data_handling/the-hidden-complexity-of-moving-state-in-distributed-systems-2p7i)
+- [Hello, Dev.to! 👋](https://dev.to/gus-gus/hello-devto-27m6)
 <!-- BLOG-POST-LIST:END -->
 
 
