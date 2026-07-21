@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI is a gacha game with no pity system](https://dev.to/phalkmin/generative-ai-is-a-gacha-game-with-no-pity-system-38in)
-- [a lesson I learned in Teams that work with tickets](https://dev.to/chompingtoolsalligator/a-lesson-i-learned-in-team-that-work-with-tickets-1h58)
-- [Processing Millions of Records Through Shopify: Lessons From High-Volume Integrations](https://dev.to/masadashraf/processing-millions-of-records-through-shopify-lessons-from-high-volume-integrations-38kf)
-- [Next.js Server Actions vs tRPC: how to actually choose](https://dev.to/mudassirworks/nextjs-server-actions-vs-trpc-how-to-actually-choose-17e7)
+- [Jump into Junior Engr.: Your Web Development Journey with ReactJS &lpar;AI-Augmented Edition&rpar;](https://dev.to/adetayo_taiwo_c03b763c329/jump-into-junior-engr-your-web-development-journey-with-reactjs-ai-augmented-edition-4ccp)
+- [&quot;The Night the Sovereign Cloud Almost Died: A Tale of Latency, AI, and Kubernetes Survival&quot;](https://dev.to/__fd2/the-night-the-sovereign-cloud-almost-died-a-tale-of-latency-ai-and-kubernetes-survival-1ccg)
+- [Prompt Injection Isn&#39;t Fixed by a Filter. It&#39;s Fixed by Architecture](https://dev.to/eullrich/prompt-injection-isnt-fixed-by-a-filter-its-fixed-by-architecture-nll)
+- [Building a Secure Infrastructure Dashboard with React 18, Tailwind v4, and Local Sovereign LLMs](https://dev.to/__fd2/building-a-secure-infrastructure-dashboard-with-react-18-tailwind-v4-and-local-sovereign-llms-5djb)
 <!-- BLOG-POST-LIST:END -->
 
 
