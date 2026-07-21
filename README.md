@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a test lab to measure SSG vs SSR vs ISR on real WordPress, here&#39;s what I found](https://dev.to/nimajafari/i-built-a-test-lab-to-measure-ssg-vs-ssr-vs-isr-on-real-wordpress-heres-what-i-found-7p)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-30oh)
-- [Your Application Is Ready... According to Whom?](https://dev.to/agiloop_ai/your-application-is-readyaccording-to-whom-5467)
-- [Uma Máquina, Duas Contas Claude, Zero Estado Compartilhado](https://dev.to/ogoul4rt/uma-maquina-dois-claudes-zero-estado-compartilhado-5f74)
+- [Building a Local-Only Chrome Extension That Autofills Job Application Forms](https://dev.to/bokuwalily/building-a-local-only-chrome-extension-that-autofills-job-application-forms-4f8a)
+- [AI-native isn&#39;t a chatbot. It&#39;s an MCP server.](https://dev.to/brthls/ai-native-isnt-a-chatbot-its-an-mcp-server-2ipg)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-59ia)
+- [A Dart regex that cannot be made to hang](https://dev.to/yusufihsangorgel/a-dart-regex-that-cannot-be-made-to-hang-1pl4)
 <!-- BLOG-POST-LIST:END -->
 
 
