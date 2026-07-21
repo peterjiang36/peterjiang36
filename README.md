@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi K3 Paused New Subscriptions in 48 Hours-Design Your AI Onboarding for That Day](https://dev.to/haaaaaley/kimi-k3-paused-new-subscriptions-in-48-hours-design-your-ai-onboarding-for-that-day-n18)
-- [The empty-database problem: realistic test data in one command](https://dev.to/sara_mo/the-empty-database-problem-realistic-test-data-in-one-command-4hda)
-- [I rebuilt my 2021 React Native image gallery in 2026 — every library I used is dead](https://dev.to/naderalfakesh/i-rebuilt-my-2021-react-native-image-gallery-in-2026-every-library-i-used-is-dead-4ffl)
-- [The Terrapin Attack: How a Few Deleted Packets Weaken SSH](https://dev.to/havenmessenger/the-terrapin-attack-how-a-few-deleted-packets-weaken-ssh-439i)
+- [FutureX · Physical AI Daily — Issue 65 &lpar;07/22&rpar;](https://dev.to/future_x/futurex-physical-ai-daily-issue-65-0722-4664)
+- [I Ran From EJB2 to Spring. Then I Went Back. Here&#39;s What I Found.](https://dev.to/ykpraveen/i-ran-from-ejb2-to-spring-then-i-went-back-heres-what-i-found-3n7f)
+- [StockPulse: 100% Local-First Sales Analytics &amp; Niche Radar Extension for Adobe Stock &amp; Shutterstock](https://dev.to/stockpulse/stockpulse-100-local-first-sales-analytics-niche-radar-extension-for-adobe-stock-shutterstock-1p0l)
+- [Argus: Reviewing Defense Contracts in Hours, With Every Verdict Backed by Evidence](https://dev.to/avirabino/argus-reviewing-defense-contracts-in-hours-with-every-verdict-backed-by-evidence-2i2p)
 <!-- BLOG-POST-LIST:END -->
 
 
