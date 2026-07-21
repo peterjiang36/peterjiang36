@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Agent-Up: run multiple agent-built versions of your web app at once](https://dev.to/themassiveone/introducing-agent-up-run-multiple-agent-built-versions-of-your-web-app-at-once-1nb4)
-- [Ruby Shipped the Fix for SleeperGem 45 Days Before It Happened](https://dev.to/svyatov/ruby-shipped-the-fix-for-sleepergem-45-days-before-it-happened-19dh)
-- [It&#39;s OK to Get Lucky](https://dev.to/thebraindonor/its-ok-to-get-lucky-1laf)
-- [I read the 17-comment Reddit fight about trying Kimi K3 and the answer is way less exciting than people want](https://dev.to/lars_winstand/i-read-the-17-comment-reddit-fight-about-trying-kimi-k3-and-the-answer-is-way-less-exciting-than-bdp)
+- [Generative AI is a gacha game with no pity system](https://dev.to/phalkmin/generative-ai-is-a-gacha-game-with-no-pity-system-38in)
+- [a lesson I learned in Teams that work with tickets](https://dev.to/chompingtoolsalligator/a-lesson-i-learned-in-team-that-work-with-tickets-1h58)
+- [Processing Millions of Records Through Shopify: Lessons From High-Volume Integrations](https://dev.to/masadashraf/processing-millions-of-records-through-shopify-lessons-from-high-volume-integrations-38kf)
+- [Next.js Server Actions vs tRPC: how to actually choose](https://dev.to/mudassirworks/nextjs-server-actions-vs-trpc-how-to-actually-choose-17e7)
 <!-- BLOG-POST-LIST:END -->
 
 
