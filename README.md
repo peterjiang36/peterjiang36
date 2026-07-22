@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Improving Kubernetes Resource Efficiency with Automated Feedback Loops to Reduce Over-Provisioning](https://dev.to/alitron/improving-kubernetes-resource-efficiency-with-automated-feedback-loops-to-reduce-over-provisioning-2kba)
-- [Your Test Suite Is Your API for Agents](https://dev.to/tmfrisinger/your-test-suite-is-your-api-for-agents-150m)
-- [Part 5 — Deals, pricing, and a real board](https://dev.to/nerd_snipe_dev/part-5-deals-pricing-and-a-real-board-a1c)
-- [# Python Crash Course for C# Developers — Part 2: Data Structures](https://dev.to/leonardo_zeaiter_79dfe3d6/-python-crash-course-for-c-developers-part-2-data-structures-1bkf)
+- [What 18 months building a self-hosted media server taught me about playback](https://dev.to/nickayl9/what-18-months-building-a-self-hosted-media-server-taught-me-about-playback-4b51)
+- [I counted every OP_RETURN on Bitcoin. A machine out-wrote all of human history 45 to 1.](https://dev.to/zekebuilds/i-counted-every-opreturn-on-bitcoin-a-machine-out-wrote-all-of-human-history-45-to-1-5bgn)
+- [What 90% Line-Rate Utilization on a Single 100GbE Port Means: Analyzing Network Bottlenecks in Inference Storage](https://dev.to/mingxintech/what-90-line-rate-utilization-on-a-single-100gbe-port-means-analyzing-network-bottlenecks-in-531m)
+- [Porting my Rust KVM hypervisor to ARM64: Running the binary](https://dev.to/stjepan86/porting-my-rust-kvm-hypervisor-to-arm64-running-the-binary-79m)
 <!-- BLOG-POST-LIST:END -->
 
 
