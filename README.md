@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I stopped fighting print lines and started covering them instead](https://dev.to/josh_green_dev/how-i-stopped-fighting-print-lines-and-started-covering-them-instead-2ljf)
-- [I Shipped My First Rust Release, and CI Turned Red Twice in 20 Minutes](https://dev.to/wahib_el_khadiri_0/i-shipped-my-first-rust-release-and-ci-turned-red-twice-in-20-minutes-31hp)
-- [Kimi K3 vs Claude Fable 5 and Opus 4.8: a benchmark you can run yourself](https://dev.to/dsplce-co/kimi-k3-vs-claude-fable-5-and-opus-48-a-benchmark-you-can-run-yourself-4b15)
-- [Kdrant: an idiomatic, coroutine-first Kotlin client for Qdrant](https://dev.to/tonytonycoder11/kdrant-an-idiomatic-coroutine-first-kotlin-client-for-qdrant-4i49)
+- [I Couldn’t Fix My LLM Costs Until I Measured Tokens Per Feature](https://dev.to/plasma_01/i-couldnt-fix-my-llm-costs-until-i-measured-tokens-per-feature-3f9n)
+- [React useCookie Hook: Cookies as Reactive State &lpar;2026&rpar;](https://dev.to/childrentime/react-usecookie-hook-cookies-as-reactive-state-2026-1369)
+- [Extension Blocks in C# 14 Are More Than New Syntax](https://dev.to/ssukhpinder/extension-blocks-in-c-14-are-more-than-new-syntax-31mk)
+- [Small Model SWE‑bench: What Happens When You Push Tiny Models Into Full Task Pipelines](https://dev.to/t_security_5b83n02g3/small-model-swe-bench-what-happens-when-you-push-tiny-models-into-full-task-pipelines-31c1)
 <!-- BLOG-POST-LIST:END -->
 
 
