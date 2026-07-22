@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [pretty interesting stuff!!](https://dev.to/ronak_parmar_033c50d168b5/pretty-interesting-stuff-3963)
-- [Resend Prometheus Monitoring: Alert on Email Bounces in Grafana](https://dev.to/robbeverhelst/resend-prometheus-monitoring-alert-on-email-bounces-in-grafana-3h4i)
-- [No Human at the Keyboard: OpenAI&#39;s Models Escaped Their Sandbox and Hacked Hugging Face to Cheat a Benchmark](https://dev.to/etairos/no-human-at-the-keyboard-openais-models-escaped-their-sandbox-and-hacked-hugging-face-to-cheat-a-4i8e)
-- [The smartest engineers I know are afraid to decide](https://dev.to/diogocapela/the-smartest-engineers-i-know-are-afraid-to-decide-jg5)
+- [Improving Kubernetes Resource Efficiency with Automated Feedback Loops to Reduce Over-Provisioning](https://dev.to/alitron/improving-kubernetes-resource-efficiency-with-automated-feedback-loops-to-reduce-over-provisioning-2kba)
+- [Your Test Suite Is Your API for Agents](https://dev.to/tmfrisinger/your-test-suite-is-your-api-for-agents-150m)
+- [Part 5 — Deals, pricing, and a real board](https://dev.to/nerd_snipe_dev/part-5-deals-pricing-and-a-real-board-a1c)
+- [# Python Crash Course for C# Developers — Part 2: Data Structures](https://dev.to/leonardo_zeaiter_79dfe3d6/-python-crash-course-for-c-developers-part-2-data-structures-1bkf)
 <!-- BLOG-POST-LIST:END -->
 
 
