@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Opinionated by Design: Why I Chose Sensible Defaults Over Endless Configuration](https://dev.to/sanjaysah/opinionated-by-design-why-i-chose-sensible-defaults-over-endless-configuration-4lnm)
-- [I lint-scanned 36 popular MCP servers. A third of them are failing your agent.](https://dev.to/tengbyte/i-lint-scanned-36-popular-mcp-servers-a-third-of-them-are-failing-your-agent-102d)
-- [The AI Bubble and the Future of Work: What Professionals Should Prepare For](https://dev.to/isuvo/the-ai-bubble-and-the-future-of-work-what-professionals-should-prepare-for-15fc)
-- [From Variables to Closures](https://dev.to/sai_swaroopbijinapalli_5/from-variables-to-closures-12fc)
+- [Packages in Java: Why Your Code Needs a Home Address](https://dev.to/jamilxt/packages-in-java-why-your-code-needs-a-home-address-b3a)
+- [I Spent 16 Months Building My Own SaaS Solo — Why the Last 10% Takes Months](https://dev.to/joshmsn/i-spent-16-months-building-my-own-saas-solo-the-last-10-took-longer-than-the-first-90-288)
+- [A conservative migration preflight for PACT PCF v2 v3](https://dev.to/sybilgambleyyu/a-conservative-migration-preflight-for-pact-pcf-v2-v3-6n9)
+- [Anti-bot without melting your budget: the proxy waterfall.](https://dev.to/votiakov/anti-bot-without-melting-your-budget-the-proxy-waterfall-4a04)
 <!-- BLOG-POST-LIST:END -->
 
 
