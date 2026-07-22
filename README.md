@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Packages in Java: Why Your Code Needs a Home Address](https://dev.to/jamilxt/packages-in-java-why-your-code-needs-a-home-address-b3a)
-- [I Spent 16 Months Building My Own SaaS Solo — Why the Last 10% Takes Months](https://dev.to/joshmsn/i-spent-16-months-building-my-own-saas-solo-the-last-10-took-longer-than-the-first-90-288)
-- [A conservative migration preflight for PACT PCF v2 v3](https://dev.to/sybilgambleyyu/a-conservative-migration-preflight-for-pact-pcf-v2-v3-6n9)
-- [Anti-bot without melting your budget: the proxy waterfall.](https://dev.to/votiakov/anti-bot-without-melting-your-budget-the-proxy-waterfall-4a04)
+- [The Hidden Cost of “Almost Automated”: Why Human Copy-Paste Survives Inside AI Workflows](https://dev.to/dhruvjoshi9/the-hidden-cost-of-almost-automated-why-human-copy-paste-survives-inside-ai-workflows-2079)
+- [Gitignore Generator: a small tool that solves a specific problem](https://dev.to/mryesiller/gitignore-generator-a-small-tool-that-solves-a-specific-problem-1h49)
+- [Satoshi&#39;s Presumed 1.1 Million Coins Have Never Moved. So Much for &quot;First-Mover Advantage.&quot;](https://dev.to/bitcoin_devto/satoshis-presumed-11-million-coins-have-never-moved-so-much-for-first-mover-advantage-1d1p)
+- [[Boost]](https://dev.to/masterl1/-bk)
 <!-- BLOG-POST-LIST:END -->
 
 
