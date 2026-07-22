@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What 18 months building a self-hosted media server taught me about playback](https://dev.to/nickayl9/what-18-months-building-a-self-hosted-media-server-taught-me-about-playback-4b51)
-- [I counted every OP_RETURN on Bitcoin. A machine out-wrote all of human history 45 to 1.](https://dev.to/zekebuilds/i-counted-every-opreturn-on-bitcoin-a-machine-out-wrote-all-of-human-history-45-to-1-5bgn)
-- [What 90% Line-Rate Utilization on a Single 100GbE Port Means: Analyzing Network Bottlenecks in Inference Storage](https://dev.to/mingxintech/what-90-line-rate-utilization-on-a-single-100gbe-port-means-analyzing-network-bottlenecks-in-531m)
-- [Porting my Rust KVM hypervisor to ARM64: Running the binary](https://dev.to/stjepan86/porting-my-rust-kvm-hypervisor-to-arm64-running-the-binary-79m)
+- [The Eternal Legacy &lpar;2006-2008&rpar;: The Modern Surveillance Aftermath](https://dev.to/bioshistory/the-eternal-legacy-2006-2008-the-modern-surveillance-aftermath-1lh1)
+- [A Lei de Gall: Por que todo sistema complexo que funciona evoluiu de um sistema simples que funcionava ⚙️](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-gall-por-que-todo-sistema-complexo-que-funciona-evoluiu-de-um-sistema-simples-que-bep)
+- [Securing SaaS Signup Forms: Stop Bot Attacks With CAPTCHA](https://dev.to/silverw_dot_ing/securing-saas-signup-forms-stop-bot-attacks-with-captcha-2f15)
+- [Single-table DynamoDB in TypeScript, made simple — meet Dynatable](https://dev.to/ftschopp/single-table-dynamodb-in-typescript-made-simple-meet-dynatable-gn5)
 <!-- BLOG-POST-LIST:END -->
 
 
