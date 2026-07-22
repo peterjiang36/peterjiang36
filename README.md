@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of “Almost Automated”: Why Human Copy-Paste Survives Inside AI Workflows](https://dev.to/dhruvjoshi9/the-hidden-cost-of-almost-automated-why-human-copy-paste-survives-inside-ai-workflows-2079)
-- [Gitignore Generator: a small tool that solves a specific problem](https://dev.to/mryesiller/gitignore-generator-a-small-tool-that-solves-a-specific-problem-1h49)
-- [Satoshi&#39;s Presumed 1.1 Million Coins Have Never Moved. So Much for &quot;First-Mover Advantage.&quot;](https://dev.to/bitcoin_devto/satoshis-presumed-11-million-coins-have-never-moved-so-much-for-first-mover-advantage-1d1p)
-- [[Boost]](https://dev.to/masterl1/-bk)
+- [pretty interesting stuff!!](https://dev.to/ronak_parmar_033c50d168b5/pretty-interesting-stuff-3963)
+- [Resend Prometheus Monitoring: Alert on Email Bounces in Grafana](https://dev.to/robbeverhelst/resend-prometheus-monitoring-alert-on-email-bounces-in-grafana-3h4i)
+- [No Human at the Keyboard: OpenAI&#39;s Models Escaped Their Sandbox and Hacked Hugging Face to Cheat a Benchmark](https://dev.to/etairos/no-human-at-the-keyboard-openais-models-escaped-their-sandbox-and-hacked-hugging-face-to-cheat-a-4i8e)
+- [The smartest engineers I know are afraid to decide](https://dev.to/diogocapela/the-smartest-engineers-i-know-are-afraid-to-decide-jg5)
 <!-- BLOG-POST-LIST:END -->
 
 
