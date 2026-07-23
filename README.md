@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned About Token Design on Solana as a Web2 Developer](https://dev.to/tanisha_fonseca/what-i-learned-about-token-design-on-solana-as-a-web2-developer-2he1)
-- [What I learned putting my own text editor into production](https://dev.to/thedevankit/what-i-learned-putting-my-own-text-editor-into-production-2al1)
-- [How to Build Efficient Context for Your AI Client to handle incidents](https://dev.to/xtsoftwarelabs/how-to-build-efficient-context-for-your-ai-client-4fnd)
-- [Why I Started Using HTMX Alongside Vue.js &lpar;And Didn&#39;t Expect to Like It&rpar;](https://dev.to/codewiljson/why-i-started-using-htmx-alongside-vuejs-and-didnt-expect-to-like-it-2aho)
+- [Building an AI Recruitment SaaS: Lessons Learned](https://dev.to/hasanyildizdev/building-an-ai-recruitment-saas-lessons-learned-3gim)
+- [Getting Real Numbers Into the VPA Model: The Commands and Tools](https://dev.to/prasadmk/getting-real-numbers-into-the-vpa-model-the-commands-and-tools-2ol2)
+- [I built a machine-payable API for AI agents and made $0.00 from strangers. Here&#39;s every number.](https://dev.to/baolongspx6900/i-built-a-machine-payable-api-for-ai-agents-and-made-000-from-strangers-heres-every-number-3g5k)
+- [10 ChatGPT Prompts for Daily Use by L1 SOC Analysts](https://dev.to/excalibra/10-chatgpt-prompts-for-daily-use-by-l1-soc-analysts-5g27)
 <!-- BLOG-POST-LIST:END -->
 
 
