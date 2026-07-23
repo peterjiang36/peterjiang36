@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 of my 8 answers were wrong and the table hid it](https://dev.to/mjmirza/5-of-my-8-answers-were-wrong-and-the-table-hid-it-4ppo)
-- [How I Built JWT Authentication in Spring Boot &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/ajeetverma01/how-i-built-jwt-authentication-in-spring-boot-beginner-friendly-guide-3hd)
-- [I Rebuilt My Personal Site with Astro + Bun + Cloudflare, Here’s the Full Architecture Breakdown](https://dev.to/ammarnajjar/i-rebuilt-my-personal-site-with-astro-bun-cloudflare-heres-the-full-architecture-breakdown-2agg)
-- [USB 3.2 Gen 2 Hubs: Real Speed, Compatibility, and Buying Criteria](https://dev.to/wixom/usb-32-gen-2-hubs-real-speed-compatibility-and-buying-criteria-7n7)
+- [MCP Just Killed the Handshake &lpar;Your Server Is Next&rpar;](https://dev.to/temrel/mcp-just-killed-the-handshake-your-server-is-next-47gj)
+- [An AI &quot;Escaped Its Sandbox&quot; — Or We Just Built a Bad Sandbox](https://dev.to/coridev/an-ai-escaped-its-sandbox-or-we-just-built-a-bad-sandbox-352)
+- [Part 2 - extends vs implements, Interface Methods &amp; Variables](https://dev.to/rajeshbhola1/part-2-extends-vs-implements-interface-methods-variables-5632)
+- [Your Safety Guardrails Just Became an Incident Response Blocker](https://dev.to/coridev/your-safety-guardrails-just-became-an-incident-response-blocker-3n1j)
 <!-- BLOG-POST-LIST:END -->
 
 
