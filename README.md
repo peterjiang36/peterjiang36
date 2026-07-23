@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Just Killed the Handshake &lpar;Your Server Is Next&rpar;](https://dev.to/temrel/mcp-just-killed-the-handshake-your-server-is-next-47gj)
-- [An AI &quot;Escaped Its Sandbox&quot; — Or We Just Built a Bad Sandbox](https://dev.to/coridev/an-ai-escaped-its-sandbox-or-we-just-built-a-bad-sandbox-352)
-- [Part 2 - extends vs implements, Interface Methods &amp; Variables](https://dev.to/rajeshbhola1/part-2-extends-vs-implements-interface-methods-variables-5632)
-- [Your Safety Guardrails Just Became an Incident Response Blocker](https://dev.to/coridev/your-safety-guardrails-just-became-an-incident-response-blocker-3n1j)
+- [How to Add Watermarks to PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3k4n)
+- [Intoducing EasyInvoicePDF - a Free and Open-Source Invoice Generator](https://dev.to/vladsez/intoducing-easyinvoicepdf-a-free-and-open-source-invoice-generator-2kc7)
+- [How to Fix &quot;Duplicate class ... found in modules&quot; in React Native &amp; Expo](https://dev.to/asta_dev/how-to-fix-duplicate-class-found-in-modules-in-react-native-expo-1gg7)
+- [In-Context Learning vs. True Generalization: What&#39;s Actually Happening When You Give Examples in a Prompt?](https://dev.to/velocityai/in-context-learning-vs-true-generalization-whats-actually-happening-when-you-give-examples-in-a-5e25)
 <!-- BLOG-POST-LIST:END -->
 
 
