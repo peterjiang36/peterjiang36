@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Mat Expressive: Material 3 Expressive for Angular Material](https://dev.to/ngmaterialdev/introducing-mat-expressive-material-3-expressive-for-angular-material-4l9)
-- [Lean Startup Methodology: A First-Time Founder&#39;s Guide](https://dev.to/sclaydon/lean-startup-methodology-a-first-time-founders-guide-2a27)
-- [I Benchmarked 19 Retrieval Pipelines Head-to-Head and the Results Were Surprisingly Honest](https://dev.to/subhansh/i-benchmarked-19-retrieval-pipelines-head-to-head-and-the-results-were-surprisingly-honest-3efe)
-- [Beyond CI/CD: Building Agentic Validation and Inspection Layers with LangGraph, MCP, and A2A](https://dev.to/nikhil_ramank_152ca48266/beyond-cicd-building-agentic-validation-and-inspection-layers-with-langgraph-mcp-and-a2a-30f0)
+- [What I Learned About Token Design on Solana as a Web2 Developer](https://dev.to/tanisha_fonseca/what-i-learned-about-token-design-on-solana-as-a-web2-developer-2he1)
+- [What I learned putting my own text editor into production](https://dev.to/thedevankit/what-i-learned-putting-my-own-text-editor-into-production-2al1)
+- [How to Build Efficient Context for Your AI Client to handle incidents](https://dev.to/xtsoftwarelabs/how-to-build-efficient-context-for-your-ai-client-4fnd)
+- [Why I Started Using HTMX Alongside Vue.js &lpar;And Didn&#39;t Expect to Like It&rpar;](https://dev.to/codewiljson/why-i-started-using-htmx-alongside-vuejs-and-didnt-expect-to-like-it-2aho)
 <!-- BLOG-POST-LIST:END -->
 
 
