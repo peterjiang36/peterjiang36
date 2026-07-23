@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Loop Engineering: How to Stop Your Agent Reward-Hacking Its Own Checks](https://dev.to/reporails/loop-engineering-how-to-stop-your-agent-reward-hacking-its-own-checks-4fpn)
-- [MergeForge: Resolve Git Conflicts in VS Code or Cursor Like in JetBrains](https://dev.to/ognjenmarcheta/mergeforge-resolve-git-conflicts-in-vs-code-or-cursor-like-in-jetbrains-3oj1)
-- [How to Actually Protect Yourself From wp2shell &lpar;Not Just &quot;Update WordPress&quot;&rpar;](https://dev.to/adityapidurkar/how-to-actually-protect-yourself-from-wp2shell-not-just-update-wordpress-4ead)
-- [Request validation with Zod in Express](https://dev.to/zsevic/request-validation-with-zod-in-express-4gj0)
+- [Your budgeting app is lying to you about last month](https://dev.to/sssselfmade/your-budgeting-app-is-lying-to-you-about-last-month-3kn8)
+- [My app&#39;s anti-theft feature locked every user out](https://dev.to/sssselfmade/my-apps-anti-theft-feature-locked-every-user-out-48mf)
+- [Automate FOMC and CPI Alerts with n8n and a Free Economic Calendar API](https://dev.to/ichigowa/automate-fomc-and-cpi-alerts-with-n8n-and-a-free-economic-calendar-api-3j87)
+- [How Reading a Design Patterns Book Led Me to Audit My Rust Framework with UML and Merise](https://dev.to/seballiot/how-reading-a-design-patterns-book-led-me-to-audit-my-rust-framework-with-uml-and-merise-45dj)
 <!-- BLOG-POST-LIST:END -->
 
 
