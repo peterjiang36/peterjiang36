@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Watermarks to PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-add-watermarks-to-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3k4n)
-- [Intoducing EasyInvoicePDF - a Free and Open-Source Invoice Generator](https://dev.to/vladsez/intoducing-easyinvoicepdf-a-free-and-open-source-invoice-generator-2kc7)
-- [How to Fix &quot;Duplicate class ... found in modules&quot; in React Native &amp; Expo](https://dev.to/asta_dev/how-to-fix-duplicate-class-found-in-modules-in-react-native-expo-1gg7)
-- [In-Context Learning vs. True Generalization: What&#39;s Actually Happening When You Give Examples in a Prompt?](https://dev.to/velocityai/in-context-learning-vs-true-generalization-whats-actually-happening-when-you-give-examples-in-a-5e25)
+- [Introducing Mat Expressive: Material 3 Expressive for Angular Material](https://dev.to/ngmaterialdev/introducing-mat-expressive-material-3-expressive-for-angular-material-4l9)
+- [Lean Startup Methodology: A First-Time Founder&#39;s Guide](https://dev.to/sclaydon/lean-startup-methodology-a-first-time-founders-guide-2a27)
+- [I Benchmarked 19 Retrieval Pipelines Head-to-Head and the Results Were Surprisingly Honest](https://dev.to/subhansh/i-benchmarked-19-retrieval-pipelines-head-to-head-and-the-results-were-surprisingly-honest-3efe)
+- [Beyond CI/CD: Building Agentic Validation and Inspection Layers with LangGraph, MCP, and A2A](https://dev.to/nikhil_ramank_152ca48266/beyond-cicd-building-agentic-validation-and-inspection-layers-with-langgraph-mcp-and-a2a-30f0)
 <!-- BLOG-POST-LIST:END -->
 
 
