@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Recruitment SaaS: Lessons Learned](https://dev.to/hasanyildizdev/building-an-ai-recruitment-saas-lessons-learned-3gim)
-- [Getting Real Numbers Into the VPA Model: The Commands and Tools](https://dev.to/prasadmk/getting-real-numbers-into-the-vpa-model-the-commands-and-tools-2ol2)
-- [I built a machine-payable API for AI agents and made $0.00 from strangers. Here&#39;s every number.](https://dev.to/baolongspx6900/i-built-a-machine-payable-api-for-ai-agents-and-made-000-from-strangers-heres-every-number-3g5k)
-- [10 ChatGPT Prompts for Daily Use by L1 SOC Analysts](https://dev.to/excalibra/10-chatgpt-prompts-for-daily-use-by-l1-soc-analysts-5g27)
+- [Claude Cowork on Windows and Linux: How to Run It in 2026](https://dev.to/stravukarl/claude-cowork-on-windows-and-linux-how-to-run-it-in-2026-lon)
+- [I Built a CLI That Finds Me Clients on Reddit Using AI](https://dev.to/hidekiryu/i-built-a-cli-that-finds-me-clients-on-reddit-using-ai-55dc)
+- [We Catalogued 14,085 x402 Endpoints. 10,508 Came From One Domain.](https://dev.to/devtoship/we-catalogued-14085-x402-endpoints-10508-came-from-one-domain-1g19)
+- [What Happens If You Lose Your Gmail Account Tomorrow?](https://dev.to/sashasmith/what-happens-if-you-lose-your-gmail-account-tomorrow-f4l)
 <!-- BLOG-POST-LIST:END -->
 
 
