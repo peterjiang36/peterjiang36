@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ESP32 Bowling Scoring System Beats a $120K Proprietary Quote](https://dev.to/circuitrocks/esp32-bowling-scoring-system-beats-a-120k-proprietary-quote-4i9p)
-- [Dev log #13 Hardening Kademlia: A week of p2p security architecture and Neovim maintenance](https://dev.to/yashksaini/dev-log-1-hardening-kademlia-a-week-of-p2p-security-architecture-and-neovim-maintenance-12jo)
-- [Character consistency isn&#39;t a seed trick: a 2-stage image pipeline that actually locks the face](https://dev.to/ownstackhq/character-consistency-isnt-a-seed-trick-a-2-stage-image-pipeline-that-actually-locks-the-face-p76)
-- [L1.9: I built a prompt injection firewall for AI agents &lpar;28 detection rules&rpar;](https://dev.to/edison_flores_6d2cd381b13/l19-i-built-a-prompt-injection-firewall-for-ai-agents-28-detection-rules-18nb)
+- [5 of my 8 answers were wrong and the table hid it](https://dev.to/mjmirza/5-of-my-8-answers-were-wrong-and-the-table-hid-it-4ppo)
+- [How I Built JWT Authentication in Spring Boot &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/ajeetverma01/how-i-built-jwt-authentication-in-spring-boot-beginner-friendly-guide-3hd)
+- [I Rebuilt My Personal Site with Astro + Bun + Cloudflare, Here’s the Full Architecture Breakdown](https://dev.to/ammarnajjar/i-rebuilt-my-personal-site-with-astro-bun-cloudflare-heres-the-full-architecture-breakdown-2agg)
+- [USB 3.2 Gen 2 Hubs: Real Speed, Compatibility, and Buying Criteria](https://dev.to/wixom/usb-32-gen-2-hubs-real-speed-compatibility-and-buying-criteria-7n7)
 <!-- BLOG-POST-LIST:END -->
 
 
