@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD Advancing AI 2026: Software, Hardware &amp; Framework, Unified](https://dev.to/earlgreyhot1701d/amd-advancing-ai-2026-software-hardware-framework-unified-2d2j)
-- [🐍 Snake - rendered with 576 browser windows [warning - this WILL hurt your eyes...and PC!]](https://dev.to/grahamthedev/snake-rendered-with-576-browser-windows-warning-this-will-hurt-your-eyesand-pc-3p7i)
-- [3 Assumptions That Broke Before I Got gpt-oss-120b Working Through the Anthropic SDK](https://dev.to/nomurasan/3-assumptions-that-broke-before-i-got-gpt-oss-120b-working-through-the-anthropic-sdk-m55)
-- [I built a terminal tool to see your AI coding limits before they stop you](https://dev.to/pawfromoz/i-built-a-terminal-tool-to-see-your-ai-coding-limits-before-they-stop-you-3a93)
+- [Bio-Tuning Glasses: Building an Invisible Biofeedback Interface with Edge AI and Adaptive Optics](https://dev.to/alirezaai/bio-tuning-glasses-building-an-invisible-biofeedback-interface-with-edge-ai-and-adaptive-optics-2gmg)
+- [Treat Emergency AI Revocation as a Distributed Protocol](https://dev.to/robinzzz/treat-emergency-ai-revocation-as-a-distributed-protocol-1ed5)
+- [Show the Evidence That an AI Action Approval Actually Covered](https://dev.to/haaaaaley/show-the-evidence-that-an-ai-action-approval-actually-covered-mc9)
+- [One video is worth a thousand pictures](https://dev.to/mousheng_xu_e002b5fecf4ff/one-video-is-worth-a-thousand-pictures-36mf)
 <!-- BLOG-POST-LIST:END -->
 
 
