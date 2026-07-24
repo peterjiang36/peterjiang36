@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Node to Go - the same POST /register, side by side](https://dev.to/_notbu7ch/from-node-to-go-the-same-post-register-side-by-side-5h15)
-- [大语言模型的每个参数到底能储存多少信息](https://dev.to/cognitalk/da-yu-yan-mo-xing-de-mei-ge-can-shu-dao-di-neng-chu-cun-duo-shao-xin-xi-10k8)
-- [Hidden Prompt Injection: Hacking a Browser Agent and Testing Its Defenses](https://dev.to/_862f933aa9477a9d2d/hidden-prompt-injection-hacking-a-browser-agent-and-testing-its-defenses-64l)
-- [AI Hiring Outpaces Overall IT Recruitment in India: A Shift in Industry Strategy](https://dev.to/pneumetron/ai-hiring-outpaces-overall-it-recruitment-in-india-a-shift-in-industry-strategy-23d5)
+- [AWS S3 + CloudFront Subdirectory Hosting: Architecture &amp; Edge Cases](https://dev.to/vivekvohra/aws-s3-cloudfront-subdirectory-hosting-architecture-edge-cases-6j1)
+- [Gemini 3.6 Flash: the Thinking Dial That Moves Cost 30x &lpar;Measured&rpar;](https://dev.to/synthorai/gemini-36-flash-the-thinking-dial-that-moves-cost-30x-measured-3bhe)
+- [BenchmarkDotNet Measures Performance—But Who Enforces the Budget?](https://dev.to/younessaamiri/benchmarkdotnet-measures-performance-but-who-enforces-the-budget-1am2)
+- [What Is Agentic Test Creation and How Is It Different from AI Test Generation?](https://dev.to/johnjvester/what-is-agentic-test-creation-and-how-is-it-different-from-ai-test-generation-4k69)
 <!-- BLOG-POST-LIST:END -->
 
 
