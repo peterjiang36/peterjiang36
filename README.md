@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bio-Tuning Glasses: Building an Invisible Biofeedback Interface with Edge AI and Adaptive Optics](https://dev.to/alirezaai/bio-tuning-glasses-building-an-invisible-biofeedback-interface-with-edge-ai-and-adaptive-optics-2gmg)
-- [Treat Emergency AI Revocation as a Distributed Protocol](https://dev.to/robinzzz/treat-emergency-ai-revocation-as-a-distributed-protocol-1ed5)
-- [Show the Evidence That an AI Action Approval Actually Covered](https://dev.to/haaaaaley/show-the-evidence-that-an-ai-action-approval-actually-covered-mc9)
-- [One video is worth a thousand pictures](https://dev.to/mousheng_xu_e002b5fecf4ff/one-video-is-worth-a-thousand-pictures-36mf)
+- [The x-tenant-id Pattern: Multi-Tenant API Without Multi-Tenant Complexity](https://dev.to/akshay_nikhare/the-x-tenant-id-pattern-multi-tenant-api-without-multi-tenant-complexity-4cn9)
+- [onPreviewKeyEvent vs onKeyEvent on Android TV: A Subtle D-Pad Bug](https://dev.to/akshay_nikhare/onpreviewkeyevent-vs-onkeyevent-on-android-tv-a-subtle-d-pad-bug-3c7d)
+- [Mono-Repo + Multi-Repo: How We Structured 6 Apps Across 4 Repositories](https://dev.to/akshay_nikhare/mono-repo-multi-repo-how-we-structured-6-apps-across-4-repositories-39bi)
+- [I Built a Manga Reader That Works on Every Platform --Here&#39;s How](https://dev.to/hasan72341/i-built-a-manga-reader-that-works-on-every-platform-heres-how-aa1)
 <!-- BLOG-POST-LIST:END -->
 
 
