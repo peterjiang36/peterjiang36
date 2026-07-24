@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The x-tenant-id Pattern: Multi-Tenant API Without Multi-Tenant Complexity](https://dev.to/akshay_nikhare/the-x-tenant-id-pattern-multi-tenant-api-without-multi-tenant-complexity-4cn9)
-- [onPreviewKeyEvent vs onKeyEvent on Android TV: A Subtle D-Pad Bug](https://dev.to/akshay_nikhare/onpreviewkeyevent-vs-onkeyevent-on-android-tv-a-subtle-d-pad-bug-3c7d)
-- [Mono-Repo + Multi-Repo: How We Structured 6 Apps Across 4 Repositories](https://dev.to/akshay_nikhare/mono-repo-multi-repo-how-we-structured-6-apps-across-4-repositories-39bi)
-- [I Built a Manga Reader That Works on Every Platform --Here&#39;s How](https://dev.to/hasan72341/i-built-a-manga-reader-that-works-on-every-platform-heres-how-aa1)
+- [From Node to Go - the same POST /register, side by side](https://dev.to/_notbu7ch/from-node-to-go-the-same-post-register-side-by-side-5h15)
+- [大语言模型的每个参数到底能储存多少信息](https://dev.to/cognitalk/da-yu-yan-mo-xing-de-mei-ge-can-shu-dao-di-neng-chu-cun-duo-shao-xin-xi-10k8)
+- [Hidden Prompt Injection: Hacking a Browser Agent and Testing Its Defenses](https://dev.to/_862f933aa9477a9d2d/hidden-prompt-injection-hacking-a-browser-agent-and-testing-its-defenses-64l)
+- [AI Hiring Outpaces Overall IT Recruitment in India: A Shift in Industry Strategy](https://dev.to/pneumetron/ai-hiring-outpaces-overall-it-recruitment-in-india-a-shift-in-industry-strategy-23d5)
 <!-- BLOG-POST-LIST:END -->
 
 
