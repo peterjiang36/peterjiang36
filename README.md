@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 5 is Live on Agent Platform 🚀](https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52)
-- [React Component Lifecycle Methods: Explained with an Interactive Diagram](https://dev.to/uiuxsatyam/react-lifecycle-methods-explained-with-an-interactive-diagram-3ljp)
-- [Open Serverless v4 is here](https://dev.to/slootjes/open-serverless-v4-is-here-139i)
-- [[Day 1]-I Learned the Foundation of HTML](https://dev.to/john_paulledioregaton_4/day-1-i-learned-the-foundation-of-html-349f)
+- [I fixed the same kind of mistake five times this month before I changed how I work](https://dev.to/mjmirza/i-fixed-the-same-kind-of-mistake-five-times-this-month-before-i-changed-how-i-work-hec)
+- [The New Developer Portfolio Is Not a Screenshot. It Is the Work Trace.](https://dev.to/jsb-securedme/the-new-developer-portfolio-is-not-a-screenshot-it-is-the-work-trace-161c)
+- [Generating Print-Ready PDFs in a Browser Is Harder Than It Looks](https://dev.to/hannahjwhitfield/generating-print-ready-pdfs-in-a-browser-is-harder-than-it-looks-25g3)
+- [SM-2 Is Not Enough: Where Classic Spaced Repetition Breaks Down](https://dev.to/alexrchen/sm-2-is-not-enough-where-classic-spaced-repetition-breaks-down-4hdd)
 <!-- BLOG-POST-LIST:END -->
 
 
