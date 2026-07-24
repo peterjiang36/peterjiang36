@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Microsoft Agent Framework Applications](https://dev.to/lukaswalter/testing-microsoft-agent-framework-applications-4739)
-- [What Building ContextLens Taught Me About Context-Aware Systems](https://dev.to/anam152/what-building-contextlens-taught-me-about-context-aware-systems-2obd)
-- [Own Your Pixels: Native Fidelity on Your Schedule](https://dev.to/codenameone/own-your-pixels-native-fidelity-on-your-schedule-2gf)
-- [Exam AI-500 Beta: Microsoft Just Published Its Multi-Agent Roadmap and Called It a Certification](https://dev.to/az365ai/exam-ai-500-beta-microsoft-just-published-its-multi-agent-roadmap-and-called-it-a-certification-3hcd)
+- [Claude Opus 5 is Live on Agent Platform 🚀](https://dev.to/googleai/claude-opus-5-is-live-on-agent-platform-3f52)
+- [React Component Lifecycle Methods: Explained with an Interactive Diagram](https://dev.to/uiuxsatyam/react-lifecycle-methods-explained-with-an-interactive-diagram-3ljp)
+- [Open Serverless v4 is here](https://dev.to/slootjes/open-serverless-v4-is-here-139i)
+- [[Day 1]-I Learned the Foundation of HTML](https://dev.to/john_paulledioregaton_4/day-1-i-learned-the-foundation-of-html-349f)
 <!-- BLOG-POST-LIST:END -->
 
 
