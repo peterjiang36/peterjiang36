@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS S3 + CloudFront Subdirectory Hosting: Architecture &amp; Edge Cases](https://dev.to/vivekvohra/aws-s3-cloudfront-subdirectory-hosting-architecture-edge-cases-6j1)
-- [Gemini 3.6 Flash: the Thinking Dial That Moves Cost 30x &lpar;Measured&rpar;](https://dev.to/synthorai/gemini-36-flash-the-thinking-dial-that-moves-cost-30x-measured-3bhe)
-- [BenchmarkDotNet Measures Performance—But Who Enforces the Budget?](https://dev.to/younessaamiri/benchmarkdotnet-measures-performance-but-who-enforces-the-budget-1am2)
-- [What Is Agentic Test Creation and How Is It Different from AI Test Generation?](https://dev.to/johnjvester/what-is-agentic-test-creation-and-how-is-it-different-from-ai-test-generation-4k69)
+- [Why Your Multi-Agent AI System Keeps Getting Stuck in Infinite Loops &lpar;And How We Fixed It&rpar;](https://dev.to/shahdinsalman/why-your-multi-agent-ai-system-keeps-getting-stuck-in-infinite-loops-and-how-we-fixed-it-4ek1)
+- [How we solved 502 Read Timeouts on slow reasoning LLM APIs using SSE Stream Aggregation in Python](https://dev.to/alessandro_pioli_5fcab5ea/how-we-solved-502-read-timeouts-on-slow-reasoning-llm-apis-using-sse-stream-aggregation-in-python-1g36)
+- [The NuGet gap Shai-Hulud exposed — and what we built to close part of it&rpar;](https://dev.to/abel-dev/the-nuget-gap-shai-hulud-exposed-and-what-we-built-to-close-part-of-it-3k2j)
+- [Outline Wiki 自架教學（三）：Codex 串接 MCP](https://dev.to/letswrite/outline-wiki-zi-jia-jiao-xue-san-codex-chuan-jie-mcp-5c4b)
 <!-- BLOG-POST-LIST:END -->
 
 
