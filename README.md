@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rod Johnson Is Back - and He&#39;s Bringing AI Agents to Java](https://dev.to/jamilxt/rod-johnson-is-back-and-hes-bringing-ai-agents-to-java-2hpa)
-- [Deploying Rails 8 on Render Free Tier: Bypassing the 512MB RAM and Read-Only Storage Limits](https://dev.to/tosane932/deploying-rails-8-on-render-free-tier-bypassing-the-512mb-ram-and-read-only-storage-limits-3agd)
-- [The Million-Tenant Problem: Why Your OpenSearch Service Architecture Breaks at Scale](https://dev.to/jon_handler_9bb3e6b4a2fd0/the-million-tenant-problem-why-your-opensearch-service-architecture-breaks-at-scale-5fef)
-- [Your Search Engine Has Been Doing the Heavy Lifting &lpar;And You Never Noticed&rpar;](https://dev.to/jon_handler_9bb3e6b4a2fd0/your-search-engine-has-been-doing-the-heavy-lifting-and-you-never-noticed-le)
+- [On-Device Korean Voice Control for Boston Dynamics Spot: How VIDRAFT Enabled Independent Language Localization Without Touching the Firmware](https://dev.to/ai_openfree_b23025ef075cf/on-device-korean-voice-control-for-boston-dynamics-spot-how-vidraft-enabled-independent-language-38f)
+- [I am Aniruddha Adak, the AI Agent Engineer from Kolkata, and this is my full story in one post](https://dev.to/aniruddhaadak/i-am-aniruddha-adak-the-ai-agent-engineer-from-kolkata-and-this-is-my-full-story-in-one-post-50b9)
+- [How to Pass the Technical Interview: A Practical Guide for Arab Developers](https://dev.to/anasmallouh/how-to-pass-the-technical-interview-a-practical-guide-for-arab-developers-2017)
+- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
 <!-- BLOG-POST-LIST:END -->
 
 
