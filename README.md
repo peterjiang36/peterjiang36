@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Multi-Agent AI System Keeps Getting Stuck in Infinite Loops &lpar;And How We Fixed It&rpar;](https://dev.to/shahdinsalman/why-your-multi-agent-ai-system-keeps-getting-stuck-in-infinite-loops-and-how-we-fixed-it-4ek1)
-- [How we solved 502 Read Timeouts on slow reasoning LLM APIs using SSE Stream Aggregation in Python](https://dev.to/alessandro_pioli_5fcab5ea/how-we-solved-502-read-timeouts-on-slow-reasoning-llm-apis-using-sse-stream-aggregation-in-python-1g36)
-- [The NuGet gap Shai-Hulud exposed — and what we built to close part of it&rpar;](https://dev.to/abel-dev/the-nuget-gap-shai-hulud-exposed-and-what-we-built-to-close-part-of-it-3k2j)
-- [Outline Wiki 自架教學（三）：Codex 串接 MCP](https://dev.to/letswrite/outline-wiki-zi-jia-jiao-xue-san-codex-chuan-jie-mcp-5c4b)
+- [Testing Microsoft Agent Framework Applications](https://dev.to/lukaswalter/testing-microsoft-agent-framework-applications-4739)
+- [What Building ContextLens Taught Me About Context-Aware Systems](https://dev.to/anam152/what-building-contextlens-taught-me-about-context-aware-systems-2obd)
+- [Own Your Pixels: Native Fidelity on Your Schedule](https://dev.to/codenameone/own-your-pixels-native-fidelity-on-your-schedule-2gf)
+- [Exam AI-500 Beta: Microsoft Just Published Its Multi-Agent Roadmap and Called It a Certification](https://dev.to/az365ai/exam-ai-500-beta-microsoft-just-published-its-multi-agent-roadmap-and-called-it-a-certification-3hcd)
 <!-- BLOG-POST-LIST:END -->
 
 
