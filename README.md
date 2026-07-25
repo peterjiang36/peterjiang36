@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Parâmetro de Esforço do Claude Opus 5: Trocando Custo por Capacidade](https://dev.to/lucas_ferreira/parametro-de-esforco-do-claude-opus-5-trocando-custo-por-capacidade-411l)
-- [AI Can Ship Your Prototype in a Weekend. It Still Won’t Tell You If You Built the Wrong Thing](https://dev.to/james_lin/ai-can-ship-your-prototype-in-a-weekend-it-still-wont-tell-you-if-you-built-the-wrong-thing-363g)
-- [訂單沒斷、成長卻卡住：印度 IT 巨頭正在為「AI 改寫交付單價」付帳](https://dev.to/james_lin/ding-dan-mei-duan-cheng-chang-que-qia-zhu-yin-du-it-ju-tou-zheng-zai-wei-ai-gai-xie-jiao-fu-dan-jia-fu-zhang-dmd)
-- [榮耀 ARRI 的 7/28 影像局：Robot Phone 要賣的不是鏡頭，是「整條電影產線」](https://dev.to/james_lin/rong-yao-x-arri-de-728-ying-xiang-ju-robot-phone-yao-mai-de-bu-shi-jing-tou-shi-zheng-tiao-dian-ying-chan-xian--4fnp)
+- [Agent Memory Is Not Merely a Storage &amp; Retrieval Problem, It Is an Architecture Problem.](https://dev.to/gaurav_dadhich_38175055cc/agent-memory-is-not-merely-a-storage-retrieval-problem-it-is-an-architecture-problem-3e1j)
+- [How to Build an Interactive Sales Analytics Dashboard in Python using Streamlit](https://dev.to/ana_p/how-to-build-an-interactive-sales-analytics-dashboard-in-python-using-streamlit-272)
+- [389 Tests Passed. NIST Still Caught the Bug.](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh)
+- [Inside the LSTM: An XAI Field Guide to Weather Prediction](https://dev.to/meftamila/inside-the-lstm-an-xai-field-guide-to-weather-prediction-4d2p)
 <!-- BLOG-POST-LIST:END -->
 
 
