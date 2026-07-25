@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I scanned 1,775 websites for GDPR consent leaks. Here&#39;s what fires before you click anything](https://dev.to/victoraareskjold/i-scanned-1775-websites-for-gdpr-consent-leaks-heres-what-fires-before-you-click-anything-21ak)
-- [I built a collection of open-source Eve agents for AI based on the Vercel framework](https://dev.to/zoltanszogyenyi/i-built-a-collection-of-open-source-eve-agents-for-ai-based-on-the-vercel-framework-55ab)
-- [Why I Built a Security Scanner That Never Touches the Target](https://dev.to/resul_oztas/why-i-built-a-security-scanner-that-never-touches-the-target-4123)
-- [The Biggest Flaw in My AI Evaluation Wasn&#39;t the Models. It Was My Scorecard.](https://dev.to/asiaostrich/the-biggest-flaw-in-my-ai-evaluation-wasnt-the-models-it-was-my-scorecard-556d)
+- [Dario must be crashing out](https://dev.to/jon_at_backboardio/dario-must-be-crashing-out-26b9)
+- [Beyond the Model: Building the AI Harness](https://dev.to/abdulaziz_zos/beyond-the-model-1b23)
+- [TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)
+- [#22 Tool #23 Is the Blog You&#39;re Reading Right Now](https://dev.to/fromzerotoship/22-tool-23-is-the-blog-youre-reading-right-now-3ha0)
 <!-- BLOG-POST-LIST:END -->
 
 
