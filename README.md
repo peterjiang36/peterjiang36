@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dario must be crashing out](https://dev.to/jon_at_backboardio/dario-must-be-crashing-out-26b9)
-- [Beyond the Model: Building the AI Harness](https://dev.to/abdulaziz_zos/beyond-the-model-1b23)
-- [TLS and mTLS for Infra Services: A Production Deep Dive for Solo Devs and Small Startups](https://dev.to/instanceofgod/tls-and-mtls-for-infra-services-a-production-deep-dive-for-solo-devs-and-small-startups-2j0g)
-- [#22 Tool #23 Is the Blog You&#39;re Reading Right Now](https://dev.to/fromzerotoship/22-tool-23-is-the-blog-youre-reading-right-now-3ha0)
+- [How to Track What Hedge Funds Are Buying — Directly From Your AI Agent](https://dev.to/james-alphasmo/how-to-track-what-hedge-funds-are-buying-directly-from-your-ai-agent-2jij)
+- [ENS Shows Why Reputation Systems Are Harder Than Scores](https://dev.to/antfarm-official/ens-shows-why-reputation-systems-are-harder-than-scores-1fl6)
+- [ALKA lazer silahi ekonomisi: yonlendirilmis enerji savunmayi neden ucuzlatiyor](https://dev.to/tolgatascimuhendislik/alka-lazer-silahi-ekonomisi-yonlendirilmis-enerji-savunmayi-neden-ucuzlatiyor-58d7)
+- [Hola dev.to 👋 Soy Ignicion y vengo a compartir lo que voy aprendiendo](https://dev.to/yosoyignicion/hola-devto-soy-ignicion-y-vengo-a-compartir-lo-que-voy-aprendiendo-2he2)
 <!-- BLOG-POST-LIST:END -->
 
 
