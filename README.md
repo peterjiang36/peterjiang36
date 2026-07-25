@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero Docker Experience to Tracing Every LLM Call: Building an Observable AI Assistant with SigNoz](https://dev.to/saheliroycommits/from-zero-docker-experience-to-tracing-every-llm-call-building-an-observable-ai-assistant-with-1741)
-- [Learning a new language with an AI tutor that won&#39;t just give you the answer](https://dev.to/birsi/learning-a-new-language-with-an-ai-tutor-that-wont-just-give-you-the-answer-27gh)
-- [What Happens to Patient Voice Data After the Call Ends?](https://dev.to/vaiu-ai/what-happens-to-patient-voice-data-after-the-call-ends-3013)
-- [Automate Spotify and YouTube Playlists - Chapter 6: Deployment](https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-6-deployment-1c4h)
+- [I scanned 1,775 websites for GDPR consent leaks. Here&#39;s what fires before you click anything](https://dev.to/victoraareskjold/i-scanned-1775-websites-for-gdpr-consent-leaks-heres-what-fires-before-you-click-anything-21ak)
+- [I built a collection of open-source Eve agents for AI based on the Vercel framework](https://dev.to/zoltanszogyenyi/i-built-a-collection-of-open-source-eve-agents-for-ai-based-on-the-vercel-framework-55ab)
+- [Why I Built a Security Scanner That Never Touches the Target](https://dev.to/resul_oztas/why-i-built-a-security-scanner-that-never-touches-the-target-4123)
+- [The Biggest Flaw in My AI Evaluation Wasn&#39;t the Models. It Was My Scorecard.](https://dev.to/asiaostrich/the-biggest-flaw-in-my-ai-evaluation-wasnt-the-models-it-was-my-scorecard-556d)
 <!-- BLOG-POST-LIST:END -->
 
 
