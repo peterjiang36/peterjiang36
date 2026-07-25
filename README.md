@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [On-Device Korean Voice Control for Boston Dynamics Spot: How VIDRAFT Enabled Independent Language Localization Without Touching the Firmware](https://dev.to/ai_openfree_b23025ef075cf/on-device-korean-voice-control-for-boston-dynamics-spot-how-vidraft-enabled-independent-language-38f)
-- [I am Aniruddha Adak, the AI Agent Engineer from Kolkata, and this is my full story in one post](https://dev.to/aniruddhaadak/i-am-aniruddha-adak-the-ai-agent-engineer-from-kolkata-and-this-is-my-full-story-in-one-post-50b9)
-- [How to Pass the Technical Interview: A Practical Guide for Arab Developers](https://dev.to/anasmallouh/how-to-pass-the-technical-interview-a-practical-guide-for-arab-developers-2017)
-- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
+- [Parâmetro de Esforço do Claude Opus 5: Trocando Custo por Capacidade](https://dev.to/lucas_ferreira/parametro-de-esforco-do-claude-opus-5-trocando-custo-por-capacidade-411l)
+- [AI Can Ship Your Prototype in a Weekend. It Still Won’t Tell You If You Built the Wrong Thing](https://dev.to/james_lin/ai-can-ship-your-prototype-in-a-weekend-it-still-wont-tell-you-if-you-built-the-wrong-thing-363g)
+- [訂單沒斷、成長卻卡住：印度 IT 巨頭正在為「AI 改寫交付單價」付帳](https://dev.to/james_lin/ding-dan-mei-duan-cheng-chang-que-qia-zhu-yin-du-it-ju-tou-zheng-zai-wei-ai-gai-xie-jiao-fu-dan-jia-fu-zhang-dmd)
+- [榮耀 ARRI 的 7/28 影像局：Robot Phone 要賣的不是鏡頭，是「整條電影產線」](https://dev.to/james_lin/rong-yao-x-arri-de-728-ying-xiang-ju-robot-phone-yao-mai-de-bu-shi-jing-tou-shi-zheng-tiao-dian-ying-chan-xian--4fnp)
 <!-- BLOG-POST-LIST:END -->
 
 
