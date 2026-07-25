@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Memory Is Not Merely a Storage &amp; Retrieval Problem, It Is an Architecture Problem.](https://dev.to/gaurav_dadhich_38175055cc/agent-memory-is-not-merely-a-storage-retrieval-problem-it-is-an-architecture-problem-3e1j)
-- [How to Build an Interactive Sales Analytics Dashboard in Python using Streamlit](https://dev.to/ana_p/how-to-build-an-interactive-sales-analytics-dashboard-in-python-using-streamlit-272)
-- [389 Tests Passed. NIST Still Caught the Bug.](https://dev.to/copyleftdev/389-tests-passed-nist-still-caught-the-bug-37jh)
-- [Inside the LSTM: An XAI Field Guide to Weather Prediction](https://dev.to/meftamila/inside-the-lstm-an-xai-field-guide-to-weather-prediction-4d2p)
+- [From Zero Docker Experience to Tracing Every LLM Call: Building an Observable AI Assistant with SigNoz](https://dev.to/saheliroycommits/from-zero-docker-experience-to-tracing-every-llm-call-building-an-observable-ai-assistant-with-1741)
+- [Learning a new language with an AI tutor that won&#39;t just give you the answer](https://dev.to/birsi/learning-a-new-language-with-an-ai-tutor-that-wont-just-give-you-the-answer-27gh)
+- [What Happens to Patient Voice Data After the Call Ends?](https://dev.to/vaiu-ai/what-happens-to-patient-voice-data-after-the-call-ends-3013)
+- [Automate Spotify and YouTube Playlists - Chapter 6: Deployment](https://dev.to/towernter/automate-spotify-and-youtube-playlists-chapter-6-deployment-1c4h)
 <!-- BLOG-POST-LIST:END -->
 
 
