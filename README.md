@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track What Hedge Funds Are Buying — Directly From Your AI Agent](https://dev.to/james-alphasmo/how-to-track-what-hedge-funds-are-buying-directly-from-your-ai-agent-2jij)
-- [ENS Shows Why Reputation Systems Are Harder Than Scores](https://dev.to/antfarm-official/ens-shows-why-reputation-systems-are-harder-than-scores-1fl6)
-- [ALKA lazer silahi ekonomisi: yonlendirilmis enerji savunmayi neden ucuzlatiyor](https://dev.to/tolgatascimuhendislik/alka-lazer-silahi-ekonomisi-yonlendirilmis-enerji-savunmayi-neden-ucuzlatiyor-58d7)
-- [Hola dev.to 👋 Soy Ignicion y vengo a compartir lo que voy aprendiendo](https://dev.to/yosoyignicion/hola-devto-soy-ignicion-y-vengo-a-compartir-lo-que-voy-aprendiendo-2he2)
+- [I Built an AI Video Generator with Next.js and Got My First Paid User in 3 Months](https://dev.to/jaspersmith/i-built-an-ai-video-generator-with-nextjs-and-got-my-first-paid-user-in-3-months-23kd)
+- [When SearchValues&lt;T&gt; Actually Pays Off](https://dev.to/ssukhpinder/when-searchvalues-actually-pays-off-310l)
+- [From Bug Found to Bug Filed: A Bug-Reporter Skill for Claude Code](https://dev.to/aswani25/from-bug-found-to-bug-filed-a-bug-reporter-skill-for-claude-code-5ih)
+- [What I learned on my first week of TryHackMe](https://dev.to/quinticus/what-i-learned-on-my-first-week-of-cybersecurity-ded)
 <!-- BLOG-POST-LIST:END -->
 
 
