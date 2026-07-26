@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sentry dashboard was empty for months — here&#39;s why &lpar;and the 2-line fix that mattered most&rpar;](https://dev.to/alkhassim_lawalumar/the-sentry-dashboard-was-empty-for-months-heres-why-and-the-2-line-fix-that-mattered-most-20em)
-- [Validation State Doesn&#39;t Act By Itself](https://dev.to/pathvector-dev/validation-state-doesnt-act-by-itself-35nm)
-- [Origin validation is a separate decision from best path](https://dev.to/pathvector-dev/origin-validation-is-a-separate-decision-from-best-path-316g)
-- [Teams Governance — Why Most Enterprises Get It Wrong](https://dev.to/suvankar_chakraborty_1d46/teams-governance-why-most-enterprises-get-it-wrong-1008)
+- [How to Build a Platform Engineering Team &amp; Internal Developer Portal: Lessons from Modern Engineering Organizations](https://dev.to/joshua_dyson/how-to-build-a-platform-engineering-team-internal-developer-portal-lessons-from-modern-40l3)
+- [MCP Deep Dive, Part 12: Building MCP Servers in C# and .NET 9 — The SDK, DI, and Native AOT](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-12-building-mcp-servers-in-c-and-net-9-the-sdk-di-and-native-aot-4660)
+- [SQLite vs PostgreSQL: Choosing the Right Database](https://dev.to/qingluan/sqlite-vs-postgresql-choosing-the-right-database-1fa1)
+- [Optimizing Large-Scale MongoDB Aggregation Pipelines: A Deep Dive into Performance Strategies](https://dev.to/tamizuddin/optimizing-large-scale-mongodb-aggregation-pipelines-a-deep-dive-into-performance-strategies-188g)
 <!-- BLOG-POST-LIST:END -->
 
 
