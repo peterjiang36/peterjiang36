@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Not Blocked. Your Work Is.](https://dev.to/richarddillman/youre-not-blocked-your-work-is-1f77)
-- [JWT vs Session Tokens | What’s the Difference and Which Should You Use?](https://dev.to/auth_parse_/jwt-vs-session-tokens-whats-the-difference-and-which-should-you-use-5h8m)
-- [Constraining the Agent: What I Learned Wiring MCP Into a Legacy System](https://dev.to/alejandroq12/constraining-the-agent-what-i-learned-wiring-mcp-into-a-legacy-system-3i0e)
-- [Tokens Are Not the Unit](https://dev.to/tom_jones_230c4659491adcd/tokens-are-not-the-unit-26g6)
+- [Real-Time Rails Without Turbo: Modern Reactive UIs with Inertia and DexieCable](https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge)
+- [ChatGPT Work Raises Enterprise Questions on Automation, Governance and Rollout](https://dev.to/alifar/chatgpt-work-raises-enterprise-questions-on-automation-governance-and-rollout-5h0g)
+- [Following ROWIDs Through an Oracle Unique Index Update](https://dev.to/franckpachot/following-rowids-through-an-oracle-unique-index-update-2lc)
+- [Building a browser game with client-side Groth16 proofs](https://dev.to/heindauven/building-a-browser-game-with-client-side-groth16-proofs-26g9)
 <!-- BLOG-POST-LIST:END -->
 
 
