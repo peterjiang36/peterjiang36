@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Keep Shipping Small Tools Instead of One Big Product](https://dev.to/raxxostudios/why-i-keep-shipping-small-tools-instead-of-one-big-product-54gj)
-- [Knowledge and Memory Management: Directions 1-3 Finalization Record](https://dev.to/mage0535/knowledge-and-memory-management-directions-1-3-finalization-record-4o7p)
-- [Claude Opus 5 Is Here: Fable 5 Intelligence at Half the Price](https://dev.to/raxxostudios/claude-opus-5-is-here-fable-5-intelligence-at-half-the-price-4fme)
-- [The Loneliness Protocol of a Solo Tech Founder](https://dev.to/kevin_jang_200b10826b3a5d/the-loneliness-protocol-of-a-solo-tech-founder-36ed)
+- [Auto-Locate Nearby Golf Courses on Your Map Using IP Geolocation](https://dev.to/onizuka/auto-locate-nearby-golf-courses-on-your-map-using-ip-geolocation-4dn5)
+- [I built an interactive terminal portfolio you can run with: npx hello-nayeem](https://dev.to/nayeem-miah/i-built-an-interactive-terminal-portfolio-you-can-run-with-npx-hello-nayeem-1lh5)
+- [I built an agent that asks your app what happened to it on SigNoz](https://dev.to/ibrahimpima/i-built-an-agent-that-asks-your-app-what-happened-to-it-on-signoz-2m3b)
+- [Dual-Tier Memory Architecture for AI Agents: How Local Vector Search Scales to 14,726 Memories Without Pinecone](https://dev.to/hypernexus/dual-tier-memory-architecture-for-ai-agents-how-local-vector-search-scales-to-14726-memories-2617)
 <!-- BLOG-POST-LIST:END -->
 
 
