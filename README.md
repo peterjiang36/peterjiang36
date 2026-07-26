@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Platform Engineering Team &amp; Internal Developer Portal: Lessons from Modern Engineering Organizations](https://dev.to/joshua_dyson/how-to-build-a-platform-engineering-team-internal-developer-portal-lessons-from-modern-40l3)
-- [MCP Deep Dive, Part 12: Building MCP Servers in C# and .NET 9 — The SDK, DI, and Native AOT](https://dev.to/kirandeepjassalcrypto/mcp-deep-dive-part-12-building-mcp-servers-in-c-and-net-9-the-sdk-di-and-native-aot-4660)
-- [SQLite vs PostgreSQL: Choosing the Right Database](https://dev.to/qingluan/sqlite-vs-postgresql-choosing-the-right-database-1fa1)
-- [Optimizing Large-Scale MongoDB Aggregation Pipelines: A Deep Dive into Performance Strategies](https://dev.to/tamizuddin/optimizing-large-scale-mongodb-aggregation-pipelines-a-deep-dive-into-performance-strategies-188g)
+- [You&#39;re Not Blocked. Your Work Is.](https://dev.to/richarddillman/youre-not-blocked-your-work-is-1f77)
+- [JWT vs Session Tokens | What’s the Difference and Which Should You Use?](https://dev.to/auth_parse_/jwt-vs-session-tokens-whats-the-difference-and-which-should-you-use-5h8m)
+- [Constraining the Agent: What I Learned Wiring MCP Into a Legacy System](https://dev.to/alejandroq12/constraining-the-agent-what-i-learned-wiring-mcp-into-a-legacy-system-3i0e)
+- [Tokens Are Not the Unit](https://dev.to/tom_jones_230c4659491adcd/tokens-are-not-the-unit-26g6)
 <!-- BLOG-POST-LIST:END -->
 
 
