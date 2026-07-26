@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are your MCP server&#39;s safety labels honest? A one-command check &lpar;and what it found on 31 popular servers&rpar;](https://dev.to/formael/are-your-mcp-servers-safety-labels-honest-a-one-command-check-and-what-it-found-on-31-popular-1ml3)
-- [Five AI features in an invoicing app, and the rules that keep them from touching the books](https://dev.to/slate_co_il/five-ai-features-in-an-invoicing-app-and-the-rules-that-keep-them-from-touching-the-books-3kh1)
-- [Your AI Guardrails Speak English Only — Here&#39;s the Multilingual Jailbreak Gap](https://dev.to/coridev/your-ai-guardrails-speak-english-only-heres-the-multilingual-jailbreak-gap-4fa0)
-- [# 🔐 How Does JWT Authentication Work?](https://dev.to/likitha_chendrimada/-how-does-jwt-authentication-work-him)
+- [How to Implement SQLite-Backed Shell History with Stinkpot](https://dev.to/solomon_dev/how-to-implement-sqlite-backed-shell-history-with-stinkpot-a6p)
+- [What 4-20mA actually means &lpar;and why your zero is at 4&rpar;](https://dev.to/mariusgjerd/what-4-20ma-actually-means-and-why-your-zero-is-at-4-7fh)
+- [Feeling lost as a Software Engineer in the age of AI. What’s next?](https://dev.to/akashpixel/feeling-lost-as-a-software-engineer-in-the-age-of-ai-whats-next-4lpa)
+- [Claude Opus 5 vs Fable 5: Which Tier Earns the Money](https://dev.to/raxxostudios/claude-opus-5-vs-fable-5-which-tier-earns-the-money-4of)
 <!-- BLOG-POST-LIST:END -->
 
 
