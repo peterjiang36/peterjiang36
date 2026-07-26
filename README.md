@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python](https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3)
-- [Claude Opus 5 leads on agentic work — and undercuts Fable 5 on cost](https://dev.to/thegatewayguy/claude-opus-5-leads-on-agentic-work-and-undercuts-fable-5-on-cost-4b02)
-- [We Got the Prompt Cache Working. Our Pipeline Got Slower.](https://dev.to/terum/we-got-the-prompt-cache-working-our-pipeline-got-slower-265f)
-- [I created a Laravel package to generate clean API modules](https://dev.to/strides_hovo/i-created-a-laravel-package-to-generate-clean-api-modules-118h)
+- [Why I Keep Shipping Small Tools Instead of One Big Product](https://dev.to/raxxostudios/why-i-keep-shipping-small-tools-instead-of-one-big-product-54gj)
+- [Knowledge and Memory Management: Directions 1-3 Finalization Record](https://dev.to/mage0535/knowledge-and-memory-management-directions-1-3-finalization-record-4o7p)
+- [Claude Opus 5 Is Here: Fable 5 Intelligence at Half the Price](https://dev.to/raxxostudios/claude-opus-5-is-here-fable-5-intelligence-at-half-the-price-4fme)
+- [The Loneliness Protocol of a Solo Tech Founder](https://dev.to/kevin_jang_200b10826b3a5d/the-loneliness-protocol-of-a-solo-tech-founder-36ed)
 <!-- BLOG-POST-LIST:END -->
 
 
