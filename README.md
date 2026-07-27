@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Rails Without Turbo: Modern Reactive UIs with Inertia and DexieCable](https://dev.to/buhrmi/real-time-rails-without-turbo-modern-reactive-uis-with-inertia-and-dexiecable-4lge)
-- [ChatGPT Work Raises Enterprise Questions on Automation, Governance and Rollout](https://dev.to/alifar/chatgpt-work-raises-enterprise-questions-on-automation-governance-and-rollout-5h0g)
-- [Following ROWIDs Through an Oracle Unique Index Update](https://dev.to/franckpachot/following-rowids-through-an-oracle-unique-index-update-2lc)
-- [Building a browser game with client-side Groth16 proofs](https://dev.to/heindauven/building-a-browser-game-with-client-side-groth16-proofs-26g9)
+- [Turn any PDF into clean Markdown with a self-hosted Docling API](https://dev.to/greatsage_sh/turn-any-pdf-into-clean-markdown-with-a-self-hosted-docling-api-4f1m)
+- [Infrastructure as Code with Terraform: The Basics You Need to Know](https://dev.to/cloudfrontier/infrastructure-as-code-with-terraform-the-basics-you-need-to-know-5g11)
+- [Advanced Server-Side Caching Patterns in Next.js](https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-1gfm)
+- [The Four-Pass Check I Run Before Calling Anything Shipped](https://dev.to/raxxostudios/the-four-pass-check-i-run-before-calling-anything-shipped-m86)
 <!-- BLOG-POST-LIST:END -->
 
 
