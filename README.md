@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-50458: Patching Use-After-Free Vulnerability in bfs.sys Windows Kernel Minifilter Driver](https://dev.to/kserude/cve-2026-50458-patching-use-after-free-vulnerability-in-bfssys-windows-kernel-minifilter-driver-576g)
-- [🧠 Architect a Personalized Multi-Agent System with Long-Term Memory for Real Estate Tokenization](https://dev.to/danielioni/architect-a-personalized-multi-agent-system-with-long-term-memory-for-real-estate-tokenization-4hm8)
-- [API Testing with Python and pytest: Writing Real Tests Against a Live Mock API](https://dev.to/azmiyuksel/api-testing-with-python-and-pytest-writing-real-tests-against-a-live-mock-api-4oi7)
-- [Batch Geocoding at Scale with France&#39;s Free BAN API: Thresholds, Chunks, and Zero Lock Contention](https://dev.to/outsendxyz/batch-geocoding-at-scale-with-frances-free-ban-api-thresholds-chunks-and-zero-lock-contention-42lo)
+- [Introducing Tiny Interpreters: Learn How Programming Languages Work Without Fighting the Dragon](https://dev.to/dwayne/introducing-tiny-interpreters-learn-how-programming-languages-work-without-fighting-the-dragon-2kmk)
+- [mise Resolves Tools. Ota Governs Repository Acceptance.](https://dev.to/otaready/mise-resolves-tools-ota-governs-repository-acceptance-3c39)
+- [OpenGL Learning Needs](https://dev.to/turbodevc/opengl-learning-needs-5gl8)
+- [A VPN Is a Lie You Tell Your Kernel](https://dev.to/lovestaco/a-vpn-is-a-lie-you-tell-your-kernel-41dj)
 <!-- BLOG-POST-LIST:END -->
 
 
