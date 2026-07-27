@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How to Tame Your AI: The 5-Pillar Architecture for Award-Winning Next.js Applications](https://dev.to/hassamali898/how-to-tame-your-ai-the-5-pillar-architecture-for-award-winning-nextjs-applications-33p6)
-- [7 Kiro Features You&#39;re Probably Not Using](https://dev.to/aws/7-kiro-features-youre-probably-not-using-2417)
-- [Accessibility Semantics: The UI Tree You Cannot See](https://dev.to/codenameone/accessibility-semantics-the-ui-tree-you-cannot-see-g9m)
-- [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929)
+- [From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j)
+- [Sir Shortoken: Bullet Mode, Local Expansion, and What Actually Held Up](https://dev.to/shouvik12/sir-shortoken-bullet-mode-local-expansion-and-what-actually-held-up-591p)
+- [Markdown Studio - a browser-based HTML-to-Markdown converter](https://dev.to/datavis/markdown-studio-a-browser-based-html-to-markdown-converter-1jn8)
+- [Kiro and the Future of AI-Assisted Development](https://dev.to/dionarodrigues/kiro-and-the-future-of-ai-assisted-development-4nam)
 <!-- BLOG-POST-LIST:END -->
 
 
