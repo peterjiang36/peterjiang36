@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Silent Reader to 25 Articles: What 3 Months on DEV Taught Me + AMA](https://dev.to/hemapriya_kanagala/from-silent-reader-to-25-articles-what-3-months-on-dev-taught-me-ama-2b0j)
-- [Sir Shortoken: Bullet Mode, Local Expansion, and What Actually Held Up](https://dev.to/shouvik12/sir-shortoken-bullet-mode-local-expansion-and-what-actually-held-up-591p)
-- [Markdown Studio - a browser-based HTML-to-Markdown converter](https://dev.to/datavis/markdown-studio-a-browser-based-html-to-markdown-converter-1jn8)
-- [Kiro and the Future of AI-Assisted Development](https://dev.to/dionarodrigues/kiro-and-the-future-of-ai-assisted-development-4nam)
+- [Three Sui Exploits, One Disease — Why &quot;The Math Looked Fine&quot; Keeps Costing Hundreds of Millions](https://dev.to/mehvetero/three-sui-exploits-one-disease-why-the-math-looked-fine-keeps-costing-hundreds-of-millions-17f3)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h)
+- [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi)
+- [Four lessons from building AI, education, and healthcare products with Next.js](https://dev.to/robertionutfundulea/four-lessons-from-building-ai-education-and-healthcare-products-with-nextjs-3nm7)
 <!-- BLOG-POST-LIST:END -->
 
 
