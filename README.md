@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One OpenAI-Compatible Endpoint for Multiple LLM Providers: A Practical Setup Guide](https://dev.to/jack_lee_4c43dca262c339fb/one-openai-compatible-endpoint-for-multiple-llm-providers-a-practical-setup-guide-2pon)
-- [The Rusty Hobbit: Ownership System Explained for JavaScript Developers](https://dev.to/timevolt/the-rusty-hobbit-ownership-system-explained-for-javascript-developers-49n4)
-- [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
-- [Why We Run Every AI Pipeline in Its Own Process](https://dev.to/mithilesh_gaurihar_e719cd/why-we-run-every-ai-pipeline-in-its-own-process-1ikc)
+- [I spent 10 years building enterprise search for clients. Then I open-sourced all of it.](https://dev.to/alegauss/i-spent-10-years-building-enterprise-search-for-clients-then-i-open-sourced-all-of-it-3nk5)
+- [Construindo uma plataforma GitOps do zero: Kubernetes, ArgoCD, Terraform e Observabilidade](https://dev.to/m_kocotem_1b69865766c653/construindo-uma-plataforma-gitops-do-zero-kubernetes-argocd-terraform-e-observabilidade-34jh)
+- [Workflow JSON Is Generated Code](https://dev.to/daniel_romitelli_44e77dc6/workflow-json-is-generated-code-1nfk)
+- [6 AI Gateways Compared for 2026: Routing, Governance, Caching, and Observability](https://dev.to/ethan_5383afd058ff/6-ai-gateways-compared-for-2026-routing-governance-caching-and-observability-18a7)
 <!-- BLOG-POST-LIST:END -->
 
 
