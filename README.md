@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn any PDF into clean Markdown with a self-hosted Docling API](https://dev.to/greatsage_sh/turn-any-pdf-into-clean-markdown-with-a-self-hosted-docling-api-4f1m)
-- [Infrastructure as Code with Terraform: The Basics You Need to Know](https://dev.to/cloudfrontier/infrastructure-as-code-with-terraform-the-basics-you-need-to-know-5g11)
-- [Advanced Server-Side Caching Patterns in Next.js](https://dev.to/tamizuddin/advanced-server-side-caching-patterns-in-nextjs-1gfm)
-- [The Four-Pass Check I Run Before Calling Anything Shipped](https://dev.to/raxxostudios/the-four-pass-check-i-run-before-calling-anything-shipped-m86)
+- [Stop Using chmod 777: Understanding Linux File Permissions](https://dev.to/kai-wen-the-parrot/stop-using-chmod-777-understanding-linux-file-permissions-1630)
+- [Why I Built Ironic: Bringing Enterprise Application Architecture to Rust Without Hiding Rust](https://dev.to/morshedulmunna/why-i-built-ironic-bringing-enterprise-application-architecture-to-rust-without-hiding-rust-48f9)
+- [I Built a Rust Framework So Backend Development Feels Like NestJS—Without Sacrificing Rust](https://dev.to/morshedulmunna/i-built-a-rust-framework-so-backend-development-feels-like-nestjs-without-sacrificing-rust-2l9d)
+- [Webhook vs polling for SMS verification codes: what actually breaks in production](https://dev.to/dogesms/webhook-vs-polling-for-sms-verification-codes-what-actually-breaks-in-production-4dg4)
 <!-- BLOG-POST-LIST:END -->
 
 
