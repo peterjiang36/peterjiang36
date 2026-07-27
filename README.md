@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Sui Exploits, One Disease — Why &quot;The Math Looked Fine&quot; Keeps Costing Hundreds of Millions](https://dev.to/mehvetero/three-sui-exploits-one-disease-why-the-math-looked-fine-keeps-costing-hundreds-of-millions-17f3)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-257h)
-- [Build and Deploy Java AI Agents with Google ADK](https://dev.to/gde/build-and-deploy-java-ai-agents-with-google-adk-28oi)
-- [Four lessons from building AI, education, and healthcare products with Next.js](https://dev.to/robertionutfundulea/four-lessons-from-building-ai-education-and-healthcare-products-with-nextjs-3nm7)
+- [One OpenAI-Compatible Endpoint for Multiple LLM Providers: A Practical Setup Guide](https://dev.to/jack_lee_4c43dca262c339fb/one-openai-compatible-endpoint-for-multiple-llm-providers-a-practical-setup-guide-2pon)
+- [The Rusty Hobbit: Ownership System Explained for JavaScript Developers](https://dev.to/timevolt/the-rusty-hobbit-ownership-system-explained-for-javascript-developers-49n4)
+- [Passkeys Explained Simply](https://dev.to/thomasbnt/passkeys-explained-simply-52jk)
+- [Why We Run Every AI Pipeline in Its Own Process](https://dev.to/mithilesh_gaurihar_e719cd/why-we-run-every-ai-pipeline-in-its-own-process-1ikc)
 <!-- BLOG-POST-LIST:END -->
 
 
