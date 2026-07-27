@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Tiny Interpreters: Learn How Programming Languages Work Without Fighting the Dragon](https://dev.to/dwayne/introducing-tiny-interpreters-learn-how-programming-languages-work-without-fighting-the-dragon-2kmk)
-- [mise Resolves Tools. Ota Governs Repository Acceptance.](https://dev.to/otaready/mise-resolves-tools-ota-governs-repository-acceptance-3c39)
-- [OpenGL Learning Needs](https://dev.to/turbodevc/opengl-learning-needs-5gl8)
-- [A VPN Is a Lie You Tell Your Kernel](https://dev.to/lovestaco/a-vpn-is-a-lie-you-tell-your-kernel-41dj)
+- [🚀 How to Tame Your AI: The 5-Pillar Architecture for Award-Winning Next.js Applications](https://dev.to/hassamali898/how-to-tame-your-ai-the-5-pillar-architecture-for-award-winning-nextjs-applications-33p6)
+- [7 Kiro Features You&#39;re Probably Not Using](https://dev.to/aws/7-kiro-features-youre-probably-not-using-2417)
+- [Accessibility Semantics: The UI Tree You Cannot See](https://dev.to/codenameone/accessibility-semantics-the-ui-tree-you-cannot-see-g9m)
+- [Switching Tracks in BlocSignal: The Universal State Switchyard for BLoC, Riverpod, and Provider](https://dev.to/gde/switching-tracks-in-blocsignal-the-universal-state-switchyard-for-bloc-riverpod-and-provider-929)
 <!-- BLOG-POST-LIST:END -->
 
 
