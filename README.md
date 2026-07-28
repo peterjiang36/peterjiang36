@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent 10 years building enterprise search for clients. Then I open-sourced all of it.](https://dev.to/alegauss/i-spent-10-years-building-enterprise-search-for-clients-then-i-open-sourced-all-of-it-3nk5)
-- [Construindo uma plataforma GitOps do zero: Kubernetes, ArgoCD, Terraform e Observabilidade](https://dev.to/m_kocotem_1b69865766c653/construindo-uma-plataforma-gitops-do-zero-kubernetes-argocd-terraform-e-observabilidade-34jh)
-- [Workflow JSON Is Generated Code](https://dev.to/daniel_romitelli_44e77dc6/workflow-json-is-generated-code-1nfk)
-- [6 AI Gateways Compared for 2026: Routing, Governance, Caching, and Observability](https://dev.to/ethan_5383afd058ff/6-ai-gateways-compared-for-2026-routing-governance-caching-and-observability-18a7)
+- [AI in fintech: use cases that work in production](https://dev.to/studiolabsai/ai-in-fintech-use-cases-that-work-in-production-5op)
+- [AI agent architecture: components of a system that survives real traffic](https://dev.to/studiolabsai/ai-agent-architecture-components-of-a-system-that-survives-real-traffic-2glp)
+- [React useDropZone Hook: Build a File Drop Zone &lpar;2026&rpar;](https://dev.to/childrentime/react-usedropzone-hook-build-a-file-drop-zone-2026-5chi)
+- [Claude vs ChatGPT vs Gemini: which AI is right for enterprise in 2026?](https://dev.to/studiolabsai/claude-vs-chatgpt-vs-gemini-which-ai-is-right-for-enterprise-in-2026-3p7l)
 <!-- BLOG-POST-LIST:END -->
 
 
