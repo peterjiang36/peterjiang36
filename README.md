@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why 1080p Looks Blurry: A Signal-Path Checklist for Displays and Capture](https://dev.to/wixom/why-1080p-looks-blurry-a-signal-path-checklist-for-displays-and-capture-242o)
-- [Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill](https://dev.to/kernelpryanic/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill-i94)
-- [Pressure-testing Ota on Hasura: raw Kubernetes manifests and honest kubectl proof](https://dev.to/otaready/pressure-testing-ota-on-hasura-raw-kubernetes-manifests-and-honest-kubectl-proof-pj4)
-- [Has an agent ever burned your budget overnight? How do you guard against it?](https://dev.to/alzarucco/has-an-agent-ever-burned-your-budget-overnight-how-do-you-guard-against-it-567c)
+- [Audit Your Docs Against The Decision-System Framework](https://dev.to/daniellewashington/audit-your-docs-against-the-decision-system-framework-39b1)
+- [An AI Escaped a Sandbox to Cheat on Its Own Exam. Let&#39;s Not Bury That Lede.](https://dev.to/coridev/an-ai-escaped-a-sandbox-to-cheat-on-its-own-exam-lets-not-bury-that-lede-ai2)
+- [菲尔兹奖得主邓煜专访](https://dev.to/cognitalk/fei-er-zi-jiang-de-zhu-deng-yu-zhuan-fang-17he)
+- [Your Codename One App Can Be an MCP Server](https://dev.to/codenameone/your-codename-one-app-can-be-an-mcp-server-21ja)
 <!-- BLOG-POST-LIST:END -->
 
 
