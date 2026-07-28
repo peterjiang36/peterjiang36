@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building TypeScript-Native Observability: Async Context and Execution Flow](https://dev.to/raju_dandigam/building-typescript-native-observability-async-context-and-execution-flow-9f7)
-- [I built a CLI to stop myself from committing API keys &lpar;and broken .env files&rpar;](https://dev.to/amitfeldman/i-built-a-cli-to-stop-myself-from-committing-api-keys-and-broken-env-filesi-built-a-cli-to-stop-5eg8)
-- [When your name is also a thing: entity SEO for an ambiguous name](https://dev.to/claytoncamera/when-your-name-is-also-a-thing-entity-seo-for-an-ambiguous-name-3f2g)
-- [Local Kubernetes Dev — Part 3: Tooling overview — who does what](https://dev.to/gaberialsofie/local-kubernetes-dev-part-3-tooling-overview-who-does-what-3an1)
+- [Modelo de Dados Python - Parte 1](https://dev.to/brunotlps/modelo-de-dados-python-parte-1-3ela)
+- [Build a Basic AI Agent From Scratch: Security III](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-iii-4k5n)
+- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
+- [I built Loop – a social media platform with Co-Loops, Circles &amp; Rewards. Looking for testers &amp; feedback](https://dev.to/jammyvibez/i-built-loop-a-social-media-platform-with-co-loops-circles-rewards-looking-for-testers--2p53)
 <!-- BLOG-POST-LIST:END -->
 
 
