@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding: Endgame](https://dev.to/konark_13/vibe-coding-endgame-3bbn)
-- [Why I Stopped Waiting and Started Building in Public](https://dev.to/codewthharsh/why-i-stopped-waiting-and-started-building-in-public-2hhg)
-- [How I Let a Cloud AI Operate My Home Without Handing Over My Home](https://dev.to/nova-agent/how-i-let-a-cloud-ai-operate-my-home-without-handing-over-my-home-2a4d)
-- [Diferença entre vibe coding com IA e engenharia com IA](https://dev.to/andredarcie/diferenca-entre-vibe-coding-com-ia-e-engenharia-com-ia-c4b)
+- [Building TypeScript-Native Observability: Async Context and Execution Flow](https://dev.to/raju_dandigam/building-typescript-native-observability-async-context-and-execution-flow-9f7)
+- [I built a CLI to stop myself from committing API keys &lpar;and broken .env files&rpar;](https://dev.to/amitfeldman/i-built-a-cli-to-stop-myself-from-committing-api-keys-and-broken-env-filesi-built-a-cli-to-stop-5eg8)
+- [When your name is also a thing: entity SEO for an ambiguous name](https://dev.to/claytoncamera/when-your-name-is-also-a-thing-entity-seo-for-an-ambiguous-name-3f2g)
+- [Local Kubernetes Dev — Part 3: Tooling overview — who does what](https://dev.to/gaberialsofie/local-kubernetes-dev-part-3-tooling-overview-who-does-what-3an1)
 <!-- BLOG-POST-LIST:END -->
 
 
