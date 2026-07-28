@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HLS Streaming Explained: How HTTP Live Streaming Works &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/kwaisave/hls-streaming-explained-how-http-live-streaming-works-beginners-guide-29el)
-- [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
-- [Running parallel Claude Code agents on Laravel with Orca: my setup and archive scripts](https://dev.to/croustibat44/running-parallel-claude-code-agents-on-laravel-with-orca-my-setup-and-archive-scripts-3ijn)
-- [🔐 How Modern Applications Protect User Data](https://dev.to/codexlancers/how-modern-applications-protect-user-data-4f97)
+- [Why 1080p Looks Blurry: A Signal-Path Checklist for Displays and Capture](https://dev.to/wixom/why-1080p-looks-blurry-a-signal-path-checklist-for-displays-and-capture-242o)
+- [Enjoy the Bubble While It Lasts: The Secret Behind Your AI Bill](https://dev.to/kernelpryanic/enjoy-the-bubble-while-it-lasts-the-secret-behind-your-ai-bill-i94)
+- [Pressure-testing Ota on Hasura: raw Kubernetes manifests and honest kubectl proof](https://dev.to/otaready/pressure-testing-ota-on-hasura-raw-kubernetes-manifests-and-honest-kubectl-proof-pj4)
+- [Has an agent ever burned your budget overnight? How do you guard against it?](https://dev.to/alzarucco/has-an-agent-ever-burned-your-budget-overnight-how-do-you-guard-against-it-567c)
 <!-- BLOG-POST-LIST:END -->
 
 
