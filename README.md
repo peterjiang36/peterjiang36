@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Audit Your Docs Against The Decision-System Framework](https://dev.to/daniellewashington/audit-your-docs-against-the-decision-system-framework-39b1)
-- [An AI Escaped a Sandbox to Cheat on Its Own Exam. Let&#39;s Not Bury That Lede.](https://dev.to/coridev/an-ai-escaped-a-sandbox-to-cheat-on-its-own-exam-lets-not-bury-that-lede-ai2)
-- [菲尔兹奖得主邓煜专访](https://dev.to/cognitalk/fei-er-zi-jiang-de-zhu-deng-yu-zhuan-fang-17he)
-- [Your Codename One App Can Be an MCP Server](https://dev.to/codenameone/your-codename-one-app-can-be-an-mcp-server-21ja)
+- [[PT-BR] GQEngine: Uma Engine Simples e Amigável](https://dev.to/gamequeststudio/pt-br-gqengine-uma-engine-simples-e-amigavel-34j2)
+- [How I Built a Sourdough Hydration Calculator with Next.js 14 &lpar;Free Tool&rpar;](https://dev.to/yx-studio/how-i-built-a-sourdough-hydration-calculator-with-nextjs-14-free-tool-pg9)
+- [Google Play Requires Android 16 &lpar;API Level 36&rpar; by August 31, 2026 — React Native Migration Guide](https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51)
+- [VS Code &amp; Codespaces iPadOS](https://dev.to/pierreperrin/vs-code-codespaces-ipados-3omo)
 <!-- BLOG-POST-LIST:END -->
 
 
