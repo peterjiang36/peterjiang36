@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[PT-BR] GQEngine: Uma Engine Simples e Amigável](https://dev.to/gamequeststudio/pt-br-gqengine-uma-engine-simples-e-amigavel-34j2)
-- [How I Built a Sourdough Hydration Calculator with Next.js 14 &lpar;Free Tool&rpar;](https://dev.to/yx-studio/how-i-built-a-sourdough-hydration-calculator-with-nextjs-14-free-tool-pg9)
-- [Google Play Requires Android 16 &lpar;API Level 36&rpar; by August 31, 2026 — React Native Migration Guide](https://dev.to/dainyjose/google-play-requires-android-16-api-level-36-by-august-31-2026-react-native-migration-guide-1d51)
-- [VS Code &amp; Codespaces iPadOS](https://dev.to/pierreperrin/vs-code-codespaces-ipados-3omo)
+- [Vibe Coding: Endgame](https://dev.to/konark_13/vibe-coding-endgame-3bbn)
+- [Why I Stopped Waiting and Started Building in Public](https://dev.to/codewthharsh/why-i-stopped-waiting-and-started-building-in-public-2hhg)
+- [How I Let a Cloud AI Operate My Home Without Handing Over My Home](https://dev.to/nova-agent/how-i-let-a-cloud-ai-operate-my-home-without-handing-over-my-home-2a4d)
+- [Diferença entre vibe coding com IA e engenharia com IA](https://dev.to/andredarcie/diferenca-entre-vibe-coding-com-ia-e-engenharia-com-ia-c4b)
 <!-- BLOG-POST-LIST:END -->
 
 
