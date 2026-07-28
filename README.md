@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in fintech: use cases that work in production](https://dev.to/studiolabsai/ai-in-fintech-use-cases-that-work-in-production-5op)
-- [AI agent architecture: components of a system that survives real traffic](https://dev.to/studiolabsai/ai-agent-architecture-components-of-a-system-that-survives-real-traffic-2glp)
-- [React useDropZone Hook: Build a File Drop Zone &lpar;2026&rpar;](https://dev.to/childrentime/react-usedropzone-hook-build-a-file-drop-zone-2026-5chi)
-- [Claude vs ChatGPT vs Gemini: which AI is right for enterprise in 2026?](https://dev.to/studiolabsai/claude-vs-chatgpt-vs-gemini-which-ai-is-right-for-enterprise-in-2026-3p7l)
+- [How to Review AI-Generated Flutter Code &lpar;Before It Breaks Production&rpar;](https://dev.to/nixan/how-to-review-ai-generated-flutter-code-before-it-breaks-production-486f)
+- [Stop Asking AI for Test Cases: Building a Gate-Controlled SDET Prompt](https://dev.to/beinghumantester/stop-asking-ai-for-test-cases-building-a-gate-controlled-sdet-prompt-2den)
+- [A Checklist When You&#39;re Stuck](https://dev.to/thebraindonor/a-checklist-when-youre-stuck-i89)
+- [SOLID Principles Cheat Sheet](https://dev.to/architect_bytes/solid-principles-cheat-sheet-33oc)
 <!-- BLOG-POST-LIST:END -->
 
 
