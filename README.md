@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Review AI-Generated Flutter Code &lpar;Before It Breaks Production&rpar;](https://dev.to/nixan/how-to-review-ai-generated-flutter-code-before-it-breaks-production-486f)
-- [Stop Asking AI for Test Cases: Building a Gate-Controlled SDET Prompt](https://dev.to/beinghumantester/stop-asking-ai-for-test-cases-building-a-gate-controlled-sdet-prompt-2den)
-- [A Checklist When You&#39;re Stuck](https://dev.to/thebraindonor/a-checklist-when-youre-stuck-i89)
-- [SOLID Principles Cheat Sheet](https://dev.to/architect_bytes/solid-principles-cheat-sheet-33oc)
+- [HLS Streaming Explained: How HTTP Live Streaming Works &lpar;Beginner&#39;s Guide&rpar;](https://dev.to/kwaisave/hls-streaming-explained-how-http-live-streaming-works-beginners-guide-29el)
+- [Understanding Over Origin](https://dev.to/adamthedeveloper/understanding-over-origin-4685)
+- [Running parallel Claude Code agents on Laravel with Orca: my setup and archive scripts](https://dev.to/croustibat44/running-parallel-claude-code-agents-on-laravel-with-orca-my-setup-and-archive-scripts-3ijn)
+- [🔐 How Modern Applications Protect User Data](https://dev.to/codexlancers/how-modern-applications-protect-user-data-4f97)
 <!-- BLOG-POST-LIST:END -->
 
 
