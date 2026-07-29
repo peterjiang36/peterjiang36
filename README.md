@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerfiles: Building and Running a Node.js Application in a Container](https://dev.to/rahimah_dev/dockerfiles-building-and-running-a-nodejs-application-in-a-container-bfk)
-- [Top AI Papers on Hugging Face - 2026-07-29](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-29-5e83)
-- [The Shift to Edge-Computing: Middleware Security and Scaling](https://dev.to/tamizuddin/the-shift-to-edge-computing-middleware-security-and-scaling-hj9)
-- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-2g0b)
+- [Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)
+- [How I Built an NDA-Safe CSV to Markdown Converter &lpar;100% Client-Side&rpar;](https://dev.to/vcoder_studio/how-i-built-an-nda-safe-csv-to-markdown-converter-100-client-side-1io)
+- [garden-skills packages taste and process for AI coding agents](https://dev.to/renolu/garden-skills-packages-taste-and-process-for-ai-coding-agents-jca)
+- [Before Grok Build Uploads Your Repo, Show the Outbound Receipt](https://dev.to/demivalerith/before-grok-build-uploads-your-repo-show-the-outbound-receipt-3h4b)
 <!-- BLOG-POST-LIST:END -->
 
 
