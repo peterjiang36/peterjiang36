@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Says llms.txt Does Not Affect Search or AI Overviews: What SEO Teams Should Do](https://dev.to/alifar/google-says-llmstxt-does-not-affect-search-or-ai-overviews-what-seo-teams-should-do-2f81)
-- [Salesforce API Testing with Playwright + TypeScript: A Practical Enterprise Guide &lpar;2026 Edition&rpar;](https://dev.to/himanshuai/salesforce-api-testing-with-playwright-typescript-a-practical-enterprise-guide-2026-edition-36d2)
-- [Your OTP resend button is a race condition &lpar;and it&#39;s charging you twice&rpar;](https://dev.to/smsrtdev7273/your-otp-resend-button-is-a-race-condition-and-its-charging-you-twice-46jp)
-- [How to Use One OpenAI-Compatible API for Multiple AI Models](https://dev.to/chen_qin/how-to-use-one-openai-compatible-api-for-multiple-ai-models-2l90)
+- [Dockerfiles: Building and Running a Node.js Application in a Container](https://dev.to/rahimah_dev/dockerfiles-building-and-running-a-nodejs-application-in-a-container-bfk)
+- [Top AI Papers on Hugging Face - 2026-07-29](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-29-5e83)
+- [The Shift to Edge-Computing: Middleware Security and Scaling](https://dev.to/tamizuddin/the-shift-to-edge-computing-middleware-security-and-scaling-hj9)
+- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-2g0b)
 <!-- BLOG-POST-LIST:END -->
 
 
