@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Modelo de Dados Python - Parte 1](https://dev.to/brunotlps/modelo-de-dados-python-parte-1-3ela)
-- [Build a Basic AI Agent From Scratch: Security III](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-iii-4k5n)
-- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
-- [I built Loop – a social media platform with Co-Loops, Circles &amp; Rewards. Looking for testers &amp; feedback](https://dev.to/jammyvibez/i-built-loop-a-social-media-platform-with-co-loops-circles-rewards-looking-for-testers--2p53)
+- [Are We Becoming Watch Developers? The Hidden Cost of AI-Assisted Coding](https://dev.to/utteshkumar/are-we-becoming-watch-developers-the-hidden-cost-of-ai-assisted-coding-2h20)
+- [The Day the Warehouse Burned: Lessons in Cross-Border System Resilience](https://dev.to/yanmoheluo/the-day-the-warehouse-burned-lessons-in-cross-border-system-resilience-38oj)
+- [Subscription-per-environment was never the real question](https://dev.to/webruster/subscription-per-environment-was-never-the-real-question-3che)
+- [Why merged cells break table extraction from multi-column PDFs](https://dev.to/hannune/why-merged-cells-break-table-extraction-from-multi-column-pdfs-2bfp)
 <!-- BLOG-POST-LIST:END -->
 
 
