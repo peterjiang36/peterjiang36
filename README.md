@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mes premiers pas avec Linux et Git : comment j&#39;ai préparé ma réunion CloudHer](https://dev.to/audreysiewe14droid/mes-premiers-pas-avec-linux-et-git-comment-jai-prepare-ma-reunion-cloudher-3ce6)
-- [Excited to launch my latest full-stack project: NeighborHelp! 🤝✨](https://dev.to/md_mijanur_molla/excited-to-launch-my-latest-full-stack-project-neighborhelp-1olf)
-- [How I Made My AI CSV Import Pipeline Reliable by Adding Validation Layers 🚀](https://dev.to/srilathapothana/how-i-made-my-ai-csv-import-pipeline-reliable-by-adding-validation-layers-30mg)
-- [Six Weeks In: An Evidence-Led Studio Checkpoint](https://dev.to/davidvk89/six-weeks-in-an-evidence-led-studio-checkpoint-28c5)
+- [Google Says llms.txt Does Not Affect Search or AI Overviews: What SEO Teams Should Do](https://dev.to/alifar/google-says-llmstxt-does-not-affect-search-or-ai-overviews-what-seo-teams-should-do-2f81)
+- [Salesforce API Testing with Playwright + TypeScript: A Practical Enterprise Guide &lpar;2026 Edition&rpar;](https://dev.to/himanshuai/salesforce-api-testing-with-playwright-typescript-a-practical-enterprise-guide-2026-edition-36d2)
+- [Your OTP resend button is a race condition &lpar;and it&#39;s charging you twice&rpar;](https://dev.to/smsrtdev7273/your-otp-resend-button-is-a-race-condition-and-its-charging-you-twice-46jp)
+- [How to Use One OpenAI-Compatible API for Multiple AI Models](https://dev.to/chen_qin/how-to-use-one-openai-compatible-api-for-multiple-ai-models-2l90)
 <!-- BLOG-POST-LIST:END -->
 
 
