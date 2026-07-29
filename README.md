@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are We Becoming Watch Developers? The Hidden Cost of AI-Assisted Coding](https://dev.to/utteshkumar/are-we-becoming-watch-developers-the-hidden-cost-of-ai-assisted-coding-2h20)
-- [The Day the Warehouse Burned: Lessons in Cross-Border System Resilience](https://dev.to/yanmoheluo/the-day-the-warehouse-burned-lessons-in-cross-border-system-resilience-38oj)
-- [Subscription-per-environment was never the real question](https://dev.to/webruster/subscription-per-environment-was-never-the-real-question-3che)
-- [Why merged cells break table extraction from multi-column PDFs](https://dev.to/hannune/why-merged-cells-break-table-extraction-from-multi-column-pdfs-2bfp)
+- [Mes premiers pas avec Linux et Git : comment j&#39;ai préparé ma réunion CloudHer](https://dev.to/audreysiewe14droid/mes-premiers-pas-avec-linux-et-git-comment-jai-prepare-ma-reunion-cloudher-3ce6)
+- [Excited to launch my latest full-stack project: NeighborHelp! 🤝✨](https://dev.to/md_mijanur_molla/excited-to-launch-my-latest-full-stack-project-neighborhelp-1olf)
+- [How I Made My AI CSV Import Pipeline Reliable by Adding Validation Layers 🚀](https://dev.to/srilathapothana/how-i-made-my-ai-csv-import-pipeline-reliable-by-adding-validation-layers-30mg)
+- [Six Weeks In: An Evidence-Led Studio Checkpoint](https://dev.to/davidvk89/six-weeks-in-an-evidence-led-studio-checkpoint-28c5)
 <!-- BLOG-POST-LIST:END -->
 
 
