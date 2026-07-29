@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Port Support You Can Trace Back to a Green Test](https://dev.to/codenameone/port-support-you-can-trace-back-to-a-green-test-54in)
-- [How I Built an NDA-Safe CSV to Markdown Converter &lpar;100% Client-Side&rpar;](https://dev.to/vcoder_studio/how-i-built-an-nda-safe-csv-to-markdown-converter-100-client-side-1io)
-- [garden-skills packages taste and process for AI coding agents](https://dev.to/renolu/garden-skills-packages-taste-and-process-for-ai-coding-agents-jca)
-- [Before Grok Build Uploads Your Repo, Show the Outbound Receipt](https://dev.to/demivalerith/before-grok-build-uploads-your-repo-show-the-outbound-receipt-3h4b)
+- [The One-Line Audit That Might Save You a Container Incident](https://dev.to/schiff_heimlich/the-one-line-audit-that-might-save-you-a-container-incident-570f)
+- [Stop Faking Your Mock APIs: Introducing Playground API 🚀](https://dev.to/nileshcodehub/stop-faking-your-mock-apis-introducing-playground-api-5b03)
+- [How I fixed Cyrillic support in jsPDF &lpar;the clean way&rpar;](https://dev.to/aleksandrov_todor_bff7f67/how-i-fixed-cyrillic-support-in-jspdf-the-clean-way-58hh)
+- [OpenAI’s Frontier Governance Framework Raises the Question of How AI Progress Should Be Paced](https://dev.to/alifar/openais-frontier-governance-framework-raises-the-question-of-how-ai-progress-should-be-paced-4al4)
 <!-- BLOG-POST-LIST:END -->
 
 
