@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fact-Check ChatGPT: The Copy-Paste Prompt I Use to Verify AI Output](https://dev.to/yvoolab/how-to-fact-check-chatgpt-the-copy-paste-prompt-i-use-to-verify-ai-output-47b9)
-- [Why I&#39;m building freelance business tools as single HTML files &lpar;no build step, no backend, no signup&rpar;](https://dev.to/ahn_mumu_27f4f1e04eb91641/why-im-building-freelance-business-tools-as-single-html-files-no-build-step-no-backend-no-1oa3)
-- [Every gate in my system is a scar](https://dev.to/martinschenk/every-gate-in-my-system-is-a-scar-33la)
-- [I built a vertically-integrated commerce system with AI — and accidentally discovered 4 governance patterns](https://dev.to/dexterlung/i-built-a-vertically-integrated-commerce-system-with-ai-and-accidentally-discovered-4-governance-hdk)
+- [A Lei de Conway &lpar;DRAFT com Mermaid&rpar;: por que a sua arquitetura é o espelho da sua organização](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-conway-draft-com-mermaid-por-que-a-sua-arquitetura-e-o-espelho-da-sua-organizacao-bnl)
+- [How to Test AI Agents Without Calling More LLMs](https://dev.to/raju_dandigam/how-to-test-ai-agents-without-calling-more-llms-2ga6)
+- [LLD Data Structures in Design Context: Why HashMaps Feel So Fast — Understanding Performance Without Memorising Big-O](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-hashmaps-feel-so-fast-understanding-performance-2p7c)
+- [Trace digests for LLM monitoring, at 1/30th the price of Sonnet](https://dev.to/rarestoma/trace-digests-for-llm-monitoring-at-130th-the-price-of-sonnet-1ah7)
 <!-- BLOG-POST-LIST:END -->
 
 
