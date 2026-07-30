@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Close your editor before heavy jobs? The heavy job lives inside my editor](https://dev.to/jun_uen0/close-your-editor-before-heavy-jobs-the-heavy-job-lives-inside-my-editor-2l5h)
-- [Rob Pike — ผู้ชายที่เกลียดความซับซ้อน และสร้าง UTF-8 กับ Go](https://dev.to/gophernment/rob-pike-phuuchaaythiiekliiydkhwaamchabchn-aelasraang-utf-8-kab-go-2f4k)
-- [The query succeeded. Which table state did it read?](https://dev.to/jerry_king_d0ee94a9bca82f/the-query-succeeded-which-table-state-did-it-read-1g7o)
-- [String Bean Casserole — CSS Art + Photos](https://dev.to/dan52242644dan/string-bean-casserole-css-art-photos-3bkg)
+- [AI Governance for Enterprise AI: Why Governance Comes Before the Gateway](https://dev.to/kenwalger/ai-governance-for-enterprise-ai-why-governance-comes-before-the-gateway-2hm1)
+- [Episode 7: Local Development](https://dev.to/surajrkhonde/episode-7-local-development-15ba)
+- [I gave the same fabricated answer to RAGAS and DeepEval. One scored it 0.0. The other scored it 1.0](https://dev.to/nickjlamb/we-gave-the-same-fabricated-answer-to-ragas-and-deepeval-one-scored-it-00-the-other-scored-it-10-57om)
+- [Enterprise State Management: React &amp; Zustand 🐻](https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph)
 <!-- BLOG-POST-LIST:END -->
 
 
