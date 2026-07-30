@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Lei de Conway &lpar;DRAFT com Mermaid&rpar;: por que a sua arquitetura é o espelho da sua organização](https://dev.to/vitor_mateus_e7a30f628063/a-lei-de-conway-draft-com-mermaid-por-que-a-sua-arquitetura-e-o-espelho-da-sua-organizacao-bnl)
-- [How to Test AI Agents Without Calling More LLMs](https://dev.to/raju_dandigam/how-to-test-ai-agents-without-calling-more-llms-2ga6)
-- [LLD Data Structures in Design Context: Why HashMaps Feel So Fast — Understanding Performance Without Memorising Big-O](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-hashmaps-feel-so-fast-understanding-performance-2p7c)
-- [Trace digests for LLM monitoring, at 1/30th the price of Sonnet](https://dev.to/rarestoma/trace-digests-for-llm-monitoring-at-130th-the-price-of-sonnet-1ah7)
+- [ABSL v1.0.0: I trained a Neural Network to solve XOR using 100% Integers &lpar;No Floats, No FPUs, Written in Rust&rpar;](https://dev.to/mojo0869/absl-v100-i-trained-a-neural-network-to-solve-xor-using-100-integers-no-floats-no-fpus-pb1)
+- [What GitHub Copilot&#39;s New July 2026 Agentic Review Features Can Teach Beginners About Trust in AI Coding](https://dev.to/marcusykim/what-github-copilots-new-july-2026-agentic-review-features-can-teach-beginners-about-trust-in-ai-4j2j)
+- [MCP Went Stateless: Migrating to the 2026-07-28 Spec &lpar;and Proving It Works&rpar;](https://dev.to/rupa_tiwari_dd308948d710f/mcp-went-stateless-migrating-to-the-2026-07-28-spec-and-proving-it-works-174)
+- [WHOIS is gone, RDAP replaced it, and a 404 does not mean what you think](https://dev.to/glitchbound/whois-is-gone-rdap-replaced-it-and-a-404-does-not-mean-what-you-think-3alh)
 <!-- BLOG-POST-LIST:END -->
 
 
