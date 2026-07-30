@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSA Says Harden Your Networks for the AI Storm. Here&#39;s How to Verify You Actually Did.](https://dev.to/bala_paranj_059d338e44e7e/csa-says-harden-your-networks-for-the-ai-storm-heres-how-to-verify-you-actually-did-1i58)
-- [Google Expands Gemini Spark as a Persistent AI Agent Across Its Product Ecosystem](https://dev.to/alifar/google-expands-gemini-spark-as-a-persistent-ai-agent-across-its-product-ecosystem-b1n)
-- [Atomarine: Nuclear Data Centers at Sea!](https://dev.to/mgobea/atomarine-nuclear-data-centers-at-sea-4d5h)
-- [Open-Source Multi-Agent Orchestration: Lessons from AgentForge](https://dev.to/albert_zhang_f468830cf0e6/open-source-multi-agent-orchestration-lessons-from-agentforge-1kf0)
+- [How to Fact-Check ChatGPT: The Copy-Paste Prompt I Use to Verify AI Output](https://dev.to/yvoolab/how-to-fact-check-chatgpt-the-copy-paste-prompt-i-use-to-verify-ai-output-47b9)
+- [Why I&#39;m building freelance business tools as single HTML files &lpar;no build step, no backend, no signup&rpar;](https://dev.to/ahn_mumu_27f4f1e04eb91641/why-im-building-freelance-business-tools-as-single-html-files-no-build-step-no-backend-no-1oa3)
+- [Every gate in my system is a scar](https://dev.to/martinschenk/every-gate-in-my-system-is-a-scar-33la)
+- [I built a vertically-integrated commerce system with AI — and accidentally discovered 4 governance patterns](https://dev.to/dexterlung/i-built-a-vertically-integrated-commerce-system-with-ai-and-accidentally-discovered-4-governance-hdk)
 <!-- BLOG-POST-LIST:END -->
 
 
