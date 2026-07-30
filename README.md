@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Governance for Enterprise AI: Why Governance Comes Before the Gateway](https://dev.to/kenwalger/ai-governance-for-enterprise-ai-why-governance-comes-before-the-gateway-2hm1)
-- [Episode 7: Local Development](https://dev.to/surajrkhonde/episode-7-local-development-15ba)
-- [I gave the same fabricated answer to RAGAS and DeepEval. One scored it 0.0. The other scored it 1.0](https://dev.to/nickjlamb/we-gave-the-same-fabricated-answer-to-ragas-and-deepeval-one-scored-it-00-the-other-scored-it-10-57om)
-- [Enterprise State Management: React &amp; Zustand 🐻](https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph)
+- [Array methods are eager. Iterator helpers are lazy. Here&#39;s why that matters.](https://dev.to/parsajiravand/array-methods-are-eager-iterator-helpers-are-lazy-heres-why-that-matters-58li)
+- [Keeping your email deliverability high by filtering invalid emails](https://dev.to/berislavbabic/keeping-your-email-deliverability-high-by-filtering-invalid-email-145d)
+- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
+- [A Second Check Is a Second Source of Truth](https://dev.to/henry_dan_81513dd35a2f540/a-second-check-is-a-second-source-of-truth-39lf)
 <!-- BLOG-POST-LIST:END -->
 
 
