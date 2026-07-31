@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Browsers Handle Keyboard Events: From Raw Input to DOM Events](https://dev.to/mspk97/how-browsers-handle-keyboard-events-from-raw-input-to-dom-events-6o8)
-- [I Tested a Star Wars API With Playwright, and It Was More Fun Than I Expected](https://dev.to/azmiyuksel/i-tested-a-star-wars-api-with-playwright-and-it-was-more-fun-than-i-expected-20bp)
-- [Replicate, RunPod, and the Commoditization of Inference](https://dev.to/velocityai/replicate-runpod-and-the-commoditization-of-inference-4i7a)
-- [How to Auto-Fix Broken JSON — Stop Debugging, Start Fixing](https://dev.to/faisal_usf/how-to-auto-fix-broken-json-stop-debugging-start-fixing-5ckh)
+- [Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week &amp; Learning How to Learn](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2)
+- [Is Your Domain Secure from Subdomain Takeover? Check via API](https://dev.to/onizuka/is-your-domain-secure-from-subdomain-takeover-check-via-api-51ca)
+- [100 Days of Solana: What I Actually Learned &lpar;Not What I Expected to Learn&rpar;](https://dev.to/lymah/100-days-of-solana-what-i-actually-learned-not-what-i-expected-to-learn-i8h)
+- [**Soul &amp; Spoon — Comfort Food Landing Page**](https://dev.to/dan52242644dan/soul-spoon-comfort-food-landing-page-4njp)
 <!-- BLOG-POST-LIST:END -->
 
 
