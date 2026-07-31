@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [100 Days of Solana is a wrap!](https://dev.to/100daysofsolana/100-days-of-solana-is-a-wrap-1hak)
-- [How AI Is Transforming Software Development Workflows in 2026](https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-1k6f)
-- [A Hardware Wallet Can Stay Offline and Still Create a Weak Seed](https://dev.to/azaleakuts/a-hardware-wallet-can-stay-offline-and-still-create-a-weak-seed-10pc)
-- [Fixing Exact Package Search Relevance in npmx](https://dev.to/anilloutombam/fixing-exact-package-search-relevance-in-npmx-34c7)
+- [How Browsers Handle Keyboard Events: From Raw Input to DOM Events](https://dev.to/mspk97/how-browsers-handle-keyboard-events-from-raw-input-to-dom-events-6o8)
+- [I Tested a Star Wars API With Playwright, and It Was More Fun Than I Expected](https://dev.to/azmiyuksel/i-tested-a-star-wars-api-with-playwright-and-it-was-more-fun-than-i-expected-20bp)
+- [Replicate, RunPod, and the Commoditization of Inference](https://dev.to/velocityai/replicate-runpod-and-the-commoditization-of-inference-4i7a)
+- [How to Auto-Fix Broken JSON — Stop Debugging, Start Fixing](https://dev.to/faisal_usf/how-to-auto-fix-broken-json-stop-debugging-start-fixing-5ckh)
 <!-- BLOG-POST-LIST:END -->
 
 
