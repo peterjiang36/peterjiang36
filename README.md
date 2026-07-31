@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Deploy Self-Hosted n8n on a €3.99/mo European VPS](https://dev.to/cloudhoste/how-to-deploy-self-hosted-n8n-on-a-eu399mo-european-vps-28cl)
-- [Anleitung: Alienware m17x &lpar;2008&rpar; als Linux DJ-Workstation](https://dev.to/qrishii/anleitung-alienware-m17x-2008-als-linux-dj-workstation-44im)
-- [Web scraping in Laravel with Larascraper](https://dev.to/edulazaro/larascraper-a-web-scraper-for-laravel-5dkk)
-- [Collaborative Filtering: How Computers Find Your Next Favourite Thing](https://dev.to/ale3oula/collaborative-filtering-how-computers-find-your-next-favourite-thing-22em)
+- [A Few More Months with Claude — Some Scattered Thoughts &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-few-more-months-with-claude-some-scattered-thoughts-bite-size-article-425e)
+- [LangChain Essentials — The Only Things You Need Before LangGraph](https://dev.to/santanu_mohanta_29/langchain-essentials-the-only-things-you-need-before-langgraph-4ci8)
+- [Breaking Through the Black Box: How AI Agents Conquer Shadow DOMs, Canvas Elements, and iFrames](https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a)
+- [20+ dev tools that run entirely in the browser](https://dev.to/merrt/20-dev-tools-that-run-entirely-in-the-browser-7bi)
 <!-- BLOG-POST-LIST:END -->
 
 
