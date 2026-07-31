@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Few More Months with Claude — Some Scattered Thoughts &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-few-more-months-with-claude-some-scattered-thoughts-bite-size-article-425e)
-- [LangChain Essentials — The Only Things You Need Before LangGraph](https://dev.to/santanu_mohanta_29/langchain-essentials-the-only-things-you-need-before-langgraph-4ci8)
-- [Breaking Through the Black Box: How AI Agents Conquer Shadow DOMs, Canvas Elements, and iFrames](https://dev.to/programmingcentral/breaking-through-the-black-box-how-ai-agents-conquer-shadow-doms-canvas-elements-and-iframes-369a)
-- [20+ dev tools that run entirely in the browser](https://dev.to/merrt/20-dev-tools-that-run-entirely-in-the-browser-7bi)
+- [Claude Sonnet 5 vs Opus 5: A Real-World Comparison &lpar;2026&rpar;](https://dev.to/tonyspiro/claude-sonnet-5-vs-opus-5-a-real-world-comparison-2026-1o67)
+- [AI Daily Digest — August 1, 2026: ARC-AGI-3 Harness Discovery, EU AI Gigafactories, Devin SWE-1.7](https://dev.to/hiroki-ii-ai/ai-daily-digest-august-1-2026-arc-agi-3-harness-discovery-eu-ai-gigafactories-devin-swe-17-13cf)
+- [The gate for an agent belongs in the environment, not in the agent](https://dev.to/alex_amanciocandoa_49c/the-gate-for-an-agent-belongs-in-the-environment-not-in-the-agent-1g69)
+- [Hello World! 👋 A Computer Science Student &amp; Technical Writer on a Journey](https://dev.to/hilda_tshiyembe/hello-world-a-computer-science-student-technical-writer-on-a-journey-5gn8)
 <!-- BLOG-POST-LIST:END -->
 
 
