@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Opportunity Radar #10: OpenAI Student Collective, Develop for Good, MLH Global Hack Week &amp; Learning How to Learn](https://dev.to/devengers/dev-opportunity-radar-10-openai-student-collective-develop-for-good-mlh-global-hack-week--4kh2)
-- [Is Your Domain Secure from Subdomain Takeover? Check via API](https://dev.to/onizuka/is-your-domain-secure-from-subdomain-takeover-check-via-api-51ca)
-- [100 Days of Solana: What I Actually Learned &lpar;Not What I Expected to Learn&rpar;](https://dev.to/lymah/100-days-of-solana-what-i-actually-learned-not-what-i-expected-to-learn-i8h)
-- [**Soul &amp; Spoon — Comfort Food Landing Page**](https://dev.to/dan52242644dan/soul-spoon-comfort-food-landing-page-4njp)
+- [How to Deploy Self-Hosted n8n on a €3.99/mo European VPS](https://dev.to/cloudhoste/how-to-deploy-self-hosted-n8n-on-a-eu399mo-european-vps-28cl)
+- [Anleitung: Alienware m17x &lpar;2008&rpar; als Linux DJ-Workstation](https://dev.to/qrishii/anleitung-alienware-m17x-2008-als-linux-dj-workstation-44im)
+- [Web scraping in Laravel with Larascraper](https://dev.to/edulazaro/larascraper-a-web-scraper-for-laravel-5dkk)
+- [Collaborative Filtering: How Computers Find Your Next Favourite Thing](https://dev.to/ale3oula/collaborative-filtering-how-computers-find-your-next-favourite-thing-22em)
 <!-- BLOG-POST-LIST:END -->
 
 
