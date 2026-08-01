@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent framework probably isn&#39;t your security problem &lpar;7,020 trials say so&rpar;](https://dev.to/iamwaqarjaved/your-ai-agent-framework-probably-isnt-your-security-problem-7020-trials-say-so-456f)
-- [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
-- [Poutine: the true food of the gods](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep)
-- [Gravy Boat — a landing page with a CSS poutine you can drown in!](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12)
+- [Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests](https://dev.to/yashksaini/dev-log-14-hardening-the-dht-against-eclipse-attacks-and-the-endless-battle-with-flaky-p2p-tests-593j)
+- [You Delivered the Work. The Client Vanished. Here&#39;s How to Stop That Happening Again.](https://dev.to/novacont/you-delivered-the-work-the-client-vanished-heres-how-to-stop-that-happening-again-289e)
+- [Every Building Journey Deserves Respect](https://dev.to/huynhnhanquoc/every-building-journey-deserves-respect-3m37)
+- [Cómo validar una idea con una landing de una sola página](https://dev.to/lanza-templates-es/como-validar-una-idea-con-una-landing-de-una-sola-pagina-3ch8)
 <!-- BLOG-POST-LIST:END -->
 
 
