@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering the Two Pointers Pattern: A Complete Algorithmic Blueprint](https://dev.to/architect_bytes/mastering-the-two-pointers-pattern-a-complete-algorithmic-blueprint-3eb2)
-- [Building create-next-mui: Small Improvements That Made a Big Difference](https://dev.to/thatonevikash/building-create-next-mui-small-improvements-that-made-a-big-difference-4k8f)
-- [Minimal Homelab Server with Alpine Linux](https://dev.to/pizidavi/minimal-alpine-linux-homelab-server-n7i)
-- [Release notes answer the wrong question](https://dev.to/deployconfidence/release-notes-answer-the-wrong-question-5afa)
+- [AI-Forward Marketing Teams Are Hiring More, Not Less, Survey Data Shows](https://dev.to/alifar/ai-forward-marketing-teams-are-hiring-more-not-less-survey-data-shows-129a)
+- [Why Your Web Scrapers Keep Breaking &lpar;And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright&rpar;](https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2)
+- [The 8 Performance Fixes That Finally Got My Astro Site to 100 on Mobile PageSpeed](https://dev.to/rachido_sama/the-8-performance-fixes-that-finally-got-my-astro-site-to-100-on-mobile-pagespeed-36fj)
+- [What it took to ship a production remote MCP server with OAuth 2.1](https://dev.to/getminds/what-it-took-to-ship-a-production-remote-mcp-server-with-oauth-21-364c)
 <!-- BLOG-POST-LIST:END -->
 
 
