@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Presentando Fitz LiveViews: UI en tiempo real en un solo lenguaje, sin build de JS](https://dev.to/martin_palopoli/presentando-fitz-liveviews-ui-en-tiempo-real-en-un-solo-lenguaje-sin-build-de-js-2147)
-- [Herdr and the Throughput Case for Parallel Coding Agents](https://dev.to/pvgomes/herdr-and-the-throughput-case-for-parallel-coding-agents-4dk0)
-- [Top AI Papers on Hugging Face - 2026-08-01](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-01-21ld)
-- [Advanced Techniques for Merging Disparate Excel Sheets from Multiple Files](https://dev.to/datasort/advanced-techniques-for-merging-disparate-excel-sheets-from-multiple-files-ogb)
+- [Learning to Code When AI Writes the Code](https://dev.to/andrelmarinho/learning-to-code-when-ai-writes-the-code-16b2)
+- [Google Gemini Avatars Bring Nano Banana Image Creation Into Personalized Workflows](https://dev.to/alifar/google-gemini-avatars-bring-nano-banana-image-creation-into-personalized-workflows-4ben)
+- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
+- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
 <!-- BLOG-POST-LIST:END -->
 
 
