@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini Expands Connected Apps With Dropbox, Zillow and Viator](https://dev.to/alifar/google-gemini-expands-connected-apps-with-dropbox-zillow-and-viator-3gai)
-- [LLD Data Structures in Design Context: Why Software Engineers Don&#39;t Sort Everything](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-doesnt-a-heap-sort-everything-understanding-the-2i70)
-- [AI Agent Security: Stop Model Exfiltration and API Key Leaks](https://dev.to/deepbodyme/ai-agent-security-stop-model-exfiltration-and-api-key-leaks-en0)
-- [I got tired of online JSON tools crashing on syntax errors and conversions, so I built a local-first repair engine](https://dev.to/aftandevelops/i-got-tired-of-online-json-tools-crashing-on-syntax-errors-and-conversions-so-i-built-a-jk8)
+- [Mastering the Two Pointers Pattern: A Complete Algorithmic Blueprint](https://dev.to/architect_bytes/mastering-the-two-pointers-pattern-a-complete-algorithmic-blueprint-3eb2)
+- [Building create-next-mui: Small Improvements That Made a Big Difference](https://dev.to/thatonevikash/building-create-next-mui-small-improvements-that-made-a-big-difference-4k8f)
+- [Minimal Homelab Server with Alpine Linux](https://dev.to/pizidavi/minimal-alpine-linux-homelab-server-n7i)
+- [Release notes answer the wrong question](https://dev.to/deployconfidence/release-notes-answer-the-wrong-question-5afa)
 <!-- BLOG-POST-LIST:END -->
 
 
