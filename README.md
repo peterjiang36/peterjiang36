@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev log #14 Hardening the DHT against Eclipse attacks and the endless battle with flaky p2p tests](https://dev.to/yashksaini/dev-log-14-hardening-the-dht-against-eclipse-attacks-and-the-endless-battle-with-flaky-p2p-tests-593j)
-- [You Delivered the Work. The Client Vanished. Here&#39;s How to Stop That Happening Again.](https://dev.to/novacont/you-delivered-the-work-the-client-vanished-heres-how-to-stop-that-happening-again-289e)
-- [Every Building Journey Deserves Respect](https://dev.to/huynhnhanquoc/every-building-journey-deserves-respect-3m37)
-- [Cómo validar una idea con una landing de una sola página](https://dev.to/lanza-templates-es/como-validar-una-idea-con-una-landing-de-una-sola-pagina-3ch8)
+- [Async Processing for Dashboard Clicks: Batch Updates in Go](https://dev.to/pckrishnadas88/async-processing-for-dashboard-clicks-batch-updates-in-go-6p8)
+- [🌊 From SAR Data to Actionable Maps: Building an Open-Source Flood Detection Pipeline with Python](https://dev.to/adityahunt/from-sar-data-to-actionable-maps-building-an-open-source-flood-detection-pipeline-with-python-2idf)
+- [Building Modern Linux WiFi 6 Drivers: The RTL8852AU Story](https://dev.to/wimlee115/wifi-6-driver-alive-1k6p)
+- [Fix Ansible Bootstrap Playbook Failing on Fresh Cloud Servers](https://dev.to/oleksandr_kuryzhev_42873f/fix-ansible-bootstrap-playbook-failing-on-fresh-cloud-servers-fpg)
 <!-- BLOG-POST-LIST:END -->
 
 
