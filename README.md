@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Forward Marketing Teams Are Hiring More, Not Less, Survey Data Shows](https://dev.to/alifar/ai-forward-marketing-teams-are-hiring-more-not-less-survey-data-shows-129a)
-- [Why Your Web Scrapers Keep Breaking &lpar;And How to Build Self-Healing TypeScript Agents Using LLMs and Playwright&rpar;](https://dev.to/programmingcentral/why-your-web-scrapers-keep-breaking-and-how-to-build-self-healing-typescript-agents-using-llms-and-4of2)
-- [The 8 Performance Fixes That Finally Got My Astro Site to 100 on Mobile PageSpeed](https://dev.to/rachido_sama/the-8-performance-fixes-that-finally-got-my-astro-site-to-100-on-mobile-pagespeed-36fj)
-- [What it took to ship a production remote MCP server with OAuth 2.1](https://dev.to/getminds/what-it-took-to-ship-a-production-remote-mcp-server-with-oauth-21-364c)
+- [From Software Engineer to AI Engineer - Part 3: Giving it a hand](https://dev.to/bjornvdlaan/from-software-engineer-to-ai-engineer-part-3-2o9k)
+- [Lucide vs Tabler vs Phosphor: Which Free Icon Set Fits Your UI?](https://dev.to/svgicons/lucide-vs-tabler-vs-phosphor-which-free-icon-set-fits-your-ui-4ocl)
+- [AI collapsed my job into three roles and I had to relearn all of them](https://dev.to/mjmirza/ai-collapsed-my-job-into-three-roles-and-i-had-to-relearn-all-of-them-509g)
+- [How to Use SVG Icons in React, Next.js, and Tailwind CSS](https://dev.to/svgicons/how-to-use-svg-icons-in-react-nextjs-and-tailwind-css-3o1c)
 <!-- BLOG-POST-LIST:END -->
 
 
