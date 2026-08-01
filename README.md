@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Async Processing for Dashboard Clicks: Batch Updates in Go](https://dev.to/pckrishnadas88/async-processing-for-dashboard-clicks-batch-updates-in-go-6p8)
-- [🌊 From SAR Data to Actionable Maps: Building an Open-Source Flood Detection Pipeline with Python](https://dev.to/adityahunt/from-sar-data-to-actionable-maps-building-an-open-source-flood-detection-pipeline-with-python-2idf)
-- [Building Modern Linux WiFi 6 Drivers: The RTL8852AU Story](https://dev.to/wimlee115/wifi-6-driver-alive-1k6p)
-- [Fix Ansible Bootstrap Playbook Failing on Fresh Cloud Servers](https://dev.to/oleksandr_kuryzhev_42873f/fix-ansible-bootstrap-playbook-failing-on-fresh-cloud-servers-fpg)
+- [Converting a JavaScript-Rendered Web Page to PDF](https://dev.to/petr_savenok/converting-a-javascript-rendered-web-page-to-pdf-4nd5)
+- [I wanted to run my own AI. My laptop says not yet](https://dev.to/marciojpflorindo/i-wanted-to-run-my-own-ai-my-laptop-says-not-yet-5201)
+- [How AI Is Transforming Software Development Workflows in 2026](https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-ob)
+- [Build a Spanish WhatsApp booking landing page with plain HTML, CSS, and JavaScript](https://dev.to/lunastudiokits/build-a-spanish-whatsapp-booking-landing-page-with-plain-html-css-and-javascript-2dm4)
 <!-- BLOG-POST-LIST:END -->
 
 
