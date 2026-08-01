@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning to Code When AI Writes the Code](https://dev.to/andrelmarinho/learning-to-code-when-ai-writes-the-code-16b2)
-- [Google Gemini Avatars Bring Nano Banana Image Creation Into Personalized Workflows](https://dev.to/alifar/google-gemini-avatars-bring-nano-banana-image-creation-into-personalized-workflows-4ben)
-- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
-- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
+- [Google Gemini Expands Connected Apps With Dropbox, Zillow and Viator](https://dev.to/alifar/google-gemini-expands-connected-apps-with-dropbox-zillow-and-viator-3gai)
+- [LLD Data Structures in Design Context: Why Software Engineers Don&#39;t Sort Everything](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-doesnt-a-heap-sort-everything-understanding-the-2i70)
+- [AI Agent Security: Stop Model Exfiltration and API Key Leaks](https://dev.to/deepbodyme/ai-agent-security-stop-model-exfiltration-and-api-key-leaks-en0)
+- [I got tired of online JSON tools crashing on syntax errors and conversions, so I built a local-first repair engine](https://dev.to/aftandevelops/i-got-tired-of-online-json-tools-crashing-on-syntax-errors-and-conversions-so-i-built-a-jk8)
 <!-- BLOG-POST-LIST:END -->
 
 
