@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Converting a JavaScript-Rendered Web Page to PDF](https://dev.to/petr_savenok/converting-a-javascript-rendered-web-page-to-pdf-4nd5)
-- [I wanted to run my own AI. My laptop says not yet](https://dev.to/marciojpflorindo/i-wanted-to-run-my-own-ai-my-laptop-says-not-yet-5201)
-- [How AI Is Transforming Software Development Workflows in 2026](https://dev.to/kaixintelligence/how-ai-is-transforming-software-development-workflows-in-2026-ob)
-- [Build a Spanish WhatsApp booking landing page with plain HTML, CSS, and JavaScript](https://dev.to/lunastudiokits/build-a-spanish-whatsapp-booking-landing-page-with-plain-html-css-and-javascript-2dm4)
+- [Presentando Fitz LiveViews: UI en tiempo real en un solo lenguaje, sin build de JS](https://dev.to/martin_palopoli/presentando-fitz-liveviews-ui-en-tiempo-real-en-un-solo-lenguaje-sin-build-de-js-2147)
+- [Herdr and the Throughput Case for Parallel Coding Agents](https://dev.to/pvgomes/herdr-and-the-throughput-case-for-parallel-coding-agents-4dk0)
+- [Top AI Papers on Hugging Face - 2026-08-01](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-01-21ld)
+- [Advanced Techniques for Merging Disparate Excel Sheets from Multiple Files](https://dev.to/datasort/advanced-techniques-for-merging-disparate-excel-sheets-from-multiple-files-ogb)
 <!-- BLOG-POST-LIST:END -->
 
 
