@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CityLibrary](https://dev.to/soumabhasaha1509/citylibrary-47i3)
-- [Stop Watching Others Code and Start Building Your Own Ideas](https://dev.to/rashidarif/stop-watching-others-code-and-start-building-your-own-ideas-29cp)
-- [Taming a 40-Minute Lean CI: Three Rounds, Three Wrong Suspects](https://dev.to/iroha1203/taming-a-40-minute-lean-ci-three-rounds-three-wrong-suspects-7ke)
-- [Everyone Knows It Scores Half. Nobody Checks Which Half.](https://dev.to/alan_scottencinas/everyone-knows-it-scores-half-nobody-checks-which-half-953)
+- [39 days of an autonomous AI company: 487M tokens, $1,117 of model spend, $0 in revenue](https://dev.to/autocomp/39-days-of-an-autonomous-ai-company-487m-tokens-1117-of-model-spend-0-in-revenue-2dof)
+- [Best AI Code Review Tools for GitHub in 2026](https://dev.to/dev_kiran/best-ai-code-review-tools-for-github-in-2026-4pjk)
+- [🍕Nonna’s Table](https://dev.to/hoseinmdev/nonnas-table-11ha)
+- [Building ReproSpec: Portable Evidence Bundles and Offline Replay for Node.js](https://dev.to/henryparker37/building-reprospec-portable-evidence-bundles-and-offline-replay-for-nodejs-4pli)
 <!-- BLOG-POST-LIST:END -->
 
 
