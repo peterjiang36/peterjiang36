@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bluetooth Support Across Every Codename One Target](https://dev.to/codenameone/bluetooth-support-across-every-codename-one-target-4om5)
-- [How AI Is Changing Ecommerce Photography: Creativity, Scale and the Trust Problem](https://dev.to/designrise/how-ai-is-changing-ecommerce-photography-creativity-scale-and-the-trust-problem-4e43)
-- [Docker Model Runner vs Ollama — ใครควรย้าย ใครไม่ควร &lpar;และทำไม&rpar;](https://dev.to/sarantoon/docker-model-runner-vs-ollama-aikhrkhwryaay-aikhraimkhwr-aelathamaim-1175)
-- [Make your AI assistant predict the result before it runs it](https://dev.to/gde03/make-your-ai-assistant-predict-the-result-before-it-runs-it-2abo)
+- [Why Documentation Is Architecture](https://dev.to/meroline_lizlent/why-documentation-is-architecture-1mb7)
+- [SQL Patterns Hidden Inside Social Networks](https://dev.to/meroline_lizlent/sql-patterns-hidden-inside-social-networks-pc5)
+- [Mastering QWeb PDF Reports in Odoo 19: From Beginner to Advanced](https://dev.to/raymiles94/mastering-qweb-pdf-reports-in-odoo-19-from-beginner-to-advanced-585l)
+- [The cache key that ignored the question](https://dev.to/eazyhood/the-cache-key-that-ignored-the-question-2g59)
 <!-- BLOG-POST-LIST:END -->
 
 
