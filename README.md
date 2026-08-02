@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google ADK: Architecture and Essential Components](https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6)
-- [You Bought the Machine. Now Build the Software Factory.](https://dev.to/suckup_de/you-bought-the-machine-now-build-the-software-factory-1nhp)
-- [Portable Context Does Not Mean Portable Runtimes](https://dev.to/agentprojectcontext/portable-context-does-not-mean-portable-runtimes-15pa)
-- [Top AI Papers on Hugging Face - 2026-08-02](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-02-5po)
+- [Bluetooth Support Across Every Codename One Target](https://dev.to/codenameone/bluetooth-support-across-every-codename-one-target-4om5)
+- [How AI Is Changing Ecommerce Photography: Creativity, Scale and the Trust Problem](https://dev.to/designrise/how-ai-is-changing-ecommerce-photography-creativity-scale-and-the-trust-problem-4e43)
+- [Docker Model Runner vs Ollama — ใครควรย้าย ใครไม่ควร &lpar;และทำไม&rpar;](https://dev.to/sarantoon/docker-model-runner-vs-ollama-aikhrkhwryaay-aikhraimkhwr-aelathamaim-1175)
+- [Make your AI assistant predict the result before it runs it](https://dev.to/gde03/make-your-ai-assistant-predict-the-result-before-it-runs-it-2abo)
 <!-- BLOG-POST-LIST:END -->
 
 
