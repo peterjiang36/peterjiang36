@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build an MCP server, step by step](https://dev.to/aiarch_wibo/how-to-build-an-mcp-server-step-by-step-3iom)
-- [From Lean 4 to ClickHouse: Architecting Verifiable AI Infrastructure with Formal Methods and Real-Time Analytics](https://dev.to/tamizuddin/from-lean-4-to-clickhouse-architecting-verifiable-ai-infrastructure-with-formal-methods-and-134b)
-- [What Is a Status Page? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-a-status-page-complete-guide-for-2026-dll)
-- [What Is Uptime Monitoring? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-uptime-monitoring-complete-guide-for-2026-3ikl)
+- [My Laptop&#39;s CPU stuck at Max Turbo 24/7 [ Here&#39;s Why ]](https://dev.to/muhammad_bilal_linux/my-laptops-cpu-stuck-at-max-turbo-247-heres-why--427)
+- [No More nodemon or dotenv? Node.js Can Handle It Now](https://dev.to/joodi/no-more-nodemon-or-dotenv-nodejs-can-handle-it-now-2inb)
+- [Scaling AI Beyond the Monolith: Multi-Agent Coordination via Federated MCP Servers](https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7)
+- [Seeking 20 TestFlight beta testers — MarkdownVault &lpar;local encrypted web-to-Markdown on iOS&rpar;](https://dev.to/qveys/seeking-20-testflight-beta-testers-markdownvault-local-encrypted-web-to-markdown-on-ios-2pkh)
 <!-- BLOG-POST-LIST:END -->
 
 
