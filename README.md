@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 1 — The Friday Deploy](https://dev.to/surajrkhonde/episode-1-the-friday-deploy-2424)
-- [Voice Commander: Control Your Mac with Hey Jarvis](https://dev.to/amrendra_n_mishra/voice-commander-control-your-mac-with-hey-jarvis-47ma)
-- [Turn Chatbot Misunderstandings Into Grammar Regression Tests](https://dev.to/susiewang/turn-chatbot-misunderstandings-into-grammar-regression-tests-j5n)
-- [I Built an AI Name Generator Because Naming Is Harder Than It Looks](https://dev.to/zhe_li_cb865666e61edba79d/i-built-an-ai-name-generator-because-naming-is-harder-than-it-looks-54g9)
+- [CityLibrary](https://dev.to/soumabhasaha1509/citylibrary-47i3)
+- [Stop Watching Others Code and Start Building Your Own Ideas](https://dev.to/rashidarif/stop-watching-others-code-and-start-building-your-own-ideas-29cp)
+- [Taming a 40-Minute Lean CI: Three Rounds, Three Wrong Suspects](https://dev.to/iroha1203/taming-a-40-minute-lean-ci-three-rounds-three-wrong-suspects-7ke)
+- [Everyone Knows It Scores Half. Nobody Checks Which Half.](https://dev.to/alan_scottencinas/everyone-knows-it-scores-half-nobody-checks-which-half-953)
 <!-- BLOG-POST-LIST:END -->
 
 
