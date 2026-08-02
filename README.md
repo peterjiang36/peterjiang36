@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Laptop&#39;s CPU stuck at Max Turbo 24/7 [ Here&#39;s Why ]](https://dev.to/muhammad_bilal_linux/my-laptops-cpu-stuck-at-max-turbo-247-heres-why--427)
-- [No More nodemon or dotenv? Node.js Can Handle It Now](https://dev.to/joodi/no-more-nodemon-or-dotenv-nodejs-can-handle-it-now-2inb)
-- [Scaling AI Beyond the Monolith: Multi-Agent Coordination via Federated MCP Servers](https://dev.to/programmingcentral/scaling-ai-beyond-the-monolith-multi-agent-coordination-via-federated-mcp-servers-37b7)
-- [Seeking 20 TestFlight beta testers — MarkdownVault &lpar;local encrypted web-to-Markdown on iOS&rpar;](https://dev.to/qveys/seeking-20-testflight-beta-testers-markdownvault-local-encrypted-web-to-markdown-on-ios-2pkh)
+- [AI Makes Developers Faster. Why Can It Make Teams Slower?](https://dev.to/_3ffb5be7950c3a975b5d/ai-makes-developers-faster-why-can-it-make-teams-slower-13kl)
+- [Treat prompts like code: skills, evals, and ship-gate CI for Cursor slash commands](https://dev.to/emaraschio/treat-prompts-like-code-skills-evals-and-ship-gate-ci-for-cursor-slash-commands-1o03)
+- [Crypto-Agility Without a Redesign: The &quot;Soft-Fade-Out&quot; Pattern for Legacy IoT Silicon](https://dev.to/artkeller/crypto-agility-without-a-redesign-the-soft-fade-out-pattern-for-legacy-iot-silicon-2oc6)
+- [How Much Should Live Together? Learning to Isolate Services the Hard Way](https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m)
 <!-- BLOG-POST-LIST:END -->
 
 
