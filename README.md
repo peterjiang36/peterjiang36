@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [39 days of an autonomous AI company: 487M tokens, $1,117 of model spend, $0 in revenue](https://dev.to/autocomp/39-days-of-an-autonomous-ai-company-487m-tokens-1117-of-model-spend-0-in-revenue-2dof)
-- [Best AI Code Review Tools for GitHub in 2026](https://dev.to/dev_kiran/best-ai-code-review-tools-for-github-in-2026-4pjk)
-- [🍕Nonna’s Table](https://dev.to/hoseinmdev/nonnas-table-11ha)
-- [Building ReproSpec: Portable Evidence Bundles and Offline Replay for Node.js](https://dev.to/henryparker37/building-reprospec-portable-evidence-bundles-and-offline-replay-for-nodejs-4pli)
+- [Google ADK: Architecture and Essential Components](https://dev.to/gde/google-adk-architecture-and-essential-components-4hb6)
+- [You Bought the Machine. Now Build the Software Factory.](https://dev.to/suckup_de/you-bought-the-machine-now-build-the-software-factory-1nhp)
+- [Portable Context Does Not Mean Portable Runtimes](https://dev.to/agentprojectcontext/portable-context-does-not-mean-portable-runtimes-15pa)
+- [Top AI Papers on Hugging Face - 2026-08-02](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-02-5po)
 <!-- BLOG-POST-LIST:END -->
 
 
