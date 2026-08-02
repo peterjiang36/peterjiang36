@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Documentation Is Architecture](https://dev.to/meroline_lizlent/why-documentation-is-architecture-1mb7)
-- [SQL Patterns Hidden Inside Social Networks](https://dev.to/meroline_lizlent/sql-patterns-hidden-inside-social-networks-pc5)
-- [Mastering QWeb PDF Reports in Odoo 19: From Beginner to Advanced](https://dev.to/raymiles94/mastering-qweb-pdf-reports-in-odoo-19-from-beginner-to-advanced-585l)
-- [The cache key that ignored the question](https://dev.to/eazyhood/the-cache-key-that-ignored-the-question-2g59)
+- [How to build an MCP server, step by step](https://dev.to/aiarch_wibo/how-to-build-an-mcp-server-step-by-step-3iom)
+- [From Lean 4 to ClickHouse: Architecting Verifiable AI Infrastructure with Formal Methods and Real-Time Analytics](https://dev.to/tamizuddin/from-lean-4-to-clickhouse-architecting-verifiable-ai-infrastructure-with-formal-methods-and-134b)
+- [What Is a Status Page? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-a-status-page-complete-guide-for-2026-dll)
+- [What Is Uptime Monitoring? Complete Guide for 2026](https://dev.to/jensonhirst/what-is-uptime-monitoring-complete-guide-for-2026-3ikl)
 <!-- BLOG-POST-LIST:END -->
 
 
