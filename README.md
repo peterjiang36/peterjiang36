@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Makes Developers Faster. Why Can It Make Teams Slower?](https://dev.to/_3ffb5be7950c3a975b5d/ai-makes-developers-faster-why-can-it-make-teams-slower-13kl)
-- [Treat prompts like code: skills, evals, and ship-gate CI for Cursor slash commands](https://dev.to/emaraschio/treat-prompts-like-code-skills-evals-and-ship-gate-ci-for-cursor-slash-commands-1o03)
-- [Crypto-Agility Without a Redesign: The &quot;Soft-Fade-Out&quot; Pattern for Legacy IoT Silicon](https://dev.to/artkeller/crypto-agility-without-a-redesign-the-soft-fade-out-pattern-for-legacy-iot-silicon-2oc6)
-- [How Much Should Live Together? Learning to Isolate Services the Hard Way](https://dev.to/tehrfurth/how-much-should-live-together-learning-to-isolate-services-the-hard-way-4b8m)
+- [Kubernetes Migration: Seeking Guidance and Collaboration for Ingress to Gateway API Transition](https://dev.to/alitron/kubernetes-migration-seeking-guidance-and-collaboration-for-ingress-to-gateway-api-transition-5bo4)
+- [Building an embedded Shopify app in Symfony: session tokens, token exchange, and the parts nobody writes in PHP](https://dev.to/mollenthiel/building-an-embedded-shopify-app-in-symfony-session-tokens-token-exchange-and-the-parts-nobody-438g)
+- [Lesson 4 - Validation: A must-have cornerstone](https://dev.to/smukker/lesson-4-validation-a-must-have-cornerstone-3bd2)
+- [A GitHub Actions tag is a promise, not a fact: pinning by SHA the right way](https://dev.to/wahib_el_khadiri_0/a-github-actions-tag-is-a-promise-not-a-fact-pinning-by-sha-the-right-way-3np)
 <!-- BLOG-POST-LIST:END -->
 
 
