@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why My Expo Router App Froze on the Splash Screen After a Cold-Start Notification Tap](https://dev.to/hirodeath/why-my-expo-router-app-froze-on-the-splash-screen-after-a-cold-start-notification-tap-40d4)
-- [I Rewrote My Resume Once and Stopped Getting Ghosted. Then Oracle Called](https://dev.to/jawadelyousfi17/i-rewrote-my-resume-once-and-stopped-getting-ghosted-then-oracle-called-2bgg)
-- [I used the Hacker News API to check 5,000 old links. 34 domains are now unregistered.](https://dev.to/aiq_labs/i-used-the-hacker-news-api-to-check-5000-old-links-34-domains-are-now-unregistered-2jbf)
-- [Spaced Repetition Under the Hood: How We Decide When to Show a Word Again](https://dev.to/vitaly_pavlenko_71b14d120/spaced-repetition-under-the-hood-how-we-decide-when-to-show-a-word-again-2g5b)
+- [Episode 1 — The Friday Deploy](https://dev.to/surajrkhonde/episode-1-the-friday-deploy-2424)
+- [Voice Commander: Control Your Mac with Hey Jarvis](https://dev.to/amrendra_n_mishra/voice-commander-control-your-mac-with-hey-jarvis-47ma)
+- [Turn Chatbot Misunderstandings Into Grammar Regression Tests](https://dev.to/susiewang/turn-chatbot-misunderstandings-into-grammar-regression-tests-j5n)
+- [I Built an AI Name Generator Because Naming Is Harder Than It Looks](https://dev.to/zhe_li_cb865666e61edba79d/i-built-an-ai-name-generator-because-naming-is-harder-than-it-looks-54g9)
 <!-- BLOG-POST-LIST:END -->
 
 
