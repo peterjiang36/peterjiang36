@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How would you decide, whether the content is good or bad?](https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p)
-- [One locale code silently killed 92% of a Magento Shopware migration — and the tool reported Done](https://dev.to/yuriydne/one-locale-code-silently-killed-92-of-a-magento-shopware-migration-and-the-tool-reported-done-4l6j)
-- [What are your goals for the week? #190](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-190-d5p)
-- [OWASP Top 10: The Web&#39;s Most Critical Security Risks](https://dev.to/rhuturaj_takle/owasp-top-10-the-webs-most-critical-security-risks-5clo)
+- [I Built a Browser Tool That Catches All 19 Shopify CSV Import Errors Before Upload](https://dev.to/boreas/i-built-a-browser-tool-that-catches-all-19-shopify-csv-import-errors-before-upload-4886)
+- [Python Automation Cookbook, Part 2: Using AI to make decisions in your automation pipelines](https://dev.to/peytongreen_dev/python-automation-cookbook-part-2-using-ai-to-make-decisions-in-your-automation-pipelines-1hn9)
+- [Tailwind CSS](https://dev.to/jaisurya/tailwind-css-4i8p)
+- [Build a Production Ready MERN Stack E-Commerce Website with React, Node.js, MongoDB, JWT &amp; Razorpay.](https://dev.to/sudhanshudevelopers/build-a-production-ready-mern-stack-e-commerce-website-with-react-nodejs-mongodb-jwt-razorpay-5d0k)
 <!-- BLOG-POST-LIST:END -->
 
 
