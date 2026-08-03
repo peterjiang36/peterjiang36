@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Browser Tool That Catches All 19 Shopify CSV Import Errors Before Upload](https://dev.to/boreas/i-built-a-browser-tool-that-catches-all-19-shopify-csv-import-errors-before-upload-4886)
-- [Python Automation Cookbook, Part 2: Using AI to make decisions in your automation pipelines](https://dev.to/peytongreen_dev/python-automation-cookbook-part-2-using-ai-to-make-decisions-in-your-automation-pipelines-1hn9)
-- [Tailwind CSS](https://dev.to/jaisurya/tailwind-css-4i8p)
-- [Build a Production Ready MERN Stack E-Commerce Website with React, Node.js, MongoDB, JWT &amp; Razorpay.](https://dev.to/sudhanshudevelopers/build-a-production-ready-mern-stack-e-commerce-website-with-react-nodejs-mongodb-jwt-razorpay-5d0k)
+- [I Built an MCP Server So AI Assistants Can Process PDFs Directly](https://dev.to/peter_ndumia_pdfhaul/i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly-80k)
+- [Do Not Trust the Green Checkmark](https://dev.to/onurkesim/do-not-trust-the-green-checkmark-48i5)
+- [I got offered a Web3 job on LinkedIn. The &quot;codebase&quot; was built to rob me.](https://dev.to/pycanis/title-suggestion-i-got-offered-a-web3-job-on-linkedin-the-codebase-was-built-to-rob-me-e59)
+- [An editable range can change without changing Word text](https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o)
 <!-- BLOG-POST-LIST:END -->
 
 
