@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Migration: Seeking Guidance and Collaboration for Ingress to Gateway API Transition](https://dev.to/alitron/kubernetes-migration-seeking-guidance-and-collaboration-for-ingress-to-gateway-api-transition-5bo4)
-- [Building an embedded Shopify app in Symfony: session tokens, token exchange, and the parts nobody writes in PHP](https://dev.to/mollenthiel/building-an-embedded-shopify-app-in-symfony-session-tokens-token-exchange-and-the-parts-nobody-438g)
-- [Lesson 4 - Validation: A must-have cornerstone](https://dev.to/smukker/lesson-4-validation-a-must-have-cornerstone-3bd2)
-- [A GitHub Actions tag is a promise, not a fact: pinning by SHA the right way](https://dev.to/wahib_el_khadiri_0/a-github-actions-tag-is-a-promise-not-a-fact-pinning-by-sha-the-right-way-3np)
+- [How to Remember Namespaces](https://dev.to/midpolarnight/how-to-remember-namespaces-106g)
+- [30 technical interview questions, explained the way you&#39;d actually say them](https://dev.to/ramana_babu_c787073206bef/30-technical-interview-questions-explained-the-way-youd-actually-say-them-4a3g)
+- [The Mini PC Market Was a Mess. So This Developer Built a Better Comparison Tool.](https://dev.to/wplacetool/the-mini-pc-market-was-a-mess-so-this-developer-built-a-better-comparison-tool-3dlj)
+- [AI Hallucinations Will Never Be Fully Solved by Software — Here&#39;s Why](https://dev.to/jack1tom/ai-hallucinations-will-never-be-fully-solved-by-software-heres-why-43dd)
 <!-- BLOG-POST-LIST:END -->
 
 
