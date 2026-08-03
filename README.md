@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Remember Namespaces](https://dev.to/midpolarnight/how-to-remember-namespaces-106g)
-- [30 technical interview questions, explained the way you&#39;d actually say them](https://dev.to/ramana_babu_c787073206bef/30-technical-interview-questions-explained-the-way-youd-actually-say-them-4a3g)
-- [The Mini PC Market Was a Mess. So This Developer Built a Better Comparison Tool.](https://dev.to/wplacetool/the-mini-pc-market-was-a-mess-so-this-developer-built-a-better-comparison-tool-3dlj)
-- [AI Hallucinations Will Never Be Fully Solved by Software — Here&#39;s Why](https://dev.to/jack1tom/ai-hallucinations-will-never-be-fully-solved-by-software-heres-why-43dd)
+- [Episode 3 — The Cache Problem](https://dev.to/surajrkhonde/episode-3-the-cache-problem-278i)
+- [Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark](https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4)
+- [LINE MINI App Verification Review: A Pre-Submission Checklist That Prevents Rework](https://dev.to/unifyport/line-mini-app-verification-review-a-pre-submission-checklist-that-prevents-rework-3d3m)
+- [Por que um Staff Engineer está estudando AI Security](https://dev.to/tiagovilasboas/por-que-um-staff-engineer-esta-estudando-ai-security-37d2)
 <!-- BLOG-POST-LIST:END -->
 
 
