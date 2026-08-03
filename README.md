@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Server So AI Assistants Can Process PDFs Directly](https://dev.to/peter_ndumia_pdfhaul/i-built-an-mcp-server-so-ai-assistants-can-process-pdfs-directly-80k)
-- [Do Not Trust the Green Checkmark](https://dev.to/onurkesim/do-not-trust-the-green-checkmark-48i5)
-- [I got offered a Web3 job on LinkedIn. The &quot;codebase&quot; was built to rob me.](https://dev.to/pycanis/title-suggestion-i-got-offered-a-web3-job-on-linkedin-the-codebase-was-built-to-rob-me-e59)
-- [An editable range can change without changing Word text](https://dev.to/sybilgambleyyu/an-editable-range-can-change-without-changing-word-text-532o)
+- [XML Tagging in Prompts: The Secret to Getting Better Output from Claude and GPT](https://dev.to/maryam_saba_792cdbcdb46fd/xml-tagging-in-prompts-the-secret-to-getting-better-output-from-claude-and-gpt-54e1)
+- [Building a security posture scanner with Next.js and Python](https://dev.to/dkls7777/building-a-security-posture-scanner-with-nextjs-and-python-5g5c)
+- [Why GitHub Cannot Paginate Through Millions of Repositories - Deep Pagination Explained](https://dev.to/mayank7924/why-github-silently-caps-your-search-at-1000-results-and-whats-actually-happening-underneath-1oik)
+- [A comment can be marked done without changing Word text](https://dev.to/sybilgambleyyu/a-comment-can-be-marked-done-without-changing-word-text-512o)
 <!-- BLOG-POST-LIST:END -->
 
 
