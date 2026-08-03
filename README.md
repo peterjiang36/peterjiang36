@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 3 — The Cache Problem](https://dev.to/surajrkhonde/episode-3-the-cache-problem-278i)
-- [Unlocking Infinite Automation: Integrating Google Apps Script with Gemini Spark](https://dev.to/gde/unlocking-infinite-automation-integrating-google-apps-script-with-gemini-spark-3kj4)
-- [LINE MINI App Verification Review: A Pre-Submission Checklist That Prevents Rework](https://dev.to/unifyport/line-mini-app-verification-review-a-pre-submission-checklist-that-prevents-rework-3d3m)
-- [Por que um Staff Engineer está estudando AI Security](https://dev.to/tiagovilasboas/por-que-um-staff-engineer-esta-estudando-ai-security-37d2)
+- [Why QA Testing Is Important for AI-Generated Code](https://dev.to/synfinity-dynamics-pvt-ltd/why-qa-testing-is-important-for-ai-generated-code-2hkh)
+- [Facebook Developer Tools MCP คืออะไร? — คู่มือ Meta MCP สำหรับคนทำโฆษณา วิเคราะห์ข้อมูล และ Automation](https://dev.to/sarantoon/facebook-developer-tools-mcp-khuueaair-khuumuue-meta-mcp-samhrabkhnthamokhsnaa-wiekhraaahkhmuul-aela-1plh)
+- [You Don&#39;t Need a CSS Framework in 2026 — the Platform Caught Up](https://dev.to/_artclick/you-dont-need-a-css-framework-in-2026-the-platform-caught-up-51pa)
+- [The Machine Says No](https://dev.to/rawveg/the-machine-says-no-52e5)
 <!-- BLOG-POST-LIST:END -->
 
 
