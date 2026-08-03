@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why QA Testing Is Important for AI-Generated Code](https://dev.to/synfinity-dynamics-pvt-ltd/why-qa-testing-is-important-for-ai-generated-code-2hkh)
-- [Facebook Developer Tools MCP คืออะไร? — คู่มือ Meta MCP สำหรับคนทำโฆษณา วิเคราะห์ข้อมูล และ Automation](https://dev.to/sarantoon/facebook-developer-tools-mcp-khuueaair-khuumuue-meta-mcp-samhrabkhnthamokhsnaa-wiekhraaahkhmuul-aela-1plh)
-- [You Don&#39;t Need a CSS Framework in 2026 — the Platform Caught Up](https://dev.to/_artclick/you-dont-need-a-css-framework-in-2026-the-platform-caught-up-51pa)
-- [The Machine Says No](https://dev.to/rawveg/the-machine-says-no-52e5)
+- [How would you decide, whether the content is good or bad?](https://dev.to/francistrdev/how-would-you-decide-whether-the-content-is-good-or-bad-295p)
+- [One locale code silently killed 92% of a Magento Shopware migration — and the tool reported Done](https://dev.to/yuriydne/one-locale-code-silently-killed-92-of-a-magento-shopware-migration-and-the-tool-reported-done-4l6j)
+- [What are your goals for the week? #190](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-190-d5p)
+- [OWASP Top 10: The Web&#39;s Most Critical Security Risks](https://dev.to/rhuturaj_takle/owasp-top-10-the-webs-most-critical-security-risks-5clo)
 <!-- BLOG-POST-LIST:END -->
 
 
