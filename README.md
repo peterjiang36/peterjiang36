@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I cut my Chromatic bill 10x &lpar;works on any visual testing tool&rpar;](https://dev.to/igrlk/how-i-cut-my-chromatic-bill-10x-works-on-any-visual-testing-tool-28an)
-- [How to Actually A/B Test AI Avatar vs. Text Chat Conversion &lpar;A Technical Approach&rpar;](https://dev.to/__d34ca/how-to-actually-ab-test-ai-avatar-vs-text-chat-conversion-a-technical-approach-p44)
-- [How EvalPort&#39;s Grader System Works: 11 Types for LLM Evaluation](https://dev.to/adha_ak_d60b39fbb66769fd1/how-evalports-grader-system-works-11-types-for-llm-evaluation-1m06)
-- [CryptoCabana: Azure Cloud CTF Walkthrough - THM Room](https://dev.to/eswar3/cryptocabana-azure-cloud-ctf-walkthrough-thm-room-42oc)
+- [A API de terceiro caiu e derrubou seu app junto](https://dev.to/denisgusto1/a-api-de-terceiro-caiu-e-derrubou-seu-app-junto-1366)
+- [N+1: o bug silencioso que trava seu Laravel em produção](https://dev.to/denisgusto1/n1-o-bug-silencioso-que-trava-seu-laravel-em-producao-4olp)
+- [Life After CodePush: Choosing an OTA Update Strategy for React Native in 2026](https://dev.to/gfean/life-after-codepush-choosing-an-ota-update-strategy-for-react-native-in-2026-56mi)
+- [MCP Servers: Por Qué Tu SaaS Necesita Uno &lpar;Y Cómo Implementarlo en Python&rpar;](https://dev.to/pivelcode/mcp-servers-por-que-tu-saas-necesita-uno-y-como-implementarlo-en-python-3ip8)
 <!-- BLOG-POST-LIST:END -->
 
 
