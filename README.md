@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Has Hands](https://dev.to/hamedhajiloo/the-ai-has-hands-276p)
-- [What If Agent Tasks Were Installable Packages?](https://dev.to/devsink/what-if-agent-tasks-were-installable-packages-383d)
-- [How I Built an Evidence-Backed SaaS Opportunity Pipeline](https://dev.to/jason_huang/how-i-built-an-evidence-backed-saas-opportunity-pipeline-3gmo)
-- [How I Built an AI Agent System for a Corporate Law Firm — During My Internship](https://dev.to/m0rtal13/how-i-built-an-ai-agent-system-for-a-corporate-law-firm-during-my-internship-3aeh)
+- [The EU AI Act started applying to your chatbot two days ago](https://dev.to/pedram_madani/the-eu-ai-act-started-applying-to-your-chatbot-two-days-ago-339i)
+- [durable execution is something you install](https://dev.to/pvgomes/durable-execution-is-something-you-install-2c4k)
+- [Python Modules Explained: Write Cleaner and Reusable Code](https://dev.to/adhi_sankar_45ccfb9350749/python-modules-explained-write-cleaner-and-reusable-code-2fde)
+- [Hugging Face&#39;s CEO Wants Mandatory AI Agent Disclosure. He Just Described What the Industry Is Missing.](https://dev.to/agentrisk/hugging-faces-ceo-wants-mandatory-ai-agent-disclosure-he-just-described-what-the-industry-is-9cg)
 <!-- BLOG-POST-LIST:END -->
 
 
