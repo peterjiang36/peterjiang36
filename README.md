@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Only Interview Prep Sheet I Actually Finished](https://dev.to/soham0047/the-only-interview-prep-sheet-i-actually-finished-4alb)
-- [How to Use Qwen 3 with VS Code &lpar;FREE&rpar; | Complete Setup with Ollama](https://dev.to/thecodestreet/how-to-use-qwen-3-with-vs-code-free-complete-setup-with-ollama-29f8)
-- [Taming a Third-Party React App Inside WordPress — Without Touching Its Code](https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1)
-- [Channels SDK: How to bring Your Agent to Any Channel &lpar;Slack, Microsoft Teams&rpar;](https://dev.to/anmolbaranwal/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof)
+- [Waste: Tackling Massive AI Models with an Innovative Streaming Approach](https://dev.to/dd8888/waste-tackling-massive-ai-models-with-an-innovative-streaming-approach-1nf1)
+- [The Day I Became a Bug Hunter](https://dev.to/konark_13/the-day-i-became-a-bug-hunter-3e41)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2)
+- [Building SwiftLoad Downloader: Go Meets Swift for Modern Downloads](https://dev.to/pokemon_go/building-swiftload-downloader-go-meets-swift-for-modern-downloads-4gmk)
 <!-- BLOG-POST-LIST:END -->
 
 
