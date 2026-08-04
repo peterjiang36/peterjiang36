@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The EU AI Act started applying to your chatbot two days ago](https://dev.to/pedram_madani/the-eu-ai-act-started-applying-to-your-chatbot-two-days-ago-339i)
-- [durable execution is something you install](https://dev.to/pvgomes/durable-execution-is-something-you-install-2c4k)
-- [Python Modules Explained: Write Cleaner and Reusable Code](https://dev.to/adhi_sankar_45ccfb9350749/python-modules-explained-write-cleaner-and-reusable-code-2fde)
-- [Hugging Face&#39;s CEO Wants Mandatory AI Agent Disclosure. He Just Described What the Industry Is Missing.](https://dev.to/agentrisk/hugging-faces-ceo-wants-mandatory-ai-agent-disclosure-he-just-described-what-the-industry-is-9cg)
+- [Building the foundation Claudius runs on](https://dev.to/mongodb/building-the-foundation-claudius-runs-on-5hl5)
+- [Turn Your Routine Into an Assistant: A Practical Guide to Small AI Helpers](https://dev.to/academy_agineai/turn-your-routine-into-an-assistant-a-practical-guide-to-small-ai-helpers-3fdh)
+- [DeepSeek V4 Flash API Cost: Thinking Mode Corrupts Strict JSON](https://dev.to/synthorai/deepseek-v4-flash-api-cost-thinking-mode-corrupts-strict-json-31p8)
+- [MCP Explained: The Protocol Powering AI Agents](https://dev.to/codexlancers/mcp-explained-the-protocol-powering-ai-agents-554k)
 <!-- BLOG-POST-LIST:END -->
 
 
