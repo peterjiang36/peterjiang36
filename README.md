@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Proves Your App Runs. Kubernetes Proves It&#39;s Operable.](https://dev.to/arbythecoder/docker-proves-your-app-runs-kubernetes-proves-its-operable-439i)
-- [Practice Real-World Testing Scenarios for QA: Challenge 3 - Visual Testing with API Mocking](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-5f6i)
-- [Building Deterministic Multi Agent Workflows with LangGraph](https://dev.to/muhammad_aslam_ff65e35553/building-deterministic-multi-agent-workflows-with-langgraph-4m0i)
-- [Qwen3.8-Max Just Went GA: A Developer&#39;s Guide to Alibaba&#39;s 2.4T Model](https://dev.to/arshtechpro/qwen38-max-just-went-ga-a-developers-guide-to-alibabas-24t-model-ff3)
+- [VPS.org One-Click Template: Public PostgreSQL Fixed Password and Zulip Session Forgery](https://dev.to/anoymask/vpsorg-one-click-template-public-postgresql-fixed-password-and-zulip-session-forgery-5bg6)
+- [N-central CVE-2026-18577: Lateral Movement from RMM Admin Rights to Customer Endpoints and Persistence via Cloudflare Tunnel](https://dev.to/anoymask/n-central-cve-2026-18577-lateral-movement-from-rmm-admin-rights-to-customer-endpoints-and-47aa)
+- [CC-Link IE TSN CVE-2026-13584: OT Protocol Vulnerability Enabling Control I/O Value Tampering from Adjacent Networks](https://dev.to/anoymask/cc-link-ie-tsn-cve-2026-13584-ot-protocol-vulnerability-enabling-control-io-value-tampering-from-5gdk)
+- [DOUBLECUP: ClickFix Loader-as-a-Service Restoring Fileless Payload from PNG in Browser Cache](https://dev.to/anoymask/doublecup-clickfix-loader-as-a-service-restoring-fileless-payload-from-png-in-browser-cache-2j1p)
 <!-- BLOG-POST-LIST:END -->
 
 
