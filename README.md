@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly](https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid)
-- [Linux Troubleshooting Workflow for Beginners: A Step-by-Step Guide](https://dev.to/sreekanth_kuruba_91721e5d/linux-troubleshooting-workflow-for-beginners-a-step-by-step-guide-427c)
-- [How to Make Claude Code and AI Coding Agents Smarter with Spec-Driven Development](https://dev.to/tarrantro/how-to-make-claude-code-and-ai-coding-agents-smarter-with-spec-driven-development-46dl)
-- [Stop hls.js from flapping between quality levels on cellular &lpar;with abrSwitchInterval&rpar;](https://dev.to/masonwritescode/stop-hlsjs-from-flapping-between-quality-levels-on-cellular-with-abrswitchinterval-2ch)
+- [The AI Has Hands](https://dev.to/hamedhajiloo/the-ai-has-hands-276p)
+- [What If Agent Tasks Were Installable Packages?](https://dev.to/devsink/what-if-agent-tasks-were-installable-packages-383d)
+- [How I Built an Evidence-Backed SaaS Opportunity Pipeline](https://dev.to/jason_huang/how-i-built-an-evidence-backed-saas-opportunity-pipeline-3gmo)
+- [How I Built an AI Agent System for a Corporate Law Firm — During My Internship](https://dev.to/m0rtal13/how-i-built-an-ai-agent-system-for-a-corporate-law-firm-during-my-internship-3aeh)
 <!-- BLOG-POST-LIST:END -->
 
 
