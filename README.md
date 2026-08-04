@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [VPS.org One-Click Template: Public PostgreSQL Fixed Password and Zulip Session Forgery](https://dev.to/anoymask/vpsorg-one-click-template-public-postgresql-fixed-password-and-zulip-session-forgery-5bg6)
-- [N-central CVE-2026-18577: Lateral Movement from RMM Admin Rights to Customer Endpoints and Persistence via Cloudflare Tunnel](https://dev.to/anoymask/n-central-cve-2026-18577-lateral-movement-from-rmm-admin-rights-to-customer-endpoints-and-47aa)
-- [CC-Link IE TSN CVE-2026-13584: OT Protocol Vulnerability Enabling Control I/O Value Tampering from Adjacent Networks](https://dev.to/anoymask/cc-link-ie-tsn-cve-2026-13584-ot-protocol-vulnerability-enabling-control-io-value-tampering-from-5gdk)
-- [DOUBLECUP: ClickFix Loader-as-a-Service Restoring Fileless Payload from PNG in Browser Cache](https://dev.to/anoymask/doublecup-clickfix-loader-as-a-service-restoring-fileless-payload-from-png-in-browser-cache-2j1p)
+- [TypeScript `asserts` and Type Predicates in 2026: Writing Guards That Actually Narrow Correctly](https://dev.to/jsmanifest/typescript-asserts-and-type-predicates-in-2026-writing-guards-that-actually-narrow-correctly-3kid)
+- [Linux Troubleshooting Workflow for Beginners: A Step-by-Step Guide](https://dev.to/sreekanth_kuruba_91721e5d/linux-troubleshooting-workflow-for-beginners-a-step-by-step-guide-427c)
+- [How to Make Claude Code and AI Coding Agents Smarter with Spec-Driven Development](https://dev.to/tarrantro/how-to-make-claude-code-and-ai-coding-agents-smarter-with-spec-driven-development-46dl)
+- [Stop hls.js from flapping between quality levels on cellular &lpar;with abrSwitchInterval&rpar;](https://dev.to/masonwritescode/stop-hlsjs-from-flapping-between-quality-levels-on-cellular-with-abrswitchinterval-2ch)
 <!-- BLOG-POST-LIST:END -->
 
 
