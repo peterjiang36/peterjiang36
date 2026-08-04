@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the foundation Claudius runs on](https://dev.to/mongodb/building-the-foundation-claudius-runs-on-5hl5)
-- [Turn Your Routine Into an Assistant: A Practical Guide to Small AI Helpers](https://dev.to/academy_agineai/turn-your-routine-into-an-assistant-a-practical-guide-to-small-ai-helpers-3fdh)
-- [DeepSeek V4 Flash API Cost: Thinking Mode Corrupts Strict JSON](https://dev.to/synthorai/deepseek-v4-flash-api-cost-thinking-mode-corrupts-strict-json-31p8)
-- [MCP Explained: The Protocol Powering AI Agents](https://dev.to/codexlancers/mcp-explained-the-protocol-powering-ai-agents-554k)
+- [The Only Interview Prep Sheet I Actually Finished](https://dev.to/soham0047/the-only-interview-prep-sheet-i-actually-finished-4alb)
+- [How to Use Qwen 3 with VS Code &lpar;FREE&rpar; | Complete Setup with Ollama](https://dev.to/thecodestreet/how-to-use-qwen-3-with-vs-code-free-complete-setup-with-ollama-29f8)
+- [Taming a Third-Party React App Inside WordPress — Without Touching Its Code](https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1)
+- [Channels SDK: How to bring Your Agent to Any Channel &lpar;Slack, Microsoft Teams&rpar;](https://dev.to/anmolbaranwal/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof)
 <!-- BLOG-POST-LIST:END -->
 
 
