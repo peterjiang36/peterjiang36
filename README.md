@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Waste: Tackling Massive AI Models with an Innovative Streaming Approach](https://dev.to/dd8888/waste-tackling-massive-ai-models-with-an-innovative-streaming-approach-1nf1)
-- [The Day I Became a Bug Hunter](https://dev.to/konark_13/the-day-i-became-a-bug-hunter-3e41)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4pk2)
-- [Building SwiftLoad Downloader: Go Meets Swift for Modern Downloads](https://dev.to/pokemon_go/building-swiftload-downloader-go-meets-swift-for-modern-downloads-4gmk)
+- [How I cut my Chromatic bill 10x &lpar;works on any visual testing tool&rpar;](https://dev.to/igrlk/how-i-cut-my-chromatic-bill-10x-works-on-any-visual-testing-tool-28an)
+- [How to Actually A/B Test AI Avatar vs. Text Chat Conversion &lpar;A Technical Approach&rpar;](https://dev.to/__d34ca/how-to-actually-ab-test-ai-avatar-vs-text-chat-conversion-a-technical-approach-p44)
+- [How EvalPort&#39;s Grader System Works: 11 Types for LLM Evaluation](https://dev.to/adha_ak_d60b39fbb66769fd1/how-evalports-grader-system-works-11-types-for-llm-evaluation-1m06)
+- [CryptoCabana: Azure Cloud CTF Walkthrough - THM Room](https://dev.to/eswar3/cryptocabana-azure-cloud-ctf-walkthrough-thm-room-42oc)
 <!-- BLOG-POST-LIST:END -->
 
 
