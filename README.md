@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise MCP Gateway with Built-In Security: OAuth 2.0, RBAC, and Tool Access Control](https://dev.to/anthonymax/enterprise-mcp-gateway-with-built-in-security-oauth-20-rbac-and-tool-access-control-68n)
-- [AirLLM: Running 70B Parameter LLMs on a Single 4GB GPU](https://dev.to/terminalchai/airllm-running-70b-parameter-llms-on-a-single-4gb-gpu-3730)
-- [Left Brain vs Right Brain in Trading: What Science Says](https://dev.to/shaktitiwari/left-brain-vs-right-brain-in-trading-what-science-says-758)
-- [General Challenge Updates Moving Forward](https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39)
+- [Katto - A better coding agent](https://dev.to/kuyawa/katto-a-better-coding-agent-5036)
+- [The birth of the 100X programmer](https://dev.to/kuyawa/the-birth-of-the-100x-programmer-5abd)
+- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
+- [Allocations on the Wire: Building a Low-Allocation MQTT Broker with Trie Routing and .NET 10](https://dev.to/marvin_drude_d778a97ea3cf/allocations-on-the-wire-building-a-low-allocation-mqtt-broker-with-trie-routing-and-net-10-5174)
 <!-- BLOG-POST-LIST:END -->
 
 
