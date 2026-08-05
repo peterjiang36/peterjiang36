@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a short-code marketplace with zero npm dependencies &lpar;Node.js 22, no framework&rpar;](https://dev.to/claimo_me/i-built-a-short-code-marketplace-with-zero-npm-dependencies-nodejs-22-no-framework-2ag9)
-- [My Algorithmic Trading Bot Silently Failed to Notify: The Curious Case of Missing `.env` Loads Across Scripts](https://dev.to/masaoshimadaopen/my-algorithmic-trading-bot-silently-failed-to-notify-the-curious-case-of-missing-env-loads-55p1)
-- [My Trading Bot&#39;s Silent Killer: How Forgetting to Load `.env` Across Scripts Silenced Discord Notifications](https://dev.to/masaoshimadaopen/my-trading-bots-silent-killer-how-forgetting-to-load-env-across-scripts-silenced-discord-2pli)
-- [How to start building your own rtos](https://dev.to/sohshri/how-to-start-building-your-own-rtos-2b5l)
+- [Measure your own coding habits before you believe anyone else&#39;s numbers](https://dev.to/groundedarchitect/measure-your-own-coding-habits-before-you-believe-anyone-elses-numbers-401l)
+- [Fast... But Wrong? Meet Cache Invalidation](https://dev.to/aditya_d_sharma/fast-but-wrong-meet-cache-invalidation-43np)
+- [New HTTP QUERY Method &lpar;RFC 10008&rpar; Explained | Stop Using POST for Search](https://dev.to/rakibulislamdev/new-http-query-method-rfc-10008-explained-stop-using-post-for-search-5356)
+- [Claude Code Subagents: Setup, Config, and When to Use Them](https://dev.to/rosgluk/claude-code-subagents-setup-config-and-when-to-use-them-44m7)
 <!-- BLOG-POST-LIST:END -->
 
 
