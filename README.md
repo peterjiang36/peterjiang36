@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Measure your own coding habits before you believe anyone else&#39;s numbers](https://dev.to/groundedarchitect/measure-your-own-coding-habits-before-you-believe-anyone-elses-numbers-401l)
-- [Fast... But Wrong? Meet Cache Invalidation](https://dev.to/aditya_d_sharma/fast-but-wrong-meet-cache-invalidation-43np)
-- [New HTTP QUERY Method &lpar;RFC 10008&rpar; Explained | Stop Using POST for Search](https://dev.to/rakibulislamdev/new-http-query-method-rfc-10008-explained-stop-using-post-for-search-5356)
-- [Claude Code Subagents: Setup, Config, and When to Use Them](https://dev.to/rosgluk/claude-code-subagents-setup-config-and-when-to-use-them-44m7)
+- [Embedded Rust Books for Beginners &lpar;Free and Open Source&rpar;](https://dev.to/astrakernel/embedded-rust-books-for-beginners-free-and-open-source-43kn)
+- [Why Publishers Are Blocking AI Crawlers and Reshaping Access to Web Content](https://dev.to/alifar/why-publishers-are-blocking-ai-crawlers-and-reshaping-access-to-web-content-2nap)
+- [The LLM is an ALU - Lessons from a ZX Spectrum](https://dev.to/matatbread/the-llm-is-an-alu-lessons-from-a-zx-spectrum-2o5h)
+- [OpenAI Just Solved a Problem Open Since 1999. It Still Can&#39;t Ask Its Own Question.](https://dev.to/dannwaneri/openai-just-solved-a-problem-open-since-1999-it-still-cant-ask-its-own-question-48j0)
 <!-- BLOG-POST-LIST:END -->
 
 
