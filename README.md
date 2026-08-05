@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Rust Books for Beginners &lpar;Free and Open Source&rpar;](https://dev.to/astrakernel/embedded-rust-books-for-beginners-free-and-open-source-43kn)
-- [Why Publishers Are Blocking AI Crawlers and Reshaping Access to Web Content](https://dev.to/alifar/why-publishers-are-blocking-ai-crawlers-and-reshaping-access-to-web-content-2nap)
-- [The LLM is an ALU - Lessons from a ZX Spectrum](https://dev.to/matatbread/the-llm-is-an-alu-lessons-from-a-zx-spectrum-2o5h)
-- [OpenAI Just Solved a Problem Open Since 1999. It Still Can&#39;t Ask Its Own Question.](https://dev.to/dannwaneri/openai-just-solved-a-problem-open-since-1999-it-still-cant-ask-its-own-question-48j0)
+- [Building AI Avatar Workflows: Comparing Artlist, HeyGen, and Synthesia from a Developer&#39;s Perspective](https://dev.to/daniel-seed-digital/building-ai-avatar-workflows-comparing-artlist-heygen-and-synthesia-from-a-developers-45cj)
+- [Thou Shall Not &#39;ls -la&#39;](https://dev.to/coldstorage/thou-shall-not-ls-la-5dph)
+- [Compact Strings Cut Character Storage in Half](https://dev.to/codenameone/compact-strings-cut-character-storage-in-half-542h)
+- [How to Validate a Startup Idea on Reddit &lpar;Founder&#39;s Guide&rpar;](https://dev.to/sclaydon/how-to-validate-a-startup-idea-on-reddit-founders-guide-3nap)
 <!-- BLOG-POST-LIST:END -->
 
 
