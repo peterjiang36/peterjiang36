@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A API de terceiro caiu e derrubou seu app junto](https://dev.to/denisgusto1/a-api-de-terceiro-caiu-e-derrubou-seu-app-junto-1366)
-- [N+1: o bug silencioso que trava seu Laravel em produção](https://dev.to/denisgusto1/n1-o-bug-silencioso-que-trava-seu-laravel-em-producao-4olp)
-- [Life After CodePush: Choosing an OTA Update Strategy for React Native in 2026](https://dev.to/gfean/life-after-codepush-choosing-an-ota-update-strategy-for-react-native-in-2026-56mi)
-- [MCP Servers: Por Qué Tu SaaS Necesita Uno &lpar;Y Cómo Implementarlo en Python&rpar;](https://dev.to/pivelcode/mcp-servers-por-que-tu-saas-necesita-uno-y-como-implementarlo-en-python-3ip8)
+- [Building Cinematic Depth in the Browser with Depth Anything V2 Small and WebGPU](https://dev.to/martindelophy/building-cinematic-depth-in-the-browser-with-depth-anything-v2-small-and-webgpu-1k07)
+- [Las profecías de Isaac Asimov: ¿Qué tan cerca estamos del futuro que imaginó?](https://dev.to/ce4vjpcode/las-profecias-de-isaac-asimov-que-tan-cerca-estamos-del-futuro-que-imagino-2ip2)
+- [Chaca 2.2: generación de datos de prueba, ahora en el navegador](https://dev.to/chacaponquin/chaca-22-generacion-de-datos-de-prueba-ahora-en-el-navegador-1ej5)
+- [Under the Hood of 翻译求助: Building a Context-Aware Translation Assistant at LectuLibre](https://dev.to/jacob_gong/under-the-hood-of-fan-yi-qiu-zhu-building-a-context-aware-translation-assistant-at-lectulibre-2n67)
 <!-- BLOG-POST-LIST:END -->
 
 
