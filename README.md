@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Cinematic Depth in the Browser with Depth Anything V2 Small and WebGPU](https://dev.to/martindelophy/building-cinematic-depth-in-the-browser-with-depth-anything-v2-small-and-webgpu-1k07)
-- [Las profecías de Isaac Asimov: ¿Qué tan cerca estamos del futuro que imaginó?](https://dev.to/ce4vjpcode/las-profecias-de-isaac-asimov-que-tan-cerca-estamos-del-futuro-que-imagino-2ip2)
-- [Chaca 2.2: generación de datos de prueba, ahora en el navegador](https://dev.to/chacaponquin/chaca-22-generacion-de-datos-de-prueba-ahora-en-el-navegador-1ej5)
-- [Under the Hood of 翻译求助: Building a Context-Aware Translation Assistant at LectuLibre](https://dev.to/jacob_gong/under-the-hood-of-fan-yi-qiu-zhu-building-a-context-aware-translation-assistant-at-lectulibre-2n67)
+- [I built a short-code marketplace with zero npm dependencies &lpar;Node.js 22, no framework&rpar;](https://dev.to/claimo_me/i-built-a-short-code-marketplace-with-zero-npm-dependencies-nodejs-22-no-framework-2ag9)
+- [My Algorithmic Trading Bot Silently Failed to Notify: The Curious Case of Missing `.env` Loads Across Scripts](https://dev.to/masaoshimadaopen/my-algorithmic-trading-bot-silently-failed-to-notify-the-curious-case-of-missing-env-loads-55p1)
+- [My Trading Bot&#39;s Silent Killer: How Forgetting to Load `.env` Across Scripts Silenced Discord Notifications](https://dev.to/masaoshimadaopen/my-trading-bots-silent-killer-how-forgetting-to-load-env-across-scripts-silenced-discord-2pli)
+- [How to start building your own rtos](https://dev.to/sohshri/how-to-start-building-your-own-rtos-2b5l)
 <!-- BLOG-POST-LIST:END -->
 
 
