@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How OpenAI&#39;s Models Escaped a Sandbox and Breached Hugging Face](https://dev.to/yajur_agarwal/how-openais-models-escaped-a-sandbox-and-breached-hugging-face-2edp)
-- [A pragmatic view on AI and mostly revolutionary tech in general](https://dev.to/sriram_95722c4cc4c32b9fc4/a-pragmatic-view-on-ai-and-mostly-revolutionary-tech-in-general-4ia1)
-- [I was released from the role of a lifetime. So I built an AI estate that runs while I sleep.](https://dev.to/jenatechio/i-was-released-from-the-role-of-a-lifetime-so-i-built-an-ai-estate-that-runs-while-i-sleep-bp)
-- [Stop Your AI Coding CLI From Wasting Tokens on &quot;Hi&quot; and &quot;Thanks&quot;](https://dev.to/qainsights/stop-your-ai-coding-cli-from-wasting-tokens-on-hi-and-thanks-4f6b)
+- [Enterprise MCP Gateway with Built-In Security: OAuth 2.0, RBAC, and Tool Access Control](https://dev.to/anthonymax/enterprise-mcp-gateway-with-built-in-security-oauth-20-rbac-and-tool-access-control-68n)
+- [AirLLM: Running 70B Parameter LLMs on a Single 4GB GPU](https://dev.to/terminalchai/airllm-running-70b-parameter-llms-on-a-single-4gb-gpu-3730)
+- [Left Brain vs Right Brain in Trading: What Science Says](https://dev.to/shaktitiwari/left-brain-vs-right-brain-in-trading-what-science-says-758)
+- [General Challenge Updates Moving Forward](https://dev.to/thepracticaldev/general-challenge-updates-moving-forward-5h39)
 <!-- BLOG-POST-LIST:END -->
 
 
