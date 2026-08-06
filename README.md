@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Immich vs Google Photos: Why Self-Hosting Your Photo Library Wins in 2026](https://dev.to/jachin_ocacio_e8de2a25158/immich-vs-google-photos-why-self-hosting-your-photo-library-wins-in-2026-m34)
-- [Six Passports, six memoirs: first-person accounts from Synthetics&#39; Last Cradle](https://dev.to/discernible-io/six-passports-six-memoirs-first-person-accounts-from-synthetics-last-cradle-2d84)
-- [Claude to Figma: keeping AI-generated UI bound to your design system](https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b)
-- [Figma MCP: turning Claude-generated UI into a component library](https://dev.to/phongdesigns/figma-mcp-turning-claude-generated-ui-into-a-component-library-72j)
+- [GİVE ME FEEDBACK](https://dev.to/ahmedsevindik/give-me-feedback-502i)
+- [The Privacy Summary Screen — 60 Minutes of Design With Outsized Impact](https://dev.to/david_ri_42470fb779fd235/the-privacy-summary-screen-60-minutes-of-design-with-outsized-impact-592)
+- [The image agents — prompt to PNG](https://dev.to/esunitha/the-image-agents-prompt-to-png-34d0)
+- [15 OSINT Tools Every Investigator Should Actually Open — In Order](https://dev.to/whereisthisplace/15-osint-tools-every-investigator-should-actually-open-in-order-436k)
 <!-- BLOG-POST-LIST:END -->
 
 
