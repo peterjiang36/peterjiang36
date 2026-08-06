@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Cron vs Systemd Timers vs daemontools — Understanding the Evolution of Linux Job Scheduling &amp; Service Management](https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm)
-- [Ahrefs MCP Server: Setup for Claude, Codex and the Rest](https://dev.to/studiomeyer_io/ahrefs-mcp-server-setup-for-claude-codex-and-the-rest-l46)
-- [I built a time-travel debugger for Zustand — and it caught three bugs I&#39;d already shipped](https://dev.to/kuba_opoczka_a6fb453bac5f/i-built-a-time-travel-debugger-for-zustand-and-it-caught-three-bugs-id-already-shipped-1cce)
-- [I built GitCat 1.0 to replace Git Extensions for large repositories](https://dev.to/zangjiucheng/i-built-gitcat-10-to-replace-git-extensions-for-large-repositories-1k13)
+- [Beyond Borders: Building the Technology for a Caribbean Regional Stock Exchange](https://dev.to/xbze3/beyond-borders-building-the-technology-for-a-caribbean-regional-stock-exchange-20j9)
+- [EU AI Act Four Risk Levels: What Developers and Enterprises Need to Know](https://dev.to/alifar/eu-ai-act-four-risk-levels-what-developers-and-enterprises-need-to-know-1pni)
+- [COLDCARD Audit Phishing: 25.7MB Batch File Embeds ScreenConnect and Uses Chat to Trick Admins into Running It](https://dev.to/anoymask/coldcard-audit-phishing-257mb-batch-file-embeds-screenconnect-and-uses-chat-to-trick-admins-into-3o35)
+- [Langflow CVE-2026-9198: Active Exploitation RCE via Auto-Login Superuser Token and Code Validator `exec&lpar;&rpar;` Chain](https://dev.to/anoymask/langflow-cve-2026-9198-active-exploitation-rce-via-auto-login-superuser-token-and-code-validator-2ga1)
 <!-- BLOG-POST-LIST:END -->
 
 
