@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GİVE ME FEEDBACK](https://dev.to/ahmedsevindik/give-me-feedback-502i)
-- [The Privacy Summary Screen — 60 Minutes of Design With Outsized Impact](https://dev.to/david_ri_42470fb779fd235/the-privacy-summary-screen-60-minutes-of-design-with-outsized-impact-592)
-- [The image agents — prompt to PNG](https://dev.to/esunitha/the-image-agents-prompt-to-png-34d0)
-- [15 OSINT Tools Every Investigator Should Actually Open — In Order](https://dev.to/whereisthisplace/15-osint-tools-every-investigator-should-actually-open-in-order-436k)
+- [Marketplace Monetization Models: Beyond Transaction Fees](https://dev.to/mercur/marketplace-monetization-models-beyond-transaction-fees-2d2d)
+- [Automating DEV: seven things the Forem API does not tell you](https://dev.to/marcosgcuenta1/automating-dev-seven-things-the-forem-api-does-not-tell-you-mp6)
+- [I benchmarked CSV vs JSON on 200k rows so you don&#39;t have to](https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-1m0p)
+- [Top AI Papers on Hugging Face - 2026-08-06](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-06-1mg4)
 <!-- BLOG-POST-LIST:END -->
 
 
