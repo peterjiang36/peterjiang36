@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Borders: Building the Technology for a Caribbean Regional Stock Exchange](https://dev.to/xbze3/beyond-borders-building-the-technology-for-a-caribbean-regional-stock-exchange-20j9)
-- [EU AI Act Four Risk Levels: What Developers and Enterprises Need to Know](https://dev.to/alifar/eu-ai-act-four-risk-levels-what-developers-and-enterprises-need-to-know-1pni)
-- [COLDCARD Audit Phishing: 25.7MB Batch File Embeds ScreenConnect and Uses Chat to Trick Admins into Running It](https://dev.to/anoymask/coldcard-audit-phishing-257mb-batch-file-embeds-screenconnect-and-uses-chat-to-trick-admins-into-3o35)
-- [Langflow CVE-2026-9198: Active Exploitation RCE via Auto-Login Superuser Token and Code Validator `exec&lpar;&rpar;` Chain](https://dev.to/anoymask/langflow-cve-2026-9198-active-exploitation-rce-via-auto-login-superuser-token-and-code-validator-2ga1)
+- [Immich vs Google Photos: Why Self-Hosting Your Photo Library Wins in 2026](https://dev.to/jachin_ocacio_e8de2a25158/immich-vs-google-photos-why-self-hosting-your-photo-library-wins-in-2026-m34)
+- [Six Passports, six memoirs: first-person accounts from Synthetics&#39; Last Cradle](https://dev.to/discernible-io/six-passports-six-memoirs-first-person-accounts-from-synthetics-last-cradle-2d84)
+- [Claude to Figma: keeping AI-generated UI bound to your design system](https://dev.to/phongdesigns/claude-to-figma-keeping-ai-generated-ui-bound-to-your-design-system-4p8b)
+- [Figma MCP: turning Claude-generated UI into a component library](https://dev.to/phongdesigns/figma-mcp-turning-claude-generated-ui-into-a-component-library-72j)
 <!-- BLOG-POST-LIST:END -->
 
 
