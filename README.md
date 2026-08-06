@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Marketplace Monetization Models: Beyond Transaction Fees](https://dev.to/mercur/marketplace-monetization-models-beyond-transaction-fees-2d2d)
-- [Automating DEV: seven things the Forem API does not tell you](https://dev.to/marcosgcuenta1/automating-dev-seven-things-the-forem-api-does-not-tell-you-mp6)
-- [I benchmarked CSV vs JSON on 200k rows so you don&#39;t have to](https://dev.to/developer_tech/i-benchmarked-csv-vs-json-on-200k-rows-so-you-dont-have-to-1m0p)
-- [Top AI Papers on Hugging Face - 2026-08-06](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-06-1mg4)
+- [Using dbt to Transform OpenSky Flight Data](https://dev.to/data_with_jelimo/using-dbt-to-transform-opensky-flight-data-2b51)
+- [Add an AI Image Generator to a Node.js SaaS App: Upload and Pricing Guardrails](https://dev.to/jaxmonroe3187/add-an-ai-image-generator-to-a-nodejs-saas-app-upload-and-pricing-guardrails-195g)
+- [Try a free EU VAT API in your next headless commerce project](https://dev.to/vasyl_kyryliuk/try-a-free-eu-vat-api-in-your-next-headless-commerce-project-544o)
+- [A Software Factory Is a Workflow, Not a Product. Build One in 20 Minutes.](https://dev.to/vsavkin/a-software-factory-is-a-workflow-not-a-product-build-one-in-20-minutes-3ka1)
 <!-- BLOG-POST-LIST:END -->
 
 
