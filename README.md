@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Semantic Search Engine for a Website](https://dev.to/multigrid/build-a-semantic-search-engine-for-a-website-ad)
-- [Build a Research Agent That Cites Its Sources](https://dev.to/multigrid/build-a-research-agent-that-cites-its-sources-4cg6)
-- [Build a RAG Pipeline From Scratch Without a Framework](https://dev.to/multigrid/build-a-rag-pipeline-from-scratch-without-a-framework-3bbl)
-- [Build a Document Q&amp;A App Over Your Own PDFs](https://dev.to/multigrid/build-a-document-qa-app-over-your-own-pdfs-3oa1)
+- [Don&#39;t Read the Code Your Agent Wrote — Make It Run the Gauntlet](https://dev.to/euk_ela_a3e7ed01aa3f7314e/dont-read-the-code-your-agent-wrote-make-it-run-the-gauntlet-45o)
+- [Embedding Dimensions: Does 3072 Beat 768?](https://dev.to/multigrid/embedding-dimensions-does-3072-beat-768-3833)
+- [The Email Every RAXXO Customer Gets After They Buy](https://dev.to/raxxostudios/the-email-every-raxxo-customer-gets-after-they-buy-18me)
+- [Deduplication at Scale With Embeddings](https://dev.to/multigrid/deduplication-at-scale-with-embeddings-2n5o)
 <!-- BLOG-POST-LIST:END -->
 
 
