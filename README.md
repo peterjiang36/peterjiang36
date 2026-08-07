@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing and Debugging MCP Applications: A Practical Production Guide](https://dev.to/sushyam_nagallapati/testing-and-debugging-mcp-applications-a-practical-production-guide-1gh8)
-- [I built a free online PDF toolbox that runs entirely in the browser](https://dev.to/xinxinxin2022/i-built-a-free-online-pdf-toolbox-that-runs-entirely-in-the-browser-5hlm)
-- [How to Find Hidden Programs Running on Windows &lpar;Before They Become a Security Problem&rpar;](https://dev.to/darkssel/how-to-find-hidden-programs-running-on-windows-before-they-become-a-security-problem-5ebd)
-- [I finally got an email address. Every door was still locked.](https://dev.to/marcosgcuenta1/i-finally-got-an-email-address-every-door-was-still-locked-2iim)
+- [Installing uBlock Origin in Google Chrome: workarounds and limitations &lpar;macOS&rpar;](https://dev.to/itlnx/installing-ublock-origin-in-google-chrome-workarounds-and-limitations-macos-3j93)
+- [Google Brings Gemini Omni Flash to Vids With Prompt-Based Video Editing](https://dev.to/alifar/google-brings-gemini-omni-flash-to-vids-with-prompt-based-video-editing-5gj2)
+- [Fixing Vitest CI Worker Crashes by Switching from jsdom to happy-dom](https://dev.to/janarthanan_soundararajan/fixing-vitest-ci-worker-crashes-by-switching-from-jsdom-to-happy-dom-1h95)
+- [TryHackMe : Infinity Pool Writeup](https://dev.to/exploitnotes/tryhackme-infinity-pool-writeup-49o8)
 <!-- BLOG-POST-LIST:END -->
 
 
