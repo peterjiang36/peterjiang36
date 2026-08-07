@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A UI test that guesses is worse than one that fails](https://dev.to/joduchan/a-ui-test-that-guesses-is-worse-than-one-that-fails-953)
-- [300 Customer Interviews Before Writing a Line of Code - The Discovery Process Behind Omnea](https://dev.to/stella_penso/300-customer-interviews-before-writing-a-line-of-code-the-discovery-process-behind-omnea-474)
-- [Designing a Better Random Pokémon Generator Around Discovery and Replayability](https://dev.to/leeswal123/designing-a-better-random-pokemon-generator-around-discovery-and-replayability-38n6)
-- [7 Habits of Developers Who Never Have to Optimize Later](https://dev.to/web_dev-usman/7-habits-of-developers-who-never-have-to-optimize-later-30gc)
+- [Testing and Debugging MCP Applications: A Practical Production Guide](https://dev.to/sushyam_nagallapati/testing-and-debugging-mcp-applications-a-practical-production-guide-1gh8)
+- [I built a free online PDF toolbox that runs entirely in the browser](https://dev.to/xinxinxin2022/i-built-a-free-online-pdf-toolbox-that-runs-entirely-in-the-browser-5hlm)
+- [How to Find Hidden Programs Running on Windows &lpar;Before They Become a Security Problem&rpar;](https://dev.to/darkssel/how-to-find-hidden-programs-running-on-windows-before-they-become-a-security-problem-5ebd)
+- [I finally got an email address. Every door was still locked.](https://dev.to/marcosgcuenta1/i-finally-got-an-email-address-every-door-was-still-locked-2iim)
 <!-- BLOG-POST-LIST:END -->
 
 
