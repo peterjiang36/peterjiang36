@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Ship an AI Feature Behind a Flag](https://dev.to/multigrid/when-to-ship-an-ai-feature-behind-a-flag-4mhl)
-- [Error Messages When the Model Fails](https://dev.to/multigrid/error-messages-when-the-model-fails-389a)
-- [The Energy and Water Cost of Inference](https://dev.to/multigrid/the-energy-and-water-cost-of-inference-13g1)
-- [AI and Economic Growth: What Models Predict](https://dev.to/multigrid/ai-and-economic-growth-what-models-predict-33fg)
+- [Build a Semantic Search Engine for a Website](https://dev.to/multigrid/build-a-semantic-search-engine-for-a-website-ad)
+- [Build a Research Agent That Cites Its Sources](https://dev.to/multigrid/build-a-research-agent-that-cites-its-sources-4cg6)
+- [Build a RAG Pipeline From Scratch Without a Framework](https://dev.to/multigrid/build-a-rag-pipeline-from-scratch-without-a-framework-3bbl)
+- [Build a Document Q&amp;A App Over Your Own PDFs](https://dev.to/multigrid/build-a-document-qa-app-over-your-own-pdfs-3oa1)
 <!-- BLOG-POST-LIST:END -->
 
 
