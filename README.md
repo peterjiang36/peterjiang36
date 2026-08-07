@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster](https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88)
-- [10 Ways Agentic Coding Will Transform Software Engineering in the Next Five Years](https://dev.to/ufomadu_nnaemeka_89/10-ways-agentic-coding-will-transform-software-engineering-in-the-next-five-years-5dn8)
-- [Shipping AI Content Provenance That Actually Survives Production &lpar;Post Article 50&rpar;](https://dev.to/ismail_haddou/shipping-ai-content-provenance-that-actually-survives-production-post-article-50-52df)
-- [What should an MCP tool return? I ran 72 trials instead of arguing](https://dev.to/lopster568/what-should-an-mcp-tool-return-i-ran-72-trials-instead-of-arguing-43b4)
+- [How I Built an AI Content Factory That Sounds Like Me](https://dev.to/alexiskroberson/how-i-built-an-ai-content-factory-that-sounds-like-me-8gc)
+- [Google Adds Notebooks to Gemini, Bringing Source-Backed Projects Into Its AI App](https://dev.to/alifar/google-adds-notebooks-to-gemini-bringing-source-backed-projects-into-its-ai-app-3pnk)
+- [I stopped letting GPT-5 babysit my inbox and the whole workflow got cheaper and better](https://dev.to/lars_winstand/i-stopped-letting-gpt-5-babysit-my-inbox-and-the-whole-workflow-got-cheaper-and-better-2bi5)
+- [Dos formas en que un backtest te miente &lpar;y cómo evitarlas&rpar;](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63)
 <!-- BLOG-POST-LIST:END -->
 
 
