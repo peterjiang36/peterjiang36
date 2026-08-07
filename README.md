@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LINE Service Messages vs Messaging API: Choose the Right Message Path](https://dev.to/unifyport/line-service-messages-vs-messaging-api-choose-the-right-message-path-2209)
-- [How asyncio Really Works Under the Hood](https://dev.to/turalmu95150474/how-asyncio-really-works-under-the-hood-7b8)
-- [One skill per action looked like the safe boundary](https://dev.to/michaeltruong/one-skill-per-action-looked-like-the-safe-boundary-13pj)
-- [Do you assume or confirm?](https://dev.to/gerardo_leon/do-you-assume-or-confirm-57m3)
+- [A UI test that guesses is worse than one that fails](https://dev.to/joduchan/a-ui-test-that-guesses-is-worse-than-one-that-fails-953)
+- [300 Customer Interviews Before Writing a Line of Code - The Discovery Process Behind Omnea](https://dev.to/stella_penso/300-customer-interviews-before-writing-a-line-of-code-the-discovery-process-behind-omnea-474)
+- [Designing a Better Random Pokémon Generator Around Discovery and Replayability](https://dev.to/leeswal123/designing-a-better-random-pokemon-generator-around-discovery-and-replayability-38n6)
+- [7 Habits of Developers Who Never Have to Optimize Later](https://dev.to/web_dev-usman/7-habits-of-developers-who-never-have-to-optimize-later-30gc)
 <!-- BLOG-POST-LIST:END -->
 
 
