@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Hybrid Image Analysis Application with Angular, Firebase AI Logic, and Gemini Nano](https://dev.to/gde/build-hybrid-image-analysis-application-with-angular-firebase-ai-logic-and-gemini-nano-1ipl)
-- [I built a headless timeline/Gantt for React — would love some feedback](https://dev.to/kriklivyy22/i-built-a-headless-timelinegantt-for-react-would-love-some-feedback-11da)
-- [How to Crush FAANG Interviews in 3 Months — Like Neo Learning Kung Fu](https://dev.to/timevolt/how-to-crush-faang-interviews-in-3-months-like-neo-learning-kung-fu-cjo)
-- [How I Built and Hosted an AI App Portfolio Using Google AI Studio at 15](https://dev.to/naitik_prajapati/how-i-built-and-hosted-an-ai-app-portfolio-using-google-ai-studio-at-15-ano)
+- [Try PickleAI: A Local AI Desktop Assistant Powered by Ollama](https://dev.to/pickleforge_labs/try-pickleai-a-local-ai-desktop-assistant-powered-by-ollama-32p2)
+- [The Obesity Epidemic in Modern Software: Why 2026 Apps Eat Gigabytes for Breakfast](https://dev.to/kaushikcoderpy/the-obesity-epidemic-in-modern-software-why-2026-apps-eat-gigabytes-for-breakfast-2hfa)
+- [LLD Data Structures in Design Context: The Biggest Lesson This Series Should Leave You With](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-the-biggest-lesson-this-series-should-leave-you-with-1k2i)
+- [The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)
 <!-- BLOG-POST-LIST:END -->
 
 
