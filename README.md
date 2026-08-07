@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Try PickleAI: A Local AI Desktop Assistant Powered by Ollama](https://dev.to/pickleforge_labs/try-pickleai-a-local-ai-desktop-assistant-powered-by-ollama-32p2)
-- [The Obesity Epidemic in Modern Software: Why 2026 Apps Eat Gigabytes for Breakfast](https://dev.to/kaushikcoderpy/the-obesity-epidemic-in-modern-software-why-2026-apps-eat-gigabytes-for-breakfast-2hfa)
-- [LLD Data Structures in Design Context: The Biggest Lesson This Series Should Leave You With](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-the-biggest-lesson-this-series-should-leave-you-with-1k2i)
-- [The Anatomy of IPv4 Address](https://dev.to/igwefran6/the-anatomy-of-ipv4-address-2io)
+- [Multi-Repo to Monorepo: How I Automated 6 Go Microservice Releases and Then Made It 15x Faster](https://dev.to/singhamandeep007/multi-repo-to-monorepo-how-i-automated-6-go-microservice-releases-and-then-made-it-15x-faster-4e88)
+- [10 Ways Agentic Coding Will Transform Software Engineering in the Next Five Years](https://dev.to/ufomadu_nnaemeka_89/10-ways-agentic-coding-will-transform-software-engineering-in-the-next-five-years-5dn8)
+- [Shipping AI Content Provenance That Actually Survives Production &lpar;Post Article 50&rpar;](https://dev.to/ismail_haddou/shipping-ai-content-provenance-that-actually-survives-production-post-article-50-52df)
+- [What should an MCP tool return? I ran 72 trials instead of arguing](https://dev.to/lopster568/what-should-an-mcp-tool-return-i-ran-72-trials-instead-of-arguing-43b4)
 <!-- BLOG-POST-LIST:END -->
 
 
