@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLD Design Patterns: What Problems Does SOLID Actually Solve?](https://dev.to/saras_growth_space/lld-design-patterns-what-problems-does-solid-actually-solve-3ol8)
-- [Why I Changed My Portfolio Domain from &quot;Kami Presents&quot; to &quot;Kamran Mushtaq&quot;](https://dev.to/kaamipresents/why-i-changed-my-portfolio-domain-from-kami-presents-to-kamran-mushtaq-5bll)
-- [Why We Calculate Astrology Charts Before Asking an LLM to Explain Them](https://dev.to/openfate_ai_8dd87834ba188/why-we-calculate-astrology-charts-before-asking-an-llm-to-explain-them-46c1)
-- [Python](https://dev.to/mahdi2244/python-1g0p)
+- [When to Ship an AI Feature Behind a Flag](https://dev.to/multigrid/when-to-ship-an-ai-feature-behind-a-flag-4mhl)
+- [Error Messages When the Model Fails](https://dev.to/multigrid/error-messages-when-the-model-fails-389a)
+- [The Energy and Water Cost of Inference](https://dev.to/multigrid/the-energy-and-water-cost-of-inference-13g1)
+- [AI and Economic Growth: What Models Predict](https://dev.to/multigrid/ai-and-economic-growth-what-models-predict-33fg)
 <!-- BLOG-POST-LIST:END -->
 
 
