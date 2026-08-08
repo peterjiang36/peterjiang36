@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [💀 The Most Dangerous Deletions Don&#39;t Break the Build. They Break the Deploy. An AI-Assisted Recovery Story 🤖](https://dev.to/velumal09/the-most-dangerous-deletions-dont-break-the-build-they-break-the-deploy-an-ai-assisted-3bk7)
-- [I Got Sick of Subscription Budget Apps. So I Built My Own With Telegram, Python, and a $0/Month Stack.](https://dev.to/rajesh_mudi/i-got-sick-of-subscription-budget-apps-so-i-built-my-own-with-telegram-python-and-a-0month-14lh)
-- [One bad Kafka record shouldn&#39;t crash a Flink Stateful Functions job](https://dev.to/okazimirov/one-bad-kafka-record-shouldnt-crash-a-flink-stateful-functions-job-117)
-- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
+- [Why I stopped guessing at Spark and dbt config values](https://dev.to/dorfarber/why-i-stopped-guessing-at-spark-and-dbt-config-values-1i2n)
+- [Debugging SAML SSO: How to Decode a SAMLResponse &lpar;and Why It&#39;s Sometimes Not XML&rpar;](https://dev.to/pjanderson/debugging-saml-sso-how-to-decode-a-samlresponse-and-why-its-sometimes-not-xml-pn3)
+- [Decoding a PowerShell -EncodedCommand During Incident Response &lpar;the UTF-16 gotcha&rpar;](https://dev.to/pjanderson/decoding-a-powershell-encodedcommand-during-incident-response-the-utf-16-gotcha-5a6i)
+- [When Lighthouse CI maintenance in CI/CD pipelines becomes a second job](https://dev.to/apogeewatcher/when-lighthouse-ci-maintenance-in-cicd-pipelines-becomes-a-second-job-347c)
 <!-- BLOG-POST-LIST:END -->
 
 
