@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping Ethically: A Practical Guide to Respectful Web Crawling](https://dev.to/aimigo_57e64d6aeaf6a67a02/scraping-ethically-a-practical-guide-to-respectful-web-crawling-4820)
-- [You built your modal with a `&lt;div&gt;` and a focus trap library. The native `&lt;dialog&gt;` does all of that.](https://dev.to/parsajiravand/you-built-your-modal-with-a-and-a-focus-trap-library-the-native-does-all-of-15lg)
-- [Stop importing `uuid`. `crypto.randomUUID&lpar;&rpar;` has been native since 2021.](https://dev.to/parsajiravand/stop-importing-uuid-cryptorandomuuid-has-been-native-since-2021-ehm)
-- [rulsynor-core v1.0: An AI Agent You Can Audit](https://dev.to/haorantang/rulsynor-core-v10-an-ai-agent-you-can-audit-oie)
+- [Open-Weight vs Closed-Weight AI Models: What It Means for You](https://dev.to/akbar_952c24f291bf201eb0c/open-weight-vs-closed-weight-ai-models-what-it-means-for-you-5340)
+- [Most Verification Is Just Bigger Classification](https://dev.to/harryfloyd/most-verification-is-just-bigger-classification-42g8)
+- [The Average Is Nobody&#39;s Result](https://dev.to/harryfloyd/the-average-is-nobodys-result-5hln)
+- [Your Robot Coworker Is Still a Pilot](https://dev.to/harryfloyd/your-robot-coworker-is-still-a-pilot-12n1)
 <!-- BLOG-POST-LIST:END -->
 
 
