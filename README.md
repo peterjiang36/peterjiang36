@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Git Worktrees Improve AI Coding Workflows](https://dev.to/evbermudez/how-git-worktrees-improve-ai-coding-workflows-5afd)
-- [AIOps Agents for Kubernetes Human-in-the-Loop Remediation on GCP](https://dev.to/gde/aiops-agents-for-kubernetes-human-in-the-loop-remediation-on-gcp-4l5i)
-- [I Gave Five AI Systems the Same Architecture Test 10 Times. The Test Became More Interesting Than the Models](https://dev.to/neonalt9/i-gave-five-ai-systems-the-same-architecture-test-10-times-the-test-became-more-interesting-than-572)
-- [Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)
+- [WeatherNext: DeepMind gana 24 horas de anticipación en huracanes](https://dev.to/lu1tr0n/weathernext-deepmind-gana-24-horas-de-anticipacion-en-huracanes-30bp)
+- [Evaluating Amazon Bedrock Knowledge Base RAG using LLM-as-a-Judge](https://dev.to/lingesh18/evaluating-amazon-bedrock-knowledge-base-rag-using-llm-as-a-judge-3koi)
+- [Building an Automated AWS Security Advisor: RAG with AWS Bedrock and OpenSearch Serverless](https://dev.to/lingesh18/building-an-automated-aws-security-advisor-rag-with-aws-bedrock-and-opensearch-serverless-4emg)
+- [What Our AI Agent Still Can&#39;t Do](https://dev.to/trynocoder/what-our-ai-agent-still-cant-do-fm3)
 <!-- BLOG-POST-LIST:END -->
 
 
