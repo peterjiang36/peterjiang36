@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 5: Coordinating Two Zones at Once](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-5-coordinating-two-zones-at-once-2c17)
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 4: Letting a Human Step In](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-4-letting-a-human-step-in-5die)
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 3: Giving the Agent Memory](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-3-giving-the-agent-memory-obb)
-- [Building a Ride-Share Zone-Balancing Agent with LangGraph — Part 2: Teaching the Agent to Read Ops Notes](https://dev.to/ebrahim_arian_37097b72c7e/building-a-ride-share-zone-balancing-agent-with-langgraph-part-2-teaching-the-agent-to-read-ops-3706)
+- [SPOKE: The RP2040 Touch Controller That Plays Music From Fruit](https://dev.to/circuitrocks/spoke-the-rp2040-touch-controller-that-plays-music-from-fruit-4o57)
+- [Memory Is the Bottleneck, but Not Forever](https://dev.to/invisiblehill/memory-is-the-bottleneck-but-not-forever-5e35)
+- [Day 29/30: Deploying LangGraph + MCP](https://dev.to/yashwanth_kasi/day-2930-deploying-langgraph-mcp-4l3k)
+- [Bitcoin’s Quantum Problem Is a Governance Problem](https://dev.to/invisiblehill/bitcoins-quantum-problem-is-a-governance-problem-j1j)
 <!-- BLOG-POST-LIST:END -->
 
 
