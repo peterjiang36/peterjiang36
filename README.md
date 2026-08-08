@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SPOKE: The RP2040 Touch Controller That Plays Music From Fruit](https://dev.to/circuitrocks/spoke-the-rp2040-touch-controller-that-plays-music-from-fruit-4o57)
-- [Memory Is the Bottleneck, but Not Forever](https://dev.to/invisiblehill/memory-is-the-bottleneck-but-not-forever-5e35)
-- [Day 29/30: Deploying LangGraph + MCP](https://dev.to/yashwanth_kasi/day-2930-deploying-langgraph-mcp-4l3k)
-- [Bitcoin’s Quantum Problem Is a Governance Problem](https://dev.to/invisiblehill/bitcoins-quantum-problem-is-a-governance-problem-j1j)
+- [The One Question That Stops an AI Voice Scam Cold](https://dev.to/shortlivedage/the-one-question-that-stops-an-ai-voice-scam-cold-358d)
+- [My AI agents shipped 128 releases of a product no one ever used](https://dev.to/guschiriboga/my-ai-agents-shipped-128-releases-of-a-product-no-one-ever-used-1045)
+- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c)
+- [How Can AI Help Lazy Programmers?](https://dev.to/zijianhuang/how-can-ai-help-lazy-programmers-3c5o)
 <!-- BLOG-POST-LIST:END -->
 
 
