@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Weight vs Closed-Weight AI Models: What It Means for You](https://dev.to/akbar_952c24f291bf201eb0c/open-weight-vs-closed-weight-ai-models-what-it-means-for-you-5340)
-- [Most Verification Is Just Bigger Classification](https://dev.to/harryfloyd/most-verification-is-just-bigger-classification-42g8)
-- [The Average Is Nobody&#39;s Result](https://dev.to/harryfloyd/the-average-is-nobodys-result-5hln)
-- [Your Robot Coworker Is Still a Pilot](https://dev.to/harryfloyd/your-robot-coworker-is-still-a-pilot-12n1)
+- [My AI Answered in 5.8 Seconds and Said Nothing Useful. I Almost Blamed the Model.](https://dev.to/nomurasan/my-ai-answered-in-58-seconds-and-said-nothing-useful-i-almost-blamed-the-model-fh1)
+- [Domain-Driven Infrastructure: Organize Your Terraform by Reason to Change](https://dev.to/tomozayasu/domain-driven-infrastructure-organize-your-terraform-by-reason-to-change-202b)
+- [AI Models Keep Escaping Sandboxes. First OpenAI. Then Anthropic. Now Kimi.](https://dev.to/mohitgeryani/ai-models-keep-escaping-sandboxes-first-openai-then-anthropic-now-kimi-86d)
+- [Avoiding the 5 Mistakes Most Tutorials Make When Creating a File Encryption Tool](https://dev.to/aditeeniraula/avoiding-the-5-mistakes-most-tutorials-make-when-creating-a-file-encryption-tool-1nbe)
 <!-- BLOG-POST-LIST:END -->
 
 
