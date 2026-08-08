@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Domain Investigate APIs That Cut Due Diligence Time](https://dev.to/onizuka/5-free-domain-investigate-apis-that-cut-due-diligence-time-134g)
-- [F# vs C# — Orchestrators](https://dev.to/it-fachbereich/f-vs-c-orchestrators-505b)
-- [Every web rich-text editor is missing a ruler](https://dev.to/jlc488/every-web-rich-text-editor-is-missing-a-ruler-10go)
-- [Spot Cross-Exchange Crypto Spreads in Minutes — Open Source Monitor &lpar;MIT&rpar;](https://dev.to/micha_919009f8389/spot-cross-exchange-crypto-spreads-in-minutes-open-source-monitor-mit-3pb0)
+- [Teaching Your AI Web Design Some Actual Taste](https://dev.to/lovestaco/teaching-your-ai-web-design-some-actual-taste-4p13)
+- [Ninety Lines of Terraform, One Whole AWS Network](https://dev.to/joseph_davis_ac8d4e74eced/ninety-lines-of-terraform-one-whole-aws-network-3489)
+- [Extending Slugs Across Templates and Entities for Deterministic API Workflows](https://dev.to/homeless-coder/extending-slugs-across-templates-and-entities-for-deterministic-api-workflows-5fm3)
+- [The ₹1 That Costs ₹62,400: Modelling India&#39;s Tax Slabs Without Cliff-Edge Bugs](https://dev.to/monu_kumar/the-1-that-costs-62400-modelling-indias-tax-slabs-without-cliff-edge-bugs-5fgm)
 <!-- BLOG-POST-LIST:END -->
 
 
