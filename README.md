@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Answered in 5.8 Seconds and Said Nothing Useful. I Almost Blamed the Model.](https://dev.to/nomurasan/my-ai-answered-in-58-seconds-and-said-nothing-useful-i-almost-blamed-the-model-fh1)
-- [Domain-Driven Infrastructure: Organize Your Terraform by Reason to Change](https://dev.to/tomozayasu/domain-driven-infrastructure-organize-your-terraform-by-reason-to-change-202b)
-- [AI Models Keep Escaping Sandboxes. First OpenAI. Then Anthropic. Now Kimi.](https://dev.to/mohitgeryani/ai-models-keep-escaping-sandboxes-first-openai-then-anthropic-now-kimi-86d)
-- [Avoiding the 5 Mistakes Most Tutorials Make When Creating a File Encryption Tool](https://dev.to/aditeeniraula/avoiding-the-5-mistakes-most-tutorials-make-when-creating-a-file-encryption-tool-1nbe)
+- [What Should You Send a Rive Animator Before Starting a Project?](https://dev.to/uianimation/what-should-you-send-a-rive-animator-before-starting-a-project-2j1)
+- [Removing AI Tells from Your Writing: A Skill That Turns One Flag into a Permanent Rule](https://dev.to/johnonlee/removing-ai-tells-from-your-writing-a-skill-that-turns-one-flag-into-a-permanent-rule-3fd)
+- [EffCSS hydration: server work, client trust, zero waste](https://dev.to/effnd/effcss-hydration-server-work-client-trust-zero-waste-318m)
+- [I Found the Perfect Software Architecture Course for Senior Developers, and It’s Awesome](https://dev.to/somadevtoo/i-found-the-perfect-software-architecture-course-for-senior-developers-and-its-awesome-2bij)
 <!-- BLOG-POST-LIST:END -->
 
 
