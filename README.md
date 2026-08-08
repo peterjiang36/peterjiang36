@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [# Why I’m Rewriting a PHP Extension in C23, Not C++](https://dev.to/malusev998/why-i-use-c-instead-of-c-for-php-extensions-6g8)
-- [What Is Actually Inside the DOE&#39;s Genesis Open Models Initiative?](https://dev.to/vin-patel/what-is-actually-inside-the-does-genesis-open-models-initiative-1joi)
-- [Redbelly Network Troubleshooting Guide: 22 Common Developer Errors and Their Fixes](https://dev.to/isaac_atunbi_c2ed2489e89c/redbelly-network-troubleshooting-guide-22-common-developer-errors-and-their-fixes-1g26)
-- [Stale infrastructure context is worse than none](https://dev.to/siddharth_pandey_27/stale-infrastructure-context-is-worse-than-none-2npa)
+- [5 Free Domain Investigate APIs That Cut Due Diligence Time](https://dev.to/onizuka/5-free-domain-investigate-apis-that-cut-due-diligence-time-134g)
+- [F# vs C# — Orchestrators](https://dev.to/it-fachbereich/f-vs-c-orchestrators-505b)
+- [Every web rich-text editor is missing a ruler](https://dev.to/jlc488/every-web-rich-text-editor-is-missing-a-ruler-10go)
+- [Spot Cross-Exchange Crypto Spreads in Minutes — Open Source Monitor &lpar;MIT&rpar;](https://dev.to/micha_919009f8389/spot-cross-exchange-crypto-spreads-in-minutes-open-source-monitor-mit-3pb0)
 <!-- BLOG-POST-LIST:END -->
 
 
