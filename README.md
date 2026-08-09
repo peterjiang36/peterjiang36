@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Pasting Figma Screenshots into Claude Fails &lpar;And What to Use Instead&rpar;](https://dev.to/romantsisyk/why-pasting-figma-screenshots-into-claude-fails-and-what-to-use-instead-46d0)
-- [Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable](https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n)
-- [Ghidra internals: Where are my logs ?](https://dev.to/ddupard/ghidra-internals-where-are-my-logs--p3n)
-- [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
+- [[EN] Infrastructure Lifecycle Management: Provisioning vs Decommissioning](https://dev.to/cedon/en-infrastructure-lifecycle-management-provisioning-vs-decommissioning-3f1a)
+- [Mi primer intento con agentes de IA fracasó. El problema no era el modelo](https://dev.to/saulemprendedor/mi-primer-intento-con-agentes-de-ia-fracaso-el-problema-no-era-el-modelo-4eoh)
+- [Postgres Full-Text Search in Production: How to Load-Test the Index and Pin Down Relevance](https://dev.to/libme/postgres-full-text-search-in-production-how-to-load-test-the-index-and-pin-down-relevance-282b)
+- [How I built BrawlerStats: honest trophy history with Firebase and Cloud Run](https://dev.to/brawlerstats/how-i-built-brawlerstats-honest-trophy-history-with-firebase-and-cloud-run-4bl2)
 <!-- BLOG-POST-LIST:END -->
 
 
