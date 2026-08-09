@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Metaverse Failed. Augmented Reality Didn&#39;t.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
-- [I Built a React Performance Analyzer Because Lighthouse Wasn&#39;t Telling Me Why](https://dev.to/ozma/i-built-a-react-performance-analyzer-because-lighthouse-wasnt-telling-me-why-3pal)
-- [Building a look-first AI image generator instead of another blank prompt box](https://dev.to/eudy/building-a-look-first-ai-image-generator-instead-of-another-blank-prompt-box-3deo)
-- [Nvidia Is Buying a Call Option on Power](https://dev.to/deanlee/nvidia-is-buying-a-call-option-on-power-3j5e)
+- [A Philosophy for AI Agents](https://dev.to/iroha1203/a-philosophy-for-ai-agents-e6m)
+- [The Agent Stack Is Filling In. The Judgment Layer Is Still an Open Problem](https://dev.to/kikashy/the-agent-stack-is-filling-in-the-judgment-layer-is-still-an-open-problem-40g2)
+- [Learning, Building &amp; Teaching: My Journey Begins on DEV](https://dev.to/sana_noor/learning-building-teaching-my-journey-begins-on-dev-2ida)
+- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
 <!-- BLOG-POST-LIST:END -->
 
 
