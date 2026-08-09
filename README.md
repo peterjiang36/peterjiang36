@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Philosophy for AI Agents](https://dev.to/iroha1203/a-philosophy-for-ai-agents-e6m)
-- [The Agent Stack Is Filling In. The Judgment Layer Is Still an Open Problem](https://dev.to/kikashy/the-agent-stack-is-filling-in-the-judgment-layer-is-still-an-open-problem-40g2)
-- [Learning, Building &amp; Teaching: My Journey Begins on DEV](https://dev.to/sana_noor/learning-building-teaching-my-journey-begins-on-dev-2ida)
-- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
+- [Where Does Judgment End and Runtime Policy Begin?](https://dev.to/kikashy/where-does-judgment-end-and-runtime-policy-begin-59cf)
+- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c)
+- [Cpynet a pastebin you talk to with curl, that forgets everything you send it](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)
+- [Topic selected: Option A – Purely Technical: &quot;Building a Secure AI Proxy for Browser Tools](https://dev.to/obed_avorlenu/topic-selected-option-a-purely-technical-building-a-secure-ai-proxy-for-browser-tools-5bc)
 <!-- BLOG-POST-LIST:END -->
 
 
