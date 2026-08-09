@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Exact Cognizant GenC Interview Experience &amp; Hiring Process &lpar;2025–2026&rpar;](https://dev.to/divyanshuraj/my-exact-cognizant-genc-interview-experience-hiring-process-2025-2026-c49)
-- [Head Mare Breaches TrueConf: From SYSTEM Privileges to Trojanized Legitimate Client Updates](https://dev.to/anoymask/head-mare-breaches-trueconf-from-system-privileges-to-trojanized-legitimate-client-updates-1ke1)
-- [RovoBlast: One-Click Hijacking of Enterprise AI Permissions for Data Exfiltration](https://dev.to/anoymask/rovoblast-one-click-hijacking-of-enterprise-ai-permissions-for-data-exfiltration-48ob)
-- [Your agent loop is teaching the model to cheat](https://dev.to/q00/your-agent-loop-is-teaching-the-model-to-cheat-48oa)
+- [Build a Two-Phase Tool Boundary for a Tencent RTC Voice Companion](https://dev.to/susiewang/build-a-two-phase-tool-boundary-for-a-tencent-rtc-voice-companion-51ap)
+- [I Thought Better Models Would Fix AI Image Editing. I Was Wrong.](https://dev.to/gaven/i-thought-better-models-would-fix-ai-image-editing-i-was-wrong-5ak)
+- [OSINT prompts for ChatGPT and Claude: the circular-reporting screen analysts use, in full](https://dev.to/beeswaxpat/osint-prompts-for-chatgpt-and-claude-the-circular-reporting-screen-analysts-use-in-full-466)
+- [Shopify Replaced Redis With MySQL for Inventory Reservations — and It Scaled Better](https://dev.to/trismegistus/shopify-replaced-redis-with-mysql-for-inventory-reservations-and-it-scaled-better-4ak9)
 <!-- BLOG-POST-LIST:END -->
 
 
