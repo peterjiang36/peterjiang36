@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find the Beat of a Song &lpar;BPM + Key&rpar;](https://dev.to/ifeelvoid/how-to-find-the-beat-of-a-song-bpm-key-507e)
-- [Building a Production WhatsApp AI Agent: Architecture That Actually Works](https://dev.to/alessandrobinda114/building-a-production-whatsapp-ai-agent-architecture-that-actually-works-2gfd)
-- [We generated ~32,000 self-contained build prompts for Midnight &lpar;and learned the hard way&rpar;](https://dev.to/socialprescribing/we-generated-32000-self-contained-build-prompts-for-midnight-and-learned-the-hard-way-2koa)
-- [How the IO-Link IODD checksum works](https://dev.to/calumk/how-the-io-link-iodd-checksum-works-2jbp)
+- [Why Pasting Figma Screenshots into Claude Fails &lpar;And What to Use Instead&rpar;](https://dev.to/romantsisyk/why-pasting-figma-screenshots-into-claude-fails-and-what-to-use-instead-46d0)
+- [Your Serverless Cron Job Failed Silently at 3AM: Making Event-Driven Jobs Reliable](https://dev.to/libme/your-serverless-cron-job-failed-silently-at-3am-making-event-driven-jobs-reliable-83n)
+- [Ghidra internals: Where are my logs ?](https://dev.to/ddupard/ghidra-internals-where-are-my-logs--p3n)
+- [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
 <!-- BLOG-POST-LIST:END -->
 
 
