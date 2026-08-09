@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
-- [I Built an AI Coat of Arms Maker for Custom Crests and Fantasy Emblems](https://dev.to/edwardartist/i-built-an-ai-coat-of-arms-maker-for-custom-crests-and-fantasy-emblems-4i4d)
-- [A 50-capability map for governed web crawling and AI agents](https://dev.to/ajnasnb7717/a-50-capability-map-for-governed-web-crawling-and-ai-agents-2c6i)
-- [When is it safe to open the microphone? Building a realtime voice agent on Twilio](https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo)
+- [The Metaverse Failed. Augmented Reality Didn&#39;t.](https://dev.to/sampseiol1/the-metaverse-failed-augmented-reality-didnt-58oc)
+- [I Built a React Performance Analyzer Because Lighthouse Wasn&#39;t Telling Me Why](https://dev.to/ozma/i-built-a-react-performance-analyzer-because-lighthouse-wasnt-telling-me-why-3pal)
+- [Building a look-first AI image generator instead of another blank prompt box](https://dev.to/eudy/building-a-look-first-ai-image-generator-instead-of-another-blank-prompt-box-3deo)
+- [Nvidia Is Buying a Call Option on Power](https://dev.to/deanlee/nvidia-is-buying-a-call-option-on-power-3j5e)
 <!-- BLOG-POST-LIST:END -->
 
 
