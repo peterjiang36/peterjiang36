@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Built an open-source MCP Conformance Scanner](https://dev.to/ak1ng/built-an-open-source-mcp-conformance-scanner-7op)
-- [5 LAN File Transfer Tools Compared: Up to 40x Faster Than Cloud, Two Don&#39;t Even Need Installation](https://dev.to/cdragon123code/5-lan-file-transfer-tools-compared-up-to-40x-faster-than-cloud-two-dont-even-need-installation-31bh)
-- [Where Does RAG Actually Cost You Money? &lpar;Episode 6&rpar;](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-episode-6-4l4o)
-- [Three things the Lemon Squeezy API docs don&#39;t tell you about failed payments](https://dev.to/hafid_boulaoutaq_a70aab58/three-things-the-lemon-squeezy-api-docs-dont-tell-you-about-failed-payments-40c1)
+- [Unit Testing in BlocSignal: The Practical Handbook](https://dev.to/gde/unit-testing-in-blocsignal-the-practical-handbook-17o1)
+- [I Built an AI Coat of Arms Maker for Custom Crests and Fantasy Emblems](https://dev.to/edwardartist/i-built-an-ai-coat-of-arms-maker-for-custom-crests-and-fantasy-emblems-4i4d)
+- [A 50-capability map for governed web crawling and AI agents](https://dev.to/ajnasnb7717/a-50-capability-map-for-governed-web-crawling-and-ai-agents-2c6i)
+- [When is it safe to open the microphone? Building a realtime voice agent on Twilio](https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo)
 <!-- BLOG-POST-LIST:END -->
 
 
