@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Reusable Components Keep Breaking &lpar;And How to Fix Your API Design&rpar;](https://dev.to/joemetry/why-your-reusable-components-keep-breaking-and-how-to-fix-your-api-design-3pld)
-- [Async-First Doesn’t Mean Async-Only](https://dev.to/tohru_yaginuma_4f041533c6/async-first-doesnt-mean-async-only-ebm)
-- [I tested my security extension against 20 real sites and found three bugs - in my own tool](https://dev.to/bright_asarebediako_a70d/i-tested-my-security-extension-against-20-real-sites-and-found-three-bugs-in-my-own-tool-36nn)
-- [Swapping Across 25 Models With One Line](https://dev.to/devopsdaily/swapping-across-25-models-with-one-line-3je8)
+- [How to Find the Beat of a Song &lpar;BPM + Key&rpar;](https://dev.to/ifeelvoid/how-to-find-the-beat-of-a-song-bpm-key-507e)
+- [Building a Production WhatsApp AI Agent: Architecture That Actually Works](https://dev.to/alessandrobinda114/building-a-production-whatsapp-ai-agent-architecture-that-actually-works-2gfd)
+- [We generated ~32,000 self-contained build prompts for Midnight &lpar;and learned the hard way&rpar;](https://dev.to/socialprescribing/we-generated-32000-self-contained-build-prompts-for-midnight-and-learned-the-hard-way-2koa)
+- [How the IO-Link IODD checksum works](https://dev.to/calumk/how-the-io-link-iodd-checksum-works-2jbp)
 <!-- BLOG-POST-LIST:END -->
 
 
