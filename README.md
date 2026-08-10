@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Auto Mode: What Still Needs a Human](https://dev.to/alberto_arena_25a48484ed5/claude-code-auto-mode-what-still-needs-a-human-kg5)
-- [A Disposable Sandbox Pattern for Testing AI Coding Agents Safely](https://dev.to/gitrs_5994/a-disposable-sandbox-pattern-for-testing-ai-coding-agents-safely-452j)
-- [Looking for people to build hackathon projects with, including people still learning to code](https://dev.to/casperday11/looking-for-people-to-build-hackathon-projects-with-including-people-still-learning-to-code-1njo)
-- [Zero-Knowledge Age Verification on Midnight: How Compact Enables Private On-Chain Data](https://dev.to/midnight-aliit/zero-knowledge-age-verification-on-midnight-how-compact-enables-private-on-chain-data-139g)
+- [Cómo solucionar el error \&quot;Text content does not match server-rendered HTML\&quot; en Next.js App Router](https://dev.to/erickeduardoramos03/como-solucionar-el-error-text-content-does-not-match-server-rendered-html-en-nextjs-app-router-3905)
+- [Why I Don&#39;t Put Tenant-Specific Validation in My FastAPI Endpoints](https://dev.to/sansk_ya/why-i-dont-put-tenant-specific-validation-in-my-fastapi-endpoints-5e4l)
+- [How SSL Certificates Work: Chains of Trust and Why Yours Expired](https://dev.to/arnavsharma2711/how-ssl-certificates-work-chains-of-trust-and-why-yours-expired-2g1i)
+- [What Happens During a TLS Handshake?](https://dev.to/arnavsharma2711/what-happens-during-a-tls-handshake-1mk7)
 <!-- BLOG-POST-LIST:END -->
 
 
