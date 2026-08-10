@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[EN] Infrastructure Lifecycle Management: Provisioning vs Decommissioning](https://dev.to/cedon/en-infrastructure-lifecycle-management-provisioning-vs-decommissioning-3f1a)
-- [Mi primer intento con agentes de IA fracasó. El problema no era el modelo](https://dev.to/saulemprendedor/mi-primer-intento-con-agentes-de-ia-fracaso-el-problema-no-era-el-modelo-4eoh)
-- [Postgres Full-Text Search in Production: How to Load-Test the Index and Pin Down Relevance](https://dev.to/libme/postgres-full-text-search-in-production-how-to-load-test-the-index-and-pin-down-relevance-282b)
-- [How I built BrawlerStats: honest trophy history with Firebase and Cloud Run](https://dev.to/brawlerstats/how-i-built-brawlerstats-honest-trophy-history-with-firebase-and-cloud-run-4bl2)
+- [Too lazy for Bash: My life with a local AI assistant](https://dev.to/codisfy/too-lazy-for-bash-my-life-with-a-local-ai-assistant-25pb)
+- [Sharepoint List Study 20260800](https://dev.to/yili_zhang_flow/sharepoint-list-study-20260800-46o6)
+- [Dev Log: 2026-08-09 — 72 classes that should have been 8 rows, and a compliance clock](https://dev.to/nasrulhazim/dev-log-2026-08-09-72-classes-that-should-have-been-8-rows-and-a-compliance-clock-25h0)
+- [A driver that quietly does nothing is worse than one that isn&#39;t there](https://dev.to/nasrulhazim/a-driver-that-quietly-does-nothing-is-worse-than-one-that-isnt-there-61m)
 <!-- BLOG-POST-LIST:END -->
 
 
