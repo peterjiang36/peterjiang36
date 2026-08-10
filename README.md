@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A CVSS 10.0 in Your AI Coding Agent Is Just TOCTOU Wearing a Hoodie](https://dev.to/coridev/a-cvss-100-in-your-ai-coding-agent-is-just-toctou-wearing-a-hoodie-31jj)
-- [Building a Non-Blocking JPG-to-SVG Converter in the Browser with WebAssembly](https://dev.to/chynna_he_0cf22e351a30185/building-a-non-blocking-jpg-to-svg-converter-in-the-browser-with-webassembly-3peg)
-- [ASTC Isn&#39;t Automatically the Right Answer: Mobile Texture Formats for Unity on iOS and Android](https://dev.to/gamedevtoollab/astc-isnt-automatically-the-right-answer-mobile-texture-formats-for-unity-on-ios-and-android-4m5g)
-- [How to Build a Browser-Based Ringtone Editor with the Web Audio API](https://dev.to/athena886/how-to-build-a-browser-based-ringtone-editor-with-the-web-audio-api-3hp4)
+- [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf)
+- [Building a support agent that refuses to make things up](https://dev.to/bynevolabs/building-a-support-agent-that-refuses-to-make-things-up-4g4l)
+- [prerender/prerender is gone — a Playwright-based replacement](https://dev.to/lukapozega/prerenderprerender-is-gone-a-playwright-based-replacement-48j3)
+- [Inside DDoS Mitigation: The Methods and Tools That Keep Modern Websites Online](https://dev.to/ddos_expert/inside-ddos-mitigation-the-methods-and-tools-that-keep-modern-websites-online-5900)
 <!-- BLOG-POST-LIST:END -->
 
 
