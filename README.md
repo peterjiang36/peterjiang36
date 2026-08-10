@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Clouds, Three Native Agents](https://dev.to/gde/three-clouds-three-native-agents-3egf)
-- [Building a support agent that refuses to make things up](https://dev.to/bynevolabs/building-a-support-agent-that-refuses-to-make-things-up-4g4l)
-- [prerender/prerender is gone — a Playwright-based replacement](https://dev.to/lukapozega/prerenderprerender-is-gone-a-playwright-based-replacement-48j3)
-- [Inside DDoS Mitigation: The Methods and Tools That Keep Modern Websites Online](https://dev.to/ddos_expert/inside-ddos-mitigation-the-methods-and-tools-that-keep-modern-websites-online-5900)
+- [Voltei ao DEV: o que mudou depois de 25 anos programando](https://dev.to/asllanmaciel/voltei-ao-dev-o-que-mudou-depois-de-25-anos-programando-1ikl)
+- [Polyfills, Shims, and Native Modules: Lessons from Building a React Native Crypto Wallet](https://dev.to/adilmezghouti/polyfills-shims-and-native-modules-lessons-from-building-a-react-native-crypto-wallet-4acc)
+- [Designing an Online Auction / Bidding System](https://dev.to/brawnybytes/designing-an-online-auction-bidding-system-1m2i)
+- [Building a Lightweight Knowledge Base for a Small Team: Migrating from Nextcloud to Cloudreve](https://dev.to/shangyin/building-a-lightweight-knowledge-base-for-a-small-team-migrating-from-nextcloud-to-cloudreve-42fi)
 <!-- BLOG-POST-LIST:END -->
 
 
