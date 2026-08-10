@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 2.9. API Design Principles of Obviousness - Documentation and Type System, Semantic Types, and Zero-Sized Types](https://dev.to/someb1oody/advanced-rust-29-api-design-principles-of-obviousness-documentation-and-type-system-semantic-22m4)
-- [Porting qs to Go: an honest account](https://dev.to/realist/porting-qs-to-go-an-honest-account-5e4l)
-- [Anthropic Claude Riemann Hypothesis Claim Highlights the Need for Verifiable AI Math Research](https://dev.to/alifar/anthropic-claude-riemann-hypothesis-claim-highlights-the-need-for-verifiable-ai-math-research-mk5)
-- [Convergent evidence](https://dev.to/thekilteddev/convergent-evidence-3ohk)
+- [6 Best Stock Market MCP Servers in 2026: Real-Time &amp; SEC Data](https://dev.to/daniel_oliveira_4bd55d35d/6-best-stock-market-mcp-servers-in-2026-real-time-sec-data-je9)
+- [Five files that go in before the agent writes a line](https://dev.to/mikobuilds/five-files-that-go-in-before-the-agent-writes-a-line-580e)
+- [Spec Driven Development: What It Fixes &lpar;and Breaks&rpar;](https://dev.to/mudassirworks/spec-driven-development-what-it-fixes-and-breaks-1co3)
+- [I&#39;m building Kumo, a terminal multiplexer for the AI agent era](https://dev.to/marcrdgz/im-building-kumo-a-terminal-multiplexer-for-the-ai-agent-era-383e)
 <!-- BLOG-POST-LIST:END -->
 
 
