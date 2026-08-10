@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Too lazy for Bash: My life with a local AI assistant](https://dev.to/codisfy/too-lazy-for-bash-my-life-with-a-local-ai-assistant-25pb)
-- [Sharepoint List Study 20260800](https://dev.to/yili_zhang_flow/sharepoint-list-study-20260800-46o6)
-- [Dev Log: 2026-08-09 — 72 classes that should have been 8 rows, and a compliance clock](https://dev.to/nasrulhazim/dev-log-2026-08-09-72-classes-that-should-have-been-8-rows-and-a-compliance-clock-25h0)
-- [A driver that quietly does nothing is worse than one that isn&#39;t there](https://dev.to/nasrulhazim/a-driver-that-quietly-does-nothing-is-worse-than-one-that-isnt-there-61m)
+- [Head-of-Line Blocking in HTTP](https://dev.to/turalmu95150474/head-of-line-blocking-in-http-4mn2)
+- [ATProto for Distributed Systems Engineers: How Bluesky&#39;s Protocol Reimagines Social Infrastructure](https://dev.to/trismegistus/atproto-for-distributed-systems-engineers-how-blueskys-protocol-reimagines-social-infrastructure-25lm)
+- [Linux Practical Set B Solution – Vowels Count &amp; Case Conversion](https://dev.to/teamworkfahad/linux-practical-set-b-solution-vowels-count-case-conversion-j9l)
+- [Resilient UIs: Next.js Error Handling &amp; Observability 🚨](https://dev.to/iprajapatiparesh/resilient-uis-nextjs-error-handling-observability-3nnd)
 <!-- BLOG-POST-LIST:END -->
 
 
