@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Head-of-Line Blocking in HTTP](https://dev.to/turalmu95150474/head-of-line-blocking-in-http-4mn2)
-- [ATProto for Distributed Systems Engineers: How Bluesky&#39;s Protocol Reimagines Social Infrastructure](https://dev.to/trismegistus/atproto-for-distributed-systems-engineers-how-blueskys-protocol-reimagines-social-infrastructure-25lm)
-- [Linux Practical Set B Solution – Vowels Count &amp; Case Conversion](https://dev.to/teamworkfahad/linux-practical-set-b-solution-vowels-count-case-conversion-j9l)
-- [Resilient UIs: Next.js Error Handling &amp; Observability 🚨](https://dev.to/iprajapatiparesh/resilient-uis-nextjs-error-handling-observability-3nnd)
+- [Building APIs: Backend API Concepts And When To Use Them](https://dev.to/towernter/building-apis-backend-api-concepts-and-when-to-use-them-32hh)
+- [Make fail2ban report its bans to a community blacklist](https://dev.to/fcalculator/make-fail2ban-report-its-bans-to-a-community-blacklist-288g)
+- [How to Sync Two Browser Tabs with JavaScript](https://dev.to/certosinolab/how-to-sync-two-browser-tabs-with-javascript-108l)
+- [Background Jobs on Vercel in 2026: Field Notes on waitUntil, Queues, Workflow, and Cron](https://dev.to/ahmed_mahmoud360/background-jobs-on-vercel-in-2026-field-notes-on-waituntil-queues-workflow-and-cron-1l6g)
 <!-- BLOG-POST-LIST:END -->
 
 
