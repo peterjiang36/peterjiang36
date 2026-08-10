@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build A Calculator Using Python](https://dev.to/faith_ondiege_6e7c59f9ac3/build-a-calculator-using-python-2f57)
-- [AI Security Training for Defense Industrial Base Companies](https://dev.to/cgivre/ai-security-training-for-defense-industrial-base-companies-281a)
-- [LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI](https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a)
-- [Dynamic Programming: The Avengers Assemble](https://dev.to/timevolt/dynamic-programming-the-avengers-assemble-2e77)
+- [[Advanced Rust] 2.9. API Design Principles of Obviousness - Documentation and Type System, Semantic Types, and Zero-Sized Types](https://dev.to/someb1oody/advanced-rust-29-api-design-principles-of-obviousness-documentation-and-type-system-semantic-22m4)
+- [Porting qs to Go: an honest account](https://dev.to/realist/porting-qs-to-go-an-honest-account-5e4l)
+- [Anthropic Claude Riemann Hypothesis Claim Highlights the Need for Verifiable AI Math Research](https://dev.to/alifar/anthropic-claude-riemann-hypothesis-claim-highlights-the-need-for-verifiable-ai-math-research-mk5)
+- [Convergent evidence](https://dev.to/thekilteddev/convergent-evidence-3ohk)
 <!-- BLOG-POST-LIST:END -->
 
 
