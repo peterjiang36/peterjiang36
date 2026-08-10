@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NVIDIA&#39;s NOOA turns an AI agent into one Python class](https://dev.to/frankchu/nvidias-nooa-turns-an-ai-agent-into-one-python-class-dm1)
-- [Vars and muts &rpar;ruff&lpar;](https://dev.to/tyrkanzyka/vars-and-muts-ruff-2i1l)
-- [Writing to Get Cited by AI Is a Different Skill Than Writing to Rank in Google](https://dev.to/stevensnell/writing-to-get-cited-by-ai-is-a-different-skill-than-writing-to-rank-in-google-44go)
-- [so close to 4k followers on here, currently sitting at 3,973 🥹](https://dev.to/hacksore/so-close-to-4k-followers-on-here-currently-sitting-at-3973-44oo)
+- [Agentic AI in German: The Words, the Law, the Numbers](https://dev.to/studiomeyer_io/agentic-ai-in-german-the-words-the-law-the-numbers-33bf)
+- [Six of my published pages were invisible to every counter I own, and they were in the ledger](https://dev.to/blueticks/six-of-my-published-pages-were-invisible-to-every-counter-i-own-and-they-were-in-the-ledger-5cch)
+- [Stop switching tabs to fix your deployments: Giving LLMs hands on Netlify](https://dev.to/renato_marinho/stop-switching-tabs-to-fix-your-deployments-giving-llms-hands-on-netlify-14ha)
+- [What Happens When 20,000 People Click the Same Seat](https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n)
 <!-- BLOG-POST-LIST:END -->
 
 
