@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building APIs: Backend API Concepts And When To Use Them](https://dev.to/towernter/building-apis-backend-api-concepts-and-when-to-use-them-32hh)
-- [Make fail2ban report its bans to a community blacklist](https://dev.to/fcalculator/make-fail2ban-report-its-bans-to-a-community-blacklist-288g)
-- [How to Sync Two Browser Tabs with JavaScript](https://dev.to/certosinolab/how-to-sync-two-browser-tabs-with-javascript-108l)
-- [Background Jobs on Vercel in 2026: Field Notes on waitUntil, Queues, Workflow, and Cron](https://dev.to/ahmed_mahmoud360/background-jobs-on-vercel-in-2026-field-notes-on-waituntil-queues-workflow-and-cron-1l6g)
+- [Claude Code Auto Mode: What Still Needs a Human](https://dev.to/alberto_arena_25a48484ed5/claude-code-auto-mode-what-still-needs-a-human-kg5)
+- [A Disposable Sandbox Pattern for Testing AI Coding Agents Safely](https://dev.to/gitrs_5994/a-disposable-sandbox-pattern-for-testing-ai-coding-agents-safely-452j)
+- [Looking for people to build hackathon projects with, including people still learning to code](https://dev.to/casperday11/looking-for-people-to-build-hackathon-projects-with-including-people-still-learning-to-code-1njo)
+- [Zero-Knowledge Age Verification on Midnight: How Compact Enables Private On-Chain Data](https://dev.to/midnight-aliit/zero-knowledge-age-verification-on-midnight-how-compact-enables-private-on-chain-data-139g)
 <!-- BLOG-POST-LIST:END -->
 
 
