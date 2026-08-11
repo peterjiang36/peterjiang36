@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: 2026-08-10 — a toast that lied, an enum with a missing case, and a design system that finally has an address](https://dev.to/nasrulhazim/dev-log-2026-08-10-a-toast-that-lied-an-enum-with-a-missing-case-and-a-design-system-that-405j)
-- [&quot;3 skipped&quot; tells the operator nothing](https://dev.to/nasrulhazim/3-skipped-tells-the-operator-nothing-c7i)
-- [7 กฎสำหรับ Self-Improving Agent Loops ที่ AI Engineer ทุกคนควรรู้, Google Cloud เปิดตัว agents-cli](https://dev.to/sarantoon/7-kdsamhrab-self-improving-agent-loops-thii-ai-engineer-thukkhnkhwrruu-google-cloud-epidtaw-agents-cli-o0m)
-- [100 Days of Solana - 2](https://dev.to/ik_8a78062fd65be769dd835/100-days-of-solana-2-160c)
+- [I built a portable keyword spotting engine — started with Chinese, now supporting English](https://dev.to/buguatec/i-built-a-portable-keyword-spotting-engine-started-with-chinese-now-supporting-english-d10)
+- [Building Multi-Tenant Auth from Scratch Is Painful. So I Open-Sourced MT-URBAC &lpar;NestJS + Angular&rpar;](https://dev.to/kasoir_abbas_7d626c407602/building-multi-tenant-auth-from-scratch-is-painful-so-i-open-sourced-mt-urbac-nestjs-angular-iod)
+- [Build a Consent-First Welcome DM With Explicit Ownership](https://dev.to/susiewang/build-a-consent-first-welcome-dm-with-explicit-ownership-4iho)
+- [TryHackMe : The London Bridge writeup](https://dev.to/exploitnotes/tryhackme-the-london-bridge-writeup-3cf4)
 <!-- BLOG-POST-LIST:END -->
 
 
