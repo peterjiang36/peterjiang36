@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a portable keyword spotting engine — started with Chinese, now supporting English](https://dev.to/buguatec/i-built-a-portable-keyword-spotting-engine-started-with-chinese-now-supporting-english-d10)
-- [Building Multi-Tenant Auth from Scratch Is Painful. So I Open-Sourced MT-URBAC &lpar;NestJS + Angular&rpar;](https://dev.to/kasoir_abbas_7d626c407602/building-multi-tenant-auth-from-scratch-is-painful-so-i-open-sourced-mt-urbac-nestjs-angular-iod)
-- [Build a Consent-First Welcome DM With Explicit Ownership](https://dev.to/susiewang/build-a-consent-first-welcome-dm-with-explicit-ownership-4iho)
-- [TryHackMe : The London Bridge writeup](https://dev.to/exploitnotes/tryhackme-the-london-bridge-writeup-3cf4)
+- [Context Engineering: Why It’s Replacing Prompt Engineering in Modern AI Systems](https://dev.to/krutika_shah/context-engineering-why-its-replacing-prompt-engineering-in-modern-ai-systems-47mk)
+- [Your AI agent grades its own homework](https://dev.to/salmanahsan/your-ai-agent-grades-its-own-homework-2ekm)
+- [How to Build a Fast and SEO-Friendly Website with React](https://dev.to/ayush9300/how-to-build-a-fast-and-seo-friendly-website-with-react-15ia)
+- [Rust SIMD Just Came to the GPU — and It Changes How We Think About Parallel Programming](https://dev.to/trismegistus/rust-simd-just-came-to-the-gpu-and-it-changes-how-we-think-about-parallel-programming-44n)
 <!-- BLOG-POST-LIST:END -->
 
 
