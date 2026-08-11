@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazy Load Angular Services with `injectAsync&lpar;&rpar;](https://dev.to/certosinolab/lazy-load-angular-services-with-injectasync-c7h)
-- [How Claude Marks AI-Generated Content?](https://dev.to/hassann/how-claude-marks-ai-generated-content-245a)
-- [Open Source Image Watermark Remover Built with Python &amp; OpenCV &lpar;Web UI + CLI&rpar;](https://dev.to/mia1928/open-source-image-watermark-remover-built-with-python-opencv-web-ui-cli-2beh)
-- [You Review AI Code Less Carefully Than Human Code. That Is Backwards.](https://dev.to/raghavsharma_/you-review-ai-code-less-carefully-than-human-code-that-is-backwards-akg)
+- [I built a Chrome extension, got 100 installs, and 90% of users left. Here&#39;s what I&#39;m fixing.](https://dev.to/mbilalkhan192003/i-built-a-chrome-extension-got-100-installs-and-90-of-users-left-heres-what-im-fixing-3gmi)
+- [Top Enterprise SCA Tools in 2026: A Developer&#39;s Comparison](https://dev.to/alexcybersmith/top-enterprise-sca-tools-in-2026-a-developers-comparison-3gnb)
+- [I built an AI patient, then spent most of my time stopping it from behaving like AI](https://dev.to/hercules09/i-built-an-ai-patient-then-spent-most-of-my-time-stopping-it-from-behaving-like-ai-54eb)
+- [DynamoDB: GSI, LSI, and related design ideas](https://dev.to/abhijeet_chaudhari_a/dynamodb-gsi-lsi-and-related-design-ideas-3fll)
 <!-- BLOG-POST-LIST:END -->
 
 
