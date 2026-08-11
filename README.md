@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Executor-Plus-Gate Pattern: Why Cheap Models Need Stronger Verification](https://dev.to/pack-lightly/the-executor-plus-gate-pattern-why-cheap-models-need-stronger-verification-4g8f)
-- [Shipping i18n at Scale Without a Translation Platform](https://dev.to/pack-lightly/shipping-i18n-at-scale-without-a-translation-platform-1k9e)
-- [Why Route Ranking Needs Deterministic Scoring, Not a Language Model](https://dev.to/pack-lightly/why-route-ranking-needs-deterministic-scoring-not-a-language-model-4bjk)
-- [D1 番外：一筆下錯的單，被 AI 說成「只是測試」](https://dev.to/_2ab71a79dd36101e6be89/d1-fan-wai-bi-xia-cuo-de-dan-bei-ai-shuo-cheng-zhi-shi-ce-shi--1jh)
+- [Building a Stat Comparator That Refuses Invalid Deltas](https://dev.to/ethanjamescolez/building-a-stat-comparator-that-refuses-invalid-deltas-16fm)
+- [How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels](https://dev.to/matias_affolter/how-we-made-image-copy-detection-1000000x-faster-by-refusing-to-look-at-pixels-3c50)
+- [COSS Weekly: Convex raises $57M, Elastic acquires Deductive AI, HashiCorp founder launches new startup, and more](https://dev.to/sabirchinstrap/coss-weekly-convex-raises-57m-elastic-acquires-deductive-ai-hashicorp-founder-launches-new-3bef)
+- [🎉 SnipContext v0.7.0 is out!](https://dev.to/billybox1926-jpg/snipcontext-v070-is-out-3jac)
 <!-- BLOG-POST-LIST:END -->
 
 
