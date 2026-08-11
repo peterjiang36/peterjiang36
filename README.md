@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Stat Comparator That Refuses Invalid Deltas](https://dev.to/ethanjamescolez/building-a-stat-comparator-that-refuses-invalid-deltas-16fm)
-- [How We Made Image Copy-Detection ~1,000,000 Faster — by Refusing to Look at Pixels](https://dev.to/matias_affolter/how-we-made-image-copy-detection-1000000x-faster-by-refusing-to-look-at-pixels-3c50)
-- [COSS Weekly: Convex raises $57M, Elastic acquires Deductive AI, HashiCorp founder launches new startup, and more](https://dev.to/sabirchinstrap/coss-weekly-convex-raises-57m-elastic-acquires-deductive-ai-hashicorp-founder-launches-new-3bef)
-- [🎉 SnipContext v0.7.0 is out!](https://dev.to/billybox1926-jpg/snipcontext-v070-is-out-3jac)
+- [ChatGPT Desktop Is Officially Documented for Windows and Mac, Not Linux](https://dev.to/alifar/chatgpt-desktop-is-officially-documented-for-windows-and-mac-not-linux-36p7)
+- [I have 591 pages. Google indexed one. Here&#39;s how I&#39;m debugging it.](https://dev.to/bcrypto/i-have-591-pages-google-indexed-one-heres-how-im-debugging-it-5cel)
+- [The price on my shop page was not the price at checkout](https://dev.to/maxyull/the-price-on-my-shop-page-was-not-the-price-at-checkout-5e2p)
+- [AI Prompts That Actually Save You Hours Every Week](https://dev.to/mr_ho_5662e7842ba776/ai-prompts-that-actually-save-you-hours-every-week-52fm)
 <!-- BLOG-POST-LIST:END -->
 
 
