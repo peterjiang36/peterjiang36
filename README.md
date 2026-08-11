@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [209 AI Code Reviews: Accurate Is Not Necessary](https://dev.to/johnonlee/209-ai-code-reviews-accurate-is-not-necessary-4cc3)
-- [Keep logged in to Claude between container builds](https://dev.to/sukkergris/keep-logged-in-to-claude-between-container-builds-430h)
-- [GPT-5.6-Cyber: Daybreak Red, Exclusive Access Security](https://dev.to/gp-ia-blog/gpt-56-cyber-daybreak-red-exclusive-access-security-4h4e)
-- [Docker BuildKit Cache Setup That Actually Speeds Up CI](https://dev.to/oleksandr_kuryzhev_42873f/docker-buildkit-cache-setup-that-actually-speeds-up-ci-44di)
+- [Lazy Load Angular Services with `injectAsync&lpar;&rpar;](https://dev.to/certosinolab/lazy-load-angular-services-with-injectasync-c7h)
+- [How Claude Marks AI-Generated Content?](https://dev.to/hassann/how-claude-marks-ai-generated-content-245a)
+- [Open Source Image Watermark Remover Built with Python &amp; OpenCV &lpar;Web UI + CLI&rpar;](https://dev.to/mia1928/open-source-image-watermark-remover-built-with-python-opencv-web-ui-cli-2beh)
+- [You Review AI Code Less Carefully Than Human Code. That Is Backwards.](https://dev.to/raghavsharma_/you-review-ai-code-less-carefully-than-human-code-that-is-backwards-akg)
 <!-- BLOG-POST-LIST:END -->
 
 
