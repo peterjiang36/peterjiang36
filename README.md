@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Use .then&lpar;&rpar; When Async/Await Is Cleaner?](https://dev.to/kenryikegbo/why-use-then-when-asyncawait-is-cleaner-1k11)
-- [The Human Factor of AI and Coding](https://dev.to/aws-builders/the-human-factor-of-ai-and-coding-4148)
-- [&quot;nginx doesn&#39;t run your config top to bottom: two traps with rewrite, try_files, and if&quot;](https://dev.to/shinagawa-web/nginx-doesnt-run-your-config-top-to-bottom-two-traps-with-rewrite-tryfiles-and-if-2hlm)
-- [What Is Data Analysis?](https://dev.to/michaelnocito/what-is-data-analysis-5ggc)
+- [The Executor-Plus-Gate Pattern: Why Cheap Models Need Stronger Verification](https://dev.to/pack-lightly/the-executor-plus-gate-pattern-why-cheap-models-need-stronger-verification-4g8f)
+- [Shipping i18n at Scale Without a Translation Platform](https://dev.to/pack-lightly/shipping-i18n-at-scale-without-a-translation-platform-1k9e)
+- [Why Route Ranking Needs Deterministic Scoring, Not a Language Model](https://dev.to/pack-lightly/why-route-ranking-needs-deterministic-scoring-not-a-language-model-4bjk)
+- [D1 番外：一筆下錯的單，被 AI 說成「只是測試」](https://dev.to/_2ab71a79dd36101e6be89/d1-fan-wai-bi-xia-cuo-de-dan-bei-ai-shuo-cheng-zhi-shi-ce-shi--1jh)
 <!-- BLOG-POST-LIST:END -->
 
 
