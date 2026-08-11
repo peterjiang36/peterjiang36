@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Chrome extension, got 100 installs, and 90% of users left. Here&#39;s what I&#39;m fixing.](https://dev.to/mbilalkhan192003/i-built-a-chrome-extension-got-100-installs-and-90-of-users-left-heres-what-im-fixing-3gmi)
-- [Top Enterprise SCA Tools in 2026: A Developer&#39;s Comparison](https://dev.to/alexcybersmith/top-enterprise-sca-tools-in-2026-a-developers-comparison-3gnb)
-- [I built an AI patient, then spent most of my time stopping it from behaving like AI](https://dev.to/hercules09/i-built-an-ai-patient-then-spent-most-of-my-time-stopping-it-from-behaving-like-ai-54eb)
-- [DynamoDB: GSI, LSI, and related design ideas](https://dev.to/abhijeet_chaudhari_a/dynamodb-gsi-lsi-and-related-design-ideas-3fll)
+- [Encoding a Power-Law Pricing Engine in the Browser](https://dev.to/israr2001/encoding-a-power-law-pricing-engine-in-the-browser-3od7)
+- [I built a privacy-first face blurring tool that runs entirely in your browser](https://dev.to/jeffrey_hamilton6399/i-built-a-privacy-first-face-blurring-tool-that-runs-entirely-in-your-browser-1p5f)
+- [A documented prop that silently stacked every component at the origin](https://dev.to/zkasuran/a-documented-prop-that-silently-stacked-every-component-at-the-origin-5h0f)
+- [How to Build an SEO-Friendly Website That People Actually Want to Use](https://dev.to/krishna_kalra_50cca5b6ff4/how-to-build-an-seo-friendly-website-that-people-actually-want-to-use-16k7)
 <!-- BLOG-POST-LIST:END -->
 
 
