@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral AI Regional Endpoints Bring EU and US Inference Controls to Enterprise Deployments](https://dev.to/alifar/mistral-ai-regional-endpoints-bring-eu-and-us-inference-controls-to-enterprise-deployments-317n)
-- [Compression Is Prediction — and It Explains Why LLMs Actually Work](https://dev.to/trismegistus/compression-is-prediction-and-it-explains-why-llms-actually-work-209e)
-- [QTCC](https://dev.to/joshua_ogunlade_cc523592b/qtcc-3mg2)
-- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-535)
+- [My type of #FractionalCTO](https://dev.to/andreimerlescu/my-type-of-fractionalcto-2eb7)
+- [Around image 87 the batch stopped looking like one store](https://dev.to/boyuan_tuo_6f861761aeb29e/around-image-87-the-batch-stopped-looking-like-one-store-e41)
+- [Horizontal Scaling: Solving One Problem, Creating Another](https://dev.to/ynwd/horizontal-scaling-solving-one-problem-creating-another-46n6)
+- [We hit 99.95% on the LoCoMo memory benchmark. Here&#39;s the catch, and why it still matters.](https://dev.to/jon_at_backboardio/we-hit-9995-on-the-locomo-memory-benchmark-heres-the-catch-and-why-it-still-matters-3and)
 <!-- BLOG-POST-LIST:END -->
 
 
