@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG System From Scratch — Four Components, One Working Pipeline](https://dev.to/rit_the_coder/building-a-rag-system-from-scratch-four-components-one-working-pipeline-5ad8)
-- [Beyond Vector Search: Building Better RAG Retrieval with Hybrid Search and Reranking](https://dev.to/damir-karimov/beyond-vector-search-building-better-rag-retrieval-with-hybrid-search-and-reranking-p0e)
-- [Why Comments Should Explain the Reason, Not Repeat the Decision](https://dev.to/tanya_kamenskih_fae915d43/why-comments-should-explain-the-reason-not-repeat-the-decision-32hg)
-- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
+- [Your Extraction Pipeline Doesn&#39;t Need a Smarter Model. It Needs a Schema Contract Test.](https://dev.to/datacpp_8185/your-extraction-pipeline-doesnt-need-a-smarter-model-it-needs-a-schema-contract-test-5bp6)
+- [is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production](https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b)
+- [Deduplicating feature requests with pgvector: the threshold is a trap](https://dev.to/noahchenbuilds/deduplicating-feature-requests-with-pgvector-the-threshold-is-a-trap-5dk9)
+- [I let every AI crawler in. A month later I cannot tell you how many people read me](https://dev.to/mk023/i-let-every-ai-crawler-in-a-month-later-i-cannot-tell-you-how-many-people-read-me-3415)
 <!-- BLOG-POST-LIST:END -->
 
 
