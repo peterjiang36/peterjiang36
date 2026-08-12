@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming Tokens Into a React UI](https://dev.to/multigrid/streaming-tokens-into-a-react-ui-2g59)
-- [Random Forests and Bagging: Where the Variance Goes](https://dev.to/multigrid/random-forests-and-bagging-where-the-variance-goes-h2o)
-- [OpenClaw vs Hermes Agent: The Cage Match for Your Digital Soul](https://dev.to/numbpill3d/openclaw-vs-hermes-agent-the-cage-match-for-your-digital-soul-4f9c)
-- [[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types](https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29)
+- [Gemini and Localiza Car Rentals in Brazil: What Travelers Can Confirm](https://dev.to/alifar/gemini-and-localiza-car-rentals-in-brazil-what-travelers-can-confirm-456o)
+- [It lasted one day: a developer has already released a &#39;watermark-remover&#39; for all AI-generated text](https://dev.to/ivanzm123/it-lasted-one-day-a-developer-has-already-released-a-watermark-remover-for-all-ai-generated-text-m60)
+- [How to Build an Audit-Ready CloudTrail and Config Baseline](https://dev.to/rufilboss/how-to-build-an-audit-ready-cloudtrail-and-config-baseline-23a6)
+- [10 Website Performance and UX Problems That Cost Small Businesses Customers](https://dev.to/alynox/10-website-performance-and-ux-problems-that-cost-small-businesses-customers-4234)
 <!-- BLOG-POST-LIST:END -->
 
 
