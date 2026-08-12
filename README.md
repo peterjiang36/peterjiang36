@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini and Localiza Car Rentals in Brazil: What Travelers Can Confirm](https://dev.to/alifar/gemini-and-localiza-car-rentals-in-brazil-what-travelers-can-confirm-456o)
-- [It lasted one day: a developer has already released a &#39;watermark-remover&#39; for all AI-generated text](https://dev.to/ivanzm123/it-lasted-one-day-a-developer-has-already-released-a-watermark-remover-for-all-ai-generated-text-m60)
-- [How to Build an Audit-Ready CloudTrail and Config Baseline](https://dev.to/rufilboss/how-to-build-an-audit-ready-cloudtrail-and-config-baseline-23a6)
-- [10 Website Performance and UX Problems That Cost Small Businesses Customers](https://dev.to/alynox/10-website-performance-and-ux-problems-that-cost-small-businesses-customers-4234)
+- [Your CI is not flaky. Your cache expires every seven days.](https://dev.to/heinrichneb/your-ci-is-not-flaky-your-cache-expires-every-seven-days-703)
+- [Why Community Signals Matter for AI Data Provenance, Governance and Brand Visibility](https://dev.to/alifar/why-community-signals-matter-for-ai-data-provenance-governance-and-brand-visibility-2g2m)
+- [Decoupling Your CRM from Your MDM: Building a Device Management Architecture](https://dev.to/emmyjaff/decoupling-your-crm-from-your-mdm-building-a-device-management-architecture-2ccb)
+- [Prime Agent: Prime Intellect Open-Sources a Self-Improving RLM Framework](https://dev.to/terminalchai/prime-agent-prime-intellect-open-sources-a-self-improving-rlm-framework-3an7)
 <!-- BLOG-POST-LIST:END -->
 
 
