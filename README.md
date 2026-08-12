@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My type of #FractionalCTO](https://dev.to/andreimerlescu/my-type-of-fractionalcto-2eb7)
-- [Around image 87 the batch stopped looking like one store](https://dev.to/boyuan_tuo_6f861761aeb29e/around-image-87-the-batch-stopped-looking-like-one-store-e41)
-- [Horizontal Scaling: Solving One Problem, Creating Another](https://dev.to/ynwd/horizontal-scaling-solving-one-problem-creating-another-46n6)
-- [We hit 99.95% on the LoCoMo memory benchmark. Here&#39;s the catch, and why it still matters.](https://dev.to/jon_at_backboardio/we-hit-9995-on-the-locomo-memory-benchmark-heres-the-catch-and-why-it-still-matters-3and)
+- [Tenant-Aware: How to Moderate Text Prompts for Image Generation Without Chat JSON](https://dev.to/daltonreed1289/tenant-aware-how-to-moderate-text-prompts-for-image-generation-without-chat-json-4246)
+- [당신의 에이전트 루프는 모델에게 커닝을 가르치고 있다](https://dev.to/q00/dangsinyi-eijeonteu-rupeuneun-modelege-keoningeul-gareucigo-issda-2ep2)
+- [My Node.js Text-to-Image Gate: A Web App API Contract Test](https://dev.to/thatchercole8235/my-nodejs-text-to-image-gate-a-web-app-api-contract-test-28p7)
+- [7 Reasons Why Java Frameworks are Used for API Development](https://dev.to/sahil_khurana_486f374ecf2/7-reasons-why-java-frameworks-are-used-for-api-development-ee6)
 <!-- BLOG-POST-LIST:END -->
 
 
