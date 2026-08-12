@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Extraction Pipeline Doesn&#39;t Need a Smarter Model. It Needs a Schema Contract Test.](https://dev.to/datacpp_8185/your-extraction-pipeline-doesnt-need-a-smarter-model-it-needs-a-schema-contract-test-5bp6)
-- [is-kit Reached 50 Stars ⭐ Here’s How We Use It in Production](https://dev.to/nyaomaru/is-kit-reached-50-stars-heres-how-we-use-it-in-production-2i5b)
-- [Deduplicating feature requests with pgvector: the threshold is a trap](https://dev.to/noahchenbuilds/deduplicating-feature-requests-with-pgvector-the-threshold-is-a-trap-5dk9)
-- [I let every AI crawler in. A month later I cannot tell you how many people read me](https://dev.to/mk023/i-let-every-ai-crawler-in-a-month-later-i-cannot-tell-you-how-many-people-read-me-3415)
+- [Understanding CQRS: A Practical Guide to Command Query Responsibility Segregation](https://dev.to/carlos_castor/understanding-cqrs-a-practical-guide-to-command-query-responsibility-segregation-50c)
+- [OpenWorkProof Protocol Specification](https://dev.to/dengyier/openworkproof-protocol-specification-3k8e)
+- [The Manifest That Keeps Your AI Agent Honest](https://dev.to/cognous/the-manifest-that-keeps-your-ai-agent-honest-3e97)
+- [I Built a RAG App on My Laptop Without Paying OpenAI a Single Rupee Here&#39;s How](https://dev.to/speaklouder/i-built-a-rag-app-on-my-laptop-without-paying-openai-a-single-rupee-heres-how-4dpc)
 <!-- BLOG-POST-LIST:END -->
 
 
