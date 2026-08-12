@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3.8-Max says it beats GPT-5.6 and Fable 5 at computer use. Here&#39;s my checklist before I believe any open-weights release](https://dev.to/frankchu/qwen38-max-says-it-beats-gpt-56-and-fable-5-at-computer-use-heres-my-checklist-before-i-believe-48h0)
-- [I Ported decimal.js to Go in 72 Hours — and Found 5 Bugs in the Original](https://dev.to/isundram/-i-ported-decimaljs-to-go-in-72-hours-and-found-4-bugs-in-the-original-3k3b)
-- [Turns Out This Is the Reason Our useEffect Often Causes Memory Leaks in React](https://dev.to/javapixastudio/turns-out-this-is-the-reason-our-useeffect-often-causes-memory-leaks-in-react-5fpf)
-- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Systems](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-systems-fem)
+- [PoE Lighting: Why LED Drivers Are Becoming IT Devices When Ethernet Cables Replace Power Wires](https://dev.to/lamp_nex_8cbfdfb5b5aa6b50/poe-lighting-why-led-drivers-are-becoming-it-devices-when-ethernet-cables-replace-power-wires-427l)
+- [How to migrate Laravel 13 + Next.js to Zero-Downtime VPS Releases](https://dev.to/dineshstack/how-to-migrate-laravel-13-nextjs-to-zero-downtime-vps-releases-17i3)
+- [How Four Color Wheels Work in Video Editing—and How I Built Them in the Browser](https://dev.to/martindelophy/how-four-color-wheels-work-in-video-editing-and-how-i-built-them-in-the-browser-2jfd)
+- [Developers are installing taste: 4 of today&#39;s 7 fastest-rising Claude Code skill searches are design skills](https://dev.to/skillselion/developers-are-installing-taste-4-of-todays-7-fastest-rising-claude-code-skill-searches-are-3mjh)
 <!-- BLOG-POST-LIST:END -->
 
 
