@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your CI is not flaky. Your cache expires every seven days.](https://dev.to/heinrichneb/your-ci-is-not-flaky-your-cache-expires-every-seven-days-703)
-- [Why Community Signals Matter for AI Data Provenance, Governance and Brand Visibility](https://dev.to/alifar/why-community-signals-matter-for-ai-data-provenance-governance-and-brand-visibility-2g2m)
-- [Decoupling Your CRM from Your MDM: Building a Device Management Architecture](https://dev.to/emmyjaff/decoupling-your-crm-from-your-mdm-building-a-device-management-architecture-2ccb)
-- [Prime Agent: Prime Intellect Open-Sources a Self-Improving RLM Framework](https://dev.to/terminalchai/prime-agent-prime-intellect-open-sources-a-self-improving-rlm-framework-3an7)
+- [Extracting a Bibliography Into Structured Citation Records](https://dev.to/multigrid/extracting-a-bibliography-into-structured-citation-records-4l9o)
+- [How to Build a Polymarket Trading Bot After TWAP Implemented](https://dev.to/cryptomoonday/how-to-build-a-polymarket-trading-bot-after-twap-implemented-1fc1)
+- [Gating a Merge on an Eval Score in Azure Pipelines](https://dev.to/multigrid/gating-a-merge-on-an-eval-score-in-azure-pipelines-19ai)
+- [Fixing &quot;TooManyRequests&quot; From Azure OpenAI Under Load](https://dev.to/multigrid/fixing-toomanyrequests-from-azure-openai-under-load-34bn)
 <!-- BLOG-POST-LIST:END -->
 
 
