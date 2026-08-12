@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tenant-Aware: How to Moderate Text Prompts for Image Generation Without Chat JSON](https://dev.to/daltonreed1289/tenant-aware-how-to-moderate-text-prompts-for-image-generation-without-chat-json-4246)
-- [당신의 에이전트 루프는 모델에게 커닝을 가르치고 있다](https://dev.to/q00/dangsinyi-eijeonteu-rupeuneun-modelege-keoningeul-gareucigo-issda-2ep2)
-- [My Node.js Text-to-Image Gate: A Web App API Contract Test](https://dev.to/thatchercole8235/my-nodejs-text-to-image-gate-a-web-app-api-contract-test-28p7)
-- [7 Reasons Why Java Frameworks are Used for API Development](https://dev.to/sahil_khurana_486f374ecf2/7-reasons-why-java-frameworks-are-used-for-api-development-ee6)
+- [Qwen3.8-Max says it beats GPT-5.6 and Fable 5 at computer use. Here&#39;s my checklist before I believe any open-weights release](https://dev.to/frankchu/qwen38-max-says-it-beats-gpt-56-and-fable-5-at-computer-use-heres-my-checklist-before-i-believe-48h0)
+- [I Ported decimal.js to Go in 72 Hours — and Found 5 Bugs in the Original](https://dev.to/isundram/-i-ported-decimaljs-to-go-in-72-hours-and-found-4-bugs-in-the-original-3k3b)
+- [Turns Out This Is the Reason Our useEffect Often Causes Memory Leaks in React](https://dev.to/javapixastudio/turns-out-this-is-the-reason-our-useeffect-often-causes-memory-leaks-in-react-5fpf)
+- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Systems](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-systems-fem)
 <!-- BLOG-POST-LIST:END -->
 
 
