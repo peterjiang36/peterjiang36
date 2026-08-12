@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding CQRS: A Practical Guide to Command Query Responsibility Segregation](https://dev.to/carlos_castor/understanding-cqrs-a-practical-guide-to-command-query-responsibility-segregation-50c)
-- [OpenWorkProof Protocol Specification](https://dev.to/dengyier/openworkproof-protocol-specification-3k8e)
-- [The Manifest That Keeps Your AI Agent Honest](https://dev.to/cognous/the-manifest-that-keeps-your-ai-agent-honest-3e97)
-- [I Built a RAG App on My Laptop Without Paying OpenAI a Single Rupee Here&#39;s How](https://dev.to/speaklouder/i-built-a-rag-app-on-my-laptop-without-paying-openai-a-single-rupee-heres-how-4dpc)
+- [Streaming Tokens Into a React UI](https://dev.to/multigrid/streaming-tokens-into-a-react-ui-2g59)
+- [Random Forests and Bagging: Where the Variance Goes](https://dev.to/multigrid/random-forests-and-bagging-where-the-variance-goes-h2o)
+- [OpenClaw vs Hermes Agent: The Cage Match for Your Digital Soul](https://dev.to/numbpill3d/openclaw-vs-hermes-agent-the-cage-match-for-your-digital-soul-4f9c)
+- [[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types](https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29)
 <!-- BLOG-POST-LIST:END -->
 
 
