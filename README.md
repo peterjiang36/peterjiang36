@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: 2026-08-12 — a 96s suite that became 42s, a capability that wasn&#39;t a scope, and four steps to a passkey](https://dev.to/nasrulhazim/dev-log-2026-08-12-a-96s-suite-that-became-42s-a-capability-that-wasnt-a-scope-and-four-steps-c0a)
-- [I Moved My Discord Bot Off a Paid LLM API. Five Things Broke.](https://dev.to/codepy_1473/i-moved-my-discord-bot-off-a-paid-llm-api-five-things-broke-2ik5)
-- [Detecting Cycles and Loops in a Dependency Graph](https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca)
-- [Nukkad Chat Corner 🍵 | Comfort Food Isn’t a Restaurant — It’s a Thela. That’s Where the Soul Gets Comfort. I Sculpted Mine in CSS.](https://dev.to/khushalsarode/nukkad-chat-corner-comfort-food-isnt-a-restaurant-its-a-thela-thats-where-the-soul-gets-df0)
+- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-2nil)
+- [I Put a &quot;0 Verified By Us&quot; Counter on My Own Wiki](https://dev.to/member_c240df61/i-put-a-0-verified-by-us-counter-on-my-own-wiki-5h78)
+- [React useElementSize Hook: Track Element Width &amp; Height with ResizeObserver &lpar;2026&rpar;](https://dev.to/childrentime/react-useelementsize-hook-track-element-width-height-with-resizeobserver-2026-2gan)
+- [I Built CSS-Like Native UI Animations with Nim and SDL3](https://dev.to/puffball1567/i-built-css-like-native-ui-animations-with-nim-and-sdl3-3jp8)
 <!-- BLOG-POST-LIST:END -->
 
 
