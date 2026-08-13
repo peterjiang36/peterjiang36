@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned While Testing OllaNode’s Free Version With Node.js](https://dev.to/harshitha_j_388552716a9a0/what-i-learned-while-testing-ollanodes-free-version-with-nodejs-9al)
-- [How to Build a Voice Agent with LangChain?](https://dev.to/ciphernutz/how-to-build-a-voice-agent-with-langchain-1cjl)
-- [Automatically scale LXC containers resources on Proxmox hosts](https://dev.to/fabriziosalmi/automatically-scale-lxc-containers-resources-on-proxmox-hosts-3p1n)
-- [Five things I disabled before installing a vendor&#39;s agent runtime](https://dev.to/zackchew/five-things-i-disabled-before-installing-a-vendors-agent-runtime-1djo)
+- [IT Jobs in Nigeria in 2026: A Developer&#39;s Guide to the Market &lpar;via TalentExAfrica&rpar;](https://dev.to/anthony2026/it-jobs-in-nigeria-in-2026-a-developers-guide-to-the-market-via-talentexafrica-k87)
+- [Retail Digital Transformation: What Changes Operationally When Going From Retailer to Platform](https://dev.to/mercur/retail-digital-transformation-what-changes-operationally-when-going-from-retailer-to-platform-382o)
+- [One Prompt Can Make a Game Demo. That Is Not the Same as Making a Game.](https://dev.to/nolanpiercework/one-prompt-can-make-a-game-demo-that-is-not-the-same-as-making-a-game-19en)
+- [GhostSplice Isn&#39;t a Jailbreak, It&#39;s a Reminder That LLMs Can&#39;t Do Access Control](https://dev.to/coridev/ghostsplice-isnt-a-jailbreak-its-a-reminder-that-llms-cant-do-access-control-31po)
 <!-- BLOG-POST-LIST:END -->
 
 
