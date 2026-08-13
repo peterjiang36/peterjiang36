@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an outbound sales agent as a Claude Code plugin &lpar;and open-sourcing it&rpar;](https://dev.to/leadace/building-an-outbound-sales-agent-as-a-claude-code-plugin-and-open-sourcing-it-17ae)
-- [Are You Really Making the Most of Static Code Analysis?](https://dev.to/jeandevbr/are-you-really-making-the-most-of-static-code-analysis-102c)
-- [Sentry Saved Our Users When the API Melted: Fixing a Production-Stopping Schema Drift on CryptoPulse Terminal](https://dev.to/pooja_bhavani/sentry-saved-our-users-when-the-api-melted-fixing-a-production-stopping-schema-drift-on-1l1m)
-- [Designing an Ejar Contract Registration Workflow: From Readiness to Registration](https://dev.to/dra_ali_063a461a14aa6b2/designing-an-ejar-contract-registration-workflow-from-readiness-to-registration-1ceg)
+- [Build a Model Catalog Drift Monitor for Chinese AI APIs](https://dev.to/aiwave/build-a-model-catalog-drift-monitor-for-chinese-ai-apis-56e3)
+- [Apache Data Lakehouse Weekly: August 5 - August 12, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-august-5-august-12-2026-2j40)
+- [Why I joined dev.to ???](https://dev.to/ishacodes/why-i-joined-devto--5c63)
+- [Explainable System Design](https://dev.to/meemeealm/explanable-system-design-a0k)
 <!-- BLOG-POST-LIST:END -->
 
 
