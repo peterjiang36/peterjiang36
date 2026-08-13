@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer Who Put an OS on the Amiga — Tim King &lpar;1947–2026&rpar;](https://dev.to/trismegistus/the-developer-who-put-an-os-on-the-amiga-tim-king-1947-2026-19ci)
-- [Build Wide, Ship Narrow: How AI Changed the Economics of Code Review](https://dev.to/trismegistus/build-wide-ship-narrow-how-ai-changed-the-economics-of-code-review-11p2)
-- [I Built a Visa Photo Tool After Realizing How Complicated “Just a Passport Photo” Can Be](https://dev.to/sandeep_maddheshiya/i-built-a-visa-photo-tool-after-realizing-how-complicated-just-a-passport-photo-can-be-56m4)
-- [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
+- [What I Learned While Testing OllaNode’s Free Version With Node.js](https://dev.to/harshitha_j_388552716a9a0/what-i-learned-while-testing-ollanodes-free-version-with-nodejs-9al)
+- [How to Build a Voice Agent with LangChain?](https://dev.to/ciphernutz/how-to-build-a-voice-agent-with-langchain-1cjl)
+- [Automatically scale LXC containers resources on Proxmox hosts](https://dev.to/fabriziosalmi/automatically-scale-lxc-containers-resources-on-proxmox-hosts-3p1n)
+- [Five things I disabled before installing a vendor&#39;s agent runtime](https://dev.to/zackchew/five-things-i-disabled-before-installing-a-vendors-agent-runtime-1djo)
 <!-- BLOG-POST-LIST:END -->
 
 
