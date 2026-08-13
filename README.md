@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Patch Tuesday August 2026: 1 Zero-Day, 109 Critical Fixes Among 790 CVEs](https://dev.to/ian_bishop_98bf15c6a498d4/patch-tuesday-august-2026-1-zero-day-109-critical-fixes-among-790-cves-3hdc)
-- [Local vs Hosted LLMs: The Decision Framework](https://dev.to/apeder/local-vs-hosted-llms-the-decision-framework-56p)
-- [Those ugly tracking codes in your links? I’m building a one-click fix &lpar;while learning JavaScript from scratch&rpar;](https://dev.to/shashwatdeep/those-ugly-tracking-codes-in-your-links-im-building-a-one-click-fix-while-learning-javascript-15aj)
-- [Build an SMS Triage Bot on Telnyx Edge Compute](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-sms-triage-bot-on-telnyx-edge-compute-4gin)
+- [MCP C# SDK Protocol Negotiation: Pin 2026-07-28 When Fallback Is Unsafe](https://dev.to/ssukhpinder/mcp-c-sdk-protocol-negotiation-pin-2026-07-28-when-fallback-is-unsafe-2fhk)
+- [gRPC over a Unix socket, not HTTP: a real IPC tradeoff from a HIPAA-postured edge system](https://dev.to/clintmathews/grpc-over-a-unix-socket-not-http-a-real-ipc-tradeoff-from-a-hipaa-postured-edge-system-4foa)
+- [We measured the &quot;AI review tax&quot; across 5,388 repos. The median repo doesn&#39;t pay one.](https://dev.to/maki_vlach_289e052694eb2e/we-measured-the-ai-review-tax-across-5388-repos-the-median-repo-doesnt-pay-one-1bc1)
+- [The Difference Between Good Code and Bad Code is 5 Minutes](https://dev.to/logical_bytes/the-difference-between-good-code-and-bad-code-is-5-minutes-4a99)
 <!-- BLOG-POST-LIST:END -->
 
 
