@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Custom AI App Is the New Security Perimeter: Why RAG and Internal Chatbots Need Real Guardrails](https://dev.to/hritvik_thakur_c2af0d672e/your-custom-ai-app-is-the-new-security-perimeter-why-rag-and-internal-chatbots-need-real-d3k)
-- [The only way to beat UI slop](https://dev.to/azamrahmat/the-only-way-to-beat-ui-slop-2o1l)
-- [Buy or Build? A Backend Flow to Poll SMS 2FA Login Delivery Status in Node/Express](https://dev.to/wadesterling3125/buy-or-build-a-backend-flow-to-poll-sms-2fa-login-delivery-status-in-nodeexpress-2kb2)
-- [LangGraph Episodic Memory](https://dev.to/yashwanth_kasi/langgraph-episodic-memory-2mck)
+- [The Developer Who Put an OS on the Amiga — Tim King &lpar;1947–2026&rpar;](https://dev.to/trismegistus/the-developer-who-put-an-os-on-the-amiga-tim-king-1947-2026-19ci)
+- [Build Wide, Ship Narrow: How AI Changed the Economics of Code Review](https://dev.to/trismegistus/build-wide-ship-narrow-how-ai-changed-the-economics-of-code-review-11p2)
+- [I Built a Visa Photo Tool After Realizing How Complicated “Just a Passport Photo” Can Be](https://dev.to/sandeep_maddheshiya/i-built-a-visa-photo-tool-after-realizing-how-complicated-just-a-passport-photo-can-be-56m4)
+- [TypeScript Intersection Types Done Right: When They Compose Cleanly and When They Silently Lie](https://dev.to/jsmanifest/typescript-intersection-types-done-right-when-they-compose-cleanly-and-when-they-silently-lie-4ed2)
 <!-- BLOG-POST-LIST:END -->
 
 
