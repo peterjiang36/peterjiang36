@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PwC Finds AI Is Raising the Skill Bar for Entry-Level Jobs Across Industries](https://dev.to/alifar/pwc-finds-ai-is-raising-the-skill-bar-for-entry-level-jobs-across-industries-14nf)
-- [Don&#39;t Let the AI Find Your Bugs. Let It Judge Them.](https://dev.to/alimafana/dont-let-the-ai-find-your-bugs-let-it-judge-them-5dbp)
-- [Langfuse for LLM Observability: Tracing Agent Calls Instead of Guessing](https://dev.to/futhgar/langfuse-for-llm-observability-tracing-agent-calls-instead-of-guessing-7h3)
-- [Revisão de código antes do commit: agentes especializados pra cobrir o meu próprio ponto cego entre backend e frontend](https://dev.to/izaaccomze/revisao-de-codigo-antes-do-commit-agentes-especializados-pra-cobrir-o-meu-proprio-ponto-cego-entre-5cpa)
+- [Como documentar soluções para decidir melhor, prever falhas e evoluir sem se perder](https://dev.to/fraanst/como-documentar-solucoes-para-decidir-melhor-prever-falhas-e-evoluir-sem-se-perder-9ng)
+- [Deploying a React App to AWS S3 + CloudFront](https://dev.to/duubemmm/deploying-a-react-app-to-aws-s3-cloudfront-55hn)
+- [An AI Director Made It to the World&#39;s Judging Table. But Not to the Shortlist.](https://dev.to/ghostyai_aionexo/an-ai-director-made-it-to-the-worlds-judging-table-but-not-to-the-shortlist-1a86)
+- [Google Search Console’s Gen AI Reports Redefine How Teams Measure Search Visibility](https://dev.to/alifar/google-search-consoles-gen-ai-reports-redefine-how-teams-measure-search-visibility-2ehh)
 <!-- BLOG-POST-LIST:END -->
 
 
