@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [IT Jobs in Nigeria in 2026: A Developer&#39;s Guide to the Market &lpar;via TalentExAfrica&rpar;](https://dev.to/anthony2026/it-jobs-in-nigeria-in-2026-a-developers-guide-to-the-market-via-talentexafrica-k87)
-- [Retail Digital Transformation: What Changes Operationally When Going From Retailer to Platform](https://dev.to/mercur/retail-digital-transformation-what-changes-operationally-when-going-from-retailer-to-platform-382o)
-- [One Prompt Can Make a Game Demo. That Is Not the Same as Making a Game.](https://dev.to/nolanpiercework/one-prompt-can-make-a-game-demo-that-is-not-the-same-as-making-a-game-19en)
-- [GhostSplice Isn&#39;t a Jailbreak, It&#39;s a Reminder That LLMs Can&#39;t Do Access Control](https://dev.to/coridev/ghostsplice-isnt-a-jailbreak-its-a-reminder-that-llms-cant-do-access-control-31po)
+- [Building an outbound sales agent as a Claude Code plugin &lpar;and open-sourcing it&rpar;](https://dev.to/leadace/building-an-outbound-sales-agent-as-a-claude-code-plugin-and-open-sourcing-it-17ae)
+- [Are You Really Making the Most of Static Code Analysis?](https://dev.to/jeandevbr/are-you-really-making-the-most-of-static-code-analysis-102c)
+- [Sentry Saved Our Users When the API Melted: Fixing a Production-Stopping Schema Drift on CryptoPulse Terminal](https://dev.to/pooja_bhavani/sentry-saved-our-users-when-the-api-melted-fixing-a-production-stopping-schema-drift-on-1l1m)
+- [Designing an Ejar Contract Registration Workflow: From Readiness to Registration](https://dev.to/dra_ali_063a461a14aa6b2/designing-an-ejar-contract-registration-workflow-from-readiness-to-registration-1ceg)
 <!-- BLOG-POST-LIST:END -->
 
 
