@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nmap for Authorized Infrastructure Validation &lpar;Not Hacking&rpar;](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)
-- [What Building a C++ Benchmarking Suite Taught Me About &quot;Simple&quot; Data Structures](https://dev.to/mendolatech/what-building-a-c-benchmarking-suite-taught-me-about-simple-data-structures-5a94)
-- [Reflecting on 7-8 Years of Career Growth: Adaptability and Continuous Learning Key to Senior Data Engineer Success](https://dev.to/svetlix/reflecting-on-7-8-years-of-career-growth-adaptability-and-continuous-learning-key-to-senior-data-3519)
-- [ChatGPT Work Brings Desktop Automation, Memory and Governance Into the AI Workflow](https://dev.to/alifar/chatgpt-work-brings-desktop-automation-memory-and-governance-into-the-ai-workflow-mp8)
+- [PwC Finds AI Is Raising the Skill Bar for Entry-Level Jobs Across Industries](https://dev.to/alifar/pwc-finds-ai-is-raising-the-skill-bar-for-entry-level-jobs-across-industries-14nf)
+- [Don&#39;t Let the AI Find Your Bugs. Let It Judge Them.](https://dev.to/alimafana/dont-let-the-ai-find-your-bugs-let-it-judge-them-5dbp)
+- [Langfuse for LLM Observability: Tracing Agent Calls Instead of Guessing](https://dev.to/futhgar/langfuse-for-llm-observability-tracing-agent-calls-instead-of-guessing-7h3)
+- [Revisão de código antes do commit: agentes especializados pra cobrir o meu próprio ponto cego entre backend e frontend](https://dev.to/izaaccomze/revisao-de-codigo-antes-do-commit-agentes-especializados-pra-cobrir-o-meu-proprio-ponto-cego-entre-5cpa)
 <!-- BLOG-POST-LIST:END -->
 
 
