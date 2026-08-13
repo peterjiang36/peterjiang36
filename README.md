@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-2nil)
-- [I Put a &quot;0 Verified By Us&quot; Counter on My Own Wiki](https://dev.to/member_c240df61/i-put-a-0-verified-by-us-counter-on-my-own-wiki-5h78)
-- [React useElementSize Hook: Track Element Width &amp; Height with ResizeObserver &lpar;2026&rpar;](https://dev.to/childrentime/react-useelementsize-hook-track-element-width-height-with-resizeobserver-2026-2gan)
-- [I Built CSS-Like Native UI Animations with Nim and SDL3](https://dev.to/puffball1567/i-built-css-like-native-ui-animations-with-nim-and-sdl3-3jp8)
+- [Your Custom AI App Is the New Security Perimeter: Why RAG and Internal Chatbots Need Real Guardrails](https://dev.to/hritvik_thakur_c2af0d672e/your-custom-ai-app-is-the-new-security-perimeter-why-rag-and-internal-chatbots-need-real-d3k)
+- [The only way to beat UI slop](https://dev.to/azamrahmat/the-only-way-to-beat-ui-slop-2o1l)
+- [Buy or Build? A Backend Flow to Poll SMS 2FA Login Delivery Status in Node/Express](https://dev.to/wadesterling3125/buy-or-build-a-backend-flow-to-poll-sms-2fa-login-delivery-status-in-nodeexpress-2kb2)
+- [LangGraph Episodic Memory](https://dev.to/yashwanth_kasi/langgraph-episodic-memory-2mck)
 <!-- BLOG-POST-LIST:END -->
 
 
