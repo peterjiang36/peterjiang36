@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Letting an AI ask &#39;what shipped in this field this week?&#39;](https://dev.to/rss-atlas/letting-an-ai-ask-what-shipped-in-this-field-this-week-1nk0)
-- [Google Search Console Platform Properties Bring Social and Video Search Data Into View](https://dev.to/alifar/google-search-console-platform-properties-bring-social-and-video-search-data-into-view-1ndl)
-- [The five things I never let my AI do](https://dev.to/pi-maker/the-five-things-i-never-let-my-ai-do-178f)
-- [Tailscale&#39;s 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams](https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf)
+- [Patch Tuesday August 2026: 1 Zero-Day, 109 Critical Fixes Among 790 CVEs](https://dev.to/ian_bishop_98bf15c6a498d4/patch-tuesday-august-2026-1-zero-day-109-critical-fixes-among-790-cves-3hdc)
+- [Local vs Hosted LLMs: The Decision Framework](https://dev.to/apeder/local-vs-hosted-llms-the-decision-framework-56p)
+- [Those ugly tracking codes in your links? I’m building a one-click fix &lpar;while learning JavaScript from scratch&rpar;](https://dev.to/shashwatdeep/those-ugly-tracking-codes-in-your-links-im-building-a-one-click-fix-while-learning-javascript-15aj)
+- [Build an SMS Triage Bot on Telnyx Edge Compute](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-an-sms-triage-bot-on-telnyx-edge-compute-4gin)
 <!-- BLOG-POST-LIST:END -->
 
 
