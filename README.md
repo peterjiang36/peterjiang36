@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Here&#39;s what being a street-smart coder means](https://dev.to/canro91/heres-what-being-a-street-smart-coder-means-4pgd)
-- [PWC 386 All Your Base Are Belong to Rational Numbers](https://dev.to/boblied/pwc-386-all-your-base-are-belong-to-rational-numbers-g88)
-- [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)
-- [Gemini 3.7 Flash Makes Agent Cost the Feature](https://dev.to/reidmarlow/gemini-37-flash-makes-agent-cost-the-feature-33ee)
+- [Python Data Model - Part 2: Protocols and Special Methods](https://dev.to/brunotlps/python-data-model-part-2-protocols-and-special-methods-1k60)
+- [جعلنا موقعنا غير قابل للضغط مرتين، ولم يكن الخطأ في الكود](https://dev.to/kouanahesham/jln-mwqn-gyr-qbl-lldgt-mrtyn-wlm-ykn-lkht-fy-lkwd-2h9g)
+- [I built a RAG assistant, then found out my architecture change made it worse](https://dev.to/saftyy/i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse-1n7i)
+- [Modelo de Dados Python - Parte 2: Protocolos e métodos especiais](https://dev.to/brunotlps/modelo-de-dados-python-parte-2-protocolos-e-metodos-especiais-2e7n)
 <!-- BLOG-POST-LIST:END -->
 
 
