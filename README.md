@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Almost Deployed a Temporal Knowledge Graph. The Eval Said No.](https://dev.to/futhgar/we-almost-deployed-a-temporal-knowledge-graph-the-eval-said-no-3ld)
-- [Website Load Testing Guide: Test Performance at Scale](https://dev.to/serveravatar/website-load-testing-guide-test-performance-at-scale-3a0j)
-- [Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic](https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5)
-- [Ever encountered a race condition bug when fetching data, let&#39;s understand the solution](https://dev.to/javapixastudio/ever-encountered-a-race-condition-bug-when-fetching-data-lets-understand-the-solution-3di7)
+- [The hidden svg Biome flagged anyway: a noSvgWithoutTitle false positive](https://dev.to/zkasuran/the-hidden-svg-biome-flagged-anyway-a-nosvgwithouttitle-false-positive-51jh)
+- [WebP Images: The Good, the Bad, and When PNG/JPG Still Wins](https://dev.to/ahaconvert_4518ffb5e649d6/webp-images-the-good-the-bad-and-when-pngjpg-still-wins-4cad)
+- [You loved my markdown previewer, so I’m giving it a major upgrade.](https://dev.to/codemaster_121482/you-loved-my-markdown-previewer-so-im-giving-it-a-major-upgrade-4jge)
+- [CSS text-box-trim: The End of Fudging Vertical Padding](https://dev.to/grimicorn/css-text-box-trim-the-end-of-fudging-vertical-padding-4d92)
 <!-- BLOG-POST-LIST:END -->
 
 
