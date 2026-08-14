@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Data Model - Part 2: Protocols and Special Methods](https://dev.to/brunotlps/python-data-model-part-2-protocols-and-special-methods-1k60)
-- [جعلنا موقعنا غير قابل للضغط مرتين، ولم يكن الخطأ في الكود](https://dev.to/kouanahesham/jln-mwqn-gyr-qbl-lldgt-mrtyn-wlm-ykn-lkht-fy-lkwd-2h9g)
-- [I built a RAG assistant, then found out my architecture change made it worse](https://dev.to/saftyy/i-built-a-rag-assistant-then-found-out-my-architecture-change-made-it-worse-1n7i)
-- [Modelo de Dados Python - Parte 2: Protocolos e métodos especiais](https://dev.to/brunotlps/modelo-de-dados-python-parte-2-protocolos-e-metodos-especiais-2e7n)
+- [How to Get Started with Grok Bot](https://dev.to/debs_obrien/how-to-get-started-with-grok-bot-4f5n)
+- [Anthropic’s EU Code Commitment Brings Watermarking Questions Into Focus](https://dev.to/alifar/anthropics-eu-code-commitment-brings-watermarking-questions-into-focus-2i8j)
+- [Kubernetes OOMKilled — diagnose with a plan, not a wall of kubectl](https://dev.to/muhtalipdede/kubernetes-oomkilled-diagnose-with-a-plan-not-a-wall-of-kubectl-4997)
+- [Bold modern landing page: GSAP --&gt; inline image](https://dev.to/sacha_deguin_c7fc3a1f5787/bold-modern-landing-page-gsap-inline-image-133a)
 <!-- BLOG-POST-LIST:END -->
 
 
