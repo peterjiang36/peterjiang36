@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Grok Bot](https://dev.to/debs_obrien/how-to-get-started-with-grok-bot-4f5n)
-- [Anthropic’s EU Code Commitment Brings Watermarking Questions Into Focus](https://dev.to/alifar/anthropics-eu-code-commitment-brings-watermarking-questions-into-focus-2i8j)
-- [Kubernetes OOMKilled — diagnose with a plan, not a wall of kubectl](https://dev.to/muhtalipdede/kubernetes-oomkilled-diagnose-with-a-plan-not-a-wall-of-kubectl-4997)
-- [Bold modern landing page: GSAP --&gt; inline image](https://dev.to/sacha_deguin_c7fc3a1f5787/bold-modern-landing-page-gsap-inline-image-133a)
+- [AI Referral Traffic Is Small but Growing: What the 1.08% Benchmark Means for Measurement](https://dev.to/alifar/ai-referral-traffic-is-small-but-growing-what-the-108-benchmark-means-for-measurement-10ci)
+- [Run Qwen 3.8 27B Locally: Real GGUF Sizes, the KV Cache Trick, and the Template Trap](https://dev.to/purpledoubled/run-qwen-38-27b-locally-real-gguf-sizes-the-kv-cache-trick-and-the-template-trap-114j)
+- [Let a Free Model Try to Break Your API Before Your Users Do](https://dev.to/codepy_1473/let-a-free-model-try-to-break-your-api-before-your-users-do-539m)
+- [Persistence of Memory, Personality, and Self in AI Agents The Someone That Persists, Session After Session, Across Months](https://dev.to/adoloslabs/persistence-of-memory-personality-and-self-in-ai-agents-the-someone-that-persists-session-after-10kd)
 <!-- BLOG-POST-LIST:END -->
 
 
