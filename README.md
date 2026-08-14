@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Reading Claims Need Stronger Evidence Before They Shape Enterprise Decisions](https://dev.to/alifar/ai-reading-claims-need-stronger-evidence-before-they-shape-enterprise-decisions-cd1)
-- [The Free-Model Agreement Test for AI Code Generation](https://dev.to/github_7727/the-free-model-agreement-test-for-ai-code-generation-31op)
-- [A Two-Model Regression Harness for Evaluating a New Low-Cost Model Release](https://dev.to/apppro_5726/a-two-model-regression-harness-for-evaluating-a-new-low-cost-model-release-47ga)
-- [Our checker did not catch the wrong number. It enforced it.](https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7)
+- [I turned my portfolio into an MCP server &lpar;and I&#39;m not a programmer&rpar;](https://dev.to/mansio/i-turned-my-portfolio-into-an-mcp-server-and-im-not-a-programmer-4h0a)
+- [Readability in the age of AI-assisted programming](https://dev.to/alex_netkachov_5306c2df5d/readability-in-the-age-of-ai-assisted-programming-4b35)
+- [AstroScope — when a friend&#39;s challenge became a product used by 800+ people daily. 🔮](https://dev.to/brutalharsh7/astroscope-when-a-friends-challenge-became-a-product-used-by-800-people-daily-483c)
+- [Keeping Your Own Files Straight](https://dev.to/michaelnocito/keeping-your-own-files-straight-ea4)
 <!-- BLOG-POST-LIST:END -->
 
 
