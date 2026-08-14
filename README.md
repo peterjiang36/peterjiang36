@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why NocoBase rejects your .doc and .xls uploads](https://dev.to/stale_orbit/why-nocobase-rejects-your-doc-and-xls-uploads-4o53)
-- [Two thirds of my architecture document wasn&#39;t enforceable](https://dev.to/kaleemn/two-thirds-of-my-architecture-document-wasnt-enforceable-am6)
-- [The Heart of .NET: A Deep Dive into the System Namespace](https://dev.to/csadikemre/the-heart-of-net-a-deep-dive-into-the-system-namespace-db0)
-- [OpenAI Foundation Expands Civil Society AI Effort With Grants and New Leadership](https://dev.to/alifar/openai-foundation-expands-civil-society-ai-effort-with-grants-and-new-leadership-46f4)
+- [Think Offline, Win Online — splitting thought from play in YiBoard](https://dev.to/ahmed_isam_752b775a50fd90/think-offline-win-online-splitting-thought-from-play-in-yiboard-54o0)
+- [Share Your Localhost With Anyone Using Cloudflare Tunnel](https://dev.to/shahbaazx786/share-your-localhost-with-anyone-using-cloudflare-tunnel-5b9g)
+- [Databricks buys Electric to embed local Postgres in AI agents](https://dev.to/vpodk/databricks-buys-electric-to-embed-local-postgres-in-ai-agents-4l3)
+- [Claude Code Assist: How Structured Output Works for Real-World Applications](https://dev.to/dineshgowtham/claude-code-assist-how-structured-output-works-for-real-world-applications-gcc)
 <!-- BLOG-POST-LIST:END -->
 
 
