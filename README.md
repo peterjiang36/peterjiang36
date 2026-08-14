@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ordexa: a Next.js 16 admin dashboard template I actually finished](https://dev.to/tovrr/ordexa-a-nextjs-16-admin-dashboard-template-i-actually-finished-4ko4)
-- [Pre-launch waitlist tools in 2026, compared](https://dev.to/devin_daymore/pre-launch-waitlist-tools-in-2026-compared-3kp1)
-- [Upgrading Magento 2.4.5 to 2.4.8: Defusing the Tech Debt Time Bomb Before AWS MySQL 8.0 EOL](https://dev.to/vesviet/upgrading-magento-245-to-248-defusing-the-tech-debt-time-bomb-before-aws-mysql-80-eol-39c5)
-- [Why Your LLM Classifier Doesn&#39;t Need the Taxonomy: Hypothetical Classification with Embeddings](https://dev.to/chenyuan20509/why-your-llm-classifier-doesnt-need-the-taxonomy-hypothetical-classification-with-embeddings-387d)
+- [Driving and Missing Messages? How Android Auto Notification Handling Actually Works](https://dev.to/axin888/driving-and-missing-messages-how-android-auto-notification-handling-actually-works-1i4h)
+- [Mutual Viability Loop: Designing Agentic AI That Survives by Serving](https://dev.to/michael_arnwine_6778d1570/mutual-viability-loop-designing-agentic-ai-that-survives-by-serving-aog)
+- [Should your daily batch job live inside your main application?](https://dev.to/tayeb_gasmi/should-your-daily-batch-job-live-inside-your-main-application-9cl)
+- [Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows](https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp)
 <!-- BLOG-POST-LIST:END -->
 
 
