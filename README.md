@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Como documentar soluções para decidir melhor, prever falhas e evoluir sem se perder](https://dev.to/fraanst/como-documentar-solucoes-para-decidir-melhor-prever-falhas-e-evoluir-sem-se-perder-9ng)
-- [Deploying a React App to AWS S3 + CloudFront](https://dev.to/duubemmm/deploying-a-react-app-to-aws-s3-cloudfront-55hn)
-- [An AI Director Made It to the World&#39;s Judging Table. But Not to the Shortlist.](https://dev.to/ghostyai_aionexo/an-ai-director-made-it-to-the-worlds-judging-table-but-not-to-the-shortlist-1a86)
-- [Google Search Console’s Gen AI Reports Redefine How Teams Measure Search Visibility](https://dev.to/alifar/google-search-consoles-gen-ai-reports-redefine-how-teams-measure-search-visibility-2ehh)
+- [Why NocoBase rejects your .doc and .xls uploads](https://dev.to/stale_orbit/why-nocobase-rejects-your-doc-and-xls-uploads-4o53)
+- [Two thirds of my architecture document wasn&#39;t enforceable](https://dev.to/kaleemn/two-thirds-of-my-architecture-document-wasnt-enforceable-am6)
+- [The Heart of .NET: A Deep Dive into the System Namespace](https://dev.to/csadikemre/the-heart-of-net-a-deep-dive-into-the-system-namespace-db0)
+- [OpenAI Foundation Expands Civil Society AI Effort With Grants and New Leadership](https://dev.to/alifar/openai-foundation-expands-civil-society-ai-effort-with-grants-and-new-leadership-46f4)
 <!-- BLOG-POST-LIST:END -->
 
 
