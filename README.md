@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Driving and Missing Messages? How Android Auto Notification Handling Actually Works](https://dev.to/axin888/driving-and-missing-messages-how-android-auto-notification-handling-actually-works-1i4h)
-- [Mutual Viability Loop: Designing Agentic AI That Survives by Serving](https://dev.to/michael_arnwine_6778d1570/mutual-viability-loop-designing-agentic-ai-that-survives-by-serving-aog)
-- [Should your daily batch job live inside your main application?](https://dev.to/tayeb_gasmi/should-your-daily-batch-job-live-inside-your-main-application-9cl)
-- [Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows](https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp)
+- [Here&#39;s what being a street-smart coder means](https://dev.to/canro91/heres-what-being-a-street-smart-coder-means-4pgd)
+- [PWC 386 All Your Base Are Belong to Rational Numbers](https://dev.to/boblied/pwc-386-all-your-base-are-belong-to-rational-numbers-g88)
+- [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)
+- [Gemini 3.7 Flash Makes Agent Cost the Feature](https://dev.to/reidmarlow/gemini-37-flash-makes-agent-cost-the-feature-33ee)
 <!-- BLOG-POST-LIST:END -->
 
 
