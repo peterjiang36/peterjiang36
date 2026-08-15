@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Voice Agent for Bharat: My 10-Day Journey](https://dev.to/ayushshinde13/building-an-ai-voice-agent-for-bharat-my-10-day-journey-f6d)
-- [I Built AnswerTrace . GitHub Discussions Analytics for Your README](https://dev.to/antonisloukis/i-built-answertrace-github-discussions-analytics-for-your-readme-4mno)
-- [Claude Code vs Cursor vs Windsurf in 2026: Which Agentic IDE Actually Ships Production Code](https://dev.to/jsmanifest/claude-code-vs-cursor-vs-windsurf-in-2026-which-agentic-ide-actually-ships-production-code-3maj)
-- [Run Claude Code for FREE on Your Machine Using OpenRouter](https://dev.to/soham_chavan07/run-claude-code-for-free-on-your-machine-using-openrouter-5d1o)
+- [🐾 PawSense AI: Your Dog’s AI Sidekick, Powered by Gemini](https://dev.to/makendrang/pawsense-ai-your-dogs-ai-sidekick-powered-by-gemini-4e5f)
+- [The Internet Feels Simple Until the Pipes Start Leaking](https://dev.to/art_light/the-internet-feels-simple-until-the-pipes-start-leaking-2o4i)
+- [Saathi: building a Kirana store voice agent in 10 days with Murf Falcon published: true tags: voiceai, python, webdev, beginners](https://dev.to/greeva_jagani_c97a0f70e05/saathi-building-a-kirana-store-voice-agent-in-10-days-with-murf-falcon-published-true-tags-22bm)
+- [I Miss Being a Coder in the Age of AI !!](https://dev.to/riddhiagrawal001/i-miss-being-a-coder-in-the-age-of-ai--2k85)
 <!-- BLOG-POST-LIST:END -->
 
 
