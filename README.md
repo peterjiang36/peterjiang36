@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🐾 PawSense AI: Your Dog’s AI Sidekick, Powered by Gemini](https://dev.to/makendrang/pawsense-ai-your-dogs-ai-sidekick-powered-by-gemini-4e5f)
-- [The Internet Feels Simple Until the Pipes Start Leaking](https://dev.to/art_light/the-internet-feels-simple-until-the-pipes-start-leaking-2o4i)
-- [Saathi: building a Kirana store voice agent in 10 days with Murf Falcon published: true tags: voiceai, python, webdev, beginners](https://dev.to/greeva_jagani_c97a0f70e05/saathi-building-a-kirana-store-voice-agent-in-10-days-with-murf-falcon-published-true-tags-22bm)
-- [I Miss Being a Coder in the Age of AI !!](https://dev.to/riddhiagrawal001/i-miss-being-a-coder-in-the-age-of-ai--2k85)
+- [I pasted a production JWT into a random website. Then I read their privacy policy.](https://dev.to/zeeshan_imdad_c763729732e/i-got-tired-of-pasting-jwts-into-random-websites-so-i-built-my-own-tools-4hh5)
+- [ArthMitra](https://dev.to/sizico/arthmitra-4l6a)
+- [How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents](https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd)
+- [Why logrotate silently does nothing and how to actually debug it](https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd)
 <!-- BLOG-POST-LIST:END -->
 
 
