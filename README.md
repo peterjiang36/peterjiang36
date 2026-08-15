@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I pasted a production JWT into a random website. Then I read their privacy policy.](https://dev.to/zeeshan_imdad_c763729732e/i-got-tired-of-pasting-jwts-into-random-websites-so-i-built-my-own-tools-4hh5)
-- [ArthMitra](https://dev.to/sizico/arthmitra-4l6a)
-- [How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents](https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd)
-- [Why logrotate silently does nothing and how to actually debug it](https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd)
+- [Harness Engineering - Part 8: Observability](https://dev.to/coderonfleek/harness-engineering-part-8-observability-3gc1)
+- [Network Troubleshooting as a Stack: Find Which Layer Is Broken First](https://dev.to/jjoyneriv/network-troubleshooting-as-a-stack-find-which-layer-is-broken-first-2nm6)
+- [Harness Engineering - Part 7: The Memory Layer](https://dev.to/coderonfleek/harness-engineering-part-7-the-memory-layer-3oon)
+- [Harness Engineering - Part 6: The Filesystem &amp; Environment](https://dev.to/coderonfleek/harness-engineering-part-6-the-filesystem-environment-17m0)
 <!-- BLOG-POST-LIST:END -->
 
 
