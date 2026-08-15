@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Google did with a brand new site in its first 24 hours](https://dev.to/stackedboost/what-google-did-with-a-brand-new-site-in-its-first-24-hours-knn)
-- [The Other Sean Byrne Doesn&#39;t Exist: A Case Study in Digital Identity Ghosts](https://dev.to/kaixintelligence/the-other-sean-byrne-doesnt-exist-a-case-study-in-digital-identity-ghosts-mfk)
-- [The Writing Problem That Wasn’t Really a Writing Problem](https://dev.to/oldmanbelton/the-writing-problem-that-wasnt-really-a-writing-problem-433h)
-- [Portfolio Website Architecture for Dummies](https://dev.to/oldmanbelton/portfolio-website-architecture-for-dummies-46i2)
+- [Taming Kafka Lag Spikes with KEDA Scale-to-Zero](https://dev.to/iamajeeth/taming-kafka-lag-spikes-with-keda-scale-to-zero-epa)
+- [A 36% margin became 6% at month-end, and nothing was posted wrong](https://dev.to/_705cc6dba923dce49293c/a-36-margin-became-6-at-month-end-and-nothing-was-posted-wrong-56b1)
+- [Why Trend-Data Scrapers Silently Fail &lpar;And How I Fixed It&rpar;](https://dev.to/0xgollum/why-trend-data-scrapers-silently-fail-and-how-i-fixed-it-7a2)
+- [Context Engineering and Harness Engineering: Building Reliable AI Agents Beyond Prompts](https://dev.to/mino/context-engineering-and-harness-engineering-building-reliable-ai-agents-beyond-prompts-3dij)
 <!-- BLOG-POST-LIST:END -->
 
 
