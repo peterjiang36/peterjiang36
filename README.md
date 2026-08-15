@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Voice-First Learning Companion — My 10 Days of Voice Agents Journey](https://dev.to/roshan-sankhat/building-a-voice-first-learning-companion-my-10-days-of-voice-agents-journey-17e8)
-- [Z.ai’s GLM-5.3 Is Closing the Gap With Anthropic in AI Cybersecurity](https://dev.to/techytcm/zais-glm-53-is-closing-the-gap-with-anthropic-in-ai-cybersecurity-17h3)
-- [What Building Typing Games Taught Me About Designing Better Web Interactions](https://dev.to/ravindrachitla/what-building-typing-games-taught-me-about-designing-better-web-interactions-50d5)
-- [The value was in nine places and one enum, and the enum was the only one that ran](https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9)
+- [Make AI-Generated HTTP Endpoints Prove Themselves on a Disposable Server](https://dev.to/codepy_1473/make-ai-generated-http-endpoints-prove-themselves-on-a-disposable-server-hm4)
+- [A Free Server Caught the GUI Fallback a Model Buried in a CLI](https://dev.to/datacpp_8185/a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli-70e)
+- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
+- [How Garbage Collection Works: Let&#39;s Build One From Scratch](https://dev.to/aditya_d_sharma/how-garbage-collection-works-lets-build-one-from-scratch-39fh)
 <!-- BLOG-POST-LIST:END -->
 
 
