@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Make AI-Generated HTTP Endpoints Prove Themselves on a Disposable Server](https://dev.to/codepy_1473/make-ai-generated-http-endpoints-prove-themselves-on-a-disposable-server-hm4)
-- [A Free Server Caught the GUI Fallback a Model Buried in a CLI](https://dev.to/datacpp_8185/a-free-server-caught-the-gui-fallback-a-model-buried-in-a-cli-70e)
-- [How Ranex Judges AI-Written Code: The Kernel, Explained](https://dev.to/anthonygarces/how-ranex-judges-ai-written-code-the-kernel-explained-3d8)
-- [How Garbage Collection Works: Let&#39;s Build One From Scratch](https://dev.to/aditya_d_sharma/how-garbage-collection-works-lets-build-one-from-scratch-39fh)
+- [[Boost]](https://dev.to/anthonymax/-3937)
+- [Your pipeline deleted its own alarm &lpar;two greps to check&rpar;](https://dev.to/heinrichneb/your-pipeline-deleted-its-own-alarm-two-greps-to-check-3a1m)
+- [You need to sign your content. Anthropic already marks everything Claude generates and you still don&#39;t](https://dev.to/carlosortet/you-need-to-sign-your-content-anthropic-already-marks-everything-claude-generates-and-you-still-57bo)
+- [I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers](https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh)
 <!-- BLOG-POST-LIST:END -->
 
 
