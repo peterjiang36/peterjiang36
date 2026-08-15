@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Predicting the Future of Glucose: Real-time CGM Anomaly Detection with LSTM and TSFresh 🚀](https://dev.to/wellallytech/predicting-the-future-of-glucose-real-time-cgm-anomaly-detection-with-lstm-and-tsfresh-20pp)
-- [How to Handle Audio Transcription API 404/501 — available=false Speech-to-Text in 2026](https://dev.to/zylahmorn61835/how-to-handle-audio-transcription-api-404501-availablefalse-speech-to-text-in-2026-2k07)
-- [How to Build a Cybersecurity Metric Data Dictionary That Executives Can Actually Trust](https://dev.to/santa412_929884369ea40d9a/how-to-build-a-cybersecurity-metric-data-dictionary-that-executives-can-actually-trust-1f92)
-- [Toast 1: A New Embedding Model That Rivals OpenAI at a Fraction of the Cost](https://dev.to/trismegistus/toast-1-a-new-embedding-model-that-rivals-openai-at-a-fraction-of-the-cost-3k79)
+- [A beginner&#39;s guide to the Qwen3.8-27b model by Qwen on Huggingface](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen38-27b-model-by-qwen-on-huggingface-11j9)
+- [Goish: พอร์ตรันไทม์ของ Go ทั้งตัวลงใน no_std Rust](https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n)
+- [Supplier Invoice Speech-to-Text: EU Startup Validation Beyond Per-Minute Pricing](https://dev.to/evanshepherd8274/supplier-invoice-speech-to-text-eu-startup-validation-beyond-per-minute-pricing-2h0a)
+- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
 <!-- BLOG-POST-LIST:END -->
 
 
