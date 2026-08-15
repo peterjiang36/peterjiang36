@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Kafka Lag Spikes with KEDA Scale-to-Zero](https://dev.to/iamajeeth/taming-kafka-lag-spikes-with-keda-scale-to-zero-epa)
-- [A 36% margin became 6% at month-end, and nothing was posted wrong](https://dev.to/_705cc6dba923dce49293c/a-36-margin-became-6-at-month-end-and-nothing-was-posted-wrong-56b1)
-- [Why Trend-Data Scrapers Silently Fail &lpar;And How I Fixed It&rpar;](https://dev.to/0xgollum/why-trend-data-scrapers-silently-fail-and-how-i-fixed-it-7a2)
-- [Context Engineering and Harness Engineering: Building Reliable AI Agents Beyond Prompts](https://dev.to/mino/context-engineering-and-harness-engineering-building-reliable-ai-agents-beyond-prompts-3dij)
+- [Kubernetes Networking [Level-2: Pod-to-Pod Communication]](https://dev.to/iadiraj/kubernetes-networking-level-2-pod-to-pod-communication-3fkh)
+- [I Built a Real-Time Collaborative Sheet Music Editor — Here&#39;s What MusicXML and CRDTs Taught Me](https://dev.to/tan-z-tan/i-built-a-real-time-collaborative-sheet-music-editor-heres-what-musicxml-and-crdts-taught-me-1dii)
+- [Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor with Murf Falcon &amp; LiveKit &lpar;10 Days of Voice Agents&rpar;](https://dev.to/stoichotoke/building-vidya-an-ultra-fast-bilingual-voice-ai-tutor-with-murf-falcon-livekit-10-days-of-voice-1fcf)
+- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
 <!-- BLOG-POST-LIST:END -->
 
 
