@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring the real concurrency ceiling of an LLM agent runner](https://dev.to/arti0/measuring-the-real-concurrency-ceiling-of-an-llm-agent-runner-53cb)
-- [Why Data Engineering Is the Oldest Profession in Infrastructure](https://dev.to/turboline_ai_/why-data-engineering-is-the-oldest-profession-in-infrastructure-b9m)
-- [Vector Similarity Search with DuckDB: A Practical Guide to the VSS Extension](https://dev.to/muhammadikhwanfathulloh/vector-similarity-search-with-duckdb-a-practical-guide-to-the-vss-extension-p5c)
-- [Can your verify gate actually fail?](https://dev.to/arti0/can-your-verify-gate-actually-fail-3ib4)
+- [Building an AI Voice Agent for Bharat: My 10-Day Journey](https://dev.to/ayushshinde13/building-an-ai-voice-agent-for-bharat-my-10-day-journey-f6d)
+- [I Built AnswerTrace . GitHub Discussions Analytics for Your README](https://dev.to/antonisloukis/i-built-answertrace-github-discussions-analytics-for-your-readme-4mno)
+- [Claude Code vs Cursor vs Windsurf in 2026: Which Agentic IDE Actually Ships Production Code](https://dev.to/jsmanifest/claude-code-vs-cursor-vs-windsurf-in-2026-which-agentic-ide-actually-ships-production-code-3maj)
+- [Run Claude Code for FREE on Your Machine Using OpenRouter](https://dev.to/soham_chavan07/run-claude-code-for-free-on-your-machine-using-openrouter-5d1o)
 <!-- BLOG-POST-LIST:END -->
 
 
