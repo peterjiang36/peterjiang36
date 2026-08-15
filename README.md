@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Qwen3.8-27b model by Qwen on Huggingface](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen38-27b-model-by-qwen-on-huggingface-11j9)
-- [Goish: พอร์ตรันไทม์ของ Go ทั้งตัวลงใน no_std Rust](https://dev.to/gophernment/goish-phrtranaithmkhng-go-thangtawlngain-nostd-rust-4g0n)
-- [Supplier Invoice Speech-to-Text: EU Startup Validation Beyond Per-Minute Pricing](https://dev.to/evanshepherd8274/supplier-invoice-speech-to-text-eu-startup-validation-beyond-per-minute-pricing-2h0a)
-- [Feature Flags API: React Polling and Defensive Defaults for Delivery Status](https://dev.to/caderaven6851/feature-flags-api-react-polling-and-defensive-defaults-for-delivery-status-5d8f)
+- [Container Image Signing &amp; SLSA Provenance Verification with Sigstore Cosign](https://dev.to/aomiqaza/container-image-signing-slsa-provenance-verification-with-sigstore-cosign-56ce)
+- [Claude Code can make videos: it records the app, narrates with ElevenLabs, and syncs audio to video automatically](https://dev.to/chncwang/claude-code-can-make-videos-it-records-the-app-narrates-with-elevenlabs-and-syncs-audio-to-video-7g8)
+- [Why We Parse Industrial Code Instead of Embedding It](https://dev.to/nodeblue/why-we-parse-industrial-code-instead-of-embedding-it-5dko)
+- [What I Learned Stealing Ideas from Matt Pocock’s `.agents` Directory](https://dev.to/autorobot/what-i-learned-stealing-ideas-from-matt-pococks-agents-directory-3nbi)
 <!-- BLOG-POST-LIST:END -->
 
 
