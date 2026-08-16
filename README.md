@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Unpopular Opinion: Why I’m an AI Skeptic](https://dev.to/aws-builders/unpopular-opinion-why-im-an-ai-skeptic-35cf)
-- [[Boost]](https://dev.to/easbarba/-1336)
-- [The Model Didn’t Get Dumber. My Agent Skills Got Stale.](https://dev.to/evbermudez/the-model-didnt-get-dumber-my-agent-skills-got-stale-8cm)
-- [DeepSeek Code: A TUI for working in your terminal with DeepSeek!](https://dev.to/marcelo_maia/deepseek-code-a-tui-for-working-in-your-terminal-with-deepseek-2o4k)
+- [Complete Guide to Building a Scalable Java-Selenium Automation Framework](https://dev.to/shefali_qa/complete-guide-to-building-a-scalable-java-selenium-automation-framework-44fg)
+- [Playwright JavaScript Framework Best Practices](https://dev.to/shefali_qa/playwright-javascript-framework-best-practices-1b38)
+- [authority-auth: Stop Rolling Your Own Auth — A Framework-Agnostic Python Library](https://dev.to/rkriad585/authority-auth-stop-rolling-your-own-auth-a-framework-agnostic-python-library-232b)
+- [Building an offline CAD tool that can also turn photos into 3D meshes](https://dev.to/rx290/building-an-offline-cad-tool-that-can-also-turn-photos-into-3d-meshes-181p)
 <!-- BLOG-POST-LIST:END -->
 
 
