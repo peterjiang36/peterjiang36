@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of cookie banners so I turned my SaaS analytics into a pixel town](https://dev.to/omoll/i-got-tired-of-cookie-banners-so-i-turned-my-saas-analytics-into-a-pixel-town-1di8)
-- [Yield on cost — the dividend metric DRIP quietly builds](https://dev.to/a353551071/yield-on-cost-the-dividend-metric-drip-quietly-builds-pgm)
-- [Why HEIC breaks every browser-based image tool, and what it costs to fix](https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g)
-- [We treat a missing signature as suspicious. Should we?](https://dev.to/layercall/we-treat-a-missing-signature-as-suspicious-should-we-819)
+- [Unpopular Opinion: Why I’m an AI Skeptic](https://dev.to/aws-builders/unpopular-opinion-why-im-an-ai-skeptic-35cf)
+- [[Boost]](https://dev.to/easbarba/-1336)
+- [The Model Didn’t Get Dumber. My Agent Skills Got Stale.](https://dev.to/evbermudez/the-model-didnt-get-dumber-my-agent-skills-got-stale-8cm)
+- [DeepSeek Code: A TUI for working in your terminal with DeepSeek!](https://dev.to/marcelo_maia/deepseek-code-a-tui-for-working-in-your-terminal-with-deepseek-2o4k)
 <!-- BLOG-POST-LIST:END -->
 
 
