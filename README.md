@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [So, I Vibe Coded A Way Out, Again.](https://dev.to/realvorl/so-i-vibe-coded-a-way-out-again-heb)
-- [Cipr and Ciprnode zero](https://dev.to/barriteau/cipr-and-ciprnode-zero-1b89)
-- [Reverse Audio at Scale: A Debugging Playbook for Engineers Who Hate Surprise Sibilance](https://dev.to/lizely/reverse-audio-at-scale-a-debugging-playbook-for-engineers-who-hate-surprise-sibilance-47h9)
-- [Building a Customer Service AI Agent That Executes Workflows &lpar;Not Just Answers Questions&rpar; - Full Architecture](https://dev.to/dextralabs/building-a-customer-service-ai-agent-that-executes-workflows-not-just-answers-questions-full-4dd3)
+- [Building AI Prompt Lab with Java 21, Spring Boot and React 19](https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8)
+- [AI Can Find the Failure. Who Decides What the Fix Should Be?](https://dev.to/praiztech/ai-can-find-the-failure-who-decides-what-the-fix-should-be-18o5)
+- [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
+- [I built a content recommender as a graph, and it found similarities I wasn&#39;t looking for](https://dev.to/mbadr3227sys/i-built-a-content-recommender-as-a-graph-and-it-found-similarities-i-wasnt-looking-for-3kj7)
 <!-- BLOG-POST-LIST:END -->
 
 
