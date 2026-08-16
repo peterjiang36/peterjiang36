@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Entenda Ponteiros, simples e facil com Go](https://dev.to/lucasdasial/entenda-ponteiros-simples-e-facil-com-go-2nog)
-- [Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.](https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la)
-- [Frontend DevOps: mi mapa de recursos](https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7)
-- [ContextMemory v0.1.0-beta: what shipped](https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl)
+- [NestJS Error Capture: Tracking HTTP Exceptions Through Filter and Interceptor Boundaries](https://dev.to/elvrythn486209/nestjs-error-capture-tracking-http-exceptions-through-filter-and-interceptor-boundaries-3f6i)
+- [Stop Sending Your Vitals to the Cloud: Running Llama-3 Locally in the Browser with WebLLM &amp; WebGPU 🥑](https://dev.to/wellallytech/stop-sending-your-vitals-to-the-cloud-running-llama-3-locally-in-the-browser-with-webllm-webgpu-16jc)
+- [In the Beginning...](https://dev.to/professortom/in-the-beginning-5amp)
+- [A stale response can quietly break a recommendation tool](https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c)
 <!-- BLOG-POST-LIST:END -->
 
 
