@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built a Zero-Latency AI Utility Platform Running 100% in the Browser](https://dev.to/sir_lu_62bd118924537f9510/why-i-built-a-zero-latency-ai-utility-platform-running-100-in-the-browser-5fm4)
-- [Building UniFi Reactor: state-driven network automation for my Kubernetes homelab](https://dev.to/robbeverhelst/building-unifi-reactor-state-driven-network-automation-for-my-kubernetes-homelab-4k50)
-- [How Coin Toss Statistics Actually Work: A Developer&#39;s Field Notes on Two-Outcome Generators](https://dev.to/lizely/how-coin-toss-statistics-actually-work-a-developers-field-notes-on-two-outcome-generators-2a38)
-- [I Finally Understood Linux Repositories &lpar;Main, Universe, Restricted &amp; Multiverse&rpar; as a Linux Mint Beginner](https://dev.to/sunilpradhan/i-finally-understood-linux-repositories-main-universe-restricted-multiverse-as-a-linux-mint-5daf)
+- [Post Quantum TLS: What Hybrid Key Exchange Actually Changes](https://dev.to/michaelcarter09/post-quantum-tls-what-hybrid-key-exchange-actually-changes-4h9b)
+- [mobx-react-form is now mobx-formkit](https://dev.to/foxhound87/mobx-react-form-is-now-mobx-formkit-4kfm)
+- [Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5gl9)
 <!-- BLOG-POST-LIST:END -->
 
 
