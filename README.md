@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Preventing supply chain attacks: Yubikey 5, Code Signing &amp; SSH-Keys, the 3rh main step to secure your development workflow](https://dev.to/prinewgirl/preventing-supply-chain-attacks-yubikey-5-code-signing-ssh-keys-the-3rh-main-step-to-secure-1li3)
-- [The JavaScript Event Loop, Visualized](https://dev.to/audreyhal/the-javascript-event-loop-visualized-4dp7)
-- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
-- [Apple Pay in Flutter: The Easiest Implementation](https://dev.to/mryadavgulshan/apple-pay-in-flutter-the-easiest-implementation-17he)
+- [I got tired of cookie banners so I turned my SaaS analytics into a pixel town](https://dev.to/omoll/i-got-tired-of-cookie-banners-so-i-turned-my-saas-analytics-into-a-pixel-town-1di8)
+- [Yield on cost — the dividend metric DRIP quietly builds](https://dev.to/a353551071/yield-on-cost-the-dividend-metric-drip-quietly-builds-pgm)
+- [Why HEIC breaks every browser-based image tool, and what it costs to fix](https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g)
+- [We treat a missing signature as suspicious. Should we?](https://dev.to/layercall/we-treat-a-missing-signature-as-suspicious-should-we-819)
 <!-- BLOG-POST-LIST:END -->
 
 
