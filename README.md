@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Post Quantum TLS: What Hybrid Key Exchange Actually Changes](https://dev.to/michaelcarter09/post-quantum-tls-what-hybrid-key-exchange-actually-changes-4h9b)
-- [mobx-react-form is now mobx-formkit](https://dev.to/foxhound87/mobx-react-form-is-now-mobx-formkit-4kfm)
-- [Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5gl9)
+- [Solve It Once: Kelsey Hightower&#39;s Talk Applied to Security Verification](https://dev.to/bala_paranj_059d338e44e7e/solve-it-once-what-kelsey-hightowers-talk-taught-me-about-security-verification-2i0p)
+- [How We Got an LLM to Draw Charts Without Ever Touching a Pixel](https://dev.to/lovestaco/how-we-got-an-llm-to-draw-charts-without-ever-touching-a-pixel-1i21)
+- [Null Is Not Zero: Building a JavaScript SEO Audit That Admits Its Limits](https://dev.to/teknolojihaber/null-is-not-zero-building-a-javascript-seo-audit-that-admits-its-limits-28p5)
+- [Build an MCP server in Rust with rmcp: a walk-through 🦀](https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif)
 <!-- BLOG-POST-LIST:END -->
 
 
