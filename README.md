@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The actual cost of shipping an iOS app in 2026](https://dev.to/maclessdev/the-actual-cost-of-shipping-an-ios-app-in-2026-4242)
-- [GitHub Actions&#39; free macOS minutes, explained](https://dev.to/maclessdev/github-actions-free-macos-minutes-explained-33p7)
-- [Context Is a Platform Capability Now](https://dev.to/vscarpenter/context-is-a-platform-capability-now-2c7n)
-- [Why your TestFlight build doesn&#39;t show up after a successful upload](https://dev.to/maclessdev/why-your-testflight-build-doesnt-show-up-after-a-successful-upload-419f)
+- [&quot;Cron &#39;every 2 weeks&#39; doesn&#39;t exist. Here&#39;s the expression that actually works.&quot;](https://dev.to/developer_tech/cron-every-2-weeks-doesnt-exist-heres-the-expression-that-actually-works-2n5)
+- [Demystifying &#39;Cold Starts&#39; in Serverless: Why Your App Sometimes Shivers](https://dev.to/saurav_tb_pandey/demystifying-cold-starts-in-serverless-why-your-app-sometimes-shivers-2db8)
+- [EmpowerAgro: Bringing Real-Time Crop Disease Detection to India’s Smallholder Farmers with Google AI](https://dev.to/ak270704/empoweragro-bringing-real-time-crop-disease-detection-to-indias-smallholder-farmers-with-google-ai-l4d)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-10pa)
 <!-- BLOG-POST-LIST:END -->
 
 
