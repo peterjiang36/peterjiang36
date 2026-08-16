@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies](https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73)
-- [Building a Secure Enterprise AI Assistant: A Complete Architecture &amp; Usage Guide](https://dev.to/shell_qa/building-a-secure-enterprise-ai-assistant-a-complete-architecture-usage-guide-1gd3)
-- [A Detector That Only Ever Says &quot;Clean&quot; Proves Nothing](https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii)
-- [CanineIQ - Are You Actually Ready for the Dog You Want?](https://dev.to/an0n99x/canineiq-are-you-actually-ready-for-the-dog-you-want-c88)
+- [var in JavaScript](https://dev.to/abishek_m_82/understanding-var-in-javascript-21fp)
+- [How I&#39;m Learning AI in Public: My Roadmap](https://dev.to/anushka190921/how-im-learning-ai-in-public-my-roadmap-1988)
+- [i18n sin gettext: traducciones en JSON con claves de punto](https://dev.to/isazajuancarlos/i18n-sin-gettext-traducciones-en-json-con-claves-de-punto-48fd)
+- [I measured 7,032 WordPress plugins to find out how anyone gets their first install](https://dev.to/stackedboost/i-measured-7032-wordpress-plugins-to-find-out-how-anyone-gets-their-first-install-g4m)
 <!-- BLOG-POST-LIST:END -->
 
 
