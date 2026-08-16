@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Error Capture: Tracking HTTP Exceptions Through Filter and Interceptor Boundaries](https://dev.to/elvrythn486209/nestjs-error-capture-tracking-http-exceptions-through-filter-and-interceptor-boundaries-3f6i)
-- [Stop Sending Your Vitals to the Cloud: Running Llama-3 Locally in the Browser with WebLLM &amp; WebGPU 🥑](https://dev.to/wellallytech/stop-sending-your-vitals-to-the-cloud-running-llama-3-locally-in-the-browser-with-webllm-webgpu-16jc)
-- [In the Beginning...](https://dev.to/professortom/in-the-beginning-5amp)
-- [A stale response can quietly break a recommendation tool](https://dev.to/mrzhu/a-stale-response-can-quietly-break-a-recommendation-tool-3p9c)
+- [The actual cost of shipping an iOS app in 2026](https://dev.to/maclessdev/the-actual-cost-of-shipping-an-ios-app-in-2026-4242)
+- [GitHub Actions&#39; free macOS minutes, explained](https://dev.to/maclessdev/github-actions-free-macos-minutes-explained-33p7)
+- [Context Is a Platform Capability Now](https://dev.to/vscarpenter/context-is-a-platform-capability-now-2c7n)
+- [Why your TestFlight build doesn&#39;t show up after a successful upload](https://dev.to/maclessdev/why-your-testflight-build-doesnt-show-up-after-a-successful-upload-419f)
 <!-- BLOG-POST-LIST:END -->
 
 
