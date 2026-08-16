@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [var in JavaScript](https://dev.to/abishek_m_82/understanding-var-in-javascript-21fp)
-- [How I&#39;m Learning AI in Public: My Roadmap](https://dev.to/anushka190921/how-im-learning-ai-in-public-my-roadmap-1988)
-- [i18n sin gettext: traducciones en JSON con claves de punto](https://dev.to/isazajuancarlos/i18n-sin-gettext-traducciones-en-json-con-claves-de-punto-48fd)
-- [I measured 7,032 WordPress plugins to find out how anyone gets their first install](https://dev.to/stackedboost/i-measured-7032-wordpress-plugins-to-find-out-how-anyone-gets-their-first-install-g4m)
+- [Raku: a language that counts to infinity &lpar;Part 1&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-1-4h4l)
+- [Your dog walker says they went. This makes the walk say so too.](https://dev.to/arqamwd/your-dog-walker-says-they-went-this-makes-the-walk-say-so-too-29ai)
+- [How to Handle O365 Shared Mailboxes in CI/CD Test Automation](https://dev.to/shell_qa/how-to-handle-o365-shared-mailboxes-in-cicd-test-automation-pfa)
+- [How I Built a Chrome Extension to Analyze Viral Social Content &lpar;Statly&rpar;](https://dev.to/mthsocial/how-i-built-a-chrome-extension-to-analyze-viral-social-content-statly-1ebp)
 <!-- BLOG-POST-LIST:END -->
 
 
