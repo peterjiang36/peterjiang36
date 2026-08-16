@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Engineer&#39;s Reading List for 2026 &lpar;10 Books That Matter&rpar;](https://dev.to/somadevtoo/the-ai-engineers-reading-list-for-2026-10-books-that-matter-50pb)
-- [What Happens When an LLM Never Reads Beyond Fifth Grade?](https://dev.to/kaixintelligence/what-happens-when-an-llm-never-reads-beyond-fifth-grade-phj)
-- [Why your CSV diff tool is lying to you &lpar;and how to fix it&rpar;](https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm)
-- [Letting an LLM call your APIs without losing sleep](https://dev.to/ranaharoon3222/letting-an-llm-call-your-apis-without-losing-sleep-3fa4)
+- [Trend: Forbes Solo-Founder AI Playbook](https://dev.to/frederikvonderheyden/trend-forbes-solo-founder-ai-playbook-38fj)
+- [The Introvert with AI Intelligence: How AI Can Turn Deep Thinking into Lightning-Fast Innovation](https://dev.to/ranjancse/the-introvert-with-ai-intelligence-how-ai-can-turn-deep-thinking-into-lightning-fast-innovation-47l2)
+- [I re-scanned the launches I flagged last week — here&#39;s who actually shipped the fixes](https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k)
+- [What&#39;s actually inside an .eml file &lpar;and how to read one without Outlook&rpar;](https://dev.to/caseymarlin/whats-actually-inside-an-eml-file-and-how-to-read-one-without-outlook-3jp1)
 <!-- BLOG-POST-LIST:END -->
 
 
