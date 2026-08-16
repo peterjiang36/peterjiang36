@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Raku: a language that counts to infinity &lpar;Part 1&rpar;](https://dev.to/andrewshitov/raku-a-language-that-counts-to-infinity-part-1-4h4l)
-- [Your dog walker says they went. This makes the walk say so too.](https://dev.to/arqamwd/your-dog-walker-says-they-went-this-makes-the-walk-say-so-too-29ai)
-- [How to Handle O365 Shared Mailboxes in CI/CD Test Automation](https://dev.to/shell_qa/how-to-handle-o365-shared-mailboxes-in-cicd-test-automation-pfa)
-- [How I Built a Chrome Extension to Analyze Viral Social Content &lpar;Statly&rpar;](https://dev.to/mthsocial/how-i-built-a-chrome-extension-to-analyze-viral-social-content-statly-1ebp)
+- [Why Google Doesn&#39;t Index Some WordPress Pages: A Practical SEO Checklist](https://dev.to/mohamedmouatassim/why-google-doesnt-index-some-wordpress-pages-a-practical-seo-checklist-1m48)
+- [From Manual Clicking to Infrastructure as Code: My Terraform &amp; CloudFormation Journey — Like Leveling Up in Zelda](https://dev.to/timevolt/from-manual-clicking-to-infrastructure-as-code-my-terraform-cloudformation-journey-like-47no)
+- [Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud &amp; More Compared](https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c)
+- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
 <!-- BLOG-POST-LIST:END -->
 
 
