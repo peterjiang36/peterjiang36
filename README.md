@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Solve It Once: Kelsey Hightower&#39;s Talk Applied to Security Verification](https://dev.to/bala_paranj_059d338e44e7e/solve-it-once-what-kelsey-hightowers-talk-taught-me-about-security-verification-2i0p)
-- [How We Got an LLM to Draw Charts Without Ever Touching a Pixel](https://dev.to/lovestaco/how-we-got-an-llm-to-draw-charts-without-ever-touching-a-pixel-1i21)
-- [Null Is Not Zero: Building a JavaScript SEO Audit That Admits Its Limits](https://dev.to/teknolojihaber/null-is-not-zero-building-a-javascript-seo-audit-that-admits-its-limits-28p5)
-- [Build an MCP server in Rust with rmcp: a walk-through 🦀](https://dev.to/gde/build-an-mcp-server-in-rust-with-rmcp-a-walk-through-4cif)
+- [Preventing supply chain attacks: Yubikey 5, Code Signing &amp; SSH-Keys, the 3rh main step to secure your development workflow](https://dev.to/prinewgirl/preventing-supply-chain-attacks-yubikey-5-code-signing-ssh-keys-the-3rh-main-step-to-secure-1li3)
+- [The JavaScript Event Loop, Visualized](https://dev.to/audreyhal/the-javascript-event-loop-visualized-4dp7)
+- [Ichiraku Ramen — A Cozy Japanese Restaurant Landing Page 🍜🌸](https://dev.to/gamya_m/ichiraku-ramen-a-cozy-japanese-restaurant-landing-page-3pb8)
+- [Apple Pay in Flutter: The Easiest Implementation](https://dev.to/mryadavgulshan/apple-pay-in-flutter-the-easiest-implementation-17he)
 <!-- BLOG-POST-LIST:END -->
 
 
