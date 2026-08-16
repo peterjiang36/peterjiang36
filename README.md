@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Building a Scalable Java-Selenium Automation Framework](https://dev.to/shefali_qa/complete-guide-to-building-a-scalable-java-selenium-automation-framework-44fg)
-- [Playwright JavaScript Framework Best Practices](https://dev.to/shefali_qa/playwright-javascript-framework-best-practices-1b38)
-- [authority-auth: Stop Rolling Your Own Auth — A Framework-Agnostic Python Library](https://dev.to/rkriad585/authority-auth-stop-rolling-your-own-auth-a-framework-agnostic-python-library-232b)
-- [Building an offline CAD tool that can also turn photos into 3D meshes](https://dev.to/rx290/building-an-offline-cad-tool-that-can-also-turn-photos-into-3d-meshes-181p)
+- [Microsoft.Testing.Platform Crash-Resilient TRX: Keep Evidence When the Host Dies](https://dev.to/ssukhpinder/microsofttestingplatform-crash-resilient-trx-keep-evidence-when-the-host-dies-4b73)
+- [Building a Secure Enterprise AI Assistant: A Complete Architecture &amp; Usage Guide](https://dev.to/shell_qa/building-a-secure-enterprise-ai-assistant-a-complete-architecture-usage-guide-1gd3)
+- [A Detector That Only Ever Says &quot;Clean&quot; Proves Nothing](https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii)
+- [CanineIQ - Are You Actually Ready for the Dog You Want?](https://dev.to/an0n99x/canineiq-are-you-actually-ready-for-the-dog-you-want-c88)
 <!-- BLOG-POST-LIST:END -->
 
 
