@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [😋 I used historical restaurant menus to build a nice landing page](https://dev.to/adriens/i-used-historical-restaurant-menus-to-build-a-nice-landing-page-1hfl)
-- [Day 173 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-173-of-learning-mern-stack-36b5)
-- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-3ohj)
-- [Transformer Architecture Basics](https://dev.to/godofgeeks/transformer-architecture-basics-2ep2)
+- [The AI Engineer&#39;s Reading List for 2026 &lpar;10 Books That Matter&rpar;](https://dev.to/somadevtoo/the-ai-engineers-reading-list-for-2026-10-books-that-matter-50pb)
+- [What Happens When an LLM Never Reads Beyond Fifth Grade?](https://dev.to/kaixintelligence/what-happens-when-an-llm-never-reads-beyond-fifth-grade-phj)
+- [Why your CSV diff tool is lying to you &lpar;and how to fix it&rpar;](https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm)
+- [Letting an LLM call your APIs without losing sleep](https://dev.to/ranaharoon3222/letting-an-llm-call-your-apis-without-losing-sleep-3fa4)
 <!-- BLOG-POST-LIST:END -->
 
 
