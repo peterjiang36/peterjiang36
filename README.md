@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Prompt Lab with Java 21, Spring Boot and React 19](https://dev.to/certosinolab/building-ai-prompt-lab-with-java-21-spring-boot-and-react-19-46p8)
-- [AI Can Find the Failure. Who Decides What the Fix Should Be?](https://dev.to/praiztech/ai-can-find-the-failure-who-decides-what-the-fix-should-be-18o5)
-- [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
-- [I built a content recommender as a graph, and it found similarities I wasn&#39;t looking for](https://dev.to/mbadr3227sys/i-built-a-content-recommender-as-a-graph-and-it-found-similarities-i-wasnt-looking-for-3kj7)
+- [How I Built a Browser-Only Bubble Text Generator with SVG and Canvas](https://dev.to/luhw/how-i-built-a-browser-only-bubble-text-generator-with-svg-and-canvas-i65)
+- [Pet-Wallet: Building an Angular 20 Pet Management App with Gemini AI](https://dev.to/griffonknox/pet-wallet-building-an-angular-20-pet-management-app-with-gemini-ai-14j8)
+- [From API to GPU, Week 5: Tensors, the Data Structure Behind Every Model](https://dev.to/dramasamy/from-api-to-gpu-week-5-tensors-the-data-structure-behind-every-model-18gc)
+- [GeekNews Frontend Weekly Deep Dive - 2026-08-17](https://dev.to/ageofclick/geeknews-frontend-weekly-deep-dive-2026-08-17-l5i)
 <!-- BLOG-POST-LIST:END -->
 
 
