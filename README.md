@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I put my identity-depth scorer behind a public GET endpoint so you can argue with it](https://dev.to/zekebuilds/i-put-my-identity-depth-scorer-behind-a-public-get-endpoint-so-you-can-argue-with-it-1cgl)
-- [Good Boy Amnesia: An AI Detective Game where Memory IS the Gameplay 🐶🧠](https://dev.to/reet_singh_ee97da2986538e/good-boy-amnesia-an-ai-detective-game-where-memory-is-the-gameplay-5ap0)
-- [PawMatch: Finding the Dog That Matches Your Personality 🐾](https://dev.to/konark_13/pawmatch-finding-the-dog-that-matches-your-personality-gg5)
-- [Your LLM Skill can&#39;t do astronomy: why packaged divination Skills compute the wrong answer](https://dev.to/shanni/your-llm-skill-cant-do-astronomy-why-packaged-divination-skills-compute-the-wrong-answer-47nl)
+- [Cross-Browser Testing Tools: The 2026 Landscape &amp; Decision Framework](https://dev.to/maadhesh_d14697cfa10adfab/cross-browser-testing-tools-the-2026-landscape-decision-framework-84i)
+- [What the registry of a dying chain revealed](https://dev.to/sergeipalii/what-the-registry-of-a-dying-chain-revealed-1ha4)
+- [I Got Tired of $50/month YouTube SEO Tools, So I Built a Lightning-Fast Free Alternative with Next.js &amp; Groq AI 🚀](https://dev.to/freeviralkit/i-got-tired-of-50mo-youtube-seo-tools-so-i-built-a-lightning-fast-free-alternative-with-nextjs-5cl8)
+- [QH256 in C — A Deterministic 256-Bit State Structure for K501-AIONARC](https://dev.to/k501is/qh256-in-c-a-deterministic-256-bit-state-structure-for-k501-aionarc-3bji)
 <!-- BLOG-POST-LIST:END -->
 
 
