@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My best-looking GitHub Actions run shipped zero installs](https://dev.to/heinrichneb/my-best-looking-github-actions-run-shipped-zero-installs-1ee8)
-- [Your CI is not flaky. It fails every 7 days.](https://dev.to/heinrichneb/your-ci-is-not-flaky-it-fails-every-7-days-4ljd)
-- [Has your GitHub Actions gate ever said no?](https://dev.to/heinrichneb/has-your-github-actions-gate-ever-said-no-dj2)
-- [Parsing numbers from JSON in Python](https://dev.to/pomidoroshev/parsing-numbers-from-json-in-python-2e8c)
+- [PromptShrink](https://dev.to/heloisapegarcia/promptshrink-5hh0)
+- [The Agent Left the IDE](https://dev.to/prpatel05/the-agent-left-the-ide-39fo)
+- [The Outbox Pattern Is Not Enough](https://dev.to/ramesh-yara/the-outbox-pattern-is-not-enough-28g1)
+- [Architecting a Custom Purple Team Infrastructure Scanner in Go.](https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7)
 <!-- BLOG-POST-LIST:END -->
 
 
