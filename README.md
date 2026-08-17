@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Walk When You Can SKI: Ditching the Type-Wait-Check Loop for Voice Coding](https://dev.to/julie_elis_01325f/why-walk-when-you-can-ski-ditching-the-type-wait-check-loop-for-voice-coding-31b3)
-- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
-- [An Index Suggestion Is a Hypothesis, Not a Patch](https://dev.to/codepy_1473/an-index-suggestion-is-a-hypothesis-not-a-patch-20e4)
-- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
+- [I put my identity-depth scorer behind a public GET endpoint so you can argue with it](https://dev.to/zekebuilds/i-put-my-identity-depth-scorer-behind-a-public-get-endpoint-so-you-can-argue-with-it-1cgl)
+- [Good Boy Amnesia: An AI Detective Game where Memory IS the Gameplay 🐶🧠](https://dev.to/reet_singh_ee97da2986538e/good-boy-amnesia-an-ai-detective-game-where-memory-is-the-gameplay-5ap0)
+- [PawMatch: Finding the Dog That Matches Your Personality 🐾](https://dev.to/konark_13/pawmatch-finding-the-dog-that-matches-your-personality-gg5)
+- [Your LLM Skill can&#39;t do astronomy: why packaged divination Skills compute the wrong answer](https://dev.to/shanni/your-llm-skill-cant-do-astronomy-why-packaged-divination-skills-compute-the-wrong-answer-47nl)
 <!-- BLOG-POST-LIST:END -->
 
 
