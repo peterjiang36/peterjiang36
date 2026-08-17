@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross-Browser Testing Tools: The 2026 Landscape &amp; Decision Framework](https://dev.to/maadhesh_d14697cfa10adfab/cross-browser-testing-tools-the-2026-landscape-decision-framework-84i)
-- [What the registry of a dying chain revealed](https://dev.to/sergeipalii/what-the-registry-of-a-dying-chain-revealed-1ha4)
-- [I Got Tired of $50/month YouTube SEO Tools, So I Built a Lightning-Fast Free Alternative with Next.js &amp; Groq AI 🚀](https://dev.to/freeviralkit/i-got-tired-of-50mo-youtube-seo-tools-so-i-built-a-lightning-fast-free-alternative-with-nextjs-5cl8)
-- [QH256 in C — A Deterministic 256-Bit State Structure for K501-AIONARC](https://dev.to/k501is/qh256-in-c-a-deterministic-256-bit-state-structure-for-k501-aionarc-3bji)
+- [What I decided about model cost before I had users.](https://dev.to/yzvirblis/what-i-decided-about-model-cost-before-i-had-users-408e)
+- [The Hardest Part Isn&#39;t AI. It&#39;s Us](https://dev.to/manufosela/the-hardest-part-isnt-ai-its-us-bp9)
+- [Secrets Management for Test Automation: Handling Credentials Locally and in CI/CD Pipelines](https://dev.to/shell_qa/secrets-management-for-test-automation-handling-credentials-locally-and-in-cicd-pipelines-4pg)
+- [Rendering Custom Fonts to a 2048px PNG with Canvas](https://dev.to/hellokai/rendering-custom-fonts-to-a-2048px-png-with-canvas-2c03)
 <!-- BLOG-POST-LIST:END -->
 
 
