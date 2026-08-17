@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your robots.txt probably does not block the AI crawler you think it blocks](https://dev.to/angeo/your-robotstxt-probably-does-not-block-the-ai-crawler-you-think-it-blocks-5g3n)
-- [I Built a Bowl Builder Tool for Nawtch, and the Save Button Was Harder Than It Sounds](https://dev.to/uhdallas/i-built-a-bowl-builder-tool-for-nawtch-and-the-save-button-was-harder-than-it-sounds-8g4)
-- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
-- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
+- [My best-looking GitHub Actions run shipped zero installs](https://dev.to/heinrichneb/my-best-looking-github-actions-run-shipped-zero-installs-1ee8)
+- [Your CI is not flaky. It fails every 7 days.](https://dev.to/heinrichneb/your-ci-is-not-flaky-it-fails-every-7-days-4ljd)
+- [Has your GitHub Actions gate ever said no?](https://dev.to/heinrichneb/has-your-github-actions-gate-ever-said-no-dj2)
+- [Parsing numbers from JSON in Python](https://dev.to/pomidoroshev/parsing-numbers-from-json-in-python-2e8c)
 <!-- BLOG-POST-LIST:END -->
 
 
