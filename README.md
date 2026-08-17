@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Copilot Fix Its Own Security Findings? Testing GitHub Agentic Autofix](https://dev.to/pwd9000/can-copilot-fix-its-own-security-findings-testing-github-agentic-autofix-351b)
-- [Iniciando minha jornada em ADS: Configurando o ambiente com Git, VS Code e GitHub](https://dev.to/davidjrpereira/iniciando-minha-jornada-em-ads-configurando-o-ambiente-com-git-vs-code-e-github-2hdh)
-- [What breaks if I delete this file? React tooling can&#39;t answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
-- [Why I Built a Browser-Only Tool Platform &lpar;and What Broke That Rule&rpar;](https://dev.to/amritanshu_gaurav_8c70b9e/why-i-built-a-browser-only-tool-platform-and-what-broke-that-rule-16df)
+- [What I Learned Shipping My First Chrome Extension to the Web Store](https://dev.to/10aburnett/what-i-learned-shipping-my-first-chrome-extension-to-the-web-store-42lb)
+- [QUASAR: How Saliency-Weighted Reconstruction Closes the Loss Floor Gap in LLM Quantization-Aware Training](https://dev.to/prabhakar_chaudhary_7afe4/quasar-how-saliency-weighted-reconstruction-closes-the-loss-floor-gap-in-llm-quantization-aware-5akb)
+- [Overview of the RTOS Kernel Project](https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca)
+- [The Ecology of Engineering Teams](https://dev.to/druid628/the-ecology-of-engineering-teams-3jgg)
 <!-- BLOG-POST-LIST:END -->
 
 
