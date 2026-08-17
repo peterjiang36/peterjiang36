@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wish I Knew About Fast AI APIs Sooner — Here&#39;s the Full Breakdown](https://dev.to/gentleforge/i-wish-i-knew-about-fast-ai-apis-sooner-heres-the-full-breakdown-528b)
-- [Testing Payment Gateways in Flutter Without Real Money](https://dev.to/mryadavgulshan/testing-payment-gateways-in-flutter-without-real-money-jm)
-- [The Runbook as Infrastructure](https://dev.to/diyaburman/the-runbook-as-infrastructure-2ilc)
-- [Claude Code Silently Deleted a User&#39;s Entire Agent-Config Directory — Twice](https://dev.to/ramdai_bista/claude-code-silently-deleted-a-users-entire-agent-config-directory-twice-2fni)
+- [Can Copilot Fix Its Own Security Findings? Testing GitHub Agentic Autofix](https://dev.to/pwd9000/can-copilot-fix-its-own-security-findings-testing-github-agentic-autofix-351b)
+- [Iniciando minha jornada em ADS: Configurando o ambiente com Git, VS Code e GitHub](https://dev.to/davidjrpereira/iniciando-minha-jornada-em-ads-configurando-o-ambiente-com-git-vs-code-e-github-2hdh)
+- [What breaks if I delete this file? React tooling can&#39;t answer that.](https://dev.to/linb/what-breaks-if-i-delete-this-file-react-tooling-cant-answer-that-1eom)
+- [Why I Built a Browser-Only Tool Platform &lpar;and What Broke That Rule&rpar;](https://dev.to/amritanshu_gaurav_8c70b9e/why-i-built-a-browser-only-tool-platform-and-what-broke-that-rule-16df)
 <!-- BLOG-POST-LIST:END -->
 
 
