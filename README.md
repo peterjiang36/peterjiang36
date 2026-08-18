@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Lifecycle](https://dev.to/shameer_sh_mg/llm-lifecycle-1gei)
-- [How to Configure Parallel Execution in TestNG vs. Custom Excel Allocator](https://dev.to/shell_qa/how-to-configure-parallel-execution-in-testng-vs-custom-excel-allocator-4lo2)
-- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
-- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
+- [CompTIA CloudNetX &lpar;CNX-001&rpar;: What It Actually Tests, and Whether You&#39;re Ready](https://dev.to/develop_this_one/comptia-cloudnetx-cnx-001-what-it-actually-tests-and-whether-youre-ready-23j0)
+- [LLM Output Repetition Has Three Independent Causes, and Fixing One Isn&#39;t Enough](https://dev.to/amitesh0512/llm-output-repetition-has-three-independent-causes-and-fixing-one-isnt-enough-3n20)
+- [Your realtime UI can lie to you, and nothing logs it](https://dev.to/akosidencio/your-realtime-ui-can-lie-to-you-and-nothing-logs-it-5gbo)
+- [How to Build a Scalable IoT Architecture for Telecom Tower Monitoring](https://dev.to/perch_darbinyan_3954e7032/how-to-build-a-scalable-iot-architecture-for-telecom-tower-monitoring-cec)
 <!-- BLOG-POST-LIST:END -->
 
 
