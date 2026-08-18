@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OSI Model Explained — Understanding How Network Communication Works](https://dev.to/tejas_shinkar/osi-model-explained-understanding-how-network-communication-works-kn5)
-- [How Bluesky Draws Its Logo on Screenshots and Why It Matters for Platform Identity](https://dev.to/trismegistus/how-bluesky-draws-its-logo-on-screenshots-and-why-it-matters-for-platform-identity-1kfo)
-- [Why I run speech-to-text locally instead of calling a cloud API](https://dev.to/hannune/why-i-run-speech-to-text-locally-instead-of-calling-a-cloud-api-59j7)
-- [repomapper v0.1.0: guía operativa AGENTS.md para cualquier repositorio](https://dev.to/magopredator/repomapper-v010-guia-operativa-agentsmd-para-cualquier-repositorio-d09)
+- [DeepSeek vs Qwen vs Kimi vs GLM: Which One Should You Use?](https://dev.to/rarenode/deepseek-vs-qwen-vs-kimi-vs-glm-which-one-should-you-use-mhd)
+- [The day our scraper fleet shipped nothing — and the afternoon it shipped three](https://dev.to/devil_scrapes/the-day-our-scraper-fleet-shipped-nothing-and-the-afternoon-it-shipped-three-4jjo)
+- [What on-device should mean for a Mac AI assistant](https://dev.to/sarthakagrawal927/what-on-device-should-mean-for-a-mac-ai-assistant-2bkc)
+- [AI 辅助 i18n：我是怎么把 3 小时翻译压缩到 30 分钟的](https://dev.to/ggg_party_98c7744276773d6/ai-fu-zhu-i18nwo-shi-zen-yao-ba-3-xiao-shi-fan-yi-ya-suo-dao-30-fen-zhong-de-4po3)
 <!-- BLOG-POST-LIST:END -->
 
 
