@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Generated SQL Query Got Faster by Returning Fewer Rows. Test That Before You Merge It](https://dev.to/codepy_1473/a-generated-sql-query-got-faster-by-returning-fewer-rows-test-that-before-you-merge-it-h50)
-- [A Free Model vs 30 Security Advisory Records: An Accuracy Test You Can Rerun](https://dev.to/gitlab_3188/a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun-67h)
-- [DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect&#39;s Take](https://dev.to/bolddeck/deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take-278m)
-- [An ambiguity gate for AI coding agents: measure the request before writing code](https://dev.to/q00/an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code-4n75)
+- [OSI Model Explained — Understanding How Network Communication Works](https://dev.to/tejas_shinkar/osi-model-explained-understanding-how-network-communication-works-kn5)
+- [How Bluesky Draws Its Logo on Screenshots and Why It Matters for Platform Identity](https://dev.to/trismegistus/how-bluesky-draws-its-logo-on-screenshots-and-why-it-matters-for-platform-identity-1kfo)
+- [Why I run speech-to-text locally instead of calling a cloud API](https://dev.to/hannune/why-i-run-speech-to-text-locally-instead-of-calling-a-cloud-api-59j7)
+- [repomapper v0.1.0: guía operativa AGENTS.md para cualquier repositorio](https://dev.to/magopredator/repomapper-v010-guia-operativa-agentsmd-para-cualquier-repositorio-d09)
 <!-- BLOG-POST-LIST:END -->
 
 
