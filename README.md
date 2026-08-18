@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Urgent Compliance Notifications with Delivery Polling and Fallback Logic](https://dev.to/zanesterling7589/a-guide-to-urgent-compliance-notifications-with-delivery-polling-and-fallback-logic-llo)
-- [Building your own Git remote in under an hour](https://dev.to/calganaygun/building-your-own-git-remote-in-under-an-hour-1gjp)
-- [NVIDIA Blackwell NVL72 Overheating: Tundaan Masif ke Q1 2025, Hyperscaler Revisi Capex](https://dev.to/ibramedia/nvidia-blackwell-nvl72-overheating-tundaan-masif-ke-q1-2025-hyperscaler-revisi-capex-1h0c)
-- [Everything Is an Agent Now, and they are arguing with me](https://dev.to/uipath/everything-is-an-agent-now-and-they-are-arguing-with-me-5fpa)
+- [Prisma Studio is not an admin panel](https://dev.to/divinesta/prisma-studio-is-not-an-admin-panel-4d0m)
+- [OpenAI GPT-5.6 Launch Reshapes Its Model Line With Sol, Terra and Luna](https://dev.to/alifar/openai-gpt-56-launch-reshapes-its-model-line-with-sol-terra-and-luna-2j00)
+- [GPT-4o Mini Fine-Tuning: Evaluation-First Guide](https://dev.to/gateofai/gpt-4o-mini-fine-tuning-evaluation-first-guide-43n6)
+- [D-MO &lpar;Data Micro-Optimizer&rpar;](https://dev.to/omargpax/d-mo-data-micro-optimizer-244f)
 <!-- BLOG-POST-LIST:END -->
 
 
