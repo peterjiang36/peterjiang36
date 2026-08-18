@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CompTIA CloudNetX &lpar;CNX-001&rpar;: What It Actually Tests, and Whether You&#39;re Ready](https://dev.to/develop_this_one/comptia-cloudnetx-cnx-001-what-it-actually-tests-and-whether-youre-ready-23j0)
-- [LLM Output Repetition Has Three Independent Causes, and Fixing One Isn&#39;t Enough](https://dev.to/amitesh0512/llm-output-repetition-has-three-independent-causes-and-fixing-one-isnt-enough-3n20)
-- [Your realtime UI can lie to you, and nothing logs it](https://dev.to/akosidencio/your-realtime-ui-can-lie-to-you-and-nothing-logs-it-5gbo)
-- [How to Build a Scalable IoT Architecture for Telecom Tower Monitoring](https://dev.to/perch_darbinyan_3954e7032/how-to-build-a-scalable-iot-architecture-for-telecom-tower-monitoring-cec)
+- [Polyhost: Why I Built a Reference Stack Instead of a Framework](https://dev.to/sukkergris/polyhost-why-i-built-a-reference-stack-instead-of-a-framework-42hd)
+- [A Practical Guide to Learning AI in 2026: From Zero to Building Real Projects](https://dev.to/hwonhwon_kitty_869/a-practical-guide-to-learning-ai-in-2026-from-zero-to-building-real-projects-1opc)
+- [GPT-5.6 Sol&#39;s &#39;Best Vision Model&#39; Claim Is Roboflow&#39;s, Not OpenAI&#39;s](https://dev.to/vin-patel/gpt-56-sols-best-vision-model-claim-is-roboflows-not-openais-2hoj)
+- [Understanding Main package and arguments passing in Go.](https://dev.to/open_dev/understanding-main-package-and-arguments-passing-in-go-1a94)
 <!-- BLOG-POST-LIST:END -->
 
 
