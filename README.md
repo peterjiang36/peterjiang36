@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Certo na Teoria, Inútil na Prática: IA, Dívida de Conhecimento e o Sujeito Oculto da Liderança Técnica](https://dev.to/targanski/certo-na-teoria-inutil-na-pratica-ia-divida-de-conhecimento-e-o-sujeito-oculto-da-lideranca-dnk)
-- [Your AI Knows More About You Than You Think](https://dev.to/sairam_suravarapu/your-ai-knows-more-about-you-than-you-think-59l7)
-- [What the GitHub Outage Taught Us About Authentication Retries](https://dev.to/prasadmk/what-the-github-outage-taught-us-about-authentication-retries-1lbn)
-- [Should AI-Generated Code Be Labeled in Your Git History?](https://dev.to/nazar-boyko/should-ai-generated-code-be-labeled-in-your-git-history-4hff)
+- [.NET 10 dotnet tool exec: Pin the Version and Feed in CI](https://dev.to/ssukhpinder/net-10-dotnet-tool-exec-pin-the-version-and-feed-in-ci-2jgl)
+- [NiceGUI: crea una aplicación web en Python sin escribir JavaScript](https://dev.to/isazajuancarlos/nicegui-crea-una-aplicacion-web-en-python-sin-escribir-javascript-3kef)
+- [Java 11 New Features and Performance Improvements: A Practical Guide &lpar;2026-08-18 18:42&rpar;](https://dev.to/said_olano/java-11-new-features-and-performance-improvements-a-practical-guide-2026-08-18-1842-1op6)
+- [Building Suzi Chat: A retro MSN-style chat platform with mini-games](https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431)
 <!-- BLOG-POST-LIST:END -->
 
 
