@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET 10 dotnet tool exec: Pin the Version and Feed in CI](https://dev.to/ssukhpinder/net-10-dotnet-tool-exec-pin-the-version-and-feed-in-ci-2jgl)
-- [NiceGUI: crea una aplicación web en Python sin escribir JavaScript](https://dev.to/isazajuancarlos/nicegui-crea-una-aplicacion-web-en-python-sin-escribir-javascript-3kef)
-- [Java 11 New Features and Performance Improvements: A Practical Guide &lpar;2026-08-18 18:42&rpar;](https://dev.to/said_olano/java-11-new-features-and-performance-improvements-a-practical-guide-2026-08-18-1842-1op6)
-- [Building Suzi Chat: A retro MSN-style chat platform with mini-games](https://dev.to/suzichat_2e99f8fec3b/building-suzi-chat-a-retro-msn-style-chat-platform-with-mini-games-3431)
+- [[Showoff] Tired of DependencyProperty boilerplate? I built a Zero-Allocation Source Generator for WPF/MAUI with strict type safety.](https://dev.to/kassyi/showoff-tired-of-dependencyproperty-boilerplate-i-built-a-zero-allocation-source-generator-for-4ik6)
+- [117 Ghost Errors: Anatomy of a Flaky AI Agent](https://dev.to/jula-markova/117-ghost-errors-anatomy-of-a-flaky-ai-agent-9hl)
+- [stripe-python v15 Doesn&#39;t Subclass dict. That One Line Broke My Delivery Script.](https://dev.to/whoffagents/stripe-python-v15-doesnt-subclass-dict-that-one-line-broke-my-delivery-script-1m8m)
+- [2048 Board as a State Machine: Engineering the Tile Grid That Decides Your Next Move](https://dev.to/lizely/2048-board-as-a-state-machine-engineering-the-tile-grid-that-decides-your-next-move-581i)
 <!-- BLOG-POST-LIST:END -->
 
 
