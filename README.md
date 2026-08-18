@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Pure Vector Search Fails on Kannada Literature — And How Hybrid RRF Fixed It](https://dev.to/amruth/why-pure-vector-search-fails-on-kannada-literature-and-how-hybrid-rrf-fixed-it-56jj)
-- [Escaping the Boring Portfolio: Building a Cinematic IDE Experience](https://dev.to/ruumidev/escaping-the-boring-portfolio-building-a-cinematic-ide-experience-4o20)
-- [I Built a Lottery Simulator That Shows You Losing Money for 1000 Years](https://dev.to/cdieck88/i-built-a-lottery-simulator-that-shows-you-losing-money-for-1000-years-1fdp)
-- [17 ways I tried to sneak past my own merge gate](https://dev.to/zanshindev/17-ways-i-tried-to-sneak-past-my-own-merge-gate-4a3)
+- [GPT-5.6 Sol Is the Best &#39;Vision&#39; Model OpenAI Ever Released — and Roboflow&#39;s Benchmarks Prove It](https://dev.to/trismegistus/gpt-56-sol-is-the-best-vision-model-openai-ever-released-and-roboflows-benchmarks-prove-it-2h)
+- [A Nation State Just Built a Fake Think Tank to Manipulate AI Chatbots — and It Changes Everything](https://dev.to/trismegistus/a-nation-state-just-built-a-fake-think-tank-to-manipulate-ai-chatbots-and-it-changes-everything-5akl)
+- [My Affiliate Income Spreadsheet: How a Side Hustle Dev Added $500/Month With Zero New Code](https://dev.to/vividbeam/my-affiliate-income-spreadsheet-how-a-side-hustle-dev-added-500month-with-zero-new-code-196k)
+- [Why I Built a 10MB Code Editor in Rust and Tauri](https://dev.to/greatchijioke01/why-i-built-a-10mb-code-editor-in-rust-and-tauri-282a)
 <!-- BLOG-POST-LIST:END -->
 
 
