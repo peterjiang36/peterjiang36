@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a Polymarket trading bot &lpar;50ms delay edition&rpar;](https://dev.to/soulcrancerdev/how-to-build-a-polymarket-trading-bot-50ms-delay-edition-20o4)
-- [How to Debug Android Chrome Browser Logs from a Windows Laptop](https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib)
-- [Hashing across architectures](https://dev.to/geauxvirtual/hashing-across-architectures-3fb4)
-- [&quot;It works on my machine&quot;](https://dev.to/geauxvirtual/it-works-on-my-machine-741)
+- [A Generated SQL Query Got Faster by Returning Fewer Rows. Test That Before You Merge It](https://dev.to/codepy_1473/a-generated-sql-query-got-faster-by-returning-fewer-rows-test-that-before-you-merge-it-h50)
+- [A Free Model vs 30 Security Advisory Records: An Accuracy Test You Can Rerun](https://dev.to/gitlab_3188/a-free-model-vs-30-security-advisory-records-an-accuracy-test-you-can-rerun-67h)
+- [DeepSeek vs Qwen vs Kimi vs GLM: A Cloud Architect&#39;s Take](https://dev.to/bolddeck/deepseek-vs-qwen-vs-kimi-vs-glm-a-cloud-architects-take-278m)
+- [An ambiguity gate for AI coding agents: measure the request before writing code](https://dev.to/q00/an-ambiguity-gate-for-ai-coding-agents-measure-the-request-before-writing-code-4n75)
 <!-- BLOG-POST-LIST:END -->
 
 
