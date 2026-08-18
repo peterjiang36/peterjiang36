@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Visualize a PostgreSQL Schema: 5 Ways Compared](https://dev.to/not_varunkv/how-to-visualize-a-postgre-schema-5-ways-compared-35od)
-- [I read the docs of 9 WordPress AI search plugins. Three run TF-IDF and four send you a second bill.](https://dev.to/gronrafal/i-read-the-docs-of-9-wordpress-ai-search-plugins-three-run-tf-idf-and-four-send-you-a-second-bill-5812)
-- [Why systemctl --user daemon-reload silently does nothing](https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9)
-- [There is always another way](https://dev.to/thedumebi/there-is-always-another-way-enl)
+- [Your verifier will be gamed by the thing it verifies](https://dev.to/checksumstudio/your-verifier-will-be-gamed-by-the-thing-it-verifies-1e4d)
+- [Moving from AI-Assisted Engineering to AI-Agentic Software Engineering](https://dev.to/sajithv91/moving-from-ai-assisted-engineering-to-ai-agentic-software-engineering-4i2p)
+- [Startup or Enterprise? How to Pick the Right AI API Stack](https://dev.to/rileykim/startup-or-enterprise-how-to-pick-the-right-ai-api-stack-3h8i)
+- [Automating Daily Bluesky Posts with a JSON‑Driven Content Pipeline](https://dev.to/zaerohell/automating-daily-bluesky-posts-with-a-json-driven-content-pipeline-18b2)
 <!-- BLOG-POST-LIST:END -->
 
 
