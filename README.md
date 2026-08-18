@@ -74,17 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [New tabs are usually just… blank.
-
-So I built Cosmos, a new-tab workspace with something I haven’t seen done well:
-Developer + Designer widgets. 👨‍💻🎨
-
-Your apps, bookmarks &amp; useful info, right where you start working.
-
-cosmos-newtab.vercel.app](https://dev.to/uiuxsatyam/new-tabs-are-usually-just-blank-so-i-built-cosmos-a-new-tab-workspace-with-something-i-havent-398m)
-- [Multi-Armed Bandit Testing: How It Works and When to Use](https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd)
-- [When Rider Forgets How to Write Assembly Definitions: My Day-Long Fight With UnityAtoms](https://dev.to/mario_mignemi/the-rider-bug-thats-probably-already-in-your-project-you-just-havent-noticed-yet-2p0c)
-- [How to Choose a Minimum Detectable Effect &lpar;MDE&rpar;](https://dev.to/david_sert/how-to-choose-a-minimum-detectable-effect-mde-2k31)
+- [Getting Started with WEKA: A Beginner’s Guide to Machine Learning Without Code](https://dev.to/prabhat_anand_9b7f07dcfb4/getting-started-with-weka-a-beginners-guide-to-machine-learning-without-code-1021)
+- [Codex Maxxing: The Copy-Paste Skill I Use to Ship with Agents](https://dev.to/devansh365/codex-maxxing-the-copy-paste-skill-i-use-to-ship-with-agents-4ahh)
+- [How to Compress a GIF Without Losing Quality &lpar;2026 Guide&rpar;](https://dev.to/gavin2020/how-to-compress-a-gif-without-losing-quality-2026-guide-365a)
+- [How to Use the SH-C30L USB-to-CAN Adapter with Arduino UNO and MCP2515](https://dev.to/play_withcircuit_241ef87/how-to-use-the-sh-c30l-usb-to-can-adapter-with-arduino-uno-and-mcp2515-p8n)
 <!-- BLOG-POST-LIST:END -->
 
 
