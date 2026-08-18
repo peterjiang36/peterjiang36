@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Laptop Is a Credential Store: Complete Map of Hidden Secrets](https://dev.to/gitguardian/every-laptop-is-a-credential-store-complete-map-of-hidden-secrets-187c)
-- [When AI Agents Turn on Each Other: Anthropic&#39;s Frontier Red Team Exposes Six Deadly Failure Modes in Multi-Agent Systems](https://dev.to/sanyaduan/when-ai-agents-turn-on-each-other-anthropics-frontier-red-team-exposes-six-deadly-failure-modes-2cfj)
-- [Flutter Streaming UI: How the Typewriter Experience of AI Replies Is Built](https://dev.to/yuelinghuashu/flutter-streaming-ui-how-the-typewriter-experience-of-ai-replies-is-built-371l)
-- [Flock em Wisconsin: Por que 200 cidades removeram as câmeras e o que fazer](https://dev.to/leojulieta/flock-em-wisconsin-por-que-200-cidades-removeram-as-cameras-e-o-que-fazer-374m)
+- [Come consegnare un security audit degli header HTTP che il cliente capisce davvero](https://dev.to/cub4nh1/come-consegnare-un-security-audit-degli-header-http-che-il-cliente-capisce-davvero-53nm)
+- [I audited six token usage trackers. They disagree with each other by 2x to 8x.](https://dev.to/lizhuojunx86/i-audited-six-token-usage-trackers-they-disagree-with-each-other-by-2x-to-8x-2b1h)
+- [I Ran 1,400 WHOIS Lookups. 18 Domains Were Compromised.](https://dev.to/onizuka/i-ran-1400-whois-lookups-18-domains-were-compromised-1cd6)
+- [Read-Only Kubernetes Access for AI Agents: Why &quot;Please Don&#39;t Delete Anything&quot; Isn&#39;t a Security Boundary](https://dev.to/granite-so/read-only-kubernetes-access-for-ai-agents-why-please-dont-delete-anything-isnt-a-security-2cem)
 <!-- BLOG-POST-LIST:END -->
 
 
