@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your verifier will be gamed by the thing it verifies](https://dev.to/checksumstudio/your-verifier-will-be-gamed-by-the-thing-it-verifies-1e4d)
-- [Moving from AI-Assisted Engineering to AI-Agentic Software Engineering](https://dev.to/sajithv91/moving-from-ai-assisted-engineering-to-ai-agentic-software-engineering-4i2p)
-- [Startup or Enterprise? How to Pick the Right AI API Stack](https://dev.to/rileykim/startup-or-enterprise-how-to-pick-the-right-ai-api-stack-3h8i)
-- [Automating Daily Bluesky Posts with a JSON‑Driven Content Pipeline](https://dev.to/zaerohell/automating-daily-bluesky-posts-with-a-json-driven-content-pipeline-18b2)
+- [The Cheapest AI APIs in 2026: A Bootcamp Grad&#39;s Deep Dive](https://dev.to/swift-logic-io218/the-cheapest-ai-apis-in-2026-a-bootcamp-grads-deep-dive-1ene)
+- [One Lookup Table Turned a Risky Server Migration Into a One-Line Change](https://dev.to/techwithhari/one-lookup-table-turned-a-risky-server-migration-into-a-one-line-change-2mf8)
+- [If you can&#39;t answer &quot;Where do you see yourself in 5 years?&quot; — you&#39;re not broken&quot;](https://dev.to/shinya_saita/if-you-cant-answer-where-do-you-see-yourself-in-5-years-youre-not-broken-57f3)
+- [Saving 50-70% on Coding Agent Bills: Protecting Prompt Cache Affinity with VMR](https://dev.to/dhpp/saving-50-70-on-coding-agent-bills-protecting-prompt-cache-affinity-with-vmr-3d2j)
 <!-- BLOG-POST-LIST:END -->
 
 
