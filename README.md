@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with WEKA: A Beginner’s Guide to Machine Learning Without Code](https://dev.to/prabhat_anand_9b7f07dcfb4/getting-started-with-weka-a-beginners-guide-to-machine-learning-without-code-1021)
-- [Codex Maxxing: The Copy-Paste Skill I Use to Ship with Agents](https://dev.to/devansh365/codex-maxxing-the-copy-paste-skill-i-use-to-ship-with-agents-4ahh)
-- [How to Compress a GIF Without Losing Quality &lpar;2026 Guide&rpar;](https://dev.to/gavin2020/how-to-compress-a-gif-without-losing-quality-2026-guide-365a)
-- [How to Use the SH-C30L USB-to-CAN Adapter with Arduino UNO and MCP2515](https://dev.to/play_withcircuit_241ef87/how-to-use-the-sh-c30l-usb-to-can-adapter-with-arduino-uno-and-mcp2515-p8n)
+- [Why Pure Vector Search Fails on Kannada Literature — And How Hybrid RRF Fixed It](https://dev.to/amruth/why-pure-vector-search-fails-on-kannada-literature-and-how-hybrid-rrf-fixed-it-56jj)
+- [Escaping the Boring Portfolio: Building a Cinematic IDE Experience](https://dev.to/ruumidev/escaping-the-boring-portfolio-building-a-cinematic-ide-experience-4o20)
+- [I Built a Lottery Simulator That Shows You Losing Money for 1000 Years](https://dev.to/cdieck88/i-built-a-lottery-simulator-that-shows-you-losing-money-for-1000-years-1fdp)
+- [17 ways I tried to sneak past my own merge gate](https://dev.to/zanshindev/17-ways-i-tried-to-sneak-past-my-own-merge-gate-4a3)
 <!-- BLOG-POST-LIST:END -->
 
 
