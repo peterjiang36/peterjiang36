@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Come consegnare un security audit degli header HTTP che il cliente capisce davvero](https://dev.to/cub4nh1/come-consegnare-un-security-audit-degli-header-http-che-il-cliente-capisce-davvero-53nm)
-- [I audited six token usage trackers. They disagree with each other by 2x to 8x.](https://dev.to/lizhuojunx86/i-audited-six-token-usage-trackers-they-disagree-with-each-other-by-2x-to-8x-2b1h)
-- [I Ran 1,400 WHOIS Lookups. 18 Domains Were Compromised.](https://dev.to/onizuka/i-ran-1400-whois-lookups-18-domains-were-compromised-1cd6)
-- [Read-Only Kubernetes Access for AI Agents: Why &quot;Please Don&#39;t Delete Anything&quot; Isn&#39;t a Security Boundary](https://dev.to/granite-so/read-only-kubernetes-access-for-ai-agents-why-please-dont-delete-anything-isnt-a-security-2cem)
+- [How to Visualize a PostgreSQL Schema: 5 Ways Compared](https://dev.to/not_varunkv/how-to-visualize-a-postgre-schema-5-ways-compared-35od)
+- [I read the docs of 9 WordPress AI search plugins. Three run TF-IDF and four send you a second bill.](https://dev.to/gronrafal/i-read-the-docs-of-9-wordpress-ai-search-plugins-three-run-tf-idf-and-four-send-you-a-second-bill-5812)
+- [Why systemctl --user daemon-reload silently does nothing](https://dev.to/vainamoinen/why-systemctl-user-daemon-reload-silently-does-nothing-4ig9)
+- [There is always another way](https://dev.to/thedumebi/there-is-always-another-way-enl)
 <!-- BLOG-POST-LIST:END -->
 
 
