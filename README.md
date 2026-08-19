@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Idle load balancers: the ~$16/month each you forgot to delete&quot;](https://dev.to/jorelfermin/idle-load-balancers-the-16month-each-you-forgot-to-delete-548f)
-- [You Benchmarked the Model. Now Benchmark the Server.](https://dev.to/gitlab_3188/you-benchmarked-the-model-now-benchmark-the-server-4df5)
-- [Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan](https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1)
-- [Case Study: A Free Model Wrote a C++ Tree Hasher. The Reference Oracle Found Three Bugs.](https://dev.to/datacpp_8185/case-study-a-free-model-wrote-a-c-tree-hasher-the-reference-oracle-found-three-bugs-dm1)
+- [AI Engine Pipeline Recasts Landing-Page Optimization for Pre-Click Discovery](https://dev.to/alifar/ai-engine-pipeline-recasts-landing-page-optimization-for-pre-click-discovery-4832)
+- [The Bun rewrite proves &#39;never rewrite from scratch&#39; was always a cope](https://dev.to/adioof/the-bun-rewrite-proves-never-rewrite-from-scratch-was-always-a-cope-4iog)
+- [The Cognito war stories: four ways it breaks an MCP server, and the fix for each](https://dev.to/akashy/the-cognito-war-stories-four-ways-it-breaks-an-mcp-server-and-the-fix-for-each-2fim)
+- [Dynamic machine ID leases in Elixir](https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj)
 <!-- BLOG-POST-LIST:END -->
 
 
