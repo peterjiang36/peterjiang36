@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Developer Interview Preparation: What to Practice Beyond Coding](https://dev.to/nishu_singh_0b390dd0e82a6/python-developer-interview-preparation-what-to-practice-beyond-coding-4dni)
-- [Custom Software Development: What I Wish I Knew Before Starting](https://dev.to/wpwebinfotech/custom-software-development-what-i-wish-i-knew-before-starting-3d3j)
-- [How to upload a file over JSON-RPC, when JSON has no type for a file](https://dev.to/otezvikentiy/how-to-upload-a-file-over-json-rpc-when-json-has-no-type-for-a-file-5g76)
-- [How I built an Open Budget Uzbekistan Telegram bot with AI captcha solving](https://dev.to/jahongir_tajiboyev_b806d0/how-i-built-an-open-budget-uzbekistan-telegram-bot-with-ai-captcha-solving-4l3m)
+- [When People Were People, They Wrote Words](https://dev.to/jupitersoft/when-people-were-people-they-wrote-words-4glj)
+- [Prompt Injection Is a Permissions Problem, Not a Model Problem](https://dev.to/msmyaqoob25/prompt-injection-is-a-permissions-problem-not-a-model-problem-59fk)
+- [Daily Dose of DevOps — GitHub Actions basics for DevOps](https://dev.to/marco13moo/daily-dose-of-devops-github-actions-basics-for-devops-48b9)
+- [Unity Mipmaps Beyond Smaller Textures: Temporal Stability, Streaming, and Semantic Mips](https://dev.to/gamedevtoollab/unity-mipmaps-beyond-smaller-textures-temporal-stability-streaming-and-semantic-mips-38ck)
 <!-- BLOG-POST-LIST:END -->
 
 
