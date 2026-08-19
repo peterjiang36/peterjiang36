@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrate EBS gp2 volumes to gp3 and cut storage cost by about 20%](https://dev.to/jorelfermin/migrate-ebs-gp2-volumes-to-gp3-and-cut-storage-cost-by-about-20-2fk7)
-- [Opus 5: Review bottleneck](https://dev.to/reporails/opus-5-review-bottleneck-2c6p)
-- [60-Second TWAP Settlement on Polymarket: Detailed Impact Analysis](https://dev.to/abrownfox001/60-second-twap-settlement-on-polymarket-detailed-impact-analysis-38nk)
-- [What I Found While Exploring AI-Powered Test Automation](https://dev.to/sri_ramya_1205/what-i-found-while-exploring-ai-powered-test-automation-3hkk)
+- [Idle load balancers: the ~$16/month each you forgot to delete&quot;](https://dev.to/jorelfermin/idle-load-balancers-the-16month-each-you-forgot-to-delete-548f)
+- [You Benchmarked the Model. Now Benchmark the Server.](https://dev.to/gitlab_3188/you-benchmarked-the-model-now-benchmark-the-server-4df5)
+- [Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan](https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1)
+- [Case Study: A Free Model Wrote a C++ Tree Hasher. The Reference Oracle Found Three Bugs.](https://dev.to/datacpp_8185/case-study-a-free-model-wrote-a-c-tree-hasher-the-reference-oracle-found-three-bugs-dm1)
 <!-- BLOG-POST-LIST:END -->
 
 
