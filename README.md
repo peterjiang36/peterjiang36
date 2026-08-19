@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Practice Programs](https://dev.to/dev_saravanan_journey/python-practice-programs-56ob)
-- [Hyperia 0.17.5 is Released](https://dev.to/kordless/hyperia-0175-is-released-4kk9)
-- [QZ Tray with React: Print Directly from the Browser](https://dev.to/juliusz_kowalewski_ff40e0/qz-tray-with-react-print-directly-from-the-browser-1h39)
-- [Your idempotency test probably cannot fail](https://dev.to/igor_potapenko/your-idempotency-test-probably-cannot-fail-39g0)
+- [Sandboxed Code Evaluation for AI-Generated Outputs — How I Built SafeCode Arena](https://dev.to/flipslidersand/sandboxed-code-evaluation-for-ai-generated-outputs-how-i-built-safecode-arena-1468)
+- [What Happens When Your AI Feature Fails?](https://dev.to/lukaswalter/what-happens-when-your-ai-feature-fails-4d5e)
+- [Scanning 50,000 WooCommerce Products Without Hitting a PHP Timeout](https://dev.to/arcsviel/scanning-50000-woocommerce-products-without-hitting-a-php-timeout-5fl)
+- [I Built a Privacy Layer for AI Coding Tools — CodeMask UI and CodeMask Proxy](https://dev.to/shubhamdevops/i-built-a-privacy-layer-for-ai-coding-tools-codemask-ui-and-codemask-proxy-3ne6)
 <!-- BLOG-POST-LIST:END -->
 
 
