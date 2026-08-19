@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Forking Macro: A Technical Walkthrough of Agent Collaboration](https://dev.to/harshithvaddiparthy/forking-macro-a-technical-walkthrough-of-agent-collaboration-6ab)
-- [Try GreenOps Scan Safely: Create a Read-Only AWS Profile First](https://dev.to/spidgorny/try-greenops-scan-safely-create-a-read-only-aws-profile-first-3nle)
-- [GreenOps vs. AWS Native Cost &amp; Carbon Tools](https://dev.to/spidgorny/greenops-vs-aws-native-cost-carbon-tools-571k)
-- [Graphify: Turn Codebases into Knowledge Graphs to Slash AI Token Costs](https://dev.to/terminalchai/graphify-turn-codebases-into-knowledge-graphs-to-slash-ai-token-costs-3lfb)
+- [5 Portable Agent Skills for OpenCode and Claude Code](https://dev.to/israelsaba/5-portable-agent-skills-for-opencode-and-claude-code-2a30)
+- [Replaying real-time telemetry through a live rendering pipeline, without touching the components](https://dev.to/jaya_chapparam/replaying-real-time-telemetry-through-a-live-rendering-pipeline-without-touching-the-components-4g33)
+- [OpenAI Expands Zero Data Retention Options for Frontier Model Enterprise Workloads](https://dev.to/alifar/openai-expands-zero-data-retention-options-for-frontier-model-enterprise-workloads-bjb)
+- [Imagine Having a Heroku Mobile App](https://dev.to/madalitsonyemba/imagine-having-a-heroku-mobile-appa-27o8)
 <!-- BLOG-POST-LIST:END -->
 
 
