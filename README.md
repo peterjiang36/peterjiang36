@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engine Pipeline Recasts Landing-Page Optimization for Pre-Click Discovery](https://dev.to/alifar/ai-engine-pipeline-recasts-landing-page-optimization-for-pre-click-discovery-4832)
-- [The Bun rewrite proves &#39;never rewrite from scratch&#39; was always a cope](https://dev.to/adioof/the-bun-rewrite-proves-never-rewrite-from-scratch-was-always-a-cope-4iog)
-- [The Cognito war stories: four ways it breaks an MCP server, and the fix for each](https://dev.to/akashy/the-cognito-war-stories-four-ways-it-breaks-an-mcp-server-and-the-fix-for-each-2fim)
-- [Dynamic machine ID leases in Elixir](https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj)
+- [Forking Macro: A Technical Walkthrough of Agent Collaboration](https://dev.to/harshithvaddiparthy/forking-macro-a-technical-walkthrough-of-agent-collaboration-6ab)
+- [Try GreenOps Scan Safely: Create a Read-Only AWS Profile First](https://dev.to/spidgorny/try-greenops-scan-safely-create-a-read-only-aws-profile-first-3nle)
+- [GreenOps vs. AWS Native Cost &amp; Carbon Tools](https://dev.to/spidgorny/greenops-vs-aws-native-cost-carbon-tools-571k)
+- [Graphify: Turn Codebases into Knowledge Graphs to Slash AI Token Costs](https://dev.to/terminalchai/graphify-turn-codebases-into-knowledge-graphs-to-slash-ai-token-costs-3lfb)
 <!-- BLOG-POST-LIST:END -->
 
 
