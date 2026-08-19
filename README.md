@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local-first AI video dubbing pipeline with WhisperX + VoxCPM2](https://dev.to/kadirb4rut/i-built-a-local-first-ai-video-dubbing-pipeline-with-whisperx-voxcpm2-1bek)
-- [Barrel files are the clean-code habit quietly wrecking your bundle](https://dev.to/adioof/barrel-files-are-the-clean-code-habit-quietly-wrecking-your-bundle-1cn6)
-- [Anthropic Hits $65 Billion Revenue Run Rate, Surpassing OpenAI](https://dev.to/hunter_g_50e2ec233acd07b5/anthropic-hits-65-billion-revenue-run-rate-surpassing-openai-36pg)
-- [Google Was Indexing My New Site in Hours. Then I Scaled Too Fast.](https://dev.to/ruishan_yuian_63f1d154/google-was-indexing-my-new-site-in-hours-then-i-scaled-too-fast-4al3)
+- [Why Synthesia Owns Its Video Player, Not Just an API](https://dev.to/epplusuk/why-synthesia-owns-its-video-player-not-just-an-api-237f)
+- [Stripe Says Paid, WooCommerce Says Pending: A Safe Reconciliation Checklist](https://dev.to/moxianyu6975cpu/stripe-says-paid-woocommerce-says-pending-a-safe-reconciliation-checklist-nml)
+- [My agent had two rules and obeyed neither](https://dev.to/gilneto8/my-agent-had-two-rules-and-obeyed-neither-4940)
+- [Your firewall log knows a connection happened and nothing about what it carried](https://dev.to/tiltedlunar123/your-firewall-log-knows-a-connection-happened-and-nothing-about-what-it-carried-5dka)
 <!-- BLOG-POST-LIST:END -->
 
 
