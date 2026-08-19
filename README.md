@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Only Honest Answer Most Enterprises Have Left.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-only-honest-answer-most-enterprises-have-left-1m7j)
-- [How to find a device by its MAC address](https://dev.to/deviceshelf/how-to-find-a-device-by-its-mac-address-34d0)
-- [AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8)
-- [Quantum Computing: A Complete Learning Path](https://dev.to/malcolmlow/quantum-computing-a-complete-learning-path-3c67)
+- [Migrate EBS gp2 volumes to gp3 and cut storage cost by about 20%](https://dev.to/jorelfermin/migrate-ebs-gp2-volumes-to-gp3-and-cut-storage-cost-by-about-20-2fk7)
+- [Opus 5: Review bottleneck](https://dev.to/reporails/opus-5-review-bottleneck-2c6p)
+- [60-Second TWAP Settlement on Polymarket: Detailed Impact Analysis](https://dev.to/abrownfox001/60-second-twap-settlement-on-polymarket-detailed-impact-analysis-38nk)
+- [What I Found While Exploring AI-Powered Test Automation](https://dev.to/sri_ramya_1205/what-i-found-while-exploring-ai-powered-test-automation-3hkk)
 <!-- BLOG-POST-LIST:END -->
 
 
