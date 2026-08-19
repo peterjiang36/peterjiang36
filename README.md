@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When People Were People, They Wrote Words](https://dev.to/jupitersoft/when-people-were-people-they-wrote-words-4glj)
-- [Prompt Injection Is a Permissions Problem, Not a Model Problem](https://dev.to/msmyaqoob25/prompt-injection-is-a-permissions-problem-not-a-model-problem-59fk)
-- [Daily Dose of DevOps — GitHub Actions basics for DevOps](https://dev.to/marco13moo/daily-dose-of-devops-github-actions-basics-for-devops-48b9)
-- [Unity Mipmaps Beyond Smaller Textures: Temporal Stability, Streaming, and Semantic Mips](https://dev.to/gamedevtoollab/unity-mipmaps-beyond-smaller-textures-temporal-stability-streaming-and-semantic-mips-38ck)
+- [Docker, Index, and a very expensive lesson in reading pricing tables](https://dev.to/miles_huynh/docker-index-and-a-very-expensive-lesson-in-reading-pricing-tables-2k96)
+- [AI coding agent usage limits: what actually resets, and when](https://dev.to/sam_novak_574b07811e18495/ai-coding-agent-usage-limits-what-actually-resets-and-when-7h4)
+- [A Practical Workflow for Delegating Software Tasks to AI Agents](https://dev.to/paruyryan/a-practical-workflow-for-delegating-software-tasks-to-ai-agents-4epe)
+- [MCP, Subagents, and Hooks in Claude Code: The Guide I Wish I&#39;d Had](https://dev.to/alvarito1983/mcp-subagents-and-hooks-in-claude-code-the-guide-i-wish-id-had-4gg)
 <!-- BLOG-POST-LIST:END -->
 
 
