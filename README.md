@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learnt Git Rebasing the hard way](https://dev.to/satwiksps/learnt-git-rebassing-the-hard-way-2dmd)
-- [Namecheap closes every auction at 11:00 AM ET. Last-second bidding is a myth.](https://dev.to/markfulton/namecheap-closes-every-auction-at-1100-am-et-last-second-bidding-is-a-myth-3kbl)
-- [GrapheneOS 2027: Premium Phones Get Real‑World Privacy](https://dev.to/leojulieta/grapheneos-2027-premium-phones-get-real-world-privacy-2cfb)
-- [Passing GSoC Midterms](https://dev.to/satwiksps/passing-gsoc-midterms-24kf)
+- [Checking your A/B test every morning makes it lie to you](https://dev.to/msakai/checking-your-ab-test-every-morning-makes-it-lie-to-you-57nb)
+- [Elevated Errors on Claude Opus 5 Impacting Automation Workflows](https://dev.to/felipejac/elevated-errors-on-claude-opus-5-impacting-automation-workflows-2fma)
+- [Deploying a QAT Checkpoint Your Serving Stack Can&#39;t Load: Gemma 4 E2B in Pure JAX on One TPU](https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm)
+- [We Cut Lambda Cold Starts 56% — Three Wrong Turns Before the Real SnapStart Fix](https://dev.to/cloudwiseteam/we-cut-lambda-cold-starts-56-three-wrong-turns-before-the-real-snapstart-fix-1bd1)
 <!-- BLOG-POST-LIST:END -->
 
 
