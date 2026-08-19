@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Checking your A/B test every morning makes it lie to you](https://dev.to/msakai/checking-your-ab-test-every-morning-makes-it-lie-to-you-57nb)
-- [Elevated Errors on Claude Opus 5 Impacting Automation Workflows](https://dev.to/felipejac/elevated-errors-on-claude-opus-5-impacting-automation-workflows-2fma)
-- [Deploying a QAT Checkpoint Your Serving Stack Can&#39;t Load: Gemma 4 E2B in Pure JAX on One TPU](https://dev.to/gde/deploying-a-qat-checkpoint-your-serving-stack-cant-load-gemma-4-e2b-in-pure-jax-on-one-tpu-5cjm)
-- [We Cut Lambda Cold Starts 56% — Three Wrong Turns Before the Real SnapStart Fix](https://dev.to/cloudwiseteam/we-cut-lambda-cold-starts-56-three-wrong-turns-before-the-real-snapstart-fix-1bd1)
+- [Python Practice Programs](https://dev.to/dev_saravanan_journey/python-practice-programs-56ob)
+- [Hyperia 0.17.5 is Released](https://dev.to/kordless/hyperia-0175-is-released-4kk9)
+- [QZ Tray with React: Print Directly from the Browser](https://dev.to/juliusz_kowalewski_ff40e0/qz-tray-with-react-print-directly-from-the-browser-1h39)
+- [Your idempotency test probably cannot fail](https://dev.to/igor_potapenko/your-idempotency-test-probably-cannot-fail-39g0)
 <!-- BLOG-POST-LIST:END -->
 
 
