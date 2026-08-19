@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Sandboxed Code Evaluation for AI-Generated Outputs — How I Built SafeCode Arena](https://dev.to/flipslidersand/sandboxed-code-evaluation-for-ai-generated-outputs-how-i-built-safecode-arena-1468)
-- [What Happens When Your AI Feature Fails?](https://dev.to/lukaswalter/what-happens-when-your-ai-feature-fails-4d5e)
-- [Scanning 50,000 WooCommerce Products Without Hitting a PHP Timeout](https://dev.to/arcsviel/scanning-50000-woocommerce-products-without-hitting-a-php-timeout-5fl)
-- [I Built a Privacy Layer for AI Coding Tools — CodeMask UI and CodeMask Proxy](https://dev.to/shubhamdevops/i-built-a-privacy-layer-for-ai-coding-tools-codemask-ui-and-codemask-proxy-3ne6)
+- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Only Honest Answer Most Enterprises Have Left.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-only-honest-answer-most-enterprises-have-left-1m7j)
+- [How to find a device by its MAC address](https://dev.to/deviceshelf/how-to-find-a-device-by-its-mac-address-34d0)
+- [AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8)
+- [Quantum Computing: A Complete Learning Path](https://dev.to/malcolmlow/quantum-computing-a-complete-learning-path-3c67)
 <!-- BLOG-POST-LIST:END -->
 
 
