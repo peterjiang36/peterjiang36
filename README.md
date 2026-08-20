@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A screenshot is not enough for a screen-aware Mac assistant](https://dev.to/sarthakagrawal927/a-screenshot-is-not-enough-for-a-screen-aware-mac-assistant-38bm)
-- [The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#39;s Best Friend](https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g)
-- [Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch](https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp)
-- [☁️ Cloudera launches a hybrid platform aimed at production agentic AI](https://dev.to/ashutosh_maurya/cloudera-launches-a-hybrid-platform-aimed-at-production-agentic-ai-23b8)
+- [Railway vs Render vs Fly.io vs Just Using AWS: The Real Monthly Cost Once You Outgrow the Free Tier](https://dev.to/muskan_bandta/railway-vs-render-vs-flyio-vs-just-using-aws-the-real-monthly-cost-once-you-outgrow-the-free-tier-5hm4)
+- [GreenOps Is FinOps With a Second Bill: Carbon-Aware Scheduling in Practice](https://dev.to/muskan_bandta/greenops-is-finops-with-a-second-bill-carbon-aware-scheduling-in-practice-36pm)
+- [A 4-Minute Freeze, a Dead PATH, and 3 More: 5 launchd Pitfalls From Mapping 26 Automation Jobs](https://dev.to/bokuwalily/a-4-minute-freeze-a-dead-path-and-3-more-5-launchd-pitfalls-from-mapping-26-automation-jobs-1h6)
+- [Which Team Is Eating Your Kubernetes Bill? Cost Attribution Without Perfect Tagging](https://dev.to/muskan_bandta/which-team-is-eating-your-kubernetes-bill-cost-attribution-without-perfect-tagging-2hke)
 <!-- BLOG-POST-LIST:END -->
 
 
