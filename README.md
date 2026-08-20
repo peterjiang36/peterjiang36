@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cows Don&#39;t Send Alerts](https://dev.to/pierrelaurentmedori/the-cows-dont-send-alerts-2n3f)
-- [Local RAG starts with retrieval, not infrastructure](https://dev.to/amoydavid/local-rag-starts-with-retrieval-not-infrastructure-l16)
-- [Scaling RAG Systems: Production Architecture, Performance, and Cost Optimization](https://dev.to/damir-karimov/scaling-rag-systems-production-architecture-performance-and-cost-optimization-5ekp)
-- [What 32 leaked brand names taught me about auditing affiliate templates](https://dev.to/padrebot/what-32-leaked-brand-names-taught-me-about-auditing-affiliate-templates-50gn)
+- [Calling a TypeScript Backend Without Integration Code - A Simple Task Tracker with Graftcode](https://dev.to/coderoflagos/calling-a-typescript-backend-without-integration-code-a-simple-task-tracker-with-graftcode-1n7e)
+- [Read-Only by Design: Letting AI Explore Your Database Without the Risk of Writes](https://dev.to/vivekdraxlr/read-only-by-design-letting-ai-explore-your-database-without-the-risk-of-writes-2pmm)
+- [React useEventListener Hook: Type-Safe DOM Events &lpar;2026&rpar;](https://dev.to/childrentime/react-useeventlistener-hook-type-safe-dom-events-2026-5cfi)
+- [Driving DaVinci Resolve&#39;s Free Edition with Claude, From Inside the App](https://dev.to/_leesam_ded8ba7b9a7e/driving-davinci-resolves-free-edition-with-claude-from-inside-the-app-4h19)
 <!-- BLOG-POST-LIST:END -->
 
 
