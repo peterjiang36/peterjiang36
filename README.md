@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t trust model quotes; use anchors instead](https://dev.to/gmhoward9289ops/dont-trust-model-quotes-use-anchors-instead-2ohl)
-- [AI vs CI: Nobody Told the Pipeline](https://dev.to/testingil/ai-vs-ci-nobody-told-the-pipeline-4e88)
-- [How to build a data retention schedule &lpar;without inventing the periods yourself&rpar;](https://dev.to/sanjoy_karmakar_044/how-to-build-a-data-retention-schedule-without-inventing-the-periods-yourself-29i4)
-- [The particle features I stopped hand-rolling](https://dev.to/patilrb/the-particle-features-i-stopped-hand-rolling-1jpd)
+- [LISKOV SUBSTITUTION PRINCIPLE](https://dev.to/victorlisbronzo/liskov-substitution-principle-67n)
+- [The day I asked three LLM agents to rewrite legacy Java for me — and what actually happened](https://dev.to/meryyy/the-day-i-asked-three-llm-agents-to-rewrite-legacy-java-for-me-and-what-actually-happened-2jda)
+- [PRINCÍPIO DA SUBSTITUIÇÃO DE LISKOV](https://dev.to/victorlisbronzo/principio-da-substituicao-de-liskov-4ao9)
+- [Designing CRM Workflows Like State Machines](https://dev.to/neha_6ddfbf87f8ffe5f87b89/designing-crm-workflows-like-state-machines-4788)
 <!-- BLOG-POST-LIST:END -->
 
 
