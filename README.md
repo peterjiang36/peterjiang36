@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LISKOV SUBSTITUTION PRINCIPLE](https://dev.to/victorlisbronzo/liskov-substitution-principle-67n)
-- [The day I asked three LLM agents to rewrite legacy Java for me — and what actually happened](https://dev.to/meryyy/the-day-i-asked-three-llm-agents-to-rewrite-legacy-java-for-me-and-what-actually-happened-2jda)
-- [PRINCÍPIO DA SUBSTITUIÇÃO DE LISKOV](https://dev.to/victorlisbronzo/principio-da-substituicao-de-liskov-4ao9)
-- [Designing CRM Workflows Like State Machines](https://dev.to/neha_6ddfbf87f8ffe5f87b89/designing-crm-workflows-like-state-machines-4788)
+- [The agent wrote a hit piece because you asked it to](https://dev.to/o96a/the-agent-wrote-a-hit-piece-because-you-asked-it-to-2k8b)
+- [Money as a data type](https://dev.to/mashhadi/money-as-a-data-type-14pk)
+- [Meet AntigravityCI: The Autonomous AI PR Assistant Powered by Google Gemini 🤖✨](https://dev.to/eclipsethatscool/meet-antigravityci-the-autonomous-ai-pr-assistant-powered-by-google-gemini-4nol)
+- [OAuth2 and OpenID Connect: A Practical Implementation Guide &lpar;2026-08-20 14:33&rpar;](https://dev.to/said_olano/oauth2-and-openid-connect-a-practical-implementation-guide-2026-08-20-1433-3c11)
 <!-- BLOG-POST-LIST:END -->
 
 
