@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Scalevise Measures AI Visibility Beyond Rankings With a Repeatable GEO Framework](https://dev.to/alifar/how-scalevise-measures-ai-visibility-beyond-rankings-with-a-repeatable-geo-framework-443o)
-- [Why Critical Content Should Not Depend on Client-Side Rendering](https://dev.to/alifar/why-critical-content-should-not-depend-on-client-side-rendering-1p4a)
-- [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
-- [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
+- [DeepSeek Harness “Everything Is a Plugin”: choose the right Cordis extension seam](https://dev.to/ahab_indieseek/deepseek-harness-everything-is-a-plugin-choose-the-right-cordis-extension-seam-4773)
+- [LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6](https://dev.to/anoymask/lshiy-large-scale-password-spraying-abusing-ropc-and-ipv6-26cb)
+- [One hard question is a better database acceptance test than ten easy ones](https://dev.to/mads_hansen_27b33ebfee4c9/one-hard-question-is-a-better-database-acceptance-test-than-ten-easy-ones-4lnm)
+- [Playwright E2E Testing: Say Goodbye to Manual Regression Testing](https://dev.to/alan_529cf536b9cf0f88ec8c/playwright-e2e-testing-say-goodbye-to-manual-regression-testing-52e5)
 <!-- BLOG-POST-LIST:END -->
 
 
