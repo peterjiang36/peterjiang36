@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek Harness “Everything Is a Plugin”: choose the right Cordis extension seam](https://dev.to/ahab_indieseek/deepseek-harness-everything-is-a-plugin-choose-the-right-cordis-extension-seam-4773)
-- [LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6](https://dev.to/anoymask/lshiy-large-scale-password-spraying-abusing-ropc-and-ipv6-26cb)
-- [One hard question is a better database acceptance test than ten easy ones](https://dev.to/mads_hansen_27b33ebfee4c9/one-hard-question-is-a-better-database-acceptance-test-than-ten-easy-ones-4lnm)
-- [Playwright E2E Testing: Say Goodbye to Manual Regression Testing](https://dev.to/alan_529cf536b9cf0f88ec8c/playwright-e2e-testing-say-goodbye-to-manual-regression-testing-52e5)
+- [I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.](https://dev.to/anthony_builds/i-built-a-saas-then-i-asked-chatgpt-to-recommend-it-it-had-never-heard-of-me-1dfc)
+- [HTML, CSS and Bootstrap Interview Questions](https://dev.to/abimanyu_p_9e75124634d2a4/html-css-and-bootstrap-interview-questions-57ed)
+- [Zero Dependencies, 250KB, 486 Tests: What I Learned Building an MCP Client](https://dev.to/mcptokensaver/zero-dependencies-250kb-486-tests-what-i-learned-building-an-mcp-client-439i)
+- [Criei uma linguagem de programação batizada de &quot;RydenScript&quot;](https://dev.to/daniel_saldanhapalhetaa/criei-uma-linguagem-de-programacao-3m9i)
 <!-- BLOG-POST-LIST:END -->
 
 
