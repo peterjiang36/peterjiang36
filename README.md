@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🎬 Reel Quick now has a live animated demo in the GitHub README](https://dev.to/munirfarhan/reel-quick-now-has-a-live-animated-demo-in-the-github-readme-20d5)
-- [Reduce LLM Cost for Catalog: Compare Small Models to Summarize, Classify, and Extract JSON](https://dev.to/mordecainilsson7582/reduce-llm-cost-for-catalog-compare-small-models-to-summarize-classify-and-extract-json-35e7)
-- [Speculative Decoding and MTP: Why Guessing Is Free](https://dev.to/jessiejia11/speculative-decoding-and-mtp-why-guessing-is-free-4p36)
-- [The Midnight wallet SDK changed its npm scope. Here is what to update.](https://dev.to/chaps_grid/the-midnight-wallet-sdk-changed-its-npm-scope-here-is-what-to-update-5gem)
+- [Manage State like a Pro: Frontend Edition](https://dev.to/peterintech/manage-state-like-a-pro-frontend-edition-1id0)
+- [Claude Code with any model: three ways to route it &lpar;incl. the 2-minute one&rpar;](https://dev.to/opper/claude-code-with-any-model-three-ways-to-route-it-incl-the-2-minute-one-2md2)
+- [Why We Ship Our Security Webhook Fail-Open](https://dev.to/eaferstl/why-we-ship-our-security-webhook-fail-open-11ap)
+- [Introducing Concilium: A Multi-Model Method for Hard Problems](https://dev.to/raicho_minev_f7f6baf70d35/introducing-concilium-a-multi-model-method-for-hard-problems-jem)
 <!-- BLOG-POST-LIST:END -->
 
 
