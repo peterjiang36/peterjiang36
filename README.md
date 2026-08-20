@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The agent wrote a hit piece because you asked it to](https://dev.to/o96a/the-agent-wrote-a-hit-piece-because-you-asked-it-to-2k8b)
-- [Money as a data type](https://dev.to/mashhadi/money-as-a-data-type-14pk)
-- [Meet AntigravityCI: The Autonomous AI PR Assistant Powered by Google Gemini 🤖✨](https://dev.to/eclipsethatscool/meet-antigravityci-the-autonomous-ai-pr-assistant-powered-by-google-gemini-4nol)
-- [OAuth2 and OpenID Connect: A Practical Implementation Guide &lpar;2026-08-20 14:33&rpar;](https://dev.to/said_olano/oauth2-and-openid-connect-a-practical-implementation-guide-2026-08-20-1433-3c11)
+- [🎬 Reel Quick now has a live animated demo in the GitHub README](https://dev.to/munirfarhan/reel-quick-now-has-a-live-animated-demo-in-the-github-readme-20d5)
+- [Reduce LLM Cost for Catalog: Compare Small Models to Summarize, Classify, and Extract JSON](https://dev.to/mordecainilsson7582/reduce-llm-cost-for-catalog-compare-small-models-to-summarize-classify-and-extract-json-35e7)
+- [Speculative Decoding and MTP: Why Guessing Is Free](https://dev.to/jessiejia11/speculative-decoding-and-mtp-why-guessing-is-free-4p36)
+- [The Midnight wallet SDK changed its npm scope. Here is what to update.](https://dev.to/chaps_grid/the-midnight-wallet-sdk-changed-its-npm-scope-here-is-what-to-update-5gem)
 <!-- BLOG-POST-LIST:END -->
 
 
