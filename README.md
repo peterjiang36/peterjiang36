@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP Caching Explained: max-age, ETag and Why Your Users Still See Last Week&#39;s CSS](https://dev.to/vahid_aghajani_60ce9dbec9/http-caching-explained-max-age-etag-and-why-your-users-still-see-last-weeks-css-nk6)
-- [D8：他猜00919會漲，信心五成，然後整天沒動](https://dev.to/_2ab71a79dd36101e6be89/d8ta-cai-00919hui-zhang-xin-xin-wu-cheng-ran-hou-zheng-tian-mei-dong-4j53)
-- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)
-- [Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68)
+- [Testing Next.js App Router API Routes Without Leaving Your Editor](https://dev.to/saurowankhade/testing-nextjs-app-router-api-routes-without-leaving-your-editor-372n)
+- [Invoked, not executed](https://dev.to/thekilteddev/invoked-not-executed-1cg8)
+- [Swift ARC Doesn’t Scan the Heap — I Removed strong_release from SIL to Prove It](https://dev.to/_a3620048b828cbaa5d742/swift-arc-doesnt-scan-the-heap-i-removed-strongrelease-from-sil-to-prove-it-oed)
+- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-22n3)
 <!-- BLOG-POST-LIST:END -->
 
 
