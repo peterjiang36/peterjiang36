@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Next.js App Router API Routes Without Leaving Your Editor](https://dev.to/saurowankhade/testing-nextjs-app-router-api-routes-without-leaving-your-editor-372n)
-- [Invoked, not executed](https://dev.to/thekilteddev/invoked-not-executed-1cg8)
-- [Swift ARC Doesn’t Scan the Heap — I Removed strong_release from SIL to Prove It](https://dev.to/_a3620048b828cbaa5d742/swift-arc-doesnt-scan-the-heap-i-removed-strongrelease-from-sil-to-prove-it-oed)
-- [Daily Dose of DevOps — What is CI/CD and why it matters](https://dev.to/marco13moo/daily-dose-of-devops-what-is-cicd-and-why-it-matters-22n3)
+- [The Cows Don&#39;t Send Alerts](https://dev.to/pierrelaurentmedori/the-cows-dont-send-alerts-2n3f)
+- [Local RAG starts with retrieval, not infrastructure](https://dev.to/amoydavid/local-rag-starts-with-retrieval-not-infrastructure-l16)
+- [Scaling RAG Systems: Production Architecture, Performance, and Cost Optimization](https://dev.to/damir-karimov/scaling-rag-systems-production-architecture-performance-and-cost-optimization-5ekp)
+- [What 32 leaked brand names taught me about auditing affiliate templates](https://dev.to/padrebot/what-32-leaked-brand-names-taught-me-about-auditing-affiliate-templates-50gn)
 <!-- BLOG-POST-LIST:END -->
 
 
