@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Identity Infrastructure: Why Credentials Are the Layer Directories Don&#39;t Secure](https://dev.to/gitguardian/identity-infrastructure-why-credentials-are-the-layer-directories-dont-secure-21gm)
-- [Building Premium React UI Components with Tailwind CSS and Framer Motion](https://dev.to/headbanger/building-premium-react-ui-components-with-tailwind-css-and-framer-motion-56op)
-- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
-- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
+- [I Gave Five Graph Databases 256MB of RAM Each. Here&#39;s What Broke.](https://dev.to/sree_charan/i-gave-five-graph-databases-256mb-of-ram-each-heres-what-broke-1jde)
+- [Building File Utilities That Run 100% in the Browser](https://dev.to/buildittheywillcome/building-file-utilities-that-run-100-in-the-browser-ie4)
+- [Cleaning Up Feature Flags: The Art of Not Leaving a Mess](https://dev.to/avlcodemonkey-industries/cleaning-up-feature-flags-the-art-of-not-leaving-a-mess-4ojl)
+- [Book](https://dev.to/shogu123/book-38db)
 <!-- BLOG-POST-LIST:END -->
 
 
