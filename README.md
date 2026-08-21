@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Naming eZ Publish Web Transactions in New Relic &lpar;2013&rpar;](https://dev.to/hamdi_laadhari/naming-ez-publish-web-transactions-in-new-relic-2013-4inc)
-- [Scaling Code Reviews in the Age of Generative AI](https://dev.to/dmitryame/scaling-code-reviews-in-the-age-of-generative-ai-2mie)
-- [What Actually Happens When an LLM Generates a Token? A Deep Dive into Softmax](https://dev.to/younic/what-actually-happens-when-an-llm-generates-a-token-a-deep-dive-into-softmax-4g48)
-- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/esther_karanja_/understanding-the-git-workflowworking-directorystaging-commit-and-push-2b3j)
+- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
+- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
+- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
+- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
 <!-- BLOG-POST-LIST:END -->
 
 
