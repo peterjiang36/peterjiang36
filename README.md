@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [After 15 Years of Coding, AI Made Me Start More Projects in 6 Months Than My Entire Career Combined](https://dev.to/devworkdir/after-15-years-of-coding-ai-made-me-start-more-projects-in-6-months-than-my-entire-career-combined-1b49)
-- [What actually breaks when you run LLM agents unattended for 58 days](https://dev.to/gxcafellc/what-actually-breaks-when-you-run-llm-agents-unattended-for-58-days-2n7i)
-- [Can EnvHarness Turn Static Worlds Into Real Agent Training Grounds?](https://dev.to/vin-patel/can-envharness-turn-static-worlds-into-real-agent-training-grounds-1p5p)
-- [Your GitHub Is Not Your Developer Portfolio](https://dev.to/brianyoung/your-github-is-not-your-developer-portfolio-4849)
+- [RAG vs MCP in AI Testing: Stop Treating Them as Competitors](https://dev.to/rahul_sharma_pq/rag-vs-mcp-in-ai-testing-stop-treating-them-as-competitors-bjo)
+- [I Built a Chrome Extension to Track AI Token Usage — Here&#39;s How It Works](https://dev.to/anoop_kumar_63925e275ea06/i-built-a-chrome-extension-to-track-ai-token-usage-heres-how-it-works-1701)
+- [Your RLS Policy Passed Its Test For the Wrong Reason](https://dev.to/dev_encyclopedia/your-rls-policy-passed-its-test-for-the-wrong-reason-2oah)
+- [Iran Doesn&#39;t Need to Mine Hormuz — Your requirements.txt Is Already Rigged](https://dev.to/le_beltagy/iran-doesnt-need-to-mine-hormuz-your-requirementstxt-is-already-rigged-1c55)
 <!-- BLOG-POST-LIST:END -->
 
 
