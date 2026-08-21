@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Gemini Notebook Expands Into AI Mode Search With Cross-App Notebook Syncing](https://dev.to/alifar/google-gemini-notebook-expands-into-ai-mode-search-with-cross-app-notebook-syncing-2h17)
-- [The Notification Born out of Love: Building an Adaptive Geofencing Engine for Digital Wallets](https://dev.to/alex_g_aeeb05ba69eee8a4fd/the-notification-born-out-of-love-building-an-adaptive-geofencing-engine-for-digital-wallets-4512)
-- [Outputting Data: Why Sofya Beats Python in Simplicity](https://dev.to/simple_code/outputting-data-why-sofya-beats-python-in-simplicity-47pk)
-- [Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.](https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm)
+- [is-agentic Scored Promptway 74. Here Is What I Changed](https://dev.to/promptway/is-agentic-scored-promptway-74-here-is-what-i-changed-4if9)
+- [Anyone ever go back to their notetaker outputs and summaries?](https://dev.to/jon_at_backboardio/anyone-ever-go-back-to-their-notetaker-outputs-and-summaries-5bkp)
+- [Security news weekly round-up - 21st August 2026](https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44)
+- [UNDERSTANDING THE GIT WORKFLOW](https://dev.to/lynne_chanzu/understanding-the-git-workflow-g2i)
 <!-- BLOG-POST-LIST:END -->
 
 
