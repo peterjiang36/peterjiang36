@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [monkeypatch or mock.patch? One question decides it](https://dev.to/msakai/monkeypatch-or-mockpatch-one-question-decides-it-1bf5)
-- [CI Is Green. What Could Still Go Wrong?](https://dev.to/dulvarn/ci-is-green-what-could-still-go-wrong-4g0k)
-- [What a lost dispute actually costs a Connect platform](https://dev.to/veristria/what-a-lost-dispute-actually-costs-a-connect-platform-5gh2)
-- [Using S3 as Your Disaster Recovery Target: A Practical Guide](https://dev.to/ethan-carter/using-s3-as-your-disaster-recovery-target-a-practical-guide-3f0b)
+- [The AI demo failed, but the database remembered half of it](https://dev.to/jtorchia/the-ai-demo-failed-but-the-database-remembered-half-of-it-3m4a)
+- [Willpower is manual memory management — here&#39;s why I switched to garbage collection for my habits](https://dev.to/crazychief/willpower-is-manual-memory-management-heres-why-i-switched-to-garbage-collection-for-my-habits-31d4)
+- [Making Local AI Tool Calls More Reliable](https://dev.to/alaindevs/making-local-ai-tool-calls-more-reliable-54bb)
+- [My GPU Database Lost to a Single CPU Thread. The Bug Was One Constant, 128x Too Small](https://dev.to/aiexplore369zoho/my-gpu-database-lost-to-a-single-cpu-thread-the-bug-was-one-constant-128x-too-small-45hk)
 <!-- BLOG-POST-LIST:END -->
 
 
