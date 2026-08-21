@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Row-level security in Symfony: the role that ran your migrations bypasses every policy you wrote](https://dev.to/mollenthiel/row-level-security-in-symfony-the-role-that-ran-your-migrations-bypasses-every-policy-you-wrote-34bi)
-- [Building in Public: My Journey Constructing a Weather App with OpenWeatherMap](https://dev.to/joelezema/building-in-public-my-journey-constructing-a-weather-app-with-openweathermap-48c6)
-- [AI Capex Has Moved Into Credit&#39;s Jurisdiction](https://dev.to/deanlee/ai-capex-has-moved-into-credits-jurisdiction-3h78)
-- [AI Capex Is Turning Into an Infrastructure Bill](https://dev.to/reidmarlow/ai-capex-is-turning-into-an-infrastructure-bill-3mfi)
+- [PAGI 0.002002: Clarifying How Applications Are Loaded](https://dev.to/jjn1056/pagi-0002002-clarifying-how-applications-are-loaded-4c0f)
+- [MCP servers won&#39;t start on Windows: the &#39;C:\Program&#39; space-in-path fix](https://dev.to/milkyway008/mcp-servers-wont-start-on-windows-the-cprogram-space-in-path-fix-2daa)
+- [How parallel AI agents should talk to each other &lpar;and the bug that proved it&rpar;](https://dev.to/ahmadammar/how-parallel-ai-agents-should-talk-to-each-other-and-the-bug-that-proved-it-2mh1)
+- [8 Shipped Chrome Extensions, 4 Ways to Declare Host Permissions](https://dev.to/k-wada/8-shipped-chrome-extensions-4-ways-to-declare-host-permissions-3n1c)
 <!-- BLOG-POST-LIST:END -->
 
 
