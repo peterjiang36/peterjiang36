@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [is-agentic Scored Promptway 74. Here Is What I Changed](https://dev.to/promptway/is-agentic-scored-promptway-74-here-is-what-i-changed-4if9)
-- [Anyone ever go back to their notetaker outputs and summaries?](https://dev.to/jon_at_backboardio/anyone-ever-go-back-to-their-notetaker-outputs-and-summaries-5bkp)
-- [Security news weekly round-up - 21st August 2026](https://dev.to/ziizium/security-news-weekly-round-up-21st-august-2026-4l44)
-- [UNDERSTANDING THE GIT WORKFLOW](https://dev.to/lynne_chanzu/understanding-the-git-workflow-g2i)
+- [Naming eZ Publish Web Transactions in New Relic &lpar;2013&rpar;](https://dev.to/hamdi_laadhari/naming-ez-publish-web-transactions-in-new-relic-2013-4inc)
+- [Scaling Code Reviews in the Age of Generative AI](https://dev.to/dmitryame/scaling-code-reviews-in-the-age-of-generative-ai-2mie)
+- [What Actually Happens When an LLM Generates a Token? A Deep Dive into Softmax](https://dev.to/younic/what-actually-happens-when-an-llm-generates-a-token-a-deep-dive-into-softmax-4g48)
+- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/esther_karanja_/understanding-the-git-workflowworking-directorystaging-commit-and-push-2b3j)
 <!-- BLOG-POST-LIST:END -->
 
 
