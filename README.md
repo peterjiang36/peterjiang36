@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Claude Sonnet 5 and ChatGPT Assistant](https://dev.to/gateofai/python-claude-sonnet-5-and-chatgpt-assistant-2anj)
-- [Rust&#39;s async story is still an embarrassment for web APIs](https://dev.to/adioof/rusts-async-story-is-still-an-embarrassment-for-web-apis-1fj7)
-- [Local AI, Cloud GPUs, or APIs? Four Questions to Answer Before Comparing Cost](https://dev.to/gridport/local-ai-cloud-gpus-or-apis-four-questions-to-answer-before-comparing-cost-5fbo)
-- [Improve AI Output with a News Feed: Ground LLM Answers in Live Coverage](https://dev.to/alexperigon/improve-ai-output-with-a-news-feed-ground-llm-answers-in-live-coverage-81i)
+- [After 15 Years of Coding, AI Made Me Start More Projects in 6 Months Than My Entire Career Combined](https://dev.to/devworkdir/after-15-years-of-coding-ai-made-me-start-more-projects-in-6-months-than-my-entire-career-combined-1b49)
+- [What actually breaks when you run LLM agents unattended for 58 days](https://dev.to/gxcafellc/what-actually-breaks-when-you-run-llm-agents-unattended-for-58-days-2n7i)
+- [Can EnvHarness Turn Static Worlds Into Real Agent Training Grounds?](https://dev.to/vin-patel/can-envharness-turn-static-worlds-into-real-agent-training-grounds-1p5p)
+- [Your GitHub Is Not Your Developer Portfolio](https://dev.to/brianyoung/your-github-is-not-your-developer-portfolio-4849)
 <!-- BLOG-POST-LIST:END -->
 
 
