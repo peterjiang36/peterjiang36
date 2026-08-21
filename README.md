@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We tested &quot;tokenize before you compress&quot; against 452 configurations, and it mostly held up](https://dev.to/ronak_parmar_033c50d168b5/we-tested-tokenize-before-you-compress-against-452-configurations-and-it-mostly-held-up-4m6p)
-- [MCP C# SDK Array Tool Outputs: Stop Looking for a `result` Wrapper](https://dev.to/ssukhpinder/mcp-c-sdk-array-tool-outputs-stop-looking-for-a-result-wrapper-452c)
-- [JavaScript Links Can Hide Content From AI Crawlers, a 41-Day Test Shows](https://dev.to/alifar/javascript-links-can-hide-content-from-ai-crawlers-a-41-day-test-shows-34cg)
-- [Writing Mind Maps in Plain Text: An Introduction to the Mind Elixir Text Format](https://dev.to/ssshooter/writing-mind-maps-in-plain-text-an-introduction-to-the-mind-elixir-text-format-1cb8)
+- [El patrón Criteria en NestJS — lo que un cliente puede pedir es un archivo, no una firma](https://dev.to/chacaponquin/el-patron-criteria-en-nestjs-lo-que-un-cliente-puede-pedir-es-un-archivo-no-una-firma-3jj0)
+- [Rust Crate Tampering: Multi-Stage Info-Stealer Malware Launched via build.rs](https://dev.to/anoymask/rust-crate-tampering-multi-stage-info-stealer-malware-launched-via-buildrs-4fp7)
+- [MLflow CVE-2026-64849: Cloud Credential Theft via Webhook SSRF](https://dev.to/anoymask/mlflow-cve-2026-64849-cloud-credential-theft-via-webhook-ssrf-2j)
+- [UAT-10147 AI-Assisted Intrusion and SPECTRE Malware](https://dev.to/anoymask/uat-10147-ai-assisted-intrusion-and-spectre-malware-3ej)
 <!-- BLOG-POST-LIST:END -->
 
 
