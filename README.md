@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI demo failed, but the database remembered half of it](https://dev.to/jtorchia/the-ai-demo-failed-but-the-database-remembered-half-of-it-3m4a)
-- [Willpower is manual memory management — here&#39;s why I switched to garbage collection for my habits](https://dev.to/crazychief/willpower-is-manual-memory-management-heres-why-i-switched-to-garbage-collection-for-my-habits-31d4)
-- [Making Local AI Tool Calls More Reliable](https://dev.to/alaindevs/making-local-ai-tool-calls-more-reliable-54bb)
-- [My GPU Database Lost to a Single CPU Thread. The Bug Was One Constant, 128x Too Small](https://dev.to/aiexplore369zoho/my-gpu-database-lost-to-a-single-cpu-thread-the-bug-was-one-constant-128x-too-small-45hk)
+- [Pythonaibrain-NLP 0.2.0 Is Now on PyPI — A Structured NLU/NLG Architecture for Python](https://dev.to/divyanshusinha136/pythonaibrain-nlp-020-is-now-on-pypi-a-structured-nlunlg-architecture-for-python-45lh)
+- [How I run a full AWS-powered website for less than $1/month](https://dev.to/tomascody-web333/how-i-run-a-full-aws-powered-website-for-less-than-1month-313a)
+- [Multi-Agent Gift Recommendation Engine Powered by Google ADK &amp; Gemini](https://dev.to/inushathathsara/multi-agent-gift-recommendation-engine-powered-by-google-adk-gemini-3669)
+- [Claude Prompt Caching: Why Agent Loops Miss the 20-Block Lookback](https://dev.to/ji_ai/claude-prompt-caching-why-agent-loops-miss-the-20-block-lookback-d36)
 <!-- BLOG-POST-LIST:END -->
 
 
