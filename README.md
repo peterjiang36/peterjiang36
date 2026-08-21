@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Serverless Patterns and Anti-Patterns: What Works, What Breaks, and When to Use What](https://dev.to/alpeshkumbhare/aws-serverless-patterns-and-anti-patterns-what-works-what-breaks-and-when-to-use-what-4k50)
-- [VRP Is Ready for External Validation — One Company Can Be the First to Pilot It](https://dev.to/jumping_vpn_fcb498eb2c7e1/vrp-is-ready-for-external-validation-one-company-can-be-the-first-to-pilot-it-4l0g)
-- [Your feature-usage scanner doesn&#39;t know Vue, Svelte, or Astro exist. Here&#39;s how we fixed that without touching its core.](https://dev.to/__c500e8ac9bc2/your-feature-usage-scanner-doesnt-know-vue-svelte-or-astro-exist-heres-how-we-fixed-that-1eif)
-- [Why 75% of Developers Prefer Claude Code Over Codex](https://dev.to/10x/why-75-of-developers-prefer-claude-code-over-codex-5dp1)
+- [Python Claude Sonnet 5 and ChatGPT Assistant](https://dev.to/gateofai/python-claude-sonnet-5-and-chatgpt-assistant-2anj)
+- [Rust&#39;s async story is still an embarrassment for web APIs](https://dev.to/adioof/rusts-async-story-is-still-an-embarrassment-for-web-apis-1fj7)
+- [Local AI, Cloud GPUs, or APIs? Four Questions to Answer Before Comparing Cost](https://dev.to/gridport/local-ai-cloud-gpus-or-apis-four-questions-to-answer-before-comparing-cost-5fbo)
+- [Improve AI Output with a News Feed: Ground LLM Answers in Live Coverage](https://dev.to/alexperigon/improve-ai-output-with-a-news-feed-ground-llm-answers-in-live-coverage-81i)
 <!-- BLOG-POST-LIST:END -->
 
 
