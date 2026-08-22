@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a GitHub repository intelligence API — here&#39;s what I learned](https://dev.to/kingdavid9999/i-built-a-github-repository-intelligence-api-heres-what-i-learned-14ok)
-- [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
-- [Solana&#39;s 90% Rent Cut: The Economics of SIMD-0437](https://dev.to/sulimanmukhtar/solanas-90-rent-cut-the-economics-of-simd-0437-g18)
-- [Agent State, Memory &amp; Checkpointing: Where the Boundaries Blur](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-where-the-boundaries-blur-3je8)
+- [Cura doesn&#39;t have connector generation. I built a plugin, and a one-click installer, that does.](https://dev.to/rx290/cura-doesnt-have-connector-generation-i-built-a-plugin-and-a-one-click-installer-that-does-2cjk)
+- [Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)
+- [Build a TikTok Hashtag and Creator Research Pipeline in Node.js](https://dev.to/mian_po_0ae30e900c601c8f5/build-a-tiktok-hashtag-and-creator-research-pipeline-in-nodejs-393b)
+- [OpenWA: A Self-Hosted WhatsApp API Gateway Built for Production](https://dev.to/ganesh_bora_12e6afdf2c7f0/openwa-a-self-hosted-whatsapp-api-gateway-built-for-production-2hp0)
 <!-- BLOG-POST-LIST:END -->
 
 
