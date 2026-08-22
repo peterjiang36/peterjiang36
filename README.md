@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cura doesn&#39;t have connector generation. I built a plugin, and a one-click installer, that does.](https://dev.to/rx290/cura-doesnt-have-connector-generation-i-built-a-plugin-and-a-one-click-installer-that-does-2cjk)
-- [Sharing memory between processes with java.lang.foreign and jextract](https://dev.to/mishmash-io/sharing-memory-between-processes-with-javalangforeign-and-jextract-ch0)
-- [Build a TikTok Hashtag and Creator Research Pipeline in Node.js](https://dev.to/mian_po_0ae30e900c601c8f5/build-a-tiktok-hashtag-and-creator-research-pipeline-in-nodejs-393b)
-- [OpenWA: A Self-Hosted WhatsApp API Gateway Built for Production](https://dev.to/ganesh_bora_12e6afdf2c7f0/openwa-a-self-hosted-whatsapp-api-gateway-built-for-production-2hp0)
+- [Why free chess analysis is always capped at one game a day](https://dev.to/chessdream/why-free-chess-analysis-is-always-capped-at-one-game-a-day-50n)
+- [Building an AI Test Automation Factory: How We Reduced Automation Effort by 78% with Multi-Agent Systems &amp; MCP](https://dev.to/shell_qa/building-an-ai-test-automation-factory-how-we-reduced-automation-effort-by-78-with-multi-agent-45h3)
+- [Navigating Microsoft Azure Certifications in 2026: Value, Trends, and Blueprint Strategy](https://dev.to/jordancarterdevv/navigating-microsoft-azure-certifications-in-2026-value-trends-and-blueprint-strategy-30k2)
+- [grow-hack: An AI Pipeline That Turns Any GitHub Repo Into Professional Docs in Under a Minute](https://dev.to/ganesh_bora_12e6afdf2c7f0/grow-hack-an-ai-pipeline-that-turns-any-github-repo-into-professional-docs-in-under-a-minute-17f1)
 <!-- BLOG-POST-LIST:END -->
 
 
