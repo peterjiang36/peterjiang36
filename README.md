@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Matrix: Writing Code That Doesn&#39;t Need Comments](https://dev.to/timevolt/the-matrix-writing-code-that-doesnt-need-comments-2en3)
-- [I Could Measure Claude and Codex Usage. I Still Couldn&#39;t Honestly Assign It to a Task.](https://dev.to/shikiyusuke/i-could-measure-claude-and-codex-usage-i-still-couldnt-honestly-assign-it-to-a-task-2ghj)
-- [The Rate Floor Doesn&#39;t Exist: Tech Contracting Has Become a Race the Market Never Agreed to Run](https://dev.to/javiercastromdq/the-rate-floor-doesnt-exist-tech-contracting-has-become-a-race-the-market-never-agreed-to-run-480p)
-- [The Meeting You Skipped Was the One That Actually Mattered](https://dev.to/javiercastromdq/the-meeting-you-skipped-was-the-one-that-actually-mattered-3i44)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/barbz04/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-12po)
+- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
+- [Tratando de ser un desarrollador AI First sin vender humo](https://dev.to/dezkareid/tratando-de-ser-un-desarrollador-ai-first-sin-vender-humo-2mbd)
+- [How TecDoc Actually Works: A Developer&#39;s Guide to Automotive Parts Fitment Data](https://dev.to/partwiz_autoparts/how-tecdoc-actually-works-a-developers-guide-to-automotive-parts-fitment-data-5d2a)
 <!-- BLOG-POST-LIST:END -->
 
 
