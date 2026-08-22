@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Scheduled Agent Says Success. It Did Nothing. Here&#39;s Why.](https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3)
-- [Build a Human-Approved AI Opportunity Bulletin in Tencent RTC Community Chat](https://dev.to/susiewang/build-a-human-approved-ai-opportunity-bulletin-in-tencent-rtc-community-chat-1jkk)
-- [Google Search Console Platform Properties Bring Social Query Data to Content Teams](https://dev.to/alifar/google-search-console-platform-properties-bring-social-query-data-to-content-teams-5gjg)
-- [How I Ask AI Changed: From &quot;Fix This&quot; to &quot;Recalibrate Me&quot;](https://dev.to/dexterlung/how-i-ask-ai-changed-from-fix-this-to-recalibrate-me-52f7)
+- [Modern HTML5 Web Oyun Platformlarında Performans ve Güvenlik Yaklaşımı: Palamut Oyun](https://dev.to/palamutoyun/modern-html5-web-oyun-platformlarinda-performans-ve-guvenlik-yaklasimi-palamut-oyun-1fhj)
+- [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
+- [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
+- [field-cage: a local-first alternative for GitHub Actions egress control](https://dev.to/takihito/field-cage-a-local-first-alternative-for-github-actions-egress-control-3agl)
 <!-- BLOG-POST-LIST:END -->
 
 
