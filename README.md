@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why free chess analysis is always capped at one game a day](https://dev.to/chessdream/why-free-chess-analysis-is-always-capped-at-one-game-a-day-50n)
-- [Building an AI Test Automation Factory: How We Reduced Automation Effort by 78% with Multi-Agent Systems &amp; MCP](https://dev.to/shell_qa/building-an-ai-test-automation-factory-how-we-reduced-automation-effort-by-78-with-multi-agent-45h3)
-- [Navigating Microsoft Azure Certifications in 2026: Value, Trends, and Blueprint Strategy](https://dev.to/jordancarterdevv/navigating-microsoft-azure-certifications-in-2026-value-trends-and-blueprint-strategy-30k2)
-- [grow-hack: An AI Pipeline That Turns Any GitHub Repo Into Professional Docs in Under a Minute](https://dev.to/ganesh_bora_12e6afdf2c7f0/grow-hack-an-ai-pipeline-that-turns-any-github-repo-into-professional-docs-in-under-a-minute-17f1)
+- [Mastering Playwright Test Fixtures for Robust E2E Tests](https://dev.to/pratham_rathod_a08657abf5/mastering-playwright-test-fixtures-for-robust-e2e-tests-9lc)
+- [Downloading and Running a Kali Linux VM in VirtualBox on Windows](https://dev.to/muneebahmedkhanwriting/downloading-and-running-a-kali-linux-vm-in-virtualbox-on-windows-51hl)
+- [I made a Symfony bundle for masking sensitive data](https://dev.to/alkin/i-made-a-symfony-bundle-for-masking-sensitive-data-3b1f)
+- [My AI visibility score was 78%. Then I fixed how I measured it and it was 25%](https://dev.to/reidify/my-ai-visibility-score-was-78-then-i-fixed-how-i-measured-it-and-it-was-25-4h5b)
 <!-- BLOG-POST-LIST:END -->
 
 
