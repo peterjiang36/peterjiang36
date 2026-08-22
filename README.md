@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Playwright Test Fixtures for Robust E2E Tests](https://dev.to/pratham_rathod_a08657abf5/mastering-playwright-test-fixtures-for-robust-e2e-tests-9lc)
-- [Downloading and Running a Kali Linux VM in VirtualBox on Windows](https://dev.to/muneebahmedkhanwriting/downloading-and-running-a-kali-linux-vm-in-virtualbox-on-windows-51hl)
-- [I made a Symfony bundle for masking sensitive data](https://dev.to/alkin/i-made-a-symfony-bundle-for-masking-sensitive-data-3b1f)
-- [My AI visibility score was 78%. Then I fixed how I measured it and it was 25%](https://dev.to/reidify/my-ai-visibility-score-was-78-then-i-fixed-how-i-measured-it-and-it-was-25-4h5b)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d)
+- [The 4,000-Token Tax: Auto-Disabling Claude Code Plugins You Haven&#39;t Touched in 30 Days](https://dev.to/bokuwalily/the-4000-token-tax-auto-disabling-claude-code-plugins-you-havent-touched-in-30-days-ac5)
+- [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
+- [Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)
 <!-- BLOG-POST-LIST:END -->
 
 
