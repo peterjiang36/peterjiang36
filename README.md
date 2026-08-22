@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Pydantic AI keeps one growing message list per run — and re-sends the whole thing every step](https://dev.to/wartzarbee/pydantic-ai-keeps-one-growing-message-list-per-run-and-re-sends-the-whole-thing-every-step-4o7b)
-- [Build a Real-Time Polymarket Order Book Monitor with Python](https://dev.to/xniiinx/build-a-real-time-polymarket-order-book-monitor-with-python-10pf)
-- [How to Check Closed-Source Firmware for Known CVEs &lpar;No Source Code Needed&rpar;](https://dev.to/rockyyy/how-to-check-closed-source-firmware-for-known-cves-no-source-code-needed-a0m)
-- [완전자동매매 시스템에 사람이 직접 개입해야 했던 사례 3가지](https://dev.to/finaltype/wanjeonjadongmaemae-siseuteme-sarami-jigjeob-gaeibhaeya-haessdeon-sarye-3gaji-21c6)
+- [Your Scheduled Agent Says Success. It Did Nothing. Here&#39;s Why.](https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3)
+- [Build a Human-Approved AI Opportunity Bulletin in Tencent RTC Community Chat](https://dev.to/susiewang/build-a-human-approved-ai-opportunity-bulletin-in-tencent-rtc-community-chat-1jkk)
+- [Google Search Console Platform Properties Bring Social Query Data to Content Teams](https://dev.to/alifar/google-search-console-platform-properties-bring-social-query-data-to-content-teams-5gjg)
+- [How I Ask AI Changed: From &quot;Fix This&quot; to &quot;Recalibrate Me&quot;](https://dev.to/dexterlung/how-i-ask-ai-changed-from-fix-this-to-recalibrate-me-52f7)
 <!-- BLOG-POST-LIST:END -->
 
 
