@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Punk: Fully Authed](https://dev.to/lnation/punk-fully-authed-3d3g)
-- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push.](https://dev.to/9ichia/understanding-the-git-workflow-working-directory-staging-commit-and-push-226i)
-- [Everyone is hyping Claude Code. I used Google Jules to build and ship a phone tracking app—entirely from my phone on the beach.](https://dev.to/gents_83/everyone-is-hyping-claude-code-i-used-google-jules-to-build-and-ship-a-location-sharing-4o1e)
-- [How I Built a Trading Value Tool for a Game With Constantly Changing Data](https://dev.to/bloxy123/how-i-built-a-trading-value-tool-for-a-game-with-constantly-changing-data-4ick)
+- [The Matrix: Writing Code That Doesn&#39;t Need Comments](https://dev.to/timevolt/the-matrix-writing-code-that-doesnt-need-comments-2en3)
+- [I Could Measure Claude and Codex Usage. I Still Couldn&#39;t Honestly Assign It to a Task.](https://dev.to/shikiyusuke/i-could-measure-claude-and-codex-usage-i-still-couldnt-honestly-assign-it-to-a-task-2ghj)
+- [The Rate Floor Doesn&#39;t Exist: Tech Contracting Has Become a Race the Market Never Agreed to Run](https://dev.to/javiercastromdq/the-rate-floor-doesnt-exist-tech-contracting-has-become-a-race-the-market-never-agreed-to-run-480p)
+- [The Meeting You Skipped Was the One That Actually Mattered](https://dev.to/javiercastromdq/the-meeting-you-skipped-was-the-one-that-actually-mattered-3i44)
 <!-- BLOG-POST-LIST:END -->
 
 
