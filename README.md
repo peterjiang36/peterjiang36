@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dropwizard: A Practical Java Framework for Building RESTful Web Services &lpar;2026-08-23 14:20&rpar;](https://dev.to/said_olano/dropwizard-a-practical-java-framework-for-building-restful-web-services-2026-08-23-1420-4b99)
-- [Building a Streaming Pipeline: From a System Design Perspective](https://dev.to/xheghun/building-a-streaming-pipeline-from-a-system-design-perspective-3ofk)
-- [Three Russian Clusters Are Phishing Auth Flows, Not Passwords: OAuth, App Passwords, and WhatsApp Device Linking](https://dev.to/etairos/three-russian-clusters-are-phishing-auth-flows-not-passwords-oauth-app-passwords-and-whatsapp-mi5)
-- [How a Dedup Pass Deleted My Training Curriculum](https://dev.to/megapixel99/how-a-dedup-pass-deleted-my-training-curriculum-kdf)
+- [Domux: a compact open model for smart-home command understanding at the edge](https://dev.to/sparkllm/domux-a-compact-open-model-for-smart-home-command-understanding-at-the-edge-f8l)
+- [BrunnerCTF : WordPressed to Root Writeup](https://dev.to/exploitnotes/brunnerctf-wordpressed-to-root-writeup-3o62)
+- [What if you don&#39;t have to build a login page again?](https://dev.to/muhammadkholidb/what-if-you-dont-have-to-build-a-login-page-again-36ag)
+- [Knowing When to Use If/Else vs. Switch in JavaScript](https://dev.to/joelezema/knowing-when-to-use-ifelse-vs-switch-in-javascript-3777)
 <!-- BLOG-POST-LIST:END -->
 
 
