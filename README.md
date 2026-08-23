@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Is the Killer App for Free Model Tokens — Here&#39;s the Workflow](https://dev.to/devrs_9381/debugging-is-the-killer-app-for-free-model-tokens-heres-the-workflow-1fda)
-- [VeloxDB : database admin tool for Linux](https://dev.to/abeni16/veloxdb-database-admin-tool-for-linux-7l9)
-- [Dynamic Programming: The Matrix of Patterns](https://dev.to/timevolt/dynamic-programming-the-matrix-of-patterns-4aha)
-- [The CSS bug that taught me JS-injected styles always win](https://dev.to/nogandev/the-css-bug-that-taught-me-js-injected-styles-always-win-2io2)
+- [How I Built Smart Scraper M2M: A Fast ~30ms Scraper API for AI Agents](https://dev.to/hasna_dev2/how-i-built-smart-scraper-m2m-a-fast-30ms-scraper-api-for-ai-agents-1k9f)
+- [Too Many Req: A Bucket List Guide to Building a Rate Limiter](https://dev.to/lovestaco/too-many-req-a-bucket-list-guide-to-building-a-rate-limiter-529a)
+- [Cómo pensamos el cifrado de PII en una app Ionic + Angular, para cumplir el RGPD y la LOPD-GDD](https://dev.to/dmorfav/como-pensamos-el-cifrado-de-pii-en-una-app-ionic-angular-para-cumplir-el-rgpd-y-la-lopd-gdd-2o3g)
+- [Why engineers need commercial awareness, not just technical depth](https://dev.to/divyakush/why-engineers-need-commercial-awareness-not-just-technical-depth-3o19)
 <!-- BLOG-POST-LIST:END -->
 
 
