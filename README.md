@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Open Turkish EV Charging Intent Dataset](https://dev.to/birdircik/building-an-open-turkish-ev-charging-intent-dataset-571p)
-- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
-- [Proof-of-Antiquity vs Proof-of-Stake: Why Hardware Diversity Beats Wealth Concentration](https://dev.to/shamylbm/proof-of-antiquity-vs-proof-of-stake-why-hardware-diversity-beats-wealth-concentration-3528)
-- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
+- [Android Storage in 2026: Scoped Storage, SAF, and Why Filesystem Abstractions Still Matter](https://dev.to/slambyte/android-storage-in-2026-scoped-storage-saf-and-why-filesystem-abstractions-still-matter-30e)
+- [Accessibility remediation is software engineering, not a checklist](https://dev.to/praiztech/accessibility-remediation-is-software-engineering-not-a-checklist-3d64)
+- [You Probably Don&#39;t Need a Server For That](https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi)
+- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
 <!-- BLOG-POST-LIST:END -->
 
 
