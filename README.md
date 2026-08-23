@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 10 of #100DaysOfCode: Exploring Microservices and Modern Architecture](https://dev.to/onatade_abdulmajeed/week-10-of-100daysofcode-exploring-microservices-and-modern-architecture-4a9c)
-- [Dev log #18 From Redis Brokers to Knowledge Graphs: A 177-Commit Sprint](https://dev.to/yashksaini/dev-log-18-from-redis-brokers-to-knowledge-graphs-a-177-commit-sprint-1mni)
-- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
-- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
+- [Debugging Is the Killer App for Free Model Tokens — Here&#39;s the Workflow](https://dev.to/devrs_9381/debugging-is-the-killer-app-for-free-model-tokens-heres-the-workflow-1fda)
+- [VeloxDB : database admin tool for Linux](https://dev.to/abeni16/veloxdb-database-admin-tool-for-linux-7l9)
+- [Dynamic Programming: The Matrix of Patterns](https://dev.to/timevolt/dynamic-programming-the-matrix-of-patterns-4aha)
+- [The CSS bug that taught me JS-injected styles always win](https://dev.to/nogandev/the-css-bug-that-taught-me-js-injected-styles-always-win-2io2)
 <!-- BLOG-POST-LIST:END -->
 
 
