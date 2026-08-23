@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Storage in 2026: Scoped Storage, SAF, and Why Filesystem Abstractions Still Matter](https://dev.to/slambyte/android-storage-in-2026-scoped-storage-saf-and-why-filesystem-abstractions-still-matter-30e)
-- [Accessibility remediation is software engineering, not a checklist](https://dev.to/praiztech/accessibility-remediation-is-software-engineering-not-a-checklist-3d64)
-- [You Probably Don&#39;t Need a Server For That](https://dev.to/virtual_texttools_2036eb/you-probably-dont-need-a-server-for-that-4ffi)
-- [We Taught a 230M Language Model to Keep Learning on Android](https://dev.to/ijulin/we-taught-a-230m-language-model-to-keep-learning-on-android-36hl)
+- [How we run five coding agents side by side in one window](https://dev.to/eliseomdq/how-we-run-five-coding-agents-side-by-side-in-one-window-32gf)
+- [I pushed the badBANANA Threat Observatory public](https://dev.to/gnomeman4201/i-pushed-the-badbanana-threat-observatory-public-49e8)
+- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
+- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
 <!-- BLOG-POST-LIST:END -->
 
 
