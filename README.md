@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI writes the answer](https://dev.to/elliot_a0d9f15cbd67c/the-ai-writes-the-answer-1h0k)
-- [I built a daily JavaScript puzzle game where a wrong answer physically can&#39;t ship](https://dev.to/ashhwani/i-built-a-daily-javascript-puzzle-game-where-a-wrong-answer-physically-cant-ship-4pih)
-- [I Built Format-on-Save for Everything That Isn&#39;t an Editor](https://dev.to/amartyadev/i-built-format-on-save-for-everything-that-isnt-an-editor-3dpm)
-- [Migrating a 5-year-old React admin app from CRA + Webpack to Vite + SWC — 166 files, 70 days](https://dev.to/prince_panchani_f971a20ec/migrating-a-5-year-old-react-admin-app-from-cra-webpack-to-vite-swc-166-files-70-days-4g6l)
+- [I’m testing a faster way to research podcast guests before an interview](https://dev.to/usman076/im-testing-a-faster-way-to-research-podcast-guests-before-an-interview-25mk)
+- [Concertos VR 2026: o futuro imersivo dos shows ao vivo](https://dev.to/leojulieta/concertos-vr-2026-o-futuro-imersivo-dos-shows-ao-vivo-5cn0)
+- [Making webpack&#39;s Docs Update Themselves | GSoC 2026, wrapped](https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn)
+- [RPA vs BPA vs Intelligent Automation: A Practical Map for Ops Leaders](https://dev.to/snehasishkonger/rpa-vs-bpa-vs-intelligent-automation-a-practical-map-for-ops-leaders-3459)
 <!-- BLOG-POST-LIST:END -->
 
 
