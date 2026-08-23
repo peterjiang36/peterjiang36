@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Domux: a compact open model for smart-home command understanding at the edge](https://dev.to/sparkllm/domux-a-compact-open-model-for-smart-home-command-understanding-at-the-edge-f8l)
-- [BrunnerCTF : WordPressed to Root Writeup](https://dev.to/exploitnotes/brunnerctf-wordpressed-to-root-writeup-3o62)
-- [What if you don&#39;t have to build a login page again?](https://dev.to/muhammadkholidb/what-if-you-dont-have-to-build-a-login-page-again-36ag)
-- [Knowing When to Use If/Else vs. Switch in JavaScript](https://dev.to/joelezema/knowing-when-to-use-ifelse-vs-switch-in-javascript-3777)
+- [Week 10 of #100DaysOfCode: Exploring Microservices and Modern Architecture](https://dev.to/onatade_abdulmajeed/week-10-of-100daysofcode-exploring-microservices-and-modern-architecture-4a9c)
+- [Dev log #18 From Redis Brokers to Knowledge Graphs: A 177-Commit Sprint](https://dev.to/yashksaini/dev-log-18-from-redis-brokers-to-knowledge-graphs-a-177-commit-sprint-1mni)
+- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
+- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
 <!-- BLOG-POST-LIST:END -->
 
 
