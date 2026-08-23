@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Virtual Staging Needs Constraints More Than It Needs More Creativity](https://dev.to/phoenix0714/why-ai-virtual-staging-needs-constraints-more-than-it-needs-more-creativity-1e5m)
-- [ByteByteGo in 2026: Is It Still Worth It for System Design Interview Prep?](https://dev.to/somadevtoo/bytebytego-in-2026-is-it-still-worth-it-for-system-design-interview-prep-2dgn)
-- [New here — building WhiteDragon-dev 🐉](https://dev.to/whitedragon/new-here-building-whitedragon-dev-27bj)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/prudence_korir_/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-4k5e)
+- [Two Pieces of Code, Same Answer — Which One Should You Write?](https://dev.to/yuudaikido/two-pieces-of-code-same-answer-which-one-should-you-write-2p43)
+- [De atendimento e logística para a programação.](https://dev.to/gnandes7/de-atendimento-e-logistica-para-a-programacao-1cjj)
+- [No More Midnight Deploys: The Magic of Blue-Green Deployments](https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29)
+- [Why LLMs Are Bad at Math, Explained Simply](https://dev.to/james_anderson_h/why-llms-are-bad-at-math-explained-simply-3omj)
 <!-- BLOG-POST-LIST:END -->
 
 
