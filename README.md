@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents](https://dev.to/seasonkoh/one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents-4fme)
-- [Shopify just gave millions of stores WebMCP tools for free — here&#39;s what it does, and what it doesn&#39;t](https://dev.to/r0bertini/shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-1cln)
-- [How late is Form 4 &#39;real-time&#39; data? Measuring filing delay on 11,241 insider filings](https://dev.to/itsraxzey/how-late-is-form-4-real-time-data-measuring-filing-delay-on-11241-insider-filings-2e9j)
-- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
+- [A beginner&#39;s guide to the Dots-Ocr-With-Confidence model by Mind-Ware on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-dots-ocr-with-confidence-model-by-mind-ware-on-replicate-5dna)
+- [A beginner&#39;s guide to the Vggt-1b-Depth model by Vufinder on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-vggt-1b-depth-model-by-vufinder-on-replicate-2fai)
+- [A beginner&#39;s guide to the Unirig-Ai model by Aaronjmars on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-unirig-ai-model-by-aaronjmars-on-replicate-2mia)
+- [A beginner&#39;s guide to the Sharp-Ml model by Kfarr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-sharp-ml-model-by-kfarr-on-replicate-15g)
 <!-- BLOG-POST-LIST:END -->
 
 
