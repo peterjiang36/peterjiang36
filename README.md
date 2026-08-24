@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building agents is increasingly becoming less about “how smart is the model?” and more about “what does the agent remember, retrieve, and use at the right moment?” This experiment explores that rabbit hole. Loved the concept deep dive.](https://dev.to/ai_unboxed/building-agents-is-increasingly-becoming-less-about-how-smart-is-the-model-and-more-about-what-13ck)
-- [How AI Models Are Reshaping Cybersecurity — And Why We&#39;re Not Ready](https://dev.to/musespark/how-ai-models-are-reshaping-cybersecurity-and-why-were-not-ready-5gc8)
-- [Nowhere to Put the Disagreement: What a Memory Store Cannot Tell Your Agent](https://dev.to/izgorodin/nowhere-to-put-the-disagreement-what-a-memory-store-cannot-tell-your-agent-369l)
-- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/njorogekristofa/understanding-the-git-workflowworking-directorystaging-commit-and-push-5d3f)
+- [The Moving Average Awakens: A Star Wars Guide to RSI](https://dev.to/timevolt/the-moving-average-awakens-a-star-wars-guide-to-rsi-3hp5)
+- [AI Agents in Finance: From Cited Reports to Finished Deliverables](https://dev.to/valyuai/ai-agents-in-finance-from-cited-reports-to-finished-deliverables-3l1m)
+- [Our build wave shipped four scrapers that scraped nothing](https://dev.to/devil_scrapes/our-build-wave-shipped-four-scrapers-that-scraped-nothing-1g67)
+- [How I Cut a 2.1 MB JavaScript Bundle to 890 KB With Claude Code](https://dev.to/yureki_lab/how-i-cut-a-21-mb-javascript-bundle-to-890-kb-with-claude-code-2a0p)
 <!-- BLOG-POST-LIST:END -->
 
 
