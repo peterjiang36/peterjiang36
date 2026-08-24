@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Put an Orange In Your Pulp](https://dev.to/vaiolabs_io/put-an-orange-in-your-pulp-38oo)
-- [Porting a 20-Year-Old Game to Mobile: Lessons from RuneScape](https://dev.to/oceanviewgames/porting-a-20-year-old-game-to-mobile-lessons-from-runescape-1d1a)
-- [I Made Stefan Minchev Defend Every Decision in Our Playwright Framework](https://dev.to/idavidov13/i-made-stefan-minchev-defend-every-decision-in-our-playwright-framework-2dfa)
-- [ESP32: Intro](https://dev.to/janadapelahara/esp32-intro-26om)
+- [Building agents is increasingly becoming less about “how smart is the model?” and more about “what does the agent remember, retrieve, and use at the right moment?” This experiment explores that rabbit hole. Loved the concept deep dive.](https://dev.to/ai_unboxed/building-agents-is-increasingly-becoming-less-about-how-smart-is-the-model-and-more-about-what-13ck)
+- [How AI Models Are Reshaping Cybersecurity — And Why We&#39;re Not Ready](https://dev.to/musespark/how-ai-models-are-reshaping-cybersecurity-and-why-were-not-ready-5gc8)
+- [Nowhere to Put the Disagreement: What a Memory Store Cannot Tell Your Agent](https://dev.to/izgorodin/nowhere-to-put-the-disagreement-what-a-memory-store-cannot-tell-your-agent-369l)
+- [Understanding the Git Workflow:Working directory,staging ,commit and push.](https://dev.to/njorogekristofa/understanding-the-git-workflowworking-directorystaging-commit-and-push-5d3f)
 <!-- BLOG-POST-LIST:END -->
 
 
