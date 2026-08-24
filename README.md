@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing NgRx v22: Resource Extensions, Dynamic Deep Signals, a Light Theme, and more!](https://dev.to/ngrx/announcing-ngrx-v22-resource-extensions-dynamic-deep-signals-a-light-theme-and-more-5gci)
-- [Quipu: cifrado post-cuántico en Rust puro, con una rueda para Python](https://dev.to/isazajuancarlos/quipu-cifrado-post-cuantico-en-rust-puro-con-una-rueda-para-python-1194)
-- [OpenART Red-Teams Stateful Agents Across 10,000 Evolving Environment Scenarios](https://dev.to/aimodels-fyi/openart-red-teams-stateful-agents-across-10000-evolving-environment-scenarios-2063)
-- [RA-Bench Reveals Why Crisis-Video Deepfake Detectors Fail Across Generators and Social Media](https://dev.to/aimodels-fyi/ra-bench-reveals-why-crisis-video-deepfake-detectors-fail-across-generators-and-social-media-4hok)
+- [Validating OpenAI &amp; Anthropic Tool-Calling Schemas](https://dev.to/jsonutiltools/validating-openai-anthropic-tool-calling-schemas-535)
+- [One Project Ate the Shared Free Tier: A Per-Project Quota Pattern for LLM Gateways](https://dev.to/codepro_9661/one-project-ate-the-shared-free-tier-a-per-project-quota-pattern-for-llm-gateways-27i2)
+- [What I Learnt Building UrbanLease &lpar;Draft 1&rpar;](https://dev.to/diya_nagdev/what-i-learnt-building-urbanlease-draft-1-622)
+- [10 Million Free Tokens: A Token-Budget Field Test on a Free Server](https://dev.to/codejs_6920/10-million-free-tokens-a-token-budget-field-test-on-a-free-server-3en6)
 <!-- BLOG-POST-LIST:END -->
 
 
