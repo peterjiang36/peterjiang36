@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Validating OpenAI &amp; Anthropic Tool-Calling Schemas](https://dev.to/jsonutiltools/validating-openai-anthropic-tool-calling-schemas-535)
-- [One Project Ate the Shared Free Tier: A Per-Project Quota Pattern for LLM Gateways](https://dev.to/codepro_9661/one-project-ate-the-shared-free-tier-a-per-project-quota-pattern-for-llm-gateways-27i2)
-- [What I Learnt Building UrbanLease &lpar;Draft 1&rpar;](https://dev.to/diya_nagdev/what-i-learnt-building-urbanlease-draft-1-622)
-- [10 Million Free Tokens: A Token-Budget Field Test on a Free Server](https://dev.to/codejs_6920/10-million-free-tokens-a-token-budget-field-test-on-a-free-server-3en6)
+- [What our coverage number did not protect](https://dev.to/sovantica/what-our-coverage-number-did-not-protect-2ck2)
+- [How to test document management software with 20 real files](https://dev.to/jun-stoatify/how-to-test-document-management-software-with-20-real-files-32e6)
+- [Android SDK for Robot Battery, Power, and Charging Management](https://dev.to/vmodal_ai/android-sdk-for-robot-battery-power-and-charging-management-1b49)
+- [Hey, I&#39;m new here! Documenting my Java, Spring Boot &amp; Applied AI learning journey 👋](https://dev.to/shreya_karka/hey-im-new-here-documenting-my-java-spring-boot-applied-ai-learning-journey-3i75)
 <!-- BLOG-POST-LIST:END -->
 
 
