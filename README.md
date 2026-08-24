@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Tailscale Without sudo: The Userspace-Networking Trade-offs Nobody Mentions](https://dev.to/devlog/running-tailscale-without-sudo-the-userspace-networking-trade-offs-nobody-mentions-16a3)
-- [Codex PR Review: Automatic Reviews, Triggers, Review Rules](https://dev.to/johnonlee/codex-pr-review-automatic-reviews-triggers-review-rules-2j59)
-- [Managing ChatGPT Memory: Review, Edit, Delete](https://dev.to/johnonlee/managing-chatgpt-memory-review-edit-delete-1j30)
-- [I turned a 30-second security check into an app you can connect to Claude or ChatGPT](https://dev.to/kacper_35e1f61a8f41c3886b/i-turned-a-30-second-security-check-into-an-app-you-can-connect-to-claude-or-chatgpt-3c4f)
+- [Blocking Millions of Malicious IPs in O&lpar;32&rpar; Time with Bitwise Tries](https://dev.to/doaaa_04/blocking-millions-of-malicious-ips-in-o32-time-with-bitwise-tries-3eo3)
+- [Building the flagship &lpar;2&rpar;: a live DataGrid that queries Postgres on every keystroke](https://dev.to/martin_palopoli/building-the-flagship-2-a-live-datagrid-that-queries-postgres-on-every-keystroke-2i73)
+- [How to Build an Education App: A Complete Technical Guide](https://dev.to/arpit_mishra1/how-to-build-an-education-app-a-complete-technical-guide-44ln)
+- [The Evolution of China&#39;s Urban Pilot Assist: From &quot;Exam Cramming&quot; to One-Stage End-to-End](https://dev.to/michael_su_2d935214f6d114/the-evolution-of-chinas-urban-pilot-assist-from-exam-cramming-to-one-stage-end-to-end-5bmn)
 <!-- BLOG-POST-LIST:END -->
 
 
