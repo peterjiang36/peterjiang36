@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blocking Millions of Malicious IPs in O&lpar;32&rpar; Time with Bitwise Tries](https://dev.to/doaaa_04/blocking-millions-of-malicious-ips-in-o32-time-with-bitwise-tries-3eo3)
-- [Building the flagship &lpar;2&rpar;: a live DataGrid that queries Postgres on every keystroke](https://dev.to/martin_palopoli/building-the-flagship-2-a-live-datagrid-that-queries-postgres-on-every-keystroke-2i73)
-- [How to Build an Education App: A Complete Technical Guide](https://dev.to/arpit_mishra1/how-to-build-an-education-app-a-complete-technical-guide-44ln)
-- [The Evolution of China&#39;s Urban Pilot Assist: From &quot;Exam Cramming&quot; to One-Stage End-to-End](https://dev.to/michael_su_2d935214f6d114/the-evolution-of-chinas-urban-pilot-assist-from-exam-cramming-to-one-stage-end-to-end-5bmn)
+- [How to Get Your First Front End Developer Job With No Experience](https://dev.to/srdan_borovi_584c6b1d773/how-to-get-your-first-front-end-developer-job-with-no-experience-1p1p)
+- [Password Manager Security Audits: What Independent Reviews Reveal About Top Providers](https://dev.to/yaroslav_k/password-manager-security-audits-what-independent-reviews-reveal-about-top-providers-1j26)
+- [Full-Text Search Still Works. It Just Doesn’t Get You to an Answer](https://dev.to/sanikolaev/full-text-search-still-works-it-just-doesnt-get-you-to-an-answer-1dhd)
+- [New advancements in Generative AI](https://dev.to/g_ghuman_8989/new-advancements-in-generative-ai-18jg)
 <!-- BLOG-POST-LIST:END -->
 
 
