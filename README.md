@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How we run five coding agents side by side in one window](https://dev.to/eliseomdq/how-we-run-five-coding-agents-side-by-side-in-one-window-32gf)
-- [I pushed the badBANANA Threat Observatory public](https://dev.to/gnomeman4201/i-pushed-the-badbanana-threat-observatory-public-49e8)
-- [Trusted AI Agent Transactions, Part 4: PingAuthorize Policy Decisions](https://dev.to/darkedges/trusted-ai-agent-transactions-part-4-pingauthorize-policy-decisions-3ik8)
-- [Trusted AI Agent Transactions, Part 3: SPIRE Workload Identity](https://dev.to/darkedges/trusted-ai-agent-transactions-part-3-spire-workload-identity-1gfb)
+- [One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents](https://dev.to/seasonkoh/one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents-4fme)
+- [Shopify just gave millions of stores WebMCP tools for free — here&#39;s what it does, and what it doesn&#39;t](https://dev.to/r0bertini/shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-1cln)
+- [How late is Form 4 &#39;real-time&#39; data? Measuring filing delay on 11,241 insider filings](https://dev.to/itsraxzey/how-late-is-form-4-real-time-data-measuring-filing-delay-on-11241-insider-filings-2e9j)
+- [Xiaomi&#39;s First NAS Launches at 2,699 RMB: An Industrial Designer Looks at Smart Storage Design](https://dev.to/asher_hu_42c5945e09721211/xiaomis-first-nas-launches-at-2699-rmb-an-industrial-designer-looks-at-smart-storage-design-89e)
 <!-- BLOG-POST-LIST:END -->
 
 
