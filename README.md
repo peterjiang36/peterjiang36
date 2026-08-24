@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Moving Average Awakens: A Star Wars Guide to RSI](https://dev.to/timevolt/the-moving-average-awakens-a-star-wars-guide-to-rsi-3hp5)
-- [AI Agents in Finance: From Cited Reports to Finished Deliverables](https://dev.to/valyuai/ai-agents-in-finance-from-cited-reports-to-finished-deliverables-3l1m)
-- [Our build wave shipped four scrapers that scraped nothing](https://dev.to/devil_scrapes/our-build-wave-shipped-four-scrapers-that-scraped-nothing-1g67)
-- [How I Cut a 2.1 MB JavaScript Bundle to 890 KB With Claude Code](https://dev.to/yureki_lab/how-i-cut-a-21-mb-javascript-bundle-to-890-kb-with-claude-code-2a0p)
+- [Your Form Is Not Portable If It Contains Callbacks](https://dev.to/lorenzomuschera/your-form-is-not-portable-if-it-contains-callbacks-52d9)
+- [Static Forms in Astro: Handling Submissions Without a Server](https://dev.to/ekwoster/static-forms-in-astro-handling-submissions-without-a-server-7po)
+- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
+- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
 <!-- BLOG-POST-LIST:END -->
 
 
