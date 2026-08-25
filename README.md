@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Software Developer to Founder: Learning to Build Beyond Code](https://dev.to/banupriya_mohanraj_09f15a/from-software-developer-to-founder-learning-to-build-beyond-code-2pb5)
-- [Amazon, Temu, and AliExpress already have visual search. Desktop just hides it.](https://dev.to/fgiust/amazon-temu-and-aliexpress-already-have-visual-search-desktop-just-hides-it-336b)
-- [My Nand2Tetris Journey #2 - Building Basic Chips And ALU](https://dev.to/rondo/my-nand2tetris-journey-2-building-basic-chips-and-alu-ahh)
-- [Your Users Experience Your Backend Too.](https://dev.to/hilda_enyioko/your-users-experience-your-backend-too-cb0)
+- [Simplifying Access to Parent Properties in Deeply Nested Class Hierarchies Without Passing Entire Objects](https://dev.to/pavkode/simplifying-access-to-parent-properties-in-deeply-nested-class-hierarchies-without-passing-entire-3l9k)
+- [The Third Price: I Measured Prompt Caching Across 393 LLMs and Found a 90% Discount Hiding Behind One JSON Field](https://dev.to/ptokito/the-third-price-i-measured-prompt-caching-across-393-llms-and-found-a-90-discount-hiding-behind-eck)
+- [Vue&#39;s Vapor Mode Is Almost Here. Writing Browser Games With No Framework Taught Me Why It Matters](https://dev.to/gabbrowick/vues-vapor-mode-is-almost-here-writing-browser-games-with-no-framework-taught-me-why-it-matters-5gak)
+- [I Set Up a Fake Internet to Catch a Trojan: Analyzing FlexenseActivator.exe](https://dev.to/almahmudkhalif/i-set-up-a-fake-internet-to-catch-a-trojan-analyzing-flexenseactivatorexe-1bj1)
 <!-- BLOG-POST-LIST:END -->
 
 
