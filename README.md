@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside a Suspected Fake CoinDesk Podcast Funnel Targeting Web3 Founders](https://dev.to/frantzgs/inside-a-suspected-fake-coindesk-podcast-funnel-targeting-web3-founders-3k43)
-- [Your Agent Pipeline&#39;s Review Gate Should Be Code, Not a Prompt Convention](https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem)
-- [🩺 Building RadScan AI: Autonomous Multimodal Radiology Triage on GCP Cloud Run &amp; Vertex AI](https://dev.to/sahil_5273/building-radscan-ai-autonomous-multimodal-radiology-triage-on-gcp-cloud-run-vertex-ai-42d0)
-- [Barcode Workflows: Choosing Between Manual, Spreadsheet, and Online Tooling](https://dev.to/lizely/barcode-workflows-choosing-between-manual-spreadsheet-and-online-tooling-3cij)
+- [FDA aprova wearable que mede cetonas e glicose em tempo real](https://dev.to/leojulieta/fda-aprova-wearable-que-mede-cetonas-e-glicose-em-tempo-real-5gfb)
+- [Understanding the Git Workflow: Working Directory, Staging, Commit and Push](https://dev.to/javan_p_962641807facd5030/understanding-the-git-workflow-working-directory-staging-commit-and-push-14hc)
+- [Node.js Moderation Control: Large Volume User Content Through Batch LLM Triage](https://dev.to/oswaldjohansson6946/nodejs-moderation-control-large-volume-user-content-through-batch-llm-triage-2nn0)
+- [Supercharging Your Daily Dev Workflow with GitHub Copilot: From Jira to JUnit](https://dev.to/shubhamp23/supercharging-your-daily-dev-workflow-with-github-copilot-from-jira-to-junit-fc7)
 <!-- BLOG-POST-LIST:END -->
 
 
