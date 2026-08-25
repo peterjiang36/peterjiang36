@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Delete PDF Pages in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-delete-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-2gge)
-- [Building a local video search CLI with ffmpeg and OpenCLIP](https://dev.to/harry_xu_74d04f7a971995d5/building-a-local-video-search-cli-with-ffmpeg-and-openclip-3a5g)
-- [How not to use sub-agents!](https://dev.to/atul_joshi_f/how-not-to-use-sub-agents-1p38)
-- [Auto-provisioning hundreds of softphones: what actually has to happen under the hood](https://dev.to/johnw007/auto-provisioning-hundreds-of-softphones-what-actually-has-to-happen-under-the-hood-h1c)
+- [[Boost]](https://dev.to/fendis/-3ink)
+- [Declarative Automation Bundle: Bind an Existing Lakeflow Job](https://dev.to/oieduardorabelo/declarative-automation-bundle-bind-an-existing-lakeflow-job-54cm)
+- [How to Test AI Agents in Laravel &lpar;Beyond Fakes&rpar;](https://dev.to/aaronlumsden/how-to-test-ai-agents-in-laravel-beyond-fakes-4de0)
+- [Your Torrent Isn&#39;t Downloading From &quot;The Internet&quot;](https://dev.to/tejas_shinkar/your-torrent-isnt-downloading-from-the-internet-42bp)
 <!-- BLOG-POST-LIST:END -->
 
 
