@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Real Programmers Don’t Read Code](https://dev.to/newellpaul/real-programmers-dont-read-code-42dd)
-- [Qwen 27B na Q3 kvantizaci napsal WebGL hlavu od nuly](https://dev.to/petr_baloun/qwen-27b-na-q3-kvantizaci-napsal-webgl-hlavu-od-nuly-126k)
-- [Authorize Can&#39;t See Your Data](https://dev.to/kazemmdev/authorize-cant-see-your-data-47pc)
-- [Why Your OpenAPI Spec Isn&#39;t Enough for AI Agents](https://dev.to/spread2009/why-your-openapi-spec-isnt-enough-for-ai-agents-3cpe)
+- [How to Delete PDF Pages in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-delete-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-2gge)
+- [Building a local video search CLI with ffmpeg and OpenCLIP](https://dev.to/harry_xu_74d04f7a971995d5/building-a-local-video-search-cli-with-ffmpeg-and-openclip-3a5g)
+- [How not to use sub-agents!](https://dev.to/atul_joshi_f/how-not-to-use-sub-agents-1p38)
+- [Auto-provisioning hundreds of softphones: what actually has to happen under the hood](https://dev.to/johnw007/auto-provisioning-hundreds-of-softphones-what-actually-has-to-happen-under-the-hood-h1c)
 <!-- BLOG-POST-LIST:END -->
 
 
