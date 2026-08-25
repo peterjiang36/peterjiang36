@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps Lab: CI/CD Deployment to AWS ECS](https://dev.to/jumptotech/devops-lab-cicd-deployment-to-aws-ecs-166p)
-- [Looking for advice: Best patterns for automating Supabase edge workflows in a React/Capacitor app](https://dev.to/adream_e_e0c901e40c61a1bd/looking-for-advice-best-patterns-for-automating-supabase-edge-workflows-in-a-reactcapacitor-app-1197)
-- [Someone Can Get an SSL Certificate for Your Domain. CT Logs Are How You Find Out.](https://dev.to/merlonix/someone-can-get-an-ssl-certificate-for-your-domain-ct-logs-are-how-you-find-out-43nf)
-- [LLM Memory vs Context Window: The Gap Nobody Explains](https://dev.to/mryadavgulshan/llm-memory-vs-context-window-the-gap-nobody-explains-1mk6)
+- [My Beginner’s Guide to Git, SSH, and Git Bash to GitHub](https://dev.to/gidii_keter/my-beginners-guide-to-git-ssh-and-git-bash-to-github-371l)
+- [What belongs in a coding-agent verification evidence bundle?](https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402)
+- [A Runaway Prompt Is a Tenant: Fair Scheduling on a Shared Free Endpoint](https://dev.to/robinzzz/a-runaway-prompt-is-a-tenant-fair-scheduling-on-a-shared-free-endpoint-5d1e)
+- [Why real-time restock alerts are harder than they look](https://dev.to/restockd/why-real-time-restock-alerts-are-harder-than-they-look-3n73)
 <!-- BLOG-POST-LIST:END -->
 
 
