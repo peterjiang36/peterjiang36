@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Building an AI Layer on Top of Your CRM &lpar;Not a New One&rpar;](https://dev.to/rakno/why-im-building-an-ai-layer-on-top-of-your-crm-not-a-new-one-5c91)
-- [MiniMax H3 VRAM requirements and real render times, consolidated from 20 threads](https://dev.to/lee_315dd1e13420e63e2b813/minimax-h3-vram-requirements-and-real-render-times-consolidated-from-20-threads-3k1n)
-- [Zero-Budget Release Notes: A Case Study in Free-Tier LLM Automation](https://dev.to/aiio_6471/zero-budget-release-notes-a-case-study-in-free-tier-llm-automation-1a88)
-- [Web Performance on a Budget: Bundle Size, API Limits, and Database Indexes](https://dev.to/apeder/web-performance-on-a-budget-bundle-size-api-limits-and-database-indexes-44c6)
+- [I open-sourced a UI kit - then went looking for everything I got wrong about it](https://dev.to/mikhail_kokoulin_d39d37a5/i-open-sourced-a-ui-kit-then-went-looking-for-everything-i-got-wrong-about-it-4m72)
+- [D11：他昨天新增的規則，今天第一次上場就給出相反的解釋](https://dev.to/_2ab71a79dd36101e6be89/d11ta-zuo-tian-xin-zeng-de-gui-ze-jin-tian-di-ci-shang-chang-jiu-gei-chu-xiang-fan-de-jie-shi-147h)
+- [Building A Prompt Template That Works Without You In The Room](https://dev.to/faraz_farhan_83ed23a154a2/building-a-prompt-template-that-works-without-you-in-the-room-10ia)
+- [OpenCode Memory Internals](https://dev.to/antonio_zhu_e726fd856cd86/opencode-memory-internals-2p8g)
 <!-- BLOG-POST-LIST:END -->
 
 
