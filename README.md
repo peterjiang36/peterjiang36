@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Development After AI](https://dev.to/moruno21/software-development-after-ai-16lg)
-- [React interview questions seniors actually get asked](https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b)
-- [Clarity Before Autonomy](https://dev.to/namanvashistha/clarity-before-autonomy-6m9)
-- [The M5 Ultra Mac Studio: I Did the Math So You Don&#39;t Have To](https://dev.to/arshtechpro/the-m5-ultra-mac-studio-i-did-the-math-so-you-dont-have-to-2g10)
+- [From Software Developer to Founder: Learning to Build Beyond Code](https://dev.to/banupriya_mohanraj_09f15a/from-software-developer-to-founder-learning-to-build-beyond-code-2pb5)
+- [Amazon, Temu, and AliExpress already have visual search. Desktop just hides it.](https://dev.to/fgiust/amazon-temu-and-aliexpress-already-have-visual-search-desktop-just-hides-it-336b)
+- [My Nand2Tetris Journey #2 - Building Basic Chips And ALU](https://dev.to/rondo/my-nand2tetris-journey-2-building-basic-chips-and-alu-ahh)
+- [Your Users Experience Your Backend Too.](https://dev.to/hilda_enyioko/your-users-experience-your-backend-too-cb0)
 <!-- BLOG-POST-LIST:END -->
 
 
