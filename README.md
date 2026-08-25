@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Greedy vs. Non-Greedy Regex: Why the Same Pattern Can Match Differently](https://dev.to/susumun/greedy-vs-non-greedy-regex-why-the-same-pattern-can-match-differently-3eg3)
-- [Can AI Remember What It Sees?](https://dev.to/temiloluwavalentine/can-ai-remember-what-it-sees-3ek7)
-- [I Built NameSnap With Codex: Five Lessons About AI-Generated App Design](https://dev.to/marcusykim/i-built-namesnap-with-codex-five-lessons-about-ai-generated-app-design-491a)
-- [comiCSS #255: Yellow](https://dev.to/alvaromontoro/comicss-255-yellow-1bj)
+- [Every Enterprise Will Have Its Own AI Harness](https://dev.to/mickymultani/every-enterprise-will-have-its-own-ai-harness-1gfi)
+- [Google Rewrites Meta Descriptions Often: What SMBs Should Do to Protect CTR](https://dev.to/alifar/google-rewrites-meta-descriptions-often-what-smbs-should-do-to-protect-ctr-57ao)
+- [Transforme PowerPoint em Vídeo IA em 20s: Guia WAN‑3.0](https://dev.to/leojulieta/transforme-powerpoint-em-video-ia-em-20s-guia-wan-30-3d75)
+- [Per-user two-factor auth in CakePHP with CakeDC/Users &lpar;opt-in, one method&rpar;](https://dev.to/viniciusbig/per-user-two-factor-auth-in-cakephp-with-cakedcusers-opt-in-one-method-4n6d)
 <!-- BLOG-POST-LIST:END -->
 
 
