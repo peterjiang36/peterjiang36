@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/fendis/-3ink)
-- [Declarative Automation Bundle: Bind an Existing Lakeflow Job](https://dev.to/oieduardorabelo/declarative-automation-bundle-bind-an-existing-lakeflow-job-54cm)
-- [How to Test AI Agents in Laravel &lpar;Beyond Fakes&rpar;](https://dev.to/aaronlumsden/how-to-test-ai-agents-in-laravel-beyond-fakes-4de0)
-- [Your Torrent Isn&#39;t Downloading From &quot;The Internet&quot;](https://dev.to/tejas_shinkar/your-torrent-isnt-downloading-from-the-internet-42bp)
+- [Software Development After AI](https://dev.to/moruno21/software-development-after-ai-16lg)
+- [React interview questions seniors actually get asked](https://dev.to/moputa/react-interview-questions-seniors-actually-get-asked-4b9b)
+- [Clarity Before Autonomy](https://dev.to/namanvashistha/clarity-before-autonomy-6m9)
+- [The M5 Ultra Mac Studio: I Did the Math So You Don&#39;t Have To](https://dev.to/arshtechpro/the-m5-ultra-mac-studio-i-did-the-math-so-you-dont-have-to-2g10)
 <!-- BLOG-POST-LIST:END -->
 
 
