@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Beginner’s Guide to Git, SSH, and Git Bash to GitHub](https://dev.to/gidii_keter/my-beginners-guide-to-git-ssh-and-git-bash-to-github-371l)
-- [What belongs in a coding-agent verification evidence bundle?](https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402)
-- [A Runaway Prompt Is a Tenant: Fair Scheduling on a Shared Free Endpoint](https://dev.to/robinzzz/a-runaway-prompt-is-a-tenant-fair-scheduling-on-a-shared-free-endpoint-5d1e)
-- [Why real-time restock alerts are harder than they look](https://dev.to/restockd/why-real-time-restock-alerts-are-harder-than-they-look-3n73)
+- [Why I&#39;m Building an AI Layer on Top of Your CRM &lpar;Not a New One&rpar;](https://dev.to/rakno/why-im-building-an-ai-layer-on-top-of-your-crm-not-a-new-one-5c91)
+- [MiniMax H3 VRAM requirements and real render times, consolidated from 20 threads](https://dev.to/lee_315dd1e13420e63e2b813/minimax-h3-vram-requirements-and-real-render-times-consolidated-from-20-threads-3k1n)
+- [Zero-Budget Release Notes: A Case Study in Free-Tier LLM Automation](https://dev.to/aiio_6471/zero-budget-release-notes-a-case-study-in-free-tier-llm-automation-1a88)
+- [Web Performance on a Budget: Bundle Size, API Limits, and Database Indexes](https://dev.to/apeder/web-performance-on-a-budget-bundle-size-api-limits-and-database-indexes-44c6)
 <!-- BLOG-POST-LIST:END -->
 
 
