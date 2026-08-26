@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three AI Coding Agents, Three Ways to Break Them, and One Thing Detection Will Never Give You](https://dev.to/correctover/three-ai-coding-agents-three-ways-to-break-them-and-one-thing-detection-will-never-give-you-5b5j)
-- [Spotting Invisible LLM Agent Bugs with Agnost AI](https://dev.to/leojulieta/spotting-invisible-llm-agent-bugs-with-agnost-ai-4jea)
-- [Upgrading Your Embedding Model Doesn&#39;t Break RAG Loudly — It Breaks It Quietly](https://dev.to/speed_engineer/upgrading-your-embedding-model-doesnt-break-rag-loudly-it-breaks-it-quietly-ih6)
-- [While AI Is Thinking](https://dev.to/isurogi/while-ai-is-thinking-5e3b)
+- [Are AI Tools Actually Making Us Productive — or Just Giving Us Something New to Play With?](https://dev.to/james_anderson_h/are-ai-tools-actually-making-us-productive-or-just-giving-us-something-new-to-play-with-4f9a)
+- [Using Terraform to Manage On-Premise Infrastructure](https://dev.to/toddyholiday/using-terraform-to-manage-on-premise-infrastructure-562o)
+- [# Building a Personal Notes Assistant with RAG, Amazon Bedrock, and Pinecone](https://dev.to/d3vjamal/-building-a-personal-notes-assistant-with-rag-amazon-bedrock-and-pinecone-4jg3)
+- [I built a file format in c/c++](https://dev.to/zeroabs_1c2ccb75675/i-built-a-file-format-in-cc-2i15)
 <!-- BLOG-POST-LIST:END -->
 
 
