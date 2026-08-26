@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Are AI Tools Actually Making Us Productive — or Just Giving Us Something New to Play With?](https://dev.to/james_anderson_h/are-ai-tools-actually-making-us-productive-or-just-giving-us-something-new-to-play-with-4f9a)
-- [Using Terraform to Manage On-Premise Infrastructure](https://dev.to/toddyholiday/using-terraform-to-manage-on-premise-infrastructure-562o)
-- [# Building a Personal Notes Assistant with RAG, Amazon Bedrock, and Pinecone](https://dev.to/d3vjamal/-building-a-personal-notes-assistant-with-rag-amazon-bedrock-and-pinecone-4jg3)
-- [I built a file format in c/c++](https://dev.to/zeroabs_1c2ccb75675/i-built-a-file-format-in-cc-2i15)
+- [A Unified KPI Framework for Automation Testing with Playwright &amp; JavaScript](https://dev.to/she11_qa/a-unified-kpi-framework-for-automation-testing-with-playwright-javascript-2oce)
+- [Building a Client-Side N-gram Utility for Text Structure and Phrase Audit](https://dev.to/hoangvibecode/building-a-client-side-n-gram-utility-for-text-structure-and-phrase-audit-4623)
+- [Testing an AI shopping agent&#39;s checkout flow? There&#39;s no sandbox for that yet — so I built one](https://dev.to/flovoice53tech/testing-an-ai-shopping-agents-checkout-flow-theres-no-sandbox-for-that-yet-so-i-built-one-dgo)
+- [Building an Automated QA KPI Dashboard for Playwright &amp; BDD Pipelines](https://dev.to/she11_qa/building-an-automated-qa-kpi-dashboard-for-playwright-bdd-pipelines-31p7)
 <!-- BLOG-POST-LIST:END -->
 
 
