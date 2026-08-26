@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building OmniGIF: A Client-Side GIF Toolkit with WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/sunkehappy/building-omnigif-a-client-side-gif-toolkit-with-webassembly-no-server-uploads-29o1)
-- [Copilot&#39;s Code Review Cannot Block Your Merge. It Says So in the Docs.](https://dev.to/ugliai/copilots-code-review-cannot-block-your-merge-it-says-so-in-the-docs-hfm)
-- [The fuss with running a code ONLY once in React.js &lpar;after page load&rpar;](https://dev.to/midnqp/the-fuss-with-running-a-code-only-once-in-reactjs-after-page-load-jo7)
-- [Implementing a Free LLM API Without a Credit Card — Understanding Rate Limits and Fallback Design](https://dev.to/orca_forge/implementing-a-free-llm-api-without-a-credit-card-understanding-rate-limits-and-fallback-design-322b)
+- [How I built a self-updating visa database from 13,507 passport-destination pairs](https://dev.to/jones_william_01015943a08/how-i-built-a-self-updating-visa-database-from-13507-passport-destination-pairs-983)
+- [The Social Media Trap: Spending an Entire Day Creating Content Instead of Coding 🙃](https://dev.to/ronak1311/the-social-media-trap-spending-an-entire-day-creating-content-instead-of-coding-5b8g)
+- [Pi Zero + MPU-9250: empty i2cdetect is a 3.3V problem, not a Python library](https://dev.to/sunshoutkernel/pi-zero-mpu-9250-empty-i2cdetect-is-a-33v-problem-not-a-python-library-1093)
+- [Learning by building something real](https://dev.to/oitydobcrypto/learning-by-building-something-real-14ff)
 <!-- BLOG-POST-LIST:END -->
 
 
