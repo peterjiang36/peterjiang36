@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How our leadership &quot;saved&quot; the company by banning the tools that worked](https://dev.to/astra_lost_in_ai/how-our-leadership-saved-the-company-by-banning-the-tools-that-worked-15ec)
-- [Loan API Orchestration vs. API Aggregation: Why the Architecture Decision Determines What Your Lending Stack Can Actually Do](https://dev.to/ramklfin/loan-api-orchestration-vs-api-aggregation-why-the-architecture-decision-determines-what-your-2ghk)
-- [When Building an AI Agent, the Journey Matters as Much as the Destination](https://dev.to/rajkundalia/when-building-an-ai-agent-the-journey-matters-as-much-as-the-destination-124d)
-- [Building an Agent That Turns DataHub Metadata Into Airflow DAGs](https://dev.to/mark2k4/building-an-agent-that-turns-datahub-metadata-into-airflow-dags-gkk)
+- [The EU Cyber Resilience Act&#39;s reporting clock starts September 11. What is your team actually doing about it?](https://dev.to/albernaz_/the-eu-cyber-resilience-acts-reporting-clock-starts-september-11-what-is-your-team-actually-doing-2lil)
+- [Build a Simple Developer Environment Checker with Python](https://dev.to/arthur_luca/build-a-simple-developer-environment-checker-with-python-542e)
+- [OpenAI&#39;s data center chief left. Why builders should care](https://dev.to/induwara_ashinsana_9e4d5b/openais-data-center-chief-left-why-builders-should-care-3l3n)
+- [Nuxt server routes with Hono RPC-style type safety — no router rewrite](https://dev.to/yoshinoriishii/nuxt-server-routes-with-hono-rpc-style-type-safety-no-rewrite-205k)
 <!-- BLOG-POST-LIST:END -->
 
 
