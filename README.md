@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [MEU COMEÇO NA ÁREA DA TECNOLOGIA](https://dev.to/jose_neto/meu-comeco-na-area-da-tecnologia-3fm9)
-- [Observability Stack: Prometheus, Node Exporter &amp; Grafana](https://dev.to/nishant_bhardwaj_9135ba51/observability-stack-prometheus-node-exporter-grafana-2j3o)
-- [A Vote About Bots Is Really a Vote About Trust](https://dev.to/maroneta/a-vote-about-bots-is-really-a-vote-about-trust-f3k)
-- [What Lowercasing Taught Me About Trusting Strings](https://dev.to/maroneta/what-lowercasing-taught-me-about-trusting-strings-3mdi)
+- [Keycloak: A Deep Dive into Open Source Identity and Access Management &lpar;2026-08-26 14:42&rpar;](https://dev.to/said_olano/keycloak-a-deep-dive-into-open-source-identity-and-access-management-2026-08-26-1442-4g8o)
+- [Building a Unix Shell from First Principles in Rust](https://dev.to/shinjiito/building-a-unix-shell-from-first-principles-in-rust-35ek)
+- [One Runtime, Two Programs That Have Nothing in Common](https://dev.to/mbelhadi/one-runtime-two-programs-that-have-nothing-in-common-4l8l)
+- [Stop Copying Your CLAUDE.md Between Projects](https://dev.to/elleryfamilia/stop-copying-your-claudemd-between-projects-4ji7)
 <!-- BLOG-POST-LIST:END -->
 
 
