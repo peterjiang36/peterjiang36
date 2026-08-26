@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Mutation Testing as a Merge Gate for Agent-Written Tests](https://dev.to/datacpp_8185/mutation-testing-as-a-merge-gate-for-agent-written-tests-5gie)
-- [OCI Log Retention Validation: Moving Load Balancer Logs to Object Storage with Connector Hub](https://dev.to/arnold_infant/oci-log-retention-validation-moving-load-balancer-logs-to-object-storage-with-connector-hub-2hja)
-- [The Docs Draft Pipeline: What an AI May Write and What You Must Own](https://dev.to/github_7727/the-docs-draft-pipeline-what-an-ai-may-write-and-what-you-must-own-4km1)
-- [Google Expands Gemini Into an Agent Platform for Building and Running Business AI](https://dev.to/alifar/google-expands-gemini-into-an-agent-platform-for-building-and-running-business-ai-19nf)
+- [FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views](https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g)
+- [The Agent Failed. The Promise Did Not: Building Verifiable Agent Succession](https://dev.to/milos-plavsic/the-agent-failed-the-promise-did-not-building-verifiable-agent-succession-oe4)
+- [🏆 #HackAVP, premier hackathon dédié à l&#39;emploi dans la fonction publique en NCL](https://dev.to/optnc/hackavp-premier-hackathon-dedie-a-lemploi-dans-la-fonction-publique-en-ncl-3oj0)
+- [Node.js Worker Troubleshooting: Background Queue Retry Exhaustion](https://dev.to/brennthorn8571/nodejs-worker-troubleshooting-background-queue-retry-exhaustion-504f)
 <!-- BLOG-POST-LIST:END -->
 
 
