@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a self-updating visa database from 13,507 passport-destination pairs](https://dev.to/jones_william_01015943a08/how-i-built-a-self-updating-visa-database-from-13507-passport-destination-pairs-983)
-- [The Social Media Trap: Spending an Entire Day Creating Content Instead of Coding 🙃](https://dev.to/ronak1311/the-social-media-trap-spending-an-entire-day-creating-content-instead-of-coding-5b8g)
-- [Pi Zero + MPU-9250: empty i2cdetect is a 3.3V problem, not a Python library](https://dev.to/sunshoutkernel/pi-zero-mpu-9250-empty-i2cdetect-is-a-33v-problem-not-a-python-library-1093)
-- [Learning by building something real](https://dev.to/oitydobcrypto/learning-by-building-something-real-14ff)
+- [Three AI Coding Agents, Three Ways to Break Them, and One Thing Detection Will Never Give You](https://dev.to/correctover/three-ai-coding-agents-three-ways-to-break-them-and-one-thing-detection-will-never-give-you-5b5j)
+- [Spotting Invisible LLM Agent Bugs with Agnost AI](https://dev.to/leojulieta/spotting-invisible-llm-agent-bugs-with-agnost-ai-4jea)
+- [Upgrading Your Embedding Model Doesn&#39;t Break RAG Loudly — It Breaks It Quietly](https://dev.to/speed_engineer/upgrading-your-embedding-model-doesnt-break-rag-loudly-it-breaks-it-quietly-ih6)
+- [While AI Is Thinking](https://dev.to/isurogi/while-ai-is-thinking-5e3b)
 <!-- BLOG-POST-LIST:END -->
 
 
