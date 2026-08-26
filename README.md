@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DevsFTP s/FTP Client for Windows &amp; Linux](https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl)
-- [Introducing Crypts and Commits](https://dev.to/thebraindonor/introducing-crypts-and-commits-3igo)
-- [AI-Driven Discovery &amp; Quantum ESPRESSO DFT Validation for 0 GPa Room-Temp Superconductor Candidate &lpar;C2H2B6Be&rpar;](https://dev.to/tsagi/ai-driven-discovery-quantum-espresso-dft-validation-for-0-gpa-room-temp-superconductor-candidate-5hjn)
-- [Your Proxy Is in Germany. The Rest of Your Client Isn&#39;t.](https://dev.to/roamproxy/your-proxy-is-in-germany-the-rest-of-your-client-isnt-208b)
+- [Building OmniGIF: A Client-Side GIF Toolkit with WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/sunkehappy/building-omnigif-a-client-side-gif-toolkit-with-webassembly-no-server-uploads-29o1)
+- [Copilot&#39;s Code Review Cannot Block Your Merge. It Says So in the Docs.](https://dev.to/ugliai/copilots-code-review-cannot-block-your-merge-it-says-so-in-the-docs-hfm)
+- [The fuss with running a code ONLY once in React.js &lpar;after page load&rpar;](https://dev.to/midnqp/the-fuss-with-running-a-code-only-once-in-reactjs-after-page-load-jo7)
+- [Implementing a Free LLM API Without a Credit Card — Understanding Rate Limits and Fallback Design](https://dev.to/orca_forge/implementing-a-free-llm-api-without-a-credit-card-understanding-rate-limits-and-fallback-design-322b)
 <!-- BLOG-POST-LIST:END -->
 
 
