@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The native share sheet is three strings and two fallbacks](https://dev.to/kaikina/the-native-share-sheet-is-three-strings-and-two-fallbacks-3m3i)
-- [Blameless Postmortem Template for Web Agencies](https://dev.to/artem_meleshkin_0c4e0a675/blameless-postmortem-template-for-web-agencies-2663)
-- [A GPU Is Two Things, and Only One of Them Holds Your Model](https://dev.to/aj_aws_sa_sg/a-gpu-is-two-things-and-only-one-of-them-holds-your-model-4bbh)
-- [I built a system that attacks its own AI agents every night. Here&#39;s what it found — including in Google&#39;s own code.](https://dev.to/ashraf_a_895f585692281868/i-built-a-system-that-attacks-its-own-ai-agents-every-night-heres-what-it-found-including-in-16ie)
+- [Resume Advice from the soon to be jobless](https://dev.to/unitbuilds_cc/resume-advice-from-the-soon-to-be-jobless-342p)
+- [Anthropic Opens MHS Research Preview for AI Agents Operating Physical Hardware](https://dev.to/alifar/anthropic-opens-mhs-research-preview-for-ai-agents-operating-physical-hardware-17c0)
+- [What I Accidentally Built When I Connected Claude to a Product Catalog](https://dev.to/buywhere/what-i-accidentally-built-when-i-connected-claude-to-a-product-catalog-4lpi)
+- [Cómo solucionar el error \&quot;Enable JavaScript and cookies to continue\&quot;](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln)
 <!-- BLOG-POST-LIST:END -->
 
 
