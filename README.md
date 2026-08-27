@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FutureBuilder and StreamBuilder as Anti-Patterns: Why Your Async Boundary Should Be Far Away From Your Views](https://dev.to/gde/futurebuilder-and-streambuilder-as-anti-patterns-why-your-async-boundary-should-be-far-away-from-1d8g)
-- [The Agent Failed. The Promise Did Not: Building Verifiable Agent Succession](https://dev.to/milos-plavsic/the-agent-failed-the-promise-did-not-building-verifiable-agent-succession-oe4)
-- [🏆 #HackAVP, premier hackathon dédié à l&#39;emploi dans la fonction publique en NCL](https://dev.to/optnc/hackavp-premier-hackathon-dedie-a-lemploi-dans-la-fonction-publique-en-ncl-3oj0)
-- [Node.js Worker Troubleshooting: Background Queue Retry Exhaustion](https://dev.to/brennthorn8571/nodejs-worker-troubleshooting-background-queue-retry-exhaustion-504f)
+- [The native share sheet is three strings and two fallbacks](https://dev.to/kaikina/the-native-share-sheet-is-three-strings-and-two-fallbacks-3m3i)
+- [Blameless Postmortem Template for Web Agencies](https://dev.to/artem_meleshkin_0c4e0a675/blameless-postmortem-template-for-web-agencies-2663)
+- [A GPU Is Two Things, and Only One of Them Holds Your Model](https://dev.to/aj_aws_sa_sg/a-gpu-is-two-things-and-only-one-of-them-holds-your-model-4bbh)
+- [I built a system that attacks its own AI agents every night. Here&#39;s what it found — including in Google&#39;s own code.](https://dev.to/ashraf_a_895f585692281868/i-built-a-system-that-attacks-its-own-ai-agents-every-night-heres-what-it-found-including-in-16ie)
 <!-- BLOG-POST-LIST:END -->
 
 
