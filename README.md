@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS VPC Networking Fundamentals: VPCs, Subnets, CIDR, Route Tables, IGW, and NAT Gateways](https://dev.to/aloknecessary/aws-vpc-networking-fundamentals-vpcs-subnets-cidr-route-tables-igw-and-nat-gateways-19h1)
-- [Making HTTP Fail on Purpose: Building a Small Chaos Library for Java - Flaky HTTP](https://dev.to/tapadyutichatterjee/making-http-fail-on-purpose-building-a-small-chaos-library-for-java-flaky-http-18ia)
-- [Speaker - Designing Systems That Contain Failure - CS Week Perú 2026](https://dev.to/frostcore/designing-systems-that-contain-failure-cs-week-peru-2026-2703)
-- [Why a Windows 11 VM Shows Nearly 100% Memory Usage in Proxmox VE](https://dev.to/frankzhang/why-a-windows-11-vm-shows-nearly-100-memory-usage-in-proxmox-ve-1daj)
+- [Performance Engineering: What Is the System Waiting For?](https://dev.to/josemariairiarte/performance-engineering-what-is-the-system-waiting-for-483i)
+- [Docker Demystified: The Ultimate Guide to Containers and Architecture](https://dev.to/bibekkakati/docker-demystified-the-ultimate-guide-to-containers-and-architecture-h18)
+- [Cross-Sector Threat Intelligence Fusion: Building a Unified TI Program Across IT, OT, and Healthcare Environments](https://dev.to/sandhipveera/cross-sector-threat-intelligence-fusion-building-a-unified-ti-program-across-it-ot-and-3b80)
+- [What Idempotent Actually Means: Why Retries Are Safe &lpar;and When They Aren&#39;t&rpar;](https://dev.to/loopandretry/what-idempotent-actually-means-why-retries-are-safe-and-when-they-arent-nmf)
 <!-- BLOG-POST-LIST:END -->
 
 
