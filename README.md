@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Advice from the soon to be jobless](https://dev.to/unitbuilds_cc/resume-advice-from-the-soon-to-be-jobless-342p)
-- [Anthropic Opens MHS Research Preview for AI Agents Operating Physical Hardware](https://dev.to/alifar/anthropic-opens-mhs-research-preview-for-ai-agents-operating-physical-hardware-17c0)
-- [What I Accidentally Built When I Connected Claude to a Product Catalog](https://dev.to/buywhere/what-i-accidentally-built-when-i-connected-claude-to-a-product-catalog-4lpi)
-- [Cómo solucionar el error \&quot;Enable JavaScript and cookies to continue\&quot;](https://dev.to/erickeduardoramos03/como-solucionar-el-error-enable-javascript-and-cookies-to-continue-4gln)
+- [AWS VPC Networking Fundamentals: VPCs, Subnets, CIDR, Route Tables, IGW, and NAT Gateways](https://dev.to/aloknecessary/aws-vpc-networking-fundamentals-vpcs-subnets-cidr-route-tables-igw-and-nat-gateways-19h1)
+- [Making HTTP Fail on Purpose: Building a Small Chaos Library for Java - Flaky HTTP](https://dev.to/tapadyutichatterjee/making-http-fail-on-purpose-building-a-small-chaos-library-for-java-flaky-http-18ia)
+- [Speaker - Designing Systems That Contain Failure - CS Week Perú 2026](https://dev.to/frostcore/designing-systems-that-contain-failure-cs-week-peru-2026-2703)
+- [Why a Windows 11 VM Shows Nearly 100% Memory Usage in Proxmox VE](https://dev.to/frankzhang/why-a-windows-11-vm-shows-nearly-100-memory-usage-in-proxmox-ve-1daj)
 <!-- BLOG-POST-LIST:END -->
 
 
