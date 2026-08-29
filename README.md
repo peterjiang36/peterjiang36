@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [There Is No Official TikTok LIVE API. Here Is How to Get the Data Anyway](https://dev.to/rngrow_26ac7d2e4c5dc10a00/there-is-no-official-tiktok-live-api-here-is-how-to-get-the-data-anyway-62n)
-- [A Beginner&#39;s Guide to Starting with HTML, CSS, and JavaScript](https://dev.to/bhadramohit/a-beginners-guide-to-starting-with-html-css-and-javascript-2paj)
-- [I Built 108 Free Online Tools So I&#39;d Stop Jumping Between 10 Different Sites](https://dev.to/ayesha_mughal_0e2d11e8c45/i-built-108-free-online-tools-so-id-stop-jumping-between-10-different-sites-f0c)
-- [Design, Optimization, and Deployment of a Hybrid Agentic Retrieval-Augmented Generation &lpar;Agentic-RAG&rpar; Architecture](https://dev.to/ajay_bazilissac_a8063c5b/design-optimization-and-deployment-of-a-hybrid-agentic-retrieval-augmented-generation-32e8)
+- [What is post-quantum cryptography, and why migrate now?](https://dev.to/isazajuancarlos/what-is-post-quantum-cryptography-and-why-migrate-now-34ci)
+- [Cómo solucionar \&quot;Enable JavaScript and cookies to continue\&quot;](https://dev.to/erickeduardoramos03/como-solucionar-enable-javascript-and-cookies-to-continue-2lej)
+- [How HookProbe Detects CVE-2026-18556 &lpar;N-able N-central Authentication Bypass&rpar;](https://dev.to/hookprobe/how-hookprobe-detects-cve-2026-18556-n-able-n-central-authentication-bypass-deo)
+- [Kubernetes Demystified: YAML Tutorial for DevOps](https://dev.to/tejas_kp/kubernetes-demystified-yaml-tutorial-for-devops-3hlj)
 <!-- BLOG-POST-LIST:END -->
 
 
