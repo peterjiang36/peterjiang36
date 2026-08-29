@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is post-quantum cryptography, and why migrate now?](https://dev.to/isazajuancarlos/what-is-post-quantum-cryptography-and-why-migrate-now-34ci)
-- [Cómo solucionar \&quot;Enable JavaScript and cookies to continue\&quot;](https://dev.to/erickeduardoramos03/como-solucionar-enable-javascript-and-cookies-to-continue-2lej)
-- [How HookProbe Detects CVE-2026-18556 &lpar;N-able N-central Authentication Bypass&rpar;](https://dev.to/hookprobe/how-hookprobe-detects-cve-2026-18556-n-able-n-central-authentication-bypass-deo)
-- [Kubernetes Demystified: YAML Tutorial for DevOps](https://dev.to/tejas_kp/kubernetes-demystified-yaml-tutorial-for-devops-3hlj)
+- [The Robots Had Their Biggest Week Yet — Record-Breaking Games, a Viral $399 Duck, and Billion-Dollar Bets](https://dev.to/jason_gunnells/the-robots-had-their-biggest-week-yet-record-breaking-games-a-viral-399-duck-and-3cn2)
+- [Smart Contract Vulnerability Surface Analysis: Bybit](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bybit-cgp)
+- [Choice Leaks: I Tried to Generate 100 Random Digits and Failed in Four Measurable Ways](https://dev.to/aureus_c_b3ba7f87cc34d74d49/choice-leaks-i-tried-to-generate-100-random-digits-and-failed-in-four-measurable-ways-3p41)
+- [Fixing AuthGuard Navigation, 401 Handling, and Sales‑Pipeline FK in a Next.js + NestJS Monorepo](https://dev.to/zaerohell/fixing-authguard-navigation-401-handling-and-sales-pipeline-fk-in-a-nextjs-nestjs-monorepo-2cj6)
 <!-- BLOG-POST-LIST:END -->
 
 
