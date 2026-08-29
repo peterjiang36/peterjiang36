@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Engineering: What Is the System Waiting For?](https://dev.to/josemariairiarte/performance-engineering-what-is-the-system-waiting-for-483i)
-- [Docker Demystified: The Ultimate Guide to Containers and Architecture](https://dev.to/bibekkakati/docker-demystified-the-ultimate-guide-to-containers-and-architecture-h18)
-- [Cross-Sector Threat Intelligence Fusion: Building a Unified TI Program Across IT, OT, and Healthcare Environments](https://dev.to/sandhipveera/cross-sector-threat-intelligence-fusion-building-a-unified-ti-program-across-it-ot-and-3b80)
-- [What Idempotent Actually Means: Why Retries Are Safe &lpar;and When They Aren&#39;t&rpar;](https://dev.to/loopandretry/what-idempotent-actually-means-why-retries-are-safe-and-when-they-arent-nmf)
+- [Aider: AI pair programming ใน terminal — เทียบหมัดต่อหมัดกับคู่แข่ง 5 ตัว](https://dev.to/gophernment/aider-ai-pair-programming-ain-terminal-ethiiybhmadthmadkabkhuuaekhng-5-taw-442i)
+- [Codex vs CodeRabbit: Choose the Ownership Boundary, Not the Review Score](https://dev.to/nomurasan/codex-vs-coderabbit-choose-the-ownership-boundary-not-the-review-score-1d0m)
+- [Container Security for SREs: The Practical Checklist](https://dev.to/samson_tanimawo/container-security-for-sres-the-practical-checklist-3c64)
+- [Claude Can Accelerate SEO Research, but Automated Publishing Can Create Costly Clones](https://dev.to/alifar/claude-can-accelerate-seo-research-but-automated-publishing-can-create-costly-clones-2iaa)
 <!-- BLOG-POST-LIST:END -->
 
 
