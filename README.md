@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Robots Had Their Biggest Week Yet — Record-Breaking Games, a Viral $399 Duck, and Billion-Dollar Bets](https://dev.to/jason_gunnells/the-robots-had-their-biggest-week-yet-record-breaking-games-a-viral-399-duck-and-3cn2)
-- [Smart Contract Vulnerability Surface Analysis: Bybit](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bybit-cgp)
-- [Choice Leaks: I Tried to Generate 100 Random Digits and Failed in Four Measurable Ways](https://dev.to/aureus_c_b3ba7f87cc34d74d49/choice-leaks-i-tried-to-generate-100-random-digits-and-failed-in-four-measurable-ways-3p41)
-- [Fixing AuthGuard Navigation, 401 Handling, and Sales‑Pipeline FK in a Next.js + NestJS Monorepo](https://dev.to/zaerohell/fixing-authguard-navigation-401-handling-and-sales-pipeline-fk-in-a-nextjs-nestjs-monorepo-2cj6)
+- [I taught my hand gestures to run an AI coding agent](https://dev.to/afonsojanu/i-taught-my-hand-gestures-to-run-an-ai-coding-agent-2g7o)
+- [Why a ticket-availability monitor is a state machine, not a scraper](https://dev.to/flurin_laim_2f8fe184bcbd1/why-a-ticket-availability-monitor-is-a-state-machine-not-a-scraper-95o)
+- [What 100% Test Coverage Missed: State Across Google ADK A2A Boundaries](https://dev.to/arjunganesh/what-100-test-coverage-missed-state-across-google-adk-a2a-boundaries-29i1)
+- [# I Built a Time Tracker Because Every Existing One Was Either Ugly or Overcomplicated](https://dev.to/christina_plemmenou_9a187/-i-built-a-time-tracker-because-every-existing-one-was-either-ugly-or-overcomplicated-3l76)
 <!-- BLOG-POST-LIST:END -->
 
 
