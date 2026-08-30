@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I taught my hand gestures to run an AI coding agent](https://dev.to/afonsojanu/i-taught-my-hand-gestures-to-run-an-ai-coding-agent-2g7o)
-- [Why a ticket-availability monitor is a state machine, not a scraper](https://dev.to/flurin_laim_2f8fe184bcbd1/why-a-ticket-availability-monitor-is-a-state-machine-not-a-scraper-95o)
-- [What 100% Test Coverage Missed: State Across Google ADK A2A Boundaries](https://dev.to/arjunganesh/what-100-test-coverage-missed-state-across-google-adk-a2a-boundaries-29i1)
-- [# I Built a Time Tracker Because Every Existing One Was Either Ugly or Overcomplicated](https://dev.to/christina_plemmenou_9a187/-i-built-a-time-tracker-because-every-existing-one-was-either-ugly-or-overcomplicated-3l76)
+- [A Finding Is Not a Discovery](https://dev.to/kenielzep97/a-finding-is-not-a-discovery-gib)
+- [I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa)
+- [Microsoft Strips Copilot&#39;s Free Features — and Puts Deep Research Behind a Subscription](https://dev.to/theaidownside/microsoft-strips-copilots-free-features-and-puts-deep-research-behind-a-subscription-6g6)
+- [Why Workflow Automation Fails When Nobody Owns the Handoff](https://dev.to/nexus-alpha2452/why-workflow-automation-fails-when-nobody-owns-the-handoff-905)
 <!-- BLOG-POST-LIST:END -->
 
 
