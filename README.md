@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Email HTML in 2026 is Still a Nightmare: Reverse-Engineering Dark Mode &amp; Outlook MSO Tables](https://dev.to/syzq/why-email-html-in-2026-is-still-a-nightmare-reverse-engineering-dark-mode-outlook-mso-tables-57o0)
-- [The verdict that survived its own correction](https://dev.to/thekilteddev/the-verdict-that-survived-its-own-correction-50gd)
-- [IND-TECH WEEKLY #1: Jio Files for India&#39;s Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Know 🇮🇳](https://dev.to/dj29/ind-tech-weekly-1-jio-files-for-indias-biggest-ever-ipo-navi-bags-100m-and-what-devs-should-204h)
-- [A customer&#39;s AI agent vetted us before he bought. Here is what it fetched, what 404&#39;d, and what we changed.](https://dev.to/ownware_io/a-customers-ai-agent-vetted-us-before-he-bought-here-is-what-it-fetched-what-404d-and-what-we-13hb)
+- [Help wanted: validate a configurable SharePoint list SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-configurable-sharepoint-list-spfx-sample-1idb)
+- [Build a Tested Agent Skill with SKILL.md and Python Scripts](https://dev.to/paladini/build-a-tested-agent-skill-with-skillmd-and-python-scripts-3777)
+- [Live API specs for coding agents](https://dev.to/jgauffin/live-api-specs-for-coding-agents-2dcm)
+- [Journey towards Mastering &lpar;Computers&rpar;](https://dev.to/gazel-create/journey-towards-mastering-computers-329h)
 <!-- BLOG-POST-LIST:END -->
 
 
