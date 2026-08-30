@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Help wanted: validate a configurable SharePoint list SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-configurable-sharepoint-list-spfx-sample-1idb)
-- [Build a Tested Agent Skill with SKILL.md and Python Scripts](https://dev.to/paladini/build-a-tested-agent-skill-with-skillmd-and-python-scripts-3777)
-- [Live API specs for coding agents](https://dev.to/jgauffin/live-api-specs-for-coding-agents-2dcm)
-- [Journey towards Mastering &lpar;Computers&rpar;](https://dev.to/gazel-create/journey-towards-mastering-computers-329h)
+- [WebMCP: Give Browser Agents Tools Instead of Buttons](https://dev.to/toannhu/webmcp-give-browser-agents-tools-instead-of-buttons-4i7f)
+- [Should I replace my VPS with a Mac mini?](https://dev.to/heymarkkop/should-i-replace-my-vps-with-a-mac-mini-3448)
+- [ACAI — Chapter 17: Security, Privacy, Identity, Access Control, Threat Modeling, and Production Protection](https://dev.to/black_shadow_team/acai-chapter-17-security-privacy-identity-access-control-threat-modeling-and-production-3od1)
+- [LangChain CSV SQLite Analytics: Safer AI Foundation](https://dev.to/gateofai/langchain-csv-sqlite-analytics-safer-ai-foundation-1208)
 <!-- BLOG-POST-LIST:END -->
 
 
