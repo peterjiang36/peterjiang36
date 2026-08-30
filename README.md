@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebMCP: Give Browser Agents Tools Instead of Buttons](https://dev.to/toannhu/webmcp-give-browser-agents-tools-instead-of-buttons-4i7f)
-- [Should I replace my VPS with a Mac mini?](https://dev.to/heymarkkop/should-i-replace-my-vps-with-a-mac-mini-3448)
-- [ACAI — Chapter 17: Security, Privacy, Identity, Access Control, Threat Modeling, and Production Protection](https://dev.to/black_shadow_team/acai-chapter-17-security-privacy-identity-access-control-threat-modeling-and-production-3od1)
-- [LangChain CSV SQLite Analytics: Safer AI Foundation](https://dev.to/gateofai/langchain-csv-sqlite-analytics-safer-ai-foundation-1208)
+- [I Built My Own Fail-Fast HashMap — Here&#39;s Why a Boolean Flag Wasn&#39;t Enough](https://dev.to/gaurav_tyagi_4d2a33837e04/i-built-my-own-fail-fast-hashmap-heres-why-a-boolean-flag-wasnt-enough-5aa9)
+- [Four spec standards, one baseline, two different decisions](https://dev.to/il_cont/four-spec-standards-one-baseline-two-different-decisions-4oaf)
+- [Decoupling from the Data POV: Stop-and-Start Boundaries, Independent Pointers, and Why Your Code &lpar;and AI&rpar; Need It](https://dev.to/warmpondater/decoupling-from-the-data-pov-stop-and-start-boundaries-independent-pointers-and-why-your-code-49c2)
+- [The Hidden Cost Of A Line of Code](https://dev.to/monamoxie/the-hidden-cost-of-a-line-of-code-3c5b)
 <!-- BLOG-POST-LIST:END -->
 
 
