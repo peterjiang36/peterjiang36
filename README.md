@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built My Own Fail-Fast HashMap — Here&#39;s Why a Boolean Flag Wasn&#39;t Enough](https://dev.to/gaurav_tyagi_4d2a33837e04/i-built-my-own-fail-fast-hashmap-heres-why-a-boolean-flag-wasnt-enough-5aa9)
-- [Four spec standards, one baseline, two different decisions](https://dev.to/il_cont/four-spec-standards-one-baseline-two-different-decisions-4oaf)
-- [Decoupling from the Data POV: Stop-and-Start Boundaries, Independent Pointers, and Why Your Code &lpar;and AI&rpar; Need It](https://dev.to/warmpondater/decoupling-from-the-data-pov-stop-and-start-boundaries-independent-pointers-and-why-your-code-49c2)
-- [The Hidden Cost Of A Line of Code](https://dev.to/monamoxie/the-hidden-cost-of-a-line-of-code-3c5b)
+- [Tired of Explaining Code You Didn&#39;t Even Write? Let LLMs Do It.](https://dev.to/tab4moji/tired-of-explaining-code-you-didnt-even-write-let-llms-do-it-336b)
+- [Una interfaz de software para protocolos industriales](https://dev.to/bmcutting/una-interfaz-de-software-para-protocolos-industriales-15g9)
+- [PWC 388 Dyck Words: I Refuse to Indulge in the Obvious Jokes](https://dev.to/boblied/pwc-388-dyck-words-i-refuse-to-indulge-in-the-obvious-jokes-56i2)
+- [Why a Successful WhatsApp API Request Does Not Mean the Message Was Delivered](https://dev.to/elirangodov/why-a-successful-whatsapp-api-request-does-not-mean-the-message-was-delivered-4553)
 <!-- BLOG-POST-LIST:END -->
 
 
