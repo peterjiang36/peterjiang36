@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Finding Is Not a Discovery](https://dev.to/kenielzep97/a-finding-is-not-a-discovery-gib)
-- [I’m Looking for the Right Problem, Not the Right Job Title — Could It Be You?](https://dev.to/remojansen/im-looking-for-the-right-problem-not-the-right-job-title-could-it-be-you-1baa)
-- [Microsoft Strips Copilot&#39;s Free Features — and Puts Deep Research Behind a Subscription](https://dev.to/theaidownside/microsoft-strips-copilots-free-features-and-puts-deep-research-behind-a-subscription-6g6)
-- [Why Workflow Automation Fails When Nobody Owns the Handoff](https://dev.to/nexus-alpha2452/why-workflow-automation-fails-when-nobody-owns-the-handoff-905)
+- [Why Email HTML in 2026 is Still a Nightmare: Reverse-Engineering Dark Mode &amp; Outlook MSO Tables](https://dev.to/syzq/why-email-html-in-2026-is-still-a-nightmare-reverse-engineering-dark-mode-outlook-mso-tables-57o0)
+- [The verdict that survived its own correction](https://dev.to/thekilteddev/the-verdict-that-survived-its-own-correction-50gd)
+- [IND-TECH WEEKLY #1: Jio Files for India&#39;s Biggest-Ever IPO, Navi Bags $100M, and What Devs Should Know 🇮🇳](https://dev.to/dj29/ind-tech-weekly-1-jio-files-for-indias-biggest-ever-ipo-navi-bags-100m-and-what-devs-should-204h)
+- [A customer&#39;s AI agent vetted us before he bought. Here is what it fetched, what 404&#39;d, and what we changed.](https://dev.to/ownware_io/a-customers-ai-agent-vetted-us-before-he-bought-here-is-what-it-fetched-what-404d-and-what-we-13hb)
 <!-- BLOG-POST-LIST:END -->
 
 
