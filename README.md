@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Evidence-Grade Telemetry: Sensor Sync, Time Bases and Idempotent Ingestion](https://dev.to/applekoiot/evidence-grade-telemetry-sensor-sync-time-bases-and-idempotent-ingestion-2g15)
-- [Java 25 vs Java 27: Real Evolution or Just Hype?](https://dev.to/pabli44/java-25-vs-java-27-real-evolution-or-just-hype-43ep)
-- [Rust Runtime to Give AI Agents Real DevOps Tools](https://dev.to/venturaproject/rust-runtime-to-give-ai-agents-real-devops-tools-4mp5)
-- [Debounce and Throttle in JavaScript: The Complete Guide](https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61)
+- [Roboflow Playground as a Model Selection Workflow: How to Try, Compare, and Benchmark 130+ Vision Models](https://dev.to/noah_kenji_47b8888ceb81ac/roboflow-playground-as-a-model-selection-workflow-how-to-try-compare-and-benchmark-130-vision-8lb)
+- [The Free Model Kept Explaining an Outage That Already Ended: 48 Hours of Context-Budget Field Notes](https://dev.to/codepy_1473/the-free-model-kept-explaining-an-outage-that-already-ended-48-hours-of-context-budget-field-notes-44de)
+- [Cutting ASR Inference Cost with NVIDIA MPS on Amazon EC2](https://dev.to/noah_taro_1e3297725e3fcbf/cutting-asr-inference-cost-with-nvidia-mps-on-amazon-ec2-13an)
+- [Tried `sponsors/santifer`: A Local AI Job Search Workflow Worth Watching](https://dev.to/james_lin/tried-sponsorssantifer-a-local-ai-job-search-workflow-worth-watching-5g19)
 <!-- BLOG-POST-LIST:END -->
 
 
