@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A US Startup Failure Budget for European SMS Alert APIs: GDPR, Inbound, Registration](https://dev.to/peterparker8991/a-us-startup-failure-budget-for-european-sms-alert-apis-gdpr-inbound-registration-4aia)
-- [CVE-2026-53561: Apache Hive HiveServer2 SAML Bearer Impersonation](https://dev.to/hol/cve-2026-53561-apache-hive-hiveserver2-saml-bearer-impersonation-3npb)
-- [Health Data Consent: 3 Rules for Category Checks, Grants, and Revocation &lpar;In Migration&rpar;](https://dev.to/valerianblack3895/health-data-consent-3-rules-for-category-checks-grants-and-revocation-in-migration-1e7n)
-- [How to Version Claim Documents Without Breaking Retrieval — an Intake Runbook](https://dev.to/liraelvex6403/how-to-version-claim-documents-without-breaking-retrieval-an-intake-runbook-43ef)
+- [Evidence-Grade Telemetry: Sensor Sync, Time Bases and Idempotent Ingestion](https://dev.to/applekoiot/evidence-grade-telemetry-sensor-sync-time-bases-and-idempotent-ingestion-2g15)
+- [Java 25 vs Java 27: Real Evolution or Just Hype?](https://dev.to/pabli44/java-25-vs-java-27-real-evolution-or-just-hype-43ep)
+- [Rust Runtime to Give AI Agents Real DevOps Tools](https://dev.to/venturaproject/rust-runtime-to-give-ai-agents-real-devops-tools-4mp5)
+- [Debounce and Throttle in JavaScript: The Complete Guide](https://dev.to/parsajiravand/debounce-and-throttle-in-javascript-the-complete-guide-2o61)
 <!-- BLOG-POST-LIST:END -->
 
 
