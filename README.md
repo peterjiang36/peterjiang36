@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Roboflow Playground as a Model Selection Workflow: How to Try, Compare, and Benchmark 130+ Vision Models](https://dev.to/noah_kenji_47b8888ceb81ac/roboflow-playground-as-a-model-selection-workflow-how-to-try-compare-and-benchmark-130-vision-8lb)
-- [The Free Model Kept Explaining an Outage That Already Ended: 48 Hours of Context-Budget Field Notes](https://dev.to/codepy_1473/the-free-model-kept-explaining-an-outage-that-already-ended-48-hours-of-context-budget-field-notes-44de)
-- [Cutting ASR Inference Cost with NVIDIA MPS on Amazon EC2](https://dev.to/noah_taro_1e3297725e3fcbf/cutting-asr-inference-cost-with-nvidia-mps-on-amazon-ec2-13an)
-- [Tried `sponsors/santifer`: A Local AI Job Search Workflow Worth Watching](https://dev.to/james_lin/tried-sponsorssantifer-a-local-ai-job-search-workflow-worth-watching-5g19)
+- [Using an embedded feedback loop to develop with AI agents](https://dev.to/highercomve/using-an-embedded-feedback-loop-to-develop-with-ai-agents-4go2)
+- [I asked one model to review another, and it found a bias I would not have](https://dev.to/daviyon_daniels/i-asked-one-model-to-review-another-and-it-found-a-bias-i-would-not-have-54md)
+- [Built an agent fleet that helps farmer&#39;s for free](https://dev.to/oj-iro/built-an-agent-fleet-that-helps-farmers-for-free-ebj)
+- [The same wrong number was in six files and I still don&#39;t know where it came from](https://dev.to/mahirhir/the-same-wrong-number-was-in-six-files-and-i-still-dont-know-where-it-came-from-4fhg)
 <!-- BLOG-POST-LIST:END -->
 
 
