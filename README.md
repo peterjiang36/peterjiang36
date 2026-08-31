@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Explaining Code You Didn&#39;t Even Write? Let LLMs Do It.](https://dev.to/tab4moji/tired-of-explaining-code-you-didnt-even-write-let-llms-do-it-336b)
-- [Una interfaz de software para protocolos industriales](https://dev.to/bmcutting/una-interfaz-de-software-para-protocolos-industriales-15g9)
-- [PWC 388 Dyck Words: I Refuse to Indulge in the Obvious Jokes](https://dev.to/boblied/pwc-388-dyck-words-i-refuse-to-indulge-in-the-obvious-jokes-56i2)
-- [Why a Successful WhatsApp API Request Does Not Mean the Message Was Delivered](https://dev.to/elirangodov/why-a-successful-whatsapp-api-request-does-not-mean-the-message-was-delivered-4553)
+- [A US Startup Failure Budget for European SMS Alert APIs: GDPR, Inbound, Registration](https://dev.to/peterparker8991/a-us-startup-failure-budget-for-european-sms-alert-apis-gdpr-inbound-registration-4aia)
+- [CVE-2026-53561: Apache Hive HiveServer2 SAML Bearer Impersonation](https://dev.to/hol/cve-2026-53561-apache-hive-hiveserver2-saml-bearer-impersonation-3npb)
+- [Health Data Consent: 3 Rules for Category Checks, Grants, and Revocation &lpar;In Migration&rpar;](https://dev.to/valerianblack3895/health-data-consent-3-rules-for-category-checks-grants-and-revocation-in-migration-1e7n)
+- [How to Version Claim Documents Without Breaking Retrieval — an Intake Runbook](https://dev.to/liraelvex6403/how-to-version-claim-documents-without-breaking-retrieval-an-intake-runbook-43ef)
 <!-- BLOG-POST-LIST:END -->
 
 
