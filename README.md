@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the “D.map is not a function” crash by tightening DB indexes and normalizing the API payload](https://dev.to/zaerohell/fixing-the-dmap-is-not-a-function-crash-by-tightening-db-indexes-and-normalizing-the-api-payload-1bno)
-- [Inside `oblien/openship`: A Practical Look at Self-Hosted Deployment Control](https://dev.to/james_lin/inside-oblienopenship-a-practical-look-at-self-hosted-deployment-control-pkn)
-- [I Built an Agent to Fix Bad Tests. I Found Eight Bugs in My Own Ruler.](https://dev.to/marvinoka4/i-built-an-agent-to-fix-bad-tests-i-found-eight-bugs-in-my-own-ruler-1eap)
-- [LoRaWAN ohne Cloud: Sensordaten lokal mit Edge Computing auswerten](https://dev.to/uhltak/lorawan-ohne-cloud-sensordaten-lokal-mit-edge-computing-auswerten-5cp5)
+- [Property Moderation Router: Compare 3 Startup API Token Costs with One Key](https://dev.to/rivenpulse5812/property-moderation-router-compare-3-startup-api-token-costs-with-one-key-18he)
+- [ChatGPT Connects to Health Records, Bringing AI Closer to Clinical Workflows](https://dev.to/alifar/chatgpt-connects-to-health-records-bringing-ai-closer-to-clinical-workflows-23k2)
+- [Google Business Profile Continuity Planning: How to Protect Local Lead Flow](https://dev.to/alifar/google-business-profile-continuity-planning-how-to-protect-local-lead-flow-479l)
+- [Inside `OpenWhispr/openwhispr`: A Privacy-First Voice-to-Text Workflow](https://dev.to/power_zhong/inside-openwhispropenwhispr-a-privacy-first-voice-to-text-workflow-h62)
 <!-- BLOG-POST-LIST:END -->
 
 
