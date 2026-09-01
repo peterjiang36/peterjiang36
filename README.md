@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using an embedded feedback loop to develop with AI agents](https://dev.to/highercomve/using-an-embedded-feedback-loop-to-develop-with-ai-agents-4go2)
-- [I asked one model to review another, and it found a bias I would not have](https://dev.to/daviyon_daniels/i-asked-one-model-to-review-another-and-it-found-a-bias-i-would-not-have-54md)
-- [Built an agent fleet that helps farmer&#39;s for free](https://dev.to/oj-iro/built-an-agent-fleet-that-helps-farmers-for-free-ebj)
-- [The same wrong number was in six files and I still don&#39;t know where it came from](https://dev.to/mahirhir/the-same-wrong-number-was-in-six-files-and-i-still-dont-know-where-it-came-from-4fhg)
+- [Token Service Isolation: Containing Customer Support Chat Reconnect and Backfill Failures](https://dev.to/jamesanderson3589/token-service-isolation-containing-customer-support-chat-reconnect-and-backfill-failures-2bji)
+- [Benchmarking Cyber Deception: Why Legacy Honeypots Fail Under High Concurrency &lpar;And How EchidraOSS Fixes It&rpar;](https://dev.to/qyleron-dev/benchmarking-cyber-deception-why-legacy-honeypots-fail-under-high-concurrency-and-how-echidraoss-48d)
+- [One Prop Per State: Rethinking React&#39;s Controlled/Uncontrolled Boilerplate](https://dev.to/wmzy/one-prop-per-state-rethinking-reacts-controlleduncontrolled-boilerplate-2gob)
+- [Shipping a binary 4 days late, honestly](https://dev.to/mahirhir/shipping-a-binary-4-days-late-honestly-2bcb)
 <!-- BLOG-POST-LIST:END -->
 
 
