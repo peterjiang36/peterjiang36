@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Publishing with a Claude Code Skill](https://dev.to/aws-builders/streamline-publishing-with-a-claude-code-skill-an4)
-- [Streamline Publishing with a Claude Code Skill](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn)
-- [Deploying code and releasing a feature are two different days](https://dev.to/goodbarber/deploying-code-and-releasing-a-feature-are-two-different-days-301n)
-- [1,033 Live Stripe Secret Keys Leaked: How Exposed .env Files Became a Payment Rail Breach](https://dev.to/stanleya/1033-live-stripe-secret-keys-leaked-how-exposed-env-files-became-a-payment-rail-breach-4l8n)
+- [Fixing the “D.map is not a function” crash by tightening DB indexes and normalizing the API payload](https://dev.to/zaerohell/fixing-the-dmap-is-not-a-function-crash-by-tightening-db-indexes-and-normalizing-the-api-payload-1bno)
+- [Inside `oblien/openship`: A Practical Look at Self-Hosted Deployment Control](https://dev.to/james_lin/inside-oblienopenship-a-practical-look-at-self-hosted-deployment-control-pkn)
+- [I Built an Agent to Fix Bad Tests. I Found Eight Bugs in My Own Ruler.](https://dev.to/marvinoka4/i-built-an-agent-to-fix-bad-tests-i-found-eight-bugs-in-my-own-ruler-1eap)
+- [LoRaWAN ohne Cloud: Sensordaten lokal mit Edge Computing auswerten](https://dev.to/uhltak/lorawan-ohne-cloud-sensordaten-lokal-mit-edge-computing-auswerten-5cp5)
 <!-- BLOG-POST-LIST:END -->
 
 
