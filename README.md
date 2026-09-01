@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Property Moderation Router: Compare 3 Startup API Token Costs with One Key](https://dev.to/rivenpulse5812/property-moderation-router-compare-3-startup-api-token-costs-with-one-key-18he)
-- [ChatGPT Connects to Health Records, Bringing AI Closer to Clinical Workflows](https://dev.to/alifar/chatgpt-connects-to-health-records-bringing-ai-closer-to-clinical-workflows-23k2)
-- [Google Business Profile Continuity Planning: How to Protect Local Lead Flow](https://dev.to/alifar/google-business-profile-continuity-planning-how-to-protect-local-lead-flow-479l)
-- [Inside `OpenWhispr/openwhispr`: A Privacy-First Voice-to-Text Workflow](https://dev.to/power_zhong/inside-openwhispropenwhispr-a-privacy-first-voice-to-text-workflow-h62)
+- [NotebookLM Short Video Overviews Remain English-Only: What Businesses Can Use Instead](https://dev.to/alifar/notebooklm-short-video-overviews-remain-english-only-what-businesses-can-use-instead-2332)
+- [O prompt de AppSec que eu criei achou 1 gap em 174 rotas.](https://dev.to/tiagovilasboas/o-prompt-de-auditoria-que-eu-escrevi-achou-1-gap-em-174-rotas-o-semgrep-achou-23-outras-coisas-575j)
+- [Facebook temp email en revisiones de riesgo](https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn)
+- [The Security Fix That Would Have Silently Broken My Feature](https://dev.to/a-abdellatif98/the-security-fix-that-would-have-silently-broken-my-feature-43lm)
 <!-- BLOG-POST-LIST:END -->
 
 
