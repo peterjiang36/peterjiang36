@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Service Isolation: Containing Customer Support Chat Reconnect and Backfill Failures](https://dev.to/jamesanderson3589/token-service-isolation-containing-customer-support-chat-reconnect-and-backfill-failures-2bji)
-- [Benchmarking Cyber Deception: Why Legacy Honeypots Fail Under High Concurrency &lpar;And How EchidraOSS Fixes It&rpar;](https://dev.to/qyleron-dev/benchmarking-cyber-deception-why-legacy-honeypots-fail-under-high-concurrency-and-how-echidraoss-48d)
-- [One Prop Per State: Rethinking React&#39;s Controlled/Uncontrolled Boilerplate](https://dev.to/wmzy/one-prop-per-state-rethinking-reacts-controlleduncontrolled-boilerplate-2gob)
-- [Shipping a binary 4 days late, honestly](https://dev.to/mahirhir/shipping-a-binary-4-days-late-honestly-2bcb)
+- [What are the alternatives to Xcode? Use these tools to restructure your iOS development workflow](https://dev.to/coredatahero/what-are-the-alternatives-to-xcode-use-these-tools-to-restructure-your-ios-development-workflow-42a5)
+- [Generating Binding Code Wasn&#39;t Enough: Moving Unity UI Composition to Compile Time](https://dev.to/fujisheng/generating-binding-code-wasnt-enough-moving-unity-ui-composition-to-compile-time-4ojd)
+- [프롬프트 작성 방식 회고](https://dev.to/seungyeon_/peurompeuteu-jagseong-bangsig-hoego-4273)
+- [HTML tags that will improve your e-commerce experience](https://dev.to/micaavigliano/html-tags-that-will-improve-your-e-commerce-experience-1lmi)
 <!-- BLOG-POST-LIST:END -->
 
 
