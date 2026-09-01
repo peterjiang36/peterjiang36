@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What are the alternatives to Xcode? Use these tools to restructure your iOS development workflow](https://dev.to/coredatahero/what-are-the-alternatives-to-xcode-use-these-tools-to-restructure-your-ios-development-workflow-42a5)
-- [Generating Binding Code Wasn&#39;t Enough: Moving Unity UI Composition to Compile Time](https://dev.to/fujisheng/generating-binding-code-wasnt-enough-moving-unity-ui-composition-to-compile-time-4ojd)
-- [프롬프트 작성 방식 회고](https://dev.to/seungyeon_/peurompeuteu-jagseong-bangsig-hoego-4273)
-- [HTML tags that will improve your e-commerce experience](https://dev.to/micaavigliano/html-tags-that-will-improve-your-e-commerce-experience-1lmi)
+- [Streamline Publishing with a Claude Code Skill](https://dev.to/aws-builders/streamline-publishing-with-a-claude-code-skill-an4)
+- [Streamline Publishing with a Claude Code Skill](https://dev.to/gde/streamline-publishing-with-a-claude-code-skill-1bdn)
+- [Deploying code and releasing a feature are two different days](https://dev.to/goodbarber/deploying-code-and-releasing-a-feature-are-two-different-days-301n)
+- [1,033 Live Stripe Secret Keys Leaked: How Exposed .env Files Became a Payment Rail Breach](https://dev.to/stanleya/1033-live-stripe-secret-keys-leaked-how-exposed-env-files-became-a-payment-rail-breach-4l8n)
 <!-- BLOG-POST-LIST:END -->
 
 
