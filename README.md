@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-dd9)
-- [12 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-671)
-- [Test Agent Patches With an Oracle the Diff Cannot Touch](https://dev.to/datacpp_8185/test-agent-patches-with-an-oracle-the-diff-cannot-touch-34nk)
-- [My AI agent built a flight recorder for AI agents, and it flagged itself](https://dev.to/mukes555/my-ai-agent-built-a-flight-recorder-for-ai-agents-and-it-flagged-itself-30dg)
+- [Google Says AEO and GEO Are SEO, Not Separate Silos for AI Search Strategy](https://dev.to/alifar/google-says-aeo-and-geo-are-seo-not-separate-silos-for-ai-search-strategy-llh)
+- [Gateway Token Validation: JWKS Retrieval and Cache Rotation in Node.js 20](https://dev.to/wilfredknight8447/gateway-token-validation-jwks-retrieval-and-cache-rotation-in-nodejs-20-3kii)
+- [I refuse to open sloppy AI PRs. These eight blockers are the whole review.](https://dev.to/lugyng/i-refuse-to-open-sloppy-ai-prs-these-eight-blockers-are-the-whole-review-30mj)
+- [B2A: Business-to-Agent é o futuro inexorável das empresas digitais](https://dev.to/fullagenticstack/b2a-business-to-agent-e-o-futuro-inexoravel-das-empresas-digitais-mb8)
 <!-- BLOG-POST-LIST:END -->
 
 
