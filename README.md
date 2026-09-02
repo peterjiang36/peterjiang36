@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to activate Azure for Students without a university email in 2026](https://dev.to/carlosjcastrog/how-to-activate-azure-for-students-without-a-university-email-in-2026-5d98)
-- [Free Tokens Burn Fast: A Field Guide to MonkeyCode&#39;s Generosity](https://dev.to/aiio_6471/free-tokens-burn-fast-a-field-guide-to-monkeycodes-generosity-284f)
-- [It Ran for Three Weeks and Never Caught Anything](https://dev.to/icophy/it-ran-for-three-weeks-and-never-caught-anything-6o3)
-- [A Minimal-Context Take-Home Test for AI Code Reviewers: When More History Hurts](https://dev.to/appjs_3979/a-minimal-context-take-home-test-for-ai-code-reviewers-when-more-history-hurts-4jmj)
+- [Why is my LLM stream empty? A field guide to broken SSE responses](https://dev.to/mohammadhasankaman/why-is-my-llm-stream-empty-a-field-guide-to-broken-sse-responses-4l0k)
+- [A Free ColdFusion Course With Something Most Tutorials Skip: Interview Questions](https://dev.to/devlearningtools/a-free-coldfusion-course-with-something-most-tutorials-skip-interview-questions-3cil)
+- [Der Alarm, der niemanden weckt, ist schlimmer als keiner](https://dev.to/sergey_shinder_ab2d943365/der-alarm-der-niemanden-weckt-ist-schlimmer-als-keiner-eaj)
+- [Best Alternatives to Github Copilot in 2026: Real Tools, Real Stats](https://dev.to/nlocoding/best-alternatives-to-github-copilot-in-2026-real-tools-real-stats-2l44)
 <!-- BLOG-POST-LIST:END -->
 
 
