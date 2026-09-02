@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NotebookLM Short Video Overviews Remain English-Only: What Businesses Can Use Instead](https://dev.to/alifar/notebooklm-short-video-overviews-remain-english-only-what-businesses-can-use-instead-2332)
-- [O prompt de AppSec que eu criei achou 1 gap em 174 rotas.](https://dev.to/tiagovilasboas/o-prompt-de-auditoria-que-eu-escrevi-achou-1-gap-em-174-rotas-o-semgrep-achou-23-outras-coisas-575j)
-- [Facebook temp email en revisiones de riesgo](https://dev.to/alexcarteruk/facebook-temp-email-en-revisiones-de-riesgo-33mn)
-- [The Security Fix That Would Have Silently Broken My Feature](https://dev.to/a-abdellatif98/the-security-fix-that-would-have-silently-broken-my-feature-43lm)
+- [Your Agent Has Tools Now: Why MCP Tool Calls Need Runtime Verification](https://dev.to/correctover/your-agent-has-tools-now-why-mcp-tool-calls-need-runtime-verification-53i6)
+- [O prompt de AppSec que eu criei achou 4 gaps de segurança](https://dev.to/tiagovilasboas/prompt-appsec-4-gaps-autorizacao-1k77)
+- [Consent Revocation for GDPR Account Deletion: Go Runtime Access Gates](https://dev.to/rhettfletcher9678/consent-revocation-for-gdpr-account-deletion-go-runtime-access-gates-1d2m)
+- [OpenAI&#39;s Astra Crosses the &quot;Critical&quot; Cybersecurity Threshold: AI Agents Need Stronger Execution Boundaries](https://dev.to/ashutosh_maurya/openais-astra-crosses-the-critical-cybersecurity-threshold-ai-agents-need-stronger-execution-5hco)
 <!-- BLOG-POST-LIST:END -->
 
 
