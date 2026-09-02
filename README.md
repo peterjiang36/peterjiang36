@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is my LLM stream empty? A field guide to broken SSE responses](https://dev.to/mohammadhasankaman/why-is-my-llm-stream-empty-a-field-guide-to-broken-sse-responses-4l0k)
-- [A Free ColdFusion Course With Something Most Tutorials Skip: Interview Questions](https://dev.to/devlearningtools/a-free-coldfusion-course-with-something-most-tutorials-skip-interview-questions-3cil)
-- [Der Alarm, der niemanden weckt, ist schlimmer als keiner](https://dev.to/sergey_shinder_ab2d943365/der-alarm-der-niemanden-weckt-ist-schlimmer-als-keiner-eaj)
-- [Best Alternatives to Github Copilot in 2026: Real Tools, Real Stats](https://dev.to/nlocoding/best-alternatives-to-github-copilot-in-2026-real-tools-real-stats-2l44)
+- [[Boost]](https://dev.to/anthonymax/-dd9)
+- [12 Open Source Gems To Become The Ultimate Developer 🔥](https://dev.to/anthonymax/12-open-source-gems-to-become-the-ultimate-developer-671)
+- [Test Agent Patches With an Oracle the Diff Cannot Touch](https://dev.to/datacpp_8185/test-agent-patches-with-an-oracle-the-diff-cannot-touch-34nk)
+- [My AI agent built a flight recorder for AI agents, and it flagged itself](https://dev.to/mukes555/my-ai-agent-built-a-flight-recorder-for-ai-agents-and-it-flagged-itself-30dg)
 <!-- BLOG-POST-LIST:END -->
 
 
