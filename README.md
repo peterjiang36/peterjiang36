@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TLS certificates, actually explained, no hand-waving](https://dev.to/nodevguy/tls-certificates-actually-explained-no-hand-waving-3eka)
-- [Kubernetes network policies: your cluster is flat until you say otherwise](https://dev.to/nodevguy/kubernetes-network-policies-your-cluster-is-flat-until-you-say-otherwise-2lcm)
-- [Основы Product Security для автомобилей и зарядных станций: термины, архитектура, фреймворки](https://dev.to/ivan-piskunov/osnovy-product-security-dlia-avtomobiliei-i-zariadnykh-stantsii-tierminy-arkhitiektura-frieimvorki-8b3)
-- [I Chose Buffalo for a 48-Hour Hackathon. Then I Had to Figure Out How to Use It](https://dev.to/steve_omollo/i-chose-buffalo-for-a-48-hour-hackathon-then-i-had-to-figure-out-how-to-use-it-5bce)
+- [How to activate Azure for Students without a university email in 2026](https://dev.to/carlosjcastrog/how-to-activate-azure-for-students-without-a-university-email-in-2026-5d98)
+- [Free Tokens Burn Fast: A Field Guide to MonkeyCode&#39;s Generosity](https://dev.to/aiio_6471/free-tokens-burn-fast-a-field-guide-to-monkeycodes-generosity-284f)
+- [It Ran for Three Weeks and Never Caught Anything](https://dev.to/icophy/it-ran-for-three-weeks-and-never-caught-anything-6o3)
+- [A Minimal-Context Take-Home Test for AI Code Reviewers: When More History Hurts](https://dev.to/appjs_3979/a-minimal-context-take-home-test-for-ai-code-reviewers-when-more-history-hurts-4jmj)
 <!-- BLOG-POST-LIST:END -->
 
 
