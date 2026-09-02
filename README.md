@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Has Tools Now: Why MCP Tool Calls Need Runtime Verification](https://dev.to/correctover/your-agent-has-tools-now-why-mcp-tool-calls-need-runtime-verification-53i6)
-- [O prompt de AppSec que eu criei achou 4 gaps de segurança](https://dev.to/tiagovilasboas/prompt-appsec-4-gaps-autorizacao-1k77)
-- [Consent Revocation for GDPR Account Deletion: Go Runtime Access Gates](https://dev.to/rhettfletcher9678/consent-revocation-for-gdpr-account-deletion-go-runtime-access-gates-1d2m)
-- [OpenAI&#39;s Astra Crosses the &quot;Critical&quot; Cybersecurity Threshold: AI Agents Need Stronger Execution Boundaries](https://dev.to/ashutosh_maurya/openais-astra-crosses-the-critical-cybersecurity-threshold-ai-agents-need-stronger-execution-5hco)
+- [TLS certificates, actually explained, no hand-waving](https://dev.to/nodevguy/tls-certificates-actually-explained-no-hand-waving-3eka)
+- [Kubernetes network policies: your cluster is flat until you say otherwise](https://dev.to/nodevguy/kubernetes-network-policies-your-cluster-is-flat-until-you-say-otherwise-2lcm)
+- [Основы Product Security для автомобилей и зарядных станций: термины, архитектура, фреймворки](https://dev.to/ivan-piskunov/osnovy-product-security-dlia-avtomobiliei-i-zariadnykh-stantsii-tierminy-arkhitiektura-frieimvorki-8b3)
+- [I Chose Buffalo for a 48-Hour Hackathon. Then I Had to Figure Out How to Use It](https://dev.to/steve_omollo/i-chose-buffalo-for-a-48-hour-hackathon-then-i-had-to-figure-out-how-to-use-it-5bce)
 <!-- BLOG-POST-LIST:END -->
 
 
