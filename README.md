@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Says GPT-6 Astra Runs 40 Minutes on One Task. Your Agent Loop Probably Can&#39;t.](https://dev.to/gabrielanhaia/openai-says-gpt-6-astra-runs-40-minutes-on-one-task-your-agent-loop-probably-cant-2hn7)
-- [GPT-6 Astra Costs 2.5x More Than GPT-5.6 Sol and Scores About the Same](https://dev.to/gabrielanhaia/gpt-6-astra-costs-25x-more-than-gpt-56-sol-and-scores-about-the-same-41o5)
-- [eBay&#39;s Browse API Doesn&#39;t Return Sold Listings. Here Is a Node.js Alternative](https://dev.to/itsmarcandrew/ebays-browse-api-doesnt-return-sold-listings-here-is-a-nodejs-alternative-4mg1)
-- [OpenAI Rated Its Own Model &#39;Critical&#39; for Cyber Risk. Gate Your Agent.](https://dev.to/gabrielanhaia/openai-rated-its-own-model-critical-for-cyber-risk-gate-your-agent-169a)
+- [SEO for 2027: Why AI Answers and Community Signals Now Shape Search Visibility](https://dev.to/alifar/seo-for-2027-why-ai-answers-and-community-signals-now-shape-search-visibility-1cp1)
+- [Generating PDFs in Vue 3 Was Messy, So I Built vue3-pdf-export](https://dev.to/saurabhzaiswal/generating-pdfs-in-vue-3-was-messy-so-i-built-vue3-pdf-export-3idb)
+- [How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS](https://dev.to/manvitha_potluri_edbd8b9b/how-to-build-an-enterprise-grade-automated-mlops-pipeline-on-aws-1cj9)
+- [How to translate MDN web docs to spanish.](https://dev.to/ifeanyichima/how-to-translate-mdn-web-docs-to-spanish-2p0f)
 <!-- BLOG-POST-LIST:END -->
 
 
