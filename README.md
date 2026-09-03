@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Frappe Framework Explained: How an Open-Source Framework Can Power Custom Business Applications](https://dev.to/toyaab/frappe-framework-explained-how-an-open-source-framework-can-power-custom-business-applications-1m16)
-- [Don&#39;t claim a security boundary holds — demonstrate it](https://dev.to/isazajuancarlos/dont-claim-a-security-boundary-holds-demonstrate-it-df2)
-- [AI Code Tools for Legacy System Modernization &lpar;2026 Guide&rpar;](https://dev.to/nlocoding/ai-code-tools-for-legacy-system-modernization-2026-guide-22cn)
-- [The False ROI of Fear: Why Threat-Based Management Destroys Engineering Velocity](https://dev.to/dmitryame/the-neuroscience-of-feedback-bypassing-fight-or-flight-to-build-a-non-toxic-engineering-culture-332n)
+- [OpenAI Says GPT-6 Astra Runs 40 Minutes on One Task. Your Agent Loop Probably Can&#39;t.](https://dev.to/gabrielanhaia/openai-says-gpt-6-astra-runs-40-minutes-on-one-task-your-agent-loop-probably-cant-2hn7)
+- [GPT-6 Astra Costs 2.5x More Than GPT-5.6 Sol and Scores About the Same](https://dev.to/gabrielanhaia/gpt-6-astra-costs-25x-more-than-gpt-56-sol-and-scores-about-the-same-41o5)
+- [eBay&#39;s Browse API Doesn&#39;t Return Sold Listings. Here Is a Node.js Alternative](https://dev.to/itsmarcandrew/ebays-browse-api-doesnt-return-sold-listings-here-is-a-nodejs-alternative-4mg1)
+- [OpenAI Rated Its Own Model &#39;Critical&#39; for Cyber Risk. Gate Your Agent.](https://dev.to/gabrielanhaia/openai-rated-its-own-model-critical-for-cyber-risk-gate-your-agent-169a)
 <!-- BLOG-POST-LIST:END -->
 
 
