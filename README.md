@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Says AEO and GEO Are SEO, Not Separate Silos for AI Search Strategy](https://dev.to/alifar/google-says-aeo-and-geo-are-seo-not-separate-silos-for-ai-search-strategy-llh)
-- [Gateway Token Validation: JWKS Retrieval and Cache Rotation in Node.js 20](https://dev.to/wilfredknight8447/gateway-token-validation-jwks-retrieval-and-cache-rotation-in-nodejs-20-3kii)
-- [I refuse to open sloppy AI PRs. These eight blockers are the whole review.](https://dev.to/lugyng/i-refuse-to-open-sloppy-ai-prs-these-eight-blockers-are-the-whole-review-30mj)
-- [B2A: Business-to-Agent é o futuro inexorável das empresas digitais](https://dev.to/fullagenticstack/b2a-business-to-agent-e-o-futuro-inexoravel-das-empresas-digitais-mb8)
+- [Break the Speed Limit: WebAssembly in Next.js &amp; Rust 🦀](https://dev.to/iprajapatiparesh/break-the-speed-limit-webassembly-in-nextjs-rust-33g3)
+- [All-in-One WP Migration CVE-2026-19949: From Second-Order SQL Injection on Restore to Site Takeover](https://dev.to/anoymask/all-in-one-wp-migration-cve-2026-19949-from-second-order-sql-injection-on-restore-to-site-takeover-21be)
+- [Slop Has Fingerprints: How to Recognize AI Writing Anywhere](https://dev.to/peakaistack/slop-has-fingerprints-how-to-recognize-ai-writing-anywhere-di1)
+- [The extraction returned zero memories, and nothing screamed](https://dev.to/pm25coder/the-extraction-returned-zero-memories-and-nothing-screamed-3c7c)
 <!-- BLOG-POST-LIST:END -->
 
 
