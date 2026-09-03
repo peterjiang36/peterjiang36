@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing the AI Pipeline: How to Apply DevSecOps to GenAI](https://dev.to/ayan_mohamed/securing-the-ai-pipeline-how-to-apply-devsecops-to-genai-30of)
-- [rsonar : la qualité de code façon SonarQube, directement dans R](https://dev.to/ddotta/rsonar-la-qualite-de-code-facon-sonarqube-directement-dans-r-2i55)
-- [LLM Observability: What to Measure and Where to Instrument It](https://dev.to/kuldeep_paul/llm-observability-what-to-measure-and-where-to-instrument-it-1k6p)
-- [How Do You Get Cited by ChatGPT? What 400 Million Citations Show](https://dev.to/belfordan22ai/how-do-you-get-cited-by-chatgpt-what-400-million-citations-show-dka)
+- [CPU Steal Time Explained: What %st Really Means on a Virtual Machine](https://dev.to/aeza__net/cpu-steal-time-explained-what-st-really-means-on-a-virtual-machine-109h)
+- [I&#39;m Learning DSA by Teaching It And I Want Your Feedback](https://dev.to/asmita_mhetre_d1cf421818f/im-learning-dsa-by-teaching-it-and-i-want-your-feedback-4k3m)
+- [8 Open Source Tools for Building AI Agents with Memory](https://dev.to/statewave/8-open-source-tools-for-building-ai-agents-with-memory-4i47)
+- [SOC define.](https://dev.to/vp_xudon/soc-define-mce)
 <!-- BLOG-POST-LIST:END -->
 
 
