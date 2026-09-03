@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CPU Steal Time Explained: What %st Really Means on a Virtual Machine](https://dev.to/aeza__net/cpu-steal-time-explained-what-st-really-means-on-a-virtual-machine-109h)
-- [I&#39;m Learning DSA by Teaching It And I Want Your Feedback](https://dev.to/asmita_mhetre_d1cf421818f/im-learning-dsa-by-teaching-it-and-i-want-your-feedback-4k3m)
-- [8 Open Source Tools for Building AI Agents with Memory](https://dev.to/statewave/8-open-source-tools-for-building-ai-agents-with-memory-4i47)
-- [SOC define.](https://dev.to/vp_xudon/soc-define-mce)
+- [Frappe Framework Explained: How an Open-Source Framework Can Power Custom Business Applications](https://dev.to/toyaab/frappe-framework-explained-how-an-open-source-framework-can-power-custom-business-applications-1m16)
+- [Don&#39;t claim a security boundary holds — demonstrate it](https://dev.to/isazajuancarlos/dont-claim-a-security-boundary-holds-demonstrate-it-df2)
+- [AI Code Tools for Legacy System Modernization &lpar;2026 Guide&rpar;](https://dev.to/nlocoding/ai-code-tools-for-legacy-system-modernization-2026-guide-22cn)
+- [The False ROI of Fear: Why Threat-Based Management Destroys Engineering Velocity](https://dev.to/dmitryame/the-neuroscience-of-feedback-bypassing-fight-or-flight-to-build-a-non-toxic-engineering-culture-332n)
 <!-- BLOG-POST-LIST:END -->
 
 
