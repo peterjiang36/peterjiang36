@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Break the Speed Limit: WebAssembly in Next.js &amp; Rust 🦀](https://dev.to/iprajapatiparesh/break-the-speed-limit-webassembly-in-nextjs-rust-33g3)
-- [All-in-One WP Migration CVE-2026-19949: From Second-Order SQL Injection on Restore to Site Takeover](https://dev.to/anoymask/all-in-one-wp-migration-cve-2026-19949-from-second-order-sql-injection-on-restore-to-site-takeover-21be)
-- [Slop Has Fingerprints: How to Recognize AI Writing Anywhere](https://dev.to/peakaistack/slop-has-fingerprints-how-to-recognize-ai-writing-anywhere-di1)
-- [The extraction returned zero memories, and nothing screamed](https://dev.to/pm25coder/the-extraction-returned-zero-memories-and-nothing-screamed-3c7c)
+- [Securing the AI Pipeline: How to Apply DevSecOps to GenAI](https://dev.to/ayan_mohamed/securing-the-ai-pipeline-how-to-apply-devsecops-to-genai-30of)
+- [rsonar : la qualité de code façon SonarQube, directement dans R](https://dev.to/ddotta/rsonar-la-qualite-de-code-facon-sonarqube-directement-dans-r-2i55)
+- [LLM Observability: What to Measure and Where to Instrument It](https://dev.to/kuldeep_paul/llm-observability-what-to-measure-and-where-to-instrument-it-1k6p)
+- [How Do You Get Cited by ChatGPT? What 400 Million Citations Show](https://dev.to/belfordan22ai/how-do-you-get-cited-by-chatgpt-what-400-million-citations-show-dka)
 <!-- BLOG-POST-LIST:END -->
 
 
