@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GEO for Developers: Structuring Websites for AI Search, Retrieval, and Entity Clarity](https://dev.to/joynomediaofficial/geo-for-developers-structuring-websites-for-ai-search-retrieval-and-entity-clarity-3dmd)
-- [Copy Files Between a Mac and AWS EC2 with SCP](https://dev.to/mike_anderson_d01f52129fb/copy-files-between-a-mac-and-aws-ec2-with-scp-3gem)
-- [Muse Spark 1.3 - A Review](https://dev.to/gosukiwi/muse-spark-13-a-review-3h7)
-- [What a Linux Safety Certification Actually Covers](https://dev.to/raghu_bharadwaj_404e60eb0c/what-a-linux-safety-certification-actually-covers-45oh)
+- [AI Engineering Is Easy. Changing How We Work Is Hard](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4)
+- [I Like Carbon-Aware Pricing, but I Would Not Let It Drive Production Yet](https://dev.to/james_lin/i-like-carbon-aware-pricing-but-i-would-not-let-it-drive-production-yet-1bf)
+- [Building AI Agents That Actually Work: What Nobody Tells You](https://dev.to/danilgaleev/building-ai-agents-that-actually-work-what-nobody-tells-you-2f88)
+- [Building a Web Development Workbench for Unitree G1 with C++17, SDK2 and WebSockets](https://dev.to/liershui2500/building-a-web-development-workbench-for-unitree-g1-with-c17-sdk2-and-websockets-3og1)
 <!-- BLOG-POST-LIST:END -->
 
 
