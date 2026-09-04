@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Late-Night Beszel Setup Exposed One Docker Monitoring Tradeoff](https://dev.to/james_lin/a-late-night-beszel-setup-exposed-one-docker-monitoring-tradeoff-5dmf)
-- [Why Your Counter Shows 847 Instead of 1000 &lpar;Race Conditions, Explained&rpar;](https://dev.to/shohruh_sharipov/why-your-counter-shows-847-instead-of-1000-race-conditions-explained-402a)
-- [How ChatGPT agents with no internet access ended up in Hugging Face](https://dev.to/lovestaco/how-chatgpt-agents-with-no-internet-access-ended-up-in-hugging-face-2p89)
-- [How svgin-react renders SVGs as real, styleable elements without the XSS risk](https://dev.to/akhiakl/how-svgin-react-renders-svgs-as-real-styleable-elements-without-the-xss-risk-2hod)
+- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-2f8e)
+- [I Compared 4 Dungeon Generation Algorithms. One of Them Never Works.](https://dev.to/turingrtss/i-compared-4-dungeon-generation-algorithms-one-of-them-never-works-3gkl)
+- [Open Source Contribution](https://dev.to/pratyush_kumar_b2aa2b63e0/open-source-contribution-55jh)
+- [Traceroute devlog #6](https://dev.to/thkim5937/traceroute-devlog-5-40h0)
 <!-- BLOG-POST-LIST:END -->
 
 
