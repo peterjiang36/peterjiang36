@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO for 2027: Why AI Answers and Community Signals Now Shape Search Visibility](https://dev.to/alifar/seo-for-2027-why-ai-answers-and-community-signals-now-shape-search-visibility-1cp1)
-- [Generating PDFs in Vue 3 Was Messy, So I Built vue3-pdf-export](https://dev.to/saurabhzaiswal/generating-pdfs-in-vue-3-was-messy-so-i-built-vue3-pdf-export-3idb)
-- [How to Build an Enterprise-Grade, Automated MLOps Pipeline on AWS](https://dev.to/manvitha_potluri_edbd8b9b/how-to-build-an-enterprise-grade-automated-mlops-pipeline-on-aws-1cj9)
-- [How to translate MDN web docs to spanish.](https://dev.to/ifeanyichima/how-to-translate-mdn-web-docs-to-spanish-2p0f)
+- [GEO for Developers: Structuring Websites for AI Search, Retrieval, and Entity Clarity](https://dev.to/joynomediaofficial/geo-for-developers-structuring-websites-for-ai-search-retrieval-and-entity-clarity-3dmd)
+- [Copy Files Between a Mac and AWS EC2 with SCP](https://dev.to/mike_anderson_d01f52129fb/copy-files-between-a-mac-and-aws-ec2-with-scp-3gem)
+- [Muse Spark 1.3 - A Review](https://dev.to/gosukiwi/muse-spark-13-a-review-3h7)
+- [What a Linux Safety Certification Actually Covers](https://dev.to/raghu_bharadwaj_404e60eb0c/what-a-linux-safety-certification-actually-covers-45oh)
 <!-- BLOG-POST-LIST:END -->
 
 
