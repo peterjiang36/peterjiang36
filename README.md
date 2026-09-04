@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dissecting Semantica’s Graph-Native Core: The Missing Layer Between Context and Accountability](https://dev.to/james_lin/dissecting-semanticas-graph-native-core-the-missing-layer-between-context-and-accountability-24o3)
-- [Hello from Kanpur: what I build, and what I&#39;ll write about here](https://dev.to/pranjulrathour/hello-from-kanpur-what-i-build-and-what-ill-write-about-here-f2j)
-- [Agentic Security Testing Automation: From Vulnerability Discovery to Remediation-in-Loop](https://dev.to/sanyaduan/agentic-security-testing-automation-from-vulnerability-discovery-to-remediation-in-loop-5eko)
-- [Agent Self-Evolution: A Comprehensive Survey &lpar;2023-2025&rpar;](https://dev.to/sanyaduan/agent-self-evolution-a-comprehensive-survey-2023-2025-2i8)
+- [A Late-Night Beszel Setup Exposed One Docker Monitoring Tradeoff](https://dev.to/james_lin/a-late-night-beszel-setup-exposed-one-docker-monitoring-tradeoff-5dmf)
+- [Why Your Counter Shows 847 Instead of 1000 &lpar;Race Conditions, Explained&rpar;](https://dev.to/shohruh_sharipov/why-your-counter-shows-847-instead-of-1000-race-conditions-explained-402a)
+- [How ChatGPT agents with no internet access ended up in Hugging Face](https://dev.to/lovestaco/how-chatgpt-agents-with-no-internet-access-ended-up-in-hugging-face-2p89)
+- [How svgin-react renders SVGs as real, styleable elements without the XSS risk](https://dev.to/akhiakl/how-svgin-react-renders-svgs-as-real-styleable-elements-without-the-xss-risk-2hod)
 <!-- BLOG-POST-LIST:END -->
 
 
