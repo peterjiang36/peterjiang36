@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineering Is Easy. Changing How We Work Is Hard](https://dev.to/ujja/ai-engineering-is-easy-changing-how-we-work-is-hard-39j4)
-- [I Like Carbon-Aware Pricing, but I Would Not Let It Drive Production Yet](https://dev.to/james_lin/i-like-carbon-aware-pricing-but-i-would-not-let-it-drive-production-yet-1bf)
-- [Building AI Agents That Actually Work: What Nobody Tells You](https://dev.to/danilgaleev/building-ai-agents-that-actually-work-what-nobody-tells-you-2f88)
-- [Building a Web Development Workbench for Unitree G1 with C++17, SDK2 and WebSockets](https://dev.to/liershui2500/building-a-web-development-workbench-for-unitree-g1-with-c17-sdk2-and-websockets-3og1)
+- [Dissecting Semantica’s Graph-Native Core: The Missing Layer Between Context and Accountability](https://dev.to/james_lin/dissecting-semanticas-graph-native-core-the-missing-layer-between-context-and-accountability-24o3)
+- [Hello from Kanpur: what I build, and what I&#39;ll write about here](https://dev.to/pranjulrathour/hello-from-kanpur-what-i-build-and-what-ill-write-about-here-f2j)
+- [Agentic Security Testing Automation: From Vulnerability Discovery to Remediation-in-Loop](https://dev.to/sanyaduan/agentic-security-testing-automation-from-vulnerability-discovery-to-remediation-in-loop-5eko)
+- [Agent Self-Evolution: A Comprehensive Survey &lpar;2023-2025&rpar;](https://dev.to/sanyaduan/agent-self-evolution-a-comprehensive-survey-2023-2025-2i8)
 <!-- BLOG-POST-LIST:END -->
 
 
