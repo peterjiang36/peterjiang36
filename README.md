@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-2f8e)
-- [I Compared 4 Dungeon Generation Algorithms. One of Them Never Works.](https://dev.to/turingrtss/i-compared-4-dungeon-generation-algorithms-one-of-them-never-works-3gkl)
-- [Open Source Contribution](https://dev.to/pratyush_kumar_b2aa2b63e0/open-source-contribution-55jh)
-- [Traceroute devlog #6](https://dev.to/thkim5937/traceroute-devlog-5-40h0)
+- [tmux: เปลี่ยน terminal จอเดียวให้เป็นหลายจอ งานยาว ๆ ก็ไม่หายเมื่อ SSH หลุด](https://dev.to/gophernment/tmux-epliiyn-terminal-cchediiywaihepnhlaaycch-ngaanyaaw-kaimhaayemuue-ssh-hlud-1e4p)
+- [ThinkVertex: the organization that took it from the 2026 by 12 year old](https://dev.to/adamsdevelops000/thinkvertex-the-organization-that-took-it-from-the-2026-by-12-year-old-1p5i)
+- [Architecting Enterprise Angular with Signals: Zoneless Reactivity and 60fps Performance](https://dev.to/amasen/architecting-enterprise-angular-with-signals-zoneless-reactivity-and-60fps-performance-1e37)
+- [Postman for API Work: Collections, Environment Variables, Secrets, Auth, and Tests](https://dev.to/manoharij/postman-for-api-work-collections-environment-variables-secrets-auth-and-tests-23ob)
 <!-- BLOG-POST-LIST:END -->
 
 
