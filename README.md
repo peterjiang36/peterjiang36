@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Checker Cannot Be the Doer: Why Financial Operations Needs Independent Proof](https://dev.to/bigkozman/the-checker-cannot-be-the-doer-why-financial-operations-needs-independent-proof-1ikj)
-- [800 Million Tokens for $36: Benchmarking DSH + DeepSeek V4 Pro on a Real Codebase](https://dev.to/jjackbauer/800-million-tokens-for-36-benchmarking-dsh-deepseek-v4-pro-on-a-real-codebase-2a0o)
-- [I built a free, 7-language symbol copy-paste tool, no framework, no backend, no database](https://dev.to/mrzitoun/i-built-a-free-7-language-symbol-copy-paste-tool-no-framework-no-backend-no-database-4lj3)
-- [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS](https://dev.to/sam_manox/jumia-product-performance-dashboard-analysis-3kdk)
+- [Multi-Agent Does Not Mean Parallel: Safe Workflows with Google ADK](https://dev.to/raju_dandigam/multi-agent-does-not-mean-parallel-safe-workflows-with-google-adk-3j3)
+- [Batch Processing: From Unix Tools to Distributed Systems](https://dev.to/ujjwall-r/batch-processing-from-unix-tools-to-distributed-systems-dbh)
+- [Is CI/CD Your Savior? Think Again.](https://dev.to/afante/is-cicd-your-savior-think-again-43pi)
+- [I built a hiring platform where candidates never apply - here&#39;s how the matching works](https://dev.to/axaysharma/i-built-a-hiring-platform-where-candidates-never-apply-heres-how-the-matching-works-11ld)
 <!-- BLOG-POST-LIST:END -->
 
 
