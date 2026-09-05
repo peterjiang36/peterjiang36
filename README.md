@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent Does Not Mean Parallel: Safe Workflows with Google ADK](https://dev.to/raju_dandigam/multi-agent-does-not-mean-parallel-safe-workflows-with-google-adk-3j3)
-- [Batch Processing: From Unix Tools to Distributed Systems](https://dev.to/ujjwall-r/batch-processing-from-unix-tools-to-distributed-systems-dbh)
-- [Is CI/CD Your Savior? Think Again.](https://dev.to/afante/is-cicd-your-savior-think-again-43pi)
-- [I built a hiring platform where candidates never apply - here&#39;s how the matching works](https://dev.to/axaysharma/i-built-a-hiring-platform-where-candidates-never-apply-heres-how-the-matching-works-11ld)
+- [Claude Fable 5 and Opus 4.8: The Complete 2026 Guide](https://dev.to/mecanik-dev/claude-fable-5-and-opus-48-the-complete-2026-guide-4bo4)
+- [Thanks2Go: Building a Human-Approved Gratitude Rail in One Weekend](https://dev.to/jsb-securedme/thanks2go-building-a-human-approved-gratitude-rail-in-one-weekend-12f4)
+- [Building a Secure Personal Gemini Journal with Google Cloud](https://dev.to/shraddha_agrawal_14/building-a-secure-personal-gemini-journal-with-google-cloud-3j1b)
+- [One Missing Environment Variable Crashed My App in Production &lpar;and I Lost My Play Store Testing Streak the Same Night&rpar;](https://dev.to/sanjaysah/one-missing-environment-variable-crashed-my-app-in-production-and-i-lost-my-play-store-testing-48en)
 <!-- BLOG-POST-LIST:END -->
 
 
