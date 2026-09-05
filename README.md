@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fingerprinting a website&#39;s tech stack from a single HTTP request &lpar;no headless browser&rpar;](https://dev.to/timmkal01/fingerprinting-a-websites-tech-stack-from-a-single-http-request-no-headless-browser-18l7)
-- [10 Practical Things You Can Build With n8n and MCP](https://dev.to/hosseinhezami/10-practical-things-you-can-build-with-n8n-and-mcp-koh)
-- [7 Production Patterns for Building Reliable AI Agents in Laravel](https://dev.to/hosseinhezami/7-production-patterns-for-building-reliable-ai-agents-in-laravel-2076)
-- [Generic APM tools couldn&#39;t tell me why my MCP tool calls were failing, so I built something that actually understands the protocol](https://dev.to/ruturaj_shinde_156652cc61/generic-apm-tools-couldnt-tell-me-why-my-mcp-tool-calls-were-failing-so-i-built-something-that-20h1)
+- [The Checker Cannot Be the Doer: Why Financial Operations Needs Independent Proof](https://dev.to/bigkozman/the-checker-cannot-be-the-doer-why-financial-operations-needs-independent-proof-1ikj)
+- [800 Million Tokens for $36: Benchmarking DSH + DeepSeek V4 Pro on a Real Codebase](https://dev.to/jjackbauer/800-million-tokens-for-36-benchmarking-dsh-deepseek-v4-pro-on-a-real-codebase-2a0o)
+- [I built a free, 7-language symbol copy-paste tool, no framework, no backend, no database](https://dev.to/mrzitoun/i-built-a-free-7-language-symbol-copy-paste-tool-no-framework-no-backend-no-database-4lj3)
+- [JUMIA PRODUCT PERFORMANCE DASHBOARD ANALYSIS](https://dev.to/sam_manox/jumia-product-performance-dashboard-analysis-3kdk)
 <!-- BLOG-POST-LIST:END -->
 
 
