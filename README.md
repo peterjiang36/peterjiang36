@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent 安全攻击面分析：风险图谱与防御实践](https://dev.to/sanyaduan/agent-an-quan-gong-ji-mian-fen-xi-feng-xian-tu-pu-yu-fang-yu-shi-jian-16fi)
-- [useEffect Fired Twice and It Found a Real Bug](https://dev.to/rbonweb/useeffect-fired-twice-and-it-found-a-real-bug-5438)
-- [Unsloth Desktop brings Local AI to the masses](https://dev.to/brianintheloop/unsloth-desktop-brings-local-ai-to-the-masses-1an0)
-- [The AI reviewer found a real bug. Its suggested fix would have broken my app.](https://dev.to/ko-hi/the-ai-reviewer-found-a-real-bug-its-suggested-fix-would-have-broken-my-app-1ach)
+- [Fingerprinting a website&#39;s tech stack from a single HTTP request &lpar;no headless browser&rpar;](https://dev.to/timmkal01/fingerprinting-a-websites-tech-stack-from-a-single-http-request-no-headless-browser-18l7)
+- [10 Practical Things You Can Build With n8n and MCP](https://dev.to/hosseinhezami/10-practical-things-you-can-build-with-n8n-and-mcp-koh)
+- [7 Production Patterns for Building Reliable AI Agents in Laravel](https://dev.to/hosseinhezami/7-production-patterns-for-building-reliable-ai-agents-in-laravel-2076)
+- [Generic APM tools couldn&#39;t tell me why my MCP tool calls were failing, so I built something that actually understands the protocol](https://dev.to/ruturaj_shinde_156652cc61/generic-apm-tools-couldnt-tell-me-why-my-mcp-tool-calls-were-failing-so-i-built-something-that-20h1)
 <!-- BLOG-POST-LIST:END -->
 
 
