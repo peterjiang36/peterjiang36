@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TERMy installation problem](https://dev.to/urdevops24/termy-installation-problem-2iil)
-- [When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems](https://dev.to/ali_kiani_78/when-confidence-lies-engineering-uncertainty-aware-ai-control-loops-for-high-stakes-production-3mon)
-- [Nvidia PAIR enables local AI cluster construction](https://dev.to/vpodk/nvidia-pair-enables-local-ai-cluster-construction-54h3)
-- [How do you architect a Playwright test to verify atomic transaction rollback across UI and API state?](https://dev.to/styrow_dev/how-do-you-architect-a-playwright-test-to-verify-atomic-transaction-rollback-across-ui-and-api-24h)
+- [Saving a Real File From Flutter Web, Instead of Downloading Another Copy](https://dev.to/devshakib/saving-a-real-file-from-flutter-web-instead-of-downloading-another-copy-5ah3)
+- [Introducing TaxUI: A Modern Declarative HTML &amp; CSS Framework with Zero JavaScript](https://dev.to/tax_nam_60edf0e0cea4a321f/introducing-taxui-a-modern-declarative-html-css-framework-with-zero-javascript-482a)
+- [urning emailed spreadsheets into Magento orders without asking customers to change](https://dev.to/jason6688/urning-emailed-spreadsheets-into-magento-orders-without-asking-customers-to-change-5e56)
+- [I measured what my 11 Actors cost to run. The 96x spread was mostly one config field.](https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj)
 <!-- BLOG-POST-LIST:END -->
 
 
