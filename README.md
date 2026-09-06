@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Saving a Real File From Flutter Web, Instead of Downloading Another Copy](https://dev.to/devshakib/saving-a-real-file-from-flutter-web-instead-of-downloading-another-copy-5ah3)
-- [Introducing TaxUI: A Modern Declarative HTML &amp; CSS Framework with Zero JavaScript](https://dev.to/tax_nam_60edf0e0cea4a321f/introducing-taxui-a-modern-declarative-html-css-framework-with-zero-javascript-482a)
-- [urning emailed spreadsheets into Magento orders without asking customers to change](https://dev.to/jason6688/urning-emailed-spreadsheets-into-magento-orders-without-asking-customers-to-change-5e56)
-- [I measured what my 11 Actors cost to run. The 96x spread was mostly one config field.](https://dev.to/apify/i-measured-what-my-11-actors-cost-to-run-the-96x-spread-was-mostly-one-config-field-hoj)
+- [Checking If a Business&#39;s Google Profile Actually Matches Its Own Website](https://dev.to/orange_k/checking-if-a-businesss-google-profile-actually-matches-its-own-website-413o)
+- [Exit code 0 is a lie: 7 ways my unattended automation silently did nothing](https://dev.to/youfuhsu/exit-code-0-is-a-lie-7-ways-my-unattended-automation-silently-did-nothing-501j)
+- [Catch Bad Validation Tags at Compile Time with checkerlint](https://dev.to/onurcinar/catch-bad-validation-tags-at-compile-time-with-checkerlint-2iaa)
+- [Open-source tool: Practical experience in converting large quantities of SQL code syntax : &#39;PIVOT&#39; function rewrite &lpar;Case 1&rpar;](https://dev.to/zgl20053779/open-source-tool-practical-experience-in-converting-large-quantities-of-sql-code-syntax-pivot-1lk)
 <!-- BLOG-POST-LIST:END -->
 
 
