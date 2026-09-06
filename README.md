@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A withdrawal is a queue entry before it is a transfer](https://dev.to/polycratia/a-withdrawal-is-a-queue-entry-before-it-is-a-transfer-4nkb)
-- [From Zero to Shipped: My Journey Building an MCP Server](https://dev.to/sajasayara/from-zero-to-shipped-my-journey-building-an-mcp-server-42ei)
-- [Why Automation Creates More Work - And How to Avoid It](https://dev.to/eva-nomados/why-automation-creates-more-work-and-how-to-avoid-it-3l37)
-- [Next.js 15 next/form: Stop Writing Search Form Boilerplate](https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke)
+- [Building a Lossless File Compressor from Scratch in C: My Journey with Shannon-Fano, Bitstreams, and Low-Level Performance](https://dev.to/iammilan/building-a-lossless-file-compressor-from-scratch-in-c-my-journey-with-shannon-fano-bitstreams-43b0)
+- [My journey to master Kubernetes and Cloud Native](https://dev.to/jeansilga/my-journey-to-master-kubernetes-and-cloud-native-196h)
+- [The impersonator&#39;s product is the gap between meaning and spelling, so we measured both in Snowflake](https://dev.to/soumyadeepdey/the-impersonators-product-is-the-gap-between-meaning-and-spelling-so-we-measured-both-in-snowflake-e6f)
+- [Next.js 16 `Form` Component: Built-In Progressive Enhancement and Why It Replaces Your Custom Wrappers](https://dev.to/jsmanifest/nextjs-16-form-component-built-in-progressive-enhancement-and-why-it-replaces-your-custom-3ac5)
 <!-- BLOG-POST-LIST:END -->
 
 
