@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Checking If a Business&#39;s Google Profile Actually Matches Its Own Website](https://dev.to/orange_k/checking-if-a-businesss-google-profile-actually-matches-its-own-website-413o)
-- [Exit code 0 is a lie: 7 ways my unattended automation silently did nothing](https://dev.to/youfuhsu/exit-code-0-is-a-lie-7-ways-my-unattended-automation-silently-did-nothing-501j)
-- [Catch Bad Validation Tags at Compile Time with checkerlint](https://dev.to/onurcinar/catch-bad-validation-tags-at-compile-time-with-checkerlint-2iaa)
-- [Open-source tool: Practical experience in converting large quantities of SQL code syntax : &#39;PIVOT&#39; function rewrite &lpar;Case 1&rpar;](https://dev.to/zgl20053779/open-source-tool-practical-experience-in-converting-large-quantities-of-sql-code-syntax-pivot-1lk)
+- [Building a Production RAG Pipeline with n8n, Qdrant, and Gemini: A Step-by-Step Walkthrough](https://dev.to/hosseinhezami/building-a-production-rag-pipeline-with-n8n-qdrant-and-gemini-a-step-by-step-walkthrough-2in0)
+- [Multi-Agent Orchestration in Laravel: Coordinating Specialists Instead of One Giant Prompt](https://dev.to/hosseinhezami/multi-agent-orchestration-in-laravel-coordinating-specialists-instead-of-one-giant-prompt-269o)
+- [The Hidden Cost of AI Agents: A Token Budget Framework for Production Laravel Apps](https://dev.to/hosseinhezami/the-hidden-cost-of-ai-agents-a-token-budget-framework-for-production-laravel-apps-4632)
+- [We Deleted Our Vector Database. Postgres Was Faster.](https://dev.to/infoinlet1/we-deleted-our-vector-database-postgres-was-faster-2i73)
 <!-- BLOG-POST-LIST:END -->
 
 
