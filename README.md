@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production RAG Pipeline with n8n, Qdrant, and Gemini: A Step-by-Step Walkthrough](https://dev.to/hosseinhezami/building-a-production-rag-pipeline-with-n8n-qdrant-and-gemini-a-step-by-step-walkthrough-2in0)
-- [Multi-Agent Orchestration in Laravel: Coordinating Specialists Instead of One Giant Prompt](https://dev.to/hosseinhezami/multi-agent-orchestration-in-laravel-coordinating-specialists-instead-of-one-giant-prompt-269o)
-- [The Hidden Cost of AI Agents: A Token Budget Framework for Production Laravel Apps](https://dev.to/hosseinhezami/the-hidden-cost-of-ai-agents-a-token-budget-framework-for-production-laravel-apps-4632)
-- [We Deleted Our Vector Database. Postgres Was Faster.](https://dev.to/infoinlet1/we-deleted-our-vector-database-postgres-was-faster-2i73)
+- [A withdrawal is a queue entry before it is a transfer](https://dev.to/polycratia/a-withdrawal-is-a-queue-entry-before-it-is-a-transfer-4nkb)
+- [From Zero to Shipped: My Journey Building an MCP Server](https://dev.to/sajasayara/from-zero-to-shipped-my-journey-building-an-mcp-server-42ei)
+- [Why Automation Creates More Work - And How to Avoid It](https://dev.to/eva-nomados/why-automation-creates-more-work-and-how-to-avoid-it-3l37)
+- [Next.js 15 next/form: Stop Writing Search Form Boilerplate](https://dev.to/nainikmehta/nextjs-15-nextform-stop-writing-search-form-boilerplate-1nke)
 <!-- BLOG-POST-LIST:END -->
 
 
