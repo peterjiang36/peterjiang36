@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I pre-registered a study on AI visibility signals. The main result was null.](https://dev.to/angeo/i-pre-registered-a-study-on-ai-visibility-signals-the-main-result-was-null-1bd3)
-- [OpenRig - Peer to Peer donation based hardware sharing platform](https://dev.to/haztechycontent/openrig-peer-to-peer-donation-based-hardware-sharing-platform-2jb1)
-- [Bulk URL Checker – Batch HTTP Status &amp; Redirect Tracking for 100 URLs, SSRF-Protected](https://dev.to/vipul_singh_755a9075cfbdd/bulk-url-checker-batch-http-status-redirect-tracking-for-100-urls-ssrf-protected-130p)
-- [The app speaks 19 languages: tiered i18n and the AI translation pipeline](https://dev.to/hokagedemehin/the-app-speaks-19-languages-tiered-i18n-and-the-ai-translation-pipeline-14)
+- [When Power Costs Rise, Data Centers Need to Know Where Every Megawatt Is Going](https://dev.to/da-li-at-pl/when-power-costs-rise-data-centers-need-to-know-where-every-megawatt-is-going-1hn0)
+- [Review Agent PRs for Silent Interface Drift](https://dev.to/codejs_6920/review-agent-prs-for-silent-interface-drift-pej)
+- [Devbox: Portable and Isolated Development Environments](https://dev.to/w4ls3n/devbox-portable-and-isolated-development-environments-ael)
+- [The hashCode&lpar;&rpar;-to-Array-Index Bug Almost Everyone Writes Once](https://dev.to/gaurav_tyagi_4d2a33837e04/the-hashcode-to-array-index-bug-almost-everyone-writes-once-4leg)
 <!-- BLOG-POST-LIST:END -->
 
 
