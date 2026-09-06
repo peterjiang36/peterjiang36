@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Lossless File Compressor from Scratch in C: My Journey with Shannon-Fano, Bitstreams, and Low-Level Performance](https://dev.to/iammilan/building-a-lossless-file-compressor-from-scratch-in-c-my-journey-with-shannon-fano-bitstreams-43b0)
-- [My journey to master Kubernetes and Cloud Native](https://dev.to/jeansilga/my-journey-to-master-kubernetes-and-cloud-native-196h)
-- [The impersonator&#39;s product is the gap between meaning and spelling, so we measured both in Snowflake](https://dev.to/soumyadeepdey/the-impersonators-product-is-the-gap-between-meaning-and-spelling-so-we-measured-both-in-snowflake-e6f)
-- [Next.js 16 `Form` Component: Built-In Progressive Enhancement and Why It Replaces Your Custom Wrappers](https://dev.to/jsmanifest/nextjs-16-form-component-built-in-progressive-enhancement-and-why-it-replaces-your-custom-3ac5)
+- [I pre-registered a study on AI visibility signals. The main result was null.](https://dev.to/angeo/i-pre-registered-a-study-on-ai-visibility-signals-the-main-result-was-null-1bd3)
+- [OpenRig - Peer to Peer donation based hardware sharing platform](https://dev.to/haztechycontent/openrig-peer-to-peer-donation-based-hardware-sharing-platform-2jb1)
+- [Bulk URL Checker – Batch HTTP Status &amp; Redirect Tracking for 100 URLs, SSRF-Protected](https://dev.to/vipul_singh_755a9075cfbdd/bulk-url-checker-batch-http-status-redirect-tracking-for-100-urls-ssrf-protected-130p)
+- [The app speaks 19 languages: tiered i18n and the AI translation pipeline](https://dev.to/hokagedemehin/the-app-speaks-19-languages-tiered-i18n-and-the-ai-translation-pipeline-14)
 <!-- BLOG-POST-LIST:END -->
 
 
