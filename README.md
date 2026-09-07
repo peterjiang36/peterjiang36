@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [chrome-bridge: let any AI agent drive your real logged-in Chrome](https://dev.to/siropkin/chrome-bridge-let-any-ai-agent-drive-your-real-logged-in-chrome-b5n)
-- [From Messy CSV to Clean Dashboard: What I Learned Building My First Power BI + Google Analytics Dashboard &lpar;Part 1&rpar;](https://dev.to/bushra_shaikh_19/from-messy-csv-to-clean-dashboard-what-i-learned-building-my-first-power-bi-google-analytics-2k9l)
-- [Somebody asked for help. Nobody came.](https://dev.to/yannvr/somebody-asked-for-help-nobody-came-5c7i)
-- [Building Adaptive AI Agents](https://dev.to/biomathcode/building-adaptive-ai-agents-495m)
+- [Give back to the open source comunity](https://dev.to/himanshuc3/give-back-to-the-open-source-comunity-3egm)
+- [Blind Replay Before Merge: Keep Only the Agent Diff a Clean Environment Recreates](https://dev.to/codehub_1304/blind-replay-before-merge-keep-only-the-agent-diff-a-clean-environment-recreates-5ad6)
+- [Building invite flows that don&#39;t have race conditions in SvelteKit + Postgres](https://dev.to/verdantstack/building-invite-flows-that-dont-have-race-conditions-in-sveltekit-postgres-241o)
+- [I tried removing burned-in text from videos with VideoDetext](https://dev.to/drift_boss_a434be123b673d/i-tried-removing-burned-in-text-from-videos-with-videodetext-kb9)
 <!-- BLOG-POST-LIST:END -->
 
 
