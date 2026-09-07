@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Gets Hired for Knowing Node.js. Here&#39;s What Actually Does.](https://dev.to/akashguptasky/nobody-gets-hired-for-knowing-nodejs-heres-what-actually-does-5hif)
-- [My AI reviewer proved the fix worked. It didn&#39;t.](https://dev.to/bitstridergames/my-ai-reviewer-proved-the-fix-worked-it-didnt-4ege)
-- [How JavaScript Can Limit AI Crawler Access to Your Website Content](https://dev.to/alifar/how-javascript-can-limit-ai-crawler-access-to-your-website-content-1og8)
-- [WorkBraid: Visual Architecture Diffs for Agent-Proposed Code Changes](https://dev.to/mech_app_ai/workbraid-visual-architecture-diffs-for-agent-proposed-code-changes-4ngi)
+- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
+- [Future AWS Agent Engineer? I Didn&#39;t Write the Code. Does It Count?](https://dev.to/earlgreyhot1701d/future-aws-agent-engineer-i-didnt-write-the-code-does-it-count-2gib)
+- [Inbundly – Google Inbox-style bundles for Gmail](https://dev.to/benoror/inbundly-google-inbox-style-bundles-for-gmail-30j)
+- [The Anatomy of an AI Agent: Five Parts That Turn Thinking Into Doing](https://dev.to/obiwale_ayomide_cdcf8b961/the-anatomy-of-an-ai-agent-five-parts-that-turn-thinking-into-doing-38ml)
 <!-- BLOG-POST-LIST:END -->
 
 
