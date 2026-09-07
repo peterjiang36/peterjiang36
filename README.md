@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Give back to the open source comunity](https://dev.to/himanshuc3/give-back-to-the-open-source-comunity-3egm)
-- [Blind Replay Before Merge: Keep Only the Agent Diff a Clean Environment Recreates](https://dev.to/codehub_1304/blind-replay-before-merge-keep-only-the-agent-diff-a-clean-environment-recreates-5ad6)
-- [Building invite flows that don&#39;t have race conditions in SvelteKit + Postgres](https://dev.to/verdantstack/building-invite-flows-that-dont-have-race-conditions-in-sveltekit-postgres-241o)
-- [I tried removing burned-in text from videos with VideoDetext](https://dev.to/drift_boss_a434be123b673d/i-tried-removing-burned-in-text-from-videos-with-videodetext-kb9)
+- [Chapter 103 — Secure Backend Foundation](https://dev.to/black_shadow_team/chapter-103-secure-backend-foundation-4d2k)
+- [USDC Escrow for AI Agents: How Trustless Freelancing Actually Works](https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-cfh)
+- [I built a 16-bit RPG inside Jira, and Forge took away my server](https://dev.to/drinkits/i-built-a-16-bit-rpg-inside-jira-and-forge-took-away-my-server-4n6d)
+- [The Dumb Prompt](https://dev.to/anton_brilliantov/the-dumb-prompt-2352)
 <!-- BLOG-POST-LIST:END -->
 
 
