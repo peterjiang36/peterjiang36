@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chapter 103 — Secure Backend Foundation](https://dev.to/black_shadow_team/chapter-103-secure-backend-foundation-4d2k)
-- [USDC Escrow for AI Agents: How Trustless Freelancing Actually Works](https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-cfh)
-- [I built a 16-bit RPG inside Jira, and Forge took away my server](https://dev.to/drinkits/i-built-a-16-bit-rpg-inside-jira-and-forge-took-away-my-server-4n6d)
-- [The Dumb Prompt](https://dev.to/anton_brilliantov/the-dumb-prompt-2352)
+- [Bringing Data to Life with Power BI.](https://dev.to/nelly_gitonga/bringing-data-to-life-with-power-bi-53kf)
+- [Pin Behaviors Across Model Swaps](https://dev.to/byteio_3726/pin-behaviors-across-model-swaps-1824)
+- [THE WIERD AND WONDERFUL WOLRD OF MALICIOUS CODE HIDDEN IN CSS](https://dev.to/njenga_nganga_00063bc67/the-wierd-and-wonderful-wolrd-of-malicious-code-hidden-in-css-5d0m)
+- [Edtech Identity Linking in Go: Resolve, Inspect, Attach Safely &lpar;with Recovery&rpar;](https://dev.to/carterhughes6849/edtech-identity-linking-in-go-resolve-inspect-attach-safely-with-recovery-48a3)
 <!-- BLOG-POST-LIST:END -->
 
 
