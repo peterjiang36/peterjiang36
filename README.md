@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
-- [Future AWS Agent Engineer? I Didn&#39;t Write the Code. Does It Count?](https://dev.to/earlgreyhot1701d/future-aws-agent-engineer-i-didnt-write-the-code-does-it-count-2gib)
-- [Inbundly – Google Inbox-style bundles for Gmail](https://dev.to/benoror/inbundly-google-inbox-style-bundles-for-gmail-30j)
-- [The Anatomy of an AI Agent: Five Parts That Turn Thinking Into Doing](https://dev.to/obiwale_ayomide_cdcf8b961/the-anatomy-of-an-ai-agent-five-parts-that-turn-thinking-into-doing-38ml)
+- [Delivery Map Presence at Scale: A 4-State Room Lifecycle for Trusted Event Flow](https://dev.to/thalynrift3485/delivery-map-presence-at-scale-a-4-state-room-lifecycle-for-trusted-event-flow-4a1l)
+- [9 Cover Letter Phrases to Replace &lpar;and What to Say Instead&rpar;](https://dev.to/_84df9d6496da92a9041609/9-cover-letter-phrases-to-replace-and-what-to-say-instead-1cd0)
+- [Inside Tencent EdgeOne Makers: How It Works and What It Offers](https://dev.to/raff03/inside-tencent-edgeone-makers-how-it-works-and-what-it-offers-4092)
+- [Free Tools Every Competitive Programmer Should Bookmark](https://dev.to/md_shohan_102187760726951/free-tools-every-competitive-programmer-should-bookmark-p3f)
 <!-- BLOG-POST-LIST:END -->
 
 
