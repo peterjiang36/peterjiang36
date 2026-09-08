@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens If You Fail Google Play 14 Day Testing Requirement?](https://dev.to/vmzavas/what-happens-if-you-fail-google-play-14-day-testing-requirement-2hgp)
-- [My AI Remembered Everything Important. It Forgot What I Did Last Night.](https://dev.to/the_leon_odor/my-ai-remembered-everything-important-it-forgot-what-i-did-last-night-4ije)
-- [I Built a Serverless Resume Site on AWS. Here&#39;s Everything That Broke Along the Way](https://dev.to/derek_jackson_0507a460026/i-built-a-serverless-resume-site-on-aws-heres-everything-that-broke-along-the-way-4lml)
-- [When A Ship Goes Dark: Building A Maritime Watch Floor With AI Agents On AWS](https://dev.to/techwithshadab/-2lee)
+- [OpenAI Brings Template-Based Marketing Design to ChatGPT With Adobe Express](https://dev.to/alifar/openai-brings-template-based-marketing-design-to-chatgpt-with-adobe-express-5h09)
+- [Your Tests Pass. Your Layout Is Broken](https://dev.to/kevinccbsg/your-tests-pass-your-layout-is-broken-5e8j)
+- [ChatGPT Images 2.5 Could Bring Faster Generation and More Precise Editing](https://dev.to/alifar/chatgpt-images-25-could-bring-faster-generation-and-more-precise-editing-3gp4)
+- [SQLite doesn&#39;t enforce foreign keys by default, and it cost us three bugs](https://dev.to/enderyentar/sqlite-doesnt-enforce-foreign-keys-by-default-and-it-cost-us-three-bugs-1ii9)
 <!-- BLOG-POST-LIST:END -->
 
 
