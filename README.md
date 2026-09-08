@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Valid JSON, Wrong Shape: Structured Output Across Three AI Backends](https://dev.to/jula-markova/valid-json-wrong-shape-structured-output-across-three-ai-backends-4b98)
-- [Agent Memory Explained: Types, Tools &amp; How to Add It](https://dev.to/mind_anthony/agent-memory-explained-types-tools-how-to-add-it-56h)
-- [StyleSmuggler: Magento Zero-Day CVE-2026-75650 Drops a Rust Backdoor and a PHP Web Shell](https://dev.to/etairos/stylesmuggler-magento-zero-day-cve-2026-75650-drops-a-rust-backdoor-and-a-php-web-shell-1ke8)
-- [GPT-6 Astra Crossed the Cyber-Critical Threshold. Your Agent Architecture Must Change.](https://dev.to/wolffy-good/gpt-6-astra-crossed-the-cyber-critical-threshold-your-agent-architecture-must-change-57c6)
+- [What Happens If You Fail Google Play 14 Day Testing Requirement?](https://dev.to/vmzavas/what-happens-if-you-fail-google-play-14-day-testing-requirement-2hgp)
+- [My AI Remembered Everything Important. It Forgot What I Did Last Night.](https://dev.to/the_leon_odor/my-ai-remembered-everything-important-it-forgot-what-i-did-last-night-4ije)
+- [I Built a Serverless Resume Site on AWS. Here&#39;s Everything That Broke Along the Way](https://dev.to/derek_jackson_0507a460026/i-built-a-serverless-resume-site-on-aws-heres-everything-that-broke-along-the-way-4lml)
+- [When A Ship Goes Dark: Building A Maritime Watch Floor With AI Agents On AWS](https://dev.to/techwithshadab/-2lee)
 <!-- BLOG-POST-LIST:END -->
 
 
