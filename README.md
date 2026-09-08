@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I ran 22 directory submissions with Playwright in one day. Here is what actually blocked me.](https://dev.to/norabennett_music/i-ran-22-directory-submissions-with-playwright-in-one-day-here-is-what-actually-blocked-me-1egh)
-- [I Built My Own Programming Language Because I Wanted Code to Read Like English](https://dev.to/kageyako/i-built-my-own-programming-language-because-i-wanted-code-to-read-like-english-4k7o)
-- [ok, AI is the all of my life.](https://dev.to/mayachen0302/ok-ai-is-the-all-of-my-life-3j0h)
-- [A Good AI Workflow Brief Needs More Than a Prompt](https://dev.to/imagebear/a-good-ai-workflow-brief-needs-more-than-a-prompt-1kbb)
+- [Valid JSON, Wrong Shape: Structured Output Across Three AI Backends](https://dev.to/jula-markova/valid-json-wrong-shape-structured-output-across-three-ai-backends-4b98)
+- [Agent Memory Explained: Types, Tools &amp; How to Add It](https://dev.to/mind_anthony/agent-memory-explained-types-tools-how-to-add-it-56h)
+- [StyleSmuggler: Magento Zero-Day CVE-2026-75650 Drops a Rust Backdoor and a PHP Web Shell](https://dev.to/etairos/stylesmuggler-magento-zero-day-cve-2026-75650-drops-a-rust-backdoor-and-a-php-web-shell-1ke8)
+- [GPT-6 Astra Crossed the Cyber-Critical Threshold. Your Agent Architecture Must Change.](https://dev.to/wolffy-good/gpt-6-astra-crossed-the-cyber-critical-threshold-your-agent-architecture-must-change-57c6)
 <!-- BLOG-POST-LIST:END -->
 
 
