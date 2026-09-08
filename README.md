@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Brings Template-Based Marketing Design to ChatGPT With Adobe Express](https://dev.to/alifar/openai-brings-template-based-marketing-design-to-chatgpt-with-adobe-express-5h09)
-- [Your Tests Pass. Your Layout Is Broken](https://dev.to/kevinccbsg/your-tests-pass-your-layout-is-broken-5e8j)
-- [ChatGPT Images 2.5 Could Bring Faster Generation and More Precise Editing](https://dev.to/alifar/chatgpt-images-25-could-bring-faster-generation-and-more-precise-editing-3gp4)
-- [SQLite doesn&#39;t enforce foreign keys by default, and it cost us three bugs](https://dev.to/enderyentar/sqlite-doesnt-enforce-foreign-keys-by-default-and-it-cost-us-three-bugs-1ii9)
+- [Spinifex 1.19.0: Nineteen Releases Later](https://dev.to/jsommer2/spinifex-1190-nineteen-releases-later-3jgf)
+- [Google Says EU DMA Search Redesign Reduces Quality and Changes Search Visibility](https://dev.to/alifar/google-says-eu-dma-search-redesign-reduces-quality-and-changes-search-visibility-14b6)
+- [Can You Copyright What AI Makes? Mostly Not — Here&#39;s Where the Line Is](https://dev.to/theaidownside/can-you-copyright-what-ai-makes-mostly-not-heres-where-the-line-is-3kc1)
+- [Practical SQL Query Optimization: From Slow Scans to Efficient Indexes](https://dev.to/lucas_ventavele/practical-sql-query-optimization-from-slow-scans-to-efficient-indexes-3ah6)
 <!-- BLOG-POST-LIST:END -->
 
 
