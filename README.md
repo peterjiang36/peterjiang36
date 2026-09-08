@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Delivery Map Presence at Scale: A 4-State Room Lifecycle for Trusted Event Flow](https://dev.to/thalynrift3485/delivery-map-presence-at-scale-a-4-state-room-lifecycle-for-trusted-event-flow-4a1l)
-- [9 Cover Letter Phrases to Replace &lpar;and What to Say Instead&rpar;](https://dev.to/_84df9d6496da92a9041609/9-cover-letter-phrases-to-replace-and-what-to-say-instead-1cd0)
-- [Inside Tencent EdgeOne Makers: How It Works and What It Offers](https://dev.to/raff03/inside-tencent-edgeone-makers-how-it-works-and-what-it-offers-4092)
-- [Free Tools Every Competitive Programmer Should Bookmark](https://dev.to/md_shohan_102187760726951/free-tools-every-competitive-programmer-should-bookmark-p3f)
+- [I ran 22 directory submissions with Playwright in one day. Here is what actually blocked me.](https://dev.to/norabennett_music/i-ran-22-directory-submissions-with-playwright-in-one-day-here-is-what-actually-blocked-me-1egh)
+- [I Built My Own Programming Language Because I Wanted Code to Read Like English](https://dev.to/kageyako/i-built-my-own-programming-language-because-i-wanted-code-to-read-like-english-4k7o)
+- [ok, AI is the all of my life.](https://dev.to/mayachen0302/ok-ai-is-the-all-of-my-life-3j0h)
+- [A Good AI Workflow Brief Needs More Than a Prompt](https://dev.to/imagebear/a-good-ai-workflow-brief-needs-more-than-a-prompt-1kbb)
 <!-- BLOG-POST-LIST:END -->
 
 
