@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why WSO2 Identity Server, WSO2 Identity Platform and ThunderID All Exist](https://dev.to/pasindu_balasooriya/why-wso2-identity-server-wso2-identity-platform-and-thunderid-all-exist-26lh)
-- [Logistics Account Recovery: 4 Identity Signals for Continuity When Emails Change](https://dev.to/leopoldholm3736/logistics-account-recovery-4-identity-signals-for-continuity-when-emails-change-2fho)
-- [The Independent Auditor Pattern — &quot;Don&#39;t Let the Thing That Built It Verify It&quot;](https://dev.to/dbsoul/the-independent-auditor-pattern-dont-let-the-thing-that-built-it-verify-it-4bbo)
-- [Getting maths out of ChatGPT and into Word without it turning into backslashes](https://dev.to/anuis258/getting-maths-out-of-chatgpt-and-into-word-without-it-turning-into-backslashes-3hf5)
+- [Why I built a sales and marketing knowledge base that refuses to guess](https://dev.to/artemr_rudenko_0bf2c2c505/why-i-built-a-sales-and-marketing-knowledge-base-that-refuses-to-guess-5fhm)
+- [A Practical Release Inventory for OpenVPN Deployments](https://dev.to/m_montazeri/a-practical-release-inventory-for-openvpn-deployments-13ii)
+- [I got tired of wasting AI tokens on Linux commands](https://dev.to/oanhduong/i-got-tired-of-wasting-ai-tokens-on-linux-commands-102e)
+- [Context7 fixed the thing I kept blaming myself for](https://dev.to/jameson-bear/context7-fixed-the-thing-i-kept-blaming-myself-for-3k41)
 <!-- BLOG-POST-LIST:END -->
 
 
