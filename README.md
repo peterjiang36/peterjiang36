@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built a sales and marketing knowledge base that refuses to guess](https://dev.to/artemr_rudenko_0bf2c2c505/why-i-built-a-sales-and-marketing-knowledge-base-that-refuses-to-guess-5fhm)
-- [A Practical Release Inventory for OpenVPN Deployments](https://dev.to/m_montazeri/a-practical-release-inventory-for-openvpn-deployments-13ii)
-- [I got tired of wasting AI tokens on Linux commands](https://dev.to/oanhduong/i-got-tired-of-wasting-ai-tokens-on-linux-commands-102e)
-- [Context7 fixed the thing I kept blaming myself for](https://dev.to/jameson-bear/context7-fixed-the-thing-i-kept-blaming-myself-for-3k41)
+- [Build a Fleet Operations Dashboard with ToolJet MCP](https://dev.to/tooljet/build-a-fleet-operations-dashboard-with-tooljet-mcp-4f6c)
+- [OpenAI Says It Cracked Navier-Stokes. It Took Roughly 10,000 AI Agents.](https://dev.to/abdullah_baig_23110610acf/openai-says-it-cracked-navier-stokes-it-took-roughly-10000-ai-agents-1h46)
+- [End-to-End Enterprise RAG Pipeline with IBM Docling Pipelines and OpenSearch](https://dev.to/aairom/end-to-end-enterprise-rag-pipeline-with-ibm-docling-pipelines-and-opensearch-on7)
+- [How to Install Dagster: WSL &amp; Native Windows Guide for Beginners &lpar;Using pip&rpar;](https://dev.to/msnmongare/how-to-install-dagster-wsl-native-windows-guide-for-beginners-using-pip-5cjc)
 <!-- BLOG-POST-LIST:END -->
 
 
