@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Fleet Operations Dashboard with ToolJet MCP](https://dev.to/tooljet/build-a-fleet-operations-dashboard-with-tooljet-mcp-4f6c)
-- [OpenAI Says It Cracked Navier-Stokes. It Took Roughly 10,000 AI Agents.](https://dev.to/abdullah_baig_23110610acf/openai-says-it-cracked-navier-stokes-it-took-roughly-10000-ai-agents-1h46)
-- [End-to-End Enterprise RAG Pipeline with IBM Docling Pipelines and OpenSearch](https://dev.to/aairom/end-to-end-enterprise-rag-pipeline-with-ibm-docling-pipelines-and-opensearch-on7)
-- [How to Install Dagster: WSL &amp; Native Windows Guide for Beginners &lpar;Using pip&rpar;](https://dev.to/msnmongare/how-to-install-dagster-wsl-native-windows-guide-for-beginners-using-pip-5cjc)
+- [AI Tools for Security Vulnerability Detection: 2026 Guide](https://dev.to/nlocoding/ai-tools-for-security-vulnerability-detection-2026-guide-obn)
+- [Why AI Applications Are Becoming Distributed Systems](https://dev.to/ali_raza_fa80fd8371162ce6/why-ai-applications-are-becoming-distributed-systems-291d)
+- [12 AEO Best Practices for docs](https://dev.to/expo/aeo-best-practices-for-docs-32j4)
+- [Por Que uma Transação com Chip é Mais Segura](https://dev.to/juliobicharra/por-que-uma-transacao-com-chip-e-mais-segura-430)
 <!-- BLOG-POST-LIST:END -->
 
 
