@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spinifex 1.19.0: Nineteen Releases Later](https://dev.to/jsommer2/spinifex-1190-nineteen-releases-later-3jgf)
-- [Google Says EU DMA Search Redesign Reduces Quality and Changes Search Visibility](https://dev.to/alifar/google-says-eu-dma-search-redesign-reduces-quality-and-changes-search-visibility-14b6)
-- [Can You Copyright What AI Makes? Mostly Not — Here&#39;s Where the Line Is](https://dev.to/theaidownside/can-you-copyright-what-ai-makes-mostly-not-heres-where-the-line-is-3kc1)
-- [Practical SQL Query Optimization: From Slow Scans to Efficient Indexes](https://dev.to/lucas_ventavele/practical-sql-query-optimization-from-slow-scans-to-efficient-indexes-3ah6)
+- [Why WSO2 Identity Server, WSO2 Identity Platform and ThunderID All Exist](https://dev.to/pasindu_balasooriya/why-wso2-identity-server-wso2-identity-platform-and-thunderid-all-exist-26lh)
+- [Logistics Account Recovery: 4 Identity Signals for Continuity When Emails Change](https://dev.to/leopoldholm3736/logistics-account-recovery-4-identity-signals-for-continuity-when-emails-change-2fho)
+- [The Independent Auditor Pattern — &quot;Don&#39;t Let the Thing That Built It Verify It&quot;](https://dev.to/dbsoul/the-independent-auditor-pattern-dont-let-the-thing-that-built-it-verify-it-4bbo)
+- [Getting maths out of ChatGPT and into Word without it turning into backslashes](https://dev.to/anuis258/getting-maths-out-of-chatgpt-and-into-word-without-it-turning-into-backslashes-3hf5)
 <!-- BLOG-POST-LIST:END -->
 
 
