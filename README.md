@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools for Security Vulnerability Detection: 2026 Guide](https://dev.to/nlocoding/ai-tools-for-security-vulnerability-detection-2026-guide-obn)
-- [Why AI Applications Are Becoming Distributed Systems](https://dev.to/ali_raza_fa80fd8371162ce6/why-ai-applications-are-becoming-distributed-systems-291d)
-- [12 AEO Best Practices for docs](https://dev.to/expo/aeo-best-practices-for-docs-32j4)
-- [Por Que uma Transação com Chip é Mais Segura](https://dev.to/juliobicharra/por-que-uma-transacao-com-chip-e-mais-segura-430)
+- [ChatGPT Has an Estimated 67.7 Million US Monthly Users, But Adoption Needs Context](https://dev.to/alifar/chatgpt-has-an-estimated-677-million-us-monthly-users-but-adoption-needs-context-9p0)
+- [iPhone Duo for iOS Developers: What Actually Changes in Your Swift Code](https://dev.to/arshtechpro/iphone-duo-for-ios-developers-what-actually-changes-in-your-swift-code-5gc5)
+- [nginx silently rejects the new HTTP QUERY method](https://dev.to/alexgeorgiev17/nginxs-limitexcept-block-silently-rejects-the-new-http-query-method-1gcg)
+- [The Card](https://dev.to/davidevlops/the-card-a20)
 <!-- BLOG-POST-LIST:END -->
 
 
