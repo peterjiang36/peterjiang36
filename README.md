@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Has an Estimated 67.7 Million US Monthly Users, But Adoption Needs Context](https://dev.to/alifar/chatgpt-has-an-estimated-677-million-us-monthly-users-but-adoption-needs-context-9p0)
-- [iPhone Duo for iOS Developers: What Actually Changes in Your Swift Code](https://dev.to/arshtechpro/iphone-duo-for-ios-developers-what-actually-changes-in-your-swift-code-5gc5)
-- [nginx silently rejects the new HTTP QUERY method](https://dev.to/alexgeorgiev17/nginxs-limitexcept-block-silently-rejects-the-new-http-query-method-1gcg)
-- [The Card](https://dev.to/davidevlops/the-card-a20)
+- [I Built a Website Crawler Because “It Works in the Browser” Isn’t Enough](https://dev.to/abdelrahman_ragab_20/i-built-a-website-crawler-because-it-works-in-the-browser-isnt-enough-54ji)
+- [Google’s 2026 Updates Separate Content Quality From AI Search Destination Signals](https://dev.to/alifar/googles-2026-updates-separate-content-quality-from-ai-search-destination-signals-57ek)
+- [Signup Abuse Defense: When CAPTCHA Gates Creation and Risk Signals Catch Up](https://dev.to/ingramcole6479/signup-abuse-defense-when-captcha-gates-creation-and-risk-signals-catch-up-2a9j)
+- [Your Git History Is a Story. I Wrote the Algorithm That Finds It.](https://dev.to/ahmad_rrrtx/your-git-history-is-a-story-i-wrote-the-algorithm-that-finds-it-1734)
 <!-- BLOG-POST-LIST:END -->
 
 
