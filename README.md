@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wiring Android&#39;s WorkManager to a Quantized On-Device LLM for Background Summarization](https://dev.to/software_mvp-factory/wiring-androids-workmanager-to-a-quantized-on-device-llm-for-background-summarization-cd4)
-- [What Jeston Solves: The Cost of Scattered Full-Stack Conventions](https://dev.to/kvant-swatg/what-jeston-solves-the-cost-of-scattered-full-stack-conventions-550o)
-- [When Abstraction Becomes a Bottleneck: The Real Cost of Overengineering](https://dev.to/nsikanadaowo/when-abstraction-becomes-a-bottleneck-the-real-cost-of-overengineering-c57)
-- [Cursor Automation vs OpenClaw: Which AI Agent Should You Choose?](https://dev.to/preecha/cursor-automation-vs-openclaw-which-ai-agent-should-you-choose-3iom)
+- [Dependency Injection in Angular: From Constructor Injection to Modern DI](https://dev.to/abanoubkerols/dependency-injection-in-angular-from-constructor-injection-to-modern-di-3mac)
+- [I Built an Open-Source WordPress Security Scanner — 109 Checks in 60 Seconds](https://dev.to/status_200_master/i-built-an-open-source-wordpress-security-scanner-109-checks-in-60-seconds-50g0)
+- [PostgreSQL MVCC: Why Bloat Doesn&#39;t Automatically Mean Expensive Reads](https://dev.to/franckpachot/postgresql-mvcc-why-bloat-doesnt-automatically-mean-expensive-reads-2pn7)
+- [💻 What Apple’s September 2026 Event Means for Developers](https://dev.to/javaskr/what-apples-september-2026-event-means-for-developers-3pnk)
 <!-- BLOG-POST-LIST:END -->
 
 
