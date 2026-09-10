@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t put getaddrinfo on your proxy&#39;s hot path](https://dev.to/efraingaray/dont-put-getaddrinfo-on-your-proxys-hot-path-i31)
-- [ECC: An Open-Source Performance Harness and Operating System for AI Coding Agents](https://dev.to/terminalchai/ecc-an-open-source-performance-harness-and-operating-system-for-ai-coding-agents-3ig)
-- [Understanding MCP Servers: How AI Hosts Reliably Connect to Domain Systems](https://dev.to/cherware/understanding-mcp-servers-how-ai-hosts-reliably-connect-to-domain-systems-g49)
-- [PicoCTF Mod 26 Writeup — Brute-Force a Caesar Cipher](https://dev.to/ctfdojo/picoctf-mod-26-writeup-brute-force-a-caesar-cipher-4d67)
+- [How to prepare your website for Black Friday: the 12-week plan](https://dev.to/evaluat/how-to-prepare-your-website-for-black-friday-the-12-week-plan-4ed9)
+- [React Server Components para veteranos de SPA](https://dev.to/jgomezdev/react-server-components-para-veteranos-de-spa-g0l)
+- [React Server Components for SPA Veterans](https://dev.to/jgomezdev/react-server-components-for-spa-veterans-4ph0)
+- [Agentic Commerce: A Practical 2026 Guide](https://dev.to/ptrken01/agentic-commerce-a-practical-2026-guide-5eo)
 <!-- BLOG-POST-LIST:END -->
 
 
