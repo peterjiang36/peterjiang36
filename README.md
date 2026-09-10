@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [400 rounds, and the bug never showed up. So I stopped rolling dice.](https://dev.to/edycutjong/400-rounds-and-the-bug-never-showed-up-so-i-stopped-rolling-dice-3dig)
-- [Last Green Tag First: Bisect an OSS Regression Before the Patch Review](https://dev.to/datars_7274/last-green-tag-first-bisect-an-oss-regression-before-the-patch-review-4l0a)
-- [Tracing NestJS Pricing Flags via HTTP &lpar;Custom Logger Correlation Events&rpar;](https://dev.to/alariccross6851/tracing-nestjs-pricing-flags-via-http-custom-logger-correlation-events-5eek)
-- [Emulators Are Not Enough: A Practical Checklist for Real Android Device Testing](https://dev.to/alpha_lay_6947683a9151300/emulators-are-not-enough-a-practical-checklist-for-real-android-device-testing-4b43)
+- [Your coding agent finished. Now find the PR, the preview, and the right session.](https://dev.to/gentritbiba/your-coding-agent-finished-now-find-the-pr-the-preview-and-the-right-session-1g01)
+- [Stop spawning an MCP server per agent session &lpar;and what it won&#39;t fix&rpar;](https://dev.to/tonydzi/stop-spawning-an-mcp-server-per-agent-session-and-what-it-wont-fix-5e2m)
+- [Turning a list of company websites into a contact list with a plain HTTP crawl](https://dev.to/timmkal01/turning-a-list-of-company-websites-into-a-contact-list-with-a-plain-http-crawl-42pf)
+- [7 Free Jira Alternatives for Software Teams in the Agent Era](https://dev.to/therealmrmumba/7-free-jira-alternatives-for-software-teams-in-the-agent-era-ph5)
 <!-- BLOG-POST-LIST:END -->
 
 
