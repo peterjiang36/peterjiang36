@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection in Angular: From Constructor Injection to Modern DI](https://dev.to/abanoubkerols/dependency-injection-in-angular-from-constructor-injection-to-modern-di-3mac)
-- [I Built an Open-Source WordPress Security Scanner — 109 Checks in 60 Seconds](https://dev.to/status_200_master/i-built-an-open-source-wordpress-security-scanner-109-checks-in-60-seconds-50g0)
-- [PostgreSQL MVCC: Why Bloat Doesn&#39;t Automatically Mean Expensive Reads](https://dev.to/franckpachot/postgresql-mvcc-why-bloat-doesnt-automatically-mean-expensive-reads-2pn7)
-- [💻 What Apple’s September 2026 Event Means for Developers](https://dev.to/javaskr/what-apples-september-2026-event-means-for-developers-3pnk)
+- [Don&#39;t put getaddrinfo on your proxy&#39;s hot path](https://dev.to/efraingaray/dont-put-getaddrinfo-on-your-proxys-hot-path-i31)
+- [ECC: An Open-Source Performance Harness and Operating System for AI Coding Agents](https://dev.to/terminalchai/ecc-an-open-source-performance-harness-and-operating-system-for-ai-coding-agents-3ig)
+- [Understanding MCP Servers: How AI Hosts Reliably Connect to Domain Systems](https://dev.to/cherware/understanding-mcp-servers-how-ai-hosts-reliably-connect-to-domain-systems-g49)
+- [PicoCTF Mod 26 Writeup — Brute-Force a Caesar Cipher](https://dev.to/ctfdojo/picoctf-mod-26-writeup-brute-force-a-caesar-cipher-4d67)
 <!-- BLOG-POST-LIST:END -->
 
 
