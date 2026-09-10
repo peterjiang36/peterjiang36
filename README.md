@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Website Crawler Because “It Works in the Browser” Isn’t Enough](https://dev.to/abdelrahman_ragab_20/i-built-a-website-crawler-because-it-works-in-the-browser-isnt-enough-54ji)
-- [Google’s 2026 Updates Separate Content Quality From AI Search Destination Signals](https://dev.to/alifar/googles-2026-updates-separate-content-quality-from-ai-search-destination-signals-57ek)
-- [Signup Abuse Defense: When CAPTCHA Gates Creation and Risk Signals Catch Up](https://dev.to/ingramcole6479/signup-abuse-defense-when-captcha-gates-creation-and-risk-signals-catch-up-2a9j)
-- [Your Git History Is a Story. I Wrote the Algorithm That Finds It.](https://dev.to/ahmad_rrrtx/your-git-history-is-a-story-i-wrote-the-algorithm-that-finds-it-1734)
+- [400 rounds, and the bug never showed up. So I stopped rolling dice.](https://dev.to/edycutjong/400-rounds-and-the-bug-never-showed-up-so-i-stopped-rolling-dice-3dig)
+- [Last Green Tag First: Bisect an OSS Regression Before the Patch Review](https://dev.to/datars_7274/last-green-tag-first-bisect-an-oss-regression-before-the-patch-review-4l0a)
+- [Tracing NestJS Pricing Flags via HTTP &lpar;Custom Logger Correlation Events&rpar;](https://dev.to/alariccross6851/tracing-nestjs-pricing-flags-via-http-custom-logger-correlation-events-5eek)
+- [Emulators Are Not Enough: A Practical Checklist for Real Android Device Testing](https://dev.to/alpha_lay_6947683a9151300/emulators-are-not-enough-a-practical-checklist-for-real-android-device-testing-4b43)
 <!-- BLOG-POST-LIST:END -->
 
 
