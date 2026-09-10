@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your coding agent finished. Now find the PR, the preview, and the right session.](https://dev.to/gentritbiba/your-coding-agent-finished-now-find-the-pr-the-preview-and-the-right-session-1g01)
-- [Stop spawning an MCP server per agent session &lpar;and what it won&#39;t fix&rpar;](https://dev.to/tonydzi/stop-spawning-an-mcp-server-per-agent-session-and-what-it-wont-fix-5e2m)
-- [Turning a list of company websites into a contact list with a plain HTTP crawl](https://dev.to/timmkal01/turning-a-list-of-company-websites-into-a-contact-list-with-a-plain-http-crawl-42pf)
-- [7 Free Jira Alternatives for Software Teams in the Agent Era](https://dev.to/therealmrmumba/7-free-jira-alternatives-for-software-teams-in-the-agent-era-ph5)
+- [Wiring Android&#39;s WorkManager to a Quantized On-Device LLM for Background Summarization](https://dev.to/software_mvp-factory/wiring-androids-workmanager-to-a-quantized-on-device-llm-for-background-summarization-cd4)
+- [What Jeston Solves: The Cost of Scattered Full-Stack Conventions](https://dev.to/kvant-swatg/what-jeston-solves-the-cost-of-scattered-full-stack-conventions-550o)
+- [When Abstraction Becomes a Bottleneck: The Real Cost of Overengineering](https://dev.to/nsikanadaowo/when-abstraction-becomes-a-bottleneck-the-real-cost-of-overengineering-c57)
+- [Cursor Automation vs OpenClaw: Which AI Agent Should You Choose?](https://dev.to/preecha/cursor-automation-vs-openclaw-which-ai-agent-should-you-choose-3iom)
 <!-- BLOG-POST-LIST:END -->
 
 
