@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nexpath Review: Can an AI Prompt Quality Layer Make AI Coding Safer?](https://dev.to/hadil/nexpath-review-can-an-ai-prompt-quality-layer-make-ai-coding-safer-24)
-- [InfraOS AI — Stop Staring at Graphs, Just Ask Your Cluster](https://dev.to/isidhartha/infraos-ai-stop-staring-at-graphs-just-ask-your-cluster-2fk)
-- [When an agent&#39;s question is a path, not a similarity score](https://dev.to/manoj_kumargogula_4042c7/when-an-agents-question-is-a-path-not-a-similarity-score-27m9)
-- [NexusOS — Your Personal Jarvis, Powered by AI](https://dev.to/isidhartha/nexusos-your-personal-jarvis-powered-by-ai-2cb3)
+- [AI-Assisted Executive Impersonation and Fake Invoices: Over 1 Million ACH Payment Fraud Emails](https://dev.to/anoymask/ai-assisted-executive-impersonation-and-fake-invoices-over-1-million-ach-payment-fraud-emails-1pk9)
+- [Microsoft Patches 974 Flaws in One Day, Two Windows Zero-Days Already Exploited](https://dev.to/etairos/microsoft-patches-974-flaws-in-one-day-two-windows-zero-days-already-exploited-2fn5)
+- [Two identical runs scored 89 and 89. Two cases had flipped.](https://dev.to/dexterlung/two-identical-runs-scored-89-and-89-two-cases-had-flipped-3in3)
+- [How to Scope a SaaS MVP Around One Complete User Task](https://dev.to/urielbitton/how-to-scope-a-saas-mvp-around-one-complete-user-task-1h15)
 <!-- BLOG-POST-LIST:END -->
 
 
