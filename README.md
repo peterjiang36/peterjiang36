@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Golden paths that people actually take](https://dev.to/vivek_itp/golden-paths-that-people-actually-take-2kio)
-- [Why LLM Load Tests Are Costing You Thousands](https://dev.to/forgeflows/why-llm-load-tests-are-costing-you-thousands-2hei)
-- [Beyond the VM: A Deep Dive into Compiling PHP to Native Assembly with elephc](https://dev.to/tamizuddin/beyond-the-vm-a-deep-dive-into-compiling-php-to-native-assembly-with-elephc-4o5a)
-- [De-identification Protects Your Name. It Doesn&#39;t Protect Your Idea.](https://dev.to/aronchick/de-identification-protects-your-name-it-doesnt-protect-your-idea-15ge)
+- [Using Next.js as a Backend for Frontend &lpar;BFF&rpar;](https://dev.to/abanoubkerols/using-nextjs-as-a-backend-for-frontend-bff-4cd9)
+- [Watch, don&#39;t memorize: I built a free visual way to finally understand data structures](https://dev.to/cdnsteve/watch-dont-memorize-i-built-a-free-visual-way-to-finally-understand-data-structures-jc4)
+- [I built the localization checker before the localization. It still missed three defects.](https://dev.to/mdemin729/i-built-the-localization-checker-before-the-localization-it-still-missed-three-defects-4l36)
+- [Go with ARM](https://dev.to/apiovanidev/go-with-arm-1dg3)
 <!-- BLOG-POST-LIST:END -->
 
 
