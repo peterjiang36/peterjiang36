@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Executive Impersonation and Fake Invoices: Over 1 Million ACH Payment Fraud Emails](https://dev.to/anoymask/ai-assisted-executive-impersonation-and-fake-invoices-over-1-million-ach-payment-fraud-emails-1pk9)
-- [Microsoft Patches 974 Flaws in One Day, Two Windows Zero-Days Already Exploited](https://dev.to/etairos/microsoft-patches-974-flaws-in-one-day-two-windows-zero-days-already-exploited-2fn5)
-- [Two identical runs scored 89 and 89. Two cases had flipped.](https://dev.to/dexterlung/two-identical-runs-scored-89-and-89-two-cases-had-flipped-3in3)
-- [How to Scope a SaaS MVP Around One Complete User Task](https://dev.to/urielbitton/how-to-scope-a-saas-mvp-around-one-complete-user-task-1h15)
+- [Golden paths that people actually take](https://dev.to/vivek_itp/golden-paths-that-people-actually-take-2kio)
+- [Why LLM Load Tests Are Costing You Thousands](https://dev.to/forgeflows/why-llm-load-tests-are-costing-you-thousands-2hei)
+- [Beyond the VM: A Deep Dive into Compiling PHP to Native Assembly with elephc](https://dev.to/tamizuddin/beyond-the-vm-a-deep-dive-into-compiling-php-to-native-assembly-with-elephc-4o5a)
+- [De-identification Protects Your Name. It Doesn&#39;t Protect Your Idea.](https://dev.to/aronchick/de-identification-protects-your-name-it-doesnt-protect-your-idea-15ge)
 <!-- BLOG-POST-LIST:END -->
 
 
