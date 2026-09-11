@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to prepare your website for Black Friday: the 12-week plan](https://dev.to/evaluat/how-to-prepare-your-website-for-black-friday-the-12-week-plan-4ed9)
-- [React Server Components para veteranos de SPA](https://dev.to/jgomezdev/react-server-components-para-veteranos-de-spa-g0l)
-- [React Server Components for SPA Veterans](https://dev.to/jgomezdev/react-server-components-for-spa-veterans-4ph0)
-- [Agentic Commerce: A Practical 2026 Guide](https://dev.to/ptrken01/agentic-commerce-a-practical-2026-guide-5eo)
+- [Safari 27 rewrites the module loader to fix top-level await](https://dev.to/leobaniak/safari-27-rewrites-the-module-loader-to-fix-top-level-await-1k01)
+- [Human-in-the-Loop Metadata Inspection — Linking Extracted Text to Source Images](https://dev.to/kenjitanaka6849/human-in-the-loop-metadata-inspection-linking-extracted-text-to-source-images-56c0)
+- [Disaster Recovery Strategies for AKS Web Applications Backed by On-Prem ML Services](https://dev.to/suresh_devops_ffa0728a190/disaster-recovery-strategies-for-aks-web-applications-backed-by-on-prem-ml-services-3c47)
+- [LLM, que bisho é esse?](https://dev.to/it4lo/llm-2emb)
 <!-- BLOG-POST-LIST:END -->
 
 
