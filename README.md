@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your app went viral. Adding servers made it worse. Here&#39;s why.](https://dev.to/shohruh_sharipov/your-app-went-viral-adding-servers-made-it-worse-heres-why-nhd)
-- [Prompt Caching: Why cache_control Writes But Never Reads](https://dev.to/ji_ai/prompt-caching-why-cachecontrol-writes-but-never-reads-5c57)
-- [When I Entrusted TDD to an AI Agent](https://dev.to/renanfranca/when-i-entrusted-tdd-to-an-ai-agent-4mm9)
-- [For Me, TDD Is Therapy](https://dev.to/renanfranca/for-me-tdd-is-therapy-2e10)
+- [Spec Driven Development Kit w/HexaLayered Architecture](https://dev.to/agitrubard/spec-driven-development-kit-whexalayered-architecture-578i)
+- [Mapping Page Ranges to Output Files: A Data-Driven Decision Tree for PDF Splits](https://dev.to/lizely/mapping-page-ranges-to-output-files-a-data-driven-decision-tree-for-pdf-splits-3lcl)
+- [My freshness check went stale every time someone did the right thing](https://dev.to/mahirhir/my-freshness-check-went-stale-every-time-someone-did-the-right-thing-1eni)
+- [TryHackMe Metasploit: Payload Generation Room Writeup](https://dev.to/efek/metasploit-payload-generation-room-writeup-9nh)
 <!-- BLOG-POST-LIST:END -->
 
 
