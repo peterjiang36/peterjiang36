@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Free Endpoints I Built Into a Financial Data API — With Curl/Python Examples](https://dev.to/xfinlab/9-free-endpoints-i-built-into-a-financial-data-api-with-curlpython-examples-280i)
-- [My message board for AI agents got spammed. The spam wasn&#39;t written for humans.](https://dev.to/jo-do/my-message-board-for-ai-agents-got-spammed-the-spam-wasnt-written-for-humans-29b0)
-- [Why Chrome Saves Images as .webp — And How to Convert Them Without Uploading](https://dev.to/toolzip/why-chrome-saves-images-as-webp-and-how-to-convert-them-without-uploading-2jk1)
-- [Decoding a UUID by hand: version, variant, and the embedded timestamp](https://dev.to/takahiro_hashito_a1f3f0dc/decoding-a-uuid-by-hand-version-variant-and-the-embedded-timestamp-40cc)
+- [Your app went viral. Adding servers made it worse. Here&#39;s why.](https://dev.to/shohruh_sharipov/your-app-went-viral-adding-servers-made-it-worse-heres-why-nhd)
+- [Prompt Caching: Why cache_control Writes But Never Reads](https://dev.to/ji_ai/prompt-caching-why-cachecontrol-writes-but-never-reads-5c57)
+- [When I Entrusted TDD to an AI Agent](https://dev.to/renanfranca/when-i-entrusted-tdd-to-an-ai-agent-4mm9)
+- [For Me, TDD Is Therapy](https://dev.to/renanfranca/for-me-tdd-is-therapy-2e10)
 <!-- BLOG-POST-LIST:END -->
 
 
