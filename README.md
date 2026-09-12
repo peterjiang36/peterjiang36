@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Next.js as a Backend for Frontend &lpar;BFF&rpar;](https://dev.to/abanoubkerols/using-nextjs-as-a-backend-for-frontend-bff-4cd9)
-- [Watch, don&#39;t memorize: I built a free visual way to finally understand data structures](https://dev.to/cdnsteve/watch-dont-memorize-i-built-a-free-visual-way-to-finally-understand-data-structures-jc4)
-- [I built the localization checker before the localization. It still missed three defects.](https://dev.to/mdemin729/i-built-the-localization-checker-before-the-localization-it-still-missed-three-defects-4l36)
-- [Go with ARM](https://dev.to/apiovanidev/go-with-arm-1dg3)
+- [TORchIM security release](https://dev.to/architectordev/torchim-security-release-28i1)
+- [Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀](https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4)
+- [I don&#39;t think AI is going to end humanity/civilization in the next decade.
+
+Personally, I feel like the doomsday buzz about AI now is probably what was there when the internet first came live... Imagine how the first phone call must have felt...](https://dev.to/dumebii/i-dont-think-ai-is-going-to-end-humanitycivilization-in-the-next-decade-personally-i-feel-1m6c)
+- [When an AI Tool Harms You, Who’s Actually Liable?](https://dev.to/theaidownside/when-an-ai-tool-harms-you-whos-actually-liable-3ko3)
 <!-- BLOG-POST-LIST:END -->
 
 
