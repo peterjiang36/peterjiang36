@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TORchIM security release](https://dev.to/architectordev/torchim-security-release-28i1)
-- [Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀](https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4)
-- [I don&#39;t think AI is going to end humanity/civilization in the next decade.
-
-Personally, I feel like the doomsday buzz about AI now is probably what was there when the internet first came live... Imagine how the first phone call must have felt...](https://dev.to/dumebii/i-dont-think-ai-is-going-to-end-humanitycivilization-in-the-next-decade-personally-i-feel-1m6c)
-- [When an AI Tool Harms You, Who’s Actually Liable?](https://dev.to/theaidownside/when-an-ai-tool-harms-you-whos-actually-liable-3ko3)
+- [FAQ: Five Persistence Myths After the Chat Ends](https://dev.to/gitlab_3188/faq-five-persistence-myths-after-the-chat-ends-5dfl)
+- [Backyard Endurance OS: Designing Zero-Loss Telemetry Ingestion for Athletes and Distributed Systems](https://dev.to/ranasmukminov/backyard-endurance-os-designing-zero-loss-telemetry-ingestion-for-athletes-and-distributed-systems-15fn)
+- [One icon, three signals](https://dev.to/heylittlepan/one-icon-three-signals-59ad)
+- [Three PRs to Rowboat in 24 Hours, One of Them Taught Me More Than the Others](https://dev.to/kielltampubolon/three-prs-to-rowboat-in-24-hours-one-of-them-taught-me-more-than-the-others-48cb)
 <!-- BLOG-POST-LIST:END -->
 
 
