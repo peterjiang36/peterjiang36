@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FAQ: Five Persistence Myths After the Chat Ends](https://dev.to/gitlab_3188/faq-five-persistence-myths-after-the-chat-ends-5dfl)
-- [Backyard Endurance OS: Designing Zero-Loss Telemetry Ingestion for Athletes and Distributed Systems](https://dev.to/ranasmukminov/backyard-endurance-os-designing-zero-loss-telemetry-ingestion-for-athletes-and-distributed-systems-15fn)
-- [One icon, three signals](https://dev.to/heylittlepan/one-icon-three-signals-59ad)
-- [Three PRs to Rowboat in 24 Hours, One of Them Taught Me More Than the Others](https://dev.to/kielltampubolon/three-prs-to-rowboat-in-24-hours-one-of-them-taught-me-more-than-the-others-48cb)
+- [Can Thai AI Models Beat Global Models at Thai? Here Is Where They Win](https://dev.to/sarantoon/can-thai-ai-models-beat-global-models-at-thai-here-is-where-they-win-312h)
+- [What Is Web Cache Poisoning? How Can a Cached Response Become a Security Problem?](https://dev.to/aditya_d_sharma/what-is-web-cache-poisoning-how-can-a-cached-response-become-a-security-problem-3om4)
+- [How AI-Powered Data Analytics Works: From Raw Data to Intelligent Insights in 2026](https://dev.to/synfinity-dynamics-pvt-ltd/how-ai-powered-data-analytics-works-from-raw-data-to-intelligent-insights-in-2026-672)
+- [Postgres for everything hits a wall the moment dashboards get concurrent](https://dev.to/adioof/postgres-for-everything-hits-a-wall-the-moment-dashboards-get-concurrent-h43)
 <!-- BLOG-POST-LIST:END -->
 
 
