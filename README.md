@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spec Driven Development Kit w/HexaLayered Architecture](https://dev.to/agitrubard/spec-driven-development-kit-whexalayered-architecture-578i)
-- [Mapping Page Ranges to Output Files: A Data-Driven Decision Tree for PDF Splits](https://dev.to/lizely/mapping-page-ranges-to-output-files-a-data-driven-decision-tree-for-pdf-splits-3lcl)
-- [My freshness check went stale every time someone did the right thing](https://dev.to/mahirhir/my-freshness-check-went-stale-every-time-someone-did-the-right-thing-1eni)
-- [TryHackMe Metasploit: Payload Generation Room Writeup](https://dev.to/efek/metasploit-payload-generation-room-writeup-9nh)
+- [I ran my scanner against 5 real CVEs. It missed 4. Then I reverted my own fix.](https://dev.to/balbaks/i-ran-my-scanner-against-5-real-cves-it-missed-4-then-i-reverted-my-own-fix-4dhk)
+- [AI Won’t Fix a Broken Business Process](https://dev.to/ikilic/ai-wont-fix-a-broken-business-process-3ma0)
+- [Running a nested Proxmox homelab and Docker development on the same Windows machine](https://dev.to/yahavtz/running-a-nested-proxmox-homelab-and-docker-development-on-the-same-windows-machine-44c8)
+- [Droid ASC: A High-Performance Tool for Android Reverse Engineering and Vulnerability Discovery](https://dev.to/excalibra/droid-asc-a-high-performance-tool-for-android-reverse-engineering-and-vulnerability-discovery-1ci9)
 <!-- BLOG-POST-LIST:END -->
 
 
