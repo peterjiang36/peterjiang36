@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Wipro AI Frees 20,000 Employees&#39; Capacity, No Layoffs](https://dev.to/shaam_ai/wipro-ai-frees-20000-employees-capacity-no-layoffs-ojg)
-- [Engineering Build Notes #3: When 200Gi Was More Storage Than the Nodes Needed](https://dev.to/damola12345/engineering-build-notes-3-when-200gi-was-more-storage-than-the-nodes-needed-f9k)
-- [Why Your React Hotfix Isn&#39;t Reaching Users - And How to Fix It with Nginx](https://dev.to/ashim_sapkota_89bffa22087/why-your-react-hotfix-isnt-reaching-users-and-how-to-fix-it-with-nginx-2h0m)
-- [The Physical Limits of AI: GPU Exhaustion, The 151M Token Heist, and The 38GW Power Wall](https://dev.to/hksoldev/the-physical-limits-of-ai-gpu-exhaustion-the-151m-token-heist-and-the-38gw-power-wall-1id1)
+- [Data Modelling, Relationships &amp; Joins in Power Bi](https://dev.to/wendy_adika_e0949a228a269/data-modelling-relationships-joins-in-power-bi-2bfk)
+- [Self-Hosted and On-Prem AI Code Review: What Actually Works for Enterprise Teams?](https://dev.to/dev_kiran/self-hosted-and-on-prem-ai-code-review-what-actually-works-for-enterprise-teams-12mb)
+- [Catching a Silent AWS Failure: A Serverless Daily Report for Suspended Auto Scaling Groups](https://dev.to/siddharth912/catching-a-silent-aws-failure-a-serverless-daily-report-for-suspended-auto-scaling-groups-28ng)
+- [Your first ASP.NET App: Controllers](https://dev.to/__f5cd865bec2/your-first-aspnet-app-controllers-5ck7)
 <!-- BLOG-POST-LIST:END -->
 
 
