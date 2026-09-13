@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from crontab: five everyday schedules, translated into Kairos](https://dev.to/azathothx/migrating-from-crontab-five-everyday-schedules-translated-into-kairos-16lf)
-- [Kairos 1.0 — a schedule language where &quot;3 business days before month-end&quot; is an expression](https://dev.to/azathothx/kairos-10-a-schedule-language-where-3-business-days-before-month-end-is-an-expression-87i)
-- [I Built a Python CLI Toolbox Instead of Writing One-Off Scripts](https://dev.to/mehakb7/i-built-a-python-cli-toolbox-instead-of-writing-one-off-scripts-2f7i)
-- [🚀 Crowdwide Just Became a KODA Season 2 Champion 👑](https://dev.to/puneetkumar2010/crowdwide-just-became-a-koda-season-2-champion-4dem)
+- [Learn Eval Ownership by Building a Tiny Lab Witness](https://dev.to/magickong/learn-eval-ownership-by-building-a-tiny-lab-witness-3ic7)
+- [5 Small Projects That Can Make You Better at JavaScript](https://dev.to/webprims/5-small-projects-that-can-make-you-better-at-javascript-4cia)
+- [How long should CLAUDE.md be? The 200-line target and what it costs you](https://dev.to/aicoding-guide/how-long-should-claudemd-be-the-200-line-target-and-what-it-costs-you-5a2e)
+- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Arbitrum Bridge](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-arbitrum-bridge-5603)
 <!-- BLOG-POST-LIST:END -->
 
 
