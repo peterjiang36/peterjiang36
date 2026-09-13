@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Eval Ownership by Building a Tiny Lab Witness](https://dev.to/magickong/learn-eval-ownership-by-building-a-tiny-lab-witness-3ic7)
-- [5 Small Projects That Can Make You Better at JavaScript](https://dev.to/webprims/5-small-projects-that-can-make-you-better-at-javascript-4cia)
-- [How long should CLAUDE.md be? The 200-line target and what it costs you](https://dev.to/aicoding-guide/how-long-should-claudemd-be-the-200-line-target-and-what-it-costs-you-5a2e)
-- [TVL Trend Analysis &amp; Liquidity Risk Assessment: Arbitrum Bridge](https://dev.to/dannydoes_2abdf9c/tvl-trend-analysis-liquidity-risk-assessment-arbitrum-bridge-5603)
+- [AI didn’t replace my design process. It changed how fast I could execute it.](https://dev.to/mustofa_alameenmustafa_/ai-didnt-replace-my-design-process-it-changed-how-fast-i-could-execute-it-1olp)
+- [How to Rebuild Trust in Agile Teams After a Catastrophic Project Failure](https://dev.to/alireza_razmara_58b1f0ad1/how-to-rebuild-trust-in-agile-teams-after-a-catastrophic-project-failure-4ijn)
+- [I Built a Filipino AI Scam-Risk Analyzer - Here&#39;s How It Works](https://dev.to/samuel_mallo_c5c41371d1e8/i-built-a-filipino-ai-scam-risk-analyzer-heres-how-it-works-1pn4)
+- [Технический английский для security engineer: База о том как писать, говорить и проходить интервью](https://dev.to/ivan-piskunov/tiekhnichieskii-anghliiskii-dlia-security-engineer-baza-o-tom-kak-pisat-ghovorit-i-prokhodit-intierviu-3a58)
 <!-- BLOG-POST-LIST:END -->
 
 
