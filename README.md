@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How LinkedIn &quot;Bold&quot; Text Actually Works &lpar;It&#39;s Not Bold At All&rpar;](https://dev.to/boldloom/how-linkedin-bold-text-actually-works-its-not-bold-at-all-43e8)
-- [How to Optimize Development Cycles with AI: Numbers, Tools &amp; Tactics [2026]](https://dev.to/nlocoding/how-to-optimize-development-cycles-with-ai-numbers-tools-tactics-2026-4ih7)
-- [The Order That Got Charged Twice - A Race Condition Post-Mortem](https://dev.to/michaelajayi_dev/the-order-that-got-charged-twice-a-race-condition-post-mortem-18bc)
-- [Hiring Is a Black Box on Both Ends](https://dev.to/yuens1002/hiring-is-a-black-box-on-both-ends-53dc)
+- [How to Find the Meaning of Life in 26 Seconds](https://dev.to/adriaan-greyling/how-to-find-the-meaning-of-life-in-26-seconds-3f5o)
+- [48-Hour Field Notes: Catching a Flake That Only Fails on Someone Else&#39;s Machine](https://dev.to/codepy_1473/48-hour-field-notes-catching-a-flake-that-only-fails-on-someone-elses-machine-5a1n)
+- [Lint a One-Page Charter Before an Agent Pilot Starts](https://dev.to/techlab_7968/lint-a-one-page-charter-before-an-agent-pilot-starts-4cbn)
+- [How we stopped re-explaining decisions to Claude Code, Codex and Cursor](https://dev.to/dahshanlabs/how-we-stopped-re-explaining-decisions-to-claude-code-codex-and-cursor-13o0)
 <!-- BLOG-POST-LIST:END -->
 
 
