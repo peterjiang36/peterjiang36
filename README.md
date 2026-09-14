@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Architecture Patterns: A Deep Dive into Modern Agent Design](https://dev.to/ryan_zhao/ai-agent-architecture-patterns-a-deep-dive-into-modern-agent-design-11i4)
-- [LLM Inference Optimization: Techniques for Faster and Cheaper AI](https://dev.to/ryan_zhao/llm-inference-optimization-techniques-for-faster-and-cheaper-ai-54ml)
-- [AI Model Evaluation: Best Practices for Testing and Validation](https://dev.to/ryan_zhao/ai-model-evaluation-best-practices-for-testing-and-validation-4nfh)
-- [DaemonCore Academy: Into the Microsoft Store we go!](https://dev.to/daemoncore_academy/daemoncore-academy-into-the-microsoft-store-we-go-4b3a)
+- [Surviving the Dead Zone: React Offline-First Architecture 📱](https://dev.to/iprajapatiparesh/surviving-the-dead-zone-react-offline-first-architecture-b27)
+- [When to use which: Dragonfly vs Redis vs Valkey](https://dev.to/sunnysahijwani/when-to-use-which-dragonfly-vs-redis-vs-valkey-3p3b)
+- [3 of 7 WhatsApp Lines Died in 9 Days. Docker Said &#39;Healthy&#39;.](https://dev.to/achiya-automation/3-of-7-whatsapp-lines-died-in-9-days-docker-said-healthy-6le)
+- [Fix AI Generated Code: Practical Steps for Backend Engineers](https://dev.to/ayush_kumar_085a0f2c54e3f/fix-ai-generated-code-practical-steps-for-backend-engineers-47eg)
 <!-- BLOG-POST-LIST:END -->
 
 
