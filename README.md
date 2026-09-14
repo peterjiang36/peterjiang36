@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A one-step probe told us YouTube was blocked. It was asking the wrong endpoint.](https://dev.to/devil_scrapes/a-one-step-probe-told-us-youtube-was-blocked-it-was-asking-the-wrong-endpoint-31l1)
-- [When Falco Runs Out of Metadata](https://dev.to/whenitruns/when-falco-runs-out-of-metadata-3i3e)
-- [The Three Parallel Workstreams: How Design, Build, and Test Start on Day One Without Colliding](https://dev.to/khurram_bilal786/the-three-parallel-workstreams-how-design-build-and-test-start-on-day-one-without-colliding-210g)
-- [How to Create and Back Up a VHD on Microsoft Windows 11 for Cross-Platform Virtual Machine Development](https://dev.to/okpalan/how-to-create-and-back-up-a-vhd-on-microsoft-windows-11-for-cross-platform-virtual-machine-3olj)
+- [How LinkedIn &quot;Bold&quot; Text Actually Works &lpar;It&#39;s Not Bold At All&rpar;](https://dev.to/boldloom/how-linkedin-bold-text-actually-works-its-not-bold-at-all-43e8)
+- [How to Optimize Development Cycles with AI: Numbers, Tools &amp; Tactics [2026]](https://dev.to/nlocoding/how-to-optimize-development-cycles-with-ai-numbers-tools-tactics-2026-4ih7)
+- [The Order That Got Charged Twice - A Race Condition Post-Mortem](https://dev.to/michaelajayi_dev/the-order-that-got-charged-twice-a-race-condition-post-mortem-18bc)
+- [Hiring Is a Black Box on Both Ends](https://dev.to/yuens1002/hiring-is-a-black-box-on-both-ends-53dc)
 <!-- BLOG-POST-LIST:END -->
 
 
