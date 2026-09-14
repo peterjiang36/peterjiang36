@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Surviving the Dead Zone: React Offline-First Architecture 📱](https://dev.to/iprajapatiparesh/surviving-the-dead-zone-react-offline-first-architecture-b27)
-- [When to use which: Dragonfly vs Redis vs Valkey](https://dev.to/sunnysahijwani/when-to-use-which-dragonfly-vs-redis-vs-valkey-3p3b)
-- [3 of 7 WhatsApp Lines Died in 9 Days. Docker Said &#39;Healthy&#39;.](https://dev.to/achiya-automation/3-of-7-whatsapp-lines-died-in-9-days-docker-said-healthy-6le)
-- [Fix AI Generated Code: Practical Steps for Backend Engineers](https://dev.to/ayush_kumar_085a0f2c54e3f/fix-ai-generated-code-practical-steps-for-backend-engineers-47eg)
+- [A one-step probe told us YouTube was blocked. It was asking the wrong endpoint.](https://dev.to/devil_scrapes/a-one-step-probe-told-us-youtube-was-blocked-it-was-asking-the-wrong-endpoint-31l1)
+- [When Falco Runs Out of Metadata](https://dev.to/whenitruns/when-falco-runs-out-of-metadata-3i3e)
+- [The Three Parallel Workstreams: How Design, Build, and Test Start on Day One Without Colliding](https://dev.to/khurram_bilal786/the-three-parallel-workstreams-how-design-build-and-test-start-on-day-one-without-colliding-210g)
+- [How to Create and Back Up a VHD on Microsoft Windows 11 for Cross-Platform Virtual Machine Development](https://dev.to/okpalan/how-to-create-and-back-up-a-vhd-on-microsoft-windows-11-for-cross-platform-virtual-machine-3olj)
 <!-- BLOG-POST-LIST:END -->
 
 
