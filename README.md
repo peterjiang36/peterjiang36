@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI didn’t replace my design process. It changed how fast I could execute it.](https://dev.to/mustofa_alameenmustafa_/ai-didnt-replace-my-design-process-it-changed-how-fast-i-could-execute-it-1olp)
-- [How to Rebuild Trust in Agile Teams After a Catastrophic Project Failure](https://dev.to/alireza_razmara_58b1f0ad1/how-to-rebuild-trust-in-agile-teams-after-a-catastrophic-project-failure-4ijn)
-- [I Built a Filipino AI Scam-Risk Analyzer - Here&#39;s How It Works](https://dev.to/samuel_mallo_c5c41371d1e8/i-built-a-filipino-ai-scam-risk-analyzer-heres-how-it-works-1pn4)
-- [Технический английский для security engineer: База о том как писать, говорить и проходить интервью](https://dev.to/ivan-piskunov/tiekhnichieskii-anghliiskii-dlia-security-engineer-baza-o-tom-kak-pisat-ghovorit-i-prokhodit-intierviu-3a58)
+- [AI Agent Architecture Patterns: A Deep Dive into Modern Agent Design](https://dev.to/ryan_zhao/ai-agent-architecture-patterns-a-deep-dive-into-modern-agent-design-11i4)
+- [LLM Inference Optimization: Techniques for Faster and Cheaper AI](https://dev.to/ryan_zhao/llm-inference-optimization-techniques-for-faster-and-cheaper-ai-54ml)
+- [AI Model Evaluation: Best Practices for Testing and Validation](https://dev.to/ryan_zhao/ai-model-evaluation-best-practices-for-testing-and-validation-4nfh)
+- [DaemonCore Academy: Into the Microsoft Store we go!](https://dev.to/daemoncore_academy/daemoncore-academy-into-the-microsoft-store-we-go-4b3a)
 <!-- BLOG-POST-LIST:END -->
 
 
