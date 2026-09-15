@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Test Looked Redundant. The Ninth Bug Needed It.](https://dev.to/p0rt/the-test-looked-redundant-the-ninth-bug-needed-it-16me)
-- [Three requests per hour: what a strict free tier taught me](https://dev.to/ethancole26/three-requests-per-hour-what-a-strict-free-tier-taught-me-4im1)
-- [Did You Know? Kafka Stores Your Messages on Disk 🤔](https://dev.to/macky_eb7f7eecd6680ad7772/did-you-know-kafka-stores-your-messages-on-disk-3g3n)
-- [Stop hardcoding AWS Lambda layer ARNs: use public parameters for the AWS Parameters and Secrets Lambda Extension](https://dev.to/aparkris/stop-hardcoding-aws-lambda-layer-arns-use-public-parameters-for-the-aws-parameters-and-secrets-56m5)
+- [I Built Fantasy Football for Big Brother — Snake Drafts, Weekly Scoring, and Trades That Don’t Rewrite History](https://dev.to/uribejr/i-built-fantasy-football-for-big-brother-snake-drafts-weekly-scoring-and-trades-that-dont-2opm)
+- [Added a BFF layer before reaching for GraphQL. What happened next?](https://dev.to/ninawekunal3/added-a-bff-layer-before-reaching-for-graphql-what-happened-next-c0f)
+- [MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits](https://dev.to/lovestaco/mvc-mvp-mvvm-mvvm-c-viper-one-pattern-wearing-five-outfits-3b73)
+- [What is Web Security? A Simple Guide for Developers](https://dev.to/venkatesh_j6fe71a/what-is-web-security-a-simple-guide-for-developers-35ml)
 <!-- BLOG-POST-LIST:END -->
 
 
