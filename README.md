@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Fantasy Football for Big Brother — Snake Drafts, Weekly Scoring, and Trades That Don’t Rewrite History](https://dev.to/uribejr/i-built-fantasy-football-for-big-brother-snake-drafts-weekly-scoring-and-trades-that-dont-2opm)
-- [Added a BFF layer before reaching for GraphQL. What happened next?](https://dev.to/ninawekunal3/added-a-bff-layer-before-reaching-for-graphql-what-happened-next-c0f)
-- [MVC, MVP, MVVM, MVVM-C, VIPER: one pattern wearing five outfits](https://dev.to/lovestaco/mvc-mvp-mvvm-mvvm-c-viper-one-pattern-wearing-five-outfits-3b73)
-- [What is Web Security? A Simple Guide for Developers](https://dev.to/venkatesh_j6fe71a/what-is-web-security-a-simple-guide-for-developers-35ml)
+- [Protect Kubernetes Services with OAuth2 Proxy, Gateway API, Traefik, and Pocket ID](https://dev.to/alikhil/protect-kubernetes-services-with-oauth2-proxy-gateway-api-traefik-and-pocket-id-35mo)
+- [SetrixDB: a set engine in Go — exact set intersection over IDs &lpar;and where it loses&rpar;](https://dev.to/tgosoul/setrixdb-a-set-engine-in-go-exact-set-intersection-over-ids-and-where-it-loses-39dm)
+- [SetrixDB: motor de conjuntos em Go — interseção exata sobre IDs &lpar;e onde ele perde&rpar;](https://dev.to/tgosoul/setrixdb-motor-de-conjuntos-em-go-intersecao-exata-sobre-ids-e-onde-ele-perde-dic)
+- [I&#39;m Learning to Code — But I’m Learning Alone.”](https://dev.to/shabani_hamidu_8cb7f48c9a/im-learning-to-code-but-im-learning-alone-4nd1)
 <!-- BLOG-POST-LIST:END -->
 
 
