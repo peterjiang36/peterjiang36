@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find the Meaning of Life in 26 Seconds](https://dev.to/adriaan-greyling/how-to-find-the-meaning-of-life-in-26-seconds-3f5o)
-- [48-Hour Field Notes: Catching a Flake That Only Fails on Someone Else&#39;s Machine](https://dev.to/codepy_1473/48-hour-field-notes-catching-a-flake-that-only-fails-on-someone-elses-machine-5a1n)
-- [Lint a One-Page Charter Before an Agent Pilot Starts](https://dev.to/techlab_7968/lint-a-one-page-charter-before-an-agent-pilot-starts-4cbn)
-- [How we stopped re-explaining decisions to Claude Code, Codex and Cursor](https://dev.to/dahshanlabs/how-we-stopped-re-explaining-decisions-to-claude-code-codex-and-cursor-13o0)
+- [Google Brings Deep Research to Gemini Live for Voice-Based Research Conversations](https://dev.to/alifar/google-brings-deep-research-to-gemini-live-for-voice-based-research-conversations-6l8)
+- [Harness engineering doesn&#39;t mean building your own harness](https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk)
+- [Google Just Closed Another Scraping Door. Here&#39;s the Cheap Way Around It.](https://dev.to/goodpa/google-just-closed-another-scraping-door-heres-the-cheap-way-around-it-37ck)
+- [I built a bilingual quote estimator that runs entirely in the browser](https://dev.to/nexushubstudio/i-built-a-bilingual-quote-estimator-that-runs-entirely-in-the-browser-o28)
 <!-- BLOG-POST-LIST:END -->
 
 
