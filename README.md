@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Brings Deep Research to Gemini Live for Voice-Based Research Conversations](https://dev.to/alifar/google-brings-deep-research-to-gemini-live-for-voice-based-research-conversations-6l8)
-- [Harness engineering doesn&#39;t mean building your own harness](https://dev.to/annthurium/harness-engineering-doesnt-mean-building-your-own-harness-16pk)
-- [Google Just Closed Another Scraping Door. Here&#39;s the Cheap Way Around It.](https://dev.to/goodpa/google-just-closed-another-scraping-door-heres-the-cheap-way-around-it-37ck)
-- [I built a bilingual quote estimator that runs entirely in the browser](https://dev.to/nexushubstudio/i-built-a-bilingual-quote-estimator-that-runs-entirely-in-the-browser-o28)
+- [Your Agent Says the Tests Pass. Watch Them](https://dev.to/kevinccbsg/your-agent-says-the-tests-pass-watch-them-kgd)
+- [The multi-tenant SaaS checklist: six decisions to make now, one to ignore](https://dev.to/supero/the-multi-tenant-saas-checklist-six-decisions-to-make-now-one-to-ignore-4o2f)
+- [Infrastructure and Deployment: Order by Iteration](https://dev.to/fattakhov/infrastructure-and-deployment-order-by-iteration-2jga)
+- [The Hammer and the Hanging Man Are the Same Candle](https://dev.to/cm45t3r/the-hammer-and-the-hanging-man-are-the-same-candle-543b)
 <!-- BLOG-POST-LIST:END -->
 
 
