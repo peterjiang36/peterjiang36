@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Says the Tests Pass. Watch Them](https://dev.to/kevinccbsg/your-agent-says-the-tests-pass-watch-them-kgd)
-- [The multi-tenant SaaS checklist: six decisions to make now, one to ignore](https://dev.to/supero/the-multi-tenant-saas-checklist-six-decisions-to-make-now-one-to-ignore-4o2f)
-- [Infrastructure and Deployment: Order by Iteration](https://dev.to/fattakhov/infrastructure-and-deployment-order-by-iteration-2jga)
-- [The Hammer and the Hanging Man Are the Same Candle](https://dev.to/cm45t3r/the-hammer-and-the-hanging-man-are-the-same-candle-543b)
+- [The Test Looked Redundant. The Ninth Bug Needed It.](https://dev.to/p0rt/the-test-looked-redundant-the-ninth-bug-needed-it-16me)
+- [Three requests per hour: what a strict free tier taught me](https://dev.to/ethancole26/three-requests-per-hour-what-a-strict-free-tier-taught-me-4im1)
+- [Did You Know? Kafka Stores Your Messages on Disk 🤔](https://dev.to/macky_eb7f7eecd6680ad7772/did-you-know-kafka-stores-your-messages-on-disk-3g3n)
+- [Stop hardcoding AWS Lambda layer ARNs: use public parameters for the AWS Parameters and Secrets Lambda Extension](https://dev.to/aparkris/stop-hardcoding-aws-lambda-layer-arns-use-public-parameters-for-the-aws-parameters-and-secrets-56m5)
 <!-- BLOG-POST-LIST:END -->
 
 
