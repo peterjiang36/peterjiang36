@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Modular Layer JasperReports’ Powerful Engine Was Missing. Part 1: Where Jasper Came From and Why It Lacked Modularity](https://dev.to/dmitry_ch_b179102ed0823c6/the-modular-layer-jasperreports-powerful-engine-was-missing-part-1-where-jasper-came-from-and-12dm)
-- [Salesforce Down During Dreamforce 2026: How I Kept Shipping Apex Without an Org](https://dev.to/oblitus/salesforce-down-during-dreamforce-2026-how-i-kept-shipping-apex-without-an-org-2mek)
-- [SVG Is Code — But Agents Still Need to See the Result](https://dev.to/svgicons/svg-is-code-but-agents-still-need-to-see-the-result-g3o)
-- [What Broke When I Put yt-dlp and FFmpeg Behind a Job Queue &lpar;and What Fixed It&rpar;](https://dev.to/tubemixlab/what-broke-when-i-put-yt-dlp-and-ffmpeg-behind-a-job-queue-and-what-fixed-it-4fah)
+- [AI Supply Chain Compromises: 7 Entry Points Your Security Review Probably Misses](https://dev.to/wasa-confidence/ai-supply-chain-compromises-7-entry-points-your-security-review-probably-misses-29o6)
+- [When AI Agents Start Begging for $20: What the Latest Spam Wave Reveals About Their Workflow](https://dev.to/techsignaldaily/when-ai-agents-start-begging-for-20-what-the-latest-spam-wave-reveals-about-their-workflow-kci)
+- [The original Agile Manifesto was a simple set of values. Extending endless theories to optimize the framework misses the point, what should be optimized is the work itself.](https://dev.to/mxi_studio/the-original-agile-manifesto-was-a-simple-set-of-values-extending-endless-theories-to-optimize-the-1gmb)
+- [AI in testing: from manual checks to a smart workflow](https://dev.to/denis_dta/ai-in-testing-from-manual-checks-to-a-smart-workflow-4b4a)
 <!-- BLOG-POST-LIST:END -->
 
 
