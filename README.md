@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [7 SMTP APIs Worth Knowing in 2026, and Where I&#39;d Start](https://dev.to/alexgeorgiev17/7-smtp-apis-worth-knowing-in-2026-and-where-id-start-34g4)
-- [How I Built a GNOME Utility to Disable My Laptop Keyboard &lpar;and What I Learned About Linux Input Devices&rpar;](https://dev.to/mikachu/how-i-built-a-gnome-utility-to-disable-my-laptop-keyboard-and-what-i-learned-about-linux-input-log)
-- [Turning Azure RBAC and Management Groups Into a Real Consulting Engagement](https://dev.to/degreatkhali/turning-azure-rbac-and-management-groups-into-a-real-consulting-engagement-18e9)
-- [What problems do we face as a Web Scraping Company?](https://dev.to/readysetscrape/what-problems-do-we-face-as-a-web-scraping-company-5i6)
+- [The Modular Layer JasperReports’ Powerful Engine Was Missing. Part 1: Where Jasper Came From and Why It Lacked Modularity](https://dev.to/dmitry_ch_b179102ed0823c6/the-modular-layer-jasperreports-powerful-engine-was-missing-part-1-where-jasper-came-from-and-12dm)
+- [Salesforce Down During Dreamforce 2026: How I Kept Shipping Apex Without an Org](https://dev.to/oblitus/salesforce-down-during-dreamforce-2026-how-i-kept-shipping-apex-without-an-org-2mek)
+- [SVG Is Code — But Agents Still Need to See the Result](https://dev.to/svgicons/svg-is-code-but-agents-still-need-to-see-the-result-g3o)
+- [What Broke When I Put yt-dlp and FFmpeg Behind a Job Queue &lpar;and What Fixed It&rpar;](https://dev.to/tubemixlab/what-broke-when-i-put-yt-dlp-and-ffmpeg-behind-a-job-queue-and-what-fixed-it-4fah)
 <!-- BLOG-POST-LIST:END -->
 
 
