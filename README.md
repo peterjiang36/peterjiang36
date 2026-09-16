@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Color Picker](https://dev.to/m_k_3e91d304a0353b0aa64b3/color-picker-4gfe)
-- [CVE-2026-42167: ProFTPD mod_sql RCE and How to Analyze the Exploit-DB PoC](https://dev.to/iamahacker/cve-2026-42167-proftpd-modsql-rce-and-how-to-analyze-the-exploit-db-poc-pkf)
-- [Zero Failures and Zero Tests Look the Same](https://dev.to/sergueyasaelshinder/zero-failures-and-zero-tests-look-the-same-241b)
-- [There Is No Repro for a Phone Call](https://dev.to/nabeelbaghoor/there-is-no-repro-for-a-phone-call-2d74)
+- [7 SMTP APIs Worth Knowing in 2026, and Where I&#39;d Start](https://dev.to/alexgeorgiev17/7-smtp-apis-worth-knowing-in-2026-and-where-id-start-34g4)
+- [How I Built a GNOME Utility to Disable My Laptop Keyboard &lpar;and What I Learned About Linux Input Devices&rpar;](https://dev.to/mikachu/how-i-built-a-gnome-utility-to-disable-my-laptop-keyboard-and-what-i-learned-about-linux-input-log)
+- [Turning Azure RBAC and Management Groups Into a Real Consulting Engagement](https://dev.to/degreatkhali/turning-azure-rbac-and-management-groups-into-a-real-consulting-engagement-18e9)
+- [What problems do we face as a Web Scraping Company?](https://dev.to/readysetscrape/what-problems-do-we-face-as-a-web-scraping-company-5i6)
 <!-- BLOG-POST-LIST:END -->
 
 
