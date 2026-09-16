@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Vendor&#39;s Benchmark Score Is Theater. Test It on Your Own Data.](https://dev.to/goodpa/your-ai-vendors-benchmark-score-is-theater-test-it-on-your-own-data-1e3b)
-- [How to Fine-Tune Nvidia Nemotron 3.5 ASR for Your Language, Domain, or Accent](https://dev.to/judy_miranttie/how-to-fine-tune-nvidia-nemotron-35-asr-for-your-language-domain-or-accent-2n8b)
-- [When Hobbyist Communities Push Back on LLMs: Technical Roots, Trade‑offs, and Practical Takeaways](https://dev.to/doykim0903/when-hobbyist-communities-push-back-on-llms-technical-roots-trade-offs-and-practical-takeaways-mm6)
-- [Almanak Launches: Vibecode a Live On-Chain Quant Strategy With One Sentence - But What I Really Care About Is How It Keeps Your Money From Blowing Up](https://dev.to/judy_miranttie/almanak-launches-vibecode-a-live-on-chain-quant-strategy-with-one-sentence-but-what-i-really-9aj)
+- [Color Picker](https://dev.to/m_k_3e91d304a0353b0aa64b3/color-picker-4gfe)
+- [CVE-2026-42167: ProFTPD mod_sql RCE and How to Analyze the Exploit-DB PoC](https://dev.to/iamahacker/cve-2026-42167-proftpd-modsql-rce-and-how-to-analyze-the-exploit-db-poc-pkf)
+- [Zero Failures and Zero Tests Look the Same](https://dev.to/sergueyasaelshinder/zero-failures-and-zero-tests-look-the-same-241b)
+- [There Is No Repro for a Phone Call](https://dev.to/nabeelbaghoor/there-is-no-repro-for-a-phone-call-2d74)
 <!-- BLOG-POST-LIST:END -->
 
 
