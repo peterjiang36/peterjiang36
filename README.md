@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Kubernetes Services with OAuth2 Proxy, Gateway API, Traefik, and Pocket ID](https://dev.to/alikhil/protect-kubernetes-services-with-oauth2-proxy-gateway-api-traefik-and-pocket-id-35mo)
-- [SetrixDB: a set engine in Go — exact set intersection over IDs &lpar;and where it loses&rpar;](https://dev.to/tgosoul/setrixdb-a-set-engine-in-go-exact-set-intersection-over-ids-and-where-it-loses-39dm)
-- [SetrixDB: motor de conjuntos em Go — interseção exata sobre IDs &lpar;e onde ele perde&rpar;](https://dev.to/tgosoul/setrixdb-motor-de-conjuntos-em-go-intersecao-exata-sobre-ids-e-onde-ele-perde-dic)
-- [I&#39;m Learning to Code — But I’m Learning Alone.”](https://dev.to/shabani_hamidu_8cb7f48c9a/im-learning-to-code-but-im-learning-alone-4nd1)
+- [Your AI Vendor&#39;s Benchmark Score Is Theater. Test It on Your Own Data.](https://dev.to/goodpa/your-ai-vendors-benchmark-score-is-theater-test-it-on-your-own-data-1e3b)
+- [How to Fine-Tune Nvidia Nemotron 3.5 ASR for Your Language, Domain, or Accent](https://dev.to/judy_miranttie/how-to-fine-tune-nvidia-nemotron-35-asr-for-your-language-domain-or-accent-2n8b)
+- [When Hobbyist Communities Push Back on LLMs: Technical Roots, Trade‑offs, and Practical Takeaways](https://dev.to/doykim0903/when-hobbyist-communities-push-back-on-llms-technical-roots-trade-offs-and-practical-takeaways-mm6)
+- [Almanak Launches: Vibecode a Live On-Chain Quant Strategy With One Sentence - But What I Really Care About Is How It Keeps Your Money From Blowing Up](https://dev.to/judy_miranttie/almanak-launches-vibecode-a-live-on-chain-quant-strategy-with-one-sentence-but-what-i-really-9aj)
 <!-- BLOG-POST-LIST:END -->
 
 
