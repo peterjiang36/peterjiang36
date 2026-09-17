@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Plugin count is a terrible way to size a WooCommerce migration. Here&#39;s the data.](https://dev.to/mufatech/plugin-count-is-a-terrible-way-to-size-a-woocommerce-migration-heres-the-data-4on9)
-- [Designing a Transactional Voice Agent for Latency, Safety, and Human Handoff](https://dev.to/madebymonogram/designing-a-transactional-voice-agent-for-latency-safety-and-human-handoff-2fac)
-- [Polymarket Order Book Imbalance: Reading Market Depth](https://dev.to/nagi777/polymarket-order-book-imbalance-reading-market-depth-1gea)
-- [Enterprise AI Observability Platforms: Architecture, Key Capabilities, and Evaluation Guide](https://dev.to/kuldeep_paul/enterprise-ai-observability-platforms-architecture-key-capabilities-and-evaluation-guide-23fc)
+- [FinOps na AWS: configurando o FinOps Agent e integrando com o Slack](https://dev.to/biancaszimanski/finops-na-aws-configurando-o-finops-agent-e-integrando-com-o-slack-4ah9)
+- [Your Calendar Invite Just Ordered Cupcakes: The Smart Home Agent Security Gap Nobody&#39;s Watching](https://dev.to/coridev/your-calendar-invite-just-ordered-cupcakes-the-smart-home-agent-security-gap-nobodys-watching-111e)
+- [I built a digital city where brands can own the advertising space](https://dev.to/inmukibuilds2/i-built-a-digital-city-where-brands-can-own-the-advertising-space-3dm3)
+- [Anthropic’s AI R&amp;D Measurements Point to a Broader Transparency Model](https://dev.to/alifar/anthropics-ai-rd-measurements-point-to-a-broader-transparency-model-39m4)
 <!-- BLOG-POST-LIST:END -->
 
 
