@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Can Build Software Faster Than Ever. But Can Users Actually Use It?](https://dev.to/parvejshah/we-can-build-software-faster-than-ever-but-can-users-actually-use-it-57cb)
-- [I put my notes in a private Git repo instead of a cloud notebook](https://dev.to/xbmlz/i-put-my-notes-in-a-private-git-repo-instead-of-a-cloud-notebook-io1)
-- [My LLM agents forget conversation history when I restart them, how do I fix this?](https://dev.to/izgorodin/my-llm-agents-forget-conversation-history-when-i-restart-them-how-do-i-fix-this-2c4c)
-- [Uma linha errada no sudoers e virei root](https://dev.to/pedrofoggiato/uma-linha-errada-no-sudoers-e-virei-root-5cmc)
+- [I put a whole Laravel app inside php-wasm on a phone. Here is what broke.](https://dev.to/jeffsynister/i-put-a-whole-laravel-app-inside-php-wasm-on-a-phone-here-is-what-broke-29pc)
+- [Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6)
+- [AWS Compute Explained: EC2 vs ECS vs Fargate vs Lambda, and When to Use Which](https://dev.to/muskan_bandta/aws-compute-explained-ec2-vs-ecs-vs-fargate-vs-lambda-and-when-to-use-which-2nc8)
+- [Tradesired: Why Is the WebTrader Actually Good?](https://dev.to/henrikvol/tradesired-why-is-the-webtrader-actually-good-5463)
 <!-- BLOG-POST-LIST:END -->
 
 
