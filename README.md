@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I put a whole Laravel app inside php-wasm on a phone. Here is what broke.](https://dev.to/jeffsynister/i-put-a-whole-laravel-app-inside-php-wasm-on-a-phone-here-is-what-broke-29pc)
-- [Stop Debouncing Resize. The Browser Already Watches It.](https://dev.to/parsajiravand/stop-debouncing-resize-the-browser-already-watches-it-1eh6)
-- [AWS Compute Explained: EC2 vs ECS vs Fargate vs Lambda, and When to Use Which](https://dev.to/muskan_bandta/aws-compute-explained-ec2-vs-ecs-vs-fargate-vs-lambda-and-when-to-use-which-2nc8)
-- [Tradesired: Why Is the WebTrader Actually Good?](https://dev.to/henrikvol/tradesired-why-is-the-webtrader-actually-good-5463)
+- [How I Use the Pocket AI Recorder for Meetings, Ideas, and Life](https://dev.to/webofmike/how-i-use-the-pocket-ai-recorder-for-meetings-ideas-and-life-4ac6)
+- [I Built FinderBack: Back &amp; Forward Navigation in Finder’s Right-Click Menu](https://dev.to/fdse_4a0dee0021ad861d6def/i-built-finderback-back-forward-navigation-in-finders-right-click-menu-5b1i)
+- [What If Your Coding Agent Could Remember What It Learned Yesterday?](https://dev.to/nishikantaray/what-if-your-coding-agent-could-remember-what-it-learned-yesterday-2okj)
+- [AODM: AI Optimized Data Markup](https://dev.to/fucaspark/aodm-ai-optimized-data-markup-3h5b)
 <!-- BLOG-POST-LIST:END -->
 
 
