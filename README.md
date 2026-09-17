@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy-First AI: Fine-Tuning Llama-3 on Your MacBook to Decipher 10 Years of Health Reports](https://dev.to/beck_moulton/privacy-first-ai-fine-tuning-llama-3-on-your-macbook-to-decipher-10-years-of-health-reports-jcb)
-- [HTTP Status Code Basics: What 200/301/403/500 Actually Mean for Maintenance Tools](https://dev.to/susumun/http-status-code-basics-what-200301403500-actually-mean-for-maintenance-tools-424a)
-- [CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)
-- [How Do Verified Sending Domains, Webhooks, and Logs Work in an Email API?](https://dev.to/sohom_47/how-do-verified-sending-domains-webhooks-and-logs-work-in-an-email-api-1lj9)
+- [We Can Build Software Faster Than Ever. But Can Users Actually Use It?](https://dev.to/parvejshah/we-can-build-software-faster-than-ever-but-can-users-actually-use-it-57cb)
+- [I put my notes in a private Git repo instead of a cloud notebook](https://dev.to/xbmlz/i-put-my-notes-in-a-private-git-repo-instead-of-a-cloud-notebook-io1)
+- [My LLM agents forget conversation history when I restart them, how do I fix this?](https://dev.to/izgorodin/my-llm-agents-forget-conversation-history-when-i-restart-them-how-do-i-fix-this-2c4c)
+- [Uma linha errada no sudoers e virei root](https://dev.to/pedrofoggiato/uma-linha-errada-no-sudoers-e-virei-root-5cmc)
 <!-- BLOG-POST-LIST:END -->
 
 
