@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Supply Chain Compromises: 7 Entry Points Your Security Review Probably Misses](https://dev.to/wasa-confidence/ai-supply-chain-compromises-7-entry-points-your-security-review-probably-misses-29o6)
-- [When AI Agents Start Begging for $20: What the Latest Spam Wave Reveals About Their Workflow](https://dev.to/techsignaldaily/when-ai-agents-start-begging-for-20-what-the-latest-spam-wave-reveals-about-their-workflow-kci)
-- [The original Agile Manifesto was a simple set of values. Extending endless theories to optimize the framework misses the point, what should be optimized is the work itself.](https://dev.to/mxi_studio/the-original-agile-manifesto-was-a-simple-set-of-values-extending-endless-theories-to-optimize-the-1gmb)
-- [AI in testing: from manual checks to a smart workflow](https://dev.to/denis_dta/ai-in-testing-from-manual-checks-to-a-smart-workflow-4b4a)
+- [Privacy-First AI: Fine-Tuning Llama-3 on Your MacBook to Decipher 10 Years of Health Reports](https://dev.to/beck_moulton/privacy-first-ai-fine-tuning-llama-3-on-your-macbook-to-decipher-10-years-of-health-reports-jcb)
+- [HTTP Status Code Basics: What 200/301/403/500 Actually Mean for Maintenance Tools](https://dev.to/susumun/http-status-code-basics-what-200301403500-actually-mean-for-maintenance-tools-424a)
+- [CPU Looks Fine but the VDS Is Slow: A Linux Incident Runbook](https://dev.to/eniyisunucum/cpu-looks-fine-but-the-vds-is-slow-a-linux-incident-runbook-3iha)
+- [How Do Verified Sending Domains, Webhooks, and Logs Work in an Email API?](https://dev.to/sohom_47/how-do-verified-sending-domains-webhooks-and-logs-work-in-an-email-api-1lj9)
 <!-- BLOG-POST-LIST:END -->
 
 
