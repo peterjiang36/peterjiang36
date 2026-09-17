@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use the Pocket AI Recorder for Meetings, Ideas, and Life](https://dev.to/webofmike/how-i-use-the-pocket-ai-recorder-for-meetings-ideas-and-life-4ac6)
-- [I Built FinderBack: Back &amp; Forward Navigation in Finder’s Right-Click Menu](https://dev.to/fdse_4a0dee0021ad861d6def/i-built-finderback-back-forward-navigation-in-finders-right-click-menu-5b1i)
-- [What If Your Coding Agent Could Remember What It Learned Yesterday?](https://dev.to/nishikantaray/what-if-your-coding-agent-could-remember-what-it-learned-yesterday-2okj)
-- [AODM: AI Optimized Data Markup](https://dev.to/fucaspark/aodm-ai-optimized-data-markup-3h5b)
+- [Plugin count is a terrible way to size a WooCommerce migration. Here&#39;s the data.](https://dev.to/mufatech/plugin-count-is-a-terrible-way-to-size-a-woocommerce-migration-heres-the-data-4on9)
+- [Designing a Transactional Voice Agent for Latency, Safety, and Human Handoff](https://dev.to/madebymonogram/designing-a-transactional-voice-agent-for-latency-safety-and-human-handoff-2fac)
+- [Polymarket Order Book Imbalance: Reading Market Depth](https://dev.to/nagi777/polymarket-order-book-imbalance-reading-market-depth-1gea)
+- [Enterprise AI Observability Platforms: Architecture, Key Capabilities, and Evaluation Guide](https://dev.to/kuldeep_paul/enterprise-ai-observability-platforms-architecture-key-capabilities-and-evaluation-guide-23fc)
 <!-- BLOG-POST-LIST:END -->
 
 
