@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Chromium in Docker without --no-sandbox: what actually breaks](https://dev.to/pdfik/chromium-in-docker-without-no-sandbox-what-actually-breaks-437l)
-- [From Java 8 to Java 25: the language you think you know no longer exists](https://dev.to/gaston_herrlein_3baa4d62e/from-java-8-to-java-25-the-language-you-think-you-know-no-longer-exists-4ocg)
-- [CSS Position Property - Beginner level](https://dev.to/mvarshith/css-position-property-beginner-level-1dbn)
-- [💻 A Full-Fledged Trading Engine for the Node.js Ecosystem](https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj)
+- [Expose Crypto KAT Runners as MCP Tools Instead of Pasting Hex](https://dev.to/infracore/expose-crypto-kat-runners-as-mcp-tools-instead-of-pasting-hex-122l)
+- [The shell one-liners everyone pastes but nobody explains](https://dev.to/aurelionakamura/the-shell-one-liners-everyone-pastes-but-nobody-explains-2f53)
+- [A test that has never failed is a claim, not evidence](https://dev.to/arnauferma/a-test-that-has-never-failed-is-a-claim-not-evidence-56ao)
+- [Shipping a multilingual Flutter AI therapist: Gemini first, Claude as fallback](https://dev.to/safespaceapp/shipping-a-multilingual-flutter-ai-therapist-gemini-first-claude-as-fallback-34fd)
 <!-- BLOG-POST-LIST:END -->
 
 
