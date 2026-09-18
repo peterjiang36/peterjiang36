@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Customer Support DNS: Migrate a Zone with 4-Gate Diff Before Nameservers](https://dev.to/winslowknight8469/customer-support-dns-migrate-a-zone-with-4-gate-diff-before-nameservers-1de1)
-- [How to Reconcile Tenant Tables Against Live DNS Lists: Node.js Drift Detection 2026](https://dev.to/garrisonsterling2693/how-to-reconcile-tenant-tables-against-live-dns-lists-nodejs-drift-detection-2026-ibd)
-- [Google Indexed 13 Pages of My Side Project. I Still Got 1 Click This Week.](https://dev.to/dev_92229c6d388df719/google-indexed-13-pages-of-my-side-project-i-still-got-1-click-this-week-i5)
-- [สร้าง MCP server ให้พร้อม production: 7 เรื่องที่ tutorial ไม่บอก](https://dev.to/sarantoon/sraang-mcp-server-aihphrm-production-7-eruuengthii-tutorial-aimbk-b4)
+- [Your App Shouldn&#39;t Need the Internet to Do Its Job](https://dev.to/abdullah_tayyab_dev/your-app-shouldnt-need-the-internet-to-do-its-job-6hi)
+- [The LINQ Query That Never Runs &lpar;Until You Force It&rpar;](https://dev.to/homolibere/the-linq-query-that-never-runs-until-you-force-it-2joe)
+- [Cisco&#39;s two exploited flaws and CISA&#39;s patch clock](https://dev.to/analista_83/ciscos-two-exploited-flaws-and-cisas-patch-clock-4m12)
+- [Your Agent&#39;s Retry Logic Is an Event-Driven Systems Problem](https://dev.to/kharesam/your-agents-retry-logic-is-an-event-driven-systems-problem-3mdp)
 <!-- BLOG-POST-LIST:END -->
 
 
