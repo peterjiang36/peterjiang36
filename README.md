@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your App Shouldn&#39;t Need the Internet to Do Its Job](https://dev.to/abdullah_tayyab_dev/your-app-shouldnt-need-the-internet-to-do-its-job-6hi)
-- [The LINQ Query That Never Runs &lpar;Until You Force It&rpar;](https://dev.to/homolibere/the-linq-query-that-never-runs-until-you-force-it-2joe)
-- [Cisco&#39;s two exploited flaws and CISA&#39;s patch clock](https://dev.to/analista_83/ciscos-two-exploited-flaws-and-cisas-patch-clock-4m12)
-- [Your Agent&#39;s Retry Logic Is an Event-Driven Systems Problem](https://dev.to/kharesam/your-agents-retry-logic-is-an-event-driven-systems-problem-3mdp)
+- [How to set up a UAT environment that doesn&#39;t lie to you](https://dev.to/bugzyio/how-to-set-up-a-uat-environment-that-doesnt-lie-to-you-10fi)
+- [What happens when the vendor changes the deal](https://dev.to/nebosa_company_0edc92e18b/what-happens-when-the-vendor-changes-the-deal-2g80)
+- [Building an Asset Store for Limn Engine](https://dev.to/adenolaadefemitech/building-an-asset-store-for-limn-engine-57f0)
+- [Building a Logging Platform](https://dev.to/derekmwale/building-a-logging-platform-19d7)
 <!-- BLOG-POST-LIST:END -->
 
 
