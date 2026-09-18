@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up a UAT environment that doesn&#39;t lie to you](https://dev.to/bugzyio/how-to-set-up-a-uat-environment-that-doesnt-lie-to-you-10fi)
-- [What happens when the vendor changes the deal](https://dev.to/nebosa_company_0edc92e18b/what-happens-when-the-vendor-changes-the-deal-2g80)
-- [Building an Asset Store for Limn Engine](https://dev.to/adenolaadefemitech/building-an-asset-store-for-limn-engine-57f0)
-- [Building a Logging Platform](https://dev.to/derekmwale/building-a-logging-platform-19d7)
+- [Chromium in Docker without --no-sandbox: what actually breaks](https://dev.to/pdfik/chromium-in-docker-without-no-sandbox-what-actually-breaks-437l)
+- [From Java 8 to Java 25: the language you think you know no longer exists](https://dev.to/gaston_herrlein_3baa4d62e/from-java-8-to-java-25-the-language-you-think-you-know-no-longer-exists-4ocg)
+- [CSS Position Property - Beginner level](https://dev.to/mvarshith/css-position-property-beginner-level-1dbn)
+- [💻 A Full-Fledged Trading Engine for the Node.js Ecosystem](https://dev.to/tripolskypetr/a-full-fledged-trading-engine-for-the-nodejs-ecosystem-36pj)
 <!-- BLOG-POST-LIST:END -->
 
 
