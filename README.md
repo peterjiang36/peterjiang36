@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FinOps na AWS: configurando o FinOps Agent e integrando com o Slack](https://dev.to/biancaszimanski/finops-na-aws-configurando-o-finops-agent-e-integrando-com-o-slack-4ah9)
-- [Your Calendar Invite Just Ordered Cupcakes: The Smart Home Agent Security Gap Nobody&#39;s Watching](https://dev.to/coridev/your-calendar-invite-just-ordered-cupcakes-the-smart-home-agent-security-gap-nobodys-watching-111e)
-- [I built a digital city where brands can own the advertising space](https://dev.to/inmukibuilds2/i-built-a-digital-city-where-brands-can-own-the-advertising-space-3dm3)
-- [Anthropic’s AI R&amp;D Measurements Point to a Broader Transparency Model](https://dev.to/alifar/anthropics-ai-rd-measurements-point-to-a-broader-transparency-model-39m4)
+- [Customer Support DNS: Migrate a Zone with 4-Gate Diff Before Nameservers](https://dev.to/winslowknight8469/customer-support-dns-migrate-a-zone-with-4-gate-diff-before-nameservers-1de1)
+- [How to Reconcile Tenant Tables Against Live DNS Lists: Node.js Drift Detection 2026](https://dev.to/garrisonsterling2693/how-to-reconcile-tenant-tables-against-live-dns-lists-nodejs-drift-detection-2026-ibd)
+- [Google Indexed 13 Pages of My Side Project. I Still Got 1 Click This Week.](https://dev.to/dev_92229c6d388df719/google-indexed-13-pages-of-my-side-project-i-still-got-1-click-this-week-i5)
+- [สร้าง MCP server ให้พร้อม production: 7 เรื่องที่ tutorial ไม่บอก](https://dev.to/sarantoon/sraang-mcp-server-aihphrm-production-7-eruuengthii-tutorial-aimbk-b4)
 <!-- BLOG-POST-LIST:END -->
 
 
