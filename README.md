@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter OTA Updates with Shorebird](https://dev.to/rshnkunwar/flutter-ota-updates-with-shorebird-2fo3)
-- [I built a unique ID generator that&#39;s ~60% faster than nanoid](https://dev.to/spmaxwell7/i-built-a-unique-id-generator-thats-60-faster-than-nanoid-1aan)
-- [My Journey in Python: Week 1 with Akwannya Hub Skill Pod &lpar;Cohort 1&rpar;](https://dev.to/el1107/my-journey-in-python-week-1-with-akwannya-hub-skill-pod-cohort-1-19l6)
-- [Your Cypress Retry Passed - But the Test Is Still Telling You Something](https://dev.to/raju_dandigam/your-cypress-retry-passed-but-the-test-is-still-telling-you-something-37hf)
+- [Desmistificando a Inteligência Artificial: O que é, Principais Características e Como Funciona na Prática 🚀](https://dev.to/mateus_paulo_25/desmistificando-a-inteligencia-artificial-o-que-e-principais-caracteristicas-e-como-funciona-na-1n48)
+- [Two Agents, Not Five](https://dev.to/remuslazar/two-agents-not-five-3pnc)
+- [I open-sourced 3 small Node utilities I pulled out of building an edtech platform](https://dev.to/ram_chandragiri/i-open-sourced-3-small-node-utilities-i-pulled-out-of-building-an-edtech-platform-28jd)
+- [500 programmatic pages, 15 days live — here are all the numbers, including the 6 clicks](https://dev.to/quantumcxaishipit/500-programmatic-pages-15-days-live-here-are-all-the-numbers-including-the-6-clicks-47m1)
 <!-- BLOG-POST-LIST:END -->
 
 
