@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Interface a MicroSD Card Module with Arduino UNO](https://dev.to/play_withcircuit_241ef87/interface-a-microsd-card-module-with-arduino-uno-big)
-- [Introducing Kueon: Why I Built It](https://dev.to/anishghimire862/introducing-kueon-why-i-built-it-20af)
-- [Transitive dependencies explained: why a package you never installed can still break your build](https://dev.to/rushabh5000/transitive-dependencies-explained-why-a-package-you-never-installed-can-still-break-your-build-6hn)
-- [How Symmetric Encryption &lpar;Fernet&rpar; Keeps Local Credentials Safe on Disk](https://dev.to/susumun/how-symmetric-encryption-fernet-keeps-local-credentials-safe-on-disk-38bk)
+- [How TOTP Authenticator Apps Work?](https://dev.to/biswasprasana001/how-totp-authenticator-apps-work-19bg)
+- [Gemini 4 หลุด แต่ paper ที่ Google เพิ่งตีพิมพ์ตรวจสอบได้ทุกตัวเลข](https://dev.to/sarantoon/gemini-4-hlud-aet-paper-thii-google-ephingtiiphimphtrwcchsbaidthuktawelkh-21m0)
+- [Nostra Finance $3.5M Exploit: How an 8,000x Oracle Pump Drained a Starknet Money Market](https://dev.to/qanzhi111/nostra-finance-35m-exploit-how-an-8000x-oracle-pump-drained-a-starknet-money-market-2h2l)
+- [I&#39;m building a scripting language for whiteboard animations](https://dev.to/laakri/im-building-a-scripting-language-for-whiteboard-animations-21gb)
 <!-- BLOG-POST-LIST:END -->
 
 
