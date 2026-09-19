@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Senior Engineering is Not Making Code Work. It&#39;s Deciding How It Fails.](https://dev.to/tarikmostafa_abohagar_c01/senior-engineering-is-not-making-code-work-its-deciding-how-it-fails-112d)
-- [The quiet DoS bug in Cisco&#39;s email gateway hardening release](https://dev.to/jeffreyciend/the-quiet-dos-bug-in-ciscos-email-gateway-hardening-release-33pg)
-- [Vendor Concentration Risk Explained Through Warm Second Provider Invoice Reconciliation Drills](https://dev.to/ferdinandblake3517/vendor-concentration-risk-explained-through-warm-second-provider-invoice-reconciliation-drills-234l)
-- [Job-Hunting With a Resume That Doesn&#39;t Look Like a Resume](https://dev.to/mikachu/job-hunting-with-a-resume-that-doesnt-look-like-a-resume-4emi)
+- [Interface a MicroSD Card Module with Arduino UNO](https://dev.to/play_withcircuit_241ef87/interface-a-microsd-card-module-with-arduino-uno-big)
+- [Introducing Kueon: Why I Built It](https://dev.to/anishghimire862/introducing-kueon-why-i-built-it-20af)
+- [Transitive dependencies explained: why a package you never installed can still break your build](https://dev.to/rushabh5000/transitive-dependencies-explained-why-a-package-you-never-installed-can-still-break-your-build-6hn)
+- [How Symmetric Encryption &lpar;Fernet&rpar; Keeps Local Credentials Safe on Disk](https://dev.to/susumun/how-symmetric-encryption-fernet-keeps-local-credentials-safe-on-disk-38bk)
 <!-- BLOG-POST-LIST:END -->
 
 
