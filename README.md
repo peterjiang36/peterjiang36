@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Gzip 1.15 fixes a wrong-file deletion race](https://dev.to/techaiwire/gzip-115-fixes-a-wrong-file-deletion-race-30a5)
-- [When the Same Reference Data Lives in Three Services: Why We Moved It into a Dedicated Service](https://dev.to/denis_toropov_41dbbe80185/when-the-same-reference-data-lives-in-three-services-why-we-moved-it-into-a-dedicated-service-2ll6)
-- [What Happens When You Merge Two Artificial Individuals?](https://dev.to/constant_itis/what-happens-when-you-merge-two-artificial-individuals-462)
-- [What Is llms.txt? How to Set It Up on WordPress &lpar;2026 Guide&rpar;](https://dev.to/lutsiukdaniildesign/what-is-llmstxt-how-to-set-it-up-on-wordpress-2026-guide-1ehd)
+- [Why React &amp; Next.js Users Get `ChunkLoadError` After Deployment — And How to Fix It](https://dev.to/abanoubkerols/why-react-nextjs-users-get-chunkloaderror-after-deployment-and-how-to-fix-it-5f87)
+- [Week 14 of #100DaysOfCode: Completing JUnit 5 and Starting a New Portfolio](https://dev.to/onatade_abdulmajeed/week-14-of-100daysofcode-completing-junit-5-and-starting-a-new-portfolio-4eeb)
+- [O mesmo pedido chegou quatro vezes. O SQS não estava errado](https://dev.to/rodolfocoding/o-mesmo-pedido-chegou-quatro-vezes-o-sqs-nao-estava-errado-211m)
+- [Finally Teaching Python to Think 🐍](https://dev.to/nelly_gitonga/-im-finally-teaching-python-to-think-7dk)
 <!-- BLOG-POST-LIST:END -->
 
 
