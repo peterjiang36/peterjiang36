@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Writes Need Risk Tiers: The R0-R5 Tool Risk Model](https://dev.to/rain6fish/why-ai-writes-need-risk-tiers-the-r0-r5-tool-risk-model-105k)
-- [The Gemini breakout verdict has to come from the boundary, not the model&#39;s mouth](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-verdict-has-to-come-from-the-boundary-not-the-models-mouth-k62)
-- [A code review benchmark that isn&#39;t the vendor ranking itself](https://dev.to/tessainsley/a-code-review-benchmark-that-isnt-the-vendor-ranking-itself-4jp6)
-- [The Gemini breakout is a judge problem, not a jailbreak problem](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-is-a-judge-problem-not-a-jailbreak-problem-3b4)
+- [The Hard Part Wasn’t Building More AI Features. It Was Connecting Their Outputs](https://dev.to/warrenshi/the-hard-part-wasnt-building-more-ai-features-it-was-connecting-their-outputs-34j)
+- [Building a REST API Client with Java HttpClient + Jackson](https://dev.to/deividas-strole/building-a-rest-api-client-with-java-httpclient-jackson-p8m)
+- [Jev เร็ว 200 เท่า เพราะเขียนข้อความไม่ได้ และนั่นคือประเด็น](https://dev.to/sarantoon/jev-erw-200-ethaa-ephraaaekhiiynkhkhwaamaimaid-aelanankhuuepraedn-38f1)
+- [OpenAI&#39;s GPT-5.6 Sol Sets New Record: Sub-100ms Response Time Changes Everything](https://dev.to/kd_jiang_cb6ed42090a6f3f5/openais-gpt-56-sol-sets-new-record-sub-100ms-response-time-changes-everything-ooe)
 <!-- BLOG-POST-LIST:END -->
 
 
