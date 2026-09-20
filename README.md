@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Exact Match Or Fuzzy Logic For OFAC? 1,400 Tests Changed My Mind.](https://dev.to/onizuka/exact-match-or-fuzzy-logic-for-ofac-1400-tests-changed-my-mind-2pbm)
-- [Your Agent&#39;s Memory Is an Attack Surface](https://dev.to/constant_itis/your-agents-memory-is-an-attack-surface-3kdg)
-- [DockFlare: Docker labels, Cloudflare Tunnels, and a little less dashboard clicking](https://dev.to/chrispybacondev/dockflare-docker-labels-cloudflare-tunnels-and-a-little-less-dashboard-clicking-3i29)
-- [I Tried to Build a Bengali Voice Dialer for Android. Here Is What Actually Happened and How I Finally got it right.](https://dev.to/devksarkar/i-tried-to-build-a-bengali-voice-dialer-for-android-here-is-what-actually-happened-and-how-i-40ak)
+- [Gzip 1.15 fixes a wrong-file deletion race](https://dev.to/techaiwire/gzip-115-fixes-a-wrong-file-deletion-race-30a5)
+- [When the Same Reference Data Lives in Three Services: Why We Moved It into a Dedicated Service](https://dev.to/denis_toropov_41dbbe80185/when-the-same-reference-data-lives-in-three-services-why-we-moved-it-into-a-dedicated-service-2ll6)
+- [What Happens When You Merge Two Artificial Individuals?](https://dev.to/constant_itis/what-happens-when-you-merge-two-artificial-individuals-462)
+- [What Is llms.txt? How to Set It Up on WordPress &lpar;2026 Guide&rpar;](https://dev.to/lutsiukdaniildesign/what-is-llmstxt-how-to-set-it-up-on-wordpress-2026-guide-1ehd)
 <!-- BLOG-POST-LIST:END -->
 
 
