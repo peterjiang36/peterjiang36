@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your API Returned 200 OK. Your AI Agent Still Failed.](https://dev.to/sudhanshu_thakur_/your-api-returned-200-ok-your-ai-agent-still-failed-147g)
-- [PI-Desktop: A local-first workspace for AI coding agents](https://dev.to/vastsa/pi-desktop-a-local-first-workspace-for-ai-coding-agents-1f3p)
-- [Building a Real-Time Football Live Score &amp; Standings App with Nuxt 3](https://dev.to/cocatips/building-a-real-time-football-live-score-standings-app-with-nuxt-3-3249)
-- [How I Built a Fully Client-Side QR Code Generator &lpar;And Why I Avoided a Backend&rpar;](https://dev.to/saazone_studio/how-i-built-a-fully-client-side-qr-code-generator-and-why-i-avoided-a-backend-4oee)
+- [Exact Match Or Fuzzy Logic For OFAC? 1,400 Tests Changed My Mind.](https://dev.to/onizuka/exact-match-or-fuzzy-logic-for-ofac-1400-tests-changed-my-mind-2pbm)
+- [Your Agent&#39;s Memory Is an Attack Surface](https://dev.to/constant_itis/your-agents-memory-is-an-attack-surface-3kdg)
+- [DockFlare: Docker labels, Cloudflare Tunnels, and a little less dashboard clicking](https://dev.to/chrispybacondev/dockflare-docker-labels-cloudflare-tunnels-and-a-little-less-dashboard-clicking-3i29)
+- [I Tried to Build a Bengali Voice Dialer for Android. Here Is What Actually Happened and How I Finally got it right.](https://dev.to/devksarkar/i-tried-to-build-a-bengali-voice-dialer-for-android-here-is-what-actually-happened-and-how-i-40ak)
 <!-- BLOG-POST-LIST:END -->
 
 
