@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hard Part Wasn’t Building More AI Features. It Was Connecting Their Outputs](https://dev.to/warrenshi/the-hard-part-wasnt-building-more-ai-features-it-was-connecting-their-outputs-34j)
-- [Building a REST API Client with Java HttpClient + Jackson](https://dev.to/deividas-strole/building-a-rest-api-client-with-java-httpclient-jackson-p8m)
-- [Jev เร็ว 200 เท่า เพราะเขียนข้อความไม่ได้ และนั่นคือประเด็น](https://dev.to/sarantoon/jev-erw-200-ethaa-ephraaaekhiiynkhkhwaamaimaid-aelanankhuuepraedn-38f1)
-- [OpenAI&#39;s GPT-5.6 Sol Sets New Record: Sub-100ms Response Time Changes Everything](https://dev.to/kd_jiang_cb6ed42090a6f3f5/openais-gpt-56-sol-sets-new-record-sub-100ms-response-time-changes-everything-ooe)
+- [Your API Returned 200 OK. Your AI Agent Still Failed.](https://dev.to/sudhanshu_thakur_/your-api-returned-200-ok-your-ai-agent-still-failed-147g)
+- [PI-Desktop: A local-first workspace for AI coding agents](https://dev.to/vastsa/pi-desktop-a-local-first-workspace-for-ai-coding-agents-1f3p)
+- [Building a Real-Time Football Live Score &amp; Standings App with Nuxt 3](https://dev.to/cocatips/building-a-real-time-football-live-score-standings-app-with-nuxt-3-3249)
+- [How I Built a Fully Client-Side QR Code Generator &lpar;And Why I Avoided a Backend&rpar;](https://dev.to/saazone_studio/how-i-built-a-fully-client-side-qr-code-generator-and-why-i-avoided-a-backend-4oee)
 <!-- BLOG-POST-LIST:END -->
 
 
