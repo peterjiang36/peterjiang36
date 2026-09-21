@@ -74,10 +74,12 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bespoke CRM &amp; ERP Development: Build vs Buy Guide 2026](https://dev.to/mecanik-dev/bespoke-crm-erp-development-build-vs-buy-guide-2026-341m)
-- [The Night Our Server Got Owned — and Why I Built DevCompass](https://dev.to/ajaybthorat20/the-night-our-server-got-owned-and-why-i-built-devcompass-1kbi)
-- [I automated most of my DB Admin job — then open-sourced it!](https://dev.to/that_dba_guy/i-automated-most-of-my-db-admin-job-then-open-sourced-it-4dfk)
-- [When A Legitimate Sounding Request Quietly Breaks The Bot&#39;s Actual Scope](https://dev.to/faraz_farhan_83ed23a154a2/when-a-legitimate-sounding-request-quietly-breaks-the-bots-actual-scope-55jn)
+- [I can&#39;t believe it, but I&#39;ve been actively writing articles for two years now.
+
+A huge thank you to dev.to for the opportunity to create content!](https://dev.to/anthonymax/i-cant-believe-it-but-ive-been-actively-writing-articles-for-two-years-now-a-huge-thank-you-37ln)
+- [What AI Can and Can&#39;t Take off Your Integration Team&#39;s Plate](https://dev.to/glassesramone1234/what-ai-can-and-cant-take-off-your-integration-teams-plate-578a)
+- [Pin the Patch Contract, Not the Model](https://dev.to/codepro_4664/pin-the-patch-contract-not-the-model-2k4c)
+- [LINUX IS SO HARD ...SAID EVERYONE WHO NEVER TRIED IT](https://dev.to/whitneym/linux-is-so-hard-said-everyone-who-never-tried-it-4h39)
 <!-- BLOG-POST-LIST:END -->
 
 
