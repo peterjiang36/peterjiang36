@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Ditched Pomodoro for the 50/10 Protocol &lpar;And How It Fixed My Deep Work&rpar;](https://dev.to/silentruntime/why-i-ditched-pomodoro-for-the-5010-protocol-and-how-it-fixed-my-deep-work-16ml)
-- [What If AI Works Too Well?](https://dev.to/ewanderson_flaviano/what-if-ai-works-too-well-3dkl)
-- [Semantic Versioning &lpar;SemVer&rpar;: Why Version Numbers Have Three Parts](https://dev.to/susumun/semantic-versioning-semver-why-version-numbers-have-three-parts-1f74)
-- [WebRTC at Scale](https://dev.to/karanpratapsingh/webrtc-at-scale-2di1)
+- [Bespoke CRM &amp; ERP Development: Build vs Buy Guide 2026](https://dev.to/mecanik-dev/bespoke-crm-erp-development-build-vs-buy-guide-2026-341m)
+- [The Night Our Server Got Owned — and Why I Built DevCompass](https://dev.to/ajaybthorat20/the-night-our-server-got-owned-and-why-i-built-devcompass-1kbi)
+- [I automated most of my DB Admin job — then open-sourced it!](https://dev.to/that_dba_guy/i-automated-most-of-my-db-admin-job-then-open-sourced-it-4dfk)
+- [When A Legitimate Sounding Request Quietly Breaks The Bot&#39;s Actual Scope](https://dev.to/faraz_farhan_83ed23a154a2/when-a-legitimate-sounding-request-quietly-breaks-the-bots-actual-scope-55jn)
 <!-- BLOG-POST-LIST:END -->
 
 
