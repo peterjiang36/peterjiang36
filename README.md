@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The same corpus told me two different things, and only one of them was checkable](https://dev.to/cyberttopic/the-same-corpus-told-me-two-different-things-and-only-one-of-them-was-checkable-4ffb)
-- [Australian RAM and SSD prices climb as stock tightens](https://dev.to/techaiwire/australian-ram-and-ssd-prices-climb-as-stock-tightens-228f)
-- [Engineering a Pomodoro Cycle That Survives Meetings, Slack, and Deep Work](https://dev.to/lizely/engineering-a-pomodoro-cycle-that-survives-meetings-slack-and-deep-work-3434)
-- [React Mental Models 2](https://dev.to/dtofficial/react-mental-models-2-4lfn)
+- [CVE-2026–17633 - Authenticated RCE in Langflow OSS via /api/v1/custom_component](https://dev.to/guidance_white/cve-2026-17633-authenticated-rce-in-langflow-oss-via-apiv1customcomponent-5baj)
+- [Your First Factory: GtkListView and the Bind/Unbind Rhythm](https://dev.to/fromthearchitect/your-first-factory-gtklistview-and-the-bindunbind-rhythm-4c1d)
+- [You&#39;re not an impostor, you just started from a different line](https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph)
+- [Translated captions in a Chrome extension: tab audio in MV3, and one stream instead of two services](https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3)
 <!-- BLOG-POST-LIST:END -->
 
 
