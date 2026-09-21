@@ -74,12 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I can&#39;t believe it, but I&#39;ve been actively writing articles for two years now.
-
-A huge thank you to dev.to for the opportunity to create content!](https://dev.to/anthonymax/i-cant-believe-it-but-ive-been-actively-writing-articles-for-two-years-now-a-huge-thank-you-37ln)
-- [What AI Can and Can&#39;t Take off Your Integration Team&#39;s Plate](https://dev.to/glassesramone1234/what-ai-can-and-cant-take-off-your-integration-teams-plate-578a)
-- [Pin the Patch Contract, Not the Model](https://dev.to/codepro_4664/pin-the-patch-contract-not-the-model-2k4c)
-- [LINUX IS SO HARD ...SAID EVERYONE WHO NEVER TRIED IT](https://dev.to/whitneym/linux-is-so-hard-said-everyone-who-never-tried-it-4h39)
+- [The same corpus told me two different things, and only one of them was checkable](https://dev.to/cyberttopic/the-same-corpus-told-me-two-different-things-and-only-one-of-them-was-checkable-4ffb)
+- [Australian RAM and SSD prices climb as stock tightens](https://dev.to/techaiwire/australian-ram-and-ssd-prices-climb-as-stock-tightens-228f)
+- [Engineering a Pomodoro Cycle That Survives Meetings, Slack, and Deep Work](https://dev.to/lizely/engineering-a-pomodoro-cycle-that-survives-meetings-slack-and-deep-work-3434)
+- [React Mental Models 2](https://dev.to/dtofficial/react-mental-models-2-4lfn)
 <!-- BLOG-POST-LIST:END -->
 
 
