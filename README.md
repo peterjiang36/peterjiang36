@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyword Research with AI Agents and Google Search Console](https://dev.to/seppegadeyne/keyword-research-with-ai-agents-and-google-search-console-4nl7)
-- [I measured what ranks an Apify Actor. It is not your title.](https://dev.to/dododata/i-measured-what-ranks-an-apify-actor-it-is-not-your-title-1dla)
-- [8 of my AI agent&#39;s 30 test calls failed. Every one was my fault.](https://dev.to/rizkynandapr/8-of-my-ai-agents-30-test-calls-failed-every-one-was-my-fault-3kff)
-- [One Belief Per Fact: Building Agent Memory for Users Who Change Their Minds](https://dev.to/nasiko_labs/one-belief-per-fact-building-agent-memory-for-users-who-change-their-minds-19i5)
+- [What to Instrument, Test, Monitor Before Shipping a Support Chatbot](https://dev.to/vasyl_popovych_37a71efb3d/what-to-instrument-test-monitor-before-shipping-a-support-chatbot-42ea)
+- [Treat Client Timeout as an In-Doubt Lease Before You Replay Shared Tool Calls](https://dev.to/robinzzz/treat-client-timeout-as-an-in-doubt-lease-before-you-replay-shared-tool-calls-25fg)
+- [Your AI had questions. It answered them in the code.](https://dev.to/knopfdruck/your-ai-had-questions-it-answered-them-in-the-code-1jo3)
+- [OpenSparrow v3.8: Roadmap &lpar;Gantt&rpar; module and new style grid](https://dev.to/wrobeltomasz/opensparrow-v38-roadmap-gantt-module-and-new-style-grid-4mei)
 <!-- BLOG-POST-LIST:END -->
 
 
