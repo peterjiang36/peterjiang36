@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wrote the Code This Time. Does It Count If the Answer Was Wrong?](https://dev.to/earlgreyhot1701d/i-wrote-the-code-this-time-does-it-count-if-the-answer-was-wrong-1f2k)
-- [기술 자료를 신뢰하기 전에 확인하는 더 나은 워크플로](https://dev.to/jusoup/gisul-jaryoreul-sinroehagi-jeone-hwaginhaneun-deo-naeun-weokeupeulro-jjn)
-- [Escaping the Cloud: How Five Repositories Stopped Sharing One Minute Limit](https://dev.to/flude_team/escaping-the-cloud-how-five-repositories-stopped-sharing-one-minute-limit-5h0p)
-- [Your Session Cookie Is Basically a Temporary Password - Part 2](https://dev.to/khg5293/your-session-cookie-is-basically-a-temporary-password-part-2-15c8)
+- [Keyword Research with AI Agents and Google Search Console](https://dev.to/seppegadeyne/keyword-research-with-ai-agents-and-google-search-console-4nl7)
+- [I measured what ranks an Apify Actor. It is not your title.](https://dev.to/dododata/i-measured-what-ranks-an-apify-actor-it-is-not-your-title-1dla)
+- [8 of my AI agent&#39;s 30 test calls failed. Every one was my fault.](https://dev.to/rizkynandapr/8-of-my-ai-agents-30-test-calls-failed-every-one-was-my-fault-3kff)
+- [One Belief Per Fact: Building Agent Memory for Users Who Change Their Minds](https://dev.to/nasiko_labs/one-belief-per-fact-building-agent-memory-for-users-who-change-their-minds-19i5)
 <!-- BLOG-POST-LIST:END -->
 
 
