@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval overlap went up 13 points by promoting sentences to paragraphs](https://dev.to/watthem_31/retrieval-overlap-went-up-13-points-by-promoting-sentences-to-paragraphs-4222)
-- [High-Performance Blade PDFs in Laravel 12+ without Node.js](https://dev.to/zentiqlabs/high-performance-blade-pdfs-in-laravel-12-without-nodejs-509e)
-- [JavaScript Operators: The Basics You Need to Know](https://dev.to/soubhagya_dash/javascript-operators-the-basics-you-need-to-know-352k)
-- [Silent Saves: How JPA Persists Your Changes Without You Asking](https://dev.to/satyaki_saha_367d015583da/silent-saves-how-jpa-persists-your-changes-without-you-asking-4iii)
+- [AI Is Making Code Cheap. Verification Is Becoming the Expensive Part](https://dev.to/aniketdev7/ai-is-making-code-cheap-verification-is-becoming-the-expensive-part-3kdk)
+- [The Leftover Hard Parts](https://dev.to/kate_astrid/the-leftover-hard-parts-28ka)
+- [The Hard Part of an OpenTelemetry Logs Bridge Wasn&#39;t Encoding](https://dev.to/admilsoncossa/the-hard-part-of-an-opentelemetry-logs-bridge-wasnt-encoding-29j1)
+- [Rust WebAssembly with WebForms Core 2.1](https://dev.to/elanatframework/rust-webassembly-with-webforms-core-21-3jj9)
 <!-- BLOG-POST-LIST:END -->
 
 
