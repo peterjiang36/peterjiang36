@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026–17633 - Authenticated RCE in Langflow OSS via /api/v1/custom_component](https://dev.to/guidance_white/cve-2026-17633-authenticated-rce-in-langflow-oss-via-apiv1customcomponent-5baj)
-- [Your First Factory: GtkListView and the Bind/Unbind Rhythm](https://dev.to/fromthearchitect/your-first-factory-gtklistview-and-the-bindunbind-rhythm-4c1d)
-- [You&#39;re not an impostor, you just started from a different line](https://dev.to/danielhe4rt/youre-not-an-impostor-you-just-started-from-a-different-line-2lph)
-- [Translated captions in a Chrome extension: tab audio in MV3, and one stream instead of two services](https://dev.to/skrylkovs/translated-captions-in-a-chrome-extension-tab-audio-in-mv3-and-one-stream-instead-of-two-services-1ha3)
+- [I Wrote the Code This Time. Does It Count If the Answer Was Wrong?](https://dev.to/earlgreyhot1701d/i-wrote-the-code-this-time-does-it-count-if-the-answer-was-wrong-1f2k)
+- [기술 자료를 신뢰하기 전에 확인하는 더 나은 워크플로](https://dev.to/jusoup/gisul-jaryoreul-sinroehagi-jeone-hwaginhaneun-deo-naeun-weokeupeulro-jjn)
+- [Escaping the Cloud: How Five Repositories Stopped Sharing One Minute Limit](https://dev.to/flude_team/escaping-the-cloud-how-five-repositories-stopped-sharing-one-minute-limit-5h0p)
+- [Your Session Cookie Is Basically a Temporary Password - Part 2](https://dev.to/khg5293/your-session-cookie-is-basically-a-temporary-password-part-2-15c8)
 <!-- BLOG-POST-LIST:END -->
 
 
