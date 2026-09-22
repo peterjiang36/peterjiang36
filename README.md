@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Instrument, Test, Monitor Before Shipping a Support Chatbot](https://dev.to/vasyl_popovych_37a71efb3d/what-to-instrument-test-monitor-before-shipping-a-support-chatbot-42ea)
-- [Treat Client Timeout as an In-Doubt Lease Before You Replay Shared Tool Calls](https://dev.to/robinzzz/treat-client-timeout-as-an-in-doubt-lease-before-you-replay-shared-tool-calls-25fg)
-- [Your AI had questions. It answered them in the code.](https://dev.to/knopfdruck/your-ai-had-questions-it-answered-them-in-the-code-1jo3)
-- [OpenSparrow v3.8: Roadmap &lpar;Gantt&rpar; module and new style grid](https://dev.to/wrobeltomasz/opensparrow-v38-roadmap-gantt-module-and-new-style-grid-4mei)
+- [Retrieval overlap went up 13 points by promoting sentences to paragraphs](https://dev.to/watthem_31/retrieval-overlap-went-up-13-points-by-promoting-sentences-to-paragraphs-4222)
+- [High-Performance Blade PDFs in Laravel 12+ without Node.js](https://dev.to/zentiqlabs/high-performance-blade-pdfs-in-laravel-12-without-nodejs-509e)
+- [JavaScript Operators: The Basics You Need to Know](https://dev.to/soubhagya_dash/javascript-operators-the-basics-you-need-to-know-352k)
+- [Silent Saves: How JPA Persists Your Changes Without You Asking](https://dev.to/satyaki_saha_367d015583da/silent-saves-how-jpa-persists-your-changes-without-you-asking-4iii)
 <!-- BLOG-POST-LIST:END -->
 
 
