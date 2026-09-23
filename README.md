@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prepare for a Python Certification Without Just Memorizing Code](https://dev.to/lanekulas78/how-to-prepare-for-a-python-certification-without-just-memorizing-code-3ao5)
-- [What I Learned From Building Small Projects Instead of Just Watching Tutorials](https://dev.to/lanekulas78/what-i-learned-from-building-small-projects-instead-of-just-watching-tutorials-d35)
-- [How to Read Error Messages Like a Developer](https://dev.to/chich2/how-to-read-error-messages-like-a-developer-411l)
-- [Red Team Basics: Pass-the-Hash &amp; Kerberoasting – So greifen Angreifer an](https://dev.to/nova-reik/red-team-basics-pass-the-hash-kerberoasting-so-greifen-angreifer-an-3agn)
+- [Read-only user impersonation in Rails](https://dev.to/edwardfancher/read-only-user-impersonation-in-rails-aeh)
+- [AIoT in Practice: Bridging IoT Data and AI Insights for Industrial Use Cases](https://dev.to/ema9/aiot-in-practice-bridging-iot-data-and-ai-insights-for-industrial-use-cases-kja)
+- [Bulk YouTube transcript extraction for AI pipelines: what breaks at scale](https://dev.to/azteccode/bulk-youtube-transcript-extraction-for-ai-pipelines-what-breaks-at-scale-529k)
+- [Record One Nested Decision, Then Extract a Single Predicate](https://dev.to/webx_2736/record-one-nested-decision-then-extract-a-single-predicate-17lp)
 <!-- BLOG-POST-LIST:END -->
 
 
