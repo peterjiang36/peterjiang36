@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We nearly charged our own buyers twice for rows they&#39;d already paid for](https://dev.to/fetchsmith/we-nearly-charged-our-own-buyers-twice-for-rows-theyd-already-paid-for-1pde)
-- [Authorization holds expire before you think they will](https://dev.to/payneteasy/authorization-holds-expire-before-you-think-they-will-3gei)
-- [Landlock LSM: App-Sandboxing im Kernel ohne Root](https://dev.to/uhltak/landlock-lsm-app-sandboxing-im-kernel-ohne-root-4p86)
-- [CVE-2026-94127: What F5 BIG-IP Operators Need to Know About the Exploited APM Flaw](https://dev.to/jeffreyciend/cve-2026-94127-what-f5-big-ip-operators-need-to-know-about-the-exploited-apm-flaw-hpi)
+- [Zero-copy video stream for Python](https://dev.to/cherrion/zero-copy-video-stream-for-python-klj)
+- [Half the ATS job boards you find by guessing belong to a different company](https://dev.to/dododata/half-the-ats-job-boards-you-find-by-guessing-belong-to-a-different-company-861)
+- [Boilerplate That Actually Ships: What to Include &lpar;and Cut&rpar; in a 2026 React Native Starter](https://dev.to/hugo_rus_630dd942fcf7cc62/boilerplate-that-actually-ships-what-to-include-and-cut-in-a-2026-react-native-starter-2o3f)
+- [I Vibe-Coded a Cryptid-Reporting Station on Sanity &lpar;and the Workflow Rejects Bigfoot Blurs&rpar;](https://dev.to/aniruddhaadak/i-vibe-coded-a-cryptid-reporting-station-on-sanity-and-the-workflow-rejects-bigfoot-blurs-cmc)
 <!-- BLOG-POST-LIST:END -->
 
 
