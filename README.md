@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-copy video stream for Python](https://dev.to/cherrion/zero-copy-video-stream-for-python-klj)
-- [Half the ATS job boards you find by guessing belong to a different company](https://dev.to/dododata/half-the-ats-job-boards-you-find-by-guessing-belong-to-a-different-company-861)
-- [Boilerplate That Actually Ships: What to Include &lpar;and Cut&rpar; in a 2026 React Native Starter](https://dev.to/hugo_rus_630dd942fcf7cc62/boilerplate-that-actually-ships-what-to-include-and-cut-in-a-2026-react-native-starter-2o3f)
-- [I Vibe-Coded a Cryptid-Reporting Station on Sanity &lpar;and the Workflow Rejects Bigfoot Blurs&rpar;](https://dev.to/aniruddhaadak/i-vibe-coded-a-cryptid-reporting-station-on-sanity-and-the-workflow-rejects-bigfoot-blurs-cmc)
+- [How to Prepare for a Python Certification Without Just Memorizing Code](https://dev.to/lanekulas78/how-to-prepare-for-a-python-certification-without-just-memorizing-code-3ao5)
+- [What I Learned From Building Small Projects Instead of Just Watching Tutorials](https://dev.to/lanekulas78/what-i-learned-from-building-small-projects-instead-of-just-watching-tutorials-d35)
+- [How to Read Error Messages Like a Developer](https://dev.to/chich2/how-to-read-error-messages-like-a-developer-411l)
+- [Red Team Basics: Pass-the-Hash &amp; Kerberoasting – So greifen Angreifer an](https://dev.to/nova-reik/red-team-basics-pass-the-hash-kerberoasting-so-greifen-angreifer-an-3agn)
 <!-- BLOG-POST-LIST:END -->
 
 
