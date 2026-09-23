@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Read-only user impersonation in Rails](https://dev.to/edwardfancher/read-only-user-impersonation-in-rails-aeh)
-- [AIoT in Practice: Bridging IoT Data and AI Insights for Industrial Use Cases](https://dev.to/ema9/aiot-in-practice-bridging-iot-data-and-ai-insights-for-industrial-use-cases-kja)
-- [Bulk YouTube transcript extraction for AI pipelines: what breaks at scale](https://dev.to/azteccode/bulk-youtube-transcript-extraction-for-ai-pipelines-what-breaks-at-scale-529k)
-- [Record One Nested Decision, Then Extract a Single Predicate](https://dev.to/webx_2736/record-one-nested-decision-then-extract-a-single-predicate-17lp)
+- [Flash Loan Attack Vector Analysis: Bitstamp](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-bitstamp-57c4)
+- [Gemini App Integrations May Expand: What Businesses Should Watch Next](https://dev.to/alifar/gemini-app-integrations-may-expand-what-businesses-should-watch-next-2ine)
+- [K3S](https://dev.to/vcaunegre/k3s-2jdp)
+- [My crypto backtest had a sharpe of 13.4. Then I added trading costs](https://dev.to/pavel_kkkkazantsev/my-crypto-backtest-had-a-sharpe-of-134-then-i-added-trading-costs-5718)
 <!-- BLOG-POST-LIST:END -->
 
 
