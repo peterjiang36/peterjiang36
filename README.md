@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Caos, ordem e código: o ciclo que move o software &lpar;e a nossa carreira&rpar;](https://dev.to/diogojorge/caos-ordem-e-codigo-o-ciclo-que-move-o-software-e-a-nossa-carreira-1h4n)
-- [Microsoft Agent 365 Supports n8n Agents in Microsoft 365 With Governance](https://dev.to/alifar/microsoft-agent-365-supports-n8n-agents-in-microsoft-365-with-governance-118n)
-- [Azure Operations Copilot in Microsoft Teams - Monitor, Investigate and Understand Azure from One Chat](https://dev.to/shivanna_gundanavar_d1c43/azure-operations-copilot-in-microsoft-teams-monitor-investigate-and-understand-azure-from-one-1nib)
-- [JavaScript Primitive Data Types Explained for Beginners](https://dev.to/megalraja/javascript-primitive-data-types-explained-for-beginners-4285)
+- [DSCI pipeline to build c++ project using cmake](https://dev.to/sp1983/dsci-pipeline-to-build-c-project-using-cmake-541j)
+- [MCP Gateway Security: Why Your AI Agents Need a Gateway?](https://dev.to/konghq/mcp-gateway-security-why-your-ai-agents-need-a-gateway-58hn)
+- [SaaS Pricing Page: Build Plan Selection With Real Radio Buttons](https://dev.to/urielbitton/saas-pricing-page-build-plan-selection-with-real-radio-buttons-13fh)
+- [Protocol Upgrade Compatibility Review: SparkLend](https://dev.to/dannydoes_2abdf9c/protocol-upgrade-compatibility-review-sparklend-4i1c)
 <!-- BLOG-POST-LIST:END -->
 
 
