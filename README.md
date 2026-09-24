@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [About Me](https://dev.to/abhi5heksah/about-me-1ld4)
-- [Freeze Object Identity Before One Mutator Extract](https://dev.to/hackrs_6393/freeze-object-identity-before-one-mutator-extract-1dll)
-- [Termai - Created a Simple AI agent in Bash](https://dev.to/atif1402/termai-create-a-simple-ai-agent-in-bash-51oc)
-- [I wanted the diff, not a screenshot: a small URL-change API](https://dev.to/signalwatch/i-wanted-the-diff-not-a-screenshot-a-small-url-change-api-1aoh)
+- [EIP-8411 tests sub-second propagation, Ethlabs pitches a faster Ethereum as Base splits on AA, Glamsterdam clears its 200M gas rehearsal, MATCHA](https://dev.to/etherspot/eip-8411-tests-sub-second-propagation-ethlabs-pitches-a-faster-ethereum-as-base-splits-on-aa-47jk)
+- [Building Video Qash Bot: How I Scaled a Multi-Platform Media Downloader on a 1 GB VPS](https://dev.to/fynexanetwork/building-video-qash-bot-how-i-scaled-a-multi-platform-media-downloader-on-a-1-gb-vps-7h5)
+- [The Ultimate Guide to Generative Engine Optimization &lpar;GEO&rpar;: SEO for the AI Era](https://dev.to/techmitten2/the-ultimate-guide-to-generative-engine-optimization-geo-seo-for-the-ai-era-550f)
+- [&quot;You improved&quot; is a statistical claim, and on eight attempts it is usually false](https://dev.to/daniel_pertu/you-improved-is-a-statistical-claim-and-on-eight-attempts-it-is-usually-false-2m6h)
 <!-- BLOG-POST-LIST:END -->
 
 
