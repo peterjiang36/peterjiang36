@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [DSCI pipeline to build c++ project using cmake](https://dev.to/sp1983/dsci-pipeline-to-build-c-project-using-cmake-541j)
-- [MCP Gateway Security: Why Your AI Agents Need a Gateway?](https://dev.to/konghq/mcp-gateway-security-why-your-ai-agents-need-a-gateway-58hn)
-- [SaaS Pricing Page: Build Plan Selection With Real Radio Buttons](https://dev.to/urielbitton/saas-pricing-page-build-plan-selection-with-real-radio-buttons-13fh)
-- [Protocol Upgrade Compatibility Review: SparkLend](https://dev.to/dannydoes_2abdf9c/protocol-upgrade-compatibility-review-sparklend-4i1c)
+- [Building File4Base: The Modern, Open-Source Alternative to old file bases &lpar;Powered by Antigravity&rpar;](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7)
+- [Building an Enterprise Climate Intelligence OS](https://dev.to/inushathathsara/building-an-enterprise-climate-intelligence-os-12eh)
+- [SFT vs. RL: What Changes Inside the Model?](https://dev.to/g_factor/sft-vs-rl-what-changes-inside-the-model-30ho)
+- [What I Learned Building Reliable Android Reminders](https://dev.to/cleanlabs/what-i-learned-building-reliable-android-reminders-92j)
 <!-- BLOG-POST-LIST:END -->
 
 
