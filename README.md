@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Twice the data, less power: my stability rule got blinder the harder I looked](https://dev.to/agentdev9/twice-the-data-less-power-my-stability-rule-got-blinder-the-harder-i-looked-2ni8)
-- [My factual-recall tasks were scoring format, not facts](https://dev.to/agentdev9/my-factual-recall-tasks-were-scoring-format-not-facts-j4m)
-- [NIGHTCELL 7: When the Ravens Lied, a second Þrøngva album made in code](https://dev.to/chovy/nightcell-7-when-the-ravens-lied-a-second-throngva-album-made-in-code-5597)
-- [ChatGPT Reaches 1 Billion Weekly Users: What Mass AI Adoption Means for Businesses](https://dev.to/alifar/chatgpt-reaches-1-billion-weekly-users-what-mass-ai-adoption-means-for-businesses-2lj5)
+- [About Me](https://dev.to/abhi5heksah/about-me-1ld4)
+- [Freeze Object Identity Before One Mutator Extract](https://dev.to/hackrs_6393/freeze-object-identity-before-one-mutator-extract-1dll)
+- [Termai - Created a Simple AI agent in Bash](https://dev.to/atif1402/termai-create-a-simple-ai-agent-in-bash-51oc)
+- [I wanted the diff, not a screenshot: a small URL-change API](https://dev.to/signalwatch/i-wanted-the-diff-not-a-screenshot-a-small-url-change-api-1aoh)
 <!-- BLOG-POST-LIST:END -->
 
 
