@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What an AI agent can verify in the Raku Knowledge Base: page, section, passage](https://dev.to/zag/what-an-ai-agent-can-verify-in-the-raku-knowledge-base-page-section-passage-81c)
-- [Episodic vs Semantic Memory for AI Agents: What Your Scheduled Automations Actually Need](https://dev.to/abdeljabbar_elassali_78e/episodic-vs-semantic-memory-for-ai-agents-what-your-scheduled-automations-actually-need-e7i)
-- [Logistics Hostname Broke After Adding an Alias &lpar;DNS Cutover Constraint&rpar;](https://dev.to/quintonshaw1483/logistics-hostname-broke-after-adding-an-alias-dns-cutover-constraint-elp)
-- [132,158 Observable Magento Stores: Sizing the Population Exposed in the StyleSmuggler Window](https://dev.to/kozhevniko/132158-observable-magento-stores-sizing-the-population-exposed-in-the-stylesmuggler-window-56i7)
+- [ExpoStacker EP001 — pipeline de publicação auditada em 10+ redes](https://dev.to/luiz_felipeferro_4565c28/-expostacker-ep001-pipeline-de-publicacao-auditada-20fo)
+- [The Playwright Pie in the Sky: Solving for CI Blindspots in Microfrontend Architecture in a Crunch](https://dev.to/jordonkloiber/the-playwright-pie-in-the-sky-solving-for-ci-blindspots-in-microfrontend-architecture-in-a-crunch-3lhj)
+- [GitHub Student Developer Pack: What You Can Get as a Student](https://dev.to/ramiroquintana/github-student-developer-pack-what-you-can-get-as-a-student-4pj1)
+- [Same app. Same taps. Why does one feel premium?](https://dev.to/vatana7/same-app-same-taps-why-does-one-feel-premium-4l08)
 <!-- BLOG-POST-LIST:END -->
 
 
