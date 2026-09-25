@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building File4Base: The Modern, Open-Source Alternative to old file bases &lpar;Powered by Antigravity&rpar;](https://dev.to/gde/building-file4base-the-modern-open-source-alternative-to-file4base-powered-by-antigravity-47g7)
-- [Building an Enterprise Climate Intelligence OS](https://dev.to/inushathathsara/building-an-enterprise-climate-intelligence-os-12eh)
-- [SFT vs. RL: What Changes Inside the Model?](https://dev.to/g_factor/sft-vs-rl-what-changes-inside-the-model-30ho)
-- [What I Learned Building Reliable Android Reminders](https://dev.to/cleanlabs/what-i-learned-building-reliable-android-reminders-92j)
+- [What Really Happens When You Type a URL and Press Enter?](https://dev.to/tanu_priya/what-really-happens-when-you-type-a-url-and-press-enter-2b6h)
+- [Claude Discovers a CRISPR-Like Enzyme System Called ART](https://dev.to/raxxostudios/claude-discovers-a-crispr-like-enzyme-system-called-art-377b)
+- [Building Zyg0s: An Autonomous, Explainable Fraud Investigation Agent Powered by TigerGraph Savanna Cloud &amp; MCP](https://dev.to/vanshdeo/building-zyg0s-an-autonomous-explainable-fraud-investigation-agent-powered-by-tigergraph-savanna-34ki)
+- [AI answers are easy to get but expensive to read — a CLI that filters them down](https://dev.to/sunnydachs/ai-answers-are-easy-to-get-but-expensive-to-read-a-cli-that-filters-them-down-224k)
 <!-- BLOG-POST-LIST:END -->
 
 
