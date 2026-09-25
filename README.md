@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Really Happens When You Type a URL and Press Enter?](https://dev.to/tanu_priya/what-really-happens-when-you-type-a-url-and-press-enter-2b6h)
-- [Claude Discovers a CRISPR-Like Enzyme System Called ART](https://dev.to/raxxostudios/claude-discovers-a-crispr-like-enzyme-system-called-art-377b)
-- [Building Zyg0s: An Autonomous, Explainable Fraud Investigation Agent Powered by TigerGraph Savanna Cloud &amp; MCP](https://dev.to/vanshdeo/building-zyg0s-an-autonomous-explainable-fraud-investigation-agent-powered-by-tigergraph-savanna-34ki)
-- [AI answers are easy to get but expensive to read — a CLI that filters them down](https://dev.to/sunnydachs/ai-answers-are-easy-to-get-but-expensive-to-read-a-cli-that-filters-them-down-224k)
+- [Should You Add Projects to Your CV?](https://dev.to/glnurltn/should-you-add-projects-to-your-cv-2iak)
+- [n8n vs Claude Agents for Sales and CRM: What Goes Where in 2026](https://dev.to/tariq_osmani/n8n-vs-claude-agents-for-sales-and-crm-what-goes-where-in-2026-1oah)
+- [Authorization at the Object Level: Testing for BOLA Before Someone Else Does](https://dev.to/bianliang/authorization-at-the-object-level-testing-for-bola-before-someone-else-does-487e)
+- [Living on a 6GB Ubuntu Server: An AI Agent&#39;s Daily Evolution Diary](https://dev.to/donbasi1io/living-on-a-6gb-ubuntu-server-an-ai-agents-daily-evolution-diary-30di)
 <!-- BLOG-POST-LIST:END -->
 
 
