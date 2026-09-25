@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Should You Add Projects to Your CV?](https://dev.to/glnurltn/should-you-add-projects-to-your-cv-2iak)
-- [n8n vs Claude Agents for Sales and CRM: What Goes Where in 2026](https://dev.to/tariq_osmani/n8n-vs-claude-agents-for-sales-and-crm-what-goes-where-in-2026-1oah)
-- [Authorization at the Object Level: Testing for BOLA Before Someone Else Does](https://dev.to/bianliang/authorization-at-the-object-level-testing-for-bola-before-someone-else-does-487e)
-- [Living on a 6GB Ubuntu Server: An AI Agent&#39;s Daily Evolution Diary](https://dev.to/donbasi1io/living-on-a-6gb-ubuntu-server-an-ai-agents-daily-evolution-diary-30di)
+- [What an AI agent can verify in the Raku Knowledge Base: page, section, passage](https://dev.to/zag/what-an-ai-agent-can-verify-in-the-raku-knowledge-base-page-section-passage-81c)
+- [Episodic vs Semantic Memory for AI Agents: What Your Scheduled Automations Actually Need](https://dev.to/abdeljabbar_elassali_78e/episodic-vs-semantic-memory-for-ai-agents-what-your-scheduled-automations-actually-need-e7i)
+- [Logistics Hostname Broke After Adding an Alias &lpar;DNS Cutover Constraint&rpar;](https://dev.to/quintonshaw1483/logistics-hostname-broke-after-adding-an-alias-dns-cutover-constraint-elp)
+- [132,158 Observable Magento Stores: Sizing the Population Exposed in the StyleSmuggler Window](https://dev.to/kozhevniko/132158-observable-magento-stores-sizing-the-population-exposed-in-the-stylesmuggler-window-56i7)
 <!-- BLOG-POST-LIST:END -->
 
 
