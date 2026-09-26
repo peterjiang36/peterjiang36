@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16 `instrumentation.ts` Is Stable: Wiring OpenTelemetry, Sentry, and Custom Spans Without a Wrapper](https://dev.to/jsmanifest/nextjs-16-instrumentationts-is-stable-wiring-opentelemetry-sentry-and-custom-spans-without-a-46dc)
-- [A Failed CI Job Is Not Evidence That You Should Retry It](https://dev.to/othy19904eng/a-failed-ci-job-is-not-evidence-that-you-should-retry-it-47mc)
-- [Every optimization list is infinite. One question sorts it](https://dev.to/vlad_z_16b6320e21f32bee0d/every-optimization-list-is-infinite-one-question-sorts-it-57fl)
-- [I put Spotify on a $25 Win98 desk player &lpar;ESP32, no PSRAM&rpar;](https://dev.to/uribejr/i-put-spotify-on-a-25-win98-desk-player-esp32-no-psram-126a)
+- [From HTML to JavaScript: My Learning Journey](https://dev.to/fafacodes/from-html-to-javascript-my-learning-journey-15j9)
+- [Why Instagram labels your real photo &quot;AI info&quot; &lpar;and how to see the metadata behind it&rpar;](https://dev.to/sebastian_balog_c88dc2913/why-instagram-labels-your-real-photo-ai-info-and-how-to-see-the-metadata-behind-it-4j0f)
+- [Your RAG Searches by Meaning. But What About Exact Words? Meet BM25](https://dev.to/rijultp/your-rag-searches-by-meaning-but-what-about-exact-words-meet-bm25-50m5)
+- [Building Tanexa: Making Personal Finance Simpler for India 🇮🇳](https://dev.to/tanexa/building-tanexa-making-personal-finance-simpler-for-india-5dgk)
 <!-- BLOG-POST-LIST:END -->
 
 
