@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Unknown&quot; was the right third value. It is not enough on its own.](https://dev.to/vereos/unknown-was-the-right-third-value-it-is-not-enough-on-its-own-pnl)
-- [Your AI Vendor Just Became a Supply-Chain Risk](https://dev.to/goodpa/your-ai-vendor-just-became-a-supply-chain-risk-21c1)
-- [Building FoxyInvoice — Chapter 11: Reach — SEO, AI crawlers, and being the machine-readable answer](https://dev.to/seolith/building-foxyinvoice-chapter-11-reach-seo-ai-crawlers-and-being-the-machine-readable-answer-24on)
-- [I built a to-do app that hatches creatures because I couldn&#39;t make myself do anything](https://dev.to/island_dev/i-built-a-to-do-app-that-hatches-creatures-because-i-couldnt-make-myself-do-anything-4ac9)
+- [152,655 Matches for ownCloud and the CVE That Matches It Exactly](https://dev.to/kozhevniko/152655-matches-for-owncloud-and-the-cve-that-matches-it-exactly-12ch)
+- [Apple Pay Token Decryption vs Google Pay ECv2](https://dev.to/tomwangcn/apple-pay-token-decryption-vs-google-pay-ecv2-3pje)
+- [How ACME HTTP-01 and DNS-01 Challenges Work Internally](https://dev.to/michaelcarter09/how-acme-http-01-and-dns-01-challenges-work-internally-4bdf)
+- [How to Decode a JWT Safely &lpar;Without Sending It to a Server&rpar;](https://dev.to/pulkitgovrani/how-to-decode-a-jwt-safely-without-sending-it-to-a-server-ki2)
 <!-- BLOG-POST-LIST:END -->
 
 
