@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Broke Prod With Cache Misses So You Don&#39;t Have To](https://dev.to/satyaki_saha_367d015583da/we-broke-prod-with-cache-misses-so-you-dont-have-to-14le)
-- [pgvector Without Embeddings: When a Feature Vector Beats Semantic Search](https://dev.to/agave_info_solutions/pgvector-without-embeddings-when-a-feature-vector-beats-semantic-search-12ob)
-- [Understanding Retries and Failures in a Kubernetes Operator](https://dev.to/shubhamgoel23/understanding-retries-and-failures-in-a-kubernetes-operator-19dn)
-- [How I Actually Learn New Skills &lpar;No Tutorial Required&rpar;](https://dev.to/sheships/how-i-actually-learn-new-skills-no-tutorial-required-3iia)
+- [Next.js 16 `instrumentation.ts` Is Stable: Wiring OpenTelemetry, Sentry, and Custom Spans Without a Wrapper](https://dev.to/jsmanifest/nextjs-16-instrumentationts-is-stable-wiring-opentelemetry-sentry-and-custom-spans-without-a-46dc)
+- [A Failed CI Job Is Not Evidence That You Should Retry It](https://dev.to/othy19904eng/a-failed-ci-job-is-not-evidence-that-you-should-retry-it-47mc)
+- [Every optimization list is infinite. One question sorts it](https://dev.to/vlad_z_16b6320e21f32bee0d/every-optimization-list-is-infinite-one-question-sorts-it-57fl)
+- [I put Spotify on a $25 Win98 desk player &lpar;ESP32, no PSRAM&rpar;](https://dev.to/uribejr/i-put-spotify-on-a-25-win98-desk-player-esp32-no-psram-126a)
 <!-- BLOG-POST-LIST:END -->
 
 
