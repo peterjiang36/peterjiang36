@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [152,655 Matches for ownCloud and the CVE That Matches It Exactly](https://dev.to/kozhevniko/152655-matches-for-owncloud-and-the-cve-that-matches-it-exactly-12ch)
-- [Apple Pay Token Decryption vs Google Pay ECv2](https://dev.to/tomwangcn/apple-pay-token-decryption-vs-google-pay-ecv2-3pje)
-- [How ACME HTTP-01 and DNS-01 Challenges Work Internally](https://dev.to/michaelcarter09/how-acme-http-01-and-dns-01-challenges-work-internally-4bdf)
-- [How to Decode a JWT Safely &lpar;Without Sending It to a Server&rpar;](https://dev.to/pulkitgovrani/how-to-decode-a-jwt-safely-without-sending-it-to-a-server-ki2)
+- [We Broke Prod With Cache Misses So You Don&#39;t Have To](https://dev.to/satyaki_saha_367d015583da/we-broke-prod-with-cache-misses-so-you-dont-have-to-14le)
+- [pgvector Without Embeddings: When a Feature Vector Beats Semantic Search](https://dev.to/agave_info_solutions/pgvector-without-embeddings-when-a-feature-vector-beats-semantic-search-12ob)
+- [Understanding Retries and Failures in a Kubernetes Operator](https://dev.to/shubhamgoel23/understanding-retries-and-failures-in-a-kubernetes-operator-19dn)
+- [How I Actually Learn New Skills &lpar;No Tutorial Required&rpar;](https://dev.to/sheships/how-i-actually-learn-new-skills-no-tutorial-required-3iia)
 <!-- BLOG-POST-LIST:END -->
 
 
