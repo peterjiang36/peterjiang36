@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From HTML to JavaScript: My Learning Journey](https://dev.to/fafacodes/from-html-to-javascript-my-learning-journey-15j9)
-- [Why Instagram labels your real photo &quot;AI info&quot; &lpar;and how to see the metadata behind it&rpar;](https://dev.to/sebastian_balog_c88dc2913/why-instagram-labels-your-real-photo-ai-info-and-how-to-see-the-metadata-behind-it-4j0f)
-- [Your RAG Searches by Meaning. But What About Exact Words? Meet BM25](https://dev.to/rijultp/your-rag-searches-by-meaning-but-what-about-exact-words-meet-bm25-50m5)
-- [Building Tanexa: Making Personal Finance Simpler for India 🇮🇳](https://dev.to/tanexa/building-tanexa-making-personal-finance-simpler-for-india-5dgk)
+- [Proof Without Sharing Source Code: SJV, SJP, and the Trust Boundary](https://dev.to/jupitersoft/proof-without-sharing-source-code-sjv-sjp-and-the-trust-boundary-12p6)
+- [Game Development Budget Breakdown: Where Does the Money Go?](https://dev.to/oceanviewgames/game-development-budget-breakdown-where-does-the-money-go-ao1)
+- [Why Your Legacy Educational Game Needs an Update](https://dev.to/oceanviewgames/why-your-legacy-educational-game-needs-an-update-4doi)
+- [Cross-Platform Save Systems: Cloud Sync Done Right](https://dev.to/oceanviewgames/cross-platform-save-systems-cloud-sync-done-right-2kmc)
 <!-- BLOG-POST-LIST:END -->
 
 
