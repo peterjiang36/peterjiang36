@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A free, anonymous Snyk alternative for dependency scanning](https://dev.to/rushabh5000/a-free-anonymous-snyk-alternative-for-dependency-scanning-1mc5)
-- [I ran Keploy on my MERN app. The scariest result was a green one.](https://dev.to/angelina_gupta/i-ran-keploy-on-my-mern-app-the-scariest-result-was-a-green-one-331e)
-- [What is SAST? A developer&#39;s guide to static application security testing](https://dev.to/rushabh5000/what-is-sast-a-developers-guide-to-static-application-security-testing-40lk)
-- [The Monitor That Only Passed When It Won a Race](https://dev.to/p_bhatnagar/the-monitor-that-only-passed-when-it-won-a-race-1pa8)
+- [An Extended Mind, Not a Second Brain: Thinking With AI](https://dev.to/builtbysam/an-extended-mind-not-a-second-brain-thinking-with-ai-1pog)
+- [Verification Discipline: Catching and Correcting Hallucinations in AI Coding Agents](https://dev.to/jackfigliomeni/verification-discipline-catching-and-correcting-hallucinations-in-ai-coding-agents-2cj7)
+- [A Certification That Changes Every Run Is a Coin Flip With a Signature](https://dev.to/debashish_ghosal/a-certification-that-changes-every-run-is-a-coin-flip-with-a-signature-bj9)
+- [How to catch a missing index in a test, when your test table has 20 rows.](https://dev.to/ldavidsm/how-to-catch-a-missing-index-in-a-test-when-your-test-table-has-20-rows-1oh2)
 <!-- BLOG-POST-LIST:END -->
 
 
