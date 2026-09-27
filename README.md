@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVSS, EPSS and KEV: how to actually prioritize dependency vulnerabilities](https://dev.to/rushabh5000/cvss-epss-and-kev-how-to-actually-prioritize-dependency-vulnerabilities-31e4)
-- [How to Merge PDF Files Without Uploading Them Anywhere](https://dev.to/pulkitgovrani/how-to-merge-pdf-files-without-uploading-them-anywhere-2bje)
-- [Practice system design under a 45-minute clock](https://dev.to/sarthakagrawal927/practice-system-design-under-a-45-minute-clock-47p1)
-- [มี GPU แรง ๆ แต่รัน AI ไม่เป็น? เว็บนี้ทำ &#39;สูตรสำเร็จ Local AI&#39; ให้ดูแบบเปิดหมดบน GitHub](https://dev.to/sarantoon/mii-gpu-aerng-aetran-ai-aimepn-ewbniitham-suutrsamercch-local-ai-aihduuaebbepidhmdbn-github-242h)
+- [A free, anonymous Snyk alternative for dependency scanning](https://dev.to/rushabh5000/a-free-anonymous-snyk-alternative-for-dependency-scanning-1mc5)
+- [I ran Keploy on my MERN app. The scariest result was a green one.](https://dev.to/angelina_gupta/i-ran-keploy-on-my-mern-app-the-scariest-result-was-a-green-one-331e)
+- [What is SAST? A developer&#39;s guide to static application security testing](https://dev.to/rushabh5000/what-is-sast-a-developers-guide-to-static-application-security-testing-40lk)
+- [The Monitor That Only Passed When It Won a Race](https://dev.to/p_bhatnagar/the-monitor-that-only-passed-when-it-won-a-race-1pa8)
 <!-- BLOG-POST-LIST:END -->
 
 
