@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An Extended Mind, Not a Second Brain: Thinking With AI](https://dev.to/builtbysam/an-extended-mind-not-a-second-brain-thinking-with-ai-1pog)
-- [Verification Discipline: Catching and Correcting Hallucinations in AI Coding Agents](https://dev.to/jackfigliomeni/verification-discipline-catching-and-correcting-hallucinations-in-ai-coding-agents-2cj7)
-- [A Certification That Changes Every Run Is a Coin Flip With a Signature](https://dev.to/debashish_ghosal/a-certification-that-changes-every-run-is-a-coin-flip-with-a-signature-bj9)
-- [How to catch a missing index in a test, when your test table has 20 rows.](https://dev.to/ldavidsm/how-to-catch-a-missing-index-in-a-test-when-your-test-table-has-20-rows-1oh2)
+- [Cron jobs: the tiny line that runs half your backend](https://dev.to/4thwithme/cron-jobs-the-tiny-line-that-runs-half-your-backend-3o8a)
+- [Moving off Event Tickets Plus: what your WooCommerce ticket data looks like](https://dev.to/jeffreyinman/moving-off-event-tickets-plus-what-your-woocommerce-ticket-data-looks-like-2akm)
+- [Sign in to a remote MCP server in Claude Code: /mcp and claude mcp login](https://dev.to/aicoding-guide/sign-in-to-a-remote-mcp-server-in-claude-code-mcp-and-claude-mcp-login-43i7)
+- [The A2UI Contract: A Deep Dive into Agent-to-UI Architecture](https://dev.to/akashpal/the-a2ui-contract-a-deep-dive-into-agent-to-ui-architecture-4i00)
 <!-- BLOG-POST-LIST:END -->
 
 
