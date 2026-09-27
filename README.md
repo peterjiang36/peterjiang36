@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Proof Without Sharing Source Code: SJV, SJP, and the Trust Boundary](https://dev.to/jupitersoft/proof-without-sharing-source-code-sjv-sjp-and-the-trust-boundary-12p6)
-- [Game Development Budget Breakdown: Where Does the Money Go?](https://dev.to/oceanviewgames/game-development-budget-breakdown-where-does-the-money-go-ao1)
-- [Why Your Legacy Educational Game Needs an Update](https://dev.to/oceanviewgames/why-your-legacy-educational-game-needs-an-update-4doi)
-- [Cross-Platform Save Systems: Cloud Sync Done Right](https://dev.to/oceanviewgames/cross-platform-save-systems-cloud-sync-done-right-2kmc)
+- [CVSS, EPSS and KEV: how to actually prioritize dependency vulnerabilities](https://dev.to/rushabh5000/cvss-epss-and-kev-how-to-actually-prioritize-dependency-vulnerabilities-31e4)
+- [How to Merge PDF Files Without Uploading Them Anywhere](https://dev.to/pulkitgovrani/how-to-merge-pdf-files-without-uploading-them-anywhere-2bje)
+- [Practice system design under a 45-minute clock](https://dev.to/sarthakagrawal927/practice-system-design-under-a-45-minute-clock-47p1)
+- [มี GPU แรง ๆ แต่รัน AI ไม่เป็น? เว็บนี้ทำ &#39;สูตรสำเร็จ Local AI&#39; ให้ดูแบบเปิดหมดบน GitHub](https://dev.to/sarantoon/mii-gpu-aerng-aetran-ai-aimepn-ewbniitham-suutrsamercch-local-ai-aihduuaebbepidhmdbn-github-242h)
 <!-- BLOG-POST-LIST:END -->
 
 
