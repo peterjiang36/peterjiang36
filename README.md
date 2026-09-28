@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Science vs. Data Engineering: Mana Jalur Karier yang Tepat untuk Kamu? - 20:50](https://dev.to/khalifumarr/data-science-vs-data-engineering-mana-jalur-karier-yang-tepat-untuk-kamu-2050-39mp)
-- [Nested Arrays in JavaScript](https://dev.to/farah_ismahhana_1c67ec83/nested-arrays-in-javascript-3h68)
-- [Every line of my recovery code was correct. It failed every single time.&quot;](https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72)
-- [C# Singleton basics](https://dev.to/karenpayneoregon/c-singleton-basics-1o9i)
+- [Literally.dev vs Draft.dev: What $4,990 and $9,000 a Month Actually Buy](https://dev.to/tarunsinghofficial/literallydev-vs-draftdev-what-4990-and-9000-a-month-actually-buy-3080)
+- [🚀 My learning from last week: Linear Regression, trying Cursor, and building Jumpy Brain. My brain was literally jumping everywhere 😂](https://dev.to/tanay_dwivedi9098/my-learning-from-last-week-linear-regression-trying-cursor-and-building-jumpy-brain-my-brain-4d02)
+- [Feeling Burnt Out? May Be You Should Read This! ❤️‍🩹](https://dev.to/fm/feeling-burnt-out-may-be-you-should-read-this-2o8e)
+- [Why your AI agents redo each other&#39;s work &lpar;and what fixes it&rpar;](https://dev.to/naetive/why-your-ai-agents-redo-each-others-work-and-what-fixes-it-3fhn)
 <!-- BLOG-POST-LIST:END -->
 
 
