@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Vireo AI: Platform Produktivitas Pintar Berbasis OpenRouter dan Cloud VPS](https://dev.to/azfa_nauval/vireo-ai-platform-produktivitas-pintar-berbasis-openrouter-dan-cloud-vps-1mpl)
-- [SaaS Delete Dialogs: Say Exactly What Will Be Lost](https://dev.to/urielbitton/saas-delete-dialogs-say-exactly-what-will-be-lost-5h3m)
-- [My Agent Remembered My Bad Code and Judged Me](https://dev.to/durga_bhavani_5d101a78357/my-agent-remembered-my-bad-code-and-judged-me-38i1)
-- [Pick your battles!](https://dev.to/canro91/pick-your-battles-3jf3)
+- [Navigating the Android background lifecycle: Lessons from building Muffle](https://dev.to/haseebthedev0/navigating-the-android-background-lifecycle-lessons-from-building-muffle-3aog)
+- [AI API call hangs in production, then 504: timeouts and budgets](https://dev.to/gemmein/ai-api-call-hangs-in-production-then-504-timeouts-and-budgets-1bel)
+- [Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia](https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc)
+- [Silicon Valley 101: Unpacking the Wild Growth of the AI‑Data Industry | 硅谷101：深度解析AI数据行业的野蛮生长](https://dev.to/cognitalk/silicon-valley-101-unpacking-the-wild-growth-of-the-ai-data-industry-2e5n)
 <!-- BLOG-POST-LIST:END -->
 
 
