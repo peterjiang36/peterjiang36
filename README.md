@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Chrome extension that reads Hanifi Rohingya webpages in Latin script](https://dev.to/abaziz/building-a-chrome-extension-that-reads-hanifi-rohingya-webpages-in-latin-script-35e1)
-- [I built an open-source AI coworker that logs in with 2FA without the model ever seeing your passwords](https://dev.to/danielehrhardt/i-built-an-open-source-ai-coworker-that-logs-in-with-2fa-without-the-model-ever-seeing-your-48ep)
-- [I Vibe Coded a GitHub Action — Then Turned It Into a Real Product](https://dev.to/hamzatopo/i-vibe-coded-a-github-action-then-turned-it-into-a-real-product-4ml9)
-- [When the Tool-Makers decides what skills should become obsolete](https://dev.to/estheticallybawo/when-the-tool-makers-decides-what-skills-should-become-obsolete-42o1)
+- [Data Science vs. Data Engineering: Mana Jalur Karier yang Tepat untuk Kamu? - 20:50](https://dev.to/khalifumarr/data-science-vs-data-engineering-mana-jalur-karier-yang-tepat-untuk-kamu-2050-39mp)
+- [Nested Arrays in JavaScript](https://dev.to/farah_ismahhana_1c67ec83/nested-arrays-in-javascript-3h68)
+- [Every line of my recovery code was correct. It failed every single time.&quot;](https://dev.to/nathan_vassallo_635b903d2/every-line-of-my-recovery-code-was-correct-it-failed-every-single-time-published-false-3j72)
+- [C# Singleton basics](https://dev.to/karenpayneoregon/c-singleton-basics-1o9i)
 <!-- BLOG-POST-LIST:END -->
 
 
