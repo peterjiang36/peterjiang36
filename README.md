@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Better Music Discovery Websites with Simple Web Tools](https://dev.to/morgan_todd99/building-better-music-discovery-websites-with-simple-web-tools-20ne)
-- [Your Go Module Path Should Outlive GitHub: Designing Stable Import Paths](https://dev.to/chenyuan20509/your-go-module-path-should-outlive-github-designing-stable-import-paths-2e0n)
-- [csperf: A Lightweight Observatory for Honest Performance Tracking](https://dev.to/aabhinavg/csperf-a-lightweight-observatory-for-honest-performance-tracking-5eaa)
-- [ESP32-S3 Edge AI in Practice: Deep Optimization of TensorFlow Lite Micro Inference Performance](https://dev.to/zediot/esp32-s3-edge-ai-in-practice-deep-optimization-of-tensorflow-lite-micro-inference-performance-4b0g)
+- [I Gave My AI Assistant a Memory — It Started Calling Out My Broken Promises](https://dev.to/tsrinath/i-gave-my-ai-assistant-a-memory-it-started-calling-out-my-broken-promises-3kj8)
+- [Integrating Voice AI into Your CI/CD Pipeline](https://dev.to/voice_developer/integrating-voice-ai-into-your-cicd-pipeline-220o)
+- [Reverify weighs verified AI claims by how informative they are](https://dev.to/renolu/reverify-weighs-verified-ai-claims-by-how-informative-they-are-4hb0)
+- [ForgeMind: Building a Memory-Backed Factory Troubleshooting System](https://dev.to/priyanshu_kumar_392d16b88/forgemind-building-a-memory-backed-factory-troubleshooting-system-2mfl)
 <!-- BLOG-POST-LIST:END -->
 
 
