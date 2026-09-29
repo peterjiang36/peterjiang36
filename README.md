@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab Self-Managed AI review that follows your own rules](https://dev.to/emilreiter/gitlab-self-managed-ai-review-that-follows-your-own-rules-10ch)
-- [Delegating code to Claude did not automatically save Codex tokens](https://dev.to/t3chn/delegating-code-to-claude-did-not-automatically-save-codex-tokens-40b2)
-- [How I Kept Farm Memories From Crossing Field Boundaries](https://dev.to/narendra_borra_8163642db1/how-i-kept-farm-memories-from-crossing-field-boundaries-ok5)
-- [BrandBridge: Designing the Backend for Marketing Content System](https://dev.to/harini_bukkena_27/brandbridge-designing-the-backend-for-marketing-content-system-40hk)
+- [Building Better Music Discovery Websites with Simple Web Tools](https://dev.to/morgan_todd99/building-better-music-discovery-websites-with-simple-web-tools-20ne)
+- [Your Go Module Path Should Outlive GitHub: Designing Stable Import Paths](https://dev.to/chenyuan20509/your-go-module-path-should-outlive-github-designing-stable-import-paths-2e0n)
+- [csperf: A Lightweight Observatory for Honest Performance Tracking](https://dev.to/aabhinavg/csperf-a-lightweight-observatory-for-honest-performance-tracking-5eaa)
+- [ESP32-S3 Edge AI in Practice: Deep Optimization of TensorFlow Lite Micro Inference Performance](https://dev.to/zediot/esp32-s3-edge-ai-in-practice-deep-optimization-of-tensorflow-lite-micro-inference-performance-4b0g)
 <!-- BLOG-POST-LIST:END -->
 
 
