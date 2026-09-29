@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My AI Assistant a Memory — It Started Calling Out My Broken Promises](https://dev.to/tsrinath/i-gave-my-ai-assistant-a-memory-it-started-calling-out-my-broken-promises-3kj8)
-- [Integrating Voice AI into Your CI/CD Pipeline](https://dev.to/voice_developer/integrating-voice-ai-into-your-cicd-pipeline-220o)
-- [Reverify weighs verified AI claims by how informative they are](https://dev.to/renolu/reverify-weighs-verified-ai-claims-by-how-informative-they-are-4hb0)
-- [ForgeMind: Building a Memory-Backed Factory Troubleshooting System](https://dev.to/priyanshu_kumar_392d16b88/forgemind-building-a-memory-backed-factory-troubleshooting-system-2mfl)
+- [Migrating From Keyword Search to Vector Search on OpenSearch: A Guide for Teams Still on Lexical-Only](https://dev.to/jon_handler_9bb3e6b4a2fd0/migrating-from-keyword-search-to-vector-search-on-opensearch-a-guide-for-teams-still-on-f7j)
+- [The Outbox Held, the Ledger Didn&#39;t](https://dev.to/miguel_shinyenyi_e2291c8c/the-outbox-held-the-ledger-didnt-k7g)
+- [Idempotency keys, under load](https://dev.to/miguel_shinyenyi_e2291c8c/idempotency-keys-under-load-1a2c)
+- [Adding MapReduce to My Go Distributed File System](https://dev.to/shreyas_yadav_e6fbf9ad3f6/adding-mapreduce-to-my-go-distributed-file-system-2kd1)
 <!-- BLOG-POST-LIST:END -->
 
 
