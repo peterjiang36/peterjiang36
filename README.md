@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Android background lifecycle: Lessons from building Muffle](https://dev.to/haseebthedev0/navigating-the-android-background-lifecycle-lessons-from-building-muffle-3aog)
-- [AI API call hangs in production, then 504: timeouts and budgets](https://dev.to/gemmein/ai-api-call-hangs-in-production-then-504-timeouts-and-budgets-1bel)
-- [Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia](https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc)
-- [Silicon Valley 101: Unpacking the Wild Growth of the AI‑Data Industry | 硅谷101：深度解析AI数据行业的野蛮生长](https://dev.to/cognitalk/silicon-valley-101-unpacking-the-wild-growth-of-the-ai-data-industry-2e5n)
+- [GitLab Self-Managed AI review that follows your own rules](https://dev.to/emilreiter/gitlab-self-managed-ai-review-that-follows-your-own-rules-10ch)
+- [Delegating code to Claude did not automatically save Codex tokens](https://dev.to/t3chn/delegating-code-to-claude-did-not-automatically-save-codex-tokens-40b2)
+- [How I Kept Farm Memories From Crossing Field Boundaries](https://dev.to/narendra_borra_8163642db1/how-i-kept-farm-memories-from-crossing-field-boundaries-ok5)
+- [BrandBridge: Designing the Backend for Marketing Content System](https://dev.to/harini_bukkena_27/brandbridge-designing-the-backend-for-marketing-content-system-40hk)
 <!-- BLOG-POST-LIST:END -->
 
 
