@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made a Video Editor Specifically for DEV.to Writers](https://dev.to/effessdev/i-made-a-video-editor-specifically-for-devto-writers-2p3g)
-- [AI CEO: Andon Labs launches Pion; its AI-run store and cafe lose money](https://dev.to/axrisi/ai-ceo-andon-labs-launches-pion-its-ai-run-store-and-cafe-lose-money-1o39)
-- [What Elsa Workflows and Workflow Engine NEO leave in your code](https://dev.to/optimajet/what-elsa-workflows-and-workflow-engine-neo-leave-in-your-code-5hm3)
-- [The commit is correct. Why does the hackathon demo fail on a clean checkout?](https://dev.to/stavleak-hackathons/the-commit-is-correct-why-does-the-hackathon-demo-fail-on-a-clean-checkout-5273)
+- [Top Voice Cloning Platforms Compared](https://dev.to/voice_developer/top-voice-cloning-platforms-compared-23ki)
+- [Secure Private Access and managed services: scoping CVE-2026-88771 beyond the appliance](https://dev.to/kozhevniko/secure-private-access-and-managed-services-scoping-cve-2026-88771-beyond-the-appliance-4p29)
+- [Statewave Guide — Day 1: The DOM is not the product](https://dev.to/statewave/statewave-guide-day-1-the-dom-is-not-the-product-1f4l)
+- [Building an Agentic Data Factory with Parquet, DuckDB, MCP, and Refinement Loops](https://dev.to/kyleledbetter/building-an-agentic-data-factory-with-parquet-duckdb-mcp-and-refinement-loops-2d78)
 <!-- BLOG-POST-LIST:END -->
 
 
