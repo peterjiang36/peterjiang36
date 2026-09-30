@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Real Work with Muse: Connectors + Scheduled Tasks](https://dev.to/ying_liao_0a481102ff971b4/automating-real-work-with-muse-connectors-scheduled-tasks-58co)
-- [Virtualization Watch Issue 003: Citrix NetScaler Zero-Days Hit Over a Weekend; Sidero Builds a Hypervisor into Talos Linux](https://dev.to/zsvirt_community/virtualization-watch-issue-003-citrix-netscaler-zero-days-hit-over-a-weekend-sidero-builds-a-1c44)
-- [What a Photography Website Really Costs &lpar;And Where the Money Goes&rpar;](https://dev.to/amanhstu/what-a-photography-website-really-costs-and-where-the-money-goes-1j1k)
-- [The API is a Promise: Designing for Systems You No Longer Control](https://dev.to/nahamaalochi/the-api-is-a-promise-designing-for-systems-you-no-longer-control-381)
+- [I Made a Video Editor Specifically for DEV.to Writers](https://dev.to/effessdev/i-made-a-video-editor-specifically-for-devto-writers-2p3g)
+- [AI CEO: Andon Labs launches Pion; its AI-run store and cafe lose money](https://dev.to/axrisi/ai-ceo-andon-labs-launches-pion-its-ai-run-store-and-cafe-lose-money-1o39)
+- [What Elsa Workflows and Workflow Engine NEO leave in your code](https://dev.to/optimajet/what-elsa-workflows-and-workflow-engine-neo-leave-in-your-code-5hm3)
+- [The commit is correct. Why does the hackathon demo fail on a clean checkout?](https://dev.to/stavleak-hackathons/the-commit-is-correct-why-does-the-hackathon-demo-fail-on-a-clean-checkout-5273)
 <!-- BLOG-POST-LIST:END -->
 
 
