@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating From Keyword Search to Vector Search on OpenSearch: A Guide for Teams Still on Lexical-Only](https://dev.to/jon_handler_9bb3e6b4a2fd0/migrating-from-keyword-search-to-vector-search-on-opensearch-a-guide-for-teams-still-on-f7j)
-- [The Outbox Held, the Ledger Didn&#39;t](https://dev.to/miguel_shinyenyi_e2291c8c/the-outbox-held-the-ledger-didnt-k7g)
-- [Idempotency keys, under load](https://dev.to/miguel_shinyenyi_e2291c8c/idempotency-keys-under-load-1a2c)
-- [Adding MapReduce to My Go Distributed File System](https://dev.to/shreyas_yadav_e6fbf9ad3f6/adding-mapreduce-to-my-go-distributed-file-system-2kd1)
+- [Rootless podman export of a keep-id container shifts every file owner, exit 0](https://dev.to/homelabpm/rootless-podman-export-of-a-keep-id-container-shifts-every-file-owner-exit-0-o42)
+- [I Built FeedbackMind AI So Customer Feedback Wouldn’t Be Forgotten](https://dev.to/durga_bhavanipaleti_c780/i-built-feedbackmind-ai-so-customer-feedback-wouldnt-be-forgotten-4pa4)
+- [A 429 that has not cleared in 111 days is not a rate limit](https://dev.to/marintkael/a-429-that-has-not-cleared-in-111-days-is-not-a-rate-limit-50fj)
+- [JWT vs. Sessions: Which Authentication Should You Use?](https://dev.to/ciphemic_academia_3dad1a0/jwt-vs-sessions-which-authentication-should-you-use-l0k)
 <!-- BLOG-POST-LIST:END -->
 
 
