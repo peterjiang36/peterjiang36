@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Rootless podman export of a keep-id container shifts every file owner, exit 0](https://dev.to/homelabpm/rootless-podman-export-of-a-keep-id-container-shifts-every-file-owner-exit-0-o42)
-- [I Built FeedbackMind AI So Customer Feedback Wouldn’t Be Forgotten](https://dev.to/durga_bhavanipaleti_c780/i-built-feedbackmind-ai-so-customer-feedback-wouldnt-be-forgotten-4pa4)
-- [A 429 that has not cleared in 111 days is not a rate limit](https://dev.to/marintkael/a-429-that-has-not-cleared-in-111-days-is-not-a-rate-limit-50fj)
-- [JWT vs. Sessions: Which Authentication Should You Use?](https://dev.to/ciphemic_academia_3dad1a0/jwt-vs-sessions-which-authentication-should-you-use-l0k)
+- [Automating Real Work with Muse: Connectors + Scheduled Tasks](https://dev.to/ying_liao_0a481102ff971b4/automating-real-work-with-muse-connectors-scheduled-tasks-58co)
+- [Virtualization Watch Issue 003: Citrix NetScaler Zero-Days Hit Over a Weekend; Sidero Builds a Hypervisor into Talos Linux](https://dev.to/zsvirt_community/virtualization-watch-issue-003-citrix-netscaler-zero-days-hit-over-a-weekend-sidero-builds-a-1c44)
+- [What a Photography Website Really Costs &lpar;And Where the Money Goes&rpar;](https://dev.to/amanhstu/what-a-photography-website-really-costs-and-where-the-money-goes-1j1k)
+- [The API is a Promise: Designing for Systems You No Longer Control](https://dev.to/nahamaalochi/the-api-is-a-promise-designing-for-systems-you-no-longer-control-381)
 <!-- BLOG-POST-LIST:END -->
 
 
