@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Texas HB 149 vs the EU AI Act: What Engineers Must Build](https://dev.to/subodhkc/texas-hb-149-vs-the-eu-ai-act-what-engineers-must-build-26pb)
-- [Teaching a Computer Word Meaning Without a Dictionary](https://dev.to/ira_deb/teaching-a-computer-word-meaning-without-a-dictionary-2ogo)
-- [Hiring Engineers vs Outsourcing: A Practical Decision Framework](https://dev.to/rishita_sharma_b0aa1ff81a/hiring-engineers-vs-outsourcing-a-practical-decision-framework-20hj)
-- [MVP vs PoC: What Should You Build First?](https://dev.to/rishita_sharma_b0aa1ff81a/mvp-vs-poc-what-should-you-build-first-g6e)
+- [I benchmarked Cloudflare&#39;s new open decision model against the hosted API it&#39;s trying to replace](https://dev.to/prodbymarcu/i-benchmarked-cloudflares-new-open-decision-model-against-the-hosted-api-its-trying-to-replace-2ded)
+- [Delete-on-read: designing a file share that destroys itself](https://dev.to/alisha_albert_fa8993b210a/delete-on-read-designing-a-file-share-that-destroys-itself-3j2i)
+- [Published and listed are two different events and we treated them as one](https://dev.to/unmannedops/published-and-listed-are-two-different-events-and-we-treated-them-as-one-3pbh)
+- [Getting to Know Your Data: An Introduction to Pandas](https://dev.to/maureenkipkosgei/getting-to-know-your-data-an-introduction-to-pandas-44a9)
 <!-- BLOG-POST-LIST:END -->
 
 
