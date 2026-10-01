@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-ethical-2io2)
-- [A telemetry contract for a mobile game soft launch](https://dev.to/uploadforsoftware/a-telemetry-contract-for-a-mobile-game-soft-launch-2h92)
-- [Outline: Add Prisma ORM to a Node.js project using PostgreSQL DB](https://dev.to/juddee/outline-add-prisma-orm-to-a-nodejs-project-using-postgresql-db-3j2b)
-- [A first-day response plan for CVE-2026-84411 in MikroTik RouterOS](https://dev.to/bianliang/a-first-day-response-plan-for-cve-2026-84411-in-mikrotik-routeros-4fi)
+- [Testing Solidity Trading Contracts with Foundry: Unit, Fork, and Failure-Path Testing](https://dev.to/hamssog/testing-solidity-trading-contracts-with-foundry-unit-fork-and-failure-path-testing-4pjb)
+- [Production AI &amp; LLM Task Pipelines: Managing Token Budgets, Backpressure, and Asynchronous Queue Architecture](https://dev.to/usman_khan_io/production-ai-llm-task-pipelines-managing-token-budgets-backpressure-and-asynchronous-queue-36l1)
+- [NIRNAY: a 450M open model that beats Jev](https://dev.to/gautamkishore/a-450m-open-model-that-beats-jev-2192)
+- [Your System Design Interview Ends Before You Draw a Single Box](https://dev.to/nurrehman/your-system-design-interview-ends-before-you-draw-a-single-box-46ic)
 <!-- BLOG-POST-LIST:END -->
 
 
