@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Voice Cloning Platforms Compared](https://dev.to/voice_developer/top-voice-cloning-platforms-compared-23ki)
-- [Secure Private Access and managed services: scoping CVE-2026-88771 beyond the appliance](https://dev.to/kozhevniko/secure-private-access-and-managed-services-scoping-cve-2026-88771-beyond-the-appliance-4p29)
-- [Statewave Guide — Day 1: The DOM is not the product](https://dev.to/statewave/statewave-guide-day-1-the-dom-is-not-the-product-1f4l)
-- [Building an Agentic Data Factory with Parquet, DuckDB, MCP, and Refinement Loops](https://dev.to/kyleledbetter/building-an-agentic-data-factory-with-parquet-duckdb-mcp-and-refinement-loops-2d78)
+- [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-ethical-2io2)
+- [A telemetry contract for a mobile game soft launch](https://dev.to/uploadforsoftware/a-telemetry-contract-for-a-mobile-game-soft-launch-2h92)
+- [Outline: Add Prisma ORM to a Node.js project using PostgreSQL DB](https://dev.to/juddee/outline-add-prisma-orm-to-a-nodejs-project-using-postgresql-db-3j2b)
+- [A first-day response plan for CVE-2026-84411 in MikroTik RouterOS](https://dev.to/bianliang/a-first-day-response-plan-for-cve-2026-84411-in-mikrotik-routeros-4fi)
 <!-- BLOG-POST-LIST:END -->
 
 
