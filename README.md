@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Solidity Trading Contracts with Foundry: Unit, Fork, and Failure-Path Testing](https://dev.to/hamssog/testing-solidity-trading-contracts-with-foundry-unit-fork-and-failure-path-testing-4pjb)
-- [Production AI &amp; LLM Task Pipelines: Managing Token Budgets, Backpressure, and Asynchronous Queue Architecture](https://dev.to/usman_khan_io/production-ai-llm-task-pipelines-managing-token-budgets-backpressure-and-asynchronous-queue-36l1)
-- [NIRNAY: a 450M open model that beats Jev](https://dev.to/gautamkishore/a-450m-open-model-that-beats-jev-2192)
-- [Your System Design Interview Ends Before You Draw a Single Box](https://dev.to/nurrehman/your-system-design-interview-ends-before-you-draw-a-single-box-46ic)
+- [Texas HB 149 vs the EU AI Act: What Engineers Must Build](https://dev.to/subodhkc/texas-hb-149-vs-the-eu-ai-act-what-engineers-must-build-26pb)
+- [Teaching a Computer Word Meaning Without a Dictionary](https://dev.to/ira_deb/teaching-a-computer-word-meaning-without-a-dictionary-2ogo)
+- [Hiring Engineers vs Outsourcing: A Practical Decision Framework](https://dev.to/rishita_sharma_b0aa1ff81a/hiring-engineers-vs-outsourcing-a-practical-decision-framework-20hj)
+- [MVP vs PoC: What Should You Build First?](https://dev.to/rishita_sharma_b0aa1ff81a/mvp-vs-poc-what-should-you-build-first-g6e)
 <!-- BLOG-POST-LIST:END -->
 
 
