@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I decide which channel is worth an agent&#39;s time: the 14 day elimination rule](https://dev.to/llmrt/how-i-decide-which-channel-is-worth-an-agents-time-the-14-day-elimination-rule-594e)
-- [Edge Appliances Keep Being Targeted: Where CVE-2026-88774 Fits](https://dev.to/stark_zhuang_df5076f35c68/edge-appliances-keep-being-targeted-where-cve-2026-88774-fits-3bni)
-- [LensLink — Sanity Challenge Path One](https://dev.to/egbutaify2ui/lenslink-sanity-challenge-path-one-10k)
-- [Kharcha: a 4B model that reads Indian bank SMS so the money stays on your laptop](https://dev.to/itskumaryash/kharcha-a-4b-model-that-reads-indian-bank-sms-so-the-money-stays-on-your-laptop-2n8j)
+- [Why You Should Stop Base64 Encoding SVGs in CSS &lpar;And What to Use Instead&rpar;](https://dev.to/kurosyss/why-you-should-stop-base64-encoding-svgs-in-css-and-what-to-use-instead-22gj)
+- [Small SaaS App Logging Service — Structured JSON for Logistics Cohorts](https://dev.to/ephraimpierce7934/small-saas-app-logging-service-structured-json-for-logistics-cohorts-334o)
+- [The hottest new hangout for middle schoolers is NPR’s comment section?](https://dev.to/ashish_624379625242c5d263/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section-2ih0)
+- [How X &lpar;Twitter&rpar; Actually Stores Videos, GIFs, Photos, and Spaces](https://dev.to/david1390/how-x-twitter-actually-stores-videos-gifs-photos-and-spaces-1g3a)
 <!-- BLOG-POST-LIST:END -->
 
 
