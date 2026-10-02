@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Our bucket policy let the office in and locked out every server we own](https://dev.to/sergey_shinder_ab2d943365/our-bucket-policy-let-the-office-in-and-locked-out-every-server-we-own-49eg)
-- [BugReplay: Helping Developers Learn from Bugs Their Team Has Already Solved 🐛](https://dev.to/jhashivam0022/bugreplay-helping-developers-learn-from-bugs-their-team-has-already-solved-27mn)
-- [Your Mentee Is Thinking About Leaving Tech](https://dev.to/asael_shinder_9f53bdca840/your-mentee-is-thinking-about-leaving-tech-47d9)
-- [Shelf Friend helps my friend compare supermarket prices and product care](https://dev.to/widechaos/shelf-friend-helps-my-friend-compare-supermarket-prices-and-product-care-2g9o)
+- [How I decide which channel is worth an agent&#39;s time: the 14 day elimination rule](https://dev.to/llmrt/how-i-decide-which-channel-is-worth-an-agents-time-the-14-day-elimination-rule-594e)
+- [Edge Appliances Keep Being Targeted: Where CVE-2026-88774 Fits](https://dev.to/stark_zhuang_df5076f35c68/edge-appliances-keep-being-targeted-where-cve-2026-88774-fits-3bni)
+- [LensLink — Sanity Challenge Path One](https://dev.to/egbutaify2ui/lenslink-sanity-challenge-path-one-10k)
+- [Kharcha: a 4B model that reads Indian bank SMS so the money stays on your laptop](https://dev.to/itskumaryash/kharcha-a-4b-model-that-reads-indian-bank-sms-so-the-money-stays-on-your-laptop-2n8j)
 <!-- BLOG-POST-LIST:END -->
 
 
