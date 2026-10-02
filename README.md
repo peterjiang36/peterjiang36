@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I benchmarked Cloudflare&#39;s new open decision model against the hosted API it&#39;s trying to replace](https://dev.to/prodbymarcu/i-benchmarked-cloudflares-new-open-decision-model-against-the-hosted-api-its-trying-to-replace-2ded)
-- [Delete-on-read: designing a file share that destroys itself](https://dev.to/alisha_albert_fa8993b210a/delete-on-read-designing-a-file-share-that-destroys-itself-3j2i)
-- [Published and listed are two different events and we treated them as one](https://dev.to/unmannedops/published-and-listed-are-two-different-events-and-we-treated-them-as-one-3pbh)
-- [Getting to Know Your Data: An Introduction to Pandas](https://dev.to/maureenkipkosgei/getting-to-know-your-data-an-introduction-to-pandas-44a9)
+- [Generative Simulation Benchmarking for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-with-ethical-4pl1)
+- [x402 endpoint not showing in the Bazaar? 10 causes and fixes](https://dev.to/forgealone/x402-endpoint-not-showing-in-the-bazaar-10-causes-and-fixes-15h9)
+- [Persistent AI Agent Laptop to VPS Handoff](https://dev.to/raylabs/persistent-ai-agent-laptop-to-vps-handoff-mo4)
+- [How I’m Learning C++ and DSA as a CSE Student 🚀](https://dev.to/loading08/how-im-learning-c-and-dsa-as-a-cse-student-4dnh)
 <!-- BLOG-POST-LIST:END -->
 
 
