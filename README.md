@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Stop Base64 Encoding SVGs in CSS &lpar;And What to Use Instead&rpar;](https://dev.to/kurosyss/why-you-should-stop-base64-encoding-svgs-in-css-and-what-to-use-instead-22gj)
-- [Small SaaS App Logging Service — Structured JSON for Logistics Cohorts](https://dev.to/ephraimpierce7934/small-saas-app-logging-service-structured-json-for-logistics-cohorts-334o)
-- [The hottest new hangout for middle schoolers is NPR’s comment section?](https://dev.to/ashish_624379625242c5d263/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section-2ih0)
-- [How X &lpar;Twitter&rpar; Actually Stores Videos, GIFs, Photos, and Spaces](https://dev.to/david1390/how-x-twitter-actually-stores-videos-gifs-photos-and-spaces-1g3a)
+- [My AI Agent Kept Missing Deadlines and Double-Posting — Here&#39;s How I Fixed It with JSON Interfaces and Idempotency Checks](https://dev.to/masaoshimadaopen/my-ai-agent-kept-missing-deadlines-and-double-posting-heres-how-i-fixed-it-with-json-interfaces-4enh)
+- [I built an hourly crypto &quot;market thermometer&quot; from free data, then refused to let it trade](https://dev.to/wataru_suda_d295dab9cca4f/i-built-an-hourly-crypto-market-thermometer-from-free-data-then-refused-to-let-it-trade-4dn7)
+- [Cloudflare Put a 402 Paywall Behind Every Domain. The Rail Was Never the Hard Part.](https://dev.to/minia2a/cloudflare-put-a-402-paywall-behind-every-domain-the-rail-was-never-the-hard-part-5g4j)
+- [Reliable Realtime Notification Preferences for Stock Trading Watchlist Testing](https://dev.to/jerichorhodes5847/reliable-realtime-notification-preferences-for-stock-trading-watchlist-testing-3781)
 <!-- BLOG-POST-LIST:END -->
 
 
