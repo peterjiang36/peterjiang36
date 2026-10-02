@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative Simulation Benchmarking for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-with-ethical-4pl1)
-- [x402 endpoint not showing in the Bazaar? 10 causes and fixes](https://dev.to/forgealone/x402-endpoint-not-showing-in-the-bazaar-10-causes-and-fixes-15h9)
-- [Persistent AI Agent Laptop to VPS Handoff](https://dev.to/raylabs/persistent-ai-agent-laptop-to-vps-handoff-mo4)
-- [How I’m Learning C++ and DSA as a CSE Student 🚀](https://dev.to/loading08/how-im-learning-c-and-dsa-as-a-cse-student-4dnh)
+- [Our bucket policy let the office in and locked out every server we own](https://dev.to/sergey_shinder_ab2d943365/our-bucket-policy-let-the-office-in-and-locked-out-every-server-we-own-49eg)
+- [BugReplay: Helping Developers Learn from Bugs Their Team Has Already Solved 🐛](https://dev.to/jhashivam0022/bugreplay-helping-developers-learn-from-bugs-their-team-has-already-solved-27mn)
+- [Your Mentee Is Thinking About Leaving Tech](https://dev.to/asael_shinder_9f53bdca840/your-mentee-is-thinking-about-leaving-tech-47d9)
+- [Shelf Friend helps my friend compare supermarket prices and product care](https://dev.to/widechaos/shelf-friend-helps-my-friend-compare-supermarket-prices-and-product-care-2g9o)
 <!-- BLOG-POST-LIST:END -->
 
 
