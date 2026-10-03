@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The press said a crater explains where Phobos came from. The paper said the moon&#39;s origin is still unsolved.](https://dev.to/richardcallsit/the-press-said-a-crater-explains-where-phobos-came-from-the-paper-said-the-moons-origin-is-still-4c29)
-- [Elixir Enchiridium — Tomo VIII: Os Guardiões parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-viii-os-guardioes-parte-3-3789)
-- [Elixir Enchiridium — Tomo VIII: Os Guardiões parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-viii-os-guardioes-parte-2-a52)
-- [Should your Playwright page object use a getter?](https://dev.to/aiwithanton/should-your-playwright-page-object-use-a-getter-26b4)
+- [Why You Should Never Trust the Frontend for Server-Side Verification](https://dev.to/dilutedev/why-you-should-never-trust-the-frontend-for-server-side-verification-230n)
+- [How to organize a large OpenAPI spec: multi-file structure, $ref rules, and CI checks](https://dev.to/jeff_pdc/how-to-organize-a-large-openapi-spec-multi-file-structure-ref-rules-and-ci-checks-194n)
+- [Gev: Gmail label suggestions with an embedded inference engine.](https://dev.to/opticxc/gev-gmail-label-suggestions-with-an-embedded-inference-engine-eci)
+- [How to Prepare for Your Final Year Project Viva &lpar;Simple Guide&rpar;](https://dev.to/collegeprojectexpert/how-to-prepare-for-your-final-year-project-viva-simple-guide-3167)
 <!-- BLOG-POST-LIST:END -->
 
 
