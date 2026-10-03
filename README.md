@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Kept Missing Deadlines and Double-Posting — Here&#39;s How I Fixed It with JSON Interfaces and Idempotency Checks](https://dev.to/masaoshimadaopen/my-ai-agent-kept-missing-deadlines-and-double-posting-heres-how-i-fixed-it-with-json-interfaces-4enh)
-- [I built an hourly crypto &quot;market thermometer&quot; from free data, then refused to let it trade](https://dev.to/wataru_suda_d295dab9cca4f/i-built-an-hourly-crypto-market-thermometer-from-free-data-then-refused-to-let-it-trade-4dn7)
-- [Cloudflare Put a 402 Paywall Behind Every Domain. The Rail Was Never the Hard Part.](https://dev.to/minia2a/cloudflare-put-a-402-paywall-behind-every-domain-the-rail-was-never-the-hard-part-5g4j)
-- [Reliable Realtime Notification Preferences for Stock Trading Watchlist Testing](https://dev.to/jerichorhodes5847/reliable-realtime-notification-preferences-for-stock-trading-watchlist-testing-3781)
+- [Common Next.js Mistakes Beginners Make &lpar;and How to Avoid Them&rpar;](https://dev.to/coderifki/common-nextjs-mistakes-beginners-make-and-how-to-avoid-them-5fn3)
+- [Solving AWS re:Post&#39;s #1 GenAI Headache: Real-Time Token Streaming with Amazon Bedrock &amp; AWS Lambda](https://dev.to/sharmavarun/solving-aws-reposts-1-genai-headache-real-time-token-streaming-with-amazon-bedrock-aws-lambda-37kh)
+- [One File, Zero External Requests: What That Rule Actually Costs You](https://dev.to/monkeyrun/one-file-zero-external-requests-what-that-rule-actually-costs-you-hag)
+- [🎤 Event Hub: Tech Conference Discovery Platform Built with Sanity CMS](https://dev.to/sotaro/event-hub-tech-conference-discovery-platfsanitychallenge-devchallenge-sanity-nextjsorm-built-5440)
 <!-- BLOG-POST-LIST:END -->
 
 
