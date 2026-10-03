@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Agency Agents: The Open-Source AI Agency That Runs 146K+ Starred Agent Personas](https://dev.to/unfiltered_anshul/agency-agents-the-open-source-ai-agency-that-runs-146k-starred-agent-personas-18a8)
-- [Arquitectura de una casa inteligente con ESP32 y AWS: las piezas y cómo encajan](https://dev.to/stevencarvajal/arquitectura-de-una-casa-inteligente-con-esp32-y-aws-las-piezas-y-como-encajan-5d1h)
-- [Our brand voice rules are unit tests, including the one that bans the em dash](https://dev.to/daniel_pertu/our-brand-voice-rules-are-unit-tests-including-the-one-that-bans-the-em-dash-4bd2)
-- [I Love .NET Blazor. Now It Can Build Agentic UI, Not Just Chat Boxes](https://dev.to/auyeungdavid_2847435260/i-love-net-blazor-now-it-can-build-agentic-ui-not-just-chat-boxes-13a3)
+- [The press said a crater explains where Phobos came from. The paper said the moon&#39;s origin is still unsolved.](https://dev.to/richardcallsit/the-press-said-a-crater-explains-where-phobos-came-from-the-paper-said-the-moons-origin-is-still-4c29)
+- [Elixir Enchiridium — Tomo VIII: Os Guardiões parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-viii-os-guardioes-parte-3-3789)
+- [Elixir Enchiridium — Tomo VIII: Os Guardiões parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-viii-os-guardioes-parte-2-a52)
+- [Should your Playwright page object use a getter?](https://dev.to/aiwithanton/should-your-playwright-page-object-use-a-getter-26b4)
 <!-- BLOG-POST-LIST:END -->
 
 
