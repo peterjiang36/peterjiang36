@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Next.js Mistakes Beginners Make &lpar;and How to Avoid Them&rpar;](https://dev.to/coderifki/common-nextjs-mistakes-beginners-make-and-how-to-avoid-them-5fn3)
-- [Solving AWS re:Post&#39;s #1 GenAI Headache: Real-Time Token Streaming with Amazon Bedrock &amp; AWS Lambda](https://dev.to/sharmavarun/solving-aws-reposts-1-genai-headache-real-time-token-streaming-with-amazon-bedrock-aws-lambda-37kh)
-- [One File, Zero External Requests: What That Rule Actually Costs You](https://dev.to/monkeyrun/one-file-zero-external-requests-what-that-rule-actually-costs-you-hag)
-- [🎤 Event Hub: Tech Conference Discovery Platform Built with Sanity CMS](https://dev.to/sotaro/event-hub-tech-conference-discovery-platfsanitychallenge-devchallenge-sanity-nextjsorm-built-5440)
+- [Agency Agents: The Open-Source AI Agency That Runs 146K+ Starred Agent Personas](https://dev.to/unfiltered_anshul/agency-agents-the-open-source-ai-agency-that-runs-146k-starred-agent-personas-18a8)
+- [Arquitectura de una casa inteligente con ESP32 y AWS: las piezas y cómo encajan](https://dev.to/stevencarvajal/arquitectura-de-una-casa-inteligente-con-esp32-y-aws-las-piezas-y-como-encajan-5d1h)
+- [Our brand voice rules are unit tests, including the one that bans the em dash](https://dev.to/daniel_pertu/our-brand-voice-rules-are-unit-tests-including-the-one-that-bans-the-em-dash-4bd2)
+- [I Love .NET Blazor. Now It Can Build Agentic UI, Not Just Chat Boxes](https://dev.to/auyeungdavid_2847435260/i-love-net-blazor-now-it-can-build-agentic-ui-not-just-chat-boxes-13a3)
 <!-- BLOG-POST-LIST:END -->
 
 
