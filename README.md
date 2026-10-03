@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Never Trust the Frontend for Server-Side Verification](https://dev.to/dilutedev/why-you-should-never-trust-the-frontend-for-server-side-verification-230n)
-- [How to organize a large OpenAPI spec: multi-file structure, $ref rules, and CI checks](https://dev.to/jeff_pdc/how-to-organize-a-large-openapi-spec-multi-file-structure-ref-rules-and-ci-checks-194n)
-- [Gev: Gmail label suggestions with an embedded inference engine.](https://dev.to/opticxc/gev-gmail-label-suggestions-with-an-embedded-inference-engine-eci)
-- [How to Prepare for Your Final Year Project Viva &lpar;Simple Guide&rpar;](https://dev.to/collegeprojectexpert/how-to-prepare-for-your-final-year-project-viva-simple-guide-3167)
+- [Flock Verdict: Why IT Leaders Must Stop Mass Employee Surveillance](https://dev.to/leojulieta/flock-verdict-why-it-leaders-must-stop-mass-employee-surveillance-300k)
+- [JLScript: Guia Completo da Sintaxe, do Básico ao Avançado](https://dev.to/eoh_lczinn/jlscript-guia-completo-da-sintaxe-do-basico-ao-avancado-28hb)
+- [Pushing Container Images to Google Cloud Artifact Registry &lpar;Step-by-Step&rpar;](https://dev.to/mitrakumar/pushing-container-images-to-google-cloud-artifact-registry-step-by-step-3h0o)
+- [Implementing Public Watermark Delivery — Keep Original Promo Frames Private](https://dev.to/ulyssesblack2385/implementing-public-watermark-delivery-keep-original-promo-frames-private-2ikd)
 <!-- BLOG-POST-LIST:END -->
 
 
