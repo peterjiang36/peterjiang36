@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flock Verdict: Why IT Leaders Must Stop Mass Employee Surveillance](https://dev.to/leojulieta/flock-verdict-why-it-leaders-must-stop-mass-employee-surveillance-300k)
-- [JLScript: Guia Completo da Sintaxe, do Básico ao Avançado](https://dev.to/eoh_lczinn/jlscript-guia-completo-da-sintaxe-do-basico-ao-avancado-28hb)
-- [Pushing Container Images to Google Cloud Artifact Registry &lpar;Step-by-Step&rpar;](https://dev.to/mitrakumar/pushing-container-images-to-google-cloud-artifact-registry-step-by-step-3h0o)
-- [Implementing Public Watermark Delivery — Keep Original Promo Frames Private](https://dev.to/ulyssesblack2385/implementing-public-watermark-delivery-keep-original-promo-frames-private-2ikd)
+- [My Automated Quality Check Passed Garbage. Here Is the Second Layer I Added.](https://dev.to/revanzart/my-automated-quality-check-passed-garbage-here-is-the-second-layer-i-added-1lgf)
+- [Node.js Pricing Rollout Logs — Choosing Sentry, Better Stack, Axiom, or Seq](https://dev.to/barnabyvance6852/nodejs-pricing-rollout-logs-choosing-sentry-better-stack-axiom-or-seq-3jj0)
+- [Pulse &amp; Pressure](https://dev.to/nicholascloud4/pulse-pressure-117g)
+- [Why Windows 11 Gets Slow After an Update](https://dev.to/raincleaner/why-windows-11-gets-slow-after-an-update-2koi)
 <!-- BLOG-POST-LIST:END -->
 
 
