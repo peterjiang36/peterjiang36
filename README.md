@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture I Built vs. The Architecture I Could Deploy](https://dev.to/vicarioy/the-architecture-i-built-vs-the-architecture-i-could-deploy-5eoi)
-- [Tesla Wrap Design: Check the Template, 3D Preview and Export Separately](https://dev.to/wraplab3d/tesla-wrap-design-check-the-template-3d-preview-and-export-separately-48e9)
-- [Cisco FMC CVE-2026-20079: a CVSS 10.0 management-plane bypass and the clusters behind it](https://dev.to/stark_zhuang_df5076f35c68/cisco-fmc-cve-2026-20079-a-cvss-100-management-plane-bypass-and-the-clusters-behind-it-24ok)
-- [FP16 Quantization Made Our In-Browser Real-ESRGAN 4.8x Faster — and Nearly Destroyed Our Inpainting Model](https://dev.to/sharksevenro/fp16-quantization-made-our-in-browser-real-esrgan-48x-faster-and-nearly-destroyed-our-inpainting-52m1)
+- [Hands-On with Cloudflare&#39;s Decision Model Clef on Workers AI](https://dev.to/akari_iku/hands-on-with-cloudflares-decision-model-clef-on-workers-ai-del)
+- [Building a Resilient Local RAG Backend Engine for Hacktoberfest 2026](https://dev.to/ankanju/building-a-resilient-local-rag-backend-engine-for-hacktoberfest-2026-2445)
+- [Unit 3 Has 3 HP and I Have an Open-Weight Dungeon Master](https://dev.to/jahnavi_b60d7891a5f6c/unit-3-has-3-hp-and-i-have-an-open-weight-dungeon-master-125m)
+- [Groundtruth: a revision partner for my cousin that only answers from his notes](https://dev.to/jarviswick/groundtruth-a-revision-partner-for-my-cousin-that-only-answers-from-his-notes-1nfk)
 <!-- BLOG-POST-LIST:END -->
 
 
