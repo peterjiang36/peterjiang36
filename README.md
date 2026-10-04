@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a safe sandbox for my friend where he or anyone can practice small talk and public speaking without being judged](https://dev.to/cookiedayzz/i-built-a-safe-sandbox-for-my-friend-where-he-or-anyone-can-practice-small-talk-and-public-speaking-3efc)
-- [CareerBuddy - Private Local AI That Tells You Exactly What to Do Next in Your Job Search](https://dev.to/gowtham_m_2c7f2a0ed2a274b/careerbuddy-private-local-ai-that-tells-you-exactly-what-to-do-next-in-your-job-search-3lcg)
-- [Healtify: Turn your everyday bad habits into good one](https://dev.to/mritunjai/healtify-turn-your-everyday-bad-habits-into-good-one-43cc)
-- [Itch - to satisfy your nerdy adhd brain](https://dev.to/kusum0710/itch-to-satisfy-your-nerdy-adhd-brain-4nlm)
+- [HomeMemory {Memo}](https://dev.to/laiba_ashfaq_4b3f4b363ad4/homememory-memo-16bj)
+- [Letter Buddy: An Offline AI That Explains Official Letters in Telugu](https://dev.to/sricharan_rao_resmai/letter-buddy-an-offline-ai-that-explains-official-letters-in-telugu-5foi)
+- [Homa: O protocolo que turbo‑acelera seu treinamento de IA](https://dev.to/leojulieta/homa-o-protocolo-que-turbo-acelera-seu-treinamento-de-ia-2a2n)
+- [Boost AI Training Speed: Homa Low‑Latency Transport](https://dev.to/leojulieta/boost-ai-training-speed-homa-low-latency-transport-42al)
 <!-- BLOG-POST-LIST:END -->
 
 
