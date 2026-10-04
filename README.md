@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Automated Quality Check Passed Garbage. Here Is the Second Layer I Added.](https://dev.to/revanzart/my-automated-quality-check-passed-garbage-here-is-the-second-layer-i-added-1lgf)
-- [Node.js Pricing Rollout Logs — Choosing Sentry, Better Stack, Axiom, or Seq](https://dev.to/barnabyvance6852/nodejs-pricing-rollout-logs-choosing-sentry-better-stack-axiom-or-seq-3jj0)
-- [Pulse &amp; Pressure](https://dev.to/nicholascloud4/pulse-pressure-117g)
-- [Why Windows 11 Gets Slow After an Update](https://dev.to/raincleaner/why-windows-11-gets-slow-after-an-update-2koi)
+- [The Architecture I Built vs. The Architecture I Could Deploy](https://dev.to/vicarioy/the-architecture-i-built-vs-the-architecture-i-could-deploy-5eoi)
+- [Tesla Wrap Design: Check the Template, 3D Preview and Export Separately](https://dev.to/wraplab3d/tesla-wrap-design-check-the-template-3d-preview-and-export-separately-48e9)
+- [Cisco FMC CVE-2026-20079: a CVSS 10.0 management-plane bypass and the clusters behind it](https://dev.to/stark_zhuang_df5076f35c68/cisco-fmc-cve-2026-20079-a-cvss-100-management-plane-bypass-and-the-clusters-behind-it-24ok)
+- [FP16 Quantization Made Our In-Browser Real-ESRGAN 4.8x Faster — and Nearly Destroyed Our Inpainting Model](https://dev.to/sharksevenro/fp16-quantization-made-our-in-browser-real-esrgan-48x-faster-and-nearly-destroyed-our-inpainting-52m1)
 <!-- BLOG-POST-LIST:END -->
 
 
