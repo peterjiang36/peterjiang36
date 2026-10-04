@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On with Cloudflare&#39;s Decision Model Clef on Workers AI](https://dev.to/akari_iku/hands-on-with-cloudflares-decision-model-clef-on-workers-ai-del)
-- [Building a Resilient Local RAG Backend Engine for Hacktoberfest 2026](https://dev.to/ankanju/building-a-resilient-local-rag-backend-engine-for-hacktoberfest-2026-2445)
-- [Unit 3 Has 3 HP and I Have an Open-Weight Dungeon Master](https://dev.to/jahnavi_b60d7891a5f6c/unit-3-has-3-hp-and-i-have-an-open-weight-dungeon-master-125m)
-- [Groundtruth: a revision partner for my cousin that only answers from his notes](https://dev.to/jarviswick/groundtruth-a-revision-partner-for-my-cousin-that-only-answers-from-his-notes-1nfk)
+- [I built a safe sandbox for my friend where he or anyone can practice small talk and public speaking without being judged](https://dev.to/cookiedayzz/i-built-a-safe-sandbox-for-my-friend-where-he-or-anyone-can-practice-small-talk-and-public-speaking-3efc)
+- [CareerBuddy - Private Local AI That Tells You Exactly What to Do Next in Your Job Search](https://dev.to/gowtham_m_2c7f2a0ed2a274b/careerbuddy-private-local-ai-that-tells-you-exactly-what-to-do-next-in-your-job-search-3lcg)
+- [Healtify: Turn your everyday bad habits into good one](https://dev.to/mritunjai/healtify-turn-your-everyday-bad-habits-into-good-one-43cc)
+- [Itch - to satisfy your nerdy adhd brain](https://dev.to/kusum0710/itch-to-satisfy-your-nerdy-adhd-brain-4nlm)
 <!-- BLOG-POST-LIST:END -->
 
 
