@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Our admin allowlist is a constant in a compiled file, and the environment variable version is what broke](https://dev.to/daniel_pertu/our-admin-allowlist-is-a-constant-in-a-compiled-file-and-the-environment-variable-version-is-what-4gn3)
-- [Crypto Tax Loss Harvesting for Developers: Find Your Losing Lots with a Few Lines of Python](https://dev.to/nutshellcrypto/crypto-tax-loss-harvesting-for-developers-find-your-losing-lots-with-a-few-lines-of-python-89p)
-- [A missing environment variable should make our app useless, not open](https://dev.to/daniel_pertu/a-missing-environment-variable-should-make-our-app-useless-not-open-4805)
-- [What I learned shipping a pay-per-call Irish rent API for AI agents &lpar;x402 + MPP + MCP&rpar;](https://dev.to/talulon/what-i-learned-shipping-a-pay-per-call-irish-rent-api-for-ai-agents-x402-mpp-mcp-2a8a)
+- [AI Governance Framework: How Enterprises Can Scale AI Responsibly in 2026](https://dev.to/senthil_kr/ai-governance-framework-how-enterprises-can-scale-ai-responsibly-in-2026-38lp)
+- [How AI Is Becoming Part of Everyday Life](https://dev.to/senthil_kr/how-ai-is-becoming-part-of-everyday-life-2ci)
+- [AI Agents vs AI Workflows: What Businesses Need to Know in 2026](https://dev.to/senthil_kr/ai-agents-vs-ai-workflows-what-businesses-need-to-know-in-2026-2eaf)
+- [Model Context Protocol: The Future of Enterprise AI Integration](https://dev.to/senthil_kr/model-context-protocol-the-future-of-enterprise-ai-integration-l1a)
 <!-- BLOG-POST-LIST:END -->
 
 
