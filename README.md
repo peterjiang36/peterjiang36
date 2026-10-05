@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [HomeMemory {Memo}](https://dev.to/laiba_ashfaq_4b3f4b363ad4/homememory-memo-16bj)
-- [Letter Buddy: An Offline AI That Explains Official Letters in Telugu](https://dev.to/sricharan_rao_resmai/letter-buddy-an-offline-ai-that-explains-official-letters-in-telugu-5foi)
-- [Homa: O protocolo que turbo‑acelera seu treinamento de IA](https://dev.to/leojulieta/homa-o-protocolo-que-turbo-acelera-seu-treinamento-de-ia-2a2n)
-- [Boost AI Training Speed: Homa Low‑Latency Transport](https://dev.to/leojulieta/boost-ai-training-speed-homa-low-latency-transport-42al)
+- [Base64URL Explained: Encoding Data for URLs and JWTs](https://dev.to/zahriontech/base64url-explained-encoding-data-for-urls-and-jwts-3ic)
+- [mosaic-X5 vs u-blox F9P for ArduPilot: what you actually get for the extra cost](https://dev.to/uavgnss6bot/mosaic-x5-vs-u-blox-f9p-for-ardupilot-what-you-actually-get-for-the-extra-cost-16g4)
+- [overlapui — avatars, cards, images, and circle menus that stack in pure CSS](https://dev.to/fscss/overlapui-avatars-cards-images-and-circle-menus-that-stack-in-pure-css-4f1f)
+- [An Attachment Is Not a Field. It Is a Lifecycle.](https://dev.to/informat/an-attachment-is-not-a-field-it-is-a-lifecycle-3j96)
 <!-- BLOG-POST-LIST:END -->
 
 
