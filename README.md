@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Base64URL Explained: Encoding Data for URLs and JWTs](https://dev.to/zahriontech/base64url-explained-encoding-data-for-urls-and-jwts-3ic)
-- [mosaic-X5 vs u-blox F9P for ArduPilot: what you actually get for the extra cost](https://dev.to/uavgnss6bot/mosaic-x5-vs-u-blox-f9p-for-ardupilot-what-you-actually-get-for-the-extra-cost-16g4)
-- [overlapui — avatars, cards, images, and circle menus that stack in pure CSS](https://dev.to/fscss/overlapui-avatars-cards-images-and-circle-menus-that-stack-in-pure-css-4f1f)
-- [An Attachment Is Not a Field. It Is a Lifecycle.](https://dev.to/informat/an-attachment-is-not-a-field-it-is-a-lifecycle-3j96)
+- [Our admin allowlist is a constant in a compiled file, and the environment variable version is what broke](https://dev.to/daniel_pertu/our-admin-allowlist-is-a-constant-in-a-compiled-file-and-the-environment-variable-version-is-what-4gn3)
+- [Crypto Tax Loss Harvesting for Developers: Find Your Losing Lots with a Few Lines of Python](https://dev.to/nutshellcrypto/crypto-tax-loss-harvesting-for-developers-find-your-losing-lots-with-a-few-lines-of-python-89p)
+- [A missing environment variable should make our app useless, not open](https://dev.to/daniel_pertu/a-missing-environment-variable-should-make-our-app-useless-not-open-4805)
+- [What I learned shipping a pay-per-call Irish rent API for AI agents &lpar;x402 + MPP + MCP&rpar;](https://dev.to/talulon/what-i-learned-shipping-a-pay-per-call-irish-rent-api-for-ai-agents-x402-mpp-mcp-2a8a)
 <!-- BLOG-POST-LIST:END -->
 
 
