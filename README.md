@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scrum Master to Agile Coach: Navigating the Next Career Step](https://dev.to/theagileforum/scrum-master-to-agile-coach-navigating-the-next-career-step-2na)
-- [WildWalk AI: An Open-Source AI Companion That Gets You Off the Screen &amp; Into the Real World](https://dev.to/lavish_sheth_91011ff98953/wildwalk-ai-an-open-source-ai-companion-that-gets-you-off-the-screen-into-the-real-world-2col)
-- [How I turn any handful of colours into a readable theme](https://dev.to/zeybek/how-i-turn-any-handful-of-colours-into-a-readable-theme-hpn)
-- [How camouflage.nvim masks secrets in Neovim without leaking a frame](https://dev.to/zeybek/how-camouflagenvim-masks-secrets-in-neovim-without-leaking-a-frame-1fao)
+- [OpenBot 3: Crie Bots de IA Locais e Multijogador em Minutos](https://dev.to/leojulieta/openbot-3-crie-bots-de-ia-locais-e-multijogador-em-minutos-21k8)
+- [Do you open GitHub just to check if an Action has finished?](https://dev.to/marcelxsilva/do-you-open-github-just-to-check-if-an-action-has-finished-34k)
+- [Stop Redrawing Your Architecture: YAML, SQL, Terraform and EXPLAIN Plans to Diagrams in One Paste](https://dev.to/adnan_hamdi/stop-redrawing-your-architecture-yaml-sql-terraform-and-explain-plans-to-diagrams-in-one-paste-39lc)
+- [Denmark CPR Breach: Legitimate Company Access Abused to Query Data on About 8.8 Million People](https://dev.to/anoymask/denmark-cpr-breach-legitimate-company-access-abused-to-query-data-on-about-88-million-people-3be4)
 <!-- BLOG-POST-LIST:END -->
 
 
