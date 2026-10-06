@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Governance Framework: How Enterprises Can Scale AI Responsibly in 2026](https://dev.to/senthil_kr/ai-governance-framework-how-enterprises-can-scale-ai-responsibly-in-2026-38lp)
-- [How AI Is Becoming Part of Everyday Life](https://dev.to/senthil_kr/how-ai-is-becoming-part-of-everyday-life-2ci)
-- [AI Agents vs AI Workflows: What Businesses Need to Know in 2026](https://dev.to/senthil_kr/ai-agents-vs-ai-workflows-what-businesses-need-to-know-in-2026-2eaf)
-- [Model Context Protocol: The Future of Enterprise AI Integration](https://dev.to/senthil_kr/model-context-protocol-the-future-of-enterprise-ai-integration-l1a)
+- [Build a Voice-Powered Accessibility Tool](https://dev.to/voice_developer/build-a-voice-powered-accessibility-tool-2dli)
+- [2026 API Uptime Monitoring for Small B2B SaaS EU Hosting](https://dev.to/liamfoster1844/2026-api-uptime-monitoring-for-small-b2b-saas-eu-hosting-1mg7)
+- [Beyond Replacement: Designing AI That Treats People as Subjects, Not Objects](https://dev.to/logiheart/beyond-replacement-designing-ai-that-treats-people-as-subjects-not-objects-3723)
+- [Reusable Product Assets with Go: Reliable Background Removal Under Upload Bursts](https://dev.to/raffertybarrett4726/reusable-product-assets-with-go-reliable-background-removal-under-upload-bursts-50jp)
 <!-- BLOG-POST-LIST:END -->
 
 
