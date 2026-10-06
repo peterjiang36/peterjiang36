@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenBot 3: Crie Bots de IA Locais e Multijogador em Minutos](https://dev.to/leojulieta/openbot-3-crie-bots-de-ia-locais-e-multijogador-em-minutos-21k8)
-- [Do you open GitHub just to check if an Action has finished?](https://dev.to/marcelxsilva/do-you-open-github-just-to-check-if-an-action-has-finished-34k)
-- [Stop Redrawing Your Architecture: YAML, SQL, Terraform and EXPLAIN Plans to Diagrams in One Paste](https://dev.to/adnan_hamdi/stop-redrawing-your-architecture-yaml-sql-terraform-and-explain-plans-to-diagrams-in-one-paste-39lc)
-- [Denmark CPR Breach: Legitimate Company Access Abused to Query Data on About 8.8 Million People](https://dev.to/anoymask/denmark-cpr-breach-legitimate-company-access-abused-to-query-data-on-about-88-million-people-3be4)
+- [Linux Network Interfaces: Find the Right Device, State, and IP](https://dev.to/__3381495fd2b/linux-network-interfaces-find-the-right-device-state-and-ip-1l65)
+- [What I learned from building a Image Search System](https://dev.to/albres/what-i-learned-from-building-a-image-search-system-7np)
+- [Reconstructing Edtech Outages — Node.js Express Health Checks with /ready and /live](https://dev.to/frosty45/reconstructing-edtech-outages-nodejs-express-health-checks-with-ready-and-live-46cb)
+- [Extending PcDevice Search: Regex Limits and Invoice Fields Integration](https://dev.to/zaerohell/extending-pcdevice-search-regex-limits-and-invoice-fields-integration-1haa)
 <!-- BLOG-POST-LIST:END -->
 
 
