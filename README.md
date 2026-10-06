@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Voice-Powered Accessibility Tool](https://dev.to/voice_developer/build-a-voice-powered-accessibility-tool-2dli)
-- [2026 API Uptime Monitoring for Small B2B SaaS EU Hosting](https://dev.to/liamfoster1844/2026-api-uptime-monitoring-for-small-b2b-saas-eu-hosting-1mg7)
-- [Beyond Replacement: Designing AI That Treats People as Subjects, Not Objects](https://dev.to/logiheart/beyond-replacement-designing-ai-that-treats-people-as-subjects-not-objects-3723)
-- [Reusable Product Assets with Go: Reliable Background Removal Under Upload Bursts](https://dev.to/raffertybarrett4726/reusable-product-assets-with-go-reliable-background-removal-under-upload-bursts-50jp)
+- [Scrum Master to Agile Coach: Navigating the Next Career Step](https://dev.to/theagileforum/scrum-master-to-agile-coach-navigating-the-next-career-step-2na)
+- [WildWalk AI: An Open-Source AI Companion That Gets You Off the Screen &amp; Into the Real World](https://dev.to/lavish_sheth_91011ff98953/wildwalk-ai-an-open-source-ai-companion-that-gets-you-off-the-screen-into-the-real-world-2col)
+- [How I turn any handful of colours into a readable theme](https://dev.to/zeybek/how-i-turn-any-handful-of-colours-into-a-readable-theme-hpn)
+- [How camouflage.nvim masks secrets in Neovim without leaking a frame](https://dev.to/zeybek/how-camouflagenvim-masks-secrets-in-neovim-without-leaking-a-frame-1fao)
 <!-- BLOG-POST-LIST:END -->
 
 
