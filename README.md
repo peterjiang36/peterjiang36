@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dá praia amanhã? One line the night before, picked by code and explained by Gemma 4 on my laptop](https://dev.to/vinimabreu/da-praia-amanha-one-line-the-night-before-picked-by-code-and-explained-by-gemma-4-on-my-laptop-3fnf)
-- [Where Muse Spark Code is going: bring your own models, agent teams and every editor](https://dev.to/randynorthrup/where-muse-spark-code-is-going-bring-your-own-models-agent-teams-and-every-editor-529d)
-- [Self-Hosting an AI Assistant on CasaOS: A Step-by-Step OpenMuse Install Guide &lpar;Pitfalls Included&rpar;](https://dev.to/muratmed/self-hosting-an-ai-assistant-on-casaos-a-step-by-step-openmuse-install-guide-pitfalls-included-228b)
-- [OpenBot 0.1.3: we put the agent in a box](https://dev.to/leonid_gorkin_9ce5bebbf44/openbot-013-we-put-the-agent-in-a-box-1h38)
+- [Cognitive Accessibility: Making a Spreadsheet an Accessible Tool, Not a Maze](https://dev.to/revanzart/cognitive-accessibility-making-a-spreadsheet-an-accessible-tool-not-a-maze-21bl)
+- [Building an OCPP Backend: Lessons from Supporting OCPP 1.6J and OCPP 2.0.1 in Production](https://dev.to/ureticy/building-an-ocpp-backend-lessons-from-supporting-ocpp-16j-and-ocpp-201-in-production-47oa)
+- [I Think We&#39;re Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
+- [Designing Error States for VIN Lookup UIs: Invalid, Incomplete, and Ambiguous Decodes](https://dev.to/vin_lookup_8dbd4710f77e9e/designing-error-states-for-vin-lookup-uis-invalid-incomplete-and-ambiguous-decodes-1ppc)
 <!-- BLOG-POST-LIST:END -->
 
 
