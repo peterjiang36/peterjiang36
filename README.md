@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux Network Interfaces: Find the Right Device, State, and IP](https://dev.to/__3381495fd2b/linux-network-interfaces-find-the-right-device-state-and-ip-1l65)
-- [What I learned from building a Image Search System](https://dev.to/albres/what-i-learned-from-building-a-image-search-system-7np)
-- [Reconstructing Edtech Outages — Node.js Express Health Checks with /ready and /live](https://dev.to/frosty45/reconstructing-edtech-outages-nodejs-express-health-checks-with-ready-and-live-46cb)
-- [Extending PcDevice Search: Regex Limits and Invoice Fields Integration](https://dev.to/zaerohell/extending-pcdevice-search-regex-limits-and-invoice-fields-integration-1haa)
+- [Dá praia amanhã? One line the night before, picked by code and explained by Gemma 4 on my laptop](https://dev.to/vinimabreu/da-praia-amanha-one-line-the-night-before-picked-by-code-and-explained-by-gemma-4-on-my-laptop-3fnf)
+- [Where Muse Spark Code is going: bring your own models, agent teams and every editor](https://dev.to/randynorthrup/where-muse-spark-code-is-going-bring-your-own-models-agent-teams-and-every-editor-529d)
+- [Self-Hosting an AI Assistant on CasaOS: A Step-by-Step OpenMuse Install Guide &lpar;Pitfalls Included&rpar;](https://dev.to/muratmed/self-hosting-an-ai-assistant-on-casaos-a-step-by-step-openmuse-install-guide-pitfalls-included-228b)
+- [OpenBot 0.1.3: we put the agent in a box](https://dev.to/leonid_gorkin_9ce5bebbf44/openbot-013-we-put-the-agent-in-a-box-1h38)
 <!-- BLOG-POST-LIST:END -->
 
 
