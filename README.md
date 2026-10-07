@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognitive Accessibility: Making a Spreadsheet an Accessible Tool, Not a Maze](https://dev.to/revanzart/cognitive-accessibility-making-a-spreadsheet-an-accessible-tool-not-a-maze-21bl)
-- [Building an OCPP Backend: Lessons from Supporting OCPP 1.6J and OCPP 2.0.1 in Production](https://dev.to/ureticy/building-an-ocpp-backend-lessons-from-supporting-ocpp-16j-and-ocpp-201-in-production-47oa)
-- [I Think We&#39;re Forgetting How to Be Bored](https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5)
-- [Designing Error States for VIN Lookup UIs: Invalid, Incomplete, and Ambiguous Decodes](https://dev.to/vin_lookup_8dbd4710f77e9e/designing-error-states-for-vin-lookup-uis-invalid-incomplete-and-ambiguous-decodes-1ppc)
+- [read this](https://dev.to/brouwer6600/read-this-3h72)
+- [Partnerizt — The Duolingo for Learning From Your Environment](https://dev.to/vaibhav_bisaria_79136bae7/partnerizt-the-duolingo-for-learning-from-your-environment-1d2m)
+- [this one](https://dev.to/aaronr630/this-one-4he8)
+- [for later](https://dev.to/oliviermonti/for-later-4b21)
 <!-- BLOG-POST-LIST:END -->
 
 
