@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [read this](https://dev.to/brouwer6600/read-this-3h72)
-- [Partnerizt — The Duolingo for Learning From Your Environment](https://dev.to/vaibhav_bisaria_79136bae7/partnerizt-the-duolingo-for-learning-from-your-environment-1d2m)
-- [this one](https://dev.to/aaronr630/this-one-4he8)
-- [for later](https://dev.to/oliviermonti/for-later-4b21)
+- [I gave Claude Code hands: it drives my real Mac and Android phone](https://dev.to/autenai/i-gave-claude-code-hands-it-drives-my-real-mac-and-android-phone-2e18)
+- [Printing dark mode notes without the black pages](https://dev.to/arthur031221/printing-dark-mode-notes-without-the-black-pages-6fe)
+- [Slopsquatting: The Supply Chain Attack Your AI Coding Assistant Might Be Setting Up For You](https://dev.to/uo_buddies_df655d00f08b61/slopsquatting-the-supply-chain-attack-your-ai-coding-assistant-might-be-setting-up-for-you-6em)
+- [Design a rate limiter, from fixed window to token bucket](https://dev.to/rogo032/design-a-rate-limiter-from-fixed-window-to-token-bucket-3onf)
 <!-- BLOG-POST-LIST:END -->
 
 
