@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Jaxon DbAdmin: PHP finally gets a next-gen database manager](https://dev.to/tiaya/jaxon-dbadmin-php-finally-gets-a-next-gen-database-manager-244h)
-- [My agent guardrail was fine. Its kubectl parser wasn&#39;t.](https://dev.to/moneytool/my-agent-guardrail-was-fine-its-kubectl-parser-wasnt-c65)
-- [Node.js Gaming OCR: Named Transformations for Every Screenshot Upload](https://dev.to/caspianhayes3586/nodejs-gaming-ocr-named-transformations-for-every-screenshot-upload-68k)
-- [A fair Secret Santa draw with exclusions is a matching problem](https://dev.to/jeremiah_say/a-fair-secret-santa-draw-with-exclusions-is-a-matching-problem-36i)
+- [Sin backend: cómo bigwords.page guarda todo en la URL](https://dev.to/lu1tr0n/sin-backend-como-bigwordspage-guarda-todo-en-la-url-227n)
+- [I built an AI browser extension in a month with an AI coding assistant. The code was the easy part.](https://dev.to/capacaptain/i-built-an-ai-browser-extension-in-a-month-with-an-ai-coding-assistant-the-code-was-the-easy-part-18hn)
+- [Detecting AI‑Generated Images: A Practical Guide for ML Engineers &lpar;2024‑2026 Landscape&rpar;](https://dev.to/ram-ram_5268/detecting-ai-generated-images-a-practical-guide-for-ml-engineers-2024-2026-landscape-33na)
+- [Preflight the Budget: A 90-Minute Spike](https://dev.to/devgo_7763/preflight-the-budget-a-90-minute-spike-49pj)
 <!-- BLOG-POST-LIST:END -->
 
 
