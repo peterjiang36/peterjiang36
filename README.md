@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I gave Claude Code hands: it drives my real Mac and Android phone](https://dev.to/autenai/i-gave-claude-code-hands-it-drives-my-real-mac-and-android-phone-2e18)
-- [Printing dark mode notes without the black pages](https://dev.to/arthur031221/printing-dark-mode-notes-without-the-black-pages-6fe)
-- [Slopsquatting: The Supply Chain Attack Your AI Coding Assistant Might Be Setting Up For You](https://dev.to/uo_buddies_df655d00f08b61/slopsquatting-the-supply-chain-attack-your-ai-coding-assistant-might-be-setting-up-for-you-6em)
-- [Design a rate limiter, from fixed window to token bucket](https://dev.to/rogo032/design-a-rate-limiter-from-fixed-window-to-token-bucket-3onf)
+- [Jaxon DbAdmin: PHP finally gets a next-gen database manager](https://dev.to/tiaya/jaxon-dbadmin-php-finally-gets-a-next-gen-database-manager-244h)
+- [My agent guardrail was fine. Its kubectl parser wasn&#39;t.](https://dev.to/moneytool/my-agent-guardrail-was-fine-its-kubectl-parser-wasnt-c65)
+- [Node.js Gaming OCR: Named Transformations for Every Screenshot Upload](https://dev.to/caspianhayes3586/nodejs-gaming-ocr-named-transformations-for-every-screenshot-upload-68k)
+- [A fair Secret Santa draw with exclusions is a matching problem](https://dev.to/jeremiah_say/a-fair-secret-santa-draw-with-exclusions-is-a-matching-problem-36i)
 <!-- BLOG-POST-LIST:END -->
 
 
