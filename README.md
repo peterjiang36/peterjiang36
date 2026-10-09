@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Retrieval Architecture for News Monitoring Evaluation Sets &lpar;and Why I Chose One&rpar;](https://dev.to/xanderblack5716/retrieval-architecture-for-news-monitoring-evaluation-sets-and-why-i-chose-one-5el1)
-- [Give your AI agent a deterministic way to turn X posts into images](https://dev.to/jspeaks/give-your-ai-agent-a-deterministic-way-to-turn-x-posts-into-images-20o6)
-- [Hyper3D Rodin Review 2026: 0.5 Credit Spent, Gen-2.5 File Blocked](https://dev.to/farahellison/hyper3d-rodin-review-2026-05-credit-spent-gen-25-file-blocked-1k2g)
-- [umux v1.7.5: the switch that keeps the machine awake](https://dev.to/crystalstudio/umux-v175-the-switch-that-keeps-the-machine-awake-25k2)
+- [ONGRID: adding zero-token verification to GraphRAG](https://dev.to/ai_openfree_b23025ef075cf/ongrid-adding-zero-token-verification-to-graphrag-2f9l)
+- [Mobile support coming soon.](https://dev.to/threesup/mobile-support-coming-soon-453m)
+- [Finally, Real Event Buses!](https://dev.to/aws-builders/finally-real-event-buses-2naa)
+- [Invented O&#39;Clock: I removed one fact from 45 scheduling problems to see which AI models make up a time](https://dev.to/maddiebrooks_dev/invented-oclock-i-removed-one-fact-from-45-scheduling-problems-to-see-which-ai-models-make-up-a-200g)
 <!-- BLOG-POST-LIST:END -->
 
 
