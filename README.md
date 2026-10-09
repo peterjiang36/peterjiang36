@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Open-Source Orchestrator for AI Coding Agents](https://dev.to/gavingeizer/i-built-an-open-source-orchestrator-for-ai-coding-agents-5g5e)
-- [FAQ: Generated YAML Is Not a Pipeline Graph](https://dev.to/gitlab_3188/faq-generated-yaml-is-not-a-pipeline-graph-35c3)
-- [Cyber Resilience Act reporting since 11 September 2026: a checklist for small software vendors](https://dev.to/tanod/cyber-resilience-act-reporting-since-11-september-2026-a-checklist-for-small-software-vendors-2hha)
-- [How to Create a Network Topology in Mininet: Built-in Topos and Custom Python Scripts](https://dev.to/jordi_alba_d647bfab06b462/how-to-create-a-network-topology-in-mininet-built-in-topos-and-custom-python-scripts-1d1d)
+- [That &#39;Free Money&#39; Crypto Price Gap Usually Isn&#39;t: Checking an Arbitrage Spread in Python](https://dev.to/nutshellcrypto/that-free-money-crypto-price-gap-usually-isnt-checking-an-arbitrage-spread-in-python-59dh)
+- [My benchmark scored GPT-5.4 mini 1.00 by silently skipping the 3 questions it failed](https://dev.to/sirenamc/my-benchmark-scored-gpt-54-mini-100-by-silently-skipping-the-3-questions-it-failed-2go4)
+- [Full-text search can return hits your list page would hide](https://dev.to/authbyexample1/full-text-search-can-return-hits-your-list-page-would-hide-3393)
+- [Our recipe pages run the barcode scanner&#39;s engine on a recipe, at the strictest setting the app offers](https://dev.to/daniel_pertu/our-recipe-pages-run-the-barcode-scanners-engine-on-a-recipe-at-the-strictest-setting-the-app-583i)
 <!-- BLOG-POST-LIST:END -->
 
 
