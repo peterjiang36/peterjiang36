@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [That &#39;Free Money&#39; Crypto Price Gap Usually Isn&#39;t: Checking an Arbitrage Spread in Python](https://dev.to/nutshellcrypto/that-free-money-crypto-price-gap-usually-isnt-checking-an-arbitrage-spread-in-python-59dh)
-- [My benchmark scored GPT-5.4 mini 1.00 by silently skipping the 3 questions it failed](https://dev.to/sirenamc/my-benchmark-scored-gpt-54-mini-100-by-silently-skipping-the-3-questions-it-failed-2go4)
-- [Full-text search can return hits your list page would hide](https://dev.to/authbyexample1/full-text-search-can-return-hits-your-list-page-would-hide-3393)
-- [Our recipe pages run the barcode scanner&#39;s engine on a recipe, at the strictest setting the app offers](https://dev.to/daniel_pertu/our-recipe-pages-run-the-barcode-scanners-engine-on-a-recipe-at-the-strictest-setting-the-app-583i)
+- [Retrieval Architecture for News Monitoring Evaluation Sets &lpar;and Why I Chose One&rpar;](https://dev.to/xanderblack5716/retrieval-architecture-for-news-monitoring-evaluation-sets-and-why-i-chose-one-5el1)
+- [Give your AI agent a deterministic way to turn X posts into images](https://dev.to/jspeaks/give-your-ai-agent-a-deterministic-way-to-turn-x-posts-into-images-20o6)
+- [Hyper3D Rodin Review 2026: 0.5 Credit Spent, Gen-2.5 File Blocked](https://dev.to/farahellison/hyper3d-rodin-review-2026-05-credit-spent-gen-25-file-blocked-1k2g)
+- [umux v1.7.5: the switch that keeps the machine awake](https://dev.to/crystalstudio/umux-v175-the-switch-that-keeps-the-machine-awake-25k2)
 <!-- BLOG-POST-LIST:END -->
 
 
