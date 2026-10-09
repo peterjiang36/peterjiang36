@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [NatureQuest: The 100% Offline Botanical OS Built to Get You Off Screens and Into the Wild](https://dev.to/poppycastle59/naturequest-the-100-offline-botanical-os-built-to-get-you-off-screens-and-into-the-wild-hho)
-- [Thinking Twice Can Make You Dumber: The Test-Time Compute Playbook Behind September&#39;s Smartest Models](https://dev.to/danielsamfdo/thinking-twice-can-make-you-dumber-the-test-time-compute-playbook-behind-septembers-smartest-372n)
-- [Only 3% of the Brain Wakes Up: The Mixture-of-Experts Playbook Behind September&#39;s Biggest Models](https://dev.to/danielsamfdo/only-3-of-the-brain-wakes-up-the-mixture-of-experts-playbook-behind-septembers-biggest-models-4lj0)
-- [Your Client Asked for a UI Fix. That Doesn’t Mean UI Is the Problem](https://dev.to/bulkina/your-client-asked-for-a-ui-fix-that-doesnt-mean-ui-is-the-problem-39n4)
+- [I Built an Open-Source Orchestrator for AI Coding Agents](https://dev.to/gavingeizer/i-built-an-open-source-orchestrator-for-ai-coding-agents-5g5e)
+- [FAQ: Generated YAML Is Not a Pipeline Graph](https://dev.to/gitlab_3188/faq-generated-yaml-is-not-a-pipeline-graph-35c3)
+- [Cyber Resilience Act reporting since 11 September 2026: a checklist for small software vendors](https://dev.to/tanod/cyber-resilience-act-reporting-since-11-september-2026-a-checklist-for-small-software-vendors-2hha)
+- [How to Create a Network Topology in Mininet: Built-in Topos and Custom Python Scripts](https://dev.to/jordi_alba_d647bfab06b462/how-to-create-a-network-topology-in-mininet-built-in-topos-and-custom-python-scripts-1d1d)
 <!-- BLOG-POST-LIST:END -->
 
 
