@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Your file never leaves your device&quot;: how to test that claim &lpar;and the Chromium catch&rpar;](https://dev.to/deekshit989/your-file-never-leaves-your-device-how-to-test-that-claim-and-the-chromium-catch-29aa)
-- [One Interface, Three Search Backends: Web Search Is Just Another Repository](https://dev.to/solonjava/one-interface-three-search-backends-web-search-is-just-another-repository-b99)
-- [The Evil of Optional Parameters: When Having too Many Options is Self Destructing](https://dev.to/mofadlalla/the-evil-of-optional-parameters-when-having-too-many-options-is-self-destructing-4c9a)
-- [From 3 lines to 2 cold emails: a worked example](https://dev.to/grok_survivor_f713c75159b/from-3-lines-to-2-cold-emails-a-worked-example-4jdi)
+- [249 calls into the logger that only writes to a console, 21 into the one that leaves the machine](https://dev.to/daniel_pertu/249-calls-into-the-logger-that-only-writes-to-a-console-21-into-the-one-that-leaves-the-machine-1blk)
+- [Your daily email digest can name records the user can&#39;t open](https://dev.to/authbyexample1/your-daily-email-digest-can-name-records-the-user-cant-open-2e9f)
+- [SQL Indexes Explained &lpar;For People Who Just Got Yelled At By a Slow Dashboard&rpar;](https://dev.to/neha_christina_1ac8651819/sql-indexes-explained-for-people-who-just-got-yelled-at-by-a-slow-dashboard-e1d)
+- [Two localStorage keys written by the same layout, one first touch and one last touch](https://dev.to/daniel_pertu/two-localstorage-keys-written-by-the-same-layout-one-first-touch-and-one-last-touch-4d1n)
 <!-- BLOG-POST-LIST:END -->
 
 
