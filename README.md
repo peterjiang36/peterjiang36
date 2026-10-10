@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [249 calls into the logger that only writes to a console, 21 into the one that leaves the machine](https://dev.to/daniel_pertu/249-calls-into-the-logger-that-only-writes-to-a-console-21-into-the-one-that-leaves-the-machine-1blk)
-- [Your daily email digest can name records the user can&#39;t open](https://dev.to/authbyexample1/your-daily-email-digest-can-name-records-the-user-cant-open-2e9f)
-- [SQL Indexes Explained &lpar;For People Who Just Got Yelled At By a Slow Dashboard&rpar;](https://dev.to/neha_christina_1ac8651819/sql-indexes-explained-for-people-who-just-got-yelled-at-by-a-slow-dashboard-e1d)
-- [Two localStorage keys written by the same layout, one first touch and one last touch](https://dev.to/daniel_pertu/two-localstorage-keys-written-by-the-same-layout-one-first-touch-and-one-last-touch-4d1n)
+- [The &quot;reset&quot; word is three different clocks — a 5h window, a weekly window, and a banked card](https://dev.to/jimmy_ai/the-reset-word-is-three-different-clocks-a-5h-window-a-weekly-window-and-a-banked-card-53e7)
+- [How to Build a Reliable AI Video Generation Pipeline](https://dev.to/_38c7a446220e42aadf00b/how-to-build-a-reliable-ai-video-generation-pipeline-8a4)
+- [The flaw in every streak tracker: one missed day and it&#39;s over](https://dev.to/coachdanielg/the-flaw-in-every-streak-tracker-one-missed-day-and-its-over-4fol)
+- [I open-sourced 2026 US tax bracket data &lpar;all 50 states, corrected MO/MS/OH schedules&rpar; and built a free API + MCP server on top](https://dev.to/ddmarketer/i-open-sourced-2026-us-tax-bracket-data-all-50-states-corrected-momsoh-schedules-and-built-a-2efl)
 <!-- BLOG-POST-LIST:END -->
 
 
