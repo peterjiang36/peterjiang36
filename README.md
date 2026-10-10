@@ -74,10 +74,13 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;reset&quot; word is three different clocks — a 5h window, a weekly window, and a banked card](https://dev.to/jimmy_ai/the-reset-word-is-three-different-clocks-a-5h-window-a-weekly-window-and-a-banked-card-53e7)
-- [How to Build a Reliable AI Video Generation Pipeline](https://dev.to/_38c7a446220e42aadf00b/how-to-build-a-reliable-ai-video-generation-pipeline-8a4)
-- [The flaw in every streak tracker: one missed day and it&#39;s over](https://dev.to/coachdanielg/the-flaw-in-every-streak-tracker-one-missed-day-and-its-over-4fol)
-- [I open-sourced 2026 US tax bracket data &lpar;all 50 states, corrected MO/MS/OH schedules&rpar; and built a free API + MCP server on top](https://dev.to/ddmarketer/i-open-sourced-2026-us-tax-bracket-data-all-50-states-corrected-momsoh-schedules-and-built-a-2efl)
+- [Template-Controlled Login UX: Polling SMS OTP Status Without Webhooks](https://dev.to/jedidiahrhodes8293/template-controlled-login-ux-polling-sms-otp-status-without-webhooks-4l0l)
+- [How Image Compression Works: Reducing File Size Without Sacrificing Too Much Quality](https://dev.to/sumanbiswas/how-image-compression-works-reducing-file-size-without-sacrificing-too-much-quality-2ka3)
+- [# The Meaning of Software Engineering We Have Lost :-
+When does the computer software succeeds—when it meets the needs of the people who use
+it, when it performs flawlessly over a long period of time, when it is easy to modify
+and even easier to use.](https://dev.to/affan8686/-the-meaning-of-software-engineering-we-have-lost-when-does-the-computer-software-succeeds-when-1olg)
+- [Claude Foundry: clearer code reviews, session insights and progress in your terminal](https://dev.to/sruthik_issac/claude-foundry-install-a-small-set-of-claude-code-mods-from-github-1fkg)
 <!-- BLOG-POST-LIST:END -->
 
 
