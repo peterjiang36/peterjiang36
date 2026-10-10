@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ONGRID: adding zero-token verification to GraphRAG](https://dev.to/ai_openfree_b23025ef075cf/ongrid-adding-zero-token-verification-to-graphrag-2f9l)
-- [Mobile support coming soon.](https://dev.to/threesup/mobile-support-coming-soon-453m)
-- [Finally, Real Event Buses!](https://dev.to/aws-builders/finally-real-event-buses-2naa)
-- [Invented O&#39;Clock: I removed one fact from 45 scheduling problems to see which AI models make up a time](https://dev.to/maddiebrooks_dev/invented-oclock-i-removed-one-fact-from-45-scheduling-problems-to-see-which-ai-models-make-up-a-200g)
+- [&quot;Your file never leaves your device&quot;: how to test that claim &lpar;and the Chromium catch&rpar;](https://dev.to/deekshit989/your-file-never-leaves-your-device-how-to-test-that-claim-and-the-chromium-catch-29aa)
+- [One Interface, Three Search Backends: Web Search Is Just Another Repository](https://dev.to/solonjava/one-interface-three-search-backends-web-search-is-just-another-repository-b99)
+- [The Evil of Optional Parameters: When Having too Many Options is Self Destructing](https://dev.to/mofadlalla/the-evil-of-optional-parameters-when-having-too-many-options-is-self-destructing-4c9a)
+- [From 3 lines to 2 cold emails: a worked example](https://dev.to/grok_survivor_f713c75159b/from-3-lines-to-2-cold-emails-a-worked-example-4jdi)
 <!-- BLOG-POST-LIST:END -->
 
 
