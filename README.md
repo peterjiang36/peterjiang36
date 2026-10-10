@@ -74,13 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Template-Controlled Login UX: Polling SMS OTP Status Without Webhooks](https://dev.to/jedidiahrhodes8293/template-controlled-login-ux-polling-sms-otp-status-without-webhooks-4l0l)
-- [How Image Compression Works: Reducing File Size Without Sacrificing Too Much Quality](https://dev.to/sumanbiswas/how-image-compression-works-reducing-file-size-without-sacrificing-too-much-quality-2ka3)
-- [# The Meaning of Software Engineering We Have Lost :-
-When does the computer software succeeds—when it meets the needs of the people who use
-it, when it performs flawlessly over a long period of time, when it is easy to modify
-and even easier to use.](https://dev.to/affan8686/-the-meaning-of-software-engineering-we-have-lost-when-does-the-computer-software-succeeds-when-1olg)
-- [Claude Foundry: clearer code reviews, session insights and progress in your terminal](https://dev.to/sruthik_issac/claude-foundry-install-a-small-set-of-claude-code-mods-from-github-1fkg)
+- [My Release Pipeline Refused to Ship My Release. It Was Right.](https://dev.to/debashish_ghosal/my-release-pipeline-refused-to-ship-my-release-it-was-right-1ii9)
+- [Plot Buddy: a weekly outdoor card that tells me to put the phone down](https://dev.to/gbetibienvenu/plot-buddy-a-weekly-outdoor-card-that-tells-me-to-put-the-phone-down-493a)
+- [The Missing Piece: Why AI Models Hallucinate Answers When They Should Abstain](https://dev.to/shreyansh_agrahari_2009db/the-missing-piece-why-ai-models-hallucinate-answers-when-they-should-abstain-403)
+- [React Auth Tests Need an Inbox Adapter](https://dev.to/ryanlee91/react-auth-tests-need-an-inbox-adapter-4ei2)
 <!-- BLOG-POST-LIST:END -->
 
 
