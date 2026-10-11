@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Percentage Feature Flag Rollout: 100 Stable Cohorts for Import Alerts](https://dev.to/chrysostomhayes8537/percentage-feature-flag-rollout-100-stable-cohorts-for-import-alerts-4dkp)
-- [StarWatch: an offline pocket stargazing PWA that names what you point at](https://dev.to/unica_2804/starwatch-an-offline-pocket-stargazing-pwa-that-names-what-you-point-at-302d)
-- [Latency in Voice AI: Why It Matters and How to Fix It](https://dev.to/voice_developer/latency-in-voice-ai-why-it-matters-and-how-to-fix-it-49hb)
-- [Why Does Java’s main Method Have static?](https://dev.to/mayur_bodhare/why-does-javas-main-method-have-static-4965)
+- [Introducing Review Audit: An open-source tool to check how real a Google Maps rating is](https://dev.to/serpapi/introducing-review-audit-an-open-source-tool-to-check-how-real-a-google-maps-rating-is-2p65)
+- [Engineering Geofencing: Why Battery Life and Location Accuracy Don&#39;t Mix](https://dev.to/haseebthedev0/engineering-geofencing-why-battery-life-and-location-accuracy-dont-mix-53e2)
+- [Weekend Micro-Adventure](https://dev.to/dumnicki/weekend-micro-adventure-3bee)
+- [I Kept the Queue Graph. The Buffer Sat Full.](https://dev.to/apppro_4800/i-kept-the-queue-graph-the-buffer-sat-full-37fe)
 <!-- BLOG-POST-LIST:END -->
 
 
