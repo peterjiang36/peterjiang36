@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Release Pipeline Refused to Ship My Release. It Was Right.](https://dev.to/debashish_ghosal/my-release-pipeline-refused-to-ship-my-release-it-was-right-1ii9)
-- [Plot Buddy: a weekly outdoor card that tells me to put the phone down](https://dev.to/gbetibienvenu/plot-buddy-a-weekly-outdoor-card-that-tells-me-to-put-the-phone-down-493a)
-- [The Missing Piece: Why AI Models Hallucinate Answers When They Should Abstain](https://dev.to/shreyansh_agrahari_2009db/the-missing-piece-why-ai-models-hallucinate-answers-when-they-should-abstain-403)
-- [React Auth Tests Need an Inbox Adapter](https://dev.to/ryanlee91/react-auth-tests-need-an-inbox-adapter-4ei2)
+- [JavaScript Loops for Beginners](https://dev.to/narasimma/javascript-loops-for-beginners-553n)
+- [We Built an MCP Server for Real Discounts and Promo Codes — Now Listed in the Official Registry](https://dev.to/masterbek/we-built-an-mcp-server-for-real-discounts-and-promo-codes-now-listed-in-the-official-registry-a7l)
+- [Your business has a holiday problem you have not seen yet](https://dev.to/octyn/your-business-has-a-holiday-problem-you-have-not-seen-yet-4od1)
+- [Why Is My Code Slow? Big-O Explained With Real Timings](https://dev.to/shresthapandey/why-is-my-code-slow-big-o-explained-with-real-timings-ndd)
 <!-- BLOG-POST-LIST:END -->
 
 
