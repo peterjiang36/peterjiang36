@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is tonGues? A language-exchange messenger with live translation](https://dev.to/frankmilvus/what-is-tongues-a-language-exchange-messenger-with-live-translation-noj)
-- [REALITY.EXE: What If AI Turned the Real World Into a Game?](https://dev.to/inexperttrifler/realityexe-what-if-ai-turned-the-real-world-into-a-game-279m)
-- [A price is a claim about demand](https://dev.to/whalejr/a-price-is-a-claim-about-demand-4jip)
-- [30+ Free REST APIs You Can Call Without an API Key in 2026 &lpar;No Credit Card, Zero-Auth&rpar;](https://dev.to/canpolat_kaya_220016375c2/30-free-rest-apis-you-can-call-without-an-api-key-in-2026-no-credit-card-zero-auth-1h15)
+- [Percentage Feature Flag Rollout: 100 Stable Cohorts for Import Alerts](https://dev.to/chrysostomhayes8537/percentage-feature-flag-rollout-100-stable-cohorts-for-import-alerts-4dkp)
+- [StarWatch: an offline pocket stargazing PWA that names what you point at](https://dev.to/unica_2804/starwatch-an-offline-pocket-stargazing-pwa-that-names-what-you-point-at-302d)
+- [Latency in Voice AI: Why It Matters and How to Fix It](https://dev.to/voice_developer/latency-in-voice-ai-why-it-matters-and-how-to-fix-it-49hb)
+- [Why Does Java’s main Method Have static?](https://dev.to/mayur_bodhare/why-does-javas-main-method-have-static-4965)
 <!-- BLOG-POST-LIST:END -->
 
 
