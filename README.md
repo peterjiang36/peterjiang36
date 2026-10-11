@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Loops for Beginners](https://dev.to/narasimma/javascript-loops-for-beginners-553n)
-- [We Built an MCP Server for Real Discounts and Promo Codes — Now Listed in the Official Registry](https://dev.to/masterbek/we-built-an-mcp-server-for-real-discounts-and-promo-codes-now-listed-in-the-official-registry-a7l)
-- [Your business has a holiday problem you have not seen yet](https://dev.to/octyn/your-business-has-a-holiday-problem-you-have-not-seen-yet-4od1)
-- [Why Is My Code Slow? Big-O Explained With Real Timings](https://dev.to/shresthapandey/why-is-my-code-slow-big-o-explained-with-real-timings-ndd)
+- [What is tonGues? A language-exchange messenger with live translation](https://dev.to/frankmilvus/what-is-tongues-a-language-exchange-messenger-with-live-translation-noj)
+- [REALITY.EXE: What If AI Turned the Real World Into a Game?](https://dev.to/inexperttrifler/realityexe-what-if-ai-turned-the-real-world-into-a-game-279m)
+- [A price is a claim about demand](https://dev.to/whalejr/a-price-is-a-claim-about-demand-4jip)
+- [30+ Free REST APIs You Can Call Without an API Key in 2026 &lpar;No Credit Card, Zero-Auth&rpar;](https://dev.to/canpolat_kaya_220016375c2/30-free-rest-apis-you-can-call-without-an-api-key-in-2026-no-credit-card-zero-auth-1h15)
 <!-- BLOG-POST-LIST:END -->
 
 
