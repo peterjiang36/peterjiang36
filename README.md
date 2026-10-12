@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Marketing Cloud Is a Data Project, Not a Campaign Setup](https://dev.to/rio_albert/marketing-cloud-is-a-data-project-not-a-campaign-setup-127e)
-- [How Hyperlocal Marketplaces Are Changing Shopping in India](https://dev.to/frqmarket/how-hyperlocal-marketplaces-are-changing-shopping-in-india-3hon)
-- [Stop Automating Everything: Why Modern Software Testing Needs a Balanced Approach](https://dev.to/jack7695/stop-automating-everything-why-modern-software-testing-needs-a-balanced-approach-3m9k)
-- [Porting Paint.NET from C# to JavaScript for Linux and Browser Accessibility](https://dev.to/pavkode/porting-paintnet-from-c-to-javascript-for-linux-and-browser-accessibility-487i)
+- [TestFly Part 13: Actionability Engine — Auto-Wait and Verified Click/Fill/Clear Assertions](https://dev.to/hakangul/testfly-part-13-actionability-engine-auto-wait-and-verified-clickfillclear-assertions-19mk)
+- [Who am i ?](https://dev.to/guysa/who-am-i--59eh)
+- [Fine-Tuning LLMs with LoRA &amp; QLoRA: Complete Production Guide](https://dev.to/ipsphil_digital/fine-tuning-llms-with-lora-qlora-complete-production-guide-46l6)
+- [Probabilistic Graph Neural Inference for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-under-real-time-policy-58oi)
 <!-- BLOG-POST-LIST:END -->
 
 
