@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Review Audit: An open-source tool to check how real a Google Maps rating is](https://dev.to/serpapi/introducing-review-audit-an-open-source-tool-to-check-how-real-a-google-maps-rating-is-2p65)
-- [Engineering Geofencing: Why Battery Life and Location Accuracy Don&#39;t Mix](https://dev.to/haseebthedev0/engineering-geofencing-why-battery-life-and-location-accuracy-dont-mix-53e2)
-- [Weekend Micro-Adventure](https://dev.to/dumnicki/weekend-micro-adventure-3bee)
-- [I Kept the Queue Graph. The Buffer Sat Full.](https://dev.to/apppro_4800/i-kept-the-queue-graph-the-buffer-sat-full-37fe)
+- [Building an Idempotent Webhook Receiver with PostgreSQL and Python](https://dev.to/eproxim/building-an-idempotent-webhook-receiver-with-postgresql-and-python-5fgl)
+- [A five-file Laravel release when the production worktree has drifted](https://dev.to/mohamed_taha6608/a-five-file-laravel-release-when-the-production-worktree-has-drifted-ed2)
+- [The Silent Alert Bug: When Your Instant Push Exists but Never Fires](https://dev.to/mattleeee/the-silent-alert-bug-when-your-instant-push-exists-but-never-fires-3imc)
+- [The License Layer — Or, Who Can Rewrite the Terms Underneath You?](https://dev.to/goodpa/the-license-layer-or-who-can-rewrite-the-terms-underneath-you-47a7)
 <!-- BLOG-POST-LIST:END -->
 
 
