@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Idempotent Webhook Receiver with PostgreSQL and Python](https://dev.to/eproxim/building-an-idempotent-webhook-receiver-with-postgresql-and-python-5fgl)
-- [A five-file Laravel release when the production worktree has drifted](https://dev.to/mohamed_taha6608/a-five-file-laravel-release-when-the-production-worktree-has-drifted-ed2)
-- [The Silent Alert Bug: When Your Instant Push Exists but Never Fires](https://dev.to/mattleeee/the-silent-alert-bug-when-your-instant-push-exists-but-never-fires-3imc)
-- [The License Layer — Or, Who Can Rewrite the Terms Underneath You?](https://dev.to/goodpa/the-license-layer-or-who-can-rewrite-the-terms-underneath-you-47a7)
+- [Marketing Cloud Is a Data Project, Not a Campaign Setup](https://dev.to/rio_albert/marketing-cloud-is-a-data-project-not-a-campaign-setup-127e)
+- [How Hyperlocal Marketplaces Are Changing Shopping in India](https://dev.to/frqmarket/how-hyperlocal-marketplaces-are-changing-shopping-in-india-3hon)
+- [Stop Automating Everything: Why Modern Software Testing Needs a Balanced Approach](https://dev.to/jack7695/stop-automating-everything-why-modern-software-testing-needs-a-balanced-approach-3m9k)
+- [Porting Paint.NET from C# to JavaScript for Linux and Browser Accessibility](https://dev.to/pavkode/porting-paintnet-from-c-to-javascript-for-linux-and-browser-accessibility-487i)
 <!-- BLOG-POST-LIST:END -->
 
 
