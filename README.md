@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Threads Explained: Scheduler, sleep and synchronized](https://dev.to/mayur_bodhare/java-threads-explained-scheduler-sleep-and-synchronized-4ack)
-- [Live Publishing Unlocked – My First Quality‑Checked Deploy](https://dev.to/krish-khati/live-publishing-unlocked-my-first-quality-checked-deploy-4ppk)
-- [Phone input for Angular](https://dev.to/myroslavmartsin/phone-input-for-angular-54bc)
-- [🏭 Manufacturing Industrialization in High-Complexity Environments: From Prototype to Controlled Volume](https://dev.to/said_olano/manufacturing-industrialization-in-high-complexity-environments-from-prototype-to-controlled-4g5n)
+- [The wire gauge trap: why 18 AWG carries 16 A and your LED strip still browns out](https://dev.to/tinkernews/the-wire-gauge-trap-why-18-awg-carries-16-a-and-your-led-strip-still-browns-out-2j8h)
+- [Claude Code can write your game. Can it make the rest of it?](https://dev.to/alegauss/claude-code-can-write-your-game-can-it-make-the-rest-of-it-4caa)
+- [Ivanti VPN bypass, actively exploited](https://dev.to/randomchaos/ivanti-vpn-bypass-actively-exploited-4b6)
+- [Your agent has 40 tools and it still picks the wrong one](https://dev.to/jeff_pdc/your-agent-has-40-tools-and-it-still-picks-the-wrong-one-27la)
 <!-- BLOG-POST-LIST:END -->
 
 
