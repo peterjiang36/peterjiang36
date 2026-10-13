@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating from Caddy + PHP-FPM to FrankenPHP and Laravel Octane](https://dev.to/yognevoy/migrating-from-caddy-php-fpm-to-frankenphp-and-laravel-octane-51ge)
-- [Your Marketing Site Has 40 Scripts. Which Ones Are Actually Worth Keeping?](https://dev.to/yassersoliman/your-marketing-site-has-40-scripts-which-ones-are-actually-worth-keeping-1kp)
-- [A Hiring Signal Is Not Buying Intent: Build a Better Prospect Watchlist](https://dev.to/agnes_the_dev_queen/a-hiring-signal-is-not-buying-intent-build-a-better-prospect-watchlist-5fhh)
-- [Automate Postgres-to-Blob with durable workflow &lpar;pg_durable + pg_duckdb&rpar;](https://dev.to/franckpachot/automate-the-postgres-to-blob-archive-with-a-durable-workflow-pgdurable-pgduckdb-2edc)
+- [Java Threads Explained: Scheduler, sleep and synchronized](https://dev.to/mayur_bodhare/java-threads-explained-scheduler-sleep-and-synchronized-4ack)
+- [Live Publishing Unlocked – My First Quality‑Checked Deploy](https://dev.to/krish-khati/live-publishing-unlocked-my-first-quality-checked-deploy-4ppk)
+- [Phone input for Angular](https://dev.to/myroslavmartsin/phone-input-for-angular-54bc)
+- [🏭 Manufacturing Industrialization in High-Complexity Environments: From Prototype to Controlled Volume](https://dev.to/said_olano/manufacturing-industrialization-in-high-complexity-environments-from-prototype-to-controlled-4g5n)
 <!-- BLOG-POST-LIST:END -->
 
 
