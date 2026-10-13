@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TestFly Part 13: Actionability Engine — Auto-Wait and Verified Click/Fill/Clear Assertions](https://dev.to/hakangul/testfly-part-13-actionability-engine-auto-wait-and-verified-clickfillclear-assertions-19mk)
-- [Who am i ?](https://dev.to/guysa/who-am-i--59eh)
-- [Fine-Tuning LLMs with LoRA &amp; QLoRA: Complete Production Guide](https://dev.to/ipsphil_digital/fine-tuning-llms-with-lora-qlora-complete-production-guide-46l6)
-- [Probabilistic Graph Neural Inference for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-under-real-time-policy-58oi)
+- [Formatting Markdown for WeChat, Zhihu and Juejin from one source file](https://dev.to/alapha888/formatting-markdown-for-wechat-zhihu-and-juejin-from-one-source-file-15o9)
+- [ElevenLabs vs Azure Speech: Quality, Price, and Features](https://dev.to/voice_developer/elevenlabs-vs-azure-speech-quality-price-and-features-1d9l)
+- [Five Anti-Patterns Before a Free Host Sees Code](https://dev.to/codex_1135/five-anti-patterns-before-a-free-host-sees-code-1cah)
+- [Masked Extracts or Local Draft Models: A Debate for Agent SQL Placement](https://dev.to/dataio_4921/masked-extracts-or-local-draft-models-a-debate-for-agent-sql-placement-28o8)
 <!-- BLOG-POST-LIST:END -->
 
 
