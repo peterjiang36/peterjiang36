@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Formatting Markdown for WeChat, Zhihu and Juejin from one source file](https://dev.to/alapha888/formatting-markdown-for-wechat-zhihu-and-juejin-from-one-source-file-15o9)
-- [ElevenLabs vs Azure Speech: Quality, Price, and Features](https://dev.to/voice_developer/elevenlabs-vs-azure-speech-quality-price-and-features-1d9l)
-- [Five Anti-Patterns Before a Free Host Sees Code](https://dev.to/codex_1135/five-anti-patterns-before-a-free-host-sees-code-1cah)
-- [Masked Extracts or Local Draft Models: A Debate for Agent SQL Placement](https://dev.to/dataio_4921/masked-extracts-or-local-draft-models-a-debate-for-agent-sql-placement-28o8)
+- [Migrating from Caddy + PHP-FPM to FrankenPHP and Laravel Octane](https://dev.to/yognevoy/migrating-from-caddy-php-fpm-to-frankenphp-and-laravel-octane-51ge)
+- [Your Marketing Site Has 40 Scripts. Which Ones Are Actually Worth Keeping?](https://dev.to/yassersoliman/your-marketing-site-has-40-scripts-which-ones-are-actually-worth-keeping-1kp)
+- [A Hiring Signal Is Not Buying Intent: Build a Better Prospect Watchlist](https://dev.to/agnes_the_dev_queen/a-hiring-signal-is-not-buying-intent-build-a-better-prospect-watchlist-5fhh)
+- [Automate Postgres-to-Blob with durable workflow &lpar;pg_durable + pg_duckdb&rpar;](https://dev.to/franckpachot/automate-the-postgres-to-blob-archive-with-a-durable-workflow-pgdurable-pgduckdb-2edc)
 <!-- BLOG-POST-LIST:END -->
 
 
