@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Cannot Read Properties of null &lpar;Reading ‘addEventListener’&rpar;: The Fix](https://dev.to/primeemre/cannot-read-properties-of-null-reading-addeventlistener-the-fix-2l6o)
-- [ModuleNotFoundError After pip install? Here’s the Fix](https://dev.to/primeemre/modulenotfounderror-after-pip-install-heres-the-fix-508p)
-- [Why Your C Program Skips the Second scanf &lpar;and How to Fix It&rpar;](https://dev.to/primeemre/why-your-c-program-skips-the-second-scanf-and-how-to-fix-it-33pf)
-- [A screen took 14 seconds with the server at 12% CPU: I measured the wait before approving two more instances](https://dev.to/revinsoftware/a-screen-took-14-seconds-with-the-server-at-12-cpu-i-measured-the-wait-before-approving-two-more-40nb)
+- [Salience Labs raises $125M for all-optical AI data center switches](https://dev.to/techaiwire/salience-labs-raises-125m-for-all-optical-ai-data-center-switches-5f06)
+- [I Ship 61 Calculators as a Static Site in 12 Languages — Here&#39;s How](https://dev.to/farbodf/i-ship-61-calculators-as-a-static-site-in-12-languages-heres-how-fl)
+- [Same Model, Different Agents: Comparing Token Usage, Cost, and Task Success](https://dev.to/z_jc_37f8254a1cb25bff22ed/same-model-different-agents-comparing-token-usage-cost-and-task-success-h67)
+- [I struggled with porn addiction for 13 years &lpar;from 15 to 28&rpar; and built a free blocker for myself. Here is what actually worked](https://dev.to/karos777/i-struggled-with-porn-addiction-for-13-years-from-15-to-28-and-built-a-free-blocker-for-myself-3mc4)
 <!-- BLOG-POST-LIST:END -->
 
 
