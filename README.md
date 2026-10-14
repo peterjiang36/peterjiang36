@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The wire gauge trap: why 18 AWG carries 16 A and your LED strip still browns out](https://dev.to/tinkernews/the-wire-gauge-trap-why-18-awg-carries-16-a-and-your-led-strip-still-browns-out-2j8h)
-- [Claude Code can write your game. Can it make the rest of it?](https://dev.to/alegauss/claude-code-can-write-your-game-can-it-make-the-rest-of-it-4caa)
-- [Ivanti VPN bypass, actively exploited](https://dev.to/randomchaos/ivanti-vpn-bypass-actively-exploited-4b6)
-- [Your agent has 40 tools and it still picks the wrong one](https://dev.to/jeff_pdc/your-agent-has-40-tools-and-it-still-picks-the-wrong-one-27la)
+- [Turn an AI Bug Report into a Regression Case Someone Else Can Reproduce](https://dev.to/acadify_fef2ecf72cca30a3d/turn-an-ai-bug-report-into-a-regression-case-someone-else-can-reproduce-li5)
+- [The 662-Page Indexing Report: Two New States](https://dev.to/eye_java_420f1faa10ae8b86/the-662-page-indexing-report-two-new-states-2pho)
+- [Ephem-Cache: Edge-Caching Media-Heavy Localhost Previews with Cloudflare Workers and Quick Tunnels](https://dev.to/instatunnel/ephem-cache-edge-caching-media-heavy-localhost-previews-with-cloudflare-workers-and-quick-tunnels-410n)
+- [Generate images and video with the OpenAI SDK — no OpenAI key required](https://dev.to/livepairai23/generate-images-and-video-with-the-openai-sdk-no-openai-key-required-3odb)
 <!-- BLOG-POST-LIST:END -->
 
 
