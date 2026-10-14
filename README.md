@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn an AI Bug Report into a Regression Case Someone Else Can Reproduce](https://dev.to/acadify_fef2ecf72cca30a3d/turn-an-ai-bug-report-into-a-regression-case-someone-else-can-reproduce-li5)
-- [The 662-Page Indexing Report: Two New States](https://dev.to/eye_java_420f1faa10ae8b86/the-662-page-indexing-report-two-new-states-2pho)
-- [Ephem-Cache: Edge-Caching Media-Heavy Localhost Previews with Cloudflare Workers and Quick Tunnels](https://dev.to/instatunnel/ephem-cache-edge-caching-media-heavy-localhost-previews-with-cloudflare-workers-and-quick-tunnels-410n)
-- [Generate images and video with the OpenAI SDK — no OpenAI key required](https://dev.to/livepairai23/generate-images-and-video-with-the-openai-sdk-no-openai-key-required-3odb)
+- [GummySearch Alternatives in 2026: Tools for Finding Reddit Leads After the Shutdown](https://dev.to/appierun/gummysearch-alternatives-in-2026-tools-for-finding-reddit-leads-after-the-shutdown-582c)
+- [Wi-Fi Connected but No Internet? A Beginner&#39;s Step-by-Step Fix Guide](https://dev.to/fixsflowteam/wi-fi-connected-but-no-internet-a-beginners-step-by-step-fix-guide-2m56)
+- [JobFit AI: A Privacy-First Resume Analyzer Powered by Local AI](https://dev.to/adeebhh/jobfit-ai-a-privacy-first-resume-analyzer-powered-by-local-ai-3jhd)
+- [The one-page test that shrinks your app idea to something you can finish this weekend](https://dev.to/boban_dev/the-one-page-test-that-shrinks-your-app-idea-to-something-you-can-finish-this-weekend-4bbn)
 <!-- BLOG-POST-LIST:END -->
 
 
