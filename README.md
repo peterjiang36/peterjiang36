@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [GummySearch Alternatives in 2026: Tools for Finding Reddit Leads After the Shutdown](https://dev.to/appierun/gummysearch-alternatives-in-2026-tools-for-finding-reddit-leads-after-the-shutdown-582c)
-- [Wi-Fi Connected but No Internet? A Beginner&#39;s Step-by-Step Fix Guide](https://dev.to/fixsflowteam/wi-fi-connected-but-no-internet-a-beginners-step-by-step-fix-guide-2m56)
-- [JobFit AI: A Privacy-First Resume Analyzer Powered by Local AI](https://dev.to/adeebhh/jobfit-ai-a-privacy-first-resume-analyzer-powered-by-local-ai-3jhd)
-- [The one-page test that shrinks your app idea to something you can finish this weekend](https://dev.to/boban_dev/the-one-page-test-that-shrinks-your-app-idea-to-something-you-can-finish-this-weekend-4bbn)
+- [Cannot Read Properties of null &lpar;Reading ‘addEventListener’&rpar;: The Fix](https://dev.to/primeemre/cannot-read-properties-of-null-reading-addeventlistener-the-fix-2l6o)
+- [ModuleNotFoundError After pip install? Here’s the Fix](https://dev.to/primeemre/modulenotfounderror-after-pip-install-heres-the-fix-508p)
+- [Why Your C Program Skips the Second scanf &lpar;and How to Fix It&rpar;](https://dev.to/primeemre/why-your-c-program-skips-the-second-scanf-and-how-to-fix-it-33pf)
+- [A screen took 14 seconds with the server at 12% CPU: I measured the wait before approving two more instances](https://dev.to/revinsoftware/a-screen-took-14-seconds-with-the-server-at-12-cpu-i-measured-the-wait-before-approving-two-more-40nb)
 <!-- BLOG-POST-LIST:END -->
 
 
