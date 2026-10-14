@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Salience Labs raises $125M for all-optical AI data center switches](https://dev.to/techaiwire/salience-labs-raises-125m-for-all-optical-ai-data-center-switches-5f06)
-- [I Ship 61 Calculators as a Static Site in 12 Languages — Here&#39;s How](https://dev.to/farbodf/i-ship-61-calculators-as-a-static-site-in-12-languages-heres-how-fl)
-- [Same Model, Different Agents: Comparing Token Usage, Cost, and Task Success](https://dev.to/z_jc_37f8254a1cb25bff22ed/same-model-different-agents-comparing-token-usage-cost-and-task-success-h67)
-- [I struggled with porn addiction for 13 years &lpar;from 15 to 28&rpar; and built a free blocker for myself. Here is what actually worked](https://dev.to/karos777/i-struggled-with-porn-addiction-for-13-years-from-15-to-28-and-built-a-free-blocker-for-myself-3mc4)
+- [Least-Privilege AWS IAM for Small Teams: Permission Boundaries, Access Analyzer, and Terraform](https://dev.to/team_bytebridgetalentllc/least-privilege-aws-iam-for-small-teams-permission-boundaries-access-analyzer-and-terraform-20bd)
+- [URL-to-Markdown Pricing, Quoted Plainly: $0.001 per Read vs Credit Plans](https://dev.to/scriptmasterlabs01/url-to-markdown-pricing-quoted-plainly-0001-per-read-vs-credit-plans-1p94)
+- [The Future of Voice Interfaces in Web Applications](https://dev.to/voice_developer/the-future-of-voice-interfaces-in-web-applications-57jo)
+- [Coding Agents Pass Up to 91% of Tasks in a New Benchmark. At Most 25% Are Also Secure](https://dev.to/gabrielanhaia/coding-agents-pass-up-to-91-of-tasks-in-a-new-benchmark-at-most-25-are-also-secure-1oib)
 <!-- BLOG-POST-LIST:END -->
 
 
