@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Can a Program Produce Different Results Every Time You Run It?](https://dev.to/tanu_priya/how-can-a-program-produce-different-results-every-time-you-run-it-2k21)
-- [The Edge-Computing Shift: Architecting Middleware Security and Scaling Strategies](https://dev.to/tamizuddin/the-edge-computing-shift-architecting-middleware-security-and-scaling-strategies-49pc)
-- [When a Caller Interrupts, Update the Voice Agent&#39;s Memory](https://dev.to/keith_azodeh/when-a-caller-interrupts-update-the-voice-agents-memory-2iip)
-- [Reddit’s Expanding Role in AI Search and What It Means for Content Strategy](https://dev.to/alifar/reddits-expanding-role-in-ai-search-and-what-it-means-for-content-strategy-243d)
+- [How to Integrate Voice AI with Shopify Stores](https://dev.to/voice_developer/how-to-integrate-voice-ai-with-shopify-stores-3h7b)
+- [Opus 5.5 Fast Mode Leaves Preview: 2x the Price, and a Speed Switch Misses the Cache](https://dev.to/gabrielanhaia/opus-55-fast-mode-leaves-preview-2x-the-price-and-a-speed-switch-misses-the-cache-51db)
+- [Your robots.txt says yes. Your CDN says no. &lpar;We tested the top 1,000 sites&rpar;](https://dev.to/grubbomatic/your-robotstxt-says-yes-your-cdn-says-no-we-tested-the-top-1000-sites-883)
+- [How to Handle Edge Cases in TTS Applications](https://dev.to/voice_developer/how-to-handle-edge-cases-in-tts-applications-510l)
 <!-- BLOG-POST-LIST:END -->
 
 
