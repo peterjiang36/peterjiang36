@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The most expensive task manager for a side hustle is the one in your HEAD!!!](https://dev.to/sithijaseneviratne/the-most-expensive-task-manager-for-a-side-hustle-is-the-one-in-your-head-31h9)
-- [Dabba: a 4B model reads a tiffin kitchen&#39;s WhatsApp group and TabPFN says how many thalis to cook tomorrow](https://dev.to/coffeeandcommits/dabba-a-4b-model-reads-a-tiffin-kitchens-whatsapp-group-and-tabpfn-says-how-many-thalis-to-cook-4dke)
-- [mcp model context protocol tools marketplace](https://dev.to/official_ruimbarreira/mcp-model-context-protocol-tools-marketplace-1jm5)
-- [what&#39;s the best faq generator for improving searchability and ai visibility?](https://dev.to/official_ruimbarreira/whats-the-best-faq-generator-for-improving-searchability-and-ai-visibility-5f4l)
+- [How Can a Program Produce Different Results Every Time You Run It?](https://dev.to/tanu_priya/how-can-a-program-produce-different-results-every-time-you-run-it-2k21)
+- [The Edge-Computing Shift: Architecting Middleware Security and Scaling Strategies](https://dev.to/tamizuddin/the-edge-computing-shift-architecting-middleware-security-and-scaling-strategies-49pc)
+- [When a Caller Interrupts, Update the Voice Agent&#39;s Memory](https://dev.to/keith_azodeh/when-a-caller-interrupts-update-the-voice-agents-memory-2iip)
+- [Reddit’s Expanding Role in AI Search and What It Means for Content Strategy](https://dev.to/alifar/reddits-expanding-role-in-ai-search-and-what-it-means-for-content-strategy-243d)
 <!-- BLOG-POST-LIST:END -->
 
 
