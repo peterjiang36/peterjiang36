@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How Google Review Replies Can Protect or Damage Customer Trust and Reputation](https://dev.to/alifar/how-google-review-replies-can-protect-or-damage-customer-trust-and-reputation-551a)
-- [HBM Explained: Why High-Bandwidth Memory Is Critical for AI Accelerators](https://dev.to/_1ffd12f71f76582eaf105c/hbm-explained-why-high-bandwidth-memory-is-critical-for-ai-accelerators-d2a)
-- [Analyzing 40 Years of Japanese Public Open Data in 3 Minutes with DuckDB &lpar;No API Keys, In-Memory Parquet&rpar;](https://dev.to/japanopendatalab/analyzing-40-years-of-japanese-public-open-data-in-3-minutes-with-duckdb-no-api-keys-in-memory-52k1)
-- [Detecting BPM and musical key in the browser &lpar;and encoding MP4 with WebCodecs&rpar;](https://dev.to/hao_yin_58711e69baab27ad7/detecting-bpm-and-musical-key-in-the-browser-and-encoding-mp4-with-webcodecs-1c6l)
+- [The Invisible Skeleton Inside Power Modules: Why Alumina Powder Decides Who Wins in Electronic Packaging](https://dev.to/jingci/the-invisible-skeleton-inside-power-modules-why-alumina-powder-decides-who-wins-in-electronic-281)
+- [6 Business Levers to Evaluate Before Adopting a New Language](https://dev.to/heraldofsolace/6-business-levers-to-evaluate-before-adopting-a-new-language-11e4)
+- [Your model router is a classifier, and you probably aren&#39;t evaluating it like one](https://dev.to/cyclopt_dimitrisk/your-model-router-is-a-classifier-and-you-probably-arent-evaluating-it-like-one-4fmb)
+- [Reading a Floor Plan Like a Spatial System &lpar;Not a Mood Board&rpar;](https://dev.to/carloszhou/reading-a-floor-plan-like-a-spatial-system-not-a-mood-board-246p)
 <!-- BLOG-POST-LIST:END -->
 
 
