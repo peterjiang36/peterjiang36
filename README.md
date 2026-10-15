@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Invisible Skeleton Inside Power Modules: Why Alumina Powder Decides Who Wins in Electronic Packaging](https://dev.to/jingci/the-invisible-skeleton-inside-power-modules-why-alumina-powder-decides-who-wins-in-electronic-281)
-- [6 Business Levers to Evaluate Before Adopting a New Language](https://dev.to/heraldofsolace/6-business-levers-to-evaluate-before-adopting-a-new-language-11e4)
-- [Your model router is a classifier, and you probably aren&#39;t evaluating it like one](https://dev.to/cyclopt_dimitrisk/your-model-router-is-a-classifier-and-you-probably-arent-evaluating-it-like-one-4fmb)
-- [Reading a Floor Plan Like a Spatial System &lpar;Not a Mood Board&rpar;](https://dev.to/carloszhou/reading-a-floor-plan-like-a-spatial-system-not-a-mood-board-246p)
+- [The most expensive task manager for a side hustle is the one in your HEAD!!!](https://dev.to/sithijaseneviratne/the-most-expensive-task-manager-for-a-side-hustle-is-the-one-in-your-head-31h9)
+- [Dabba: a 4B model reads a tiffin kitchen&#39;s WhatsApp group and TabPFN says how many thalis to cook tomorrow](https://dev.to/coffeeandcommits/dabba-a-4b-model-reads-a-tiffin-kitchens-whatsapp-group-and-tabpfn-says-how-many-thalis-to-cook-4dke)
+- [mcp model context protocol tools marketplace](https://dev.to/official_ruimbarreira/mcp-model-context-protocol-tools-marketplace-1jm5)
+- [what&#39;s the best faq generator for improving searchability and ai visibility?](https://dev.to/official_ruimbarreira/whats-the-best-faq-generator-for-improving-searchability-and-ai-visibility-5f4l)
 <!-- BLOG-POST-LIST:END -->
 
 
