@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Least-Privilege AWS IAM for Small Teams: Permission Boundaries, Access Analyzer, and Terraform](https://dev.to/team_bytebridgetalentllc/least-privilege-aws-iam-for-small-teams-permission-boundaries-access-analyzer-and-terraform-20bd)
-- [URL-to-Markdown Pricing, Quoted Plainly: $0.001 per Read vs Credit Plans](https://dev.to/scriptmasterlabs01/url-to-markdown-pricing-quoted-plainly-0001-per-read-vs-credit-plans-1p94)
-- [The Future of Voice Interfaces in Web Applications](https://dev.to/voice_developer/the-future-of-voice-interfaces-in-web-applications-57jo)
-- [Coding Agents Pass Up to 91% of Tasks in a New Benchmark. At Most 25% Are Also Secure](https://dev.to/gabrielanhaia/coding-agents-pass-up-to-91-of-tasks-in-a-new-benchmark-at-most-25-are-also-secure-1oib)
+- [How Google Review Replies Can Protect or Damage Customer Trust and Reputation](https://dev.to/alifar/how-google-review-replies-can-protect-or-damage-customer-trust-and-reputation-551a)
+- [HBM Explained: Why High-Bandwidth Memory Is Critical for AI Accelerators](https://dev.to/_1ffd12f71f76582eaf105c/hbm-explained-why-high-bandwidth-memory-is-critical-for-ai-accelerators-d2a)
+- [Analyzing 40 Years of Japanese Public Open Data in 3 Minutes with DuckDB &lpar;No API Keys, In-Memory Parquet&rpar;](https://dev.to/japanopendatalab/analyzing-40-years-of-japanese-public-open-data-in-3-minutes-with-duckdb-no-api-keys-in-memory-52k1)
+- [Detecting BPM and musical key in the browser &lpar;and encoding MP4 with WebCodecs&rpar;](https://dev.to/hao_yin_58711e69baab27ad7/detecting-bpm-and-musical-key-in-the-browser-and-encoding-mp4-with-webcodecs-1c6l)
 <!-- BLOG-POST-LIST:END -->
 
 
