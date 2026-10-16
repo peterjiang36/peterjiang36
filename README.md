@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I set out to compare two models. I never measured which model was running.](https://dev.to/vereos/i-set-out-to-compare-two-models-i-never-measured-which-model-was-running-56e8)
-- [From too many sources to knowledge I can use again](https://dev.to/artemr_rudenko_0bf2c2c505/from-too-many-sources-to-knowledge-i-can-use-again-22fk)
-- [Ivory Has a New Home — and the Elephant Grew Wings](https://dev.to/anselvo/ivory-has-a-new-home-and-the-elephant-grew-wings-3kgh)
-- [A 4B model on my computer drafts freelance quotes. I tested it on 8 real client briefs.](https://dev.to/moin105/a-4b-model-on-my-computer-drafts-freelance-quotes-i-tested-it-on-8-real-client-briefs-19lc)
+- [Scope Seal AI](https://dev.to/naga_koyilada_de0d7c081c4/scope-seal-ai-3c31)
+- [WebRTC in Firefox: getUserMedia, RTCPeerConnection, Data Channels, and Privacy Considerations](https://dev.to/weatherclockdash/webrtc-in-firefox-getusermedia-rtcpeerconnection-data-channels-and-privacy-considerations-32md)
+- [Best Tools for Managing Parallel AI Coding Agents in 2026](https://dev.to/therealmrmumba/best-tools-for-managing-parallel-ai-coding-agents-in-2026-4on4)
+- [Stop Pasting API Keys Into Your Terminal: Use Windows Environment Variables Instead](https://dev.to/julianneagu/stop-pasting-api-keys-into-your-terminal-use-windows-environment-variables-instead-5fi8)
 <!-- BLOG-POST-LIST:END -->
 
 
