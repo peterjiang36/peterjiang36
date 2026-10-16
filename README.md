@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [简单是复杂的结果](https://dev.to/kn_wangkn_3678dc4e70c96c4/jian-dan-shi-fu-za-de-jie-guo-ncp)
-- [Misskey at 3,354 fingerprint matches and 717 title matches: reading a fediverse instance count](https://dev.to/stark_zhuang_df5076f35c68/misskey-at-3354-fingerprint-matches-and-717-title-matches-reading-a-fediverse-instance-count-4088)
-- [Node.js Queues vs Self-Hosted Workers: Failed Jobs, DLQ Redrive, Idempotent Consumers](https://dev.to/seraphinalyn7139/nodejs-queues-vs-self-hosted-workers-failed-jobs-dlq-redrive-idempotent-consumers-1n45)
-- [Your fetch failed, your code wrote an empty array, and now your tests assert a lie](https://dev.to/yff124/your-fetch-failed-your-code-wrote-an-empty-array-and-now-your-tests-assert-a-lie-3ijl)
+- [Building a RAG assistant that says “I don’t know”: evaluation, security and a $0 deployment](https://dev.to/pabscueto/building-a-rag-assistant-that-says-i-dont-know-evaluation-security-and-a-0-deployment-28lm)
+- [How I stopped babysitting late-night releases](https://dev.to/piyush_soni_74c459572e149/how-i-stopped-babysitting-late-night-releases-4ko4)
+- [简单是复杂的结果](https://dev.to/kn_wangkn_3678dc4e70c96c4/jian-dan-shi-fu-za-de-jie-guo-1no0)
+- [Building FlakyDetector 0.2.2: Why Test Reliability Needs Evidence, Not Just a Score](https://dev.to/artem7898/building-flakydetector-022-why-test-reliability-needs-evidence-not-just-a-score-5043)
 <!-- BLOG-POST-LIST:END -->
 
 
