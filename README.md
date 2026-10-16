@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Malformed Metrics Query JSON: Implementing Defensive Alert Worker Boundaries](https://dev.to/sawyerflynn1578/malformed-metrics-query-json-implementing-defensive-alert-worker-boundaries-3ml1)
-- [Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs](https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-47ac)
-- [Create record using JooqTemplate](https://dev.to/javaer/create-record-using-jooqtemplate-3pog)
-- [9router: Himpun Semua Provider &quot;Free&quot; dalam Satu Router](https://dev.to/hardyweb/9router-himpun-semua-provider-free-dalam-satu-router-3eni)
+- [I set out to compare two models. I never measured which model was running.](https://dev.to/vereos/i-set-out-to-compare-two-models-i-never-measured-which-model-was-running-56e8)
+- [From too many sources to knowledge I can use again](https://dev.to/artemr_rudenko_0bf2c2c505/from-too-many-sources-to-knowledge-i-can-use-again-22fk)
+- [Ivory Has a New Home — and the Elephant Grew Wings](https://dev.to/anselvo/ivory-has-a-new-home-and-the-elephant-grew-wings-3kgh)
+- [A 4B model on my computer drafts freelance quotes. I tested it on 8 real client briefs.](https://dev.to/moin105/a-4b-model-on-my-computer-drafts-freelance-quotes-i-tested-it-on-8-real-client-briefs-19lc)
 <!-- BLOG-POST-LIST:END -->
 
 
