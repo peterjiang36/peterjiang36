@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate Voice AI with Shopify Stores](https://dev.to/voice_developer/how-to-integrate-voice-ai-with-shopify-stores-3h7b)
-- [Opus 5.5 Fast Mode Leaves Preview: 2x the Price, and a Speed Switch Misses the Cache](https://dev.to/gabrielanhaia/opus-55-fast-mode-leaves-preview-2x-the-price-and-a-speed-switch-misses-the-cache-51db)
-- [Your robots.txt says yes. Your CDN says no. &lpar;We tested the top 1,000 sites&rpar;](https://dev.to/grubbomatic/your-robotstxt-says-yes-your-cdn-says-no-we-tested-the-top-1000-sites-883)
-- [How to Handle Edge Cases in TTS Applications](https://dev.to/voice_developer/how-to-handle-edge-cases-in-tts-applications-510l)
+- [Malformed Metrics Query JSON: Implementing Defensive Alert Worker Boundaries](https://dev.to/sawyerflynn1578/malformed-metrics-query-json-implementing-defensive-alert-worker-boundaries-3ml1)
+- [Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs](https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-47ac)
+- [Create record using JooqTemplate](https://dev.to/javaer/create-record-using-jooqtemplate-3pog)
+- [9router: Himpun Semua Provider &quot;Free&quot; dalam Satu Router](https://dev.to/hardyweb/9router-himpun-semua-provider-free-dalam-satu-router-3eni)
 <!-- BLOG-POST-LIST:END -->
 
 
