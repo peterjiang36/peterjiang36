@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scope Seal AI](https://dev.to/naga_koyilada_de0d7c081c4/scope-seal-ai-3c31)
-- [WebRTC in Firefox: getUserMedia, RTCPeerConnection, Data Channels, and Privacy Considerations](https://dev.to/weatherclockdash/webrtc-in-firefox-getusermedia-rtcpeerconnection-data-channels-and-privacy-considerations-32md)
-- [Best Tools for Managing Parallel AI Coding Agents in 2026](https://dev.to/therealmrmumba/best-tools-for-managing-parallel-ai-coding-agents-in-2026-4on4)
-- [Stop Pasting API Keys Into Your Terminal: Use Windows Environment Variables Instead](https://dev.to/julianneagu/stop-pasting-api-keys-into-your-terminal-use-windows-environment-variables-instead-5fi8)
+- [Building a read-only city-data MCP: street identity, missing data and honest comparisons](https://dev.to/yoel_castao_d5cdcbe81850/building-a-read-only-city-data-mcp-street-identity-missing-data-and-honest-comparisons-fcd)
+- [Per-user ownership in a .NET Minimal API &lpar;and how the user reaches your endpoint&rpar;](https://dev.to/fmaes/per-user-ownership-in-a-net-minimal-api-and-how-the-user-reaches-your-endpoint-2an1)
+- [Why your Make.com scenario stopped running &lpar;and how to fix it&rpar;](https://dev.to/flowpaja/why-your-makecom-scenario-stopped-running-and-how-to-fix-it-2o1d)
+- [Upscale Video to 4K Without Uploading It: Up to 7 Faster, Sharper, and Nothing Leaves Your Laptop](https://dev.to/sharksevenro/upscale-video-to-4k-without-uploading-it-up-to-7x-faster-sharper-and-nothing-leaves-your-laptop-5495)
 <!-- BLOG-POST-LIST:END -->
 
 
