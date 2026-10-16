@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a read-only city-data MCP: street identity, missing data and honest comparisons](https://dev.to/yoel_castao_d5cdcbe81850/building-a-read-only-city-data-mcp-street-identity-missing-data-and-honest-comparisons-fcd)
-- [Per-user ownership in a .NET Minimal API &lpar;and how the user reaches your endpoint&rpar;](https://dev.to/fmaes/per-user-ownership-in-a-net-minimal-api-and-how-the-user-reaches-your-endpoint-2an1)
-- [Why your Make.com scenario stopped running &lpar;and how to fix it&rpar;](https://dev.to/flowpaja/why-your-makecom-scenario-stopped-running-and-how-to-fix-it-2o1d)
-- [Upscale Video to 4K Without Uploading It: Up to 7 Faster, Sharper, and Nothing Leaves Your Laptop](https://dev.to/sharksevenro/upscale-video-to-4k-without-uploading-it-up-to-7x-faster-sharper-and-nothing-leaves-your-laptop-5495)
+- [简单是复杂的结果](https://dev.to/kn_wangkn_3678dc4e70c96c4/jian-dan-shi-fu-za-de-jie-guo-ncp)
+- [Misskey at 3,354 fingerprint matches and 717 title matches: reading a fediverse instance count](https://dev.to/stark_zhuang_df5076f35c68/misskey-at-3354-fingerprint-matches-and-717-title-matches-reading-a-fediverse-instance-count-4088)
+- [Node.js Queues vs Self-Hosted Workers: Failed Jobs, DLQ Redrive, Idempotent Consumers](https://dev.to/seraphinalyn7139/nodejs-queues-vs-self-hosted-workers-failed-jobs-dlq-redrive-idempotent-consumers-1n45)
+- [Your fetch failed, your code wrote an empty array, and now your tests assert a lie](https://dev.to/yff124/your-fetch-failed-your-code-wrote-an-empty-array-and-now-your-tests-assert-a-lie-3ijl)
 <!-- BLOG-POST-LIST:END -->
 
 
