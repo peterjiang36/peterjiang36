@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World! Meet Luffy Rajput – Building, Coding, and Chasing Dreams](https://dev.to/luffyrajput/hello-world-meet-luffy-rajput-building-coding-and-chasing-dreams-22k)
-- [How to Get Your Public IP Address From the Command Line](https://dev.to/ishantsinghdev/how-to-get-your-public-ip-address-from-the-command-line-kd8)
-- [12 Cursor rules that stop AI assistants writing outdated FastAPI code](https://dev.to/rdj/12-cursor-rules-that-stop-ai-assistants-writing-outdated-fastapi-code-1bc2)
-- [Why Is My Base44 App Not Working? What 192 Real Reports Say](https://dev.to/tusharbhendarkar/why-is-my-base44-app-not-working-what-192-real-reports-say-3cfb)
+- [CSS Concepts Beginners Should Learn First: A Practical Learning Roadmap](https://dev.to/okoye_ndidiamaka_5e3b7d30/css-concepts-beginners-should-learn-first-a-practical-learning-roadmap-29kg)
+- [Laravel Cache: Get All Items With a Tag &lpar;Working Fix&rpar;](https://dev.to/faizan050/laravel-cache-get-all-items-with-a-tag-working-fix-10hp)
+- [Why Human Oversight Still Matters in Automated Cyber Defence Introduction](https://dev.to/survi3/why-human-oversight-still-matters-in-automated-cyber-defenceintroduction-mon)
+- [Cross-Site Scripting &lpar;XSS&rpar;: When User Input Becomes Executable Code](https://dev.to/omeiza_ahmed/cross-site-scripting-xss-when-user-input-becomes-executable-code-5389)
 <!-- BLOG-POST-LIST:END -->
 
 
