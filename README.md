@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What makes a Google Play closed test slow? Data from 85 closed tests](https://dev.to/founder_can/what-makes-a-google-play-closed-test-slow-data-from-85-closed-tests-hgk)
-- [Plan Explainer: the PR comment that stops your client from saying &#39;looks good&#39; to 2 deleted databases](https://dev.to/srivatsa_n_e2f43f244fc85b/plan-explainer-the-pr-comment-that-stops-your-client-from-saying-looks-good-to-2-deleted-p2p)
-- [Google Play&#39;s production access form, question by question &lpar;what to write after your 14-day closed test&rpar;](https://dev.to/founder_can/google-plays-production-access-form-question-by-question-what-to-write-after-your-14-day-closed-4052)
-- [SonarQube-style grades for 1,040 open-source React Native apps: 17 get straight A&#39;s](https://dev.to/keel_alican_akyol/sonarqube-style-grades-for-1040-open-source-react-native-apps-17-get-straight-as-5dn3)
+- [Which AI coding tools are actually worth using in 2026?](https://dev.to/abu_shahed/which-ai-coding-tools-are-actually-worth-using-in-2026-3759)
+- [Node.js Realtime Channel vs Polling: Logistics Notification Delivery Cost and Complexity](https://dev.to/peregrineshaw9645/nodejs-realtime-channel-vs-polling-logistics-notification-delivery-cost-and-complexity-32gp)
+- [🛡️ ScopeShield — An AI Change-Order Assistant for Freelancers](https://dev.to/apoorv_singh_69/scopeshield-an-ai-change-order-assistant-for-freelancers-4ip0)
+- [Trail bird journal v1](https://dev.to/amit_sinha_2a6ee473012f2d/trail-bird-journal-v1-53g1)
 <!-- BLOG-POST-LIST:END -->
 
 
