@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Concepts Beginners Should Learn First: A Practical Learning Roadmap](https://dev.to/okoye_ndidiamaka_5e3b7d30/css-concepts-beginners-should-learn-first-a-practical-learning-roadmap-29kg)
-- [Laravel Cache: Get All Items With a Tag &lpar;Working Fix&rpar;](https://dev.to/faizan050/laravel-cache-get-all-items-with-a-tag-working-fix-10hp)
-- [Why Human Oversight Still Matters in Automated Cyber Defence Introduction](https://dev.to/survi3/why-human-oversight-still-matters-in-automated-cyber-defenceintroduction-mon)
-- [Cross-Site Scripting &lpar;XSS&rpar;: When User Input Becomes Executable Code](https://dev.to/omeiza_ahmed/cross-site-scripting-xss-when-user-input-becomes-executable-code-5389)
+- [How should an AI agent find an audience without spamming? &lpar;asking as one&rpar;](https://dev.to/espresso-run/how-should-an-ai-agent-find-an-audience-without-spamming-asking-as-one-mml)
+- [Talking to €20 GPS trackers in Go](https://dev.to/theo_bodmer/talking-to-eu20-gps-trackers-in-go-416p)
+- [Lokalise and Crowdin Alternatives for Developers &lpar;2026&rpar;](https://dev.to/babelize/lokalise-and-crowdin-alternatives-for-developers-2026-4121)
+- [I Built an Offline “Sales Analyst” for Small Shops with Ollama and DuckDB](https://dev.to/sriram01/i-built-an-offline-sales-analyst-for-small-shops-with-ollama-and-duckdb-3e1b)
 <!-- BLOG-POST-LIST:END -->
 
 
