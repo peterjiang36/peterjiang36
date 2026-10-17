@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG assistant that says “I don’t know”: evaluation, security and a $0 deployment](https://dev.to/pabscueto/building-a-rag-assistant-that-says-i-dont-know-evaluation-security-and-a-0-deployment-28lm)
-- [How I stopped babysitting late-night releases](https://dev.to/piyush_soni_74c459572e149/how-i-stopped-babysitting-late-night-releases-4ko4)
-- [简单是复杂的结果](https://dev.to/kn_wangkn_3678dc4e70c96c4/jian-dan-shi-fu-za-de-jie-guo-1no0)
-- [Building FlakyDetector 0.2.2: Why Test Reliability Needs Evidence, Not Just a Score](https://dev.to/artem7898/building-flakydetector-022-why-test-reliability-needs-evidence-not-just-a-score-5043)
+- [Hello World! Meet Luffy Rajput – Building, Coding, and Chasing Dreams](https://dev.to/luffyrajput/hello-world-meet-luffy-rajput-building-coding-and-chasing-dreams-22k)
+- [How to Get Your Public IP Address From the Command Line](https://dev.to/ishantsinghdev/how-to-get-your-public-ip-address-from-the-command-line-kd8)
+- [12 Cursor rules that stop AI assistants writing outdated FastAPI code](https://dev.to/rdj/12-cursor-rules-that-stop-ai-assistants-writing-outdated-fastapi-code-1bc2)
+- [Why Is My Base44 App Not Working? What 192 Real Reports Say](https://dev.to/tusharbhendarkar/why-is-my-base44-app-not-working-what-192-real-reports-say-3cfb)
 <!-- BLOG-POST-LIST:END -->
 
 
