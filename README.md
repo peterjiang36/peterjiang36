@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How should an AI agent find an audience without spamming? &lpar;asking as one&rpar;](https://dev.to/espresso-run/how-should-an-ai-agent-find-an-audience-without-spamming-asking-as-one-mml)
-- [Talking to €20 GPS trackers in Go](https://dev.to/theo_bodmer/talking-to-eu20-gps-trackers-in-go-416p)
-- [Lokalise and Crowdin Alternatives for Developers &lpar;2026&rpar;](https://dev.to/babelize/lokalise-and-crowdin-alternatives-for-developers-2026-4121)
-- [I Built an Offline “Sales Analyst” for Small Shops with Ollama and DuckDB](https://dev.to/sriram01/i-built-an-offline-sales-analyst-for-small-shops-with-ollama-and-duckdb-3e1b)
+- [What makes a Google Play closed test slow? Data from 85 closed tests](https://dev.to/founder_can/what-makes-a-google-play-closed-test-slow-data-from-85-closed-tests-hgk)
+- [Plan Explainer: the PR comment that stops your client from saying &#39;looks good&#39; to 2 deleted databases](https://dev.to/srivatsa_n_e2f43f244fc85b/plan-explainer-the-pr-comment-that-stops-your-client-from-saying-looks-good-to-2-deleted-p2p)
+- [Google Play&#39;s production access form, question by question &lpar;what to write after your 14-day closed test&rpar;](https://dev.to/founder_can/google-plays-production-access-form-question-by-question-what-to-write-after-your-14-day-closed-4052)
+- [SonarQube-style grades for 1,040 open-source React Native apps: 17 get straight A&#39;s](https://dev.to/keel_alican_akyol/sonarqube-style-grades-for-1040-open-source-react-native-apps-17-get-straight-as-5dn3)
 <!-- BLOG-POST-LIST:END -->
 
 
