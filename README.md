@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three crashes, one body shop: a fraud agent where the graph picks the next query](https://dev.to/alienx5499/three-crashes-one-body-shop-a-fraud-agent-where-the-graph-picks-the-next-query-4m02)
-- [Building RescueGrid: How FalkorDB&#39;s Graph Brain Solved Disaster Coordination Paralysis](https://dev.to/manthancpp/building-rescuegrid-how-falkordbs-graph-brain-solved-disaster-coordination-paralysis-46cm)
-- [I asked a company brain about a contract I&#39;m not allowed to see. It said no, and told me who to ask.](https://dev.to/m_rayhankhan_71c3f2ed50c/i-asked-a-company-brain-about-a-contract-im-not-allowed-to-see-it-said-no-and-told-me-who-to-ask-3494)
-- [When Deleted Shipment Documents Still Appear — Search Results and Erasure Fences](https://dev.to/celesteraine1783/when-deleted-shipment-documents-still-appear-search-results-and-erasure-fences-1cm8)
+- [iOS development on Windows: the complete guide &lpar;21 apps, no Mac&rpar;](https://dev.to/mattbusel/ios-development-on-windows-the-complete-guide-21-apps-no-mac-2103)
+- [Notes from a 2 AM On-Call: OpenHands Agent Hanging on Large Repos &lpar;And the 5-Line Fix&rpar;](https://dev.to/ryan_gallagher/notes-from-a-2-am-on-call-openhands-agent-hanging-on-large-repos-and-the-5-line-fix-3lm8)
+- [Scope MCP Keys to the Human, Not to the Team](https://dev.to/jeff_pdc/scope-mcp-keys-to-the-human-not-to-the-team-jm1)
+- [Reversing TikTok&#39;s Request Signing: From Obfuscated Native Code to Pure Python](https://dev.to/engnzdl/reversing-tiktoks-request-signing-from-obfuscated-native-code-to-pure-python-30e6)
 <!-- BLOG-POST-LIST:END -->
 
 
