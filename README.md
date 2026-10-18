@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Local Log Whisperer: AI Diagnostics for Sensitive Servers](https://dev.to/mohammed_mehdihedayati_5/local-log-whisperer-ai-diagnostics-for-sensitive-servers-1epd)
-- [Devfix-Ai](https://dev.to/faisu/devfix-ai-2c9o)
-- [Rocket: The Rust Web Framework Built Around Ergonomics](https://dev.to/localeostackio/rocket-the-rust-web-framework-built-around-ergonomics-4gd1)
-- [🏢 SocietyFix AI — The AI-Powered Operating System for Housing Societies](https://dev.to/devdesagar/societyfix-ai-the-ai-powered-operating-system-for-housing-societies-2mkh)
+- [Three crashes, one body shop: a fraud agent where the graph picks the next query](https://dev.to/alienx5499/three-crashes-one-body-shop-a-fraud-agent-where-the-graph-picks-the-next-query-4m02)
+- [Building RescueGrid: How FalkorDB&#39;s Graph Brain Solved Disaster Coordination Paralysis](https://dev.to/manthancpp/building-rescuegrid-how-falkordbs-graph-brain-solved-disaster-coordination-paralysis-46cm)
+- [I asked a company brain about a contract I&#39;m not allowed to see. It said no, and told me who to ask.](https://dev.to/m_rayhankhan_71c3f2ed50c/i-asked-a-company-brain-about-a-contract-im-not-allowed-to-see-it-said-no-and-told-me-who-to-ask-3494)
+- [When Deleted Shipment Documents Still Appear — Search Results and Erasure Fences](https://dev.to/celesteraine1783/when-deleted-shipment-documents-still-appear-search-results-and-erasure-fences-1cm8)
 <!-- BLOG-POST-LIST:END -->
 
 
