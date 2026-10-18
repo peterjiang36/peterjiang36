@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Process Automation for Swiss SMEs: A Control, Exception, and Recovery System](https://dev.to/isabelle_dubuis_d858453d7/process-automation-for-swiss-smes-a-control-exception-and-recovery-system-2bkm)
-- [Decision Brain: giving AI the why behind the work, with FalkorDB](https://dev.to/peter_green_fb83c862e8fc7/decision-brain-giving-ai-the-why-behind-the-work-with-falkordb-od5)
-- [My self-hosted ad blocker poisoned Apple&#39;s push servers and killed iMessage](https://dev.to/prodbymarcu/my-self-hosted-ad-blocker-poisoned-apples-push-servers-and-killed-imessage-4je8)
-- [OpenCode Told 1.4% of Console Users to Revoke Their OpenAI and Anthropic Keys](https://dev.to/gabrielanhaia/opencode-told-14-of-console-users-to-revoke-their-openai-and-anthropic-keys-561)
+- [Node.js SMS Alert API: 3 Template Ownership Rules for Home Security SaaS](https://dev.to/eliasfischer8351/nodejs-sms-alert-api-3-template-ownership-rules-for-home-security-saas-1h0f)
+- [Can AI Agents Access Your HR and Payroll Data Safely? 329 Tools Counted, 54 Write/Delete](https://dev.to/scriptmasterlabs01/can-ai-agents-access-your-hr-and-payroll-data-safely-329-tools-counted-54-writedelete-41n5)
+- [Why AI Agents Fail: Pattern Matching Beats Reasoning Scaffolds](https://dev.to/yanoai/why-ai-agents-fail-pattern-matching-beats-reasoning-scaffolds-38am)
+- [From 1,459 Views to Zero Sales: One Week of Raw Funnel Numbers, Nothing Rounded](https://dev.to/yuhehe/from-1459-views-to-zero-sales-one-week-of-raw-funnel-numbers-nothing-rounded-1n89)
 <!-- BLOG-POST-LIST:END -->
 
 
