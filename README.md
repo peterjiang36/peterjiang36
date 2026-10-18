@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Three things in our app wait for a job to finish, and no two of them poll the same way](https://dev.to/daniel_pertu/three-things-in-our-app-wait-for-a-job-to-finish-and-no-two-of-them-poll-the-same-way-2m7c)
-- [Android Fullscreen Video Exit and Layout Restore](https://dev.to/raylabs/android-fullscreen-video-exit-and-layout-restore-4pom)
-- [Our session history rebuilds last week&#39;s quiz from the pack, and the pack is not where the quiz was recorded](https://dev.to/daniel_pertu/our-session-history-rebuilds-last-weeks-quiz-from-the-pack-and-the-pack-is-not-where-the-quiz-was-58g7)
-- [Two routes in our app return 404 in production on purpose, and they are how every card image gets made](https://dev.to/daniel_pertu/two-routes-in-our-app-return-404-in-production-on-purpose-and-they-are-how-every-card-image-gets-11pi)
+- [Local Log Whisperer: AI Diagnostics for Sensitive Servers](https://dev.to/mohammed_mehdihedayati_5/local-log-whisperer-ai-diagnostics-for-sensitive-servers-1epd)
+- [Devfix-Ai](https://dev.to/faisu/devfix-ai-2c9o)
+- [Rocket: The Rust Web Framework Built Around Ergonomics](https://dev.to/localeostackio/rocket-the-rust-web-framework-built-around-ergonomics-4gd1)
+- [🏢 SocietyFix AI — The AI-Powered Operating System for Housing Societies](https://dev.to/devdesagar/societyfix-ai-the-ai-powered-operating-system-for-housing-societies-2mkh)
 <!-- BLOG-POST-LIST:END -->
 
 
