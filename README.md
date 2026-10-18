@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building ChartPetal: The Hard Part Is Between the CSV and the Chart](https://dev.to/lyyluca/building-chartpetal-the-hard-part-is-between-the-csv-and-the-chart-3h6o)
-- [RLS Write-Leak: The Silent Data Exposure That Lets Any User Modify Any Row](https://dev.to/cekuu35/rls-write-leak-the-silent-data-exposure-that-lets-any-user-modify-any-row-1a7h)
-- [I built a scientific figure generator around a review checkpoint](https://dev.to/lyyluca/i-built-a-scientific-figure-generator-around-a-review-checkpoint-3n12)
-- [4 Security Holes Your AI-Generated Supabase App Has &lpar;Lovable, Cursor, Bolt, v0&rpar;](https://dev.to/cekuu35/4-security-holes-your-ai-generated-supabase-app-has-lovable-cursor-bolt-v0-2bkf)
+- [Three things in our app wait for a job to finish, and no two of them poll the same way](https://dev.to/daniel_pertu/three-things-in-our-app-wait-for-a-job-to-finish-and-no-two-of-them-poll-the-same-way-2m7c)
+- [Android Fullscreen Video Exit and Layout Restore](https://dev.to/raylabs/android-fullscreen-video-exit-and-layout-restore-4pom)
+- [Our session history rebuilds last week&#39;s quiz from the pack, and the pack is not where the quiz was recorded](https://dev.to/daniel_pertu/our-session-history-rebuilds-last-weeks-quiz-from-the-pack-and-the-pack-is-not-where-the-quiz-was-58g7)
+- [Two routes in our app return 404 in production on purpose, and they are how every card image gets made](https://dev.to/daniel_pertu/two-routes-in-our-app-return-404-in-production-on-purpose-and-they-are-how-every-card-image-gets-11pi)
 <!-- BLOG-POST-LIST:END -->
 
 
