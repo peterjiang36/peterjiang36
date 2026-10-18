@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [iOS development on Windows: the complete guide &lpar;21 apps, no Mac&rpar;](https://dev.to/mattbusel/ios-development-on-windows-the-complete-guide-21-apps-no-mac-2103)
-- [Notes from a 2 AM On-Call: OpenHands Agent Hanging on Large Repos &lpar;And the 5-Line Fix&rpar;](https://dev.to/ryan_gallagher/notes-from-a-2-am-on-call-openhands-agent-hanging-on-large-repos-and-the-5-line-fix-3lm8)
-- [Scope MCP Keys to the Human, Not to the Team](https://dev.to/jeff_pdc/scope-mcp-keys-to-the-human-not-to-the-team-jm1)
-- [Reversing TikTok&#39;s Request Signing: From Obfuscated Native Code to Pure Python](https://dev.to/engnzdl/reversing-tiktoks-request-signing-from-obfuscated-native-code-to-pure-python-30e6)
+- [Gas Optimization Audit: Steakhouse Financial](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-steakhouse-financial-1cko)
+- [How ReadOnlySpan&lt;char&gt;.IndexOf finds a substring with SIMD](https://dev.to/pedrosakuma/how-readonlyspanindexof-finds-a-substring-with-simd-2i2d)
+- [Market Analysis: The Escalation of Physical Threats in Digital Asset Management: Addressing the Rise of &quot;Wrench Attacks&quot;](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-the-escalation-of-physical-threats-in-digital-asset-management-addressing-the-49ac)
+- [Nobody Noticed the Agents: What India&#39;s CERT-In Advisory Means for Your Network](https://dev.to/hlinor/nobody-noticed-the-agents-what-indias-cert-in-advisory-means-for-your-network-397a)
 <!-- BLOG-POST-LIST:END -->
 
 
