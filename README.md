@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js SMS Alert API: 3 Template Ownership Rules for Home Security SaaS](https://dev.to/eliasfischer8351/nodejs-sms-alert-api-3-template-ownership-rules-for-home-security-saas-1h0f)
-- [Can AI Agents Access Your HR and Payroll Data Safely? 329 Tools Counted, 54 Write/Delete](https://dev.to/scriptmasterlabs01/can-ai-agents-access-your-hr-and-payroll-data-safely-329-tools-counted-54-writedelete-41n5)
-- [Why AI Agents Fail: Pattern Matching Beats Reasoning Scaffolds](https://dev.to/yanoai/why-ai-agents-fail-pattern-matching-beats-reasoning-scaffolds-38am)
-- [From 1,459 Views to Zero Sales: One Week of Raw Funnel Numbers, Nothing Rounded](https://dev.to/yuhehe/from-1459-views-to-zero-sales-one-week-of-raw-funnel-numbers-nothing-rounded-1n89)
+- [Building ChartPetal: The Hard Part Is Between the CSV and the Chart](https://dev.to/lyyluca/building-chartpetal-the-hard-part-is-between-the-csv-and-the-chart-3h6o)
+- [RLS Write-Leak: The Silent Data Exposure That Lets Any User Modify Any Row](https://dev.to/cekuu35/rls-write-leak-the-silent-data-exposure-that-lets-any-user-modify-any-row-1a7h)
+- [I built a scientific figure generator around a review checkpoint](https://dev.to/lyyluca/i-built-a-scientific-figure-generator-around-a-review-checkpoint-3n12)
+- [4 Security Holes Your AI-Generated Supabase App Has &lpar;Lovable, Cursor, Bolt, v0&rpar;](https://dev.to/cekuu35/4-security-holes-your-ai-generated-supabase-app-has-lovable-cursor-bolt-v0-2bkf)
 <!-- BLOG-POST-LIST:END -->
 
 
