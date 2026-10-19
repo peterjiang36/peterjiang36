@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [From Never Getting Selected to a 1-in-3 Success Rate: Did AI Help Me Write Better CFPs, or Is AI Selecting Them?](https://dev.to/remojansen/from-never-getting-selected-to-a-1-in-3-success-rate-did-ai-help-me-write-better-cfps-or-is-ai-57hc)
-- [KAIROS — An AI Financial Decision Assistant That Helps You Know When to Spend, Save, or Wait](https://dev.to/ishan_singh_bc66aec1decc5/kairos-an-ai-financial-decision-assistant-that-helps-you-know-when-to-spend-save-or-wait-36nb)
-- [WordPress 7.1 for Developers: What Shipped and What Didn&#39;t](https://dev.to/vijay_mishra_14dd027a16ee/wordpress-71-for-developers-what-shipped-and-what-didnt-21og)
-- [MotionBridge — Open-source motion capture for Blender and 2D animation](https://dev.to/adonisglobal/motionbridge-open-source-motion-capture-for-blender-and-2d-animation-gm6)
+- [4 Layers of AI Agent Guardrails to Contain Agent Risk](https://dev.to/kami_butt_69b922ade8de012/4-layers-of-ai-agent-guardrails-to-contain-agent-risk-1phj)
+- [The 25-Year Velocity Gap: Why the Indian Engineering Ecosystem Is Technically Lagging](https://dev.to/hrlpavan/the-25-year-velocity-gap-why-the-indian-engineering-ecosystem-is-technically-lagging-3i3d)
+- [Create an Interactive Audio Story Generator](https://dev.to/voice_developer/create-an-interactive-audio-story-generator-eln)
+- [Currency Conversion API for AI Agents: ECB Reference Rates, Pay Per Conversion](https://dev.to/scriptmasterlabs01/currency-conversion-api-for-ai-agents-ecb-reference-rates-pay-per-conversion-1cnb)
 <!-- BLOG-POST-LIST:END -->
 
 
