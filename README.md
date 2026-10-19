@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Podcast, episode 1: The green check lies — backups, networking, self-hosting and a turtle](https://dev.to/charleshartmann/podcast-episode-1-the-green-check-lies-backups-networking-self-hosting-and-a-turtle-1o8o)
-- [Business Process Automation in Node.js and Postgres: Approval Flows](https://dev.to/geminate_solutions_9b6035/business-process-automation-in-nodejs-and-postgres-approval-flows-2ojp)
-- [&#39;Browser Tools, Server Checks, and a Directory: One Architecture&#39;](https://dev.to/laing_lii_8c1214ffb0b60ec/browser-tools-server-checks-and-a-directory-one-architecture-39jf)
-- [One Timeout Cannot Answer Two Questions: Why an AI Write&#39;s Confirmation Needs Two Windows](https://dev.to/rain6fish/one-timeout-cannot-answer-two-questions-why-an-ai-writes-confirmation-needs-two-windows-hj8)
+- [Actively exploited this week: 9 new CISA KEV entries &lpar;12 October to 18 October 2026&rpar;](https://dev.to/devaland/actively-exploited-this-week-9-new-cisa-kev-entries-12-october-to-18-october-2026-3dno)
+- [Prompt injection: how it works and how to secure an AI agent](https://dev.to/szymonpaluch/prompt-injection-how-it-works-and-how-to-secure-an-ai-agent-3jf0)
+- [DocuFlow AI: Turn Any Codebase into a Client-Ready Technical Audit](https://dev.to/fahimahammed/docuflow-ai-turn-any-codebase-into-a-client-ready-technical-audit-97p)
+- [Where is the funny monday memes everybody 😀](https://dev.to/glnurltn/where-is-the-funny-monday-memes-everybody-k36)
 <!-- BLOG-POST-LIST:END -->
 
 
