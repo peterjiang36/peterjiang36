@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Actively exploited this week: 9 new CISA KEV entries &lpar;12 October to 18 October 2026&rpar;](https://dev.to/devaland/actively-exploited-this-week-9-new-cisa-kev-entries-12-october-to-18-october-2026-3dno)
-- [Prompt injection: how it works and how to secure an AI agent](https://dev.to/szymonpaluch/prompt-injection-how-it-works-and-how-to-secure-an-ai-agent-3jf0)
-- [DocuFlow AI: Turn Any Codebase into a Client-Ready Technical Audit](https://dev.to/fahimahammed/docuflow-ai-turn-any-codebase-into-a-client-ready-technical-audit-97p)
-- [Where is the funny monday memes everybody 😀](https://dev.to/glnurltn/where-is-the-funny-monday-memes-everybody-k36)
+- [From Never Getting Selected to a 1-in-3 Success Rate: Did AI Help Me Write Better CFPs, or Is AI Selecting Them?](https://dev.to/remojansen/from-never-getting-selected-to-a-1-in-3-success-rate-did-ai-help-me-write-better-cfps-or-is-ai-57hc)
+- [KAIROS — An AI Financial Decision Assistant That Helps You Know When to Spend, Save, or Wait](https://dev.to/ishan_singh_bc66aec1decc5/kairos-an-ai-financial-decision-assistant-that-helps-you-know-when-to-spend-save-or-wait-36nb)
+- [WordPress 7.1 for Developers: What Shipped and What Didn&#39;t](https://dev.to/vijay_mishra_14dd027a16ee/wordpress-71-for-developers-what-shipped-and-what-didnt-21og)
+- [MotionBridge — Open-source motion capture for Blender and 2D animation](https://dev.to/adonisglobal/motionbridge-open-source-motion-capture-for-blender-and-2d-animation-gm6)
 <!-- BLOG-POST-LIST:END -->
 
 
