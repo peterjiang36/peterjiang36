@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The tea stall granny next to my office runs on UPI, so I built a payment announcer that speaks Hindi](https://dev.to/viveknshah/the-tea-stall-granny-next-to-my-office-runs-on-upi-so-i-built-a-payment-announcer-that-speaks-hindi-4fm0)
-- [HustleForge AI — The Autonomous Open-Source E-Commerce Co-Pilot for Resellers &amp; Makers](https://dev.to/ramachandrankv/hustleforge-ai-the-autonomous-open-source-e-commerce-co-pilot-for-resellers-makers-25bg)
-- [To exchange or not to exchange &lpar;a token&rpar;](https://dev.to/astaykov/to-exchange-or-not-to-exchange-a-token-39o9)
-- [Can your landing page be pinch-zoomed? A 30-second viewport check](https://dev.to/mercerk17/can-your-landing-page-be-pinch-zoomed-a-30-second-viewport-check-558h)
+- [How to Keep Billing State Correct When Webhook Events Repeat, Arrive Late, or Fail](https://dev.to/sholajegede/how-to-keep-billing-state-correct-when-webhook-events-repeat-arrive-late-or-fail-2aaj)
+- [Node.js Daily Cleanup Job Deletes Old Uploads with Scheduled Retention](https://dev.to/donovanpierce4012/nodejs-daily-cleanup-job-deletes-old-uploads-with-scheduled-retention-4g7n)
+- [How to Run Android Apps on a Mac Without an Emulator &lpar;58 of 71 Apps Work&rpar;](https://dev.to/alanwest/how-to-run-android-apps-on-a-mac-without-an-emulator-58-of-71-apps-work-22eb)
+- [DeepSeek Harness &lpar;dsh&rpar;: What It Is, How to Install It, and What Is Actually Inside](https://dev.to/kausarraza/deepseek-harness-dsh-what-it-is-how-to-install-it-and-what-is-actually-inside-3dcc)
 <!-- BLOG-POST-LIST:END -->
 
 
