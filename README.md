@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I make Claude Code and Codex review each other&#39;s work](https://dev.to/iliyaoblakov/how-i-make-claude-code-and-codex-review-each-others-work-5dmh)
-- [Semantic Metadata Explained: How Better Data Helps You Find the Right Information](https://dev.to/jsvnsk-tech/semantic-metadata-explained-how-better-data-helps-you-find-the-right-information-49bf)
-- [Connecting Claude Code to the MCP server built into HPE Morpheus Enterprise](https://dev.to/emre_baykal_a4a7a479d48c5/connecting-claude-code-to-the-mcp-server-built-into-hpe-morpheus-enterprise-1do4)
-- [I Turned My Personal Site Into a Building](https://dev.to/iamcanturk/i-turned-my-personal-site-into-a-building-4goi)
+- [1.2 Million Ivanti Assets and 3 Under the Old Brand: Naming Drift in Exposure Queries](https://dev.to/jeffreyciend/12-million-ivanti-assets-and-3-under-the-old-brand-naming-drift-in-exposure-queries-43oa)
+- [SaaS Launch Checklist for Indie Makers in 2026](https://dev.to/radarmakers/saas-launch-checklist-for-indie-makers-in-2026-1cbn)
+- [I Hate Manual Markdown Tables. So I Built a Tool to Never Write One Again.](https://dev.to/elliot_jacques_0745d748e9/i-hate-manual-markdown-tables-so-i-built-a-tool-to-never-write-one-again-14cn)
+- [Ruflo: An Agent Meta-Harness for Intelligent Workflows](https://dev.to/gittrending/ruflo-an-agent-meta-harness-for-intelligent-workflows-lj3)
 <!-- BLOG-POST-LIST:END -->
 
 
