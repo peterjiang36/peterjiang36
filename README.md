@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Layers of AI Agent Guardrails to Contain Agent Risk](https://dev.to/kami_butt_69b922ade8de012/4-layers-of-ai-agent-guardrails-to-contain-agent-risk-1phj)
-- [The 25-Year Velocity Gap: Why the Indian Engineering Ecosystem Is Technically Lagging](https://dev.to/hrlpavan/the-25-year-velocity-gap-why-the-indian-engineering-ecosystem-is-technically-lagging-3i3d)
-- [Create an Interactive Audio Story Generator](https://dev.to/voice_developer/create-an-interactive-audio-story-generator-eln)
-- [Currency Conversion API for AI Agents: ECB Reference Rates, Pay Per Conversion](https://dev.to/scriptmasterlabs01/currency-conversion-api-for-ai-agents-ecb-reference-rates-pay-per-conversion-1cnb)
+- [We built Hearth, a free Discord alternative for Windows &lpar;voice, screen share, roles&rpar;](https://dev.to/hearthapp/we-built-hearth-a-free-discord-alternative-for-windows-voice-screen-share-roles-3aim)
+- [AWS CDK patterns that survive a team](https://dev.to/rohit_tirmanwar_dce05d8ee/aws-cdk-patterns-that-survive-a-team-3n1a)
+- [What keeps a serverless system healthy after launch](https://dev.to/rohit_tirmanwar_dce05d8ee/what-keeps-a-serverless-system-healthy-after-launch-4nb6)
+- [I built an AI agent factory to make 570 exercise visuals. Here&#39;s what each model got right and wrong.](https://dev.to/emre_ferik/i-built-an-ai-agent-factory-to-make-570-exercise-visuals-heres-what-each-model-got-right-and-5haf)
 <!-- BLOG-POST-LIST:END -->
 
 
