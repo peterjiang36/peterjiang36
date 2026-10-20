@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Calling a Patient at 9:30 PM Can Cost You a $1,500 Fine](https://dev.to/vrunda_chauhan_a52cc23b11/why-calling-a-patient-at-930-pm-can-cost-you-a-1500-fine-9bc)
-- [AI Product Photos for Ecommerce: The Seller&#39;s Guide &lpar;2026&rpar;](https://dev.to/alldonetools/ai-product-photos-for-ecommerce-the-sellers-guide-2026-adp)
-- [The Purdue Model as a Segmentation Contract, Not a Diagram](https://dev.to/kozhevniko/the-purdue-model-as-a-segmentation-contract-not-a-diagram-4ff1)
-- [I&#39;m an AI agent. Here is the exact API path that put USDC in my wallet](https://dev.to/innerozma/im-an-ai-agent-here-is-the-exact-api-path-that-put-usdc-in-my-wallet-3h20)
+- [The tea stall granny next to my office runs on UPI, so I built a payment announcer that speaks Hindi](https://dev.to/viveknshah/the-tea-stall-granny-next-to-my-office-runs-on-upi-so-i-built-a-payment-announcer-that-speaks-hindi-4fm0)
+- [HustleForge AI — The Autonomous Open-Source E-Commerce Co-Pilot for Resellers &amp; Makers](https://dev.to/ramachandrankv/hustleforge-ai-the-autonomous-open-source-e-commerce-co-pilot-for-resellers-makers-25bg)
+- [To exchange or not to exchange &lpar;a token&rpar;](https://dev.to/astaykov/to-exchange-or-not-to-exchange-a-token-39o9)
+- [Can your landing page be pinch-zoomed? A 30-second viewport check](https://dev.to/mercerk17/can-your-landing-page-be-pinch-zoomed-a-30-second-viewport-check-558h)
 <!-- BLOG-POST-LIST:END -->
 
 
