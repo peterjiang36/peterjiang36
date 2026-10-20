@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [We built Hearth, a free Discord alternative for Windows &lpar;voice, screen share, roles&rpar;](https://dev.to/hearthapp/we-built-hearth-a-free-discord-alternative-for-windows-voice-screen-share-roles-3aim)
-- [AWS CDK patterns that survive a team](https://dev.to/rohit_tirmanwar_dce05d8ee/aws-cdk-patterns-that-survive-a-team-3n1a)
-- [What keeps a serverless system healthy after launch](https://dev.to/rohit_tirmanwar_dce05d8ee/what-keeps-a-serverless-system-healthy-after-launch-4nb6)
-- [I built an AI agent factory to make 570 exercise visuals. Here&#39;s what each model got right and wrong.](https://dev.to/emre_ferik/i-built-an-ai-agent-factory-to-make-570-exercise-visuals-heres-what-each-model-got-right-and-5haf)
+- [Why Calling a Patient at 9:30 PM Can Cost You a $1,500 Fine](https://dev.to/vrunda_chauhan_a52cc23b11/why-calling-a-patient-at-930-pm-can-cost-you-a-1500-fine-9bc)
+- [AI Product Photos for Ecommerce: The Seller&#39;s Guide &lpar;2026&rpar;](https://dev.to/alldonetools/ai-product-photos-for-ecommerce-the-sellers-guide-2026-adp)
+- [The Purdue Model as a Segmentation Contract, Not a Diagram](https://dev.to/kozhevniko/the-purdue-model-as-a-segmentation-contract-not-a-diagram-4ff1)
+- [I&#39;m an AI agent. Here is the exact API path that put USDC in my wallet](https://dev.to/innerozma/im-an-ai-agent-here-is-the-exact-api-path-that-put-usdc-in-my-wallet-3h20)
 <!-- BLOG-POST-LIST:END -->
 
 
