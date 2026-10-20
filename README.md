@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Keep Billing State Correct When Webhook Events Repeat, Arrive Late, or Fail](https://dev.to/sholajegede/how-to-keep-billing-state-correct-when-webhook-events-repeat-arrive-late-or-fail-2aaj)
-- [Node.js Daily Cleanup Job Deletes Old Uploads with Scheduled Retention](https://dev.to/donovanpierce4012/nodejs-daily-cleanup-job-deletes-old-uploads-with-scheduled-retention-4g7n)
-- [How to Run Android Apps on a Mac Without an Emulator &lpar;58 of 71 Apps Work&rpar;](https://dev.to/alanwest/how-to-run-android-apps-on-a-mac-without-an-emulator-58-of-71-apps-work-22eb)
-- [DeepSeek Harness &lpar;dsh&rpar;: What It Is, How to Install It, and What Is Actually Inside](https://dev.to/kausarraza/deepseek-harness-dsh-what-it-is-how-to-install-it-and-what-is-actually-inside-3dcc)
+- [How I make Claude Code and Codex review each other&#39;s work](https://dev.to/iliyaoblakov/how-i-make-claude-code-and-codex-review-each-others-work-5dmh)
+- [Semantic Metadata Explained: How Better Data Helps You Find the Right Information](https://dev.to/jsvnsk-tech/semantic-metadata-explained-how-better-data-helps-you-find-the-right-information-49bf)
+- [Connecting Claude Code to the MCP server built into HPE Morpheus Enterprise](https://dev.to/emre_baykal_a4a7a479d48c5/connecting-claude-code-to-the-mcp-server-built-into-hpe-morpheus-enterprise-1do4)
+- [I Turned My Personal Site Into a Building](https://dev.to/iamcanturk/i-turned-my-personal-site-into-a-building-4goi)
 <!-- BLOG-POST-LIST:END -->
 
 
