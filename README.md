@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1.2 Million Ivanti Assets and 3 Under the Old Brand: Naming Drift in Exposure Queries](https://dev.to/jeffreyciend/12-million-ivanti-assets-and-3-under-the-old-brand-naming-drift-in-exposure-queries-43oa)
-- [SaaS Launch Checklist for Indie Makers in 2026](https://dev.to/radarmakers/saas-launch-checklist-for-indie-makers-in-2026-1cbn)
-- [I Hate Manual Markdown Tables. So I Built a Tool to Never Write One Again.](https://dev.to/elliot_jacques_0745d748e9/i-hate-manual-markdown-tables-so-i-built-a-tool-to-never-write-one-again-14cn)
-- [Ruflo: An Agent Meta-Harness for Intelligent Workflows](https://dev.to/gittrending/ruflo-an-agent-meta-harness-for-intelligent-workflows-lj3)
+- [My demo build is a config I never commit: the temporary vite setup behind the public preview](https://dev.to/kamrankhandev/my-demo-build-is-a-config-i-never-commit-the-temporary-vite-setup-behind-the-public-preview-3f1a)
+- [Industrial AI Startups: Seven Questions to Answer Before Building](https://dev.to/juliet_ogochukwu33/industrial-ai-startups-seven-questions-to-answer-before-building-3hng)
+- [Async and await in JavaScript....?](https://dev.to/narasimma/async-and-await-in-javascript-2148)
+- [The 20% of Tasks I Deliberately Do Not Give the Agent](https://dev.to/galagent/the-20-of-tasks-i-deliberately-do-not-give-the-agent-3ng2)
 <!-- BLOG-POST-LIST:END -->
 
 
