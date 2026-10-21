@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Does a Cloned Voice Stay the Same? Scoring Qwen3-TTS With ECAPA](https://dev.to/tasklift/does-a-cloned-voice-stay-the-same-scoring-qwen3-tts-with-ecapa-39pd)
-- [Building a Domain Intelligence Tool: Challenges in Website Technology Detection](https://dev.to/salesdatain/building-a-domain-intelligence-tool-challenges-in-website-technology-detection-2hh8)
-- [Sprint &amp; Stamina | UE5 Devlog](https://dev.to/mt_indiedev/sprint-stamina-ue5-devlog-4k7m)
-- [Channel Your Inner Sloth: Turn Hours of Lectures into Flashcards with Gemma](https://dev.to/lakshan2003034/channel-your-inner-sloth-turn-hours-of-lectures-into-flashcards-with-gemma-ocn)
+- [I Built a Lazy File Organizer with PowerShell for Hacktoberfest](https://dev.to/abongankosi403/i-built-a-lazy-file-organizer-with-powershell-for-hacktoberfest-59ij)
+- [Build a Text-to-Speech App with ElevenLabs and Python](https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-kaa)
+- [A hook should be a function call, not a shell](https://dev.to/ianwieds/a-hook-should-be-a-function-call-not-a-shell-3dkd)
+- [Store-and-Forward Explained: Inside a Router, From the Book to Linux](https://dev.to/muzasio/store-and-forward-explained-inside-a-router-from-the-book-to-linux-4flj)
 <!-- BLOG-POST-LIST:END -->
 
 
