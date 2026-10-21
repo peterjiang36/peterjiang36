@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Test, Heal Thyself!](https://dev.to/testingil/test-heal-thyself-200)
-- [Casa inteligente DIY desde cero con ESP32 y AWS: guía para planificarla](https://dev.to/stevencarvajal/casa-inteligente-diy-desde-cero-con-esp32-y-aws-guia-para-planificarla-2p3j)
-- [An Example App That Needs Its Features](https://dev.to/juststevemcd/an-example-app-that-needs-its-features-1chm)
-- [RailMate Bangladesh: A Train Search and Live Updates App for Passengers](https://dev.to/najmulhasan-dev/railmate-bangladesh-a-train-search-and-live-updates-app-for-passengers-4nci)
+- [Does a Cloned Voice Stay the Same? Scoring Qwen3-TTS With ECAPA](https://dev.to/tasklift/does-a-cloned-voice-stay-the-same-scoring-qwen3-tts-with-ecapa-39pd)
+- [Building a Domain Intelligence Tool: Challenges in Website Technology Detection](https://dev.to/salesdatain/building-a-domain-intelligence-tool-challenges-in-website-technology-detection-2hh8)
+- [Sprint &amp; Stamina | UE5 Devlog](https://dev.to/mt_indiedev/sprint-stamina-ue5-devlog-4k7m)
+- [Channel Your Inner Sloth: Turn Hours of Lectures into Flashcards with Gemma](https://dev.to/lakshan2003034/channel-your-inner-sloth-turn-hours-of-lectures-into-flashcards-with-gemma-ocn)
 <!-- BLOG-POST-LIST:END -->
 
 
