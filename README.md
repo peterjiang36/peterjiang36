@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My demo build is a config I never commit: the temporary vite setup behind the public preview](https://dev.to/kamrankhandev/my-demo-build-is-a-config-i-never-commit-the-temporary-vite-setup-behind-the-public-preview-3f1a)
-- [Industrial AI Startups: Seven Questions to Answer Before Building](https://dev.to/juliet_ogochukwu33/industrial-ai-startups-seven-questions-to-answer-before-building-3hng)
-- [Async and await in JavaScript....?](https://dev.to/narasimma/async-and-await-in-javascript-2148)
-- [The 20% of Tasks I Deliberately Do Not Give the Agent](https://dev.to/galagent/the-20-of-tasks-i-deliberately-do-not-give-the-agent-3ng2)
+- [Test, Heal Thyself!](https://dev.to/testingil/test-heal-thyself-200)
+- [Casa inteligente DIY desde cero con ESP32 y AWS: guía para planificarla](https://dev.to/stevencarvajal/casa-inteligente-diy-desde-cero-con-esp32-y-aws-guia-para-planificarla-2p3j)
+- [An Example App That Needs Its Features](https://dev.to/juststevemcd/an-example-app-that-needs-its-features-1chm)
+- [RailMate Bangladesh: A Train Search and Live Updates App for Passengers](https://dev.to/najmulhasan-dev/railmate-bangladesh-a-train-search-and-live-updates-app-for-passengers-4nci)
 <!-- BLOG-POST-LIST:END -->
 
 
