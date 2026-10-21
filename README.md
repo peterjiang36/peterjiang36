@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Lazy File Organizer with PowerShell for Hacktoberfest](https://dev.to/abongankosi403/i-built-a-lazy-file-organizer-with-powershell-for-hacktoberfest-59ij)
-- [Build a Text-to-Speech App with ElevenLabs and Python](https://dev.to/voice_developer/build-a-text-to-speech-app-with-elevenlabs-and-python-kaa)
-- [A hook should be a function call, not a shell](https://dev.to/ianwieds/a-hook-should-be-a-function-call-not-a-shell-3dkd)
-- [Store-and-Forward Explained: Inside a Router, From the Book to Linux](https://dev.to/muzasio/store-and-forward-explained-inside-a-router-from-the-book-to-linux-4flj)
+- [I&#39;m 16 and spent a year training my own 780B language model. Here&#39;s what I learned](https://dev.to/afonsofaro/im-16-and-spent-a-year-training-my-own-780b-language-model-heres-what-i-learned-1kl4)
+- [Locking files in the browser with Web Crypto: PBKDF2, HKDF, and 1 MiB AES-GCM records](https://dev.to/kangchanghwan/locking-files-in-the-browser-with-web-crypto-pbkdf2-hkdf-and-1-mib-aes-gcm-records-4d50)
+- [Why MT940 and SEPA files break, and how to check them without guessing](https://dev.to/ssykolos/why-mt940-and-sepa-files-break-and-how-to-check-them-without-guessing-23ch)
+- [Check the autocomplete attribute on your signup form: a one-minute test](https://dev.to/mercerk17/check-the-autocomplete-attribute-on-your-signup-form-a-one-minute-test-47a1)
 <!-- BLOG-POST-LIST:END -->
 
 
