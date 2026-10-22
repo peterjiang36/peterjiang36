@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Validation on Spring](https://dev.to/tintildev/validation-on-spring-3l8o)
-- [We taught a laptop to find the laws of physics from a video &lpar;and spot things it can&#39;t see&rpar;](https://dev.to/armangulia29/we-taught-a-laptop-to-find-the-laws-of-physics-from-a-video-and-spot-things-it-cant-see-4ah6)
-- [flisk.sh is one service.json, then the laptop starts](https://dev.to/flisk/flisksh-is-one-servicejson-then-the-laptop-starts-5fel)
-- [Naplog: let the logs wait](https://dev.to/princejain756/naplog-let-the-logs-wait-4c16)
+- [Measure AI Delivery by the Change Someone Can Use](https://dev.to/keith_azodeh/measure-ai-delivery-by-the-change-someone-can-use-1n2l)
+- [Building and Deploying an Interactive Analytics Dashboard with Streamlit, GitHub Actions, and Streamlit Community Cloud](https://dev.to/rodrigo_sidneycolquequi/building-and-deploying-an-interactive-analytics-dashboard-with-streamlit-github-actions-and-44j5)
+- [lecture-gate: AI talks into my own notes, while I sleep](https://dev.to/gracelee087/lecture-gate-ai-talks-into-my-own-notes-while-i-sleep-2nij)
+- [How Exposed Is VeloCloud Orchestrator? Reading ZoomEye Evidence Honestly](https://dev.to/stark_zhuang_df5076f35c68/how-exposed-is-velocloud-orchestrator-reading-zoomeye-evidence-honestly-1bec)
 <!-- BLOG-POST-LIST:END -->
 
 
