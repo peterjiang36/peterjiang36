@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hiring AI Engineers for AI Agents: Design Skills vs. Frameworks](https://dev.to/hantz_peterthermoris_f64/hiring-ai-engineers-for-ai-agents-design-skills-vs-frameworks-2mj4)
-- [We pre-registered a Polymarket insider score. It passed, and we still didn&#39;t ship it](https://dev.to/ekocam/we-pre-registered-a-polymarket-insider-score-it-passed-and-we-still-didnt-ship-it-55aj)
-- [Architecting Real-Time Voice AI Pipelines for Phone Calls: Streaming STT, LLM, TTS, and Barge-In](https://dev.to/rymilive/architecting-real-time-voice-ai-pipelines-for-phone-calls-streaming-stt-llm-tts-and-barge-in-2hfn)
-- [What cross-IDE persistent context platforms are available for engineering teams?](https://dev.to/izgorodin/what-cross-ide-persistent-context-platforms-are-available-for-engineering-teams-46g3)
+- [🌱 GreenBuddy AI: Your Local AI Companion for Getting Outdoors](https://dev.to/ujwalashetty660/greenbuddy-ai-your-local-ai-companion-for-getting-outdoors-1lib)
+- [77.1% on BIRD dev with one model call per question, and a test-set submission in](https://dev.to/ashish_sinha_5241c7673d93/771-on-bird-dev-with-one-model-call-per-question-and-a-test-set-submission-in-5g6p)
+- [Implicit Function or Implicit Type? Demystifying Rust Closures](https://dev.to/lorishu/implicit-function-or-implicit-type-demystifying-rust-closures-1pg7)
+- [SlothSort: I Built a Local-First AI File Organizer That Asks Before It Moves Anything](https://dev.to/tanmay3929/slothsort-i-built-a-local-first-ai-file-organizer-that-asks-before-it-moves-anything-5h00)
 <!-- BLOG-POST-LIST:END -->
 
 
