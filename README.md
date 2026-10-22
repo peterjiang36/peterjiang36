@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 16 and spent a year training my own 780B language model. Here&#39;s what I learned](https://dev.to/afonsofaro/im-16-and-spent-a-year-training-my-own-780b-language-model-heres-what-i-learned-1kl4)
-- [Locking files in the browser with Web Crypto: PBKDF2, HKDF, and 1 MiB AES-GCM records](https://dev.to/kangchanghwan/locking-files-in-the-browser-with-web-crypto-pbkdf2-hkdf-and-1-mib-aes-gcm-records-4d50)
-- [Why MT940 and SEPA files break, and how to check them without guessing](https://dev.to/ssykolos/why-mt940-and-sepa-files-break-and-how-to-check-them-without-guessing-23ch)
-- [Check the autocomplete attribute on your signup form: a one-minute test](https://dev.to/mercerk17/check-the-autocomplete-attribute-on-your-signup-form-a-one-minute-test-47a1)
+- [SlothDesk AI: Let AI Handle the Busywork, Not Your Files](https://dev.to/dr5t/slothdesk-ai-let-ai-handle-the-busywork-not-your-files-h4j)
+- [I Ran Larastan at Every Level on Agent-Written Laravel Code: 4 Real Bugs, 3 Kinds of Noise](https://dev.to/hafiz619/i-ran-larastan-at-every-level-on-agent-written-laravel-code-4-real-bugs-3-kinds-of-noise-1cec)
+- [i track every site i run from one dashboard](https://dev.to/omyvnss/i-track-every-site-i-run-from-one-dashboard-kap)
+- [Image generation API compared: 11 models, the same 3 prompts, real outputs](https://dev.to/xiun_xiao_6eae2df5c108c5f/image-generation-api-compared-11-models-the-same-3-prompts-real-outputs-33ne)
 <!-- BLOG-POST-LIST:END -->
 
 
