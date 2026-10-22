@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱 GreenBuddy AI: Your Local AI Companion for Getting Outdoors](https://dev.to/ujwalashetty660/greenbuddy-ai-your-local-ai-companion-for-getting-outdoors-1lib)
-- [77.1% on BIRD dev with one model call per question, and a test-set submission in](https://dev.to/ashish_sinha_5241c7673d93/771-on-bird-dev-with-one-model-call-per-question-and-a-test-set-submission-in-5g6p)
-- [Implicit Function or Implicit Type? Demystifying Rust Closures](https://dev.to/lorishu/implicit-function-or-implicit-type-demystifying-rust-closures-1pg7)
-- [SlothSort: I Built a Local-First AI File Organizer That Asks Before It Moves Anything](https://dev.to/tanmay3929/slothsort-i-built-a-local-first-ai-file-organizer-that-asks-before-it-moves-anything-5h00)
+- [Validation on Spring](https://dev.to/tintildev/validation-on-spring-3l8o)
+- [We taught a laptop to find the laws of physics from a video &lpar;and spot things it can&#39;t see&rpar;](https://dev.to/armangulia29/we-taught-a-laptop-to-find-the-laws-of-physics-from-a-video-and-spot-things-it-cant-see-4ah6)
+- [flisk.sh is one service.json, then the laptop starts](https://dev.to/flisk/flisksh-is-one-servicejson-then-the-laptop-starts-5fel)
+- [Naplog: let the logs wait](https://dev.to/princejain756/naplog-let-the-logs-wait-4c16)
 <!-- BLOG-POST-LIST:END -->
 
 
