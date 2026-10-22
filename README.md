@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SlothDesk AI: Let AI Handle the Busywork, Not Your Files](https://dev.to/dr5t/slothdesk-ai-let-ai-handle-the-busywork-not-your-files-h4j)
-- [I Ran Larastan at Every Level on Agent-Written Laravel Code: 4 Real Bugs, 3 Kinds of Noise](https://dev.to/hafiz619/i-ran-larastan-at-every-level-on-agent-written-laravel-code-4-real-bugs-3-kinds-of-noise-1cec)
-- [i track every site i run from one dashboard](https://dev.to/omyvnss/i-track-every-site-i-run-from-one-dashboard-kap)
-- [Image generation API compared: 11 models, the same 3 prompts, real outputs](https://dev.to/xiun_xiao_6eae2df5c108c5f/image-generation-api-compared-11-models-the-same-3-prompts-real-outputs-33ne)
+- [Hiring AI Engineers for AI Agents: Design Skills vs. Frameworks](https://dev.to/hantz_peterthermoris_f64/hiring-ai-engineers-for-ai-agents-design-skills-vs-frameworks-2mj4)
+- [We pre-registered a Polymarket insider score. It passed, and we still didn&#39;t ship it](https://dev.to/ekocam/we-pre-registered-a-polymarket-insider-score-it-passed-and-we-still-didnt-ship-it-55aj)
+- [Architecting Real-Time Voice AI Pipelines for Phone Calls: Streaming STT, LLM, TTS, and Barge-In](https://dev.to/rymilive/architecting-real-time-voice-ai-pipelines-for-phone-calls-streaming-stt-llm-tts-and-barge-in-2hfn)
+- [What cross-IDE persistent context platforms are available for engineering teams?](https://dev.to/izgorodin/what-cross-ide-persistent-context-platforms-are-available-for-engineering-teams-46g3)
 <!-- BLOG-POST-LIST:END -->
 
 
