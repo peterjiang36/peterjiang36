@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce AWS Costs in 2026: A Practical Checklist for Startups](https://dev.to/ashtech52/how-to-reduce-aws-costs-in-2026-a-practical-checklist-for-startups-31n2)
-- [Python Decorators Finally Clicked When I Saw This One Line](https://dev.to/shadowdevil07/python-decorators-finally-clicked-when-i-saw-this-one-line-3gfa)
-- [Free plan or free trial? What 257 AI and SaaS tools give you before you pay &lpar;October 2026&rpar;](https://dev.to/kuponau/free-plan-or-free-trial-what-257-ai-and-saas-tools-give-you-before-you-pay-october-2026-3nc9)
-- [Slothstep: a lazy-friendly app that turns &quot;ugh, I&#39;ll do it later&quot; into three tiny steps](https://dev.to/eszter_kovacs_37c655dc5e9/slothstep-a-lazy-friendly-app-that-turns-ugh-ill-do-it-later-into-three-tiny-steps-5cd3)
+- [I Built My First Website: Introducing Tech2Trac!](https://dev.to/jay_combs/i-built-my-first-website-introducing-tech2trac-3f61)
+- [Four x402 services, fifteen paid routes — and the cataloging mechanics nobody documents](https://dev.to/quincygb/four-x402-services-fifteen-paid-routes-and-the-cataloging-mechanics-nobody-documents-1omh)
+- [My First Hacktoberfest: Exploring Open-Source AI as a Student from SEUSL, Oluvil.](https://dev.to/22ict038/my-first-hacktoberfest-exploring-open-source-ai-as-a-student-from-seusl-oluvil-25fb)
+- [【Flutter / Riverpod】container.read no mantiene vivo tu provider: la trampa de autoDispose en la prueba.](https://dev.to/aoi_kaneda_7cc8c7176fe43b/flutter-riverpod-containerread-no-mantiene-vivo-tu-provider-la-trampa-de-autodispose-en-la-93)
 <!-- BLOG-POST-LIST:END -->
 
 
