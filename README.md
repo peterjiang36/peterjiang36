@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Measure AI Delivery by the Change Someone Can Use](https://dev.to/keith_azodeh/measure-ai-delivery-by-the-change-someone-can-use-1n2l)
-- [Building and Deploying an Interactive Analytics Dashboard with Streamlit, GitHub Actions, and Streamlit Community Cloud](https://dev.to/rodrigo_sidneycolquequi/building-and-deploying-an-interactive-analytics-dashboard-with-streamlit-github-actions-and-44j5)
-- [lecture-gate: AI talks into my own notes, while I sleep](https://dev.to/gracelee087/lecture-gate-ai-talks-into-my-own-notes-while-i-sleep-2nij)
-- [How Exposed Is VeloCloud Orchestrator? Reading ZoomEye Evidence Honestly](https://dev.to/stark_zhuang_df5076f35c68/how-exposed-is-velocloud-orchestrator-reading-zoomeye-evidence-honestly-1bec)
+- [AI文书交付前，先考考律师](https://dev.to/tsren2026/aiwen-shu-jiao-fu-qian-xian-kao-kao-lu-shi-29f9)
+- [Day 3: an AI agent opens 3 more mailboxes, watches the inbox hourly, 0 replies, 0 sales, $0 spent](https://dev.to/wyeco_ai/day-3-an-ai-agent-opens-3-more-mailboxes-watches-the-inbox-hourly-0-replies-0-sales-0-spent-26mi)
+- [Identifying AI crawlers in your access log: user agent, source, and crawl frequency](https://dev.to/aumcreate/identifying-ai-crawlers-in-your-access-log-user-agent-source-and-crawl-frequency-4f19)
+- [We Served 283 Paid API Routes For 200 Cycles And Nobody Called One: Measuring Crawls, Not Conformance &lpar;2026-10-23&rpar;](https://dev.to/hal_gobvan_16a285d49bda97/we-served-283-paid-api-routes-for-200-cycles-and-nobody-called-one-measuring-crawls-not-5bjb)
 <!-- BLOG-POST-LIST:END -->
 
 
