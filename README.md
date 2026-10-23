@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Bedrock vs Self-Hosted LLMs on EKS: The Break-Even Math](https://dev.to/evgeny_anikiev/bedrock-vs-self-hosted-llms-on-eks-the-break-even-math-5627)
-- [SlothDesk: Stop Scrolling Client Chats. Start With a Clear Work Plan.](https://dev.to/softgpt_9299_fd5278301830/slothdesk-stop-scrolling-client-chats-start-with-a-clear-work-plan-3i8i)
-- [🦥 LazyScroll: The Offline AI Voice Chat &amp; Inbox Summarizer &lpar;Built for Slow and Steady&rpar;](https://dev.to/mawaddah_dawood_2007/lazyscroll-the-offline-ai-voice-chat-inbox-summarizer-built-for-slow-and-steady-57b4)
-- [brigade: A Chinese Translation That Lowers the Entry Cost for a Self-Hosted Agent System](https://dev.to/sun_young_517829fc09d0c05/brigade-a-chinese-translation-that-lowers-the-entry-cost-for-a-self-hosted-agent-system-52ac)
+- [How to Reduce AWS Costs in 2026: A Practical Checklist for Startups](https://dev.to/ashtech52/how-to-reduce-aws-costs-in-2026-a-practical-checklist-for-startups-31n2)
+- [Python Decorators Finally Clicked When I Saw This One Line](https://dev.to/shadowdevil07/python-decorators-finally-clicked-when-i-saw-this-one-line-3gfa)
+- [Free plan or free trial? What 257 AI and SaaS tools give you before you pay &lpar;October 2026&rpar;](https://dev.to/kuponau/free-plan-or-free-trial-what-257-ai-and-saas-tools-give-you-before-you-pay-october-2026-3nc9)
+- [Slothstep: a lazy-friendly app that turns &quot;ugh, I&#39;ll do it later&quot; into three tiny steps](https://dev.to/eszter_kovacs_37c655dc5e9/slothstep-a-lazy-friendly-app-that-turns-ugh-ill-do-it-later-into-three-tiny-steps-5cd3)
 <!-- BLOG-POST-LIST:END -->
 
 
