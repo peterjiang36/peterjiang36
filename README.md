@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built My First Website: Introducing Tech2Trac!](https://dev.to/jay_combs/i-built-my-first-website-introducing-tech2trac-3f61)
-- [Four x402 services, fifteen paid routes — and the cataloging mechanics nobody documents](https://dev.to/quincygb/four-x402-services-fifteen-paid-routes-and-the-cataloging-mechanics-nobody-documents-1omh)
-- [My First Hacktoberfest: Exploring Open-Source AI as a Student from SEUSL, Oluvil.](https://dev.to/22ict038/my-first-hacktoberfest-exploring-open-source-ai-as-a-student-from-seusl-oluvil-25fb)
-- [【Flutter / Riverpod】container.read no mantiene vivo tu provider: la trampa de autoDispose en la prueba.](https://dev.to/aoi_kaneda_7cc8c7176fe43b/flutter-riverpod-containerread-no-mantiene-vivo-tu-provider-la-trampa-de-autodispose-en-la-93)
+- [STREAM-MATE: An in-character AI co-host for Twitch and YouTube: live…](https://dev.to/ameobius/stream-mate-an-in-character-ai-co-host-for-twitch-and-youtube-live-9e4)
+- [Ameobius AI: Portfolio site: every project in one place — MCP…](https://dev.to/ameobius/ameobius-ai-portfolio-site-every-project-in-one-place-mcp-32pp)
+- [Polylane: IA que corta MTTR de 45 min para &lt;15 min](https://dev.to/leojulieta/polylane-ia-que-corta-mttr-de-45-min-para-15-min-50ci)
+- [How I Built the Backend for Haven, a Rehab Coach That Won Best Use of Tiger Data](https://dev.to/omarrifaie/how-i-built-the-backend-for-haven-a-rehab-coach-that-won-best-use-of-tiger-data-1f4e)
 <!-- BLOG-POST-LIST:END -->
 
 
