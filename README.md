@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AI文书交付前，先考考律师](https://dev.to/tsren2026/aiwen-shu-jiao-fu-qian-xian-kao-kao-lu-shi-29f9)
-- [Day 3: an AI agent opens 3 more mailboxes, watches the inbox hourly, 0 replies, 0 sales, $0 spent](https://dev.to/wyeco_ai/day-3-an-ai-agent-opens-3-more-mailboxes-watches-the-inbox-hourly-0-replies-0-sales-0-spent-26mi)
-- [Identifying AI crawlers in your access log: user agent, source, and crawl frequency](https://dev.to/aumcreate/identifying-ai-crawlers-in-your-access-log-user-agent-source-and-crawl-frequency-4f19)
-- [We Served 283 Paid API Routes For 200 Cycles And Nobody Called One: Measuring Crawls, Not Conformance &lpar;2026-10-23&rpar;](https://dev.to/hal_gobvan_16a285d49bda97/we-served-283-paid-api-routes-for-200-cycles-and-nobody-called-one-measuring-crawls-not-5bjb)
+- [Bedrock vs Self-Hosted LLMs on EKS: The Break-Even Math](https://dev.to/evgeny_anikiev/bedrock-vs-self-hosted-llms-on-eks-the-break-even-math-5627)
+- [SlothDesk: Stop Scrolling Client Chats. Start With a Clear Work Plan.](https://dev.to/softgpt_9299_fd5278301830/slothdesk-stop-scrolling-client-chats-start-with-a-clear-work-plan-3i8i)
+- [🦥 LazyScroll: The Offline AI Voice Chat &amp; Inbox Summarizer &lpar;Built for Slow and Steady&rpar;](https://dev.to/mawaddah_dawood_2007/lazyscroll-the-offline-ai-voice-chat-inbox-summarizer-built-for-slow-and-steady-57b4)
+- [brigade: A Chinese Translation That Lowers the Entry Cost for a Self-Hosted Agent System](https://dev.to/sun_young_517829fc09d0c05/brigade-a-chinese-translation-that-lowers-the-entry-cost-for-a-self-hosted-agent-system-52ac)
 <!-- BLOG-POST-LIST:END -->
 
 
