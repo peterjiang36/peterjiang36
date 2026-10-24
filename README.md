@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a GitHub profile README editor because existing generators didn’t fit what I needed](https://dev.to/juannh/i-built-a-github-profile-readme-editor-because-existing-generators-didnt-fit-what-i-needed-57df)
-- [Read an Electron app&#39;s fuses, runtime and ASAR integrity from the release ZIP, without running it](https://dev.to/taventix/read-an-electron-apps-fuses-runtime-and-asar-integrity-from-the-release-zip-without-running-it-1jk0)
-- [# TidyAI 🦥 — Let AI Organize Your Files While You Relax](https://dev.to/rishabh_dev/-tidyai-let-ai-organize-your-files-while-you-relax-4kp6)
-- [Next.js Server Actions vs Route Handlers &lpar;API Routes&rpar;: When to Use Each](https://dev.to/fabwaseem/nextjs-server-actions-vs-route-handlers-api-routes-when-to-use-each-okc)
+- [Develop and Publish Python Packages to PyPI](https://dev.to/virajsh/develop-and-publish-python-packages-to-pypi-2mbn)
+- [SlothSort: Gemma proposes Telegram folders, I approve the changes](https://dev.to/zsnowww/slothsort-gemma-proposes-telegram-folders-i-approve-the-changes-229k)
+- [Half-Initialized Workers: Verifying the PHP2Shell Fix When the Failure Path Is the Vulnerability](https://dev.to/stark_zhuang_df5076f35c68/half-initialized-workers-verifying-the-php2shell-fix-when-the-failure-path-is-the-vulnerability-5dg4)
+- [SlothScout: a local agent that reads my job alerts at 3 a.m. so I don&#39;t have to](https://dev.to/mathfe/slothscout-a-local-agent-that-reads-my-job-alerts-at-3-am-so-i-dont-have-to-5apo)
 <!-- BLOG-POST-LIST:END -->
 
 
