@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt Injection in HTTP Headers: What 217M Web Responses Show](https://dev.to/coridev/prompt-injection-in-http-headers-what-217m-web-responses-show-2oaf)
-- [Running a Global Telegram Community with Free AI Tools](https://dev.to/aigbteam/running-a-global-telegram-community-with-free-ai-tools-4pn0)
-- [How Netflix Architecture Works: AWS &amp; Open Connect CDN](https://dev.to/doogal/how-netflix-architecture-works-aws-open-connect-cdn-477a)
-- [Do popular PyPI packages advertise a fresher Python matrix? Yes: the tail&#39;s newest declared version is EOL 29% vs 8%](https://dev.to/munimv2/do-popular-pypi-packages-advertise-a-fresher-python-matrix-yes-the-tails-newest-declared-version-k1e)
+- [The agent resolved the merge conflict by keeping both sides, and the code compiled into a dead branch](https://dev.to/jeff_pdc/the-agent-resolved-the-merge-conflict-by-keeping-both-sides-and-the-code-compiled-into-a-dead-48fg)
+- [SSH MCP servers compared](https://dev.to/wolfhound1995/ssh-mcp-servers-compared-139p)
+- [RepoSloth: Let Local AI Explore Codebases While You Take It Slow 🦥](https://dev.to/mayurponly/reposloth-let-local-ai-explore-codebases-while-you-take-it-slow-c64)
+- [Steady Inbox: A Local MiniLM Assistant That Groups Messages Without Losing the Originals](https://dev.to/shivammusic/steady-inbox-a-local-minilm-assistant-that-groups-messages-without-losing-the-originals-300e)
 <!-- BLOG-POST-LIST:END -->
 
 
