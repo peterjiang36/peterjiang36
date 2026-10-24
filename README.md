@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [STREAM-MATE: An in-character AI co-host for Twitch and YouTube: live…](https://dev.to/ameobius/stream-mate-an-in-character-ai-co-host-for-twitch-and-youtube-live-9e4)
-- [Ameobius AI: Portfolio site: every project in one place — MCP…](https://dev.to/ameobius/ameobius-ai-portfolio-site-every-project-in-one-place-mcp-32pp)
-- [Polylane: IA que corta MTTR de 45 min para &lt;15 min](https://dev.to/leojulieta/polylane-ia-que-corta-mttr-de-45-min-para-15-min-50ci)
-- [How I Built the Backend for Haven, a Rehab Coach That Won Best Use of Tiger Data](https://dev.to/omarrifaie/how-i-built-the-backend-for-haven-a-rehab-coach-that-won-best-use-of-tiger-data-1f4e)
+- [Build A Mastra Documentation With Thally - The Product Knowledge Layer For Software Teams](https://dev.to/devliz/build-a-mastra-documentation-with-thally-the-product-knowledge-layer-for-software-teams-onm)
+- [TIL: Check Ports Before Deploying GBase Database&lpar;GBase 8a&rpar;](https://dev.to/mmllllzcn/til-check-ports-before-deploying-gbase-databasegbase-8a-3pco)
+- [엑셀 작업 완료 비중표: 건수와 예정분을 나란히 집계하기](https://dev.to/charos_j/egsel-jageob-wanryo-bijungpyo-geonsuwa-yejeongbuneul-naranhi-jibgyehagi-32gd)
+- [Can you re-derive a benchmark&#39;s gold labels from its raw annotator votes? Two reproducible censuses on SNLI and MultiNLI](https://dev.to/munimv2/can-you-re-derive-a-benchmarks-gold-labels-from-its-raw-annotator-votes-two-reproducible-censuses-1756)
 <!-- BLOG-POST-LIST:END -->
 
 
