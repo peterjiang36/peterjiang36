@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Build A Mastra Documentation With Thally - The Product Knowledge Layer For Software Teams](https://dev.to/devliz/build-a-mastra-documentation-with-thally-the-product-knowledge-layer-for-software-teams-onm)
-- [TIL: Check Ports Before Deploying GBase Database&lpar;GBase 8a&rpar;](https://dev.to/mmllllzcn/til-check-ports-before-deploying-gbase-databasegbase-8a-3pco)
-- [엑셀 작업 완료 비중표: 건수와 예정분을 나란히 집계하기](https://dev.to/charos_j/egsel-jageob-wanryo-bijungpyo-geonsuwa-yejeongbuneul-naranhi-jibgyehagi-32gd)
-- [Can you re-derive a benchmark&#39;s gold labels from its raw annotator votes? Two reproducible censuses on SNLI and MultiNLI](https://dev.to/munimv2/can-you-re-derive-a-benchmarks-gold-labels-from-its-raw-annotator-votes-two-reproducible-censuses-1756)
+- [Your Coding Agent Says Done but Which Evidence Still Applies](https://dev.to/anuj-sadani/your-coding-agent-says-done-but-which-evidence-still-applies-1n0j)
+- [Open Source Radar · 2026-10-24: Skill files become deliverables with a spec](https://dev.to/widechaos/open-source-radar-2026-10-24-skill-files-become-deliverables-with-a-spec-467h)
+- [Grafana Alloy&#39;s bearerTokenFile Read Any Local File and Sent It as an Authorization Header](https://dev.to/jeffreyciend/grafana-alloys-bearertokenfile-read-any-local-file-and-sent-it-as-an-authorization-header-1l6p)
+- [OT Security Weekly DACH, KW 43/2026: Remote Access &amp; Siemens PLCs](https://dev.to/max_bayern_b89482c0faf779/ot-security-weekly-dach-kw-432026-remote-access-siemens-plcs-3j8i)
 <!-- BLOG-POST-LIST:END -->
 
 
