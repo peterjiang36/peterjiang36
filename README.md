@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Coding Agent Says Done but Which Evidence Still Applies](https://dev.to/anuj-sadani/your-coding-agent-says-done-but-which-evidence-still-applies-1n0j)
-- [Open Source Radar · 2026-10-24: Skill files become deliverables with a spec](https://dev.to/widechaos/open-source-radar-2026-10-24-skill-files-become-deliverables-with-a-spec-467h)
-- [Grafana Alloy&#39;s bearerTokenFile Read Any Local File and Sent It as an Authorization Header](https://dev.to/jeffreyciend/grafana-alloys-bearertokenfile-read-any-local-file-and-sent-it-as-an-authorization-header-1l6p)
-- [OT Security Weekly DACH, KW 43/2026: Remote Access &amp; Siemens PLCs](https://dev.to/max_bayern_b89482c0faf779/ot-security-weekly-dach-kw-432026-remote-access-siemens-plcs-3j8i)
+- [Prompt Injection in HTTP Headers: What 217M Web Responses Show](https://dev.to/coridev/prompt-injection-in-http-headers-what-217m-web-responses-show-2oaf)
+- [Running a Global Telegram Community with Free AI Tools](https://dev.to/aigbteam/running-a-global-telegram-community-with-free-ai-tools-4pn0)
+- [How Netflix Architecture Works: AWS &amp; Open Connect CDN](https://dev.to/doogal/how-netflix-architecture-works-aws-open-connect-cdn-477a)
+- [Do popular PyPI packages advertise a fresher Python matrix? Yes: the tail&#39;s newest declared version is EOL 29% vs 8%](https://dev.to/munimv2/do-popular-pypi-packages-advertise-a-fresher-python-matrix-yes-the-tails-newest-declared-version-k1e)
 <!-- BLOG-POST-LIST:END -->
 
 
