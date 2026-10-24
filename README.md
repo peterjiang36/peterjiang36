@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The agent resolved the merge conflict by keeping both sides, and the code compiled into a dead branch](https://dev.to/jeff_pdc/the-agent-resolved-the-merge-conflict-by-keeping-both-sides-and-the-code-compiled-into-a-dead-48fg)
-- [SSH MCP servers compared](https://dev.to/wolfhound1995/ssh-mcp-servers-compared-139p)
-- [RepoSloth: Let Local AI Explore Codebases While You Take It Slow 🦥](https://dev.to/mayurponly/reposloth-let-local-ai-explore-codebases-while-you-take-it-slow-c64)
-- [Steady Inbox: A Local MiniLM Assistant That Groups Messages Without Losing the Originals](https://dev.to/shivammusic/steady-inbox-a-local-minilm-assistant-that-groups-messages-without-losing-the-originals-300e)
+- [I built a GitHub profile README editor because existing generators didn’t fit what I needed](https://dev.to/juannh/i-built-a-github-profile-readme-editor-because-existing-generators-didnt-fit-what-i-needed-57df)
+- [Read an Electron app&#39;s fuses, runtime and ASAR integrity from the release ZIP, without running it](https://dev.to/taventix/read-an-electron-apps-fuses-runtime-and-asar-integrity-from-the-release-zip-without-running-it-1jk0)
+- [# TidyAI 🦥 — Let AI Organize Your Files While You Relax](https://dev.to/rishabh_dev/-tidyai-let-ai-organize-your-files-while-you-relax-4kp6)
+- [Next.js Server Actions vs Route Handlers &lpar;API Routes&rpar;: When to Use Each](https://dev.to/fabwaseem/nextjs-server-actions-vs-route-handlers-api-routes-when-to-use-each-okc)
 <!-- BLOG-POST-LIST:END -->
 
 
