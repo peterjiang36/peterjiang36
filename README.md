@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Tiny Probability Puzzle Every Developer Should Try](https://dev.to/astraquant/a-tiny-probability-puzzle-every-developer-should-try-4mi5)
-- [PHP2Shell Vulnerabilities Caused Widespread Website Shutdowns; Governments Acted to Mitigate Threat](https://dev.to/kornilovconstru/php2shell-vulnerabilities-caused-widespread-website-shutdowns-governments-acted-to-mitigate-threat-1nng)
-- [AI Slop or Automating the Grind?](https://dev.to/oximets/ai-slop-or-automating-the-grind-1k1n)
-- [AtollCare: the patient&#39;s story arrives before the patient does](https://dev.to/debanjanr2019/atollcare-the-patients-story-arrives-before-the-patient-does-2ld1)
+- [StandIn: the lazy CR&#39;s AI assistant that answers class notes and deadlines in my cloned voice](https://dev.to/karthik_1057/standin-the-lazy-crs-ai-assistant-that-answers-class-notes-and-deadlines-in-my-cloned-voice-p07)
+- [Best High-End Custom Gaming PC Builders in Australia &lpar;2026&rpar;: Reviews &amp; Top Picks](https://dev.to/vildar/best-high-end-custom-gaming-pc-builders-in-australia-2026-reviews-top-picks-dlg)
+- [Python 3.10 end of life is Oct 31: find every pinned Python and Node version](https://dev.to/getversyka/python-310-end-of-life-is-oct-31-find-every-pinned-python-and-node-version-20c3)
+- [Your lidar says 40 m and reaches 9 m: the four numbers that decide a real range](https://dev.to/erdilrf/your-lidar-says-40-m-and-reaches-9-m-the-four-numbers-that-decide-a-real-range-7o4)
 <!-- BLOG-POST-LIST:END -->
 
 
