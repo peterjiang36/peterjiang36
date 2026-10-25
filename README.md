@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Develop and Publish Python Packages to PyPI](https://dev.to/virajsh/develop-and-publish-python-packages-to-pypi-2mbn)
-- [SlothSort: Gemma proposes Telegram folders, I approve the changes](https://dev.to/zsnowww/slothsort-gemma-proposes-telegram-folders-i-approve-the-changes-229k)
-- [Half-Initialized Workers: Verifying the PHP2Shell Fix When the Failure Path Is the Vulnerability](https://dev.to/stark_zhuang_df5076f35c68/half-initialized-workers-verifying-the-php2shell-fix-when-the-failure-path-is-the-vulnerability-5dg4)
-- [SlothScout: a local agent that reads my job alerts at 3 a.m. so I don&#39;t have to](https://dev.to/mathfe/slothscout-a-local-agent-that-reads-my-job-alerts-at-3-am-so-i-dont-have-to-5apo)
+- [Trojan Horse: AI agents that call mechanics for you, and how Kane CLI caught our bug](https://dev.to/chandrakhushi/trojan-horse-ai-agents-that-call-mechanics-for-you-and-how-kane-cli-caught-our-bug-10p0)
+- [From Spreadsheet FAQ to Rule Tables: A Migration Path That Doesn&#39;t Break Replies](https://dev.to/dingdangcs/from-spreadsheet-faq-to-rule-tables-a-migration-path-that-doesnt-break-replies-f9i)
+- [Building a Portable AI Collaboration Protocol With Explicit Limits](https://dev.to/drsahar_moghadam_d2c3d16/building-a-portable-ai-collaboration-protocol-with-explicit-limits-4pjj)
+- [Are We Looking for AI Control in the Wrong Place?](https://dev.to/branden_laskowski_092fb49/are-we-looking-for-ai-control-in-the-wrong-place-c3p)
 <!-- BLOG-POST-LIST:END -->
 
 
