@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [StandIn: the lazy CR&#39;s AI assistant that answers class notes and deadlines in my cloned voice](https://dev.to/karthik_1057/standin-the-lazy-crs-ai-assistant-that-answers-class-notes-and-deadlines-in-my-cloned-voice-p07)
-- [Best High-End Custom Gaming PC Builders in Australia &lpar;2026&rpar;: Reviews &amp; Top Picks](https://dev.to/vildar/best-high-end-custom-gaming-pc-builders-in-australia-2026-reviews-top-picks-dlg)
-- [Python 3.10 end of life is Oct 31: find every pinned Python and Node version](https://dev.to/getversyka/python-310-end-of-life-is-oct-31-find-every-pinned-python-and-node-version-20c3)
-- [Your lidar says 40 m and reaches 9 m: the four numbers that decide a real range](https://dev.to/erdilrf/your-lidar-says-40-m-and-reaches-9-m-the-four-numbers-that-decide-a-real-range-7o4)
+- [The Rippling job board API, measured: a 1,000-row list, a record per job and pay by tier](https://dev.to/adderleydata/the-rippling-job-board-api-measured-a-1000-row-list-a-record-per-job-and-pay-by-tier-2o28)
+- [Web Development Resource Library: Seeking Feedback on Essential Components and Resources](https://dev.to/pavkode/web-development-resource-library-seeking-feedback-on-essential-components-and-resources-56fm)
+- [WebChange — Let AI Watch Websites for You](https://dev.to/shadowe1ite/webchange-let-ai-watch-websites-for-you-1335)
+- [Python AI helper](https://dev.to/sarvesh_linux_c84e4d78125/python-ai-helper-2n72)
 <!-- BLOG-POST-LIST:END -->
 
 
