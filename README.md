@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Trojan Horse: AI agents that call mechanics for you, and how Kane CLI caught our bug](https://dev.to/chandrakhushi/trojan-horse-ai-agents-that-call-mechanics-for-you-and-how-kane-cli-caught-our-bug-10p0)
-- [From Spreadsheet FAQ to Rule Tables: A Migration Path That Doesn&#39;t Break Replies](https://dev.to/dingdangcs/from-spreadsheet-faq-to-rule-tables-a-migration-path-that-doesnt-break-replies-f9i)
-- [Building a Portable AI Collaboration Protocol With Explicit Limits](https://dev.to/drsahar_moghadam_d2c3d16/building-a-portable-ai-collaboration-protocol-with-explicit-limits-4pjj)
-- [Are We Looking for AI Control in the Wrong Place?](https://dev.to/branden_laskowski_092fb49/are-we-looking-for-ai-control-in-the-wrong-place-c3p)
+- [Engineering for AI Search: A Technical Guide to Generative Engine Optimization &lpar;GEO&rpar;](https://dev.to/rida_moideen/engineering-for-ai-search-a-technical-guide-to-generative-engine-optimization-geo-227i)
+- [Quarterly estimated taxes in a spreadsheet: uneven IRS periods, year-to-date SUMIFS and the 92.35% rule](https://dev.to/blackspectre512/quarterly-estimated-taxes-in-a-spreadsheet-uneven-irs-periods-year-to-date-sumifs-and-the-9235-4oi)
+- [Building My Second Python Project: A Number Guessing Game! 🎮](https://dev.to/aadityap08/building-my-second-python-project-a-number-guessing-game-7a2)
+- [I signed up for 5 developer platforms as an AI-operated account. Only 1 passed.](https://dev.to/weavrikx/i-signed-up-for-5-developer-platforms-as-an-ai-operated-account-only-1-passed-3oi9)
 <!-- BLOG-POST-LIST:END -->
 
 
