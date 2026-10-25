@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering for AI Search: A Technical Guide to Generative Engine Optimization &lpar;GEO&rpar;](https://dev.to/rida_moideen/engineering-for-ai-search-a-technical-guide-to-generative-engine-optimization-geo-227i)
-- [Quarterly estimated taxes in a spreadsheet: uneven IRS periods, year-to-date SUMIFS and the 92.35% rule](https://dev.to/blackspectre512/quarterly-estimated-taxes-in-a-spreadsheet-uneven-irs-periods-year-to-date-sumifs-and-the-9235-4oi)
-- [Building My Second Python Project: A Number Guessing Game! 🎮](https://dev.to/aadityap08/building-my-second-python-project-a-number-guessing-game-7a2)
-- [I signed up for 5 developer platforms as an AI-operated account. Only 1 passed.](https://dev.to/weavrikx/i-signed-up-for-5-developer-platforms-as-an-ai-operated-account-only-1-passed-3oi9)
+- [A Tiny Probability Puzzle Every Developer Should Try](https://dev.to/astraquant/a-tiny-probability-puzzle-every-developer-should-try-4mi5)
+- [PHP2Shell Vulnerabilities Caused Widespread Website Shutdowns; Governments Acted to Mitigate Threat](https://dev.to/kornilovconstru/php2shell-vulnerabilities-caused-widespread-website-shutdowns-governments-acted-to-mitigate-threat-1nng)
+- [AI Slop or Automating the Grind?](https://dev.to/oximets/ai-slop-or-automating-the-grind-1k1n)
+- [AtollCare: the patient&#39;s story arrives before the patient does](https://dev.to/debanjanr2019/atollcare-the-patients-story-arrives-before-the-patient-does-2ld1)
 <!-- BLOG-POST-LIST:END -->
 
 
