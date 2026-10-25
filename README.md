@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rippling job board API, measured: a 1,000-row list, a record per job and pay by tier](https://dev.to/adderleydata/the-rippling-job-board-api-measured-a-1000-row-list-a-record-per-job-and-pay-by-tier-2o28)
-- [Web Development Resource Library: Seeking Feedback on Essential Components and Resources](https://dev.to/pavkode/web-development-resource-library-seeking-feedback-on-essential-components-and-resources-56fm)
-- [WebChange — Let AI Watch Websites for You](https://dev.to/shadowe1ite/webchange-let-ai-watch-websites-for-you-1335)
-- [Python AI helper](https://dev.to/sarvesh_linux_c84e4d78125/python-ai-helper-2n72)
+- [The 10-Line AI Working Agreement Your Team Never Wrote](https://dev.to/debashish_ghosal/the-10-line-ai-working-agreement-your-team-never-wrote-1nfb)
+- [Your API Process Should Not Hold the Money Key](https://dev.to/spread2009/your-api-process-should-not-hold-the-money-key-388a)
+- [I gave a 4B model all night to think, twice. It lost both times. Temporal never lost its place.](https://dev.to/vaidehisnk/i-gave-a-4b-model-all-night-to-think-twice-it-lost-both-times-temporal-never-lost-its-place-2dpp)
+- [Scraping a site behind a login in Python &lpar;and why I go for the API instead&rpar;](https://dev.to/branch42-labs/scraping-a-site-behind-a-login-in-python-and-why-i-go-for-the-api-instead-2n57)
 <!-- BLOG-POST-LIST:END -->
 
 
