@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Benchmarks: How Fast We Are](https://dev.to/ahmed_isam_752b775a50fd90/performance-benchmarks-how-fast-we-are-4da1)
-- [Website Redesign SEO Checklist for Developers: Redirects, Staging Traps, and Launch Checks](https://dev.to/rankvelt/website-redesign-seo-checklist-for-developers-redirects-staging-traps-and-launch-checks-178g)
-- [&quot;Procedural generation in games: where the scatter has to stop&quot;](https://dev.to/idlecultivation/procedural-generation-in-games-where-the-scatter-has-to-stop-1095)
-- [192 people were paid to insult one stranger. Not one receipt names who paid](https://dev.to/mercedesgoldmoon/192-people-were-paid-to-insult-one-stranger-not-one-receipt-names-who-paid-542b)
+- [SERP and screenshot APIs for AI agents: free tiers compared &lpar;verified Oct 2026&rpar;](https://dev.to/lanternworks/serp-and-screenshot-apis-for-ai-agents-free-tiers-compared-verified-oct-2026-29cg)
+- [I let Gemma pick my top 3 tasks, and the rest of the list can wait](https://dev.to/avishishreya/i-let-gemma-pick-my-top-3-tasks-and-the-rest-of-the-list-can-wait-3f21)
+- [How a $152K Exploit Inspired Me to Build a Custom Slither Detector 🕵️‍♂️](https://dev.to/rdin777/how-a-152k-exploit-inspired-me-to-build-a-custom-slither-detector-48ob)
+- [Every Email Rejected at Once — The Open-Resolver Mistake That Makes Spamhaus Answer &quot;No&quot;](https://dev.to/daanial/every-email-rejected-at-once-the-open-resolver-mistake-that-makes-spamhaus-answer-no-1j5d)
 <!-- BLOG-POST-LIST:END -->
 
 
