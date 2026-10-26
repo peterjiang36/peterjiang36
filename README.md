@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [FixIt: AI Troubleshooter for Non-Technical Friends](https://dev.to/skully/fixit-ai-troubleshooter-for-non-technical-friends-o5l)
-- [The Next.js SEO checklist we actually use on a small SaaS](https://dev.to/radarmakers/the-nextjs-seo-checklist-we-actually-use-on-a-small-saas-l13)
-- [DraftKey vs Apple Writing Tools: $4.99 Tab Autocomplete vs the Free Rewrite Built Into macOS](https://dev.to/godnick/draftkey-vs-apple-writing-tools-499-tab-autocomplete-vs-the-free-rewrite-built-into-macos-121k)
-- [Dev update](https://dev.to/webxos/dev-update-1aie)
+- [When to use LockManager.request&lpar;&rpar; across tabs instead of in-memory locks](https://dev.to/chriserodriguez/when-to-use-lockmanagerrequest-across-tabs-instead-of-in-memory-locks-3350)
+- [Red, then green: 11 bugs TestSprite found in my NASA video research agent](https://dev.to/crypticsaiyan/red-then-green-11-bugs-testsprite-found-in-my-nasa-video-research-agent-15)
+- [Select Object Storage API for Secure Browser Direct Uploads](https://dev.to/lunarbreeze4173085/select-object-storage-api-for-secure-browser-direct-uploads-2gdb)
+- [SocialLite 대안 앱 추천: 릴스·쇼츠 숨기고 DM은 남기는 앱 &lpar;아이폰, 2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/sociallite-daean-aeb-cuceon-rilseusyoceu-sumgigo-dmeun-namgineun-aeb-aipon-2026-13jm)
 <!-- BLOG-POST-LIST:END -->
 
 
