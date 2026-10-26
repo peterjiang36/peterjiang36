@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SERP and screenshot APIs for AI agents: free tiers compared &lpar;verified Oct 2026&rpar;](https://dev.to/lanternworks/serp-and-screenshot-apis-for-ai-agents-free-tiers-compared-verified-oct-2026-29cg)
-- [I let Gemma pick my top 3 tasks, and the rest of the list can wait](https://dev.to/avishishreya/i-let-gemma-pick-my-top-3-tasks-and-the-rest-of-the-list-can-wait-3f21)
-- [How a $152K Exploit Inspired Me to Build a Custom Slither Detector 🕵️‍♂️](https://dev.to/rdin777/how-a-152k-exploit-inspired-me-to-build-a-custom-slither-detector-48ob)
-- [Every Email Rejected at Once — The Open-Resolver Mistake That Makes Spamhaus Answer &quot;No&quot;](https://dev.to/daanial/every-email-rejected-at-once-the-open-resolver-mistake-that-makes-spamhaus-answer-no-1j5d)
+- [A 794-line design report decided our colours and fonts, and I can now grep for which of its rules survived](https://dev.to/daniel_pertu/a-794-line-design-report-decided-our-colours-and-fonts-and-i-can-now-grep-for-which-of-its-rules-48h7)
+- [All DB access lives in one place](https://dev.to/robertpaschal/all-db-access-lives-in-one-place-4dj3)
+- [What if you could change your HTTP server in Node.js without touching a single line of business logic?](https://dev.to/mattiacarcione/what-if-you-could-change-your-http-server-in-nodejs-without-touching-a-single-line-of-business-184g)
+- [I counted our link graph from the source five days ago, then from the live HTML, and the worst page is a different one](https://dev.to/daniel_pertu/i-counted-our-link-graph-from-the-source-five-days-ago-then-from-the-live-html-and-the-worst-page-4ce8)
 <!-- BLOG-POST-LIST:END -->
 
 
