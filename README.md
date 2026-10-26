@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A 794-line design report decided our colours and fonts, and I can now grep for which of its rules survived](https://dev.to/daniel_pertu/a-794-line-design-report-decided-our-colours-and-fonts-and-i-can-now-grep-for-which-of-its-rules-48h7)
-- [All DB access lives in one place](https://dev.to/robertpaschal/all-db-access-lives-in-one-place-4dj3)
-- [What if you could change your HTTP server in Node.js without touching a single line of business logic?](https://dev.to/mattiacarcione/what-if-you-could-change-your-http-server-in-nodejs-without-touching-a-single-line-of-business-184g)
-- [I counted our link graph from the source five days ago, then from the live HTML, and the worst page is a different one](https://dev.to/daniel_pertu/i-counted-our-link-graph-from-the-source-five-days-ago-then-from-the-live-html-and-the-worst-page-4ce8)
+- [FixIt: AI Troubleshooter for Non-Technical Friends](https://dev.to/skully/fixit-ai-troubleshooter-for-non-technical-friends-o5l)
+- [The Next.js SEO checklist we actually use on a small SaaS](https://dev.to/radarmakers/the-nextjs-seo-checklist-we-actually-use-on-a-small-saas-l13)
+- [DraftKey vs Apple Writing Tools: $4.99 Tab Autocomplete vs the Free Rewrite Built Into macOS](https://dev.to/godnick/draftkey-vs-apple-writing-tools-499-tab-autocomplete-vs-the-free-rewrite-built-into-macos-121k)
+- [Dev update](https://dev.to/webxos/dev-update-1aie)
 <!-- BLOG-POST-LIST:END -->
 
 
