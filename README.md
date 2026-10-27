@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [TrailMate 🌿👻 — A Ghost in Your Pocket That Wants You Outside](https://dev.to/adarshnegi/trailmate-a-ghost-in-your-pocket-that-wants-you-outside-30le)
-- [Repainting Seoul in 51 minutes, then making it move](https://dev.to/kiwibreaksme/repainting-seoul-in-51-minutes-then-making-it-move-25dn)
-- [Column totals in a Fiori Elements List Report with RAP: more than @Aggregation.default](https://dev.to/abapforagents/column-totals-in-a-fiori-elements-list-report-with-rap-more-than-aggregationdefault-1252)
-- [9 ABAP mistakes AI coding assistants keep making &lpar;and how to prevent them&rpar;](https://dev.to/abapforagents/9-abap-mistakes-ai-coding-assistants-keep-making-and-how-to-prevent-them-35nm)
+- [Debounce vs Throttle in JavaScript — Build Both From Scratch](https://dev.to/rich202603/debounce-vs-throttle-in-javascript-build-both-from-scratch-3jg9)
+- [Native vs Flutter vs React Native for a UK startup](https://dev.to/tychelabs/native-vs-flutter-vs-react-native-for-a-uk-startup-3f0k)
+- [A freelance income tracker spreadsheet: invoices, unpaid clients, and money set aside for tax](https://dev.to/ashishexcelnotes/a-freelance-income-tracker-spreadsheet-invoices-unpaid-clients-and-money-set-aside-for-tax-b09)
+- [I never planned to build a website. Twelve students turned it into 14,000 pages.](https://dev.to/moto510/i-never-planned-to-build-a-website-twelve-students-turned-it-into-14000-pages-3634)
 <!-- BLOG-POST-LIST:END -->
 
 
