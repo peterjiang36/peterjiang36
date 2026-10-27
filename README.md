@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When to use LockManager.request&lpar;&rpar; across tabs instead of in-memory locks](https://dev.to/chriserodriguez/when-to-use-lockmanagerrequest-across-tabs-instead-of-in-memory-locks-3350)
-- [Red, then green: 11 bugs TestSprite found in my NASA video research agent](https://dev.to/crypticsaiyan/red-then-green-11-bugs-testsprite-found-in-my-nasa-video-research-agent-15)
-- [Select Object Storage API for Secure Browser Direct Uploads](https://dev.to/lunarbreeze4173085/select-object-storage-api-for-secure-browser-direct-uploads-2gdb)
-- [SocialLite 대안 앱 추천: 릴스·쇼츠 숨기고 DM은 남기는 앱 &lpar;아이폰, 2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/sociallite-daean-aeb-cuceon-rilseusyoceu-sumgigo-dmeun-namgineun-aeb-aipon-2026-13jm)
+- [ECHOES: The Ghost in Your Terminal — Haunted Local AI Companion](https://dev.to/ayush_dinda_6b35589d05771/echoes-the-ghost-in-your-terminal-haunted-local-ai-companion-35mj)
+- [Canva Craft Is Here: Canva&#39;s First In-House Image Model Plans the Picture Before It Paints It](https://dev.to/toolpilotpro/canva-craft-is-here-canvas-first-in-house-image-model-plans-the-picture-before-it-paints-it-1i7l)
+- [360 green runs, and one test that would pass with the server down](https://dev.to/flakelab_dev/360-green-runs-and-one-test-that-would-pass-with-the-server-down-3hco)
+- [Cohere flags Alibaba Qwen model’s unexpected file transfer to Beijing](https://dev.to/madhavsharma99/cohere-flags-alibaba-qwen-models-unexpected-file-transfer-to-beijing-4m65)
 <!-- BLOG-POST-LIST:END -->
 
 
