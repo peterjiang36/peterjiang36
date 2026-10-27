@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debounce vs Throttle in JavaScript — Build Both From Scratch](https://dev.to/rich202603/debounce-vs-throttle-in-javascript-build-both-from-scratch-3jg9)
-- [Native vs Flutter vs React Native for a UK startup](https://dev.to/tychelabs/native-vs-flutter-vs-react-native-for-a-uk-startup-3f0k)
-- [A freelance income tracker spreadsheet: invoices, unpaid clients, and money set aside for tax](https://dev.to/ashishexcelnotes/a-freelance-income-tracker-spreadsheet-invoices-unpaid-clients-and-money-set-aside-for-tax-b09)
-- [I never planned to build a website. Twelve students turned it into 14,000 pages.](https://dev.to/moto510/i-never-planned-to-build-a-website-twelve-students-turned-it-into-14000-pages-3634)
+- [Target, Netflix and Verizon jobs API: Workday addresses that move, IDs that are not IDs](https://dev.to/glitchbound/target-netflix-and-verizon-jobs-api-workday-addresses-that-move-ids-that-are-not-ids-53o9)
+- [RTX, UPS and CVS Health jobs API: the Phenom careers search past 10,000 jobs](https://dev.to/glitchbound/rtx-ups-and-cvs-health-jobs-api-the-phenom-careers-search-past-10000-jobs-42km)
+- [Coverage Is Not Capability: What Whisper Taught Me About African Speech](https://dev.to/bernard_abuto_9970170b9c4/coverage-is-not-capability-what-whisper-taught-me-about-african-speech-39l2)
+- [CoAP: 2,188,380 answers for a protocol designed to be spoken to by anything](https://dev.to/jeffreyciend/coap-2188380-answers-for-a-protocol-designed-to-be-spoken-to-by-anything-28a1)
 <!-- BLOG-POST-LIST:END -->
 
 
