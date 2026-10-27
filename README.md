@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ECHOES: The Ghost in Your Terminal — Haunted Local AI Companion](https://dev.to/ayush_dinda_6b35589d05771/echoes-the-ghost-in-your-terminal-haunted-local-ai-companion-35mj)
-- [Canva Craft Is Here: Canva&#39;s First In-House Image Model Plans the Picture Before It Paints It](https://dev.to/toolpilotpro/canva-craft-is-here-canvas-first-in-house-image-model-plans-the-picture-before-it-paints-it-1i7l)
-- [360 green runs, and one test that would pass with the server down](https://dev.to/flakelab_dev/360-green-runs-and-one-test-that-would-pass-with-the-server-down-3hco)
-- [Cohere flags Alibaba Qwen model’s unexpected file transfer to Beijing](https://dev.to/madhavsharma99/cohere-flags-alibaba-qwen-models-unexpected-file-transfer-to-beijing-4m65)
+- [TrailMate 🌿👻 — A Ghost in Your Pocket That Wants You Outside](https://dev.to/adarshnegi/trailmate-a-ghost-in-your-pocket-that-wants-you-outside-30le)
+- [Repainting Seoul in 51 minutes, then making it move](https://dev.to/kiwibreaksme/repainting-seoul-in-51-minutes-then-making-it-move-25dn)
+- [Column totals in a Fiori Elements List Report with RAP: more than @Aggregation.default](https://dev.to/abapforagents/column-totals-in-a-fiori-elements-list-report-with-rap-more-than-aggregationdefault-1252)
+- [9 ABAP mistakes AI coding assistants keep making &lpar;and how to prevent them&rpar;](https://dev.to/abapforagents/9-abap-mistakes-ai-coding-assistants-keep-making-and-how-to-prevent-them-35nm)
 <!-- BLOG-POST-LIST:END -->
 
 
