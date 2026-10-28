@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Make Stripe Webhooks Idempotent in ASP.NET Core](https://dev.to/martinpisacreta/how-i-make-stripe-webhooks-idempotent-in-aspnet-core-2040)
-- [ElevenLabs Starter or Creator? Budgeting Credits for Scripted and Automated Voiceovers](https://dev.to/jadenvo259/elevenlabs-starter-or-creator-budgeting-credits-for-scripted-and-automated-voiceovers-1m5i)
-- [I dug up a plugin I&#39;d abandoned for a year: RFC 9457 in Fastify](https://dev.to/fracabu/i-dug-up-a-plugin-id-abandoned-for-a-year-rfc-9457-in-fastify-1b8p)
-- [Actions the Tool Registry Does Not Know About: Who Owns Them?](https://dev.to/rain6fish/actions-the-tool-registry-does-not-know-about-who-owns-them-4i9i)
+- [Alpha is just a plane in the pixel format, and FFmpeg drops it in three quiet places](https://dev.to/iterandum/alpha-is-just-a-plane-in-the-pixel-format-and-ffmpeg-drops-it-in-three-quiet-places-2a1g)
+- [Don&#39;t pay for an AI writing tool until you&#39;ve run these 6 tests on the free trial](https://dev.to/radim_vclavk_bc564d956d/dont-pay-for-an-ai-writing-tool-until-youve-run-these-6-tests-on-the-free-trial-3jh9)
+- [IP-Management für KMU: Geistiges Eigentum in Unternehmenswert verwandeln](https://dev.to/theforeman024/ip-management-fur-kmu-geistiges-eigentum-in-unternehmenswert-verwandeln-19p7)
+- [AI Promised Less Work. I Have Never Worked More.](https://dev.to/oorestisime/ai-promised-less-work-i-have-never-worked-more-2m5m)
 <!-- BLOG-POST-LIST:END -->
 
 
