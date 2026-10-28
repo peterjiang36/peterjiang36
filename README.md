@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Target, Netflix and Verizon jobs API: Workday addresses that move, IDs that are not IDs](https://dev.to/glitchbound/target-netflix-and-verizon-jobs-api-workday-addresses-that-move-ids-that-are-not-ids-53o9)
-- [RTX, UPS and CVS Health jobs API: the Phenom careers search past 10,000 jobs](https://dev.to/glitchbound/rtx-ups-and-cvs-health-jobs-api-the-phenom-careers-search-past-10000-jobs-42km)
-- [Coverage Is Not Capability: What Whisper Taught Me About African Speech](https://dev.to/bernard_abuto_9970170b9c4/coverage-is-not-capability-what-whisper-taught-me-about-african-speech-39l2)
-- [CoAP: 2,188,380 answers for a protocol designed to be spoken to by anything](https://dev.to/jeffreyciend/coap-2188380-answers-for-a-protocol-designed-to-be-spoken-to-by-anything-28a1)
+- [How I Make Stripe Webhooks Idempotent in ASP.NET Core](https://dev.to/martinpisacreta/how-i-make-stripe-webhooks-idempotent-in-aspnet-core-2040)
+- [ElevenLabs Starter or Creator? Budgeting Credits for Scripted and Automated Voiceovers](https://dev.to/jadenvo259/elevenlabs-starter-or-creator-budgeting-credits-for-scripted-and-automated-voiceovers-1m5i)
+- [I dug up a plugin I&#39;d abandoned for a year: RFC 9457 in Fastify](https://dev.to/fracabu/i-dug-up-a-plugin-id-abandoned-for-a-year-rfc-9457-in-fastify-1b8p)
+- [Actions the Tool Registry Does Not Know About: Who Owns Them?](https://dev.to/rain6fish/actions-the-tool-registry-does-not-know-about-who-owns-them-4i9i)
 <!-- BLOG-POST-LIST:END -->
 
 
