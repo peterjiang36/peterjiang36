@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Alpha is just a plane in the pixel format, and FFmpeg drops it in three quiet places](https://dev.to/iterandum/alpha-is-just-a-plane-in-the-pixel-format-and-ffmpeg-drops-it-in-three-quiet-places-2a1g)
-- [Don&#39;t pay for an AI writing tool until you&#39;ve run these 6 tests on the free trial](https://dev.to/radim_vclavk_bc564d956d/dont-pay-for-an-ai-writing-tool-until-youve-run-these-6-tests-on-the-free-trial-3jh9)
-- [IP-Management für KMU: Geistiges Eigentum in Unternehmenswert verwandeln](https://dev.to/theforeman024/ip-management-fur-kmu-geistiges-eigentum-in-unternehmenswert-verwandeln-19p7)
-- [AI Promised Less Work. I Have Never Worked More.](https://dev.to/oorestisime/ai-promised-less-work-i-have-never-worked-more-2m5m)
+- [Building pemba: An Embedded Zanzibar-Style Authorization Engine in Rust](https://dev.to/joshua-fields-dev/building-pemba-an-embedded-zanzibar-style-authorization-engine-in-rust-100f)
+- [Nuxt DevTools Observatory: the observability panels I wished Nuxt DevTools had](https://dev.to/victorneves/nuxt-devtools-observatory-the-observability-panels-i-wished-nuxt-devtools-had-igp)
+- [Cron job timezone problems: how to run cron in a specific time zone &lpar;and survive DST&rpar;](https://dev.to/delayrun/cron-job-timezone-problems-how-to-run-cron-in-a-specific-time-zone-and-survive-dst-23f)
+- [Why I Built Cypress Performance UI: A Simple Way to Measure Web Performance with Cypress](https://dev.to/pete2121/why-i-built-cypress-performance-ui-a-simple-way-to-measure-web-performance-with-cypress-47h8)
 <!-- BLOG-POST-LIST:END -->
 
 
