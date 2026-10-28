@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building pemba: An Embedded Zanzibar-Style Authorization Engine in Rust](https://dev.to/joshua-fields-dev/building-pemba-an-embedded-zanzibar-style-authorization-engine-in-rust-100f)
-- [Nuxt DevTools Observatory: the observability panels I wished Nuxt DevTools had](https://dev.to/victorneves/nuxt-devtools-observatory-the-observability-panels-i-wished-nuxt-devtools-had-igp)
-- [Cron job timezone problems: how to run cron in a specific time zone &lpar;and survive DST&rpar;](https://dev.to/delayrun/cron-job-timezone-problems-how-to-run-cron-in-a-specific-time-zone-and-survive-dst-23f)
-- [Why I Built Cypress Performance UI: A Simple Way to Measure Web Performance with Cypress](https://dev.to/pete2121/why-i-built-cypress-performance-ui-a-simple-way-to-measure-web-performance-with-cypress-47h8)
+- [Understanding Voice AI Audio Formats and Quality Settings](https://dev.to/voice_developer/understanding-voice-ai-audio-formats-and-quality-settings-3k2c)
+- [Dockerfile multi-stage para Go: de 800 MB a menos de 20 MB](https://dev.to/carlosp5751258lgtm/dockerfile-multi-stage-para-go-de-800-mb-a-menos-de-20-mb-32mc)
+- [MIT class project turns into an FDA-cleared treatment for tremors](https://dev.to/ashish_624379625242c5d263/mit-class-project-turns-into-an-fda-cleared-treatment-for-tremors-5b41)
+- [Exact Numbers or It Didn&#39;t Happen — The Finding I Refuted Hours Before Submitting It](https://dev.to/aaannvv/exact-numbers-or-it-didnt-happen-the-finding-i-refuted-hours-before-submitting-it-p5d)
 <!-- BLOG-POST-LIST:END -->
 
 
