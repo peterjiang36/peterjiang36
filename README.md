@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Voice AI Audio Formats and Quality Settings](https://dev.to/voice_developer/understanding-voice-ai-audio-formats-and-quality-settings-3k2c)
-- [Dockerfile multi-stage para Go: de 800 MB a menos de 20 MB](https://dev.to/carlosp5751258lgtm/dockerfile-multi-stage-para-go-de-800-mb-a-menos-de-20-mb-32mc)
-- [MIT class project turns into an FDA-cleared treatment for tremors](https://dev.to/ashish_624379625242c5d263/mit-class-project-turns-into-an-fda-cleared-treatment-for-tremors-5b41)
-- [Exact Numbers or It Didn&#39;t Happen — The Finding I Refuted Hours Before Submitting It](https://dev.to/aaannvv/exact-numbers-or-it-didnt-happen-the-finding-i-refuted-hours-before-submitting-it-p5d)
+- [Ghost staff authentication is part of the public-site attack surface](https://dev.to/facilishz/ghost-staff-authentication-is-part-of-the-public-site-attack-surface-d6l)
+- [Edge-to-Cloud Swarm Coordination for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-in-carbon-negative-1j0e)
+- [Hiring Managers Now Use AI to Read Your Resume. Here&#39;s How to Get Past It Without Sounding Like a Bot](https://dev.to/mybee_team_efdb884f233a84/hiring-managers-now-use-ai-to-read-your-resume-heres-how-to-get-past-it-without-sounding-like-a-5eh5)
+- [Logistics Spend Caps and Rate Limiting: Why Attribution Breaks First &lpar;and What I Measure&rpar;](https://dev.to/ashwhispertorvin64/logistics-spend-caps-and-rate-limiting-why-attribution-breaks-first-and-what-i-measure-4gcf)
 <!-- BLOG-POST-LIST:END -->
 
 
