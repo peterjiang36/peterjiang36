@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Sealed Wish Wall: Shareable Guest Contributions That Open on a Date](https://dev.to/decomytree/designing-a-sealed-wish-wall-shareable-guest-contributions-that-open-on-a-date-2l88)
-- [Run a Python script on a schedule for free and write the results to Google Sheets &lpar;GitHub Actions + gspread&rpar;](https://dev.to/zanmazgon/run-a-python-script-on-a-schedule-for-free-and-write-the-results-to-google-sheets-github-actions--3g9b)
-- [What an on-premise monitoring server actually stores &lpar;and how to size the disk&rpar;](https://dev.to/imonitorsoft/what-an-on-premise-monitoring-server-actually-stores-and-how-to-size-the-disk-48ee)
-- [The Lantern](https://dev.to/sanket_deore/the-lantern-4145)
+- [Daily Dose of DevOps — Observability strategy: for engineering leadership](https://dev.to/marco13moo/daily-dose-of-devops-observability-strategy-for-engineering-leadership-3am9)
+- [More RAG Chunks Don&#39;t Mean Better LLM Answers](https://dev.to/anshultech/more-rag-chunks-dont-mean-better-llm-answers-10lp)
+- [A Percentage Budget Is Blind. Your Agent Needs a Floor It Cannot Spend Through.](https://dev.to/jiahui-miao/a-percentage-budget-is-blind-your-agent-needs-a-floor-it-cannot-spend-through-3c2e)
+- [I rebuilt Natively&#39;s voice AI copilot as a free browser demo](https://dev.to/zhbhaider/i-rebuilt-nativelys-voice-ai-copilot-as-a-free-browser-demo-c27)
 <!-- BLOG-POST-LIST:END -->
 
 
