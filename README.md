@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily Dose of DevOps — Observability strategy: for engineering leadership](https://dev.to/marco13moo/daily-dose-of-devops-observability-strategy-for-engineering-leadership-3am9)
-- [More RAG Chunks Don&#39;t Mean Better LLM Answers](https://dev.to/anshultech/more-rag-chunks-dont-mean-better-llm-answers-10lp)
-- [A Percentage Budget Is Blind. Your Agent Needs a Floor It Cannot Spend Through.](https://dev.to/jiahui-miao/a-percentage-budget-is-blind-your-agent-needs-a-floor-it-cannot-spend-through-3c2e)
-- [I rebuilt Natively&#39;s voice AI copilot as a free browser demo](https://dev.to/zhbhaider/i-rebuilt-nativelys-voice-ai-copilot-as-a-free-browser-demo-c27)
+- [What AI video generation really costs per second in 2026 &lpar;13 models, open data&rpar;](https://dev.to/kreavo/what-ai-video-generation-really-costs-per-second-in-2026-13-models-open-data-ed)
+- [Automating Multi‑Channel Content Publishing with a Simple Node Script](https://dev.to/zaerohell/automating-multi-channel-content-publishing-with-a-simple-node-script-3002)
+- [Publish an AI agent&#39;s HTML report to a live URL with one curl call](https://dev.to/deedpage/publish-an-ai-agents-html-report-to-a-live-url-with-one-curl-call-38p9)
+- [Is BOB Gateway Non-Custodial? Who Actually Holds Your BTC During a Cross-Chain Swap](https://dev.to/0xnewbiewhermes/is-bob-gateway-non-custodial-who-actually-holds-your-btc-during-a-cross-chain-swap-1i9h)
 <!-- BLOG-POST-LIST:END -->
 
 
