@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ghost staff authentication is part of the public-site attack surface](https://dev.to/facilishz/ghost-staff-authentication-is-part-of-the-public-site-attack-surface-d6l)
-- [Edge-to-Cloud Swarm Coordination for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-in-carbon-negative-1j0e)
-- [Hiring Managers Now Use AI to Read Your Resume. Here&#39;s How to Get Past It Without Sounding Like a Bot](https://dev.to/mybee_team_efdb884f233a84/hiring-managers-now-use-ai-to-read-your-resume-heres-how-to-get-past-it-without-sounding-like-a-5eh5)
-- [Logistics Spend Caps and Rate Limiting: Why Attribution Breaks First &lpar;and What I Measure&rpar;](https://dev.to/ashwhispertorvin64/logistics-spend-caps-and-rate-limiting-why-attribution-breaks-first-and-what-i-measure-4gcf)
+- [Designing a Sealed Wish Wall: Shareable Guest Contributions That Open on a Date](https://dev.to/decomytree/designing-a-sealed-wish-wall-shareable-guest-contributions-that-open-on-a-date-2l88)
+- [Run a Python script on a schedule for free and write the results to Google Sheets &lpar;GitHub Actions + gspread&rpar;](https://dev.to/zanmazgon/run-a-python-script-on-a-schedule-for-free-and-write-the-results-to-google-sheets-github-actions--3g9b)
+- [What an on-premise monitoring server actually stores &lpar;and how to size the disk&rpar;](https://dev.to/imonitorsoft/what-an-on-premise-monitoring-server-actually-stores-and-how-to-size-the-disk-48ee)
+- [The Lantern](https://dev.to/sanket_deore/the-lantern-4145)
 <!-- BLOG-POST-LIST:END -->
 
 
