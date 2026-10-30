@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Googlebot&#39;s HTML Size Limit: Is the Answer Beyond the Cutoff?](https://dev.to/urielbitton/googlebots-html-size-limit-is-the-answer-beyond-the-cutoff-4dkc)
-- [Functions in Python](https://dev.to/iamsubash/functions-in-python-5fd1)
-- [Designing a public Reddit search tool with clear source and coverage limits](https://dev.to/thirdweb_46663456c48a7ae4/designing-a-public-reddit-search-tool-with-clear-source-and-coverage-limits-597)
-- [AI agent memory needs a verification step](https://dev.to/dawncoral/ai-agent-memory-needs-a-verification-step-c81)
+- [Why Blurring a Face Is Sometimes More Important Than Removing Metadata](https://dev.to/tsidevstudio01/why-blurring-a-face-is-sometimes-more-important-than-removing-metadata-4fj6)
+- [A Little Thing Worth Keeping: A Local Gemma Memory Lantern](https://dev.to/abhishek764/a-little-thing-worth-keeping-a-local-gemma-memory-lantern-1m7n)
+- [My terminal is haunted — a Y2K ghost reviews my commands &lpar;and she talks back&rpar;](https://dev.to/asmittzzz/my-terminal-is-haunted-a-y2k-ghost-reviews-my-commands-and-she-talks-back-2iib)
+- [Echoes: Bringing Memories Back to Life with Open-Source AI](https://dev.to/rupak_chatterjee9799/echoes-bringing-memories-back-to-life-with-open-source-ai-2n3p)
 <!-- BLOG-POST-LIST:END -->
 
 
