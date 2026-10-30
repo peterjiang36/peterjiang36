@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What AI video generation really costs per second in 2026 &lpar;13 models, open data&rpar;](https://dev.to/kreavo/what-ai-video-generation-really-costs-per-second-in-2026-13-models-open-data-ed)
-- [Automating Multi‑Channel Content Publishing with a Simple Node Script](https://dev.to/zaerohell/automating-multi-channel-content-publishing-with-a-simple-node-script-3002)
-- [Publish an AI agent&#39;s HTML report to a live URL with one curl call](https://dev.to/deedpage/publish-an-ai-agents-html-report-to-a-live-url-with-one-curl-call-38p9)
-- [Is BOB Gateway Non-Custodial? Who Actually Holds Your BTC During a Cross-Chain Swap](https://dev.to/0xnewbiewhermes/is-bob-gateway-non-custodial-who-actually-holds-your-btc-during-a-cross-chain-swap-1i9h)
+- [A webhook retry can pay a customer twice, and two checks that stop it](https://dev.to/mohsindev369/a-webhook-retry-can-pay-a-customer-twice-and-two-checks-that-stop-it-2cem)
+- [The Save Offer Is a Price Signal](https://dev.to/swipe-again/the-save-offer-is-a-price-signal-460k)
+- [Building SellDaily AI: From Full-Stack Development to Docker Deployment](https://dev.to/azuretrailblazer/building-selldaily-ai-from-full-stack-development-to-docker-deployment-27og)
+- [Message Queues for Dynamic Rate Limiting: Choose Managed Queues Unless Routing Matters](https://dev.to/wilfredknight8447/message-queues-for-dynamic-rate-limiting-choose-managed-queues-unless-routing-matters-10g7)
 <!-- BLOG-POST-LIST:END -->
 
 
