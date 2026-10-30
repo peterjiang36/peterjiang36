@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Blurring a Face Is Sometimes More Important Than Removing Metadata](https://dev.to/tsidevstudio01/why-blurring-a-face-is-sometimes-more-important-than-removing-metadata-4fj6)
-- [A Little Thing Worth Keeping: A Local Gemma Memory Lantern](https://dev.to/abhishek764/a-little-thing-worth-keeping-a-local-gemma-memory-lantern-1m7n)
-- [My terminal is haunted — a Y2K ghost reviews my commands &lpar;and she talks back&rpar;](https://dev.to/asmittzzz/my-terminal-is-haunted-a-y2k-ghost-reviews-my-commands-and-she-talks-back-2iib)
-- [Echoes: Bringing Memories Back to Life with Open-Source AI](https://dev.to/rupak_chatterjee9799/echoes-bringing-memories-back-to-life-with-open-source-ai-2n3p)
+- [Haunted by WhatsApp Cancellations, So I Built a Ghost That Never Cooks the Books](https://dev.to/attlar/haunted-by-whatsapp-cancellations-so-i-built-a-ghost-that-never-cooks-the-books-24kh)
+- [Write your Nest.js 12 tests as decorated classes with Mocha](https://dev.to/demostenes1509/write-your-nestjs-12-tests-as-decorated-classes-with-mocha-c5i)
+- [ChatGPT vs Gemini vs Claude: Pick by the Job, Not by the Hype](https://dev.to/meer77/chatgpt-vs-gemini-vs-claude-pick-by-the-job-not-by-the-hype-5dlk)
+- [Flash Loan Attack Vector Analysis: Robinhood](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-robinhood-jng)
 <!-- BLOG-POST-LIST:END -->
 
 
