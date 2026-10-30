@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Two-Way Audio on a Video Doorbell Is Half-Duplex, and That Is Why the Conversation Feels Broken](https://dev.to/xingliao/two-way-audio-on-a-video-doorbell-is-half-duplex-and-that-is-why-the-conversation-feels-broken-215l)
-- [Turning 30: My Real Life Is Just Beginning](https://dev.to/linda_x_169265f831bf106d3/turning-30-my-real-life-is-just-beginning-1217)
-- [Why developers need room to experiment, learn, and build without turning every idea into a business](https://dev.to/jaideepparashar/not-every-side-project-needs-to-become-a-startup-4dfi)
-- [Azure API Management Developer Portal and API Versioning: Version Sets Without Breaking Callers](https://dev.to/martin_oehlert/azure-api-management-developer-portal-and-api-versioning-version-sets-without-breaking-callers-40em)
+- [Googlebot&#39;s HTML Size Limit: Is the Answer Beyond the Cutoff?](https://dev.to/urielbitton/googlebots-html-size-limit-is-the-answer-beyond-the-cutoff-4dkc)
+- [Functions in Python](https://dev.to/iamsubash/functions-in-python-5fd1)
+- [Designing a public Reddit search tool with clear source and coverage limits](https://dev.to/thirdweb_46663456c48a7ae4/designing-a-public-reddit-search-tool-with-clear-source-and-coverage-limits-597)
+- [AI agent memory needs a verification step](https://dev.to/dawncoral/ai-agent-memory-needs-a-verification-step-c81)
 <!-- BLOG-POST-LIST:END -->
 
 
