@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A webhook retry can pay a customer twice, and two checks that stop it](https://dev.to/mohsindev369/a-webhook-retry-can-pay-a-customer-twice-and-two-checks-that-stop-it-2cem)
-- [The Save Offer Is a Price Signal](https://dev.to/swipe-again/the-save-offer-is-a-price-signal-460k)
-- [Building SellDaily AI: From Full-Stack Development to Docker Deployment](https://dev.to/azuretrailblazer/building-selldaily-ai-from-full-stack-development-to-docker-deployment-27og)
-- [Message Queues for Dynamic Rate Limiting: Choose Managed Queues Unless Routing Matters](https://dev.to/wilfredknight8447/message-queues-for-dynamic-rate-limiting-choose-managed-queues-unless-routing-matters-10g7)
+- [Two-Way Audio on a Video Doorbell Is Half-Duplex, and That Is Why the Conversation Feels Broken](https://dev.to/xingliao/two-way-audio-on-a-video-doorbell-is-half-duplex-and-that-is-why-the-conversation-feels-broken-215l)
+- [Turning 30: My Real Life Is Just Beginning](https://dev.to/linda_x_169265f831bf106d3/turning-30-my-real-life-is-just-beginning-1217)
+- [Why developers need room to experiment, learn, and build without turning every idea into a business](https://dev.to/jaideepparashar/not-every-side-project-needs-to-become-a-startup-4dfi)
+- [Azure API Management Developer Portal and API Versioning: Version Sets Without Breaking Callers](https://dev.to/martin_oehlert/azure-api-management-developer-portal-and-api-versioning-version-sets-without-breaking-callers-40em)
 <!-- BLOG-POST-LIST:END -->
 
 
