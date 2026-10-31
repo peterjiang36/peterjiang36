@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Haunted by WhatsApp Cancellations, So I Built a Ghost That Never Cooks the Books](https://dev.to/attlar/haunted-by-whatsapp-cancellations-so-i-built-a-ghost-that-never-cooks-the-books-24kh)
-- [Write your Nest.js 12 tests as decorated classes with Mocha](https://dev.to/demostenes1509/write-your-nestjs-12-tests-as-decorated-classes-with-mocha-c5i)
-- [ChatGPT vs Gemini vs Claude: Pick by the Job, Not by the Hype](https://dev.to/meer77/chatgpt-vs-gemini-vs-claude-pick-by-the-job-not-by-the-hype-5dlk)
-- [Flash Loan Attack Vector Analysis: Robinhood](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-robinhood-jng)
+- [Black October: 9 AI Dev Platforms Were Breached. Rotate Your Keys Today](https://dev.to/lycore/black-october-9-ai-dev-platforms-were-breached-rotate-your-keys-today-35d3)
+- [Raindance AI: Clip-Length Pickers, Head-Swap vs Whole-Person, and Seedance via TryAllAPI](https://dev.to/raindance_lab/raindance-ai-clip-length-pickers-head-swap-vs-whole-person-and-seedance-via-tryallapi-2o0k)
+- [Programmatic SEO pages and thin content: noindex until there are three items](https://dev.to/radarmakers/programmatic-seo-pages-and-thin-content-noindex-until-there-are-three-items-3o8b)
+- [Use Proxmox API tokens as delegated identities with a visible owner](https://dev.to/sorrelthorncroft/use-proxmox-api-tokens-as-delegated-identities-with-a-visible-owner-24ag)
 <!-- BLOG-POST-LIST:END -->
 
 
