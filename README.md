@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CPU, GPU and NPU: which one actually runs your workload?](https://dev.to/bytepreviewen/cpu-gpu-and-npu-which-one-actually-runs-your-workload-1lpd)
-- [Prometheus in 2026: Metrics, PromQL and Alerting That Pages Only When It Matters](https://dev.to/softverseadmin/prometheus-in-2026-metrics-promql-and-alerting-that-pages-only-when-it-matters-p7a)
-- [Desiring-machines work only when they break down — and the silent log is the first thing to break](https://dev.to/ilya_mozerov_867dbdd91feb/desiring-machines-work-only-when-they-break-down-and-the-silent-log-is-the-first-thing-to-break-19ge)
-- [GhostTrace — A Local AI That Makes Your Terminal Feel Haunted](https://dev.to/kusal_099098/ghosttrace-a-local-ai-that-makes-your-terminal-feel-haunted-1k9e)
+- [PCB Builder: Three Ways to Start a Circuit Board in the Browser, and What It Won&#39;t Do for You](https://dev.to/dibyaprakash_pradhan/pcb-builder-three-ways-to-start-a-circuit-board-in-the-browser-and-what-it-wont-do-for-you-1277)
+- [High CPU gets throttled. High Memory gets killed.](https://dev.to/huzaifa_saifuddin_370679c/high-cpu-gets-throttled-high-memory-gets-killed-5g37)
+- [procedural-cli-todo](https://dev.to/aditya0to1/procedural-cli-todo-53c5)
+- [Okuribi — A Ghost in the Machine](https://dev.to/harshit_rai_14102005/okuribi-a-ghost-in-the-machine-4fln)
 <!-- BLOG-POST-LIST:END -->
 
 
