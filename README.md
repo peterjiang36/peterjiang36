@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [PCB Builder: Three Ways to Start a Circuit Board in the Browser, and What It Won&#39;t Do for You](https://dev.to/dibyaprakash_pradhan/pcb-builder-three-ways-to-start-a-circuit-board-in-the-browser-and-what-it-wont-do-for-you-1277)
-- [High CPU gets throttled. High Memory gets killed.](https://dev.to/huzaifa_saifuddin_370679c/high-cpu-gets-throttled-high-memory-gets-killed-5g37)
-- [procedural-cli-todo](https://dev.to/aditya0to1/procedural-cli-todo-53c5)
-- [Okuribi — A Ghost in the Machine](https://dev.to/harshit_rai_14102005/okuribi-a-ghost-in-the-machine-4fln)
+- [👻 GhostTrace — The Data That Refused to Die](https://dev.to/dinesh2047/ghosttrace-the-data-that-refused-to-die-34jg)
+- [Building a notes app for the phone first, when the server cannot read a word](https://dev.to/jacob_gawlik/building-a-notes-app-for-the-phone-first-when-the-server-cannot-read-a-word-63d)
+- [🕸️ Excited to share our team&#39;s Hacktoberfest submission!](https://dev.to/rana_4a6f402a1eba49668fe1/-1gfg)
+- [A minor literature is not the literature of a minor language — Deleuze and Guattari on Kafka, and a dashboard that borrows its words](https://dev.to/ilya_mozerov_867dbdd91feb/a-minor-literature-is-not-the-literature-of-a-minor-language-deleuze-and-guattari-on-kafka-and-a-2inc)
 <!-- BLOG-POST-LIST:END -->
 
 
