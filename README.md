@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Black October: 9 AI Dev Platforms Were Breached. Rotate Your Keys Today](https://dev.to/lycore/black-october-9-ai-dev-platforms-were-breached-rotate-your-keys-today-35d3)
-- [Raindance AI: Clip-Length Pickers, Head-Swap vs Whole-Person, and Seedance via TryAllAPI](https://dev.to/raindance_lab/raindance-ai-clip-length-pickers-head-swap-vs-whole-person-and-seedance-via-tryallapi-2o0k)
-- [Programmatic SEO pages and thin content: noindex until there are three items](https://dev.to/radarmakers/programmatic-seo-pages-and-thin-content-noindex-until-there-are-three-items-3o8b)
-- [Use Proxmox API tokens as delegated identities with a visible owner](https://dev.to/sorrelthorncroft/use-proxmox-api-tokens-as-delegated-identities-with-a-visible-owner-24ag)
+- [CPU, GPU and NPU: which one actually runs your workload?](https://dev.to/bytepreviewen/cpu-gpu-and-npu-which-one-actually-runs-your-workload-1lpd)
+- [Prometheus in 2026: Metrics, PromQL and Alerting That Pages Only When It Matters](https://dev.to/softverseadmin/prometheus-in-2026-metrics-promql-and-alerting-that-pages-only-when-it-matters-p7a)
+- [Desiring-machines work only when they break down — and the silent log is the first thing to break](https://dev.to/ilya_mozerov_867dbdd91feb/desiring-machines-work-only-when-they-break-down-and-the-silent-log-is-the-first-thing-to-break-19ge)
+- [GhostTrace — A Local AI That Makes Your Terminal Feel Haunted](https://dev.to/kusal_099098/ghosttrace-a-local-ai-that-makes-your-terminal-feel-haunted-1k9e)
 <!-- BLOG-POST-LIST:END -->
 
 
