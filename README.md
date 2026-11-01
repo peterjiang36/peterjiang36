@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [👻 GhostTrace — The Data That Refused to Die](https://dev.to/dinesh2047/ghosttrace-the-data-that-refused-to-die-34jg)
-- [Building a notes app for the phone first, when the server cannot read a word](https://dev.to/jacob_gawlik/building-a-notes-app-for-the-phone-first-when-the-server-cannot-read-a-word-63d)
-- [🕸️ Excited to share our team&#39;s Hacktoberfest submission!](https://dev.to/rana_4a6f402a1eba49668fe1/-1gfg)
-- [A minor literature is not the literature of a minor language — Deleuze and Guattari on Kafka, and a dashboard that borrows its words](https://dev.to/ilya_mozerov_867dbdd91feb/a-minor-literature-is-not-the-literature-of-a-minor-language-deleuze-and-guattari-on-kafka-and-a-2inc)
+- [Top 5 Trending Dev Tools and Tutorials for November 1, 2026](https://dev.to/karleeov/top-5-trending-dev-tools-and-tutorials-for-november-1-2026-j1n)
+- [How to Create an SVG Icon Sprite for Your Website](https://dev.to/svgicons/how-to-create-an-svg-icon-sprite-for-your-website-nak)
+- [Long Document Summarization: A 4-Step Token Budget for Correct Catalog Output](https://dev.to/barnabyvance6852/long-document-summarization-a-4-step-token-budget-for-correct-catalog-output-3o1o)
+- [Build a Voice-Powered Accessibility Tool](https://dev.to/voice_developer/build-a-voice-powered-accessibility-tool-3fi7)
 <!-- BLOG-POST-LIST:END -->
 
 
