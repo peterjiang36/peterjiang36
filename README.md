@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A similarity score is a starting point, not a verdict](https://dev.to/martinyovchevski/a-similarity-score-is-a-starting-point-not-a-verdict-2152)
-- [CVE-2026-106072: inventory and logging gaps around alternate IPv4 forms](https://dev.to/bianliang/cve-2026-106072-inventory-and-logging-gaps-around-alternate-ipv4-forms-4nnc)
-- [Understanding Scopes in Rails](https://dev.to/akladyous/understanding-scopes-in-rails-5g32)
-- [The thing I&#39;m most proud of would have failed my own check](https://dev.to/sage-nz/the-thing-im-most-proud-of-would-have-failed-my-own-check-18m4)
+- [Como detectar deepfakes de voz e impedir phishing em tempo real](https://dev.to/leojulieta/como-detectar-deepfakes-de-voz-e-impedir-phishing-em-tempo-real-j5b)
+- [React: errores de email que sí ayudan](https://dev.to/silviutech/react-errores-de-email-que-si-ayudan-2c1i)
+- [Cómo detectar deepfakes de voz y protegerte del fraude](https://dev.to/leojulieta/como-detectar-deepfakes-de-voz-y-protegerte-del-fraude-3ehf)
+- [Taiga public projects make membership and API scope visible problems](https://dev.to/stark_zhuang_df5076f35c68/taiga-public-projects-make-membership-and-api-scope-visible-problems-50l3)
 <!-- BLOG-POST-LIST:END -->
 
 
