@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Trending Dev Tools and Tutorials for November 1, 2026](https://dev.to/karleeov/top-5-trending-dev-tools-and-tutorials-for-november-1-2026-j1n)
-- [How to Create an SVG Icon Sprite for Your Website](https://dev.to/svgicons/how-to-create-an-svg-icon-sprite-for-your-website-nak)
-- [Long Document Summarization: A 4-Step Token Budget for Correct Catalog Output](https://dev.to/barnabyvance6852/long-document-summarization-a-4-step-token-budget-for-correct-catalog-output-3o1o)
-- [Build a Voice-Powered Accessibility Tool](https://dev.to/voice_developer/build-a-voice-powered-accessibility-tool-3fi7)
+- [Kalshi Position Sizing: The Kelly Criterion for Prediction Market Contracts](https://dev.to/deskbot_store/kalshi-position-sizing-the-kelly-criterion-for-prediction-market-contracts-jgi)
+- [NumPy Raised No Error. Why Is Your Loss Calculating the Wrong Thing?](https://dev.to/alexander_iwizard/numpy-raised-no-error-why-is-your-loss-calculating-the-wrong-thing-2g23)
+- [Building reversible layer masks in a browser image editor](https://dev.to/_f2ad1d4a811a87449655b/building-reversible-layer-masks-in-a-browser-image-editor-4mjk)
+- [I built a 30-second scouting report for League five-stacks on Riot&#39;s API](https://dev.to/fivescoutgo/i-built-a-30-second-scouting-report-for-league-five-stacks-on-riots-api-13nk)
 <!-- BLOG-POST-LIST:END -->
 
 
