@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kalshi Position Sizing: The Kelly Criterion for Prediction Market Contracts](https://dev.to/deskbot_store/kalshi-position-sizing-the-kelly-criterion-for-prediction-market-contracts-jgi)
-- [NumPy Raised No Error. Why Is Your Loss Calculating the Wrong Thing?](https://dev.to/alexander_iwizard/numpy-raised-no-error-why-is-your-loss-calculating-the-wrong-thing-2g23)
-- [Building reversible layer masks in a browser image editor](https://dev.to/_f2ad1d4a811a87449655b/building-reversible-layer-masks-in-a-browser-image-editor-4mjk)
-- [I built a 30-second scouting report for League five-stacks on Riot&#39;s API](https://dev.to/fivescoutgo/i-built-a-30-second-scouting-report-for-league-five-stacks-on-riots-api-13nk)
+- [ASP.NET Core &#39;Error Unprotecting the Session Cookie&#39;: Why Your Keys Disappear on Deploy](https://dev.to/kausarraza/aspnet-core-error-unprotecting-the-session-cookie-why-your-keys-disappear-on-deploy-42fe)
+- [Verifying CVE-2026-110264 Remediation Beyond the Upgrade Button](https://dev.to/facilishz/verifying-cve-2026-110264-remediation-beyond-the-upgrade-button-2a3)
+- [Mocking File Downloads and Binary Responses Without Faking Them Badly](https://dev.to/jeff_pdc/mocking-file-downloads-and-binary-responses-without-faking-them-badly-2eoc)
+- [A Maintenance Request Is a Ticket: Designing Better Property Management Workflows](https://dev.to/real_estate_miami/a-maintenance-request-is-a-ticket-designing-better-property-management-workflows-j9a)
 <!-- BLOG-POST-LIST:END -->
 
 
