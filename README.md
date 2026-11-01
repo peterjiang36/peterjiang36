@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ASP.NET Core &#39;Error Unprotecting the Session Cookie&#39;: Why Your Keys Disappear on Deploy](https://dev.to/kausarraza/aspnet-core-error-unprotecting-the-session-cookie-why-your-keys-disappear-on-deploy-42fe)
-- [Verifying CVE-2026-110264 Remediation Beyond the Upgrade Button](https://dev.to/facilishz/verifying-cve-2026-110264-remediation-beyond-the-upgrade-button-2a3)
-- [Mocking File Downloads and Binary Responses Without Faking Them Badly](https://dev.to/jeff_pdc/mocking-file-downloads-and-binary-responses-without-faking-them-badly-2eoc)
-- [A Maintenance Request Is a Ticket: Designing Better Property Management Workflows](https://dev.to/real_estate_miami/a-maintenance-request-is-a-ticket-designing-better-property-management-workflows-j9a)
+- [A similarity score is a starting point, not a verdict](https://dev.to/martinyovchevski/a-similarity-score-is-a-starting-point-not-a-verdict-2152)
+- [CVE-2026-106072: inventory and logging gaps around alternate IPv4 forms](https://dev.to/bianliang/cve-2026-106072-inventory-and-logging-gaps-around-alternate-ipv4-forms-4nnc)
+- [Understanding Scopes in Rails](https://dev.to/akladyous/understanding-scopes-in-rails-5g32)
+- [The thing I&#39;m most proud of would have failed my own check](https://dev.to/sage-nz/the-thing-im-most-proud-of-would-have-failed-my-own-check-18m4)
 <!-- BLOG-POST-LIST:END -->
 
 
