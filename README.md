@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Churn Benchmarks by Industry Are a Starting Line, Not a Verdict](https://dev.to/swipe-again/churn-benchmarks-by-industry-are-a-starting-line-not-a-verdict-5a6h)
-- [Your barcode scans on screen but not in print? Here&#39;s the debugging order](https://dev.to/rahibaly/your-barcode-scans-on-screen-but-not-in-print-heres-the-debugging-order-13k3)
-- [Rent Splits, Explained: The Math Behind Fair Roommate Shares](https://dev.to/calcrio/rent-splits-explained-the-math-behind-fair-roommate-shares-123i)
-- [Why SQLite WAL Still Raises &quot;database is locked&quot; in Python](https://dev.to/chenyuan20509/why-sqlite-wal-still-raises-database-is-locked-in-python-4987)
+- [5 Tripsy Alternatives for Android in 2026, Including the One I Built](https://dev.to/nomadswipe/5-tripsy-alternatives-for-android-in-2026-including-the-one-i-built-470i)
+- [Build headlines said 92x faster. I measured my own crate first.](https://dev.to/techdevfun/build-headlines-said-92x-faster-i-measured-my-own-crate-first-5epn)
+- [CloudNativePG on k3s: PostgreSQL That Survives Node Failures](https://dev.to/dwoitzik/cloudnativepg-on-k3s-postgresql-that-survives-node-failures-4fag)
+- [Should You Rent AI or Run Your Own?](https://dev.to/konradwright/should-you-rent-ai-or-run-your-own-1k2h)
 <!-- BLOG-POST-LIST:END -->
 
 
