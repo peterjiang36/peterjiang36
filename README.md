@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Tripsy Alternatives for Android in 2026, Including the One I Built](https://dev.to/nomadswipe/5-tripsy-alternatives-for-android-in-2026-including-the-one-i-built-470i)
-- [Build headlines said 92x faster. I measured my own crate first.](https://dev.to/techdevfun/build-headlines-said-92x-faster-i-measured-my-own-crate-first-5epn)
-- [CloudNativePG on k3s: PostgreSQL That Survives Node Failures](https://dev.to/dwoitzik/cloudnativepg-on-k3s-postgresql-that-survives-node-failures-4fag)
-- [Should You Rent AI or Run Your Own?](https://dev.to/konradwright/should-you-rent-ai-or-run-your-own-1k2h)
+- [How I made DSQL easier](https://dev.to/damien_pace_2c3ec240cbd46/how-i-made-dsql-easier-4je5)
+- [Proof of Place: what a satellite can and cannot prove](https://dev.to/mrpkk/proof-of-place-what-a-satellite-can-and-cannot-prove-3lid)
+- [Study: poisoning 0.1% of pretraining data implants a working RCE backdoor in an AI agent](https://dev.to/delimitter/study-poisoning-01-of-pretraining-data-implants-a-working-rce-backdoor-in-an-ai-agent-3moh)
+- [How to unlock your Xiaomi scooter 6](https://dev.to/mat99/how-to-unlock-your-xiaomi-scooter-6-1ojd)
 <!-- BLOG-POST-LIST:END -->
 
 
