@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Predict when your brake pads will die: a 20-line Python estimator for Dubai traffic](https://dev.to/britfixdubai/predict-when-your-brake-pads-will-die-a-20-line-python-estimator-for-dubai-traffic-2f1m)
-- [Your Canvas Is Freezing the Page. OffscreenCanvas Fixes That.](https://dev.to/parsajiravand/your-canvas-is-freezing-the-page-offscreencanvas-fixes-that-hn9)
-- [Mattermost title matches require ownership checks](https://dev.to/bianliang/mattermost-title-matches-require-ownership-checks-3m47)
-- [Next.js 16.4 ensureStatic: Locking Routes Fully Static](https://dev.to/parsajiravand/nextjs-164-ensurestatic-locking-routes-fully-static-30dp)
+- [Fine Grained Password Policies - FGPP](https://dev.to/ersincol/fine-grained-password-policies-fgpp-5324)
+- [Hyperliquid API in Python: our $25 cap refused 892 of 892 $25 orders](https://dev.to/botcookery/hyperliquid-api-in-python-our-25-cap-refused-892-of-892-25-orders-1bk)
+- [Trusted SSL Certificates for Localhost](https://dev.to/kevinlearynet/trusted-ssl-certificates-for-localhost-55a8)
+- [What a killed Playwright script leaves behind on Linux: processes, profile dirs and a SIGTERM that does not exit](https://dev.to/curlshot/what-a-killed-playwright-script-leaves-behind-on-linux-processes-profile-dirs-and-a-sigterm-that-5989)
 <!-- BLOG-POST-LIST:END -->
 
 
