@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How I made DSQL easier](https://dev.to/damien_pace_2c3ec240cbd46/how-i-made-dsql-easier-4je5)
-- [Proof of Place: what a satellite can and cannot prove](https://dev.to/mrpkk/proof-of-place-what-a-satellite-can-and-cannot-prove-3lid)
-- [Study: poisoning 0.1% of pretraining data implants a working RCE backdoor in an AI agent](https://dev.to/delimitter/study-poisoning-01-of-pretraining-data-implants-a-working-rce-backdoor-in-an-ai-agent-3moh)
-- [How to unlock your Xiaomi scooter 6](https://dev.to/mat99/how-to-unlock-your-xiaomi-scooter-6-1ojd)
+- [Predict when your brake pads will die: a 20-line Python estimator for Dubai traffic](https://dev.to/britfixdubai/predict-when-your-brake-pads-will-die-a-20-line-python-estimator-for-dubai-traffic-2f1m)
+- [Your Canvas Is Freezing the Page. OffscreenCanvas Fixes That.](https://dev.to/parsajiravand/your-canvas-is-freezing-the-page-offscreencanvas-fixes-that-hn9)
+- [Mattermost title matches require ownership checks](https://dev.to/bianliang/mattermost-title-matches-require-ownership-checks-3m47)
+- [Next.js 16.4 ensureStatic: Locking Routes Fully Static](https://dev.to/parsajiravand/nextjs-164-ensurestatic-locking-routes-fully-static-30dp)
 <!-- BLOG-POST-LIST:END -->
 
 
