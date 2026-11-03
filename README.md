@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine Grained Password Policies - FGPP](https://dev.to/ersincol/fine-grained-password-policies-fgpp-5324)
-- [Hyperliquid API in Python: our $25 cap refused 892 of 892 $25 orders](https://dev.to/botcookery/hyperliquid-api-in-python-our-25-cap-refused-892-of-892-25-orders-1bk)
-- [Trusted SSL Certificates for Localhost](https://dev.to/kevinlearynet/trusted-ssl-certificates-for-localhost-55a8)
-- [What a killed Playwright script leaves behind on Linux: processes, profile dirs and a SIGTERM that does not exit](https://dev.to/curlshot/what-a-killed-playwright-script-leaves-behind-on-linux-processes-profile-dirs-and-a-sigterm-that-5989)
+- [Finder can&#39;t show you what&#39;s in a video. Five ways to check a folder full of clips on a Mac without opening each one](https://dev.to/scenestrip/finder-cant-show-you-whats-in-a-video-five-ways-to-check-a-folder-full-of-clips-on-a-mac-without-47hh)
+- [Building a Cyberpunk Password Analyzer &amp; Generator with Real-Time Crack Speed Estimations](https://dev.to/majida_yehyashakra_ce2a2/building-a-cyberpunk-password-analyzer-generator-with-real-time-crack-speed-estimations-3cap)
+- [A Practical Workflow for AI-Assisted SEO Analysis](https://dev.to/morlixcms/a-practical-workflow-for-ai-assisted-seo-analysis-17b5)
+- [Why my offline zakat app ships a Hijri lookup table instead of a calendar algorithm](https://dev.to/salah_bouragbapro_185b9f/why-my-offline-zakat-app-ships-a-hijri-lookup-table-instead-of-a-calendar-algorithm-5b3p)
 <!-- BLOG-POST-LIST:END -->
 
 
