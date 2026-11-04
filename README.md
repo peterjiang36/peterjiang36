@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finder can&#39;t show you what&#39;s in a video. Five ways to check a folder full of clips on a Mac without opening each one](https://dev.to/scenestrip/finder-cant-show-you-whats-in-a-video-five-ways-to-check-a-folder-full-of-clips-on-a-mac-without-47hh)
-- [Building a Cyberpunk Password Analyzer &amp; Generator with Real-Time Crack Speed Estimations](https://dev.to/majida_yehyashakra_ce2a2/building-a-cyberpunk-password-analyzer-generator-with-real-time-crack-speed-estimations-3cap)
-- [A Practical Workflow for AI-Assisted SEO Analysis](https://dev.to/morlixcms/a-practical-workflow-for-ai-assisted-seo-analysis-17b5)
-- [Why my offline zakat app ships a Hijri lookup table instead of a calendar algorithm](https://dev.to/salah_bouragbapro_185b9f/why-my-offline-zakat-app-ships-a-hijri-lookup-table-instead-of-a-calendar-algorithm-5b3p)
+- [This week on dev.to: agent guardrails own the comments, and the ai median cools to 11.5 &lpar;W44&rpar;](https://dev.to/turinggate/this-week-on-devto-agent-guardrails-own-the-comments-and-the-ai-median-cools-to-115-w44-5370)
+- [The Correction Layer — Or, &quot;We Issued a Correction&quot; Is Not the Same as &quot;The Correction Reached the People Who Read the Wrong Version&quot;](https://dev.to/goodpa/the-correction-layer-or-we-issued-a-correction-is-not-the-same-as-the-correction-reached-the-24dl)
+- [Point Claude Code at axe-core&#39;s Violations, Not at &#39;Make This Page Accessible&#39;](https://dev.to/gabrielanhaia/point-claude-code-at-axe-cores-violations-not-at-make-this-page-accessible-3e21)
+- [Choosing AI Knowledge Management for Air-Gapped Teams](https://dev.to/tomaszkrystman/choosing-ai-knowledge-management-for-air-gapped-teams-5be7)
 <!-- BLOG-POST-LIST:END -->
 
 
