@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [This week on dev.to: agent guardrails own the comments, and the ai median cools to 11.5 &lpar;W44&rpar;](https://dev.to/turinggate/this-week-on-devto-agent-guardrails-own-the-comments-and-the-ai-median-cools-to-115-w44-5370)
-- [The Correction Layer — Or, &quot;We Issued a Correction&quot; Is Not the Same as &quot;The Correction Reached the People Who Read the Wrong Version&quot;](https://dev.to/goodpa/the-correction-layer-or-we-issued-a-correction-is-not-the-same-as-the-correction-reached-the-24dl)
-- [Point Claude Code at axe-core&#39;s Violations, Not at &#39;Make This Page Accessible&#39;](https://dev.to/gabrielanhaia/point-claude-code-at-axe-cores-violations-not-at-make-this-page-accessible-3e21)
-- [Choosing AI Knowledge Management for Air-Gapped Teams](https://dev.to/tomaszkrystman/choosing-ai-knowledge-management-for-air-gapped-teams-5be7)
+- [Building AI Website Audits with Python: 5 Lessons About Reliability](https://dev.to/ozanorhn/building-ai-website-audits-with-python-5-lessons-about-reliability-35nj)
+- [Parameter Store in Lambda: loading config the right way](https://dev.to/sascha-ms/parameter-store-in-lambda-loading-config-the-right-way-24la)
+- [Stub Priority When Two WireMock Mappings Match the Same Request](https://dev.to/jeff_pdc/stub-priority-when-two-wiremock-mappings-match-the-same-request-4ik9)
+- [ACH Return Code R01: Handling Insufficient Funds in Payout Integrations](https://dev.to/payout_rail/ach-return-code-r01-handling-insufficient-funds-in-payout-integrations-2ig6)
 <!-- BLOG-POST-LIST:END -->
 
 
