@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging in HPC: Understanding How to Find Bugs in Parallel and GPU Applications](https://dev.to/zubairakbar/debugging-in-hpc-understanding-how-to-find-bugs-in-parallel-and-gpu-applications-71)
-- [AI Token Black Market: How Stolen API Keys Are Resold](https://dev.to/f9xrteam/ai-token-black-market-how-stolen-api-keys-are-resold-1109)
-- [Current agentic coding setup](https://dev.to/ruarfff/current-agentic-coding-setup-1872)
-- [Node.js Tracking: Configure Automatic Error Grouping Around Nightly Data Runs](https://dev.to/saxonfletcher2366/nodejs-tracking-configure-automatic-error-grouping-around-nightly-data-runs-2d7b)
+- [WebP and AVIF Image Thumbnail Recovery — Safe File Naming in Object Storage](https://dev.to/sullivanreed1247/webp-and-avif-image-thumbnail-recovery-safe-file-naming-in-object-storage-m1k)
+- [ElevenLabs + React: Building a Voice-Enabled UI](https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-1c8n)
+- [Performance review season: a short about the self-review you can&#39;t remember writing material for, and the weekly note I use now](https://dev.to/productivityforge/performance-review-season-a-short-about-the-self-review-you-cant-remember-writing-material-for-190e)
+- [Storage Service for Setting Up Low-Maintenance App Data Backups &lpar;Lifecycle Rules&rpar;](https://dev.to/yannicksterling6563/storage-service-for-setting-up-low-maintenance-app-data-backups-lifecycle-rules-3lo3)
 <!-- BLOG-POST-LIST:END -->
 
 
