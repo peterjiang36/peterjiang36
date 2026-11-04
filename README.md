@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Website Audits with Python: 5 Lessons About Reliability](https://dev.to/ozanorhn/building-ai-website-audits-with-python-5-lessons-about-reliability-35nj)
-- [Parameter Store in Lambda: loading config the right way](https://dev.to/sascha-ms/parameter-store-in-lambda-loading-config-the-right-way-24la)
-- [Stub Priority When Two WireMock Mappings Match the Same Request](https://dev.to/jeff_pdc/stub-priority-when-two-wiremock-mappings-match-the-same-request-4ik9)
-- [ACH Return Code R01: Handling Insufficient Funds in Payout Integrations](https://dev.to/payout_rail/ach-return-code-r01-handling-insufficient-funds-in-payout-integrations-2ig6)
+- [Debugging in HPC: Understanding How to Find Bugs in Parallel and GPU Applications](https://dev.to/zubairakbar/debugging-in-hpc-understanding-how-to-find-bugs-in-parallel-and-gpu-applications-71)
+- [AI Token Black Market: How Stolen API Keys Are Resold](https://dev.to/f9xrteam/ai-token-black-market-how-stolen-api-keys-are-resold-1109)
+- [Current agentic coding setup](https://dev.to/ruarfff/current-agentic-coding-setup-1872)
+- [Node.js Tracking: Configure Automatic Error Grouping Around Nightly Data Runs](https://dev.to/saxonfletcher2366/nodejs-tracking-configure-automatic-error-grouping-around-nightly-data-runs-2d7b)
 <!-- BLOG-POST-LIST:END -->
 
 
