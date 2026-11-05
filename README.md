@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WebP and AVIF Image Thumbnail Recovery — Safe File Naming in Object Storage](https://dev.to/sullivanreed1247/webp-and-avif-image-thumbnail-recovery-safe-file-naming-in-object-storage-m1k)
-- [ElevenLabs + React: Building a Voice-Enabled UI](https://dev.to/voice_developer/elevenlabs-react-building-a-voice-enabled-ui-1c8n)
-- [Performance review season: a short about the self-review you can&#39;t remember writing material for, and the weekly note I use now](https://dev.to/productivityforge/performance-review-season-a-short-about-the-self-review-you-cant-remember-writing-material-for-190e)
-- [Storage Service for Setting Up Low-Maintenance App Data Backups &lpar;Lifecycle Rules&rpar;](https://dev.to/yannicksterling6563/storage-service-for-setting-up-low-maintenance-app-data-backups-lifecycle-rules-3lo3)
+- [La IA de OpenAI encontró 948 formas de obtener acceso root en Linux: ¿está parcheado tu servidor API?](https://dev.to/roobia/la-ia-de-openai-encontro-948-formas-de-obtener-acceso-root-en-linux-esta-parcheado-tu-servidor-36p8)
+- [OpenAI AI가 발견한 리눅스 루트 권한 탈취 방법 948가지, 당신의 API 서버는 패치되었나요?](https://dev.to/rihpig/openai-aiga-balgyeonhan-rinugseu-ruteu-gweonhan-talcwi-bangbeob-948gaji-dangsinyi-api-seobeoneun-paecidoeeossnayo-ln)
+- [Your operators logged 3 in 10 stops. Your machines caught 7.](https://dev.to/trcollinson/your-operators-logged-3-in-10-stops-your-machines-caught-7-ik2)
+- [A graded English &amp; Japanese ladder you can open and study today](https://dev.to/_d713d35749a9d64072798/a-graded-english-japanese-ladder-you-can-open-and-study-today-5acj)
 <!-- BLOG-POST-LIST:END -->
 
 
