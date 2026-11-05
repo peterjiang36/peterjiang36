@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling Flaky Third-Party APIs from Laravel: Timeouts, Retries and a Circuit Breaker](https://dev.to/developertugrul/calling-flaky-third-party-apis-from-laravel-timeouts-retries-and-a-circuit-breaker-hn)
-- [How I built Grok Mail: a private mail app on Grok Bot&#39;s own inbox](https://dev.to/kondasviktor/how-i-built-grok-mail-a-private-mail-app-on-grok-bots-own-inbox-1cp0)
-- [Containers vs Codecs: Why &quot;Convert to MP4&quot; Can Shrink a File by 77% or Grow It by 79%](https://dev.to/compressvid/containers-vs-codecs-why-convert-to-mp4-can-shrink-a-file-by-77-or-grow-it-by-79-3546)
-- [How police hacked LockBit, the world&#39;s biggest ransomware gang](https://dev.to/kstriabintang/how-police-hacked-lockbit-the-worlds-biggest-ransomware-gang-3gh5)
+- [Teaching a Machine to Say Namárië](https://dev.to/brunopacheco1/teaching-a-machine-to-say-namarie-4bi3)
+- [The Agent Fixed the Flaky Test by Inserting a Sleep](https://dev.to/jeff_pdc/the-agent-fixed-the-flaky-test-by-inserting-a-sleep-4457)
+- [Frost or a Frozen Heat Pump? Writing the Triage as a Small Python Function](https://dev.to/hvacfitter/frost-or-a-frozen-heat-pump-writing-the-triage-as-a-small-python-function-465o)
+- [SaaS: mide el primer valor antes del email](https://dev.to/hannahdev56/saas-mide-el-primer-valor-antes-del-email-409k)
 <!-- BLOG-POST-LIST:END -->
 
 
