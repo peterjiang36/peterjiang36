@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [La IA de OpenAI encontró 948 formas de obtener acceso root en Linux: ¿está parcheado tu servidor API?](https://dev.to/roobia/la-ia-de-openai-encontro-948-formas-de-obtener-acceso-root-en-linux-esta-parcheado-tu-servidor-36p8)
-- [OpenAI AI가 발견한 리눅스 루트 권한 탈취 방법 948가지, 당신의 API 서버는 패치되었나요?](https://dev.to/rihpig/openai-aiga-balgyeonhan-rinugseu-ruteu-gweonhan-talcwi-bangbeob-948gaji-dangsinyi-api-seobeoneun-paecidoeeossnayo-ln)
-- [Your operators logged 3 in 10 stops. Your machines caught 7.](https://dev.to/trcollinson/your-operators-logged-3-in-10-stops-your-machines-caught-7-ik2)
-- [A graded English &amp; Japanese ladder you can open and study today](https://dev.to/_d713d35749a9d64072798/a-graded-english-japanese-ladder-you-can-open-and-study-today-5acj)
+- [Calling Flaky Third-Party APIs from Laravel: Timeouts, Retries and a Circuit Breaker](https://dev.to/developertugrul/calling-flaky-third-party-apis-from-laravel-timeouts-retries-and-a-circuit-breaker-hn)
+- [How I built Grok Mail: a private mail app on Grok Bot&#39;s own inbox](https://dev.to/kondasviktor/how-i-built-grok-mail-a-private-mail-app-on-grok-bots-own-inbox-1cp0)
+- [Containers vs Codecs: Why &quot;Convert to MP4&quot; Can Shrink a File by 77% or Grow It by 79%](https://dev.to/compressvid/containers-vs-codecs-why-convert-to-mp4-can-shrink-a-file-by-77-or-grow-it-by-79-3546)
+- [How police hacked LockBit, the world&#39;s biggest ransomware gang](https://dev.to/kstriabintang/how-police-hacked-lockbit-the-worlds-biggest-ransomware-gang-3gh5)
 <!-- BLOG-POST-LIST:END -->
 
 
