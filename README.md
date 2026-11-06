@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Risks of AI-Generated Code: Research and a Review Checklist](https://dev.to/adilsoukaini/security-risks-of-ai-generated-code-research-and-a-review-checklist-531c)
-- [A Backdoor Sat in the Firmware Partition of 1.3 Million Set-Top Boxes](https://dev.to/neticslabs/a-backdoor-sat-in-the-firmware-partition-of-13-million-set-top-boxes-1i52)
-- [Stop Stale Editors Overwriting Changes with If-Match](https://dev.to/jitsumi/stop-stale-editors-overwriting-changes-with-if-match-5a0l)
-- [In Zagreb, the company that owns the robotaxis chose the aggregator on day one](https://dev.to/kensaadi/in-zagreb-the-company-that-owns-the-robotaxis-chose-the-aggregator-on-day-one-1ni2)
+- [n8n vs Zapier vs Make.com for AI lead qualification](https://dev.to/msajeeb003/n8n-vs-zapier-vs-makecom-for-ai-lead-qualification-cal)
+- [The Real Costs Behind Near-Zero AI Image Generation: One Server, Two Packages, 39 Products](https://dev.to/revanzart/the-real-costs-behind-near-zero-ai-image-generation-one-server-two-packages-39-products-23ab)
+- [Free Tokens Have a Break-Even Failure Rate](https://dev.to/hackrs_3352/free-tokens-have-a-break-even-failure-rate-3m31)
+- [Optimizing Parquet I/O in C11: Enhancing Performance Across ISAs and Compilers Beyond Arrow C++](https://dev.to/kornilovconstru/optimizing-parquet-io-in-c11-enhancing-performance-across-isas-and-compilers-beyond-arrow-c-3ed)
 <!-- BLOG-POST-LIST:END -->
 
 
