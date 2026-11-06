@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching a Machine to Say Namárië](https://dev.to/brunopacheco1/teaching-a-machine-to-say-namarie-4bi3)
-- [The Agent Fixed the Flaky Test by Inserting a Sleep](https://dev.to/jeff_pdc/the-agent-fixed-the-flaky-test-by-inserting-a-sleep-4457)
-- [Frost or a Frozen Heat Pump? Writing the Triage as a Small Python Function](https://dev.to/hvacfitter/frost-or-a-frozen-heat-pump-writing-the-triage-as-a-small-python-function-465o)
-- [SaaS: mide el primer valor antes del email](https://dev.to/hannahdev56/saas-mide-el-primer-valor-antes-del-email-409k)
+- [LangChain chunk_overlap=200: 2,181 of 4,155 Chunks Got No Overlap](https://dev.to/ji_ai/langchain-chunkoverlap200-2181-of-4155-chunks-got-no-overlap-2312)
+- [Testing Electron Apps: A Practical Guide to Unit, Integration, and E2E Coverage](https://dev.to/mp3sss31/testing-electron-apps-a-practical-guide-to-unit-integration-and-e2e-coverage-4ei9)
+- [Is ElevenLabs Creator Worth $22/mo? Credit Math, Cloning and When to Stay on Starter](https://dev.to/jadenvo259/is-elevenlabs-creator-worth-22mo-credit-math-cloning-and-when-to-stay-on-starter-1imm)
+- [Read, return, forget: processing passport scans without storing the image](https://dev.to/doc_cheap/read-return-forget-processing-passport-scans-without-storing-the-image-4nkk)
 <!-- BLOG-POST-LIST:END -->
 
 
