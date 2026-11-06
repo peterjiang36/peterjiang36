@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n vs Zapier vs Make.com for AI lead qualification](https://dev.to/msajeeb003/n8n-vs-zapier-vs-makecom-for-ai-lead-qualification-cal)
-- [The Real Costs Behind Near-Zero AI Image Generation: One Server, Two Packages, 39 Products](https://dev.to/revanzart/the-real-costs-behind-near-zero-ai-image-generation-one-server-two-packages-39-products-23ab)
-- [Free Tokens Have a Break-Even Failure Rate](https://dev.to/hackrs_3352/free-tokens-have-a-break-even-failure-rate-3m31)
-- [Optimizing Parquet I/O in C11: Enhancing Performance Across ISAs and Compilers Beyond Arrow C++](https://dev.to/kornilovconstru/optimizing-parquet-io-in-c11-enhancing-performance-across-isas-and-compilers-beyond-arrow-c-3ed)
+- [SRT is not WebVTT: shipping a subtitle converter in a 1.17 MB player](https://dev.to/hammiwor/srt-is-not-webvtt-shipping-a-subtitle-converter-in-a-117-mb-player-475)
+- [Tidal Loom: let your breathing draw a ribbon of ink](https://dev.to/lukasz_snopkiewicz_0d1bab/tidal-loom-let-your-breathing-draw-a-ribbon-of-ink-1l7d)
+- [FreshRSS API passwords create a second access path](https://dev.to/andreagomez/freshrss-api-passwords-create-a-second-access-path-2i9j)
+- [osFoundry का Agent team क्या करता है, और कब एक ही agent काफ़ी है?](https://dev.to/tauchi-hi/osfoundry-kaa-agent-team-kyaa-krtaa-hai-aur-kb-ek-hii-agent-kaaphii-hai-26nj)
 <!-- BLOG-POST-LIST:END -->
 
 
