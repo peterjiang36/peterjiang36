@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain chunk_overlap=200: 2,181 of 4,155 Chunks Got No Overlap](https://dev.to/ji_ai/langchain-chunkoverlap200-2181-of-4155-chunks-got-no-overlap-2312)
-- [Testing Electron Apps: A Practical Guide to Unit, Integration, and E2E Coverage](https://dev.to/mp3sss31/testing-electron-apps-a-practical-guide-to-unit-integration-and-e2e-coverage-4ei9)
-- [Is ElevenLabs Creator Worth $22/mo? Credit Math, Cloning and When to Stay on Starter](https://dev.to/jadenvo259/is-elevenlabs-creator-worth-22mo-credit-math-cloning-and-when-to-stay-on-starter-1imm)
-- [Read, return, forget: processing passport scans without storing the image](https://dev.to/doc_cheap/read-return-forget-processing-passport-scans-without-storing-the-image-4nkk)
+- [Security Risks of AI-Generated Code: Research and a Review Checklist](https://dev.to/adilsoukaini/security-risks-of-ai-generated-code-research-and-a-review-checklist-531c)
+- [A Backdoor Sat in the Firmware Partition of 1.3 Million Set-Top Boxes](https://dev.to/neticslabs/a-backdoor-sat-in-the-firmware-partition-of-13-million-set-top-boxes-1i52)
+- [Stop Stale Editors Overwriting Changes with If-Match](https://dev.to/jitsumi/stop-stale-editors-overwriting-changes-with-if-match-5a0l)
+- [In Zagreb, the company that owns the robotaxis chose the aggregator on day one](https://dev.to/kensaadi/in-zagreb-the-company-that-owns-the-robotaxis-chose-the-aggregator-on-day-one-1ni2)
 <!-- BLOG-POST-LIST:END -->
 
 
