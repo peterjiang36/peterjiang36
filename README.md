@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SRT is not WebVTT: shipping a subtitle converter in a 1.17 MB player](https://dev.to/hammiwor/srt-is-not-webvtt-shipping-a-subtitle-converter-in-a-117-mb-player-475)
-- [Tidal Loom: let your breathing draw a ribbon of ink](https://dev.to/lukasz_snopkiewicz_0d1bab/tidal-loom-let-your-breathing-draw-a-ribbon-of-ink-1l7d)
-- [FreshRSS API passwords create a second access path](https://dev.to/andreagomez/freshrss-api-passwords-create-a-second-access-path-2i9j)
-- [osFoundry का Agent team क्या करता है, और कब एक ही agent काफ़ी है?](https://dev.to/tauchi-hi/osfoundry-kaa-agent-team-kyaa-krtaa-hai-aur-kb-ek-hii-agent-kaaphii-hai-26nj)
+- [Create Multilingual Voice Content with ElevenLabs](https://dev.to/voice_developer/create-multilingual-voice-content-with-elevenlabs-5670)
+- [Scheduling retries in a publishing pipeline #sjke6](https://dev.to/devnote2319/scheduling-retries-in-a-publishing-pipeline-sjke6-2iip)
+- [Deploy a Voice Cloning Demo App: From Code to Live Website](https://dev.to/voice_developer/deploy-a-voice-cloning-demo-app-from-code-to-live-website-53gc)
+- [The Developer Guide to Shopify Tracking: App Embeds vs Theme Hacks](https://dev.to/sellermind/the-developer-guide-to-shopify-tracking-app-embeds-vs-theme-hacks-26lh)
 <!-- BLOG-POST-LIST:END -->
 
 
