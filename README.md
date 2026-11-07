@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Snakes and Ladders as a Markov chain: 39.23 throws, computed and simulated](https://dev.to/board_it_b11ff7d58bf863f8/snakes-and-ladders-as-a-markov-chain-3923-throws-computed-and-simulated-k5h)
-- [&quot;I&#39;ll just&quot;: a field guide to nerds and geeks](https://dev.to/digitaldias/ill-just-a-field-guide-to-nerds-and-geeks-3m2b)
-- [Sidero Omni shows why zero-result scans need an evidence record](https://dev.to/jeffreyciend/sidero-omni-shows-why-zero-result-scans-need-an-evidence-record-4cld)
-- [License Checks at App Startup: Open the Window First, Verify in the Background](https://dev.to/permitcore/license-checks-at-app-startup-open-the-window-first-verify-in-the-background-39kl)
+- [A zero is not a measurement until you have run the positive control](https://dev.to/earbona23/a-zero-is-not-a-measurement-until-you-have-run-the-positive-control-5fca)
+- [How a Browser Trains a Neural Network: Tensors as Textures, Ops as Shaders](https://dev.to/ai-spinachlab/how-a-browser-trains-a-neural-network-tensors-as-textures-ops-as-shaders-3lje)
+- [The Smallest Safe Refactor Is Two Commits: Seam First, Move Second](https://dev.to/hackrs_6393/the-smallest-safe-refactor-is-two-commits-seam-first-move-second-k27)
+- [How We Built FinSentry: Autonomous Multi-Agent Cloud Cost Optimization in Discord](https://dev.to/vedant_sonawane_7658d89d4/how-we-built-finsentry-autonomous-multi-agent-cloud-cost-optimization-in-discord-3g9c)
 <!-- BLOG-POST-LIST:END -->
 
 
