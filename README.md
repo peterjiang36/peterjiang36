@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Multilingual Voice Content with ElevenLabs](https://dev.to/voice_developer/create-multilingual-voice-content-with-elevenlabs-5670)
-- [Scheduling retries in a publishing pipeline #sjke6](https://dev.to/devnote2319/scheduling-retries-in-a-publishing-pipeline-sjke6-2iip)
-- [Deploy a Voice Cloning Demo App: From Code to Live Website](https://dev.to/voice_developer/deploy-a-voice-cloning-demo-app-from-code-to-live-website-53gc)
-- [The Developer Guide to Shopify Tracking: App Embeds vs Theme Hacks](https://dev.to/sellermind/the-developer-guide-to-shopify-tracking-app-embeds-vs-theme-hacks-26lh)
+- [Snakes and Ladders as a Markov chain: 39.23 throws, computed and simulated](https://dev.to/board_it_b11ff7d58bf863f8/snakes-and-ladders-as-a-markov-chain-3923-throws-computed-and-simulated-k5h)
+- [&quot;I&#39;ll just&quot;: a field guide to nerds and geeks](https://dev.to/digitaldias/ill-just-a-field-guide-to-nerds-and-geeks-3m2b)
+- [Sidero Omni shows why zero-result scans need an evidence record](https://dev.to/jeffreyciend/sidero-omni-shows-why-zero-result-scans-need-an-evidence-record-4cld)
+- [License Checks at App Startup: Open the Window First, Verify in the Background](https://dev.to/permitcore/license-checks-at-app-startup-open-the-window-first-verify-in-the-background-39kl)
 <!-- BLOG-POST-LIST:END -->
 
 
