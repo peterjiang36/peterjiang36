@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter for Beginners: Build Beautiful Apps for Every Screen From One Codebase](https://dev.to/arhan_khan/flutter-for-beginners-build-beautiful-apps-for-every-screen-from-one-codebase-47c6)
-- [4 Mistakes That Make Beginners Quit Coding &lpar;and How to Fix Each One&rpar;](https://dev.to/sadique010/4-mistakes-that-make-beginners-quit-coding-and-how-to-fix-each-one-1kek)
-- [Getting Started with Hermes Agent: Memory, Skills and What It Actually Costs](https://dev.to/paulexe/getting-started-with-hermes-agent-memory-skills-and-what-it-actually-costs-opb)
-- [Building an AI Video App: More Context Doesn&#39;t Always Mean More Changes](https://dev.to/rickzhang/building-an-ai-video-app-more-context-doesnt-always-mean-more-changes-3ojk)
+- [The Traveling Salesman Problem: From 19th Century Puzzles to Genetic Algorithms](https://dev.to/joor0x/the-traveling-salesman-problem-from-19th-century-puzzles-to-genetic-algorithms-588f)
+- [Resume, Don&#39;t Restart: Overnight Batch Jobs on a Free Tier](https://dev.to/devgo_5325/resume-dont-restart-overnight-batch-jobs-on-a-free-tier-2cmg)
+- [The Half-Sentence Workshop: Making Streamed Model Output Safe to Stop](https://dev.to/applab_8831/the-half-sentence-workshop-making-streamed-model-output-safe-to-stop-1l25)
+- [Private Document Downloads: Signed URLs, Egress Cost, and Provider Trade-offs](https://dev.to/bramwellvance7953/private-document-downloads-signed-urls-egress-cost-and-provider-trade-offs-110)
 <!-- BLOG-POST-LIST:END -->
 
 
