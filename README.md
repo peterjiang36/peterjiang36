@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What an offline evidence finder guarantees about a quote](https://dev.to/widechaos/what-an-offline-evidence-finder-guarantees-about-a-quote-4i1j)
-- [Building a Manual Activity API with FastAPI, Pydantic, and SQLAlchemy](https://dev.to/iron_man_a45eb48b7f7b754e/building-a-manual-activity-api-with-fastapi-pydantic-and-sqlalchemy-1j19)
-- [Tracking Optuna Experiments with JournalStorage and Optuna Dashboard](https://dev.to/nha6ki/tracking-optuna-experiments-with-journalstorage-and-optuna-dashboard-3b7b)
-- [Weekly Challenge: A different average](https://dev.to/simongreennet/weekly-challenge-a-different-average-33nm)
+- [Flutter for Beginners: Build Beautiful Apps for Every Screen From One Codebase](https://dev.to/arhan_khan/flutter-for-beginners-build-beautiful-apps-for-every-screen-from-one-codebase-47c6)
+- [4 Mistakes That Make Beginners Quit Coding &lpar;and How to Fix Each One&rpar;](https://dev.to/sadique010/4-mistakes-that-make-beginners-quit-coding-and-how-to-fix-each-one-1kek)
+- [Getting Started with Hermes Agent: Memory, Skills and What It Actually Costs](https://dev.to/paulexe/getting-started-with-hermes-agent-memory-skills-and-what-it-actually-costs-opb)
+- [Building an AI Video App: More Context Doesn&#39;t Always Mean More Changes](https://dev.to/rickzhang/building-an-ai-video-app-more-context-doesnt-always-mean-more-changes-3ojk)
 <!-- BLOG-POST-LIST:END -->
 
 
