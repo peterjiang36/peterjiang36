@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [在同一份 Note 裡，osFoundry 如何避免 Claude 的編輯蓋掉別人的編輯？](https://dev.to/bbt-zh/zai-tong-fen-note-li-osfoundry-ru-he-bi-mian-claude-de-bian-ji-gai-diao-bie-ren-de-bian-ji--19cg)
-- [Drupal&#39;s 19/25 Rating and CVE-2026-108099: Reconciling Module Risk With CVSS 8.1](https://dev.to/kozhevniko/drupals-1925-rating-and-cve-2026-108099-reconciling-module-risk-with-cvss-81-1ll6)
-- [Meta Quest 2·Pro &#39;기능 개발 종료&#39;가 오히려 기회인 이유: 개발자이자 약시 경험자가 본 하드웨어 수명 연장 전략](https://dev.to/ashish_624379625242c5d263/meta-quest-2pro-gineung-gaebal-jongryoga-ohiryeo-gihoein-iyu-gaebaljaija-yagsi-gyeongheomjaga-bon-hadeuweeo-sumyeong-yeonjang-jeonryag-4b0h)
-- [I Spent 8 PRs Fixing My AI Fact-Checker. Then I Deleted All 12,852 Lines.](https://dev.to/roylevy/i-spent-8-prs-fixing-my-ai-fact-checker-then-i-deleted-all-12852-lines-a1a)
+- [Lean Back Viewing vs OpenRTB Fields: What RMT Macro Labels Reduce](https://dev.to/aleksuix/lean-back-viewing-vs-openrtb-fields-what-rmt-macro-labels-reduce-579b)
+- [The ONVIF Media2 trap: GetConfiguration is a type, not an element](https://dev.to/anguoyang/the-onvif-media2-trap-getconfiguration-is-a-type-not-an-element-2db2)
+- [Come far leggere a Codex CLI le note e le knowledge base di osFoundry tramite MCP](https://dev.to/bbt-it/come-far-leggere-a-codex-cli-le-note-e-le-knowledge-base-di-osfoundry-tramite-mcp-1o26)
+- [Your ping is fine — your jitter isn&#39;t. The number that ruins your aim](https://dev.to/easy28/your-ping-is-fine-your-jitter-isnt-the-number-that-ruins-your-aim-1ai8)
 <!-- BLOG-POST-LIST:END -->
 
 
