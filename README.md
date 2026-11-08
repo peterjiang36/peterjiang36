@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Lean Back Viewing vs OpenRTB Fields: What RMT Macro Labels Reduce](https://dev.to/aleksuix/lean-back-viewing-vs-openrtb-fields-what-rmt-macro-labels-reduce-579b)
-- [The ONVIF Media2 trap: GetConfiguration is a type, not an element](https://dev.to/anguoyang/the-onvif-media2-trap-getconfiguration-is-a-type-not-an-element-2db2)
-- [Come far leggere a Codex CLI le note e le knowledge base di osFoundry tramite MCP](https://dev.to/bbt-it/come-far-leggere-a-codex-cli-le-note-e-le-knowledge-base-di-osfoundry-tramite-mcp-1o26)
-- [Your ping is fine — your jitter isn&#39;t. The number that ruins your aim](https://dev.to/easy28/your-ping-is-fine-your-jitter-isnt-the-number-that-ruins-your-aim-1ai8)
+- [What an offline evidence finder guarantees about a quote](https://dev.to/widechaos/what-an-offline-evidence-finder-guarantees-about-a-quote-4i1j)
+- [Building a Manual Activity API with FastAPI, Pydantic, and SQLAlchemy](https://dev.to/iron_man_a45eb48b7f7b754e/building-a-manual-activity-api-with-fastapi-pydantic-and-sqlalchemy-1j19)
+- [Tracking Optuna Experiments with JournalStorage and Optuna Dashboard](https://dev.to/nha6ki/tracking-optuna-experiments-with-journalstorage-and-optuna-dashboard-3b7b)
+- [Weekly Challenge: A different average](https://dev.to/simongreennet/weekly-challenge-a-different-average-33nm)
 <!-- BLOG-POST-LIST:END -->
 
 
