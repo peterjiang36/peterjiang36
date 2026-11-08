@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Traveling Salesman Problem: From 19th Century Puzzles to Genetic Algorithms](https://dev.to/joor0x/the-traveling-salesman-problem-from-19th-century-puzzles-to-genetic-algorithms-588f)
-- [Resume, Don&#39;t Restart: Overnight Batch Jobs on a Free Tier](https://dev.to/devgo_5325/resume-dont-restart-overnight-batch-jobs-on-a-free-tier-2cmg)
-- [The Half-Sentence Workshop: Making Streamed Model Output Safe to Stop](https://dev.to/applab_8831/the-half-sentence-workshop-making-streamed-model-output-safe-to-stop-1l25)
-- [Private Document Downloads: Signed URLs, Egress Cost, and Provider Trade-offs](https://dev.to/bramwellvance7953/private-document-downloads-signed-urls-egress-cost-and-provider-trade-offs-110)
+- [CI Email Tests Need a Failure Ledger](https://dev.to/mrdapperx/ci-email-tests-need-a-failure-ledger-52m3)
+- [Gitea Actions runner registration is a CI trust decision](https://dev.to/ioneyrezende/gitea-actions-runner-registration-is-a-ci-trust-decision-4g6k)
+- [Perché Claude riceve un ticket di coda invece di un risultato quando avvia un Graph di osFoundry?](https://dev.to/bbt-it/perche-claude-riceve-un-ticket-di-coda-invece-di-un-risultato-quando-avvia-un-graph-di-osfoundry-2l6c)
+- [Show DEV: a single-file WCAG contrast checker, generated in one shot and verified by execution](https://dev.to/mercerk17/show-dev-a-single-file-wcag-contrast-checker-generated-in-one-shot-and-verified-by-execution-3147)
 <!-- BLOG-POST-LIST:END -->
 
 
