@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CI Email Tests Need a Failure Ledger](https://dev.to/mrdapperx/ci-email-tests-need-a-failure-ledger-52m3)
-- [Gitea Actions runner registration is a CI trust decision](https://dev.to/ioneyrezende/gitea-actions-runner-registration-is-a-ci-trust-decision-4g6k)
-- [Perché Claude riceve un ticket di coda invece di un risultato quando avvia un Graph di osFoundry?](https://dev.to/bbt-it/perche-claude-riceve-un-ticket-di-coda-invece-di-un-risultato-quando-avvia-un-graph-di-osfoundry-2l6c)
-- [Show DEV: a single-file WCAG contrast checker, generated in one shot and verified by execution](https://dev.to/mercerk17/show-dev-a-single-file-wcag-contrast-checker-generated-in-one-shot-and-verified-by-execution-3147)
+- [WordPress.org vs WordPress.com: What Is the Difference?](https://dev.to/kushkrg/wordpressorg-vs-wordpresscom-what-is-the-difference-4gbd)
+- [AMR Mechanical and Electrical Engineering — Ch.09: Contents {#contents .TOC-Heading} [EN]](https://dev.to/richard_minsoogo/amr-mechanical-and-electrical-engineering-ch09-contents-contents-toc-heading-en-57f4)
+- [AMR Mechanical and Electrical Engineering — Ch.08: Contents {#contents .TOC-Heading} [EN]](https://dev.to/richard_minsoogo/amr-mechanical-and-electrical-engineering-ch08-contents-contents-toc-heading-en-25di)
+- [Building a personalised Santa video call web app as a solo dad](https://dev.to/santaplaytime/building-a-personalised-santa-video-call-web-app-as-a-solo-dad-1cnj)
 <!-- BLOG-POST-LIST:END -->
 
 
