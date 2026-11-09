@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress.org vs WordPress.com: What Is the Difference?](https://dev.to/kushkrg/wordpressorg-vs-wordpresscom-what-is-the-difference-4gbd)
-- [AMR Mechanical and Electrical Engineering — Ch.09: Contents {#contents .TOC-Heading} [EN]](https://dev.to/richard_minsoogo/amr-mechanical-and-electrical-engineering-ch09-contents-contents-toc-heading-en-57f4)
-- [AMR Mechanical and Electrical Engineering — Ch.08: Contents {#contents .TOC-Heading} [EN]](https://dev.to/richard_minsoogo/amr-mechanical-and-electrical-engineering-ch08-contents-contents-toc-heading-en-25di)
-- [Building a personalised Santa video call web app as a solo dad](https://dev.to/santaplaytime/building-a-personalised-santa-video-call-web-app-as-a-solo-dad-1cnj)
+- [Your Prompt Is Not Your Request: A Parity FAQ for Model Calls](https://dev.to/gitlab_3188/your-prompt-is-not-your-request-a-parity-faq-for-model-calls-5aej)
+- [How to Check a Customer&#39;s Plan on Every Request Without Slowing It Down](https://dev.to/sholajegede/how-to-check-a-customers-plan-on-every-request-without-slowing-it-down-3cnj)
+- [Stop Writing Software. Start Building Software Factories](https://dev.to/martinpersson/stop-writing-software-start-building-software-factories-3jfn)
+- [Python Assignment vs Shallow Copy vs Deep Copy &lpar;copy vs deepcopy&rpar;: Differences, Nested Lists and When to Use Each &lpar;Tested Examples&rpar;](https://dev.to/mfaysaldev/python-assignment-vs-shallow-copy-vs-deep-copy-copy-vs-deepcopy-differences-nested-lists-and-11hm)
 <!-- BLOG-POST-LIST:END -->
 
 
