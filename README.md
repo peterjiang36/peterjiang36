@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Screen recordings get fat at capture time: 50,002 bytes per still frame at constant bitrate, 77 after re-encoding](https://dev.to/pm_cheng_3f36acecfb9c59f5/screen-recordings-get-fat-at-capture-time-50002-bytes-per-still-frame-at-constant-bitrate-77-4666)
-- [Migrate Playbooks to ansible-core 2.22 Without Breaking Collections](https://dev.to/oleksandr_kuryzhev_42873f/migrate-playbooks-to-ansible-core-222-without-breaking-collections-36pj)
-- [Hi.Events: 258 title matches and an account-scoped API](https://dev.to/onaeiuspkz/hievents-258-title-matches-and-an-account-scoped-api-e6p)
-- [What role does context window have and how do you manage it given XYZ constraints?](https://dev.to/technaom/what-role-does-context-window-have-and-how-do-you-manage-it-given-xyz-constraints-1f4l)
+- [UUIDv4 Is Not Free: Why Random Primary Keys Are Silently Crushing Your Write Performance](https://dev.to/johnnylemonny/uuidv4-is-not-free-why-random-primary-keys-are-silently-crushing-your-write-performance-2ea8)
+- [Logo File Formats for Print and Web: What to Ask For](https://dev.to/jaybarker/logo-file-formats-for-print-and-web-what-to-ask-for-4g5a)
+- [WooCommerce SEO: The Complete Guide for 2026](https://dev.to/rankvelt/woocommerce-seo-the-complete-guide-for-2026-9c)
+- [Reddit Is Convinced I&#39;m a Robot. My Karma Is 1.](https://dev.to/aheadkit/reddit-is-convinced-im-a-robot-my-karma-is-1-4m7i)
 <!-- BLOG-POST-LIST:END -->
 
 
