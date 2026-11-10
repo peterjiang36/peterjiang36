@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Gave Kubernetes Pods Their Own VM. What Can the Worker Still Write?](https://dev.to/keith_azodeh/aws-gave-kubernetes-pods-their-own-vm-what-can-the-worker-still-write-ia2)
-- [Failover on a hard decline just gets you declined twice](https://dev.to/payneteasy/failover-on-a-hard-decline-just-gets-you-declined-twice-1hn)
-- [Your First In-App Purchase Has to Ride With an App Version in App Store Connect](https://dev.to/hexisteme/your-first-in-app-purchase-has-to-ride-with-an-app-version-in-app-store-connect-44fe)
-- [Running Claude Code and Codex on Windows: 7 things that break, and the fixes I use](https://dev.to/soluterminal/running-claude-code-and-codex-on-windows-7-things-that-break-and-the-fixes-i-use-5hjn)
+- [Screen recordings get fat at capture time: 50,002 bytes per still frame at constant bitrate, 77 after re-encoding](https://dev.to/pm_cheng_3f36acecfb9c59f5/screen-recordings-get-fat-at-capture-time-50002-bytes-per-still-frame-at-constant-bitrate-77-4666)
+- [Migrate Playbooks to ansible-core 2.22 Without Breaking Collections](https://dev.to/oleksandr_kuryzhev_42873f/migrate-playbooks-to-ansible-core-222-without-breaking-collections-36pj)
+- [Hi.Events: 258 title matches and an account-scoped API](https://dev.to/onaeiuspkz/hievents-258-title-matches-and-an-account-scoped-api-e6p)
+- [What role does context window have and how do you manage it given XYZ constraints?](https://dev.to/technaom/what-role-does-context-window-have-and-how-do-you-manage-it-given-xyz-constraints-1f4l)
 <!-- BLOG-POST-LIST:END -->
 
 
