@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Prompt Is Not Your Request: A Parity FAQ for Model Calls](https://dev.to/gitlab_3188/your-prompt-is-not-your-request-a-parity-faq-for-model-calls-5aej)
-- [How to Check a Customer&#39;s Plan on Every Request Without Slowing It Down](https://dev.to/sholajegede/how-to-check-a-customers-plan-on-every-request-without-slowing-it-down-3cnj)
-- [Stop Writing Software. Start Building Software Factories](https://dev.to/martinpersson/stop-writing-software-start-building-software-factories-3jfn)
-- [Python Assignment vs Shallow Copy vs Deep Copy &lpar;copy vs deepcopy&rpar;: Differences, Nested Lists and When to Use Each &lpar;Tested Examples&rpar;](https://dev.to/mfaysaldev/python-assignment-vs-shallow-copy-vs-deep-copy-copy-vs-deepcopy-differences-nested-lists-and-11hm)
+- [AWS Gave Kubernetes Pods Their Own VM. What Can the Worker Still Write?](https://dev.to/keith_azodeh/aws-gave-kubernetes-pods-their-own-vm-what-can-the-worker-still-write-ia2)
+- [Failover on a hard decline just gets you declined twice](https://dev.to/payneteasy/failover-on-a-hard-decline-just-gets-you-declined-twice-1hn)
+- [Your First In-App Purchase Has to Ride With an App Version in App Store Connect](https://dev.to/hexisteme/your-first-in-app-purchase-has-to-ride-with-an-app-version-in-app-store-connect-44fe)
+- [Running Claude Code and Codex on Windows: 7 things that break, and the fixes I use](https://dev.to/soluterminal/running-claude-code-and-codex-on-windows-7-things-that-break-and-the-fixes-i-use-5hjn)
 <!-- BLOG-POST-LIST:END -->
 
 
