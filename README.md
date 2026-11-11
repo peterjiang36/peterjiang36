@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2 Hours After Midnight Are Doing All the Work](https://dev.to/aheadkit/the-2-hours-after-midnight-are-doing-all-the-work-6oj)
-- [Why create-next-app Isn&#39;t Enough: Scaffolding by Product Type, Not Stack](https://dev.to/theyclonedbjorn/why-create-next-app-isnt-enough-scaffolding-by-product-type-not-stack-18mi)
-- [Why I moved a TV app&#39;s source contract into JavaScript plugins on QuickJS](https://dev.to/yonto/why-i-moved-a-tv-apps-source-contract-into-javascript-plugins-on-quickjs-31g9)
-- [Guardrail para advocacia](https://dev.to/beanstechbr/guardrail-para-advocacia-2m7i)
+- [Generate a GraphQL API from Postgres with Row-Level Security: Self-Host Constructive on Control Plane](https://dev.to/noahcontrolplane/generate-a-graphql-api-from-postgres-with-row-level-security-self-host-constructive-on-control-1dje)
+- [Why a JPEG can report two different DPI values](https://dev.to/fixdpi/why-a-jpeg-can-report-two-different-dpi-values-3f2a)
+- [How to Build a Voice AI Pipeline from Scratch](https://dev.to/voice_developer/how-to-build-a-voice-ai-pipeline-from-scratch-3f30)
+- [Google&#39;s Custom Search JSON API ends on January 1, 2027. 16 open-source AI apps with 649,530 stars still call it.](https://dev.to/specstream/googles-custom-search-json-api-ends-on-january-1-2027-16-open-source-ai-apps-with-649530-stars-49p5)
 <!-- BLOG-POST-LIST:END -->
 
 
