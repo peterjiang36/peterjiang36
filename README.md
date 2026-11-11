@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate a GraphQL API from Postgres with Row-Level Security: Self-Host Constructive on Control Plane](https://dev.to/noahcontrolplane/generate-a-graphql-api-from-postgres-with-row-level-security-self-host-constructive-on-control-1dje)
-- [Why a JPEG can report two different DPI values](https://dev.to/fixdpi/why-a-jpeg-can-report-two-different-dpi-values-3f2a)
-- [How to Build a Voice AI Pipeline from Scratch](https://dev.to/voice_developer/how-to-build-a-voice-ai-pipeline-from-scratch-3f30)
-- [Google&#39;s Custom Search JSON API ends on January 1, 2027. 16 open-source AI apps with 649,530 stars still call it.](https://dev.to/specstream/googles-custom-search-json-api-ends-on-january-1-2027-16-open-source-ai-apps-with-649530-stars-49p5)
+- [Railway&#39;s Breach Cost $740,000 in Fraudulent AI Charges — and Up to 100,000 Workspaces May Have Leaked Secrets](https://dev.to/paullovelace/railways-breach-cost-740000-in-fraudulent-ai-charges-and-up-to-100000-workspaces-may-have-5784)
+- [Is This IP a Proxy? Reading the proxy Signal Without Blanket Blocks](https://dev.to/ip99/is-this-ip-a-proxy-reading-the-proxy-signal-without-blanket-blocks-1jfj)
+- [Claude Code and I Reverse-Engineered a USB-C Meter. I Mostly Plugged In Cables](https://dev.to/nesquikm/claude-code-and-i-reverse-engineered-a-usb-c-meter-i-mostly-plugged-in-cables-31o6)
+- [The Extended Mind in Production: Why Infrastructure Downtime is Cognitive Amputation](https://dev.to/dmitrii_efremov_7c5af18c7/the-extended-mind-in-production-why-infrastructure-downtime-is-cognitive-amputation-2cpj)
 <!-- BLOG-POST-LIST:END -->
 
 
