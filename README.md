@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [When a server cuts a field at N characters, which characters?](https://dev.to/markedet/when-a-server-cuts-a-field-at-n-characters-which-characters-nng)
-- [SearchValues&lt;T&gt; in .NET 8/9 &lpar;.NET &amp; C#&rpar;](https://dev.to/maayurdahake/searchvalues-in-net-89-net-c-5bap)
-- [Automating Everyday Operations: Practical Python Solutions for Small Businesses](https://dev.to/sergio_gmez_9533652d3b3c/automating-everyday-operations-practical-python-solutions-for-small-businesses-4cia)
-- [Volatility Under Threat: When AI Coding Agents Ignore Software Architecture](https://dev.to/rumen_stoev_7ae5982e03fb3/volatility-under-threat-when-ai-coding-agents-ignore-software-architecture-5c6p)
+- [Free LLM APIs for coding assistants](https://dev.to/shiva_prasad_cc614c6ee026/free-llm-apis-for-coding-assistants-11me)
+- [An AI Security Audit Found 31 Holes in My App. I Fixed Them in a Day.](https://dev.to/elliot_brenya/an-ai-security-audit-found-31-holes-in-my-app-i-fixed-them-in-a-day-1717)
+- [The Intruder in the Palm of Your Hand](https://dev.to/nabbisen/the-intruder-in-the-palm-of-your-hand-465c)
+- [Why I Built a 100% Ad-Free, 3-Second Daily Expense Tracker PWA &lpar;React + Firebase + GitHub Actions&rpar; published: true](https://dev.to/zunaro_labs_601543d953eff/why-i-built-a-100-ad-free-3-second-daily-expense-tracker-pwa-react-firebase-github-actions-1a81)
 <!-- BLOG-POST-LIST:END -->
 
 
