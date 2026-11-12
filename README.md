@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonraker trusts local clients by default, and that boundary can travel](https://dev.to/ioneyrezende/moonraker-trusts-local-clients-by-default-and-that-boundary-can-travel-3djo)
-- [TIL: Three Cleanup Checks Before Reinstalling GBase Database](https://dev.to/mmllllzcn/til-three-cleanup-checks-before-reinstalling-gbase-database-3hjc)
-- [How many dice rolls until a result repeats? The birthday problem on a 9,999-result engine](https://dev.to/betkyo/how-many-dice-rolls-until-a-result-repeats-the-birthday-problem-on-a-9999-result-engine-2p6c)
-- [TIL: Troubleshoot GBase Database by Change Cost](https://dev.to/mmllllzcn/til-troubleshoot-gbase-database-by-change-cost-1fai)
+- [When a server cuts a field at N characters, which characters?](https://dev.to/markedet/when-a-server-cuts-a-field-at-n-characters-which-characters-nng)
+- [SearchValues&lt;T&gt; in .NET 8/9 &lpar;.NET &amp; C#&rpar;](https://dev.to/maayurdahake/searchvalues-in-net-89-net-c-5bap)
+- [Automating Everyday Operations: Practical Python Solutions for Small Businesses](https://dev.to/sergio_gmez_9533652d3b3c/automating-everyday-operations-practical-python-solutions-for-small-businesses-4cia)
+- [Volatility Under Threat: When AI Coding Agents Ignore Software Architecture](https://dev.to/rumen_stoev_7ae5982e03fb3/volatility-under-threat-when-ai-coding-agents-ignore-software-architecture-5c6p)
 <!-- BLOG-POST-LIST:END -->
 
 
