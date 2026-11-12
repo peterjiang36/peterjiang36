@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Same Thread, Different Moment: What Dispatchers.Main.immediate Really Changes](https://dev.to/sivavishnu_r_1ee8971ed42d/same-thread-different-moment-what-dispatchersmainimmediate-really-changes-40jm)
-- [VS Code Copilot Cloud Automations: Daily App Store Review Triage](https://dev.to/everyinfrahq/vs-code-copilot-cloud-automations-daily-app-store-review-triage-532k)
-- [How I keep HEX, RGB, HSL, and WCAG contrast straight &lpar;and the free toolkit I built for it&rpar;](https://dev.to/xiangqian_yao_0f2a6a9842a/how-i-keep-hex-rgb-hsl-and-wcag-contrast-straight-and-the-free-toolkit-i-built-for-it-3oah)
-- [Tencent Hy4 function calling with live Weibo, Bilibili and Douyin data: schemas, types and tokens](https://dev.to/everyinfrahq/tencent-hy4-function-calling-with-live-weibo-bilibili-and-douyin-data-schemas-types-and-tokens-31a0)
+- [Moonraker trusts local clients by default, and that boundary can travel](https://dev.to/ioneyrezende/moonraker-trusts-local-clients-by-default-and-that-boundary-can-travel-3djo)
+- [TIL: Three Cleanup Checks Before Reinstalling GBase Database](https://dev.to/mmllllzcn/til-three-cleanup-checks-before-reinstalling-gbase-database-3hjc)
+- [How many dice rolls until a result repeats? The birthday problem on a 9,999-result engine](https://dev.to/betkyo/how-many-dice-rolls-until-a-result-repeats-the-birthday-problem-on-a-9999-result-engine-2p6c)
+- [TIL: Troubleshoot GBase Database by Change Cost](https://dev.to/mmllllzcn/til-troubleshoot-gbase-database-by-change-cost-1fai)
 <!-- BLOG-POST-LIST:END -->
 
 
