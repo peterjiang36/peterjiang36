@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading a SQLite Database With the macOS CLI Left an Empty WAL File and Tripped My Freshness Alarm](https://dev.to/hexisteme/reading-a-sqlite-database-with-the-macos-cli-left-an-empty-wal-file-and-tripped-my-freshness-alarm-mpi)
-- [I read the system prompts of the most-viewed n8n AI agents. Most never say what to do when they don&#39;t know.](https://dev.to/druveai/i-read-the-system-prompts-of-the-most-viewed-n8n-ai-agents-most-never-say-what-to-do-when-they-26lg)
-- [Standup Anxiety: Why Sprint Planning Makes Developers Panic — CBT Reframes That Help](https://dev.to/473185670/standup-anxiety-why-sprint-planning-makes-developers-panic-cbt-reframes-that-help-lnl)
-- [Standup Anxiety: Why Sprint Planning Makes Developers Panic](https://dev.to/473185670/standup-anxiety-why-sprint-planning-makes-developers-panic-1ema)
+- [ImageMagick Is a Processing Dependency, Not a Reliable Internet Fingerprint](https://dev.to/kozhevniko/imagemagick-is-a-processing-dependency-not-a-reliable-internet-fingerprint-1e3)
+- [Let users retry the same photo in a JavaScript file picker](https://dev.to/morphio/let-users-retry-the-same-photo-in-a-javascript-file-picker-3386)
+- [What Is AGENTS.md? How Coding Agents Read Your Docs](https://dev.to/docstar_io/what-is-agentsmd-how-coding-agents-read-your-docs-45k5)
+- [When Customers Stop Searching Websites: How Businesses Can Be Found in AI Conversations](https://dev.to/sauliussteponkus/when-customers-stop-searching-websites-how-businesses-can-be-found-in-ai-conversations-4d65)
 <!-- BLOG-POST-LIST:END -->
 
 
