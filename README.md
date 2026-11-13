@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [ImageMagick Is a Processing Dependency, Not a Reliable Internet Fingerprint](https://dev.to/kozhevniko/imagemagick-is-a-processing-dependency-not-a-reliable-internet-fingerprint-1e3)
-- [Let users retry the same photo in a JavaScript file picker](https://dev.to/morphio/let-users-retry-the-same-photo-in-a-javascript-file-picker-3386)
-- [What Is AGENTS.md? How Coding Agents Read Your Docs](https://dev.to/docstar_io/what-is-agentsmd-how-coding-agents-read-your-docs-45k5)
-- [When Customers Stop Searching Websites: How Businesses Can Be Found in AI Conversations](https://dev.to/sauliussteponkus/when-customers-stop-searching-websites-how-businesses-can-be-found-in-ai-conversations-4d65)
+- [The progress bar that made typing lag: debugging a 331 ms INP in a React game](https://dev.to/axyj/the-progress-bar-that-made-typing-lag-debugging-a-331-ms-inp-in-a-react-game-1940)
+- [Harness Engineering - Best Practices](https://dev.to/gitaroktato/harness-engineering-practices-1m6p)
+- [Django&#39;s Tasks API Ships Without a Worker](https://dev.to/papansarkar101/djangos-tasks-api-ships-without-a-worker-je8)
+- [Giving your AI agent access to public data: one MCP server for weather, earthquakes, finance, and government open data](https://dev.to/ocean1547ui/giving-your-ai-agent-access-to-public-data-one-mcp-server-for-weather-earthquakes-finance-and-abi)
 <!-- BLOG-POST-LIST:END -->
 
 
