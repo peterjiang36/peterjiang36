@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The progress bar that made typing lag: debugging a 331 ms INP in a React game](https://dev.to/axyj/the-progress-bar-that-made-typing-lag-debugging-a-331-ms-inp-in-a-react-game-1940)
-- [Harness Engineering - Best Practices](https://dev.to/gitaroktato/harness-engineering-practices-1m6p)
-- [Django&#39;s Tasks API Ships Without a Worker](https://dev.to/papansarkar101/djangos-tasks-api-ships-without-a-worker-je8)
-- [Giving your AI agent access to public data: one MCP server for weather, earthquakes, finance, and government open data](https://dev.to/ocean1547ui/giving-your-ai-agent-access-to-public-data-one-mcp-server-for-weather-earthquakes-finance-and-abi)
+- [4EverAble2Shell chain plants Monero miners on 21 N-central servers](https://dev.to/randomchaos/4everable2shell-chain-plants-monero-miners-on-21-n-central-servers-35p6)
+- [Security Risks of Deploying Vibe-Coded Apps to Production, and Who Fixes Each One](https://dev.to/noahcontrolplane/security-risks-of-deploying-vibe-coded-apps-to-production-and-who-fixes-each-one-3pg5)
+- [10 Tips for Getting Natural-Sounding AI Voice Output](https://dev.to/voice_developer/10-tips-for-getting-natural-sounding-ai-voice-output-66n)
+- [The Redis Service Count Cannot Identify Valkey Cluster Mode](https://dev.to/andreagomez/the-redis-service-count-cannot-identify-valkey-cluster-mode-5h8d)
 <!-- BLOG-POST-LIST:END -->
 
 
