@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Free LLM APIs for coding assistants](https://dev.to/shiva_prasad_cc614c6ee026/free-llm-apis-for-coding-assistants-11me)
-- [An AI Security Audit Found 31 Holes in My App. I Fixed Them in a Day.](https://dev.to/elliot_brenya/an-ai-security-audit-found-31-holes-in-my-app-i-fixed-them-in-a-day-1717)
-- [The Intruder in the Palm of Your Hand](https://dev.to/nabbisen/the-intruder-in-the-palm-of-your-hand-465c)
-- [Why I Built a 100% Ad-Free, 3-Second Daily Expense Tracker PWA &lpar;React + Firebase + GitHub Actions&rpar; published: true](https://dev.to/zunaro_labs_601543d953eff/why-i-built-a-100-ad-free-3-second-daily-expense-tracker-pwa-react-firebase-github-actions-1a81)
+- [Reading a SQLite Database With the macOS CLI Left an Empty WAL File and Tripped My Freshness Alarm](https://dev.to/hexisteme/reading-a-sqlite-database-with-the-macos-cli-left-an-empty-wal-file-and-tripped-my-freshness-alarm-mpi)
+- [I read the system prompts of the most-viewed n8n AI agents. Most never say what to do when they don&#39;t know.](https://dev.to/druveai/i-read-the-system-prompts-of-the-most-viewed-n8n-ai-agents-most-never-say-what-to-do-when-they-26lg)
+- [Standup Anxiety: Why Sprint Planning Makes Developers Panic — CBT Reframes That Help](https://dev.to/473185670/standup-anxiety-why-sprint-planning-makes-developers-panic-cbt-reframes-that-help-lnl)
+- [Standup Anxiety: Why Sprint Planning Makes Developers Panic](https://dev.to/473185670/standup-anxiety-why-sprint-planning-makes-developers-panic-1ema)
 <!-- BLOG-POST-LIST:END -->
 
 
