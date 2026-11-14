@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;All tests pass&quot; is a claim, not evidence: 5 ways an agent gets to green without fixing anything](https://dev.to/hwu121380afk/all-tests-pass-is-a-claim-not-evidence-5-ways-an-agent-gets-to-green-without-fixing-anything-2g05)
-- [Real-Estate Retrieval with Postgres: Incremental Indexing for Listing Discovery in 2026](https://dev.to/jorisrhodes8286/real-estate-retrieval-with-postgres-incremental-indexing-for-listing-discovery-in-2026-24al)
-- [A Tiny Static Build for Policy Pages, Not a Plugin](https://dev.to/loveydovey/a-tiny-static-build-for-policy-pages-not-a-plugin-9ja)
-- [Handling Google Search Console API 403 Errors When Automating URL Inspections in Next.js](https://dev.to/aditya_ekka_pulseroi/handling-google-search-console-api-403-errors-when-automating-url-inspections-in-nextjs-1np5)
+- [Dev Challenge](https://dev.to/aliyumuhammadabdulkadir212alt/dev-challenge-6h0)
+- [I Built a Lightweight Onboarding Checklist Library in TypeScript](https://dev.to/ahlgren1234/i-built-a-lightweight-onboarding-checklist-library-in-typescript-1n94)
+- [The $10 Billion Bug: How a Single Logic Error in CrowdStrike Grounded the World&#39;s Airlines](https://dev.to/rdin777/the-10-billion-bug-how-a-single-logic-error-in-crowdstrike-grounded-the-worlds-airlines-2gc3)
+- [Designing a Go Service Around Work That Takes Time](https://dev.to/waire/designing-a-go-service-around-work-that-takes-time-1nio)
 <!-- BLOG-POST-LIST:END -->
 
 
