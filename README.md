@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [4EverAble2Shell chain plants Monero miners on 21 N-central servers](https://dev.to/randomchaos/4everable2shell-chain-plants-monero-miners-on-21-n-central-servers-35p6)
-- [Security Risks of Deploying Vibe-Coded Apps to Production, and Who Fixes Each One](https://dev.to/noahcontrolplane/security-risks-of-deploying-vibe-coded-apps-to-production-and-who-fixes-each-one-3pg5)
-- [10 Tips for Getting Natural-Sounding AI Voice Output](https://dev.to/voice_developer/10-tips-for-getting-natural-sounding-ai-voice-output-66n)
-- [The Redis Service Count Cannot Identify Valkey Cluster Mode](https://dev.to/andreagomez/the-redis-service-count-cannot-identify-valkey-cluster-mode-5h8d)
+- [&quot;All tests pass&quot; is a claim, not evidence: 5 ways an agent gets to green without fixing anything](https://dev.to/hwu121380afk/all-tests-pass-is-a-claim-not-evidence-5-ways-an-agent-gets-to-green-without-fixing-anything-2g05)
+- [Real-Estate Retrieval with Postgres: Incremental Indexing for Listing Discovery in 2026](https://dev.to/jorisrhodes8286/real-estate-retrieval-with-postgres-incremental-indexing-for-listing-discovery-in-2026-24al)
+- [A Tiny Static Build for Policy Pages, Not a Plugin](https://dev.to/loveydovey/a-tiny-static-build-for-policy-pages-not-a-plugin-9ja)
+- [Handling Google Search Console API 403 Errors When Automating URL Inspections in Next.js](https://dev.to/aditya_ekka_pulseroi/handling-google-search-console-api-403-errors-when-automating-url-inspections-in-nextjs-1np5)
 <!-- BLOG-POST-LIST:END -->
 
 
