@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Decompiling a WinForms app: reconstructing the Designer&#39;&#39;s InitializeComponent and resources](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-a-winforms-app-reconstructing-the-designers-initializecomponent-and-resources-2j32)
-- [A Windows tweak needs an “unsupported” state before it needs an “Apply” button](https://dev.to/inputlag/a-windows-tweak-needs-an-unsupported-state-before-it-needs-an-apply-button-51cp)
-- [Sorting download quality options honestly: best first, labelled with what each file really is](https://dev.to/mobeenahmedgondal/sorting-download-quality-options-honestly-best-first-labelled-with-what-each-file-really-is-264o)
-- [Fix: SQL Server Connections Stay Open After Update](https://dev.to/debugradar/fix-sql-server-connections-stay-open-after-update-ic1)
+- [Robotics Engineering Standards — HRS-006: Communication [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-006-communication-kr-nil)
+- [Robotics Engineering Standards — HRS-005: Grounding [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-005-grounding-kr-1no5)
+- [Robotics Engineering Standards — HRS-004: Fuse Protection [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-004-fuse-protection-kr-3151)
+- [Robotics Engineering Standards — HRS-003: Connector Selection [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-003-connector-selection-kr-m0p)
 <!-- BLOG-POST-LIST:END -->
 
 
