@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Challenge](https://dev.to/aliyumuhammadabdulkadir212alt/dev-challenge-6h0)
-- [I Built a Lightweight Onboarding Checklist Library in TypeScript](https://dev.to/ahlgren1234/i-built-a-lightweight-onboarding-checklist-library-in-typescript-1n94)
-- [The $10 Billion Bug: How a Single Logic Error in CrowdStrike Grounded the World&#39;s Airlines](https://dev.to/rdin777/the-10-billion-bug-how-a-single-logic-error-in-crowdstrike-grounded-the-worlds-airlines-2gc3)
-- [Designing a Go Service Around Work That Takes Time](https://dev.to/waire/designing-a-go-service-around-work-that-takes-time-1nio)
+- [Decompiling a WinForms app: reconstructing the Designer&#39;&#39;s InitializeComponent and resources](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-a-winforms-app-reconstructing-the-designers-initializecomponent-and-resources-2j32)
+- [A Windows tweak needs an “unsupported” state before it needs an “Apply” button](https://dev.to/inputlag/a-windows-tweak-needs-an-unsupported-state-before-it-needs-an-apply-button-51cp)
+- [Sorting download quality options honestly: best first, labelled with what each file really is](https://dev.to/mobeenahmedgondal/sorting-download-quality-options-honestly-best-first-labelled-with-what-each-file-really-is-264o)
+- [Fix: SQL Server Connections Stay Open After Update](https://dev.to/debugradar/fix-sql-server-connections-stay-open-after-update-ic1)
 <!-- BLOG-POST-LIST:END -->
 
 
