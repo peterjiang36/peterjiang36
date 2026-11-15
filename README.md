@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My security tool missed my reverse proxy going down. So warden v3 watches the boxes too](https://dev.to/iam-tech/my-security-tool-missed-my-reverse-proxy-going-down-so-warden-v3-watches-the-boxes-too-gp7)
-- [Benchmarking LLM Inference Needs a Real Load Client](https://dev.to/neticslabs/benchmarking-llm-inference-needs-a-real-load-client-3ggm)
-- [codecov/codecov-action failed to properly upload report on v4](https://dev.to/kalemi/codecovcodecov-action-failed-to-properly-upload-report-on-v4-4nnp)
-- [GitHub Actions cache: keys, scopes and the limits that decide a hit](https://dev.to/kalemi/github-actions-cache-keys-scopes-and-the-limits-that-decide-a-hit-4529)
+- [Depth Video Structure Replay: Rebuilding a New World From Extracted Motion and Camera](https://dev.to/ai-ksk/depth-video-structure-replay-rebuilding-a-new-world-from-extracted-motion-and-camera-2fp1)
+- [Buscando una oportunidad remota como desarrollador backend o full-stack](https://dev.to/ariel_edmilzon_luna/buscando-una-oportunidad-remota-como-desarrollador-backend-o-full-stack-1jp1)
+- [How to verify a J-cut or L-cut in an exported MP4](https://dev.to/valmera/how-to-verify-a-j-cut-or-l-cut-in-an-exported-mp4-3jh0)
+- [Writing a comparison page that says &#39;not affiliated&#39;: honest competitor mentions for SEO](https://dev.to/mobeenahmedgondal/writing-a-comparison-page-that-says-not-affiliated-honest-competitor-mentions-for-seo-odp)
 <!-- BLOG-POST-LIST:END -->
 
 
