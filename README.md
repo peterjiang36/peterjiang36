@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Voice Recordings into Useful Technical Notes with SpeedTranscript](https://dev.to/o_oliver_3b38e6829628a1e9/turn-voice-recordings-into-useful-technical-notes-with-speedtranscript-314f)
-- [FaceStealer: Fake Video Conferences and Recorded Footage Used to Induce Self-Infection and Steal Cryptocurrency and Developer Accounts](https://dev.to/anoymask/facestealer-fake-video-conferences-and-recorded-footage-used-to-induce-self-infection-and-steal-k6j)
-- [Play Console Account: Complete Guide for Developers](https://dev.to/playconsolestore1/play-console-account-complete-guide-for-developers-49jb)
-- [How did Microsoft outage affect you? Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this happens again?](https://dev.to/debashish_ghosal/how-did-microsoft-outage-affect-you-were-you-tempted-or-forced-to-use-some-other-app-is-your-28jh)
+- [My security tool missed my reverse proxy going down. So warden v3 watches the boxes too](https://dev.to/iam-tech/my-security-tool-missed-my-reverse-proxy-going-down-so-warden-v3-watches-the-boxes-too-gp7)
+- [Benchmarking LLM Inference Needs a Real Load Client](https://dev.to/neticslabs/benchmarking-llm-inference-needs-a-real-load-client-3ggm)
+- [codecov/codecov-action failed to properly upload report on v4](https://dev.to/kalemi/codecovcodecov-action-failed-to-properly-upload-report-on-v4-4nnp)
+- [GitHub Actions cache: keys, scopes and the limits that decide a hit](https://dev.to/kalemi/github-actions-cache-keys-scopes-and-the-limits-that-decide-a-hit-4529)
 <!-- BLOG-POST-LIST:END -->
 
 
