@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Depth Video Structure Replay: Rebuilding a New World From Extracted Motion and Camera](https://dev.to/ai-ksk/depth-video-structure-replay-rebuilding-a-new-world-from-extracted-motion-and-camera-2fp1)
-- [Buscando una oportunidad remota como desarrollador backend o full-stack](https://dev.to/ariel_edmilzon_luna/buscando-una-oportunidad-remota-como-desarrollador-backend-o-full-stack-1jp1)
-- [How to verify a J-cut or L-cut in an exported MP4](https://dev.to/valmera/how-to-verify-a-j-cut-or-l-cut-in-an-exported-mp4-3jh0)
-- [Writing a comparison page that says &#39;not affiliated&#39;: honest competitor mentions for SEO](https://dev.to/mobeenahmedgondal/writing-a-comparison-page-that-says-not-affiliated-honest-competitor-mentions-for-seo-odp)
+- [My Cron Job Returns 200 When Every Fetch Fails](https://dev.to/nabeelbaghoor/my-cron-job-returns-200-when-every-fetch-fails-13k5)
+- [[CVE-2026-126187] — Unauthenticated RCE in React Server Components&#39; Flight Protocol](https://dev.to/guidance_white/cve-2026-126187-unauthenticated-rce-in-react-server-components-flight-protocol-5e4h)
+- [3.6x faster local LLM decoding under load, and the six rows where we lose](https://dev.to/corpunum/36x-faster-local-llm-decoding-under-load-and-the-six-rows-where-we-lose-2gkm)
+- [How to Scrape Otomoto Car Listings in Python with Otomoto Scraper](https://dev.to/reventadata/how-to-scrape-otomoto-car-listings-in-python-with-otomoto-scraper-2df6)
 <!-- BLOG-POST-LIST:END -->
 
 
