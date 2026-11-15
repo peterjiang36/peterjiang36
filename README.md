@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Robotics Engineering Standards — HRS-006: Communication [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-006-communication-kr-nil)
-- [Robotics Engineering Standards — HRS-005: Grounding [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-005-grounding-kr-1no5)
-- [Robotics Engineering Standards — HRS-004: Fuse Protection [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-004-fuse-protection-kr-3151)
-- [Robotics Engineering Standards — HRS-003: Connector Selection [KR]](https://dev.to/richard_minsoogo/robotics-engineering-standards-hrs-003-connector-selection-kr-m0p)
+- [Turn Voice Recordings into Useful Technical Notes with SpeedTranscript](https://dev.to/o_oliver_3b38e6829628a1e9/turn-voice-recordings-into-useful-technical-notes-with-speedtranscript-314f)
+- [FaceStealer: Fake Video Conferences and Recorded Footage Used to Induce Self-Infection and Steal Cryptocurrency and Developer Accounts](https://dev.to/anoymask/facestealer-fake-video-conferences-and-recorded-footage-used-to-induce-self-infection-and-steal-k6j)
+- [Play Console Account: Complete Guide for Developers](https://dev.to/playconsolestore1/play-console-account-complete-guide-for-developers-49jb)
+- [How did Microsoft outage affect you? Were you tempted or forced to use some other app? Is your organization showing any backup plans for when this happens again?](https://dev.to/debashish_ghosal/how-did-microsoft-outage-affect-you-were-you-tempted-or-forced-to-use-some-other-app-is-your-28jh)
 <!-- BLOG-POST-LIST:END -->
 
 
