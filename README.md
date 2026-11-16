@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I Turned My Reading List Into Clean Markdown Notes With One API Call](https://dev.to/visionwei/i-turned-my-reading-list-into-clean-markdown-notes-with-one-api-call-4bnm)
-- [The files that have to sit in the project, and must not be in Git](https://dev.to/xingyuli/the-files-that-have-to-sit-in-the-project-and-must-not-be-in-git-l52)
-- [I Built GIF Tools That Run 100% in the Browser - No Uploads, No Server](https://dev.to/gifcove/i-built-gif-tools-that-run-100-in-the-browser-no-uploads-no-server-4e2)
-- [Tracking Error vs Tracking Difference: A Python Example](https://dev.to/siftingio/tracking-error-vs-tracking-difference-a-python-example-3oh1)
+- [Hardening Cloudflare Workers Email Routing: Production Lessons from maillab/cloud-mail](https://dev.to/nathan_cross/hardening-cloudflare-workers-email-routing-production-lessons-from-maillabcloud-mail-43bp)
+- [My tool used to show what my AI agent read. Now it blocks first.](https://dev.to/kozerkarol/my-tool-used-to-show-what-my-ai-agent-read-now-it-blocks-first-4l5a)
+- [Weekly Digest Recovery Using FIFO Queue Webhook Deduplication and Idempotency Keys](https://dev.to/brodyvance2149/weekly-digest-recovery-using-fifo-queue-webhook-deduplication-and-idempotency-keys-2475)
+- [Node.js Media Renewal Jobs: At-Least-Once Replay Governance for Duplicate Processing](https://dev.to/bartholomewvance6831/nodejs-media-renewal-jobs-at-least-once-replay-governance-for-duplicate-processing-2c1e)
 <!-- BLOG-POST-LIST:END -->
 
 
