@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [An HO-4 policy is a rule engine: four traps when modeling insurance clauses as data](https://dev.to/succday/an-ho-4-policy-is-a-rule-engine-four-traps-when-modeling-insurance-clauses-as-data-2bcn)
-- [Data Extraction Using Read-Only Replicated Data](https://dev.to/himanshubhambri/data-extraction-using-read-only-replicated-data-3a64)
-- [Goal Engineering: ออกแบบเป้าหมายเอเจนต์ให้คนสอนได้](https://dev.to/sarantoon/goal-engineering-kaebbepaahmaayeecchntaihkhnsnaid-1cmb)
-- [Base64 vs Hex, Base32 and ASCII85: Encodings Compared](https://dev.to/toolstead/base64-vs-hex-base32-and-ascii85-encodings-compared-2f22)
+- [I Turned My Reading List Into Clean Markdown Notes With One API Call](https://dev.to/visionwei/i-turned-my-reading-list-into-clean-markdown-notes-with-one-api-call-4bnm)
+- [The files that have to sit in the project, and must not be in Git](https://dev.to/xingyuli/the-files-that-have-to-sit-in-the-project-and-must-not-be-in-git-l52)
+- [I Built GIF Tools That Run 100% in the Browser - No Uploads, No Server](https://dev.to/gifcove/i-built-gif-tools-that-run-100-in-the-browser-no-uploads-no-server-4e2)
+- [Tracking Error vs Tracking Difference: A Python Example](https://dev.to/siftingio/tracking-error-vs-tracking-difference-a-python-example-3oh1)
 <!-- BLOG-POST-LIST:END -->
 
 
