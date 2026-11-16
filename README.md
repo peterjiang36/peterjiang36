@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Cron Job Returns 200 When Every Fetch Fails](https://dev.to/nabeelbaghoor/my-cron-job-returns-200-when-every-fetch-fails-13k5)
-- [[CVE-2026-126187] — Unauthenticated RCE in React Server Components&#39; Flight Protocol](https://dev.to/guidance_white/cve-2026-126187-unauthenticated-rce-in-react-server-components-flight-protocol-5e4h)
-- [3.6x faster local LLM decoding under load, and the six rows where we lose](https://dev.to/corpunum/36x-faster-local-llm-decoding-under-load-and-the-six-rows-where-we-lose-2gkm)
-- [How to Scrape Otomoto Car Listings in Python with Otomoto Scraper](https://dev.to/reventadata/how-to-scrape-otomoto-car-listings-in-python-with-otomoto-scraper-2df6)
+- [An HO-4 policy is a rule engine: four traps when modeling insurance clauses as data](https://dev.to/succday/an-ho-4-policy-is-a-rule-engine-four-traps-when-modeling-insurance-clauses-as-data-2bcn)
+- [Data Extraction Using Read-Only Replicated Data](https://dev.to/himanshubhambri/data-extraction-using-read-only-replicated-data-3a64)
+- [Goal Engineering: ออกแบบเป้าหมายเอเจนต์ให้คนสอนได้](https://dev.to/sarantoon/goal-engineering-kaebbepaahmaayeecchntaihkhnsnaid-1cmb)
+- [Base64 vs Hex, Base32 and ASCII85: Encodings Compared](https://dev.to/toolstead/base64-vs-hex-base32-and-ascii85-encodings-compared-2f22)
 <!-- BLOG-POST-LIST:END -->
 
 
