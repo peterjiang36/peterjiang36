@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [What Platforms Support Teams of AI Agents Working Together? A Practical Comparison](https://dev.to/herve_kom_ae5e908620d11bc/what-platforms-support-teams-of-ai-agents-working-together-a-practical-comparison-21md)
-- [🚀 **What happens when you give AI its own world to explore, experiment, build and learn?** Welcome to **AI Playground** 🤖🌍](https://dev.to/jaypee_2de6db397980219fcd/what-happens-when-you-give-ai-its-own-world-to-explore-experiment-build-and-learn-welcome-2dn4)
-- [Best Data Migration Tool for Teams That Work Across Databases](https://dev.to/dbslice/best-data-migration-tool-for-teams-that-work-across-databases-26km)
-- [What I got wrong building Kimetra, a keyboard and mouse library for Node.js](https://dev.to/-saad/what-i-got-wrong-building-kimetra-a-keyboard-and-mouse-library-for-nodejs-3c59)
+- [Recipient Suppression: A Guide to SMS Event Notifications for Developer Onboarding](https://dev.to/hayessterling2614/recipient-suppression-a-guide-to-sms-event-notifications-for-developer-onboarding-98d)
+- [19 visitors, 1 star, 1,416 clones: what a launch actually looked like](https://dev.to/jjjjjjjjnnjnn/19-visitors-1-star-1416-clones-what-a-launch-actually-looked-like-43pi)
+- [Zero Cloud, Zero Liability: Engineering Client-Side Media Pipelines](https://dev.to/ruslanower/zero-cloud-zero-liability-engineering-client-side-media-pipelines-3kg)
+- [Let&#39;s Connect! I&#39;m Looking to Make Developer Friends Around the World 🌍](https://dev.to/chle_martin/lets-connect-im-looking-to-make-developer-friends-around-the-world-14ed)
 <!-- BLOG-POST-LIST:END -->
 
 
