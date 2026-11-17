@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Ferramentas open-source para criação de vídeo com IA e código](https://dev.to/victor_hugo_a07c85ac09eea/ferramentas-open-source-para-criacao-de-video-com-ia-e-codigo-3con)
-- [How Publishers Use AI Voice for Audiobook Production](https://dev.to/voice_developer/how-publishers-use-ai-voice-for-audiobook-production-1ffk)
-- [Comparing Azure Foundry: Version Isolation vs Single Endpoint](https://dev.to/amitesh0512/comparing-azure-foundry-version-isolation-vs-single-endpoint-h5p)
-- [AI Proved Signal&#39;s Encryption in 4 Weeks. Here&#39;s What It Actually Proved](https://dev.to/euk_ela_a3e7ed01aa3f7314e/ai-proved-signals-encryption-in-4-weeks-heres-what-it-actually-proved-3i9a)
+- [What Platforms Support Teams of AI Agents Working Together? A Practical Comparison](https://dev.to/herve_kom_ae5e908620d11bc/what-platforms-support-teams-of-ai-agents-working-together-a-practical-comparison-21md)
+- [🚀 **What happens when you give AI its own world to explore, experiment, build and learn?** Welcome to **AI Playground** 🤖🌍](https://dev.to/jaypee_2de6db397980219fcd/what-happens-when-you-give-ai-its-own-world-to-explore-experiment-build-and-learn-welcome-2dn4)
+- [Best Data Migration Tool for Teams That Work Across Databases](https://dev.to/dbslice/best-data-migration-tool-for-teams-that-work-across-databases-26km)
+- [What I got wrong building Kimetra, a keyboard and mouse library for Node.js](https://dev.to/-saad/what-i-got-wrong-building-kimetra-a-keyboard-and-mouse-library-for-nodejs-3c59)
 <!-- BLOG-POST-LIST:END -->
 
 
