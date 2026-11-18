@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Recipient Suppression: A Guide to SMS Event Notifications for Developer Onboarding](https://dev.to/hayessterling2614/recipient-suppression-a-guide-to-sms-event-notifications-for-developer-onboarding-98d)
-- [19 visitors, 1 star, 1,416 clones: what a launch actually looked like](https://dev.to/jjjjjjjjnnjnn/19-visitors-1-star-1416-clones-what-a-launch-actually-looked-like-43pi)
-- [Zero Cloud, Zero Liability: Engineering Client-Side Media Pipelines](https://dev.to/ruslanower/zero-cloud-zero-liability-engineering-client-side-media-pipelines-3kg)
-- [Let&#39;s Connect! I&#39;m Looking to Make Developer Friends Around the World 🌍](https://dev.to/chle_martin/lets-connect-im-looking-to-make-developer-friends-around-the-world-14ed)
+- [Nvidia&#39;s Gross Margin Dropped 3 Points. Here&#39;s What Vera Rubin Ramp Is Actually Burning](https://dev.to/euk_ela_a3e7ed01aa3f7314e/nvidias-gross-margin-dropped-3-points-heres-what-vera-rubin-ramp-is-actually-burning-461o)
+- [REA Is Gaining Attention. It Made Me Wonder: Can AI Analyze My Strategy from Its Live Trading Logs?](https://dev.to/quant001/rea-is-gaining-attention-it-made-me-wonder-can-ai-analyze-my-strategy-from-its-live-trading-logs-2fci)
+- [Handling Scheduled Email Timeouts with Idempotency](https://dev.to/raylabs/handling-scheduled-email-timeouts-with-idempotency-1f1l)
+- [Build a small LLM security-review harness: scout, hunt, disprove, write it down](https://dev.to/rokkhe/build-a-small-llm-security-review-harness-scout-hunt-disprove-write-it-down-21m)
 <!-- BLOG-POST-LIST:END -->
 
 
