@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple HTML Card for a Local Football Match](https://dev.to/adamshoret1990/a-simple-html-card-for-a-local-football-match-9gp)
-- [Giving agents a directory that can&#39;t act behind the owner&#39;s back](https://dev.to/doubleohnewsandshop/giving-agents-a-directory-that-cant-act-behind-the-owners-back-29ai)
-- [A Steam Deck Readiness Pass for Your PC Build: What to Check Before You Submit for Review](https://dev.to/juegostudiosofficial/a-steam-deck-readiness-pass-for-your-pc-build-what-to-check-before-you-submit-for-review-2kl0)
-- [Build a Review Queue for AI Staging, Starting with a Failed Alignment](https://dev.to/stagingbench/build-a-review-queue-for-ai-staging-starting-with-a-failed-alignment-2522)
+- [The Code Took Two Days. Everything After That Was the Job.](https://dev.to/roylevy/the-code-took-two-days-everything-after-that-was-the-job-2enj)
+- [Escribí las reglas antes de ver los resultados &lpar;y descarté la que &quot;casi&quot; pasaba&rpar;](https://dev.to/jesusaco/escribi-las-reglas-antes-de-ver-los-resultados-y-descarte-la-que-casi-pasaba-3647)
+- [GPT‑6.2 Astra 与 Sol：API 价格与任务测试观察](https://dev.to/arthur1988/gpt-62-astra-yu-solapi-jie-ge-yu-ren-wu-ce-shi-guan-cha-23ec)
+- [A 5-task benchmark to test whether your AGENTS.md actually works](https://dev.to/altros_experiments/a-5-task-benchmark-to-test-whether-your-agentsmd-actually-works-1j3m)
 <!-- BLOG-POST-LIST:END -->
 
 
