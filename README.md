@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Nvidia&#39;s Gross Margin Dropped 3 Points. Here&#39;s What Vera Rubin Ramp Is Actually Burning](https://dev.to/euk_ela_a3e7ed01aa3f7314e/nvidias-gross-margin-dropped-3-points-heres-what-vera-rubin-ramp-is-actually-burning-461o)
-- [REA Is Gaining Attention. It Made Me Wonder: Can AI Analyze My Strategy from Its Live Trading Logs?](https://dev.to/quant001/rea-is-gaining-attention-it-made-me-wonder-can-ai-analyze-my-strategy-from-its-live-trading-logs-2fci)
-- [Handling Scheduled Email Timeouts with Idempotency](https://dev.to/raylabs/handling-scheduled-email-timeouts-with-idempotency-1f1l)
-- [Build a small LLM security-review harness: scout, hunt, disprove, write it down](https://dev.to/rokkhe/build-a-small-llm-security-review-harness-scout-hunt-disprove-write-it-down-21m)
+- [A Simple HTML Card for a Local Football Match](https://dev.to/adamshoret1990/a-simple-html-card-for-a-local-football-match-9gp)
+- [Giving agents a directory that can&#39;t act behind the owner&#39;s back](https://dev.to/doubleohnewsandshop/giving-agents-a-directory-that-cant-act-behind-the-owners-back-29ai)
+- [A Steam Deck Readiness Pass for Your PC Build: What to Check Before You Submit for Review](https://dev.to/juegostudiosofficial/a-steam-deck-readiness-pass-for-your-pc-build-what-to-check-before-you-submit-for-review-2kl0)
+- [Build a Review Queue for AI Staging, Starting with a Failed Alignment](https://dev.to/stagingbench/build-a-review-queue-for-ai-staging-starting-with-a-failed-alignment-2522)
 <!-- BLOG-POST-LIST:END -->
 
 
