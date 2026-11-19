@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [The Code Took Two Days. Everything After That Was the Job.](https://dev.to/roylevy/the-code-took-two-days-everything-after-that-was-the-job-2enj)
-- [Escribí las reglas antes de ver los resultados &lpar;y descarté la que &quot;casi&quot; pasaba&rpar;](https://dev.to/jesusaco/escribi-las-reglas-antes-de-ver-los-resultados-y-descarte-la-que-casi-pasaba-3647)
-- [GPT‑6.2 Astra 与 Sol：API 价格与任务测试观察](https://dev.to/arthur1988/gpt-62-astra-yu-solapi-jie-ge-yu-ren-wu-ce-shi-guan-cha-23ec)
-- [A 5-task benchmark to test whether your AGENTS.md actually works](https://dev.to/altros_experiments/a-5-task-benchmark-to-test-whether-your-agentsmd-actually-works-1j3m)
+- [Deduplicate Content Candidates Before AI Generation](https://dev.to/raylabs/deduplicate-content-candidates-before-ai-generation-5hki)
+- [Round 6: 82 Points, One Reused Proof, and a Confirmed Rule](https://dev.to/ethang/round-6-82-points-one-reused-proof-and-a-confirmed-rule-1kmn)
+- [New DEV Milestone✨](https://dev.to/rupaligauravaram/new-dev-milestone-50em)
+- [Ahsay Backup Administration Needs More Than a Hidden Login Page](https://dev.to/johnettagaweraks/ahsay-backup-administration-needs-more-than-a-hidden-login-page-2poc)
 <!-- BLOG-POST-LIST:END -->
 
 
