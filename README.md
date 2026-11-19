@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Retiring a Windows Server 2016 Box Role by Role Before January 12, 2027](https://dev.to/upriteservices/retiring-a-windows-server-2016-box-role-by-role-before-january-12-2027-3807)
-- [How Excel&#39;s 65K Row Limit Lost 16,000 COVID Tests](https://dev.to/doogal/how-excels-65k-row-limit-lost-16000-covid-tests-3pm5)
-- [How Google Translate Works](https://dev.to/paragonai/how-google-translate-works-2d34)
-- [Parkinson&#39;s Law](https://dev.to/linkbenjamin/parkinsons-law-1b98)
+- [I audited 40 side projects. What I removed mattered more than what I built.](https://dev.to/hylst/i-audited-40-side-projects-what-i-removed-mattered-more-than-what-i-built-1gp6)
+- [A reconciliation file for CSV imports](https://dev.to/vibecodingbyice/a-reconciliation-file-for-csv-imports-5ape)
+- [Cron Scheduler Cost: Compare Scheduled Data Cleanup Through Idempotent Webhook Retries](https://dev.to/zeligholloway9071/cron-scheduler-cost-compare-scheduled-data-cleanup-through-idempotent-webhook-retries-4jic)
+- [Why I built a habit tracker that forgives missed days](https://dev.to/awaitlabs_94d90585bb11178/why-i-built-a-habit-tracker-that-forgives-missed-days-243g)
 <!-- BLOG-POST-LIST:END -->
 
 
