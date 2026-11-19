@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Deduplicate Content Candidates Before AI Generation](https://dev.to/raylabs/deduplicate-content-candidates-before-ai-generation-5hki)
-- [Round 6: 82 Points, One Reused Proof, and a Confirmed Rule](https://dev.to/ethang/round-6-82-points-one-reused-proof-and-a-confirmed-rule-1kmn)
-- [New DEV Milestone✨](https://dev.to/rupaligauravaram/new-dev-milestone-50em)
-- [Ahsay Backup Administration Needs More Than a Hidden Login Page](https://dev.to/johnettagaweraks/ahsay-backup-administration-needs-more-than-a-hidden-login-page-2poc)
+- [Retiring a Windows Server 2016 Box Role by Role Before January 12, 2027](https://dev.to/upriteservices/retiring-a-windows-server-2016-box-role-by-role-before-january-12-2027-3807)
+- [How Excel&#39;s 65K Row Limit Lost 16,000 COVID Tests](https://dev.to/doogal/how-excels-65k-row-limit-lost-16000-covid-tests-3pm5)
+- [How Google Translate Works](https://dev.to/paragonai/how-google-translate-works-2d34)
+- [Parkinson&#39;s Law](https://dev.to/linkbenjamin/parkinsons-law-1b98)
 <!-- BLOG-POST-LIST:END -->
 
 
