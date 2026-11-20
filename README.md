@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I audited 40 side projects. What I removed mattered more than what I built.](https://dev.to/hylst/i-audited-40-side-projects-what-i-removed-mattered-more-than-what-i-built-1gp6)
-- [A reconciliation file for CSV imports](https://dev.to/vibecodingbyice/a-reconciliation-file-for-csv-imports-5ape)
-- [Cron Scheduler Cost: Compare Scheduled Data Cleanup Through Idempotent Webhook Retries](https://dev.to/zeligholloway9071/cron-scheduler-cost-compare-scheduled-data-cleanup-through-idempotent-webhook-retries-4jic)
-- [Why I built a habit tracker that forgives missed days](https://dev.to/awaitlabs_94d90585bb11178/why-i-built-a-habit-tracker-that-forgives-missed-days-243g)
+- [Why Multi-Agent Systems Get More Expensive — Routing, Handoffs, and Quadratic Cost](https://dev.to/laolei/why-multi-agent-systems-get-more-expensive-routing-handoffs-and-quadratic-cost-5bpe)
+- [How I Turned a Website into a Seeded 3D Map](https://dev.to/dofy/how-i-turned-a-website-into-a-seeded-3d-map-26km)
+- [MiMo TTS API: Turn Text into a Playable WAV File](https://dev.to/por_ty_35eac5b9bfc8b95909/mimo-tts-api-turn-text-into-a-playable-wav-file-56bb)
+- [ฟีเจอร์ใหม่ใน PostgreSQL 19 ที่นักพัฒนา API ต้องรู้](https://dev.to/thanawat_wonchai/fiiecchraihmain-postgresql-19-thiinakphathnaa-api-tngruu-205g)
 <!-- BLOG-POST-LIST:END -->
 
 
