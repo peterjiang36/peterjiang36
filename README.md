@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Multi-Agent Systems Get More Expensive — Routing, Handoffs, and Quadratic Cost](https://dev.to/laolei/why-multi-agent-systems-get-more-expensive-routing-handoffs-and-quadratic-cost-5bpe)
-- [How I Turned a Website into a Seeded 3D Map](https://dev.to/dofy/how-i-turned-a-website-into-a-seeded-3d-map-26km)
-- [MiMo TTS API: Turn Text into a Playable WAV File](https://dev.to/por_ty_35eac5b9bfc8b95909/mimo-tts-api-turn-text-into-a-playable-wav-file-56bb)
-- [ฟีเจอร์ใหม่ใน PostgreSQL 19 ที่นักพัฒนา API ต้องรู้](https://dev.to/thanawat_wonchai/fiiecchraihmain-postgresql-19-thiinakphathnaa-api-tngruu-205g)
+- [Instalar un navegador de archivos self-hosted como APK de Android &lpar;solo 64 bits, y eso importa&rpar;](https://dev.to/_c5679ef7c86ab2dfdde7d/instalar-un-navegador-de-archivos-self-hosted-como-apk-de-android-solo-64-bits-y-eso-importa-2hg0)
+- [53 tables hold the hard facts on our site, and the only hand-built one announces a column as NotebookFree](https://dev.to/daniel_pertu/53-tables-hold-the-hard-facts-on-our-site-and-the-only-hand-built-one-announces-a-column-as-29d1)
+- [&quot;I ranked #1 on x402 Bazaar for hash, base64 and uuid: the serviceName change that did it&quot;](https://dev.to/llmrt/i-ranked-1-on-x402-bazaar-for-hash-base64-and-uuid-the-servicename-change-that-did-it-528b)
+- [AICost: an independent price desk for LLM API costs](https://dev.to/solo_stack_0a3a91be4bceab/aicost-an-independent-price-desk-for-llm-api-costs-3a7j)
 <!-- BLOG-POST-LIST:END -->
 
 
