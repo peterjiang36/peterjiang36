@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Instalar un navegador de archivos self-hosted como APK de Android &lpar;solo 64 bits, y eso importa&rpar;](https://dev.to/_c5679ef7c86ab2dfdde7d/instalar-un-navegador-de-archivos-self-hosted-como-apk-de-android-solo-64-bits-y-eso-importa-2hg0)
-- [53 tables hold the hard facts on our site, and the only hand-built one announces a column as NotebookFree](https://dev.to/daniel_pertu/53-tables-hold-the-hard-facts-on-our-site-and-the-only-hand-built-one-announces-a-column-as-29d1)
-- [&quot;I ranked #1 on x402 Bazaar for hash, base64 and uuid: the serviceName change that did it&quot;](https://dev.to/llmrt/i-ranked-1-on-x402-bazaar-for-hash-base64-and-uuid-the-servicename-change-that-did-it-528b)
-- [AICost: an independent price desk for LLM API costs](https://dev.to/solo_stack_0a3a91be4bceab/aicost-an-independent-price-desk-for-llm-api-costs-3a7j)
+- [&quot;Connected&quot; is not a diagnosis: three readings that are](https://dev.to/quickqhandbook/connected-is-not-a-diagnosis-three-readings-that-are-5280)
+- [Why avatar image public URLs stop working with private object storage and signed URLs](https://dev.to/kendrickberg5327/why-avatar-image-public-urls-stop-working-with-private-object-storage-and-signed-urls-1n32)
+- [From a messy CSV export to a release note: one task, nine small browser tools](https://dev.to/theomnikit/from-a-messy-csv-export-to-a-release-note-one-task-nine-small-browser-tools-4a00)
+- [How Promises Work: Building a Promise Core in TypeScript](https://dev.to/nodaldot/how-promises-work-building-a-promise-core-in-typescript-1p7l)
 <!-- BLOG-POST-LIST:END -->
 
 
