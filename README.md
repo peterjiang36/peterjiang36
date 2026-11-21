@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Seven everyday dev chores, before and after: the one-liner vs the browser tab](https://dev.to/theomnikit/seven-everyday-dev-chores-before-and-after-the-one-liner-vs-the-browser-tab-4cm9)
-- [SSD vs HDD: What Actually Changes When You Switch](https://dev.to/smarttechnoit/ssd-vs-hdd-what-actually-changes-when-you-switch-28o4)
-- [Verus bridge lost $11.7M and every proof was valid](https://dev.to/qanzhi111/verus-bridge-lost-117m-and-every-proof-was-valid-137k)
-- [Writing SQL basic queries](https://dev.to/denoh/writing-sql-basic-queries-2ieb)
+- [Day 16: Every Number I Chased Was in a Different Place](https://dev.to/yoonjikimkr/day-16-every-number-i-chased-was-in-a-different-place-fa6)
+- [Crypto Recovery Scams: How Fake Fund Recovery Services Target Hack Victims and 7 Red Flags](https://dev.to/zayd_ahmed/crypto-recovery-scams-how-fake-fund-recovery-services-target-hack-victims-and-7-red-flags-2779)
+- [Why my fact-checking extension is allowed to say &quot;unclear&quot;](https://dev.to/el_tayeb_8d6005c72721785b/why-my-fact-checking-extension-is-allowed-to-say-unclear-28a7)
+- [HUSH: a horror game that hears your heartbeat &lpar;Presage SmartSpectra challenge&rpar;](https://dev.to/amitksh/hush-a-horror-game-that-hears-your-heartbeat-presage-smartspectra-challenge-297)
 <!-- BLOG-POST-LIST:END -->
 
 
