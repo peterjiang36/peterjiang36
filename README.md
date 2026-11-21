@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [1,930 Listings, 700 Calls: An Agent Marketplace&#39;s Long Tail](https://dev.to/minia2a/1930-listings-700-calls-an-agent-marketplaces-long-tail-975)
-- [Recover Orphaned API Key Usage — Service Attribution During Property Event Outages](https://dev.to/celthyrdusk7341/recover-orphaned-api-key-usage-service-attribution-during-property-event-outages-3n4p)
-- [Build log #1: how the Lab to Prod pipeline runs](https://dev.to/nghiep_phamquoc_568df0fe/build-log-1-how-the-lab-to-prod-pipeline-runs-43aj)
-- [This week in Limitcast: safer trims, fresher forecasts and hooks that stay intact](https://dev.to/samstull9007/this-week-in-limitcast-safer-trims-fresher-forecasts-and-hooks-that-stay-intact-3pio)
+- [Seven everyday dev chores, before and after: the one-liner vs the browser tab](https://dev.to/theomnikit/seven-everyday-dev-chores-before-and-after-the-one-liner-vs-the-browser-tab-4cm9)
+- [SSD vs HDD: What Actually Changes When You Switch](https://dev.to/smarttechnoit/ssd-vs-hdd-what-actually-changes-when-you-switch-28o4)
+- [Verus bridge lost $11.7M and every proof was valid](https://dev.to/qanzhi111/verus-bridge-lost-117m-and-every-proof-was-valid-137k)
+- [Writing SQL basic queries](https://dev.to/denoh/writing-sql-basic-queries-2ieb)
 <!-- BLOG-POST-LIST:END -->
 
 
