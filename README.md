@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16: Every Number I Chased Was in a Different Place](https://dev.to/yoonjikimkr/day-16-every-number-i-chased-was-in-a-different-place-fa6)
-- [Crypto Recovery Scams: How Fake Fund Recovery Services Target Hack Victims and 7 Red Flags](https://dev.to/zayd_ahmed/crypto-recovery-scams-how-fake-fund-recovery-services-target-hack-victims-and-7-red-flags-2779)
-- [Why my fact-checking extension is allowed to say &quot;unclear&quot;](https://dev.to/el_tayeb_8d6005c72721785b/why-my-fact-checking-extension-is-allowed-to-say-unclear-28a7)
-- [HUSH: a horror game that hears your heartbeat &lpar;Presage SmartSpectra challenge&rpar;](https://dev.to/amitksh/hush-a-horror-game-that-hears-your-heartbeat-presage-smartspectra-challenge-297)
+- [Did my AI agent actually book the appointment it said it booked?](https://dev.to/rambozambo/did-my-ai-agent-actually-book-the-appointment-it-said-it-booked-59h6)
+- [My AI agent retried a call and paid twice. How do I prevent it?](https://dev.to/rambozambo/my-ai-agent-retried-a-call-and-paid-twice-how-do-i-prevent-it-269c)
+- [Is it safe to let an AI agent spend my money?](https://dev.to/rambozambo/is-it-safe-to-let-an-ai-agent-spend-my-money-1941)
+- [How do I know if an AI agent&#39;s work is real or faked?](https://dev.to/rambozambo/how-do-i-know-if-an-ai-agents-work-is-real-or-faked-fdl)
 <!-- BLOG-POST-LIST:END -->
 
 
