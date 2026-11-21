@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Connected&quot; is not a diagnosis: three readings that are](https://dev.to/quickqhandbook/connected-is-not-a-diagnosis-three-readings-that-are-5280)
-- [Why avatar image public URLs stop working with private object storage and signed URLs](https://dev.to/kendrickberg5327/why-avatar-image-public-urls-stop-working-with-private-object-storage-and-signed-urls-1n32)
-- [From a messy CSV export to a release note: one task, nine small browser tools](https://dev.to/theomnikit/from-a-messy-csv-export-to-a-release-note-one-task-nine-small-browser-tools-4a00)
-- [How Promises Work: Building a Promise Core in TypeScript](https://dev.to/nodaldot/how-promises-work-building-a-promise-core-in-typescript-1p7l)
+- [1,930 Listings, 700 Calls: An Agent Marketplace&#39;s Long Tail](https://dev.to/minia2a/1930-listings-700-calls-an-agent-marketplaces-long-tail-975)
+- [Recover Orphaned API Key Usage — Service Attribution During Property Event Outages](https://dev.to/celthyrdusk7341/recover-orphaned-api-key-usage-service-attribution-during-property-event-outages-3n4p)
+- [Build log #1: how the Lab to Prod pipeline runs](https://dev.to/nghiep_phamquoc_568df0fe/build-log-1-how-the-lab-to-prod-pipeline-runs-43aj)
+- [This week in Limitcast: safer trims, fresher forecasts and hooks that stay intact](https://dev.to/samstull9007/this-week-in-limitcast-safer-trims-fresher-forecasts-and-hooks-that-stay-intact-3pio)
 <!-- BLOG-POST-LIST:END -->
 
 
