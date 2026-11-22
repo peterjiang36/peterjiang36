@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why DRAM Reads Are Destructive &lpar;and Why That Explains Half of DDR Timing&rpar;](https://dev.to/open_row_3ba1a2dd6799f1c9/why-dram-reads-are-destructive-and-why-that-explains-half-of-ddr-timing-1lc8)
-- [Why a Practice Mode Needs Its Own URL](https://dev.to/poopleunlimited/why-a-practice-mode-needs-its-own-url-4583)
-- [DDR5 Timing Parameters Explained by Physics &lpar;tRCD, tRAS, tRP, tRRD, tFAW&rpar;](https://dev.to/open_row_3ba1a2dd6799f1c9/ddr5-timing-parameters-explained-by-physics-trcd-tras-trp-trrd-tfaw-429)
-- [TikTok follower counts and video stats in Python: views, likes, shares and saves, no login](https://dev.to/aurelix_solutions/tiktok-follower-counts-and-video-stats-in-python-views-likes-shares-and-saves-no-login-21b1)
+- [Building an Edge AI Vision Pipeline with Jetson, ROS 2 and TensorRT](https://dev.to/vmodal_ai/building-an-edge-ai-vision-pipeline-with-jetson-ros-2-and-tensorrt-474n)
+- [A game where you play the tide, and the city comes back from a nine-character string](https://dev.to/aurum_revenue/a-game-where-you-play-the-tide-and-the-city-comes-back-from-a-nine-character-string-35dp)
+- [One inference box &lpar;DGX Spark&rpar; and multiple use cases...](https://dev.to/harinezumigel/one-inference-box-dgx-spark-and-multiple-use-cases-5h9d)
+- [&quot;Not published&quot; is a value, not a null: modeling unpublished prices and per-item store ranges in a comparison dataset](https://dev.to/bestiptvplayer/not-published-is-a-value-not-a-null-modeling-unpublished-prices-and-per-item-store-ranges-in-a-2703)
 <!-- BLOG-POST-LIST:END -->
 
 
