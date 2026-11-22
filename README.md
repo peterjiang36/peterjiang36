@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Edge AI Vision Pipeline with Jetson, ROS 2 and TensorRT](https://dev.to/vmodal_ai/building-an-edge-ai-vision-pipeline-with-jetson-ros-2-and-tensorrt-474n)
-- [A game where you play the tide, and the city comes back from a nine-character string](https://dev.to/aurum_revenue/a-game-where-you-play-the-tide-and-the-city-comes-back-from-a-nine-character-string-35dp)
-- [One inference box &lpar;DGX Spark&rpar; and multiple use cases...](https://dev.to/harinezumigel/one-inference-box-dgx-spark-and-multiple-use-cases-5h9d)
-- [&quot;Not published&quot; is a value, not a null: modeling unpublished prices and per-item store ranges in a comparison dataset](https://dev.to/bestiptvplayer/not-published-is-a-value-not-a-null-modeling-unpublished-prices-and-per-item-store-ranges-in-a-2703)
+- [How to check if a website runs Shopify and get its contact email, location and apps &lpar;Python, no API key&rpar;](https://dev.to/bamodjak/how-to-check-if-a-website-runs-shopify-and-get-its-contact-email-location-and-apps-python-no-api-3ome)
+- [How an AI Support Agent Learns From Agent Edits](https://dev.to/yzh317179958/how-an-ai-support-agent-learns-from-agent-edits-hhi)
+- [Building a WhatsApp AI assistant for Moroccan businesses &lpar;Darija&rpar; with Next.js, Supabase and Claude](https://dev.to/lamaizi_hajar_b310d8837b4/building-a-whatsapp-ai-assistant-for-moroccan-businesses-darija-with-nextjs-supabase-and-claude-3p7o)
+- [Human-in-the-Loop AI Agents: Who Approves What](https://dev.to/yzh317179958/human-in-the-loop-ai-agents-who-approves-what-4489)
 <!-- BLOG-POST-LIST:END -->
 
 
