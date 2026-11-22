@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Did my AI agent actually book the appointment it said it booked?](https://dev.to/rambozambo/did-my-ai-agent-actually-book-the-appointment-it-said-it-booked-59h6)
-- [My AI agent retried a call and paid twice. How do I prevent it?](https://dev.to/rambozambo/my-ai-agent-retried-a-call-and-paid-twice-how-do-i-prevent-it-269c)
-- [Is it safe to let an AI agent spend my money?](https://dev.to/rambozambo/is-it-safe-to-let-an-ai-agent-spend-my-money-1941)
-- [How do I know if an AI agent&#39;s work is real or faked?](https://dev.to/rambozambo/how-do-i-know-if-an-ai-agents-work-is-real-or-faked-fdl)
+- [Why DRAM Reads Are Destructive &lpar;and Why That Explains Half of DDR Timing&rpar;](https://dev.to/open_row_3ba1a2dd6799f1c9/why-dram-reads-are-destructive-and-why-that-explains-half-of-ddr-timing-1lc8)
+- [Why a Practice Mode Needs Its Own URL](https://dev.to/poopleunlimited/why-a-practice-mode-needs-its-own-url-4583)
+- [DDR5 Timing Parameters Explained by Physics &lpar;tRCD, tRAS, tRP, tRRD, tFAW&rpar;](https://dev.to/open_row_3ba1a2dd6799f1c9/ddr5-timing-parameters-explained-by-physics-trcd-tras-trp-trrd-tfaw-429)
+- [TikTok follower counts and video stats in Python: views, likes, shares and saves, no login](https://dev.to/aurelix_solutions/tiktok-follower-counts-and-video-stats-in-python-views-likes-shares-and-saves-no-login-21b1)
 <!-- BLOG-POST-LIST:END -->
 
 
