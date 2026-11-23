@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH Connection Multiplexing &lpar;ControlMaster&rpar;: Cutting the Wait When You Connect to the Same Server Repeatedly](https://dev.to/susumun/ssh-connection-multiplexing-controlmaster-cutting-the-wait-when-you-connect-to-the-same-server-3c32)
-- [Por dentro dos LLMs: como os modelos de linguagem realmente funcionam](https://dev.to/llma/por-dentro-dos-llms-como-os-modelos-de-linguagem-realmente-funcionam-4nad)
-- [Animal call tests often fire on null data, but most effects still hold](https://dev.to/munimv2/animal-call-tests-often-fire-on-null-data-but-most-effects-still-hold-2kl0)
-- [Compare Two Columns in Google Sheets and Find Duplicates](https://dev.to/snakbacks_sheets/compare-two-columns-in-google-sheets-and-find-duplicates-45o2)
+- [LifeLine: A Health-Monitoring Software for Astronauts](https://dev.to/agsilver26/lifeline-a-health-monitoring-software-for-astronauts-5fj0)
+- [AI-Native Development Framework for European Public Organisations &lpar;AI SDLC - Human Oversight as an Enforceable Control&rpar;](https://dev.to/georgiakali/ai-native-development-framework-for-european-public-organisations-ai-sdlc-human-oversight-as-an-29gj)
+- [Recount your AI agent&#39;s report before you act on it](https://dev.to/arsentev/recount-your-ai-agents-report-before-you-act-on-it-153d)
+- [Why I Chose Software Engineering](https://dev.to/celine_tamba_4ff465d39cd2/why-i-chose-software-engineering-o4h)
 <!-- BLOG-POST-LIST:END -->
 
 
