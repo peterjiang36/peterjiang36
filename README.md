@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [LifeLine: A Health-Monitoring Software for Astronauts](https://dev.to/agsilver26/lifeline-a-health-monitoring-software-for-astronauts-5fj0)
-- [AI-Native Development Framework for European Public Organisations &lpar;AI SDLC - Human Oversight as an Enforceable Control&rpar;](https://dev.to/georgiakali/ai-native-development-framework-for-european-public-organisations-ai-sdlc-human-oversight-as-an-29gj)
-- [Recount your AI agent&#39;s report before you act on it](https://dev.to/arsentev/recount-your-ai-agents-report-before-you-act-on-it-153d)
-- [Why I Chose Software Engineering](https://dev.to/celine_tamba_4ff465d39cd2/why-i-chose-software-engineering-o4h)
+- [Hasty Paste links need a retention policy before reachability becomes exposure](https://dev.to/kozhevniko/hasty-paste-links-need-a-retention-policy-before-reachability-becomes-exposure-3eii)
+- [OffSec Assessment: tomghost &lpar;TryHackMe&rpar; — Penetration Testing Report](https://dev.to/araizcorp/offsec-assessment-tomghost-tryhackme-penetration-testing-report-bdp)
+- [Python Evidence Gates for Startup App Log Management Across Europe and US](https://dev.to/thalion51/python-evidence-gates-for-startup-app-log-management-across-europe-and-us-gal)
+- [Teaching the Agent to Stop Guessing](https://dev.to/consolatacleah/teaching-the-agent-to-stop-guessing-4b3e)
 <!-- BLOG-POST-LIST:END -->
 
 
