@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to check if a website runs Shopify and get its contact email, location and apps &lpar;Python, no API key&rpar;](https://dev.to/bamodjak/how-to-check-if-a-website-runs-shopify-and-get-its-contact-email-location-and-apps-python-no-api-3ome)
-- [How an AI Support Agent Learns From Agent Edits](https://dev.to/yzh317179958/how-an-ai-support-agent-learns-from-agent-edits-hhi)
-- [Building a WhatsApp AI assistant for Moroccan businesses &lpar;Darija&rpar; with Next.js, Supabase and Claude](https://dev.to/lamaizi_hajar_b310d8837b4/building-a-whatsapp-ai-assistant-for-moroccan-businesses-darija-with-nextjs-supabase-and-claude-3p7o)
-- [Human-in-the-Loop AI Agents: Who Approves What](https://dev.to/yzh317179958/human-in-the-loop-ai-agents-who-approves-what-4489)
+- [SSH Connection Multiplexing &lpar;ControlMaster&rpar;: Cutting the Wait When You Connect to the Same Server Repeatedly](https://dev.to/susumun/ssh-connection-multiplexing-controlmaster-cutting-the-wait-when-you-connect-to-the-same-server-3c32)
+- [Por dentro dos LLMs: como os modelos de linguagem realmente funcionam](https://dev.to/llma/por-dentro-dos-llms-como-os-modelos-de-linguagem-realmente-funcionam-4nad)
+- [Animal call tests often fire on null data, but most effects still hold](https://dev.to/munimv2/animal-call-tests-often-fire-on-null-data-but-most-effects-still-hold-2kl0)
+- [Compare Two Columns in Google Sheets and Find Duplicates](https://dev.to/snakbacks_sheets/compare-two-columns-in-google-sheets-and-find-duplicates-45o2)
 <!-- BLOG-POST-LIST:END -->
 
 
