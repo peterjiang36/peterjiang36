@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Hasty Paste links need a retention policy before reachability becomes exposure](https://dev.to/kozhevniko/hasty-paste-links-need-a-retention-policy-before-reachability-becomes-exposure-3eii)
-- [OffSec Assessment: tomghost &lpar;TryHackMe&rpar; — Penetration Testing Report](https://dev.to/araizcorp/offsec-assessment-tomghost-tryhackme-penetration-testing-report-bdp)
-- [Python Evidence Gates for Startup App Log Management Across Europe and US](https://dev.to/thalion51/python-evidence-gates-for-startup-app-log-management-across-europe-and-us-gal)
-- [Teaching the Agent to Stop Guessing](https://dev.to/consolatacleah/teaching-the-agent-to-stop-guessing-4b3e)
+- [Finding a site&#39;s brand color from the console, and why painted area points the wrong way](https://dev.to/casper_tran_59c6a8b1e1f3d/finding-a-sites-brand-color-from-the-console-and-why-painted-area-points-the-wrong-way-4404)
+- [Product management for engineers · 3. Writing a problem statement an engineer can build from](https://dev.to/techamit95ch/product-management-for-engineers-3-writing-a-problem-statement-an-engineer-can-build-from-43d3)
+- [I gave my AI app builder and Lovable the same prompt. Lovable won on one thing.](https://dev.to/durim255/i-gave-my-ai-app-builder-and-lovable-the-same-prompt-lovable-won-on-one-thing-4429)
+- [Figma to WordPress in 2027: Elementor, Divi, Gutenberg or a Custom Theme?](https://dev.to/dmytro_cian/figma-to-wordpress-in-2027-elementor-divi-gutenberg-or-a-custom-theme-49fb)
 <!-- BLOG-POST-LIST:END -->
 
 
