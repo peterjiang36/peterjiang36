@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding a site&#39;s brand color from the console, and why painted area points the wrong way](https://dev.to/casper_tran_59c6a8b1e1f3d/finding-a-sites-brand-color-from-the-console-and-why-painted-area-points-the-wrong-way-4404)
-- [Product management for engineers · 3. Writing a problem statement an engineer can build from](https://dev.to/techamit95ch/product-management-for-engineers-3-writing-a-problem-statement-an-engineer-can-build-from-43d3)
-- [I gave my AI app builder and Lovable the same prompt. Lovable won on one thing.](https://dev.to/durim255/i-gave-my-ai-app-builder-and-lovable-the-same-prompt-lovable-won-on-one-thing-4429)
-- [Figma to WordPress in 2027: Elementor, Divi, Gutenberg or a Custom Theme?](https://dev.to/dmytro_cian/figma-to-wordpress-in-2027-elementor-divi-gutenberg-or-a-custom-theme-49fb)
+- [Patch Prioritization for CVE-2026-86155: Exposure, Reach, and Rollout](https://dev.to/ioneyrezende/patch-prioritization-for-cve-2026-86155-exposure-reach-and-rollout-e2b)
+- [Do you need a seller&#39;s permit? An open dataset for all 50 US states and DC &lpar;CSV, JSON, CC BY 4.0&rpar;](https://dev.to/zylarai/do-you-need-a-sellers-permit-an-open-dataset-for-all-50-us-states-and-dc-csv-json-cc-by-40-3i1n)
+- [Slow WordPress Admin Dashboard: How to Diagnose and Speed Up wp-admin in 2027](https://dev.to/dmytro_cian/slow-wordpress-admin-dashboard-how-to-diagnose-and-speed-up-wp-admin-in-2027-44mc)
+- [Security Assessment: Irked &lpar;Hack The Box&rpar; — Penetration Testing Report](https://dev.to/araizcorp/security-assessment-irked-hack-the-box-penetration-testing-report-5504)
 <!-- BLOG-POST-LIST:END -->
 
 
