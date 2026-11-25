@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Re-downloading the Same 20,000 Images Every Night: Conditional Requests, If-Range and Resumable Downloads in the Browser](https://dev.to/eden_zhang/re-downloading-the-same-20000-images-every-night-conditional-requests-if-range-and-resumable-11dj)
-- [Day 2 of 45: Debugging a JWT Token Expiration Vulnerability](https://dev.to/chioma_nwosu_99d57862fb18/day-2-of-45-debugging-a-jwt-token-expiration-vulnerability-4bif)
-- [What Happens When an API Request Times Out After the Server Has Already Processed It?](https://dev.to/nwajichukwu_goodness_audit/what-happens-when-an-api-request-times-out-after-the-server-has-already-processed-it-2hch)
-- [5 Acceptance Checks Before You Sign Off a Production-Line Barcode Integration](https://dev.to/leo_xu_c1a21a2b1adeba9f0e/5-acceptance-checks-before-you-sign-off-a-production-line-barcode-integration-3a6l)
+- [CVE-2026-132165 no Drupal é explorada em sites reais](https://dev.to/guiadeti/cve-2026-132165-no-drupal-e-explorada-em-sites-reais-24lj)
+- [What I Learned Being A Founding Engineer For The Past Month](https://dev.to/piyush_choudhari_a5b29f7f/what-i-learned-being-a-founding-engineer-for-the-past-month-273o)
+- [Getting started with cesium_dev_kit](https://dev.to/dengxiaoning/getting-started-with-cesiumdevkit-2boh)
+- [How to Build a Human Handoff for an AI Support Bot &lpar;With Code&rpar;](https://dev.to/techowdy_llc/how-to-build-a-human-handoff-for-an-ai-support-bot-with-code-3j6c)
 <!-- BLOG-POST-LIST:END -->
 
 
