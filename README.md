@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-132165 no Drupal é explorada em sites reais](https://dev.to/guiadeti/cve-2026-132165-no-drupal-e-explorada-em-sites-reais-24lj)
-- [What I Learned Being A Founding Engineer For The Past Month](https://dev.to/piyush_choudhari_a5b29f7f/what-i-learned-being-a-founding-engineer-for-the-past-month-273o)
-- [Getting started with cesium_dev_kit](https://dev.to/dengxiaoning/getting-started-with-cesiumdevkit-2boh)
-- [How to Build a Human Handoff for an AI Support Bot &lpar;With Code&rpar;](https://dev.to/techowdy_llc/how-to-build-a-human-handoff-for-an-ai-support-bot-with-code-3j6c)
+- [I built a Code-OSS editor for iPad](https://dev.to/_6a1b3c45cc08bec8733/i-built-a-code-oss-editor-for-ipad-1fne)
+- [Fixing Grade-D Storefront Security Headers + Building Zero-Login ZATCA TLV QR Invoices on Cloudflare Pages](https://dev.to/antigravitydev/fixing-grade-d-storefront-security-headers-building-zero-login-zatca-tlv-qr-invoices-on-4i8p)
+- [Naemon&#39;s Tiny Fingerprint Still Represents a Monitoring Control Plane](https://dev.to/johnettagaweraks/naemons-tiny-fingerprint-still-represents-a-monitoring-control-plane-54ea)
+- [The Doorway Bit: Why a Readable Linux Directory Can Still Refuse Entry](https://dev.to/pbxqdown/the-doorway-bit-why-a-readable-linux-directory-can-still-refuse-entry-17b2)
 <!-- BLOG-POST-LIST:END -->
 
 
