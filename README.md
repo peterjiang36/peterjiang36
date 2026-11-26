@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I switched off a real web app&#39;s server. It still works, and an AI tester proved every interaction.](https://dev.to/iftikar_alam/i-switched-off-a-real-web-apps-server-it-still-works-and-an-ai-tester-proved-every-interaction-4g52)
-- [An Internet Without Us.](https://dev.to/ananyagupta08/an-internet-without-us-3j6o)
-- [From 5 Diagram Types to 100,000+ Stars: Inside Archify v3.3.2 &lpar;Offline Repo Diagnosis, 1080p Story Video &amp; PR Walkthroughs&rpar;](https://dev.to/tta1i/from-5-diagram-types-to-100000-stars-inside-archify-v332-offline-repo-diagnosis-1080p-story-9pp)
-- [AI automated my marketing job. So I made it sing about it.](https://dev.to/soloshenkoukr/ai-automated-my-marketing-job-so-i-made-it-sing-about-it-4kl)
+- [Why Editing /etc/hosts Fails to Block Sites in Modern Chrome &lpar;IPv6, DoH &amp; Path Limits&rpar;](https://dev.to/_0db220eb1b87373faff664/why-editing-etchosts-fails-to-block-sites-in-modern-chrome-ipv6-doh-path-limits-13dk)
+- [Parsing ChatGPT&#39;s Nested Mapping Tree and Export ZIPs in Zero-Dependency Browser JS](https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb)
+- [When is a 2.5 KiB Korean web font enough?](https://dev.to/uulab/when-is-a-25-kib-korean-web-font-enough-11ob)
+- [Why Hoarding Scientific AI Backfires: Vlad Tenev on Lean Verification, Open Discovery, and Broad Ownership](https://dev.to/blobxiaoyao/why-hoarding-scientific-ai-backfires-vlad-tenev-on-lean-verification-open-discovery-and-broad-3fkg)
 <!-- BLOG-POST-LIST:END -->
 
 
