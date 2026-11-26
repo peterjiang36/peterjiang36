@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Code-OSS editor for iPad](https://dev.to/_6a1b3c45cc08bec8733/i-built-a-code-oss-editor-for-ipad-1fne)
-- [Fixing Grade-D Storefront Security Headers + Building Zero-Login ZATCA TLV QR Invoices on Cloudflare Pages](https://dev.to/antigravitydev/fixing-grade-d-storefront-security-headers-building-zero-login-zatca-tlv-qr-invoices-on-4i8p)
-- [Naemon&#39;s Tiny Fingerprint Still Represents a Monitoring Control Plane](https://dev.to/johnettagaweraks/naemons-tiny-fingerprint-still-represents-a-monitoring-control-plane-54ea)
-- [The Doorway Bit: Why a Readable Linux Directory Can Still Refuse Entry](https://dev.to/pbxqdown/the-doorway-bit-why-a-readable-linux-directory-can-still-refuse-entry-17b2)
+- [Scheduling retries in a publishing pipeline #2dz20](https://dev.to/devnote2319/scheduling-retries-in-a-publishing-pipeline-2dz20-4ign)
+- [AI Audit Evidence, Part 9: One &quot;Not Executed&quot; Can Stand for Two Pasts](https://dev.to/rain6fish/ai-audit-evidence-part-9-one-not-executed-can-stand-for-two-pasts-joi)
+- [Building a multi-tenant real-estate CRM for Indian developers: 5 decisions we&#39;d make again](https://dev.to/sthancrm/building-a-multi-tenant-real-estate-crm-for-indian-developers-5-decisions-wed-make-again-4f1h)
+- [Acceptance criteria your AI coding agent can actually test](https://dev.to/web-dev-mehedi/acceptance-criteria-your-ai-coding-agent-can-actually-test-3l1e)
 <!-- BLOG-POST-LIST:END -->
 
 
