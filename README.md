@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Scheduling retries in a publishing pipeline #2dz20](https://dev.to/devnote2319/scheduling-retries-in-a-publishing-pipeline-2dz20-4ign)
-- [AI Audit Evidence, Part 9: One &quot;Not Executed&quot; Can Stand for Two Pasts](https://dev.to/rain6fish/ai-audit-evidence-part-9-one-not-executed-can-stand-for-two-pasts-joi)
-- [Building a multi-tenant real-estate CRM for Indian developers: 5 decisions we&#39;d make again](https://dev.to/sthancrm/building-a-multi-tenant-real-estate-crm-for-indian-developers-5-decisions-wed-make-again-4f1h)
-- [Acceptance criteria your AI coding agent can actually test](https://dev.to/web-dev-mehedi/acceptance-criteria-your-ai-coding-agent-can-actually-test-3l1e)
+- [I switched off a real web app&#39;s server. It still works, and an AI tester proved every interaction.](https://dev.to/iftikar_alam/i-switched-off-a-real-web-apps-server-it-still-works-and-an-ai-tester-proved-every-interaction-4g52)
+- [An Internet Without Us.](https://dev.to/ananyagupta08/an-internet-without-us-3j6o)
+- [From 5 Diagram Types to 100,000+ Stars: Inside Archify v3.3.2 &lpar;Offline Repo Diagnosis, 1080p Story Video &amp; PR Walkthroughs&rpar;](https://dev.to/tta1i/from-5-diagram-types-to-100000-stars-inside-archify-v332-offline-repo-diagnosis-1080p-story-9pp)
+- [AI automated my marketing job. So I made it sing about it.](https://dev.to/soloshenkoukr/ai-automated-my-marketing-job-so-i-made-it-sing-about-it-4kl)
 <!-- BLOG-POST-LIST:END -->
 
 
