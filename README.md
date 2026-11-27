@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Editing /etc/hosts Fails to Block Sites in Modern Chrome &lpar;IPv6, DoH &amp; Path Limits&rpar;](https://dev.to/_0db220eb1b87373faff664/why-editing-etchosts-fails-to-block-sites-in-modern-chrome-ipv6-doh-path-limits-13dk)
-- [Parsing ChatGPT&#39;s Nested Mapping Tree and Export ZIPs in Zero-Dependency Browser JS](https://dev.to/_0db220eb1b87373faff664/parsing-chatgpts-nested-mapping-tree-and-export-zips-in-zero-dependency-browser-js-31cb)
-- [When is a 2.5 KiB Korean web font enough?](https://dev.to/uulab/when-is-a-25-kib-korean-web-font-enough-11ob)
-- [Why Hoarding Scientific AI Backfires: Vlad Tenev on Lean Verification, Open Discovery, and Broad Ownership](https://dev.to/blobxiaoyao/why-hoarding-scientific-ai-backfires-vlad-tenev-on-lean-verification-open-discovery-and-broad-3fkg)
+- [A diagram should be read, not stored](https://dev.to/jxdraws/a-diagram-should-be-read-not-stored-2512)
+- [MeInsert: Edit File Metadata Locally in Your Browser with JavaScript and WebAssembly](https://dev.to/mifada2543/meinsert-edit-file-metadata-locally-in-your-browser-with-javascript-and-webassembly-fb9)
+- [How to Structure a Final Year Project Codebase: Folder Structure for MERN and Laravel](https://dev.to/fyp_services/how-to-structure-a-final-year-project-codebase-folder-structure-for-mern-and-laravel-395f)
+- [How to Prepare for a Final Year Project Viva: The Questions Panels Actually Ask](https://dev.to/fyp_services/how-to-prepare-for-a-final-year-project-viva-the-questions-panels-actually-ask-1glp)
 <!-- BLOG-POST-LIST:END -->
 
 
