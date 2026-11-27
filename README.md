@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [A diagram should be read, not stored](https://dev.to/jxdraws/a-diagram-should-be-read-not-stored-2512)
-- [MeInsert: Edit File Metadata Locally in Your Browser with JavaScript and WebAssembly](https://dev.to/mifada2543/meinsert-edit-file-metadata-locally-in-your-browser-with-javascript-and-webassembly-fb9)
-- [How to Structure a Final Year Project Codebase: Folder Structure for MERN and Laravel](https://dev.to/fyp_services/how-to-structure-a-final-year-project-codebase-folder-structure-for-mern-and-laravel-395f)
-- [How to Prepare for a Final Year Project Viva: The Questions Panels Actually Ask](https://dev.to/fyp_services/how-to-prepare-for-a-final-year-project-viva-the-questions-panels-actually-ask-1glp)
+- [Is Your Network a Residential Proxy Exit? How to Check](https://dev.to/abdullah_afzal/is-your-network-a-residential-proxy-exit-how-to-check-1eod)
+- [Your first enterprise customer asks for SOC 2. You&#39;re a two-person API. Now what?](https://dev.to/allratestodaycom/your-first-enterprise-customer-asks-for-soc-2-youre-a-two-person-api-now-what-4nod)
+- [IndraMQTT vs EMQX: 3.18 QoS 1 throughput in our test](https://dev.to/ankurpaan/indramqtt-vs-emqx-318-x-qos-1-throughput-in-our-test-132g)
+- [I Built a 3D Fertilisation Simulator That Shows the Real Scale of Life&#39;s First Days](https://dev.to/julianneagu/i-built-a-3d-fertilisation-simulator-that-shows-the-real-scale-of-lifes-first-days-1jcp)
 <!-- BLOG-POST-LIST:END -->
 
 
