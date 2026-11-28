@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Your Network a Residential Proxy Exit? How to Check](https://dev.to/abdullah_afzal/is-your-network-a-residential-proxy-exit-how-to-check-1eod)
-- [Your first enterprise customer asks for SOC 2. You&#39;re a two-person API. Now what?](https://dev.to/allratestodaycom/your-first-enterprise-customer-asks-for-soc-2-youre-a-two-person-api-now-what-4nod)
-- [IndraMQTT vs EMQX: 3.18 QoS 1 throughput in our test](https://dev.to/ankurpaan/indramqtt-vs-emqx-318-x-qos-1-throughput-in-our-test-132g)
-- [I Built a 3D Fertilisation Simulator That Shows the Real Scale of Life&#39;s First Days](https://dev.to/julianneagu/i-built-a-3d-fertilisation-simulator-that-shows-the-real-scale-of-lifes-first-days-1jcp)
+- [Canny got too expensive for solo founders. What are people using instead?](https://dev.to/biltly_theboss/canny-got-too-expensive-for-solo-founders-what-are-people-using-instead-4aha)
+- [Benchmarking PHP 8.6 vs 8.5 on Apple Silicon: Native FPM Unix Sockets vs Docker Desktop VirtioFS](https://dev.to/stratos_mac/benchmarking-php-86-vs-85-on-apple-silicon-native-fpm-unix-sockets-vs-docker-desktop-virtiofs-56p4)
+- [Healthtech SMS OTP API — Suppression and Status Polling for Expiring Resets](https://dev.to/radcliffbarrett4718/healthtech-sms-otp-api-suppression-and-status-polling-for-expiring-resets-2dhj)
+- [ARTEX abuse: what agentic attack tooling means for defenders](https://dev.to/arslan578/artex-abuse-what-agentic-attack-tooling-means-for-defenders-1b96)
 <!-- BLOG-POST-LIST:END -->
 
 
