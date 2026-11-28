@@ -74,10 +74,10 @@ For a deeper dive into my personal projects and work experience, feel free to ch
 ### :writing_hand: Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Canny got too expensive for solo founders. What are people using instead?](https://dev.to/biltly_theboss/canny-got-too-expensive-for-solo-founders-what-are-people-using-instead-4aha)
-- [Benchmarking PHP 8.6 vs 8.5 on Apple Silicon: Native FPM Unix Sockets vs Docker Desktop VirtioFS](https://dev.to/stratos_mac/benchmarking-php-86-vs-85-on-apple-silicon-native-fpm-unix-sockets-vs-docker-desktop-virtiofs-56p4)
-- [Healthtech SMS OTP API — Suppression and Status Polling for Expiring Resets](https://dev.to/radcliffbarrett4718/healthtech-sms-otp-api-suppression-and-status-polling-for-expiring-resets-2dhj)
-- [ARTEX abuse: what agentic attack tooling means for defenders](https://dev.to/arslan578/artex-abuse-what-agentic-attack-tooling-means-for-defenders-1b96)
+- [Jak jsme v Chytrém trenérovi stavěli tréninkový plán, který vidí i jídlo a váhu](https://dev.to/jpuidev/jak-jsme-v-chytrem-trenerovi-staveli-treninkovy-plan-ktery-vidi-i-jidlo-a-vahu-4hmi)
+- [Twenty-Seven Days Later: Juniper&#39;s Salt Minion ID Flaw Is Now Exploited](https://dev.to/damiano_builds/twenty-seven-days-later-junipers-salt-minion-id-flaw-is-now-exploited-3eaa)
+- [What &#39;Privacy-First&#39; Image Tooling Actually Means &lpar;and What It Doesn&#39;t Protect You From&rpar;](https://dev.to/gpszxtzys_07fba0736e6ecac/what-privacy-first-image-tooling-actually-means-and-what-it-doesnt-protect-you-from-36hl)
+- [Atom Zero 2.3.0: knows its name, refuses less](https://dev.to/mycute_97b39c4e34027570f9/atom-zero-230-knows-its-name-refuses-less-3lbe)
 <!-- BLOG-POST-LIST:END -->
 
 
